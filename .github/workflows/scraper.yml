@@ -3,7 +3,7 @@ name: Orta Dogu Radar Haber Scraper Botu
 on:
   schedule:
     # Saatte 1 (veya 2 saatte bir) çalıştırır
-    - cron: '0 */2 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch: # GitHub üzerinden manuel tetikleme butonu
 
 jobs:
