@@ -654,3 +654,33 @@ body {
         padding: 16px 12px;
     }
 }
+/* =========================================
+   RASATHANE (MAP) AKTİF YERLEŞİMİ
+   ========================================= */
+.app-main.map-active {
+    grid-template-columns: 1fr var(--sidebar-width) !important;
+}
+/* Rasathane modunda sağdaki kategorileri gizle */
+.app-main.map-active .sidebar-right, 
+.app-main.map-active .sidebar-left {
+    display: none !important;
+}
+/* Akışı sağ sütuna taşı ve daralt */
+.app-main.map-active .feed-container {
+    grid-column: 2 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+}
+.app-main.map-active .feed-header h2 { font-size: 1.1rem; }
+.app-main.map-active .news-card { padding: 12px; }
+.app-main.map-active .news-card h3 { font-size: 1rem; }
+/* Haritayı ana merkeze (sol/orta) al */
+.app-main.map-active .map-container {
+    grid-column: 1 !important;
+    display: flex !important;
+    height: calc(100vh - var(--header-height) - 40px);
+}
+/* Mobil Uyumluluk */
+@media (max-width: 1024px) {
+    .app-main.map-active .feed-container { display: none; }
+}
