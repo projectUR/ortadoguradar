@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import 'dotenv/config';
 import Parser from 'rss-parser';
-import { GoogleGenAI } from '@google/genai';
+import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // API Key Control
 if (!process.env.GEMINI_API_KEY) {
@@ -11,7 +11,7 @@ if (!process.env.GEMINI_API_KEY) {
 }
 
 // Initialize AI and RSS Parser
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+const ai = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const parser = new Parser();
 
 // Data Paths
@@ -88,15 +88,9 @@ LÜTFEN SADECE AŞAĞIDAKİ GİBİ GEÇERLİ BİR KESİN JSON ÇIKTISI VER (Baş
 }`;
 
     try {
-        const response = await ai.models.generateContent({
-            model: 'gemini-2.5-flash',
-            contents: prompt,
-            config: {
-                temperature: 0.2
-            }
-        });
-
-        let text = response.text().trim();
+const model = ai.getGenerativeModel({ model: "gemini-1.5-flash" });
+        const response = await model.generateContent(prompt);
+        let text = response.response.text().trim();
         // Temizleme: Eğer AI başına ve sonuna ```json koyarsa diye
         if (text.startsWith("```json")) text = text.replace("```json", "");
         if (text.startsWith("```")) text = text.replace("```", "");
