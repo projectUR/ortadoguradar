@@ -197,13 +197,12 @@ function applyFilters() {
 
     // Filter by Search (combines title and summary relevance)
     if (STATE.searchQuery.trim() !== '') {
-        const q = STATE.searchQuery;
-        result = result.filter(n =>
-            n.title.toLowerCase().includes(q) ||
-            n.summary.toLowerCase().includes(q)
-        );
-        // Note: Sort by relevance (match frequency/position) and trendscore as requested could be implemented here for advanced matching.
-        // For now, it respects chronological order of the filtered subset.
+        const q = STATE.searchQuery.trim().toLocaleLowerCase('tr-TR');
+        result = result.filter(n => {
+            const title = n.title ? n.title.toLocaleLowerCase('tr-TR') : '';
+            const summary = n.summary ? n.summary.toLocaleLowerCase('tr-TR') : '';
+            return title.includes(q) || summary.includes(q);
+        });
     }
 
     STATE.filteredNews = result;
