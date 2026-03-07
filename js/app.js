@@ -217,25 +217,22 @@ function applyFilters() {
 function switchView(view) {
     if (STATE.viewConfig === view) return;
     STATE.viewConfig = view;
-
+    const mainApp = document.querySelector('.app-main');
     if (view === 'map') {
         DOM.btnFeed.classList.remove('active');
         DOM.btnMap.classList.add('active');
-
-        DOM.secFeed.classList.add('hidden');
+        // Rasathane Modu: Harita merkeze, Akış sağa!
+        mainApp.classList.add('map-active');
         DOM.secMap.classList.remove('hidden');
-
-        // Recompute dimensions for Map
         if (typeof window.invalidateMapSize === 'function') {
             window.invalidateMapSize();
         }
-
     } else {
         DOM.btnMap.classList.remove('active');
         DOM.btnFeed.classList.add('active');
-
+        // Normal Mod: Akış merkeze, Kategoriler sağa!
+        mainApp.classList.remove('map-active');
         DOM.secMap.classList.add('hidden');
-        DOM.secFeed.classList.remove('hidden');
     }
 }
 
