@@ -1,1 +1,77 @@
-[]
+[
+    {
+        "id": "17730186686611rxg6",
+        "title": "İran'daki Çatışmalar Ortasında Petrol Fiyatları Varil Başına 100 Doları Aştı",
+        "summary": "Ham petrol fiyatları, küresel enerji tedarikini tehdit eden geniş çaplı bölgesel bir çatışma nedeniyle %20'ye varan oranlarda artış gösterdi. Bu yükseliş, İran'daki çatışmaların ortasında varil başına 100 doları aşmasına neden oldu.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T01:11:08.661Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773018676314oxgfp",
+        "title": "İran'da Mojtaba Hamenei'nin Dini Lider Olarak Atanması ve İsrail'in Tahran'a Saldırıları",
+        "summary": "ABD ve İsrail'in devam eden saldırıları sırasında İran'ın askeri ve siyasi liderleri Mojtaba Hamenei'ye bağlılıklarını bildirdi. Bu gelişmeler, Mojtaba Hamenei'nin ülkenin dini lideri olarak atanmasıyla yaşandı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T01:11:16.314Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773018691669nstp9",
+        "title": "İran, Ayetullah Hamaney'in oğlunu babasının öldürülmesinin ardından yeni lider olarak atadı",
+        "summary": "İran devlet televizyonu, Uzmanlar Meclisi tarafından yapılan bir duyuruya göre, Mojtaba Hamaney'in ülkenin yeni yüce lideri olarak seçildiğini bildirdi. Bu gelişme, İran'ın siyasi yapısında önemli bir değişikliği işaret etmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T01:11:31.669Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-names-ayatollah-khameneis-son-as-new-leader-after-fathers-killing?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773018699102sbh6d",
+        "title": "İran'dan gelen özüre rağmen füze saldırılarının sürmesi ve Körfez ülkelerinin tepkileri",
+        "summary": "İran Cumhurbaşkanı'nın özür dilemesine karşın, ülkenin komşularına yönelik füze saldırıları devam etmektedir. Bu durum, İran'daki kontrol mekanizması hakkında soruları gündeme getirmekte ve Körfez ülkelerinin bu saldırılara nasıl tepki vereceği merak edilmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T01:11:39.102Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773018706939f09ib",
+        "title": "Gine ana muhalefet partilerini feshetti",
+        "summary": "Gine'de çıkarılan bir kararname ile ana muhalefet partilerinin yasal statüleri ve mal varlıkları ellerinden alındı. Bu gelişme üzerine muhalefet lideri Gine halkını direnişe çağırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T01:11:46.939Z",
+        "location": {
+            "lat": 9.5,
+            "lng": -13.7,
+            "name": "Conakry, Gine"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    }
+]
