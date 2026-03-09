@@ -292,9 +292,24 @@ function googleTranslateElementInit() {
 document.addEventListener('DOMContentLoaded', () => {
     // Dil değiştiğinde çalışacak kod
     const langSelect = document.getElementById('languageSelect');
+    const langIcon = document.getElementById('langIcon'); // Bayrak ikonu için ekledik
+    
+    // Hangi dile hangi bayrak gelecek
+    const flags = {
+        'tr': '🇹🇷',
+        'en': '🇬🇧',
+        'ar': '🇸🇦'
+    };
+
     if (langSelect) {
         langSelect.addEventListener('change', (e) => {
             const targetLang = e.target.value;
+            
+            // Menünün yanındaki bayrağı anında güncelle
+            if (langIcon && flags[targetLang]) {
+                langIcon.textContent = flags[targetLang];
+            }
+
             const selectElement = document.querySelector('.goog-te-combo');
             if (selectElement) {
                 selectElement.value = targetLang;
@@ -303,6 +318,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
 
 // Bootstrap
 document.addEventListener('DOMContentLoaded', initApp);
