@@ -9,6 +9,8 @@ on:
 jobs:
   scrape_news:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - name: 1. Repoyu Kopyala
