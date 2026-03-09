@@ -1,5 +1,80 @@
 [
     {
+        "id": "1773050869799aecoe",
+        "title": "ABD Senatörü Graham'dan İran'a yönelik savaşın petrol kaynaklarıyla ilişkili olduğu iddiası",
+        "summary": "Kıdemli Cumhuriyetçi senatör, İran'a karşı başlatılan savaşın ülkenin petrol kaynakları üzerinde kontrol sağlamak amacıyla yapıldığını ima etti. Bu açıklama, ABD'nin İran'a yönelik olası bir savaşın ekonomik boyutlarına dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T10:07:49.799Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/we-are-going-make-a-tonne-of-money-us-senator-graham-on-us-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773050891507i6aas",
+        "title": "Gönüllüler, Savaşta Yıkılan Sudan'ın En Eski Psikiyatri Hastanesini Yeniden İnşa Ediyor",
+        "summary": "Savaşta yıkılan Sudan'ın en eski psikiyatri hastanesi gönüllüler tarafından yeniden inşa ediliyor. Bu süreçte, yerinden edilmiş Sudanlı bir aile, evlerine döndükten sonra oğullarının uyuşturucu bağımlılığını yenmesine yardımcı olmakta zorluk yaşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T10:08:11.507Z",
+        "location": {
+            "lat": 15.6,
+            "lng": 32.53,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/9/volunteers-rebuild-sudans-oldest-psychiatric-hospital-destroyed-by-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773050914930vqagj",
+        "title": "İran'da Lider Değişimi, Bölgedeki Saldırılar ve Petrol Fiyatları",
+        "summary": "İran'da Mojtaba Hamenei yeni dini lider olarak seçildi. Bölgedeki saldırılar devam ederken, petrol fiyatlarında önemli bir artış yaşandı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T10:08:34.930Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/iran-war-what-is-happening-on-day-10-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177305093725980hyz",
+        "title": "İran kadın futbol takımının otobüsüne Avustralya'da 'kızlarımızı kurtarın' sloganlı protesto",
+        "summary": "Avustralya'da İran kadın futbol takımını taşıyan bir otobüs, bir grup kalabalık tarafından takip edildi. Kalabalıklar, otobüse doğru 'kızlarımızı kurtarın' şeklinde sloganlar attı.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T10:08:57.259Z",
+        "location": {
+            "lat": -33.9,
+            "lng": 151.2,
+            "name": "Sidney, Avustralya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/9/crowd-chants-save-our-girls-at-bus-carrying-iran-womens-team?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177305096463448kr6",
+        "title": "Kanada Başbakanı'nın İran Konusundaki Hızlı Tutumu ve ABD İlişkisi",
+        "summary": "Kanada Başbakanı'nın, Davos'ta yaptığı konuşmayı göz ardı ederek, İran'a yönelik olası bir savaş eğilimine hızla katıldığı belirtilmiştir. Bu durum, Kanada'nın dış politikada ABD'nin adımlarını takip ettiği yönündeki yorumları beraberinde getirmiştir.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T10:09:24.634Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/9/carney-confirms-when-washington-whistles-ottawa-salutes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17730430626766bboc",
         "title": "Asimetrik Savaşın İran'ın Mücadele Potansiyeli Üzerindeki Etkisi",
         "summary": "Savaş durumunda, daha zayıf bir taraf genellikle asimetrik savaş taktiklerine başvurur. Bu haber, İran'ın ABD'ye karşı bu tür taktikleri kullanma olasılığını değerlendirmektedir.",
