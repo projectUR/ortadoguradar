@@ -74,7 +74,11 @@ function updateMapMarkers(newsData) {
             iconAnchor: [10, 10]
         });
 
-        const marker = L.marker([item.location.lat, item.location.lng], {
+                const jitterLat = item.location.lat + (Math.random() - 0.5) * 0.3;
+        const jitterLng = item.location.lng + (Math.random() - 0.5) * 0.3;
+        
+        const marker = L.marker([jitterLat, jitterLng], {
+
             icon: customIcon
         }).addTo(radarMap);
 
