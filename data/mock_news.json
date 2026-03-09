@@ -1,5 +1,110 @@
 [
     {
+        "id": "1773028950372ised8",
+        "title": "İran'dan Özür ve Devam Eden Füze Saldırıları",
+        "summary": "İran Cumhurbaşkanı'ndan bir özür açıklaması gelmesine rağmen, füzelerin komşu ülkeleri vurmaya devam ettiği bildiriliyor. Bu durum, İran'daki kontrol mekanizmaları ve Körfez ülkelerinin bu saldırılara vereceği tepkiler hakkında soruları beraberinde getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T04:02:30.372Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/8/whos-in-control-in-iran-and-how-will-gulf-states-react-to?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773028971569h25xr",
+        "title": "Gine ana muhalefet partilerini feshetti",
+        "summary": "Gine'de çıkarılan bir kararname ile ana muhalefet partilerinin yasal statüleri ve mal varlıkları ellerinden alındı. Muhalefet lideri ise Gineli vatandaşları direnişe çağırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T04:02:51.569Z",
+        "location": {
+            "lat": 9.51,
+            "lng": -13.71,
+            "name": "Gine"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773028997524n6ch2",
+        "title": "İran'ın Yeni Yüce Lideri Mojtaba Hamenei Kimdir?",
+        "summary": "İran'ın yeni yüce lideri olarak adı geçen Mojtaba Hamenei'nin, babasının sert politikalarını sürdürmesi bekleniyor. Genellikle gözlerden uzak duran 56 yaşındaki Hamenei'nin, bu pozisyona gelmesi halinde mevcut siyasi çizgiyi devam ettireceği düşünülüyor.",
+        "category": "Tümü",
+        "timestamp": "2026-03-09T04:03:17.524Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773029023006cjt3q",
+        "title": "İran Savaşı Nedeniyle Petrol Fiyatları 110 Doların Üzerine Çıktı, Borsalar Düştü",
+        "summary": "Enerji arzında yaşanan büyük aksaklıklar, dünya genelinde tüketiciler ve işletmeler için fiyatların artmasına neden olma tehdidi taşıyor. Bu durum, İran'da olası bir savaşın küresel ekonomiye etkilerini gösteriyor.",
+        "category": "Ekonomik",
+        "timestamp": "2026-03-09T04:03:43.006Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773029042304sfsfq",
+        "title": "İran'da Petrol Depolarına Yönelik Saldırılar Rapor Edildi",
+        "summary": "Tahran ve Karaj şehirlerindeki yakıt depolarının gece saatlerinde hedef alındığı bildirildi. Olay yerlerinden paylaşılan videolarda birden fazla noktada büyük yangınlar ve yoğun duman bulutları görüldü.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T04:04:02.304Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773029064591itrxx",
+        "title": "İsrail Özel Kuvvetlerinin Lübnan Köyüne Düzenlediği Baskında Onlarca Kişi Öldü; 40 Yıllık Kalıntılar Aranıyor",
+        "summary": "Lübnan sağlık bakanlığının bildirdiğine göre, İsrail özel kuvvetlerinin Lübnan'da bir köye düzenlediği operasyonda en az 41 kişi hayatını kaybetti ve 40 kişi yaralandı. Operasyonun, 40 yıllık kalıntıları arama amacıyla yapıldığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T04:04:24.591Z",
+        "location": {
+            "lat": 33.8,
+            "lng": 35.8,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17730290844077xp8b",
+        "title": "İsrail Cumhurbaşkanı, İran savaşına ilişkin hukuki şüpheleri 'akıl almaz' bulduğunu belirtti",
+        "summary": "İsrail Cumhurbaşkanı Isaac Herzog, İran'a karşı olası bir savaşın hukuki meşruiyetine dair dile getirilen şüpheleri 'akıl almaz' olarak nitelendirdi. Herzog, İsrail'in eylemlerinin İsrail'in, daha geniş bölgenin ve Avrupa'nın 'meşru müdafaası' adına yapıldığını ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T04:04:44.407Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/clyxp780xvro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773027942421al4z5",
         "title": "Petrol Fiyatları Bölgesel Çatışmanın Yayılmasıyla Varil Başına 100 Doları Aştı",
         "summary": "Ham petrol fiyatları, yaygın bölgesel çatışmanın küresel enerji arzını tehdit etmesiyle yüzde 20'den fazla artış gösterdi. Bu durum, petrolün varil fiyatının 100 doları aşmasına neden oldu.",
