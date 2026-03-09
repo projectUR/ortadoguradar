@@ -34,7 +34,7 @@ async function fetchAndProcessNews() {
                 console.log(`  - İşleniyor: ${item.title}`);
                 const aiResult = await paraphraseWithAI(item, feedConfig.source);
                 if (aiResult) allNews.push(aiResult);
-                await delay(2000);
+                await delay(15000);
             }
         } catch (error) {
             console.error(`❌ ${feedConfig.source} verisi çekilemedi:`, error.message);
