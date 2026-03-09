@@ -199,6 +199,50 @@ body {
     color: var(--text-primary);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
+/* =========================================
+   LANGUAGE SELECTOR
+   ========================================= */
+.lang-selector {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #0f1115;
+    padding: 6px 12px;
+    border-radius: 30px;
+    border: 1px solid var(--border-color);
+    margin-right: 15px;
+}
+
+.lang-selector i {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.lang-selector select {
+    background: transparent;
+    border: none;
+    color: var(--text-primary);
+    font-family: var(--font-main);
+    font-size: 0.9rem;
+    font-weight: 500;
+    outline: none;
+    cursor: pointer;
+    appearance: none; /* Varsayılan ok işaretini gizler, daha temiz görünür */
+}
+
+.lang-selector select option {
+    background-color: var(--bg-surface);
+    color: var(--text-primary);
+}
+
+/* Google Translate Barını Gizleme Hileleri */
+body {
+    top: 0 !important; /* Translate body'i aşağı iter, bunu engelliyoruz */
+}
+.skiptranslate {
+    display: none !important; /* Üstteki çirkin Google barını gizle */
+}
+
 
 /* =========================================
    MAIN LAYOUT
