@@ -22,7 +22,16 @@ const delay = ms => new Promise(res => setTimeout(res, ms));
 
 async function fetchAndProcessNews() {
     console.log("📡 Orta Doğu Radar Botu Başlatıldı...");
-    let allNews = [];
+        let allNews = [];
+    let existingLinks = new Set();
+    
+    // Önceki haberleri oku ki kopya kontrolü yapabilelim
+    if (fs.existsSync(OUTPUT_FILE)) {
+        const fileContent = fs.readFileSync(OUTPUT_FILE, 'utf8');
+        const existingData = JSON.parse(fileContent);
+        existingData.forEach(item => existingLinks.add(item.source));
+    }
+
 
     for (const feedConfig of RSS_FEEDS) {
         console.log(`\n⏳ Veri çekiliyor: ${feedConfig.source}...`);
@@ -30,7 +39,12 @@ async function fetchAndProcessNews() {
             const feed = await parser.parseURL(feedConfig.url);
             const topItems = feed.items.slice(0, 5);
 
-            for (const item of topItems) {
+            for (const item of topItems) {            // Eğer link zaten varsa, atla!
+            if (existingLinks.has(item.link)) {
+                console.log(`  ⏩ Atlandı (Zaten var): ${item.title}`);
+                continue; 
+            }
+
                 console.log(`  - İşleniyor: ${item.title}`);
                 const aiResult = await paraphraseWithAI(item, feedConfig.source);
                 if (aiResult) allNews.push(aiResult);
