@@ -1,5 +1,50 @@
 [
     {
+        "id": "17730709954374wkl3",
+        "title": "İsrail saldırısında Filistinli gazeteci Amal Shamali Gazze'de hayatını kaybetti",
+        "summary": "Katar Radyosu için çalışan gazeteci Amal Shamali, Gazze'nin merkezindeki Nuseyrat mülteci kampına düzenlenen bir İsrail hava saldırısında yaşamını yitirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T15:43:15.437Z",
+        "location": {
+            "lat": 31.46,
+            "lng": 34.4,
+            "name": "Nuseyrat Mülteci Kampı, Gazze Şeridi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/israeli-forces-kill-palestinian-journalist-amal-shamali-in-gaza-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773071014853olyoh",
+        "title": "İsrail'in İran yakıt tesislerine yönelik saldırılarının 'halkın direncini kırmayı' amaçladığı belirtiliyor",
+        "summary": "Analistler, Tahran'ı zehirli bulutlar ve yağmur kaplarken, İsrail'in amacının İran halkının direncini kırmak olduğunu ifade ediyor. Haber, İsrail'in İran'daki yakıt tesislerine yönelik saldırılarını ve bu saldırıların potansiyel hedeflerini ele alıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T15:43:34.853Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/9/israeli-attacks-on-iran-fuel-sites-aim-to-break-resilience-of?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773071050150hng6u",
+        "title": "İsrail, Hizbullah'ın Finans Kurumlarını Vururken Lübnan Görüşme Çağrısı Yaptı",
+        "summary": "İsrail, Al-Qard al-Hasan'a ait şubelere saldırılar düzenledi. Bu gelişmeler üzerine Lübnan Devlet Başkanı, tırmanışı durdurmak amacıyla müzakerelere yeniden başlama konusunda hazır olduğunu ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T15:44:10.150Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/israel-strikes-hezbollah-financial-institutions-as-lebanon-calls-for-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773064485694eif8k",
         "title": "Dünyanın ABD Olmadan İlerleme Zamanı",
         "summary": "Amerika Birleşik Devletleri'nin artık dünya düzeninin garantörü olmak istemediği belirtiliyor. Haberde, bu sorumluluğu diğer ülkelerin üstlenmesi gerektiği ifade ediliyor.",
