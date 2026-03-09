@@ -1,5 +1,50 @@
 [
     {
+        "id": "1773064485694eif8k",
+        "title": "Dünyanın ABD Olmadan İlerleme Zamanı",
+        "summary": "Amerika Birleşik Devletleri'nin artık dünya düzeninin garantörü olmak istemediği belirtiliyor. Haberde, bu sorumluluğu diğer ülkelerin üstlenmesi gerektiği ifade ediliyor.",
+        "category": "Diplomatik",
+        "timestamp": "2026-03-09T13:54:45.694Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/9/it-is-time-for-the-world-to-move-on-without-the-united-states?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17730645231212ceix",
+        "title": "ABD-İsrail'in İran'a Yönelik Geriliminin Gazze Krizini Nasıl Derinleştirdiği",
+        "summary": "Bölgesel çatışmanın genişlemesi, küresel dikkatin başka yöne kaymasına neden olmaktadır. Bu durumla birlikte Gazze, sınır kapanışları, enflasyon ve 'ateşkes' ihlalleri gibi sorunlarla karşı karşıya kalmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T13:55:23.121Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/9/how-us-israel-war-on-iran-deepens-gaza-crisis?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17730645482259t6z4",
+        "title": "Filistin Davası Tarihçisi Walid Khalidi 100 Yaşında Hayatını Kaybetti",
+        "summary": "Filistin davasının önde gelen tarihçilerinden Walid Khalidi, 100 yaşında vefat etti. Nakba'yı belgeleyen ve Filistin Araştırmaları Enstitüsü'nü kuran Khalidi'nin Pazar günü ABD'de vefat ettiği bildirildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-09T13:55:48.225Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/9/walid-khalidi-historian-of-the-palestinian-cause-dies-aged-100?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773057648671yx258",
         "title": "Bahreyn Kralı, İran Saldırılarını Haksız Buldu",
         "summary": "Bahreyn Kralı Hamad bin İsa Al Halife, İran'ın Bahreyn'e yönelik gerçekleştirdiği \"benzeri görülmemiş saldırıların\" \"haklı çıkarılamayacağını\" belirtti.",
