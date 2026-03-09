@@ -1,5 +1,20 @@
 [
     {
+        "id": "17730sadafw",
+        "title": "6 Filistinli öldü!",
+        "summary": "Doktorlar, İsrail saldırısının Gazze'de altı Filistinliyi öldürdüğünü söyledi",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-09T03:06:36.616Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Filistin, Gazze"
+        },
+        "source": "https://www.reuters.com/world/middle-east/israeli-strike-kills-two-palestinians-car-gaza-medics-say-2026-03-08/",
+        "trendScore": 99,
+        "isBreaking": true
+    },
+    {
         "id": "1773025565616dgzzm",
         "title": "Petrol Fiyatları Bölgesel Çatışmaların Ortasında Varil Başına 100 Doları Aştı",
         "summary": "Ham petrol fiyatları, genişleyen bölgesel çatışmanın küresel enerji arzını tehdit etmesiyle yüzde 20'den fazla artış gösterdi. Bu artışla birlikte petrolün varil fiyatı 100 doların üzerine çıktı.",
