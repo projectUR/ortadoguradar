@@ -51,15 +51,19 @@ async function fetchNewsData() {
         let data = await response.json();
 
         // Sort chronologically (newest first)
-        data = data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+               // Sort logic: First by breaking news (true > false), then chronologically (newest first)
+        data = data.sort((a, b) => {
+            // Priority 1: isBreaking
+            if (a.isBreaking && !b.isBreaking) return -1;
+            if (!a.isBreaking && b.isBreaking) return 1;
+            
+            // Priority 2: Recency (Timestamp)
+            return new Date(b.timestamp) - new Date(a.timestamp);
+        });
 
         STATE.news = data;
         STATE.filteredNews = [...data];
-    } catch (err) {
-        console.error("Haberler çekilemedi:", err);
-        DOM.feedContainer.innerHTML = `<div class="loading-state text-orange"><i class="fa-solid fa-triangle-exclamation"></i> Veri yüklenemedi. Lütfen sayfayı yenileyin.</div>`;
-    }
-}
+
 
 // =========================================
 // UI RENDERERS
