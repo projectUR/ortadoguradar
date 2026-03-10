@@ -61,6 +61,22 @@ body {
     overflow: hidden; /* BURASI DEĞİŞTİ */
 }
 
+    line-height: 1.5;
+    overflow: hidden; /* BURASI DEĞİŞTİ */
+}
+
+/* Hide helper */
+.hidden {
+    display: none !important;
+    pointer-events: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    z-index: -9999 !important;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+
 
 /* Scrollbar styling */
 ::-webkit-scrollbar {
