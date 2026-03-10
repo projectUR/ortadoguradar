@@ -123,6 +123,8 @@ function renderNewsCards() {
                     </div>
                     <div class="card-time"><i class="fa-regular fa-clock"></i> ${timeAgo}</div>
                 </div>
+                                ${item.imageUrl ? `<div class="card-image-wrapper"><img src="${item.imageUrl}" alt="Haber Görseli" class="news-image"></div>` : ''}
+
                 <div class="card-body">
                     <h3>${item.title}</h3>
                     <p>${item.summary}</p>
