@@ -215,19 +215,18 @@ function handleGuess(guessedChar) {
     const target = QSTATE.targetChar;
     const isWin = (guessedChar.id === target.id);
 
-    // Compare Attributes
+        // Compare Attributes
     const natMatch = (guessedChar.nationality === target.nationality);
     const roleMatch = (guessedChar.role === target.role);
-    const factionMatch = (guessedChar.faction === target.faction);
     const statusMatch = (guessedChar.status === target.status);
 
     renderGuessRow(guessedChar, [
         { val: guessedChar.name, valid: isWin },
         { val: guessedChar.nationality, valid: natMatch },
         { val: guessedChar.role, valid: roleMatch },
-        { val: guessedChar.faction, valid: factionMatch },
         { val: guessedChar.status, valid: statusMatch }
     ]);
+
 
     updateAttemptsUI();
 
