@@ -1,5 +1,80 @@
 [
     {
+        "id": "1773143649785hhfuh",
+        "title": "Real Madrid - Manchester City Şampiyonlar Ligi Maçı: Takım Haberleri ve Kadrolar",
+        "summary": "Şampiyonlar Ligi son 16 turu mücadelesi öncesinde, Alvaro Arbeloa'nın takımı istikrarsız bir form sergilerken, Premier Lig ekibi Manchester City'nin favori olduğu belirtiliyor.",
+        "category": "Tümü",
+        "timestamp": "2026-03-10T11:54:09.785Z",
+        "location": {
+            "lat": 40.4168,
+            "lng": -3.7038,
+            "name": "Madrid, İspanya"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/10/real-madrid-vs-man-city-champions-league-team-news-start?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17731436751885559p",
+        "title": "Ezan Okunması 'Bomba Tehdidi' Sanılan Yolcu Uçaktan İndirildi",
+        "summary": "Southwest Airlines'a ait bir uçuşta, bir yolcunun ezan okuması yanlışlıkla 'bomba tehdidi' olarak algılandı. Bu yanlış anlaşılma üzerine söz konusu yolcu uçaktan çıkarıldı.",
+        "category": "Toplum ve İnsan Hakları",
+        "timestamp": "2026-03-10T11:54:35.188Z",
+        "location": {
+            "lat": 39.1,
+            "lng": 94.6,
+            "name": "Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/man-removed-from-flight-after-call-to-prayer-was-mistaken-for-bomb-threat?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773143694946vgyql",
+        "title": "İran Füzesi İsrail'in Merkezine İsabet Etti, Saldırılar Tırmanıyor",
+        "summary": "Yayınlanan bir videoda, İran'a ait bir füzenin İsrail'in merkezine isabet ettiği anlar görülüyor. Bu saldırı, iki kişinin ölümüne neden olan füze yağmurunun bir parçasıydı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T11:54:54.946Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 34.78,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iranian-missile-strikes-central-israel-amid-escalating-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773143719451j4jjr",
+        "title": "Haiti'de İnsansız Hava Aracı Saldırılarında Yüzlerce Kişi Hayatını Kaybetti",
+        "summary": "Bir rapora göre, Haiti'de düzenlenen insansız hava aracı saldırılarında 60'ı sivil olmak üzere yüzlerce kişi yaşamını yitirdi. İnsan Hakları İzleme Örgütü, Haiti güçlerinin 2025'ten bu yana Port-au-Prince ve çevresinde gerçekleştirdiği bu saldırılarda 1.200'den fazla kişinin öldüğünü bildirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T11:55:19.451Z",
+        "location": {
+            "lat": 18.53,
+            "lng": -72.33,
+            "name": "Port-au-Prince, Haiti"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/10/hundreds-killed-in-haiti-drone-strikes-including-60-civilians-report?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773143741930sawrh",
+        "title": "Trump'ın İran Savaşı Hakkındaki Sözleri",
+        "summary": "Donald Trump, İran'a karşı savaşı \"kısa süreli bir gezi\" olarak nitelendirdi. Trump, ABD'nin bu konuda zaten \"muazzam bir başarı\" elde ettiğini belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-10T11:55:41.930Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/short-term-excursion-what-trump-said-about-the-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773137210981ym3q3",
         "title": "ABD-İsrail'in İran ile Olası Çatışması Küresel Enflasyonu Körükler mi?",
         "summary": "ABD ve İsrail'in İran ile yaşayabileceği olası bir çatışmanın küresel enflasyon üzerindeki potansiyel etkileri gündemde. Piyasalar, bölgedeki gerilimin her yeni gelişmesine tepki göstererek petrol fiyatlarında dalgalanmalara neden oluyor.",
@@ -671,81 +746,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/opinions/2026/3/9/carney-confirms-when-washington-whistles-ottawa-salutes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17730430626766bboc",
-        "title": "Asimetrik Savaşın İran'ın Mücadele Potansiyeli Üzerindeki Etkisi",
-        "summary": "Savaş durumunda, daha zayıf bir taraf genellikle asimetrik savaş taktiklerine başvurur. Bu haber, İran'ın ABD'ye karşı bu tür taktikleri kullanma olasılığını değerlendirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T07:57:42.676Z",
-        "location": {
-            "lat": 32.5,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/3/9/what-asymmetric-warfare-may-tell-us-about-irans-fighting-chances?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773043083642ifslk",
-        "title": "Kenya'da Günlerdir Süren Sellerde En Az 42 Kişi Hayatını Kaybetti",
-        "summary": "Kenya genelinde günlerdir devam eden sellerde en az 42 kişi yaşamını yitirdi. Yetkililer, başkent Nairobi'de 26 kişinin hayatını kaybettiğini, sel sularının evleri bastığını ve araçları sürüklediğini açıkladı.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-09T07:58:03.642Z",
-        "location": {
-            "lat": -1.29,
-            "lng": 36.82,
-            "name": "Nairobi, Kenya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/at-least-42-people-killed-in-days-of-floods-across-kenya?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773043105686vdbwg",
-        "title": "İran Devrim Muhafızları'ndan ABD-İsrail Saldırıları Sonrası Enerji Savaşı Uyarısı",
-        "summary": "İran Devrim Muhafızları sözcüsü, ABD'nin İran'ın enerji altyapısını bombalayarak savaşta yeni bir sayfa açtığını belirtti. Bu açıklama, ABD ve İsrail'in İran varlıklarına yönelik saldırılarının ardından geldi.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T07:58:25.686Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/9/irgc-warns-of-energy-war-after-us-israeli-strikes-on-iranian-assets?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773043130388g4rzz",
-        "title": "Bangladeş, Orta Doğu'daki çatışmaların yol açtığı kıtlık nedeniyle üniversiteleri kapattı ve yakıt satışını kısıtladı",
-        "summary": "Bangladeş, enerji ihtiyacının %95'ini ithalat yoluyla karşılamaktadır. Orta Doğu'daki çatışmaların neden olduğu tedarik kesintileri, ülkenin enerji arzında aksaklıklara yol açarak bu önlemlerin alınmasına sebep olmuştur.",
-        "category": "Enerji ve Altyapı",
-        "timestamp": "2026-03-09T07:58:50.388Z",
-        "location": {
-            "lat": 23.8,
-            "lng": 90.4,
-            "name": "Dakika, Bangladeş"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773043153284up6fy",
-        "title": "HRW: İsrail Lübnan'da yasa dışı beyaz fosfor kullandı",
-        "summary": "İnsan Hakları İzleme Örgütü (HRW) tarafından doğrulanan görüntüler, İsrail'in Lübnan'ın güneyindeki yerleşim bölgelerine beyaz fosfor attığını gösteriyor. Örgüt, bu kullanımın uluslararası hukuka aykırı olduğunu belirtiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-09T07:59:13.284Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/israel-unlawfully-used-white-phosphorus-in-lebanon-hrw?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
