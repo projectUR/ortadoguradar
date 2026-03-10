@@ -90,6 +90,7 @@ function updateMapMarkers(newsData) {
 
             icon: customIcon
         }).addTo(radarMap);
+        marker.itemData = item;
 
         // Map Popup construction
         const popupContent = `
@@ -105,6 +106,26 @@ function updateMapMarkers(newsData) {
         marker.bindPopup(popupContent);
         mapMarkers.push(marker);
     });
+}
+// Dışarıdan gelen tıklamalarla haritayı ilgili habere odaklar
+window.focusMapOnItem = function(itemId) {
+    if (!radarMap || !mapMarkers) return;
+    
+    const targetMarker = mapMarkers.find(m => m.itemData && m.itemData.id === itemId);
+    if (targetMarker) {
+        if (typeof window.switchView === 'function') {
+            window.switchView('map');
+        }
+        
+        radarMap.flyTo(targetMarker.getLatLng(), 6, {
+            animate: true,
+            duration: 1.5
+        });
+        
+        setTimeout(() => {
+            targetMarker.openPopup();
+        }, 500);
+    }
 }
 
 // Minimal helper to format time inside map popup (kept independent just in case)
