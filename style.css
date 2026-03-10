@@ -61,10 +61,7 @@ body {
     overflow: hidden; /* BURASI DEĞİŞTİ */
 }
 
-    line-height: 1.5;
-    overflow: hidden; /* BURASI DEĞİŞTİ */
-}
-
+  
 /* Hide helper */
 .hidden {
     display: none !important;
