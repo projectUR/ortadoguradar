@@ -436,12 +436,16 @@ body {
     align-items: flex-start;
     margin-bottom: 12px;
     font-size: 0.85rem;
+    gap: 8px;
+    flex-wrap: wrap; /* allow wrapping to avoid overlap */
 }
 
 .card-meta-left {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 8px; /* reduced gap slightly */
+    flex-wrap: wrap; /* handle long categories */
+    max-width: 80%; /* prevent crushing the right area */
 }
 
 .category-tag {
@@ -450,23 +454,29 @@ body {
     padding: 4px 10px;
     border-radius: 20px;
     font-weight: 600;
+    white-space: nowrap; /* keep tag together */
 }
 
 .breaking-tag {
     background: var(--accent-red);
     color: white;
-    padding: 4px 10px;
+    padding: 3px 8px; /* slightly tighter paddings */
     border-radius: 20px;
     font-weight: 700;
+    font-size: 0.75rem; /* slightly smaller font for the badge */
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 4px;
     animation: pulseObj 2s infinite;
+    white-space: nowrap;
 }
 
 .card-time {
     color: var(--text-secondary);
+    white-space: nowrap;
+    margin-left: auto; /* push to the right even if flex wrapped */
 }
+
 
 .card-body h3 {
     font-size: 1.25rem;
