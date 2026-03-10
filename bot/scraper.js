@@ -61,11 +61,15 @@ async function fetchAndProcessNews() {
 }
 
 async function paraphraseWithAI(newsItem, sourceName) {
-    const prompt = `
-Aşağıda İngilizce veya Arapça olabilen bir Orta Doğu haberinin başlığı ve özeti var.
-Bu haberi Türkçe olarak TARAfsız, yorumsuz (paraphrase edilmiş) bir şekilde özetle.
+       const prompt = `
+Aşağıda İngilizce veya Arapça olabilen bir haberin başlığı ve özeti var.
+Bu haberin Orta Doğu coğrafyasına veya Orta Doğu siyasetine (örnek: ABD'nin İran açıklaması, Filistin olayları, Körfez ekonomisi vb.) doğrudan VEYA dolaylı yoldan ilgisi YOKSA (örneğin Şampiyonlar Ligi maçı, Haiti'deki bir olay, Orta Doğu ülkelerini ilgilendirmeyen başka kıtalardaki bir kaza vs. ise), LÜTFEN SADECE null DÖNDÜR. Başka hiçbir şey yazma.
 
-Ayrıca kategorilerden HANGİSİNE uygun seç (Birini seç):
+Eğer haber Orta Doğu'yu ilgilendiriyorsa:
+Bu haberi Türkçe olarak TARAfsız, yorumsuz (paraphrase edilmiş) bir şekilde özetle. Haber ajansı dili kullan.
+
+Ayrıca bu haberin aşağıdaki kategorilerden HANGİSİNE en uygun olduğunu seç (Sadece birini seç):
+
 [Diplomatik, Ekonomik, Çatışma ve Güvenlik, Toplum ve İnsan Hakları, Enerji ve Altyapı, Çevre ve İklim, Tümü]
 
 Son olarak bu haber Orta Doğu'da veya dünyada hangi ülkede/şehirde geçiyor? Ana konumu belirle. Yaklaşık enlem ve boylamını bul.
@@ -76,7 +80,8 @@ HABER İÇERİĞİ/ÖZETİ: ${newsItem.contentSnippet || newsItem.content || new
 SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
 {
   "title": "Türkçe tarafsız başlık",
-  "summary": "Türkçe tarafsız haber özeti (2-3 cümle)",
+  "summary": "Türkçe tarafsız detaylı haber özeti, lütfen haberin önemli tüm detaylarını içeren daha uzun, 4-5 cümlelik zengin ve akıcı bir özet yaz.",
+
   "category": "Seçilen Kategori Adı",
   "location_name": "Şehir, Ülke",
   "lat": 33.0,
@@ -93,6 +98,11 @@ SADECE JSON ÇIKTISI VER (markdown tagi koyma!):
         });
 
         let text = response.text.trim();
+                if (text === 'null') {
+            console.log(`  ⏭️ Atlandı (Orta Doğu ile ilgisiz): ${newsItem.title}`);
+            return null;
+        }
+
 
         if (text.startsWith("```json")) text = text.replace("```json", "");
         if (text.startsWith("```")) text = text.replace("```", "");
