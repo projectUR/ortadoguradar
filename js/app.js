@@ -15,6 +15,7 @@ const STATE = {
 
 // DOM Elements
 const DOM = {
+    logo: document.querySelector('.logo'),
     feedContainer: document.getElementById('newsFeed'),
     trendList: document.getElementById('trendList'),
     categoryList: document.getElementById('categoryList'),
@@ -226,7 +227,8 @@ function setupEventListeners() {
       if (li.id === 'btnShowCountries') {
           DOM.categoryList.classList.add('hidden');
           DOM.countryList.classList.remove('hidden');
-          DOM.categoriesTitleText.innerHTML = '<i class="fa-solid fa-earth-africa"></i> Ülkeler';
+       DOM.categoriesTitleText.innerHTML = 'Ülkeler';
+
           DOM.btnCloseCountries.classList.remove('hidden');
 
           STATE.activeCategory = 'Tümü';
