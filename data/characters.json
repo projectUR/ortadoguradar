@@ -1,0 +1,122 @@
+[
+    {
+        "id": "c1",
+        "name": "Binyamin Netanyahu",
+        "nationality": "İsrailli",
+        "role": "Siyasetçi",
+        "status": "Hayatta",
+        "faction": "İsrail Devleti"
+    },
+    {
+        "id": "c2",
+        "name": "Yahya Sinvar",
+        "nationality": "Filistinli",
+        "role": "Lider",
+        "status": "Çatışmada Öldü",
+        "faction": "Hamas"
+    },
+    {
+        "id": "c3",
+        "name": "İsmail Haniye",
+        "nationality": "Filistinli",
+        "role": "Lider",
+        "status": "Suikast Sonucu Öldü",
+        "faction": "Hamas"
+    },
+    {
+        "id": "c4",
+        "name": "Hasan Nasrallah",
+        "nationality": "Lübnanlı",
+        "role": "Lider",
+        "status": "Suikast Sonucu Öldü",
+        "faction": "Hizbullah"
+    },
+    {
+        "id": "c5",
+        "name": "Ali Hamaney",
+        "nationality": "İranlı",
+        "role": "Dini Lider",
+        "status": "Hayatta",
+        "faction": "İran Devleti"
+    },
+    {
+        "id": "c6",
+        "name": "Kudeym Süleymani",
+        "nationality": "İranlı",
+        "role": "Komutan",
+        "status": "Suikast Sonucu Öldü",
+        "faction": "İran Devrim Muhafızları"
+    },
+    {
+        "id": "c7",
+        "name": "Beşar Esad",
+        "nationality": "Suriyeli",
+        "role": "Siyasetçi",
+        "status": "Bilinmiyor",
+        "faction": "Suriye Devleti"
+    },
+    {
+        "id": "c8",
+        "name": "Muhammed bin Selman",
+        "nationality": "Suudi Arabistanlı",
+        "role": "Prens",
+        "status": "Hayatta",
+        "faction": "Suudi Arabistan"
+    },
+    {
+        "id": "c9",
+        "name": "Recep Tayyip Erdoğan",
+        "nationality": "Türk",
+        "role": "Siyasetçi",
+        "status": "Hayatta",
+        "faction": "Türkiye Devleti"
+    },
+    {
+        "id": "c10",
+        "name": "Mahmud Abbas",
+        "nationality": "Filistinli",
+        "role": "Siyasetçi",
+        "status": "Hayatta",
+        "faction": "El Fetih"
+    },
+    {
+        "id": "c11",
+        "name": "Yoav Gallant",
+        "nationality": "İsrailli",
+        "role": "Asker/Siyasetçi",
+        "status": "Hayatta",
+        "faction": "İsrail Devleti"
+    },
+    {
+        "id": "c12",
+        "name": "Hakan Fidan",
+        "nationality": "Türk",
+        "role": "Diplomat",
+        "status": "Hayatta",
+        "faction": "Türkiye Devleti"
+    },
+    {
+        "id": "c13",
+        "name": "Abdülfettah es-Sisi",
+        "nationality": "Mısırlı",
+        "role": "Siyasetçi",
+        "status": "Hayatta",
+        "faction": "Mısır Devleti"
+    },
+    {
+        "id": "c14",
+        "name": "Enver Sedat",
+        "nationality": "Mısırlı",
+        "role": "Siyasetçi",
+        "status": "Suikast Sonucu Öldü",
+        "faction": "Mısır Devleti"
+    },
+    {
+        "id": "c15",
+        "name": "Nasreddin el-Şair",
+        "nationality": "Filistinli",
+        "role": "Akademisyen/Siyasetçi",
+        "status": "Hayatta",
+        "faction": "Tarafsız (Filistin)"
+    }
+]
