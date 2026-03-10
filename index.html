@@ -36,14 +36,18 @@
                 <i class="fa-solid fa-magnifying-glass"></i>
                 <input type="text" id="searchInput" placeholder="Gündemde ara... (örn: Gazze, Petrol)">
             </div>
-            <div class="view-toggles">
+                       <div class="view-toggles">
                 <button class="toggle-btn active" id="btn-feed" title="Haber Akışı">
                     <i class="fa-solid fa-stream"></i> Akış
                 </button>
                 <button class="toggle-btn" id="btn-map" title="Rasathane (Harita)">
                     <i class="fa-solid fa-earth-asia"></i> Rasathane
                 </button>
+                <button class="toggle-btn" id="btn-quiz" title="Orta Doğu Kimdir? (Oyun)">
+                    <i class="fa-solid fa-gamepad"></i> Oyun
+                </button>
             </div>
+
                                    <!-- Dil Seçici Eklendi -->
             <div class="lang-selector">
 
@@ -112,6 +116,79 @@
             </div>
             <div id="leafletMap"></div>
         </section>
+                <!-- Right / Full Overlay: Map View (Rasathane) -->
+        <section class="map-container hidden" id="mapContainer">
+            <div class="map-overlay-header">
+                <h2>🌍 Rasathane (Isı Haritası)</h2>
+                <div class="legend">
+                    <span class="legend-item"><span class="dot red"></span> Son 6 Saat</span>
+                    <span class="legend-item"><span class="dot green"></span> Son 12 Saat</span>
+                    <span class="legend-item"><span class="dot blue"></span> Son 24 Saat</span>
+                </div>
+            </div>
+            <div id="leafletMap"></div>
+        </section>
+
+        <!-- Full Overlay: Quiz Game (Guess Who) -->
+        <section class="quiz-container hidden" id="quizContainer">
+            <div class="quiz-header">
+                <h2><i class="fa-solid fa-user-secret"></i> Gizli Figürü Tahmin Et</h2>
+                <div class="quiz-status">
+                    <span id="quiz-attempts">Kalan Hak: 6</span>
+                    <div class="attempt-dots" id="attemptDots">
+                        <!-- Dots appended via JS -->
+                    </div>
+                </div>
+            </div>
+            
+            <div class="quiz-search-area">
+                <div class="quiz-input-wrapper">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="quizSearchInput" placeholder="Karakter adı tahmin edin...">
+                </div>
+                <!-- Autocomplete suggestions container -->
+                <ul class="quiz-suggestions hidden" id="quizSuggestions"></ul>
+            </div>
+
+            <!-- Table Header for Characteristics -->
+            <div class="quiz-table-header hidden" id="quizTableHeader">
+                <div class="qt-col">Karakter</div>
+                <div class="qt-col">Uyruk</div>
+                <div class="qt-col">Görev/Rol</div>
+                <div class="qt-col">Fraksiyon</div>
+                <div class="qt-col">Durum</div>
+            </div>
+
+            <!-- Guesses List -->
+            <div class="quiz-guesses" id="quizGuesses">
+                <!-- Javascript will inject guess rows here -->
+            </div>
+
+            <!-- End game modal/overlay -->
+            <div class="quiz-modal hidden" id="quizModal">
+                <div class="quiz-modal-content">
+                    <h3 id="quizResultTitle">Oyun Bitti</h3>
+                    <p id="quizResultMessage">Gizli kişi: <strong>-</strong></p>
+                    <button id="btnRestartQuiz" class="btn-primary">Tekrar Oyna</button>
+                </div>
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- Leaflet.js JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <!-- Custom Scripts -->
+    <script src="js/map.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/quiz.js"></script>
+</body>
+
+</html>
+
 
     </main>
 
