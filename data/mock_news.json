@@ -1,5 +1,230 @@
 [
     {
+        "id": "17732156785881xu62",
+        "title": "İsrail saldırıları Beyrut banliyölerini vurdu",
+        "summary": "İsrail güçleri, Lübnan'ın başkenti Beyrut'un güney banliyölerinde bulunan bir yerleşim bölgesine hava saldırısı gerçekleştirdi. Olay anının kaydedildiği belirtilirken, saldırının bölgedeki gerilimi daha da artırdığı gözlemlendi. Hedeflenen nokta ve saldırının yol açtığı olası can kaybı veya maddi hasara ilişkin henüz resmi bir açıklama yapılmadı. Bu gelişme, Orta Doğu'da devam eden çatışmaların bir parçası olarak değerlendirilirken, uluslararası toplumdan tepkiler gelmesi bekleniyor. Bölge halkı arasında endişe ve belirsizlik hakim.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:54:38.588Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/11/israeli-strikes-hit-beirut-suburbs?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215704509oqoi3",
+        "title": "İran'dan Körfez Ülkelerine Füze ve İHA Saldırıları: Hürmüz Boğazı'nda Gemi Vuruldu",
+        "summary": "İran'ın Körfez ülkelerine yönelik füze ve insansız hava aracı saldırılarını sürdürdüğü, bu saldırılar kapsamında Hürmüz Boğazı'nda bir geminin hedef alındığı bildirildi. Tahran'ın bölgedeki komşularına yönelik günlük baskısını artırdığı belirtilirken, uluslararası toplumun bu duruma tepkisi de yükseliyor. Birleşmiş Milletler Güvenlik Konseyi'nin (BMGK), Körfez İşbirliği Konseyi'nin (KİK) İran'ın komşularına yönelik saldırılarını durdurması çağrısında bulunan teklifini oylamaya hazırlandığı kaydedildi. Bu gelişmeler, bölgedeki gerilimin tırmandığını ve diplomatik çabaların hız kazandığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:55:04.509Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17732157272503f3jv",
+        "title": "İran, ABD ve İsrail Saldırılarında Sivil Kayıpları ve Hasarı Açıkladı",
+        "summary": "İran, ABD ve İsrail tarafından gerçekleştirilen saldırıların 12. gününde, ülke genelinde 1.300'den fazla sivilin hayatını kaybettiğini duyurdu. Yapılan açıklamada, bu saldırılar sonucunda yaklaşık 10.000 sivil hedefin vurulduğu ve büyük çapta maddi hasar meydana geldiği belirtildi. İranlı yetkililer, sivil kayıpların ve altyapıdaki tahribatın boyutuna dikkat çekerek uluslararası toplumu duruma müdahale etmeye çağırdı. Bu gelişmeler, bölgedeki gerilimin tırmandığını ve insani krizin derinleştiğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:55:27.250Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/11/iran-war-what-is-happening-on-day-12-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215783992jxo2o",
+        "title": "Hava Saldırıları Tahran'da Siyah Yağmura ve Benzeri Görülmemiş Kirliliğe Yol Açtı",
+        "summary": "Bilim insanları, geçen ay ABD-İsrail saldırılarının başlamasından bu yana İran'daki en az dört petrol tesisinin hava saldırıları sonucu hasar gördüğünü bildirdi. Bu saldırıların, İran'ın başkenti Tahran'da \"benzeri görülmemiş\" bir kirliliğe ve siyah yağmura neden olduğu belirtildi. Hasar gören petrol tesislerinden kaynaklanan bu çevresel etkinin, bölgedeki hava kalitesi üzerinde ciddi olumsuz sonuçlar doğurduğu ifade edildi. Uzmanlar, durumun çevresel etkilerinin uzun vadeli olabileceği konusunda uyarıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:56:23.992Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215806228l4iso",
+        "title": "İran'da Şehirler Saldırılarla Sarsıldı, Elektrik Kesintileri Yaşandı",
+        "summary": "BBC'ye konuşan Tahran ve Karaj'daki İranlılar, İsrail ve ABD'nin 10 gündür süren saldırılarının ardından yorgun düştüklerini ve uyumakta zorlandıklarını belirtti. Haberlere göre, ülkenin büyük şehirlerinde meydana gelen bu saldırılar nedeniyle elektrik kesintileri yaşandığı ve günlük yaşamın olumsuz etkilendiği ifade edildi. Halk, sürekli devam eden bu durumun psikolojik olarak yıpratıcı olduğunu ve normal bir uyku düzeni arayışında olduklarını dile getirdi. Bölgedeki gerilimin artmasıyla birlikte sivil halkın güvenlik endişeleri de yükseldi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:56:46.228Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215828470y7lff",
+        "title": "Irak'ın başkenti Bağdat'ta yerleşim yerine yakın insansız hava aracı düştü",
+        "summary": "Irak'ın başkenti Bağdat'ta bir insansız hava aracı yerleşim yerine yakın bir noktaya düştü. Olayın ardından görgü tanıkları, şehrin çeşitli mahallelerinde patlama sesleri duyulduğunu bildirdi. Bu gelişme, Irak'taki ABD üslerini hedef alan saldırıların sonrasında bölgedeki gerilimin arttığı bir döneme denk geliyor. İnsansız hava aracının düşüş nedeni ve olası can veya mal kaybı hakkında henüz detaylı bilgi verilmedi. Yetkililer, olaya ilişkin soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:57:08.470Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/drone-crashes-near-residential-home-in-iraqi-capital-baghdad/3859156",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215848128gsco7",
+        "title": "Katar, Bölgesel Gerilimin Ortasında Yeni Füze Saldırısını Engellediğini Duyurdu",
+        "summary": "Katar, devam eden bölgesel gerilimin ortasında başkent Doha üzerinde yeni bir füze saldırısını engellediğini bildirdi. Ülke hava savunma sistemlerinin gelen füzelerle çatışmaya girmesi üzerine başkentte patlama sesleri duyuldu. Bu olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Katar makamları, saldırının kaynağına ilişkin henüz detaylı bir açıklama yapmazken, olayın bölgesel istikrara yönelik potansiyel tehditleri artırdığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:57:28.128Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-says-it-intercepted-new-missile-attack-amid-ongoing-regional-escalation/3859143",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215868841l495h",
+        "title": "İsrail'in Lübnan'a Yönelik Saldırılarında 16 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in Çarşamba sabahından itibaren Lübnan genelinde gerçekleştirdiği hava saldırılarında 16 kişi hayatını kaybederken, 26 kişi yaralandı. Ülkede 2 Mart'tan bu yana devam eden hava saldırıları sonucunda toplamda yaklaşık 570 kişinin yaşamını yitirdiği ve binlerce kişinin yerinden edildiği bildirildi. Bu saldırılar, bölgedeki gerilimin tırmandığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:57:48.841Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-across-lebanon-since-dawn-wednesday-kill-16-wound-26/3859136",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215894620xbhbb",
+        "title": "Bağdat'taki ABD Diplomatik Tesisine İHA Saldırısı Düzenlendiği İddia Edildi",
+        "summary": "Washington Post'un bildirdiğine göre, Irak'ın başkenti Bağdat'ta bulunan bir ABD diplomatik tesisine insansız hava aracıyla saldırı düzenlendi. Bu saldırının, bölgedeki gerilimin tırmandığı bir dönemde, İran yanlısı milisler tarafından gerçekleştirildiği şüpheleniliyor. Olayın, ABD ve İsrail'in İran ile yaşadığı gerilimin ortasında meydana geldiği belirtiliyor. Bölgesel tansiyonun yükseldiği bir süreçte gerçekleşen bu saldırı, Orta Doğu'daki güvenlik durumuna ilişkin endişeleri artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:58:14.620Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/drone-hits-us-diplomatic-facility-in-baghdad-amid-us-israeli-war-with-iran-report/3859060",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17732159160582bcap",
+        "title": "Bağdat'ta bir evin yakınına insansız hava aracı düştü",
+        "summary": "Irak'ın başkenti Bağdat'ta bir insansız hava aracı (İHA) kazası meydana geldi. Olay, Bağdat'ın el-Cihad mahallesinde bir evin yakınında gerçekleşti. Yerel kaynaklardan alınan bilgilere göre, düşen İHA nedeniyle herhangi bir can kaybı ya da yaralanma yaşanmadı. Kazanın nedeni ve İHA'nın kime ait olduğu henüz belirlenemedi. Yetkililer olayla ilgili inceleme başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:58:36.058Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/drone-crashes-near-house-in-baghdad/3859028",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215941702g1twx",
+        "title": "Dubai'de Siren Sesleri: İran Körfez Arap Ülkelerine Yeni Saldırılar Başlattı",
+        "summary": "1News haber ajansının bildirdiğine göre, Birleşik Arap Emirlikleri'nin Dubai kentinde siren sesleri duyulduğu ve İran'ın Körfez Arap ülkelerine yönelik yeni saldırılar başlattığı iddia edildi. Bu gelişmelerin bölgedeki güvenlik durumunu ve gerilimi artırabileceği belirtiliyor. Saldırıların niteliği ve olası etkileri hakkında henüz detaylı bilgi verilmezken, Körfez bölgesindeki ülkelerin gelişmeleri yakından takip ettiği ve güvenlik önlemlerini gözden geçirdiği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:59:01.702Z",
+        "location": {
+            "lat": 25.2,
+            "lng": 55.3,
+            "name": "Dubai, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzR5S1NoTFR6TzhaTjdSaFdBQ0VJV2hZeVhKeDR4bi1LVnpLMkNuWnVBWTRzT2hNckFydW5PanZweHpfTDBPQVQtWEpqT296bU5LX3kwWHhLNWRtQTlXOGpVUmdfSWdScmx5TmZHYW94T3ZiREZ3aGIxTEUyNXpJTnl3SWJraGhFZlJ1TDhmZVJCSnJuZlRrblBFa1dMcVRQVUE?oc=5",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215968278yhzv6",
+        "title": "İran ile Savaş Küresel Ekonomiye Yeni Bir Şok Yaşatıyor",
+        "summary": "İran ile yaşanacak bir savaşın küresel ekonomiye yeni bir şok etkisi yaratacağı belirtildi. Bu durumun, Orta Doğu'daki jeopolitik gerilimlerin artmasıyla birlikte enerji piyasalarında önemli dalgalanmalara yol açabileceği ifade ediliyor. Uluslararası ticaret yollarının güvenliği ve küresel tedarik zincirlerinin istikrarı üzerinde ciddi riskler oluşturabileceği vurgulanıyor. Analistler, böyle bir çatışmanın dünya genelinde enflasyonist baskıları artırarak ekonomik büyümeyi olumsuz etkileyebileceği konusunda uyarıyor.",
+        "category": "Ekonomik",
+        "timestamp": "2026-03-11T07:59:28.278Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTFTZm52dkNxbzRwc2pRYjhBdE5hWVBuNW14c1FLTG5lZW5NSXJGYlRFUnJhM2U4b0R5NGxrX2J6ZFNEQXVQWi1TZmpWajR4allFUE1DT2todTROd1J6Z0NfUF9TV0s3ZlNoSC1reUprenBtMEZid21sbVFxM3A0cTl3?oc=5",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773215993228ihz5o",
+        "title": "Trump'tan İran Hakkında Çelişkili Açıklamalar: Savaş İhtimali ve Petrol Tehditleri",
+        "summary": "ABD Başkanı Trump, İran ile ilgili yaptığı açıklamalarda, bölgedeki olası bir savaşın yakında sona erebileceğini belirtti. Ancak bu açıklamasının hemen ardından, petrol konusunda İran'a yönelik tehditlerini artırdı. Bu durum, ABD'nin İran'a karşı hem diplomatik hem de ekonomik baskı stratejilerini sürdürdüğünü gösteriyor. Açıklamalar, Orta Doğu'daki gerilimin seyrine ilişkin farklı sinyaller içerirken, bölgedeki güvenlik endişelerini de artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T07:59:53.228Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHlheTIxb0dPb0Exd1dLOGxnMHo4Z2dORktTVzhOeU9FQ2QyZ0FYSl9sanZENFE4QUwweWVtYzdZSDRPbmtMa2gzMktGSzR4RXFjcjZ2cUxqVmwzS1M2RmkyRVZBbVFKODBGN05MTnNtQ2hQT1g1eXJETG9wQkFIdS1nWS11RXNEQWF3VGZqRFozQzVkY2ZzVkVHN0VwUFhOckYzTWdzTnMwQQ?oc=5",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773216018767pmx10",
+        "title": "İran'dan İsrail ve Körfez Ülkelerine Saldırılar, ABD Yoğun Saldırı Günü Konusunda Uyardı",
+        "summary": "İran'ın İsrail ve Körfez ülkelerine yönelik saldırılar düzenlediği bildirildi. Bu saldırılar devam ederken, Amerika Birleşik Devletleri'nden bölgedeki durumla ilgili önemli bir uyarı geldi. ABD, söz konusu saldırıların \"en yoğun günü\" olabileceği konusunda dikkat çekti. Bu gelişmeler, Orta Doğu'da artan gerilimi ve potansiyel çatışma riskini gözler önüne sermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T08:00:18.767Z",
+        "location": {
+            "lat": 32,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEt2UzZ5YWpROUpDckp5ZmJiSmhzTGlvSk1aR3BpU3ZTVi1ZZ3VwckVDellFSEhEUGNBTk1OQUgzTWxwZmdETG9KQ1J3dlozV3pkRnIxUWdXTFZQWkhEUEJFZU80WGtSb0NRYzZNVGh3dDMzV05odU14cC1vcnVVRHV3dXU4VUNEeC1ac3hGcXVJcUw5aE5NTkJKSnpHaHIyRF84NW16MEtQVlRNbGc?oc=5",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773216040217vxr6s",
+        "title": "Hegseth: İran Savaşı'ndaki Bugünkü Saldırılar 'En Yoğun' Olacak",
+        "summary": "Hegseth adlı bir ismin açıklamalarına göre, İran ile ilgili devam eden veya beklenen çatışmalar kapsamında gerçekleştirilecek bugünkü saldırıların 'en yoğun' olacağı belirtildi. Bu açıklama, bölgedeki askeri gerilimin ve faaliyetlerin potansiyel olarak artacağına dair bir işaret olarak değerlendiriliyor. Hegseth'in bu yorumu, İran'ı içeren mevcut durumun ciddiyetini ve çatışmanın seyrini etkileyebilecek potansiyel bir dönüm noktasını vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T08:00:40.217Z",
+        "location": {
+            "lat": 35,
+            "lng": 51,
+            "name": "Tahran, İran"
+        },
+        "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDVwN042UXZmcWlLV0FaSEJQdzdfTFRqMFdkb1BseW9PUGVTMURqWHBWRlB2VzJwNk04bU15OGxaenA3Y25PYmZiN0lkLVdXS2ZqZWJkOTlIOVFJbGkxSWNONDJjLUJMcTFxQnRJTWhCOHZzZHlibGNYcXdyWmQ5dG9DTEJrbnVkTDNKZ3FjOU5CS0VZb05PVVA0MTg?oc=5",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177320542872799fec",
         "title": "Beyrut'ta Bir Binada Yangın Çıktı, İsrail Saldırısı İddiaları Gündemde",
         "summary": "Lübnan'ın başkenti Beyrut'ta bir konut binasında yangın çıktığı bildirildi. Görgü tanıkları ve yerel kaynaklar, binanın yan tarafında bir delik oluştuğunu ve buradan alevlerin yükseldiğini belirtti. Olayın, İsrail tarafından gerçekleştirildiği iddia edilen bir saldırı sonucu meydana geldiği öne sürülüyor. Saldırının niteliği ve hedefi hakkında henüz resmi bir açıklama yapılmazken, bölgede gerginliğin arttığı gözlemleniyor. Olay yerine itfaiye ve güvenlik güçleri sevk edildiği, yangını söndürme çalışmalarının devam ettiği öğrenildi.",
@@ -528,231 +753,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iran-says-no-future-negotiations-with-us-after-bitter-experience?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773119014257mi6zo",
-        "title": "Trump, İran'ın enerji tedarikini engellemesi halinde daha sert karşılık vereceğini belirtti",
-        "summary": "ABD Başkanı Donald Trump, İran'ın küresel petrol tedarikini aksatması durumunda bu ülkeye yönelik saldırıları artırma tehdidinde bulundu. Trump, İran'ın enerji tedarik yollarını kapatması halinde daha sert misillemelerle karşılaşacağını ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T05:03:34.257Z",
-        "location": {
-            "lat": 32.5,
-            "lng": 53.5,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17731190418200w1j8",
-        "title": "Mojtaba Hamenei'nin iktidara yükselişi konusunda İranlılar arasında derin bölünme yaşanıyor",
-        "summary": "Mojtaba Hamenei'nin babasının halefi olarak atanması, kuruluş yanlısı kalabalıklar tarafından kutlanırken, diğerleri bunun İran'ın yönetim şeklinde herhangi bir değişiklik anlamına gelmediğine inanıyor. Bu durum, İranlılar arasında derin bir ayrılığa yol açmış durumda.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-10T05:04:01.820Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773119064835ys5z6",
-        "title": "Video Analizi: ABD Füzesi İran'daki Bir Okul Yakınındaki Askeri Üssü Vurdu",
-        "summary": "Uzman video analizlerine göre, bir ABD Tomahawk füzesi güney İran'da bir ilkokul yakınındaki askeri bir üssü hedef aldı. İranlı yetkililer, bu olayda 168 kişinin hayatını kaybettiğini belirtiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T05:04:24.835Z",
-        "location": {
-            "lat": 29,
-            "lng": 53,
-            "name": "Güney İran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773110363096wa7xt",
-        "title": "Trump, Cumhuriyetçilere İran Savaşı'nın Hızla Bitebileceğini Söyledi",
-        "summary": "ABD Başkanı Trump, Cumhuriyetçilere yaptığı açıklamada, İran ile olası bir savaşın 'oldukça hızlı' sona erebileceğini belirtti. Konuşmasında, İran'a karşı yürütülen 'Epic Fury Operasyonu'nun başarılarını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T02:39:23.096Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/10/iran-war-may-end-pretty-quickly-what-trump-told-republicans?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17730972239717487u",
-        "title": "Katar, İran füzelerinin engellenmesine ilişkin video yayımladı",
-        "summary": "Katar Savunma Bakanlığı, İran'a ait füzelerin ve insansız hava araçlarının ülke hava sahasında engellendiğini gösteren görüntüler yayımladı. Yayımlanan bu görüntüler, Katar hava sahasında gerçekleşen bir müdahaleyi belgeliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T23:00:23.971Z",
-        "location": {
-            "lat": 25.3,
-            "lng": 51.5,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/9/qatar-releases-video-of-interception-of-iranian-missiles?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773093263322jzhux",
-        "title": "Mojtaba Hamenei'nin İran'ın dini lideri olarak atanması ve uluslararası tepkiler",
-        "summary": "Yeni dini liderin atanmasıyla birlikte Umman, Irak ve Yemen'deki Husiler desteklerini açıklarken, ABD ve İsrail'den tehdit içerikli açıklamalar gelmiştir.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T21:54:23.322Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/world-reacts-to-appointment-of-mojtaba-khamenei-as-irans-supreme-leader?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773093315296uapi2",
-        "title": "İran'ın Yeni Dini Lideri Mojtaba Hamenei Babasının Yerine Geçti",
-        "summary": "Ayatollah Ali Hamenei'nin suikast sonucu hayatını kaybetmesinin ardından, oğlu Mojtaba Hamenei İran'ın yeni dini lideri olarak göreve başladı. Bu gelişme, ülkenin en üst düzey liderlik makamında önemli bir değişikliği temsil etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T21:55:15.296Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/9/who-is-irans-new-supreme-leader?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773086426354med6z",
-        "title": "Savaş tırmanırken ABD'nin İran'daki nihai hedefi ne?",
-        "summary": "İran genelinde saldırılar devam ederken, ABD Başkanı Trump değişen hedefler dile getirdi. Ancak bu hedeflerin gerçekleşme olasılığı sorgulanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T20:00:26.354Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/what-is-the-us-endgame-in-iran-as-the-war-escalates?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773086468410h278u",
-        "title": "Anthropic, ABD'nin 'tedarik zinciri riski' etiketini kaldırmak için Trump yönetimine dava açtı",
-        "summary": "Yapay zeka şirketi Anthropic, ABD hükümetinin kendisini 'tedarik zinciri riski' olarak tanımlamasına karşı dava açtı. Şirket, bu tanımlamanın yasa dışı olduğunu ve ABD Anayasası'nda güvence altına alınan ifade özgürlüğü ile adil yargılanma haklarını ihlal ettiğini belirtti.",
-        "category": "Ekonomik",
-        "timestamp": "2026-03-09T20:01:08.410Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/9/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773079632007p3dkj",
-        "title": "Macron: Fransa, savaşın yatışmasıyla Hürmüz Boğazı'nda gemilere eşlik etmeye hazırlanıyor",
-        "summary": "Fransa Cumhurbaşkanı, bu görevin 'tamamen savunma amaçlı' olduğunu belirtti. Misyonun, petrol fiyatlarındaki artışın yaşandığı dönemde Körfez'deki önemli suyolunu kademeli olarak yeniden açmayı hedeflediği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T18:07:12.007Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773079652210tvbeb",
-        "title": "ABD Senatörleri, İran'daki Kız Okuluna Yönelik Saldırının Soruşturulmasını Talep Ediyor",
-        "summary": "Önde gelen Demokrat Partili senatörler, İran'ın Minab kentindeki bir kız okuluna düzenlenen ve en az 170 kişinin ölümüne yol açan bombalı saldırının tam ve tarafsız bir şekilde incelenmesi gerektiğini belirtti. Senatörler, bu 'dehşet verici' saldırının detaylarının aydınlatılmasını istiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T18:07:32.210Z",
-        "location": {
-            "lat": 27.15,
-            "lng": 57.08,
-            "name": "Minab, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17730709954374wkl3",
-        "title": "İsrail saldırısında Filistinli gazeteci Amal Shamali Gazze'de hayatını kaybetti",
-        "summary": "Katar Radyosu için çalışan gazeteci Amal Shamali, Gazze'nin merkezindeki Nuseyrat mülteci kampına düzenlenen bir İsrail hava saldırısında yaşamını yitirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T15:43:15.437Z",
-        "location": {
-            "lat": 31.46,
-            "lng": 34.4,
-            "name": "Nuseyrat Mülteci Kampı, Gazze Şeridi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/israeli-forces-kill-palestinian-journalist-amal-shamali-in-gaza-attack?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773071014853olyoh",
-        "title": "İsrail'in İran yakıt tesislerine yönelik saldırılarının 'halkın direncini kırmayı' amaçladığı belirtiliyor",
-        "summary": "Analistler, Tahran'ı zehirli bulutlar ve yağmur kaplarken, İsrail'in amacının İran halkının direncini kırmak olduğunu ifade ediyor. Haber, İsrail'in İran'daki yakıt tesislerine yönelik saldırılarını ve bu saldırıların potansiyel hedeflerini ele alıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T15:43:34.853Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/features/2026/3/9/israeli-attacks-on-iran-fuel-sites-aim-to-break-resilience-of?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773071050150hng6u",
-        "title": "İsrail, Hizbullah'ın Finans Kurumlarını Vururken Lübnan Görüşme Çağrısı Yaptı",
-        "summary": "İsrail, Al-Qard al-Hasan'a ait şubelere saldırılar düzenledi. Bu gelişmeler üzerine Lübnan Devlet Başkanı, tırmanışı durdurmak amacıyla müzakerelere yeniden başlama konusunda hazır olduğunu ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T15:44:10.150Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/israel-strikes-hezbollah-financial-institutions-as-lebanon-calls-for-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773064485694eif8k",
-        "title": "Dünyanın ABD Olmadan İlerleme Zamanı",
-        "summary": "Amerika Birleşik Devletleri'nin artık dünya düzeninin garantörü olmak istemediği belirtiliyor. Haberde, bu sorumluluğu diğer ülkelerin üstlenmesi gerektiği ifade ediliyor.",
-        "category": "Diplomatik",
-        "timestamp": "2026-03-09T13:54:45.694Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/3/9/it-is-time-for-the-world-to-move-on-without-the-united-states?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
