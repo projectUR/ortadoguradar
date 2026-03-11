@@ -25,7 +25,8 @@ const RSS_FEEDS = [
     { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
     { source: "BBC", url: "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
     { source: "Anadolu Ajansı", url: "https://www.aa.com.tr/en/rss/default?cat=middle-east" },
-    { source: "Associated Press", url: "https://news.google.com/rss/search?q=source:%22Associated+Press%22+Middle+East+when:24h&hl=en-US&gl=US&ceid=US:en" }
+{ source: "Middle East Eye", url: "https://www.middleeasteye.net/rss" }
+
 ];
 
 const OUTPUT_FILE = path.resolve('../data/mock_news.json');
