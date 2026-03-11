@@ -10,6 +10,7 @@ if (!process.env.GEMINI_API_KEY) {
 }
 
 // YENİ SİSTEM
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 const parser = new Parser({
     customFields: {
         item: [
