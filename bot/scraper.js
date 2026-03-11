@@ -26,7 +26,6 @@ const RSS_FEEDS = [
     { source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
     { source: "BBC", url: "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
     { source: "Anadolu Ajansı", url: "https://www.aa.com.tr/en/rss/default?cat=middle-east" },
-{ source: "Middle East Eye", url: "https://www.middleeasteye.net/rss" }
 
 ];
 
@@ -89,7 +88,7 @@ async function fetchAndProcessNews() {
     else console.log("❌ Yeni haber bulunamadı veya işlenemedi.");
 }
 
-async function paraphraseWithAI(newsItem, sourceName) {
+async function paraphraseWithAI(newsItem, sourceName, imageUrl) {
        const prompt = `
 Aşağıda İngilizce veya Arapça olabilen bir haberin başlığı ve özeti var.
 Bu haberin Orta Doğu coğrafyasına veya Orta Doğu siyasetine (örnek: ABD'nin İran açıklaması, Filistin olayları, Körfez ekonomisi vb.) doğrudan VEYA dolaylı yoldan ilgisi YOKSA (örneğin Şampiyonlar Ligi maçı, Haiti'deki bir olay, Orta Doğu ülkelerini ilgilendirmeyen başka kıtalardaki bir kaza vs. ise), LÜTFEN SADECE null DÖNDÜR. Başka hiçbir şey yazma.
