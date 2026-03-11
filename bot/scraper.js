@@ -60,19 +60,43 @@ async function fetchAndProcessNews() {
 
                         console.log(`  - İşleniyor: ${item.title}`);
         
-        let imageUrl = '';
-        if (item.enclosure && item.enclosure.url) {
-            imageUrl = item.enclosure.url;
-        } else if (item.mediaContent && item.mediaContent.$ && item.mediaContent.$.url) {
-            imageUrl = item.mediaContent.$.url;
-        } else if (item.mediaThumbnail && item.mediaThumbnail.$ && item.mediaThumbnail.$.url) {
-            imageUrl = item.mediaThumbnail.$.url;
-        } else if (item.image) {
-            imageUrl = item.image;
-        } else if (item.content && item.content.match(/<img[^>]+src="([^">]+)"/)) {
-            const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
-            imageUrl = imgMatch[1];
-        }
+                        let imageUrl = '';
+                
+                // 1. Önce sitenin arka kapısına gidip ana manşet resmini zorla çekelim
+                if (item.link) {
+                    try {
+                        const htmlRes = await fetch(item.link);
+                        const htmlText = await htmlRes.text();
+                        const ogMatch = htmlText.match(/<meta\s+(?:property|name)=["']og:image["']\s+content=["']([^"']+)["']/i);
+                        if (ogMatch && ogMatch[1]) {
+                            imageUrl = ogMatch[1];
+                        }
+                    } catch (e) {
+                        console.error("Linkten resim çekilemedi:", e.message);
+                    }
+                }
+
+                // 2. Eğer site izin vermezse eski yöntemle RSS içindeki resimleri bul (Yedek plan)
+                if (!imageUrl || imageUrl.length < 5) {
+                    if (item.enclosure && item.enclosure.url) {
+                        imageUrl = item.enclosure.url;
+                    } else if (item.mediaContent && item.mediaContent.$ && item.mediaContent.$.url) {
+                        imageUrl = item.mediaContent.$.url;
+                    } else if (item.mediaThumbnail && item.mediaThumbnail.$ && item.mediaThumbnail.$.url) {
+                        imageUrl = item.mediaThumbnail.$.url;
+                    } else if (item.image) {
+                        imageUrl = item.image;
+                    } else if (item.content && item.content.match(/<img[^>]+src="([^">]+)"/)) {
+                        const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
+                        imageUrl = imgMatch[1];
+                    }
+                }
+                
+                // 3. BBC'nin ufak resimlerini HD boyutlara çek (Son kurtarıcı)
+                if (imageUrl && imageUrl.includes('ichef.bbci.co.uk') && imageUrl.includes('/240/')) {
+                    imageUrl = imageUrl.replace('/240/', '/800/'); 
+                }
+
 
         const aiResult = await paraphraseWithAI(item, feedConfig.source, imageUrl);
 
