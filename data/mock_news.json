@@ -1,5 +1,21 @@
 [
     {
+        "id": "17732588422544re1o",
+        "title": "Norveç'te ABD Büyükelçiliği Saldırısıyla İlgili Irak Kökenli Üç Kardeş Tutuklandı",
+        "summary": "Norveç'in başkenti Oslo'daki ABD Büyükelçiliği'ne düzenlenen bombalı saldırıyla ilgili olarak üç kardeş Norveç'te gözaltına alındı. Irak kökenli Norveç vatandaşı olan şüphelilerin tutuklandığı bildirildi. Soruşturmacılar, olayın arkasında olası yabancı devlet bağlantılarının olup olmadığını derinlemesine araştırıyor. Bu gelişme, uluslararası güvenlik çevrelerinde dikkatle takip ediliyor ve soruşturmanın uluslararası boyutları üzerinde duruluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-11T19:54:02.254Z",
+        "location": {
+            "lat": 59.91,
+            "lng": 10.75,
+            "name": "Oslo, Norveç"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/11/three-brothers-arrested-in-norway-over-bomb-attack-on-us-embassy-in-oslo?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773250733817mrt8x",
         "title": "2026 FIFA Dünya Kupası'nın Önündeki Zorluklar: İran Gerilimi ve Irak Elemeleri",
         "summary": "2026 FIFA Dünya Kupası'nın organizasyonunun kolay olacağı düşünülse de, çeşitli zorluklar devam etmektedir. Bu zorluklar arasında ABD'nin İran'a yönelik politikaları, Meksika'daki şiddet olayları ve vize yasakları gibi konular yer almaktadır. Ayrıca, Irak'ın eleme maçları da organizasyon açısından dikkat çekilen hususlardan biridir. Dünya Kupası'nın ev sahipliği sürecinde bu tür siyasi ve güvenlik odaklı meselelerin yönetilmesi gerekmektedir.",
@@ -754,21 +770,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177311897087225sts",
-        "title": "Trump, İran Savaşı Ortamında Bazı Petrol Üreticilerine Yaptırımların Kaldırılacağını Açıkladı",
-        "summary": "Ham petrol fiyatları, 24 saat içinde neredeyse 120 dolara yükseldikten sonra varil başına 90 doların altına düştü. Bu dalgalanma, ABD Başkanı Trump'ın İran savaşı ortamında bazı petrol üreticilerine yönelik yaptırımların kaldırılacağını belirtmesinin ardından yaşandı.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T05:02:50.872Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/10/trump-says-some-sanctions-to-be-lifted-on-oil-producers-amid-iran-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
