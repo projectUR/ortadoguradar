@@ -1,5 +1,35 @@
 [
     {
+        "id": "177320542872799fec",
+        "title": "Beyrut'ta Bir Binada Yangın Çıktı, İsrail Saldırısı İddiaları Gündemde",
+        "summary": "Lübnan'ın başkenti Beyrut'ta bir konut binasında yangın çıktığı bildirildi. Görgü tanıkları ve yerel kaynaklar, binanın yan tarafında bir delik oluştuğunu ve buradan alevlerin yükseldiğini belirtti. Olayın, İsrail tarafından gerçekleştirildiği iddia edilen bir saldırı sonucu meydana geldiği öne sürülüyor. Saldırının niteliği ve hedefi hakkında henüz resmi bir açıklama yapılmazken, bölgede gerginliğin arttığı gözlemleniyor. Olay yerine itfaiye ve güvenlik güçleri sevk edildiği, yangını söndürme çalışmalarının devam ettiği öğrenildi.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T05:03:48.727Z",
+        "location": {
+            "lat": 34,
+            "lng": 36,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/11/beirut-building-ablaze-after-apparent-israeli-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773205483503126h4",
+        "title": "İran Savaşına İlişkin Çelişkili Mesajlar Ortasında Petrol Fiyatları Büyük Dalgalanmalar Yaşadı",
+        "summary": "Ham petrol fiyatları, İran ile olası bir savaşa ilişkin çelişkili mesajlar nedeniyle büyük dalgalanmalar yaşadı. Enerji piyasaları, küresel petrol ticaretinin ana geçiş noktalarından biri olan Hürmüz Boğazı'nın fiili olarak kapanma ihtimali konusunda büyük bir gerginlik içinde kalmaya devam ediyor. Bu durum, küresel petrol arzı ve fiyatları üzerinde ciddi endişelere yol açarken, piyasalardaki belirsizlik artıyor ve yatırımcılar gelişmeleri yakından takip ediyor. Petrol fiyatlarındaki keskin düşüş, boğazın kapanma riskine yönelik endişeleri yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "timestamp": "2026-03-11T05:04:43.503Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Basra Körfezi"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/11/oil-prices-swing-wildly-amid-mixed-messages-over-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773186878692lr5gl",
         "title": "Demokratlar, Beyaz Saray'ın İran Savaşı Hedefleri Konusunda Belirsizliğini Eleştirdi",
         "summary": "ABD'deki Demokrat Parti üyeleri, Beyaz Saray'ın İran'a yönelik olası savaş hedefleri konusunda yeterli netlik sağlamadığını ifade etti. Parti üyeleri, 11 gün geçmesine ve son yapılan gizli brifinge rağmen savaşın gerekçeleri ve amaçları hakkında hala bir açıklık olmamasını \"rahatsız edici\" olarak nitelendirdi. Bu durum, Beyaz Saray'ın İran politikasına dair belirsizliklerin devam ettiğini ve Demokratlar arasında endişe yarattığını gösteriyor. Muhalefet, ABD'nin Orta Doğu'daki potansiyel askeri adımlarına ilişkin daha şeffaf bir bilgilendirme talep ediyor.",
@@ -719,36 +749,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aljazeera.com/opinions/2026/3/9/it-is-time-for-the-world-to-move-on-without-the-united-states?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17730645231212ceix",
-        "title": "ABD-İsrail'in İran'a Yönelik Geriliminin Gazze Krizini Nasıl Derinleştirdiği",
-        "summary": "Bölgesel çatışmanın genişlemesi, küresel dikkatin başka yöne kaymasına neden olmaktadır. Bu durumla birlikte Gazze, sınır kapanışları, enflasyon ve 'ateşkes' ihlalleri gibi sorunlarla karşı karşıya kalmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-09T13:55:23.121Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/3/9/how-us-israel-war-on-iran-deepens-gaza-crisis?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17730645482259t6z4",
-        "title": "Filistin Davası Tarihçisi Walid Khalidi 100 Yaşında Hayatını Kaybetti",
-        "summary": "Filistin davasının önde gelen tarihçilerinden Walid Khalidi, 100 yaşında vefat etti. Nakba'yı belgeleyen ve Filistin Araştırmaları Enstitüsü'nü kuran Khalidi'nin Pazar günü ABD'de vefat ettiği bildirildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-09T13:55:48.225Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/9/walid-khalidi-historian-of-the-palestinian-cause-dies-aged-100?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
