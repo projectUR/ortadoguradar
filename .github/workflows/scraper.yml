@@ -29,6 +29,7 @@ jobs:
       working-directory: ./bot
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }} # İŞTE EKSİK OLAN ANAHTAR BURASI!
       run: npm start
 
     - name: 5. Yeni Haberleri Repoya Kaydet (JSON Güncelle)
