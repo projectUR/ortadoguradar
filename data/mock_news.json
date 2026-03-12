@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773352199702ubonh",
+        "title": "İran'a Yönelik Bir Savaş ABD Ekonomisini Nasıl Etkiler?",
+        "summary": "Uzmanlar, İran'a karşı olası bir savaşın ABD ekonomisi üzerindeki etkilerinin, petrol tankerlerinin Hürmüz Boğazı'na ne kadar hızlı dönebileceğine bağlı olacağını belirtiyor. Bu durum, küresel petrol arzı ve fiyatları üzerinde doğrudan bir etki yaratabilir. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle, bölgedeki herhangi bir çatışma küresel enerji piyasalarını derinden sarsma potansiyeli taşıyor. Uzmanlar, boğazdaki kesintilerin süresinin, ekonomik sonuçların şiddetini belirleyecek ana faktör olacağını vurguluyor.",
+        "category": "Ekonomik",
+        "imageUrl": "",
+        "timestamp": "2026-03-12T21:49:59.702Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/12/how-will-the-war-on-iran-impact-the-us-economy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773345370151m77wo",
         "title": "Somali, İsrail'in Somaliland'da Üs Kurma Planlarına Karşı Uyardı",
         "summary": "Somali hükümeti, İsrail'in ayrılıkçı Somaliland bölgesinde askeri üs kurma olasılığına ilişkin ciddi endişelerini dile getirdi. Somali'li bir bakan, Al Jazeera'ye yaptığı açıklamada, bu tür planların Somali'yi 'dış çatışmalara' sürükleme riski taşıdığını belirtti. Mogadişu yönetimi, Somaliland'ı kendi topraklarının bir parçası olarak görmekte ve uluslararası hukuka göre tanınmamış bir devlet olarak kabul etmektedir. İsrail'in bölgedeki potansiyel askeri varlığı, Kızıldeniz ve Aden Körfezi'nin stratejik önemini artırırken, bölgesel istikrara yönelik yeni gerilimler yaratabileceği değerlendiriliyor. Bu durum, Doğu Afrika ve Orta Doğu arasındaki ilişkilerde yeni bir boyut açabilir.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773215806228l4iso",
-        "title": "İran'da Şehirler Saldırılarla Sarsıldı, Elektrik Kesintileri Yaşandı",
-        "summary": "BBC'ye konuşan Tahran ve Karaj'daki İranlılar, İsrail ve ABD'nin 10 gündür süren saldırılarının ardından yorgun düştüklerini ve uyumakta zorlandıklarını belirtti. Haberlere göre, ülkenin büyük şehirlerinde meydana gelen bu saldırılar nedeniyle elektrik kesintileri yaşandığı ve günlük yaşamın olumsuz etkilendiği ifade edildi. Halk, sürekli devam eden bu durumun psikolojik olarak yıpratıcı olduğunu ve normal bir uyku düzeni arayışında olduklarını dile getirdi. Bölgedeki gerilimin artmasıyla birlikte sivil halkın güvenlik endişeleri de yükseldi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/c358/live/94c81d10-1c75-11f1-a7bf-efb6e72f87e6.jpg.webp",
-        "timestamp": "2026-03-11T07:56:46.228Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
