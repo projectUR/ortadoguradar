@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773356318536srh9y",
+        "title": "ABD ordusu, Irak'ta yakıt ikmali uçağının düşmesinin ardından kurtarma operasyonu başlattı",
+        "summary": "ABD ordusu, Irak'ta bir yakıt ikmali uçağının düşmesinin ardından kurtarma operasyonu başlattığını duyurdu. Olayda şu ana kadar herhangi bir can kaybı yaşanmadığı bildirildi. Askeri yetkililer, kazaya iki uçağın karıştığını ve bunlardan birinin güvenli bir şekilde iniş yaptığını açıkladı. Düşen uçağa yönelik kurtarma çalışmaları devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/613778/pexels-photo-613778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-12T22:58:38.536Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/12/us-military-announces-loss-of-refueling-aircraft-over-western-iraq?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773356414438u96wx",
+        "title": "İsrail, Hizbullah'ın roket saldırısının ardından Beyrut banliyölerini ve Güney Lübnan'ı vurdu",
+        "summary": "İsrail ordusu, Hizbullah tarafından gerçekleştirilen roket saldırısına misilleme olarak Beyrut banliyölerini ve Güney Lübnan'daki hedefleri bombaladı. Saldırılar, Lübnan'ın başkenti Beyrut'un diğer bölgelerine de yayıldı. İlk belirlemelere göre, sahil şeridinde meydana gelen olaylarda 12 kişinin hayatını kaybettiği bildirildi. Bu gelişmeler, bölgedeki gerilimin ciddi şekilde tırmandığını gösteriyor ve uluslararası endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/371838/pexels-photo-371838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-12T23:00:14.439Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cx2gjq8qd09o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1773352199702ubonh",
         "title": "İran'a Yönelik Bir Savaş ABD Ekonomisini Nasıl Etkiler?",
         "summary": "Uzmanlar, İran'a karşı olası bir savaşın ABD ekonomisi üzerindeki etkilerinin, petrol tankerlerinin Hürmüz Boğazı'na ne kadar hızlı dönebileceğine bağlı olacağını belirtiyor. Bu durum, küresel petrol arzı ve fiyatları üzerinde doğrudan bir etki yaratabilir. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle, bölgedeki herhangi bir çatışma küresel enerji piyasalarını derinden sarsma potansiyeli taşıyor. Uzmanlar, boğazdaki kesintilerin süresinin, ekonomik sonuçların şiddetini belirleyecek ana faktör olacağını vurguluyor.",
@@ -764,38 +796,6 @@
             "name": "Hürmüz Boğazı, Orta Doğu"
         },
         "source": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17732157272503f3jv",
-        "title": "İran, ABD ve İsrail Saldırılarında Sivil Kayıpları ve Hasarı Açıkladı",
-        "summary": "İran, ABD ve İsrail tarafından gerçekleştirilen saldırıların 12. gününde, ülke genelinde 1.300'den fazla sivilin hayatını kaybettiğini duyurdu. Yapılan açıklamada, bu saldırılar sonucunda yaklaşık 10.000 sivil hedefin vurulduğu ve büyük çapta maddi hasar meydana geldiği belirtildi. İranlı yetkililer, sivil kayıpların ve altyapıdaki tahribatın boyutuna dikkat çekerek uluslararası toplumu duruma müdahale etmeye çağırdı. Bu gelişmeler, bölgedeki gerilimin tırmandığını ve insani krizin derinleştiğini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-11T042419Z_1632318559_RC242KAWFRDZ_RTRMADP_3_IRAN-CRISIS-TEHRAN-1-1773210733.jpg?resize=770%2C513&quality=80",
-        "timestamp": "2026-03-11T07:55:27.250Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/11/iran-war-what-is-happening-on-day-12-of-us-israel-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773215783992jxo2o",
-        "title": "Hava Saldırıları Tahran'da Siyah Yağmura ve Benzeri Görülmemiş Kirliliğe Yol Açtı",
-        "summary": "Bilim insanları, geçen ay ABD-İsrail saldırılarının başlamasından bu yana İran'daki en az dört petrol tesisinin hava saldırıları sonucu hasar gördüğünü bildirdi. Bu saldırıların, İran'ın başkenti Tahran'da \"benzeri görülmemiş\" bir kirliliğe ve siyah yağmura neden olduğu belirtildi. Hasar gören petrol tesislerinden kaynaklanan bu çevresel etkinin, bölgedeki hava kalitesi üzerinde ciddi olumsuz sonuçlar doğurduğu ifade edildi. Uzmanlar, durumun çevresel etkilerinin uzun vadeli olabileceği konusunda uyarıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg.webp",
-        "timestamp": "2026-03-11T07:56:23.992Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
