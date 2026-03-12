@@ -460,3 +460,83 @@ document.addEventListener('DOMContentLoaded', () => {
     if(btnMap) btnMap.addEventListener('click', hideArsenal);
     if(btnQuiz) btnQuiz.addEventListener('click', hideArsenal);
 });
+
+// =========================================
+// ASKERİ ENVANTER (ARSENAL) VERİ İŞLEMLERİ
+// =========================================
+let arsenalData = [];
+
+async function loadArsenal() {
+    try {
+        const response = await fetch('data/arsenal.json');
+        arsenalData = await response.json();
+        renderArsenal('Tümü'); // İlk açılışta hepsini göster
+    } catch (err) {
+        console.error("Envanter yüklenemedi:", err);
+    }
+}
+
+function renderArsenal(filterCountry) {
+    const grid = document.getElementById('arsenalGrid');
+    if (!grid) return;
+    
+    grid.innerHTML = ''; // Önceki kartları temizle
+
+    const filtered = filterCountry === 'Tümü' 
+        ? arsenalData 
+        : arsenalData.filter(w => w.country === filterCountry);
+
+    filtered.forEach(weapon => {
+        const cardHTML = `
+            <div style="background: #1e1e1e; border: 1px solid #333; border-radius: 8px; overflow: hidden; display: flex; flex-direction: column;">
+                <div style="height: 180px; overflow: hidden; background: #000; position: relative;">
+                    <span style="position: absolute; top: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #fff; padding: 4px 10px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; border: 1px solid #555;">${weapon.country}</span>
+                    <img src="${weapon.image}" alt="${weapon.name}" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.85;">
+                </div>
+                <div style="padding: 15px; flex-grow: 1; display: flex; flex-direction: column;">
+                    <h3 style="color: var(--accent-blue); margin: 0 0 5px 0; font-size: 1.3rem;">${weapon.name}</h3>
+                    <span style="color: #aaa; font-size: 0.85rem; margin-bottom: 15px; border-bottom: 1px solid #333; padding-bottom: 8px; display: block;"><i class="fa-solid fa-tag"></i> ${weapon.type}</span>
+                    
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 15px; font-size: 0.85rem;">
+                        <div><strong style="color: #ddd;">Maliyet:</strong> <br><span style="color: #999;">${weapon.cost}</span></div>
+                        <div><strong style="color: #ddd;">Menzil:</strong> <br><span style="color: #999;">${weapon.range}</span></div>
+                    </div>
+                    
+                    <div style="background: rgba(30, 60, 114, 0.2); border-left: 3px solid #1e3c72; padding: 10px; margin-bottom: 10px; font-size: 0.85rem;">
+                        <strong style="color: #64b5f6; display: block; margin-bottom: 4px;"><i class="fa-solid fa-satellite-dish"></i> Radar Analizi</strong>
+                        <span style="color: #ccc;">${weapon.radar_analysis}</span>
+                    </div>
+                    
+                    <div style="font-size: 0.8rem; color: #888; margin-top: auto;">
+                        <strong><i class="fa-solid fa-fire"></i> Kullanıldığı Çatışmalar:</strong> ${weapon.conflicts}
+                    </div>
+                </div>
+            </div>
+        `;
+        grid.insertAdjacentHTML('beforeend', cardHTML);
+    });
+}
+
+// Filtre Butonları Dinleyicisi
+document.addEventListener('DOMContentLoaded', () => {
+    loadArsenal(); // Sayfa yüklenince JSON'ı çek
+    
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    filterButtons.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            // Aktif buton stilini değiştir
+            filterButtons.forEach(b => {
+                b.classList.remove('active');
+                b.style.background = '#2a2a2a';
+                b.style.border = '1px solid #444';
+            });
+            e.target.classList.add('active');
+            e.target.style.background = 'var(--accent-blue)';
+            e.target.style.border = 'none';
+            
+            // Tıklanan ülkeye göre filtrele
+            const country = e.target.getAttribute('data-country');
+            renderArsenal(country);
+        });
+    });
+});
