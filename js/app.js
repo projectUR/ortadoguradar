@@ -123,7 +123,50 @@ function renderNewsCards() {
                     </div>
                     <div class="card-time"><i class="fa-regular fa-clock"></i> ${timeAgo}</div>
                 </div>
-                                ${item.imageUrl ? `<div class="card-image-wrapper"><img src="${item.imageUrl}" alt="Haber Görseli" class="news-image"></div>` : ''}
+           function renderNewsCards() {
+    DOM.feedContainer.innerHTML = '';
+
+    if (STATE.filteredNews.length === 0) {
+        DOM.feedContainer.innerHTML = `<div style="text-align:center; padding: 40px; color: var(--text-secondary);">Aradığınız kriterlere uygun haber bulunamadı.</div>`;
+        return;
+    }
+
+    STATE.filteredNews.forEach(item => {
+        const timeAgo = formatTimeAgo(new Date(item.timestamp));
+        const catIcon = CAT_ICONS[item.category] || 'fa-tag';
+
+        const cardClass = item.isBreaking ? 'news-card breaking' : 'news-card';
+        const breakingBadge = item.isBreaking ? `<span class="breaking-tag"><i class="fa-solid fa-bolt"></i> Son Dakika</span>` : '';
+
+        const cardHTML = `
+            <article class="${cardClass}">
+                <div class="card-header">
+                    <div class="card-meta-left">
+                        ${breakingBadge}
+                        <span class="category-tag"><i class="fa-solid ${catIcon}"></i> ${item.category}</span>
+                    </div>
+                    <div class="card-time"><i class="fa-regular fa-clock"></i> ${timeAgo}</div>
+                </div>
+                
+                <div class="card-body">
+                    <h3>${item.title}</h3>
+                    <p>${item.summary}</p>
+                </div>
+                <div class="card-footer">
+                    <a href="${item.source}" target="_blank" class="source-link" rel="nofollow">
+                        <i class="fa-solid fa-link"></i> Kaynak Taramasını Gör
+                    </a>
+                    <div class="card-actions">
+                        <button class="action-btn" title="Yerini Göster (Rasathane)"
+                        onclick="if(window.focusMapOnItem) window.focusMapOnItem('${item.id}')"><i class="fa-solid fa-location-dot"></i></button>
+                        <button class="action-btn" title="Paylaş"><i class="fa-regular fa-share-from-square"></i></button>
+                    </div>
+                </div>
+            </article>
+        `;
+        DOM.feedContainer.insertAdjacentHTML('beforeend', cardHTML);
+    });
+}
 
                 <div class="card-body">
                     <h3>${item.title}</h3>
