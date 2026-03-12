@@ -294,15 +294,53 @@ function endGame(isWin) {
 
     setTimeout(() => {
         QDOM.modal.classList.remove('hidden');
+        
+        // Karakterin bilgilerini JSON'dan çekiyoruz
+        const target = QSTATE.targetChar;
+        const profile = target.profile;
+
+        // Başlık kısmı (Kazandı/Kaybetti rengi)
         if (isWin) {
-            QDOM.modalTitle.textContent = "Tebrikler!";
+            QDOM.modalTitle.textContent = "HEDEF TESPİT EDİLDİ!";
             QDOM.modalTitle.style.color = "var(--accent-green)";
-            QDOM.modalMsg.innerHTML = `Doğru tahmin ettiniz: <strong>${QSTATE.targetChar.name}</strong>`;
         } else {
-            QDOM.modalTitle.textContent = "Oyun Bitti";
+            QDOM.modalTitle.textContent = "GÖREV BAŞARISIZ";
             QDOM.modalTitle.style.color = "var(--accent-red)";
-            QDOM.modalMsg.innerHTML = `Gizli figür şuydu: <strong>${QSTATE.targetChar.name}</strong>`;
         }
+
+        // İstihbarat Dosyası (Radar Profili) HTML Yapısı
+        // NOT: CSS'e ekstra kod eklememek için style takılarını satır içine (inline) yazdım.
+        const dossierHTML = `
+            <div style="text-align: left; margin-top: 15px; border-top: 1px solid #333; padding-top: 15px;">
+                <h3 style="margin: 0 0 5px 0; color: var(--text-primary); font-size: 1.2rem;">${target.name}</h3>
+                <span style="display: inline-block; background: #2a2a2a; color: #aaa; padding: 2px 8px; border-radius: 4px; font-size: 0.8rem; margin-bottom: 10px;">${target.nationality} | ${target.role}</span>
+                
+                <p style="font-size: 0.9rem; color: #ccc; font-style: italic; margin-bottom: 15px;">
+                    "${profile.bio_summary}"
+                </p>
+
+                <div style="background: rgba(30, 60, 114, 0.2); border-left: 3px solid #1e3c72; padding: 10px; margin-bottom: 15px; border-radius: 0 4px 4px 0;">
+                    <strong style="color: #64b5f6; font-size: 0.85rem; display: block; margin-bottom: 5px;"><i class="fa-solid fa-satellite-dish"></i> RADAR ANALİZİ</strong>
+                    <span style="font-size: 0.85rem; color: #ddd;">${profile.regional_impact}</span>
+                </div>
+
+                <div style="background: rgba(255, 193, 7, 0.1); border: 1px dashed #ffc107; padding: 10px; border-radius: 4px;">
+                    <strong style="color: #ffc107; font-size: 0.85rem; display: block; margin-bottom: 5px;"><i class="fa-solid fa-lightbulb"></i> GİZLİ DOSYA</strong>
+                    <span style="font-size: 0.85rem; color: #eee;">${profile.trivia}</span>
+                </div>
+            </div>
+        `;
+
+        // Yeni tasarımı modala basıyoruz
+        QDOM.modalMsg.innerHTML = dossierHTML;
+        
+        // Modalın genişliğini içeriğe göre biraz büyütelim ki şık dursun
+        const modalContent = document.querySelector('.quiz-modal-content');
+        if(modalContent) {
+            modalContent.style.maxWidth = '450px';
+            modalContent.style.width = '90%';
+        }
+
     }, 1500); // Wait for boxes to animate
 }
 
