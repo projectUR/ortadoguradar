@@ -1,5 +1,133 @@
 [
     {
+        "id": "1773310136498h6sfv",
+        "title": "Al Jazeera, İngiltere'deki ABD Üssünde Uçaklara Bomba Yüklendiğini Görüntüledi",
+        "summary": "Katar merkezli haber kuruluşu Al Jazeera'ya ait bir ekip, Birleşik Krallık'taki bir askeri üste ABD askeri uçaklarına sığınak delici bombaların yüklendiği anları görüntüledi. Görüntülerde, bu özel nitelikli bombaların ABD Hava Kuvvetleri'ne ait nakliye uçaklarına aktarıldığı açıkça görüldü. Bu olay, ABD'nin küresel askeri operasyonları ve potansiyel hedeflerine yönelik hazırlıkları hakkında önemli ipuçları sunuyor. Özellikle Orta Doğu'daki gerilimler ve ABD'nin bölgedeki askeri varlığı göz önüne alındığında, bu tür silahların yüklenmesi bölgedeki güvenlik dinamikleri açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T10:08:56.498Z",
+        "location": {
+            "lat": 52.38,
+            "lng": 0.55,
+            "name": "Lakenheath, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-sees-bombs-being-loaded-onto-us-planes-at-uk-base?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773310159089g2qhe",
+        "title": "Suudi Arabistan ve BAE, İran Saldırılarını Kınadı",
+        "summary": "Birleşmiş Milletler'deki Suudi Arabistan ve Birleşik Arap Emirlikleri büyükelçileri, Güvenlik Konseyi toplantısı öncesinde İran'ın gerçekleştirdiği saldırıları kınadıklarını bildirdi. Bu diplomatik açıklama, bölgedeki güvenlik endişelerinin ve gerilimin uluslararası platforma taşındığını gösteriyor. Büyükelçiler, İran'ın eylemlerinin bölgesel istikrara yönelik tehdit oluşturduğunu vurgulayarak, ortak bir duruş sergilediler. Kınama, Körfez ülkelerinin İran politikalarına karşı artan endişelerini yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T10:09:19.089Z",
+        "location": {
+            "lat": 40.7,
+            "lng": -74,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/12/saudi-arabia-and-uae-condemn-iranian-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17733101824631elx6",
+        "title": "Beyrut'ta Bir Mahalle İsrail Saldırısına Uğradı",
+        "summary": "Al Jazeera'ya konuşan Beyrut'taki bir mahallenin sakinleri, Çarşamba sabahı gerçekleşen İsrail saldırısına kadar kendilerini güvende hissettiklerini ifade etti. Bu saldırı, daha önce güvenli kabul edilen bölgede yaşayanlar arasında büyük bir şok ve endişe yarattı. Olayın ardından mahalle sakinleri, bölgedeki güvenlik durumunun değiştiğini ve geleceğe dair belirsizliklerin arttığını dile getirdi. Saldırının detayları ve olası sonuçları hakkında gelişmeler takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T10:09:42.463Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/12/residents-of-this-beirut-neighbourhood-felt-safe-then-israel-attacked-it?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773310228088y5yey",
+        "title": "İran'daki Gerilimin Küresel Yansımaları: Siber Saldırılar ve Hürmüz Boğazı'ndaki Tansiyon",
+        "summary": "İran'da devam eden savaşın küresel etkileri derinleşmeye devam ediyor. Bölgede yaşanan çatışmaların 13. gününde siber saldırılar artış gösterirken, stratejik Hürmüz Boğazı'ndaki gerilim de tırmanıyor. Bu gelişmelerle birlikte dünya genelinde petrol fiyatlarında önemli yükselişler kaydediliyor. Yaşanan bu olaylar, savaşın sadece bölgesel değil, aynı zamanda uluslararası düzeyde güvenlik ve ekonomi üzerinde ciddi sonuçlar doğurduğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
+        "timestamp": "2026-03-12T10:10:28.088Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Basra Körfezi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/12/iran-war-what-is-happening-on-day-13-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773310254509m3efc",
+        "title": "İsrail: Savaşın Başlangıcından Bu Yana İran Saldırılarında Yaklaşık 2.750 Kişi Yaralandı",
+        "summary": "İsrail, savaşın başlangıcından bu yana İran kaynaklı saldırılarda yaklaşık 2.750 kişinin yaralandığını bildirdi. Sağlık Bakanlığı tarafından yapılan açıklamaya göre, yaralılardan 85'i halen hastanelerde tedavi altında tutuluyor. Hastanede yatan bu kişilerden 11'inin durumunun ciddi olduğu belirtildi. Bu veriler, bölgedeki devam eden çatışmaların insani etkilerini ortaya koymaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_f1c412ad19d65580dcab5a960c9156c2.jpg?v=130559",
+        "timestamp": "2026-03-12T10:10:54.509Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-says-nearly-2-750-people-injured-in-iranian-attacks-since-war-outbreak/3861327",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17733102767737qswl",
+        "title": "Batı Irak'ta Haşdi Şabi Karargahlarına Düzenlenen Saldırılarda En Az 30 Kişi Hayatını Kaybetti",
+        "summary": "Batı Irak'ta Haşdi Şabi (PMF) karargahlarına düzenlenen hava saldırılarında en az 30 kişinin hayatını kaybettiği bildirildi. Yerel medya kaynaklarına göre, saldırılar Akaşat kasabasında Haşdi Şabi'nin 19. Tugayı'na ait üç farklı noktayı hedef aldı. Bu saldırılar, bölgedeki güvenlik durumunu yeniden gündeme getirirken, olayın failleri hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin tırmanabileceği ve yeni çatışmalara yol açabileceği endişesi hakim.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_f8f09fbcc6bc2f8ed6a76c2d78ce638f.jpg?v=122912",
+        "timestamp": "2026-03-12T10:11:16.773Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 39.8,
+            "name": "Akashat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/at-least-30-killed-in-strikes-on-pmf-headquarters-in-western-iraq/3861264",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177331030329867b4b",
+        "title": "ABD-İsrail Saldırıları ve İran Misillemelerinin Körfez Güvenliğine Yansımaları",
+        "summary": "ABD ve İsrail'in gerçekleştirdiği saldırılar ile İran'ın misillemelerinin Körfez güvenliği üzerindeki potansiyel etkileri değerlendirilmektedir. Haberde, İran'ın belirsiz siyasi sürecinin bölgedeki dinamikleri şekillendiren önemli bir faktör olduğu belirtiliyor. Ayrıca, Körfez bölgesinin yüksek maliyetli askeri saldırılara maruz kalma riski taşıdığına dikkat çekiliyor. Washington'ın devam eden operasyonlarının da bu süreçte belirleyici olabileceği ifade edilmekte olup, tüm bu unsurların bölgesel gerilimi ve ekonomik riskleri artırabileceği öngörülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_d2f947bbb932567f092fe395135a7650.jpg?v=120626",
+        "timestamp": "2026-03-12T10:11:43.298Z",
+        "location": {
+            "lat": 26.22,
+            "lng": 50.58,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/opinion-reflections-of-us-israel-attacks-and-iranian-retaliations-on-gulf-security/3861218",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773310342458eru43",
+        "title": "İran Cumhurbaşkanı, ABD'nin Komşu Ülkelerdeki Üslerinden Gelecek Saldırıları Kabul Edilemez Bulduğunu Açıkladı",
+        "summary": "İran Cumhurbaşkanı Pezeşkian, Umman Sultanı ile gerçekleştirdiği telefon görüşmesinde, ABD'nin İran'a komşu ülkelerdeki askeri üslerinden gelebilecek olası saldırıların kabul edilemez olduğunu açıkça ifade etti. Bölgedeki gerilimin tırmandığı bir dönemde yapılan bu açıklama, Tahran'ın bölgesel güvenlik endişelerini ve dış askeri müdahalelere karşı sert duruşunu bir kez daha ortaya koydu. Pezeşkian, bu tür eylemlerin bölgenin istikrarını daha da bozacağını ve mevcut gerilimi tehlikeli boyutlara taşıyacağını vurguladı. İran lideri, bölge ülkelerinin işbirliğiyle sorunların çözülmesi gerektiğini belirtirken, dış güçlerin askeri varlığının ve potansiyel saldırılarının bölge barışı için tehdit oluşturduğunu dile getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/12/thumbs_b_c_dc2b334e55d23cd7c9413c255d2fd9de.jpg?v=113504",
+        "timestamp": "2026-03-12T10:12:22.458Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-warns-strikes-from-us-bases-in-neighboring-countries-unacceptable-president-says/3861157",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773302109588k4twp",
         "title": "Trump Yönetimi, ABD'nin İran Savaşı'nın İlk 6 Günlük Maliyetini 11.3 Milyar Dolar Olarak Tahmin Ediyor",
         "summary": "Bir rapora göre, Trump yönetimi tarafından yapılan tahminler, Amerika Birleşik Devletleri'nin İran'a karşı olası bir savaşının ilk altı gününde 11.3 milyar dolarlık bir maliyete ulaşabileceğini gösteriyor. Yetkililer, savaşın devamı için ek olarak 50 milyar dolara daha ihtiyaç duyulabileceğini öngörüyor. Bu maliyet tahminleri, ABD'li yasa koyucular arasında ciddi endişelere yol açtı. Kongre üyeleri, potansiyel bir çatışmanın hem finansal yükü hem de bölgesel sonuçları hakkında kaygılarını dile getirdi.",
@@ -668,129 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aljazeera.com/news/2026/3/10/around-140-us-service-members-wounded-in-iran-war-pentagon-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773174196299wm38b",
-        "title": "İsrail saldırısında Beyrut'ta İranlıların hayatını kaybetmesiyle çatışmalar Lübnan başkentine sıçradı",
-        "summary": "İsrail ordusu, Lübnan'daki Hizbullah hareketiyle çatışmaların yeniden başlamasının ardından Beyrut'ta gerçekleştirdiği saldırıda İran Devrim Muhafızları Kudüs Gücü mensuplarını hedef aldığını açıkladı. Saldırının Beyrut'un merkezindeki lüks bir otelde gerçekleştiği ve İranlıların hayatını kaybettiği bildirildi. İran ise hayatını kaybeden kişilerin diplomat olduğunu iddia ederek İsrail'in açıklamasına karşı çıktı. Bu olay, çatışmaların Lübnan'ın başkentine sıçradığına işaret ediyor ve bölgedeki gerilimi artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/232c/live/1822eae0-1c7c-11f1-b048-c9424b2cf5fd.jpg.webp",
-        "timestamp": "2026-03-10T20:23:16.299Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/c2k8y7vy78no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773172465324pfm88",
-        "title": "ABD'nin Stratejisinde İran'ın Doğal Kaynaklarının Kontrolü Bir Faktör mü?",
-        "summary": "İran'ın geniş petrol ve doğalgaz rezervlerine sahip olduğu ve Çin için önemli bir tedarikçi konumunda bulunduğu belirtilmektedir. Bu durum, uluslararası arenada İran'ın enerji piyasasındaki stratejik önemini vurgulamaktadır. Amerika Birleşik Devletleri'nin dış politikasında ve bölgesel stratejilerinde, İran'ın bu doğal kaynaklarının kontrolünün önemli bir faktör olup olmadığı sorusu gündeme gelmektedir. Bu tartışmalar, enerji güvenliği ve jeopolitik çıkarlar arasındaki karmaşık ilişkiyi gözler önüne sermektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1773170106.jpg?resize=730%2C410&quality=80",
-        "timestamp": "2026-03-10T19:54:25.324Z",
-        "location": {
-            "lat": 35,
-            "lng": 51,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/10/is-control-of-irans-natural-resources-a-factor-in-us-strategy?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773172488908rwjl5",
-        "title": "Almanya Şansölyesi, ABD-İsrail'in İran Savaşı İçin Çıkış Planı Olmadığından Endişeli",
-        "summary": "Almanya Şansölyesi, Amerika Birleşik Devletleri ve İsrail'in İran'a karşı olası bir savaşı sona erdirmeye yönelik \"açıkça ortak bir planı\" bulunmadığı yönündeki endişelerini dile getirdi. Şansölye'nin bu açıklaması, bölgedeki mevcut gerilimlerin ve potansiyel çatışma risklerinin uluslararası arenada nasıl algılandığını gözler önüne serdi. Bu durumun, Orta Doğu'da uzun vadeli istikrarsızlığa yol açabileceği ve diplomatik çözüm çabalarını zorlaştırabileceği belirtildi. Almanya'nın bu konudaki tutumu, uluslararası toplumun İran meselesine yönelik endişelerini ve diplomatik bir çıkış yolu arayışını yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/WIDE-THUMB-Friedrich-Merz-1773170749.jpg?resize=730%2C410&quality=80",
-        "timestamp": "2026-03-10T19:54:48.908Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/10/german-chancellor-concerned-us-israel-have-no-exit-plan-for-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773164151066ybj4t",
-        "title": "İran'daki Savaşın Maliyetleri Artırmasıyla Küresel Havayolları Bilet Fiyatlarını Yükseltti",
-        "summary": "İran'daki savaş, petrol fiyatlarında büyük bir artışa neden oldu. Bu durum, küresel seyahat düzenini bozarak bazı rotalardaki uçak bileti maliyetlerini önemli ölçüde yükseltti.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T17:35:51.066Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/10/global-airlines-hike-ticket-prices-as-iran-war-sends-costs-soaring?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17731641723142d1bp",
-        "title": "Uluslararası Af Örgütü: İsrail, Gazze'deki Kadınların Yaşam Koşullarını Reddediyor",
-        "summary": "Uluslararası Af Örgütü, İsrail'in Gazze'deki kadınlara 'yaşam koşullarını reddettiğini' iddia etti. Küresel haklar grubu, Gazze'deki sağlık ve güvenliğin bozulmasını 'kadınları ve kız çocuklarını hedef alan kasıtlı bir savaş eylemi' olarak nitelendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-10T17:36:12.314Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/10/women-in-gaza-denied-conditions-to-live-amid-israels-genocide-amnesty?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17731642112162ja2m",
-        "title": "Newcastle United ile Barcelona Arasında Şampiyonlar Ligi Son 16 Maçı Canlı Yayında",
-        "summary": "Şampiyonlar Ligi son 16 turu ilk maçında Newcastle United, Barcelona ile karşılaşıyor. Maçın öncesindeki hazırlıklar, analizler ve canlı metin anlatımı takip ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "timestamp": "2026-03-10T17:36:51.216Z",
-        "location": {
-            "lat": 54.98,
-            "lng": -1.62,
-            "name": "Newcastle upon Tyne, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/sports/liveblog/2026/3/10/live-newcastle-united-vs-barcelona-champions-league-last-16?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177316423681553g2s",
-        "title": "Kanada makamları Toronto'daki ABD konsolosluğuna yönelik silahlı saldırıyı araştırıyor",
-        "summary": "Kanada makamları, Toronto'daki ABD konsolosluğuna yönelik silahlı saldırıyı soruşturuyor. Polis raporuna göre, sabahın erken saatlerinde konsolosluğa ateş açılması sonucu herhangi bir yaralanma meydana gelmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T17:37:16.815Z",
-        "location": {
-            "lat": 43.65,
-            "lng": -79.38,
-            "name": "Toronto, Kanada"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/10/canadian-authorities-investigating-gunfire-at-us-consulate-in-toronto?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773153470760vg09h",
-        "title": "Hizbullah ile bağlantılı finans kurumu Al-Qard Al-Hassan nedir?",
-        "summary": "İsrail'in dün Al-Qard Al-Hassan'ın bir şubesini vurduğu bildirildi. Bu durum, Hizbullah ile bağlantılı olduğu belirtilen bu kurumun ne olduğu sorusunu gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "timestamp": "2026-03-10T14:37:50.760Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/10/what-is-the-hezbollah-linked-financial-institution-al-qard-al-hassan?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
