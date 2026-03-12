@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773326304467n29d2",
+        "title": "BM: ABD ve İsrail Saldırıları Nedeniyle İran'da 3,2 Milyon Kişi Yerinden Edildi",
+        "summary": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği (UNHCR) tarafından yapılan açıklamaya göre, İran genelinde ABD ve İsrail'in devam eden saldırıları nedeniyle yaklaşık 3,2 milyon kişi yerinden edildi. Kurum, ABD ve İsrail'in İran'daki ölümcül saldırılarını sürdürmesiyle birlikte zorla yerinden edilmelerin artmasının muhtemel olduğunu belirtti. Bu durum, ülkedeki insani krizi derinleştirme potansiyeli taşıyor ve bölgedeki sivillerin güvenliği ile insani yardıma erişimi konusunda endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "",
+        "timestamp": "2026-03-12T14:38:24.467Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/12/up-to-3-2-million-people-displaced-across-iran-amid-us-israeli-attacks-un?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773326327863zxyt4",
+        "title": "ABD-İsrail Saldırılarının Ardından İran ve Bölgede Patlamalar Sürüyor",
+        "summary": "Tahran'a yönelik ABD ve İsrail tarafından gerçekleştirildiği belirtilen saldırıların ardından bölgede gerilim tırmanıyor. İran, İsrail ve Orta Doğu'daki çeşitli ülkelerde art arda 13 gündür patlama sesleri duyulduğu bildirildi. Bu durum, bölgedeki güvenlik endişelerini derinleştirirken, devam eden olayların geniş çaplı bir istikrarsızlığa yol açtığı değerlendiriliyor. Yaşanan gelişmeler, Orta Doğu'da süregelen çatışma ve güvenlik krizinin boyutlarını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "",
+        "timestamp": "2026-03-12T14:38:47.863Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/3/12/aftermath-of-us-israeli-attacks-on-tehran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17733159613666l5d5",
         "title": "Dubai'deki Bir Gökdelene İnsansız Hava Aracı İsabet Etti",
         "summary": "Birleşik Arap Emirlikleri'nin önemli şehirlerinden Dubai'de bir gökdelenin insansız hava aracı (İHA) tarafından vurulduğu bildirildi. Gece saatlerinde meydana geldiği belirtilen olayda, söz konusu yüksek katlı binada hasar oluştuğu kaydedildi. Olayın ardından çekilen ve sosyal medyada paylaşılan videolarda, binanın dış cephesindeki hasarın boyutları gözler önüne serildi. Yetkililerden henüz resmi bir açıklama gelmezken, olayın nedenleri ve sorumluları hakkında araştırmaların sürdüğü tahmin ediliyor. Bu tür bir saldırının bölgedeki güvenlik endişelerini artırabileceği belirtiliyor.",
@@ -764,38 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/11/beirut-building-ablaze-after-apparent-israeli-strike?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773205483503126h4",
-        "title": "İran Savaşına İlişkin Çelişkili Mesajlar Ortasında Petrol Fiyatları Büyük Dalgalanmalar Yaşadı",
-        "summary": "Ham petrol fiyatları, İran ile olası bir savaşa ilişkin çelişkili mesajlar nedeniyle büyük dalgalanmalar yaşadı. Enerji piyasaları, küresel petrol ticaretinin ana geçiş noktalarından biri olan Hürmüz Boğazı'nın fiili olarak kapanma ihtimali konusunda büyük bir gerginlik içinde kalmaya devam ediyor. Bu durum, küresel petrol arzı ve fiyatları üzerinde ciddi endişelere yol açarken, piyasalardaki belirsizlik artıyor ve yatırımcılar gelişmeleri yakından takip ediyor. Petrol fiyatlarındaki keskin düşüş, boğazın kapanma riskine yönelik endişeleri yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260310__A2N48QB__v1__MidRes__KuwaitIranUsIsraelWarOilMarkets-1773188710.jpg?resize=770%2C513&quality=80",
-        "timestamp": "2026-03-11T05:04:43.503Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Basra Körfezi"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/11/oil-prices-swing-wildly-amid-mixed-messages-over-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773186878692lr5gl",
-        "title": "Demokratlar, Beyaz Saray'ın İran Savaşı Hedefleri Konusunda Belirsizliğini Eleştirdi",
-        "summary": "ABD'deki Demokrat Parti üyeleri, Beyaz Saray'ın İran'a yönelik olası savaş hedefleri konusunda yeterli netlik sağlamadığını ifade etti. Parti üyeleri, 11 gün geçmesine ve son yapılan gizli brifinge rağmen savaşın gerekçeleri ve amaçları hakkında hala bir açıklık olmamasını \"rahatsız edici\" olarak nitelendirdi. Bu durum, Beyaz Saray'ın İran politikasına dair belirsizliklerin devam ettiğini ve Demokratlar arasında endişe yarattığını gösteriyor. Muhalefet, ABD'nin Orta Doğu'daki potansiyel askeri adımlarına ilişkin daha şeffaf bir bilgilendirme talep ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69b07886-1773172870.jpg?resize=770%2C513&quality=80",
-        "timestamp": "2026-03-10T23:54:38.692Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/10/democrats-say-white-house-still-giving-no-clarity-on-iran-war-after-eleven-days?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
