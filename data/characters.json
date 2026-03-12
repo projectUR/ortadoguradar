@@ -1,32 +1,362 @@
 [
-  { "id": "mustafa-kemal-ataturk", "name": "Mustafa Kemal Atatürk", "nationality": "Türk", "role": "Asker/Siyasetçi", "status": "Ölü" },
-  { "id": "fatih-sultan-mehmed", "name": "Fatih Sultan Mehmed", "nationality": "Türk", "role": "Monark/Padişah", "status": "Ölü" },
-  { "id": "kanuni-sultan-suleyman", "name": "Kanuni Sultan Süleyman", "nationality": "Türk", "role": "Monark/Padişah", "status": "Ölü" },
-  { "id": "ii-abdulhamid", "name": "II. Abdülhamid", "nationality": "Türk", "role": "Monark/Padişah", "status": "Ölü" },
-  { "id": "ismet-inonu", "name": "İsmet İnönü", "nationality": "Türk", "role": "Asker/Siyasetçi", "status": "Ölü" },
-  { "id": "recep-tayyip-erdogan", "name": "Recep Tayyip Erdoğan", "nationality": "Türk", "role": "Siyasetçi/Lider", "status": "Hayatta" },
-  { "id": "turgut-ozal", "name": "Turgut Özal", "nationality": "Türk", "role": "Siyasetçi/Lider", "status": "Ölü" },
-  { "id": "bulent-ecevit", "name": "Bülent Ecevit", "nationality": "Türk", "role": "Siyasetçi/Lider", "status": "Ölü" },
-  { "id": "david-ben-gurion", "name": "David Ben-Gurion", "nationality": "İsrailli", "role": "Siyasetçi/Lider", "status": "Ölü" },
-  { "id": "benjamin-netanyahu", "name": "Benjamin Netanyahu", "nationality": "İsrailli", "role": "Siyasetçi/Lider", "status": "Hayatta" },
-  { "id": "ariel-sharon", "name": "Ariel Sharon", "nationality": "İsrailli", "role": "Asker/Siyasetçi", "status": "Ölü" },
-  { "id": "yaser-arafat", "name": "Yaser Arafat", "nationality": "Filistinli", "role": "Siyasetçi/Lider", "status": "Ölü" },
-  { "id": "mahmud-abbas", "name": "Mahmud Abbas", "nationality": "Filistinli", "role": "Siyasetçi/Lider", "status": "Hayatta" },
-  { "id": "cemal-abdunnasir", "name": "Cemal Abdünnasır", "nationality": "Mısırlı", "role": "Asker/Siyasetçi", "status": "Ölü" },
-  { "id": "enver-sedat", "name": "Enver Sedat", "nationality": "Mısırlı", "role": "Asker/Siyasetçi", "status": "Ölü" },
-  { "id": "ruhullah-humeyni", "name": "Ruhullah Humeyni", "nationality": "İranlı", "role": "Din Adamı/Lider", "status": "Ölü" },
-  { "id": "ali-hamaney", "name": "Ali Hamaney", "nationality": "İranlı", "role": "Din Adamı/Lider", "status": "Ölü" },
-  { "id": "muhammed-riza-pehlevi", "name": "Muhammed Rıza Pehlevi", "nationality": "İranlı", "role": "Monark/Şah", "status": "Ölü" },
-  { "id": "saddam-huseyin", "name": "Saddam Hüseyin", "nationality": "Iraklı", "role": "Siyasetçi/Lider", "status": "Ölü" },
-  { "id": "bessar-esad", "name": "Beşşar Esad", "nationality": "Suriyeli", "role": "Siyasetçi/Lider", "status": "Hayatta" },
-  { "id": "hafiz-esad", "name": "Hafız Esad", "nationality": "Suriyeli", "role": "Asker/Siyasetçi", "status": "Ölü" },
-  { "id": "kral-faysal", "name": "Kral Faysal", "nationality": "Suudi", "role": "Monark", "status": "Ölü" },
-  { "id": "muhammed-bin-selman", "name": "Muhammed bin Selman (MBS)", "nationality": "Suudi", "role": "Siyasetçi/Veliaht", "status": "Hayatta" },
-  { "id": "usame-bin-ladin", "name": "Usame bin Ladin", "nationality": "Suudi", "role": "Militan/Lider", "status": "Ölü" },
-  { "id": "muammer-kaddafi", "name": "Muammer Kaddafi", "nationality": "Libyalı", "role": "Asker/Lider", "status": "Ölü" },
-  { "id": "t-e-lawrence", "name": "T.E. Lawrence", "nationality": "İngiliz", "role": "Asker/Ajan", "status": "Ölü" },
-  { "id": "winston-churchill", "name": "Winston Churchill", "nationality": "İngiliz", "role": "Siyasetçi/Lider", "status": "Ölü" },
-  { "id": "george-w-bush", "name": "George W. Bush", "nationality": "Amerikalı", "role": "Siyasetçi/Lider", "status": "Hayatta" },
-  { "id": "barack-obama", "name": "Barack Obama", "nationality": "Amerikalı", "role": "Siyasetçi/Lider", "status": "Hayatta" },
-  { "id": "vladimir-putin", "name": "Vladimir Putin", "nationality": "Rus", "role": "Siyasetçi/Lider", "status": "Hayatta" }
+  {
+    "id": "mustafa-kemal-ataturk",
+    "name": "Mustafa Kemal Atatürk",
+    "nationality": "Türk",
+    "role": "Asker/Siyasetçi",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Türkiye Cumhuriyeti'nin kurucusu ve ilk Cumhurbaşkanı.",
+      "regional_impact": "Emperyalizme karşı verdiği bağımsızlık savaşı ve gerçekleştirdiği laik, modern devrimlerle tüm Orta Doğu ve mazlum uluslara ilham kaynağı olmuştur.",
+      "trivia": "Geometri terimlerini (üçgen, açı, dikdörtgen vb.) Türkçe olarak bizzat kendisi türetmiş ve bir geometri kitabı yazmıştır."
+    }
+  },
+  {
+    "id": "fatih-sultan-mehmed",
+    "name": "Fatih Sultan Mehmed",
+    "nationality": "Türk",
+    "role": "Monark/Padişah",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "1453'te İstanbul'u fethederek Bizans İmparatorluğu'na son veren Osmanlı padişahı.",
+      "regional_impact": "İstanbul'un fethiyle İslam dünyasının prestijini zirveye taşımış ve Avrupa ile Orta Doğu'daki güç dengelerini kökünden değiştirmiştir.",
+      "trivia": "Ana dili Türkçenin yanı sıra Arapça, Farsça, Yunanca, Sırpça ve İtalyanca olmak üzere en az altı dil bildiği tarihi kaynaklarda yer alır."
+    }
+  },
+  {
+    "id": "kanuni-sultan-suleyman",
+    "name": "Kanuni Sultan Süleyman",
+    "nationality": "Türk",
+    "role": "Monark/Padişah",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Osmanlı İmparatorluğu'nun en uzun süre tahtta kalan 10. padişahı.",
+      "regional_impact": "Orta Doğu, Kuzey Afrika ve Avrupa'da sınırları genişleterek imparatorluğu siyasi ve askeri gücünün zirvesine ulaştırmıştır.",
+      "trivia": "Batı dünyasında 'Muhteşem' (The Magnificent), doğuda ise adalet kanunnameleri nedeniyle 'Kanuni' olarak anılır."
+    }
+  },
+  {
+    "id": "ii-abdulhamid",
+    "name": "II. Abdülhamid",
+    "nationality": "Türk",
+    "role": "Monark/Padişah",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Osmanlı İmparatorluğu'nun 34. padişahı ve çöküş döneminin en çok tartışılan figürlerinden biri.",
+      "regional_impact": "İmparatorluğu bir arada tutmak için Pan-İslamizm politikasını benimsemiş ve Hicaz Demiryolu gibi devasa projelerle Orta Doğu'yu İstanbul'a bağlamayı hedeflemiştir.",
+      "trivia": "Çok usta bir marangozdu; Yıldız Sarayı'ndaki atölyesinde kendi elleriyle ürettiği mobilyalar bugün hala müzelerde sergilenmektedir."
+    }
+  },
+  {
+    "id": "ismet-inonu",
+    "name": "İsmet İnönü",
+    "nationality": "Türk",
+    "role": "Asker/Siyasetçi",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Türkiye'nin ilk Başbakanı ve ikinci Cumhurbaşkanı.",
+      "regional_impact": "Lozan Antlaşması'ndaki diplomatik başarısıyla modern Türkiye'nin sınırlarını tescilletmiş ve ülkeyi İkinci Dünya Savaşı'nın yıkımından uzak tutmuştur.",
+      "trivia": "Çok iyi bir satranç oyuncusuydu ve ileri yaşlarında viyolonsel çalmayı öğrenmişti."
+    }
+  },
+  {
+    "id": "recep-tayyip-erdogan",
+    "name": "Recep Tayyip Erdoğan",
+    "nationality": "Türk",
+    "role": "Siyasetçi/Lider",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "Türkiye Cumhuriyeti'nin 12. Cumhurbaşkanı.",
+      "regional_impact": "Arap Baharı süreci ve sonrasında proaktif dış politika izleyerek Türkiye'nin Orta Doğu ve Kuzey Afrika'daki siyasi, askeri etkisini artırmıştır.",
+      "trivia": "Gençlik yıllarında amatör olarak futbol oynamış ve İETT spor kulübünde forma giymiştir."
+    }
+  },
+  {
+    "id": "turgut-ozal",
+    "name": "Turgut Özal",
+    "nationality": "Türk",
+    "role": "Siyasetçi/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Türkiye'nin 8. Cumhurbaşkanı ve dışa açılma politikalarının mimarı.",
+      "regional_impact": "Birinci Körfez Savaşı'nda aktif bir tutum sergileyerek Türkiye'nin Orta Doğu'daki stratejik rolünü yeniden şekillendirmeye çalışmıştır.",
+      "trivia": "Türkiye'de internetin ve sivil havacılığın yaygınlaşması için ilk büyük altyapı adımlarını atan liderdir."
+    }
+  },
+  {
+    "id": "bulent-ecevit",
+    "name": "Bülent Ecevit",
+    "nationality": "Türk",
+    "role": "Siyasetçi/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Eski Türkiye Başbakanı, siyasetçi ve şair.",
+      "regional_impact": "1974 Kıbrıs Barış Harekatı emrini vererek Doğu Akdeniz'deki jeopolitik dengeleri kökünden değiştirmiş ve Orta Doğu liderleriyle Filistin meselesinde yakın ilişkiler kurmuştur.",
+      "trivia": "Siyasetçi kimliğinin yanı sıra Sanskritçe bilen, Tagore'un eserlerini Türkçeye çeviren saygın bir şairdi."
+    }
+  },
+  {
+    "id": "david-ben-gurion",
+    "name": "David Ben-Gurion",
+    "nationality": "İsrailli",
+    "role": "Siyasetçi/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "İsrail Devleti'nin kurucusu ve ilk Başbakanı.",
+      "regional_impact": "1948'de İsrail'in bağımsızlığını ilan ederek Orta Doğu'da günümüze kadar sürecek olan Arap-İsrail çatışmalarının merkezindeki devleti inşa etmiştir.",
+      "trivia": "Siyasete veda ettikten sonra Necef Çölü'ndeki bir kibbutza (tarım komünü) yerleşip emekliliğini çiftçilik yaparak geçirmiştir."
+    }
+  },
+  {
+    "id": "benjamin-netanyahu",
+    "name": "Benjamin Netanyahu",
+    "nationality": "İsrailli",
+    "role": "Siyasetçi/Lider",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "İsrail tarihinin en uzun süre görev yapan Başbakanı.",
+      "regional_impact": "Filistin meselesinde sertlik yanlısı politikaları, İran karşıtı küresel lobisi ve bazı Arap ülkeleriyle yapılan İbrahim Anlaşmaları ile bölge siyasetini derinden etkilemiştir.",
+      "trivia": "İsrail'in bağımsızlığını ilan etmesinden sonra (1948'den sonra) doğan ilk İsrail Başbakanı'dır."
+    }
+  },
+  {
+    "id": "ariel-sharon",
+    "name": "Ariel Sharon",
+    "nationality": "İsrailli",
+    "role": "Asker/Siyasetçi",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "İsrailli eski general ve Başbakan.",
+      "regional_impact": "1982 Lübnan işgalindeki rolü ve 2000 yılında Mescid-i Aksa'ya yaptığı tartışmalı ziyaretle İkinci İntifada'nın fitilini ateşleyen kilit isim olmuştur.",
+      "trivia": "Askeri taktikleri ve fiziksel yapısı nedeniyle İsrail kamuoyunda 'Buldozer' lakabıyla anılırdı."
+    }
+  },
+  {
+    "id": "yaser-arafat",
+    "name": "Yaser Arafat",
+    "nationality": "Filistinli",
+    "role": "Siyasetçi/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Filistin Kurtuluş Örgütü'nün (FKÖ) efsanevi lideri ve Filistin Ulusal Yönetimi'nin ilk başkanı.",
+      "regional_impact": "Filistin davasını uluslararası arenaya taşıyarak dünya gündemine oturtmuş, Orta Doğu barış süreçlerinin (Oslo Anlaşmaları) kilit aktörlerinden biri olmuştur.",
+      "trivia": "Sürekli taktığı siyah-beyaz kefiyesi (poşusu) ile dünya çapında bir direniş sembolü haline gelmiş; 1994'te Nobel Barış Ödülü'nü kazanmıştır."
+    }
+  },
+  {
+    "id": "mahmud-abbas",
+    "name": "Mahmud Abbas",
+    "nationality": "Filistinli",
+    "role": "Siyasetçi/Lider",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "Filistin Devleti ve Filistin Ulusal Yönetimi Başkanı.",
+      "regional_impact": "Arafat'ın ardından direnişin silahlı kanadından ziyade uluslararası diplomasi ve müzakere masalarına odaklanan bir strateji benimsemiştir.",
+      "trivia": "Gençliğinde Şam Üniversitesi'nde hukuk okumuş, doktora tezini ise Siyonizm ve Nazizm ilişkisi üzerine yazmıştır."
+    }
+  },
+  {
+    "id": "cemal-abdunnasir",
+    "name": "Cemal Abdünnasır",
+    "nationality": "Mısırlı",
+    "role": "Asker/Siyasetçi",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Mısır'ın ikinci Cumhurbaşkanı ve Pan-Arap milliyetçiliğinin ikonik lideri.",
+      "regional_impact": "Süveyş Kanalı'nı millileştirerek Batı emperyalizmine meydan okumuş ve Soğuk Savaş döneminde Arap dünyasının tartışmasız siyasi lideri konumuna yükselmiştir.",
+      "trivia": "Kitleleri etkileme gücü o kadar yüksekti ki, radyodaki 'Sawt al-Arab' (Arabın Sesi) yayınlarıyla tüm Orta Doğu'yu tek bir odadan yönlendirebiliyordu."
+    }
+  },
+  {
+    "id": "enver-sedat",
+    "name": "Enver Sedat",
+    "nationality": "Mısırlı",
+    "role": "Asker/Siyasetçi",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Mısır'ın üçüncü Cumhurbaşkanı ve Camp David Sözleşmesi'nin mimarı.",
+      "regional_impact": "1973 Yom Kippur Savaşı'nı başlatarak İsrail'i masaya oturtmuş, ardından İsrail ile barış anlaşması imzalayan ilk Arap lider olarak bölge dengelerini sarsmıştır.",
+      "trivia": "İsrail ile yaptığı barış nedeniyle Arap dünyasında dışlanmış ve nihayetinde 1981'de askeri bir geçit töreni sırasında suikasta kurban gitmiştir."
+    }
+  },
+  {
+    "id": "ruhullah-humeyni",
+    "name": "Ruhullah Humeyni",
+    "nationality": "İranlı",
+    "role": "Din Adamı/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "1979 İran İslam Devrimi'nin mimarı ve İran'ın ilk Dini Lideri.",
+      "regional_impact": "Şah rejimini devirerek bölgede teokratik bir devlet kurmuş; 'devrim ihracı' politikasıyla tüm Orta Doğu'da Şii-Sünni ve Batı-Doğu jeopolitiğini kalıcı olarak değiştirmiştir.",
+      "trivia": "Devrim öncesinde yıllarca Türkiye (Bursa), Irak ve Fransa'da sürgünde yaşamış, devrimi kasetlere kaydettiği vaazlarıyla örgütlemiştir."
+    }
+  },
+  {
+    "id": "ali-hamaney",
+    "name": "Ali Hamaney",
+    "nationality": "İranlı",
+    "role": "Din Adamı/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "İran'ın ikinci ve mevcut Dini Lideri (Ayetullah).",
+      "regional_impact": "Humeyni'nin ölümünden sonra İran'ın nükleer programını ve Lübnan, Suriye, Yemen'deki 'Direniş Ekseni' stratejisini bizzat yöneten en üst düzey otoritedir.",
+      "trivia": "Gençliğinde bir suikast girişiminden sağ kurtulmuştur; bu saldırı nedeniyle sağ kolunu tam olarak kullanamamaktadır."
+    }
+  },
+  {
+    "id": "muhammed-riza-pehlevi",
+    "name": "Muhammed Rıza Pehlevi",
+    "nationality": "İranlı",
+    "role": "Monark/Şah",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "İran'ın son Şahı.",
+      "regional_impact": "Batı yanlısı politikaları ve 'Beyaz Devrim' adını verdiği modernleşme hamleleriyle ülkeyi dönüştürmeye çalışmış, ancak 1979 İslam Devrimi ile tahtını kaybetmiştir.",
+      "trivia": "Arabaları çok severdi ve dünyanın en büyük özel lüks otomobil koleksiyonlarından birine sahipti."
+    }
+  },
+  {
+    "id": "saddam-huseyin",
+    "name": "Saddam Hüseyin",
+    "nationality": "Iraklı",
+    "role": "Siyasetçi/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Irak'ı yirmi yılı aşkın süre yöneten devrik Baas Partisi lideri.",
+      "regional_impact": "İran-Irak Savaşı ve Kuveyt'i işgali ile bölgedeki sınırları sarsmış, dış güçlerin Orta Doğu'ya askeri müdahalesine zemin hazırlayan krizlerin baş aktörü olmuştur.",
+      "trivia": "Kendi kanıyla yazılmış, 600 sayfadan oluşan özel bir Kuran-ı Kerim nüshası hazırlatmıştır."
+    }
+  },
+  {
+    "id": "bessar-esad",
+    "name": "Beşşar Esad",
+    "nationality": "Suriyeli",
+    "role": "Siyasetçi/Lider",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "Suriye Devlet Başkanı.",
+      "regional_impact": "Arap Baharı sürecinde patlak veren iç savaşta iktidarda kalmak için uyguladığı sert askeri yöntemlerle ülkesinin yıkımına ve devasa bir bölgesel mülteci krizine neden olmuştur.",
+      "trivia": "Siyasete atılmadan önce İngiltere'de oftalmoloji (göz doktorluğu) eğitimi alıyordu; ağabeyinin trafik kazasında ölümü üzerine veliaht konumuna geçti."
+    }
+  },
+  {
+    "id": "hafiz-esad",
+    "name": "Hafız Esad",
+    "nationality": "Suriyeli",
+    "role": "Asker/Siyasetçi",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Suriye'yi 30 yıl boyunca demir yumrukla yöneten eski Devlet Başkanı.",
+      "regional_impact": "Lübnan iç savaşına müdahalesi ve İsrail'e karşı izlediği sert politikalarla Suriye'yi Orta Doğu'nun kilit ve tavizsiz aktörlerinden biri haline getirmiştir.",
+      "trivia": "Askeri kariyerine savaş pilotu olarak başlamış ve Suriye Hava Kuvvetleri komutanlığına kadar yükselmiştir."
+    }
+  },
+  {
+    "id": "kral-faysal",
+    "name": "Kral Faysal",
+    "nationality": "Suudi",
+    "role": "Monark",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Suudi Arabistan'ın üçüncü kralı.",
+      "regional_impact": "1973 Arap-İsrail Savaşı sırasında Batı'ya uyguladığı Petrol Ambargosu ile küresel bir enerji krizine yol açmış ve petrolü siyasi bir silaha dönüştürmüştür.",
+      "trivia": "1975 yılında kendi sarayında, Amerika'da eğitim görmüş yeğeni tarafından suikasta uğrayarak hayatını kaybetmiştir."
+    }
+  },
+  {
+    "id": "muhammed-bin-selman",
+    "name": "Muhammed bin Selman (MBS)",
+    "nationality": "Suudi",
+    "role": "Siyasetçi/Veliaht",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "Suudi Arabistan Veliaht Prensi ve fiili yöneticisi.",
+      "regional_impact": "Yemen'e askeri müdahalesi, Katar ablukası ve 'Vizyon 2030' adını verdiği cesur ekonomik/sosyal reformlarla krallığın geleneksel dış politikasını baştan yazmıştır.",
+      "trivia": "Oyun endüstrisine büyük ilgi duymaktadır ve dünyanın en büyük e-spor merkezlerinden birini Riyad'da kurma projesi yürütmektedir."
+    }
+  },
+  {
+    "id": "usame-bin-ladin",
+    "name": "Usame bin Ladin",
+    "nationality": "Suudi",
+    "role": "Militan/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "El-Kaide terör örgütünün kurucusu ve eski lideri.",
+      "regional_impact": "11 Eylül saldırılarını planlayarak ABD'nin Afganistan ve Irak işgallerini tetiklemiş, küresel terörizmin ve Orta Doğu'daki asimetrik savaşların seyrini değiştirmiştir.",
+      "trivia": "Çok zengin bir Suudi inşaat ailesinden gelmesine rağmen, servetini bırakıp Afganistan dağlarındaki mağaralarda yaşamayı seçmiştir."
+    }
+  },
+  {
+    "id": "muammer-kaddafi",
+    "name": "Muammer Kaddafi",
+    "nationality": "Libyalı",
+    "role": "Asker/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "Libya'yı 42 yıl boyunca yöneten eksantrik siyasetçi.",
+      "regional_impact": "Arap ve Afrika birliği ideallerini savunarak bölge siyasetinde aykırı bir figür olmuş, petrol politikalarıyla küresel güçlere karşı sert bir çizgi çekmiştir.",
+      "trivia": "Yurt dışı gezilerine bedevi çadırı ile gider ve gittiği ülkelerin başkentlerinde otel yerine bu devasa çadırda kalırdı."
+    }
+  },
+  {
+    "id": "t-e-lawrence",
+    "name": "T.E. Lawrence",
+    "nationality": "İngiliz",
+    "role": "Asker/Ajan",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "'Arabistanlı Lawrence' olarak bilinen İngiliz arkeolog, askeri subay ve diplomat.",
+      "regional_impact": "Birinci Dünya Savaşı'nda Osmanlı İmparatorluğu'na karşı yürütülen Arap İsyanı'nı organize ederek Orta Doğu'nun parçalanma sürecinde kritik bir rol oynamıştır.",
+      "trivia": "Savaş sonrası şöhretten kaçmak için sahte isimlerle sıradan bir asker olarak tekrar orduya yazılmış, bir motosiklet kazasında hayatını kaybetmiştir."
+    }
+  },
+  {
+    "id": "winston-churchill",
+    "name": "Winston Churchill",
+    "nationality": "İngiliz",
+    "role": "Siyasetçi/Lider",
+    "status": "Ölü",
+    "profile": {
+      "bio_summary": "İkinci Dünya Savaşı sırasında İngiltere'ye liderlik eden tarihi başbakan.",
+      "regional_impact": "Birinci Dünya Savaşı sonrası, 1921 Kahire Konferansı'nda masada yer alarak Irak ve Ürdün gibi modern Orta Doğu devletlerinin harita üzerindeki sınırlarını çizenlerden biridir.",
+      "trivia": "Edebiyata olan büyük yeteneği sayesinde, bir siyasetçi olmasına rağmen 1953 yılında Nobel Edebiyat Ödülü'nü kazanmıştır."
+    }
+  },
+  {
+    "id": "george-w-bush",
+    "name": "George W. Bush",
+    "nationality": "Amerikalı",
+    "role": "Siyasetçi/Lider",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "Amerika Birleşik Devletleri'nin 43. Başkanı.",
+      "regional_impact": "11 Eylül sonrası ilan ettiği 'Terörle Savaş' doktriniyle Afganistan ve Irak'ı işgal ederek Orta Doğu'yu on yıllar sürecek bir istikrarsızlık sarmalına sokmuştur.",
+      "trivia": "Siyasi kariyerinden önce bir dönem Amerikan profesyonel beyzbol takımı Texas Rangers'ın ortak sahibiydi."
+    }
+  },
+  {
+    "id": "barack-obama",
+    "name": "Barack Obama",
+    "nationality": "Amerikalı",
+    "role": "Siyasetçi/Lider",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "Amerika Birleşik Devletleri'nin 44. Başkanı ve ilk siyahi lideri.",
+      "regional_impact": "Arap Baharı sürecindeki tutumu, Irak'tan asker çekme kararı ve İran ile imzaladığı tarihi nükleer anlaşma ile bölgede Amerikan diplomasisini yeniden şekillendirmeye çalışmıştır.",
+      "trivia": "İki kez Grammy Ödülü kazanmıştır; ödüllerini yazdığı kitapların sesli versiyonlarını seslendirerek elde etmiştir."
+    }
+  },
+  {
+    "id": "vladimir-putin",
+    "name": "Vladimir Putin",
+    "nationality": "Rus",
+    "role": "Siyasetçi/Lider",
+    "status": "Hayatta",
+    "profile": {
+      "bio_summary": "Rusya Federasyonu Devlet Başkanı.",
+      "regional_impact": "2015 yılında Suriye İç Savaşı'na Esad rejimi lehine askeri müdahalede bulunarak, Rusya'yı Soğuk Savaş sonrası Orta Doğu'da yeniden belirleyici bir süper güç konumuna taşımıştır.",
+      "trivia": "Eski bir KGB ajanıdır ve judoda siyah kuşak sahibidir."
+    }
+  }
 ]
