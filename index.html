@@ -41,6 +41,9 @@
                 <button class="toggle-btn" id="btn-quiz" title="Orta Doğu Kimdir? (Oyun)">
                     <i class="fa-solid fa-gamepad"></i> Oyun
                 </button>
+                <button class="toggle-btn" id="btn-arsenal" title="Bölgesel Askeri Envanter">
+                    <i class="fa-solid fa-shield-halved"></i> Envanter
+                </button>
             </div>
 
             <div class="lang-selector">
@@ -143,6 +146,23 @@
                 </div>
             </div>
 
+        </section>
+        <section id="arsenalContainer" class="hidden" style="grid-column: 1 / -1; padding: 20px;">
+            <div class="arsenal-header" style="text-align: center; margin-bottom: 30px;">
+                <h2 style="color: var(--text-primary); margin-bottom: 20px; font-size: 1.8rem;"><i class="fa-solid fa-crosshairs"></i> Bölgesel Askeri Envanter</h2>
+                
+                <div class="country-filters" id="arsenalFilters" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+                    <button class="filter-btn active" data-country="Tümü" style="padding: 8px 16px; border-radius: 20px; background: var(--accent-blue); border: none; color: white; cursor: pointer; transition: 0.3s;">Tümü</button>
+                    <button class="filter-btn" data-country="ABD" style="padding: 8px 16px; border-radius: 20px; background: #2a2a2a; border: 1px solid #444; color: white; cursor: pointer; transition: 0.3s;">ABD</button>
+                    <button class="filter-btn" data-country="Rusya" style="padding: 8px 16px; border-radius: 20px; background: #2a2a2a; border: 1px solid #444; color: white; cursor: pointer; transition: 0.3s;">Rusya</button>
+                    <button class="filter-btn" data-country="İsrail" style="padding: 8px 16px; border-radius: 20px; background: #2a2a2a; border: 1px solid #444; color: white; cursor: pointer; transition: 0.3s;">İsrail</button>
+                    <button class="filter-btn" data-country="İran" style="padding: 8px 16px; border-radius: 20px; background: #2a2a2a; border: 1px solid #444; color: white; cursor: pointer; transition: 0.3s;">İran</button>
+                    <button class="filter-btn" data-country="Türkiye" style="padding: 8px 16px; border-radius: 20px; background: #2a2a2a; border: 1px solid #444; color: white; cursor: pointer; transition: 0.3s;">Türkiye</button>
+                </div>
+            </div>
+
+            <div class="arsenal-grid" id="arsenalGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px;">
+                </div>
         </section>
 
     </main>
