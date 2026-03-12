@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773338228525j0foj",
+        "title": "İran Enerji Hedeflerine Yönelik Saldırılarını Artırırken Tankerler Vuruldu",
+        "summary": "İran'ın enerji hedeflerine yönelik saldırılarını artırdığı bildirildi. Bahreyn ve Umman'da İran kaynaklı saldırılar rapor edilirken, Irak yakınlarında iki yabancı yakıt tankerinin vurulduğu bilgisi paylaşıldı. Bu gelişmeler, Basra Körfezi ve çevresindeki denizcilik güvenliği ile enerji arzı üzerindeki gerilimi yükseltiyor. Bölgedeki ülkeler ve uluslararası aktörler, durumu yakından takip ediyor. Saldırıların sorumluluğu ve detaylarına ilişkin resmi açıklamalar bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "",
+        "timestamp": "2026-03-12T17:57:08.525Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.bbc.com/news/articles/c743gpd9z72o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1773337157093v4hpt",
         "title": "Trump'tan İran'ın Dünya Kupası'na Katılımına İlişkin Açıklama",
         "summary": "Amerika Birleşik Devletleri Başkanı Donald Trump, İran'ın ABD'de düzenlenecek olan Dünya Kupası'na katılımının 'uygun olmadığını' dile getirdi. FIFA Barış Ödülü sahibi olan Trump, İran'ın ülkesinde hoş karşılanacağını ancak oyuncularının güvenliği gerekçesiyle turnuvaya gelmemesi gerektiğini belirtti. Bu açıklama, ABD ile İran arasındaki gergin ilişkilerin spor etkinliklerine yansıması olarak değerlendirildi. Trump'ın bu sözleri, uluslararası spor organizasyonlarında siyasi ve güvenlik endişelerinin rolünü bir kez daha gündeme getirdi ve tartışmalara yol açtı.",
@@ -780,22 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-across-lebanon-since-dawn-wednesday-kill-16-wound-26/3859136",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773215894620xbhbb",
-        "title": "Bağdat'taki ABD Diplomatik Tesisine İHA Saldırısı Düzenlendiği İddia Edildi",
-        "summary": "Washington Post'un bildirdiğine göre, Irak'ın başkenti Bağdat'ta bulunan bir ABD diplomatik tesisine insansız hava aracıyla saldırı düzenlendi. Bu saldırının, bölgedeki gerilimin tırmandığı bir dönemde, İran yanlısı milisler tarafından gerçekleştirildiği şüpheleniliyor. Olayın, ABD ve İsrail'in İran ile yaşadığı gerilimin ortasında meydana geldiği belirtiliyor. Bölgesel tansiyonun yükseldiği bir süreçte gerçekleşen bu saldırı, Orta Doğu'daki güvenlik durumuna ilişkin endişeleri artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/11/thumbs_b_c_bb3209e88fefda6489d871663b50efdb.jpg?v=073435",
-        "timestamp": "2026-03-11T07:58:14.620Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-hits-us-diplomatic-facility-in-baghdad-amid-us-israeli-war-with-iran-report/3859060",
         "trendScore": 85,
         "isBreaking": false
     }
