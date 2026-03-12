@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773345370151m77wo",
+        "title": "Somali, İsrail'in Somaliland'da Üs Kurma Planlarına Karşı Uyardı",
+        "summary": "Somali hükümeti, İsrail'in ayrılıkçı Somaliland bölgesinde askeri üs kurma olasılığına ilişkin ciddi endişelerini dile getirdi. Somali'li bir bakan, Al Jazeera'ye yaptığı açıklamada, bu tür planların Somali'yi 'dış çatışmalara' sürükleme riski taşıdığını belirtti. Mogadişu yönetimi, Somaliland'ı kendi topraklarının bir parçası olarak görmekte ve uluslararası hukuka göre tanınmamış bir devlet olarak kabul etmektedir. İsrail'in bölgedeki potansiyel askeri varlığı, Kızıldeniz ve Aden Körfezi'nin stratejik önemini artırırken, bölgesel istikrara yönelik yeni gerilimler yaratabileceği değerlendiriliyor. Bu durum, Doğu Afrika ve Orta Doğu arasındaki ilişkilerde yeni bir boyut açabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "",
+        "timestamp": "2026-03-12T19:56:10.151Z",
+        "location": {
+            "lat": 2.0469,
+            "lng": 45.3182,
+            "name": "Mogadişu, Somali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/12/somalia-warns-against-any-israeli-base-plans-on-somaliland?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773345440996f2foz",
+        "title": "İran Savaşı, Dünyanın Körfez Petrol ve Gazına Bağımlılığını Gözler Önüne Serdi",
+        "summary": "Haber başlığı, İran ile ilgili bir savaşın, küresel enerji piyasalarının Körfez bölgesindeki petrol ve doğalgaz kaynaklarına olan derin bağımlılığını açıkça ortaya koyduğunu belirtiyor. Dünya genelindeki ülkeler, bu çatışmanın ve beraberinde getirdiği enerji fiyat şokunun etkilerini hissetmektedir. Bu durum, enerji arz güvenliği ve küresel ekonominin kırılganlığı konularını yeniden gündeme getirdi. Özellikle Körfez ülkeleri, dünya enerji tedarik zincirindeki kritik konumlarıyla dikkat çekmektedir. Yaşanan gelişmeler, uluslararası toplumun enerji stratejilerini gözden geçirmesi gerektiğine işaret ediyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "",
+        "timestamp": "2026-03-12T19:57:20.996Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 51.5,
+            "name": "Basra Körfezi, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/c15x1y8d37vo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17733454796799klx2",
+        "title": "İran'da Savaşa Destek Verenler Arasında Endişeler Artıyor: 'Geride Yıkıntılar Kalırsa Ne Olur?'",
+        "summary": "BBC'ye konuşan öğretmenler, mühendisler ve esnaflar gibi farklı meslek gruplarından İranlılar, ülkelerinin geleceği hakkında derin endişeler taşıdıklarını ifade etti. Daha önce savaşı desteklemiş olsalar dahi, İran'ın kaosa sürüklenmesinden korktuklarını dile getirdiler. Toplumun çeşitli kesimlerinden yükselen bu sesler, ülkedeki belirsizlik ortamına ve olası iç istikrarsızlığa dikkat çekiyor. Bu durum, İran'ın bölgesel ve iç dinamiklerden kaynaklanan zorluklarla karşı karşıya olduğunu gösteriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "",
+        "timestamp": "2026-03-12T19:57:59.679Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773338228525j0foj",
         "title": "İran Enerji Hedeflerine Yönelik Saldırılarını Artırırken Tankerler Vuruldu",
         "summary": "İran'ın enerji hedeflerine yönelik saldırılarını artırdığı bildirildi. Bahreyn ve Umman'da İran kaynaklı saldırılar rapor edilirken, Irak yakınlarında iki yabancı yakıt tankerinin vurulduğu bilgisi paylaşıldı. Bu gelişmeler, Basra Körfezi ve çevresindeki denizcilik güvenliği ile enerji arzı üzerindeki gerilimi yükseltiyor. Bölgedeki ülkeler ve uluslararası aktörler, durumu yakından takip ediyor. Saldırıların sorumluluğu ve detaylarına ilişkin resmi açıklamalar bekleniyor.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773215828470y7lff",
-        "title": "Irak'ın başkenti Bağdat'ta yerleşim yerine yakın insansız hava aracı düştü",
-        "summary": "Irak'ın başkenti Bağdat'ta bir insansız hava aracı yerleşim yerine yakın bir noktaya düştü. Olayın ardından görgü tanıkları, şehrin çeşitli mahallelerinde patlama sesleri duyulduğunu bildirdi. Bu gelişme, Irak'taki ABD üslerini hedef alan saldırıların sonrasında bölgedeki gerilimin arttığı bir döneme denk geliyor. İnsansız hava aracının düşüş nedeni ve olası can veya mal kaybı hakkında henüz detaylı bilgi verilmedi. Yetkililer, olaya ilişkin soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/11/thumbs_b_c_4e5c6b62834d4c42309de651a19aab17.jpg?v=102027",
-        "timestamp": "2026-03-11T07:57:08.470Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-crashes-near-residential-home-in-iraqi-capital-baghdad/3859156",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773215848128gsco7",
-        "title": "Katar, Bölgesel Gerilimin Ortasında Yeni Füze Saldırısını Engellediğini Duyurdu",
-        "summary": "Katar, devam eden bölgesel gerilimin ortasında başkent Doha üzerinde yeni bir füze saldırısını engellediğini bildirdi. Ülke hava savunma sistemlerinin gelen füzelerle çatışmaya girmesi üzerine başkentte patlama sesleri duyuldu. Bu olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Katar makamları, saldırının kaynağına ilişkin henüz detaylı bir açıklama yapmazken, olayın bölgesel istikrara yönelik potansiyel tehditleri artırdığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/11/thumbs_b_c_a501d86afa1c9aaff0e5b6aa9f787add.jpg?v=100822",
-        "timestamp": "2026-03-11T07:57:28.128Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-says-it-intercepted-new-missile-attack-amid-ongoing-regional-escalation/3859143",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773215868841l495h",
-        "title": "İsrail'in Lübnan'a Yönelik Saldırılarında 16 Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in Çarşamba sabahından itibaren Lübnan genelinde gerçekleştirdiği hava saldırılarında 16 kişi hayatını kaybederken, 26 kişi yaralandı. Ülkede 2 Mart'tan bu yana devam eden hava saldırıları sonucunda toplamda yaklaşık 570 kişinin yaşamını yitirdiği ve binlerce kişinin yerinden edildiği bildirildi. Bu saldırılar, bölgedeki gerilimin tırmandığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/03/11/thumbs_b_c_97dc63fb4e969ebd62219d825607bcf6.jpg?v=100653",
-        "timestamp": "2026-03-11T07:57:48.841Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-across-lebanon-since-dawn-wednesday-kill-16-wound-26/3859136",
         "trendScore": 85,
         "isBreaking": false
     }
