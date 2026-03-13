@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773412421606897u0",
+        "title": "İran'daki Petrol Yangını Bölgesel Hava Kalitesini Tehdit Ediyor",
+        "summary": "İran'da meydana gelen büyük bir petrol yangını, bölge genelinde hava kalitesi üzerinde ciddi endişelere yol açmıştır. Çevre uzmanları, yangından kaynaklanan kirletici bulutların potansiyel asit yağmurları taşıma riskiyle Türkmenistan ve Pakistan yönüne doğru sürüklendiği konusunda uyarıda bulundu. Bu durum, komşu ülkeler için çevresel ve sağlık açısından potansiyel riskler barındırmaktadır. Yetkililer, bölgesel hava kalitesinin izlenmesi ve olası etkilerin değerlendirilmesi gerektiğini belirtmektedir.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/6692312/pexels-photo-6692312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T14:33:41.606Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-oil-inferno-regional-air-quality-under-threat/3863334",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17734024340817q82z",
         "title": "Dubai Finans Bölgesi'nde Patlamaların Ardından Siyah Duman Görüldü",
         "summary": "Birleşik Arap Emirlikleri'nin önemli finans merkezlerinden Dubai'de, finans bölgesinde meydana gelen patlamaların ardından gökyüzüne siyah dumanların yükseldiği bildirildi. Olayın nedeni ve detaylarına ilişkin henüz resmi bir açıklama yapılmazken, bölgede güvenlik önlemlerinin alındığı belirtildi. Patlamaların finans merkezinin kalbinde yaşanması, bölgedeki iş dünyasında endişelere yol açtı. Yetkililerin olayla ilgili kapsamlı incelemeleri sürdürdüğü kaydedildi.",
@@ -780,22 +796,6 @@
             "name": "Manama, Bahreyn"
         },
         "source": "https://www.aljazeera.com/news/2026/3/12/iran-targets-gulf-nations-with-missiles-drones-as-oil-prices-soar?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773302174617coyvz",
-        "title": "Gazze'de Gaz Kıtlığı Aileleri Odun Yakmaya Zorluyor, Yaşam İsle Kaplandı",
-        "summary": "Gazze Şeridi'nde yaşanan pişirme gazı kıtlığı, bölgedeki aileleri yemek pişirmek için odun ve plastik gibi alternatif yakıtlar kullanmaya mecbur bırakıyor. Bu durum, özellikle anneler ve çocukları tehlikeli dumanlara maruz bırakarak ciddi sağlık sorunlarına yol açma potansiyeli taşıyor. Haberlerde, Gazze'deki günlük yaşamın adeta \"isle kaplandığı\" ifade edilirken, temel enerji kaynaklarına erişimdeki kısıtlamaların halkın yaşam kalitesini derinden etkilediği belirtiliyor. Bölge sakinleri, gaz teminindeki aksaklıklar nedeniyle geleneksel ve sağlıksız yöntemlere başvurmak zorunda kalırken, bu durumun uzun vadede çevre ve insan sağlığı üzerindeki olumsuz etkileri konusunda endişeler artıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T07:56:14.617Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/life-covered-in-soot-gas-shortage-forces-gaza-families-to-cook-over-wood?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
