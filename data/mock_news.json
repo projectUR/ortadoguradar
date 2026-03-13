@@ -1,5 +1,37 @@
 [
     {
+        "id": "17734024340817q82z",
+        "title": "Dubai Finans Bölgesi'nde Patlamaların Ardından Siyah Duman Görüldü",
+        "summary": "Birleşik Arap Emirlikleri'nin önemli finans merkezlerinden Dubai'de, finans bölgesinde meydana gelen patlamaların ardından gökyüzüne siyah dumanların yükseldiği bildirildi. Olayın nedeni ve detaylarına ilişkin henüz resmi bir açıklama yapılmazken, bölgede güvenlik önlemlerinin alındığı belirtildi. Patlamaların finans merkezinin kalbinde yaşanması, bölgedeki iş dünyasında endişelere yol açtı. Yetkililerin olayla ilgili kapsamlı incelemeleri sürdürdüğü kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9666911/pexels-photo-9666911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T11:47:14.081Z",
+        "location": {
+            "lat": 25.2048,
+            "lng": 55.2708,
+            "name": "Dubai, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/black-smoke-seen-after-blasts-in-dubai-financial-district?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773402457553esxh2",
+        "title": "Uluslararası Müdahalelerde 'Kötü Lider' Tuzağı",
+        "summary": "Liderlerin 'kötülük sembolü' haline getirilmesinin, uluslararası müdahaleleri meşrulaştırmayı kolaylaştırdığı ve bu müdahalelerin sonuçlarını göz ardı etmeye yol açtığı belirtiliyor. Bu yaklaşımın, dış politikada belirli liderleri hedef alarak kamuoyunu manipüle etme potansiyeli taşıdığı vurgulanıyor. Analiz, bu tür bir retoriğin, askeri veya siyasi müdahalelerin etik ve insani maliyetlerini göz ardı etme riskini artırdığına dikkat çekiyor. Özellikle Orta Doğu gibi bölgelerde yaşanan çatışmalarda bu tür söylemlerin sıkça kullanıldığı ve uzun vadeli istikrarsızlığa yol açtığı değerlendiriliyor. Bu durum, uluslararası ilişkilerde liderlerin kişiselleştirilmesinin doğurabileceği tehlikelere işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6520214/pexels-photo-6520214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T11:47:37.554Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/13/the-bad-leader-trap?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773395981723ky5kb",
         "title": "Umman'da Drone Saldırısında İki Kişi Hayatını Kaybetti, Suudi Arabistan'a da Saldırılar Düzenlendi",
         "summary": "Umman'ın Sohar vilayetinde düzenlenen drone saldırılarında iki yabancı uyruklu kişi hayatını kaybetti, çok sayıda kişi de yaralandı. Devlet haber ajansı tarafından bildirilen bilgilere göre, saldırılar Sohar bölgesini hedef aldı. Olayın ardından bölgede güvenlik önlemleri artırıldı. Aynı zamanda, Suudi Arabistan'a yönelik de birden fazla drone saldırısı gerçekleştirildiği belirtildi. Saldırıların sorumluluğunu henüz üstlenen olmadı.",
@@ -764,38 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/3/12/life-covered-in-soot-gas-shortage-forces-gaza-families-to-cook-over-wood?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773302195823d0mo4",
-        "title": "Sudan'ın Beyaz Nil Eyaleti'nde Hızlı Destek Kuvvetleri'nin (RSF) Drone Saldırısında 17 Kişi Hayatını Kaybetti",
-        "summary": "Sudan'ın Beyaz Nil Eyaleti'nde Hızlı Destek Kuvvetleri (RSF) tarafından gerçekleştirilen bir drone saldırısında 17 kişi yaşamını yitirdi. Hayatını kaybedenler arasında öğrencilerin de bulunduğu bildirildi. Sudanlı Doktorlar Ağı, bu olayı 'korkunç bir suç' olarak nitelendirerek, RSF tarafından işlenen ihlallerin devamı olduğunu belirtti. Saldırı, ülkedeki devam eden çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi ve uluslararası toplumun dikkatini Sudan'daki insani duruma çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T07:56:35.823Z",
-        "location": {
-            "lat": 13.2,
-            "lng": 32.2,
-            "name": "Beyaz Nil Eyaleti, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/students-among-17-dead-in-rsf-drone-attack-in-sudans-white-nile-state?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773302223229n01pb",
-        "title": "AB ve İngiltere, Batı Şeria'daki Yerleşimci Şiddetinin Durdurulmasını Talep Etti",
-        "summary": "Birleşmiş Milletler'in raporuna göre, İsrail'in savaşının başlamasından bu yana Batı Şeria'da yerleşimcilerin gerçekleştirdiği saldırılarda altı Filistinli yaşamını yitirdi. Bu gelişmeler üzerine Avrupa Birliği ve Birleşik Krallık, İsrail hükümetinden Batı Şeria'da artan yerleşimci şiddetini derhal durdurmasını talep etti. Uluslararası aktörler, bölgedeki gerilimin tırmanmasından ve sivil kayıpların artmasından derin endişe duyduklarını belirtti. AB ve İngiltere, İsrail'e bu tür olayları önleme ve sorumluları adalete teslim etme yükümlülüğünü hatırlatarak, uluslararası hukuka uyulması çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a7e3/live/ea8c27c0-1d7c-11f1-801d-ed3cff6bf876.png",
-        "timestamp": "2026-03-12T07:57:03.229Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
