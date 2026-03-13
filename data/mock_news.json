@@ -1,5 +1,37 @@
 [
     {
+        "id": "17733783701192xknr",
+        "title": "Petrol Fiyatları, İran'ın Hürmüz Boğazı Üzerindeki Kontrolü Nedeniyle 100 Doların Üzerinde Seyrediyor",
+        "summary": "Orta Doğu'da uzun süreli bir savaş olasılığının artmasıyla enerji piyasalarında gerilim devam ediyor. İran'ın Hürmüz Boğazı üzerindeki stratejik kontrolü, küresel petrol arzı için kritik bir tehdit oluşturuyor. Bu durum, ham petrol fiyatlarının varil başına 100 doların üzerinde kalmasına neden olurken, bölgedeki jeopolitik gelişmelerin enerji piyasaları üzerindeki baskısı sürüyor. Piyasa analistleri, Orta Doğu'daki istikrarsızlığın enerji güvenliği ve küresel ekonomi üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/30580208/pexels-photo-30580208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T05:06:10.119Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/13/oil-stays-above-100-a-barrel-amid-irans-stranglehold-on-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1773378392794biy2p",
+        "title": "İsrail, askerlere yönelik istismar suçlamalarını düşürdü",
+        "summary": "İsrail ordusu, Filistinli bir tutukluya cinsel istismarda bulunmakla suçlanan beş askere yönelik suçlamaları düşürdü. Bu gelişme, bölgedeki insan hakları örgütleri ve uluslararası toplum nezdinde dikkatle takip ediliyor. Olay, İsrail-Filistin çatışması bağlamında askeri disiplin ve hesap verebilirlik konularını yeniden gündeme getirdi. Suçlamaların düşürülmesi kararı, adalet arayışları ve mağdurların hakları konusunda tartışmaları beraberinde getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7231495/pexels-photo-7231495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T05:06:32.794Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773356318536srh9y",
         "title": "ABD ordusu, Irak'ta yakıt ikmali uçağının düşmesinin ardından kurtarma operasyonu başlattı",
         "summary": "ABD ordusu, Irak'ta bir yakıt ikmali uçağının düşmesinin ardından kurtarma operasyonu başlattığını duyurdu. Olayda şu ana kadar herhangi bir can kaybı yaşanmadığı bildirildi. Askeri yetkililer, kazaya iki uçağın karıştığını ve bunlardan birinin güvenli bir şekilde iniş yaptığını açıkladı. Düşen uçağa yönelik kurtarma çalışmaları devam ediyor.",
@@ -764,38 +796,6 @@
             "name": "Canberra, Avustralya"
         },
         "source": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17732156785881xu62",
-        "title": "İsrail saldırıları Beyrut banliyölerini vurdu",
-        "summary": "İsrail güçleri, Lübnan'ın başkenti Beyrut'un güney banliyölerinde bulunan bir yerleşim bölgesine hava saldırısı gerçekleştirdi. Olay anının kaydedildiği belirtilirken, saldırının bölgedeki gerilimi daha da artırdığı gözlemlendi. Hedeflenen nokta ve saldırının yol açtığı olası can kaybı veya maddi hasara ilişkin henüz resmi bir açıklama yapılmadı. Bu gelişme, Orta Doğu'da devam eden çatışmaların bir parçası olarak değerlendirilirken, uluslararası toplumdan tepkiler gelmesi bekleniyor. Bölge halkı arasında endişe ve belirsizlik hakim.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/image-1773213311.jpg?resize=730%2C410&quality=80",
-        "timestamp": "2026-03-11T07:54:38.588Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/11/israeli-strikes-hit-beirut-suburbs?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773215704509oqoi3",
-        "title": "İran'dan Körfez Ülkelerine Füze ve İHA Saldırıları: Hürmüz Boğazı'nda Gemi Vuruldu",
-        "summary": "İran'ın Körfez ülkelerine yönelik füze ve insansız hava aracı saldırılarını sürdürdüğü, bu saldırılar kapsamında Hürmüz Boğazı'nda bir geminin hedef alındığı bildirildi. Tahran'ın bölgedeki komşularına yönelik günlük baskısını artırdığı belirtilirken, uluslararası toplumun bu duruma tepkisi de yükseliyor. Birleşmiş Milletler Güvenlik Konseyi'nin (BMGK), Körfez İşbirliği Konseyi'nin (KİK) İran'ın komşularına yönelik saldırılarını durdurması çağrısında bulunan teklifini oylamaya hazırlandığı kaydedildi. Bu gelişmeler, bölgedeki gerilimin tırmandığını ve diplomatik çabaların hız kazandığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/SOR06481-1772444242.jpg?resize=770%2C513&quality=80",
-        "timestamp": "2026-03-11T07:55:04.509Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
