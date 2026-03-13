@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773442126022fs91o",
+        "title": "Kudüs Günü'nde Mescid-i Aksa Kapatıldı, İbadetler Dışarıda Yapıldı",
+        "summary": "İsrail makamları, Kudüs Günü dolayısıyla Kudüs'teki Mescid-i Aksa külliyesini ibadete kapattı. Bu kararın ardından, Müslüman ibadet edenler kutsal mekanın dışında toplanarak namazlarını eda etti. Her yıl Ramazan ayının son Cuma günü kutlanan Kudüs Günü, Filistinlilerle dayanışma ve Kudüs'ün statüsüne dikkat çekme amacı taşıyor. İsrail güvenlik güçlerinin bölgedeki kısıtlamaları, ibadet özgürlüğü konusunda tartışmaları yeniden alevlendirdi. Olay, Kudüs'teki hassas dini ve siyasi gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18387998/pexels-photo-18387998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T22:48:46.022Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773442162778upm9p",
+        "title": "İran'dan Orta İsrail'e Füze Saldırısı: Bina Alev Aldı",
+        "summary": "İsrail ordusu, orta İsrail'e yönelik bir füze saldırısının İran tarafından gerçekleştirildiğini açıkladı. Saldırı sonucunda bölgedeki bir binada yangın çıktığı ve alevlerin yükseldiği bildirildi. Olayın, orta İsrail'de bir yol kenarında duman ve alevlerin görülmesine neden olduğu belirtildi. Bu gelişme, iki ülke arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor ve bölgesel güvenlik endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T22:49:22.778Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773442201883szo0c",
+        "title": "ABD torpido saldırısında hayatını kaybeden 84 İranlı denizcinin cenazeleri iade edilecek",
+        "summary": "ABD torpido saldırısında hayatını kaybeden 84 İranlı denizcinin cenazelerinin iade edileceği bildirildi. Söz konusu denizciler, 4 Mart tarihinde İran savaş gemisi Iris Dena'nın Sri Lanka açıklarında bir ABD denizaltısı tarafından batırılması sonucu yaşamını yitirmişti. Bu olay, İran ile ABD arasındaki geçmişteki gerilimleri yeniden gündeme getiriyor. Cenazelerin iadesi süreci, iki ülke arasındaki ilişkiler açısından dikkatle takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/843085/pexels-photo-843085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-13T22:50:01.883Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1773435784119u76u9",
         "title": "İsrail'in Lübnan'daki Askeri Harekatı Yıkıcı Yeni Bir Aşamaya Ulaştı",
         "summary": "İsrail'in Lübnan'a yönelik askeri harekatının yıkıcı yeni bir aşamaya girdiği bildirildi. İsrail, Lübnan'ın Gazze Şeridi'ndekine benzer bir yıkımla karşı karşıya kalabileceği yönünde sert bir uyarıda bulundu. Bu açıklama, bölgedeki gerilimin tırmandığını ve çatışmanın potansiyel olarak genişleyebileceğini gözler önüne seriyor. Uluslararası toplum, olası bir bölgesel çatışmanın önüne geçmek için gelişmeleri yakından takip ediyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-sees-bombs-being-loaded-onto-us-planes-at-uk-base?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773310159089g2qhe",
-        "title": "Suudi Arabistan ve BAE, İran Saldırılarını Kınadı",
-        "summary": "Birleşmiş Milletler'deki Suudi Arabistan ve Birleşik Arap Emirlikleri büyükelçileri, Güvenlik Konseyi toplantısı öncesinde İran'ın gerçekleştirdiği saldırıları kınadıklarını bildirdi. Bu diplomatik açıklama, bölgedeki güvenlik endişelerinin ve gerilimin uluslararası platforma taşındığını gösteriyor. Büyükelçiler, İran'ın eylemlerinin bölgesel istikrara yönelik tehdit oluşturduğunu vurgulayarak, ortak bir duruş sergilediler. Kınama, Körfez ülkelerinin İran politikalarına karşı artan endişelerini yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T10:09:19.089Z",
-        "location": {
-            "lat": 40.7,
-            "lng": -74,
-            "name": "New York, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/12/saudi-arabia-and-uae-condemn-iranian-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17733101824631elx6",
-        "title": "Beyrut'ta Bir Mahalle İsrail Saldırısına Uğradı",
-        "summary": "Al Jazeera'ya konuşan Beyrut'taki bir mahallenin sakinleri, Çarşamba sabahı gerçekleşen İsrail saldırısına kadar kendilerini güvende hissettiklerini ifade etti. Bu saldırı, daha önce güvenli kabul edilen bölgede yaşayanlar arasında büyük bir şok ve endişe yarattı. Olayın ardından mahalle sakinleri, bölgedeki güvenlik durumunun değiştiğini ve geleceğe dair belirsizliklerin arttığını dile getirdi. Saldırının detayları ve olası sonuçları hakkında gelişmeler takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T10:09:42.463Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/3/12/residents-of-this-beirut-neighbourhood-felt-safe-then-israel-attacked-it?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773310228088y5yey",
-        "title": "İran'daki Gerilimin Küresel Yansımaları: Siber Saldırılar ve Hürmüz Boğazı'ndaki Tansiyon",
-        "summary": "İran'da devam eden savaşın küresel etkileri derinleşmeye devam ediyor. Bölgede yaşanan çatışmaların 13. gününde siber saldırılar artış gösterirken, stratejik Hürmüz Boğazı'ndaki gerilim de tırmanıyor. Bu gelişmelerle birlikte dünya genelinde petrol fiyatlarında önemli yükselişler kaydediliyor. Yaşanan bu olaylar, savaşın sadece bölgesel değil, aynı zamanda uluslararası düzeyde güvenlik ve ekonomi üzerinde ciddi sonuçlar doğurduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://via.placeholder.com/600x400?text=Orta+Dogu+Radar",
-        "timestamp": "2026-03-12T10:10:28.088Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Basra Körfezi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/12/iran-war-what-is-happening-on-day-13-of-us-israel-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
