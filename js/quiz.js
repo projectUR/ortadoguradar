@@ -347,26 +347,36 @@ function endGame(isWin) {
 // Bootstrap
 document.addEventListener('DOMContentLoaded', initQuiz);
 
+// OPERASYON MERKEZİ - TÜM OYUN GEÇİŞLERİ (Giriş & Çıkış)
 document.addEventListener('click', function(e) {
-    const startBtn = e.target.closest('#startGuessGame'); // Giriş butonu
-    const closeBtn = e.target.closest('#btnCloseGame');   // X (Çıkış) butonu
     const menu = document.getElementById('quizMenu');
-    const game = document.getElementById('actualGuessGame');
+    if (!menu) return;
 
-    if (!menu || !game) return;
+    // 1. GİZLİ FİGÜR OYUNU
+    const startGuessBtn = e.target.closest('#startGuessGame'); 
+    const closeGuessBtn = e.target.closest('#btnCloseGame');   
+    const guessGame = document.getElementById('actualGuessGame');
 
-    // Oyuna Giriş Yapma
-    if (startBtn) {
+    // 2. BAYRAK TAHMİNİ OYUNU
+    const startFlagBtn = e.target.closest('#startFlagGame');   
+    const flagGame = document.getElementById('actualFlagGame');
+
+    // --- GİZLİ FİGÜR GEÇİŞLERİ ---
+    if (startGuessBtn && guessGame) {
         menu.classList.add('hidden');
-        game.classList.remove('hidden');
+        guessGame.classList.remove('hidden');
         if (typeof startNewGame === 'function') startNewGame();
     }
-
-    // Oyundan Çıkış Yapma (X Butonuna Basıldığında)
-    if (closeBtn) {
-        game.classList.add('hidden');
+    if (closeGuessBtn && guessGame) {
+        guessGame.classList.add('hidden');
         menu.classList.remove('hidden');
-        // Menüye dönünce oyunu sıfırla ki tertemiz kalsın
-        if (typeof startNewGame === 'function') startNewGame();
+    }
+
+    // --- BAYRAK TAHMİNİ GEÇİŞLERİ ---
+    if (startFlagBtn && flagGame) {
+        menu.classList.add('hidden');
+        flagGame.classList.remove('hidden');
+        // Bayrak oyununu tetikler (flags.js içindeki fonksiyon)
+        if (typeof startFlagGame === 'function') startFlagGame();
     }
 });
