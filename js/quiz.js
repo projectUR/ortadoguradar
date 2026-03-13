@@ -346,3 +346,23 @@ function endGame(isWin) {
 
 // Bootstrap
 document.addEventListener('DOMContentLoaded', initQuiz);
+// Operasyon Merkezi Seçim Mantığı
+document.addEventListener('click', function(e) {
+    // "Gizli Figür" kartına tıklandı mı kontrol et
+    const card = e.target.closest('#startGuessGame');
+    
+    if (card) {
+        const menu = document.getElementById('quizMenu');
+        const game = document.getElementById('actualGuessGame');
+        
+        if (menu && game) {
+            menu.classList.add('hidden');    // Menüyü sakla
+            game.classList.remove('hidden'); // Oyunu göster
+            
+            // Eğer oyun başlatma fonksiyonu varsa çalıştır
+            if (typeof startNewGame === "function") {
+                startNewGame();
+            }
+        }
+    }
+});
