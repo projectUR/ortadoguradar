@@ -111,6 +111,26 @@
         </section>
 
         <section class="quiz-container hidden" id="quizContainer">
+            <div id="quizMenu" style="text-align: center; padding: 40px;">
+                <h2 style="color: var(--text-primary); margin-bottom: 30px;"><i class="fa-solid fa-tower-observation"></i> Operasyon Merkezi</h2>
+                <div class="game-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+                    
+                    <div class="game-card" id="startGuessGame" style="background: #1e1e1e; border: 2px solid #333; padding: 25px; border-radius: 12px; cursor: pointer; transition: 0.3s; position: relative;">
+                        <i class="fa-solid fa-user-secret" style="font-size: 3rem; color: var(--accent-blue); margin-bottom: 15px;"></i>
+                        <h3 style="color: #fff; margin-bottom: 10px;">Gizli Figür</h3>
+                        <p style="color: #aaa; font-size: 0.9rem;">Orta Doğu'nun kilit aktörlerini ipuçlarından yola çıkarak tespit et.</p>
+                        <button class="btn-primary" style="margin-top: 15px; pointer-events: none;">Operasyonu Başlat</button>
+                    </div>
+
+                    <div class="game-card" style="background: #1e1e1e; border: 2px solid #222; padding: 25px; border-radius: 12px; opacity: 0.5;">
+                        <i class="fa-solid fa-map-location-dot" style="font-size: 3rem; color: #666; margin-bottom: 15px;"></i>
+                        <h3 style="color: #666; margin-bottom: 10px;">Sınır Hattı</h3>
+                        <p style="color: #666; font-size: 0.9rem;">Çok yakında... Bölgesel strateji simülasyonu.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="actualGuessGame" class="hidden">
             <div class="quiz-header">
                 <h2><i class="fa-solid fa-user-secret"></i> Gizli Figürü Tahmin Et</h2>
                 <div class="quiz-status" style="margin-left: 20px;">
@@ -145,7 +165,7 @@
                     <button id="btnRestartQuiz" class="btn-primary">Tekrar Oyna</button>
                 </div>
             </div>
-
+</div>
         </section>
        <section id="arsenalContainer" class="hidden" style="grid-column: 1 / -1; padding: 20px; padding-top: 10px; height: 100%; overflow-y: auto; padding-bottom: 40px;">
             <div class="arsenal-header" style="text-align: center; margin-bottom: 30px;">
