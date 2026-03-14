@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773489066496k5ftq",
+        "title": "Trump, Putin'in İran'ın zenginleştirilmiş uranyumunu Rusya'ya devretme teklifini reddetti",
+        "summary": "ABD Başkanı Donald Trump'ın, Rusya Devlet Başkanı Vladimir Putin'in İran'ın zenginleştirilmiş uranyumunu Rusya'ya devretme teklifini reddettiği öne sürüldü. Söz konusu teklifin, iki lider arasında gerçekleşen bir telefon görüşmesi sırasında gündeme geldiği belirtildi. Putin'in bu öneriyi, ABD ile İran arasındaki olası bir savaşı sona erdirmeye yönelik potansiyel bir anlaşmanın parçası olarak sunduğu ifade edildi. Ancak haberlere göre Trump, bu teklifi kabul etmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33421996/pexels-photo-33421996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T11:51:06.496Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-rejects-putins-proposal-to-transfer-iran-s-enriched-uranium-to-russia-report/3864487",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773486010806282wk",
         "title": "Güney Lübnan'da İsrail Saldırısı İddiasıyla Dört Kişi Hayatını Kaybetti",
         "summary": "Güney Lübnan'da bir apartman dairesine düzenlenen saldırıda dört kişinin yaşamını yitirdiği bildirildi. Yerel kaynaklar ve haber ajansları, saldırının İsrail tarafından gerçekleştirildiğini iddia etti. Olayın ardından bölgede güvenlik durumu yakından takip edilirken, saldırının detaylarına ilişkin resmi açıklamalar bekleniyor.",
@@ -780,22 +796,6 @@
             "name": "Orta Doğu"
         },
         "source": "https://www.aljazeera.com/news/2026/3/13/how-israel-us-war-on-iran-puts-50bn-in-indian-remittances-at-risk?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773388608209xbeqy",
-        "title": "Afganistan, Pakistan'ı Kabil ve Kandahar'a Hava Saldırısı Düzenlemekle Suçladı",
-        "summary": "Afganistan'daki Taliban yönetimi, Pakistan'ı başkent Kabil ve Kandahar vilayetindeki yerleşim yerlerine yönelik hava saldırıları düzenlemekle suçladı. Taliban'dan yapılan açıklamada, bu saldırılar sonucunda kadın ve çocukların da aralarında bulunduğu sivillerin yaşamını yitirdiği bildirildi. Bu eylemlerin uluslararası hukukun ihlali olduğu belirtilirken, iki ülke arasındaki gerilimin ciddi boyutlara ulaştığı vurgulandı. Bölgedeki güvenlik durumu ve komşu ülkeler arasındaki ilişkiler üzerindeki potansiyel olumsuz etkileri yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8828624/pexels-photo-8828624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:56:48.209Z",
-        "location": {
-            "lat": 34.5283,
-            "lng": 69.1723,
-            "name": "Kabul, Afganistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/13/afghanistan-accuses-pakistan-of-air-attacks-on-homes-in-kabul-kandahar?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
