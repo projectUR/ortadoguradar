@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773504087915z1s34",
+        "title": "İran: Hürmüz Boğazı ABD Gemilerine Açılmayacak",
+        "summary": "İran, stratejik öneme sahip Hürmüz Boğazı'nın ABD gemilerine kapalı kalacağını duyurdu. İran Düzenin Maslahatını Teşhis Konseyi'nden bir üye tarafından yapılan açıklamada, bu su yolunun ABD donanmasına yeniden açılmayacağı belirtildi. Bu açıklama, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası denizcilik güvenliği açısından dikkatle takip ediliyor. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle küresel enerji piyasaları için de kritik bir öneme sahip.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29861057/pexels-photo-29861057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T16:01:27.915Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773496688879tnp2y",
         "title": "Birleşik Arap Emirlikleri'nin Füceyre Kentindeki Petrol Tesisinden Duman Yükseldi",
         "summary": "Birleşik Arap Emirlikleri'nin (BAE) Füceyre kentinde yer alan bir petrol tesisinden duman yükseldiği bildirildi. Olayın nedeni ve tesis üzerindeki etkisi hakkında henüz detaylı bilgi verilmedi. Bölgedeki yetkililerden konuya ilişkin resmi bir açıklama yapılması bekleniyor. Olayın enerji arzı veya çevresel etkileri konusunda henüz bir açıklama yapılmadı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/us-democrats-push-justice-for-hind-rajab-act-amid-oscar-buzz-for-film-about-death-of-6-year-old-gazan/3863021",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773396184786xtrcw",
-        "title": "Batı Şeria'da Gerilim: İsrail Güçleri Filistinlileri Darp Etti, Yerleşimciler Köy Meclisi Binasını Yaktı",
-        "summary": "Batı Şeria'da yaşanan olaylarda, İsrail güçlerinin dört Filistinliyi darp ettiği bildirildi. Aynı zamanda, yasa dışı yerleşimciler Nablus yakınlarındaki bir köy meclisi binasına ait depoyu ateşe verdi. Bu saldırı, bölgedeki güvenlik durumunun kırılganlığını ve yerleşimciler ile Filistinliler arasındaki gerilimi bir kez daha gözler önüne serdi. Olaylar, bölgedeki tansiyonun yükseldiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13742845/pexels-photo-13742845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T10:03:04.786Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-beat-4-palestinians-in-west-bank-settlers-torch-part-of-village-council-building/3863000",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
