@@ -1,5 +1,117 @@
 [
     {
+        "id": "17734821712483wunc",
+        "title": "İran'ın Kürdistan Eyaleti'nde Saldırılarda 112 Kişi Hayatını Kaybetti",
+        "summary": "İran'ın Kürdistan eyaletindeki yerel yetkililer, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen saldırılarda en az 112 kişinin yaşamını yitirdiğini açıkladı. Yetkililere göre, aynı saldırılarda 969 kişi de yaralandı. Bölgedeki yetkililer, bu olayların eyalette ciddi can kaybına yol açtığını belirtti. Haber ajansları, iddiaların bağımsız kaynaklarca henüz doğrulanmadığını aktardı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9546611/pexels-photo-9546611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T09:56:11.248Z",
+        "location": {
+            "lat": 35.31,
+            "lng": 46.99,
+            "name": "Kürdistan Eyaleti, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773482192227weoq1",
+        "title": "İran, ABD-İsrail Çatışmasının Etkisiyle Körfez'deki Saldırılarını Yoğunlaştırdı",
+        "summary": "İran'ın, ABD-İsrail arasındaki çatışmaların bölgedeki yansımaları sonucunda Basra Körfezi'ndeki saldırılarını yoğunlaştırdığı bildirildi. Gece saatlerinde Suudi Arabistan ve Katar da dahil olmak üzere birçok ülkeye yönelik hava saldırıları düzenlendiği belirtildi. Bu saldırıların bir kısmının ilgili ülkelerin hava savunma sistemleri tarafından başarıyla engellendiği rapor edildi. Bölgedeki gerilimin bu gelişmelerle birlikte daha da tırmandığı ve güvenlik endişelerinin arttığı ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9959258/pexels-photo-9959258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T09:56:32.227Z",
+        "location": {
+            "lat": 26,
+            "lng": 51,
+            "name": "Basra Körfezi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1773482254524o5rvx",
+        "title": "BAE'nin Füceyre Limanı'nda İHA Saldırısı Petrol Yükleme Operasyonlarını Aksattı",
+        "summary": "Birleşik Arap Emirlikleri'nin (BAE) Füceyre Limanı'ndaki petrol yükleme operasyonlarının bir insansız hava aracı (İHA) saldırısı sonucu aksadığı bildirildi. Olay, ABD'nin İran'ın Harg Adası'na yönelik gerçekleştirdiği saldırıların ardından ve Hürmüz Boğazı çevresindeki gerilimin tırmandığı bir dönemde meydana geldi. Saldırının sorumluluğunu henüz üstlenen bir grup veya ülke bulunmazken, bölgedeki güvenlik endişeleri arttı. Bu tür saldırılar, Orta Doğu'daki enerji altyapısının kırılganlığını gözler önüne sererek küresel petrol piyasaları üzerinde potansiyel etkilere yol açabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T09:57:34.524Z",
+        "location": {
+            "lat": 25.1167,
+            "lng": 56.35,
+            "name": "Füceyre, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/drone-attack-disrupts-oil-loading-operations-at-uae-s-fujairah-port-report/3864354",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17734822785404459e",
+        "title": "Suriye'de Devrik Rejimin Askeri Karargahı Yakınlarında Toplu Mezar Bulundu",
+        "summary": "Suriye'nin güneyindeki Daraa vilayetinde, devrik rejimin eski bir askeri karargahının yakınlarında toplu bir mezar keşfedildi. Suriye resmi haber ajansı SANA'nın bildirdiğine göre, mezarda elleri bağlı ve işkence izleri taşıyan 11 kişinin kalıntıları bulundu. Bu keşif, Suriye iç savaşında yaşanan insan hakları ihlallerine dair yeni kanıtlar sunuyor ve bölgedeki geçmiş çatışmaların acı mirasını bir kez daha gözler önüne seriyor. Olayla ilgili soruşturmanın devam ettiği ve cesetlerin kimlik tespiti çalışmalarının sürdürüldüğü belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35987395/pexels-photo-35987395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T09:57:58.540Z",
+        "location": {
+            "lat": 32.6167,
+            "lng": 36.1,
+            "name": "Daraa, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/mass-grave-found-near-military-headquarters-of-ousted-regime-in-syria/3864332",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773482299149socg5",
+        "title": "ABD-İsrail Saldırılarında İran'da 12 Kişi Hayatını Kaybetti",
+        "summary": "İran'ın orta ve batı bölgelerine yönelik ABD ve İsrail tarafından gerçekleştirildiği belirtilen saldırılarda toplam 12 kişi hayatını kaybetti. Batı İran'da bulunan Eyvan şehrinde meydana gelen saldırılarda ise aralarında 6 aylık bir bebeğin de bulunduğu 6 sivilin yaşamını yitirdiği bildirildi. Olayla ilgili detaylar ve saldırıların kesin hedefleri hakkında henüz resmi bir açıklama yapılmadı. Bu saldırılar, bölgedeki güvenlik durumunu ve gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/804804/pexels-photo-804804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T09:58:19.149Z",
+        "location": {
+            "lat": 33.8,
+            "lng": 46.15,
+            "name": "Eyvan, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/12-killed-in-us-israeli-strikes-on-central-western-iran/3864331",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773482321723zw9ik",
+        "title": "İsrail, Lübnan'daki sağlık tesislerini ve ambulansları hedef almakla tehdit etti",
+        "summary": "İsrail, Lübnan'daki sağlık tesislerini ve ambulansları hedef alabileceği yönünde bir uyarıda bulundu. Bu tehdit, İsrail'in güney Lübnan'da bir sağlık merkezine düzenlediği saldırıda 12 sağlık personelinin hayatını kaybetmesinden saatler sonra geldi. Yaşanan bu gelişmeler, bölgedeki gerilimi daha da tırmandırırken, uluslararası hukuk çerçevesinde sağlık altyapısının korunması gerektiği vurgulanıyor. Taraflar arasındaki çatışmaların sivil hedeflere yönelik riskleri artırdığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/984954/pexels-photo-984954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T09:58:41.723Z",
+        "location": {
+            "lat": 33.2733,
+            "lng": 35.2,
+            "name": "Tyre, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-threatens-to-target-medical-facilities-ambulances-in-lebanon/3864321",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773482342940o7klz",
+        "title": "İsrail'in Lübnan'a Düzenlediği Hava Saldırılarında Cumartesi Başından Bu Yana 23 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in Lübnan'a yönelik hava saldırıları devam ediyor. Cumartesi gününün başından bu yana düzenlenen saldırılarda 23 kişinin hayatını kaybettiği bildirildi. Lübnanlı yetkililerden alınan bilgilere göre, İsrail'in 2 Mart'tan bu yana Lübnan'daki genişletilmiş saldırıları toplamda 733 kişinin ölümüne neden oldu. Bölgedeki gerilim ve can kayıpları endişe yaratmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/572470/pexels-photo-572470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T09:59:02.940Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/23-killed-in-israeli-airstrikes-on-lebanon-since-early-saturday/3864318",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773475361751qavji",
         "title": "Bağdat'taki ABD Büyükelçiliği Füze Saldırısına Uğradı",
         "summary": "Irak'ın başkenti Bağdat'ta bulunan ABD Büyükelçiliği'ne yönelik bir füze saldırısı gerçekleştirildi. Saldırıda büyükelçilik yerleşkesindeki helikopter pistinin hedef alındığı bildirildi. Güvenlik kaynaklarından alınan bilgilere göre, füze saldırısı sonucunda misyonda maddi hasar meydana geldi. Olayın ardından büyükelçilik binasından dumanların yükseldiği gözlemlendi. Saldırının sorumluluğunu henüz üstlenen olmadı ve olayla ilgili detaylı incelemeler sürüyor.",
@@ -686,117 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1773388654080u1l9i",
-        "title": "İran'ın Yeni Dini Lideri Hürmüz Boğazı'nı Kapatma Sözü Verdi",
-        "summary": "İran'ın yeni dini lideri olarak atfedilen Mojtaba Hamenei'nin ilk açıklamasında, ülkesinin Hürmüz Boğazı'nı kapatma taahhüdünde bulunduğu bildirildi. Bu açıklama, küresel enerji tedariki ve deniz trafiği açısından kritik öneme sahip olan boğazda potansiyel bir krize işaret ediyor. Ayrıca, Hamenei'ye atfedilen mesajda İran'ın bölgedeki ABD üslerini hedef almaya devam edeceği de vurgulandı. Bu tehditler, Orta Doğu'daki mevcut gerilimi daha da tırmandırabilecek nitelikte olup, uluslararası toplumda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18541754/pexels-photo-18541754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:57:34.080Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773388677176mvy60",
-        "title": "Hürmüz Boğazı'nı Etkileyen Gemi Saldırıları Takip Ediliyor",
-        "summary": "Hürmüz Boğazı'nı etkileyen gemi saldırıları dalgası yakından izleniyor. Son 48 saat içinde Körfez'de altı gemiye saldırı düzenlendiği bildirildi. Bu son saldırılarla birlikte, devam eden savaş süresince hedef alınan gemi sayısı 18'e yükseldi. Bölgedeki bu saldırılar, küresel denizcilik ve enerji güvenliği açısından kritik öneme sahip Hürmüz Boğazı'ndaki gerilimi artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9546611/pexels-photo-9546611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:57:57.176Z",
-        "location": {
-            "lat": 27.19,
-            "lng": 56.25,
-            "name": "Bandar Abbas, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c80j4rln8zmo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177338870286241s32",
-        "title": "İsrail, İran'da 24 Saatte 200'den Fazla Hedefi Vurdu",
-        "summary": "İsrail ordusu, son 24 saat içinde İran topraklarında 200'den fazla noktayı hedef aldığını açıkladı. Askeri yetkililer, bu saldırıların \"İran rejiminin altyapısını\" hedeflediğini iddia etti. Bu gelişme, Orta Doğu'da zaten yüksek olan gerilimi daha da tırmandırırken, uluslararası gözlemciler bölgedeki istikrarsızlık potansiyeline dikkat çekiyor. Saldırıların detayları ve İran'dan gelen ilk tepkiler yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9620904/pexels-photo-9620904.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:58:22.862Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-targets-more-than-200-sites-in-iran-in-24-hours/3862764",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1773388724318ph9ri",
-        "title": "Tahran'da Yeni Patlama Sesleri Duyuldu, Bölgesel Gerilim Devam Ediyor",
-        "summary": "İran'ın başkenti Tahran'da şiddetli patlama sesleri duyulduğu bildirildi. Anadolu Ajansı muhabirinin aktardığı bilgilere göre, patlamalar başkentin çeşitli bölgelerinden işitildi. Bu olay, bölgedeki mevcut gerilimin devam ettiği bir dönemde meydana geldi. Patlamaların nedeni veya kaynağı hakkında henüz resmi bir açıklama yapılmazken, gelişmeler yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/774847/pexels-photo-774847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:58:44.318Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/new-explosions-heard-in-tehran-amid-ongoing-regional-escalation/3862757",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773388746336493um",
-        "title": "Çin ve ABD, Orta Doğu Gerilimi Ortamında Paris'te Ticaret Görüşmeleri Yapacak",
-        "summary": "Çin ve ABD'li yetkililer, Orta Doğu'daki gerilimlerin ve İran çatışmasının enerji piyasalarını sarstığı bir dönemde Paris'te ticaret görüşmeleri gerçekleştirecek. Çin Başbakan Yardımcısı He Lifeng'in başkanlık edeceği heyet, iki ülke arasındaki altıncı tur istişareler için bir araya gelecek. Bu görüşmelerin, küresel ekonomik istikrar ve enerji piyasaları üzerindeki bölgesel etkilerin ele alınması bekleniyor. Zirve, dünyanın en büyük iki ekonomisi arasındaki ticari ilişkilerin yanı sıra jeopolitik zorlukların da değerlendirileceği bir platform sunacak.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5439407/pexels-photo-5439407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:59:06.336Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/china-us-to-hold-trade-talks-in-paris-amid-mideast-tensions/3862756",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773388768426317sf",
-        "title": "Pakistan Başbakanı Şerif'ten Suudi Arabistan'a Tam Destek Mesajı",
-        "summary": "Pakistan Başbakanı Şahbaz Şerif, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile Cidde'de bir araya geldi. Görüşmede Şerif, ülkesinin Suudi Arabistan'a tam desteğini ifade etti. Bu diplomatik buluşma, ABD ve İsrail'in İran'a yönelik saldırılarının ardından bölgedeki gerilimin arttığı bir dönemde gerçekleşti. Liderler, ikili ilişkilerin yanı sıra bölgesel güvenlik ve istikrar konularını ele aldı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:59:28.426Z",
-        "location": {
-            "lat": 21.48,
-            "lng": 39.19,
-            "name": "Cidde, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sharif-expresses-pakistan-s-full-support-to-saudi-arabia-in-meeting-with-crown-prince/3862747",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773388790254zhwn4",
-        "title": "Umman'ın Sohar kentinde 2 insansız hava aracı düştü: 2 ölü",
-        "summary": "Umman'ın Sohar kentinde iki insansız hava aracı (İHA) düştü. Güvenlik kaynaklarından edinilen bilgiye göre, ilk İHA Al-Wahi Sanayi Bölgesi'ne düşerek iki kişinin hayatını kaybetmesine ve bazı kişilerin yaralanmasına yol açtı. İkinci İHA'nın düşmesi sonucu ise herhangi bir can kaybı veya yaralanma bildirilmedi. Olayla ilgili detaylı soruşturma başlatıldığı öğrenildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/274939/pexels-photo-274939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:59:50.254Z",
-        "location": {
-            "lat": 24.34,
-            "lng": 56.7,
-            "name": "Sohar, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-drones-crash-in-oman-s-sohar-killing-2/3862739",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
