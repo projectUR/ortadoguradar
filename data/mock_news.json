@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773486010806282wk",
+        "title": "Güney Lübnan'da İsrail Saldırısı İddiasıyla Dört Kişi Hayatını Kaybetti",
+        "summary": "Güney Lübnan'da bir apartman dairesine düzenlenen saldırıda dört kişinin yaşamını yitirdiği bildirildi. Yerel kaynaklar ve haber ajansları, saldırının İsrail tarafından gerçekleştirildiğini iddia etti. Olayın ardından bölgede güvenlik durumu yakından takip edilirken, saldırının detaylarına ilişkin resmi açıklamalar bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7717505/pexels-photo-7717505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-14T11:00:10.806Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17734821712483wunc",
         "title": "İran'ın Kürdistan Eyaleti'nde Saldırılarda 112 Kişi Hayatını Kaybetti",
         "summary": "İran'ın Kürdistan eyaletindeki yerel yetkililer, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen saldırılarda en az 112 kişinin yaşamını yitirdiğini açıkladı. Yetkililere göre, aynı saldırılarda 969 kişi de yaralandı. Bölgedeki yetkililer, bu olayların eyalette ciddi can kaybına yol açtığını belirtti. Haber ajansları, iddiaların bağımsız kaynaklarca henüz doğrulanmadığını aktardı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/13/afghanistan-accuses-pakistan-of-air-attacks-on-homes-in-kabul-kandahar?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773388629961qx7ec",
-        "title": "Fransız askeri Irak'ta saldırıda öldürüldü, diğerleri yaralandı",
-        "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Irak'ın kuzeyindeki Kürt bölgesinde düzenlenen bir saldırıda bir Fransız askerinin hayatını kaybettiğini ve diğer askerlerin yaralandığını duyurdu. Macron, bu saldırıyı 'kabul edilemez' olarak nitelendirerek şiddetle kınadı. Saldırının detayları hakkında henüz tam bilgi verilmezken, bölgedeki güvenlik durumu endişe yaratıyor. Fransa, Irak'ta terörle mücadele operasyonlarına destek veren uluslararası koalisyonun önemli bir parçası konumunda bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8385968/pexels-photo-8385968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T07:57:09.961Z",
-        "location": {
-            "lat": 36,
-            "lng": 44,
-            "name": "Kuzey Irak, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
