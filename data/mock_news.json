@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773594136924p02e1",
+        "title": "El Cezire'nin ilk yüzü Cemal Reyyan 73 yaşında hayatını kaybetti",
+        "summary": "Filistinli sunucu Cemal Reyyan, 73 yaşında yaşamını yitirdi. Reyyan, 1996 yılında yayın hayatına başlayan El Cezire televizyonunun ilk haber bültenini sunan isim olarak tanınıyordu. Kanalın kuruluşunda önemli bir rol oynayan Reyyan, Arap dünyasında medya sektörünün önde gelen figürlerinden biriydi. Vefatı, bölge medyasında derin üzüntüyle karşılandı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/2324364/pexels-photo-2324364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T17:02:16.924Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/15/jamal-rayyan-who-opened-al-jazeeras-first-broadcast-dies-at-73?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773594174708d0rkt",
+        "title": "ABD, Irak'taki yakıt ikmal uçağı kazasında ölen altı mürettebatın kimliklerini açıkladı",
+        "summary": "Amerika Birleşik Devletleri, Irak'ın batısında meydana gelen bir yakıt ikmal uçağı kazasında hayatını kaybeden altı mürettebatın kimliklerini duyurdu. Perşembe günü gerçekleşen kaza, uçağın İran'a yönelik devam eden ABD operasyonları kapsamında bir muharebe görevi sırasında meydana geldi. Olay, bölgedeki ABD askeri faaliyetlerinin ve gerilimin bir parçası olarak değerlendiriliyor. Kazanın nedenine ilişkin soruşturma başlatıldığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4149733/pexels-photo-4149733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T17:02:54.708Z",
+        "location": {
+            "lat": 33,
+            "lng": 41,
+            "name": "Batı Irak, Irak"
+        },
+        "source": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17735896630630vyj2",
         "title": "Trump'tan Hürmüz Boğazı İçin Deniz Koalisyonu Çağrısı",
         "summary": "ABD Başkanı Donald Trump'ın, stratejik Hürmüz Boğazı'nı uluslararası deniz trafiğine açık tutmak ve güvenliğini sağlamak amacıyla bir deniz koalisyonu oluşturulması çağrısında bulunduğu belirtildi. Bu çağrı, bölgedeki gerilimin arttığı bir dönemde geldi. Ancak analistler, ABD başkanının boğazın güvenliğini sağlamaya yönelik bu çözüm önerisinin uygulanabilirliği konusunda ciddi sorunlar barındırdığını ifade ediyor. Uzmanlar, böyle bir koalisyonun kurulmasının diplomatik ve lojistik zorluklarla karşılaşabileceği uyarısında bulunuyor.",
@@ -764,38 +796,6 @@
             "name": "Eyvan, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/12-killed-in-us-israeli-strikes-on-central-western-iran/3864331",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773482321723zw9ik",
-        "title": "İsrail, Lübnan'daki sağlık tesislerini ve ambulansları hedef almakla tehdit etti",
-        "summary": "İsrail, Lübnan'daki sağlık tesislerini ve ambulansları hedef alabileceği yönünde bir uyarıda bulundu. Bu tehdit, İsrail'in güney Lübnan'da bir sağlık merkezine düzenlediği saldırıda 12 sağlık personelinin hayatını kaybetmesinden saatler sonra geldi. Yaşanan bu gelişmeler, bölgedeki gerilimi daha da tırmandırırken, uluslararası hukuk çerçevesinde sağlık altyapısının korunması gerektiği vurgulanıyor. Taraflar arasındaki çatışmaların sivil hedeflere yönelik riskleri artırdığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/984954/pexels-photo-984954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T09:58:41.723Z",
-        "location": {
-            "lat": 33.2733,
-            "lng": 35.2,
-            "name": "Tyre, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-threatens-to-target-medical-facilities-ambulances-in-lebanon/3864321",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773482342940o7klz",
-        "title": "İsrail'in Lübnan'a Düzenlediği Hava Saldırılarında Cumartesi Başından Bu Yana 23 Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in Lübnan'a yönelik hava saldırıları devam ediyor. Cumartesi gününün başından bu yana düzenlenen saldırılarda 23 kişinin hayatını kaybettiği bildirildi. Lübnanlı yetkililerden alınan bilgilere göre, İsrail'in 2 Mart'tan bu yana Lübnan'daki genişletilmiş saldırıları toplamda 733 kişinin ölümüne neden oldu. Bölgedeki gerilim ve can kayıpları endişe yaratmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/572470/pexels-photo-572470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T09:59:02.940Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/23-killed-in-israeli-airstrikes-on-lebanon-since-early-saturday/3864318",
         "trendScore": 85,
         "isBreaking": false
     }
