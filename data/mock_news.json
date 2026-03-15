@@ -1,5 +1,165 @@
 [
     {
+        "id": "1773568333681yb5mj",
+        "title": "İran Savaşı: ABD-İsrail Saldırılarının 16. Gününde Neler Yaşanıyor?",
+        "summary": "İran'da yaşanan çatışmaların 16. gününde bölgedeki gerilim tırmanmaya devam ediyor. İsrail ve ABD güçlerinin İsfahan kentine düzenlediği saldırılarda 15 kişinin hayatını kaybettiği bildirildi. Bu saldırılara karşılık olarak Tahran, İsrail ve Körfez ülkelerine yönelik misilleme saldırıları gerçekleştirdi. Bölgedeki güvenlik durumu ve çatışmaların yayılma riski endişe verici seviyeye ulaştı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7132576/pexels-photo-7132576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:52:13.681Z",
+        "location": {
+            "lat": 32.65,
+            "lng": 51.67,
+            "name": "İsfahan, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/15/iran-war-what-is-happening-on-day-16-of-us-israel-attacks?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773568353585x4w0q",
+        "title": "MotoGP Katar Grand Prix'si Orta Doğu Çatışması Nedeniyle Ertelendi",
+        "summary": "MotoGP, 10-12 Nisan tarihlerinde yapılması planlanan Katar Grand Prix'sini erteleme kararı aldı. Yarışın Kasım ayına alındığı duyuruldu. Ertelemenin gerekçesi olarak, ABD ve İsrail'in İran'a karşı devam eden savaşı gösterildi. Bu karar, bölgedeki güvenlik endişelerinin spor etkinlikleri üzerindeki etkisini ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6382709/pexels-photo-6382709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:52:33.585Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17735683739715g6un",
+        "title": "Aktivistler Beyaz Saray Önünde İran'la Savaşa Karşı Yürüdü",
+        "summary": "Washington D.C.'de bir grup aktivist, Beyaz Saray önünde toplanarak ABD'nin İran'a yönelik olası bir askeri müdahalesine karşı protesto gösterisi düzenledi. Göstericiler, ABD yönetimini İran ile gerilimi tırmandırmaktan kaçınmaya ve diplomatik çözümlere odaklanmaya çağırdı. Eylemciler, Orta Doğu'da yeni bir savaşın bölge ve dünya için yıkıcı sonuçlar doğuracağı uyarısında bulundu. Barışçıl çözüm çağrılarının yapıldığı gösteride, diyalog ve müzakerelerin önemi vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1464238/pexels-photo-1464238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:52:53.971Z",
+        "location": {
+            "lat": 38.8977,
+            "lng": -77.0365,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/activists-rally-outside-white-house-against-war-with-iran?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "177356839472247ydw",
+        "title": "Toronto'da Kudüs Günü Mitingi: İran ve Lübnan'daki Savaşın Sona Ermesi Çağrısı",
+        "summary": "Kanada'nın Toronto kentinde düzenlenen Kudüs Günü mitinginde göstericiler bir araya geldi. Mitingde, ABD ve İsrail'in İran ve Lübnan'a yönelik saldırıları kınandı. Katılımcılar, bölgedeki savaşın sona ermesi yönünde çağrıda bulunarak, Orta Doğu'daki gerilimin azaltılması talebini dile getirdi. Etkinlik, Filistin davasına destek ve bölgesel çatışmalara karşı duruş sergilemek amacıyla düzenlendi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1464228/pexels-photo-1464228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:53:14.722Z",
+        "location": {
+            "lat": 43.6532,
+            "lng": -79.3832,
+            "name": "Toronto, Kanada"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/al-quds-day-rally-in-toronto-calls-for-an-end-to-the-war-in-iran-lebanon?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1773568415500gdd36",
+        "title": "İran'ın Minab Kentinde Bir Okul Füze Saldırısıyla Hedef Alındı",
+        "summary": "İran'ın Minab kentinde bir okulun hedef alınması ve çocukların toplu şekilde öldürülmesi olayı uluslararası kamuoyunda yankı buldu. Haberde, dünyanın en hassas füzelerinden birinin bir sınıfı vurmasıyla gerçekleştiği belirtilen bu eylemlerin savaş suçu teşkil ettiği vurgulandı. Uluslararası hukuka göre, okulların hedef alınması ve çocukların katledilmesi kabul edilemez ihlaller olarak değerlendirilmektedir. Olayın sorumlularının tespit edilerek hesap vermesi gerektiği çağrısı yapıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:53:35.500Z",
+        "location": {
+            "lat": 27.15,
+            "lng": 57.08,
+            "name": "Minab, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/15/minab-when-the-worlds-most-precise-missile-chose-a-classroom?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773568441699q7p6q",
+        "title": "İsrail Ordusu'nun İran'a Yönelik Saldırıları Sonrası Hamedan ve İsfahan'da Patlama Sesleri Duyuldu",
+        "summary": "İsrail ordusu, İran'ın batı bölgelerine yönelik \"geniş çaplı\" bir saldırı dalgası başlattığını açıkladı. Bu açıklamanın ardından, İran'ın Hamedan ve İsfahan şehirlerinde patlama sesleri duyulduğu bildirildi. Saldırıların tam hedefleri ve yol açtığı sonuçlar hakkında henüz detaylı bilgi verilmedi. Bölgedeki güvenlik kaynakları, durumun yakından takip edildiğini ve gerilimin arttığını belirtiyor. Bu olay, Orta Doğu'daki mevcut siyasi ve askeri gerilimi daha da tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/572470/pexels-photo-572470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:54:01.699Z",
+        "location": {
+            "lat": 32.7,
+            "lng": 51.7,
+            "name": "İsfahan, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-hamedan-isfahan-as-israeli-army-launches-new-attacks-in-iran/3865325",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773568461644brw80",
+        "title": "İsrail İHA Saldırısında 2'si Çocuk 4 Gazalı Hayatını Kaybetti",
+        "summary": "Tıbbi kaynaklardan edinilen bilgilere göre, İsrail'e ait bir insansız hava aracı Gazze Şeridi'nde bir evi hedef aldı. İsrail ordusunun kontrolü dışındaki bir bölgede gerçekleşen saldırıda, ilk belirlemelere göre 2'si çocuk olmak üzere toplam 4 Gazalı hayatını kaybetti. Olay, bölgedeki gerilimi yeniden tırmandırırken, uluslararası toplumdan tepkiler gelmesi bekleniyor. Saldırının detaylarına ilişkin soruşturma başlatıldığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/319968/pexels-photo-319968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:54:21.644Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-kills-4-gazans-including-2-children/3865318",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17735684826088k5eu",
+        "title": "İran, saldırıya uğrayan hedefler konusunda bölgesel devletlerle ortak soruşturmaya hazır olduğunu bildirdi",
+        "summary": "İran, bölgedeki saldırıya uğrayan hedeflerle ilgili olarak bölgesel devletlerle ortak bir soruşturma yürütmeye hazır olduğunu duyurdu. İranlı yetkili Abbas Araghchi, ülkesinin şu ana kadar bölge ülkelerindeki hiçbir sivil veya yerleşim alanını hedef almadığını vurguladı. Bu açıklama, bölgedeki gerilimlerin ve karşılıklı suçlamaların arttığı bir dönemde geldi. İran'ın bu girişimi, bölgesel güvenlik ve istikrar konularında iş birliği arayışını ve şeffaflık taahhüdünü yansıtabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10464435/pexels-photo-10464435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:54:42.608Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-ready-for-joint-probe-with-regional-states-over-attacked-targets/3865317",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773568502625lrm2q",
+        "title": "Irak, yurt dışında mahsur kalan vatandaşlarını ülkeye geri getirmeye başladı",
+        "summary": "Irak hükümeti, yurt dışında mahsur kalan vatandaşlarını ülkeye geri getirmek amacıyla özel bir hava köprüsü operasyonu başlattı. Bu girişimle, çeşitli ülkelerde zor durumda bulunan Irak vatandaşlarının güvenli bir şekilde vatanlarına dönmeleri sağlanacak. Tahliye süreci, belirlenen program dahilinde aşamalı olarak yürütülecek ve vatandaşların mağduriyetlerinin giderilmesi hedefleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/15988178/pexels-photo-15988178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:55:02.625Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-begins-evacuating-its-stranded-citizens-abroad-returning-them-to-country/3865306",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "177356852284159ycp",
+        "title": "İsrail'in kuzeyindeki Hayfa'da sirenler çaldı: İran ve Lübnan'dan füze fırlatıldı",
+        "summary": "İsrail'in kuzeyindeki Hayfa kentinde ve çevresinde sirenler çalmaya başladı. İsrail medyası, Lübnan'dan Hayfa ve çevresine doğru 10 roket fırlatıldığını duyurdu. Haberde, füzelerin İran ve Lübnan'dan geldiği belirtilirken, İsrail güvenlik güçlerinin gelişmeleri yakından takip ettiği aktarıldı. Bu gelişme, bölgedeki gerilimi tırmandırırken, sivil halkın güvenli bölgelere yönlendirildiği bildirildi. Olayın ardından bölgede alarm durumu devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2159/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T09:55:22.841Z",
+        "location": {
+            "lat": 32.794,
+            "lng": 34.9896,
+            "name": "Hayfa, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-haifa-northern-israel-after-missile-launches-from-iran-lebanon/3865287",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1773561448499x0nor",
         "title": "Tel Aviv'de İran Füze Saldırısı Sonrası Araçlar Hasar Gördü",
         "summary": "İran'dan gelen bir füze saldırısı dalgasının ardından Tel Aviv bölgesinde hasar meydana geldiği bildirildi. Şehirde birçok aracın şarapnel parçaları nedeniyle yandığı ve bazılarının devrildiği görüldü. Bu olay, bölgedeki gerilimin tırmandığını ve sivil altyapının da hedef alındığını gözler önüne serdi. Güvenlik güçleri olay yerinde geniş çaplı incelemeler başlatırken, saldırının Orta Doğu'daki mevcut çatışma ortamının bir yansıması olduğu belirtiliyor.",
@@ -638,165 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iraqi-group-claims-8-attacks-on-us-bases-in-last-24-hours/3864154",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773473308511vf0rx",
-        "title": "İran'da Starlink Alıcıları ve Rejim Karşıtı Kanalla Bağlantı İddialarıyla Gözaltılar",
-        "summary": "İran'da güvenlik güçleri, iki ayrı olayda toplam 17 kişiyi gözaltına aldı. Kum kentinde, Starlink uydu alıcılarına sahip oldukları iddiasıyla 13 kişi yakalanırken, bu kişilerin yasa dışı internet erişimi sağladığı belirtildi. Başkent Tahran'da ise, rejim karşıtı bir televizyon kanalına gizli bilgi gönderdiği öne sürülen 4 kişi gözaltına alındı. Yetkililer, bu kişilerin ulusal güvenliği tehdit eden faaliyetlerde bulunduğunu iddia etti. Olaylar, İran'da bilgi akışı ve internet erişimi üzerindeki kontrolün sıkılaştırıldığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10475180/pexels-photo-10475180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T07:28:28.511Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/13-detained-in-irans-qom-for-allegedly-possessing-starlink-satellite-receivers/3864147",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773473327842rojp7",
-        "title": "Bağdat'ta bir eve insansız hava aracı düşmesi sonucu 2 kişi yaralandı",
-        "summary": "Irak'ın başkenti Bağdat'ta bir eve insansız hava aracı (İHA) düştü. Güvenlik kaynaklarından edinilen bilgiye göre, olay Arasat mahallesinde meydana geldi. Kazada iki kişinin yaralandığı bildirildi. İHA'nın düşüş nedeni ve kime ait olduğu hakkında henüz resmi bir açıklama yapılmadı. Olayla ilgili detaylı soruşturma başlatıldığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T07:28:47.842Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-wounded-when-drone-crashes-into-baghdad-home/3864146",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773464610580wmjam",
-        "title": "Trump, ABD'nin Harg Adası'nı vurduğunu söylemesinin ardından bombalama videosu paylaştı",
-        "summary": "Eski ABD Başkanı Donald Trump, ABD'nin İran'ın Basra Körfezi'ndeki stratejik Harg Adası'na düzenlediği hava saldırılarına ait görüntüleri sosyal medya hesabından paylaştı. Trump'ın bu paylaşımı, daha önce ABD'nin adayı hedef aldığını iddia etmesinin ardından geldi. Harg Adası, İran'ın en büyük petrol ihracat terminaline ev sahipliği yapması nedeniyle büyük önem taşımaktadır. Bu tür askeri eylem iddiaları ve görüntü paylaşımları, bölgedeki jeopolitik gerilimi artırma potansiyeli taşımaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163425/war-desert-guns-gunshow-163425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T05:03:30.580Z",
-        "location": {
-            "lat": 29.23,
-            "lng": 50.33,
-            "name": "Harg Adası, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-posts-bombing-video-after-saying-us-hit-kharg-island?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1773464664430r48xb",
-        "title": "Uzmanlar, Hürmüz Boğazı Endişesi İddialarını Sorguluyor",
-        "summary": "Uzmanlar, ABD'li Pete Hegseth'in, ABD'nin Hürmüz Boğazı'nı yeniden açmak için etkili bir şekilde çalıştığı yönündeki iddialarına şüpheyle yaklaşıyor. Küresel petrol taşımacılığı için hayati bir geçiş noktası olan Hürmüz Boğazı, Basra Körfezi ile Umman Denizi'ni birbirine bağlamaktadır. Bu stratejik su yolu, özellikle İran ile ABD arasındaki gerilimlerde sıkça gündeme gelmekte ve bölgedeki enerji güvenliği açısından kritik bir öneme sahiptir. Uzmanlar, boğazın güvenliği ve serbest geçişi konusunda ABD'nin mevcut çabalarının etkinliği hakkında endişelerini dile getirerek, bölgedeki denizcilik ve enerji politikaları üzerindeki potansiyel etkilerine dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14000470/pexels-photo-14000470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T05:04:24.430Z",
-        "location": {
-            "lat": 26,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/experts-doubt-hegseth-claim-no-need-to-worry-about-hormuz?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773464719525lfbau",
-        "title": "Suudi Arabistan'da İnsansız Hava Aracı Saldırıları Engellendi",
-        "summary": "Suudi Arabistan Savunma Bakanlığı, ülkeye yönelik insansız hava aracı saldırılarının başarıyla engellendiğini duyurdu. Bakanlıktan yapılan açıklamada, en az sekiz adet insansız hava aracının imha edildiği belirtildi. Bu olay, bölgedeki güvenlik endişelerini bir kez daha gündeme getirdi. Suudi Arabistan, son dönemde sık sık insansız hava aracı ve füze saldırılarına maruz kalıyor. Yetkililer, ülkenin hava savunma sistemlerinin etkinliğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19453550/pexels-photo-19453550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T05:05:19.525Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-attacks-thwarted-in-saudi-arabia-defense-ministry/3864156",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773464789984f1vgs",
-        "title": "Katar Savunma Bakanlığı Ülkeyi Hedef Alan Füze Saldırısını Engelledi",
-        "summary": "Katar Savunma Bakanlığı, ülkeyi hedef alan bir füze saldırısının başarıyla engellendiğini duyurdu. Başkent Doha semalarında, hava hedeflerinin engellenmesinin ardından patlama sesleri kaydedildi. Bakanlık, saldırının bertaraf edildiğini ve durumun kontrol altında olduğunu belirtti. Olayla ilgili gelişmelerin yakından takip edildiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31016437/pexels-photo-31016437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T05:06:29.984Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-s-ministry-of-defense-says-it-intercepted-missile-attack-targeting-country/3864145",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773442126022fs91o",
-        "title": "Kudüs Günü'nde Mescid-i Aksa Kapatıldı, İbadetler Dışarıda Yapıldı",
-        "summary": "İsrail makamları, Kudüs Günü dolayısıyla Kudüs'teki Mescid-i Aksa külliyesini ibadete kapattı. Bu kararın ardından, Müslüman ibadet edenler kutsal mekanın dışında toplanarak namazlarını eda etti. Her yıl Ramazan ayının son Cuma günü kutlanan Kudüs Günü, Filistinlilerle dayanışma ve Kudüs'ün statüsüne dikkat çekme amacı taşıyor. İsrail güvenlik güçlerinin bölgedeki kısıtlamaları, ibadet özgürlüğü konusunda tartışmaları yeniden alevlendirdi. Olay, Kudüs'teki hassas dini ve siyasi gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18387998/pexels-photo-18387998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T22:48:46.022Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/worshippers-pray-outside-al-aqsa-amid-closure-on-al-quds-day?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773442162778upm9p",
-        "title": "İran'dan Orta İsrail'e Füze Saldırısı: Bina Alev Aldı",
-        "summary": "İsrail ordusu, orta İsrail'e yönelik bir füze saldırısının İran tarafından gerçekleştirildiğini açıkladı. Saldırı sonucunda bölgedeki bir binada yangın çıktığı ve alevlerin yükseldiği bildirildi. Olayın, orta İsrail'de bir yol kenarında duman ve alevlerin görülmesine neden olduğu belirtildi. Bu gelişme, iki ülke arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor ve bölgesel güvenlik endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T22:49:22.778Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773442201883szo0c",
-        "title": "ABD torpido saldırısında hayatını kaybeden 84 İranlı denizcinin cenazeleri iade edilecek",
-        "summary": "ABD torpido saldırısında hayatını kaybeden 84 İranlı denizcinin cenazelerinin iade edileceği bildirildi. Söz konusu denizciler, 4 Mart tarihinde İran savaş gemisi Iris Dena'nın Sri Lanka açıklarında bir ABD denizaltısı tarafından batırılması sonucu yaşamını yitirmişti. Bu olay, İran ile ABD arasındaki geçmişteki gerilimleri yeniden gündeme getiriyor. Cenazelerin iadesi süreci, iki ülke arasındaki ilişkiler açısından dikkatle takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/843085/pexels-photo-843085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T22:50:01.883Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773435784119u76u9",
-        "title": "İsrail'in Lübnan'daki Askeri Harekatı Yıkıcı Yeni Bir Aşamaya Ulaştı",
-        "summary": "İsrail'in Lübnan'a yönelik askeri harekatının yıkıcı yeni bir aşamaya girdiği bildirildi. İsrail, Lübnan'ın Gazze Şeridi'ndekine benzer bir yıkımla karşı karşıya kalabileceği yönünde sert bir uyarıda bulundu. Bu açıklama, bölgedeki gerilimin tırmandığını ve çatışmanın potansiyel olarak genişleyebileceğini gözler önüne seriyor. Uluslararası toplum, olası bir bölgesel çatışmanın önüne geçmek için gelişmeleri yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-13T21:03:04.119Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 35.5,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israels-military-campaign-in-lebanon-reaches-devastating-new-phase?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
