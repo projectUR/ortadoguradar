@@ -278,6 +278,9 @@ let usedPhone = false;
 let usedAudience = false;
 let usedDouble = false;
 let isDoubleChanceActive = false;
+let oilTimer; // Zamanlayıcıyı tutacak
+let timeLeft; // Kalan süreyi tutacak
+const questionTimes = [40, 50, 60, 70, 80, 90]; // İlk 6 sorunun süreleri
 
 // 4. Oyunu Başlat
 function startOilGame() {
@@ -347,6 +350,18 @@ function loadQuestion() {
     }
     // Her yeni soruda aktiflik durumunu sıfırla
     if (typeof isDoubleChanceActive !== 'undefined') isDoubleChanceActive = false;
+   // --- SÜRE KONTROLÜ (İlk 6 Soru) ---
+    const timerElement = document.getElementById('oil-timer-container');
+    
+    if (currentQuestionIndex < 6) {
+        // İlk 6 soruda süreyi göster ve başlat
+        if (timerElement) timerElement.style.display = "flex"; 
+        startOilTimer(questionTimes[currentQuestionIndex]);
+    } else {
+        // 7. soru ve sonrasında süreyi durdur ve gizle
+        clearInterval(oilTimer);
+        if (timerElement) timerElement.style.display = "none";
+    }
 
     isAnswerLocked = false;
     const qData = activeQuestions[currentQuestionIndex];
@@ -379,6 +394,7 @@ function loadQuestion() {
 
 // 7. Cevabı Kontrol Et
 function checkOilAnswer(btn, selectedOption, correctAnswer) {
+   clearInterval(oilTimer); // Oyuncu şıkka tıkladığı an zamanı durdur
     if (isAnswerLocked) return;
     isAnswerLocked = true; // Kilitliyoruz, art arda basılamasın
 
@@ -618,3 +634,26 @@ document.getElementById('ll-double').addEventListener('click', () => {
     // Oyuncuya moral verelim
     showJokerModal("🛡️ Çelik Zırh Aktif", "Bu soruda iki kez deneme hakkın var. İlk yanlışında kuyu patlamayacak, ikinci bir şık seçebileceksin!");
 });
+
+function startOilTimer(seconds) {
+    // Eğer çalışan başka bir sayaç varsa durdur (üst üste binmesin)
+    clearInterval(oilTimer);
+    timeLeft = seconds;
+    
+    // Süreyi ekranda göreceğimiz sayı (birazdan HTML kısmında ekleyeceğiz)
+    const timerDisplay = document.getElementById('oil-timer');
+    if (timerDisplay) timerDisplay.innerText = timeLeft;
+
+    oilTimer = setInterval(() => {
+        timeLeft--;
+        
+        // Ekranda her saniye sayıyı güncelle
+        if (timerDisplay) timerDisplay.innerText = timeLeft;
+
+        // Süre bittiğinde kuleyi kilitle
+        if (timeLeft <= 0) {
+            clearInterval(oilTimer);
+            oilGameOver("Süre Bitti! Sondaj kulesi zaman aşımından dolayı kilitlendi.", false);
+        }
+    }, 1000);
+}
