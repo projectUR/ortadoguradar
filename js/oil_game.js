@@ -205,3 +205,142 @@ function shuffleArray(array) {
     }
     return array;
 }
+/* ===================================================
+   JOKER (İSTİHBARAT) SİSTEMLERİ
+   =================================================== */
+
+// Event Listeners
+document.getElementById('ll-50').addEventListener('click', use5050);
+document.getElementById('ll-phone').addEventListener('click', usePhone);
+document.getElementById('ll-audience').addEventListener('click', useAudience);
+document.getElementById('btnOilJokerClose').addEventListener('click', closeJokerModal);
+
+// Modal Kontrolü
+function showJokerModal(title, content) {
+    document.getElementById('oilJokerTitle').innerText = title;
+    document.getElementById('oilJokerContent').innerHTML = content;
+    document.getElementById('oilJokerModal').classList.remove('hidden');
+}
+
+function closeJokerModal() {
+    document.getElementById('oilJokerModal').classList.add('hidden');
+}
+
+// 1. YARI YARIYA JOKERİ (50:50)
+function use5050() {
+    if (used50 || isAnswerLocked) return;
+    used50 = true;
+    document.getElementById('ll-50').classList.add('used');
+
+    const qData = activeQuestions[currentQuestionIndex];
+    let hiddenCount = 0;
+    const options = [0, 1, 2, 3];
+    shuffleArray(options); // Şıkları karıştır ki hep aynı yerdekiler silinmesin
+
+    for (let i of options) {
+        const btn = document.getElementById(`opt-${i}`);
+        const text = btn.querySelector('.opt-text').innerText;
+        if (text !== qData.answer && hiddenCount < 2) {
+            btn.style.visibility = 'hidden'; // 2 Yanlış şıkkı uçur
+            hiddenCount++;
+        }
+    }
+}
+
+// 2. LİDERLER HATTI (Telefon Jokeri)
+function usePhone() {
+    if (usedPhone || isAnswerLocked) return;
+
+    // Lider seçme ekranı
+    const content = `
+        <p style="margin-bottom: 15px;">Hangi liderin istihbarat ağına bağlanmak istiyorsun?</p>
+        <div style="display:flex; gap:10px; justify-content:center;">
+            <button onclick="callLeader('Saddam')" class="btn-primary" style="background:#444; color:#fff; border:1px solid #f1c40f;">Saddam</button>
+            <button onclick="callLeader('Kaddafi')" class="btn-primary" style="background:#444; color:#fff; border:1px solid #f1c40f;">Kaddafi</button>
+            <button onclick="callLeader('Nasır')" class="btn-primary" style="background:#444; color:#fff; border:1px solid #f1c40f;">Nasır</button>
+        </div>
+    `;
+    showJokerModal("📞 Kırmızı Hat", content);
+}
+
+// Liderin Cevap Verme Mantığı (Zorluğa Göre Doğruluk)
+window.callLeader = function(leaderName) {
+    usedPhone = true;
+    document.getElementById('ll-phone').classList.add('used');
+
+    const qData = activeQuestions[currentQuestionIndex];
+    let isCorrect = true;
+
+    // Senin belirlediğin doğruluk oranları
+    const rand = Math.random() * 100;
+    if (currentQuestionIndex < 2) { isCorrect = true; } // 1 ve 2. soru: %100
+    else if (currentQuestionIndex < 8) { if (rand > 80) isCorrect = false; } // 3-8 arası: %80
+    else { if (rand > 50) isCorrect = false; } // 9-12 arası: %50 (Çok Riskli!)
+
+    let suggestedAnswer = qData.answer;
+    if (!isCorrect) {
+        // Yanlış cevap verecekse, doğru şık dışındakilerden birini sallasın
+        const wrongOptions = qData.options.filter(opt => opt !== qData.answer);
+        suggestedAnswer = wrongOptions[Math.floor(Math.random() * wrongOptions.length)];
+    }
+
+    // Liderlere Özel Replikler
+    let dialogue = "";
+    if(leaderName === 'Saddam') dialogue = `"Kardeşim, Batı'nın oyunlarına gelme. Benim kaynaklarım bu sorunun cevabının kesinlikle <b style="color:#f1c40f;">${suggestedAnswer}</b> olduğunu söylüyor."`;
+    if(leaderName === 'Kaddafi') dialogue = `"Çadırımdan bildiriyorum! Emperyalistler bilmeni istemez ama gerçek cevap <b style="color:#f1c40f;">${suggestedAnswer}</b>."`;
+    if(leaderName === 'Nasır') dialogue = `"Arap milliyetçiliği adına söylüyorum, doğru yol <b style="color:#f1c40f;">${suggestedAnswer}</b> şıkkından geçer."`;
+
+    const content = `
+        <h4 style="color:#fff; margin-bottom:15px; text-transform:uppercase;">${leaderName} Hattayken...</h4>
+        <p style="font-style:italic; font-size:1.2rem;">${dialogue}</p>
+    `;
+    showJokerModal("📞 İstihbarat Alındı", content);
+}
+
+// 3. HALKIN SESİ (Seyirci Jokeri)
+function useAudience() {
+    if (usedAudience || isAnswerLocked) return;
+    usedAudience = true;
+    document.getElementById('ll-audience').classList.add('used');
+
+    const qData = activeQuestions[currentQuestionIndex];
+    const correctOptText = qData.answer;
+
+    // Zorluğa göre doğru bilme yüzdesi
+    let correctPercent = 0;
+    if (currentQuestionIndex < 2) correctPercent = Math.floor(Math.random() * 15) + 75; // %75-%90
+    else if (currentQuestionIndex < 8) correctPercent = Math.floor(Math.random() * 20) + 50; // %50-%70
+    else correctPercent = Math.floor(Math.random() * 20) + 30; // %30-%50
+
+    let remaining = 100 - correctPercent;
+    const w1 = Math.floor(Math.random() * remaining); remaining -= w1;
+    const w2 = Math.floor(Math.random() * remaining);
+    const w3 = remaining - w2;
+    const wrongPercents = shuffleArray([w1, w2, w3]);
+
+    let html = '<div style="display:flex; flex-direction:column; gap:12px; text-align:left; margin-top:10px;">';
+    let wrongIndex = 0;
+
+    for (let i = 0; i < 4; i++) {
+        const btn = document.getElementById(`opt-${i}`);
+        if (btn.style.visibility === 'hidden') continue; // 50:50 kullanıldıysa gizli şıkları atla
+
+        const text = btn.querySelector('.opt-text').innerText;
+        const letter = btn.querySelector('.opt-letter').innerText.replace(':', '');
+
+        let percent = (text === correctOptText) ? correctPercent : wrongPercents[wrongIndex++];
+        
+        html += `
+            <div style="display:flex; align-items:center;">
+                <span style="width:30px; font-weight:bold; color:#f1c40f;">${letter}</span>
+                <div style="flex-grow:1; background:#222; height:18px; border-radius:10px; overflow:hidden; border:1px solid #444;">
+                    <div style="width:${percent}%; background:linear-gradient(90deg, #d35400, #f1c40f); height:100%;"></div>
+                </div>
+                <span style="width:45px; text-align:right; margin-left:10px; color:#ccc;">%${percent}</span>
+            </div>
+        `;
+    }
+    html += '</div>';
+
+    showJokerModal("👥 İstihbarat Raporu", html);
+}
