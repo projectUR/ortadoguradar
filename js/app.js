@@ -66,10 +66,20 @@ async function fetchNewsData() {
         const response = await fetch('data/mock_news.json');
         let data = await response.json();
 
-                // Sort chronologically (newest first)
+        // --- 48 SAAT FİLTRESİ BAŞLANGICI ---
+        const now = new Date();
+        const limit = 48 * 60 * 60 * 1000; // 48 saat (ms cinsinden)
+
+        data = data.filter(item => {
+            const newsDate = new Date(item.timestamp);
+            return (now - newsDate) <= limit; 
+        });
+        // --- 48 SAAT FİLTRESİ SONU ---
+
+        // Yeniden eskiye sırala
         data = data.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
 
-        // Dynamically set 'Son Dakika' (Breaking News) to only the most recent 2 articles
+        // En yeni 2 habere "Son Dakika" etiketi ver
         data = data.map((item, index) => {
             item.isBreaking = (index < 2);
             return item;
@@ -78,11 +88,10 @@ async function fetchNewsData() {
         STATE.news = data;
         STATE.filteredNews = [...data];
 
-       } catch (err) {
-        console.error("Haberler çekilemedi:", err);
+    } catch (err) {
+        console.error("Haberler çekilirken bir hata oluştu:", err);
     }
 }
-
 
 // =========================================
 // UI RENDERERS
