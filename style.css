@@ -1308,3 +1308,12 @@ body {
     .oil-options-grid { grid-template-columns: 1fr; }
     .oil-ladder { flex-direction: column; }
 }
+
+/* --- YENİ BARAJ (MİLESTONE) TASARIMI --- */
+.ladder-step.milestone { color: #fff !important; font-weight: bold; }
+.ladder-step.milestone .step-val { color: #fff !important; }
+
+.ladder-step.milestone.passed { color: #2ecc71 !important; }
+.ladder-step.milestone.passed .step-val { color: #2ecc71 !important; }
+
+.ladder-step.active.milestone .step-val { color: #000 !important; }
