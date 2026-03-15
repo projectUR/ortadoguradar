@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773608334931c4iy5",
+        "title": "Ukrayna, Orta Doğu'ya İHA Desteği Karşılığında Para ve Teknoloji Hedefliyor",
+        "summary": "Ukrayna'nın, Orta Doğu ülkelerine insansız hava aracı (İHA) desteği sağlamak karşılığında finansal kaynaklar ve teknoloji elde etmeyi hedeflediği bildirildi. Ukrayna lideri daha önce yaptığı açıklamalarda, İran'ın İHA saldırılarını engellemeye yardımcı olmak amacıyla Katar, Birleşik Arap Emirlikleri ve Suudi Arabistan'a danışmanlar gönderildiğini belirtmişti. Bu hamle, Ukrayna'nın savaş çabalarını desteklemek için yeni gelir ve teknoloji kaynakları arayışının bir parçası olarak değerlendiriliyor. Aynı zamanda, Orta Doğu'daki bölgesel güvenlik dinamiklerinde Ukrayna'nın potansiyel rolünü de ortaya koyuyor. Bu iş birliği, bölgedeki İHA tehditlerine karşı ortak bir savunma mekanizması oluşturma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T20:58:54.931Z",
+        "location": {
+            "lat": 25,
+            "lng": 48,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/15/money-technology-important-in-return-for-middle-east-support-zelenskyy?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1773608374502fer4c",
+        "title": "İsrail askerlerinin işgal altındaki Batı Şeria'da bir aileyi öldürmesinin ardından iki kardeş hayatta kaldı",
+        "summary": "İşgal altındaki Batı Şeria'da trajik bir olay yaşandı. Tammun kasabasında İsrail askerlerinin düzenlediği operasyonda bir Filistinli aile hedef alındı. Olayda ailenin anne ve babası ile iki çocuğu hayatını kaybetti. Saldırıdan sadece iki Filistinli kardeş sağ kurtulmayı başardı. Bölgedeki gerilim devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T20:59:34.502Z",
+        "location": {
+            "lat": 32.325,
+            "lng": 35.408,
+            "name": "Tammun, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/two-brothers-survive-after-israeli-troops-kill-family-in-occupied-west-bank?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "17736084466872d9l3",
+        "title": "İsrail, Gazze'deki Refah Sınır Kapısı'nı Çarşamba Günü Yeniden Açacağını Duyurdu",
+        "summary": "İsrail, Gazze Şeridi ile Mısır arasındaki Refah Sınır Kapısı'nı Çarşamba günü yeniden açacağını bildirdi. Yapılan açıklamaya göre, sınır kapısından sınırlı sayıda kişinin geçişine izin verilecek. Bu geçişler, Mısır ile güvenlik koordinasyonu çerçevesinde gerçekleştirilecek. Ayrıca, Avrupa Birliği'nin denetiminde olacağı belirtildi. Refah Sınır Kapısı, Gazze'nin dış dünyaya açılan önemli kapılarından biri olarak biliniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6421276/pexels-photo-6421276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-15T21:00:46.687Z",
+        "location": {
+            "lat": 31.2917,
+            "lng": 34.2583,
+            "name": "Refah, Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-says-to-reopen-gaza-s-rafah-crossing-on-wednesday/3865838",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773603944972g059o",
         "title": "Mücbir Sebep Nedir ve Bazı Körfez Ülkeleri Neden Buna Başvuruyor?",
         "summary": "Körfez ülkelerindeki bazı enerji üreticileri, deniz taşımacılığında yaşanan aksaklıklar nedeniyle petrol ve doğalgaz sevkiyatlarında mücbir sebep ilan etti. Mücbir sebep, sözleşmelerde öngörülen yükümlülüklerin, tarafların kontrolü dışındaki beklenmedik olaylar nedeniyle geçici olarak askıya alınmasını sağlayan yasal bir hükümdür. Bu durum, küresel enerji piyasalarında arz güvenliği ve fiyatlar üzerinde potansiyel etkiler yaratabilir. Karar, özellikle bölgedeki jeopolitik gerilimler ve deniz yollarındaki güvenlik endişeleri bağlamında önem taşımaktadır.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/trump-rejects-putins-proposal-to-transfer-iran-s-enriched-uranium-to-russia-report/3864487",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773486010806282wk",
-        "title": "Güney Lübnan'da İsrail Saldırısı İddiasıyla Dört Kişi Hayatını Kaybetti",
-        "summary": "Güney Lübnan'da bir apartman dairesine düzenlenen saldırıda dört kişinin yaşamını yitirdiği bildirildi. Yerel kaynaklar ve haber ajansları, saldırının İsrail tarafından gerçekleştirildiğini iddia etti. Olayın ardından bölgede güvenlik durumu yakından takip edilirken, saldırının detaylarına ilişkin resmi açıklamalar bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7717505/pexels-photo-7717505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T11:00:10.806Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/four-killed-in-southern-lebanon-apartment-after-reported-israeli-attack?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17734821712483wunc",
-        "title": "İran'ın Kürdistan Eyaleti'nde Saldırılarda 112 Kişi Hayatını Kaybetti",
-        "summary": "İran'ın Kürdistan eyaletindeki yerel yetkililer, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen saldırılarda en az 112 kişinin yaşamını yitirdiğini açıkladı. Yetkililere göre, aynı saldırılarda 969 kişi de yaralandı. Bölgedeki yetkililer, bu olayların eyalette ciddi can kaybına yol açtığını belirtti. Haber ajansları, iddiaların bağımsız kaynaklarca henüz doğrulanmadığını aktardı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9546611/pexels-photo-9546611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T09:56:11.248Z",
-        "location": {
-            "lat": 35.31,
-            "lng": 46.99,
-            "name": "Kürdistan Eyaleti, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773482192227weoq1",
-        "title": "İran, ABD-İsrail Çatışmasının Etkisiyle Körfez'deki Saldırılarını Yoğunlaştırdı",
-        "summary": "İran'ın, ABD-İsrail arasındaki çatışmaların bölgedeki yansımaları sonucunda Basra Körfezi'ndeki saldırılarını yoğunlaştırdığı bildirildi. Gece saatlerinde Suudi Arabistan ve Katar da dahil olmak üzere birçok ülkeye yönelik hava saldırıları düzenlendiği belirtildi. Bu saldırıların bir kısmının ilgili ülkelerin hava savunma sistemleri tarafından başarıyla engellendiği rapor edildi. Bölgedeki gerilimin bu gelişmelerle birlikte daha da tırmandığı ve güvenlik endişelerinin arttığı ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9959258/pexels-photo-9959258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T09:56:32.227Z",
-        "location": {
-            "lat": 26,
-            "lng": 51,
-            "name": "Basra Körfezi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
