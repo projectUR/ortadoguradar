@@ -385,6 +385,21 @@ document.addEventListener('click', function(e) {
             console.error("HATA: flags.js dosyası yüklü değil veya fonksiyon bulunamadı!");
         }
     }
+   // --- PETROL OYUNU MANTIĞI ---
+    const startOilBtn = e.target.closest('#startOilGame');
+    const btnCloseOil = e.target.closest('#btnCloseOilGame');
+    const oilGame = document.getElementById('actualOilGame');
+
+    if (startOilBtn && oilGame) {
+        menu.classList.add('hidden');
+        oilGame.classList.remove('hidden');
+        if (typeof startOilGame === 'function') startOilGame();
+    }
+    
+    if (btnCloseOil && oilGame) {
+        oilGame.classList.add('hidden');
+        menu.classList.remove('hidden');
+    }
 });
 // SİTE LOGOSUNA TIKLANDIĞINDA HER ŞEYİ SIFIRLA VE ANA SAYFAYA DÖN
 document.getElementById('siteLogo')?.addEventListener('click', function(e) {
