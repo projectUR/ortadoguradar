@@ -122,7 +122,7 @@ const oilQuestionPool = {
         { q: "Katar ve Bahreyn hangi körfezin kıyısındadır?", options: ["Aden Körfezi", "Basra Körfezi", "Akabe Körfezi", "İskenderun Körfezi"], answer: "Basra Körfezi" },
         { q: "Arapça'da 'Cezire' kelimesi ne anlama gelir?", options: ["Dağ", "Ada", "Çöl", "Şehir"], answer: "Ada" },
         { q: "Orta Doğu'da yer alan 'Bereketli Hilal' bölgesinin bir parçası olan ülke hangisidir?", options: ["Irak", "Fas", "Moritanya", "Cezayir"], answer: "Irak" },
-        { q: "Filistin'in simgesi olan geleneksel siyah-beyaz işlemeli atkıya ne denir?", options: ["Fes", "Kefiye", "Sarık", "Abaya"], answer: "Kefiye" }
+        { q: "Filistin'in simgesi olan geleneksel siyah-beyaz işlemeli atkıya ne denir?", options: ["Fes", "Kefiye", "Sarık", "Abaya"], answer: "Kefiye" },
     ],
 
     medium: [
@@ -205,7 +205,7 @@ const oilQuestionPool = {
         { q: "Irak'ın kuzeyindeki bölgesel yönetimin merkezi olan şehir hangisidir?", options: ["Musul", "Kerkük", "Erbil", "Süleymaniye"], answer: "Erbil" },
         { q: "Suriye'de 1970'ten 2000 yılına kadar süren Hafız Esed dönemini başlatan darbe hareketine ne ad verilir?", options: ["Düzeltme Hareketi", "Beyaz Devrim", "Halkın Sesi", "Sedir Devrimi"], answer: "Düzeltme Hareketi" },
         { q: "Arap Dünyası'nın en büyük nüfusuna sahip ülkesi hangisidir?", options: ["Suudi Arabistan", "Mısır", "Irak", "Cezayir"], answer: "Mısır" },
-        { q: "1950-1980 yılları arasında Suudi petrolünü Lübnan kıyılarına taşıyan dev boru hattının adı nedir?", options: ["Tapline", "Irapline", "Redline", "Medline"], answer: "Tapline" }
+        { q: "1950-1980 yılları arasında Suudi petrolünü Lübnan kıyılarına taşıyan dev boru hattının adı nedir?", options: ["Tapline", "Irapline", "Redline", "Medline"], answer: "Tapline" },
     ],
     hard: [
         { q: "1973 Petrol Krizi, hangi savaşın ardından Arap ülkelerinin ambargosuyla başlamıştır?", options: ["Altı Gün Savaşı", "Süveyş Krizi", "Birinci Körfez Savaşı", "Yom Kippur Savaşı"], answer: "Yom Kippur Savaşı" },
@@ -262,7 +262,7 @@ const oilQuestionPool = {
         { q: "Irak'ta 1958 yılında Kral II. Faysal'ın ve Başbakan Nuri es-Said'in öldürülmesiyle sonuçlanan darbenin lideri kimdir?", options: ["Abdülkerim Kasım", "Saddam Hüseyin", "Ahmet Hasan el-Bekir", "Celal Talabani"], answer: "Abdülkerim Kasım" },
         { q: "İran ve Batılı güçler arasında 2015 yılında imzalanan Nükleer Anlaşma'nın resmi (teknik) adı nedir?", options: ["JCPOA", "START I", "NATO-İran Paktı", "Viyana Protokolü"], answer: "JCPOA" },
         { q: "1930'larda Orta Doğu'da casusluk faaliyetleri yürüten ve 'Çölün Kraliçesi' olarak bilinen İngiliz kadın ajan/arkeolog kimdir?", options: ["Gertrude Bell", "Mata Hari", "Agatha Christie", "T.E. Lawrence'ın eşi"], answer: "Gertrude Bell" },
-        { q: "OPEC'in merkezi 1960-1965 yılları arasında Viyana'ya taşınmadan önce hangi şehirde bulunuyordu?", options: ["Cenevre", "Londra", "Paris", "Zürih"], answer: "Cenevre" }
+        { q: "OPEC'in merkezi 1960-1965 yılları arasında Viyana'ya taşınmadan önce hangi şehirde bulunuyordu?", options: ["Cenevre", "Londra", "Paris", "Zürih"], answer: "Cenevre" },
     ]
 };
 
