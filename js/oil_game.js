@@ -22,7 +22,7 @@ const oilPrizeLadder = [
 const oilQuestionPool = {
     easy: [
         { q: "Hangi Orta Doğu ülkesinin bayrağında 'Sedir Ağacı' bulunur?", options: ["Suriye", "Ürdün", "Lübnan", "Filistin"], answer: "Lübnan" },
-        { q: "Dünyanın en yüksek binası olan Burç Halife hangi şehirdedir?", options: ["Riyad", "Doha", "Abu Dabi", "Dubai"], answer: "Dubai" }
+        { q: "Dünyanın en yüksek binası olan Burç Halife hangi şehirdedir?", options: ["Riyad", "Doha", "Abu Dabi", "Dubai"], answer: "Dubai" },
        { q: "Mısır'ın başkenti aşağıdakilerden hangisidir?", options: ["Kahire", "İskenderiye", "Lübnan", "Amman"], answer: "Kahire" },
         { q: "Dünyanın en büyük petrol ihracatçısı ülkelerinden biri olan Suudi Arabistan'ın başkenti neresidir?", options: ["Cidde", "Medine", "Riyad", "Dammam"], answer: "Riyad" },
         { q: "Bayrağında 'Hilal ve Yıldız' bulunan, kıtaları birbirine bağlayan Orta Doğu ülkesi hangisidir?", options: ["İran", "Türkiye", "Irak", "Suriye"], answer: "Türkiye" },
@@ -47,7 +47,7 @@ const oilQuestionPool = {
         { q: "Hangisi Orta Doğu'da kullanılan yaygın bir para birimidir?", options: ["Euro", "Dinar", "Yen", "Peso"], answer: "Dinar" },
         { q: "Hazar Denizi'ne kıyısı olan büyük Orta Doğu ülkesi hangisidir?", options: ["İrak", "İran", "Kuveyt", "Suriye"], answer: "İran" },
         { q: "Kudüs şehri hangi bölge için kutsal kabul edilir?", options: ["Sadece Müslümanlar", "Sadece Hristiyanlar", "Sadece Yahudiler", "Semavi Dinlerin Tamamı"], answer: "Semavi Dinlerin Tamamı" },
-        { q: "Ankara hangi ülkenin başkentidir?", options: ["Suriye", "Irak", "İran", "Türkiye"], answer: "Türkiye" }
+        { q: "Ankara hangi ülkenin başkentidir?", options: ["Suriye", "Irak", "İran", "Türkiye"], answer: "Türkiye" },
 { q: "Umman Denizi ile Basra Körfezi'ni birbirine bağlayan stratejik boğazın adı nedir?", options: ["Süveyş", "Hürmüz", "Cebelitarık", "İstanbul"], answer: "Hürmüz" },
         { q: "Suudi Arabistan'da hangi önemli liman şehri Kızıldeniz kıyısında bulunur?", options: ["Riyad", "Cidde", "Dammam", "Tebük"], answer: "Cidde" },
         { q: "İran'ın para birimi nedir?", options: ["Dinar", "Riyal", "Lira", "Dirhem"], answer: "Riyal" },
@@ -72,7 +72,7 @@ const oilQuestionPool = {
         { q: "Dünyanın en tuzlu su kütlelerinden biri olan göl hangisidir?", options: ["Van Gölü", "Lut Gölü", "Hazar Denizi", "Aral Gölü"], answer: "Lut Gölü" },
         { q: "Birleşik Arap Emirlikleri'nin para birimi nedir?", options: ["Riyal", "Dinar", "Dirhem", "Lira"], answer: "Dirhem" },
         { q: "Gazze Şeridi hangi denizin kıyısındadır?", options: ["Kızıldeniz", "Akdeniz", "Ölü Deniz", "Basra Körfezi"], answer: "Akdeniz" },
-        { q: "Büyük Gize Sfenksi hangi ülkededir?", options: ["Irak", "Mısır", "İran", "Ürdün"], answer: "Mısır" }
+        { q: "Büyük Gize Sfenksi hangi ülkededir?", options: ["Irak", "Mısır", "İran", "Ürdün"], answer: "Mısır" },
 { q: "Müslümanlar için kutsal olan Kabe hangi şehirdedir?", options: ["Medine", "Kudüs", "Mekke", "Bağdat"], answer: "Mekke" },
         { q: "Modern Türkiye Cumhuriyeti'nin kurucusu kimdir?", options: ["İsmet İnönü", "Mustafa Kemal Atatürk", "Fevzi Çakmak", "Adnan Menderes"], answer: "Mustafa Kemal Atatürk" },
         { q: "Orta Doğu mutfağında çok sevilen, kızarmış nohut köftesine ne ad verilir?", options: ["Kibbeh", "Falafel", "Lahmacun", "Şavurma"], answer: "Falafel" },
@@ -97,7 +97,7 @@ const oilQuestionPool = {
         { q: "Orta Doğu'da en yaygın konuşulan dil ailesi hangisidir?", options: ["Türk dilleri", "Hint-Avrupa dilleri", "Sami dilleri (Arapça)", "Slav dilleri"], answer: "Sami dilleri (Arapça)" },
         { q: "Akabe Limanı hangi ülkenin denize açılan tek kapısıdır?", options: ["Irak", "Ürdün", "Suriye", "Lübnan"], answer: "Ürdün" },
         { q: "Hangisi bir Orta Doğu ülkesi değildir?", options: ["Umman", "Lübnan", "İtalya", "Katar"], answer: "İtalya" },
-        { q: "Arap Yarımadası'nın en güneyinde bulunan ülke hangisidir?", options: ["Yemen", "Kuveyt", "Ürdün", "Suriye"], answer: "Yemen" }
+        { q: "Arap Yarımadası'nın en güneyinde bulunan ülke hangisidir?", options: ["Yemen", "Kuveyt", "Ürdün", "Suriye"], answer: "Yemen" },
 { q: "Hangi Orta Doğu şehri 'Binbir Gece Masalları' ile özdeşleşmiştir?", options: ["Bağdat", "Kahire", "Tahran", "Riyad"], answer: "Bağdat" },
         { q: "2022 Dünya Kupası'na ev sahipliği yapan Orta Doğu ülkesi hangisidir?", options: ["Suudi Arabistan", "Katar", "Birleşik Arap Emirlikleri", "Kuveyt"], answer: "Katar" },
         { q: "Arapça'da 'Selam' kelimesinin temel anlamı nedir?", options: ["Savaş", "Barış", "Yemek", "Yolculuk"], answer: "Barış" },
@@ -130,7 +130,7 @@ const oilQuestionPool = {
         { q: "OPEC'in merkezi hangi Avrupa şehrindedir?", options: ["Cenevre", "Viyana", "Paris", "Brüksel"], answer: "Viyana" },
         { q: "Mısır ile İsrail arasında 1978'de imzalanan barış antlaşmasının adı nedir?", options: ["Camp David", "Oslo", "Madrid", "İbrahim"], answer: "Camp David" },
         { q: "Dünyanın en büyük sıvılaştırılmış doğal gaz (LNG) ihracatçılarından olan yarımada ülkesi?", options: ["Umman", "Bahreyn", "Katar", "Kuveyt"], answer: "Katar" },
-        { q: "Kızıldeniz'i Akdeniz'e bağlayan stratejik su yolunun adı nedir?", options: ["Hürmüz Boğazı", "Süveyş Kanalı", "Cebelitarık", "Babulmendep"], answer: "Süveyş Kanalı" }
+        { q: "Kızıldeniz'i Akdeniz'e bağlayan stratejik su yolunun adı nedir?", options: ["Hürmüz Boğazı", "Süveyş Kanalı", "Cebelitarık", "Babulmendep"], answer: "Süveyş Kanalı" },
        { q: "1960 yılında kurulan OPEC'in (Petrol İhraç Eden Ülkeler Örgütü) kurucu üyelerinden olmayan ülke hangisidir?", options: ["Irak", "İran", "Kuveyt", "Mısır"], answer: "Mısır" },
         { q: "Mısır Cumhurbaşkanı Enver Sedat'ın İsrail ile barış yaptığı için suikasta uğramasına neden olan antlaşma hangisidir?", options: ["Oslo", "Camp David", "Londra", "Paris"], answer: "Camp David" },
         { q: "İran'da 1950'lerde petrolü millileştirdiği için darbe ile devrilen Başbakan kimdir?", options: ["Muhammed Musaddık", "Rıza Pehlevi", "Ayetullah Humeyni", "Ali Hameney"], answer: "Muhammed Musaddık" },
@@ -155,7 +155,7 @@ const oilQuestionPool = {
         { q: "Hangi Orta Doğu ülkesinde Cumhurbaşkanının Maruni Hristiyan, Başbakanın Sünni Müslüman olması anayasal bir zorunluluktur?", options: ["Suriye", "Irak", "Lübnan", "Mısır"], answer: "Lübnan" },
         { q: "2020 yılında Birleşik Arap Emirlikleri ve Bahreyn'in İsrail ile ilişkilerini normalleştirdiği anlaşmaların adı nedir?", options: ["Oslo Anlaşmaları", "Abraham (İbrahim) Anlaşmaları", "Madrid Protokolü", "Wye River Muhtırası"], answer: "Abraham (İbrahim) Anlaşmaları" },
         { q: "Saddam Hüseyin hangi yıl yakalanmış ve Irak'ta Baas rejimi resmen sona ermiştir?", options: ["1991", "2003", "2006", "2011"], answer: "2003" },
-        { q: "Dünyanın en dar stratejik su yollarından olan ve Yemen ile Cibuti arasında kalan boğaz hangisidir?", options: ["Hürmüz Boğazı", "Babulmendep Boğazı", "Süveyş Kanalı", "Malakka Boğazı"], answer: "Babulmendep Boğazı" }
+        { q: "Dünyanın en dar stratejik su yollarından olan ve Yemen ile Cibuti arasında kalan boğaz hangisidir?", options: ["Hürmüz Boğazı", "Babulmendep Boğazı", "Süveyş Kanalı", "Malakka Boğazı"], answer: "Babulmendep Boğazı" },
 { q: "1967 yılında gerçekleşen ve İsrail'in sınırlarını genişlettiği savaşın adı nedir?", options: ["Yom Kippur Savaşı", "Altı Gün Savaşı", "Süveyş Krizi", "Lübnan Savaşı"], answer: "Altı Gün Savaşı" },
         { q: "İsrail'i tanıyan ilk Arap ülkesi aşağıdakilerden hangisidir?", options: ["Ürdün", "Mısır", "Suriye", "Lübnan"], answer: "Mısır" },
         { q: "Körfez İşbirliği Konseyi'nin (KİK) merkezi hangi şehirdedir?", options: ["Kuveyt", "Doha", "Riyad", "Abu Dabi"], answer: "Riyad" },
@@ -180,7 +180,7 @@ const oilQuestionPool = {
         { q: "2011'de NATO müdahalesi sonrası devrilen Libya lideri Muammer Kaddafi kaç yıl iktidarda kalmıştır?", options: ["22", "32", "42", "52"], answer: "42" },
         { q: "Yemen'de 2014'ten beri merkezi hükümete karşı savaşan ve İran tarafından desteklenen grup hangisidir?", options: ["Husiler", "Taliban", "Müslüman Kardeşler", "El Kaide"], answer: "Husiler" },
         { q: "İsrail'in 1967'de Suriye'den ele geçirdiği ve hala tartışmalı olan stratejik bölge neresidir?", options: ["Gazze Şeridi", "Golan Tepeleri", "Batı Şeria", "Sina Yarımadası"], answer: "Golan Tepeleri" },
-        { q: "Dünyanın en büyük 3 petrol üreticisinden biri olan Orta Doğu ülkesi hangisidir?", options: ["Suudi Arabistan", "Ürdün", "Lübnan", "Türkiye"], answer: "Suudi Arabistan" }
+        { q: "Dünyanın en büyük 3 petrol üreticisinden biri olan Orta Doğu ülkesi hangisidir?", options: ["Suudi Arabistan", "Ürdün", "Lübnan", "Türkiye"], answer: "Suudi Arabistan" },
 { q: "1928 yılında imzalanan ve Osmanlı'nın eski topraklarındaki petrol arama haklarını dev şirketler arasında paylaştıran ünlü anlaşmanın adı nedir?", options: ["Kırmızı Hat Anlaşması", "Mavi Hat Anlaşması", "Petrol Paktı", "Sınır Protokolü"], answer: "Kırmızı Hat Anlaşması" },
         { q: "Dünya petrol piyasasına uzun yıllar hükmeden dev şirketleri tanımlamak için kullanılan terim hangisidir?", options: ["Yedi Kız Kardeş", "Petrol Baronları", "Altın Beşli", "Enerji Kralları"], answer: "Yedi Kız Kardeş" },
         { q: "1955 yılında Orta Doğu'da Sovyet yayılmacılığına karşı kurulan ve merkezi Bağdat olan ittifakın adı nedir?", options: ["Bağdat Paktı", "Sadabat Paktı", "NATO", "Varşova Paktı"], answer: "Bağdat Paktı" },
@@ -212,7 +212,7 @@ const oilQuestionPool = {
         { q: "Tarihte ticari amaçlı ilk petrol kuyusu nerede açılmıştır?", options: ["Teksas", "Suudi Arabistan", "Bakü", "İran"], answer: "Bakü" },
         { q: "Hürmüz Boğazı hangi iki su kütlesini birbirine bağlar?", options: ["Basra Körfezi - Umman Denizi", "Kızıldeniz - Akdeniz", "Aden Körfezi - Kızıldeniz", "Karadeniz - Hazar Denizi"], answer: "Basra Körfezi - Umman Denizi" },
         { q: "Suudi Arabistan'ın devlete ait devasa petrol ve doğalgaz şirketinin adı nedir?", options: ["Bapco", "Aramco", "KPC", "Sonatrach"], answer: "Aramco" },
-        { q: "İran-Irak Savaşı hangi yıllar arasında gerçekleşmiştir?", options: ["1980-1988", "1990-1991", "1973-1979", "2003-2011"], answer: "1980-1988" }
+        { q: "İran-Irak Savaşı hangi yıllar arasında gerçekleşmiştir?", options: ["1980-1988", "1990-1991", "1973-1979", "2003-2011"], answer: "1980-1988" },
        { q: "1973 Petrol Krizi sırasında 'Petrol Silahı'nın kullanılmasında kilit rol oynayan ve 'Petrolün Kralı' olarak bilinen efsanevi Suudi Petrol Bakanı kimdir?", options: ["Zeki Yamani", "Faysal bin Türki", "Ali el-Naimi", "Halid el-Falih"], answer: "Zeki Yamani" },
         { q: "Dünyanın en büyük kum taşı petrol sahası olarak bilinen ve Kuveyt'in toplam rezervlerinin yarısından fazlasını barındıran devasa saha hangisidir?", options: ["Burgan Sahası", "Gavar Sahası", "Rumaila Sahası", "Ahvaz Sahası"], answer: "Burgan Sahası" },
         { q: "1908 yılında İran'ın Mescid-i Süleyman bölgesinde Orta Doğu'nun ilk ticari petrol keşfini yapan İngiliz girişimci kimdir?", options: ["William Knox D'Arcy", "Calouste Gulbenkian", "John D. Rockefeller", "Henri Deterding"], answer: "William Knox D'Arcy" },
@@ -237,7 +237,7 @@ const oilQuestionPool = {
         { q: "Hangi Orta Doğu ülkesi, İsrail ile 1994 yılında barış antlaşması (Wadi Araba) imzalamıştır?", options: ["Ürdün", "Lübnan", "Suudi Arabistan", "Irak"], answer: "Ürdün" },
         { q: "Süveyş Kanalı'nın inşaatını başlatan ve 1869'da açılışını yapan Fransız diplomat ve mühendis kimdir?", options: ["Ferdinand de Lesseps", "Gustave Eiffel", "Napoleon Bonaparte", "Charles de Gaulle"], answer: "Ferdinand de Lesseps" },
         { q: "OPEC bünyesinde petrol fiyatlarının belirlenmesinde referans alınan, farklı petrol türlerinin ortalamasından oluşan sisteme ne denir?", options: ["OPEC Sepeti", "Brent Karışımı", "WTI Endeksi", "Varil Ortalaması"], answer: "OPEC Sepeti" },
-        { q: "1973 Petrol Krizi'nde ambargo uygulanmayan tek Batılı ülke (stratejik nedenlerle) aşağıdakilerden hangisidir?", options: ["Fransa", "Hollanda", "ABD", "Portekiz"], answer: "Fransa" }
+        { q: "1973 Petrol Krizi'nde ambargo uygulanmayan tek Batılı ülke (stratejik nedenlerle) aşağıdakilerden hangisidir?", options: ["Fransa", "Hollanda", "ABD", "Portekiz"], answer: "Fransa" },
 { q: "Suudi Arabistan'da petrolün keşfedildiği ve bugün 'Refah Kuyusu' (Prosperity Well) olarak anılan meşhur kuyu hangisidir?", options: ["Dammam No. 7", "Baba Gürgür 1", "Burgan 1", "Gavar 4"], answer: "Dammam No. 7" },
         { q: "Dünyanın en büyük petrol şirketlerini tanımlayan 'Yedi Kız Kardeş' terimini ilk kez ortaya atan İtalyan enerji devi ENI'nin kurucusu kimdir?", options: ["Enrico Mattei", "Giovanni Agnelli", "Ferruccio Lamborghini", "Enzo Ferrari"], answer: "Enrico Mattei" },
         { q: "1927 tarihli Cidde Antlaşması ile İngiltere, Necid ve Hicaz Krallığı'nın (bugünkü Suudi Arabistan) bağımsızlığını resmen kime karşı tanımıştır?", options: ["İbn Suud", "Şerif Hüseyin", "Kral Faysal", "Sultan Vahdettin"], answer: "İbn Suud" },
