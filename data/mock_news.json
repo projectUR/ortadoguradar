@@ -1,5 +1,69 @@
 [
     {
+        "id": "1773677852278uqqet",
+        "title": "İran Savaşı Sonrası Rus Petrolü ve ABD Kararı",
+        "summary": "İran'a yönelik savaşın ardından küresel enerji piyasalarında yaşanan yükseliş, denizde mahsur kalan Rus petrolünün durumunu gündeme getirdi. ABD, artan enerji fiyatları karşısında bu Rus petrolünün alımına izin verme kararı aldı. Bu gelişme, Rusya'nın İran'daki savaştan ekonomik olarak fayda sağlayıp sağlamadığı sorusunu ortaya çıkardı. ABD'nin bu adımı, küresel enerji arzı ve fiyat istikrarı üzerindeki potansiyel etkileriyle dikkat çekiyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/3994554/pexels-photo-3994554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T16:17:32.278Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/is-russia-benefitting-from-the-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773677873493nt7g0",
+        "title": "Qatar Airways, Doha'ya ve Doha'dan 'sınırlı' uçuşları duyurdu",
+        "summary": "Katar'ın ulusal havayolu şirketi Qatar Airways, başkent Doha'ya ve Doha'dan yapılacak uçuşlarda 'sınırlı' bir operasyon başlatacağını açıkladı. Şirket tarafından yapılan duyuruya göre, 18 Mart tarihinden itibaren Katar'ın başkenti ile onlarca farklı destinasyon arasında sınırlı sayıda sefer düzenlenecek. Bu kararın, küresel seyahat kısıtlamaları ve azalan yolcu talebi doğrultusunda alındığı belirtildi. Havayolu, yolcuların güncel uçuş bilgilerini ve varış noktalarındaki seyahat kısıtlamalarını takip etmelerini tavsiye etti.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/2046548/pexels-photo-2046548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T16:17:53.493Z",
+        "location": {
+            "lat": 25.28,
+            "lng": 51.53,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/16/qatar-airways-announces-limited-flights-to-and-from-doha?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773677896490bd7um",
+        "title": "İranlı Yetkililerden 'Trump ve Netanyahu Yakma' Kutlaması Çağrısı",
+        "summary": "İranlı yetkililer, geleneksel ateş festivalinin eski ABD Başkanı Donald Trump ve İsrail Başbakanı Binyamin Netanyahu'nun figürlerinin yakılacağı sembolik bir protestoya dönüştürülmesi çağrısında bulundu. İran devlet medyası aracılığıyla yapılan bu çağrı, 'anlatılar savaşı' olarak nitelendirilen bir bağlamda değerlendiriliyor. Bu eylemin, İran'ın dış politikadaki duruşunu ve ABD ile İsrail'e yönelik eleştirilerini simgesel bir şekilde ifade etmeyi amaçladığı belirtildi. Söz konusu kutlamanın, ülkenin uluslararası arenadaki mesajını pekiştiren bir platform olarak kullanılması hedefleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2698473/pexels-photo-2698473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T16:18:16.490Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/16/iran-officials-tout-trump-burning-celebration-amid-battle-of-narratives?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773677918550j0mm3",
+        "title": "AB Liderleri Hürmüz Boğazı'nda Askeri Müdahaleyi Reddetti",
+        "summary": "Avrupa Birliği liderleri, Hürmüz Boğazı'nda askeri müdahaleye karşı olduklarını açıkladı. Bu karar, ABD Başkanı Donald Trump'ın NATO müttefiklerinin artan petrol fiyatları ve İran'a yönelik gerilimin ortasında kilit su yolunun güvenliğine yardımcı olması gerektiği yönündeki çağrısına bir yanıt olarak geldi. AB'nin bu tutumu, bölgedeki potansiyel çatışmalara doğrudan askeri katılım konusunda ihtiyatlı bir yaklaşım sergilediğini gösteriyor. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçit olarak biliniyor ve bölgedeki güvenlik endişeleri uluslararası gündemde yer alıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/398154/pexels-photo-398154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T16:18:38.550Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/16/eu-leaders-reject-military-involvement-in-strait-of-hormuz-amid-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17736628983262aiou",
         "title": "Beyrut'ta İsrail Saldırıları Sonucu Yıkım ve Kitlesel Yerinden Edilme Devam Ediyor",
         "summary": "Lübnan'ın başkenti Beyrut'un güney banliyölerinde bulunan mahalleler, İsrail tarafından gerçekleştirilen bombardıman saldırıları nedeniyle büyük bir yıkıma uğradı. Bölgeden gelen haberlere göre, saldırılar sonucunda çok sayıda yapı harabeye dönerken, kitlesel yerinden edilmelerin de devam ettiği belirtildi. Yaşanan bu durum, bölge halkının yaşam koşullarını derinden etkilemekte ve insani bir krize yol açmaktadır. Uluslararası toplumun dikkatini çeken olaylar, Orta Doğu'daki gerilimin boyutlarını gözler önüne seriyor.",
@@ -732,70 +796,6 @@
             "name": "İsfahan, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-hamedan-isfahan-as-israeli-army-launches-new-attacks-in-iran/3865325",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773568461644brw80",
-        "title": "İsrail İHA Saldırısında 2'si Çocuk 4 Gazalı Hayatını Kaybetti",
-        "summary": "Tıbbi kaynaklardan edinilen bilgilere göre, İsrail'e ait bir insansız hava aracı Gazze Şeridi'nde bir evi hedef aldı. İsrail ordusunun kontrolü dışındaki bir bölgede gerçekleşen saldırıda, ilk belirlemelere göre 2'si çocuk olmak üzere toplam 4 Gazalı hayatını kaybetti. Olay, bölgedeki gerilimi yeniden tırmandırırken, uluslararası toplumdan tepkiler gelmesi bekleniyor. Saldırının detaylarına ilişkin soruşturma başlatıldığı bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/319968/pexels-photo-319968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:54:21.644Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-kills-4-gazans-including-2-children/3865318",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17735684826088k5eu",
-        "title": "İran, saldırıya uğrayan hedefler konusunda bölgesel devletlerle ortak soruşturmaya hazır olduğunu bildirdi",
-        "summary": "İran, bölgedeki saldırıya uğrayan hedeflerle ilgili olarak bölgesel devletlerle ortak bir soruşturma yürütmeye hazır olduğunu duyurdu. İranlı yetkili Abbas Araghchi, ülkesinin şu ana kadar bölge ülkelerindeki hiçbir sivil veya yerleşim alanını hedef almadığını vurguladı. Bu açıklama, bölgedeki gerilimlerin ve karşılıklı suçlamaların arttığı bir dönemde geldi. İran'ın bu girişimi, bölgesel güvenlik ve istikrar konularında iş birliği arayışını ve şeffaflık taahhüdünü yansıtabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10464435/pexels-photo-10464435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:54:42.608Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-ready-for-joint-probe-with-regional-states-over-attacked-targets/3865317",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773568502625lrm2q",
-        "title": "Irak, yurt dışında mahsur kalan vatandaşlarını ülkeye geri getirmeye başladı",
-        "summary": "Irak hükümeti, yurt dışında mahsur kalan vatandaşlarını ülkeye geri getirmek amacıyla özel bir hava köprüsü operasyonu başlattı. Bu girişimle, çeşitli ülkelerde zor durumda bulunan Irak vatandaşlarının güvenli bir şekilde vatanlarına dönmeleri sağlanacak. Tahliye süreci, belirlenen program dahilinde aşamalı olarak yürütülecek ve vatandaşların mağduriyetlerinin giderilmesi hedefleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/15988178/pexels-photo-15988178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:55:02.625Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-begins-evacuating-its-stranded-citizens-abroad-returning-them-to-country/3865306",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "177356852284159ycp",
-        "title": "İsrail'in kuzeyindeki Hayfa'da sirenler çaldı: İran ve Lübnan'dan füze fırlatıldı",
-        "summary": "İsrail'in kuzeyindeki Hayfa kentinde ve çevresinde sirenler çalmaya başladı. İsrail medyası, Lübnan'dan Hayfa ve çevresine doğru 10 roket fırlatıldığını duyurdu. Haberde, füzelerin İran ve Lübnan'dan geldiği belirtilirken, İsrail güvenlik güçlerinin gelişmeleri yakından takip ettiği aktarıldı. Bu gelişme, bölgedeki gerilimi tırmandırırken, sivil halkın güvenli bölgelere yönlendirildiği bildirildi. Olayın ardından bölgede alarm durumu devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2159/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:55:22.841Z",
-        "location": {
-            "lat": 32.794,
-            "lng": 34.9896,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-haifa-northern-israel-after-missile-launches-from-iran-lebanon/3865287",
         "trendScore": 90,
         "isBreaking": true
     }
