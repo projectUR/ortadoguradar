@@ -1,5 +1,21 @@
 [
     {
+        "id": "17736982270541qvg3",
+        "title": "Trump'tan Somali ve Ilhan Omar Hakkında Açıklama",
+        "summary": "ABD Başkanı Donald Trump, Oval Ofis'te yaptığı bir konuşmada Somali'yi \"dördüncü dünya ülkesi\" olarak tanımladı. Bu açıklama, ABD'nin Afrika Boynuzu'ndaki ülkelerle olan ilişkileri ve göçmenlik politikaları bağlamında önemli bir gündem maddesi oluşturdu. Trump'ın bu yorumları, Somali kökenli ABD Temsilciler Meclisi Üyesi Ilhan Omar'a yönelik eleştirileriyle birlikte dile getirildi. Söz konusu ifadeler, uluslararası kamuoyunda ve özellikle Somali diasporasında geniş yankı uyandırırken, diplomatik çevrelerde de tartışmalara yol açtı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1464202/pexels-photo-1464202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T21:57:07.054Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/fourth-world-nation-trump-slams-somalia-ilhan-omar?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773690221938q3hq5",
         "title": "Trump'tan Hürmüz Boğazı Açıklaması: Müttefikler Askeri Eylemi Reddediyor",
         "summary": "ABD Başkanı Trump, Hürmüz Boğazı'nda ticaret yolunu açmak için deniz koalisyonu çağrısına yanıt veren ülkelerin 'yolda olduğunu' belirtti. Ancak Trump, bu ülkelerin hangileri olduğunu açıklamaktan kaçındı. Açıklama, ABD'nin müttefiklerinin bölgede askeri bir eyleme karşı çıktığı bir dönemde geldi. Hürmüz Boğazı, küresel petrol ticareti için hayati öneme sahip bir geçiş noktasıdır ve bölgedeki gerilimlerin odak noktası olmaya devam etmektedir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17735683739715g6un",
-        "title": "Aktivistler Beyaz Saray Önünde İran'la Savaşa Karşı Yürüdü",
-        "summary": "Washington D.C.'de bir grup aktivist, Beyaz Saray önünde toplanarak ABD'nin İran'a yönelik olası bir askeri müdahalesine karşı protesto gösterisi düzenledi. Göstericiler, ABD yönetimini İran ile gerilimi tırmandırmaktan kaçınmaya ve diplomatik çözümlere odaklanmaya çağırdı. Eylemciler, Orta Doğu'da yeni bir savaşın bölge ve dünya için yıkıcı sonuçlar doğuracağı uyarısında bulundu. Barışçıl çözüm çağrılarının yapıldığı gösteride, diyalog ve müzakerelerin önemi vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1464238/pexels-photo-1464238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T09:52:53.971Z",
-        "location": {
-            "lat": 38.8977,
-            "lng": -77.0365,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/15/activists-rally-outside-white-house-against-war-with-iran?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
