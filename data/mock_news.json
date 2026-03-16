@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773641352631comhf",
+        "title": "Petrol Fiyatları, ABD-İran Gerilimi Ortasında Yükselişini Sürdürdü",
+        "summary": "Küresel ham petrol fiyatları, ABD ile İran arasındaki gerilimin artmasıyla birlikte yükselişini sürdürdü. Brent ham petrolün varil fiyatı 106 dolara kadar çıkarak önemli bir seviyeye ulaştı. Fiyatlar daha sonra hafif bir düşüşle 104 doların üzerine geriledi. ABD-İran gerilimi, Orta Doğu'daki istikrarsızlık endişelerini artırarak enerji piyasaları üzerinde baskı oluşturmaya devam ediyor. Bu durum, küresel enerji arzı ve fiyatları açısından kritik önem taşıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/7771975/pexels-photo-7771975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-16T06:09:12.631Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oil-prices-climb-again-with-brent-crude-hitting-106-a-barrel-amid-us-iran-escalation/3865970",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177361567542834rf6",
         "title": "Iraklı Kürt lider, KRG ve Irak federal hükümetini görüşmeye ve anlaşmazlıkları çözmeye çağırdı",
         "summary": "Irak Kürdistan Demokrat Partisi lideri Mesud Barzani, Irak Kürdistan Bölgesel Yönetimi (KRG) ile Irak federal hükümeti arasında görüşmeler yapılması ve mevcut anlaşmazlıkların çözülmesi çağrısında bulundu. Barzani, yaptığı açıklamada, Irak'ın çeşitli kriz tehditleri altında olduğunu ve siyasi partiler arasındaki çatışmaların giderek arttığını vurguladı. Bu durumun ülkenin istikrarını olumsuz etkilediğini belirten Barzani, tarafları bir araya gelerek sorunlara çözüm bulmaya davet etti. Çağrı, Bağdat ile Erbil arasındaki uzun süredir devam eden anlaşmazlıkların diyalog yoluyla aşılması gerektiği mesajını taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-says-strait-of-hormuz-will-not-be-reopened-to-us-ships?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773496688879tnp2y",
-        "title": "Birleşik Arap Emirlikleri'nin Füceyre Kentindeki Petrol Tesisinden Duman Yükseldi",
-        "summary": "Birleşik Arap Emirlikleri'nin (BAE) Füceyre kentinde yer alan bir petrol tesisinden duman yükseldiği bildirildi. Olayın nedeni ve tesis üzerindeki etkisi hakkında henüz detaylı bilgi verilmedi. Bölgedeki yetkililerden konuya ilişkin resmi bir açıklama yapılması bekleniyor. Olayın enerji arzı veya çevresel etkileri konusunda henüz bir açıklama yapılmadı.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/3855962/pexels-photo-3855962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-14T13:58:08.879Z",
-        "location": {
-            "lat": 25.1167,
-            "lng": 56.35,
-            "name": "Füceyre, BAE"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-rises-from-fujairah-oil-facility-in-uae?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
