@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773785040463n2kal",
+        "title": "Trump: ABD'nin Hürmüz Boğazı'nda yardıma ihtiyacı yok",
+        "summary": "ABD Başkanı Donald Trump, müttefiklerin bir koalisyona katılmayı reddetmesine rağmen, ABD'nin Hürmüz Boğazı'nda yardıma ihtiyacı olmadığını belirtti. Trump, bazı ülkelerin yolda olduğunu iddia etse de bu ülkelerin isimlerini açıklamadı. Bu açıklama, Orta Doğu'da stratejik öneme sahip olan ve küresel petrol ticareti için hayati bir geçit olan Hürmüz Boğazı'ndaki deniz güvenliği tartışmaları ve gerilimler bağlamında geldi. ABD, bölgede deniz güvenliğini sağlamak amacıyla uluslararası bir koalisyon oluşturma çabası içindeydi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35062204/pexels-photo-35062204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T22:04:00.463Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773777934872xqcqo",
         "title": "ABD'li Milletvekilleri Murphy ve Casar, Tahmin Piyasalarını Düzenleme Yasası Teklifini Sundu",
         "summary": "ABD'li milletvekilleri Chris Murphy ve Joaquin Castro, tahmin piyasalarını düzenlemeyi amaçlayan bir yasa teklifi sundu. Bu yasa teklifi, savaşlar, ekonomik politikalar ve kontrol edilebilir olaylar hakkında içeriden edinilen bilgilere dayalı bahislerin yapılmasını engellemeyi hedefliyor. Amaç, bu tür piyasalarda manipülasyonu ve haksız kazancı önleyerek finansal bütünlüğü korumak ve ulusal güvenliği ilgilendiren hassas bilgilerin kötüye kullanılmasını önlemektir. Teklif, özellikle ulusal güvenlik ve ekonomik istikrarı etkileyebilecek olaylar üzerindeki spekülasyonları kısıtlamayı amaçlayarak, piyasalarda şeffaflık ve adil rekabet ortamı sağlamayı hedefliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/16/israeli-military-launches-limited-ground-operations-in-southern-lebanon?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1773656133845h6z2n",
-        "title": "İsrail Saldırıları Nedeniyle Yerinden Edilen Lübnanlılar Okul ve Stadyumlara Sığınıyor",
-        "summary": "Lübnan'da devam eden İsrail saldırıları, ülke genelinde büyük bir insani krize yol açtı. Birleşmiş Milletler'in (BM) acil yardım çağrısı yaptığı olaylarda, 800 binden fazla Lübnanlı yerinden edildi. Saldırılar sonucunda 800'den fazla kişi hayatını kaybederken, yerinden edilen siviller okullar ve stadyumlar gibi güvenli alanlara sığınmak zorunda kaldı. BM, bölgedeki insani ihtiyaçların karşılanması için uluslararası toplumu acil yardıma çağırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6918513/pexels-photo-6918513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:15:33.845Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/3/16/displaced-lebanese-shelter-in-schools-stadiums-amid-israeli-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
