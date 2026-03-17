@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773758754392kofaw",
+        "title": "ABD elçileri, kırılgan Gazze ateşkesini kurtarmak için Kahire'de Hamas ile görüştü",
+        "summary": "ABD'li elçiler, Gazze'deki kırılgan ateşkesi kurtarma çabaları kapsamında Kahire'de Hamas temsilcileriyle bir araya geldi. Bu nadir görüşmeler, bölgedeki gerilimi artıran ve Gazze'deki yıpranmış ateşkesi zorlayan gelişmelerin gölgesinde gerçekleşti. Toplantının, Gazze'deki insani durumu iyileştirmeye yönelik adımlar ve savaş sonrası planlar üzerinde odaklandığı belirtildi. Diplomatik kaynaklar, görüşmelerin bölgedeki uzun süreli istikrar arayışları açısından kritik öneme sahip olduğunu vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4226256/pexels-photo-4226256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T14:45:54.392Z",
+        "location": {
+            "lat": 30,
+            "lng": 31.2,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aljazeera.com/features/2026/3/17/us-envoys-meet-hamas-in-cairo-to-salvage-fragile-gaza-truce?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773758807929fdv2n",
+        "title": "Macron: Fransa'yı 'Nükleer Silahlar Çağına' Hazırlıyoruz, İran Savaşı Sürerken",
+        "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, ülkesini 'nükleer silahlar çağına' hazırladığını açıkladı. Bu hazırlıkların, Orta Doğu'da devam eden 'İran savaşı' bağlamında yapıldığı belirtildi. Macron, Fransa'nın nükleer kapasitesini genişletme planlarını 'ileri caydırıcılık' stratejisinin bir parçası olarak tanımladı. Bu hamlenin arkasındaki nedenler ve Fransa'nın değişen küresel güvenlik ortamına yönelik stratejik yaklaşımı uluslararası kamuoyunda dikkat çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10165700/pexels-photo-10165700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T14:46:47.929Z",
+        "location": {
+            "lat": 48.8566,
+            "lng": 2.3522,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/macron-prepares-france-for-an-age-of-nuclear-weapons-as-iran-war-rages?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17737459350732fjp8",
         "title": "Lübnan'dan Düzenlenen Roket Saldırısı Sonucu İsrail'de Bina Yandı",
         "summary": "İsrail'in kuzeyindeki Nahariyya şehrinde bir bina, Lübnan'dan düzenlenen roket saldırısının ardından alev aldı. Pazartesi günü gerçekleşen olayda, Lübnan'dan fırlatılan bir roketin Nahariyya'daki bir yapıya isabet etmesi sonucu yangın çıktığı bildirildi. Yetkililer, saldırının Lübnan topraklarından gerçekleştirildiğini teyit etti.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1773656274052r60c8",
-        "title": "İran devlet medyası: İranlı kaptan iltica başvurusunu geri çeken son futbolcu oldu",
-        "summary": "İran devlet medyası, İranlı bir kadın futbol takımının kaptanının Avustralya'da yaptığı iltica başvurusunu geri çektiğini duyurdu. Bu gelişmeyle birlikte, başlangıçta Avustralya'da kalmak isteyen yedi kişilik kadın futbol delegasyonundan beş üye, ülkelerine geri dönme kararı almış oldu. Delegasyonun geri kalan iki üyesinin durumu hakkında ise bilgi verilmedi. İranlı yetkililer, sporcuların gönüllü olarak geri döndüğünü belirtirken, bu durum İranlı sporcuların yurt dışındaki durumları ve ülkelerine dönüşleri hakkında yeni tartışmaları başlattı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/33920553/pexels-photo-33920553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:17:54.052Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1773656295564v545j",
-        "title": "İsrail, İran'a 'Geniş Çaplı' Hava Saldırıları Başlattı",
-        "summary": "İsrail ordusu, İran'a yönelik 'geniş çaplı' bir hava saldırısı dalgası başlattığını duyurdu. Ordu tarafından yapılan açıklamada, saldırıların Tahran, Şiraz ve Tebriz şehirlerindeki rejim altyapısını hedef aldığı belirtildi. Bu gelişme, bölgedeki gerilimi tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/210332/pexels-photo-210332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:18:15.564Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-launches-wide-scale-wave-of-airstrikes-on-iran/3866400",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
