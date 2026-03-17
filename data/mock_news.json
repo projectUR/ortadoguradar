@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773777934872xqcqo",
+        "title": "ABD'li Milletvekilleri Murphy ve Casar, Tahmin Piyasalarını Düzenleme Yasası Teklifini Sundu",
+        "summary": "ABD'li milletvekilleri Chris Murphy ve Joaquin Castro, tahmin piyasalarını düzenlemeyi amaçlayan bir yasa teklifi sundu. Bu yasa teklifi, savaşlar, ekonomik politikalar ve kontrol edilebilir olaylar hakkında içeriden edinilen bilgilere dayalı bahislerin yapılmasını engellemeyi hedefliyor. Amaç, bu tür piyasalarda manipülasyonu ve haksız kazancı önleyerek finansal bütünlüğü korumak ve ulusal güvenliği ilgilendiren hassas bilgilerin kötüye kullanılmasını önlemektir. Teklif, özellikle ulusal güvenlik ve ekonomik istikrarı etkileyebilecek olaylar üzerindeki spekülasyonları kısıtlamayı amaçlayarak, piyasalarda şeffaflık ve adil rekabet ortamı sağlamayı hedefliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/30564849/pexels-photo-30564849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T20:05:34.872Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/17/us-lawmakers-murphy-casar-push-legislation-to-regulate-prediction-markets?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773777988013t6zc4",
+        "title": "Starmer ve Zelenskyy, İran Savaşı Dikkatleri Dağıtırken Ukrayna'ya Odaklanma Çağrısı Yaptı",
+        "summary": "Ukrayna ve Birleşik Krallık liderleri bir araya geldi. Bu görüşmede, İşçi Partisi lideri Keir Starmer ve Ukrayna Devlet Başkanı Volodimir Zelenskyy, 'İran savaşı' nedeniyle uluslararası ilginin dağılmasına rağmen Ukrayna'ya odaklanılması gerektiğini vurguladı. Öte yandan, Türkiye'nin üst düzey diplomatı, ülkesinin Rusya-Ukrayna barış görüşmelerine ev sahipliği yapma teklifini yineledi. Bu gelişmeler, bölgesel ve küresel diplomasi trafiğinin yoğunlaştığını gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33722552/pexels-photo-33722552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T20:06:28.013Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/starmer-tells-zelenskyy-focus-on-ukraine-as-iran-war-diverts-attention?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773778044252wuxxe",
+        "title": "Türk Cumhurbaşkanı Erdoğan'dan ABD-İsrail'in İran ile 'Anlamsız ve Yasa Dışı' Savaşına Son Verilmesi Çağrısı",
+        "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, ABD ve İsrail'in İran ile olası bir savaşına 'anlamsız ve yasa dışı' olarak nitelendirerek hızlı bir son verilmesi çağrısında bulundu. Erdoğan, uluslararası hukuku ihlal eden saldırıları kınadığını belirtti. Türkiye'nin, bu savaşın bölgeye yayılmasını engellemek için çaba gösterdiğini vurguladı. Bu açıklama, Türkiye'nin bölgesel istikrara verdiği önemi ve uluslararası hukuk normlarına bağlılığını yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12325253/pexels-photo-12325253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T20:07:24.252Z",
+        "location": {
+            "lat": 39.93,
+            "lng": 32.86,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/turkish-president-calls-for-swift-end-to-senseless-unlawful-us-israel-war-with-lran/3868732",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17737709667966apvp",
         "title": "İran'da İsrail Saldırısı Sonrası Enkazdan Kurtarma Operasyonu",
         "summary": "İran'da meydana gelen bir saldırının ardından yıkılan bir binanın enkazı altından bir kişinin kurtarıldığı bildirildi. Haberlere göre, söz konusu saldırının İsrail tarafından gerçekleştirildiği belirtildi. Kurtarma ekipleri, enkaz altında kalan vatandaşa ulaşmak için yoğun çaba sarf etti ve başarılı oldu. Kurtarılan şahsın sağlık durumu hakkında henüz detaylı bir açıklama yapılmazken, bu tür olayların bölgedeki gerilimi daha da artırabileceği değerlendiriliyor.",
@@ -748,54 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.aljazeera.com/gallery/2026/3/16/displaced-lebanese-shelter-in-schools-stadiums-amid-israeli-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17736561555085x7zg",
-        "title": "İsrail, ABD ve İran'ın Gizli Operasyon Operasyonları İnceleniyor",
-        "summary": "Haber, İsrail, ABD ve İran'ın bölgede ve uluslararası alanda yürüttüğü gizli operasyonlara odaklanmaktadır. Bu operasyonlarda \"uyuyan hücreler\" olarak da adlandırılan anonim ajanların kullanıldığı belirtilmektedir. Söz konusu ajanların casusluk, sabotaj veya suikast gibi eylemleri gerçekleştirmek üzere aldatma yöntemlerini kullandığı vurgulanmaktadır. Bu tür faaliyetlerin, adı geçen ülkelerin güvenlik stratejilerinin önemli bir parçası olduğu ifade edilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380605/pexels-photo-5380605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:15:55.508Z",
-        "location": {
-            "lat": 33,
-            "lng": 44,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/3/16/how-israel-the-us-and-iran-deploy-covert-ops?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17736561777922php1",
-        "title": "Müslümanlar, Ramazan'ın kutsal gecesinde kapalı Mescid-i Aksa yakınlarında namaz kıldı",
-        "summary": "Müslümanlar, Ramazan ayının en kutsal gecesini idrak etmek amacıyla Mescid-i Aksa dışında sokaklarda ibadet etti. Mescid-i Aksa'nın kapalı olması nedeniyle cemaat, namazlarını cami çevresindeki açık alanlarda kıldı. Bu durum, Ramazan ayının manevi atmosferinde bölgedeki hassasiyetleri bir kez daha gözler önüne serdi. Kudüs'teki bu olay, hem dini hem de siyasi açıdan önemli bir merkez olan Mescid-i Aksa'nın statüsüne ilişkin tartışmaları yeniden gündeme getirdi. Bölgedeki güvenlik önlemleri ve ibadet özgürlüğü konuları, bu tür olaylarla birlikte uluslararası kamuoyunun dikkatini çekmeye devam ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8164381/pexels-photo-8164381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:16:17.793Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.23,
-            "name": "Kudüs, Filistin/İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/muslims-pray-near-closed-al-aqsa-mosque-on-ramadan-holy-night?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17736561990755rqt6",
-        "title": "İsrail'in Gazze'deki Polis Aracına Saldırısı Sekiz Polisi Öldürdü",
-        "summary": "Gazze Şeridi'nin merkezinde İsrail tarafından düzenlenen bir saldırıda bir polis aracı hedef alındı. Saldırı sonucunda, üst düzey bir polis yetkilisi de dahil olmak üzere sekiz polis memuru yaşamını yitirdi. Olay, bölgedeki gerilimi daha da artırdı. Saldırıya ilişkin detaylar ve taraflardan gelecek açıklamalar bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18417071/pexels-photo-18417071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:16:39.075Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-strike-on-gaza-police-kills-officers?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
     }
