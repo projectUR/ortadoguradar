@@ -1,5 +1,117 @@
 [
     {
+        "id": "17737459350732fjp8",
+        "title": "Lübnan'dan Düzenlenen Roket Saldırısı Sonucu İsrail'de Bina Yandı",
+        "summary": "İsrail'in kuzeyindeki Nahariyya şehrinde bir bina, Lübnan'dan düzenlenen roket saldırısının ardından alev aldı. Pazartesi günü gerçekleşen olayda, Lübnan'dan fırlatılan bir roketin Nahariyya'daki bir yapıya isabet etmesi sonucu yangın çıktığı bildirildi. Yetkililer, saldırının Lübnan topraklarından gerçekleştirildiğini teyit etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6969575/pexels-photo-6969575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T11:12:15.073Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Nahariyya, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/17/building-burns-in-israel-after-rocket-attack-from-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773745959866omond",
+        "title": "İran Savaşı Küresel Bir Resesyona Yol Açabilir mi?",
+        "summary": "İran'da yaşanabilecek bir savaşın küresel ekonomiyi resesyona sürükleyebileceği belirtiliyor. Savaşın enerji arzını kesintiye uğratmasıyla birlikte enerji fiyatlarında önemli bir yükseliş gözlemleniyor. Bu durum, başta ABD, Çin ve Avrupa olmak üzere dünya ekonomileri için ciddi riskler barındırıyor. Uzmanlar, enerji piyasalarındaki bu dalgalanmanın küresel ekonomik istikrarı tehdit ettiğini ve büyüme beklentilerini olumsuz etkilediğini ifade ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/930711/pexels-photo-930711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T11:12:39.866Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/3/17/could-the-iran-war-trigger-a-global-recession?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773745982642l5hv4",
+        "title": "İngiltere'nin Filistinliler Üzerinde Test Edilmiş Casus Yazılım Satın Alması Tartışma Yarattı",
+        "summary": "Birleşik Krallık'ın, İsrail'in eylemlerine yönelik kamuoyundaki itirazlarına rağmen, Filistinliler üzerinde geliştirilmiş ve test edilmiş casus yazılımlar satın aldığı ortaya çıktı. 'Kan teknolojisi: İngiltere büyükelçisi, cinsel suçlu, Palantir ve Gazze' başlığıyla duyurulan haber, İngiltere'nin dış politikasındaki çelişkili yaklaşımları gözler önüne seriyor. Bu durum, insan hakları savunucuları arasında endişelere yol açarken, teknolojinin çatışma bölgelerindeki kullanımıyla ilgili tartışmaları da alevlendiriyor. Satın alınan bu teknolojinin, bölgedeki hassas dengeler üzerindeki potansiyel etkileri merak konusu oldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5380618/pexels-photo-5380618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T11:13:02.642Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/blood-tech-the-uk-ambassador-the-sex-offender-palantir-and-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773746004018f6zdj",
+        "title": "İsrail, İran'ın güvenlik şefi Larijani'nin öldürüldüğünü açıkladı",
+        "summary": "İsrail Savunma Bakanı Israel Katz, İran'ın güvenlik şefi Ali Larijani'nin bir İsrail saldırısında öldürüldüğünü iddia etti. Bu açıklama, İsrail ve İran arasındaki gerilimin yüksek olduğu bir dönemde geldi. İranlı yetkililerden iddialara ilişkin henüz resmi bir doğrulama veya yalanlama yapılmadı. Söz konusu gelişmenin doğrulanması halinde, Orta Doğu'daki güvenlik dengeleri üzerinde önemli etkileri olabileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4031126/pexels-photo-4031126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T11:13:24.018Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/17/israel-says-irans-security-chief-larijani-has-been-killed?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773746025785tx6xl",
+        "title": "İsrail, İran'ın güvenlik şefinin öldürüldüğünü iddia etti",
+        "summary": "İsrail Savunma Bakanı Katz, İran'ın güvenlik şefinin suikast sonucu öldürüldüğünü öne sürdü. Bu iddia, Orta Doğu'da gerilimi artırma potansiyeli taşıyor. İsrail'den gelen bu açıklama, iki ülke arasındaki mevcut gerilimi daha da tırmandırabilir. İran'dan henüz resmi bir doğrulama veya yalanlama gelmediği belirtildi. Gelişmeler bölgedeki güvenlik dinamikleri açısından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12998745/pexels-photo-12998745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T11:13:45.785Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1773746050518kpl6v",
+        "title": "İran'dan İsrail'e Yeni Füze Saldırısı: Orta İsrail'de Sirenler Çaldı",
+        "summary": "İsrail medyasının aktardığı bilgilere göre, İran'dan İsrail'e yönelik yeni bir füze saldırısı düzenlendi. Saldırı nedeniyle orta İsrail'de ve Kudüs çevresinde sirenler çalmaya başladı. İsrail medyası, saldırının 'sınırlı' olduğunu belirtirken, bölgede gerilimin arttığı gözlemlendi. Olayın ardından can kaybı veya hasara ilişkin henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T11:14:10.518Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-as-iran-launches-new-missile-barrage-reports/3867982",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773746072609s38mz",
+        "title": "Ürdün Kralı, bölgesel gerilimin ortasında Doha'ya geldi ve Katar Emiri ile görüştü",
+        "summary": "Ürdün Kralı Abdullah, bölgesel gerilimin tırmandığı bir dönemde Katar'ın başkenti Doha'ya resmi bir ziyaret gerçekleştirdi. Kral Abdullah'ı, Katar Emiri Şeyh Temim bin Hamad Al Sani karşıladı. Kraliyet Divanı'ndan yapılan açıklamaya göre, liderler ikili işbirliği ve ortak çıkarları ilgilendiren konuları ele aldı. Görüşmenin, iki ülke arasındaki ilişkilerin yanı sıra bölgedeki son gelişmelerin değerlendirilmesi açısından önem taşıdığı belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4226261/pexels-photo-4226261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-17T11:14:32.609Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/jordan-s-king-arrives-in-doha-meets-qatar-s-emir-amid-regional-escalation/3867960",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773734864054bf5gl",
         "title": "İsrail Saldırıları Lübnan'daki Filistinli Mültecileri Yeni Bir Yerinden Edilme Tehdidiyle Karşı Karşıya Bıraktı",
         "summary": "İsrail'in Lübnan'a düzenlediği saldırılar, bölgedeki Filistinli mülteciler arasında yeni bir yerinden edilme endişesi yaratmıştır. Lübnan'daki Filistinli mülteciler, devam eden savaş koşulları altında güvensizlik ve travma ile mücadele etmektedir. Saldırıların hedefi olan mülteci kamplarında yaşam koşulları ağırlaşmakta ve insani kriz derinleşmektedir. Bu durum, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne sermektedir. Uluslararası kuruluşlar, mültecilerin korunması ve insani yardımların ulaştırılması konusunda çağrıda bulunmaktadır.",
@@ -686,117 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israel-launches-wide-scale-wave-of-airstrikes-on-iran/3866400",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1773656316766at666",
-        "title": "Lübnan, UNIFIL Devriyelerine Yönelik Saldırıyı Kınadı, Hizbullah Faaliyetlerine Yasağı Yineledi",
-        "summary": "Lübnan hükümeti, ülkenin güneyinde Birleşmiş Milletler Geçici Barış Gücü (UNIFIL) devriyelerine yönelik düzenlenen silahlı saldırıları şiddetle kınadığını duyurdu. Beyrut'tan yapılan açıklamada, UNIFIL barış güçlerine yönelik saldırıların kabul edilemez olduğu vurgulandı. Hükümet, yakın zamanda alınan ve Hizbullah'ın askeri faaliyetlerini yasa dışı ilan eden Kabine kararını hatırlatarak, bu tür eylemlerin ülkenin egemenliğine ve uluslararası yükümlülüklerine aykırı olduğunu belirtti. Lübnan, bölgedeki istikrarın korunması ve uluslararası güçlerin güvenliğinin sağlanması için kararlılığını yineledi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/132197/pexels-photo-132197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:18:36.766Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanon-condemns-gunfire-targeting-unifil-patrols-reiterates-ban-on-hezbollah-activities/3866378",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773656338956dv9c0",
-        "title": "İran Füze Parçaları İsrail'in Merkezinde Birden Fazla Noktaya Düştü",
-        "summary": "İran'dan fırlatılan füzelere ait parçaların İsrail'in orta kesimlerinde birden fazla noktaya isabet ettiği bildirildi. Yerel güvenlik kaynakları, olayda herhangi bir can kaybı veya maddi hasar yaşanmadığını açıkladı. Füze parçalarının düşüş nedenine ilişkin detaylı bilgi verilmezken, bölgedeki durumun yakından takip edildiği belirtildi. Bu olay, Orta Doğu'daki mevcut gerilimin bir yansıması olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:18:58.956Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-missile-fragments-hit-multiple-sites-in-central-israel/3866333",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773656361690dnlbu",
-        "title": "Bahreyn, ABD-İran Savaşı'nın Başlangıcından Bu Yana 215 İHA ve 129 Füze Engellediğini Açıkladı",
-        "summary": "Bahreyn, ABD-İran savaşı olarak nitelendirdiği dönemin başlangıcından bu yana hava sahasında önemli sayıda insansız hava aracı (İHA) ve füze engellediğini duyurdu. Ülke yetkilileri, bu süreçte toplam 215 İHA ve 129 füzenin başarılı bir şekilde durdurulduğunu belirtti. Bahreyn, bu eylemlerin \"kötü niyetli İran saldırganlığına karşı tetikte\" olma duruşlarının bir parçası olduğunu vurguladı. Açıklamada, bölgesel güvenlik ve istikrarın korunması adına İran kaynaklı tehditlere karşı mücadelenin sürdürüleceği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31302626/pexels-photo-31302626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:19:21.690Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-215-drones-129-missiles-since-start-of-us-iran-war/3866324",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773656382761aqinr",
-        "title": "İran, Khomeyn'deki bir okulu ABD-İsrail hava saldırısının hedef aldığını iddia etti",
-        "summary": "İran medyası, Khomeyn kentinde bir erkek okulu ve çevresindeki evlerin ABD-İsrail ortak hava saldırısında hedef alındığını ve hasar gördüğünü iddia etti. İranlı yetkililer, saldırının bölgedeki sivil altyapıyı hedef aldığını belirtirken, olaya ilişkin detaylı soruşturma başlatıldığını duyurdu. Bu iddia, bölgedeki gerilimi artırabilecek nitelikte olup, ABD ve İsrail'den henüz resmi bir açıklama gelmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12558407/pexels-photo-12558407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T10:19:42.761Z",
-        "location": {
-            "lat": 33.63,
-            "lng": 50.08,
-            "name": "Khomeyn, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-claims-us-israeli-airstrike-targets-school-in-khomeyn/3866261",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773641352631comhf",
-        "title": "Petrol Fiyatları, ABD-İran Gerilimi Ortasında Yükselişini Sürdürdü",
-        "summary": "Küresel ham petrol fiyatları, ABD ile İran arasındaki gerilimin artmasıyla birlikte yükselişini sürdürdü. Brent ham petrolün varil fiyatı 106 dolara kadar çıkarak önemli bir seviyeye ulaştı. Fiyatlar daha sonra hafif bir düşüşle 104 doların üzerine geriledi. ABD-İran gerilimi, Orta Doğu'daki istikrarsızlık endişelerini artırarak enerji piyasaları üzerinde baskı oluşturmaya devam ediyor. Bu durum, küresel enerji arzı ve fiyatları açısından kritik önem taşıyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/7771975/pexels-photo-7771975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T06:09:12.631Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oil-prices-climb-again-with-brent-crude-hitting-106-a-barrel-amid-us-iran-escalation/3865970",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177361567542834rf6",
-        "title": "Iraklı Kürt lider, KRG ve Irak federal hükümetini görüşmeye ve anlaşmazlıkları çözmeye çağırdı",
-        "summary": "Irak Kürdistan Demokrat Partisi lideri Mesud Barzani, Irak Kürdistan Bölgesel Yönetimi (KRG) ile Irak federal hükümeti arasında görüşmeler yapılması ve mevcut anlaşmazlıkların çözülmesi çağrısında bulundu. Barzani, yaptığı açıklamada, Irak'ın çeşitli kriz tehditleri altında olduğunu ve siyasi partiler arasındaki çatışmaların giderek arttığını vurguladı. Bu durumun ülkenin istikrarını olumsuz etkilediğini belirten Barzani, tarafları bir araya gelerek sorunlara çözüm bulmaya davet etti. Çağrı, Bağdat ile Erbil arasındaki uzun süredir devam eden anlaşmazlıkların diyalog yoluyla aşılması gerektiği mesajını taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5686014/pexels-photo-5686014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T23:01:15.428Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraqi-kurdish-leader-calls-on-krg-and-iraq-s-federal-govt-to-meet-resolve-disputes/3865907",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773611708720a4o69",
-        "title": "İran'ın Suudi Arabistan Büyükelçisi, petrol tesislerine yönelik saldırıları yalanladı",
-        "summary": "İran'ın Suudi Arabistan Büyükelçisi Alireza Enayati, ülkesinin petrol tesislerine yönelik saldırı iddialarını kesin bir dille yalanladı. Büyükelçi Enayati, Suudi Arabistan ile ilişkilerin \"doğal bir şekilde ilerlediğini\" ve iki ülke arasındaki diplomatik bağların güçlendiğini belirtti. Enayati, Suudi yetkililerle sürekli temas halinde olduğunu ve karşılıklı anlayışın devam ettiğini ifade etti. Bu açıklama, iki Orta Doğu gücü arasındaki normalleşme sürecinin olumlu yönde ilerlediğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4386426/pexels-photo-4386426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-15T21:55:08.720Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/15/iranian-ambassador-to-saudia-arabia-denies-attacks-on-oil-infrasture?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
