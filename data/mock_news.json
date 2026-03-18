@@ -1,5 +1,21 @@
 [
     {
+        "id": "17738114537622lrvs",
+        "title": "Trump, İran'a karşı savaş şiddetlenirken Çin Devlet Başkanı Şi Cinping ile görüşmesinin ertelendiğini doğruladı",
+        "summary": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile yapacağı görüşmeyi ertelediğini duyurdu. Bu ertelemenin, İran'a karşı bölgede artan gerilim ve olası bir savaş durumuyla bağlantılı olduğu belirtildi. Trump'ın, Pekin ziyaretini iptal etme kararı alırken, Çin'den Hürmüz Boğazı'nın yeniden açılması konusunda yardım talep ettiği bildirildi. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçit olup, bölgedeki gerilimler nedeniyle kapanma riskiyle karşı karşıya kalmıştı. Bu durum, ABD'nin İran politikası ve Çin ile ilişkileri arasında karmaşık bir denge arayışını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803784/pexels-photo-15803784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-18T05:24:13.762Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177379166928476vlh",
         "title": "CAF, Senegal'in AFCON Şampiyonluğunu İptal Etti, Fas Afrika Şampiyonu İlan Edildi",
         "summary": "Afrika Futbol Konfederasyonu (CAF) temyiz kurulu, Senegal'in Afrika Uluslar Kupası (AFCON) finalinde hakem kararına itiraz ederek sahadan çekilmesi nedeniyle şampiyonluğunu kaybettiğine hükmetti. Bu kararla birlikte, daha önce finalde mücadele eden Fas, Afrika şampiyonu ilan edildi. Kurul, Senegal'in davranışını kural ihlali olarak değerlendirerek şampiyonluğu Fas'a verdi. Bu gelişme, Afrika futbolunda önemli bir tartışma konusu yarattı ve spor camiasında geniş yankı buldu.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/3/16/war-on-iran-can-fuel-rationing-remote-work-short-sleeves-ease-oil-woes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773663014244aknu2",
-        "title": "Katar'dan İran'a Körfez Ülkelerine Yönelik Saldırıları Durdurma Çağrısı",
-        "summary": "Katar, İran'a Körfez ülkelerine yönelik saldırıları durdurma çağrısında bulundu. Katar Dışişleri Bakanlığı sözcüsü, saldırıların son bulması için İran Dışişleri Bakanı'nın karar alması gerektiğini belirtti. Sözcü ayrıca, Katar'ın kendini savunma hakkını kullanacağını vurguladı. Bu açıklama, bölgedeki güvenlik endişelerini ve diplomatik gerilimi yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7395450/pexels-photo-7395450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-16T12:10:14.244Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-calls-on-iran-to-halt-attacks-on-gulf-countries/3866584",
         "trendScore": 85,
         "isBreaking": false
     }
