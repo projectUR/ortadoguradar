@@ -1,5 +1,21 @@
 [
     {
+        "id": "1773961334656exg2o",
+        "title": "İsrail'in Gazze Saldırıları Sürüyor: Çok Sayıda Filistinli Hayatını Kaybetti",
+        "summary": "İsrail'in Gazze Şeridi'ne yönelik saldırıları devam ediyor. Gazze Şehri'nde düzenlenen ayrı saldırılarda üç Filistinlinin hayatını kaybettiği bildirildi. Bölgedeki çatışmalar sürerken, Refah sınır kapısı sınırlı sayıda tıbbi tahliye için yeniden açıldı. Bu gelişmeler, bölgesel gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T23:02:14.656Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/19/israel-continues-gaza-attacks-amid-regional-war-kills-several-palestinians?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17739572143822ber4",
         "title": "İsrailliler Tel Aviv'de İran savaşına son verilmesi çağrısıyla protesto düzenledi",
         "summary": "İsrail'in Tel Aviv kentinde toplanan göstericiler, hükümetin İran ile olası bir savaşa son vermesi talebiyle protesto düzenledi. Protestocular, aynı zamanda Lübnan merkezli Hizbullah ile devam eden çatışmaların da sona erdirilmesi çağrısında bulundu. Bu gösteriler, bölgedeki gerilimin tırmandığı ve geniş çaplı bir çatışma endişelerinin arttığı bir dönemde gerçekleşti. Eylemciler, diplomatik çözümlerin önceliklendirilmesi gerektiğini vurguladı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-s-president-condemns-us-israeli-attacks-on-energy-infrastructure-warns-of-uncontrollable-consequences-/3870407",
         "trendScore": 88,
         "isBreaking": false
-    },
-    {
-        "id": "177384919929294ial",
-        "title": "İran'dan Irak'a doğalgaz tedariki, Güney Pars tesislerine saldırı sonrası durdu",
-        "summary": "İran'dan Irak'a yapılan doğalgaz tedariki, Güney Pars doğalgaz tesislerine yönelik bir saldırının ardından kesintiye uğradı. Bu durum, Irak'ın elektrik üretiminde ciddi aksaklıklara yol açtı. Irak Elektrik Bakanlığı tarafından yapılan açıklamaya göre, kesinti nedeniyle ülke genelinde 3.100 megavatlık elektrik üretim kapasitesi devre dışı kaldı. Olay, Irak'ın enerji güvenliği üzerindeki bağımlılığını ve bölgedeki enerji altyapısının kırılganlığını bir kez daha gözler önüne serdi. Saldırının nedenleri ve sorumluları hakkında henüz detaylı bilgi verilmedi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/9408862/pexels-photo-9408862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T15:53:19.292Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-gas-supply-to-iraq-stops-after-south-pars-gas-facilities-attack/3870070",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
