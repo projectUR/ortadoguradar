@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773950609054zqzvp",
+        "title": "İranlılar Savaşa Rağmen Nevruz Alışverişi Yapıyor",
+        "summary": "İranlılar, devam eden zorluklara rağmen Fars Yeni Yılı Nevruz'u kutlamak için temel ihtiyaç alışverişlerini sürdürüyor. Ülke genelinde vatandaşlar, geleneksel Nevruz hazırlıklarını yaparak bayramın ruhunu canlı tutmaya çalışıyor. Savaşın ve ekonomik baskıların getirdiği zorluklara rağmen, Nevruz'un barış ve yenilenme mesajı, halk arasında umut kaynağı olmaya devam ediyor. Bu durum, İran toplumunun kültürel değerlerine bağlılığını ve zor zamanlarda bile geleneklerini yaşatma çabasını gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7158698/pexels-photo-7158698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T20:03:29.054Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iranians-shop-for-persian-new-year-essentials-despite-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773950651803m28po",
+        "title": "İran'ın Katar Gaz Tesisine Saldırısı Arzı 3-5 Yıl Azaltacak",
+        "summary": "İran'ın Katar'daki Ras Laffan gaz tesisine düzenlediği saldırı, ülkenin Sıvılaştırılmış Doğal Gaz (LNG) ihracatını yaklaşık %17 oranında azaltacak. Bu durumun küresel gaz arzında 3 ila 5 yıl sürecek bir düşüşe neden olması bekleniyor. Saldırı, Katar'ın enerji altyapısına yönelik önemli bir darbe olarak değerlendiriliyor. Olayın bölgesel enerji piyasaları ve uluslararası gaz tedarik zincirleri üzerinde ciddi etkileri olacağı öngörülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36057640/pexels-photo-36057640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T20:04:11.803Z",
+        "location": {
+            "lat": 25.92,
+            "lng": 51.57,
+            "name": "Ras Laffan, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/19/irans-strike-on-qatar-gas-facility-will-reduce-supply-for-3-to-5-years?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1773943630145cg9es",
         "title": "İsrail'in Lübnan'a Saldırıları Sırasında Muhabirin Yakınına Füze Düştü",
         "summary": "İsrail'in güney Lübnan'a düzenlediği saldırılar sırasında, bir Russia Today muhabiri bölgedeki gelişmeleri takip ediyordu. Muhabirin haber takibi yaptığı esnada, bulunduğu noktadan yalnızca birkaç metre uzağa bir füze isabet etti. Olayda muhabirin yara almadığı belirtilirken, bu durum bölgedeki çatışmaların yoğunluğunu ve gazetecilerin karşılaştığı riskleri bir kez daha gözler önüne serdi. Saldırılar, Lübnan-İsrail sınır hattındaki gerilimin devam ettiğini gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773832509502y9rq9",
-        "title": "İran Diasporası, Fars Festivalini ABD ve İsrail Bayraklarıyla Kutladı",
-        "summary": "Barcelona'da yaşayan İran diasporası üyeleri, geleneksel Fars festivali Çarşamba Suri'yi kutladı. Kutlamalar sırasında, katılımcıların ABD ve İsrail bayraklarına sarınarak dans etmesi dikkat çekti. Bu eylem, İran rejimine karşı açık bir siyasi duruş sergileyerek, diasporanın uluslararası arenadaki muhalif sesini yansıttı. Festival, kültürel bir etkinlik olmasının ötesinde, İran'ın mevcut politikalarına karşı çıkanların bir araya geldiği ve mesajlarını ilettiği bir platform görevi gördü. Etkinlik, İran dışındaki İranlıların kültürel kimliklerini korurken aynı zamanda siyasi görüşlerini ifade etme biçimini gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14728401/pexels-photo-14728401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:15:09.502Z",
-        "location": {
-            "lat": 41.3851,
-            "lng": 2.1734,
-            "name": "Barcelona, Spain"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773832531678tz0t0",
-        "title": "Kolombiya Devlet Başkanı: Gazze Savaşı Daha Geniş Yıkım İçin Bir 'Deneydi'",
-        "summary": "Kolombiya Devlet Başkanı Gustavo Petro, Gazze'deki savaşın \"Küresel Güney'i sindirmek amacıyla tasarlanmış bir deney\" olduğunu ifade etti. Petro, bu çatışmanın sadece Gazze ile sınırlı kalmayıp daha geniş çaplı yıkımlara yol açabilecek bir model olarak kullanıldığını ima etti. Açıklamaları, uluslararası arenada Gazze'deki olaylara yönelik farklı bir bakış açısı sunarken, Kolombiya lideri Gazze'deki durumu küresel güç dengeleri ve uluslararası ilişkiler bağlamında değerlendirdi. Bu yorumlar, bölgedeki gerilimin uluslararası yankılarını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36163610/pexels-photo-36163610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T11:15:31.678Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
