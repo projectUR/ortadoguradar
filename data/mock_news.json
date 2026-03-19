@@ -1,5 +1,53 @@
 [
     {
+        "id": "1773932872030zlkw8",
+        "title": "ABD-İsrail Saldırısı Sonrası İran'da Enkazdan Kurtarılanlar Arasında Çocuk da Var",
+        "summary": "İran'da meydana gelen bir hava saldırısının ardından enkaz altından sağ kurtulanlar çıkarıldı. İran Kızılayı tarafından yayımlanan video görüntülerinde, kurtarılanlar arasında bir çocuğun da bulunduğu belirtildi. Haber kaynakları, söz konusu saldırının ABD ve İsrail tarafından gerçekleştirildiğini aktardı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4723928/pexels-photo-4723928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T15:07:52.030Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/19/child-among-survivors-pulled-from-rubble-of-us-israeli-attack-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773932895796s6eke",
+        "title": "Sudan'dan Çad'a düzenlenen insansız hava aracı saldırısında 17 kişi hayatını kaybetti",
+        "summary": "Sudan'dan Çad topraklarına düzenlenen bir insansız hava aracı saldırısında 17 kişi yaşamını yitirdi. Saldırı, Sudan'daki iç savaşın komşu ülkelere yayıldığını ve bölgesel istikrarsızlığı artırdığını gösteriyor. Yerel bir sakinin aktardığına göre, hayatını kaybedenler arasında bir cenaze törenine katılanlar ve yakınlarda oyun oynayan çocuklar bulunuyor. Bu olay, sınır ötesi çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/997122/pexels-photo-997122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T15:08:15.796Z",
+        "location": {
+            "lat": 13.8294,
+            "lng": 20.8358,
+            "name": "Çad"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/19/drone-attack-from-sudan-kills-17-in-chad-as-conflict-spills-over?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773932952996czpof",
+        "title": "İsrail'in Güney Pars'a, İran'ın Ras Laffan'a Yönelik Saldırıları Bölgesel Gerilimi Tırmandırıyor",
+        "summary": "Haberlere göre, İsrail'in İran'ın Güney Pars doğalgaz sahasına düzenlediği saldırı ve İran'ın Katar'daki Ras Laffan enerji tesislerine yönelik misilleme saldırısı bölgede yeni bir gerilim dalgasına yol açtı. Bu karşılıklı saldırılar, Orta Doğu'da zaten kırılgan olan enerji arz güvenliğini tehdit ederek küresel bir enerji krizini derinleştirme potansiyeli taşıyor. Güney Pars, İran ve Katar tarafından ortaklaşa işletilen dünyanın en büyük doğalgaz sahası olup, Ras Laffan ise Katar'ın önemli bir sıvılaştırılmış doğalgaz (LNG) üretim ve ihracat merkezidir. Enerji altyapılarına yönelik bu doğrudan saldırılar, bölgedeki siyasi ve askeri tansiyonu ciddi şekilde artırarak, taraflar arasındaki çatışmanın yeni bir boyut kazandığını gösteriyor. Uzmanlar, bu gelişmelerin bölgesel istikrarsızlığı daha da kötüleştirebileceği ve uluslararası toplumun acil müdahalesini gerektirebileceği konusunda uyarıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7717505/pexels-photo-7717505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T15:09:12.996Z",
+        "location": {
+            "lat": 25.9167,
+            "lng": 51.5667,
+            "name": "Ras Laffan, Katar"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/19/why-are-irans-south-pars-gasfield-qatars-ras-laffan-so-significant?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17739216126883fxjy",
         "title": "İran Savaşı Küresel Gıda Krizini Tetikleyebilir mi?",
         "summary": "İran'da yaşanabilecek olası bir savaşın küresel gıda tedarik zincirleri üzerinde ciddi aksaklıklara yol açabileceği belirtiliyor. Uzmanlar, böyle bir çatışmanın fabrikalardan süpermarket raflarına kadar uzanan tüm tedarik ağını etkileyerek yeni bir küresel gıda şokunu tetikleyebileceği konusunda uyarıyor. Özellikle Hürmüz Boğazı gibi kritik geçiş noktalarının etkilenmesi, enerji ve nakliye maliyetlerini artırarak gıda üretim ve dağıtımını olumsuz etkileyebilir. Bu durum, dünya genelinde gıda fiyatlarında yükselişe ve erişim sorunlarına neden olarak küresel ekonomiyi daha da kırılgan hale getirebilir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-130-missiles-234-drones-since-start-of-iranian-attacks/3869500",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1773820945062uu7oo",
-        "title": "ABD'nin Orta Doğu'daki Dikkatinin Dağılması Çin'in Çıkarına",
-        "summary": "ABD'nin Orta Doğu'daki mevcut angajmanlarının ve dikkat dağınıklığının Çin Halk Cumhuriyeti'nin stratejik çıkarlarına hizmet ettiği belirtiliyor. Analistler, Washington'ın Orta Doğu'daki krizlere odaklanmasının, Pekin'e başta Hint-Pasifik bölgesi olmak üzere diğer coğrafyalarda nüfuzunu artırma ve stratejik hedeflerine ulaşma fırsatı sunduğunu ifade ediyor. Bu durum, küresel güç dengeleri açısından önemli bir dinamik olarak değerlendiriliyor. ABD'nin kaynaklarının ve diplomatik çabalarının Orta Doğu'ya yönelmesinin, Çin'in uluslararası arenadaki konumunu güçlendirebileceği öngörülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30018092/pexels-photo-30018092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T08:02:25.062Z",
-        "location": {
-            "lat": 30,
-            "lng": 40,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/18/us-distraction-in-the-middle-east-is-in-chinas?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773820968039lcqq4",
-        "title": "İsrail, Beyrut'un Merkezini Bombaladı: 6 Ölü; Lübnan'ın Güney ve Doğusu Hedef Alındı",
-        "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un merkezine hava saldırısı düzenlediği bildirildi. Saldırıda altı kişinin yaşamını yitirdiği belirtilirken, İsrail güçlerinin Lübnan'ın güney ve doğu bölgelerini de hedef aldığı kaydedildi. Bu hava saldırıları dalgası, İsrail'in güneyde Hizbullah güçleriyle çatıştığı kara harekatını genişletmesiyle eş zamanlı olarak gerçekleşti. Bölgedeki askeri gerilimin tırmandığı gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T08:02:48.039Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/18/israel-bombs-central-beirut-killing-6-strafes-south-east-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773821000181gdbt6",
-        "title": "İran, İsrail Saldırıları Sonrası İntikam Yemini Etti",
-        "summary": "İsrail'in düzenlediği saldırılarda İran'ın güvenlik şefi Ali Larijani ve Besic komutanı Gholamreza Soleimani'nin hayatını kaybettiği bildirildi. Bu olay, bölgedeki gerilimi tırmandıran önemli bir gelişme olarak kaydedildi. İran, söz konusu saldırılara misilleme yapacağını ve intikam alacağını açıkladı. Tahran yönetiminden yapılan açıklamada, saldırıların cevapsız kalmayacağı vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T08:03:20.181Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/18/iran-war-what-is-happening-on-day-19-of-us-israel-attacks?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
