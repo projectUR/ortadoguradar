@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773897212829vuytq",
+        "title": "ABD Başkan Yardımcısı Vance'ten Yüksek Benzin Fiyatları Eleştirisi",
+        "summary": "ABD Başkan Yardımcısı JD Vance, ülkedeki yüksek benzin fiyatlarına yönelik endişeleri, Biden yönetimini eleştirerek savuşturdu. Vance'in bu açıklamaları, ABD'nin enerji politikaları ve küresel petrol piyasalarının ülke ekonomisi üzerindeki etkileri hakkındaki tartışmaları yeniden gündeme getirdi. Yüksek benzin fiyatları, ABD'de tüketiciler ve işletmeler üzerinde önemli bir baskı oluştururken, bu durum küresel petrol arzı ve talebiyle yakından ilişkilidir. Özellikle Orta Doğu'daki büyük petrol üreticisi ülkelerin üretim kararları, küresel petrol fiyatlarını ve dolayısıyla ABD'deki benzin fiyatlarını doğrudan etkileyen kritik faktörler arasında yer almaktadır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/9568896/pexels-photo-9568896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T05:13:32.829Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/19/jd-vance-deflects-gas-price-concerns-with-criticism-of-biden?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1773897250475w9lr2",
+        "title": "KİK'e Yönelik Saldırılar: 'İran Devrim Muhafızları Düşünmüyor, Sadece Düğmeye Basıyor'",
+        "summary": "Suudi siyasi analist Khaled Batarfi, İran'ın Körfez İşbirliği Konseyi'ne (KİK) yönelik saldırılarını değerlendirdi. Batarfi, bu saldırıların mantıksız olduğunu ve bölgede öfkeye yol açtığını belirtti. Analist, İran Devrim Muhafızları'nın (IRGC) eylemlerini \"düşünmeden sadece bir düğmeye basmak\" olarak nitelendirdi. Bu açıklamalar, Suudi Arabistan'ın İran'ın bölgesel politikalarına yönelik eleştirel duruşunu yansıtıyor ve bölgedeki gerilimin devam ettiğine işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6382709/pexels-photo-6382709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-19T05:14:10.475Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/3/19/attacks-on-gcc-show-irgc-dont-think-they-just-push-a-button?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773874970699cbz84",
         "title": "Liverpool, Galatasaray'ı 4-0 Mağlup Ederek Şampiyonlar Ligi Çeyrek Finaline Yükseldi",
         "summary": "İngiliz ekibi Liverpool, UEFA Şampiyonlar Ligi mücadelesinde Türk temsilcisi Galatasaray'ı Anfield'da ağırladı. Karşılaşmayı 4-0 gibi net bir skorla kazanan Liverpool, turnuvada çeyrek finale yükselme başarısı gösterdi. Bu sonuçla Liverpool, Şampiyonlar Ligi'nde son şampiyon Paris Saint-Germain ile çeyrek finalde eşleşti. Galatasaray ise bu mağlubiyetle turnuvaya veda etti.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/17/israel-says-irans-security-chief-larijani-has-been-killed?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1773746025785tx6xl",
-        "title": "İsrail, İran'ın güvenlik şefinin öldürüldüğünü iddia etti",
-        "summary": "İsrail Savunma Bakanı Katz, İran'ın güvenlik şefinin suikast sonucu öldürüldüğünü öne sürdü. Bu iddia, Orta Doğu'da gerilimi artırma potansiyeli taşıyor. İsrail'den gelen bu açıklama, iki ülke arasındaki mevcut gerilimi daha da tırmandırabilir. İran'dan henüz resmi bir doğrulama veya yalanlama gelmediği belirtildi. Gelişmeler bölgedeki güvenlik dinamikleri açısından yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12998745/pexels-photo-12998745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T11:13:45.785Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1773746050518kpl6v",
-        "title": "İran'dan İsrail'e Yeni Füze Saldırısı: Orta İsrail'de Sirenler Çaldı",
-        "summary": "İsrail medyasının aktardığı bilgilere göre, İran'dan İsrail'e yönelik yeni bir füze saldırısı düzenlendi. Saldırı nedeniyle orta İsrail'de ve Kudüs çevresinde sirenler çalmaya başladı. İsrail medyası, saldırının 'sınırlı' olduğunu belirtirken, bölgede gerilimin arttığı gözlemlendi. Olayın ardından can kaybı veya hasara ilişkin henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-17T11:14:10.518Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-as-iran-launches-new-missile-barrage-reports/3867982",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
