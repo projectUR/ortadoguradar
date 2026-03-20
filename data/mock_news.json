@@ -1,5 +1,37 @@
 [
     {
+        "id": "1773983757217bv6fv",
+        "title": "Trump, İran Savaşında 'Direksiyonu İsraillilerden Geri Almalı'",
+        "summary": "ABD Başkanı Donald Trump'ın İran ile olası bir çatışmada İsrail'in etkisini sınırlaması gerektiği yönünde bir görüş ortaya atıldı. Analist Trita Parsi, Trump yönetiminin İran'a yönelik politikalarında İsrail'in yönlendirici rol oynamasına izin vermemesi gerektiğini belirtti. Parsi, ABD'nin kendi ulusal çıkarları doğrultusunda hareket etmesi ve İsrail'in bölgesel gündeminin Amerikan dış politikasını şekillendirmesine engel olması gerektiğini vurguladı. Bu açıklama, ABD'nin Orta Doğu'daki stratejileri ve müttefikleriyle ilişkileri üzerine devam eden tartışmalar bağlamında dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/25745473/pexels-photo-25745473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T05:15:57.217Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/3/20/trump-must-take-the-steering-wheel-back-from-the-israelis-in-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1773983872314jj24e",
+        "title": "İsrail ordusunun İran savaşı maliyeti ilk 20 günde 6,4 milyar dolar oldu: Rapor",
+        "summary": "İsrail ordusunun, İran ile ilgili bir savaşın ilk 20 gününde 6,4 milyar dolar maliyete katlandığı bildirildi. Toplam savaş bütçesinin yaklaşık 12,5 milyar dolar olduğu belirtiliyor. Haaretz gazetesine göre, İsrail ordusu bu harcamaları karşılamak üzere ek fon talep etmeye hazırlanıyor. Bu mali yük, bölgedeki mevcut veya potansiyel çatışmaların askeri bütçeler üzerindeki önemli ekonomik etkisini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2230885/pexels-photo-2230885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T05:17:52.314Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.75,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-war-cost-israeli-military-64b-in-first-20-days-report/3872414",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1773961334656exg2o",
         "title": "İsrail'in Gazze Saldırıları Sürüyor: Çok Sayıda Filistinli Hayatını Kaybetti",
         "summary": "İsrail'in Gazze Şeridi'ne yönelik saldırıları devam ediyor. Gazze Şehri'nde düzenlenen ayrı saldırılarda üç Filistinlinin hayatını kaybettiği bildirildi. Bölgedeki çatışmalar sürerken, Refah sınır kapısı sınırlı sayıda tıbbi tahliye için yeniden açıldı. Bu gelişmeler, bölgesel gerilimin devam ettiğini gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1773862459645w89bq",
-        "title": "İran: ABD-İsrail Saldırılarında 200'den Fazla Çocuk Öldürüldü",
-        "summary": "İran, 28 Şubat'tan bu yana gerçekleşen ve ABD ile İsrail'in sorumlu tutulduğu saldırılarda 200'den fazla çocuğun hayatını kaybettiğini ve 1.401 çocuğun yaralandığını açıkladı. İran Sağlık Bakanlığı'nın verilerine göre, aynı dönemde 18 sağlık çalışanı da yaşamını yitirirken, 101 sağlık çalışanı yaralandı. Açıklamada, söz konusu saldırıların hangi bölgede meydana geldiğine dair spesifik bir bilgi verilmedi. İranlı yetkililer, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkilerine dikkat çekerek, uluslararası toplumu sorumluluk almaya çağırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934175/pexels-photo-35934175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T19:34:19.645Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-over-200-minors-killed-1-401-injured-in-us-israeli-attacks-since-feb-28/3870424",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1773862483411m2tqw",
-        "title": "İran Cumhurbaşkanı, ABD-İsrail'in Enerji Altyapısına Yönelik Saldırılarını Kınadı",
-        "summary": "İran Cumhurbaşkanı, ABD ve İsrail'i ülkesinin enerji altyapısına yönelik saldırılar düzenlemekle suçladı. Bu tür eylemlerin \"kontrol edilemez sonuçlar\" doğurabileceği konusunda sert bir uyarıda bulundu. Söz konusu uyarı, İran'ın güneyindeki Asaluyeh şehrinde yer alan Güney Pars gaz sahasındaki depolama tanklarına yönelik olduğu iddia edilen bir ABD-İsrail saldırısının ardından geldi. Tahran yönetimi, enerji tesislerine yönelik bu tür müdahaleleri uluslararası hukukun ihlali olarak değerlendirirken, olay bölgedeki gerilimi daha da tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33448107/pexels-photo-33448107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-18T19:34:43.411Z",
-        "location": {
-            "lat": 27.48,
-            "lng": 52.6,
-            "name": "Asaluyeh, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-president-condemns-us-israeli-attacks-on-energy-infrastructure-warns-of-uncontrollable-consequences-/3870407",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
