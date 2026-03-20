@@ -1,5 +1,53 @@
 [
     {
+        "id": "1774040386800wx1av",
+        "title": "İran'ın Dini Lideri Hamaney'den Nevruz Mesajı: Düşman Yenildi",
+        "summary": "İran'ın dini lideri Ayetullah Ali Hamaney, Fars Yeni Yılı (Nevruz) münasebetiyle bir sesli mesaj yayımladı. Mesajında, ülkesinin karşılaştığı zorluklara rağmen \"düşmanın yenildiğini\" ifade eden Hamaney, elde edilen başarıları vurguladı. Dini liderin bu açıklamaları, İran'ın iç ve dış politikadaki duruşuna dair önemli ipuçları taşıyor. Hamaney'in bu tür mesajları genellikle ulusal birlik ve direniş çağrılarını içerir ve bölgesel dinamikler açısından da yakından takip edilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6633138/pexels-photo-6633138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T20:59:46.800Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774040457306wnyci",
+        "title": "Enerji Tesislerinin Savaş Alanına Dönüşmesinin Riskleri Nelerdir?",
+        "summary": "Körfez bölgesindeki petrol ve gaz tesisleri, İran'a karşı yürütülen savaşın başından bu yana saldırılara hedef olmuştur. Bu durum, bölgedeki enerji altyapısının güvenliğine yönelik ciddi riskleri gündeme getirmektedir. Enerji tesislerinin çatışma alanlarına dönüşmesi, küresel enerji arzı ve fiyatları üzerinde olumsuz etkiler yaratabilir. Ayrıca, çevresel felaketlere ve bölgesel istikrarsızlığın artmasına yol açma potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30561863/pexels-photo-30561863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T21:00:57.306Z",
+        "location": {
+            "lat": 26,
+            "lng": 52,
+            "name": "Basra Körfezi, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/20/what-are-the-risks-of-turning-energy-sites-into-battlefields?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774040478278d2o1u",
+        "title": "İsrail, Dürzi çatışmalarının ardından Suriye'yi vurdu",
+        "summary": "İsrail'in Suriye'ye yönelik hava saldırıları, bölgedeki Dürzi çatışmalarının ardından gerçekleşti. Suriye resmi makamları, silah depoları ve hükümet altyapısını hedef alan bu saldırıları \"çirkin\" bir egemenlik ihlali olarak nitelendirerek şiddetle kınadı. Şam yönetimi, İsrail'in eylemlerinin uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi tehlikeli bir şekilde artırdığını vurguladı. Yapılan açıklamada, saldırıların Suriye'nin egemenliğine doğrudan bir saldırı olduğu ve ülkedeki istikrarsızlığı körüklediği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12558407/pexels-photo-12558407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-20T21:01:18.278Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17740349671102lg8q",
         "title": "İran: Hamaney'den Hamaney'e",
         "summary": "Haber, İran'ın mevcut güç yapısının nasıl inşa edildiğini ve bu yapının mimarı olan dini liderden sonra nasıl ayakta kaldığını analiz ediyor. Ülkenin siyasi sisteminin kökenleri, işleyişi ve liderlik geçiş süreçlerindeki potansiyel dayanıklılığına odaklanılıyor. Bu analiz, İran'ın iç dinamiklerini, yönetim modelinin sürekliliğini ve bölgesel rolünü anlamak açısından önem taşıyor. Makale, İran'ın gelecekteki siyasi istikrarına dair değerlendirmeler sunuyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/game-theory/2026/3/19/are-irans-athletes-political-pawns?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17739217346108n0te",
-        "title": "İsrail, Refah Sınır Kapısı'nı 20 Gün Sonra Sınırlı Geçişlere Yeniden Açtı",
-        "summary": "İsrail, Gazze Şeridi ile Mısır arasındaki Refah Sınır Kapısı'nı 20 günlük bir aranın ardından sınırlı Filistinli geçişleri için yeniden açtı. Terminal, İsrail'in uyguladığı katı kısıtlamalar altında hizmet vermeye başladı. Bu karar, bölgedeki insani durum ve hareket özgürlüğü üzerindeki etkileri nedeniyle yakından takip ediliyor. Sınır kapısının yeniden açılmasına rağmen, geçişlerin kısıtlı olması Filistinlilerin temel ihtiyaçlara erişimini ve bölgedeki gerilimi etkilemeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35957804/pexels-photo-35957804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T12:02:14.610Z",
-        "location": {
-            "lat": 31.29,
-            "lng": 34.25,
-            "name": "Refah, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-reopens-rafah-crossing-for-limited-palestinian-movement-after-20-day-closure/3871526",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17739149442384sous",
-        "title": "Kuzey Irak'ta düzenlenen saldırılarda iki Haşdi Şabi savaşçısı hayatını kaybetti",
-        "summary": "Kuzey Irak'ta düzenlenen saldırılarda iki Haşdi Şabi (PMF) savaşçısının hayatını kaybettiği bildirildi. Bu saldırılar, İran destekli silahlı grup Kataib Hizbullah'ın ABD Büyükelçiliği'ne yönelik saldırıları koşullu olarak askıya aldığını duyurmasından sadece saatler sonra gerçekleşti. Haşdi Şabi, Irak'ta devlet destekli bir şemsiye örgüt olup, birçok bileşeni İran ile yakın ilişkilere sahiptir. Olay, bölgedeki gerilimin devam ettiğini ve ABD ile İran destekli gruplar arasındaki dinamiklerin karmaşıklığını bir kez daha gözler önüne serdi. Saldırıların kim tarafından düzenlendiği ve hedefin ne olduğu konusunda detaylı bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163443/war-desert-guns-gunshow-163443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:09:04.238Z",
-        "location": {
-            "lat": 36,
-            "lng": 43,
-            "name": "Kuzey Irak, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/19/strikes-kill-two-pmf-fighters-in-northern-iraq-amid-wider-war-group-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1773914968350hxnyo",
-        "title": "ABD'nin Doğu Asya'daki müttefikleri, Trump'ın Orta Doğu'da yardım arayışı nedeniyle hukuki ikilemde",
-        "summary": "ABD Başkanı Donald Trump'ın, Japonya Başbakanı Sanae Takaichi ile Hürmüz Boğazı'ndaki durumu görüşmesi bekleniyor. Bu görüşme, ABD'nin Orta Doğu'daki güvenlik çabalarına Doğu Asya müttefiklerini dahil etme arayışının bir parçası olarak değerlendiriliyor. Hürmüz Boğazı, küresel petrol ticareti için stratejik bir geçiş noktası olup, bölgedeki gerilimler nedeniyle uluslararası gündemde önemli bir yer tutmaktadır. Japonya gibi müttefiklerin, ABD'nin Orta Doğu'daki operasyonlarına katılımı, iç hukukları ve bölgesel denge politikaları açısından bazı zorlukları beraberinde getirebilir. Bu durum, müttefikler arasında diplomatik ve hukuki bir ikilem yaratmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29861057/pexels-photo-29861057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-19T10:09:28.351Z",
-        "location": {
-            "lat": 23.6,
-            "lng": 58.4,
-            "name": "Muscat, Oman"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/19/us-east-asian-allies-in-legal-quandary-as-trump-seeks-help-in-the-middle-east?traffic_source=rss",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
