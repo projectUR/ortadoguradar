@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774134072443yg36m",
+        "title": "Suudi Arabistan, Körfez'deki Gemilere Temel Malzeme Desteği Girişimi Başlattı",
+        "summary": "Suudi Arabistan Genel Liman İdaresi, Körfez'deki gemilere temel malzeme desteği sağlamak amacıyla yeni bir girişim başlattığını duyurdu. Yapılan açıklamada, bu girişimin bölgedeki devam eden gerilimin ortasında gemilerin ihtiyaçlarını hızla karşılayacak entegre hizmetler sunmayı hedeflediği belirtildi. Girişim, denizcilik faaliyetlerinin kesintisiz devamlılığını sağlamayı ve bölgede seyreden gemilere destek olmayı amaçlıyor. Suudi Arabistan'ın bu adımı, Körfez'deki denizcilik güvenliği ve istikrarına verdiği önemi vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36267572/pexels-photo-36267572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-21T23:01:12.443Z",
+        "location": {
+            "lat": 26,
+            "lng": 52,
+            "name": "Basra Körfezi, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-announces-initiative-to-support-ships-in-gulf-with-essential-supplies/3874234",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774126487927mzyx0",
         "title": "AB, İran-Katar Savaşı Nedeniyle Üye Ülkeleri Kışlık Gaz Depolamaya Çağırdı",
         "summary": "İran'ın Katar'daki bir tesise yönelik saldırısıyla başlayan savaş, küresel doğalgaz piyasalarında yüksek ve dalgalı fiyat artışlarına yol açtı. Bu durum, Avrupa Birliği'nin (AB) kış dönemi için belirlediği doğalgaz depolama hedeflerini ciddi şekilde tehdit ediyor. AB, enerji güvenliğini sağlamak amacıyla üye ülkelerini kışlık doğalgaz rezervlerini acilen doldurmaya çağırdı. Savaşın Orta Doğu'daki enerji altyapısına etkisi, AB'nin enerji stratejilerini gözden geçirmesine ve alternatif tedarik yollarını araştırmasına neden oldu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1773993385306408u9",
-        "title": "Netanyahu: İsrail, İran gaz sahasına saldırıda 'yalnız hareket etti'",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, İran'daki bir gaz sahasına düzenlenen saldırıyla ilgili önemli açıklamalarda bulundu. Netanyahu, İsrail'in bu operasyonda \"yalnız hareket ettiğini\" vurguladı. Bir basın toplantısında konuşan İsrail lideri, dönemin ABD Başkanı Donald Trump'ın bu tür saldırıların bir daha gerçekleşmemesi yönünde bir talepte bulunduğunu da belirtti. Bu açıklama, bölgedeki gerilimi ve İsrail'in İran'a yönelik eylemlerini yeniden gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5941812/pexels-photo-5941812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T07:56:25.306Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
