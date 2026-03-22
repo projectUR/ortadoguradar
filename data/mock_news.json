@@ -1,5 +1,53 @@
 [
     {
+        "id": "17741987967307urru",
+        "title": "İran'ın Misilleme Yeteneği Bölgede Gerilimi Artırıyor",
+        "summary": "Orta Doğu'da gerilimin tırmanma riskinin son derece yüksek olduğu belirtiliyor. Haber kaynakları, İran'ın misilleme kapasitesini göstererek bölgedeki tansiyonu artırdığını ifade ediyor. İran'ın, İsrail ve ABD'nin gerçekleştirdiği her türlü saldırıya karşı misillemede bulunduğu vurgulanıyor. Bu karşılıklı eylemlerin, bölgedeki çatışma potansiyelini ciddi şekilde yükselttiği ve daha geniş çaplı bir tırmanışa yol açabileceği endişesi taşıdığı aktarılıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/54581/escalator-stairs-metal-segments-architecture-54581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T16:59:56.730Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/3/22/risk-of-escalation-is-extremely-high-as-iran-shows-it-can?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774198818748uj72o",
+        "title": "İran Saldırıları Sonrası İsrail'in Savunma Stratejisi Sorgulanıyor",
+        "summary": "İran'ın İsrail'in Arad ve Dimona bölgelerine düzenlediği saldırılar, İsrail'in savunma stratejisi hakkında ciddi soruları beraberinde getirdi. Özellikle İsrail'in nükleer tesisine yakınlığıyla bilinen Dimona çevresindeki hedeflere yönelik bu eylemler, bölgesel gerilimi artırdı. Uzmanlar, bu saldırıların İran'ın askeri yeteneklerinin İsrail tarafından potansiyel olarak yanlış hesaplandığı yönündeki tartışmaları alevlendirdiğini belirtiyor. Olay, Orta Doğu'daki güvenlik dengeleri ve iki ülke arasındaki mevcut düşmanlıklar üzerinde yeni bir değerlendirme ihtiyacını ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T17:00:18.748Z",
+        "location": {
+            "lat": 31.07,
+            "lng": 35.02,
+            "name": "Arad ve Dimona, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774198926774191s1",
+        "title": "Suriye Devlet Başkanı, Ramazan Bayramı ve Nevruz'da Suriyeli Kürt Heyetini Kabul Etti",
+        "summary": "Suriye Devlet Başkanı, Ramazan Bayramı ve Nevruz vesilesiyle Suriyeli Kürt bir heyeti ağırladı. Görüşmenin detayları hakkında bilgi verilmezken, bu kabulün Suriye'deki farklı etnik gruplar arasındaki diyaloğun bir parçası olduğu belirtildi. Öte yandan, Ahmad al-Sharaa adlı bir yetkili, Suriye'nin kültürel çeşitliliğinin 'ulusal gücün birincil kaynağı' olduğunu ifade etti. Bu açıklamanın, ülkenin iç dinamikleri ve farklı toplulukların bir arada yaşaması bağlamında yapıldığı kaydedildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/1181433/pexels-photo-1181433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T17:02:06.774Z",
+        "location": {
+            "lat": 33.51,
+            "lng": 36.27,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-receives-syrian-kurdish-delegation-on-eid-al-fitr-nowruz/3875013",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17741914659413yzi0",
         "title": "Büyük İsrail Kavramı Sahada Gerçekleşiyor mu?",
         "summary": "İncil'deki bir ayetten haritalara, stratejilere ve eylemlere dönüşen 'Büyük İsrail' kavramının artık sadece bir fikir olmaktan çıktığı belirtiliyor. Haber, bu kavramın sahada somut adımlarla hayata geçirilip geçirilmediği yönündeki tartışmaları ve iddiaları ele alıyor. Bu durum, bölgesel siyaset ve toprak iddiaları açısından önemli gelişmelere işaret ediyor.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774077799020uwavg",
-        "title": "Birleşik Krallık, ABD'nin Hürmüz Boğazı'ndaki Hedeflere Yönelik Saldırılar İçin Üslerini Kullanmasına İzin Verdi",
-        "summary": "Birleşik Krallık hükümeti, ABD'nin Hürmüz Boğazı'ndaki hedeflere yönelik operasyonlar için İngiliz üslerini kullanmasına onay verdi. Downing Street'ten yapılan açıklamada, bakanların bu kararı İran'ı \"pervasız saldırılarla\" suçlamasının ardından aldığı belirtildi. Bu gelişme, bölgedeki denizcilik güvenliği ve jeopolitik gerilimler açısından önemli bir adım olarak değerlendiriliyor. Kararın, uluslararası sularda seyrüsefer özgürlüğünü koruma ve bölgesel istikrarı sağlama çabalarının bir parçası olduğu ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5444491/pexels-photo-5444491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T07:23:19.020Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774077821959rn5ib",
-        "title": "İsrail'in Orta ve Güney Bölgelerinde Sirenler Çalarken, İran Yeni Bir Füze Saldırısı Başlattı",
-        "summary": "İsrail'in orta ve güney bölgelerinde siren sesleri yükseldi. Bu durum, İran'ın İsrail'e yönelik yeni bir füze saldırısı başlatmasının ardından yaşandı. İsrail ordusu, savunma sistemlerinin tehditleri engellemek için çalıştığını bildirdi. Saldırının detayları ve olası sonuçları hakkında henüz tam bilgi verilmedi. Bölgedeki gerilimin arttığı gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31365894/pexels-photo-31365894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T07:23:41.959Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-across-central-southern-israel-as-iran-launches-another-missile-attack/3873651",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "177407784496189ut3",
-        "title": "Suudi Arabistan Savunma Bakanlığı: Doğu Bölgesi'nde 51 İHA Engellendi",
-        "summary": "Suudi Arabistan Savunma Bakanlığı, ülkenin doğu bölgesinde 51 insansız hava aracının (İHA) başarıyla engellendiğini bildirdi. Başkent Riyad'ın da hedef alındığı bu saldırılar, bölgedeki gerilimin tırmandığı bir dönemde gerçekleşti. Ülke, yeni bir füze ve İHA saldırısı dalgasıyla karşı karşıya kalırken, bu durum Orta Doğu'daki güvenlik endişelerini artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/442589/pexels-photo-442589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T07:24:04.961Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6031,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-51-drones-in-eastern-province-defense-ministry/3873630",
         "trendScore": 85,
         "isBreaking": false
     }
