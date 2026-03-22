@@ -1,5 +1,21 @@
 [
     {
+        "id": "177422026646248ny9",
+        "title": "İran'da Liderlik Boşluğu ve Ülkenin Mücadelesi",
+        "summary": "İran'da üst düzey liderliğin önemli bir kısmının ortadan kalktığı bildirildi. Bu durum, ülke yönetiminde ciddi bir boşluk veya istikrarsızlık potansiyelini gündeme getirdi. Ancak, yaşanan bu gelişmelere rağmen ülkenin mücadelesini sürdürdüğü ifade ediliyor. Bu durum, İran'ın iç ve dış politikadaki duruşunu nasıl etkileyeceği konusunda soru işaretleri yaratıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7647956/pexels-photo-7647956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T22:57:46.462Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774216555673qfiya",
         "title": "İngiltere Başbakanı, Orta Doğu Gerilimi Nedeniyle Acil Kabine Toplantısına Başkanlık Edecek",
         "summary": "İngiltere Başbakanı, Orta Doğu'daki artan gerilimler üzerine acil bir Kabine toplantısına başkanlık etme kararı aldı. Sky News'un bildirdiğine göre, bu kritik toplantı Pazartesi günü gerçekleştirilecek. Toplantıda, bölgedeki son gelişmelerin ve İngiltere'nin bu duruma yönelik olası diplomatik ve güvenlik adımlarının ele alınması bekleniyor. Hükümetin, Orta Doğu'daki istikrarsızlığın küresel etkilerini değerlendirerek bir yol haritası belirlemesi öngörülüyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/illegal-israeli-settlers-boast-in-whatsapp-group-about-escalating-violence-against-palestinians/3873793",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177408690236835126",
-        "title": "Bağdat'ın Batısında Irak İstihbarat Karargahına İnsansız Hava Aracı Düştü",
-        "summary": "Irak'ın başkenti Bağdat'ın batısında yer alan Irak Ulusal İstihbarat Servisi'nin karargahına bir insansız hava aracı düştü. Güvenlik Medya Hücresi Başkanı tarafından yapılan açıklamada, olayın Bağdat'ın El-Mansur bölgesindeki istihbarat karargahını hedef aldığı belirtildi. Olayın nedenine ve olası sorumlularına ilişkin henüz detaylı bilgi verilmezken, güvenlik güçleri tarafından soruşturma başlatıldığı bildirildi. Bölgede güvenlik önlemlerinin artırıldığı ve gelişmelerin yakından takip edildiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/442589/pexels-photo-442589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T09:55:02.368Z",
-        "location": {
-            "lat": 33.34,
-            "lng": 44.39,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-crashes-at-iraqi-intelligence-headquarters-in-western-baghdad/3873768",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
