@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774209397271mr9uc",
+        "title": "İsrail, Lübnan'daki Hizbullah'a Karşı Kampanyayı Tırmandırma Sözü Verdi",
+        "summary": "İsrail, Lübnan'daki Hizbullah'a karşı operasyonlarını tırmandırma kararı aldığını açıkladı. Yapılan duyuruda, Litani Nehri üzerindeki köprülerin hedef alınacağı belirtildi. Bu gelişme, İsrail ile Hizbullah arasındaki mevcut gerilimin daha da artabileceğine işaret ediyor. Bölgedeki güvenlik durumu açısından önemli bir adım olarak değerlendirilen bu karar, uluslararası kamuoyunda yakından takip ediliyor. İsrail'in bu hamlesi, Lübnan'ın güneyindeki Hizbullah'ın altyapısına yönelik baskıyı artırma amacı taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T19:56:37.271Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "17742069580067leva",
         "title": "Lübnan'dan İsrail'e Köprü Saldırısı Uyarısı: \"Kara İşgalinin Başlangıcı\"",
         "summary": "Lübnan'ın eski Cumhurbaşkanı Michel Aoun, İsrail'in bir köprüye yönelik olası saldırısının \"kara işgalinin bir başlangıcı\" olabileceği yönünde ciddi bir uyarıda bulundu. Bu açıklama, bölgedeki gerilimin tırmandığı bir dönemde geldi. Öte yandan, İsrail ordusu komutanı, Hizbullah'a karşı yürütülen operasyonun \"daha yeni başladığını\" ve \"uzun süreceğini\" ifade etti. Bu karşılıklı açıklamalar, Lübnan-İsrail sınır hattındaki askeri hareketliliğin ve çatışma riskinin arttığını gözler önüne seriyor. Bölgedeki taraflar arasında tansiyonun yükseldiği belirtiliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/country-risk-premiums-rise-stock-markets-fluctuate-in-gulf-countries/3873758",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774077727665hx8ev",
-        "title": "Al Jazeera Muhabirinin Ürdün'den Irak'a Yolculuğu",
-        "summary": "Al Jazeera muhabiri Nicolas Haque, Ürdün'ün başkenti Amman'dan Irak'ın başkenti Bağdat'a uzanan uzun karayolu yolculuğunu belgeledi. Haque, bölgedeki gelişmeleri takip etmek ve izleyicilerine aktarmak amacıyla bu seyahati gerçekleştirdi. Yolculuk boyunca kaydedilen görüntüler ve deneyimler, iki Orta Doğu ülkesi arasındaki coğrafi ve kültürel bağlantıları gözler önüne serdi. Al Jazeera, muhabirinin bu özel görevini ve bölgeye ulaşım sürecini kamuoyuyla paylaştı.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/6950236/pexels-photo-6950236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T07:22:07.665Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Amman, Ürdün - Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
