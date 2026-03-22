@@ -1,5 +1,53 @@
 [
     {
+        "id": "1774173705357k6sff",
+        "title": "İran Füze Saldırısı Bölgesinde Bir Kadın Ben-Gvir ile Karşı Karşıya Geldi",
+        "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Arad kentinde İran'ın düzenlediği füze saldırısının gerçekleştiği bölgeyi ziyaret etti. Ziyaret sırasında, bir İsrailli kadın bakanla karşı karşıya gelerek protestoda bulundu. Kadın, saldırının ardından bölgedeki durumu ve hükümetin politikalarını sorguladı. Bu olay, İsrail'in iç siyasetindeki gerilimi ve İran ile devam eden bölgesel çatışmanın kamuoyundaki yansımalarını gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3814694/pexels-photo-3814694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T10:01:45.357Z",
+        "location": {
+            "lat": 31.25,
+            "lng": 35.21,
+            "name": "Arad, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774173726626xhpue",
+        "title": "İsrail'in Nükleer Doktrini Küresel Endişelere Yol Açıyor",
+        "summary": "İsrail makamlarının nükleer silah kullanımı için belirlediği eşiğin tehlikeli derecede düşük olduğu belirtildi. Bu durum, ülkenin nükleer doktrini hakkında uluslararası toplumda ciddi endişeler yaratıyor. Haber, İsrail'in bölgedeki ve küresel güvenlik üzerindeki potansiyel etkilerine dikkat çekiyor. Uzmanlar, bu düşük eşiğin bölgesel istikrarsızlığı tetikleyebileceği ve nükleer silahların yayılması riskini artırabileceği konusunda uyarıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2309992/pexels-photo-2309992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T10:02:06.626Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/22/why-the-world-should-worry-about-israels-nuclear-doctrine?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774173803363m8gwf",
+        "title": "İran, Hürmüz Boğazı'ndan Geçen Bazı Gemilerden 2 Milyon Dolar Ücret Topladı",
+        "summary": "İranlı bir milletvekili, ülkesinin Hürmüz Boğazı'ndan geçen bazı gemilerden toplamda 2 milyon dolar geçiş ücreti tahsil ettiğini duyurdu. Milletvekili, bu transit ücretlerinin küresel denizcilik rotalarını etkileyen mevcut gerilimler ışığında İran'ın stratejik su yolu üzerindeki etkinliğini ve gücünü gösterdiğini ifade etti. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği kritik bir nokta olarak biliniyor. İran'ın bu adımı, bölgedeki denizcilik güvenliği ve uluslararası ticaret üzerindeki potansiyel etkileri nedeniyle yakından takip ediliyor. Bu gelişme, Orta Doğu'daki jeopolitik dinamiklerin ve denizcilik rotalarındaki gerilimlerin bir yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4913801/pexels-photo-4913801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T10:03:23.363Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-collects-2m-fees-from-some-vessels-passing-through-hormuz-lawmaker-says/3874652",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774170301895bjvf2",
         "title": "İran'ın füze saldırısı sonrası Arad'daki hasar drone görüntülerine yansıdı",
         "summary": "İsrail'in Arad kentinde, İran tarafından gerçekleştirilen geceki füze saldırısının ardından büyük çaplı hasar meydana geldi. Bölgeden alınan drone görüntüleri, konut binalarında ciddi yıkım olduğunu gözler önüne serdi. Saldırının ardından sivil yerleşim alanlarının etkilendiği belirtildi. Bu olay, iki ülke arasındaki gerilimin yeni bir boyutunu işaret ediyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774040386800wx1av",
-        "title": "İran'ın Dini Lideri Hamaney'den Nevruz Mesajı: Düşman Yenildi",
-        "summary": "İran'ın dini lideri Ayetullah Ali Hamaney, Fars Yeni Yılı (Nevruz) münasebetiyle bir sesli mesaj yayımladı. Mesajında, ülkesinin karşılaştığı zorluklara rağmen \"düşmanın yenildiğini\" ifade eden Hamaney, elde edilen başarıları vurguladı. Dini liderin bu açıklamaları, İran'ın iç ve dış politikadaki duruşuna dair önemli ipuçları taşıyor. Hamaney'in bu tür mesajları genellikle ulusal birlik ve direniş çağrılarını içerir ve bölgesel dinamikler açısından da yakından takip edilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6633138/pexels-photo-6633138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T20:59:46.800Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/20/irans-supreme-leader-khamenei-says-enemy-defeated-in-audio-message?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774040457306wnyci",
-        "title": "Enerji Tesislerinin Savaş Alanına Dönüşmesinin Riskleri Nelerdir?",
-        "summary": "Körfez bölgesindeki petrol ve gaz tesisleri, İran'a karşı yürütülen savaşın başından bu yana saldırılara hedef olmuştur. Bu durum, bölgedeki enerji altyapısının güvenliğine yönelik ciddi riskleri gündeme getirmektedir. Enerji tesislerinin çatışma alanlarına dönüşmesi, küresel enerji arzı ve fiyatları üzerinde olumsuz etkiler yaratabilir. Ayrıca, çevresel felaketlere ve bölgesel istikrarsızlığın artmasına yol açma potansiyeli taşımaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30561863/pexels-photo-30561863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T21:00:57.306Z",
-        "location": {
-            "lat": 26,
-            "lng": 52,
-            "name": "Basra Körfezi, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/3/20/what-are-the-risks-of-turning-energy-sites-into-battlefields?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774040478278d2o1u",
-        "title": "İsrail, Dürzi çatışmalarının ardından Suriye'yi vurdu",
-        "summary": "İsrail'in Suriye'ye yönelik hava saldırıları, bölgedeki Dürzi çatışmalarının ardından gerçekleşti. Suriye resmi makamları, silah depoları ve hükümet altyapısını hedef alan bu saldırıları \"çirkin\" bir egemenlik ihlali olarak nitelendirerek şiddetle kınadı. Şam yönetimi, İsrail'in eylemlerinin uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi tehlikeli bir şekilde artırdığını vurguladı. Yapılan açıklamada, saldırıların Suriye'nin egemenliğine doğrudan bir saldırı olduğu ve ülkedeki istikrarsızlığı körüklediği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12558407/pexels-photo-12558407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T21:01:18.278Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
