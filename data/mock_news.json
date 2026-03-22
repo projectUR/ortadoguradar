@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774216555673qfiya",
+        "title": "İngiltere Başbakanı, Orta Doğu Gerilimi Nedeniyle Acil Kabine Toplantısına Başkanlık Edecek",
+        "summary": "İngiltere Başbakanı, Orta Doğu'daki artan gerilimler üzerine acil bir Kabine toplantısına başkanlık etme kararı aldı. Sky News'un bildirdiğine göre, bu kritik toplantı Pazartesi günü gerçekleştirilecek. Toplantıda, bölgedeki son gelişmelerin ve İngiltere'nin bu duruma yönelik olası diplomatik ve güvenlik adımlarının ele alınması bekleniyor. Hükümetin, Orta Doğu'daki istikrarsızlığın küresel etkilerini değerlendirerek bir yol haritası belirlemesi öngörülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6949525/pexels-photo-6949525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T21:55:55.673Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, İngiltere"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/british-premier-to-chair-emergency-cabinet-meeting-amid-tension-in-mideast/3875166",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774209397271mr9uc",
         "title": "İsrail, Lübnan'daki Hizbullah'a Karşı Kampanyayı Tırmandırma Sözü Verdi",
         "summary": "İsrail, Lübnan'daki Hizbullah'a karşı operasyonlarını tırmandırma kararı aldığını açıkladı. Yapılan duyuruda, Litani Nehri üzerindeki köprülerin hedef alınacağı belirtildi. Bu gelişme, İsrail ile Hizbullah arasındaki mevcut gerilimin daha da artabileceğine işaret ediyor. Bölgedeki güvenlik durumu açısından önemli bir adım olarak değerlendirilen bu karar, uluslararası kamuoyunda yakından takip ediliyor. İsrail'in bu hamlesi, Lübnan'ın güneyindeki Hizbullah'ın altyapısına yönelik baskıyı artırma amacı taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/drone-crashes-at-iraqi-intelligence-headquarters-in-western-baghdad/3873768",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17740869238713mhxe",
-        "title": "Körfez Ülkelerinde Ülke Risk Primleri Yükselirken Borsalar Dalgalanıyor",
-        "summary": "Körfez ülkelerinde ülke risk primleri önemli ölçüde artış gösterdi. Bölge borsalarında ise karışık bir seyir izleniyor. Özellikle Birleşik Arap Emirlikleri (BAE) borsası, Orta Doğu'daki savaşın başlamasından bu yana en büyük düşüşünü kaydetti. Bu durum, bölgesel gerilimlerin finans piyasaları üzerindeki etkisini gözler önüne seriyor ve yatırımcıların artan risk algısı nedeniyle temkinli bir duruş sergilediğini gösteriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T09:55:23.871Z",
-        "location": {
-            "lat": 25.2048,
-            "lng": 55.2708,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/country-risk-premiums-rise-stock-markets-fluctuate-in-gulf-countries/3873758",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
