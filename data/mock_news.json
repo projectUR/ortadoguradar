@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774179708576y1z9e",
+        "title": "Lübnanlı Hemşire Kayıplarına Rağmen Bekaa Vadisi'ndeki Görevini Sürdürüyor",
+        "summary": "Lübnan'ın Bekaa Vadisi'nde görev yapan bir hemşire, 2024 İsrail-Hizbullah Savaşı'nda nişanlısını kaybetmesine rağmen hastanedeki görevinden ayrılmayı reddetti. Yaşadığı derin kişisel trajediye rağmen mesleki sorumluluğunu sürdürme kararı, bölgedeki çatışmaların yol açtığı zorluklara karşı gösterilen dayanıklılığın bir simgesi haline geldi. Hemşirenin bu fedakarlığı, savaşın sivil halk üzerindeki yıkıcı etkilerini ve aynı zamanda insan ruhunun direncini gözler önüne seriyor. Bu olay, sağlık çalışanlarının çatışma bölgelerindeki kritik rolünü ve karşılaştıkları kişisel fedakarlıkları bir kez daha vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6129108/pexels-photo-6129108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T11:41:48.576Z",
+        "location": {
+            "lat": 34,
+            "lng": 36.2,
+            "name": "Bekaa Vadisi, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/22/lebanese-nurse-refuses-to-leave-her-post-at-hospital-despite-loses?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774179767479yqs2y",
+        "title": "İsrail Başbakanı, Ordusuna Güney Lübnan'daki Litani Nehri Üzerindeki Köprüleri Bombalama Emri Verdi",
+        "summary": "İsrail Başbakanı, ordusuna güney Lübnan'daki Litani Nehri üzerinde bulunan köprüleri 'derhal' bombalama talimatı verdi. Yetkililer, bu askeri adımın Hizbullah savaşçılarının güneye geçişini engellemeyi hedeflediğini belirtti. Bölgedeki gerilimin tırmandığı bir dönemde alınan bu karar, askeri operasyonların kapsamını genişletme potansiyeli taşıyor. Söz konusu köprülerin hedef alınması, bölgedeki ulaşım ve lojistik üzerinde önemli etkiler yaratabilir ve çatışmanın seyrini etkileyebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36643006/pexels-photo-36643006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T11:42:47.479Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.4,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-prime-minister-orders-army-to-immediately-bomb-bridges-over-litani-river-in-southern-lebanon/3874740",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774173705357k6sff",
         "title": "İran Füze Saldırısı Bölgesinde Bir Kadın Ben-Gvir ile Karşı Karşıya Geldi",
         "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Arad kentinde İran'ın düzenlediği füze saldırısının gerçekleştiği bölgeyi ziyaret etti. Ziyaret sırasında, bir İsrailli kadın bakanla karşı karşıya gelerek protestoda bulundu. Kadın, saldırının ardından bölgedeki durumu ve hükümetin politikalarını sorguladı. Bu olay, İsrail'in iç siyasetindeki gerilimi ve İran ile devam eden bölgesel çatışmanın kamuoyundaki yansımalarını gözler önüne serdi.",
@@ -764,38 +796,6 @@
             "name": "Kuveyt Şehri, Kuveyt"
         },
         "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-air-defenses-responding-to-hostile-missile-and-drone-threats/3873606",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774069102638slitg",
-        "title": "Savaş Gölgesinde 300 Milyon Kişi Nevruz'u Kutladı",
-        "summary": "Antik Pers Yeni Yılı Nevruz, Orta Doğu'da devam eden savaşın gölgesinde milyonlarca kişi tarafından kutlandı. Yaklaşık 300 milyon insanın katıldığı bu kutlamalar, bölgedeki çatışmaların yarattığı belirsizlik ve endişe ortamında gerçekleşti. Savaşın gölgesi altında yapılan Nevruz kutlamaları, kültürel mirasın ve umudun devamlılığını simgelese de, bölgedeki gerilimin etkilerini gözler önüne serdi. Bu durum, geleneksel bayramın coşkusuna buruk bir hava kattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7157628/pexels-photo-7157628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T04:58:22.638Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774069158673xinzq",
-        "title": "Trump'tan Hürmüz Boğazı Vurgusu: İran Saldırılarına Karşı Korunmalı; Hamaney'den Meydan Okuyan Mesaj",
-        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın İran saldırılarına karşı, boğazı kullanan diğer uluslar tarafından korunması gerektiğini ifade etti. Bu açıklama, bölgedeki stratejik su yolunun güvenliğine ilişkin endişeleri bir kez daha gündeme getirdi. Haber başlığında İran'daki savaş durumuna ve Trump'ın ateşkes olmayacağı yönündeki sözlerine değinilirken, İran'ın dini lideri Ayetullah Ali Hamaney'den de meydan okuyan bir mesaj geldiği belirtildi. Küresel petrol ticareti için hayati önem taşıyan Hürmüz Boğazı'ndaki gerilim, uluslararası kamuoyu tarafından yakından izleniyor. Bu gelişmeler, Orta Doğu'daki siyasi ve güvenlik durumunun kırılganlığını ortaya koyuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5392789/pexels-photo-5392789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T04:59:18.673Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
     }
