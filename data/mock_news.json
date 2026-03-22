@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774170301895bjvf2",
+        "title": "İran'ın füze saldırısı sonrası Arad'daki hasar drone görüntülerine yansıdı",
+        "summary": "İsrail'in Arad kentinde, İran tarafından gerçekleştirilen geceki füze saldırısının ardından büyük çaplı hasar meydana geldi. Bölgeden alınan drone görüntüleri, konut binalarında ciddi yıkım olduğunu gözler önüne serdi. Saldırının ardından sivil yerleşim alanlarının etkilendiği belirtildi. Bu olay, iki ülke arasındaki gerilimin yeni bir boyutunu işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11296964/pexels-photo-11296964.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T09:05:01.895Z",
+        "location": {
+            "lat": 31.25,
+            "lng": 35.21,
+            "name": "Arad, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/22/drone-footage-shows-damage-in-arad-after-overnight-iranian-missile-attack?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774170362350t4c01",
+        "title": "Katar, karasularında düşen helikopterde 6 kişinin hayatını kaybettiğini duyurdu",
+        "summary": "Katar İçişleri Bakanlığı tarafından yapılan açıklamaya göre, ülkenin karasularında meydana gelen bir helikopter kazasında altı kişinin cansız bedenine ulaşıldı. Yetkililer, kayıp olan son kişiyi bulmak için arama çalışmalarının devam ettiğini bildirdi. Kaza, Katar'ın egemenlik alanındaki sularda gerçekleşti. Olayla ilgili detaylı soruşturmanın başlatıldığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36085641/pexels-photo-36085641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T09:06:02.350Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-says-6-found-dead-after-helicopter-crash-in-territorial-waters/3874575",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "177417038174483zmg",
+        "title": "Suudi Arabistan, Doğu Bölgesi'nde 4 İnsansız Hava Aracını Engellediğini Duyurdu",
+        "summary": "Suudi Arabistan, ülkenin doğu bölgesinde dört insansız hava aracının (İHA) hava savunma sistemleri tarafından başarıyla engellendiğini açıkladı. Riyad yönetimi tarafından yapılan açıklamada, hava savunma kuvvetlerinin bu tür tehditleri önlemeye devam ettiği vurgulandı. Olayın detayları veya İHA'ların menşei hakkında ek bilgi verilmezken, bu gelişme bölgedeki güvenlik endişelerini bir kez daha gündeme getirdi. Suudi Arabistan, daha önce de benzer saldırı girişimleriyle karşı karşıya kalmıştı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36453022/pexels-photo-36453022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T09:06:21.744Z",
+        "location": {
+            "lat": 26.3927,
+            "lng": 50.197,
+            "name": "Dammam, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-it-intercepted-4-drones-in-eastern-province/3874551",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1774170401776umnd9",
+        "title": "Lübnan'dan İsrail'in Kuzeyine Füze Saldırısı: 1 Ölü, 1 Yaralı",
+        "summary": "Lübnan'dan İsrail'in kuzeyine düzenlenen füze saldırısında bir kişi hayatını kaybederken, bir kişi de yaralandı. İsrailli sağlık görevlileri, tanksavar füzesinin sınır yerleşimindeki araçlara isabet ettiğini ve yangınlara neden olduğunu bildirdi. Saldırı, bölgedeki güvenlik durumunu yeniden gündeme getirdi ve gerilimi artırdı. Olayla ilgili detaylı soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/586113/pexels-photo-586113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-22T09:06:41.776Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kuzey İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/missile-from-lebanon-kills-1-wounds-another-in-northern-israel/3874543",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1774165675570vkor8",
         "title": "Trump'tan İran'a Hürmüz Boğazı Tehdidi",
         "summary": "Eski ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'nı açık tutmaması halinde ülkenin enerji santrallerini \"yok etmekle\" tehdit etti. Bu açıklama, bölgedeki gerilimi daha da artırma potansiyeli taşıyor. Dünya petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı, stratejik konumu nedeniyle uluslararası arenada büyük önem arz ediyor. İran, boğazın güvenliğini sağlama sorumluluğunu üstlenirken, geçmişte zaman zaman kapatma tehditlerinde bulunmuştu. ABD ile İran arasındaki ilişkiler, nükleer anlaşmadan çekilme ve uygulanan yaptırımlar sonrası uzun süredir gerginliğini koruyor.",
@@ -732,70 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17740349671102lg8q",
-        "title": "İran: Hamaney'den Hamaney'e",
-        "summary": "Haber, İran'ın mevcut güç yapısının nasıl inşa edildiğini ve bu yapının mimarı olan dini liderden sonra nasıl ayakta kaldığını analiz ediyor. Ülkenin siyasi sisteminin kökenleri, işleyişi ve liderlik geçiş süreçlerindeki potansiyel dayanıklılığına odaklanılıyor. Bu analiz, İran'ın iç dinamiklerini, yönetim modelinin sürekliliğini ve bölgesel rolünü anlamak açısından önem taşıyor. Makale, İran'ın gelecekteki siyasi istikrarına dair değerlendirmeler sunuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7103049/pexels-photo-7103049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T19:29:27.110Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/featured-documentaries/2026/3/20/iran-from-khamenei-to-khamenei?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774027454608tk4pe",
-        "title": "İran Lideri Hamaney'den Nevruz Mesajı ve Liderlik İddiaları",
-        "summary": "İran'ın dini lideri Hamaney'in Nevruz mesajında ülkenin düşmanlarının 'yenildiğini' ifade ettiği bildirildi. Bu açıklama, geleneksel Nevruz kutlamaları kapsamında yazılı olarak kamuoyuna duyuruldu. Haberde ayrıca, Mojtaba Hamaney'in öldürülen babasının yerine İran'ın dini lideri olduğu ve bu göreve gelmesinden bu yana kamuoyu önüne çıkmadığı bilgisine yer verildi. Bu durum, İran'ın liderlik yapısı ve iç siyasetine dair çeşitli spekülasyonlara yol açabilecek niteliktedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7581111/pexels-photo-7581111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T17:24:14.608Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774027474300a4xlw",
-        "title": "İran Savaşı Küresel Gıda Krizini Tetikleyebilir mi?",
-        "summary": "Potansiyel bir İran savaşının küresel gıda tedarik zincirlerini ciddi şekilde aksatarak dünya genelinde yeni bir gıda şokuna yol açabileceği belirtiliyor. Haber, fabrikalardan süpermarket raflarına kadar uzanan bu aksaklıkların, küresel ekonomiyi derinden etkileyebileceği uyarısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11846456/pexels-photo-11846456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T17:24:34.300Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774027496346rqqwr",
-        "title": "Kuveyt'te Bayram Ezanı Sırasında Hava Saldırısı Sirenleri Yükseldi",
-        "summary": "Kuveyt Şehri genelinde, İran'ın ABD varlıklarını füze ve insansız hava araçlarıyla hedef almasıyla eş zamanlı olarak hava saldırısı sirenleri duyuldu. Olay, Kuveyt'te bayram namazı için ezan okunurken meydana geldi. Bölgedeki gerilimin arttığı bir dönemde yaşanan bu gelişme, güvenlik endişelerini artırdı. Kuveyt makamlarından veya ABD'den olaya ilişkin henüz detaylı bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2044278/pexels-photo-2044278.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-20T17:24:56.346Z",
-        "location": {
-            "lat": 29.38,
-            "lng": 47.98,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
     }
