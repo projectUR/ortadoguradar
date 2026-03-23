@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774303343347uhf27",
+        "title": "İsrail Cumhurbaşkanı'nın Ziyaretinden Kısa Süre Sonra Füze Saldırısı Gerçekleşti",
+        "summary": "İsrail Cumhurbaşkanı, bir basın toplantısı düzenledikten kısa bir süre sonra yakınlarda bir füzenin isabet etmesi üzerine sığınmak zorunda kaldı. Olay, Cumhurbaşkanı'nın bölgedeki temaslarının hemen ardından gerçekleşti. Füze saldırısının detayları ve sorumluları hakkında henüz resmi bir açıklama yapılmadı. Bu gelişme, İsrail'in güvenlik durumu ve bölgedeki gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3233751/pexels-photo-3233751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T22:02:23.347Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17743033674590un2w",
+        "title": "Ukrayna, Rusya'nın Önemli Petrol Limanı ve Rafinerisini Vurduğunu Açıkladı",
+        "summary": "Ukrayna, Pazartesi günü Rusya'nın Primorsk'taki önemli bir petrol terminalini ve Ufa'daki bir rafineriyi hedef aldığını duyurdu. Bu saldırılar, Ukrayna'nın Rusya'nın enerji altyapısına yönelik devam eden operasyonlarının bir parçası olarak değerlendirilmektedir. Rusya, küresel enerji piyasalarında önemli bir oyuncu olduğundan, bu tür saldırılar dünya genelindeki petrol fiyatlarını ve arz güvenliğini etkileyebilir. Bu durum, Orta Doğu'daki petrol üreticisi ülkelerin ekonomileri ve politikaları üzerinde dolaylı ancak önemli bir etki yaratma potansiyeli taşımaktadır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/1098820/pexels-photo-1098820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T22:02:47.459Z",
+        "location": {
+            "lat": 54.73,
+            "lng": 55.96,
+            "name": "Ufa, Rusya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/ukraine-strikes-key-russian-oil-port-and-refinery?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774299462432vxbeg",
         "title": "Trump'tan askeri saldırıları erteleme sonrası İran açıklaması",
         "summary": "ABD Başkanı Donald Trump, İran'ın enerji santrallerine yönelik planlanan askeri saldırıların ertelendiğini duyurdu. Bu açıklamanın ardından Trump, İran'ın kendisini bir anlaşma yapmak üzere aradığını iddia etti. Trump'ın bu sözleri, ABD ile İran arasındaki gerilimin seyrine dair yeni bir boyut kazandırdı. İki ülke arasındaki ilişkiler, bölgedeki güvenlik ve diplomatik çabalar açısından yakından takip ediliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/22/what-we-know-about-irans-latest-attacks-on-israel?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1774165721773n47pc",
-        "title": "İran Füzeleri İsrail Nükleer Tesisine Yakın Kasabalarda 160 Kişiyi Yaraladı",
-        "summary": "İran'dan fırlatılan füzelerin İsrail'deki bir nükleer tesisin yakınındaki kasabalara isabet ettiği bildirildi. Saldırıda 160 kişinin yaralandığı belirtilirken, İsrail'in gelişmiş hava savunma sistemlerinin nasıl aşıldığına dair soruşturma başlatıldığı açıklandı. Bu olay, bölgedeki gerilimi tırmandırırken, İsrail'in balistik füzelere karşı savunma kapasitesi hakkında soruları gündeme getirdi. İsrail makamları, füzelerin ülkenin hava savunma kalkanını nasıl geçtiğini detaylı bir şekilde araştırmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31365894/pexels-photo-31365894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T07:48:41.773Z",
-        "location": {
-            "lat": 31.07,
-            "lng": 35.02,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17741657439016cgem",
-        "title": "ABD, İran'a Yönelik Zorlu Seçenekleri Değerlendirirken Trump Bir Yol Ayrımında",
-        "summary": "ABD Başkanı Donald Trump'ın 'savaşın neredeyse bittiği' yönündeki açıklamaları, İran'daki mevcut durumla örtüşmüyor. Washington yönetimi, İran'a yönelik sert seçenekleri masaya yatırırken, Başkan Trump'ın bu konudaki politikaları bir yol ayrımına gelmiş durumda. Bölgedeki gerçekler, diplomatik ve askeri gerilimlerin devam ettiğini gösteriyor. Bu durum, ABD'nin İran'a yönelik gelecekteki adımları hakkında belirsizlik yaratırken, uluslararası kamuoyu gelişmeleri yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699850/pexels-photo-5699850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T07:49:03.902Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
