@@ -1,5 +1,37 @@
 [
     {
+        "id": "1774244996340r9i7p",
+        "title": "Tahran'da Saldırı Sonrası Enkazda Kayıp Kardeşini Arayan Aile",
+        "summary": "İran'ın başkenti Tahran'da bir binayı hedef alan saldırının üzerinden beş gün geçti. Saldırıda yıkılan binanın enkazında kayıp yakınlarını arama çalışmaları aralıksız devam ediyor. Mahdi Mirzahosseini'nin kardeşleri, saldırıdan bu yana kendisinden haber alınamayan kardeşlerini bulmak umuduyla enkazda arama faaliyetlerini sürdürüyor. Olay, şehirde büyük yıkıma yol açarken, kayıp kişilerin akıbeti hakkında endişeler artıyor ve kurtarma ekipleri çalışmalarına devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3794760/pexels-photo-3794760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T05:49:56.340Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17742451131175po0c",
+        "title": "Katar ve Türk Vatandaşları Askeri Helikopter Kazasında Hayatını Kaybetti",
+        "summary": "Bir askeri helikopter kazasında Katar ve Türk vatandaşları yaşamını yitirdi. Kazada dört Katarlı askeri personel, bir Türk askeri ve bir Türk savunma şirketinden iki teknisyen bulunuyordu. Olayla ilgili soruşturma başlatıldığı belirtildi. Helikopterin hangi amaçla görev yaptığına dair detaylar henüz açıklanmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1036593/pexels-photo-1036593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T05:51:53.117Z",
+        "location": {
+            "lat": null,
+            "lng": null,
+            "name": "Bilinmiyor"
+        },
+        "source": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "177422026646248ny9",
         "title": "İran'da Liderlik Boşluğu ve Ülkenin Mücadelesi",
         "summary": "İran'da üst düzey liderliğin önemli bir kısmının ortadan kalktığı bildirildi. Bu durum, ülke yönetiminde ciddi bir boşluk veya istikrarsızlık potansiyelini gündeme getirdi. Ancak, yaşanan bu gelişmelere rağmen ülkenin mücadelesini sürdürdüğü ifade ediliyor. Bu durum, İran'ın iç ve dış politikadaki duruşunu nasıl etkileyeceği konusunda soru işaretleri yaratıyor.",
@@ -764,38 +796,6 @@
             "name": "Orta Doğu"
         },
         "source": "https://www.aljazeera.com/news/2026/3/21/trump-hints-at-winding-down-iran-war-as-us-deploys-more-troops-to-region?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774086861101pj9jt",
-        "title": "İran, Natanz nükleer zenginleştirme tesisinin ABD-İsrail saldırısında yeniden vurulduğunu açıkladı",
-        "summary": "İran Atom Enerjisi Kurumu'ndan yapılan açıklamaya göre, Natanz'daki Şehit Ahmedi Ruşan zenginleştirme tesisine ABD ve İsrail tarafından bir saldırı düzenlendiği iddia edildi. Açıklamada, tesisin yeniden hedef alındığı belirtilirken, olayda herhangi bir radyasyon sızıntısı tespit edilmediği bildirildi. Bu gelişme, İran'ın nükleer programı etrafındaki gerilimi ve bölgedeki güvenlik dinamiklerini yeniden gündeme taşıdı. İran, daha önce de benzer saldırılara maruz kaldığını ve bu tür eylemlerin uluslararası hukuka aykırı olduğunu savunmuştu. Olayın uluslararası yankıları ve diplomatik sonuçları yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T09:54:21.101Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 51.85,
-            "name": "Natanz, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-natanz-nuclear-enrichment-complex-hit-again-in-us-israeli-attack/3873810",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774086882173n9436",
-        "title": "Yasa dışı İsrailli yerleşimciler, WhatsApp grubunda Filistinlilere yönelik artan şiddetle övünüyor",
-        "summary": "Medya raporlarına göre, işgal altındaki Batı Şeria'da yasa dışı İsrailli yerleşimcilerin, Filistinlilere karşı gerçekleştirdikleri şiddet eylemlerini bir WhatsApp grubunda paylaştığı ortaya çıktı. Yerleşimciler, bu grupta Filistinlilere yönelik saldırıların bir listesini dolaşıma soktu. Paylaşılan eylemler arasında darp, kundaklama ve Filistinlilerin yaralanması gibi olaylar yer alıyor. Bu durum, bölgedeki gerilimin tırmandığına ve yerleşimci şiddetinin organize bir şekilde devam ettiğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553132/pexels-photo-8553132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-21T09:54:42.173Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/illegal-israeli-settlers-boast-in-whatsapp-group-about-escalating-violence-against-palestinians/3873793",
         "trendScore": 85,
         "isBreaking": false
     }
