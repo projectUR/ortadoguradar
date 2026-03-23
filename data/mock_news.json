@@ -1,5 +1,37 @@
 [
     {
+        "id": "17742908705042vtsm",
+        "title": "İran, ABD ile Görüşme İddialarını Yalanladı",
+        "summary": "İran, ABD Başkanı Trump'ın \"verimli\" olarak nitelendirdiği görüşme iddialarını kesin bir dille reddetti. İran parlamento sözcüsü, ABD'nin bu tür görüşme fikirlerini, kendi ve İsrail'in içinde bulunduğu çıkmazdan kurtulmak için kullandığını belirtti. Sözcü, ABD Başkanı'nın bu iddialarla bölgedeki mevcut zorlu durumu aşmaya çalıştığını vurguladı. Tahran yönetimi, Washington ile herhangi bir doğrudan veya dolaylı temasın söz konusu olmadığını açıkladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4427507/pexels-photo-4427507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T18:34:30.504Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17742909392013op7u",
+        "title": "İsrail, Trump'ın İran ile 'Gerilimi Azaltma' Hamlesine Nasıl Tepki Veriyor?",
+        "summary": "ABD Başkanı Donald Trump'ın İran ile gerilimi azaltma yönündeki adımlarının ardından İsrail'den tepki gelmesi bekleniyor. İsrail'in, ABD'nin bu politikasına karşı çıkacağı ve kendi güvenlik endişelerini dile getireceği öngörülüyor. Tel Aviv yönetiminin, İran'ın bölgesel faaliyetleri ve nükleer programına yönelik tutumunda bir değişiklik beklemediği belirtiliyor. Bu durumun, ABD-İsrail ilişkilerinde potansiyel bir gerilime yol açabileceği ifade ediliyor. İsrail'in, İran'a yönelik sert duruşunu sürdürmesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/60582/newton-s-cradle-balls-sphere-action-60582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-23T18:35:39.201Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1774280484067a6y7y",
         "title": "Trump, İran'a Yönelik Saldırıları Erteleme Emri Verdi",
         "summary": "ABD Başkanı Donald Trump, İran'a yönelik askeri operasyonlarda geri adım atma sinyali verdi. Başkan Trump, ABD ordusuna İran'daki enerji santralleri ve diğer enerji tesislerine yönelik planlanan saldırıları erteleme talimatı verdi. Bu karar, ABD'nin İran'a karşı 'rejim değişikliği' hedefi gütmediği yönündeki mesajlarla birlikte geldi. Gelişme, iki ülke arasındaki gerilimin tırmanmasının ardından tansiyonu düşürme potansiyeli taşıyor. Bölgedeki diplomatik çabaların devam ettiği belirtiliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/uae-intercepts-iranian-missiles-drones/3874439",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17741658122512g0dq",
-        "title": "Suudi Arabistan 1 füzeyi önledi, 2 füze ise ıssız alana düştü",
-        "summary": "Suudi Arabistan, başkent Riyad'a yönelik bir saldırıda bir füzeyi başarıyla imha ettiğini duyurdu. Ülke genelinde yapılan açıklamaya göre, iki füze ise yerleşim olmayan bölgelere düştü. Suudi Arabistan hava savunma kuvvetleri, aynı gece içerisinde beş insansız hava aracını (İHA) da etkisiz hale getirdi. Bu olaylar, Suudi Arabistan'ın hava sahasına yönelik tehditlerin devam ettiğini ve bölgedeki güvenlik gerilimlerinin sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36491045/pexels-photo-36491045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T07:50:12.251Z",
-        "location": {
-            "lat": 24.71,
-            "lng": 46.68,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-1-missile-2-others-fall-in-uninhabited-area/3874422",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17741658333864e6ck",
-        "title": "Katar'da Helikopter Kazası: Arama Kurtarma Çalışmaları Başlatıldı",
-        "summary": "Katar Savunma Bakanlığı, rutin bir görev uçuşu sırasında bir helikopterin düştüğünü ve olay yerinde geniş çaplı arama kurtarma çalışmalarının başlatıldığını bildirdi. Yapılan ilk açıklamalarda, kazanın düşmanca bir eylem sonucu gerçekleştiğine dair herhangi bir belirti bulunmadığı vurgulandı. Bu olay, Orta Doğu'da bölgesel gerilimlerin yüksek olduğu bir dönemde yaşandı. Katar makamları, kazanın nedenini belirlemek üzere kapsamlı bir soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31302624/pexels-photo-31302624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T07:50:33.386Z",
-        "location": {
-            "lat": 25.3548,
-            "lng": 51.1839,
-            "name": "Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-says-helicopter-crashed-during-routine-duty-search-operation-underway/3874413",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
