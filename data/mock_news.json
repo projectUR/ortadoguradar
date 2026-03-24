@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774329484170jx8qq",
+        "title": "ABD ve İran Arasındaki Gerilimi Sona Erdirme Seçenekleri Daralıyor",
+        "summary": "ABD ve İran arasındaki mevcut gerilimin veya potansiyel çatışmanın sona erdirilmesine yönelik seçeneklerin, durum uzadıkça giderek daraldığı belirtiliyor. Habere göre, İran geri adım atmaya yönelik herhangi bir sinyal vermezken, ABD'nin ana hedeflerine yalnızca hava gücüyle ulaşmasının mümkün olmadığı ifade ediliyor. Bu durum, iki ülke arasındaki mevcut çıkmazın derinleştiğine ve çözüm yollarının kısıtlandığına işaret ediyor. Tarafların pozisyonlarını koruması, bölgedeki gerilimin devam etme riskini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-24T05:18:04.170Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774310169453x9n83",
         "title": "Macron, İsrail'in Artan Saldırıları Karşısında Lübnan'ın Mücadelesini 'Haklı' Buldu",
         "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Lübnan'ın güvenliğine yönelik tehditlere karşı verdiği mücadeleyi 'haklı' olarak nitelendirdi. Bu açıklama, İsrail'in Lübnan'a yönelik saldırılarının tırmandığı bir dönemde geldi. Macron'un ifadeleri, bölgedeki gerilimin arttığı ve uluslararası toplumun dikkatini çektiği bir süreçte önem taşıyor. Fransa, geleneksel olarak Lübnan ile yakın ilişkilere sahip bir ülke olarak biliniyor ve bu durum, Orta Doğu'daki güvenlik dinamikleri ve diplomatik çabalar açısından değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/22/drone-footage-shows-damage-in-arad-after-overnight-iranian-missile-attack?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774170362350t4c01",
-        "title": "Katar, karasularında düşen helikopterde 6 kişinin hayatını kaybettiğini duyurdu",
-        "summary": "Katar İçişleri Bakanlığı tarafından yapılan açıklamaya göre, ülkenin karasularında meydana gelen bir helikopter kazasında altı kişinin cansız bedenine ulaşıldı. Yetkililer, kayıp olan son kişiyi bulmak için arama çalışmalarının devam ettiğini bildirdi. Kaza, Katar'ın egemenlik alanındaki sularda gerçekleşti. Olayla ilgili detaylı soruşturmanın başlatıldığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36085641/pexels-photo-36085641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-22T09:06:02.350Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-says-6-found-dead-after-helicopter-crash-in-territorial-waters/3874575",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
