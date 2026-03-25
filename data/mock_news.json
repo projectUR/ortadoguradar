@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774472304620b80ze",
+        "title": "ABD'den İran'a 'Yenilgiyi Kabul Et Yoksa Trump Cehennemi Serbest Bırakır' Uyarısı",
+        "summary": "Beyaz Saray, İran'a askeri bir yenilgiyi kabul etmesi yönünde uyarıda bulundu. Yapılan açıklamada, İran'ın bu çağrıya uymaması halinde ABD'nin daha önce hiç olmadığı kadar sert bir şekilde karşılık vereceği belirtildi. Bu tehditkar dil, ABD'nin İran'a yönelik politikalarında sertleştiğini gösteriyor. Uyarı, iki ülke arasındaki gerilimin tırmandığı bir dönemde geldi ve bölgedeki tansiyonu artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2347457/pexels-photo-2347457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-25T20:58:24.620Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-tells-iran-to-accept-defeat-or-trump-will-unleash?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774463891773qutfk",
         "title": "Palestine Action Aktivistleri, İddia Edilen Kötü Muamele Nedeniyle İngiliz Hapishanelerine Dava Açmaya Hazırlanıyor",
         "summary": "Filistin yanlısı eylemleriyle tanınan \"Palestine Action\" adlı aktivist grup, Birleşik Krallık'taki hapishanelere karşı yasal işlem başlatmaya hazırlanıyor. Grup üyeleri, gözaltında tutuldukları süre boyunca maruz kaldıklarını iddia ettikleri kötü muamele nedeniyle dava açacaklarını duyurdu. Açlık grevi yapan aktivistler, İngiliz hapishanelerindeki koşulları ve kendilerine yönelik muameleyi yargıya taşıyor. Bu gelişme, Filistin davası etrafındaki aktivizmi ve tutukluların haklarına ilişkin endişeleri bir kez daha gündeme getiriyor.",
@@ -780,22 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774339518338xkl0e",
-        "title": "ABD-İran Müzakereleri İsrail'i Nasıl Etkiliyor?",
-        "summary": "ABD Başkanı Donald Trump'ın İran'a yönelik tehditkar söylemden müzakere olasılığına geçiş yapması, İsrail'de şaşkınlık ve kafa karışıklığına neden oldu. İsrailli analistler, Washington ile Tahran arasında olası görüşmelerin İsrail'in bölgesel güvenliği ve stratejik çıkarları üzerindeki potansiyel etkilerini değerlendiriyor. Bu ani politika değişikliğinin, İsrail'in ABD'nin İran'a yönelik tutumuna ilişkin beklentilerini yeniden şekillendirdiği belirtiliyor. Analistler, ABD'nin İran ile olası bir anlaşmasının İsrail'in ulusal güvenliği açısından taşıdığı riskleri ve fırsatları tartışıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/457563/pexels-photo-457563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-24T08:05:18.338Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/24/where-do-us-iran-negotiations-leave-israel?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
