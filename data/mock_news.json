@@ -1,5 +1,53 @@
 [
     {
+        "id": "1774479690560vgblg",
+        "title": "İsrail Saldırısı Gazze'deki Çadır Kampını Vurdu",
+        "summary": "Gazze Şeridi'ndeki Deir el-Balah kentinde yerinden edilmiş Filistinlilerin barındığı bir çadır kampına yönelik saldırı anlarını gösteren videolar yayınlandı. Görüntülerde, bir saldırının çadır kampını doğrudan vurduğu anlar yer alıyor. Bu olay, bölgedeki çatışmaların siviller üzerindeki etkisini bir kez daha gözler önüne serdi. Gazze'deki insani durumun hassasiyeti göz önüne alındığında, bu tür saldırılar endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9482199/pexels-photo-9482199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-25T23:01:30.560Z",
+        "location": {
+            "lat": 31.4167,
+            "lng": 34.3333,
+            "name": "Deir el-Balah, Gazze Şeridi"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-shows-israeli-strike-hitting-displacement-camp-in-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774479712193qcbz8",
+        "title": "Filistin haftalık özeti: Batı Şeria'da saldırılar artarken, İsrail Gazze'ye yardımı kısıtladı",
+        "summary": "Haftalık Filistin raporunda, Batı Şeria'da yerleşimci saldırılarının önemli ölçüde arttığı belirtildi. Aynı dönemde, İsrail'in Gazze Şeridi'ne yönelik insani yardım kısıtlamalarını sürdürdüğü kaydedildi. Raporda ayrıca, Filistinliler için kutlama haftası olması beklenen bu dönemin, toprak gaspı ve diğer kısıtlamalarla gölgelendiği vurgulandı. Bu gelişmelerin, bölgedeki gerilimi artırdığı ve Filistin halkının yaşam koşullarını olumsuz etkilediği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36038695/pexels-photo-36038695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-25T23:01:52.193Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/25/palestine-weekly-wrap-west-bank-attacks-surge-israel-restricts-gaza-aid?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1774479778299irlug",
+        "title": "ABD-İran Görüşmeleri İçin Küçük Bir Pencere Açık, Ancak Savaşın Hızlı Sonu Pek Olası Değil",
+        "summary": "ABD Başkanı Trump, İran'da \"üst düzey bir kişiyle\" zaten görüşmelerin sürdüğünü belirtirken, Tahran ise herhangi bir görüşmenin başladığını reddetti. Haber, ABD ile İran arasında potansiyel görüşmeler için küçük bir fırsat penceresinin bulunduğunu ancak bölgedeki çatışmanın hızlı bir şekilde sona ermesinin hala pek olası görünmediğini vurguluyor. Bu durum, iki ülke arasındaki gerilimin devam ettiğini ve diplomatik çabaların karmaşıklığını ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6878169/pexels-photo-6878169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-25T23:02:58.299Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774472304620b80ze",
         "title": "ABD'den İran'a 'Yenilgiyi Kabul Et Yoksa Trump Cehennemi Serbest Bırakır' Uyarısı",
         "summary": "Beyaz Saray, İran'a askeri bir yenilgiyi kabul etmesi yönünde uyarıda bulundu. Yapılan açıklamada, İran'ın bu çağrıya uymaması halinde ABD'nin daha önce hiç olmadığı kadar sert bir şekilde karşılık vereceği belirtildi. Bu tehditkar dil, ABD'nin İran'a yönelik politikalarında sertleştiğini gösteriyor. Uyarı, iki ülke arasındaki gerilimin tırmandığı bir dönemde geldi ve bölgedeki tansiyonu artırma potansiyeli taşıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-114-cultural-and-historic-sites-damaged-in-us-israeli-attacks/3877148",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774350956017teaej",
-        "title": "İran'ın Körfez'deki Saldırıları Azalırken, İsrail'e Yönelik Saldırılar Seyrekleşiyor Ancak Daha Etkili Hale Geliyor",
-        "summary": "Bölgedeki çatışmaların üçüncü haftasında, İran'ın Körfez bölgesindeki saldırılarında bir azalma gözlemlendiği belirtildi. Aynı dönemde, İsrail'e yönelik saldırıların sıklığının azaldığı ancak bu saldırıların daha etkili hale geldiği kaydedildi. Elde edilen veriler, çatışmanın seyrinde hedefleme modellerinde önemli bir değişim yaşandığını ortaya koyuyor. Bu durum, bölgesel güvenlik dinamiklerinde yeni bir evreye işaret ederken, çatışmanın niteliğinin değiştiği yorumlarına yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-24T11:15:56.017Z",
-        "location": {
-            "lat": 30,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-strikes-on-gulf-ease-as-attacks-on-israel-become-fewer-but-more-effective/3877053",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177435097713292gy1",
-        "title": "Erbil'de füze saldırısında 6 Peşmerge savaşçısı hayatını kaybetti, 30 kişi yaralandı",
-        "summary": "Irak'ın Erbil kentinde düzenlenen füze saldırısında 6 Peşmerge savaşçısı yaşamını yitirirken, 30 kişi de yaralandı. Peşmerge İşleri Bakanlığı tarafından yapılan açıklamada, Soran bölgesindeki askeri tesislere 6 balistik füzenin isabet ettiği belirtildi. Saldırının ardından bölgede güvenlik önlemleri artırılırken, olayın sorumlularına ilişkin henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin tırmanmasından endişe ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/935482/pexels-photo-935482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-24T11:16:17.132Z",
-        "location": {
-            "lat": 36.19,
-            "lng": 44,
-            "name": "Erbil, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/6-peshmerga-fighters-killed-30-injured-in-missile-strike-in-erbil/3877014",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1774339477802zqdv2",
-        "title": "AB Yetkilisinden İran ile Müzakere ve Çatışmaların Sona Erdirilmesi Çağrısı",
-        "summary": "Avrupa Komisyonu Başkanı Ursula Von der Leyen, İran ile müzakerelerin başlatılması ve bölgedeki çatışmaların sona erdirilmesi yönünde bir çağrıda bulundu. Bu açıklama, Avrupa Birliği'nin Orta Doğu'daki gerilimleri azaltma ve diplomatik çözümleri teşvik etme çabalarının bir parçası olarak değerlendiriliyor. Von der Leyen'in bu çağrısı, İran'ın nükleer programı ve bölgesel politikaları etrafındaki mevcut durumu ele almayı hedefliyor. AB'nin üst düzey yetkilisi, barışçıl çözümlerin önemini vurgulayarak, diyalog yoluyla istikrarın sağlanabileceğine işaret etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4667416/pexels-photo-4667416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-24T08:04:37.802Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/24/top-eu-official-calls-for-negotiations-with-iran-and-an-end-to-war?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
