@@ -1,5 +1,53 @@
 [
     {
+        "id": "1774554117945g8j02",
+        "title": "Trump'ın İran'a Savaş Toplantısından Önemli Çıkarımlar",
+        "summary": "ABD Başkanı Donald Trump, üst düzey yetkililerle bir kabine toplantısı gerçekleştirdi. Toplantının ana gündem maddesi, İran'a yönelik olası bir savaş stratejisiydi. Bu görüşmelerde, bölgedeki güvenlik durumu ve ABD'nin potansiyel adımları detaylı bir şekilde ele alındı. Toplantıdan çıkan sonuçların, Orta Doğu'daki gerilimi etkilemesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T19:41:57.945Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/key-takeaways-from-trumps-war-on-iran-meeting?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774554143137coa01",
+        "title": "Trump: İran Anlaşma İçin Yalvarıyor, Tahran Yeni Talepler Sunuyor",
+        "summary": "ABD Başkanı Donald Trump, İran'ın savaşı sona erdirecek bir anlaşma için 'yalvardığını' iddia etti. Trump ayrıca ABD ve İsrail'in İran donanması ile hava kuvvetlerini 'yok ettiğini' öne sürdü. Bu gelişmelerin yanı sıra, İranlı milletvekilleri ülkeden geçen gemilerden geçiş ücreti toplama planlarını gündeme getirdi. Tahran'ın yeni taleplerle masaya gelmesi, bölgedeki gerilimi ve diplomatik çabaları yeniden odak noktasına taşıdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T19:42:23.137Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17745541807266k8vv",
+        "title": "İran Füzeleri İsrail'de Geniş Çaplı Hasara Yol Açtı",
+        "summary": "Son saldırı dalgasında İran'dan fırlatılan füzeler İsrail genelinde önemli hasara neden oldu. Saldırılar, bölgedeki gerilimin tırmandığını gösteriyor. İsrail makamları, hasar tespit çalışmalarına başlarken, can kaybı olup olmadığına dair henüz net bir açıklama yapılmadı. Bu olay, iki ülke arasındaki mevcut düşmanlığın yeni bir boyut kazandığını ortaya koyuyor ve uluslararası toplumda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/586117/pexels-photo-586117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T19:43:00.726Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-missiles-cause-widespread-damage-across-israel-in-latest-wave?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1774540701130nh4w5",
         "title": "Pakistan, ABD-İran Görüşmelerine Arabuluculuk Yaptığını Duyurdu",
         "summary": "Pakistan, Amerika Birleşik Devletleri ile İran arasında dolaylı görüşmelere arabuluculuk yaptığını açıkladı. Yapılan açıklamada, bu görüşmelerin temel amacının devam eden savaşı sona erdirmek olduğu belirtildi. Pakistan'ın bu diplomatik girişimi, iki ülke arasındaki gerilimi azaltma ve bölgesel istikrara katkıda bulunma çabalarının bir parçası olarak değerlendiriliyor. Görüşmelerin içeriği ve ilerleyişine dair detay verilmezken, taraflar arasında diplomatik bir çözüm arayışı olduğu ifade edildi. Bu arabuluculuk, Orta Doğu'daki mevcut çatışmaların çözümüne yönelik uluslararası çabalara yeni bir boyut katıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17744259342168mpzk",
-        "title": "İsrailli Yerleşimciler İşgal Altındaki Batı Şeria'da Filistin Köylerini Hedef Aldı",
-        "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimciler, Filistin köylerine yönelik saldırılar düzenleyerek insanlara ve mülklere zarar verdi. Şiddet olayları, 18 yaşındaki yerleşimci Yehuda Sherman'ın bir Filistinli tarafından kullanılan bir araçla çarpışması sonucu hayatını kaybetmesinin ardından başladı. Saldırılar, bölgedeki gerilimi tırmandıran son gelişmelerden biri olarak kaydedildi. Olaylar, Batı Şeria'daki yerleşimci şiddeti ve Filistinlilere yönelik saldırıların devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T08:05:34.216Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2074,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774425956213pg9xt",
-        "title": "İsrail, Lübnan'daki Hizbullah'a Yönelik Kara ve Hava Saldırılarını Genişletme Kararı Aldı",
-        "summary": "İsrail'in Lübnan'daki Hizbullah hedeflerine yönelik kara ve hava saldırılarını genişletme kararı aldığı bildirildi. Bu gelişme, bölgedeki gerilimi tırmandırma potansiyeli taşıyor. Lübnan'da ise İsrail'in büyük çaplı bir kara işgaline hazırlandığına dair derin endişeler hakim. Bu durum, iki ülke arasındaki mevcut çatışmanın yeni bir boyuta taşınabileceği yönündeki kaygıları artırıyor. Uluslararası toplum, bölgedeki tansiyonun düşürülmesi çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T08:05:56.213Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17744259807068ytul",
-        "title": "İsrail'in Gazze'ye Düzenlediği İHA Saldırısında 2 Filistinli Hayatını Kaybetti",
-        "summary": "Sağlık kaynakları, Gazze Şeridi'nin orta kesiminde yer alan Nuseyrat Mülteci Kampı'na İsrail'e ait bir insansız hava aracıyla saldırı düzenlendiğini bildirdi. Açıklamalara göre, saldırı ateşkesin devam etmesine rağmen şafak sökmeden önce gerçekleşti. Olayda iki Filistinlinin hayatını kaybettiği belirtildi. Tıbbi kaynaklar, saldırının detaylarına ilişkin bilgi vererek, can kayıplarının insansız hava aracı saldırısı sonucu meydana geldiğini doğruladı. Bu gelişme, bölgedeki hassas durumu ve ateşkesin kırılganlığını bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2156083/pexels-photo-2156083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T08:06:20.706Z",
-        "location": {
-            "lat": 31.45,
-            "lng": 34.4,
-            "name": "Nuseyrat Mülteci Kampı, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-kills-2-palestinians-in-central-gaza-despite-ceasefire-medics-say/3878135",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
