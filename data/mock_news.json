@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774561555882qv2lp",
+        "title": "El Cezire, İran'ın UNESCO listesindeki savaşta hasar gördüğü iddia edilen sarayını ziyaret etti",
+        "summary": "El Cezire televizyonu, İran'ın başkenti Tahran'da bulunan ve UNESCO Dünya Mirası listesinde yer alan tarihi Gülistan Sarayı'nı ziyaret etti. İranlı yetkililer, sarayın ABD ve İsrail tarafından gerçekleştirildiği iddia edilen saldırılarda hasar gördüğünü belirtiyor. Bu ziyaret, bölgedeki siyasi gerilimlerin kültürel miras üzerindeki potansiyel etkilerine dikkat çekiyor. Sarayın durumu ve hasar iddiaları, uluslararası kamuoyunun ve kültürel miras kuruluşlarının gündemine taşınıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36476032/pexels-photo-36476032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T21:45:55.882Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/al-jazeera-visits-irans-unesco-listed-palace-damaged-by-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1774561623678vtz53",
+        "title": "İsrail, kara işgalini genişleterek güney Lübnan'a daha fazla asker gönderdi",
+        "summary": "İsrail'in güney Lübnan'a daha fazla asker göndererek kara işgalini genişlettiği bildirildi. Lübnan Başbakanı, İsrail'in eylemlerinin ve açıklamalarının Lübnan'ın egemenliğini tehdit ettiğini ve uluslararası hukuku ihlal ettiğini belirtti. Başbakan, bölgedeki gerilimin tırmanmasından duyduğu endişeyi dile getirerek, uluslararası toplumu duruma müdahale etmeye çağırdı. Bu gelişmeler, iki ülke arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803784/pexels-photo-15803784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T21:47:03.678Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.4,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/26/israel-sends-more-troops-into-southern-lebanon-as-ground-invasion-expands?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774561649316w77iv",
+        "title": "Zelenskiy, İHA Uzmanlığı Teklifinin Ardından Suudi Arabistan'ı Ziyaret Etti",
+        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinin insansız hava aracı (İHA) uzmanlığını teklif etmesinin ardından Suudi Arabistan'ı ziyaret etti. Bu ziyaretin, Ukrayna'nın İHA anlaşmalarını hızlandırma çabaları açısından yeni bir aciliyet taşıdığı belirtiliyor. Zira ABD'nin dikkatini giderek daha fazla İran'a çevirmesi, bölgesel güvenlik dinamiklerinde Ukrayna için yeni fırsatlar ve zorluklar yaratıyor. Zelenskiy'nin Suudi Arabistan ziyareti, Ukrayna'nın savunma kapasitesini artırma ve uluslararası destek arayışının önemli bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6726590/pexels-photo-6726590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T21:47:29.316Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774561701886emtva",
+        "title": "Lübnan'dan kuzey İsrail'e 30'dan fazla roket atıldı",
+        "summary": "Lübnan'dan kuzey İsrail'e yönelik yoğun bir roket saldırısı düzenlendiği bildirildi. İsrail'in Kanal 12 televizyonunun aktardığına göre, saldırıda 30'dan fazla roketin ateşlendiği belirtildi. Saldırı nedeniyle Hayfa ve Nahariya başta olmak üzere kuzey İsrail'deki birçok bölgede sirenler çaldı. Bölgede gerilimin arttığı gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7105850/pexels-photo-7105850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-26T21:48:21.886Z",
+        "location": {
+            "lat": 32.8,
+            "lng": 35,
+            "name": "Hayfa, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/more-than-30-rockets-fired-from-lebanon-at-northern-israel/3880978",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1774554117945g8j02",
         "title": "Trump'ın İran'a Savaş Toplantısından Önemli Çıkarımlar",
         "summary": "ABD Başkanı Donald Trump, üst düzey yetkililerle bir kabine toplantısı gerçekleştirdi. Toplantının ana gündem maddesi, İran'a yönelik olası bir savaş stratejisiydi. Bu görüşmelerde, bölgedeki güvenlik durumu ve ABD'nin potansiyel adımları detaylı bir şekilde ele alındı. Toplantıdan çıkan sonuçların, Orta Doğu'daki gerilimi etkilemesi bekleniyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/fire-breaks-out-in-israel-s-hadera-after-missile-barrage-from-iran/3878533",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17744258185016uhw6",
-        "title": "İran'ın Yeni Güvenlik Şefi Mohammad Zolghadr Göreve Başladı",
-        "summary": "İran'ın yeni güvenlik şefi olarak eski Devrim Muhafızları Komutanı Mohammad Zolghadr atandı. Zolghadr, ülkenin güvenlik politikalarını yönetecek önemli bir pozisyona getirildi. Bu atama, İran'ın hem ABD ve İsrail'den gelen dış baskılarla hem de ülke içindeki huzursuzluklarla mücadele ettiği kritik bir döneme denk geliyor. Zolghadr'ın görevi, bu zorlu koşullar altında ulusal güvenliği sağlamak olacak.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/207574/pexels-photo-207574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T08:03:38.501Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/25/irans-new-security-boss-mohammad-zolghadr-why-his-appointment-matters?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774425841383luapp",
-        "title": "ABD-İsrail'in İran Geriliminde 26. Gün: Bölgede Yeni Saldırılar ve Diplomatik Sinyaller",
-        "summary": "ABD ve İsrail'in İran'a yönelik geriliminin 26. gününde Orta Doğu'da önemli gelişmeler yaşanıyor. İran, İsrail ve Körfez ülkeleri, yeni füze ve insansız hava aracı saldırılarıyla karşı karşıya kaldı. Bu saldırılar, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. ABD, bir yandan askeri gerilimi tırmandırma sinyali verirken, diğer yandan diplomatik bir anlaşmaya açık olduğunu belirterek çifte mesaj verdi. Bu durum, bölgedeki tansiyonun hem askeri hem de diplomatik boyutlarda devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640807/pexels-photo-7640807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T08:04:01.383Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/25/us-israel-war-on-iran-whats-happening-on-day-26-of-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17744258684437bzmm",
-        "title": "İran'da Halk, ABD-İsrail Saldırıları Gölgesinde Kötüleşen Ekonomiyle Mücadele Ediyor",
-        "summary": "İran'da halk, ABD ve İsrail'in gerçekleştirdiği saldırıların gölgesinde, kötüleşen ekonomik koşullarla başa çıkmakta zorlanıyor. Ülke genelinde birçok vatandaş gelir kaynaklarından mahrum kalırken, bazıları geçici olarak yerlerinden edilmiş durumda. Yaşanan bu zorluklara ek olarak, internet erişiminin ne zaman normale döneceği konusunda da belirsizlik hakim. Bu durum, İran'daki sosyal ve ekonomik yaşam üzerinde ciddi baskı oluşturarak, halkın günlük hayatta karşılaştığı güçlükleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1629172/pexels-photo-1629172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T08:04:28.443Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/features/2026/3/25/amid-us-israeli-attacks-people-in-iran-struggle-to-survive-ailing-economy?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774425894459zzekk",
-        "title": "İran Savaşı Küresel Ekonomiyi Sarsıyor: Gelişmekte Olan Ülkeler Enerji Maliyetlerinin Yükünü Taşıyor",
-        "summary": "Küresel ekonomiyi derinden etkileyen İran savaşı, özellikle Küresel Güney ülkeleri üzerinde ağır bir yük oluşturuyor. Gelişmekte olan ekonomiler, bu durumdan kaynaklanan yükselen enerji maliyetleri karşısında en savunmasız konumda bulunuyor. Asya, Afrika ve Orta Doğu bölgelerindeki ülkeler, enerji fiyatlarındaki artışın ekonomik istikrarları ve kalkınma hedefleri üzerindeki baskısını en yoğun şekilde hissediyor. Bu gelişmeler, söz konusu bölgelerde yaşam maliyetlerini artırarak geniş çaplı ekonomik zorluklara yol açma potansiyeli taşıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-25T08:04:54.459Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
