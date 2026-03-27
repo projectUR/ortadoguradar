@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774655229026oj13e",
+        "title": "Güney Tahran'a Füze Saldırısı Sonrası Kurtarma Ekipleri Hayat Kurtarmak İçin Yarışıyor",
+        "summary": "İran'ın başkenti Tahran'ın güneyine düzenlenen füze saldırısının ardından kurtarma ekipleri olay yerine sevk edildi. Saldırının hedefi olan bir binada enkaz altında kalanlar için arama kurtarma çalışmaları başlatıldı. Ekipler, enkazdan sağ kalanları ve hayatını kaybedenlerin cansız bedenlerini çıkarmak için yoğun çaba sarf ediyor. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının detayları ve sorumluluğunu üstlenen henüz bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2833362/pexels-photo-2833362.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T23:47:09.026Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17746552503697ks36",
+        "title": "Husiler, ABD-İsrail'in İran'a Yönelik Gerilimi Sürerken 'Tetik Parmakları' Uyarısında Bulundu",
+        "summary": "İran destekli Yemenli Husiler, ABD ve İsrail'in İran'a yönelik geriliminin devam ettiği bir dönemde önemli bir uyarıda bulundu. Grup, 'tetik parmakları' ifadesini kullanarak bölgedeki tansiyonu artırdı ve Arap Yarımadası çevresindeki kritik denizcilik rotalarını hedef alma kapasitesine sahip olduğunu belirtti. Bu açıklama, Kızıldeniz ve Bab el-Mandeb Boğazı gibi stratejik geçiş noktalarındaki güvenlik endişelerini yeniden gündeme getirdi. Bölgedeki deniz trafiği ve küresel ticaret üzerindeki potansiyel etkileri nedeniyle uluslararası dikkatler Yemen'e çevrildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7152841/pexels-photo-7152841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T23:47:30.369Z",
+        "location": {
+            "lat": 15,
+            "lng": 44,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774655270872kkw91",
+        "title": "Husiler, Askeri Müdahale İçin 'Tetik Parmakları' Uyarısı Yaptı",
+        "summary": "Yemen'deki Husi hareketi, ABD ve İsrail'in İran'a yönelik olası bir savaşına doğrudan askeri müdahalede bulunmaya hazır oldukları konusunda uyarıda bulundu. Husiler, bu tür bir çatışmanın başlaması halinde tetikte olduklarını ve harekete geçebileceklerini belirtti. Bu açıklama, Orta Doğu'da mevcut güvenlik endişelerini artırırken, bölgesel aktörler arasındaki potansiyel çatışma risklerini de gözler önüne seriyor. Husilerin bu tutumu, bölgedeki güç dengeleri ve gelecekteki olası gelişmeler açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13449380/pexels-photo-13449380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T23:47:50.872Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774655398652crkhn",
+        "title": "Suudi Arabistan, Riyad'ı hedef alan balistik füzeyi engelledi",
+        "summary": "Suudi Arabistan Savunma Bakanlığı, başkent Riyad'ı hedef alan bir balistik füzenin başarıyla engellendiğini duyurdu. Bakanlık tarafından yapılan açıklamada, söz konusu mühimmatın hedefine ulaşamadan önce imha edildiği belirtildi. Bu olay, krallığın başkentini hedef alan saldırı girişimlerinin devam ettiğini gösteriyor. Bölgedeki güvenlik gerilimleri bu tür olaylarla birlikte artmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/586066/pexels-photo-586066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-27T23:49:58.652Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-ballistic-missile-targeting-riyadh/3882503",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774648714726ugyul",
         "title": "ABD ve İsrail'in İran'a Yönelik Saldırıları Yoğunlaşırken, Tahran'da Çocukların Silahlı Devriyelere Katılımı Gündemde",
         "summary": "ABD ve İsrail'in İran genelindeki saldırılarını bir aydır yoğunlaştırdığı bildirilirken, İran'da iç güvenlik önlemleri artırılıyor. Tahran'da üst düzey bir Devrim Muhafızları yetkilisi, devlet televizyonuna yaptığı açıklamada, 12 yaşından büyük çocukların silahlı devriyelere ve kontrol noktalarına katılabileceğini duyurdu. Bu gelişme, ülkedeki gerilimin tırmandığı ve iç güvenlik dinamiklerinin değiştiği bir döneme denk geliyor. Açıklama, uluslararası kamuoyunda çocukların silahlı görevlerde kullanılmasına ilişkin endişeleri beraberinde getirdi.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-missiles-cause-widespread-damage-across-israel-in-latest-wave?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1774540701130nh4w5",
-        "title": "Pakistan, ABD-İran Görüşmelerine Arabuluculuk Yaptığını Duyurdu",
-        "summary": "Pakistan, Amerika Birleşik Devletleri ile İran arasında dolaylı görüşmelere arabuluculuk yaptığını açıkladı. Yapılan açıklamada, bu görüşmelerin temel amacının devam eden savaşı sona erdirmek olduğu belirtildi. Pakistan'ın bu diplomatik girişimi, iki ülke arasındaki gerilimi azaltma ve bölgesel istikrara katkıda bulunma çabalarının bir parçası olarak değerlendiriliyor. Görüşmelerin içeriği ve ilerleyişine dair detay verilmezken, taraflar arasında diplomatik bir çözüm arayışı olduğu ifade edildi. Bu arabuluculuk, Orta Doğu'daki mevcut çatışmaların çözümüne yönelik uluslararası çabalara yeni bir boyut katıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T15:58:21.130Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pakistan-says-it-is-mediating-us-iran-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774540756434eowgl",
-        "title": "İsrail, İran donanma komutanının saldırıda öldürüldüğünü duyurdu",
-        "summary": "İsrail, İran Devrim Muhafızları Ordusu (IRGC) donanma komutanı Alireza Tangsiri'yi öldürdüğünü iddia etti. Yapılan açıklamaya göre, saldırı Hürmüz Boğazı yakınlarındaki Bender Abbas kenti civarında gerçekleşti. İsrail, Tangsiri'nin bir hava saldırısında hedef alındığını belirtti. Bu olay, Orta Doğu'da İsrail ile İran arasındaki gerilimi daha da tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36315186/pexels-photo-36315186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T15:59:16.434Z",
-        "location": {
-            "lat": 27.19,
-            "lng": 56.28,
-            "name": "Bender Abbas, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-naval-chief-killed-in-attack-israel-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774525047845jipeq",
-        "title": "Almanya'dan küresel ekonomik 'felaket' uyarısı: İran'a yönelik savaş endişeleri artırıyor",
-        "summary": "Almanya, dünya ekonomisi için 'felaket' uyarısında bulunarak küresel çapta derin endişeleri dile getirdi. Ekonomik İşbirliği ve Kalkınma Örgütü (OECD) ise Birleşik Krallık'ın büyüme tahminlerini aşağı yönlü revize etti. Avrupa'daki güçler ve çeşitli kurumlar, İran'a yönelik savaşın bir aylık süreyi doldurmaya yaklaşmasıyla birlikte ekonomik çöküş riskine karşı uyarılarını artırıyor. Bu durum, bölgedeki çatışmanın küresel ekonomiye olası yıkıcı etkileri konusunda uluslararası kuruluşların gündemindeki ana maddelerden biri haline geldi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T11:37:27.845Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/26/germany-warns-of-world-economic-catastrophe-oecd-cuts-uk-growth-forecast?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17745250780285swsb",
-        "title": "Afrika Uluslar Kupası'nda Tartışmalı Karar: Fas Şampiyon İlan Edildi",
-        "summary": "2025 Afrika Uluslar Kupası'nda (AFCON) şampiyonlukla ilgili tartışmalı bir gelişme yaşandı. Turnuvayı başlangıçta Senegal kazanmış olmasına rağmen, Afrika Futbol Konfederasyonu (CAF) beklenmedik bir kararla sonucu iptal etti. CAF, şampiyonluk unvanını Fas'a verdiğini duyurdu. Bu karar, Afrika futbol camiasında büyük yankı uyandırırken, kararın adil olup olmadığı ve gelecekteki turnuvalar üzerindeki potansiyel etkileri hakkında geniş çaplı tartışmaları beraberinde getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3747586/pexels-photo-3747586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T11:37:58.028Z",
-        "location": {
-            "lat": 34.020882,
-            "lng": -6.84165,
-            "name": "Rabat, Fas"
-        },
-        "source": "https://www.aljazeera.com/video/game-theory/2026/3/26/aje-onl-afconcaf_v5-260326?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
