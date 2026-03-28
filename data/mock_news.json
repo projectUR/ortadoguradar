@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774699340269eaed5",
+        "title": "ABD ve İsrail'in Eylemleri İslam Cumhuriyeti'ni Nasıl Güçlendiriyor?",
+        "summary": "Haber başlığına göre, Amerika Birleşik Devletleri ve İsrail'in politikaları ve eylemleri, İslam Cumhuriyeti'ni güçlendirme etkisi yaratmaktadır. Haberin içeriği, devam eden savaşın şehitlik ve fedakarlık gibi teolojik anlatıları beslediğini belirtmektedir. Bu anlatıların, İslam Cumhuriyeti'nin mevcut yönetimini sürdürmesine yardımcı olduğu ifade edilmektedir. Bu durum, bölgesel çatışmaların İran'ın ideolojik temellerini ve iç konsolidasyonunu nasıl etkilediğini ortaya koymaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7514249/pexels-photo-7514249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T12:02:20.269Z",
+        "location": {
+            "lat": 35,
+            "lng": 51,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/28/how-the-us-and-israel-are-making-the-islamic-republic?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774695816426v5607",
         "title": "İran'a Yönelik Savaş, MAGA Hareketi İçinde Tepkiyle Karşılaşıyor",
         "summary": "ABD'deki MAGA (Make America Great Again) hareketi içinde, İran'a yönelik olası bir askeri müdahale konusunda derin bir ayrılık yaşandığı belirtiliyor. Bu iç bölünmenin, eski Başkan Donald Trump'ın İran'a karşı yürüttüğü veya planladığı politikaları tehdit ettiği ifade ediliyor. Haber, MAGA tabanının bu konuda tek bir görüşe sahip olmadığını ve potansiyel bir çatışmaya karşı çıkan önemli bir kesimin bulunduğunu ima ediyor. Bu durum, ABD'nin Orta Doğu politikaları ve özellikle İran ile ilişkileri üzerinde önemli etkiler yaratabilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1774599116104dw89t",
-        "title": "İsrail, Hürmüz Boğazı Ablukasını Denetleyen İran Donanma Komutanını Öldürdüğünü İddia Etti",
-        "summary": "İsrail Savunma Bakanı, Hürmüz Boğazı ablukasını denetleyen İran donanma komutanının öldürüldüğünü açıkladı. Bakanlık tarafından yapılan bilgilendirmede, operasyon sırasında çok sayıda üst düzey İran Donanma komutanlığı yetkilisinin de hayatını kaybettiği belirtildi. Bu iddia, Orta Doğu'da zaten yüksek olan gerilimi daha da artırma potansiyeli taşıyor. İran tarafından ise söz konusu iddialara ilişkin henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7468208/pexels-photo-7468208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:11:56.104Z",
-        "location": {
-            "lat": 26,
-            "lng": 56,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/cy81p99x07no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
