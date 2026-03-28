@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774674917825t45er",
+        "title": "ABD-İsrail'in İran'a Karşı Savaşı İlk Dört Haftasında Nasıl Gelişti?",
+        "summary": "Al Jazeera, ABD ve İsrail'in İran'a karşı yürüttüğü bir savaşın ilk dört haftasında yaşanan gelişmeleri mercek altına alıyor. Haberde, söz konusu çatışmanın ilk ayında meydana gelen başlıca askeri, siyasi ve ekonomik olaylar detaylı bir şekilde inceleniyor. Bu analiz, bölgedeki potansiyel gerilimlerin ve güç dinamiklerinin nasıl şekillenebileceğine dair kapsamlı bir bakış sunuyor. Al Jazeera'nın bu çalışması, Orta Doğu'daki stratejik dengeleri ve olası senaryoları anlamak için önemli bir kaynak teşkil ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/930711/pexels-photo-930711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T05:15:17.825Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774655229026oj13e",
         "title": "Güney Tahran'a Füze Saldırısı Sonrası Kurtarma Ekipleri Hayat Kurtarmak İçin Yarışıyor",
         "summary": "İran'ın başkenti Tahran'ın güneyine düzenlenen füze saldırısının ardından kurtarma ekipleri olay yerine sevk edildi. Saldırının hedefi olan bir binada enkaz altında kalanlar için arama kurtarma çalışmaları başlatıldı. Ekipler, enkazdan sağ kalanları ve hayatını kaybedenlerin cansız bedenlerini çıkarmak için yoğun çaba sarf ediyor. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının detayları ve sorumluluğunu üstlenen henüz bir açıklama yapılmadı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/3/26/as-trump-claims-us-winning-tehran-asserts-legal-right-over-hormuz-strait?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17745541807266k8vv",
-        "title": "İran Füzeleri İsrail'de Geniş Çaplı Hasara Yol Açtı",
-        "summary": "Son saldırı dalgasında İran'dan fırlatılan füzeler İsrail genelinde önemli hasara neden oldu. Saldırılar, bölgedeki gerilimin tırmandığını gösteriyor. İsrail makamları, hasar tespit çalışmalarına başlarken, can kaybı olup olmadığına dair henüz net bir açıklama yapılmadı. Bu olay, iki ülke arasındaki mevcut düşmanlığın yeni bir boyut kazandığını ortaya koyuyor ve uluslararası toplumda endişelere yol açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/586117/pexels-photo-586117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-26T19:43:00.726Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/26/iranian-missiles-cause-widespread-damage-across-israel-in-latest-wave?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
