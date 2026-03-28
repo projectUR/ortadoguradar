@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774706825733d1x77",
+        "title": "İran'ın Suudi Hava Üssüne Saldırısında En Az 15 ABD Askeri Yaralandı: Raporlar",
+        "summary": "İran'ın Suudi Arabistan'daki bir hava üssüne düzenlediği saldırıda en az 15 ABD askerinin yaralandığı bildirildi. Gelen raporlara göre, saldırı sonucunda bir yakıt ikmal uçağı da hasar gördü. Yaralanan askerlerden en az beşinin durumunun ciddi olduğu belirtiliyor. Bu olay, Orta Doğu'daki güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9546611/pexels-photo-9546611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-28T14:07:05.733Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/28/at-least-15-us-troops-wounded-in-iran-strike-on-saudi-airbase-reports?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1774699340269eaed5",
         "title": "ABD ve İsrail'in Eylemleri İslam Cumhuriyeti'ni Nasıl Güçlendiriyor?",
         "summary": "Haber başlığına göre, Amerika Birleşik Devletleri ve İsrail'in politikaları ve eylemleri, İslam Cumhuriyeti'ni güçlendirme etkisi yaratmaktadır. Haberin içeriği, devam eden savaşın şehitlik ve fedakarlık gibi teolojik anlatıları beslediğini belirtmektedir. Bu anlatıların, İslam Cumhuriyeti'nin mevcut yönetimini sürdürmesine yardımcı olduğu ifade edilmektedir. Bu durum, bölgesel çatışmaların İran'ın ideolojik temellerini ve iç konsolidasyonunu nasıl etkilediğini ortaya koymaktadır.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1774599093554s7k4g",
-        "title": "Hürmüz Boğazı Kapanmasıyla Engellenecek Kritik İhracatlar: Petrolün Ötesinde",
-        "summary": "ABD-İsrail'in İran ile olası bir çatışması durumunda Hürmüz Boğazı'nın kapanabileceği belirtiliyor. Bu durum, sadece petrol değil, gıda, akıllı telefon ve ilaç gibi geniş bir yelpazedeki ürünlerin fiyatlarını küresel çapta etkileyebilir. Hürmüz Boğazı, dünya ticaretinin kritik geçiş noktalarından biri olup, kapanması halinde tedarik zincirlerinde ciddi aksaklıklar yaşanması bekleniyor. Bölgedeki jeopolitik gerilimlerin artması, küresel ekonomiye yönelik önemli riskler taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5366375/pexels-photo-5366375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-27T08:11:33.554Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
