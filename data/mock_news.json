@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774803941119htk1n",
+        "title": "İran, Güney İsrail'deki Sanayi Bölgesini Vurdu",
+        "summary": "İran'dan fırlatılan füzeler, İsrail'in güneyindeki Beerşeba yakınlarında bulunan bir kimyasal tesiste yangına yol açtı. Saldırının, bölgedeki bir sanayi bölgesini hedef aldığı bildirildi. Olay sonucunda tesiste maddi hasar meydana geldiği ve yangına itfaiye ekiplerinin müdahale ettiği belirtildi. Bu gelişme, Orta Doğu'da İran ile İsrail arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35930140/pexels-photo-35930140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T17:05:41.119Z",
+        "location": {
+            "lat": 31.26,
+            "lng": 34.8,
+            "name": "Beerşeba, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774803962859yyab5",
+        "title": "Husiler Bab el-Mendeb Boğazı'nı Engelleyebilir: Küresel Ekonomi İçin Felaket Uyarısı",
+        "summary": "Yemen'deki Husiler, İran ile bağlantılı bir çatışmada yeni bir cephe açma potansiyeliyle Bab el-Mendeb Boğazı'nı abluka altına alma tehdidinde bulunuyor. Kızıldeniz'i Aden Körfezi'ne bağlayan bu boğaz, dünyanın en işlek deniz ticaret yollarından biri olarak kabul ediliyor. Habere göre, boğazın olası bir ablukası küresel ekonomi için yıkıcı sonuçlar doğurabilir. Bu durum, uluslararası denizcilik güvenliği ve ticaret akışı üzerinde ciddi endişelere yol açmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11639546/pexels-photo-11639546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T17:06:02.859Z",
+        "location": {
+            "lat": 12.5,
+            "lng": 43.3,
+            "name": "Bab el-Mendeb Boğazı, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774804000931fiufx",
+        "title": "Netanyahu, İsrail'in Güney Lübnan'daki işgalini genişletme talimatı verdi",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, İsrail'in Güney Lübnan'daki \"işgalini\" genişletme talimatı verdiği bildirildi. Netanyahu, Lübnan'a yönelik süregelen İsrail saldırıları bağlamında, İsrail'in \"kuzeydeki durumu kökten değiştirmeye kararlı\" olduğunu ifade etti. Bu açıklama, bölgedeki gerilimin artmaya devam ettiği bir dönemde geldi ve İsrail'in kuzey sınırındaki güvenlik durumuna ilişkin stratejik bir hamle olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T17:06:40.931Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-orders-expansion-of-israeli-occupation-in-southern-lebanon/3884192",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774804074387xa981",
+        "title": "İran Gerilimi Tırmanırken Bab el-Mendeb Boğazı'nda Kesinti Riski",
+        "summary": "İran ile ilgili gerilimin tırmanması, küresel deniz ticaretinin önemli geçiş noktalarından biri olan Bab el-Mendeb Boğazı'nda kesinti riskini artırıyor. Bu durum, özellikle petrol piyasalarında halihazırda var olan baskıyı daha da yükseltebilir. Haberde, Hürmüz Boğazı'nın kapanması ihtimalinin de petrol piyasaları üzerindeki gerilimi artırabileceği belirtiliyor. Bab el-Mendeb ve Hürmüz boğazları, Orta Doğu petrolünün dünya pazarlarına ulaşmasında kritik öneme sahip stratejik geçiş noktalarıdır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/16852979/pexels-photo-16852979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T17:07:54.387Z",
+        "location": {
+            "lat": 12.5,
+            "lng": 43.3,
+            "name": "Bab el-Mendeb Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bab-al-mandeb-strait-faces-disruption-risk-as-iran-war-escalates/3884128",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774799603626pkmes",
         "title": "İsrail Polisi, Paskalya Öncesi Kutsal Kabir Kilisesi'ne Katolik Kardinalin Girişini Engelledi",
         "summary": "İsrail polisi, Paskalya öncesi Kudüs'teki Kutsal Kabir Kilisesi'ne girmek isteyen bir Katolik kardinalin geçişini engelledi. Bu olay, İsrail'in güvenlik endişelerini gerekçe göstererek Kudüs'teki kutsal alanları kapatma kararı almasının ardından yaşandı. Habere göre, bu kapatma kararı ABD ve İsrail'in İran'a karşı bir savaş başlatmasıyla ilişkilendiriliyor. İsrail, bölgedeki gerilimin artmasıyla birlikte kutsal mekanlarda güvenlik önlemlerini sıkılaştırdığını belirtiyor.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17746918017902bdxo",
-        "title": "Bahreyn, 28 Şubat'tan Bu Yana 174 Füze ve 385 İran İHA'sının İmha Edildiğini Açıkladı",
-        "summary": "Bahreyn askeri yetkilileri, 28 Şubat tarihinden bu yana hava savunma sistemleri tarafından 174 füze ve 385 İran menşeli insansız hava aracının (İHA) imha edildiğini duyurdu. Yapılan açıklamada, ülkenin hava savunma birimlerinin hava tehditlerine karşı koymaya devam ettiği belirtildi. Bu durum, Bahreyn'in hava sahasını koruma çabalarını ve bölgesel güvenlik endişelerini gözler önüne seriyor. İran'a atfedilen bu hava araçları ve füzeler, Körfez bölgesindeki gerilimlerin devam ettiğini gösteriyor. Bahreyn, ülkenin güvenliğini sağlamak amacıyla teyakkuzda olduğunu vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/122136/pexels-photo-122136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T09:56:41.790Z",
-        "location": {
-            "lat": 26.23,
-            "lng": 50.59,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-174-missiles-385-iranian-drones-destroyed-since-feb-28/3882859",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774691823047pg8au",
-        "title": "ABD-İsrail Saldırısı Batı İran'da 5 Can Aldı, 35 Kişiyi Yaraladı",
-        "summary": "Tasnim haber ajansının bildirdiğine göre, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen bir saldırı, İran'ın batısındaki Lorestan eyaletine bağlı Borujerd şehrindeki yerleşim bölgelerini hedef aldı. Saldırıda ilk belirlemelere göre 5 kişi hayatını kaybederken, 35 kişi de yaralandı. Olayın ardından bölgede güvenlik önlemleri artırıldı. Saldırının detayları ve sorumluları hakkında soruşturma başlatıldığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T09:57:03.047Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 48.75,
-            "name": "Borujerd, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-strike-on-residential-areas-in-western-iran-kills-5-injures-35-report/3882854",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17746918434824p4d4",
-        "title": "Filistin Komisyonu: İsrailli Güçler Batı Şeria'da Son Bir Ayda 400'den Fazla Saldırı Düzenledi",
-        "summary": "Filistin Duvar ve Yerleşim Birimleri Direniş Komisyonu'nun raporuna göre, İsrailli güçler Batı Şeria'da son bir ay içinde 400'den fazla saldırı gerçekleştirdi. Bu saldırılar sonucunda dokuz Filistinli hayatını kaybederken, altı Bedevi topluluğu da yerinden edildi. Komisyon, bölgedeki gerilimin arttığını ve Filistinlilere yönelik ihlallerin devam ettiğini belirtti. Olaylar, uluslararası toplumun dikkatini çekmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T09:57:23.482Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-carried-out-over-400-attacks-in-west-bank-over-past-month-palestinian-commission/3882845",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17746918643559z78s",
-        "title": "ABD, Orta Doğu'ya Üçüncü Uçak Gemisi Görevlendiriyor",
-        "summary": "Amerika Birleşik Devletleri'nin (ABD), Orta Doğu'ya üçüncü bir uçak gemisi görevlendirdiği bildirildi. ABC News'in ABD'li yetkililere dayandırdığı haberine göre, USS George H.W. Bush taarruz grubunun Norfolk'tan ayrılarak bölgede bulunan Gerald R. Ford ve Abraham Lincoln uçak gemilerine katılabileceği belirtildi. Bu konuşlandırmanın, devam eden İran gerilimi bağlamında gerçekleştiği ifade edildi. Gelişmenin, bölgedeki askeri varlığı ve gerilimi artırabileceği değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29243395/pexels-photo-29243395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T09:57:44.355Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-deploys-3rd-aircraft-carrier-to-middle-east-amid-ongoing-iran-war-report/3882835",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
