@@ -1,5 +1,21 @@
 [
     {
+        "id": "1774783050393uva0p",
+        "title": "İran'dan ABD ve İsrail Üniversitelerine Yönelik 'Meşru Hedef' Açıklaması",
+        "summary": "İran, ABD ve İsrail üniversitelerini 'meşru hedef' olarak gördüğünü açıkladı. Bu açıklama, bölgedeki askeri gerilimin tırmandığı bir dönemde geldi. İran Devrim Muhafızları Ordusu (IRGC), ABD ve İsrail'in İran eğitim tesislerine yönelik saldırılarına misilleme yapma sözü verdi. Açıklamada, İran'ın kendi eğitim kurumlarına yönelik eylemlere karşılık olarak bu tür hedefleri değerlendireceği belirtildi. Bu durum, iki ülke arasındaki tansiyonu daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18604414/pexels-photo-18604414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T11:17:30.393Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-us-israeli-universities-legitimate-targets-amid-military-escalation/3883879",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774778284419556iu",
         "title": "Tel Aviv'de Savaş Karşıtı Protestoda Olaylar Çıktı, Çok Sayıda Kişi Gözaltına Alındı",
         "summary": "Tel Aviv'de Cumartesi günü ABD-İsrail'in İran'a yönelik olası bir savaşına karşı düzenlenen protesto gösterilerinde olaylar çıktı. İsrail polisi, göstericilere müdahale ederek kalabalığı dağıttı. Çıkan olaylarda 18'e yakın kişinin gözaltına alındığı bildirildi. Protestocular, bölgedeki gerilimin tırmanmasına ve olası bir çatışmaya karşı tepkilerini dile getiriyordu.",
@@ -780,22 +796,6 @@
             "name": "Gazze Şehri, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-palestinian-injures-another-near-gaza-city-despite-ceasefire/3882670",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774684497811pahgp",
-        "title": "İsrail'in Hayfa Kentinde Lübnan'dan Gelen İHA Sonrası Patlama Sesleri Duyuldu",
-        "summary": "İsrail'in kuzeyindeki Hayfa kentinde, Lübnan yönünden gelen bir insansız hava aracının (İHA) İsrail hava sahasına sızmasının ardından patlama sesleri duyulduğu bildirildi. Yerel kaynaklar ve güvenlik birimleri, olayın ardından bölgede incelemeler başlattı. İlk gelen bilgilere göre, söz konusu olayda herhangi bir can kaybı veya maddi hasar meydana gelmediği belirtildi. Güvenlik güçleri, İHA'nın rotası ve olası hedefleri hakkında detaylı soruşturma yürütüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1087182/pexels-photo-1087182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T07:54:57.811Z",
-        "location": {
-            "lat": 32.794,
-            "lng": 34.9896,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-israels-haifa-after-drone-infiltration-from-lebanon/3882646",
         "trendScore": 85,
         "isBreaking": false
     }
