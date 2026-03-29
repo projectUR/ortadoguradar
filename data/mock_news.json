@@ -1,5 +1,53 @@
 [
     {
+        "id": "17747932643675rjw8",
+        "title": "İsrailli Futbolcunun Güney Lübnan Saldırısındaki Rolü Tepkilere Yol Açtı",
+        "summary": "İsrail Premier Ligi oyuncusu Menashe Zalka'nın, İsrail ordusu askerleriyle birlikte Güney Lübnan'da düzenlenen bir saldırıda ateş açarken görüntülendiği belirtildi. Bu gelişme, kamuoyunda ve çeşitli çevrelerde büyük tepkilere neden oldu. Olay, İsrail-Lübnan sınırındaki hassas durumu ve bölgedeki güvenlik gerilimlerini bir kez daha gündeme taşıdı. Bir sporcunun askeri bir operasyonda aktif rol alması, hem spor etiği hem de uluslararası hukuk açısından tartışmaları beraberinde getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5769855/pexels-photo-5769855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T14:07:44.367Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.5,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774793284926lhg9e",
+        "title": "İran'ın ABD AWACS ve Hava Tankerlerini Hedef Aldığı İddiası",
+        "summary": "İran'ın, yüzlerce kilometre uzaktan insansız hava araçlarını, füzeleri ve uçakları takip edebilen ABD'ye ait E-3 Sentry uçan radarlarını vurduğu iddia edildi. Bu iddia, bölgedeki gerilimi artırabilecek önemli bir gelişme olarak değerlendiriliyor. Geçtiğimiz ay içinde İran'ın başka hangi hedefleri vurduğu ise merak konusu. Bu tür olaylar, Orta Doğu'daki askeri dengeler ve ABD-İran ilişkileri açısından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6504122/pexels-photo-6504122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T14:08:04.926Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17747933387022sf2h",
+        "title": "ABD-İsrail'in Gazze'deki Operasyonlarının Etkisi Dünya Geneline Yayılıyor",
+        "summary": "ABD ve İsrail'in Gazze Şeridi'ndeki operasyonları, uluslararası alanda geniş çaplı tartışmalara neden olmaya devam ediyor. Haber başlığında 'insanlığa karşı savaş' olarak nitelendirilen bu durumun, Gazze'deki gelişmelerin ötesine geçerek küresel çapta etkiler yaratmaya başladığı belirtiliyor. Metinde, Gazze'deki olayların 'hukuksuzluk ve vahşet' olarak tanımlandığı ve bu durumun dünya genelindeki diğer bölgelere de yayıldığı iddia ediliyor. Bu iddialar, uluslararası hukuk ve insan hakları örgütleri tarafından yakından takip edilmekte olup, küresel kamuoyunda geniş yankı uyandırmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8832582/pexels-photo-8832582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T14:08:58.702Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/3/29/the-us-israeli-war-on-humanity?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1774783050393uva0p",
         "title": "İran'dan ABD ve İsrail Üniversitelerine Yönelik 'Meşru Hedef' Açıklaması",
         "summary": "İran, ABD ve İsrail üniversitelerini 'meşru hedef' olarak gördüğünü açıkladı. Bu açıklama, bölgedeki askeri gerilimin tırmandığı bir dönemde geldi. İran Devrim Muhafızları Ordusu (IRGC), ABD ve İsrail'in İran eğitim tesislerine yönelik saldırılarına misilleme yapma sözü verdi. Açıklamada, İran'ın kendi eğitim kurumlarına yönelik eylemlere karşılık olarak bu tür hedefleri değerlendireceği belirtildi. Bu durum, iki ülke arasındaki tansiyonu daha da artırma potansiyeli taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774684426324lk9j0",
-        "title": "BM İnsan Hakları Şefi, ABD'yi İran'daki Okul Saldırısı Soruşturmasını Tamamlamaya Çağırdı",
-        "summary": "Birleşmiş Milletler İnsan Hakları Şefi Volker Türk, çoğu çocuk olmak üzere en az 168 kişinin hayatını kaybettiği saldırının \"içgüdüsel bir dehşet uyandırdığını\" belirtti. Türk, ABD'ye bu olaya ilişkin soruşturmayı sonuçlandırması çağrısında bulundu. Bu çağrı, saldırının insani boyutuna ve sorumluların belirlenmesi gerekliliğine dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T07:53:46.324Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774684453880z1mzd",
-        "title": "Batı Şeria'da Yerleşimci Şiddeti Sonucu Bir Filistinli Daha Hayatını Kaybetti",
-        "summary": "Batı Şeria'da yaşanan yerleşimci şiddeti olaylarında bir Filistinli daha hayatını kaybetti. Muhammed el-Malhi isimli Filistinli, bölgedeki çatışmaların başlamasından bu yana bir yerleşimci tarafından öldürülen yedinci kişi oldu. Bu son olayla birlikte, Batı Şeria'da yerleşimcilerin uyguladığı şiddet sonucu ölen Filistinlilerin sayısı artış gösterdi. Bölgedeki gerilimin tırmanması ve şiddet olaylarının devam etmesi, uluslararası toplumda endişelere yol açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11351026/pexels-photo-11351026.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T07:54:13.880Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/c62l7l99z9do?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17746844773426my1s",
-        "title": "İsrail Saldırısı Gazze Yakınlarında Bir Filistinliyi Öldürdü, Birini Yaraladı",
-        "summary": "İsrail'in Gazze Şeridi yakınlarında düzenlediği bir saldırıda bir Filistinli hayatını kaybederken, bir diğer Filistinli yaralandı. Saldırı, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Anadolu Ajansı'na bilgi veren görgü tanıkları, Şecaiye mahallesinin El-Şamaa bölgesine insansız hava aracıyla bir hava saldırısı düzenlendiğini ifade etti. Bu olay, Gazze Şeridi'ndeki hassas güvenlik durumunu ve taraflar arasındaki gerilimi bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T07:54:37.342Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-palestinian-injures-another-near-gaza-city-despite-ceasefire/3882670",
         "trendScore": 85,
         "isBreaking": false
     }
