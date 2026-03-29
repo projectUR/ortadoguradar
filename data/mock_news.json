@@ -1,5 +1,53 @@
 [
     {
+        "id": "177481222554731ulp",
+        "title": "Cumhuriyetçi Mace: ABD'nin İran'a Asker Konuşlandırması İçin Kongre Onayı Şart",
+        "summary": "ABD'li Cumhuriyetçi Temsilciler Meclisi üyesi Nancy Mace, Amerika Birleşik Devletleri'nin İran'a herhangi bir asker konuşlandırması yapması durumunda Kongre'nin onayının alınması gerektiğini vurguladı. Haberde, genel olarak savaşa yönelik destek bulunmasına rağmen, bazı Cumhuriyetçi isimlerin İran'a kara birliklerinin gönderilmesinin dönemin başkanı Trump için siyasi bir 'Rubicon' olacağını düşündüğü belirtildi. Bu açıklama, ABD'nin Orta Doğu'daki askeri angajmanları ve Kongre'nin dış politika üzerindeki yetkileri konusundaki tartışmaları yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5825466/pexels-photo-5825466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T19:23:45.547Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/29/republican-mace-says-congress-must-approve-any-us-troop-deployment-to-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774812263740uze78",
+        "title": "Netanyahu, ordunun güney Lübnan'daki operasyonları genişletmesini emretti",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ordusuna güney Lübnan'daki operasyonları genişletme emri verdi. İsrail askerleri Litani Nehri'ne doğru ilerleyişini sürdürürken, bölgedeki gerilim tırmanıyor. Bu askeri gelişmelerin yanı sıra, görev başında hayatını kaybeden üç gazeteci için cenaze töreni düzenlendi. Olaylar, Orta Doğu'daki çatışmaların şiddetini ve insani boyutunu bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/89112/pexels-photo-89112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T19:24:23.740Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774812353610dw0zq",
+        "title": "Kanada Başbakanı, İsrail'in Kudüs'teki Patriğin Kiliseye Girişini Engellemesine İlişkin Hayal Kırıklığını Dile Getirdi",
+        "summary": "Kanada Başbakanı, İsrail'in bir patriğin Kudüs'teki bir kiliseye girişini engellemesi üzerine hayal kırıklığını dile getirdi. Kanada hükümeti, bu durumun Kudüs'ün kutsal mekanlarının uzun süredir devam eden statükosunu ihlal ettiğini belirtti. Bu eylem, bölgedeki dini özgürlükler ve kutsal alanların statüsü konusundaki hassasiyeti uluslararası gündeme taşıdı. Ottawa, Kudüs'teki tüm inançların ibadet özgürlüğüne saygı gösterilmesi gerektiğini vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11696778/pexels-photo-11696778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-29T19:25:53.610Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/canadian-prime-minister-disappointed-by-israels-barring-of-patriarch-from-jerusalem-church/3884291",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774803941119htk1n",
         "title": "İran, Güney İsrail'deki Sanayi Bölgesini Vurdu",
         "summary": "İran'dan fırlatılan füzeler, İsrail'in güneyindeki Beerşeba yakınlarında bulunan bir kimyasal tesiste yangına yol açtı. Saldırının, bölgedeki bir sanayi bölgesini hedef aldığı bildirildi. Olay sonucunda tesiste maddi hasar meydana geldiği ve yangına itfaiye ekiplerinin müdahale ettiği belirtildi. Bu gelişme, Orta Doğu'da İran ile İsrail arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/3/28/how-the-us-and-israel-are-making-the-islamic-republic?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774695816426v5607",
-        "title": "İran'a Yönelik Savaş, MAGA Hareketi İçinde Tepkiyle Karşılaşıyor",
-        "summary": "ABD'deki MAGA (Make America Great Again) hareketi içinde, İran'a yönelik olası bir askeri müdahale konusunda derin bir ayrılık yaşandığı belirtiliyor. Bu iç bölünmenin, eski Başkan Donald Trump'ın İran'a karşı yürüttüğü veya planladığı politikaları tehdit ettiği ifade ediliyor. Haber, MAGA tabanının bu konuda tek bir görüşe sahip olmadığını ve potansiyel bir çatışmaya karşı çıkan önemli bir kesimin bulunduğunu ima ediyor. Bu durum, ABD'nin Orta Doğu politikaları ve özellikle İran ile ilişkileri üzerinde önemli etkiler yaratabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3947608/pexels-photo-3947608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T11:03:36.426Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/the-listening-post/2026/3/28/the-war-on-iran-faces-a-maga-backlash?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774691757423skucy",
-        "title": "ABD-İsrail'in İran'a Yönelik Savaşı: Saldırıların 29. Gününde Neler Oluyor?",
-        "summary": "İsrail'in İran'a yönelik hava saldırılarının ardından bölgedeki gerilim tırmanmaya devam ediyor. İran, bu saldırılara karşılık olarak 'ağır bir bedel' ödeneceği uyarısında bulundu. ABD-İsrail'in İran'a karşı yürüttüğü iddia edilen bu çatışmanın 29. gününde tansiyon yüksek seyrediyor. Taraflar arasındaki karşılıklı tehditler, Orta Doğu'da güvenlik endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/198703/pexels-photo-198703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T09:55:57.423Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İran, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774691777562fnk8k",
-        "title": "Trump, İran'ın 'anlaşma yapmak istediğini' iddia etti",
-        "summary": "ABD Başkanı Donald Trump, İran'ın bir anlaşma arayışında olduğunu öne sürdü. Trump, bu iddiasını dile getirirken ABD ordusunun gücünü de övdü. Bu açıklama, ABD ile İran arasındaki gerilimli ilişkilerin devam ettiği bir dönemde geldi. İki ülke arasında nükleer anlaşma ve bölgesel meseleler başta olmak üzere birçok konuda anlaşmazlıklar bulunuyor. Trump'ın bu sözleri, Tahran'ın gelecekteki müzakerelere yönelik olası tutumuna dair spekülasyonları artırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/33175672/pexels-photo-33175672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-28T09:56:17.562Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
