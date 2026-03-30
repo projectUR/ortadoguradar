@@ -1,5 +1,117 @@
 [
     {
+        "id": "1774882470481ixrul",
+        "title": "Rubio'dan Hürmüz Boğazı Açıklaması",
+        "summary": "ABD Senatörü Marco Rubio, Al Jazeera'ya verdiği demeçte, Hürmüz Boğazı'nın 'şu ya da bu şekilde' yeniden açılacağını ifade etti. Bu açıklama, dünya petrol ticaretinin önemli bir kısmının geçtiği stratejik su yolunun güvenliğine ilişkin endişeleri gündeme getirdi. Boğazın potansiyel kapanması veya kapatılma tehditleri karşısında ABD'nin kararlı duruşunu yansıtan Rubio'nun sözleri, bölgedeki gerilimi artırabilecek nitelikte. Haber, uluslararası kamuoyunda son dakika gelişmesi olarak yer aldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8903426/pexels-photo-8903426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T14:54:30.481Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/30/rubio-tells-al-jazeera-strait-of-hormuz-will-reopen-one-way-or-another?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1774882492943kw04u",
+        "title": "Trump'tan İran Petrol İhracat Merkezini Ele Geçirme Açıklaması",
+        "summary": "Eski ABD Başkanı Donald Trump, ABD güçlerinin İran'ın petrol ihracat merkezi olan Harg Adası'nı ele geçirebileceğini ifade etti. Bu açıklama, bölgedeki çatışmaların ikinci ayına girdiği bir dönemde yapıldı. Trump'ın bu yöndeki sözleri, İran'ın enerji altyapısına yönelik potansiyel bir müdahale senaryosunu gündeme getirdi. Harg Adası, İran'ın petrol ihracatında kritik bir öneme sahiptir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4671688/pexels-photo-4671688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T14:54:52.943Z",
+        "location": {
+            "lat": 29.23,
+            "lng": 50.33,
+            "name": "Harg Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/3/30/trump-wants-to-take-irans-oil-can-he-and-what-would-that-mean?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17748825345263pjha",
+        "title": "İran'a Yönelik Savaş, Asya'nın Orta Doğu'ya İkinci El Araç İhracatını Aksatıyor",
+        "summary": "ABD ve İsrail'in İran'a yönelik başlattığı savaş, Asya'dan Orta Doğu ülkelerine yapılan ikinci el araç ihracatında ciddi aksaklıklara yol açtı. Bu durum, Asya'daki ikinci el araç ihracat sektörünü olumsuz etkileyerek, tedarik zincirlerinde kesintilere ve lojistik zorluklara neden oldu. Bölgedeki artan gerilimler ve çatışma ortamı, nakliye rotalarını güvensiz hale getirerek ticaret akışını sekteye uğrattı. Söz konusu aksaklıkların, Orta Doğu pazarındaki ikinci el araç arzını ve fiyatlarını da etkilemesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T14:55:34.526Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/30/war-on-iran-disrupts-asias-used-car-exports-to-the-middle-east?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774882577845zou4b",
+        "title": "İran Destekli Husiler İsrail'e Saldırarak Çatışmaya Katıldı",
+        "summary": "İran destekli Husiler, İsrail'e yönelik saldırılarla çatışmaya dahil oldu. Bu gelişme, Orta Doğu'daki gerilimi daha da artırdı. Husilerin Kızıldeniz'deki deniz taşımacılığını hedef alabileceği yönünde endişeler bulunuyor. Bu potansiyel saldırıların küresel ekonomiye olumsuz etkileri olabileceği belirtiliyor. Bölgedeki güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T14:56:17.845Z",
+        "location": {
+            "lat": 14,
+            "lng": 43,
+            "name": "Kızıldeniz, Yemen"
+        },
+        "source": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774882601484hukaw",
+        "title": "'Kızım enkaz altında': Tahran'da saldırıların sivil bilançosu yükseliyor",
+        "summary": "ABD ve İsrail'in İran'a yönelik saldırılarının üzerinden bir ay geçmesinin ardından, Tahran'da sivil kayıpların arttığı bildirildi. BBC'ye konuşan Tahran sakinleri, hayatlarının bu saldırılar nedeniyle büyük ölçüde altüst olduğunu ifade etti. Haber başlığı, bir babanın 'Kızım enkaz altında' sözleriyle şehirdeki dramatik durumu gözler önüne seriyor. Bölgedeki gerilimin sivil halk üzerindeki yıkıcı etkileri devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34117126/pexels-photo-34117126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T14:56:41.484Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17748826312543cje0",
+        "title": "İrlanda, İran Savaşı Ortasında Enerji Krizi İçin 'COVID Benzeri Kısıtlamaları' Reddediyor",
+        "summary": "İrlanda hükümeti, İran'da devam eden bir savaşın tetiklediği enerji kriziyle mücadele etmek amacıyla \"COVID benzeri kısıtlamalar\" getirme olasılığını reddetti. Başbakan Yardımcısı Simon Harris, ülkenin enerji arz güvenliğini sağlamak için farklı stratejiler üzerinde durduğunu belirtti. Harris, savaşın bugün sona ermesi durumunda bile, altyapıda meydana gelen hasarın onarılmasının bir yıl süreceğini vurguladı. Bu açıklama, küresel enerji piyasalarındaki belirsizliğin ve Orta Doğu'daki çatışmaların Avrupa üzerindeki potansiyel uzun vadeli etkilerini gözler önüne seriyor. İrlanda, iç piyasada kısıtlayıcı önlemlerden kaçınarak enerji güvenliğini sağlamayı hedefliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T14:57:11.254Z",
+        "location": {
+            "lat": 53.3498,
+            "lng": -6.2603,
+            "name": "Dublin, İrlanda"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/ireland-rules-out-introducing-covid-like-restrictions-to-tackle-energy-crisis-amid-iran-war/3885327",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774882668812n4ccf",
+        "title": "Suriye, savaş sonrası yeniden yapılanma ve ekonomik sıfırlama hamlesi hedefliyor",
+        "summary": "Suriye Devlet Başkanı, Şam'ın yeni bir ekonomik program başlattığını ve bu kapsamda Alman yatırımları ile diasporadaki uzmanlığı çekmeyi hedeflediğini belirtti. Ülke, yıllar süren çatışmaların ardından toparlanma sürecine girerken, ekonomik yeniden yapılanma ve kalkınma çabalarına hız veriyor. Bu hamle, savaş sonrası dönemin getirdiği zorlukların üstesinden gelmek ve ülkenin ekonomik yapısını güçlendirmek amacını taşıyor. Şam yönetimi, uluslararası işbirliği ve dış kaynaklarla ülkenin altyapısını ve ekonomisini canlandırmayı planlıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/33954649/pexels-photo-33954649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T14:57:48.812Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-eyes-reconstruction-push-economic-reset-after-war/3885278",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774867642105u74hp",
         "title": "Gazze'de Toprak Günü: Hafıza ve Kalanlar İçin Mücadele Arasında",
         "summary": "Gazze Şeridi'nde Toprak Günü, tarihi toprak hakları mücadelesinden, savaş, kuşatma ve yerinden edilme koşulları altında hayatta kalma mücadelesine dönüşümü gözler önüne seriyor. Bu özel gün, geçmişteki toprak taleplerini anımsatırken, bölge halkının mevcut zorluklarını ve karşı karşıya kaldığı insani krizi vurgulamaktadır. Etkinlik, Gazze'deki yaşamın, hafıza ile mevcut varoluş mücadelesi arasında nasıl bir denge kurduğunu ortaya koymaktadır. Bölgedeki çatışmalar ve abluka, halkın temel haklarına erişimini ve geleceğini derinden etkilemektedir. Bu durum, Gazze'deki nüfusun sürekli bir hayatta kalma mücadelesi içinde olduğunu göstermektedir.",
@@ -686,117 +798,5 @@
         "source": "https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1774778394491g6mff",
-        "title": "İsrail, güçlerinin Suriye Golan Tepeleri'nden Güney Lübnan'a 'Hedefli Operasyon' İçin Geçtiğini Duyurdu",
-        "summary": "İsrail ordusu, güçlerinin Suriye'nin Golan Tepeleri'nden güney Lübnan'a 'hedefli bir operasyon' gerçekleştirmek üzere geçtiğini açıkladı. Ordu tarafından yapılan duyuruda, Alpinist Birimi'nin bölgede keşif ve istihbarat toplama faaliyetleri yürüttüğü belirtildi. Bu sınır ötesi operasyonun amacı ve detayları hakkında henüz ek bilgi paylaşılmadı. Söz konusu gelişme, İsrail ile Lübnan arasındaki sınır hattında ve genel olarak Orta Doğu'daki güvenlik dinamiklerinde artan gerilimi yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163443/war-desert-guns-gunshow-163443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T09:59:54.491Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-says-its-forces-cross-from-syria-s-golan-heights-into-southern-lebanon-for-targeted-operation-/3883813",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177477841566282tuk",
-        "title": "İran: ABD, Askeri Başarısızlık Sonrası 15 Maddelik Planla Savaş Hedeflerine Ulaşmaya Çalışıyor",
-        "summary": "İran, Amerika Birleşik Devletleri'nin (ABD) askeri alandaki başarısızlıklarının ardından 15 maddelik bir plan aracılığıyla savaş hedeflerine ulaşmaya çalıştığını iddia etti. İran Meclis Başkanı, ABD'nin ülkeye yönelik olası bir kara saldırısına karşı \"kararlı\" bir yanıt verileceği sözünü verdi. Bu açıklama, Tahran'ın Washington'ın bölgedeki politikalarına yönelik eleştirilerini sürdürdüğünü gösteriyor. İki ülke arasındaki gerilim, karşılıklı suçlamalar ve tehditlerle devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12357501/pexels-photo-12357501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T10:00:15.662Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-us-seeking-to-achieve-war-goals-via-15-point-plan-after-military-failure/3883808",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774778439060g8blr",
-        "title": "Pakistan ve Mısır'dan Orta Doğu'da İtidal ve Gerilimi Azaltma Çağrısı",
-        "summary": "Pakistan ve Mısır, Orta Doğu'da tırmanan çatışmalar karşısında taraflara itidal çağrısında bulunarak gerilimin düşürülmesi gerektiğini vurguladı. İki ülke, son dönemde İsrail'in Gazze ve işgal altındaki Batı Şeria'da gerçekleştirdiği eylemleri kınadı. Bu açıklamalar, bölgedeki tansiyonun artmaya devam ettiği ve uluslararası endişelerin yükseldiği bir dönemde geldi. Pakistan ve Mısır, bölgede kalıcı barışın sağlanması için diplomatik çabaların hızlandırılması çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T10:00:39.060Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/pakistan-egypt-call-for-restraint-de-escalation-amid-mounting-mideast-conflict/3883766",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774778459375gnjzn",
-        "title": "İran'dan İsrail'in Güneyine Füze Saldırısı Sonrası Sirenler Çaldı",
-        "summary": "İran'dan İsrail'in güneyine yönelik füze saldırılarının ardından bölgede sirenler çalmaya başladı. Yerel kaynaklardan edinilen bilgilere göre, gece yarısından bu yana İran'dan İsrail'e doğru dördüncü kez füze fırlatıldığı tespit edildi. Bu saldırılar, iki ülke arasındaki mevcut gerilimi daha da tırmandırırken, bölgedeki güvenlik durumunu endişe verici bir seviyeye taşıdı. İsrail'in güneyindeki yerleşim yerlerinde yaşayanlar, güvenlik önlemleri almaya çağrıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16660293/pexels-photo-16660293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T10:00:59.375Z",
-        "location": {
-            "lat": 31,
-            "lng": 34.7,
-            "name": "Güney İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-across-southern-israel-after-missile-barrage-from-iran/3883765",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1774771331416jtvjw",
-        "title": "ABD'li Uzmandan Hürmüz Boğazı ve İran'a Yönelik Kara Harekatı Önerisi",
-        "summary": "ABD'li uzman Kenneth Katzman, Hürmüz Boğazı'nın açılması ve İran'daki ABD savaş hedeflerine ulaşılması konusunda önemli bir değerlendirmede bulundu. Katzman, hava gücüyle karşılanamayan bu hedeflere ancak bir kara harekatı ile ulaşılabileceğini öne sürdü. Bu açıklama, ABD'nin İran'a yönelik potansiyel askeri stratejileri ve Hürmüz Boğazı'nın stratejik önemi üzerine tartışmaları yeniden alevlendirdi. Bölgedeki gerilimin artması durumunda, kara kuvvetlerinin devreye sokulması ihtimali, Orta Doğu'daki güvenlik dinamikleri açısından önemli sonuçlar doğurabilir. Öneri, özellikle Hürmüz Boğazı'nın uluslararası deniz trafiği için açık tutulması gerekliliğini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35525012/pexels-photo-35525012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T08:02:11.416Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/29/trump-has-to-open-the-strait-of-hormuz-with-ground-forces?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774771352703htxun",
-        "title": "Irak'ın Musul Kentinde Hava Saldırıları Sonrası Yoğun Dumanlar Yükseldi",
-        "summary": "Irak'ın kuzeyindeki Musul kentinde hava saldırıları düzenlendiği bildirildi. Saldırıların, Irak'ın Haşdi Şabi güçlerine ait hedefleri vurduğu belirtildi. Bölgeden yükselen yoğun dumanlar, saldırıların şiddetini gözler önüne serdi. Olayın ardından bölgedeki güvenlik durumu ve saldırıların kim tarafından düzenlendiği konusunda detaylı bilgi henüz paylaşılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T08:02:32.703Z",
-        "location": {
-            "lat": 36.34,
-            "lng": 43.13,
-            "name": "Musul, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/thick-plumes-of-smoke-rise-over-iraqs-mosul-after-strikes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774771375765zsd98",
-        "title": "İran'a Yönelik ABD-İsrail Saldırısı Sonrası Küçük Çocuk Kurtarıldı",
-        "summary": "İran Kızılayı'na bağlı kurtarma ekipleri, ülkeye yönelik gerçekleştirilen ABD-İsrail saldırısının ardından yıkılan bir binanın enkazından küçük bir çocuğu sağ olarak çıkardı. Olay, İran topraklarında meydana gelen ve bölgede gerilimi artıran bir saldırının ardından yaşandı. Kurtarma operasyonu, saldırının yol açtığı tahribatın boyutunu gözler önüne serdi. Kızılay yetkilileri, kurtarılan çocuğun sağlık durumunun iyi olduğunu bildirdi. Bölgedeki gerilim, bu tür olaylarla birlikte tırmanmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11349036/pexels-photo-11349036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T08:02:55.765Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/toddler-rescued-after-us-israeli-strike-on-iran?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
