@@ -1,5 +1,69 @@
 [
     {
+        "id": "1774894037898fx1g9",
+        "title": "Büyük İsrail Projesi Nedir?",
+        "summary": "Büyük İsrail Projesi, İsrail'in mevcut sınırlarının ötesine geçerek tarihi ve dini referanslarla daha geniş bir coğrafyayı kapsama ideolojisini ifade etmektedir. Bu kavram, başlangıçta marjinal bir fikir olarak görülse de, günümüzde daha açıkça dile getirilmekte ve bölgedeki gelişmelerle birlikte somut yansımaları olduğu gözlemlenmektedir. Proje, İsrail'in komşu bölgelerdeki yerleşim politikaları ve toprak iddialarıyla ilişkilendirilmekte olup, uluslararası hukuk ve Filistin-İsrail çatışması açısından önemli tartışmalara yol açmaktadır. Bölgesel istikrar ve barış süreçleri üzerinde derin etkileri bulunan bu ideoloji, Orta Doğu siyasetinin temel gündem maddelerinden birini oluşturmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11268395/pexels-photo-11268395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T18:07:17.898Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/the-take-2/2026/3/30/aje-onl-tt_isr_greaterisrael_av_v2-300326?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774894106934y02ng",
+        "title": "İsrail'in Hayfa kentindeki petrol rafinerisine füze saldırısı sonrası yangın kontrol altına alındı",
+        "summary": "İsrail'in kuzeyindeki Hayfa kentinde bulunan bir petrol rafinerisine füze saldırısı düzenlendi. Saldırının ardından tesiste çıkan yangın, ekiplerin müdahalesiyle kontrol altına alındı. Bu olay, söz konusu petrol rafinerisi tesisinin hedef alındığı ikinci saldırı oldu. Saldırının, ABD ve İsrail'in İran'a karşı yürüttüğü savaş bağlamında gerçekleştiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12641124/pexels-photo-12641124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T18:08:26.934Z",
+        "location": {
+            "lat": 32.8,
+            "lng": 35,
+            "name": "Hayfa, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774894161425yvmrm",
+        "title": "Katar, İran'dan Fırlatılan İHA'ları Engelledi",
+        "summary": "Katar Haber Ajansı'nın (QNA) bildirdiğine göre, Katar ordusu İran'dan fırlatılan insansız hava araçlarını başarıyla engelledi. Katar hava sahasına yönelik bu ihlal girişimi, Katar Silahlı Kuvvetleri tarafından etkisiz hale getirildi. Açıklamada, tüm insansız hava araçlarının hedeflerine ulaşmadan durdurulduğu belirtildi. Bu olay, Körfez bölgesindeki güvenlik dinamikleri ve iki ülke arasındaki ilişkiler açısından dikkat çekici bir gelişme olarak kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T18:09:21.425Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-intercepts-drones-launched-from-iran/3885488",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1774894188073iqsh4",
+        "title": "Sisi'den Trump'a: Orta Doğu'daki Savaşı Sadece Siz Durdurabilirsiniz",
+        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, dönemin ABD Başkanı Donald Trump'a Orta Doğu'daki çatışmaları sona erdirme çağrısında bulundu. Sisi, bölgedeki savaşın durdurulması konusunda Trump'ın belirleyici bir rol oynayabileceğini ifade etti. Bu diplomatik çağrı, Orta Doğu'nun ekonomik ve enerji krizleriyle mücadele ettiği bir dönemde yapıldı. Mısır lideri, bölgenin istikrarı için ABD'nin müdahalesinin kritik önem taşıdığını vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4570569/pexels-photo-4570569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-30T18:09:48.073Z",
+        "location": {
+            "lat": 30,
+            "lng": 31.2,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/no-one-but-you-can-stop-war-in-middle-east-al-sisi-tells-trump/3885478",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774882470481ixrul",
         "title": "Rubio'dan Hürmüz Boğazı Açıklaması",
         "summary": "ABD Senatörü Marco Rubio, Al Jazeera'ya verdiği demeçte, Hürmüz Boğazı'nın 'şu ya da bu şekilde' yeniden açılacağını ifade etti. Bu açıklama, dünya petrol ticaretinin önemli bir kısmının geçtiği stratejik su yolunun güvenliğine ilişkin endişeleri gündeme getirdi. Boğazın potansiyel kapanması veya kapatılma tehditleri karşısında ABD'nin kararlı duruşunu yansıtan Rubio'nun sözleri, bölgedeki gerilimi artırabilecek nitelikte. Haber, uluslararası kamuoyunda son dakika gelişmesi olarak yer aldı.",
@@ -732,70 +796,6 @@
             "name": "Tel Aviv, İsrail"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/3/29/dozens-detained-in-tel-aviv-as-anti-war-protest-turns-violent?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774778305049wsaus",
-        "title": "Pentagon, İran'da Haftalar Sürecek ABD Kara Operasyonlarına Hazırlanıyor: Rapor",
-        "summary": "ABD Savunma Bakanlığı (Pentagon), İran'da haftalar sürebilecek kara operasyonları için hazırlıklarını sürdürüyor. Yayınlanan bir rapora göre, Pentagon'un İran'ın stratejik bölgelerinde sınırlı kara operasyonları düzenleme planları bulunuyor. Ancak, bu planlara dönemin ABD Başkanı Trump'ın onay verip vermeyeceği konusunda belirsizlik devam ediyor. Bu gelişmeler, Orta Doğu'daki güvenlik ve jeopolitik dengeler açısından önemli bir potansiyel taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30687134/pexels-photo-30687134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T09:58:25.049Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774778327248dutcr",
-        "title": "ABD-İsrail-İran Savaşı: Bölgesel Dışişleri Bakanları Çözüm İçin İslamabad'da Toplandı",
-        "summary": "Pakistan, Türkiye, Mısır ve Suudi Arabistan dışişleri bakanları, ABD ve İsrail'in İran'a yönelik saldırılarını sona erdirmek amacıyla İslamabad'da bir araya geldi. Bölgesel aktörler, Orta Doğu'da tırmanan gerilimi düşürmek ve kalıcı bir barış sağlamak için diplomatik çabalarını yoğunlaştırdı. Görüşmelerde, çatışmanın daha geniş bir alana yayılmasını engellemek ve insani durumu ele almak üzere çeşitli çözüm önerileri masaya yatırıldı. Toplantının, bölgedeki istikrarsızlığa karşı ortak bir duruş sergilemesi ve uluslararası toplumu harekete geçirmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433853/pexels-photo-7433853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T09:58:47.248Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1774778348346a7ytl",
-        "title": "Analist: İran'ın çıkarı uzun süreli bir savaşta",
-        "summary": "Bir analist, İran'ın mevcut bir savaşı uzatma yönünde çıkarı olduğunu belirtti. Rob Geist-Pinfold'un değerlendirmesine göre, Amerika Birleşik Devletleri çatışmayı sona erdirmek isterken, Tahran'ın savaşı uzatma eğiliminde olduğu ifade edildi. Bu durum, Orta Doğu'daki bölgesel dinamikler ve uluslararası güç dengeleri açısından önemli bir perspektif sunuyor. Analist, İran'ın stratejik hedeflerinin, çatışmanın devam etmesiyle daha iyi hizmet edebileceği görüşünü dile getirdi. Bu analiz, bölgedeki mevcut gerilimlerin ve gelecekteki olası gelişmelerin anlaşılmasına ışık tutuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T09:59:08.346Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/3/29/analyst-says-that-irans-interest-is-in-an-extended-war?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17747783709745nxb8",
-        "title": "Gazze'nin elektrik mücadelesi: Karanlıkta yaşam",
-        "summary": "Gazze Şeridi'nde yaşanan savaş, bölgenin elektrik şebekesinde büyük çaplı tahribata yol açtı. Bu durum, Gazze'deki aileleri elektrik ihtiyaçlarını karşılamak için jeneratörlere ve özel şarj noktalarına bağımlı hale getirdi. Bölge sakinleri, temel hizmetlere erişimde ciddi sıkıntılar yaşarken, günlük yaşamlarını sürdürmekte zorlanıyor. Elektrik kesintileri, sağlık hizmetlerinden eğitime kadar birçok alanda olumsuz etkiler yaratmaya devam ediyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/15580934/pexels-photo-15580934.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-29T09:59:30.974Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/3/29/living-in-the-dark-gazas-struggle-for-electricity?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
