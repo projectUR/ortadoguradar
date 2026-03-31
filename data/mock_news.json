@@ -1,5 +1,21 @@
 [
     {
+        "id": "17749737680582rbu4",
+        "title": "Katar: İran'ın Komşulara Yönelik Saldırıları Kırmızı Çizgileri Aştı",
+        "summary": "Katar, İran'ın bölgedeki komşu ülkelere yönelik saldırılarının \"birçok kırmızı çizgiyi aştığını\" duyurdu. Doha yönetimi, bu saldırıların iki ülke arasındaki ilişkiler üzerinde \"felaket bir etki\" yarattığını belirtti. Katar'dan yapılan açıklamada, İran'ın bölgedeki eylemlerinin diplomatik gerilimi artırdığına dikkat çekildi. Bu durumun, iki ülke arasındaki mevcut ilişkileri olumsuz yönde etkilediği ve gelecekteki işbirliğini zorlaştırabileceği ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/683473/pexels-photo-683473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-03-31T16:16:08.058Z",
+        "location": {
+            "lat": 25.28,
+            "lng": 51.53,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/3/31/qatar-warns-iranian-attacks-on-region-causing-catastrophic-effects?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1774958888861lwi3v",
         "title": "Batı Şeria'da İsrail'in Filistinlilere İdam Cezasına Karşı Protesto",
         "summary": "Batı Şeria'da yüzlerce kişi, İsrail'in Filistinlilere yönelik idam cezası getirme planlarına karşı protesto gösterileri düzenledi. Göstericiler, İsrail'in Filistinli mahkumları hedef alan bu yasa tasarısına tepki gösterdi. Sivil toplum kuruluşları da bu protestolara katılarak destek verdi. Avrupa Birliği yetkilileri ise İsrail'in söz konusu yasa tasarısı hakkında 'büyük endişe' duyduklarını dile getirdi.",
@@ -780,22 +796,6 @@
             "name": "Kızıldeniz, Yemen"
         },
         "source": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774867800071zfhnn",
-        "title": "İsrail Saldırısında Üç Lübnanlı Gazetecinin Hayatını Kaybettiği Bildirildi",
-        "summary": "Lübnanlı yayıncılar, üç Lübnanlı gazetecinin İsrail'in düzenlediği bir saldırıda yaşamını yitirdiğini duyurdu. İsrail ordusu, hayatını kaybedenlerden Ali Shoeib ve Mohamed Ftouni'yi öldürdüğünü doğrularken, bu kişilerin aynı zamanda Hizbullah'ın askeri kanadına mensup olduğunu iddia etti. Olay, bölgedeki gerilimi artırırken, gazetecilerin hedef alınması uluslararası kamuoyunda endişelere yol açtı. İsrail, saldırının gerekçesi olarak güvenlik endişelerini öne sürdü. Lübnan makamları ise olayın kapsamlı bir şekilde soruşturulması çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952949/pexels-photo-5952949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-30T10:50:00.071Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
