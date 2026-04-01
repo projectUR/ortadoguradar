@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775066479194f180d",
+        "title": "Eleştirmenler İsrail'in Yeni İdam Yasasını 'Apartheid Rejimi' Olarak Nitelendiriyor",
+        "summary": "İsrail parlamentosunda, yalnızca Filistinlileri hedef alması beklenen yeni bir idam yasasının kabul edilmesiyle ilgili kutlamalar yapıldı. Yasa, eleştirmenler tarafından \"apartheid rejimi\" olarak nitelendiriliyor ve İsrail'in Filistinlilere yönelik politikalarını daha da sertleştireceği iddia ediliyor. Uluslararası insan hakları örgütleri ve bazı ülkeler, bu yasanın uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi artıracağını belirtiyor. Bu gelişme, İsrail-Filistin çatışmasının hukuki boyutunda önemli bir dönüm noktası olarak değerlendiriliyor ve geniş çaplı tepkilere yol açması bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8693379/pexels-photo-8693379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T18:01:19.194Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/1/this-is-an-apartheid-regime-critics-decry-israels-new-death-penalty-law?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775066501342xri7s",
+        "title": "İranlı Yetkililer, Trump'ın 'İran Ateşkes İstiyor' İddiasına Güldü",
+        "summary": "Kıdemli bir İranlı yetkili, ABD Başkanı Donald Trump'ın İran'ın ateşkes istediği yönündeki iddiasına gülerek karşılık verdi. Bu açıklama, iki ülke arasındaki mevcut gerilimi ve diplomatik söylemdeki farklılıkları bir kez daha ortaya koydu. İranlı yetkililer, Trump'ın bu iddiasını ciddiye almadıklarını ve böyle bir talebin söz konusu olmadığını vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/626165/pexels-photo-626165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T18:01:41.342Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775066585729laept",
+        "title": "İsrail, son 2 günde Tahran altyapısına 400'den fazla hava saldırısı düzenlediğini iddia etti",
+        "summary": "İsrail ordusu, son iki gün içinde İran'ın başkenti Tahran'daki altyapıya yönelik 400'den fazla hava saldırısı gerçekleştirdiğini öne sürdü. Yapılan açıklamaya göre, bu saldırılarda yaklaşık 15 silah üretim tesisi hedef alındı. Hedefler arasında İran Savunma Bakanlığı'na bağlı merkezi bir kompleksin de bulunduğu belirtildi. İsrail, bu operasyonların İran'ın askeri kapasitesini zayıflatmaya yönelik olduğunu ifade etti. Tahran'dan henüz resmi bir açıklama gelmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32702229/pexels-photo-32702229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T18:03:05.729Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-claims-over-400-airstrikes-on-tehran-infrastructure-in-past-2-days/3888553",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17750550970595ubax",
         "title": "Rusya küresel enerji açığını kapatmaya yardımcı olabilir mi?",
         "summary": "Hürmüz Boğazı'ndaki aksaklıklar nedeniyle yükselen ham petrol fiyatları, Rusya'nın enerji ihracatından elde ettiği geliri artırmıştır. Bu durum, küresel enerji piyasalarında yaşanan arz sıkıntısının ve fiyat dalgalanmalarının bir yansıması olarak değerlendirilmektedir. Hürmüz Boğazı, Orta Doğu petrolünün dünya pazarlarına ulaşmasında kritik bir geçiş noktası olup, buradaki herhangi bir kesinti küresel enerji güvenliğini doğrudan etkilemektedir. Rusya'nın bu süreçte artan enerji gelirleri, ülkenin küresel enerji arzındaki rolünü ve piyasa dinamiklerini yeniden şekillendirme potansiyelini gündeme getirmektedir.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774950528216pc3lr",
-        "title": "Lübnan'da İki Endonezyalı BM Barış Gücü Askeri Hayatını Kaybetti",
-        "summary": "Lübnan'da meydana gelen bir patlamada iki Endonezyalı Birleşmiş Milletler (BM) barış gücü askeri yaşamını yitirdi. BM Geçici Görev Gücü (UNIFIL) tarafından yapılan açıklamada, olayın son 24 saat içinde yaşanan ikinci ölümcül vaka olduğu belirtildi. Bu trajik hadisenin, İsrail'in Hizbullah'a karşı operasyonlarını genişletmesinin ardından gerçekleştiği ifade edildi. Bölgedeki gerilimin arttığı bir dönemde yaşanan bu kayıplar, barış gücü misyonlarının karşılaştığı riskleri bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30541594/pexels-photo-30541594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:48:48.216Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177495055179589jad",
-        "title": "ABD-İsrail Saldırıları İran'da 11 Kişinin Ölümüne Neden Oldu",
-        "summary": "Batı İran'da gerçekleşen ve ABD ile İsrail'e atfedilen saldırılarda 11 kişinin hayatını kaybettiği, 15 kişinin ise yaralandığı bildirildi. İranlı yetkililer, saldırıların Markazi eyaletindeki yerleşim bölgelerini hedef aldığını açıkladı. Bu olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda endişelere yol açtı. Saldırıların detayları ve hedefleri hakkında soruşturma başlatıldığı öğrenildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32702229/pexels-photo-32702229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:49:11.795Z",
-        "location": {
-            "lat": 34.1,
-            "lng": 49.7,
-            "name": "Markazi Eyaleti, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-israeli-strikes-kill-11-wound-15-in-western-iran/3886257",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774950572747qte42",
-        "title": "Suudi Arabistan'ın orta kesimlerinde evlere düşen insansız hava aracı enkazı nedeniyle 2 kişi yaralandı",
-        "summary": "Suudi Arabistan'ın orta kesimlerinde evlere düşen insansız hava aracı enkazı nedeniyle iki kişi yaralandı. Sivil Savunma yetkilileri, engellenen bir insansız hava aracına ait parçaların konutlara ve araçlara hafif hasar verdiğini bildirdi. Olayın ardından bölgede güvenlik önlemleri artırıldı. Yaralıların durumunun iyi olduğu belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2050718/pexels-photo-2050718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:49:32.747Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Orta Suudi Arabistan, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-injured-as-drone-debris-falls-on-homes-in-central-saudi-arabia/3886221",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
