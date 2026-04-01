@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775085894939ij3ia",
+        "title": "SpaceX Halka Arz Başvurusu Yaptı, Elon Musk'ı İlk Trilyoner Yapma Potansiyeli Taşıyor",
+        "summary": "Amerikan uzay taşımacılığı ve uydu internet şirketi SpaceX'in halka arz (IPO) başvurusu yaptığı bildirildi. Bu önemli adımın, şirketin kurucusu ve CEO'su Elon Musk'ı dünyanın ilk trilyoneri yapma potansiyeli taşıdığı belirtiliyor. SpaceX, geniş uydu ağı Starlink ve uzay keşfi misyonlarına odaklanmasıyla dünya genelinde kamuoyunun dikkatini çekmeyi başardı. Halka arzın, şirketin gelecekteki büyüme ve operasyonları için önemli bir finansman sağlayacağı ve küresel uzay endüstrisindeki konumunu daha da güçlendireceği öngörülüyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/586040/pexels-photo-586040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T23:24:54.939Z",
+        "location": {
+            "lat": 33.9208,
+            "lng": -118.3526,
+            "name": "Hawthorne, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/1/spacex-files-to-go-public-paving-way-to-make-elon-musk-first-trillionaire?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1775085951271p69b0",
+        "title": "İsrail Ordusu: İran'daki Stratejik Hedeflerin Neredeyse Tamamı Etkisiz Hale Getirildi",
+        "summary": "İsrail ordusu, İran'daki neredeyse tüm 'stratejik' hedeflerin operasyon dışı bırakıldığını iddia etti. İbranice bir gazetede yer alan habere göre, söz konusu saldırılar İran'ın askeri-endüstriyel ve nükleerle ilgili tesislerini hedef aldı. Bu açıklama, iki ülke arasındaki gerilimin tırmandığı bir dönemde geldi ve bölgedeki güvenlik dinamikleri üzerinde önemli etkileri olabileceği belirtiliyor. Detaylar henüz netleşmezken, iddiaların doğruluğu uluslararası kamuoyu tarafından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4192/sport-alley-ball-game.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-01T23:25:51.271Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-nearly-all-strategic-targets-in-iran-put-out-of-operation/3888684",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177507739486418yts",
         "title": "İran Cumhurbaşkanı Pezeşkian'dan ABD Halkına 'Savaş Kimin Çıkarlarına Hizmet Ediyor?' Sorusu",
         "summary": "İran Cumhurbaşkanı Mesud Pezeşkian, ABD halkına hitaben açık bir mektup yayımladı. Mektubunda Amerikalıları, devam eden savaşla ilgili 'çarpıtmalar selinin' ötesini görmeye çağırdı. Pezeşkian, savaşın kimlerin çıkarlarına hizmet ettiğini sorgulayarak, bölgesel ve uluslararası arenadaki gerilimlere dikkat çekti. Bu hamle, İran'ın dış politika yaklaşımını ve ABD ile ilişkilerindeki duruşunu yansıtıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/3/31/sudan-war-being-fought-on-womens-bodies-survivors-detail-sexual-assault?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774950414256pv7il",
-        "title": "Filistin haftalık özeti: Kutsal mekanlar kapalı kalırken ölümcül şiddet yayılıyor",
-        "summary": "Filistin topraklarında ve özellikle Doğu Kudüs'te gerilim tırmanmaya devam ediyor. İsrail makamlarının bölgedeki kontrolü ele geçirme çabaları sürerken, kutsal mekanların kapatılması dikkat çekiyor. Bu süreçte yerleşimci saldırıları ve Doğu Kudüs'teki tahliyeler, ölümcül şiddetin yayılmasına neden oluyor. Yaşanan olaylar, bölgedeki güvenlik ve insan hakları durumuna ilişkin endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553686/pexels-photo-8553686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:46:54.256Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/31/palestine-weekly-wrap-holy-sites-remain-closed-as-deadly-violence-spreads?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774950435705uy1dd",
-        "title": "Video: Gazze'den tahliye edilen bebekler iki yıldan uzun süre sonra yürümeye başlayan çocuklar olarak geri döndü",
-        "summary": "Gazze Şeridi'nden 2023 yılında tahliye edilen bir grup çocuğun aileleriyle yeniden bir araya geldiği bildirildi. O dönemde yeni doğan bebekler olan bu çocuklar, iki yıldan uzun bir sürenin ardından yürümeye başlayan çocuklar olarak Gazze'ye döndüler. Duygusal anlara sahne olan buluşmalarda, aileler uzun bir ayrılığın ardından çocuklarına kavuşmanın mutluluğunu yaşadı. Bu geri dönüşler, bölgedeki insani durumun ve çatışmaların çocuklar üzerindeki etkisini bir kez daha gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6148957/pexels-photo-6148957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:47:15.705Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/3/31/video-newborns-evacuated-from-gaza-return-as-toddlers-over-two-years-later?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
