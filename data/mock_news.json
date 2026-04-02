@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775144294628glc6y",
+        "title": "Avrupa Parlamentosu Üyesi Rima Hassan Fransız Polisi Tarafından Gözaltına Alındı",
+        "summary": "Avrupa Parlamentosu üyesi Rima Hassan, Fransa'da polis tarafından gözaltına alındı. Hassan'ın üyesi olduğu La France Insoumise (Boyun Eğmeyen Fransa) partisi, bu gözaltı kararını sert bir dille kınadı. Parti yetkilileri, gözaltının Filistin destekçilerini 'sindirme' çabalarının bir parçası olduğunu iddia etti. Bu olay, Fransa'da Filistin yanlısı aktivistlere yönelik artan baskılar bağlamında değerlendiriliyor. Gözaltı, ifade özgürlüğü ve siyasi aktivizm konularında kamuoyunda tartışmaları beraberinde getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10474995/pexels-photo-10474995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T15:38:14.628Z",
+        "location": {
+            "lat": 46.603354,
+            "lng": 1.888334,
+            "name": "Fransa"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/2/european-parliament-member-rima-hassan-taken-into-french-police-custody?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1775144317231ehfy2",
+        "title": "CENTCOM, İran'a Yönelik Savaşın Beşinci Haftasında Hava Saldırıları Videosunu Yayımladı",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik hava saldırılarına ait görüntüleri kamuoyuyla paylaştı. Yayımlanan videolarda, İran topraklarında insansız hava araçları (İHA) ve tankların hedef alındığı görülüyor. Bu görüntüler, İran'a karşı yürütüldüğü belirtilen 'savaşın' beşinci haftasında ortaya çıktı. CENTCOM'un açıklaması, bölgedeki askeri gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16616972/pexels-photo-16616972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T15:38:37.231Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/2/centcom-releases-video-of-air-strikes-in-fifth-week-of-war-on-iran?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "17751443877864uwaw",
+        "title": "İranlı Nobel Ödüllü Mohammadi'nin Cezaevinde Kalp Krizi Geçirdiği İddia Edildi",
+        "summary": "İranlı Nobel Barış Ödülü sahibi Narges Mohammadi'nin cezaevinde şüpheli bir kalp krizi geçirdiği ailesi tarafından açıklandı. Ailesi, Mohammadi'nin hayatının tehlikede olmasından derin endişe duyduğunu ve acilen hastaneye sevk edilmesi gerektiğini vurguladı. Mohammadi'nin kardeşi, uluslararası topluma çağrıda bulunarak durumun ciddiyetine dikkat çekti. Bu gelişme, insan hakları savunucusunun sağlık durumu ve cezaevi koşulları hakkındaki endişeleri artırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/16452491/pexels-photo-16452491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T15:39:47.786Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775129701981h5hd8",
         "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 7 Kişi Hayatını Kaybetti, Hizbullah Kara Birliklerini Hedef Aldı",
         "summary": "Güney Lübnan'da çatışmalar şiddetlenerek devam ediyor. İsrail ordusu, bölgede bir 'güvenlik bölgesi' oluşturma ve Hizbullah'ı etkisiz hale getirme çabalarını sürdürüyor. Son olarak, İsrail'in düzenlediği saldırılarda 7 kişinin yaşamını yitirdiği bildirildi. Bu saldırılara karşılık olarak Hizbullah'ın İsrail kara birliklerini hedef aldığı belirtildi. Bölgedeki gerilim, taraflar arasındaki karşılıklı misillemelerle tırmanmaya devam ediyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/houthis-claim-joint-missile-attack-with-iran-hezbollah-on-israel/3887706",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775024035905n0z0k",
-        "title": "Irak, Bolivya'yı Yenerek FIFA Dünya Kupası 2026'ya Katılmaya Hak Kazandı",
-        "summary": "Irak Milli Futbol Takımı, Bolivya'yı 2-1 mağlup ederek 2026 FIFA Dünya Kupası'na katılma hakkı elde etti. Ali Al-Hamadi ve Aymen Hussein'in kaydettiği gollerle zafere ulaşan Irak, 1986'dan bu yana ilk kez Dünya Kupası'na katılma başarısı gösterdi. Bu tarihi başarı, ülke genelinde büyük bir coşku ve sevinçle karşılandı. Irak halkı, milli takımın bu önemli turnuvadaki mücadelesini heyecanla bekliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6275175/pexels-photo-6275175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T06:13:55.905Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775024072489ghw66",
-        "title": "Erbil Havalimanı Yakınlarında Drone Hasarı: Sakinler İncelemelerde Bulundu",
-        "summary": "Kuzey Irak'ta bulunan Erbil Uluslararası Havalimanı yakınlarında ikamet eden vatandaşlar, düşen drone enkazının mülklerinde hasara yol açtığını belirtti. Olayın ardından bölge sakinleri, evlerinde ve çevrelerinde meydana gelen zararları inceledi. Yetkililerden henüz resmi bir açıklama gelmezken, bölgede güvenlik endişeleri artıyor. Bu tür saldırılar, Erbil'deki sivil altyapı ve yerleşim yerleri için tehdit oluşturmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33404405/pexels-photo-33404405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T06:14:32.489Z",
-        "location": {
-            "lat": 36.19,
-            "lng": 44.01,
-            "name": "Erbil, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/residents-inspect-drone-damage-near-erbil-airport?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775024093654zg7i8",
-        "title": "Amerikalı Gazeteci Bağdat'ta Kaçırıldı",
-        "summary": "Irak'ın başkenti Bağdat'ta Amerikalı serbest gazeteci Shelly Kittleson'ın kaçırıldığı bildirildi. Olay, gün ortasında meydana gelirken, kaçırılma anına ilişkin detaylar henüz netleşmedi. Irak güvenlik güçleri, gazetecinin bulunması ve olayın faillerinin yakalanması için geniş çaplı bir soruşturma başlattı. Bu olay, bölgede görev yapan gazetecilerin güvenliği konusundaki endişeleri bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7714894/pexels-photo-7714894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T06:14:53.654Z",
-        "location": {
-            "lat": 33.34,
-            "lng": 44.39,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/american-journalist-kidnapped-in-baghdad?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
