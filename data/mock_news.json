@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775107547045w732h",
+        "title": "Trump: İran'da 32 Günde 'Başarı' İddia Ettik",
+        "summary": "ABD Başkanı Donald Trump, İran'da sadece 32 gün içinde \"başarı\" elde ettiklerini öne sürdü. Trump, bu sürenin ABD'nin uzun süreli savaşlarına kıyasla çok daha kısa olduğunu belirtti. Daha önce İran'ı \"Orta Doğu'nun kabadayısı\" olarak nitelendiren Trump, ülkenin artık bir \"tehdit\" olmadığını ifade etti. Bu açıklamalar, ABD'nin İran politikasına yönelik değerlendirmelerini ve bölgedeki güvenlik algısını yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12618167/pexels-photo-12618167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T05:25:47.045Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775107584249qnsxy",
+        "title": "Trump'tan Hürmüz Boğazı'na Bağımlı Ülkelere İran'a Karşı Savaş Çağrısı",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndan petrol tedarikine bağımlı olan ülkeleri, yakıt temin edememeleri durumunda İran'a karşı olası bir savaşa dahil olmaya çağırdı. Trump, bu ülkelerin \"gecikmiş bir cesaret\" sergilemeleri gerektiğini belirtti. Açıklama, Orta Doğu'da gerilimin yüksek olduğu bir dönemde geldi ve bölgedeki enerji güvenliği ile siyasi istikrara yönelik endişeleri artırdı. Bu çağrı, uluslararası kamuoyunda geniş yankı uyandırırken, bölgedeki güç dengeleri ve diplomatik ilişkiler üzerinde potansiyel etkiler yaratabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7514249/pexels-photo-7514249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T05:26:24.249Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-urges-countries-get-involved-in-war-on-iran-if-they-cant-get-fuel?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1775085894939ij3ia",
         "title": "SpaceX Halka Arz Başvurusu Yaptı, Elon Musk'ı İlk Trilyoner Yapma Potansiyeli Taşıyor",
         "summary": "Amerikan uzay taşımacılığı ve uydu internet şirketi SpaceX'in halka arz (IPO) başvurusu yaptığı bildirildi. Bu önemli adımın, şirketin kurucusu ve CEO'su Elon Musk'ı dünyanın ilk trilyoneri yapma potansiyeli taşıdığı belirtiliyor. SpaceX, geniş uydu ağı Starlink ve uzay keşfi misyonlarına odaklanmasıyla dünya genelinde kamuoyunun dikkatini çekmeyi başardı. Halka arzın, şirketin gelecekteki büyüme ve operasyonları için önemli bir finansman sağlayacağı ve küresel uzay endüstrisindeki konumunu daha da güçlendireceği öngörülüyor.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/eu-reiterates-push-for-further-action-against-israeli-occupiers-groups-backing-violence-in-west-bank/3886549",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1774959076574f0xvx",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 5 Kişi Hayatını Kaybetti",
-        "summary": "İsrail ordusu, Güney Lübnan'daki çeşitli bölgelere yönelik hava saldırıları gerçekleştirdiğini açıkladı. Yerel kaynaklardan alınan bilgilere göre, saldırılarda ilk belirlemelere göre 5 kişi hayatını kaybederken, 3 kişi de yaralandı. Bu operasyonlar, bölgedeki gerilimi artırarak sınır hattındaki güvenlik durumunu daha da karmaşık hale getirdi. Lübnan makamları saldırıları kınayarak uluslararası toplumu duruma müdahale etmeye çağırırken, olay sonrası bölgede güvenlik önlemleri en üst seviyeye çıkarıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5213373/pexels-photo-5213373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T12:11:16.574Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.4,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-kill-5-wound-3-in-southern-lebanon/3886543",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1774950391022d2h44",
-        "title": "Sudan'daki savaş 'kadın bedenleri üzerinde yürütülüyor': Hayatta kalanlar cinsel saldırıları detaylandırdı",
-        "summary": "Sınır Tanımayan Doktorlar (MSF) tarafından yayımlanan yeni bir rapora göre, Sudan'daki çatışmanın \"belirleyici özelliği\" cinsel şiddet olarak öne çıkıyor. Raporda, savaşın kadın bedenleri üzerinde yürütüldüğü ve hayatta kalanların maruz kaldığı cinsel saldırıların detayları aktarılıyor. Bu durum, ülkedeki insani krizin derinliğini ve kadınlara yönelik şiddetin boyutunu bir kez daha gözler önüne seriyor. Uluslararası toplumun bu ciddi insan hakları ihlallerine karşı acil önlem alması ve mağdurlara destek sağlaması gerektiği belirtiliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5700176/pexels-photo-5700176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-03-31T09:46:31.022Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.5,
-            "name": "Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/3/31/sudan-war-being-fought-on-womens-bodies-survivors-detail-sexual-assault?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
