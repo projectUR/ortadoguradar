@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775167509668tswqv",
+        "title": "9 yaşındaki çocuk, Lübnan'da tüm ailesini öldüren hava saldırısını anlattı",
+        "summary": "Lübnan'da yaşanan bir hava saldırısında ailesini kaybeden 9 yaşındaki Karim Al-Haj Hussein, olayı anlattı. Çocuğun evine düzenlenen saldırının İsrail tarafından gerçekleştirildiği belirtildi. Saldırı, Lübnan'ın Baalbek bölgesinde meydana geldi. Karim, saldırıdan sağ kurtulurken, ailesinin diğer üyeleri hayatını kaybetti. Olay, bölgedeki gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28309862/pexels-photo-28309862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-02T22:05:09.668Z",
+        "location": {
+            "lat": 34,
+            "lng": 36.2,
+            "name": "Baalbek, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "177516029576718p91",
         "title": "Yamal, İspanya'nın Dünya Kupası Final Umutları Gölgelenirken Müslüman Karşıtı Tezahüratları Kınadı",
         "summary": "Genç futbolcu Lamine Yamal, İspanya'nın 2030 Dünya Kupası finaline ev sahipliği yapma çabalarını sürdürdüğü bir dönemde, Mısır ile oynanan hazırlık maçında yaşanan Müslüman karşıtı ve yabancı düşmanı taraftar tezahüratlarını sert bir dille kınadı. Bu olay, İspanyol futbolunun uluslararası imajını olumsuz etkileyebilecek bir gelişme olarak değerlendiriliyor. Yamal'ın açıklamaları, spor dünyasında ırkçılık ve ayrımcılıkla mücadele çağrılarını yeniden gündeme getirirken, uluslararası kamuoyunda da yankı buldu. Yaşanan bu durum, İspanya'nın Dünya Kupası adaylığı sürecinde ek bir baskı unsuru oluşturdu.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1775038736797j304y",
-        "title": "İsrail, Hizbullah ile savaş sonrası Güney Lübnan'ın bir kısmında kontrolü sürdüreceğini açıkladı",
-        "summary": "İsrail Savunma Bakanı Israel Katz, Hizbullah ile savaş sona erdikten sonra Güney Lübnan'ın belirli bölgelerinde kontrolü sürdüreceklerini bildirdi. Bakan Katz ayrıca, İsrail sınırına yakın Lübnan köylerindeki evlerin yıkılacağını belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek ve gelecekteki sınır düzenlemelerine dair önemli bir sinyal olarak değerlendiriliyor. İsrail'in bu tutumu, Lübnan ile olan ilişkilerde yeni bir döneme işaret edebilirken, uluslararası toplumun tepkisi merakla bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27970289/pexels-photo-27970289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T10:18:56.797Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
