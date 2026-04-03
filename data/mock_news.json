@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775246558596cskgy",
+        "title": "DSÖ: 1 Mart'tan Bu Yana İran Sağlık Tesislerine 20'den Fazla Saldırı Düzenlendi",
+        "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Tedros Adhanom Ghebreyesus, İran'daki sağlık tesislerine yönelik çok sayıda saldırının rapor edildiğini açıkladı. DSÖ'nün verilerine göre, 1 Mart'tan bu yana İran genelinde sağlık tesislerine 20'den fazla saldırı düzenlendiği kaydedildi. Bu saldırıların, sağlık hizmetlerinin sunumunu ciddi şekilde aksattığı ve insani yardımlara erişimi zorlaştırdığı belirtildi. Örgüt, sağlık altyapısına yönelik bu tür eylemlerin uluslararası hukukun ihlali anlamına geldiğini vurgulayarak, tüm tarafları sağlık tesislerini korumaya çağırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33790183/pexels-photo-33790183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T20:02:38.596Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17752466138154bgh6",
+        "title": "ABD Savaş Uçağı İran Üzerinde Düştü: Bir Mürettebat Kurtarıldı, Kayıp Diğeri İçin Ödül İddiası",
+        "summary": "ABD medyası tarafından aktarılan bilgilere göre, İran hava sahası üzerinde bir ABD savaş uçağı düştü. Olayın ardından uçağın mürettebatından bir kişinin kurtarıldığı bildirildi. Ancak İran medyası, kayıp olduğu düşünülen diğer bir ABD mürettebatını bulmak için ödül teklif edildiğini duyurdu. Bu durum, iki ülke arasındaki gerilimi yeniden gündeme getirdi ve bölgedeki güvenlik dinamiklerini etkileyebilecek bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35033990/pexels-photo-35033990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T20:03:33.815Z",
+        "location": {
+            "lat": 33,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c3r395l91l3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775246649916dqtz7",
+        "title": "Uzmanlar, Lamerd'deki ölümcül İran spor salonu saldırısıyla ilgili ABD açıklamasını tartışıyor",
+        "summary": "Altı silah uzmanı, ABD'nin Lamerd'deki bir spor salonuna İran füzesinin isabet ettiğini gösteren video kanıtları olduğu yönündeki iddiasına karşı çıktı. Uzmanlar, ABD'nin bu açıklamasının doğruluğunu sorgulayarak, olayın farklı bir şekilde gerçekleşmiş olabileceğini belirtiyor. Bu durum, İran'da meydana gelen bir saldırının sorumluluğu ve niteliği konusunda uluslararası düzeyde bir anlaşmazlığa işaret ediyor. Olayın detayları ve füzenin kaynağı hakkındaki tartışmalar devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T20:04:09.916Z",
+        "location": {
+            "lat": 27.36,
+            "lng": 53.19,
+            "name": "Lamerd, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775239531781hwmdi",
         "title": "İran Savaşı Ne Zaman Biter? Trump Yönetiminin Zaman Çizelgelerini Takip Etmek",
         "summary": "Haber, İran ile olası bir çatışmanın sona erme zamanlamasını ele alıyor. Özellikle Trump yönetiminin bu konudaki tahminleri ve zaman çizelgeleri inceleniyor. Uzmanlar, ABD başkanlarının geçmişte birçok çatışma için bitiş tarihleri öngördüğünü, ancak bu tahminlerin genellikle değiştiğini belirtiyor. Bu durum, İran ile ilgili potansiyel bir çatışmanın süresine dair belirsizlikleri gündeme getiriyor. Analiz, ABD'nin İran politikalarının tarihsel bağlamını ve gelecekteki olası senaryoları değerlendiriyor.",
@@ -748,54 +796,6 @@
             "name": "Washington D.C., ABD"
         },
         "source": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775119360822mau46",
-        "title": "İsrail'in İran ile Süregelen Mücadelesi Askeri Güçle Tek Başına Kazanılamayabilir",
-        "summary": "İsrail'in İran ile devam eden mücadelesinin sadece askeri güçle başarıya ulaşmasının zor olabileceği belirtiliyor. Habere göre, İsrail Başbakanı'nın iddialarının aksine, İran ile yürütülen bu mücadelenin İsrail'in bölgesel çatışmalarından herhangi birini henüz çözmediği ifade ediliyor. Bu durum, İsrail'in bölgedeki güvenlik stratejilerinin etkinliği konusunda soru işaretleri yaratıyor. Analistler, askeri çözümlerin ötesinde farklı yaklaşımların gerekliliğine dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31983500/pexels-photo-31983500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:42:40.822Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775119382226og77b",
-        "title": "İsrail, Lübnan'a yönelik saldırılarını yoğunlaştırdı ve Hizbullah kontrolü dışındaki bölgeleri vurdu",
-        "summary": "İsrail, Lübnan'ın güneyine yönelik saldırılarını artırdı. İsrail ordusu, Hizbullah'ın kontrolünde olmayan bölgeleri de hedef aldığını duyurdu. Bu saldırılar, İsrail'in Lübnan'ın güneyindeki geniş alanları kontrol etme niyetini açıklamasının ardından devam ediyor. Bölgedeki gerilim tırmanırken, çatışmaların kapsamı genişliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:43:02.226Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17751194073795wkhh",
-        "title": "Çin, İran savaşında arabuluculuk yapmaya çalışıyor - başarılı olabilecek mi?",
-        "summary": "Pekin'in İran'daki çatışmaya yönelik resmi tepkisinin bugüne kadar sessiz kalması dikkat çekerken, Çin'in bu tutumunda önemli bir değişiklik yaşandığı belirtiliyor. Çin Halk Cumhuriyeti'nin şimdi İran savaşında arabulucu rolü üstlenme çabasına girdiği ifade ediliyor. Bu diplomatik adım, Pekin'in Orta Doğu'daki etkisini artırma ve bölgesel istikrara katkıda bulunma isteği olarak yorumlanıyor. Uzmanlar, Çin'in bu yeni girişiminin neden şimdi başladığını ve arabuluculuk çabalarının ne kadar etkili olabileceğini sorguluyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32570854/pexels-photo-32570854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:43:27.379Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
