@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775195778779ywp5i",
+        "title": "ABD-İran Gerilimi: Trump'tan Altyapı Saldırısı Uyarısı",
+        "summary": "ABD Başkanı Trump, İran'a yönelik tehditlerini artırdı. Bu gelişme, ABD'nin İran'ın en büyük köprüsüne düzenlediği saldırının ardından yaşandı. Öte yandan, Tahran'ın bölge genelinde saldırılar başlattığı bildirildi. Trump, altyapıya yönelik saldırıların 'henüz başlamadığını' belirterek gerilimi tırmandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/737471/pexels-photo-737471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T05:56:18.779Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775195861763h2ve7",
+        "title": "'Günlerdir uyumadım': İranlılar bir aylık savaşın ardından artan çaresizliği anlatıyor",
+        "summary": "İran'ın çeşitli bölgelerinden sıradan vatandaşlar, bir aylık savaşın ardından ülkede artan çaresizliği dile getiriyor. Halk, genişleyen grevler, derinleşen ekonomik sıkıntılar ve baskı korkusuyla karşı karşıya olduklarını belirtiyor. Bu durum, bölgesel gelişmelerin İran'ın iç dinamikleri üzerindeki etkisini gözler önüne seriyor. Vatandaşlar, günlük yaşamlarında karşılaştıkları zorlukların giderek arttığını ve geleceğe dair endişelerinin yükseldiğini ifade ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/30549698/pexels-photo-30549698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T05:57:41.763Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1775174516827x8ksd",
         "title": "Hak Grupları ve Milwaukee Liderleri, Filistinli Aktivistin ICE Tarafından Tutuklanmasını Kınadı",
         "summary": "Milwaukee İslam Toplumu Başkanı ve tanınmış bir Filistinli aktivist olan Salah Sarsour'un, 30 Mart tarihinde araç kullanırken ABD Göçmenlik ve Gümrük Muhafaza (ICE) yetkilileri tarafından gözaltına alındığı bildirildi. Bu tutuklama, insan hakları örgütleri ve Milwaukee'deki yerel liderler tarafından sert bir şekilde eleştirildi. Kınayan gruplar, Sarsour'un gözaltına alınmasının nedenlerini sorgularken, bu tür eylemlerin topluluklar üzerindeki potansiyel etkisine dikkat çekti. Olay, ABD'deki Filistinli diasporası ve göçmenlik politikalarıyla ilgili tartışmaları yeniden gündeme getirdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/us-military-activity-expands-in-europe-with-a-10-deployment-b-52-bombers-amid-war-with-iran/3888314",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17750386227637axg2",
-        "title": "Husiler, İsrail'e Ortak Füze Saldırısı Düzenlediğini İddia Etti",
-        "summary": "Yemen'deki Husiler, İsrail'e yönelik bir füze saldırısı gerçekleştirdiklerini açıkladı. Yapılan açıklamada, bu saldırının İran ve Lübnan merkezli Hizbullah ile koordineli bir şekilde düzenlendiği iddia edildi. Bu gelişme, Orta Doğu'daki mevcut gerilimi daha da tırmandırabilecek nitelikte. Saldırının hedefi ve yol açtığı sonuçlara dair detaylar henüz netleşmezken, İsrail'den konuya ilişkin resmi bir açıklama bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T10:17:02.763Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.75,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/1/houthis-claim-joint-missile-attack-on-israel-with-iran-and-hezbollah?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17750386510907ej26",
-        "title": "Türkiye, 24 Yıllık Dünya Kupası Hasretine Son Verdi",
-        "summary": "Türkiye A Milli Futbol Takımı, Kosova'yı mağlup ederek 24 yıllık Dünya Kupası hasretine son verdi. Bu zaferle Türkiye, 2002 yılından bu yana ilk kez futbolun en büyük turnuvasına katılma hakkı elde etti. 2002'deki turnuvada üçüncü olarak büyük bir başarıya imza atan Türkiye, bu yeni başarıyla taraftarlarına büyük bir sevinç yaşattı. Milli takımın bu başarısı, ülke genelinde geniş yankı buldu ve büyük bir coşkuyla karşılandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/13848885/pexels-photo-13848885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-01T10:17:31.090Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 32.9,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/1/turkiye-beat-kosovo-to-end-24-year-world-cup-wait?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
