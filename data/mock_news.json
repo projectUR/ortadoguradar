@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775253543005epfby",
+        "title": "Lübnan'daki Hristiyanlar İsrail Saldırıları Altında Kutsal Cuma'yı İdrak Etti",
+        "summary": "Lübnan genelindeki Hristiyanlar, Kutsal Cuma ayinlerini gerçekleştirdi. Bu önemli dini gün, İsrail'in devam eden saldırıları ve bölgedeki tahliye emirlerinin gölgesinde yaşandı. Hristiyan cemaatler, ibadetlerinde özellikle barış ve istikrar için dualar etti. Ülke, bölgedeki gerilimin artmasıyla zorlu bir dönemden geçiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T21:59:03.005Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177525359976484coz",
+        "title": "İran'daki Köprü Saldırısının Kurtulanları ABD-İsrail Saldırısının Dehşetini Hatırlıyor",
+        "summary": "İran'ın en büyük karayolu köprüsüne düzenlenen ABD-İsrail saldırısından kurtulanlar, füzelerin köprüyü vurduğu anlarda yaşadıkları dehşeti anlattı. Görgü tanıkları, saldırının şiddetiyle büyük bir panik yaşandığını ve çevrede önemli hasar oluştuğunu belirtti. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının sorumluluğunu henüz üstlenen olmadı. Bu gelişme, Orta Doğu'daki gerilimi daha da tırmandırabilecek potansiyele sahip olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18723049/pexels-photo-18723049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T21:59:59.764Z",
+        "location": {
+            "lat": 32.4,
+            "lng": 53.7,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775246558596cskgy",
         "title": "DSÖ: 1 Mart'tan Bu Yana İran Sağlık Tesislerine 20'den Fazla Saldırı Düzenlendi",
         "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Tedros Adhanom Ghebreyesus, İran'daki sağlık tesislerine yönelik çok sayıda saldırının rapor edildiğini açıkladı. DSÖ'nün verilerine göre, 1 Mart'tan bu yana İran genelinde sağlık tesislerine 20'den fazla saldırı düzenlendiği kaydedildi. Bu saldırıların, sağlık hizmetlerinin sunumunu ciddi şekilde aksattığı ve insani yardımlara erişimi zorlaştırdığı belirtildi. Örgüt, sağlık altyapısına yönelik bu tür eylemlerin uluslararası hukukun ihlali anlamına geldiğini vurgulayarak, tüm tarafları sağlık tesislerini korumaya çağırdı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/gallery/2026/4/2/mourners-vow-resistance-as-iran-marks-islamic-republics-47th-anniversary?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1775119313846idhcc",
-        "title": "Trump: İran'a Yönelik Savaş Hedefleri Tamamlanmak Üzere",
-        "summary": "ABD Başkanı Donald Trump, İran ile yaşanan gerilime ilişkin ulusa sesleniş konuşmasında önemli açıklamalarda bulundu. Trump, İran'a yönelik savaş hedeflerinin 'tamamlanmak üzere olduğunu' ifade etti. Bu konuşma, ABD ile İran arasındaki çatışmanın ilk televizyon yayını olarak kayıtlara geçti. Ancak, Başkan Trump'ın bu açıklamaları, uluslararası piyasalardaki tedirginliği gidermekte yetersiz kaldı ve piyasalar gerilimin seyrine ilişkin belirsizliğini korudu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:41:53.846Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775119338414ihgwn",
-        "title": "Trump, İran savaşı endişelerini yatıştırmaya çalışırken kilit soruları yanıtsız bıraktı",
-        "summary": "ABD Başkanı Donald Trump'ın İran ile olası bir savaşa ilişkin endişeleri giderme çabaları, önemli soruları yanıtsız bırakmasıyla eleştirilere neden oldu. BBC muhabiri Gary O'Donoghue'nun analizine göre, başkanın prime-time konuşmasında dikkat çekici eksiklikler bulunuyordu. Bu durum, bölgedeki gerilimin azaltılmasına yönelik beklentileri karşılamakta yetersiz kaldığı yorumlarına yol açtı. Konuşmanın, İran'la ilgili gelecekteki adımlar ve stratejiler hakkında netlik sağlamadığı belirtildi. Analistler, Trump yönetiminin İran politikasına dair belirsizliğin devam ettiğini vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4570569/pexels-photo-4570569.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:42:18.414Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
