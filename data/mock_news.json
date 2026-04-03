@@ -1,5 +1,21 @@
 [
     {
+        "id": "17752254251583vdxy",
+        "title": "ABD ve İsrail'den İran'ın İlaç ve Aşı Tedarikine Yönelik 'Savaş' İddiası",
+        "summary": "ABD ve İsrail'in İran'ın ilaç ve aşı tedarikine karşı bir 'savaş' yürüttüğü öne sürülüyor. Habere göre, İran'daki birçok sağlık tesisinden biri olan Pasteur Enstitüsü'nün hedef alındığı belirtiliyor. Bu durumun, İran'ın sağlık altyapısı ve halk sağlığı üzerinde ciddi olumsuz etkiler yaratabileceği ifade ediliyor. Gelişmeler, ABD ve İsrail ile İran arasındaki mevcut gerilimin yeni bir boyutunu ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640438/pexels-photo-7640438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-03T14:10:25.158Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/3/how-the-us-and-israel-are-waging-war-on-irans-medicines-vaccines?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775215544849tjezf",
         "title": "Gazze'de Bir Ev Nasıl Yeniden İnşa Edilir: Moloz, Çamur ve Saç",
         "summary": "Gazze Şeridi'nde evlerin yeniden inşası süreci, bölgedeki yıkımın boyutunu ve karşılaşılan zorlukları gözler önüne seriyor. Tam teşekküllü bir yeniden yapılanma yerine, kısmi onarım ve rehabilitasyon çalışmaları öne çıkıyor. Bölge sakinleri, kalıcı konutlara erişim sıkıntısı nedeniyle geçici barınma çözümlerine yönelmek zorunda kalıyor. Bu durum, Gazze'deki insani krizi ve altyapı sorunlarını derinleştiriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iranian-army-threatens-stronger-wider-more-destructive-attacks-against-us-israel/3888863",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1775119519738zjmrk",
-        "title": "Abu Dabi sanayi bölgesi yakınlarında füze enkazı hafif hasara neden oldu",
-        "summary": "Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'deki bir sanayi bölgesi yakınlarında füze enkazının düşmesi sonucu hafif maddi hasar meydana geldi. Yetkililer, hava savunma sistemlerinin bir füzeyi başarıyla engellediğini duyurdu. Olayda herhangi bir can kaybı veya yaralanma yaşanmadığı bildirildi. Güvenlik güçleri, bölgede gerekli incelemeleri başlatırken, durumun kontrol altında olduğu belirtildi. Bu tür olaylar, bölgedeki güvenlik endişelerini artırmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31351508/pexels-photo-31351508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T08:45:19.738Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/missile-debris-causes-minor-damage-near-abu-dhabi-industrial-zone/3888850",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
