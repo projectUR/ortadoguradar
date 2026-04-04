@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775331951272nfpkf",
+        "title": "ABD ve İsrail'in İran Altyapısına Yönelik Saldırıları Üniversiteleri Etkiledi",
+        "summary": "ABD ve İsrail'in İran'ın altyapısına yönelik artan saldırılarının, ülkedeki eğitim kurumlarını da hedef aldığı bildirildi. İranlı yetkililer tarafından yapılan açıklamalara göre, savaşın başlangıcından bu yana ABD ve İsrail kaynaklı saldırılar sonucunda en az 30 üniversitenin etkilendiği belirtildi. Bu durum, İran'ın kritik altyapısının ve eğitim sektörünün siber veya diğer türdeki saldırılardan zarar gördüğüne işaret ediyor. Saldırıların niteliği ve kapsamı hakkında detaylı bilgi verilmezken, bu gelişmeler bölgedeki gerilimi daha da tırmandırabilecek potansiyel taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30901558/pexels-photo-30901558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T19:45:51.272Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/4/universities-hit-as-us-israel-ramp-up-attacks-on-irans-infrastructure?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775331972406qc1a4",
+        "title": "İran Kıyı Şeridi: Kontrol Mimarisi",
+        "summary": "İran'ın kıyı şeridi ve stratejik adaları, ülkenin bölgesel kontrol mimarisini gözler önüne seriyor. Haber, İran'ın Basra Körfezi ve Umman Denizi'ndeki jeopolitik konumunu ve denizcilik stratejilerini detaylı bir şekilde inceliyor. Bu coğrafi özellikler, İran'ın bölgesel güvenlik ve güç dengeleri üzerindeki etkisini anlamak için kritik öneme sahip. Analiz, ülkenin bu stratejik bölgelerdeki varlığını ve altyapısını kullanarak bölgesel etkisini nasıl pekiştirdiğini ele alıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29133312/pexels-photo-29133312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T19:46:12.406Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/4/irans-coastline-architecture-of-control?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775332040034mb7xd",
+        "title": "BM Gözlemcisi, İran'ın Nükleer Tesisine Yönelik Saldırı İddiaları Üzerine Endişesini Dile Getirdi",
+        "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA), İran'ın Buşehr nükleer santraline yönelik yeni saldırı iddiaları üzerine \"derin endişe\" duyduğunu açıkladı. Ajans, nükleer bir kazayı önlemek amacıyla tüm taraflara itidal çağrısında bulundu. İran'ın Buşehr'deki nükleer tesisine yönelik saldırı bildirimleri, bölgedeki nükleer güvenliğe ilişkin endişeleri artırıyor. UAEA, tesisin güvenliğinin sağlanması ve gerilimin düşürülmesi gerektiğini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9703551/pexels-photo-9703551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T19:47:20.034Z",
+        "location": {
+            "lat": 28.97,
+            "lng": 50.83,
+            "name": "Buşehr, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1775324958430dqy7j",
         "title": "ABD, Kasım Süleymani'nin Yeğeninin Oturum İznini İptal Etti",
         "summary": "ABD Dışişleri Bakanlığı, İranlı General Kasım Süleymani'nin yeğeni Hamideh Süleymani Afshar'ın ABD oturum iznini iptal ettiğini açıkladı. Senatör Marco Rubio'nun da desteklediği bu kararın gerekçesi olarak, Afshar'ın İran'ın \"açık sözlü bir destekçisi\" olması gösterildi. Bakanlık, bu adımın İran rejimine yönelik genel politikalar ve yaptırımlar kapsamında atıldığını belirtti. Bu gelişme, ABD'nin İran'a karşı uyguladığı baskı politikasının bir devamı olarak değerlendirilmektedir. Karar, iki ülke arasındaki mevcut gerilimi yansıtan diplomatik bir gelişme niteliğindedir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/sports/2026/4/3/iranian-women-footballers-reveal-enormous-pressure-of-the-asian-cup-saga?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": false
-    },
-    {
-        "id": "17752055028807ih5v",
-        "title": "ABD ve İsrail'den İran'a Yeni Saldırılar: Tahran Yakınlarındaki Hedefler Vuruldu",
-        "summary": "ABD ve İsrail güçlerinin İran'a yönelik saldırıları 35. gününe girerken, Tahran yakınlarındaki hedeflere yeni saldırılar düzenlendiği bildirildi. Haberlere göre, saldırılarda yüzyıllık bir tıbbi araştırma merkezi ile stratejik öneme sahip bir köprü hedef alındı. Bu gelişmeler, bölgedeki gerilimin devam ettiğini ve çatışmaların sürdüğünü gösteriyor. Saldırıların yol açtığı hasar ve can kaybı hakkında detaylı bilgi henüz verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12325254/pexels-photo-12325254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:38:22.880Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
-        "trendScore": 92,
-        "isBreaking": true
-    },
-    {
-        "id": "1775205522872i6tvz",
-        "title": "BBC Analiz Editörü Ros Atkins, İran Savaşı'nın Maliyetini İnceliyor",
-        "summary": "BBC Analiz Editörü Ros Atkins, ABD'nin İran ile devam eden savaşındaki maliyetlerini mercek altına aldı. Haberde, ABD'nin bu çatışmada karşılaştığı ekonomik yükler ve harcamalar detaylı bir şekilde ele alınıyor. Atkins, savaşın ABD bütçesi üzerindeki etkilerini ve uzun vadeli finansal sonuçlarını değerlendiriyor. Bu analiz, ABD'nin İran politikalarının ekonomik boyutlarına ışık tutuyor ve kamuoyuna bilgi sunmayı amaçlıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9482199/pexels-photo-9482199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:38:42.872Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775205550277aqck2",
-        "title": "İran'ın En Büyük İki Çelik Fabrikası Hava Saldırıları Nedeniyle Kapandı",
-        "summary": "İran'ın en büyük iki çelik fabrikasının, şirketlerin açıklamasına göre hava saldırıları sonucu faaliyetlerini durdurduğu bildirildi. İranlı yetkililer, geçtiğimiz hafta gerçekleşen bu saldırıların İsrail tarafından ABD ile koordineli bir şekilde düzenlendiğini iddia ediyor. Bu saldırıların, İran ekonomisine ciddi boyutlarda zarar verebileceği belirtiliyor. Olay, bölgedeki gerilimi artırabilecek önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34098896/pexels-photo-34098896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:39:10.277Z",
-        "location": {
-            "lat": 32.65,
-            "lng": 51.67,
-            "name": "İsfahan, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
