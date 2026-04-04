@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775300769010neun1",
+        "title": "İran'ın Buşehr nükleer santraline düzenlenen saldırılarda 1 kişi öldü",
+        "summary": "İran'ın Buşehr nükleer santraline yönelik düzenlenen saldırılarda bir kişinin hayatını kaybettiği bildirildi. Uluslararası Atom Enerjisi Ajansı (UAEA) tarafından yapılan açıklamada, santraldeki radyasyon seviyelerinde herhangi bir artış tespit edilmediği belirtildi. Buşehr, İran'ın güneybatısında Basra Körfezi kıyısında yer alan önemli bir nükleer tesis konumundadır. Olayın detaylarına ilişkin henüz resmi bir açıklama yapılmazken, saldırının niteliği ve sorumluları hakkında bilgi verilmedi. UAEA'nın açıklaması, olayın nükleer güvenlik açısından anlık bir tehdit oluşturmadığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32966555/pexels-photo-32966555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T11:06:09.010Z",
+        "location": {
+            "lat": 28.96,
+            "lng": 50.83,
+            "name": "Buşehr, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/1-killed-in-strikes-on-irans-bushehr-nuclear-plant/3891603",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "177529665663144xz9",
         "title": "Manchester City ve Liverpool FA Cup Çeyrek Finalinde Karşı Karşıya Geliyor",
         "summary": "İngiltere FA Cup çeyrek finalinde Manchester City, Etihad Stadyumu'nda Liverpool'u ağırlayacak. Abu Dabi Birleşik Grubu'na ait olan Manchester City, Birleşik Arap Emirlikleri'nin küresel spor yatırımlarının önemli bir temsilcisi konumunda. Maç öncesi hazırlıklar, analizler ve canlı anlatım, futbolseverler tarafından yakından takip edilecek. Bu karşılaşma, İngiliz futbolunun iki devini bir araya getirirken, aynı zamanda Orta Doğu sermayesinin küresel spor üzerindeki etkisini de gözler önüne seriyor. Etihad Havayolları'nın sponsorluğundaki stadyumda oynanacak mücadele, turnuvada yarı finale yükselmek için kritik bir öneme sahip.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775174516827x8ksd",
-        "title": "Hak Grupları ve Milwaukee Liderleri, Filistinli Aktivistin ICE Tarafından Tutuklanmasını Kınadı",
-        "summary": "Milwaukee İslam Toplumu Başkanı ve tanınmış bir Filistinli aktivist olan Salah Sarsour'un, 30 Mart tarihinde araç kullanırken ABD Göçmenlik ve Gümrük Muhafaza (ICE) yetkilileri tarafından gözaltına alındığı bildirildi. Bu tutuklama, insan hakları örgütleri ve Milwaukee'deki yerel liderler tarafından sert bir şekilde eleştirildi. Kınayan gruplar, Sarsour'un gözaltına alınmasının nedenlerini sorgularken, bu tür eylemlerin topluluklar üzerindeki potansiyel etkisine dikkat çekti. Olay, ABD'deki Filistinli diasporası ve göçmenlik politikalarıyla ilgili tartışmaları yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7714795/pexels-photo-7714795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T00:01:56.827Z",
-        "location": {
-            "lat": 43.0389,
-            "lng": -87.9065,
-            "name": "Milwaukee, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/2/rights-groups-milwaukee-leaders-slam-ices-arrest-of-palestinian-advocate?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
