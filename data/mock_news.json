@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775336577733xbqi9",
+        "title": "Endonezya, Güney Lübnan'da Ölen Barış Gücü Askerlerinin Cenazelerini Teslim Aldı",
+        "summary": "Endonezya, Güney Lübnan'da hayatını kaybeden barış gücü askerlerinin naaşlarını teslim aldı. Olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Endonezya Dışişleri Bakanı Sugiono, konuya ilişkin yaptığı açıklamada, Birleşmiş Milletler'den ölümlerle ilgili kapsamlı bir soruşturma başlatılmasını talep ettiklerini belirtti. Bakan Sugiono, soruşturmanın şeffaf ve adil bir şekilde yürütülmesinin önemine vurgu yaptı. Bu gelişme, uluslararası barış gücü misyonlarının karşılaştığı riskleri ve sorumlulukları gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30541579/pexels-photo-30541579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T21:02:57.733Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/4/indonesia-receives-bodies-of-peacekeepers-killed-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775331951272nfpkf",
         "title": "ABD ve İsrail'in İran Altyapısına Yönelik Saldırıları Üniversiteleri Etkiledi",
         "summary": "ABD ve İsrail'in İran'ın altyapısına yönelik artan saldırılarının, ülkedeki eğitim kurumlarını da hedef aldığı bildirildi. İranlı yetkililer tarafından yapılan açıklamalara göre, savaşın başlangıcından bu yana ABD ve İsrail kaynaklı saldırılar sonucunda en az 30 üniversitenin etkilendiği belirtildi. Bu durum, İran'ın kritik altyapısının ve eğitim sektörünün siber veya diğer türdeki saldırılardan zarar gördüğüne işaret ediyor. Saldırıların niteliği ve kapsamı hakkında detaylı bilgi verilmezken, bu gelişmeler bölgedeki gerilimi daha da tırmandırabilecek potansiyel taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775205466300a4zh0",
-        "title": "İranlı Kadın Futbolcular Asya Kupası Olayının 'Büyük Baskısını' Açıkladı",
-        "summary": "İranlı iki kadın futbolcu, Asya Kupası sürecinde maruz kaldıkları \"büyük baskıyı\" Al Jazeera'ye açıkladı. Daha önce Avustralya'da sığınma talebinde bulunan ancak daha sonra bu kararlarından vazgeçen oyuncular, yaşadıkları deneyimleri paylaştı. Bu açıklama, İran'daki kadın sporcuların karşılaştığı toplumsal ve profesyonel zorlukları bir kez daha gözler önüne serdi. Futbolcuların hikayesi, uluslararası spor camiasında İranlı bireylerin yaşadığı kişisel mücadelelere dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32266263/pexels-photo-32266263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:37:46.300Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/3/iranian-women-footballers-reveal-enormous-pressure-of-the-asian-cup-saga?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
