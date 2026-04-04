@@ -1,5 +1,37 @@
 [
     {
+        "id": "17753402173691bql0",
+        "title": "İran üzerinde düşürülen ABD savaş uçağı hakkında şu ana kadar bilinenler",
+        "summary": "ABD medyası tarafından aktarılan bilgilere göre, İran hava sahası üzerinde bir ABD savaş uçağı düşürüldü. Olayın ardından uçağın pilotu güvenli bir şekilde kurtarıldı. Ancak, düşen jetin ikinci mürettebat üyesi için arama kurtarma çalışmaları halen devam etmektedir. Bu gelişme, ABD ile İran arasındaki gerilimli ilişkiler bağlamında bölgedeki güvenlik dinamiklerini yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35033988/pexels-photo-35033988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T22:03:37.369Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775340237893mi2x1",
+        "title": "Kayıp ABD'li Pilot Arayışı, İran Tehdidiyle Ciddi Bir Sınav Haline Geliyor",
+        "summary": "ABD'ye ait düşürülen bir F-15 Eagle savaş uçağının silah sistemleri subayının kaybolması, Washington için önemli bir sorun teşkil ediyor. Arama çalışmaları devam ederken, pilotun İran tarafından ele geçirilme ihtimali endişeleri artırıyor. Bu durum, ABD ile İran arasındaki gerilimi daha da tırmandırabilecek ciddi diplomatik ve güvenlik sonuçları doğurabilir. Olay, bölgedeki güç dengeleri ve ABD'nin askeri operasyonları açısından kritik bir dönemeç olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35338099/pexels-photo-35338099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T22:03:57.893Z",
+        "location": {
+            "lat": 32,
+            "lng": 54,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775336577733xbqi9",
         "title": "Endonezya, Güney Lübnan'da Ölen Barış Gücü Askerlerinin Cenazelerini Teslim Aldı",
         "summary": "Endonezya, Güney Lübnan'da hayatını kaybeden barış gücü askerlerinin naaşlarını teslim aldı. Olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Endonezya Dışişleri Bakanı Sugiono, konuya ilişkin yaptığı açıklamada, Birleşmiş Milletler'den ölümlerle ilgili kapsamlı bir soruşturma başlatılmasını talep ettiklerini belirtti. Bakan Sugiono, soruşturmanın şeffaf ve adil bir şekilde yürütülmesinin önemine vurgu yaptı. Bu gelişme, uluslararası barış gücü misyonlarının karşılaştığı riskleri ve sorumlulukları gündeme getirdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iraq-extends-airspace-closure-for-week/3890515",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775215731467s9nmp",
-        "title": "İran Devrim Muhafızları Deniz İstihbarat Başkan Yardımcısı ABD-İsrail Saldırısında Öldürüldü",
-        "summary": "İran Devrim Muhafızları Deniz İstihbarat Başkan Yardımcısı Behnam Rezaei'nin, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen bir saldırıda öldürüldüğü bildirildi. Bu gelişme, Tahran ile Washington ve Tel Aviv arasındaki gerilimin tırmandığı bir döneme denk geldi. Olayın, bölgedeki mevcut hassas durumu daha da karmaşık hale getirebileceği belirtiliyor. İran'dan ve diğer ilgili taraflardan konuya ilişkin resmi açıklamalar bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18318357/pexels-photo-18318357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T11:28:51.467Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-irgc-naval-intelligence-deputy-chief-killed-in-us-israeli-attack/3890476",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775205444435b8awl",
-        "title": "İsrail'in Güney Lübnan'daki Sağlık Altyapısını Hedef Alması",
-        "summary": "Güney Lübnan'da İsrail'in gerçekleştirdiği saldırılar, bölgedeki sağlık altyapısını ciddi şekilde tahrip ediyor. Hastaneler, tıp merkezleri ve sağlık çalışanları doğrudan hedef alınarak bölge halkının sağlık hizmetlerine erişimi engelleniyor. Bu durum, geniş çaplı yerinden edilmelere yol açarken, aynı zamanda bölgede derinleşen bir sağlık krizini tetikliyor. Saldırılar, sivil halkın temel ihtiyaçlarını karşılama kapasitesini zayıflatarak insani durumu kötüleştiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-03T08:37:24.435Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Sur, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/3/how-israel-is-destroying-healthcare-infrastructure-in-southern-lebanon?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
