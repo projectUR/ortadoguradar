@@ -1,5 +1,101 @@
 [
     {
+        "id": "1775289328091evuct",
+        "title": "Afganistan'da Deprem: Aynı Aileden Sekiz Kişi Hayatını Kaybetti",
+        "summary": "Afganistan'da meydana gelen bir deprem, aynı aileden sekiz kişinin yaşamını yitirmesine neden oldu. Olayda, ailenin tek kurtulanı olan küçük bir çocuk yaralandı. Depremin yol açtığı yıkım ve can kaybı, bölgede büyük üzüntüye yol açtı. Yetkililer, depremden etkilenen bölgelerde hasar tespit çalışmalarına başladı ve yaralılara tıbbi yardım sağlandı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/28041688/pexels-photo-28041688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T07:55:28.091Z",
+        "location": {
+            "lat": 34.5,
+            "lng": 69.1,
+            "name": "Afganistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1775289369783ey1co",
+        "title": "İran, İki ABD Savaş Uçağını Düşürdüğünü İddia Etti",
+        "summary": "İran, iki ABD savaş uçağını düşürdüğünü iddia ettiğini duyurdu. Bu gelişme, ABD ve İsrail'in İran'a yönelik saldırılarının 36. günü olarak belirtilen bir dönemde yaşandı. Olayın ardından, düşürülen uçaklardan birine ait olduğu düşünülen kayıp bir mürettebat üyesi için arama kurtarma çalışmaları başlatıldı. Bu iddia, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5391998/pexels-photo-5391998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T07:56:09.783Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775289392894mgpeu",
+        "title": "İran Medyası BAE'nin İran'a Karşı Savaşa Girdiğini İddia Etti",
+        "summary": "İran devlet medyası, Birleşik Arap Emirlikleri'nin (BAE) İran'a karşı bir savaşa girdiğini öne sürdü. İran İslam Cumhuriyeti Yayın Kurumu (IRIB), bu iddiayı destekleyen iki belgeye sahip olduğunu belirtti. Bu açıklama, iki ülke arasındaki mevcut gerilimi daha da tırmandırabilecek nitelikte olup, bölgesel güvenlik ve siyaset açısından önemli bir gelişme olarak değerlendirilmektedir. İddiaların doğruluğu ve olası sonuçları uluslararası kamuoyu tarafından yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/198703/pexels-photo-198703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T07:56:32.894Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-media-claims-uae-entered-war-against-iran/3891318",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775289415618z8bm9",
+        "title": "İran'ın Suudi Arabistan'daki ABD Büyükelçiliği'ne Yönelik Saldırısının Açıklanandan Daha Fazla Hasara Yol Açtığı Bildirildi",
+        "summary": "Bir rapora göre, İran'ın Suudi Arabistan'daki ABD Büyükelçiliği'ne yönelik düzenlediği saldırının açıklanandan daha fazla hasara neden olduğu ortaya çıktı. 3 Mart'ta Suudi Arabistan'daki bir yerleşkeye iki insansız hava aracıyla saldırı düzenlendiği belirtildi. Bu saldırının saatlerce süren bir yangına yol açtığı ve önemli maddi hasara neden olduğu ifade edildi. Olay, bölgedeki güvenlik gerilimlerini ve İran ile ABD arasındaki dolaylı çatışmaları yeniden gündeme getirdi. Saldırının detayları ve tam kapsamı hakkında yeni bilgilerin ortaya çıktığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6726590/pexels-photo-6726590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T07:56:55.618Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6876,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-strike-on-us-embassy-in-saudi-arabia-caused-more-damage-than-disclosed-report/3891310",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775289436475ho4vo",
+        "title": "Hizbullah, İsrail Yerleşim Birimleri ve Güçlerine Yönelik 6 Saldırı Gerçekleştirdiğini Duyurdu",
+        "summary": "Lübnan merkezli Hizbullah örgütü, İsrail yerleşim birimleri ve güçlerine karşı 6 saldırı düzenlediğini açıkladı. Grup, bu eylemlerin \"İsrail saldırganlığına yanıt olarak\" yapıldığını belirtti. Açıklamada, 2 Mart'tan bu yana Hizbullah tarafından gerçekleştirilen saldırıların toplam sayısının 1.422'ye ulaştığı ifade edildi. Bu saldırılar, İsrail-Lübnan sınırındaki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T07:57:16.475Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-conducted-6-attacks-on-israeli-settlement-forces/3891275",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17752894590346pnph",
+        "title": "ABD-İsrail saldırısının başlangıcından bu yana İran'da en az 24 sağlık çalışanı öldürüldü: Rapor",
+        "summary": "Yayınlanan bir rapora göre, ABD-İsrail saldırısının başlamasından bu yana İran'da en az 24 sağlık çalışanı hayatını kaybetti. Acil Tıbbi Hizmetler Örgütü başkanı tarafından yapılan açıklamada, yaşamını yitiren sağlık personelinden üçünün 115 Acil Servis'ten olduğu belirtildi. Bu durum, devam eden çatışmaların sivil sağlık çalışanları üzerindeki ciddi etkisini gözler önüne sermektedir. Rapor, bölgedeki gerilimin insani boyutunu ve sağlık hizmetlerinin aksamasını vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-04T07:57:39.034Z",
+        "location": {
+            "lat": 32,
+            "lng": 54,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/at-least-24-health-care-workers-killed-in-iran-since-start-of-us-israeli-offensive-report/3891274",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1775279728354rtx0r",
         "title": "Avrupa Parlamentosu Üyesi Rima Hassan: 'Siyasi Tacizin Hedefiyim'",
         "summary": "Avrupa Parlamentosu üyesi Rima Hassan, 'gerçek bir yargısal ve siyasi tacizle' karşı karşıya olduğunu açıkladı. Fransız-Filistin kökenli siyasetçi, bu tacizlerin özellikle Orta Doğu'daki gelişmeler ve Filistin meselesine yönelik duruşu nedeniyle arttığını ima etti. Hassan'ın açıklamaları, Avrupa'da siyasi figürlerin ifade özgürlüğü ve aktivistlerin karşılaştığı baskılar üzerine tartışmaları yeniden gündeme getirdi. Bu durum, Avrupa kurumları içinde farklı görüşlere sahip siyasetçilere yönelik muamele konusunda soru işaretleri yaratıyor.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775153653400dm6up",
-        "title": "BM, 1.6 Milyon Kişi Geri Dönerken Suriye'ye Yatırım Çağrısı Yaptı, Hizmet Eksikliğinin Geri Dönüşleri Engelleyebileceği Uyarısında Bulundu",
-        "summary": "Birleşmiş Milletler (BM), Suriye'ye geri dönen 1.6 milyondan fazla kişinin ihtiyaçlarını karşılamak üzere ülkeye yatırım yapılması çağrısında bulundu. BM yetkilileri, geri dönen mültecilere temel hizmetlerin sağlanmasının hayati önem taşıdığını vurguladı. Yapılan açıklamada, hizmet eksikliğinin, Suriye'ye dönmeyi düşünen diğer kişilerin bu kararından vazgeçmesine neden olabileceği belirtildi. Bu durumun, ülkenin istikrarı ve yeniden inşası açısından kritik bir engel teşkil edebileceği ifade edildi. BM, uluslararası toplumu, Suriye'deki insani ve kalkınma çabalarına destek olmaya davet etti.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934177/pexels-photo-35934177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T18:14:13.400Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-urges-investment-in-syria-as-16m-return-warns-lack-of-services-may-deter-returns/3889719",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775144294628glc6y",
-        "title": "Avrupa Parlamentosu Üyesi Rima Hassan Fransız Polisi Tarafından Gözaltına Alındı",
-        "summary": "Avrupa Parlamentosu üyesi Rima Hassan, Fransa'da polis tarafından gözaltına alındı. Hassan'ın üyesi olduğu La France Insoumise (Boyun Eğmeyen Fransa) partisi, bu gözaltı kararını sert bir dille kınadı. Parti yetkilileri, gözaltının Filistin destekçilerini 'sindirme' çabalarının bir parçası olduğunu iddia etti. Bu olay, Fransa'da Filistin yanlısı aktivistlere yönelik artan baskılar bağlamında değerlendiriliyor. Gözaltı, ifade özgürlüğü ve siyasi aktivizm konularında kamuoyunda tartışmaları beraberinde getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10474995/pexels-photo-10474995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T15:38:14.628Z",
-        "location": {
-            "lat": 46.603354,
-            "lng": 1.888334,
-            "name": "Fransa"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/2/european-parliament-member-rima-hassan-taken-into-french-police-custody?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775144317231ehfy2",
-        "title": "CENTCOM, İran'a Yönelik Savaşın Beşinci Haftasında Hava Saldırıları Videosunu Yayımladı",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik hava saldırılarına ait görüntüleri kamuoyuyla paylaştı. Yayımlanan videolarda, İran topraklarında insansız hava araçları (İHA) ve tankların hedef alındığı görülüyor. Bu görüntüler, İran'a karşı yürütüldüğü belirtilen 'savaşın' beşinci haftasında ortaya çıktı. CENTCOM'un açıklaması, bölgedeki askeri gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16616972/pexels-photo-16616972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T15:38:37.231Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/2/centcom-releases-video-of-air-strikes-in-fifth-week-of-war-on-iran?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17751443877864uwaw",
-        "title": "İranlı Nobel Ödüllü Mohammadi'nin Cezaevinde Kalp Krizi Geçirdiği İddia Edildi",
-        "summary": "İranlı Nobel Barış Ödülü sahibi Narges Mohammadi'nin cezaevinde şüpheli bir kalp krizi geçirdiği ailesi tarafından açıklandı. Ailesi, Mohammadi'nin hayatının tehlikede olmasından derin endişe duyduğunu ve acilen hastaneye sevk edilmesi gerektiğini vurguladı. Mohammadi'nin kardeşi, uluslararası topluma çağrıda bulunarak durumun ciddiyetine dikkat çekti. Bu gelişme, insan hakları savunucusunun sağlık durumu ve cezaevi koşulları hakkındaki endişeleri artırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/16452491/pexels-photo-16452491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T15:39:47.786Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775129701981h5hd8",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 7 Kişi Hayatını Kaybetti, Hizbullah Kara Birliklerini Hedef Aldı",
-        "summary": "Güney Lübnan'da çatışmalar şiddetlenerek devam ediyor. İsrail ordusu, bölgede bir 'güvenlik bölgesi' oluşturma ve Hizbullah'ı etkisiz hale getirme çabalarını sürdürüyor. Son olarak, İsrail'in düzenlediği saldırılarda 7 kişinin yaşamını yitirdiği bildirildi. Bu saldırılara karşılık olarak Hizbullah'ın İsrail kara birliklerini hedef aldığı belirtildi. Bölgedeki gerilim, taraflar arasındaki karşılıklı misillemelerle tırmanmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T11:35:01.981Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775129724154v0pbo",
-        "title": "İsrail'in Rekor Bütçesi Yasa Dışı Yerleşimlerin Genişletilmesini Finanse Edecek",
-        "summary": "İsrail'in 271 milyar dolarlık rekor bütçesinin, uluslararası hukuka aykırı kabul edilen yasa dışı yerleşim birimlerinin genişletilmesini finanse edeceği belirtildi. Bu bütçe, İsrailli yerleşimcilerin Batı Şeria'daki Filistinlilere yönelik şiddet olaylarının önemli ölçüde arttığı bir dönemde onaylandı. Haber, bütçenin yerleşim faaliyetlerine ayrılan kısmının detaylarını ve bunun bölgedeki gerilimi nasıl etkileyebileceğini ele alıyor. Bu durum, İsrail-Filistin çatışmasındaki yerleşim birimleri meselesinin finansal boyutunu ve sahadaki yansımalarını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9754753/pexels-photo-9754753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-02T11:35:24.154Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
