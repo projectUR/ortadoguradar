@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775397910831ggedk",
+        "title": "Hürmüz Boğazı Kapanışı Avrupa'yı Şoke Ederken Trump Somut Bir Plan Sunmuyor",
+        "summary": "Haber, ABD Başkanı Donald Trump'ın Hürmüz Boğazı'nın kapanmasıyla ortaya çıkan krize yönelik somut bir plan sunmadığını ortaya koyuyor. Ekonomist James Meadway, Trump'ın bu krizi sona erdirmek için yalnızca tehditler savurduğunu ancak net bir stratejisinin olmadığını belirtiyor. Hürmüz Boğazı'nın kapanması, küresel enerji piyasaları ve ticaret yolları için kritik bir öneme sahip olup, özellikle Avrupa üzerinde şok etkisi yaratmıştır. Bu durum, Orta Doğu'daki gerilimin ve enerji güvenliği endişelerinin arttığını gözler önüne sermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36633943/pexels-photo-36633943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T14:05:10.831Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran/Umman"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775397947498zadfh",
+        "title": "İtalya Başbakanı Meloni'den Körfez Vurgusu: Avrupa Güvenliği İçin Temel Öneme Sahip",
+        "summary": "İtalya Başbakanı Giorgia Meloni, Körfez bölgesine gerçekleştirdiği ziyaret sırasında önemli açıklamalarda bulundu. Başbakan Meloni, Körfez'in İtalya ve Avrupa'nın güvenliği için \"temel\" bir öneme sahip olduğunu vurguladı. Bu açıklama, Avrupa'nın enerji güvenliği, bölgesel istikrar ve stratejik işbirliği konularında Körfez ülkeleriyle olan ilişkilerine dikkat çekiyor. Ziyaretin, iki bölge arasındaki diplomatik ve güvenlik işbirliğinin derinleştirilmesi potansiyelini taşıdığı belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T14:05:47.498Z",
+        "location": {
+            "lat": 25.35,
+            "lng": 51.18,
+            "name": "Körfez Bölgesi"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/italian-pm-says-the-gulf-is-fundamental-for-europes-security?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775389753809kc114",
         "title": "ABD'de Akaryakıt Fiyatlarındaki Artış ve İran Savaşı İlişkisi",
         "summary": "Amerika Birleşik Devletleri'nde akaryakıt fiyatlarındaki keskin artışlar, Chicago'da sürücülerin ücretsiz benzin dağıtılan noktalarda uzun kuyruklar oluşturmasına neden oldu. Haber ajansları, bu fiyat yükselişlerinin ABD ve İsrail'in İran'a karşı yürüttüğü bir savaştan kaynaklandığını belirtiyor. Bu durum, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji piyasaları üzerindeki doğrudan etkisini ve ABD'deki tüketiciler üzerindeki ekonomik baskıyı gözler önüne seriyor. Yüksek akaryakıt maliyetleri, ülke genelinde tartışmalara yol açarken, olayların Orta Doğu ile bağlantısı dikkat çekiyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iranian-strike-on-us-embassy-in-saudi-arabia-caused-more-damage-than-disclosed-report/3891310",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775289436475ho4vo",
-        "title": "Hizbullah, İsrail Yerleşim Birimleri ve Güçlerine Yönelik 6 Saldırı Gerçekleştirdiğini Duyurdu",
-        "summary": "Lübnan merkezli Hizbullah örgütü, İsrail yerleşim birimleri ve güçlerine karşı 6 saldırı düzenlediğini açıkladı. Grup, bu eylemlerin \"İsrail saldırganlığına yanıt olarak\" yapıldığını belirtti. Açıklamada, 2 Mart'tan bu yana Hizbullah tarafından gerçekleştirilen saldırıların toplam sayısının 1.422'ye ulaştığı ifade edildi. Bu saldırılar, İsrail-Lübnan sınırındaki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T07:57:16.475Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-conducted-6-attacks-on-israeli-settlement-forces/3891275",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17752894590346pnph",
-        "title": "ABD-İsrail saldırısının başlangıcından bu yana İran'da en az 24 sağlık çalışanı öldürüldü: Rapor",
-        "summary": "Yayınlanan bir rapora göre, ABD-İsrail saldırısının başlamasından bu yana İran'da en az 24 sağlık çalışanı hayatını kaybetti. Acil Tıbbi Hizmetler Örgütü başkanı tarafından yapılan açıklamada, yaşamını yitiren sağlık personelinden üçünün 115 Acil Servis'ten olduğu belirtildi. Bu durum, devam eden çatışmaların sivil sağlık çalışanları üzerindeki ciddi etkisini gözler önüne sermektedir. Rapor, bölgedeki gerilimin insani boyutunu ve sağlık hizmetlerinin aksamasını vurgulamaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T07:57:39.034Z",
-        "location": {
-            "lat": 32,
-            "lng": 54,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/at-least-24-health-care-workers-killed-in-iran-since-start-of-us-israeli-offensive-report/3891274",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
