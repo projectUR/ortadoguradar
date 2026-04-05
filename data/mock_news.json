@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775430280115z2f8v",
+        "title": "İngiltere'de ABD Üssü Yakınında Protestocular Gözaltına Alındı",
+        "summary": "Birleşik Krallık'ta, ABD tarafından kullanıldığı iddia edilen bir Kraliyet Hava Kuvvetleri (RAF) üssü yakınında protesto düzenleyen yedi kişi polis tarafından gözaltına alındı. Aktivistler, söz konusu üssün ABD uçakları için kalkış noktası olarak kullanılmasına karşı çıkıyordu. Bu eylem, ABD'nin küresel askeri operasyonlarındaki rolünü ve İngiltere'deki askeri varlığını yeniden gündeme getirdi. Gözaltına alınan protestocuların eylemleri, askeri üslerin kullanımı ve uluslararası politikalar üzerindeki toplumsal tepkileri yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30766239/pexels-photo-30766239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T23:04:40.115Z",
+        "location": {
+            "lat": 52.3555,
+            "lng": -1.1743,
+            "name": "Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/5/uk-police-arrest-seven-protesters-near-raf-base-used-by-us?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775430304616bexue",
+        "title": "Zelenskiy: Ukrayna ve Suriye Güvenlik Alanında İşbirliği Yapacak",
+        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Suriye'nin başkenti Şam'a gerçekleştirdiği ziyaret sırasında önemli açıklamalarda bulundu. Zelenskiy, Ukrayna ve Suriye'nin güvenlik alanında işbirliği yapma konusunda anlaştığını duyurdu. Bu anlaşmanın, iki ülke arasındaki ilişkileri yeni bir boyuta taşıyacağı ve bölgesel güvenlik dinamiklerini etkileyebileceği belirtildi. Tarafların, ortak güvenlik çıkarları doğrultusunda adımlar atma kararı aldığı ifade edildi. İşbirliğinin detayları ve uygulama takvimi hakkında henüz kamuoyuna ek bilgi paylaşılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4345107/pexels-photo-4345107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-05T23:05:04.616Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/5/ukraine-syria-agree-to-exchange-military-and-security-experience?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775426113737can0z",
         "title": "Gazze'de İnsani Durum Kötüleşiyor: ABD-İsrail'in İran'a Karşı Savaşı Etkisi",
         "summary": "Gazze Şeridi'ndeki insani durumun giderek kötüleştiği rapor edildi. Bu kötüleşmenin, ABD ve İsrail'in İran'a karşı yürüttüğü iddia edilen savaşın ortasında meydana geldiği belirtiliyor. Bölgedeki artan gerilim ve çatışmalar, Gazze'deki sivil halkın yaşam koşullarını daha da zorlaştırıyor. Uluslararası toplumun dikkatini çeken bu durum, insani yardım kuruluşlarının bölgedeki endişelerini artırıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/1-killed-in-strikes-on-irans-bushehr-nuclear-plant/3891603",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "177529665663144xz9",
-        "title": "Manchester City ve Liverpool FA Cup Çeyrek Finalinde Karşı Karşıya Geliyor",
-        "summary": "İngiltere FA Cup çeyrek finalinde Manchester City, Etihad Stadyumu'nda Liverpool'u ağırlayacak. Abu Dabi Birleşik Grubu'na ait olan Manchester City, Birleşik Arap Emirlikleri'nin küresel spor yatırımlarının önemli bir temsilcisi konumunda. Maç öncesi hazırlıklar, analizler ve canlı anlatım, futbolseverler tarafından yakından takip edilecek. Bu karşılaşma, İngiliz futbolunun iki devini bir araya getirirken, aynı zamanda Orta Doğu sermayesinin küresel spor üzerindeki etkisini de gözler önüne seriyor. Etihad Havayolları'nın sponsorluğundaki stadyumda oynanacak mücadele, turnuvada yarı finale yükselmek için kritik bir öneme sahip.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/24286301/pexels-photo-24286301.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T09:57:36.632Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Manchester, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/sports/liveblog/2026/4/4/live-manchester-city-vs-liverpool-fa-cup-quarterfinal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17752966789916xogl",
-        "title": "İran'da Yasaklı Muhalif Grup Üyesi İki Kişi İdam Edildi",
-        "summary": "İran'da yasaklı bir muhalif gruba üye oldukları gerekçesiyle yargılanan iki kişi idam edildi. İran Yüksek Mahkemesi'nin cezalarını onamasının ardından Abolhassan Montazer ve Vahid Baniamerian isimli şahıslar asılarak infaz edildiği bildirildi. Yargı kaynakları, bu kişilerin muhalif faaliyetlerde bulundukları gerekçesiyle suçlu bulunduğunu belirtti. Bu olay, İran'daki insan hakları durumu ve siyasi muhaliflere yönelik uygulamalar konusunda uluslararası kamuoyunda endişelere yol açtı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36733361/pexels-photo-36733361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-04T09:57:58.991Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/4/iran-executes-suspected-members-of-dissident-group-amid-us-israel-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
