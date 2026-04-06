@@ -1,5 +1,37 @@
 [
     {
+        "id": "17754944612719c0me",
+        "title": "Gazze'deki Çocuklara Güvenli Bir Ortam Sunan Kamp",
+        "summary": "Gazze Şeridi'nde faaliyet gösteren Samir Projesi, bölgedeki çocuklara yönelik özel bir kamp düzenliyor. Bu kamp, çatışma ortamında büyüyen çocukların öğrenme, iyileşme ve yeniden güven duygusu kazanmalarına yardımcı olmayı hedefliyor. Proje, çocuklara güvenli bir alan sağlayarak psikososyal destek sunmayı amaçlıyor. Kampta düzenlenen çeşitli etkinliklerle çocukların travmatik deneyimlerin etkilerini azaltmaları ve normalleşme süreçlerine katkıda bulunulması hedefleniyor. Bu girişim, Gazze'deki çocukların zorlu koşullar altında dahi gelişimlerini sürdürebilmeleri için önemli bir destek sağlıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T16:54:21.271Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1775494482394bf09v",
+        "title": "İsrail ordusunun Gazze'nin güneyinde Dünya Sağlık Örgütü aracına ateş açması sonucu bir kişi hayatını kaybetti",
+        "summary": "Gazze'nin güneyinde, İsrail ordusunun Dünya Sağlık Örgütü (DSÖ) aracına ateş açtığı bildirildi. Sağlık görevlilerinden alınan bilgilere göre, olayda DSÖ şoförü Majdi Aslan hayatını kaybetti. Saldırıda bir DSÖ doktoru ile birlikte çok sayıda Filistinli de yaralandı. Bu olay, bölgedeki insani yardım faaliyetlerinin güvenliği konusunda ciddi endişelere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T16:54:42.394Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1775490784821dlhl7",
         "title": "Trump'tan İran'a Hürmüz Boğazı Tehdidi: Enerji Santralleri ve Köprüler Hedefte",
         "summary": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı'nı açmaması halinde Salı günü akşam saat 8'e kadar ülkenin enerji santralleri ve köprülerini yok etmekle tehdit etti. Bu açıklama, iki ülke arasındaki gerilimi tırmandıran önemli bir gelişme olarak kaydedildi. Hürmüz Boğazı, küresel petrol ticareti için hayati öneme sahip stratejik bir geçit olarak biliniyor. Trump'ın bu tehdidi, İran'a yönelik sert bir uyarı niteliği taşıyor ve bölgedeki güvenlik endişelerini artırıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/features/2026/4/5/under-israeli-restrictions-palestinian-christians-mark-quiet-holy-week?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1775376265815zgvyb",
-        "title": "İran ile Gerilim: Düşürülen Savaş Uçağının ABD'li Mürettebatı Kurtarıldı",
-        "summary": "ABD Başkanı Donald Trump, İran tarafından düşürülen bir savaş uçağının kayıp ABD'li mürettebatının kurtarıldığını duyurdu. Olay, bölgede İran ile ABD ve İsrail arasındaki gerilimin tırmandığı bir dönemde yaşanmıştı. Mürettebatın kurtarılması, iki ülke arasındaki mevcut gerilimi bir nebze olsun hafifletebilirken, olayın detayları henüz tam olarak açıklanmadı. ABD ve İsrail'in İran'a yönelik saldırılarının 37. gününde gerçekleşen bu gelişme, bölgedeki güvenlik durumunu yakından ilgilendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33350563/pexels-photo-33350563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T08:04:25.815Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775376286389nvdya",
-        "title": "Yemen'deki Husiler, İsrail'in Ben Gurion Havalimanı'na Misket Füzesi Saldırısı Düzenlediğini İddia Etti",
-        "summary": "Yemen'deki Husi askeri sözcüsü, İsrail'in Yafa kentindeki Ben Gurion Havalimanı'na yönelik bir saldırının sorumluluğunu üstlendiğini duyurdu. Yapılan açıklamada, saldırının misket füzesi kullanılarak gerçekleştirildiği öne sürüldü. Bu iddia, bölgedeki mevcut gerilimi daha da artırabilecek yeni bir gelişme olarak değerlendiriliyor. Husiler, daha önce de İsrail hedeflerine yönelik benzer saldırılar düzenlediklerini iddia etmişlerdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15296866/pexels-photo-15296866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T08:04:46.389Z",
-        "location": {
-            "lat": 32,
-            "lng": 34.88,
-            "name": "Yafa, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/yemens-houthis-claim-cluster-missile-attack-on-israels-ben-gurion-airport?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
