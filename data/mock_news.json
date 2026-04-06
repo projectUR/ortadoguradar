@@ -1,5 +1,53 @@
 [
     {
+        "id": "17755059545828xbm8",
+        "title": "Rusya'nın Ukrayna Saldırıları Sonrası Odesa'da Enkazdan Çocuk Kurtarıldı",
+        "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarını yoğunlaştırmasıyla Odesa kentinde bir ev enkazından bir çocuk kurtarıldı. Rus saldırısında en az üç kişinin hayatını kaybettiği bildirildi. Kurtarma ekipleri, çöken binanın enkazında arama ve kurtarma çalışmalarını sürdürüyor. Bu olay, devam eden savaşın siviller üzerindeki yıkıcı etkilerini ve insani dramı bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15861615/pexels-photo-15861615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T20:05:54.582Z",
+        "location": {
+            "lat": 46.4825,
+            "lng": 30.7233,
+            "name": "Odesa, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775505976889pgrb2",
+        "title": "İran'da Evlere Yönelik Saldırıların Ardından Kurtarma Çalışmaları Başlatıldı",
+        "summary": "İran'da evlere yönelik saldırıların ardından kurtarma ekipleri, enkaz altında kalanları arama çalışmalarına başladı. İran Kızılayı tarafından yayınlanan görüntüler, saldırıların yol açtığı hasarı gözler önüne serdi. Haberlere göre, söz konusu saldırılar ABD ve İsrail tarafından gerçekleştirildi. Bölgede can kaybı ve yaralı olup olmadığına dair henüz net bir bilgi bulunmuyor. Kurtarma operasyonları devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T20:06:16.889Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/rescuers-search-for-survivors-after-strikes-hit-homes-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775506000283uj6u7",
+        "title": "ABD Savunma Bakanı Hegseth: İran'a Yönelik Saldırılar Artıyor, Hürmüz Süresi Yaklaşıyor",
+        "summary": "ABD Savunma Bakanı Pete Hegseth, İran'a yönelik saldırıların arttığını duyurdu. Bakan Hegseth, Pazartesi gününün savaşın başlangıcından bu yana İran'a karşı gerçekleştirilen \"en büyük saldırı hacmine\" sahne olacağını belirtti. Bu açıklama, Hürmüz Boğazı ile ilgili belirlenen bir sürenin yaklaşmasıyla eş zamanlı olarak yapıldı. Gelişmeler, bölgedeki askeri gerilimin tırmandığına işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28297262/pexels-photo-28297262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-06T20:06:40.283Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775502468711p1mxu",
         "title": "Kuzey Kore, İran ile Mesafeli Bir Tutum Sergiliyor, Seul Bildirdi",
         "summary": "Güney Kore'den gelen raporlara göre, Kuzey Kore'nin İran ile ilişkilerinde mesafeli bir tutum sergilediği belirtiliyor. Seul, Pyongyang'ın bu tavrının ABD ile diplomatik diyaloğu yeniden başlatma çabalarından kaynaklandığını ifade etti. Kuzey Kore'nin, Washington ile olası görüşmeleri riske atmamak adına İran ile olan bağlarını temkinli bir şekilde yönettiği düşünülüyor. Bu durum, iki ülkenin uluslararası arenadaki konumları ve nükleer programları nedeniyle yakından takip ediliyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1775389844516sn1x5",
-        "title": "Fransız Sahibi Gemi Hürmüz Boğazı'ndan Geçti",
-        "summary": "Fransız sahipli bir geminin Hürmüz Boğazı'ndan geçtiği bildirildi. Bu geçişin, bölgedeki çatışmaların başlamasından bu yana büyük bir Avrupalı firmaya ait ilk gemi geçişi olduğu belirtiliyor. Basra Körfezi ile Umman Denizi'ni birbirine bağlayan Hürmüz Boğazı, küresel petrol taşımacılığı için hayati bir stratejik su yoludur. Bu gelişme, bölgedeki denizcilik güvenliği ve uluslararası nakliye rotaları üzerindeki gerilimlerin sürdüğü bir dönemde gerçekleşti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33552552/pexels-photo-33552552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T11:50:44.516Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775383495820q8hf7",
-        "title": "Kuveyt'in elektrik ve su tesisleri hasar gördü, İran'ın Körfez ülkelerine saldırıları sürüyor",
-        "summary": "Kuveyt'te elektrik ve su tesislerinin saldırılar sonucu hasar gördüğü bildirildi. Haber ajansları, İran'ın Körfez ülkelerine yönelik saldırılarını sürdürdüğünü aktardı. Bahreyn ve Birleşik Arap Emirlikleri (BAE) de benzer saldırılar sonucu çıkan yangınları rapor etti. Yetkililer, bu yangınların hızla söndürüldüğünü açıkladı. Olaylar, bölgedeki güvenlik geriliminin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5941993/pexels-photo-5941993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T10:04:55.820Z",
-        "location": {
-            "lat": 29.4,
-            "lng": 48,
-            "name": "Kuveyt, Kuveyt"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775383519367cye3v",
-        "title": "İsrail'in UNRWA'ya Yönelik Saldırısı, Filistinlilere Yönelik Soykırımının Merkezinde Yer Alıyor İddiası",
-        "summary": "Haberde, Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA)'nın Filistinli mültecilere yönelik hizmetlerinin, İsrail'in Filistinlilere karşı yürüttüğü iddia edilen 'soykırım projesi' için doğrudan bir tehdit oluşturduğu belirtiliyor. Bu durumun, İsrail'in UNRWA'ya yönelik eylemlerinin temelinde yattığı öne sürülüyor. UNRWA'nın görevinin, Filistinli mültecilerin ihtiyaçlarını karşılamak olduğu vurgulanıyor. Haber, İsrail'in UNRWA'ya yönelik tutumunu, Filistinlilere yönelik daha geniş bir politikanın parçası olarak değerlendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17527819/pexels-photo-17527819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T10:05:19.367Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
