@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775579757903hqbzp",
+        "title": "İstanbul'daki İsrail konsolosluğunda silahlı saldırı: Bir saldırgan öldürüldü, iki kişi yaralandı",
+        "summary": "İstanbul'daki İsrail konsolosluğuna yönelik silahlı saldırıda bir saldırganın öldürüldüğü, iki kişinin ise yaralandığı bildirildi. Olay, konsolosluk binasının boş olduğu bir dönemde meydana geldi. Yetkililer, İsrailli diplomatların son iki buçuk yıldır Türkiye'de bulunmadığını ve İstanbul konsolosluğunun bu süre zarfında faaliyet göstermediğini belirtti. Saldırının detaylarına ilişkin soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5202378/pexels-photo-5202378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T16:35:57.903Z",
+        "location": {
+            "lat": 41.0082,
+            "lng": 28.9784,
+            "name": "İstanbul, Türkiye"
+        },
+        "source": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1775579796497ku2or",
+        "title": "ABD, Bahreyn'deki Vatandaşlarına 'İkinci Bir Duyuruya Kadar' Sığınaklarda Kalma Çağrısı Yaptı",
+        "summary": "ABD'nin Bahreyn Büyükelçiliği, ülkedeki tüm Amerikan vatandaşlarına 'ikinci bir duyuruya kadar' sığınaklarda kalmaları yönünde çağrıda bulundu. Büyükelçilik ayrıca, tüm rutin konsolosluk hizmetlerini askıya aldığını duyurdu. Bu gelişme, bölgedeki güvenlik durumuna ilişkin endişeleri artırırken, ABD'nin vatandaşlarının güvenliğini önceliklendirdiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6016937/pexels-photo-6016937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T16:36:36.497Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/us-urges-all-citizens-in-bahrain-to-shelter-in-place-until-further-notice/3896463",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1775579819307zrkwm",
+        "title": "İran, Trump'ın süresi öncesinde artan gerilimler arasında ABD ile doğrudan diplomasiyi kesti",
+        "summary": "İran, eski ABD Başkanı Trump'ın belirlediği bir süre öncesinde iki ülke arasındaki artan gerilimlerin ortasında ABD ile doğrudan diplomatik ilişkilerini kestiğini duyurdu. Medya raporlarına göre, yetkililer doğrudan iletişimin kesilmesine rağmen dolaylı ateşkes görüşmelerinin devam ettiğini belirtiyor. Bu durum, Tahran ile Washington arasındaki mevcut gerilimin diplomatik kanalları etkilediğini ancak tamamen kopmadığını gösteriyor. Bölgedeki istikrar üzerindeki potansiyel etkileri yakından izleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T16:36:59.307Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-cuts-direct-diplomacy-with-us-amid-rising-tensions-ahead-of-trumps-deadline/3896455",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17755701042957h5vn",
         "title": "İran Halkı, ABD'nin Bölgeye İstikrar Getireceği Fikrini Reddediyor",
         "summary": "İranlılar, ABD'nin Orta Doğu'ya istikrar getireceği yönündeki düşünceyi reddettiklerini belirtiyor. Bu durum, ABD'nin bölgedeki politikalarına yönelik İran kamuoyundaki derin şüpheciliği yansıtmaktadır. Haber, İran halkının ABD'nin geçmişteki müdahalelerini ve mevcut stratejilerini bölgedeki istikrarsızlığın ana nedenlerinden biri olarak gördüğünü vurguluyor. Söz konusu görüş, iki ülke arasındaki gerilimli ilişkilerin ve karşılıklı güvensizliğin önemli bir göstergesi olarak değerlendirilmektedir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1775471863371tzs2w",
-        "title": "Irak Teknik Direktörü Arnold'a Sydney'de Kahramanlar Gibi Karşılama",
-        "summary": "Irak Milli Futbol Takımı Teknik Direktörü Graham Arnold, başarılı bir Dünya Kupası eleme kampanyasının ardından Avustralya'ya dönüşünde Sydney'de coşkulu Iraklı taraftarlar tarafından kahramanlar gibi karşılandı. Arnold, takımının Dünya Kupası'na katılma yolundaki başarısıyla büyük takdir topladı. Bu karşılama, Irak futbolunun uluslararası arenadaki başarısının ve taraftarların teknik direktöre olan desteğinin bir göstergesi oldu. Taraftarlar, Arnold'a olan minnettarlıklarını ve milli takımlarının geleceğine dair umutlarını dile getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/13707179/pexels-photo-13707179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:37:43.371Z",
-        "location": {
-            "lat": -33.8688,
-            "lng": 151.2093,
-            "name": "Sydney, Avustralya"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/6/world-cup-qualification-earns-iraq-coach-arnold-a-heros-welcome-in-sydney?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177547188380614dzq",
-        "title": "İsrail'in Lübnan'ı Vurmasıyla 1.2 Milyon Kişi Yerinden Edildi",
-        "summary": "İsrail'in Lübnan'a yönelik saldırıları, yaklaşık 1.2 milyon kişinin evlerini terk etmesine neden oldu. Haberlere göre, yerinden edilenlerin önemli bir kısmı son aylarda ikinci kez bu durumu yaşıyor. Aileler, devam eden çatışmaların yol açtığı tekrarlayan travmalarla mücadele ediyor. Bölgedeki insani durumun kötüleştiği ve sivil halk üzerindeki baskının arttığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12824637/pexels-photo-12824637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:38:03.806Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/4/6/israeli-airstrikes-devastate-lebanese-villages-and-displace-millions?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775471930140gp1ih",
-        "title": "Handala Hack Ekibi Neden FBI Direktörü Kash Patel'i Hedef Aldı?",
-        "summary": "Filistin direnişinin sembolü olan 'Handala' karakterinin adını taşıyan bir siber saldırı ekibi, ABD Federal Soruşturma Bürosu (FBI) Direktörü Kash Patel'i hedef aldı. Al Jazeera'dan Linh Nguyen, 'Handala Hack Ekibi'nin kimliğini ve eylemlerinin ardındaki motivasyonları detaylandırdı. Bu siber saldırı, Filistin davasıyla bağlantılı grupların ABD'li yetkililere yönelik eylemlerini ve Orta Doğu'daki siyasi gerilimleri bir kez daha gündeme getirdi. Olay, bölgedeki siber güvenlik tehditlerinin ve siyasi aktivizmin yeni boyutlarını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380650/pexels-photo-5380650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T10:38:50.140Z",
-        "location": {
-            "lat": 31.9038,
-            "lng": 35.2033,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/digital-dilemma/2026/4/6/why-did-handala-target-fbi-director-kash-patel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
