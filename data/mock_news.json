@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775520099663oq0ge",
+        "title": "Suudi Arabistan, 7 Balistik Füzenin Engellenmesinin Ardından Enerji Tesisleri Yakınına Enkaz Düştüğünü Duyurdu",
+        "summary": "Suudi Arabistan Savunma Bakanlığı, ülkenin doğu bölgesinde enerji tesisleri yakınlarına enkaz düştüğünü bildirdi. Yapılan açıklamada, yedi balistik füzenin başarıyla engellendiği belirtildi. Engellenen füzelerin enkazının düşmesi sonucu bölgedeki enerji altyapısında hasar oluşup oluşmadığına dair kapsamlı değerlendirme çalışmalarının devam ettiği ifade edildi. Olayın ardından Doğu Bölgesi'nde güvenlik önlemlerinin artırıldığı ve durumun yakından takip edildiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31351508/pexels-photo-31351508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T00:01:39.663Z",
+        "location": {
+            "lat": 26.39,
+            "lng": 50.1,
+            "name": "Dammam, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-debris-fell-near-energy-sites-after-interception-of-7-ballistic-missiles/3895513",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17755059545828xbm8",
         "title": "Rusya'nın Ukrayna Saldırıları Sonrası Odesa'da Enkazdan Çocuk Kurtarıldı",
         "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarını yoğunlaştırmasıyla Odesa kentinde bir ev enkazından bir çocuk kurtarıldı. Rus saldırısında en az üç kişinin hayatını kaybettiği bildirildi. Kurtarma ekipleri, çöken binanın enkazında arama ve kurtarma çalışmalarını sürdürüyor. Bu olay, devam eden savaşın siviller üzerindeki yıkıcı etkilerini ve insani dramı bir kez daha gözler önüne serdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/5/we-blame-trump-drivers-line-up-for-free-gas-as-prices-surge-in-the-us?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1775389792156yoc34",
-        "title": "ABD F-15E Pilotu İran'da Kurtarıldı",
-        "summary": "İran'da düşürülen bir F-15E savaş uçağının ikinci pilotu, 48 saat süren arama kurtarma çalışmalarının ardından ABD güçleri tarafından kurtarıldı. Olay, ABD askeri personelinin İran topraklarında yaşadığı bu tür bir vaka nedeniyle bölgedeki güvenlik dinamiklerini yeniden gündeme getirdi. Uçağın düşürülme nedeni ve kurtarma operasyonunun detaylarına ilişkin resmi makamlardan henüz kapsamlı bir açıklama yapılmadı. Bu gelişme, ABD ile İran arasındaki mevcut gerilimli ilişkilere potansiyel olarak yeni bir boyut kazandırabilir ve uluslararası kamuoyunda dikkatle izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/126625/pexels-photo-126625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-05T11:49:52.156Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
