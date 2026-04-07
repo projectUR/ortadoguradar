@@ -1,5 +1,21 @@
 [
     {
+        "id": "17755925519032jrnk",
+        "title": "Kuveyt, bölgesel gerilim nedeniyle vatandaşlarını gece evde kalmaya çağırdı",
+        "summary": "Kuveyt İçişleri Bakanlığı, bölgesel gerilimin artması üzerine vatandaşlarına yönelik önemli bir uyarı yayınladı. Bakanlık, yerel saatle gece 12:00 ile sabah 06:00 saatleri arasında evde kalmaları çağrısında bulundu. Bu önlemin, bölgedeki artan gerilimler karşısında bir ihtiyati tedbir olarak alındığı belirtildi. Söz konusu çağrı, ülkenin güvenliğini ve vatandaşların emniyetini sağlamayı amaçlıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5380659/pexels-photo-5380659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-07T20:09:11.903Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/kuwait-urges-citizens-to-stay-home-overnight-amid-regional-escalation/3896664",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1775589516197xhv10",
         "title": "Iraklı Silahlı Grup Kaçırılan ABD'li Gazeteci Shelly Kittleson'ı Serbest Bıraktı",
         "summary": "Irak'ta faaliyet gösteren silahlı grup Kataib Hizbullah, kaçırdığı ABD'li gazeteci Shelly Kittleson'ı serbest bıraktığını duyurdu. Grubun açıklamasına göre, Kittleson'ın serbest bırakılması, ülkeyi derhal terk etmesi koşuluna bağlı olarak gerçekleşti. Bu gelişme, Irak'taki yabancı uyrukluların güvenliğine ilişkin endişeleri yeniden gündeme getirirken, bölgedeki silahlı grupların faaliyetlerinin devam ettiğini gösterdi. Gazetecinin serbest bırakılmasıyla ilgili detaylar henüz tam olarak netleşmedi.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775490784821dlhl7",
-        "title": "Trump'tan İran'a Hürmüz Boğazı Tehdidi: Enerji Santralleri ve Köprüler Hedefte",
-        "summary": "ABD Başkanı Trump, İran'ın Hürmüz Boğazı'nı açmaması halinde Salı günü akşam saat 8'e kadar ülkenin enerji santralleri ve köprülerini yok etmekle tehdit etti. Bu açıklama, iki ülke arasındaki gerilimi tırmandıran önemli bir gelişme olarak kaydedildi. Hürmüz Boğazı, küresel petrol ticareti için hayati öneme sahip stratejik bir geçit olarak biliniyor. Trump'ın bu tehdidi, İran'a yönelik sert bir uyarı niteliği taşıyor ve bölgedeki güvenlik endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700146/pexels-photo-5700146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T15:53:04.821Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/6/where-are-irans-power-plants-that-trump-has-threatened-to-destroy?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
     }
