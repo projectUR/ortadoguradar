@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775637906573e2fwf",
+        "title": "ABD-İran Ateşkes Planı Üzerine Petrol Fiyatları Düştü, Hisse Senetleri Yükseldi",
+        "summary": "ABD ile İran arasında olası bir ateşkes planının gündeme gelmesiyle küresel piyasalarda önemli hareketlilik yaşandı. Ham petrol fiyatları, koşullu ateşkes beklentisiyle yüzde 15'e varan oranlarda düşüş gösterdi. Ancak bu düşüşe rağmen, petrol fiyatlarının savaş öncesi seviyelerin üzerinde seyrettiği belirtildi. Ateşkes planının bölgedeki gerilimi azaltma potansiyeli, yatırımcılar arasında olumlu bir hava yaratarak hisse senedi piyasalarında yükselişe neden oldu. Bu gelişmeler, Orta Doğu'daki siyasi dinamiklerin küresel ekonomiye doğrudan etkisini bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T08:45:06.573Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177563794777035l64",
+        "title": "BAE danışmanı ülkenin 'muzaffer' çıktığını söyledi, daha güçlü bölgesel rol sözü verdi",
+        "summary": "Birleşik Arap Emirlikleri (BAE) danışmanı Anwar Gargash, ülkesinin bölgesel arenadan \"muzaffer\" çıktığını ifade etti. Gargash, BAE'nin gelecekte bölgede daha güçlü bir rol üstleneceğinin sözünü verdi. Danışman, ülkenin egemenliğinin ve dayanıklılığının BAE'nin bölgesel etkisini şekillendirecek temel unsurlar olacağını vurguladı. Bu açıklamalar, BAE'nin dış politika ve bölgesel stratejilerine dair önemli ipuçları sunmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T08:45:47.770Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Abu Dabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-adviser-says-country-emerged-victorious-vows-stronger-regional-role/3897383",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1775633230615lht34",
         "title": "Yemenli Öğretmenler Maaş Krizi Nedeniyle Uçurumun Eşiğinde",
         "summary": "Yemen'de öğretmenler, yetersiz ve gecikmeli maaşlar nedeniyle büyük zorluklar yaşıyor. Ülke genelinde öğretmenler, geçimlerini sağlamak amacıyla birden fazla işte çalışmak zorunda kalıyor ve açlıkla mücadele ediyor. Bu durum, eğitim sektöründe ciddi aksaklıklara yol açarken, öğretmenler arasında artan protestolarla kendini gösteriyor. Maaşların çökmesi, Yemen'deki insani krizin derinleştiğini ve toplumun temel hizmetlerinden biri olan eğitimin sürdürülebilirliğini tehdit ettiğini ortaya koyuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/trump-weighs-escalating-strikes-on-iran-infrastructure-as-talks-falter-report-says/3895718",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17755497820808i6v1",
-        "title": "Trump, İran savaşı hakkında 'yanlış, temelsiz' iddialarda bulundu: Rapor",
-        "summary": "CNN tarafından yapılan bir doğruluk kontrolü, eski ABD Başkanı Donald Trump'ın İran savaşına ilişkin açıklamalarında 'yanlış ve temelsiz' iddialarda bulunduğunu ortaya koydu. Rapora göre, Trump'ın Usame bin Ladin, askeri kayıplar ve dış politika konularındaki beyanlarında da tutarsızlıklar tespit edildi. Bu bulgular, eski başkanın kamuoyuna yaptığı açıklamaların doğruluğu üzerine ciddi soru işaretleri yaratıyor. CNN'in araştırması, Trump'ın çeşitli konulardaki iddialarının gerçeklerle örtüşmediğini göstererek, siyasi söylemlerin denetlenmesinin önemini vurguluyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/31468394/pexels-photo-31468394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T08:16:22.080Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/trump-made-false-unsubstantiated-claims-on-iran-war-report/3895703",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1775549831871qbdf5",
-        "title": "İran Nükleer Santrali'ndeki 175 Rus Personel Moskova'ya Döndü",
-        "summary": "İran'daki bir nükleer santralde görevli 175 Rus personel Moskova'ya döndü. Moskova'nın Erivan Büyükelçiliği'nin açıklamasına göre, bu tahliye, ABD ve İsrail'in İran'a karşı başlattığı savaşın başlangıcından bu yana Ermenistan üzerinden Rusya'ya dönen toplam 509 Rus vatandaşının bir parçası. Büyükelçilik, bu durumun bölgedeki artan gerilimle bağlantılı olduğunu belirtti. Rus personelinin İran'ın nükleer tesislerinden çekilmesi, bölgesel güvenlik dinamikleri açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10165700/pexels-photo-10165700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T08:17:11.871Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/175-russian-staff-leave-iran-nuclear-plant-for-moscow/3895688",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
