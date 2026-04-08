@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775619619133lusge",
+        "title": "Netanyahu: ABD-İran Ateşkesi Lübnan'ı Kapsamıyor",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD'nin İran'a yönelik saldırıları askıya alma kararını memnuniyetle karşıladığını açıkladı. Ancak Netanyahu, bu ateşkesin Lübnan için geçerli olmadığını vurguladı. Bu açıklama, bölgedeki gerilimin ve farklı aktörler arasındaki karmaşık ilişkilerin devam ettiğini gösteriyor. İsrail'in Lübnan sınırındaki güvenlik endişelerinin sürdüğü ve olası çatışma risklerinin devam ettiği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/19544066/pexels-photo-19544066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T03:40:19.133Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17756066184842dlqs",
         "title": "Trump, İran'a Yönelik Saldırı Tehdidini Erteledi",
         "summary": "ABD Başkanı Donald Trump, İran'a yönelik olası bir saldırı tehdidini iki hafta ertelemeyi kabul ettiğini duyurdu. Bu erteleme kararı, Hürmüz Boğazı'nın uluslararası deniz trafiğine açık kalması koşuluna bağlı olarak alındı. Trump'ın açıklamasına göre, gerilimin azaltılması ve diplomatik çözüm arayışlarına zaman tanınması amacıyla bu süre uzatıldı. Söz konusu gelişme, bölgedeki tansiyonun düşürülmesi ve olası bir askeri çatışmanın önüne geçilmesi potansiyeli taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775502619576kq77w",
-        "title": "Suudi Arabistan Büyükelçisi: \"Türkiye ile işbirliği bölgesel gerilimi azaltmak için kritik\"",
-        "summary": "Suudi Arabistan'ın Türkiye ile işbirliği içinde bölgesel gerilimin azaltılması ve istikrarın yeniden sağlanması için çalıştığı bildirildi. Suudi Arabistan'ın Türkiye Büyükelçisi Fahad bin Assaad, Anadolu Ajansı'na yaptığı açıklamada, Suudi Arabistan'ın Türkiye ve diğer ülkelerle koordinasyon halinde gerilimi azaltma, savaşları sona erdirme ve bölgesel istikrarı yeniden tesis etme çabalarını desteklediğini belirtti. Büyükelçi, bu işbirliğinin bölgedeki barış ve güvenliğin tesisi açısından hayati önem taşıdığını vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/31999544/pexels-photo-31999544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-06T19:10:19.576Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 32.9,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/saudi-turkish-cooperation-crucial-for-regional-de-escalation-ambassador-says/3895261",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
