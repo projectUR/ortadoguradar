@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775660054276m7ynr",
+        "title": "ABD-İran Ateşkes Anlaşmasından Saatler Sonra Lavan Rafinerisindeki Yangın Devam Ediyor",
+        "summary": "İran'ın Lavan Adası'nda bulunan bir petrol rafinerisinde çıkan yangın, ABD ile İran arasında varılan ateşkes anlaşmasından saatler sonra da devam etti. Rafineriden yükselen yoğun siyah dumanlar bölgeden gözlemlendi. Yangının nedeni hakkında henüz resmi bir açıklama yapılmazken, olay bölgedeki gerilimi artırma potansiyeli taşıyor. Bu gelişme, iki ülke arasındaki hassas diplomatik süreci takip eden bir dönemde yaşandı.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/12641124/pexels-photo-12641124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T14:54:14.276Z",
+        "location": {
+            "lat": 27.18,
+            "lng": 53.38,
+            "name": "Lavan Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/8/lavan-refinery-blaze-continues-hours-after-us-iran-ceasefire-agreement?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775654923556dl891",
         "title": "ABD, Operasyonlara Hazır Olduğunu Belirtirken, Pentagon İran'ın Hava Savunmasının Kalmadığını İddia Etti",
         "summary": "ABD Genelkurmay Başkanlığı Başkanı, ABD kuvvetlerinin emir verilmesi halinde operasyonlara yeniden başlamaya hazır olduğunu bildirdi. Pentagon'dan yapılan açıklamada ise İran'ın artık bir hava savunmasına sahip olmadığı iddia edildi. Açıklamada, ABD'nin \"İran semalarına sahip olduğu\" öne sürüldü. Bu iddialar, bölgedeki güvenlik dinamikleri ve ABD-İran ilişkileri açısından önemli bir gerilimi işaret ediyor. Gelişmeler, Orta Doğu'daki askeri ve siyasi durumu yakından ilgilendiriyor.",
@@ -780,22 +796,6 @@
             "name": "Kalkilya, Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/elderly-palestinian-woman-dies-of-heart-attack-after-israeli-raid-on-west-bank-home/3895826",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17755552950634twed",
-        "title": "İsrail Ordusu, İran'ın Şiraz Kentindeki Bir Petrokimya Tesisini Hedef Aldığını Duyurdu",
-        "summary": "İsrail ordusu, İran'ın Şiraz kentinde bulunan bir petrokimya kompleksini hedef aldığını açıkladı. Askeri yetkililer, saldırının patlayıcı ve füze geliştirme için kritik malzemeler üreten bir tesise yönelik olduğunu bildirdi. Bu gelişme, İsrail ile İran arasındaki gerilimi daha da tırmandırabilecek nitelikte. İsrail'in İran'daki stratejik hedeflere yönelik operasyonları, bölgedeki güvenlik dinamiklerini etkilemeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7429607/pexels-photo-7429607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T09:48:15.063Z",
-        "location": {
-            "lat": 29.6,
-            "lng": 52.54,
-            "name": "Şiraz, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-it-targeted-another-petrochemical-complex-in-irans-shiraz-city/3895801",
         "trendScore": 85,
         "isBreaking": false
     }
