@@ -1,5 +1,21 @@
 [
     {
+        "id": "17756431107355hb5c",
+        "title": "KİK ve Diğer Orta Doğu Ülkeleri, İran-ABD Ateşkes Duyurusuna Tepki Gösterdi",
+        "summary": "Körfez İşbirliği Konseyi (KİK) üyesi ülkeler ve diğer Orta Doğu ulusları, İran ile ABD arasında ilan edilen geçici ateşkes duyurusuna tepki gösterdi. Bölge ülkeleri, bu geçici ateşkese olumlu yaklaşarak memnuniyetlerini dile getirdi. Açıklamalarda, çatışmanın kalıcı olarak sona erdirilmesi için taraflar arasında müzakerelere başlanması gerektiği vurgulandı. Bu gelişme, bölgedeki gerilimin azaltılması ve diplomatik çözüm yollarının aranması açısından önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-08T10:11:50.735Z",
+        "location": {
+            "lat": 30,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/8/gulf-arab-nations-react-to-iran-us-ceasefire-announcement?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775637906573e2fwf",
         "title": "ABD-İran Ateşkes Planı Üzerine Petrol Fiyatları Düştü, Hisse Senetleri Yükseldi",
         "summary": "ABD ile İran arasında olası bir ateşkes planının gündeme gelmesiyle küresel piyasalarda önemli hareketlilik yaşandı. Ham petrol fiyatları, koşullu ateşkes beklentisiyle yüzde 15'e varan oranlarda düşüş gösterdi. Ancak bu düşüşe rağmen, petrol fiyatlarının savaş öncesi seviyelerin üzerinde seyrettiği belirtildi. Ateşkes planının bölgedeki gerilimi azaltma potansiyeli, yatırımcılar arasında olumlu bir hava yaratarak hisse senedi piyasalarında yükselişe neden oldu. Bu gelişmeler, Orta Doğu'daki siyasi dinamiklerin küresel ekonomiye doğrudan etkisini bir kez daha gözler önüne serdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/7/israel-warns-iranians-to-avoid-trains-as-trump-deadline-approaches?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775549735203dhqj8",
-        "title": "Rapora Göre Trump, İran Altyapısına Yönelik Saldırıları Artırmayı Değerlendiriyor",
-        "summary": "Eski ABD Başkanı Donald Trump'ın, İran altyapısına yönelik saldırıları artırma olasılığını değerlendirdiği bildirildi. Bu durum, İran ile yürütülen müzakerelerin başarısızlıkla sonuçlanmasının ardından ortaya çıktı. Habere göre, Trump yönetiminin Salı akşamına kadar bu konuda bir karar vermesi bekleniyor. Diplomatik çözüm arayışları ile gerilimi tırmandırma yönündeki baskılar arasında bir denge kurulmaya çalışıldığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700146/pexels-photo-5700146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T08:15:35.203Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/world/trump-weighs-escalating-strikes-on-iran-infrastructure-as-talks-falter-report-says/3895718",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
