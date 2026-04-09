@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775768262464zve5r",
+        "title": "Beyrut'taki İsrail Hava Saldırılarında Can Kaybı ve Yaralı Sayısı Arttı",
+        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, Beyrut'ta gerçekleşen İsrail hava saldırılarında çok sayıda kişi hayatını kaybetti ve yaralandı. Saldırılarda en az 182 kişinin yaşamını yitirdiği, 890 kişinin ise yaralandığı bildirildi. Olayın ardından bölgede arama kurtarma çalışmaları devam ederken, uluslararası medya kuruluşları da gelişmeleri yakından takip ediyor. BBC ekibi de saldırıların yaşandığı bölgede incelemelerde bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33356653/pexels-photo-33356653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T20:57:42.464Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775763973234u8653",
         "title": "Hizbullah, İran Ateşkes Görüşmelerinde Neden Bir Engel Teşkil Ediyor?",
         "summary": "Lübnan merkezli silahlı grup Hizbullah, İran'ın önemli bir müttefiki olarak öne çıkmaktadır. Ancak grup, İsrail'in hedefinde olmaya devam etmektedir. Bu durum, İran'ı da kapsayan geniş çaplı bir ateşkes anlaşmasına varılmasının önündeki temel engellerden biri olarak değerlendirilmektedir. Bölgedeki gerilimin azaltılmasına yönelik diplomatik çabalarda Hizbullah'ın konumu ve faaliyetleri kritik bir rol oynamaktadır. İran'ın bölgesel politikaları ve müttefikleriyle olan ilişkileri, ateşkes müzakerelerinin seyrini doğrudan etkilemektedir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17756066558191p07e",
-        "title": "Trump, İran'ın Hürmüz Boğazı'nı Yeniden Açmayı Kabul Etmesi Üzerine İki Haftalık Ateşkes İlan Etti",
-        "summary": "ABD Başkanı Trump, iki haftalık bir ateşkes ilan ettiğini duyurdu. Bu kararın, İran'ın stratejik Hürmüz Boğazı'nı yeniden açmayı kabul etmesi üzerine alındığı belirtildi. Ancak ABD Başkanı, bu askıya almanın İran'ın Hürmüz Boğazı'nı açmasına bağlı olduğu konusunda uyarıda bulundu. Bu gelişme, ABD ile İran arasındaki gerilimi azaltma potansiyeli taşıyor ve bölgedeki denizcilik güvenliği açısından önem arz ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28240582/pexels-photo-28240582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T00:04:15.819Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
