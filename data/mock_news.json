@@ -1,5 +1,85 @@
 [
     {
+        "id": "1775753315329kirr5",
+        "title": "STK: Sudan'da İnsani Durum 'Feci Seviyelerde'",
+        "summary": "Uluslararası sivil toplum kuruluşu Humanity & Inclusion, Sudan'daki insani durumun \"feci seviyelere\" ulaştığını açıkladı. Ülkede devam eden savaş ve insani krizin, özellikle engelli bireyler için aşırı zorluklar yarattığı belirtildi. Kuruluş, engellilerin temel hizmetlere erişimde ciddi engellerle karşılaştığını ve çatışmaların ortasında hayatta kalma mücadelesi verdiğini vurguladı. Raporda, uluslararası topluma Sudan'daki insani yardımların artırılması ve engelli bireylerin özel ihtiyaçlarının karşılanması çağrısı yapıldı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6647008/pexels-photo-6647008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T16:48:35.329Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5596,
+            "name": "Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775753368993by9o6",
+        "title": "İsrail, İran'daki Savaş Sürerken Son 40 Günün 36'sında Gazze'yi Bombaladı",
+        "summary": "İsrail'in son 40 günün 36'sında Gazze Şeridi'ni bombaladığı bildirildi. Bu süreçte 107 kişinin hayatını kaybettiği belirtildi. Ayrıca, tıbbi tahliyelerin yalnızca yüzde 8'ine izin verildiği ve yardım tırlarının sadece yüzde 20'sinin bölgeye girişine müsaade edildiği kaydedildi. Haber, bu olayların İran'da bir savaşın sürdüğü dönemde yaşandığına dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33436818/pexels-photo-33436818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T16:49:28.993Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775753406222jq64l",
+        "title": "'Sonsuz korkular': Savaş dursa bile, İranlı çocukların üzerindeki hasar kalıcı olacak",
+        "summary": "BBC'nin elde ettiği tanıklıklara göre, İran'daki çocuklar savaşın neden olduğu derin sıkıntılarla mücadele ediyor. Haber, çatışmalar sona erse dahi, İranlı çocukların yaşadığı travmanın ve psikolojik hasarın uzun süre devam edeceğini ortaya koyuyor. Ebeveynler ve yardım kuruluşları, çocukların geleceği üzerindeki kalıcı olumsuz etkilerden büyük endişe duyduklarını belirtiyor. Bu durum, bölgedeki savaşların en savunmasız kesim olan çocuklar üzerindeki yıkıcı ve kalıcı etkilerini bir kez daha gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35107611/pexels-photo-35107611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T16:50:06.222Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1775753545869zuf0n",
+        "title": "Kanada'dan Lübnan'ın ABD-İran Ateşkesine Dahil Edilmesi Çağrısı",
+        "summary": "Kanada, artan İsrail saldırıları karşısında Lübnan'ın ABD ile İran arasındaki olası bir ateşkes anlaşmasına dahil edilmesi çağrısında bulundu. Bu çağrı, bölgedeki gerilimin yükseldiği bir döneme denk geliyor. Kanadalı yetkililer, Lübnan'ın güvenliğinin ve istikrarının sağlanmasının önemini vurguladı. Ateşkesin kırılganlığına dikkat çeken Mark Carney, durumun hassasiyetini dile getirdi. Bu girişim, Orta Doğu'daki çatışmaların genişlemesini önlemeyi hedefliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T16:52:25.869Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/canada-urges-inclusion-of-lebanon-in-us-iran-ceasefire-amid-heightened-israeli-attacks/3899909",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775753567640yhfec",
+        "title": "İsrail, Beyrut İçin Tahliye Emirlerini Yeniledi",
+        "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut'un güneyindeki çeşitli bölgelerde ikamet eden sakinlere derhal tahliye emri verdiğini duyurdu. Bu emir, uluslararası toplumdan bölgedeki saldırıların durdurulması yönündeki çağrıların arttığı bir dönemde geldi. İsrail'in bu adımı, Lübnan ile İsrail arasındaki gerilimin tırmandığına işaret ediyor. Tahliye emri verilen bölgelerdeki sivillerin güvenliği konusunda endişeler dile getirilirken, gelişmeler uluslararası aktörler tarafından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31115072/pexels-photo-31115072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T16:52:47.640Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-renews-beirut-evacuation-orders-amid-global-calls-to-halt-attacks/3899882",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775742595754hhkgm",
         "title": "İsrailli yerleşimciler yeniden açılan Mescid-i Aksa külliyesine baskın düzenledi",
         "summary": "Kudüs'te bulunan ve hem Müslümanlar hem de Yahudiler için kutsal sayılan Mescid-i Aksa külliyesine, İsrailli yerleşimciler tarafından baskın düzenlendiği bildirildi. Haberde, külliyenin yeniden açılmasının ardından yerleşimcilerin bölgeye girdiği belirtildi. Bu tür olaylar, bölgedeki hassas statükoyu ihlal ettiği gerekçesiyle sıkça eleştirilmekte ve gerilimi artırmaktadır. Olayın detaylarına ilişkin ek bilgi verilmezken, bu durumun bölgedeki güvenlik dinamikleri üzerindeki etkileri yakından takip ediliyor.",
@@ -718,85 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iraqi-group-releases-abducted-us-journalist/3896718",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17755925519032jrnk",
-        "title": "Kuveyt, bölgesel gerilim nedeniyle vatandaşlarını gece evde kalmaya çağırdı",
-        "summary": "Kuveyt İçişleri Bakanlığı, bölgesel gerilimin artması üzerine vatandaşlarına yönelik önemli bir uyarı yayınladı. Bakanlık, yerel saatle gece 12:00 ile sabah 06:00 saatleri arasında evde kalmaları çağrısında bulundu. Bu önlemin, bölgedeki artan gerilimler karşısında bir ihtiyati tedbir olarak alındığı belirtildi. Söz konusu çağrı, ülkenin güvenliğini ve vatandaşların emniyetini sağlamayı amaçlıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380659/pexels-photo-5380659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T20:09:11.903Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/kuwait-urges-citizens-to-stay-home-overnight-amid-regional-escalation/3896664",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775589516197xhv10",
-        "title": "Iraklı Silahlı Grup Kaçırılan ABD'li Gazeteci Shelly Kittleson'ı Serbest Bıraktı",
-        "summary": "Irak'ta faaliyet gösteren silahlı grup Kataib Hizbullah, kaçırdığı ABD'li gazeteci Shelly Kittleson'ı serbest bıraktığını duyurdu. Grubun açıklamasına göre, Kittleson'ın serbest bırakılması, ülkeyi derhal terk etmesi koşuluna bağlı olarak gerçekleşti. Bu gelişme, Irak'taki yabancı uyrukluların güvenliğine ilişkin endişeleri yeniden gündeme getirirken, bölgedeki silahlı grupların faaliyetlerinin devam ettiğini gösterdi. Gazetecinin serbest bırakılmasıyla ilgili detaylar henüz tam olarak netleşmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18284793/pexels-photo-18284793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T19:18:36.197Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/7/iraqi-armed-group-releases-abducted-us-journalist-shelly-kittleson?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17755895386617cfze",
-        "title": "Tahran'da Sinagog Hedef Alındı: ABD-İsrail Saldırılarında Bir Düzineden Fazla Can Kaybı",
-        "summary": "İran'ın başkenti Tahran'da bulunan bir sinagog, gece saatlerinde düzenlenen hava saldırılarında hedef alındı. ABD ve İsrail'e atfedilen bu saldırı dalgası, bölgede gerilimi artırdı. Olayda bir düzineden fazla kişinin hayatını kaybettiği bildirildi. Saldırının detayları ve yol açtığı hasarın boyutu araştırılıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5710424/pexels-photo-5710424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T19:18:58.661Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/tehran-synagogue-destroyed-as-us-israeli-strikes-kill-over-a-dozen?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "17755896276611ffj6",
-        "title": "UNIFIL Soruşturması: İsrail Tank Ateşi Lübnan'da BM Barış Gücü Askerini Öldürdü",
-        "summary": "Birleşmiş Milletler Lübnan Geçici Barış Gücü (UNIFIL) tarafından yürütülen bir soruşturma, Lübnan'da görevli bir BM barış gücü askerinin İsrail tank ateşi sonucu hayatını kaybettiğini tespit etti. UNIFIL, olayın yaşandığı bölgedeki tüm pozisyonlarının koordinatlarını İsrail'e önceden bildirdiğini açıkladı. Bu durum, İsrail ordusu ile uluslararası barış gücü arasındaki koordinasyon ve güvenlik protokolleri hakkında soruları gündeme getirdi. Olay, İsrail-Lübnan sınırındaki gerilimi ve uluslararası güçlerin güvenliğini bir kez daha ön plana çıkardı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8728590/pexels-photo-8728590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T19:20:27.661Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.4,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-tank-fire-killed-un-peacekeeper-in-lebanon-unifil-investigation-finds/3896622",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775584774289c1vix",
-        "title": "JD Vance'in Pakistan'ın ABD-İran Arabuluculuk Çabalarına Katılma Nedenleri",
-        "summary": "Pakistan'ın ABD ile İran arasındaki gerilimi azaltmaya yönelik arabuluculuk çabaları hız kazandı. Bu diplomatik girişimlere ABD'li siyasetçi JD Vance'in de katıldığı belirtildi. İran'ın, ABD Başkan Yardımcısı aracılığıyla dolaylı bir angajman arayışında olduğu ifade ediliyor. Taraflar arasındaki arka kanal görüşmelerinin yoğunlaştığı ve bu çabaların iki ülke arasındaki ilişkileri normalleştirme amacı taşıdığı bildirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34969307/pexels-photo-34969307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T17:59:34.289Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
