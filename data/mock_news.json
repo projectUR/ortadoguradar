@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775771533703zq4vr",
+        "title": "Trump'tan İran'a Hürmüz Boğazı Uyarısı",
+        "summary": "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'ndan geçen gemilerden geçiş ücreti talep etmemesi gerektiğini belirtti. Trump, \"Eğer alıyorlarsa, şimdi durmaları iyi olur!\" ifadelerini kullanarak İran'a sert bir uyarıda bulundu. Bu açıklama, stratejik öneme sahip Hürmüz Boğazı'ndaki uluslararası seyrüsefer güvenliği ve denizcilik kuralları üzerindeki gerilimi yansıtmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34621168/pexels-photo-34621168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T21:52:13.703Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-says-iran-better-not-be-charging-tolls-for-ships-passing-through-strait-of-hormuz/3900324",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775768262464zve5r",
         "title": "Beyrut'taki İsrail Hava Saldırılarında Can Kaybı ve Yaralı Sayısı Arttı",
         "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, Beyrut'ta gerçekleşen İsrail hava saldırılarında çok sayıda kişi hayatını kaybetti ve yaralandı. Saldırılarda en az 182 kişinin yaşamını yitirdiği, 890 kişinin ise yaralandığı bildirildi. Olayın ardından bölgede arama kurtarma çalışmaları devam ederken, uluslararası medya kuruluşları da gelişmeleri yakından takip ediyor. BBC ekibi de saldırıların yaşandığı bölgede incelemelerde bulunuyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17756066184842dlqs",
-        "title": "Trump, İran'a Yönelik Saldırı Tehdidini Erteledi",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik olası bir saldırı tehdidini iki hafta ertelemeyi kabul ettiğini duyurdu. Bu erteleme kararı, Hürmüz Boğazı'nın uluslararası deniz trafiğine açık kalması koşuluna bağlı olarak alındı. Trump'ın açıklamasına göre, gerilimin azaltılması ve diplomatik çözüm arayışlarına zaman tanınması amacıyla bu süre uzatıldı. Söz konusu gelişme, bölgedeki tansiyonun düşürülmesi ve olası bir askeri çatışmanın önüne geçilmesi potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T00:03:38.484Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
