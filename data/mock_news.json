@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775718214007ih5d9",
+        "title": "ABD ile yapılan ateşkes anlaşması İran'daki muhafazakarları neden endişelendiriyor?",
+        "summary": "BBC News Farsça muhabiri Kasra Naji'nin analizine göre, ABD ile varılan iki haftalık ateşkes anlaşması, İran'daki muhafazakar çevrelerde rahatsızlığa yol açtı. Anlaşmanın, Washington ile Tahran arasında doğrudan görüşmelerin önünü açma potansiyeli taşıması, bu kesimlerin tepkisini çekiyor. İran'ın iç siyasetinde önemli bir etkiye sahip olan muhafazakarlar, ABD ile herhangi bir yakınlaşmaya temkinli yaklaşıyor. Bu durum, ateşkesin sadece bölgesel gerilimi azaltmakla kalmayıp, aynı zamanda İran'ın iç siyasetinde de yeni tartışmaları tetiklediğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T07:03:34.007Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775718256069ff5nw",
+        "title": "İsrail güçleri Batı Şeria'nın kuzeyinde çıkan çatışmalarda bir Filistinliyi öldürdü",
+        "summary": "Batı Şeria'nın kuzeyinde gerilim tırmanıyor. İsrail ordusu, Tayasir ve Akabe bölgelerinde geniş çaplı bir operasyon başlattı. Operasyon sırasında çıkan çatışmalarda Alaa Khaled Subaih adlı bir Filistinli hayatını kaybetti. İsrail güçleri, hayatını kaybeden Filistinlinin naaşını gözaltına aldı. Bölgedeki olaylar, İsrail-Filistin arasındaki gerilimi daha da artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10675775/pexels-photo-10675775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T07:04:16.069Z",
+        "location": {
+            "lat": 32.35,
+            "lng": 35.35,
+            "name": "Kuzey Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-shoot-dead-palestinian-during-clashes-in-northern-west-bank/3898903",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17757183021129r8al",
+        "title": "İsrail'in 40 Günlük Kapatmasının Ardından Mescid-i Aksa Yeniden Açıldı",
+        "summary": "İsrail tarafından 40 gün süreyle kapatılan Mescid-i Aksa, ibadete yeniden açıldı. Yüzlerce Filistinli, sabah namazını kılmak üzere Kudüs'teki kutsal mekana akın etti. İsrail makamları, kapatma kararını bölgedeki güvenlik endişeleri nedeniyle aldıklarını belirtmişti. Mescid-i Aksa'nın yeniden açılması, Filistinlilerin ibadet özgürlüğü açısından önemli bir gelişme olarak değerlendiriliyor. Bu durum, Kudüs'ün statüsü ve ibadethanelerin yönetimi konusundaki hassasiyeti bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11696746/pexels-photo-11696746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-09T07:05:02.112Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/al-aqsa-mosque-reopens-after-40-day-closure-by-israel/3898892",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775712516667g761s",
         "title": "Trump, Rutte ile görüşmesinin ardından NATO'yu İran konusunda eleştirdi, Grönland tehdidini yineledi",
         "summary": "ABD Başkanı Donald Trump, NATO Genel Sekreteri ile bir araya geldi. Görüşmede Trump, NATO üyesi ülkelerin İran'a karşı olası bir savaşı desteklememelerinden duyduğu hayal kırıklığını dile getirdi. Başkan Trump'ın bu açıklamaları, ABD'nin İran'a yönelik politikaları ve müttefiklerinden beklentileri konusunda gerilimi artırdı. Bu durum, Orta Doğu'daki güvenlik dinamikleri ve uluslararası ittifakların geleceği hakkında soruları gündeme getirdi.",
@@ -748,54 +796,6 @@
             "name": "Ramat Hasharon, İsrail"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-missile-strike-damages-cars-and-street-in-israel?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17755596438733fgw2",
-        "title": "ABD ve İsrail'in Bölge Güvenliğini Tehlikeye Attığı İddiası",
-        "summary": "Haber başlığı, ABD ve İsrail'in Orta Doğu'daki politikalarının bölge güvenliğini ciddi şekilde riske attığı yönündeki endişeleri dile getiriyor. Bu ifade, iki ülkenin bölgedeki eylemlerinin, mevcut istikrarsızlığı artırma ve öngörülemeyen sonuçlara yol açma potansiyeline sahip olduğu görüşünü yansıtıyor. \"Rus ruleti oynamak\" benzetmesi, söz konusu politikaların taşıdığı yüksek riski ve potansiyel tehlikeleri vurgulamaktadır. Analistler, bu tür eleştirilerin genellikle İsrail'in Filistin politikaları, İran'a yönelik tutumu veya ABD'nin bölgedeki askeri varlığı gibi konular üzerinden yapıldığını belirtiyor. Bu durum, Orta Doğu'daki güvenlik dinamiklerinin karmaşıklığını ve uluslararası aktörlerin rollerinin sürekli tartışma konusu olduğunu göstermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T11:00:43.873Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/quotable/2026/4/7/us-israel-playing-russian-roulette-with-security-of-the?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775559701261rg9y0",
-        "title": "İstanbul'da İsrail Başkonsolosluğu Yakınlarında Silahlı Saldırı: Üç Ölü",
-        "summary": "İstanbul'da İsrail Başkonsolosluğu yakınlarında silahlı bir saldırı meydana geldi. Olayda üç kişinin hayatını kaybettiği bildirildi. Güvenlik güçleri tarafından yapılan açıklamaya göre, saldırıda iki polis memuru da yaralandı. Bölgede geniş güvenlik önlemleri alındı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5202378/pexels-photo-5202378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T11:01:41.261Z",
-        "location": {
-            "lat": 41,
-            "lng": 29,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/7/three-people-killed-in-gun-clash-near-israeli-consulate-in-istanbul?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775559741221yie7u",
-        "title": "İsrail Saldırılarında Gazze'de 10 Kişi Daha Hayatını Kaybetti, 44 Kişi Yaralandı",
-        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in ateşkes ihlalleriyle devam eden saldırılarında 10 Gazalı daha yaşamını yitirdi, 44 kişi ise yaralandı. Bakanlık, ateşkesin başlamasından bu yana toplamda 733 Filistinlinin hayatını kaybettiğini ve 2.034 kişinin yaralandığını bildirdi. Bu son olaylar, bölgedeki gerilimin ve şiddetin ateşkes anlaşmasına rağmen sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-07T11:02:21.221Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/10-more-gazans-killed-44-injured-in-israeli-attacks-amid-ceasefire-violations/3895946",
         "trendScore": 90,
         "isBreaking": true
     }
