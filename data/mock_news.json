@@ -1,5 +1,69 @@
 [
     {
+        "id": "17758049269314d6j0",
+        "title": "Filistinli gazeteci, İsrail hapishanesinde protez gözünü kaybettiğini anlattı",
+        "summary": "Filistinli gazeteci Muath Amarne, İsrail'in gözaltında tutulduğu sırada protez gözünü kaybettiğini açıkladı. Amarne, gözaltı sürecinde yaşadığı bir enfeksiyon nedeniyle protez gözünün düştüğünü belirtti. Bu olay, İsrail hapishanelerindeki Filistinli mahkumların koşulları ve sağlık hizmetleri konusundaki endişeleri yeniden gündeme getirdi. Gazetecinin açıklamaları, uluslararası insan hakları örgütlerinin dikkatini çekebilir ve bölgedeki insan hakları tartışmalarını alevlendirebilir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T07:08:46.931Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/10/palestinian-journalist-describes-losing-prosthetic-eye-in-israeli-prison?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "177580502041653inm",
+        "title": "Lübnan-İsrail Toplantısı Hazırlık Niteliğinde Olacak",
+        "summary": "Lübnanlı bir kaynağa göre, gelecek hafta ABD destekli Lübnan-İsrail toplantısı müzakere niteliğinde olmayıp hazırlık amaçlı olacak. Anadolu Ajansı'na konuşan üst düzey Lübnanlı bir yetkili, ABD Dışişleri Bakanlığı'nda yapılacak olan bu görüşmenin sadece bir hazırlık toplantısı olduğunu ve doğrudan bir müzakere içermediğini belirtti. Kaynak, isminin açıklanmaması koşuluyla bilgi verdi. Bu toplantının, iki ülke arasındaki ilişkilerde yeni bir adım olup olmayacağı merak konusu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868979/pexels-photo-7868979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T07:10:20.416Z",
+        "location": {
+            "lat": 33.8938,
+            "lng": 35.5018,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/next-weeks-us-backed-lebanon-israel-meeting-will-be-preparatory-not-a-negotiation-lebanese-source/3900480",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775805076499ptw6z",
+        "title": "Gazze Medya Ofisi, Barış Kurulu Temsilcisinin 602 Yardım Kamyonunun Bölgeye Girdiği İddiasını Yalanladı",
+        "summary": "Gazze Medya Ofisi, bir Barış Kurulu temsilcisinin bölgeye 602 yardım kamyonunun girdiğine dair iddiasını yalanladı. Ofisten yapılan açıklamada, Perşembe günü Gazze Şeridi'ne yalnızca 207 kamyonun giriş yaptığı belirtildi. Bu kamyonlardan sadece 79'unun insani yardım taşıdığı ifade edildi. Açıklama, Gazze'ye ulaşan yardım miktarı konusundaki farklı iddiaları ve bölgedeki insani durumu bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193759/pexels-photo-36193759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T07:11:16.499Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gaza-media-office-denies-board-of-peace-envoy-s-claim-that-602-aid-trucks-entered-enclave/3900381",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775805110449rsf41",
+        "title": "Pakistan Savunma Bakanı'ndan İsrail'e Sert Eleştiri",
+        "summary": "Pakistan Savunma Bakanı Khawaja Asif, İsrail'i \"insanlık için bir lanet\" olarak nitelendiren sert açıklamalarda bulundu. Bakan Asif, devam eden ateşkes çabalarına rağmen Gazze'den Lübnan'a kadar uzanan bölgede \"kan dökülmesinin sürdüğünü\" vurguladı. Bu ifadeler, Orta Doğu'daki mevcut gerilimin ve çatışmaların uluslararası arenadaki yankılarını gözler önüne serdi. Pakistanlı bakanın bu sözleri, bölgedeki insani durumu ve güvenlik endişelerini dile getiren önemli bir siyasi mesaj olarak değerlendirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T07:11:50.449Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze, Filistin; Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/pakistani-defense-minister-calls-israel-curse-for-humanity/3900380",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775771533703zq4vr",
         "title": "Trump'tan İran'a Hürmüz Boğazı Uyarısı",
         "summary": "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'ndan geçen gemilerden geçiş ücreti talep etmemesi gerektiğini belirtti. Trump, \"Eğer alıyorlarsa, şimdi durmaları iyi olur!\" ifadelerini kullanarak İran'a sert bir uyarıda bulundu. Bu açıklama, stratejik öneme sahip Hürmüz Boğazı'ndaki uluslararası seyrüsefer güvenliği ve denizcilik kuralları üzerindeki gerilimi yansıtmaktadır.",
@@ -732,70 +796,6 @@
             "name": "Orta Doğu"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775627387900e3blm",
-        "title": "İran'da Minab Okul Saldırısı Kurbanları Anıldı",
-        "summary": "İran'da, Minab kentindeki bir kız okuluna yönelik düzenlenen ve 168 kişinin yaşamını yitirmesine neden olan ABD saldırısının kurbanları anıldı. Ülke genelinde düzenlenen törenlerde, trajik olayın mağdurları ve hayatını kaybedenler yad edildi. Anma etkinlikleri, geçmişte yaşanan bu acı olayın hafızalarda canlı tutulması ve benzer trajedilerin bir daha yaşanmaması temennisiyle gerçekleştirildi. Çok sayıda İranlı vatandaşın katıldığı törenlerde, saldırının yol açtığı insani kayıplara dikkat çekildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34937172/pexels-photo-34937172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T05:49:47.900Z",
-        "location": {
-            "lat": 27.1333,
-            "lng": 57.0833,
-            "name": "Minab, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1775627412180gril2",
-        "title": "Dünya, ABD-İran Ateşkesini Memnuniyetle Karşıladı, Orta Doğu'da Kalıcı Barış Çağrısı Yaptı",
-        "summary": "Uluslararası toplum, Amerika Birleşik Devletleri ile İran arasında sağlanan iki haftalık ateşkesi memnuniyetle karşıladığını duyurdu. Dünya ülkeleri, ateşkesin tam olarak uygulanması çağrısında bulunurken, Pakistan'ın barışın sağlanmasındaki kolaylaştırıcı rolünü takdir etti. Bu ateşkesin, Orta Doğu'da kalıcı bir barış ortamının tesis edilmesi için önemli bir adım olduğu vurgulandı. Taraflara, bölgedeki gerilimi azaltma ve uzun vadeli çözüm yolları arama konusunda sorumluluklarını yerine getirme çağrısı yapıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T05:50:12.180Z",
-        "location": {
-            "lat": 30,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17756274981266tt42",
-        "title": "İran, ABD'nin Savaşı Bitirme Planını Kabul Ettiğini Duyurdu",
-        "summary": "İran, ABD'nin bir savaşı sona erdirmeye yönelik 10 maddelik bir planı kabul ettiğini duyurdu. Tahran yönetimi, bu planın uygulanması için bazı koşullar belirlediğini açıkladı. Belirtilen koşullar arasında İran'a yönelik yaptırımların hafifletilmesi, Hürmüz Boğazı üzerindeki İran kontrolünün sürdürülmesi ve ABD muharip güçlerinin bölgeden çekilmesi yer alıyor. Bu açıklama, ABD ile İran arasındaki gerilimin azaltılmasına yönelik diplomatik çabaların bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T05:51:38.126Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/iran-says-us-accepts-10-point-plan-for-ending-war/3896929",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775619619133lusge",
-        "title": "Netanyahu: ABD-İran Ateşkesi Lübnan'ı Kapsamıyor",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD'nin İran'a yönelik saldırıları askıya alma kararını memnuniyetle karşıladığını açıkladı. Ancak Netanyahu, bu ateşkesin Lübnan için geçerli olmadığını vurguladı. Bu açıklama, bölgedeki gerilimin ve farklı aktörler arasındaki karmaşık ilişkilerin devam ettiğini gösteriyor. İsrail'in Lübnan sınırındaki güvenlik endişelerinin sürdüğü ve olası çatışma risklerinin devam ettiği belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/19544066/pexels-photo-19544066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T03:40:19.133Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
