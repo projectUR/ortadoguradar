@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775840528788dpyex",
+        "title": "Trump ve Netanyahu Arasında Lübnan Ateşkesi Öncesi 'Gergin' Telefon Görüşmesi",
+        "summary": "CNN'in haberine göre, İsrail Başbakanı Binyamin Netanyahu ile ABD eski Başkanı Donald Trump arasında, İsrail'in Lübnan ile ateşkes görüşmeleri arayışına girmesinden önce 'gergin' bir telefon görüşmesi gerçekleşti. Haberde, Netanyahu'nun, eğer Lübnan ile doğrudan görüşme çağrısı yapmazsa Trump'ın tek taraflı bir ateşkes ilan edebileceği endişesiyle hareket ettiği belirtildi. Bu durum, İsrail'in Lübnan ile olası bir ateşkes müzakereleri sürecine girmesindeki diplomatik dinamikleri gözler önüne serdi. Görüşmenin, İsrail'in Lübnan ile ateşkes müzakereleri arayışına girmesinden hemen önce yaşandığı ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4345107/pexels-photo-4345107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-10T17:02:08.788Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/americas/trump-netanyahu-hold-tense-phone-call-before-israel-sought-ceasefire-talks-with-lebanon-report/3901215",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775836664809fyqij",
         "title": "ABD'de Enflasyon İran Savaşı ve Hürmüz Ablukası Ortamında Yükseldi",
         "summary": "ABD hükümetinin yayımladığı bir rapora göre, ülkede enflasyon oranları yükseliş gösterdi. Mart ayında benzin fiyatları yüzde 21,2 oranında artış kaydetti. Yakıt fiyatları, ateşkes ilan edilmesine rağmen galon başına 4 doların üzerinde seyretmeye devam ediyor. Bu artışın, İran'daki savaş durumu ve Hürmüz Boğazı'ndaki ablukanın etkisiyle gerçekleştiği belirtiliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1775633363304spfe3",
-        "title": "ABD ve İran Arasında İki Haftalık Ateşkes: Detaylar",
-        "summary": "ABD ve İran arasında iki haftalık geçici bir ateşkes sağlandığı bildirildi. Bu ateşkesin, ABD ve İsrail'in İran'a yönelik koordineli saldırılarından bir aydan fazla bir süre sonra gelmesi dikkat çekiyor. Anlaşmanın detayları ve kapsamı hakkında henüz tam bilgi verilmezken, tarafların gerilimi azaltma amacı taşıdığı düşünülüyor. Bölgedeki tansiyonun yüksek olduğu bir dönemde gerçekleşen bu ateşkesin, uzun vadeli bir çözüm için zemin hazırlayıp hazırlamayacağı merak konusu. Uluslararası toplum, gelişmeleri yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T07:29:23.304Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
