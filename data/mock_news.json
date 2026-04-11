@@ -1,5 +1,133 @@
 [
     {
+        "id": "17758974846047crav",
+        "title": "İsrail, Lübnan Görüşmeleri Öncesi Hizbullah ile Ateşkesi Reddetti",
+        "summary": "İsrail, önümüzdeki hafta Washington'da Lübnan ile yapılması planlanan görüşmeler öncesinde Hizbullah ile bir ateşkes anlaşmasını reddettiğini açıkladı. Bu gelişme, İsrail'in Lübnan'a yönelik saldırılarının devam ettiği bir dönemde yaşandı. İran ise, bölgedeki gerilimi azaltmaya yönelik olası bir ateşkesin kendilerini de kapsaması gerektiğini vurguladı. Washington'daki görüşmelerin, iki ülke arasındaki mevcut çatışma ve gerilimi ele alması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:51:24.604Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775897512862u08b5",
+        "title": "İsrail'in Gazze'deki Cami Yakınında Düzenlediği İHA Saldırısında Can Kaybı",
+        "summary": "Gazze Şeridi'nin merkezinde bulunan bir caminin yakınında İsrail'e ait insansız hava aracıyla düzenlenen saldırıda en az altı kişi hayatını kaybetti. Olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Saldırının detayları ve hedefleri hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki gerilim devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850177/pexels-photo-36850177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:51:52.862Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775897534800rx1fr",
+        "title": "ABD Başkan Yardımcısı Vance, İran Görüşmeleri İçin Pakistan'da",
+        "summary": "ABD Başkan Yardımcısı JD Vance, İranlı yetkililerle görüşmeler gerçekleştirmek üzere Pakistan'a geldi. Ziyaretin temel amacı, İran'a yönelik savaşı sona erdirecek bir anlaşmaya ulaşmak olarak açıklandı. Bu diplomatik temasların, bölgedeki gerilimi azaltma ve kalıcı bir çözüm bulma çabalarının bir parçası olduğu belirtiliyor. Görüşmelerin sonucunda bölgesel ve uluslararası ilişkilerde önemli gelişmeler yaşanması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181408/pexels-photo-1181408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:52:14.800Z",
+        "location": {
+            "lat": 33.6844,
+            "lng": 73.0479,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775897574420wbapx",
+        "title": "ABD Başkan Yardımcısı Vance liderliğindeki heyet, İran ile görüşmeler için Pakistan'da",
+        "summary": "ABD Başkan Yardımcısı Vance liderliğindeki bir heyet, İranlı yetkililerle görüşmeler gerçekleştirmek üzere Pakistan'a ulaştı. Bu kritik ziyaretin temel amacı, Orta Doğu'daki mevcut çatışmalara diplomatik bir çözüm bulmak. Görüşmelerin hem doğrudan hem de dolaylı formatlarda yapılması bekleniyor. Taraflar arasındaki bu temasların, bölgedeki gerilimi azaltma ve uzun vadeli istikrarı sağlama yönünde önemli bir adım teşkil etmesi umuluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:52:54.420Z",
+        "location": {
+            "lat": 33.6844,
+            "lng": 73.0479,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aa.com.tr/en/live-blog/us-delegation-led-by-vice-president-vance-in-pakistan-for-talks-with-iran/741",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17758975959667k28m",
+        "title": "ABD'den Orta Doğu'ya Ek Askeri Güç Konuşlandırması",
+        "summary": "Wall Street Journal'ın bildirdiğine göre, ABD'nin Orta Doğu'ya ek askeri güç göndereceği açıklandı. Haberde, binlerce denizci ve deniz piyadesinin bölgeye doğru yola çıktığı belirtildi. Bu konuşlandırmanın, ABD'nin bölgedeki stratejik çıkarlarını koruma veya mevcut güvenlik endişelerine yanıt verme amacı taşıdığı düşünülüyor. Söz konusu askeri hareketlilik, Orta Doğu'daki bölgesel dengeler ve güvenlik ortamı üzerinde potansiyel etkiler yaratabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7983754/pexels-photo-7983754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:53:15.966Z",
+        "location": {
+            "lat": 28,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/americas/more-us-forces-to-deploy-in-middle-east-report/3901680",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1775897629452fezjd",
+        "title": "Eski ABD Dışişleri Bakanı Kerry: Netanyahu, ABD Başkanlarına İran'a Saldırı İçin Baskı Yaptı, Yalnızca Trump Kabul Etti",
+        "summary": "Eski ABD Dışişleri Bakanı John Kerry, İsrail Başbakanı Binyamin Netanyahu'nun geçmişte ABD başkanlarına İran'a askeri saldırı düzenlemeleri yönünde defalarca baskı yaptığını iddia etti. Kerry'nin açıklamalarına göre, George W. Bush, Barack Obama ve Joe Biden gibi önceki ABD başkanları bu öneriyi reddederken, yalnızca eski Başkan Donald Trump'ın bu talebe olumlu yanıt verdiği belirtildi. Bu iddialar, ABD ve İsrail'in İran politikaları arasındaki gerilimi ve farklı yaklaşımları bir kez daha gündeme taşıdı. Kerry'nin bu açıklamaları, bölgedeki diplomatik ilişkilerin karmaşıklığını ve liderler arasındaki stratejik farklılıkları gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/31468385/pexels-photo-31468385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:53:49.452Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/americas/former-us-secretary-of-state-says-netanyahu-repeatedly-pressed-us-presidents-to-strike-iran-only-trump-agreed/3901652",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17758976524401wvy0",
+        "title": "İsrail'in Lübnan'a Yönelik Gece Saldırılarında 3 Kişi Hayatını Kaybetti",
+        "summary": "İsrail ordusu, Lübnan'ın güneyine düzenlediği gece saldırılarını sürdürüyor. Bu saldırılarda üç kişinin yaşamını yitirdiği bildirildi. İsrail'in operasyonları, İran'ın bölgede ateşkes çağrısı yapmasına rağmen devam ediyor. Ayrıca, çatışmanın sona erdirilmesi için planlanan diplomatik görüşmelerin varlığına rağmen İsrail güçlerinin güney Lübnan'daki faaliyetlerini sürdürdüğü belirtildi. Bölgedeki gerilim ve çatışmaların devam ettiği gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:54:12.440Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israels-overnight-attacks-on-lebanon-kill-3/3901646",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17758976774288fcwd",
+        "title": "ABD Başkan Yardımcısı Vance liderliğindeki heyet, İran ile görüşmeler için Pakistan'da",
+        "summary": "ABD Başkan Yardımcısı Vance liderliğindeki bir heyet, İranlı yetkililerle görüşmeler yapmak üzere Pakistan'a ulaştı. Görüşmelerin hem doğrudan hem de dolaylı formatlarda gerçekleştirilmesi bekleniyor. Bu diplomatik çabaların temel amacının, Orta Doğu'daki mevcut çatışmalara bir çözüm bulmak olduğu belirtildi. Tarafların, bölgedeki gerilimi azaltmaya yönelik adımları ele alması öngörülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433853/pexels-photo-7433853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T08:54:37.428Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-delegation-led-by-vice-president-vance-in-pakistan-for-talks-with-iran/3901633",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
         "id": "1775892858985piztd",
         "title": "Cibuti Cumhurbaşkanı Guelleh Altıncı Dönem İçin Yeniden Seçildi",
         "summary": "Cibuti'nin uzun süredir görevde olan Cumhurbaşkanı İsmail Omar Guelleh, resmi sonuçlara göre oyların yüzde 97'sini alarak altıncı kez göreve seçildi. 1999 yılından bu yana iktidarda olan Guelleh, ülkenin siyasi sahnesindeki uzun soluklu liderliğini sürdürüyor. Kızıldeniz ve Aden Körfezi arasındaki stratejik Bab-ül Mendep Boğazı'nda yer alan Cibuti, uluslararası ticaret ve güvenlik açısından kritik bir öneme sahip. Bu seçim sonucu, bölgedeki siyasi istikrar ve güç dengeleri açısından yakından takip ediliyor ve ülkenin dış ilişkileri üzerindeki etkileri değerlendiriliyor.",
@@ -670,133 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-shoot-dead-palestinian-during-clashes-in-northern-west-bank/3898903",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17757183021129r8al",
-        "title": "İsrail'in 40 Günlük Kapatmasının Ardından Mescid-i Aksa Yeniden Açıldı",
-        "summary": "İsrail tarafından 40 gün süreyle kapatılan Mescid-i Aksa, ibadete yeniden açıldı. Yüzlerce Filistinli, sabah namazını kılmak üzere Kudüs'teki kutsal mekana akın etti. İsrail makamları, kapatma kararını bölgedeki güvenlik endişeleri nedeniyle aldıklarını belirtmişti. Mescid-i Aksa'nın yeniden açılması, Filistinlilerin ibadet özgürlüğü açısından önemli bir gelişme olarak değerlendiriliyor. Bu durum, Kudüs'ün statüsü ve ibadethanelerin yönetimi konusundaki hassasiyeti bir kez daha gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11696746/pexels-photo-11696746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T07:05:02.112Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/al-aqsa-mosque-reopens-after-40-day-closure-by-israel/3898892",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775712516667g761s",
-        "title": "Trump, Rutte ile görüşmesinin ardından NATO'yu İran konusunda eleştirdi, Grönland tehdidini yineledi",
-        "summary": "ABD Başkanı Donald Trump, NATO Genel Sekreteri ile bir araya geldi. Görüşmede Trump, NATO üyesi ülkelerin İran'a karşı olası bir savaşı desteklememelerinden duyduğu hayal kırıklığını dile getirdi. Başkan Trump'ın bu açıklamaları, ABD'nin İran'a yönelik politikaları ve müttefiklerinden beklentileri konusunda gerilimi artırdı. Bu durum, Orta Doğu'daki güvenlik dinamikleri ve uluslararası ittifakların geleceği hakkında soruları gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16386084/pexels-photo-16386084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T05:28:36.667Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1775712553466lqmlw",
-        "title": "İsrail saldırılarında Lübnan genelinde en az 182 kişi hayatını kaybetti",
-        "summary": "ABD-İran ateşkesinin duyurulmasından saatler sonra, İsrail'in Lübnan'a yönelik geniş çaplı saldırılar düzenlediği bildirildi. Saldırılar, Beyrut'un güney banliyöleri, güney Lübnan ve doğu Bekaa Vadisi'ni hedef aldı. İlk belirlemelere göre, bu saldırılarda en az 182 kişi yaşamını yitirdi. Bölgedeki gerilimi tırmandıran bu olaylar, uluslararası kamuoyunda endişeyle karşılandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7429520/pexels-photo-7429520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T05:29:13.466Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1775704973996iq17t",
-        "title": "Türk Konvoyu ABD ve İsrail'in 'Hukuksuz Saldırganlığını' Kınadı",
-        "summary": "İstanbul'da yüzlerce araçtan oluşan bir konvoy, Amerika Birleşik Devletleri ve İsrail'in \"hukuksuz saldırganlığını\" kınamak amacıyla bir gösteri düzenledi. Şehir genelinde ilerleyen konvoy, bu iki ülkenin politikalarına karşı duyulan tepkiyi kamuoyuna yansıttı. Eylem, Türkiye'deki belirli bir kesimin ABD ve İsrail'in özellikle Orta Doğu'daki eylemlerine yönelik eleştirel duruşunu ortaya koydu. Bu gösteri, bölgesel gerilimlere ve uluslararası politikalara karşı sivil toplumun tepkisini ifade etme biçimlerinden biri olarak kaydedildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4581178/pexels-photo-4581178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T03:22:53.996Z",
-        "location": {
-            "lat": 41.0082,
-            "lng": 28.9784,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775704995565kst95",
-        "title": "İsrail'in Lübnan'a Yönelik Saldırıları Londra'da Protesto Edildi",
-        "summary": "Londra'daki İsrail Büyükelçiliği önünde toplanan göstericiler, İsrail'in Lübnan'a yönelik şiddetli saldırılarını kınadı. Protestocular, büyükelçilik çevresindeki yolları kapatarak İsrail'in eylemlerine tepki gösterdi. Eylemciler, Lübnan'daki sivil kayıplara ve bölgedeki gerilimin tırmanmasına dikkat çekti. Olaylar, Orta Doğu'daki çatışmaların uluslararası alanda yarattığı yankıyı bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4685550/pexels-photo-4685550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T03:23:15.565Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": -0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775705034434ml8gw",
-        "title": "İsrail'in Lübnan'a Saldırıları Sonrası Bölgesel Gerilimler ve Ateşkes İhlali",
-        "summary": "Birleşmiş Milletler İnsan Hakları Şefi Volker Türk, İsrail'in Lübnan'a yönelik saldırılarını \"korkunç\" olarak nitelendirdi. Bu saldırılar, kısa süre önce ilan edilen ateşkesin hemen ardından gerçekleşerek bölgedeki gerilimi yeniden tırmandırdı. Lübnan'da yaşanan yas ve uluslararası endişeler, İsrail'in eylemlerinin sonuçlarını gözler önüne serdi. Haber, İran ile ilgili bir savaş durumu ve Tahran'daki ateşkes görüşmelerini de dolaylı olarak gündeme getiriyor, ancak ana odak İsrail-Lübnan hattındaki son gelişmeler.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T03:23:54.434Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775679105479rjzk3",
-        "title": "Dünya, ABD-İran Ateşkesi Ortasında İsrail'in Lübnan'a Yönelik 'Acımasız' Saldırılarına Tepki Gösteriyor",
-        "summary": "Lübnan Sivil Savunma Teşkilatı'nın bildirdiğine göre, İsrail'in Lübnan'a yönelik saldırılarında en az 254 kişi yaşamını yitirdi ve 1.165 kişi yaralandı. Dünya genelinde bu 'acımasız' olarak nitelendirilen saldırılara karşı tepkiler yükseldi. Olaylar, ABD ile İran arasında bir ateşkesin sağlandığı bir dönemde meydana geldi. Bu gelişmeler, Orta Doğu'daki bölgesel gerilimleri yeniden gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T20:11:45.479Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1775676178074mme7q",
-        "title": "Beyaz Saray: Trump'ın İran'ın Nükleer Zenginleştirmesine Karşı 'Kırmızı Çizgisi' Devam Ediyor",
-        "summary": "Beyaz Saray'dan yapılan açıklamada, eski Başkan Trump döneminde belirlenen İran'ın nükleer zenginleştirmesine karşı 'kırmızı çizginin' hala geçerliliğini koruduğu vurgulandı. Açıklamada ayrıca, ABD Başkan Yardımcısı JD Vance'in Cumartesi günü Pakistan'da İran ile gerçekleştirilecek müzakerelerde ABD heyetine başkanlık edeceği belirtildi. Bu görüşmelerin, İran'ın nükleer programına ilişkin uluslararası endişeleri gidermeye yönelik diplomatik çabaların bir parçası olduğu ifade edildi. ABD'nin bu konudaki kararlı tutumu ve müzakerelerin yeri, bölgesel ve küresel diplomasi açısından önem arz ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5520322/pexels-photo-5520322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-08T19:22:58.074Z",
-        "location": {
-            "lat": 30.3753,
-            "lng": 69.3451,
-            "name": "Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/8/white-house-says-trumps-red-line-against-iran-nuclear-enrichment-remains?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
