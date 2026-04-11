@@ -1,5 +1,21 @@
 [
     {
+        "id": "1775923045180yjjm1",
+        "title": "İsrail Kısıtlamaları Gevşetince Hristiyanlar Kudüs'teki Kutsal Kabir Kilisesi'ne Döndü",
+        "summary": "Ortodoks Hristiyanlar, İsrail'in getirdiği kısıtlamaları hafifletmesinin ardından Kudüs'teki Kutsal Kabir Kilisesi'nde Paskalya'nın Kutsal Ateş törenini kutladı. Bu gelişme, önceki yıllarda pandemi veya güvenlik gerekçeleriyle uygulanan sınırlamaların ardından ibadet edenlerin kiliseye dönüşünü işaret ediyor. Kutsal Ateş töreni, Ortodoks Paskalyası'nın en önemli ritüellerinden biri olup, her yıl binlerce inananı bir araya getiriyor. İsrail'in bu adımı, bölgedeki dini özgürlükler ve kutsal mekanlara erişim konularındaki tartışmalar bağlamında değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/16191902/pexels-photo-16191902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T15:57:25.180Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775912789987fy3pk",
         "title": "Gazze'de Kurulan Geçici Üniversite, Akademik Çalışmaları Yeniden Canlandırma Fırsatı Sunuyor",
         "summary": "Gazze'de savaşın ardından yaşanan zorluklar ve kaynak sıkıntısıyla mücadele eden öğrenciler için güneş enerjisiyle çalışan geçici derslikler, akademik bir cankurtaran halatı görevi görüyor. Bu geçici üniversite, bölgedeki gençlerin eğitimlerine devam etmelerine olanak tanıyarak umut vadediyor. Savaşın yol açtığı yıkımın ortasında, öğrencilere eğitimlerini sürdürme ve geleceğe yönelik umutlarını yeşertme imkanı sunuluyor. Güneş enerjisi kullanımı, kısıtlı imkanlara rağmen sürdürülebilir bir çözüm sunarak eğitimin devamlılığını sağlıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/9/trumps-administration-trying-to-sell-war-wins-to-a-sceptical-us-public?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1775734382146bddyl",
-        "title": "İsrail, ABD-İran Ateşkesini Destekliyor Ancak Netanyahu'nun Savaş Hedefleri Gerçekleşmedi",
-        "summary": "İsrail'in, ABD ve İran arasında varılan bir ateşkes anlaşmasına destek verdiği belirtildi. Ancak İsrail Başbakanı Binyamin Netanyahu'nun savaş hedeflerinin henüz tam olarak gerçekleşmediği ifade edildi. ABD ve İran'dan gelen zafer dolu açıklamalara karşın, Netanyahu'nun ateşkesle ilgili tepkisinin daha ölçülü olduğu gözlemlendi. Bu durum, İsrail'in bölgesel çatışmalardaki stratejik hedeflerine ulaşma konusundaki endişelerini yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19544066/pexels-photo-19544066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T11:33:02.146Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
