@@ -1,5 +1,37 @@
 [
     {
+        "id": "1775933517619hpe2m",
+        "title": "Gazze'de aileler, İsrail'in geceki hava saldırılarında hayatını kaybeden yakınları için yas tutuyor",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği geceki hava saldırılarında yedi kişi hayatını kaybetti. Saldırıların ardından, yaşamını yitirenlerin aileleri Gazze'deki bir hastanenin dışında cenazelerin başında toplanarak yas tuttu. Bölgede artan gerilim, uluslararası kamuoyunda endişelere yol açarken, can kayıpları bölgedeki insani durumu daha da kötüleştirdi. Olay, Orta Doğu'daki çatışma dinamiklerinin hassasiyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8832578/pexels-photo-8832578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T18:51:57.619Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17759335430753j5jd",
+        "title": "Madrid'de İsrail'in Lübnan Saldırılarının Kurbanları İçin Anma Töreni Düzenlendi",
+        "summary": "İspanya'nın başkenti Madrid'de, İsrail'in Lübnan'a yönelik düzenlediği hava saldırılarında hayatını kaybedenler için bir anma töreni gerçekleştirildi. Şehir merkezinde toplanan onlarca kişi, saldırıların kurbanlarını anarak bölgedeki şiddete dikkat çekti. Katılımcılar, Lübnan'daki mağdurlarla dayanışma mesajları verirken, uluslararası toplumu barış çağrısı yapmaya davet etti. Bu tür sivil toplum etkinlikleri, Orta Doğu'daki çatışmaların insani boyutuna yönelik küresel duyarlılığı yansıtıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/14529234/pexels-photo-14529234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-11T18:52:23.075Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Madrid, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "177592893756135tg7",
         "title": "Rusya-Ukrayna Ortodoks Paskalyası Ateşkesi Başladı",
         "summary": "Rusya ve Ukrayna, Ortodoks Paskalyası döneminde geçici bir ateşkesi gözlemleme konusunda anlaştı. Bu ateşkes, çatışmaların yoğunlaştığı bölgelerde insani yardım koridorlarının açılmasına ve sivillerin tahliyesine olanak sağlamayı hedefliyor. Taraflar arasındaki bu mutabakat, ABD liderliğindeki diplomatik çabaların savaşı sona erdirme konusunda henüz ilerleme kaydedemediği bir dönemde geldi. Ateşkesin süresi ve kapsamı konusunda detaylar henüz tam olarak netleşmese de, bu adım bölgedeki gerilimi geçici olarak azaltma potansiyeli taşıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/9/israeli-settlers-storm-al-aqsa-mosque-compound-after-reopening?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1775742618842q37w0",
-        "title": "İran'ın Hürmüz Boğazı Protokolü Uluslararası Tepkilere Yol Açıyor",
-        "summary": "İran'ın Hürmüz Boğazı'ndan geçen gemilere vergi uygulama ve elde edilecek gelirle ülkenin yeniden inşasını finanse etme yönündeki planları uluslararası alanda tartışmalara neden oluyor. Tahran yönetiminin bu girişimi, boğazın uluslararası statüsü ve serbest geçiş hakkı konularında endişeleri beraberinde getiriyor. Söz konusu protokolün detayları ve diğer ülkelerin bu uygulamaya nasıl bir tepki vereceği merak konusu. Şimdiden bazı ülkelerden ve uluslararası denizcilik kuruluşlarından bu plana yönelik itirazlar yükseldiği belirtiliyor. Bu durum, bölgedeki denizcilik güvenliği ve uluslararası ticaret üzerindeki potansiyel etkileri nedeniyle yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11012320/pexels-photo-11012320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T13:50:18.842Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/9/what-is-irans-strait-of-hormuz-protocol-and-will-other-nations-accept-it?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775742660128azm2x",
-        "title": "ABD-İran görüşmeleri Pakistan'da: Kimler katılıyor, gündemde neler var?",
-        "summary": "Pakistan'ın başkenti İslamabad, Amerika Birleşik Devletleri ile İran arasındaki müzakerelere ev sahipliği yapıyor. Görüşmelerin temel amacı, iki ülke arasındaki gerilimi azaltacak ve mevcut sorunlara çözüm bulacak bir yol haritası belirlemek. Ancak, taraflar arasındaki derin güvensizlik ve bölgedeki mevcut gerilimler, müzakerelerin başarısını tehdit ediyor. Toplantılarda kimlerin yer aldığı ve gündem maddelerinin detayları merak konusu olmaya devam ediyor. Bu görüşmelerin, Orta Doğu'daki istikrarsızlığa potansiyel etkileri yakından izleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7643756/pexels-photo-7643756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-09T13:51:00.128Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/9/us-iran-talks-in-pakistan-whos-attending-whats-on-the-agenda?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
