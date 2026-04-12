@@ -1,5 +1,53 @@
 [
     {
+        "id": "1775988477742k0akq",
+        "title": "Londra'daki Filistin Eylemi mitinginde 500'den fazla kişi gözaltına alındı",
+        "summary": "Londra'da düzenlenen Filistin yanlısı bir mitingde 500'den fazla kişi gözaltına alındı. Trafalgar Meydanı'nda gerçekleşen eylemde, protesto organizatörleri Birleşik Krallık hükümetini Gazze'deki soykırıma ortak olmakla suçladı. Yüksek sayıda gözaltı, Birleşik Krallık'ta İsrail-Filistin çatışmasına yönelik kamuoyu tepkisinin ve sivil toplum hareketlerinin devam ettiğini gösteriyor. Bu olay, Orta Doğu'daki gelişmelerin uluslararası arenadaki yansımalarını ve insan hakları odaklı protestoları gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/4547605/pexels-photo-4547605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T10:07:57.742Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1775988538306ii1qv",
+        "title": "Aşırı sağcı İsrailli bakan, Kudüs'teki Mescid-i Aksa'ya yeniden baskın düzenledi",
+        "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Kudüs'teki Mescid-i Aksa yerleşkesine ağır polis koruması altında yeniden bir baskın düzenledi. Bu olay, bölgedeki gerilimi artırma potansiyeli taşıyor. Ben-Gvir'in daha önceki benzer ziyaretleri de Filistinliler ve uluslararası toplum tarafından kınanmıştı. Mescid-i Aksa, Müslümanlar için üçüncü en kutsal yer olup, Yahudiler tarafından da Tapınak Tepesi olarak kabul edilmektedir. Bu tür eylemler, ibadet edenlere yönelik devam eden kısıtlamalarla birlikte bölgedeki hassas durumu daha da karmaşık hale getirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7744325/pexels-photo-7744325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T10:08:58.306Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/extremist-israeli-minister-storms-jerusalem-s-al-aqsa-mosque-again-amid-ongoing-restrictions-on-worshippers/3902741",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "177598856042756vdl",
+        "title": "İran Meclis Başkanı: ABD Tahran ile güven inşa etme konusunda karar vermeli",
+        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin Tahran ile güven inşa etme konusunda bir karar vermesi gerektiğini dile getirdi. Kalibaf, İslamabad'daki görüşmelerin bir anlaşma sağlanamadan sona ermesinin ardından yaptığı açıklamada, İran'ın diplomasi ile gücü birleştiren bir strateji izleyeceğini belirtti. Bu açıklama, İran'ın uluslararası arenadaki duruşunu ve ABD ile olan ilişkilerindeki gerilimi yansıtıyor. Tahran yönetimi, dış politikasında hem diplomatik kanalları kullanmaya hem de caydırıcılık unsurlarını korumaya devam edeceğinin sinyalini verdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6949994/pexels-photo-6949994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T10:09:20.427Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/irans-parliament-speaker-says-us-must-decide-whether-to-build-trust-with-tehran/3902736",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775985900668scx6n",
         "title": "İran'a Yönelik Savaşın 40 Gününde Neler Yaşandı?",
         "summary": "İran'a yönelik savaşın ilk 40 gününde yaşanan gelişmeler mercek altına alındı. Bu süreçte kimlerin hedef alındığı, gerçekleştirilen saldırılar ve ortaya çıkan hasar detaylandırıldı. Haber ayrıca, çatışmaların ortasında kalan sivillerin durumu ve yaşadıkları zorluklara da değiniyor. Bu analiz, savaşın insani ve maddi boyutlarını ortaya koymayı amaçlıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/world/israel-kills-6-in-fresh-airstrike-on-central-gaza-refugee-camp/3901596",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1775874967793l88e4",
-        "title": "İran Savaşı Canlı Gelişmeleri: ABD'li Müzakereciler Pakistan'a Gidiyor, Lübnan'da İsrail Saldırılarında Can Kaybı Artıyor",
-        "summary": "Orta Doğu'daki gerilimin sürdüğü bir dönemde, İran savaşına ilişkin canlı gelişmelerin aktarıldığı haberlerde, ABD'li müzakerecilerin ateşkes görüşmeleri için Pakistan'a varacağı belirtildi. Bölgedeki genel çatışma ortamı devam ederken, Lübnan'dan insani kayıplara dair yeni veriler geldi. Lübnan Sağlık Bakanlığı'nın açıklamasına göre, 2 Mart'tan bu yana İsrail'in düzenlediği saldırılarda hayatını kaybedenlerin sayısı 1.953'e yükseldi. Aynı saldırılarda yaralanan kişi sayısının ise 6.303 olduğu kaydedildi. Bu gelişmeler, Orta Doğu'daki güvenlik ve insani durumun ciddiyetini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T02:36:07.793Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775840528788dpyex",
-        "title": "Trump ve Netanyahu Arasında Lübnan Ateşkesi Öncesi 'Gergin' Telefon Görüşmesi",
-        "summary": "CNN'in haberine göre, İsrail Başbakanı Binyamin Netanyahu ile ABD eski Başkanı Donald Trump arasında, İsrail'in Lübnan ile ateşkes görüşmeleri arayışına girmesinden önce 'gergin' bir telefon görüşmesi gerçekleşti. Haberde, Netanyahu'nun, eğer Lübnan ile doğrudan görüşme çağrısı yapmazsa Trump'ın tek taraflı bir ateşkes ilan edebileceği endişesiyle hareket ettiği belirtildi. Bu durum, İsrail'in Lübnan ile olası bir ateşkes müzakereleri sürecine girmesindeki diplomatik dinamikleri gözler önüne serdi. Görüşmenin, İsrail'in Lübnan ile ateşkes müzakereleri arayışına girmesinden hemen önce yaşandığı ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4345107/pexels-photo-4345107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T17:02:08.788Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-netanyahu-hold-tense-phone-call-before-israel-sought-ceasefire-talks-with-lebanon-report/3901215",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775836664809fyqij",
-        "title": "ABD'de Enflasyon İran Savaşı ve Hürmüz Ablukası Ortamında Yükseldi",
-        "summary": "ABD hükümetinin yayımladığı bir rapora göre, ülkede enflasyon oranları yükseliş gösterdi. Mart ayında benzin fiyatları yüzde 21,2 oranında artış kaydetti. Yakıt fiyatları, ateşkes ilan edilmesine rağmen galon başına 4 doların üzerinde seyretmeye devam ediyor. Bu artışın, İran'daki savaş durumu ve Hürmüz Boğazı'ndaki ablukanın etkisiyle gerçekleştiği belirtiliyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T15:57:44.809Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
