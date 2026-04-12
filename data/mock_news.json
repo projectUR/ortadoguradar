@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776013536275gg406",
+        "title": "İranlı Yetkililerden Meydan Okuyan Çağrı: Destekçiler Sokaklarda Kalmalı",
+        "summary": "İranlı yetkililer, meydan okuyan bir tutum sergileyerek destekçilerini sokaklarda kalmaya çağırdı. Savaşın sona erdirilmesi müzakerelerinde İran heyetine başkanlık eden Mohammad Bagher Ghalibaf, ABD heyetinin 'güven kazanamadığını' ifade etti. Bu açıklama, İran'ın hem iç siyasetindeki kararlılığını hem de uluslararası diplomasi arenasında ABD ile olan ilişkilerindeki mevcut gerilimi gözler önüne serdi. Ülke içindeki bu çağrılar, yetkililerin pozisyonlarını güçlendirme çabası olarak yorumlanırken, dış politikadaki bu söylem müzakerelerin seyrine dair ipuçları veriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30711469/pexels-photo-30711469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T17:05:36.275Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17760135779153037a",
+        "title": "Suudi Arabistan'da Şiddetli Seller Nedeniyle Okullar Kapatıldı",
+        "summary": "Suudi Arabistan'ın çeşitli bölgelerinde etkili olan şiddetli sel felaketi, günlük yaşamı olumsuz etkiledi. Ülke genelinde yaşanan yoğun yağışlar ve beraberindeki seller nedeniyle yetkililer, okulların kapatılması kararı aldı. Bu önlem, öğrencilerin ve eğitim personelinin güvenliğini sağlamak amacıyla alındı. Sel sularının bazı bölgelerde ulaşımı aksattığı ve altyapıya zarar verdiği belirtiliyor. Durumun normale dönmesi için çalışmaların sürdüğü bildirildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17682749/pexels-photo-17682749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T17:06:17.915Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/12/video-severe-flooding-closes-schools-in-saudi-arabia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17760136528480g8k1",
+        "title": "Gazze'de Can Kaybı ve Yaralı Sayısı Artıyor",
+        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, son 24 saatte Gazze'deki hastanelere 2 cenaze ve 8 yaralı getirildi. Bu son gelişmelerle birlikte, bölgedeki toplam can kaybı 72.320'yi aşarken, yaralı sayısı da 172.192'ye yükseldi. Bakanlık, Gazze Şeridi'nde devam eden çatışmaların ve saldırıların neden olduğu insani maliyetin giderek arttığını belirtiyor. Bu rakamlar, bölgedeki trajik durumu ve sağlık altyapısı üzerindeki baskıyı bir kez daha gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850211/pexels-photo-36850211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T17:07:32.848Z",
+        "location": {
+            "lat": 31.4167,
+            "lng": 34.3333,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-dead-bodies-arrive-at-gaza-hospitals-death-toll-surges-to-over-72-320/3902995",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "17760000102102nb58",
         "title": "Ukrayna ve Rusya, Paskalya Ateşkesini İhlal Etmekle Karşılıklı Suçluyor",
         "summary": "Ukrayna ve Rusya, Paskalya döneminde ilan edilen ateşkesi ihlal ettikleri gerekçesiyle birbirlerini suçladı. Taraflar arasında ateşkesin uygulanması konusunda karşılıklı suçlamalar dile getirildi. Kremlin'den yapılan açıklamada, Rusya'nın ateşkesi uzatmayacağı belirtildi. Bu kararın, Kiev'in Rusya'nın şartlarını kabul etmemesi halinde geçerli olacağı ifade edildi. Bu durum, bölgedeki gerilimin devam ettiğini ve barış çabalarının zorluğunu gözler önüne serdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1775892915216rszj0",
-        "title": "Lübnan ve İsrail Yetkilileri Salı Günü ABD'de Buluşacak",
-        "summary": "Lübnan ve İsrail yetkililerinin Salı günü Amerika Birleşik Devletleri'nde bir araya gelmesi planlanıyor. Görüşmelerin içeriği ve gündemi hakkında detay verilmezken, Lübnanlı üst düzey bir yetkili daha önce BBC'ye yaptığı açıklamada, Lübnan'ın bu tür müzakerelere ancak bölgede bir ateşkesin sağlanması durumunda katılacağını belirtmişti. Bu açıklama, toplantının gerçekleşme koşulları hakkında soru işaretleri yaratıyor. Taraflar arasındaki dolaylı veya doğrudan temaslar, bölgedeki gerilimin azaltılması açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T07:35:15.216Z",
-        "location": {
-            "lat": 38.9,
-            "lng": -77,
-            "name": "Amerika Birleşik Devletleri"
-        },
-        "source": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775893009786rag8r",
-        "title": "İran'da internet kesintisi 1000 saati aştı: İnternet gözlemcisi",
-        "summary": "İran'da internet erişiminde yaşanan kesintilerin 1000 saati geçtiği bildirildi. İnternet gözlem grubu NetBlocks'un verilerine göre, ülkedeki bağlantı seviyesi Mart ayının başından bu yana yaklaşık %1 seviyesinde seyrediyor. Bu durum, İran genelinde dijital iletişimi ve bilgi akışını ciddi şekilde etkiliyor. Uzun süreli ve yaygın internet kesintileri, hem vatandaşların günlük yaşamını hem de ekonomik faaliyetleri olumsuz yönde etkilemeye devam ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/415043/pexels-photo-415043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T07:36:49.786Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-internet-blackout-surpasses-1-000-hours-internet-watchdog/3901599",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17758876690381hiya",
-        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimci Saldırısında Bir Filistinli Öldürüldü",
-        "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimcilerin düzenlediği bir saldırıda bir Filistinli vurularak hayatını kaybetti. Bu ölüm, eski güvenlik şeflerinin 'hükümet destekli Yahudi terörünün' kontrolden çıktığı uyarısında bulunduğu bir döneme denk geldi. Bölgedeki gerilimlerin tırmandığı bu olay, İsrail-Filistin çatışmasının hassasiyetini ve güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Yetkililer, olayın ardından bölgede güvenlik önlemlerini artırdı ve soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640438/pexels-photo-7640438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T06:07:49.038Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.23,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
