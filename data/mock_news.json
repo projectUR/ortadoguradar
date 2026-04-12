@@ -1,5 +1,85 @@
 [
     {
+        "id": "1775985900668scx6n",
+        "title": "İran'a Yönelik Savaşın 40 Gününde Neler Yaşandı?",
+        "summary": "İran'a yönelik savaşın ilk 40 gününde yaşanan gelişmeler mercek altına alındı. Bu süreçte kimlerin hedef alındığı, gerçekleştirilen saldırılar ve ortaya çıkan hasar detaylandırıldı. Haber ayrıca, çatışmaların ortasında kalan sivillerin durumu ve yaşadıkları zorluklara da değiniyor. Bu analiz, savaşın insani ve maddi boyutlarını ortaya koymayı amaçlıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19893301/pexels-photo-19893301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T09:25:00.668Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/12/what-happened-in-40-days-of-war-on-iran?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1775985922018x5qs4",
+        "title": "ABD-İran Görüşmeleri Anlaşmasız Sona Erdi",
+        "summary": "Amerika Birleşik Devletleri ile İran arasındaki görüşmeler Pakistan'ın başkenti İslamabad'da tamamlandı. Taraflar, müzakerelerin bir anlaşmayla sonuçlanmamasından birbirlerini sorumlu tuttu. Bu görüşmeler, iki ülke arasındaki gerilimin 44. gününde diplomatik bir çözüm arayışı olarak öne çıkıyordu. Ancak, yapılan açıklamalar, mevcut çatışma ortamında somut bir ilerleme kaydedilemediğini gösteriyor. Bölgedeki tansiyonun düşürülmesi yönündeki çabalar henüz sonuç vermedi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8348624/pexels-photo-8348624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T09:25:22.018Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/12/iran-war-what-is-happening-on-day-44-of-the-us-iran-conflict?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1775986001605ii2i6",
+        "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda En Az 11 Kişi Hayatını Kaybetti",
+        "summary": "İsrail ordusu, Lübnan'ın güneyine yönelik hava saldırılarını sürdürüyor. Bu saldırılarda en az 11 kişinin hayatını kaybettiği bildirildi. Operasyonlar, 14 Nisan'da Washington'da yapılması planlanan Beyrut-Tel Aviv görüşmelerine rağmen devam ediyor. Bölgedeki gerilimin sürdüğünü gösteren bu gelişmeler, diplomatik çabalara rağmen askeri faaliyetlerin devam ettiğini ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T09:26:41.605Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/latest-israeli-strikes-kill-at-least-11-in-lebanon/3902712",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1775986023183h888z",
+        "title": "Kuzey İsrail'de sirenler çalarken Hizbullah İsrail askerlerini hedef aldığını duyurdu",
+        "summary": "Kuzey İsrail'deki Kiryat Şmona bölgesinde Lübnan'dan fırlatılan roketler nedeniyle ikinci kez sirenler çaldı. İsrail ordusundan yapılan açıklamaya dayandırılan Kanal 12 haberine göre, bu gelişme Hizbullah'ın İsrail askerlerini hedef aldığı yönündeki iddiasının ardından yaşandı. Olay, İsrail-Lübnan sınır hattındaki gerilimin devam ettiğini ve bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Yetkililer, bölgedeki durumu yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12755491/pexels-photo-12755491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T09:27:03.183Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.57,
+            "name": "Kiryat Şmona, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-northern-israel-as-hezbollah-claims-responsibility-for-targeting-israeli-soldiers/3902661",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1775986048556qa54k",
+        "title": "PROFİL - Irak'ın yeni cumhurbaşkanı Nizar Amidi kimdir?",
+        "summary": "Irak'ın yeni cumhurbaşkanı Nizar Amidi'nin kim olduğuna dair bir profil yayınlandı. Uzun yıllar cumhurbaşkanlığı danışmanı olarak görev yapan Amidi, daha önce çevre bakanlığı pozisyonunda da bulunmuştur. Siyasi kariyeri boyunca ülkedeki anayasal krizler ve siyasi çıkmazlarla başa çıkarak deneyim kazanmıştır. Bu durum, onun Irak siyasetindeki önemli figürlerden biri haline gelmesini sağlamıştır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6172597/pexels-photo-6172597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T09:27:28.556Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/world/profile-who-is-nizar-amidi-iraq-s-new-president/3902502",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1775981115917lgwf7",
         "title": "Uydu sağlayıcısının ABD baskısı sonrası İran görüntülerine kısıtlama getirmesi endişelere yol açtı",
         "summary": "Uydu görüntü sağlayıcısı Planet Labs, ABD'nin baskısı üzerine İran ve Orta Doğu'nun bazı bölgelerindeki kapsama alanını süresiz olarak kısıtladığını açıkladı. Bu karar, özellikle İran'daki gelişmelerin uydu üzerinden izlenmesi konusunda endişelere yol açtı. Şirket, kısıtlamanın detaylarına dair bilgi vermezken, kararın ABD hükümetinin talebi doğrultusunda alındığı belirtiliyor. Uluslararası gözlemciler ve insan hakları örgütleri, bu durumun bölgedeki şeffaflığı ve bilgi akışını olumsuz etkileyebileceği konusunda uyarıda bulundu. Gelişme, ABD'nin İran üzerindeki baskısını artırma çabalarının bir yansıması olarak değerlendiriliyor.",
@@ -716,86 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/news/2026/4/10/inflation-rises-in-us-amid-iran-war-hormuz-blockade?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775836701968oj3bd",
-        "title": "ABD-İran Görüşmeleri İslamabad'da Başladı: Diyaloğu Sürdürme Hedefi",
-        "summary": "Amerika Birleşik Devletleri ile İran arasındaki görüşmeler Pakistan'ın başkenti İslamabad'da resmen başladı. Aracı ülkelerin temel amacı, iki ülke arasındaki mevcut derin ayrılıklara rağmen diplomatik diyaloğu canlı tutmak ve sürdürülebilir bir iletişim zemini oluşturmak. Pakistan, bu zirveden beklentisini, taraflar arasında görüşmelerin devamlılığını sağlayacak mütevazı bir anlaşma olarak belirledi. Bu diplomatik çabaların, bölgedeki gerilimi azaltma ve gelecekteki müzakereler için bir yol haritası oluşturma potansiyeli taşıdığı ifade ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T15:58:21.968Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775820416849baoc4",
-        "title": "Gazze'de aileler 'ateşkes'in üzerinden altı ay geçmesine rağmen ölülerini defnedemiyor",
-        "summary": "Gazze Şeridi'nde, İsrail'in bölgeye yönelik operasyonları sırasında yıkılan binaların enkazı altında yaklaşık 10.000 Filistinlinin kayıp olduğu belirtiliyor. 'Ateşkes' ilan edilmesinin üzerinden altı ay geçmesine rağmen, bu kişilerin cenazelerine ulaşılamadığı ve ailelerin sevdiklerini defnedemediği bildirildi. Bölgedeki insani durumun ciddiyetini koruduğu ve enkaz kaldırma çalışmalarının yetersiz kaldığı ifade ediliyor. Bu durum, çatışmaların ardından ortaya çıkan derin insani krizi gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T11:26:56.849Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/10/gaza-families-still-unable-to-bury-dead-six-months-into-ceasefire?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17758204549531rsiz",
-        "title": "İsrail ve Lübnan Ateşkes Görüşmelerine Başlayacak mı?",
-        "summary": "Orta Doğu'da devam eden gerilimler ışığında, İsrail ve Lübnan arasında olası bir ateşkes görüşmesi ihtimali gündeme geldi. Cuma günü, İsrail ile Lübnan merkezli Hizbullah örgütü arasındaki karşılıklı saldırılar, önceki günlere kıyasla daha düşük bir yoğunlukta seyretti. Bölgedeki çatışmaların azaltılması ve kalıcı bir barışın sağlanması amacıyla diplomatik adımların atılıp atılmayacağı merak ediliyor. Taraflar arasındaki gerilimin düşürülmesi için uluslararası toplumun da devreye girebileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T11:27:34.953Z",
-        "location": {
-            "lat": 33.1,
-            "lng": 35.3,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/10/will-israel-and-lebanon-start-ceasefire-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17758159151929b0zk",
-        "title": "Trump: İran'ın Hürmüz Boğazı'ndaki Tutumu Anlaşmaya Aykırı",
-        "summary": "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'ndaki tutumunu sert bir dille eleştirdi. Trump, İran'ın bu stratejik su yolunu \"çok kötü yönettiğini\" ve mevcut anlaşmalara aykırı davrandığını belirtti. Bu açıklamalar, İsrail ve Lübnan'ın barış görüşmelerine başlama kararı aldığı bir döneme denk geldi. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir geçiş noktası olması nedeniyle uluslararası arenada büyük önem taşıyor. ABD ve İran arasındaki gerilim, bölgedeki siyasi dinamikleri etkilemeye devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16691786/pexels-photo-16691786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T10:11:55.193Z",
-        "location": {
-            "lat": 30,
-            "lng": 40,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775811230307pj6qs",
-        "title": "ABD-İsrail Saldırıları Sonrası İran'da Ateşkes ve Bölgesel Gerilimler",
-        "summary": "ABD ve İsrail'in İran'a yönelik saldırılarının 42. gününde, bölgede önemli bir gelişme yaşandı. Pakistan'ın arabuluculuğunda ABD ile İran arasında bir ateşkes anlaşması yürürlüğe girdi. Ancak, ateşkesin kapsamı ve uygulanış biçimine dair taraflar arasında devam eden anlaşmazlıklar dikkat çekiyor. Bu anlaşmazlıkların, Orta Doğu genelindeki bölgesel gerilimleri daha da tırmandırdığı belirtiliyor. Gelişmeler, bölgedeki güvenlik dinamiklerini yakından etkilemeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27970302/pexels-photo-27970302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-10T08:53:50.307Z",
-        "location": {
-            "lat": 30,
-            "lng": 40,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
