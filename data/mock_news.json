@@ -1,5 +1,21 @@
 [
     {
+        "id": "17760217181256ca0v",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda En Az 13 Kişi Hayatını Kaybetti",
+        "summary": "Güney Lübnan'da İsrail tarafından gerçekleştirilen yeni bir saldırı dalgası sonucunda en az 13 kişi hayatını kaybetti. Bölgedeki kurtarma ekipleri, saldırıların ardından oluşan enkaz yığınları arasında arama kurtarma çalışmalarına devam ediyor. Olayın ardından can kaybının artmasından endişe edilirken, bölgedeki güvenlik durumu yakından takip ediliyor. Bu saldırılar, Orta Doğu'daki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15105586/pexels-photo-15105586.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-12T19:21:58.125Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/12/rescuers-dig-through-rubble-after-deadly-israeli-strikes-in-south-lebanon?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1776016923153ptg0b",
         "title": "Amerika'nın Ateşkesi Sağlama ve Savaşı Sona Erdirme Yedi Yolu",
         "summary": "Amerika Birleşik Devletleri'nin devam eden bir çatışmada ateşkesi sağlama ve savaşı sona erdirme yolları üzerine bir analiz sunulmaktadır. Haberde, eski Başkan Donald Trump'ın bölgesel barışı temin etmek ve yaklaşan ara seçimlerde siyasi bir zafer elde etmek için kararlı adımlar atması gerektiği vurgulanmaktadır. Makale, ABD'nin bu hedeflere ulaşmak için izleyebileceği yedi farklı stratejiyi detaylandırmaktadır. Bu stratejilerin hem uluslararası diplomasiyi hem de iç siyasi dinamikleri göz önünde bulundurduğu belirtilmektedir. Analiz, ABD'nin Orta Doğu'daki rolünü ve barış süreçlerine etkisini değerlendirmektedir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israels-overnight-attacks-on-lebanon-kill-3/3901646",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17758976774288fcwd",
-        "title": "ABD Başkan Yardımcısı Vance liderliğindeki heyet, İran ile görüşmeler için Pakistan'da",
-        "summary": "ABD Başkan Yardımcısı Vance liderliğindeki bir heyet, İranlı yetkililerle görüşmeler yapmak üzere Pakistan'a ulaştı. Görüşmelerin hem doğrudan hem de dolaylı formatlarda gerçekleştirilmesi bekleniyor. Bu diplomatik çabaların temel amacının, Orta Doğu'daki mevcut çatışmalara bir çözüm bulmak olduğu belirtildi. Tarafların, bölgedeki gerilimi azaltmaya yönelik adımları ele alması öngörülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433853/pexels-photo-7433853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T08:54:37.428Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-delegation-led-by-vice-president-vance-in-pakistan-for-talks-with-iran/3901633",
-        "trendScore": 80,
-        "isBreaking": true
     }
 ]
