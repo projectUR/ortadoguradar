@@ -692,3 +692,88 @@ function checkAuthAction(action) {
     }
     return true;
 }
+// --- ALINTILA (TWEET) MOTORU ---
+window.handleQuote = function(newsId) {
+    if (!checkAuthAction("Alıntıla")) return;
+
+    // Kullanıcıdan analiz/yorum alalım
+    const userComment = prompt("Bu haber hakkında ne düşünüyorsun kral? Analizini ekle:");
+    
+    if (userComment === null) return; // İptal ederse
+    if (userComment.trim() === "") {
+        alert("Boş geçme kral, bir iki kelam et!");
+        return;
+    }
+
+    const currentUser = localStorage.getItem('currentUser');
+    // STATE içinden ilgili haberi bulalım
+    const newsItem = STATE.news.find(n => n.id === newsId);
+
+    // Yeni Sosyal Post Objasi
+    const newPost = {
+        id: 'post_' + Date.now(),
+        author: currentUser,
+        content: userComment,
+        originalNews: newsItem,
+        timestamp: new Date().toISOString()
+    };
+
+    // Mevcut postları çek ve yenisini en başa ekle
+    let socialPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
+    socialPosts.unshift(newPost);
+    localStorage.setItem('radarPosts', JSON.stringify(socialPosts));
+
+    alert("Analizin Radar Akışı'na başarıyla düştü! 🚀");
+};
+// --- SOSYAL AKIŞI RENDER ETME ---
+function renderSocialFeed() {
+    // Ana haber alanını temizle ve başlık at
+    DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
+    
+    const posts = JSON.parse(localStorage.getItem('radarPosts')) || [];
+
+    if (posts.length === 0) {
+        DOM.feedContainer.innerHTML += `<div style="text-align:center; padding: 40px; color: #666;">Henüz kimse analiz yapmadı. İlk bombayı sen patlat!</div>`;
+        return;
+    }
+
+    posts.forEach(post => {
+        const postHTML = `
+            <div class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue);">
+                <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
+                    <div style="width: 35px; height: 35px; background: #222; border: 1px solid var(--accent-blue); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: var(--accent-blue);">${post.author[0].toUpperCase()}</div>
+                    <div>
+                        <strong style="color: white; display: block;">@${post.author}</strong>
+                        <span style="font-size: 0.8rem; color: #555;">${formatTimeAgo(new Date(post.timestamp))}</span>
+                    </div>
+                </div>
+                
+                <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px; line-height: 1.5;">${post.content}</p>
+                
+                <div style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; align-items: center; opacity: 0.8;">
+                    ${post.originalNews.imageUrl ? `<img src="${post.originalNews.imageUrl}" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px;">` : ''}
+                    <div>
+                        <h4 style="margin: 0; font-size: 0.85rem; color: #aaa;">${post.originalNews.title}</h4>
+                        <span style="font-size: 0.75rem; color: #444;">${post.originalNews.category}</span>
+                    </div>
+                </div>
+            </div>
+        `;
+        DOM.feedContainer.insertAdjacentHTML('beforeend', postHTML);
+    });
+}
+
+// Yeni butonumuza tıklama özelliği ekleyelim
+document.addEventListener('DOMContentLoaded', () => {
+    const btnSocial = document.getElementById('btn-social');
+    if (btnSocial) {
+        btnSocial.addEventListener('click', () => {
+            // Diğer butonların aktifliğini sil
+            document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+            btnSocial.classList.add('active');
+            
+            // Sosyal akışı yükle
+            renderSocialFeed();
+        });
+    }
+});
