@@ -278,7 +278,33 @@
         </section>
 
     </main>
+<div id="authModal" class="hidden quiz-modal">
+    <div class="quiz-modal-content" style="max-width: 400px; border: 2px solid var(--accent-blue); background: #111;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+            <h3 id="authTitle" style="color: var(--accent-blue); margin: 0;">Radar'a Katıl</h3>
+            <button onclick="closeAuthModal()" style="background: none; border: none; color: #555; cursor: pointer; font-size: 1.5rem;">&times;</button>
+        </div>
+        
+        <div class="auth-form">
+            <div style="margin-bottom: 15px;">
+                <label style="color: #888; display: block; margin-bottom: 5px; font-size: 0.9rem;">Kullanıcı Adı</label>
+                <input type="text" id="authUsername" placeholder="Örn: Levanten35" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #333; background: #050505; color: white; outline: none;">
+            </div>
 
+            <div style="margin-bottom: 20px;">
+                <label style="color: #888; display: block; margin-bottom: 5px; font-size: 0.9rem;">Şifre</label>
+                <input type="password" id="authPassword" placeholder="••••••••" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #333; background: #050505; color: white; outline: none;">
+            </div>
+            
+            <button id="authPrimaryBtn" class="btn-primary" style="width: 100%; padding: 12px; margin-bottom: 15px; font-weight: bold;">Giriş Yap</button>
+            
+            <div style="text-align: center;">
+                <span id="authSwitchText" style="color: #666; font-size: 0.9rem;">Hesabın yok mu?</span>
+                <button id="btnSwitchAuth" style="background: none; border: none; color: var(--accent-blue); cursor: pointer; font-weight: 500; margin-left: 5px;">Kayıt Ol</button>
+            </div>
+        </div>
+    </div>
+</div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
