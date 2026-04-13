@@ -589,3 +589,68 @@ if (btnSwitch) {
         }
     };
 }
+
+// --- Kullanıcı Kayıt/Giriş İşlemleri ---
+
+const authPrimaryBtn = document.getElementById('authPrimaryBtn');
+
+if (authPrimaryBtn) {
+    authPrimaryBtn.onclick = function() {
+        const username = document.getElementById('authUsername').value.trim();
+        const password = document.getElementById('authPassword').value.trim();
+
+        if (username === "" || password === "") {
+            alert("Barkın kral diyor ki: Alanları boş bırakma!");
+            return;
+        }
+
+        if (!isLoginMode) {
+            // KAYIT MODU: Yeni kullanıcıyı kaydet
+            const userData = {
+                username: username,
+                password: password // Gerçek projede şifre böyle saklanmaz ama şimdilik kalsın
+            };
+            localStorage.setItem(`user_${username}`, JSON.stringify(userData));
+            alert(`Hoş geldin ${username}! Radar seni kaydetti.`);
+            loginUser(username);
+        } else {
+            // GİRİŞ MODU: Kullanıcıyı kontrol et
+            const savedUser = localStorage.getItem(`user_${username}`);
+            if (savedUser) {
+                const userData = JSON.parse(savedUser);
+                if (userData.password === password) {
+                    alert(`Tekrar hoş geldin, ${username}!`);
+                    loginUser(username);
+                } else {
+                    alert("Şifre hatalı, istihbarat yanlış!");
+                }
+            } else {
+                alert("Böyle bir kullanıcı bulunamadı. Önce kayıt olmalısın.");
+            }
+        }
+    };
+}
+
+// Kullanıcı giriş yapınca arayüzü güncelle
+function loginUser(username) {
+    // Kullanıcıyı oturumda tut
+    localStorage.setItem('currentUser', username);
+    
+    // Modalı kapat
+    closeAuthModal();
+    
+    // Header'daki "Giriş Yap" butonunu kullanıcının adıyla değiştir
+    const loginBtn = document.getElementById('btn-login-trigger');
+    if (loginBtn) {
+        loginBtn.innerHTML = `<i class="fa-solid fa-user-check"></i> <span>${username}</span>`;
+        loginBtn.onclick = null; // Tıklanınca tekrar modal açılmasın (İleride profil sayfası açarız)
+    }
+}
+
+// Sayfa yüklendiğinde kullanıcı zaten giriş yapmış mı kontrol et
+window.addEventListener('load', () => {
+    const savedSession = localStorage.getItem('currentUser');
+    if (savedSession) {
+        loginUser(savedSession);
+    }
+});
