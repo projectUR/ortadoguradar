@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776103681543eiyk4",
+        "title": "Fransız Çimento Devi Lafarge, Suriye'de IŞİD ve Militan Grupları Finanse Etmekten Suçlu Bulundu",
+        "summary": "Fransız çimento devi Lafarge, Suriye'deki iç savaş sırasında faaliyetlerini sürdürmek amacıyla IŞİD ve diğer cihatçı gruplara finansman sağladığı gerekçesiyle Paris'te görülen davada suçlu bulundu. Mahkeme, şirketin savaşın yıktığı Suriye'deki fabrikasını açık tutmak için militan gruplara toplamda 6,5 milyon dolar ödeme yaptığını tespit etti. Bu karar, uluslararası şirketlerin çatışma bölgelerindeki operasyonlarının etik ve yasal sorumluluklarını bir kez daha gündeme getirdi. Olay, küresel şirketlerin riskli bölgelerdeki iş yapış biçimlerine dair önemli bir emsal teşkil ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30541562/pexels-photo-30541562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T18:08:01.543Z",
+        "location": {
+            "lat": 34.802075,
+            "lng": 38.996815,
+            "name": "Suriye"
+        },
+        "source": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776098681691m1psp",
         "title": "İran'da Son On Yılların En Yüksek İnfaz Sayısı Gerçekleşti",
         "summary": "Uluslararası kuruluşlar, İran'da son on yılların en yüksek infaz sayısının kaydedildiğini bildirdi. Ülke genelinde bu yılın başlarında yaşanan hükümet karşıtı protestoların ardından çok daha fazla kişinin idam edilebileceği konusunda uyarılar yapılıyor. İnsan hakları örgütleri, özellikle protestolarla bağlantılı davalarda verilen idam cezalarının artmasından endişe duyuyor. Bu durum, İran'daki insan hakları durumuyla ilgili uluslararası kaygıları artırıyor.",
@@ -780,22 +796,6 @@
             "name": "Ukrayna"
         },
         "source": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775923045180yjjm1",
-        "title": "İsrail Kısıtlamaları Gevşetince Hristiyanlar Kudüs'teki Kutsal Kabir Kilisesi'ne Döndü",
-        "summary": "Ortodoks Hristiyanlar, İsrail'in getirdiği kısıtlamaları hafifletmesinin ardından Kudüs'teki Kutsal Kabir Kilisesi'nde Paskalya'nın Kutsal Ateş törenini kutladı. Bu gelişme, önceki yıllarda pandemi veya güvenlik gerekçeleriyle uygulanan sınırlamaların ardından ibadet edenlerin kiliseye dönüşünü işaret ediyor. Kutsal Ateş töreni, Ortodoks Paskalyası'nın en önemli ritüellerinden biri olup, her yıl binlerce inananı bir araya getiriyor. İsrail'in bu adımı, bölgedeki dini özgürlükler ve kutsal mekanlara erişim konularındaki tartışmalar bağlamında değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/16191902/pexels-photo-16191902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T15:57:25.180Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/christians-return-to-jerusalems-holy-sepulchre-as-israel-eases-restriction?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
