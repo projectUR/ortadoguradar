@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776068982876dd0u3",
+        "title": "Papa Leo, dört ülkeli Afrika turuna Cezayir'den başlıyor",
+        "summary": "Katolik Kilisesi lideri Papa Leo, 11 gün sürecek Afrika turuna Cezayir'den başladı. Bu önemli ziyaret kapsamında Papa, Cezayir'in ardından Kamerun, Angola ve Ekvator Ginesi'ni de ziyaret edecek. Papa'nın bölgeye yaptığı bu tür ziyaretler, genellikle diplomatik ilişkilerin güçlendirilmesi ve dinler arası diyaloğun teşvik edilmesi açısından büyük önem taşıyor. Ziyaretin, kıtadaki Katolik cemaatleriyle bir araya gelme ve barış mesajları verme fırsatı sunması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12044711/pexels-photo-12044711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T08:29:42.876Z",
+        "location": {
+            "lat": 36.737232,
+            "lng": 3.086497,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/13/pope-leo-heads-to-algeria-as-he-starts-four-country-africa-tour?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1776050428663m6ul6",
         "title": "ABD ordusu, Pazartesi gününden itibaren tüm İran limanlarını abluka altına almakla tehdit etti",
         "summary": "ABD Merkez Komutanlığı (CENTCOM) tarafından yapılan açıklamaya göre, ABD ordusu Pazartesi gününden itibaren İran'ın tüm limanlarına yönelik bir abluka başlatma tehdidinde bulundu. Bu tehdit, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor. CENTCOM, Hürmüz Boğazı'ndan İran dışındaki limanlara giden ve gelen gemilerin geçişine ise izin verileceğini belirtti. Bu durum, ABD'nin İran'a yönelik ekonomik ve siyasi baskısını artırma stratejisinin bir parçası olarak değerlendirilirken, küresel deniz ticareti ve enerji piyasaları üzerindeki olası etkileri tartışılıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1775897512862u08b5",
-        "title": "İsrail'in Gazze'deki Cami Yakınında Düzenlediği İHA Saldırısında Can Kaybı",
-        "summary": "Gazze Şeridi'nin merkezinde bulunan bir caminin yakınında İsrail'e ait insansız hava aracıyla düzenlenen saldırıda en az altı kişi hayatını kaybetti. Olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Saldırının detayları ve hedefleri hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki gerilim devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36850177/pexels-photo-36850177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T08:51:52.862Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
