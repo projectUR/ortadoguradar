@@ -1,3 +1,19 @@
+// --- FIREBASE BAĞLANTI AYARLARI ---
+const firebaseConfig = {
+  apiKey: "AIzaSyDPYn1ozHB8kmP1QitOYjLzbJluAl08iwc",
+  authDomain: "ortadoguradar.firebaseapp.com",
+  projectId: "ortadoguradar",
+  storageBucket: "ortadoguradar.firebasestorage.app",
+  messagingSenderId: "274247395533",
+  appId: "1:274247395533:web:ab475926090432803a6184",
+  measurementId: "G-F6MTDXE43K"
+};
+
+// Firebase'i Başlat
+if (!firebase.apps.length) {
+    firebase.initializeApp(firebaseConfig);
+}
+const db = firebase.firestore(); // Bulut Veritabanı hazır
 /* =========================================
    Orta Doğu Radar - Main App Logic
    ========================================= */
@@ -691,63 +707,7 @@ window.handleLike = function(event, newsId) {
     }
 };
 
-// --- YORUM YAPMA MOTORU (GELİŞMİŞ) ---
-window.handleComment = function(postId) {
-    if (!checkAuthAction("Yorum Yapma")) return;
-    const userComment = prompt("Bu analiz hakkındaki yorumun nedir kral?");
-    if (userComment === null || userComment.trim() === "") return;
-
-    const currentUser = localStorage.getItem('currentUser');
-    let allPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
-    const postIndex = allPosts.findIndex(p => p.id === postId);
-    
-    if (postIndex !== -1) {
-        if (!allPosts[postIndex].comments) allPosts[postIndex].comments = [];
-
-        // HER YORUMA ÖZEL KİMLİK VE BEĞENİ SAYACI VERİYORUZ
-        const newComment = {
-            id: 'cmt_' + Date.now(),
-            author: currentUser,
-            text: userComment,
-            likes: 0,
-            timestamp: new Date().toISOString()
-        };
-
-        allPosts[postIndex].comments.push(newComment);
-        localStorage.setItem('radarPosts', JSON.stringify(allPosts));
-        renderSocialFeed();
-    }
-};
-
-// --- YORUM BEĞENME FONKSİYONU ---
-window.handleCommentLike = function(event, postId, commentId) {
-    if (!checkAuthAction("Beğeni")) return;
-    let allPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
-    const postIndex = allPosts.findIndex(p => p.id === postId);
-    
-    if (postIndex !== -1) {
-        const cmtIndex = allPosts[postIndex].comments.findIndex(c => c.id === commentId);
-        if (cmtIndex !== -1) {
-            const icon = event.currentTarget.querySelector('i');
-            const currentCmt = allPosts[postIndex].comments[cmtIndex];
-            
-            // Beğeni toggle mantığı
-            if (icon.classList.contains('fa-regular')) {
-                currentCmt.likes = (currentCmt.likes || 0) + 1;
-                icon.classList.replace('fa-regular', 'fa-solid');
-                icon.style.color = '#ff4757';
-            } else {
-                currentCmt.likes = Math.max(0, currentCmt.likes - 1);
-                icon.classList.replace('fa-solid', 'fa-regular');
-                icon.style.color = '#555';
-            }
-            
-            localStorage.setItem('radarPosts', JSON.stringify(allPosts));
-            event.currentTarget.querySelector('span').textContent = currentCmt.likes;
-        }
-    }
-};
-
+// --- 1. KULLANICI KONTROLÜ (BU KALSIN) ---
 function checkAuthAction(action) {
     const user = localStorage.getItem('currentUser');
     if (!user) {
@@ -757,61 +717,29 @@ function checkAuthAction(action) {
     }
     return true;
 }
-// --- GELİŞMİŞ ALINTILA (HABER + YORUM DESTEKLİ) ---
-window.handleQuote = function(newsId, quotedId = null, isComment = false) {
-    if (!checkAuthAction("Alıntıla")) return;
 
-    const userComment = prompt("Bu analiz/yorum üzerine ne eklemek istersin kral?");
-    if (userComment === null || userComment.trim() === "") return;
-
-    const currentUser = localStorage.getItem('currentUser');
-    const newsItem = STATE.news.find(n => n.id === newsId);
-    let quotedData = null;
-
-    if (quotedId) {
-        const allPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
-        
-        if (isComment) {
-            // EĞER BİR YORUMU ALINTILIYORSAK: Tüm postların içindeki yorumları tara
-            allPosts.forEach(p => {
-                const targetCmt = p.comments?.find(c => c.id === quotedId);
-                if (targetCmt) {
-                    quotedData = { id: targetCmt.id, author: targetCmt.author, content: targetCmt.text };
-                }
-            });
-        } else {
-            // EĞER ANA POSTU ALINTILIYORSAK
-            const targetPost = allPosts.find(p => p.id === quotedId);
-            if (targetPost) {
-                quotedData = { id: targetPost.id, author: targetPost.author, content: targetPost.content };
-            }
-        }
+// --- 2. BULUTTAN VERİLERİ ÇEKME ---
+async function fetchRadarPosts() {
+    try {
+        const snapshot = await db.collection("posts").orderBy("timestamp", "desc").get();
+        const posts = snapshot.docs.map(doc => ({ 
+            id: doc.id, 
+            ...doc.data() 
+        }));
+        renderSocialFeed(posts);
+    } catch (error) {
+        console.error("Bulut verileri çekilemedi:", error);
     }
+}
 
-    const newPost = {
-        id: 'post_' + Date.now(),
-        author: currentUser,
-        content: userComment,
-        originalNews: newsItem,
-        quotedPost: quotedData,
-        timestamp: new Date().toISOString()
-    };
-
-    let socialPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
-    socialPosts.unshift(newPost);
-    localStorage.setItem('radarPosts', JSON.stringify(socialPosts));
-    renderSocialFeed();
-};
-// --- SOSYAL AKIŞI RENDER ETME (YORUM VE ALINTI DESTEKLİ) ---
-function renderSocialFeed() {
+// --- 3. SOSYAL AKIŞI RENDER ETME ---
+function renderSocialFeed(posts) {
     DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
-    const posts = JSON.parse(localStorage.getItem('radarPosts')) || [];
-
+    
     posts.forEach(post => {
-        // Yorumları render etme kısmı (Gelişmiş Etkileşimli)
         let commentsHTML = "";
         if (post.comments && post.comments.length > 0) {
-            commentsHTML = `<div class="post-comments" style="margin-top: 15px; padding: 12px; background: rgba(0,0,0,0.2); border-radius: 8px; border: 1px solid #222;">`;
+            commentsHTML = `<div class="post-comments" style="margin-top: 15px; padding: 12px; background: rgba(0,0,0,0.25); border-radius: 8px; border: 1px solid #222;">`;
             post.comments.forEach(cmt => {
                 commentsHTML += `
                     <div id="${cmt.id}" style="margin-bottom: 12px; border-bottom: 1px solid #1a1a1a; padding-bottom: 10px;">
@@ -819,50 +747,89 @@ function renderSocialFeed() {
                             <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
                             <span style="color: #ddd;">${cmt.text}</span>
                         </div>
-                        <div style="display: flex; gap: 20px; font-size: 0.75rem; color: #555;">
-                            <button onclick="handleCommentLike(event, '${post.id}', '${cmt.id}')" style="background:none; border:none; color:inherit; cursor:pointer;">
-                                <i class="fa-regular fa-heart"></i> <span>${cmt.likes || 0}</span>
-                            </button>
-                            <button onclick="handleComment('${post.id}')" style="background:none; border:none; color:inherit; cursor:pointer;">
-                                <i class="fa-regular fa-comment"></i> Yanıtla
-                            </button>
-                            <button onclick="handleQuote('${post.originalNews.id}', '${cmt.id}', true)" style="background:none; border:none; color:inherit; cursor:pointer;">
-                                <i class="fa-solid fa-retweet"></i> Alıntıla
-                            </button>
-                        </div>
                     </div>`;
             });
             commentsHTML += `</div>`;
         }
 
-        // Ana Post Yapısı
         let quoteBoxHTML = post.quotedPost ? `
             <div onclick="scrollToPost('${post.quotedPost.id}')" style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555; cursor:pointer;">
-                <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi/yorumu:</strong>
+                <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
                 <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic;">"${post.quotedPost.content}"</p>
             </div>` : "";
 
         const postHTML = `
             <div id="${post.id}" class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue);">
                 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-                    <div style="width: 35px; height: 35px; background: #222; border: 1px solid var(--accent-blue); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: var(--accent-blue);">${post.author[0].toUpperCase()}</div>
-                    <div><strong style="color: white;">@${post.author}</strong></div>
+                    <div style="width: 35px; height: 35px; background: #222; border: 1px solid var(--accent-blue); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: var(--accent-blue);">${post.author ? post.author[0].toUpperCase() : 'R'}</div>
+                    <div><strong style="color: white;">@${post.author || "Anonim"}</strong></div>
                 </div>
                 <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px;">${post.content}</p>
                 ${quoteBoxHTML}
-                <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; cursor: pointer;">
-                    <h4 style="margin: 0; font-size: 0.8rem; color: #888;">${post.originalNews.title}</h4>
-                </div>
-
-                ${commentsHTML} <div class="post-interactions" style="display: flex; gap: 25px; margin-top:15px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
-                    <button onclick="handleLike(event, 'post-${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;"><i class="fa-regular fa-heart"></i> <span id="likes-post-${post.id}">0</span></button>
+                <div class="post-interactions" style="display: flex; gap: 25px; margin-top:15px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
                     <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;"><i class="fa-regular fa-comment"></i> <span>${post.comments ? post.comments.length : 0}</span></button>
-                    <button onclick="handleQuote('${post.originalNews.id}', '${post.id}', false)" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;"><i class="fa-solid fa-retweet"></i></button>
+                    <button onclick="handleQuote('${post.originalNews?.id || 'general'}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer;"><i class="fa-solid fa-retweet"></i></button>
                 </div>
+                ${commentsHTML}
             </div>`;
         DOM.feedContainer.insertAdjacentHTML('beforeend', postHTML);
     });
 }
+
+// --- 4. BULUTA ANALİZ KAYDETME ---
+window.handleQuote = async function(newsId, quotedId = null) {
+    if (!checkAuthAction("Alıntıla")) return;
+    const userComment = prompt("Bu analiz üzerine ne eklemek istersin kral?");
+    if (!userComment) return;
+
+    const currentUser = localStorage.getItem('currentUser');
+    const newsItem = STATE.news.find(n => n.id === newsId) || { title: "Genel Analiz", id: "general" };
+    let quotedData = null;
+
+    if (quotedId) {
+        const doc = await db.collection("posts").doc(quotedId).get();
+        if (doc.exists) {
+            quotedData = { id: quotedId, author: doc.data().author, content: doc.data().content };
+        }
+    }
+
+    const newPost = {
+        author: currentUser,
+        content: userComment,
+        originalNews: newsItem,
+        quotedPost: quotedData,
+        timestamp: firebase.firestore.FieldValue.serverTimestamp()
+    };
+
+    await db.collection("posts").add(newPost);
+    fetchRadarPosts();
+};
+
+// --- 5. BULUTA YORUM KAYDETME ---
+window.handleComment = async function(postId) {
+    if (!checkAuthAction("Yorum Yapma")) return;
+    const userComment = prompt("Yorumun nedir kral?");
+    if (!userComment) return;
+
+    const currentUser = localStorage.getItem('currentUser');
+    const postRef = db.collection("posts").doc(postId);
+    
+    const doc = await postRef.get();
+    if (doc.exists) {
+        const comments = doc.data().comments || [];
+        comments.push({
+            id: 'cmt_' + Date.now(),
+            author: currentUser,
+            text: userComment,
+            timestamp: new Date().toISOString()
+        });
+        await postRef.update({ comments: comments });
+        fetchRadarPosts();
+    }
+};
+
+// Sayfa açıldığında verileri buluttan çek
+document.addEventListener('DOMContentLoaded', fetchRadarPosts);
 
 // BU YENİ FONKSİYON: Alıntıya tıklayınca oraya kaydırır
 window.scrollToPost = function(postId) {
