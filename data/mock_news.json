@@ -1,5 +1,21 @@
 [
     {
+        "id": "17760810887993lf8w",
+        "title": "ABD-İran Görüşmeleri İslamabad'da Gerçekleşti",
+        "summary": "Pakistan, ABD ile İran arasındaki kritik görüşmelere ev sahipliği yaparak uluslararası arenada dikkatleri üzerine çekti. İslamabad'da gerçekleşen bu müzakereler, Pakistan'ın Körfez ülkeleri, ABD ve Çin ile olan güçlü diplomatik bağları sayesinde diğer ülkelerin başaramadığı bir başarı olarak değerlendiriliyor. Ülke, bu önemli diyalogda arabuluculuk rolü üstlenerek bölgesel ve küresel siyasetteki konumunu pekiştirdi. Görüşmelerin detayları ve sonuçları, Orta Doğu'daki gerilimin azaltılması ve diplomatik çözüm arayışları açısından büyük önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433853/pexels-photo-7433853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T11:51:28.799Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17760754611915wc54",
         "title": "Analistler: ABD'nin İran'a yönelik ablukası küresel enerji krizini kötüleştirecek",
         "summary": "ABD ordusunun İran limanlarına yönelik olası bir ablukası gündeme geldi. Analistler, böyle bir adımın halihazırda devam eden küresel enerji krizini daha da derinleştireceği uyarısında bulunuyor. ABD askeri yetkilileri ablukanın sadece İran limanlarıyla sınırlı kalacağını ifade etse de, uzmanlar bu durumun dünya genelinde geniş yankı bulacağını öngörüyor. Bu potansiyel hamlenin, küresel enerji piyasalarında ciddi dalgalanmalara yol açabileceği ve fiyatları olumsuz etkileyebileceği belirtiliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/pakistani-military-force-arrives-at-saudi-air-base-under-defense-pact/3901887",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1775907226366muvqg",
-        "title": "Hürmüz Boğazı İçin Bölgesel Bir Anlaşmaya İhtiyaç Duyuluyor",
-        "summary": "Hürmüz Boğazı'nın yönetimine ilişkin bölgesel bir anlaşmanın gerekliliği dile getirildi. Yapılan açıklamada, bu stratejik su yolunun idaresi için hukuka ve gerçeklere dayalı bir düzenlemenin geliştirilebileceği ve geliştirilmesi gerektiği vurgulandı. Boğaz, dünya petrol ticaretinin önemli bir kısmının geçiş güzergahı olması nedeniyle uluslararası denizcilik ve enerji güvenliği açısından kritik bir öneme sahiptir. Bölgesel bir mutabakatın, Hürmüz Boğazı'ndaki istikrarı ve güvenliği artıracağı düşünülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4860403/pexels-photo-4860403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T11:33:46.366Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/4/11/we-need-a-regional-agreement-for-the-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
