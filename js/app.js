@@ -700,29 +700,7 @@ window.addEventListener('load', () => {
         loginUser(savedSession);
     }
 });
-// --- Sosyal Etkileşim Fonksiyonları ---
 
-window.handleLike = function(event, newsId) {
-    // Giriş kontrolü
-    if (!checkAuthAction("Beğeni")) return;
-    
-    const btn = event.currentTarget;
-    const icon = btn.querySelector('i');
-    const countSpan = document.getElementById(`likes-${newsId}`);
-    
-    // Beğeni mantığı (Kalbi doldur ve sayıyı artır)
-    if (icon.classList.contains('fa-regular')) {
-        icon.classList.replace('fa-regular', 'fa-solid');
-        icon.style.color = '#ff4757'; // Trabzonspor kırmızısı gibi parlasın
-        countSpan.textContent = parseInt(countSpan.textContent) + 1;
-        countSpan.style.color = '#ff4757';
-    } else {
-        icon.classList.replace('fa-solid', 'fa-regular');
-        icon.style.color = '#888';
-        countSpan.textContent = parseInt(countSpan.textContent) - 1;
-        countSpan.style.color = '#888';
-    }
-};
 
 // --- 1. KULLANICI KONTROLÜ (BU KALSIN) ---
 function checkAuthAction(action) {
@@ -854,8 +832,6 @@ window.handleComment = async function(postId) {
     }
 };
 
-// Sayfa açıldığında verileri buluttan çek
-document.addEventListener('DOMContentLoaded', fetchRadarPosts);
 
 // BU YENİ FONKSİYON: Alıntıya tıklayınca oraya kaydırır
 window.scrollToPost = function(postId) {
@@ -869,20 +845,7 @@ window.scrollToPost = function(postId) {
     }
 };
 
-// Yeni butonumuza tıklama özelliği ekleyelim
-document.addEventListener('DOMContentLoaded', () => {
-    const btnSocial = document.getElementById('btn-social');
-    if (btnSocial) {
-        btnSocial.addEventListener('click', () => {
-            // Diğer butonların aktifliğini sil
-            document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
-            btnSocial.classList.add('active');
-            
-            // Sosyal akışı yükle
-            renderSocialFeed();
-        });
-    }
-});
+
 // Sosyal akıştan ana habere yönlendirme
 window.goToNews = function(newsId) {
     // 1. Ana Akış butonuna tıkla (Sayfayı haber moduna döndür)
@@ -902,24 +865,16 @@ window.goToNews = function(newsId) {
 // --- FIREBASE BEĞENİ FONKSİYONU ---
 window.handleLike = async function(event, postId) {
     if (!checkAuthAction("Beğeni")) return;
-
     const postRef = db.collection("posts").doc(postId);
     const icon = event.currentTarget.querySelector('i');
     const span = event.currentTarget.querySelector('span');
-    
     try {
         const doc = await postRef.get();
         if (doc.exists) {
             let currentLikes = doc.data().likes || 0;
             let newLikes = currentLikes + 1;
-            
-            // Buluttaki veriyi güncelle
             await postRef.update({ likes: newLikes });
-            
-            // Sayfayı yenilemeden ekrandaki sayıyı da hemen değiştir
             if (span) span.textContent = newLikes;
-            
-            // Kalbi kırmızı yap ve doldur
             icon.classList.replace('fa-regular', 'fa-solid');
             icon.style.color = '#ff4757';
         }
@@ -930,10 +885,10 @@ window.handleLike = async function(event, postId) {
 
 // Sayfa ilk açıldığında ne olacağını belirleyen kısım
 document.addEventListener('DOMContentLoaded', () => {
-    // 1. Önce Haberleri (Ana Sayfayı) yükle ve göster
+    // Önce Haberleri (Ana Sayfayı) yükle
     switchView('feed'); 
     
-    // 2. Arka planda analizleri de hazırla (ama ekrana basma)
+    // Arka planda Google'a selam ver ama ekrana basma
     if (typeof db !== 'undefined') {
         db.collection("posts").orderBy("timestamp", "desc").limit(1).get().then(() => {
             console.log("Bulut bağlantısı hazır.");
