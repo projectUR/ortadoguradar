@@ -691,9 +691,45 @@ window.handleLike = function(event, newsId) {
     }
 };
 
-window.handleComment = function(newsId) {
-    if (!checkAuthAction("Yorum")) return;
-    alert(`Radar: ${newsId} nolu habere yorum yapma özelliği yakında eklenecek!`);
+// --- YORUM YAPMA MOTORU ---
+window.handleComment = function(postId) {
+    // Giriş kontrolü (Hamsi61 burada mı?)
+    if (!checkAuthAction("Yorum Yapma")) return;
+
+    const userComment = prompt("Bu analiz hakkındaki yorumun nedir kral?");
+    
+    if (userComment === null || userComment.trim() === "") return;
+
+    const currentUser = localStorage.getItem('currentUser');
+    
+    // Tarayıcı hafızasındaki tüm sosyal postları al
+    let allPosts = JSON.parse(localStorage.getItem('radarPosts')) || [];
+    
+    // Yorum yapılan postu ID üzerinden bul
+    const postIndex = allPosts.findIndex(p => p.id === postId);
+    
+    if (postIndex !== -1) {
+        // Eğer postun yorumlar dizisi yoksa oluştur
+        if (!allPosts[postIndex].comments) {
+            allPosts[postIndex].comments = [];
+        }
+
+        // Yeni yorumu pakete ekle
+        allPosts[postIndex].comments.push({
+            author: currentUser,
+            text: userComment,
+            timestamp: new Date().toISOString()
+        });
+
+        // Hafızayı güncelle
+        localStorage.setItem('radarPosts', JSON.stringify(allPosts));
+        
+        // Akışı hemen tazele ki yorum anında görünsün
+        renderSocialFeed();
+    } else {
+        // Eğer bu bir ana haber ise (Sosyal post değilse) şimdilik uyarı verelim
+        alert("Radar: Haberlere direkt yorum özelliği yakında Firebase ile gelecek! Şimdilik sadece analizleri yorumlayabilirsin.");
+    }
 };
 
 
@@ -755,24 +791,37 @@ window.handleQuote = function(newsId, quotedPostId = null) {
         renderSocialFeed();
     }
 };
-// --- SOSYAL AKIŞI RENDER ETME ---
+// --- SOSYAL AKIŞI RENDER ETME (YORUM VE ALINTI DESTEKLİ) ---
 function renderSocialFeed() {
     DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
     
     const posts = JSON.parse(localStorage.getItem('radarPosts')) || [];
 
     posts.forEach(post => {
-        let quoteBoxHTML = "";
-        if (post.quotedPost) {
-            // TIKLANABİLİR ALINTI KUTUSU
-            quoteBoxHTML = `
-                <div onclick="scrollToPost('${post.quotedPost.id}')" style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555; cursor:pointer;" onmouseover="this.style.borderColor='var(--accent-blue)'" onmouseout="this.style.borderColor='#444'">
-                    <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
-                    <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic; line-height:1.4;">"${post.quotedPost.content}"</p>
-                </div>
-            `;
+        // 1. Yorumlar Bölümünü Hazırlayalım
+        let commentsHTML = "";
+        if (post.comments && post.comments.length > 0) {
+            commentsHTML = `<div class="post-comments" style="margin-top: 15px; padding: 12px; background: rgba(0,0,0,0.25); border-radius: 8px; border: 1px solid #222; margin-bottom: 15px;">`;
+            post.comments.forEach(cmt => {
+                commentsHTML += `
+                    <div style="margin-bottom: 10px; border-bottom: 1px solid #1a1a1a; padding-bottom: 8px; font-size: 0.92rem;">
+                        <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
+                        <span style="color: #ddd; line-height: 1.4;">${cmt.text}</span>
+                    </div>
+                `;
+            });
+            commentsHTML += `</div>`;
         }
 
+        // 2. Alıntı Kutusu (Varsa)
+        let quoteBoxHTML = post.quotedPost ? `
+            <div onclick="scrollToPost('${post.quotedPost.id}')" style="border: 1px dashed #444; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: rgba(255,255,255,0.03); border-left: 3px solid #555; cursor:pointer;" onmouseover="this.style.borderColor='var(--accent-blue)'" onmouseout="this.style.borderColor='#444'">
+                <strong style="color: var(--accent-blue); font-size: 0.85rem; display:block; margin-bottom:5px;">@${post.quotedPost.author} analizi:</strong>
+                <p style="margin: 0; font-size: 0.95rem; color: #bbb; font-style: italic;">"${post.quotedPost.content}"</p>
+            </div>
+        ` : "";
+
+        // 3. Ana Kart Yapısı
         const postHTML = `
             <div id="${post.id}" class="social-post" style="background: #151515; border: 1px solid #333; border-radius: 12px; padding: 15px; margin-bottom: 20px; border-left: 4px solid var(--accent-blue); transition: 0.3s;">
                 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
@@ -794,12 +843,14 @@ function renderSocialFeed() {
                     </div>
                 </div>
 
-                <div class="post-interactions" style="display: flex; gap: 25px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05); margin-top:15px;">
+                ${commentsHTML}
+
+                <div class="post-interactions" style="display: flex; gap: 25px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05); margin-top:10px;">
                     <button onclick="handleLike(event, 'post-${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
                         <i class="fa-regular fa-heart"></i> <span id="likes-post-${post.id}">0</span>
                     </button>
                     <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
-                        <i class="fa-regular fa-comment"></i> <span>0</span>
+                        <i class="fa-regular fa-comment"></i> <span>${post.comments ? post.comments.length : 0}</span>
                     </button>
                     <button onclick="handleQuote('${post.originalNews.id}', '${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.85rem;">
                         <i class="fa-solid fa-retweet"></i>
