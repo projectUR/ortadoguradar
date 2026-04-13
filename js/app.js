@@ -122,8 +122,6 @@ function renderNewsCards() {
 
         const cardClass = item.isBreaking ? 'news-card breaking' : 'news-card';
         const breakingBadge = item.isBreaking ? `<span class="breaking-tag"><i class="fa-solid fa-bolt"></i> Son Dakika</span>` : '';
-        
-        // YENİ EKLENEN KISIM: Pexels görseli varsa kartın en üstüne şık bir şekilde ekle, yoksa boş bırak
         const imageHTML = (item.imageUrl && item.imageUrl.includes('pexels')) ? `<img src="${item.imageUrl}" alt="Haber Görseli" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px 8px 0 0; display: block; border-bottom: 1px solid #333;">` : '';
 
         const cardHTML = `
@@ -140,7 +138,20 @@ function renderNewsCards() {
                 <div class="card-body">
                     <h3>${item.title}</h3>
                     <p>${item.summary}</p>
+                    
+                    <div class="card-interactions" style="display: flex; gap: 25px; margin-top: 15px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05);">
+                        <button onclick="handleLike(event, '${item.id}')" class="int-btn" title="Beğen" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem; transition:0.2s;">
+                            <i class="fa-regular fa-heart"></i> <span id="likes-${item.id}">0</span>
+                        </button>
+                        <button onclick="handleComment('${item.id}')" class="int-btn" title="Yorum Yap" style="background:none; border:none; color:#888; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.9rem; transition:0.2s;">
+                            <i class="fa-regular fa-comment"></i> <span>0</span>
+                        </button>
+                        <button onclick="handleQuote('${item.id}')" class="int-btn" title="Alıntıla" style="background:none; border:none; color:#888; cursor:pointer; font-size:0.9rem; transition:0.2s;">
+                            <i class="fa-solid fa-retweet"></i>
+                        </button>
+                    </div>
                 </div>
+                
                 <div class="card-footer">
                     <a href="${item.source}" target="_blank" class="source-link" rel="nofollow">
                         <i class="fa-solid fa-link"></i> Kaynak Taramasını Gör
@@ -637,3 +648,47 @@ window.addEventListener('load', () => {
         loginUser(savedSession);
     }
 });
+// --- Sosyal Etkileşim Fonksiyonları ---
+
+window.handleLike = function(event, newsId) {
+    // Giriş kontrolü
+    if (!checkAuthAction("Beğeni")) return;
+    
+    const btn = event.currentTarget;
+    const icon = btn.querySelector('i');
+    const countSpan = document.getElementById(`likes-${newsId}`);
+    
+    // Beğeni mantığı (Kalbi doldur ve sayıyı artır)
+    if (icon.classList.contains('fa-regular')) {
+        icon.classList.replace('fa-regular', 'fa-solid');
+        icon.style.color = '#ff4757'; // Trabzonspor kırmızısı gibi parlasın
+        countSpan.textContent = parseInt(countSpan.textContent) + 1;
+        countSpan.style.color = '#ff4757';
+    } else {
+        icon.classList.replace('fa-solid', 'fa-regular');
+        icon.style.color = '#888';
+        countSpan.textContent = parseInt(countSpan.textContent) - 1;
+        countSpan.style.color = '#888';
+    }
+};
+
+window.handleComment = function(newsId) {
+    if (!checkAuthAction("Yorum")) return;
+    alert(`Radar: ${newsId} nolu habere yorum yapma özelliği yakında eklenecek!`);
+};
+
+window.handleQuote = function(newsId) {
+    if (!checkAuthAction("Alıntıla")) return;
+    alert("Radar: Haber kendi akışında alıntılandı!");
+};
+
+// Bu fonksiyon kullanıcının giriş yapıp yapmadığını kontrol eder
+function checkAuthAction(action) {
+    const user = localStorage.getItem('currentUser');
+    if (!user) {
+        alert(`🚨 Dur bakalım kral! ${action} yapabilmek için önce giriş yapman lazım.`);
+        window.openAuthModal();
+        return false;
+    }
+    return true;
+}
