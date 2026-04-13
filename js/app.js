@@ -744,9 +744,8 @@ window.handleQuote = function(newsId) {
 
     alert("Analizin Radar Akışı'na başarıyla düştü! 🚀");
 };
-// --- SOSYAL AKIŞI RENDER ETME ---
+// --- SOSYAL AKIŞI RENDER ETME (GÜNCEL) ---
 function renderSocialFeed() {
-    // Ana haber alanını temizle ve başlık at
     DOM.feedContainer.innerHTML = '<h2 style="color:var(--accent-blue); margin-bottom:20px; padding:10px;"><i class="fa-solid fa-users-viewfinder"></i> Radar Akışı</h2>';
     
     const posts = JSON.parse(localStorage.getItem('radarPosts')) || [];
@@ -769,12 +768,24 @@ function renderSocialFeed() {
                 
                 <p style="color: #eee; font-size: 1.05rem; margin-bottom: 15px; line-height: 1.5;">${post.content}</p>
                 
-                <div style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; align-items: center; opacity: 0.8;">
+                <div onclick="goToNews('${post.originalNews.id}')" style="border: 1px solid #222; border-radius: 8px; padding: 10px; background: #0c0c0c; display: flex; gap: 12px; align-items: center; cursor: pointer; transition: 0.3s; margin-bottom: 15px;" onmouseover="this.style.borderColor='var(--accent-blue)'" onmouseout="this.style.borderColor='#222'">
                     ${post.originalNews.imageUrl ? `<img src="${post.originalNews.imageUrl}" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px;">` : ''}
                     <div>
                         <h4 style="margin: 0; font-size: 0.85rem; color: #aaa;">${post.originalNews.title}</h4>
-                        <span style="font-size: 0.75rem; color: #444;">${post.originalNews.category}</span>
+                        <span style="font-size: 0.75rem; color: #444;">${post.originalNews.category} - <span style="color:var(--accent-blue)">Habere Git →</span></span>
                     </div>
+                </div>
+
+                <div class="post-interactions" style="display: flex; gap: 25px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.05);">
+                    <button onclick="handleLike(event, 'post-${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
+                        <i class="fa-regular fa-heart"></i> <span id="likes-post-${post.id}">0</span>
+                    </button>
+                    <button onclick="handleComment('${post.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; display:flex; align-items:center; gap:6px; font-size:0.85rem;">
+                        <i class="fa-regular fa-comment"></i> <span>0</span>
+                    </button>
+                    <button onclick="handleQuote('${post.originalNews.id}')" class="int-btn" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.85rem;">
+                        <i class="fa-solid fa-retweet"></i>
+                    </button>
                 </div>
             </div>
         `;
@@ -796,3 +807,19 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+// Sosyal akıştan ana habere yönlendirme
+window.goToNews = function(newsId) {
+    // 1. Ana Akış butonuna tıkla (Sayfayı haber moduna döndür)
+    const btnFeed = document.getElementById('btn-feed');
+    if (btnFeed) btnFeed.click();
+
+    // 2. Küçük bir gecikmeyle haberi bul ve oraya kaydır
+    setTimeout(() => {
+        const targetCard = document.querySelector(`[onclick*="${newsId}"]`)?.closest('.news-card');
+        if (targetCard) {
+            targetCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetCard.style.boxShadow = "0 0 20px var(--accent-blue)"; // Haberi parlat
+            setTimeout(() => targetCard.style.boxShadow = "none", 2000); // 2 sn sonra ışığı kapat
+        }
+    }, 300);
+};
