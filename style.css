@@ -1322,3 +1322,21 @@ body {
 .lifeline-btn.used::after {
     display: none !important;
 }
+/* Giriş Paneli İçin Ekran Yerleşimi */
+#authModal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.85); /* Arka planı karartır */
+    z-index: 9999; /* Her şeyin en üstünde durmasını sağlar */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(5px); /* Arka planı bulanıklaştırır, profesyonel durur */
+}
+
+#authModal.hidden {
+    display: none !important; /* Gizliyken kesinlikle görünmez */
+}
