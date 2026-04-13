@@ -1,5 +1,21 @@
 [
     {
+        "id": "17761241489491nexh",
+        "title": "ABD-İsrail'in İran'a Yönelik Çatışması Nedeniyle Nakliye Maliyetleri ve Enerji Fiyatları Yükseldi",
+        "summary": "Son bir ayda küresel nakliye maliyetleri yüzde 10'dan fazla artış gösterdi. Bu artışın temel nedeni olarak, ABD ve İsrail'in İran'a karşı yürüttüğü 'savaş' gösteriliyor. Eski ABD Başkanı Trump'ın Jones Yasası'nı askıya almasına rağmen enerji fiyatlarındaki yükselişin devam ettiği belirtiliyor. Bu durum, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji ve lojistik piyasaları üzerindeki doğrudan etkisini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-13T23:49:08.949Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776103681543eiyk4",
         "title": "Fransız Çimento Devi Lafarge, Suriye'de IŞİD ve Militan Grupları Finanse Etmekten Suçlu Bulundu",
         "summary": "Fransız çimento devi Lafarge, Suriye'deki iç savaş sırasında faaliyetlerini sürdürmek amacıyla IŞİD ve diğer cihatçı gruplara finansman sağladığı gerekçesiyle Paris'te görülen davada suçlu bulundu. Mahkeme, şirketin savaşın yıktığı Suriye'deki fabrikasını açık tutmak için militan gruplara toplamda 6,5 milyon dolar ödeme yaptığını tespit etti. Bu karar, uluslararası şirketlerin çatışma bölgelerindeki operasyonlarının etik ve yasal sorumluluklarını bir kez daha gündeme getirdi. Olay, küresel şirketlerin riskli bölgelerdeki iş yapış biçimlerine dair önemli bir emsal teşkil ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/11/vigil-held-in-madrid-for-victims-of-israeli-strikes-on-lebanon?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "177592893756135tg7",
-        "title": "Rusya-Ukrayna Ortodoks Paskalyası Ateşkesi Başladı",
-        "summary": "Rusya ve Ukrayna, Ortodoks Paskalyası döneminde geçici bir ateşkesi gözlemleme konusunda anlaştı. Bu ateşkes, çatışmaların yoğunlaştığı bölgelerde insani yardım koridorlarının açılmasına ve sivillerin tahliyesine olanak sağlamayı hedefliyor. Taraflar arasındaki bu mutabakat, ABD liderliğindeki diplomatik çabaların savaşı sona erdirme konusunda henüz ilerleme kaydedemediği bir dönemde geldi. Ateşkesin süresi ve kapsamı konusunda detaylar henüz tam olarak netleşmese de, bu adım bölgedeki gerilimi geçici olarak azaltma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-11T17:35:37.561Z",
-        "location": {
-            "lat": 50.45,
-            "lng": 30.52,
-            "name": "Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
