@@ -299,8 +299,27 @@ function setupEventListeners() {
     });
 
     // View Toggles (Feed vs Map)
-    DOM.btnFeed.addEventListener('click', () => switchView('feed'));
-    DOM.btnMap.addEventListener('click', () => switchView('map'));
+    // Akış (Haberler) Butonu
+    DOM.btnFeed.addEventListener('click', () => {
+        document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+        DOM.btnFeed.classList.add('active');
+        const socialBtn = document.getElementById('btn-social');
+        if (socialBtn) socialBtn.classList.remove('active');
+        
+        switchView('feed');
+        renderNewsCards(); // Haberleri geri getirir
+    });
+
+    // Rasathane (Harita) Butonu
+    DOM.btnMap.addEventListener('click', () => {
+        document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+        DOM.btnMap.classList.add('active');
+        const socialBtn = document.getElementById('btn-social');
+        if (socialBtn) socialBtn.classList.remove('active');
+
+        switchView('map');
+        renderNewsCards(); // Yan taraftaki akışı geri getirir
+    });
 }
 
 function applyFilters() {
