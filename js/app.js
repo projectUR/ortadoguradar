@@ -650,34 +650,53 @@ if (btnSwitch) {
     };
 }
 
-// Kayıt ve Giriş Tıklama Olayı
+// --- BULUT DESTEKLİ GİRİŞ/KAYIT SİSTEMİ ---
 if (authPrimaryBtn) {
-    authPrimaryBtn.onclick = function() {
-        const username = document.getElementById('authUsername').value.trim();
+    authPrimaryBtn.onclick = async function() {
+        // Kullanıcı adını küçük harfe çeviriyoruz ki giriş yaparken sorun çıkmasın
+        const username = document.getElementById('authUsername').value.trim().toLowerCase();
         const password = document.getElementById('authPassword').value.trim();
 
         if (username === "" || password === "") {
-            alert("Barkın kral diyor ki: Alanları boş bırakma!");
+            alert("Alanları boş bırakma kral!");
             return;
         }
 
-        if (!isLoginMode) {
-            localStorage.setItem(`user_${username}`, JSON.stringify({username, password}));
-            alert(`Hoş geldin ${username}! Radar seni kaydetti.`);
-            loginUser(username);
-        } else {
-            const savedUser = localStorage.getItem(`user_${username}`);
-            if (savedUser) {
-                const userData = JSON.parse(savedUser);
-                if (userData.password === password) {
-                    alert(`Tekrar hoş geldin, ${username}!`);
-                    loginUser(username);
+        const userRef = db.collection("users").doc(username);
+
+        try {
+            if (!isLoginMode) {
+                // --- KAYIT OLMA (BULUTA YAZMA) ---
+                const doc = await userRef.get();
+                if (doc.exists) {
+                    alert("Bu kullanıcı adı alınmış, başka bir tane dene.");
                 } else {
-                    alert("Şifre hatalı!");
+                    await userRef.set({
+                        username: username,
+                        password: password,
+                        createdAt: firebase.firestore.FieldValue.serverTimestamp()
+                    });
+                    alert(`Hoş geldin ${username}! Artık her yerden girebilirsin.`);
+                    loginUser(username);
                 }
             } else {
-                alert("Kullanıcı bulunamadı. Önce kayıt olmalısın.");
+                // --- GİRİŞ YAPMA (BULUTTAN OKUMA) ---
+                const doc = await userRef.get();
+                if (doc.exists) {
+                    const userData = doc.data();
+                    if (userData.password === password) {
+                        alert(`Tekrar hoş geldin, ${username}!`);
+                        loginUser(username);
+                    } else {
+                        alert("Şifre hatalı!");
+                    }
+                } else {
+                    alert("Kullanıcı bulunamadı. Önce kayıt olmalısın.");
+                }
             }
+        } catch (error) {
+            console.error("Giriş hatası:", error);
+            alert("Sistemde bir sorun oluştu, tekrar dene.");
         }
     };
 }
