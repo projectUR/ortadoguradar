@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776201962999910ah",
+        "title": "Gazze'deki Mülteci Kampına İsrail Saldırısı: Çok Sayıda Ölü",
+        "summary": "Gazze Şeridi'nde bulunan Shati mülteci kampına İsrail tarafından hava saldırısı düzenlendiği bildirildi. Saldırıda çok sayıda kişinin hayatını kaybettiği belirtilirken, Filistinli kaynaklar kurbanların tıbbi tesislere sevk edildiğini kaydetti. Bölgedeki gerilimin devam ettiği ve saldırının ardından can kaybı ile yaralı sayısının artmasından endişe edildiği ifade edildi. Olay, Orta Doğu'daki çatışma ve güvenlik durumunu bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T21:26:02.999Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Shati Mülteci Kampı, Gazze"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1776202031667thqmy",
+        "title": "Hamas, Gazze'nin Silahsızlandırılması Planını Reddetti",
+        "summary": "Hamas, Gazze'nin silahsızlandırılmasına yönelik bir planı reddettiğini açıkladı. Bir Filistinli yetkili BBC'ye yaptığı açıklamada, silahlı grubun İsrail'in taahhütlerine tam olarak uymadığı sürece müzakerelere devam etmeyeceğini belirtti. Bu ret, İsrail ile Filistin arasındaki gerilimi daha da artırırken, bölgedeki barış çabalarını olumsuz etkileyebilir. Hamas'ın bu duruşu, Gazze'deki mevcut siyasi ve güvenlik çıkmazını derinleştiriyor ve gelecekteki olası anlaşmaları zorlaştırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640438/pexels-photo-7640438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T21:27:11.667Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1776202132564vgo58",
+        "title": "BM Genel Sekreteri Hürmüz Boğazı'nda seyrüsefer haklarına ve özgürlüğüne saygı çağrısı yaptı",
+        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, küresel ticaret için hayati önem taşıyan Hürmüz Boğazı'nda seyrüsefer haklarına ve özgürlüğüne saygı gösterilmesi çağrısında bulundu. Guterres, barış anlaşmalarının kalıcı bağlılık ve siyasi irade gerektirdiğini vurgulayarak, bölgedeki gerilimlerin azaltılmasına yönelik diplomatik çabaların önemine dikkat çekti. Bu açıklama, Basra Körfezi ile Umman Denizi'ni birbirine bağlayan ve dünya petrol taşımacılığının önemli bir kısmının geçtiği bu stratejik su yolundaki güvenlik endişelerinin arttığı bir dönemde geldi. BM Genel Sekreteri'nin bu çağrısı, uluslararası hukuka uygunluğun ve bölgesel istikrarın korunması yönündeki küresel beklentileri yansıtmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T21:28:52.564Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/world/un-chief-urges-respect-for-navigational-rights-freedom-in-strait-of-hormuz/3905627",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17761972391552ow0a",
         "title": "ABD'ye yönelik küresel bakış açıları neden kötüleşiyor?",
         "summary": "ABD'nin uluslararası arenadaki konumu ve küresel itibarı, İran'a karşı başlatılan bir savaşın ardından ve ülkeye yönelik olumsuz görüşlerin yıllardır kötüleşmesi bağlamında tartışılıyor. Haber, ABD'nin dünya genelindeki algısının neden düşüşte olduğunu ve bu durumun arkasındaki nedenleri analiz ediyor. Bu düşüşün diplomatik ve jeopolitik sonuçları üzerinde duruluyor. Analiz, ABD'nin dış politikasının küresel kamuoyundaki yansımalarını inceliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/kidney-patients-in-gaza-demand-treatment-abroad-amid-drug-shortage-israeli-assault/3902778",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1775988477742k0akq",
-        "title": "Londra'daki Filistin Eylemi mitinginde 500'den fazla kişi gözaltına alındı",
-        "summary": "Londra'da düzenlenen Filistin yanlısı bir mitingde 500'den fazla kişi gözaltına alındı. Trafalgar Meydanı'nda gerçekleşen eylemde, protesto organizatörleri Birleşik Krallık hükümetini Gazze'deki soykırıma ortak olmakla suçladı. Yüksek sayıda gözaltı, Birleşik Krallık'ta İsrail-Filistin çatışmasına yönelik kamuoyu tepkisinin ve sivil toplum hareketlerinin devam ettiğini gösteriyor. Bu olay, Orta Doğu'daki gelişmelerin uluslararası arenadaki yansımalarını ve insan hakları odaklı protestoları gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4547605/pexels-photo-4547605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T10:07:57.742Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/4/12/uk-police-arrest-523-during-pro-palestinian-demonstration-in-london?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775988538306ii1qv",
-        "title": "Aşırı sağcı İsrailli bakan, Kudüs'teki Mescid-i Aksa'ya yeniden baskın düzenledi",
-        "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Kudüs'teki Mescid-i Aksa yerleşkesine ağır polis koruması altında yeniden bir baskın düzenledi. Bu olay, bölgedeki gerilimi artırma potansiyeli taşıyor. Ben-Gvir'in daha önceki benzer ziyaretleri de Filistinliler ve uluslararası toplum tarafından kınanmıştı. Mescid-i Aksa, Müslümanlar için üçüncü en kutsal yer olup, Yahudiler tarafından da Tapınak Tepesi olarak kabul edilmektedir. Bu tür eylemler, ibadet edenlere yönelik devam eden kısıtlamalarla birlikte bölgedeki hassas durumu daha da karmaşık hale getirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7744325/pexels-photo-7744325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T10:08:58.306Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/extremist-israeli-minister-storms-jerusalem-s-al-aqsa-mosque-again-amid-ongoing-restrictions-on-worshippers/3902741",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "177598856042756vdl",
-        "title": "İran Meclis Başkanı: ABD Tahran ile güven inşa etme konusunda karar vermeli",
-        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin Tahran ile güven inşa etme konusunda bir karar vermesi gerektiğini dile getirdi. Kalibaf, İslamabad'daki görüşmelerin bir anlaşma sağlanamadan sona ermesinin ardından yaptığı açıklamada, İran'ın diplomasi ile gücü birleştiren bir strateji izleyeceğini belirtti. Bu açıklama, İran'ın uluslararası arenadaki duruşunu ve ABD ile olan ilişkilerindeki gerilimi yansıtıyor. Tahran yönetimi, dış politikasında hem diplomatik kanalları kullanmaya hem de caydırıcılık unsurlarını korumaya devam edeceğinin sinyalini verdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6949994/pexels-photo-6949994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T10:09:20.427Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/irans-parliament-speaker-says-us-must-decide-whether-to-build-trust-with-tehran/3902736",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
