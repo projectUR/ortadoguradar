@@ -755,12 +755,23 @@ function renderSocialFeed(posts) {
         if (post.comments && post.comments.length > 0) {
             commentsHTML = `<div class="post-comments" style="margin-top: 15px; padding: 12px; background: rgba(0,0,0,0.25); border-radius: 8px; border: 1px solid #222;">`;
             post.comments.forEach(cmt => {
-                commentsHTML += `
-                    <div style="margin-bottom: 10px; border-bottom: 1px solid #1a1a1a; padding-bottom: 8px; font-size: 0.92rem;">
-                        <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
-                        <span style="color: #ddd;">${cmt.text}</span>
-                    </div>`;
-            });
+    commentsHTML += `
+        <div style="margin-bottom: 10px; border-bottom: 1px solid #1a1a1a; padding-bottom: 8px;">
+            <div style="font-size: 0.92rem;">
+                <strong style="color: var(--accent-blue);">@${cmt.author}:</strong> 
+                <span style="color: #ddd;">${cmt.text}</span>
+            </div>
+            
+            <div style="display: flex; gap: 15px; margin-top: 5px; padding-left: 5px;">
+                <button onclick="handleCommentLike('${post.id}', '${cmt.id}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem; display:flex; align-items:center; gap:4px;">
+                    <i class="fa-regular fa-heart"></i> <span>${cmt.likes || 0}</span>
+                </button>
+                <button onclick="handleCommentReply('${post.id}', '${cmt.author}')" style="background:none; border:none; color:#555; cursor:pointer; font-size:0.8rem;">
+                    <i class="fa-solid fa-reply"></i> Yanıtla
+                </button>
+            </div>
+        </div>`;
+});
             commentsHTML += `</div>`;
         }
 
@@ -829,25 +840,32 @@ window.handleQuote = async function(newsId, quotedId = null) {
 };
 
 // --- 5. BULUTA YORUM KAYDETME ---
-window.handleComment = async function(postId) {
+window.handleComment = async function(postId, manualText = null) {
     if (!checkAuthAction("Yorum Yapma")) return;
-    const userComment = prompt("Yorumun nedir kral?");
-    if (!userComment) return;
+    
+    // Eğer dışarıdan metin gelmediyse (yanıtla değilse) prompt aç
+    const userComment = manualText || prompt("Yorumun nedir kral?");
+    if (!userComment || userComment.trim() === "") return;
 
     const currentUser = localStorage.getItem('currentUser');
     const postRef = db.collection("posts").doc(postId);
     
-    const doc = await postRef.get();
-    if (doc.exists) {
-        const comments = doc.data().comments || [];
-        comments.push({
-            id: 'cmt_' + Date.now(),
-            author: currentUser,
-            text: userComment,
-            timestamp: new Date().toISOString()
-        });
-        await postRef.update({ comments: comments });
-        fetchRadarPosts();
+    try {
+        const doc = await postRef.get();
+        if (doc.exists) {
+            const comments = doc.data().comments || [];
+            comments.push({
+                id: 'cmt_' + Date.now(),
+                author: currentUser,
+                text: userComment,
+                likes: 0, // Yeni yorum sıfır beğeniyle başlar
+                timestamp: new Date().toISOString()
+            });
+            await postRef.update({ comments: comments });
+            fetchRadarPosts();
+        }
+    } catch (e) {
+        console.error("Yorum kaydedilemedi:", e);
     }
 };
 
@@ -914,3 +932,42 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+// --- YORUM BEĞENİ FONKSİYONU ---
+window.handleCommentLike = async function(postId, commentId) {
+    if (!checkAuthAction("Yorum Beğeni")) return;
+
+    const postRef = db.collection("posts").doc(postId);
+    try {
+        const doc = await postRef.get();
+        if (doc.exists) {
+            let comments = doc.data().comments || [];
+            // İlgili yorumu bul ve beğenisini 1 artır
+            comments = comments.map(cmt => {
+                if (cmt.id === commentId) {
+                    return { ...cmt, likes: (cmt.likes || 0) + 1 };
+                }
+                return cmt;
+            });
+
+            await postRef.update({ comments: comments });
+            fetchRadarPosts(); // Ekranda sayıyı güncellemek için akışı tazele
+        }
+    } catch (e) {
+        console.error("Yorum beğenisi işlenemedi:", e);
+    }
+};
+
+// --- YORUM YANITLAMA (ETİKETLEME) ---
+window.handleCommentReply = function(postId, targetAuthor) {
+    if (!checkAuthAction("Yanıt verme")) return;
+    
+    // Yanıt penceresini açarken @etiketini otomatik yazıyoruz
+    const replyPrefix = `@${targetAuthor} `;
+    const userComment = prompt(`@${targetAuthor} kullanıcısına yanıtın nedir kral?`, replyPrefix);
+    
+    // Eğer boşsa veya sadece @etiket duruyorsa iptal et
+    if (!userComment || userComment.trim() === replyPrefix.trim()) return;
+
+    // Güncellediğimiz handleComment'i hazır metinle çağır
+    window.handleComment(postId, userComment);
+};
