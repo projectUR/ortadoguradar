@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776175557107es1k5",
+        "title": "Sudan'daki Savaş Üçüncü Yılında Hala Yanlış Anlaşılıyor",
+        "summary": "Sudan'da devam eden savaşın üçüncü yıl dönümü olan 15 Nisan 2026 tarihi yaklaşırken, çatışmanın hala tam olarak anlaşılamadığı belirtiliyor. Üç yıl önce patlak veren bu iç savaş, ülkenin siyasi ve sosyal yapısında derin yaralar açtı. Uluslararası toplumun ve bölgesel aktörlerin çabalarına rağmen, çatışmanın kökenleri, dinamikleri ve çözüm yolları konusundaki belirsizlikler devam ediyor. Uzmanlar, savaşın karmaşık yapısının ve çok boyutlu etkilerinin yeterince kavranamamasının, barış süreçlerini olumsuz etkilediğini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33436818/pexels-photo-33436818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T14:05:57.107Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.6,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/africa-now/2026/4/14/sudans-war-still-misunderstood-after-three-years?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1776175602047g0tpm",
+        "title": "İsrail, Lübnan ile Barış ve Normalleşme İstiyor",
+        "summary": "İsrail Dışişleri Bakanı Gideon Saar, İsrail'in Lübnan ile \"barış ve normalleşme\" sağlamak istediğini açıkladı. Bakan Saar, bu isteğin İsrail'in dış politika hedefleri arasında yer aldığını vurguladı. Uzun yıllardır süregelen gerilim ve zaman zaman yaşanan çatışmaların ardından gelen bu açıklama, bölgedeki diplomatik çevrelerde dikkatle izleniyor. İsrail'in bu yöndeki adımlarının, Orta Doğu'da istikrar arayışlarına katkıda bulunabileceği belirtiliyor. Lübnan'dan ise bu açıklamaya ilişkin henüz resmi bir yanıt gelmediği kaydedildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6674033/pexels-photo-6674033.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T14:06:42.047Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israel-wants-to-reach-peace-and-normalisation-with?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1776167948531kb5y5",
         "title": "Hürmüz Boğazı'nı Kim Kontrol Ediyor?",
         "summary": "Hürmüz Boğazı'nın kontrolü ve erişim şartları üzerine süregelen mücadele, ABD'nin boğazı engelleme hamlesiyle yeni bir boyut kazandı. Dünya petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolu, küresel enerji güvenliği açısından hayati öneme sahip. ABD'nin bu adımı, bölgedeki güç dengeleri ve uluslararası denizcilik hukuku üzerindeki tartışmaları alevlendirerek gerilimi artırdı. Taraflar arasında boğazın kullanımına ilişkin yaşanan bu gerilimler, Orta Doğu'daki jeopolitik rekabetin ve stratejik çıkarların bir yansıması olarak değerlendiriliyor.",
@@ -764,38 +796,6 @@
             "name": "Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/saudi-energy-facilities-east-west-pipeline-recover-after-attacks-restore-operational-capacity/3902615",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775981183024vmlgg",
-        "title": "Suudi Arabistan'da Şiddetli Yağışlar ve Seller Nedeniyle Okullar Tatil Edildi",
-        "summary": "Suudi Arabistan'ın başkenti Riyad'ı etkisi altına alan şiddetli yağışlar ve seller nedeniyle yüz yüze eğitime ara verildi. Ülke genelinde etkili olan olumsuz hava koşulları, günlük yaşamı ve ulaşımı olumsuz etkiledi. Hava durumu yetkilileri, şiddetli koşulların Pazar gününe kadar krallığın bazı bölgelerinde devam edeceği uyarısında bulundu. Bu durum karşısında yetkililer, vatandaşları dikkatli olmaya ve gerekli önlemleri almaya çağırdı.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/14823609/pexels-photo-14823609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T08:06:23.024Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6062,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-suspends-in-person-classes-after-torrential-rains-floods-hit-riyadh/3902492",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1775976882203lotcc",
-        "title": "Pakistan, görüşmelerin ardından ABD ve İran'ı ateşkese uymaya çağırdı",
-        "summary": "Pakistan Dışişleri Bakanı Ishaq Dar, ABD ve İran'ın ateşkes anlaşmalarına uymaları gerektiğini vurguladı. Bakan Dar'ın bu açıklaması, iki ülke arasındaki görüşmelerin sona ermesinin ardından geldi. Pakistan, tarafları mevcut mutabakatı sürdürmeye davet ederek, Orta Doğu'daki gerilimin düşürülmesi ve bölgesel istikrarın korunması yönündeki diplomatik çabalara destek verdiğini gösterdi. Bu çağrı, bölgedeki hassas dengeler açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32274668/pexels-photo-32274668.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T06:54:42.203Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
