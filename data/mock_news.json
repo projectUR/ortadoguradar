@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776186869873i5h3j",
+        "title": "Sudan'da Üç Yıllık Savaşın Ardından Durum Ne?",
+        "summary": "Sudan'da üç yıldır devam eden savaş, milyonlarca insanın yerinden edilmesine ve binlerce kişinin hayatını kaybetmesine neden oldu. Ülkede süregelen şiddetin yakın zamanda sona ereceğine dair net bir işaret bulunmuyor. İnsani kriz derinleşirken, uluslararası toplumun çabaları henüz kalıcı bir çözüm getiremedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-14T17:14:29.873Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5599,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/14/after-three-years-of-war-what-is-the-situation-like-in-sudan?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1776175557107es1k5",
         "title": "Sudan'daki Savaş Üçüncü Yılında Hala Yanlış Anlaşılıyor",
         "summary": "Sudan'da devam eden savaşın üçüncü yıl dönümü olan 15 Nisan 2026 tarihi yaklaşırken, çatışmanın hala tam olarak anlaşılamadığı belirtiliyor. Üç yıl önce patlak veren bu iç savaş, ülkenin siyasi ve sosyal yapısında derin yaralar açtı. Uluslararası toplumun ve bölgesel aktörlerin çabalarına rağmen, çatışmanın kökenleri, dinamikleri ve çözüm yolları konusundaki belirsizlikler devam ediyor. Uzmanlar, savaşın karmaşık yapısının ve çok boyutlu etkilerinin yeterince kavranamamasının, barış süreçlerini olumsuz etkilediğini vurguluyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17759811466186p0k8",
-        "title": "Suudi enerji tesisleri ve Doğu-Batı boru hattı saldırıların ardından operasyonel kapasitesini geri kazandı",
-        "summary": "Suudi Arabistan'daki enerji tesisleri ve ülkenin stratejik Doğu-Batı boru hattı, yakın zamanda meydana gelen saldırıların ardından operasyonel kapasitelerini tamamen geri kazandı. Saldırılar nedeniyle birçok tesiste faaliyetler geçici olarak durdurulmuştu. Yetkililer, gerekli onarım ve güvenlik önlemlerinin alınmasının ardından tüm operasyonların normale döndüğünü duyurdu. Bu gelişme, ülkenin kritik enerji altyapısının dayanıklılığını ve hızlı toparlanma yeteneğini vurgulamaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16862261/pexels-photo-16862261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T08:05:46.618Z",
-        "location": {
-            "lat": 25,
-            "lng": 45,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-energy-facilities-east-west-pipeline-recover-after-attacks-restore-operational-capacity/3902615",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
