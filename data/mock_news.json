@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776255116447lky45",
+        "title": "İsrail'in ABD Büyükelçisi ve Lübnanlı Mevkidaşı Arasında Görüşmeler Gerçekleşti",
+        "summary": "İsrail'in ABD Büyükelçisi Yechiel Leiter, Lübnanlı mevkidaşı ile bir araya gelerek diplomatik görüşmelerde bulundu. Bu temaslar, iki komşu Orta Doğu ülkesi arasındaki ilişkiler açısından önem taşıyor. Ancak, Büyükelçi Leiter'ın eleştirmenler tarafından 'sorunlu bir müzakereci' olarak nitelendirilmesi, görüşmelerin geleceği hakkında soru işaretleri yaratıyor. Leiter'ın müzakere yeteneği ve geçmişi, diplomatik çevrelerde tartışma konusu olmaya devam ediyor ve bu durum, bölgesel diyalogların seyrini etkileyebilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7643756/pexels-photo-7643756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T12:11:56.447Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/what-you-need-to-know-about-israels-ambassador-to-the-us?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17762513724963p1ud",
         "title": "İtalya, İsrail ile 20 Yıllık Savunma Anlaşmasını Askıya Aldı",
         "summary": "İtalya, İsrail ile yirmi yıldır devam eden bir savunma anlaşmasının yenilenmesini askıya alma kararı aldı. Bu karar, iki ülke arasındaki son dönemde yaşanan gerilimlerin ardından geldi. Anlaşmanın askıya alınması, İtalya'nın İsrail ile olan savunma işbirliğinde önemli bir değişikliğe işaret ediyor. Kararın bölgesel ve uluslararası ilişkiler üzerindeki potansiyel etkileri yakından takip ediliyor.",
@@ -780,22 +796,6 @@
             "name": "Suriye"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776088106565x8tch",
-        "title": "Lübnan ve İsrail Yetkilileri Salı Günü ABD'de Buluşacak",
-        "summary": "Lübnan ve İsrail'den yetkililerin Salı günü Amerika Birleşik Devletleri'nde bir araya gelmesi planlanıyor. Bu görüşme, iki ülke arasındaki ilişkiler ve bölgesel dinamikler açısından önem taşıyor. Daha önce üst düzey bir Lübnanlı yetkili, BBC'ye yaptığı açıklamada, Lübnan'ın bu tür görüşmelere ancak bir ateşkesin sağlanması halinde katılacağını belirtmişti. Bu açıklama, toplantının potansiyel gündemine ve Lübnan'ın önceliklerine dair önemli bir koşul sunuyor. Toplantının ABD'de gerçekleşecek olması, Washington'ın arabuluculuk rolüne işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433840/pexels-photo-7433840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T13:48:26.565Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., Amerika Birleşik Devletleri"
-        },
-        "source": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
