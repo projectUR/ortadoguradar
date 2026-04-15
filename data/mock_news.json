@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776262245541dnm2z",
+        "title": "İran'ın Dondurulmuş Varlıkları ve ABD ile Müzakereler",
+        "summary": "İran, ABD ile yürütülen müzakereler kapsamında dondurulmuş varlıklarının serbest bırakılmasını talep ediyor. Toplam değeri 100 milyar dolar civarında olduğu belirtilen bu varlıklar, Tahran yönetiminin ülkenin yıpranmış ekonomisini yeniden inşa etme çabalarına önemli katkı sağlayabilir. Varlıkların serbest bırakılması konusu, iki ülke arasındaki diplomatik görüşmelerin ana gündem maddelerinden birini oluşturuyor. Bu adımın, İran ekonomisi üzerindeki uluslararası yaptırımların etkilerini hafifletmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12198529/pexels-photo-12198529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T14:10:45.541Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/15/what-are-irans-100bn-in-frozen-assets-and-where-are-they-held?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1776262283034wcag6",
+        "title": "Türkiye'de İki Günde İkinci Okul Saldırısında Dört Kişi Hayatını Kaybetti",
+        "summary": "Türkiye'nin güney-orta kesiminde yer alan Kahramanmaraş ilinde bir okulda silahlı saldırı meydana geldi. Valilikten yapılan açıklamaya göre, olayda üç öğrenci ve bir öğretmen hayatını kaybetti. Bu saldırı, Türkiye'de son iki gün içinde yaşanan ikinci okul saldırısı olarak kayıtlara geçti. Güvenlik güçleri olayla ilgili geniş çaplı bir soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8419516/pexels-photo-8419516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T14:11:23.034Z",
+        "location": {
+            "lat": 37.5833,
+            "lng": 36.9333,
+            "name": "Kahramanmaraş, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/15/four-killed-in-turkiyes-second-school-shooting-in-two-days?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
+        "id": "1776262397326hzhiv",
+        "title": "Washington, İran ateşkes uzatmasına henüz resmi olarak onay vermedi: ABD yetkilisi",
+        "summary": "ABD'li bir yetkili, Washington'ın İran ile ilgili bir ateşkesin uzatılmasına henüz resmi olarak onay vermediğini bildirdi. Anadolu Ajansı'na konuşan üst düzey yetkili, ABD ile İran arasında bir anlaşmaya varılması için görüşmelerin devam ettiğini belirtti. Bu durum, iki ülke arasındaki diplomatik çabaların sürdüğünü ve bölgesel bir çatışmanın çözümüne yönelik potansiyel adımları işaret ediyor. Görüşmelerin amacı, taraflar arasında kalıcı bir uzlaşmaya ulaşmak olarak ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T14:13:17.326Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/washington-yet-to-formally-agree-to-iran-ceasefire-extension-us-official/3906651",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776255116447lky45",
         "title": "İsrail'in ABD Büyükelçisi ve Lübnanlı Mevkidaşı Arasında Görüşmeler Gerçekleşti",
         "summary": "İsrail'in ABD Büyükelçisi Yechiel Leiter, Lübnanlı mevkidaşı ile bir araya gelerek diplomatik görüşmelerde bulundu. Bu temaslar, iki komşu Orta Doğu ülkesi arasındaki ilişkiler açısından önem taşıyor. Ancak, Büyükelçi Leiter'ın eleştirmenler tarafından 'sorunlu bir müzakereci' olarak nitelendirilmesi, görüşmelerin geleceği hakkında soru işaretleri yaratıyor. Leiter'ın müzakere yeteneği ve geçmişi, diplomatik çevrelerde tartışma konusu olmaya devam ediyor ve bu durum, bölgesel diyalogların seyrini etkileyebilir.",
@@ -748,54 +796,6 @@
             "name": "Suriye"
         },
         "source": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776098681691m1psp",
-        "title": "İran'da Son On Yılların En Yüksek İnfaz Sayısı Gerçekleşti",
-        "summary": "Uluslararası kuruluşlar, İran'da son on yılların en yüksek infaz sayısının kaydedildiğini bildirdi. Ülke genelinde bu yılın başlarında yaşanan hükümet karşıtı protestoların ardından çok daha fazla kişinin idam edilebileceği konusunda uyarılar yapılıyor. İnsan hakları örgütleri, özellikle protestolarla bağlantılı davalarda verilen idam cezalarının artmasından endişe duyuyor. Bu durum, İran'daki insan hakları durumuyla ilgili uluslararası kaygıları artırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8353836/pexels-photo-8353836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T16:44:41.691Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776093501314l5ssf",
-        "title": "Trump'ın Hürmüz'ü abluka tehdidi: Neden son büyük tırmanış?",
-        "summary": "ABD Başkanı Trump'ın Hürmüz Boğazı'nı abluka altına alma tehdidi, bölgedeki gerilimi önemli ölçüde artırdı. Analistler, Washington'ın bu adımının ABD ile İran arasındaki kırılgan ateşkesi olumsuz etkileyebileceği konusunda uyarılarda bulunuyor. Bu tehdit, iki ülke arasındaki mevcut hassas dengeyi bozma potansiyeli taşıyor. Hürmüz Boğazı, küresel petrol ticareti için stratejik bir geçiş noktası olması nedeniyle, olası bir ablukanın geniş çaplı sonuçları olabileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30292757/pexels-photo-30292757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T15:18:21.314Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Umman/İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776088039167dyjid",
-        "title": "Çimento Şirketi Lafarge, Suriye'deki Terör Finansmanı Davasında Suçlu Bulundu",
-        "summary": "Fransız mahkemesi, çimento devi Lafarge'ı Suriye'deki iç savaş sırasında silahlı grupları finanse etmekten suçlu buldu. Şirket, Suriye'deki faaliyetlerini sürdürebilmek amacıyla terör örgütlerine ödeme yapmakla itham ediliyordu. Bu karar, uzun süredir devam eden hukuki sürecin bir sonucu olarak geldi ve Lafarge'ın Suriye'deki çimento fabrikasını işletmeye devam etmek için IŞİD ve diğer gruplarla anlaşmalar yaptığı iddialarını doğruladı. Mahkeme kararı, uluslararası şirketlerin çatışma bölgelerindeki sorumlulukları konusunda önemli bir emsal teşkil ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36798303/pexels-photo-36798303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T13:47:19.167Z",
-        "location": {
-            "lat": 34.802075,
-            "lng": 38.996815,
-            "name": "Suriye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/13/cement-company-lafarge-found-guilty-in-syria-terrorism-financing-case?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
