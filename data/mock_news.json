@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776224941415bofmw",
+        "title": "İsrail ve Lübnan On Yıllar Sonra İlk Kez Doğrudan Görüşmeler Gerçekleştirdi",
+        "summary": "İsrail ve Lübnan, on yıllardır ilk kez doğrudan görüşmeler gerçekleştirdi. Bu tarihi görüşmelerin ardından, iki ülke müzakerelere başlama konusunda mutabakata vardı. Söz konusu müzakerelerin, iki komşu ülke arasındaki çeşitli konuları ele alması bekleniyor. Bu gelişme, bölgedeki diplomatik ilişkiler açısından önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868979/pexels-photo-7868979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T03:49:01.415Z",
+        "location": {
+            "lat": 33.09,
+            "lng": 35.1,
+            "name": "Naqoura, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776224995913ktwxn",
+        "title": "ABD Başkanı Trump: İran'a Yönelik Hürmüz Ablukası Sürerken Savaş \"Bitmek Üzere\"",
+        "summary": "ABD Başkanı Donald Trump, İran limanlarına yönelik deniz ablukasının devam ettiğini ve savaşın \"bitmek üzere\" olduğunu belirtti. Trump, İran ile ikinci tur müzakerelerin Pakistan'da gerçekleştirilebileceğini dile getirdi. Bu açıklamalar, Hürmüz Boğazı'ndaki gerilimin sürdüğü bir dönemde geldi. Bölgedeki deniz ablukası, İran'ın uluslararası ticaretini ve enerji sevkiyatını doğrudan etkiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15599632/pexels-photo-15599632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T03:49:55.913Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1776225053643av7j2",
+        "title": "10 ülke, kötüleşen krizde Lübnan'daki yardım görevlilerinin korunması çağrısı yaptı",
+        "summary": "Kanada, Birleşik Krallık ve diğer ülkelerin yer aldığı 10 ülke, Lübnan'da kötüleşen insani kriz ortamında yardım görevlilerinin korunması için ortak bir çağrıda bulundu. Ülkeler, yaptıkları ortak açıklamada, Birleşmiş Milletler barış güçlerini öldüren eylemleri en güçlü şekilde kınadıklarını belirtti. Bu çağrı, bölgedeki güvenlik durumunun ve insani yardım operasyonlarının karşı karşıya kaldığı zorlukların altını çiziyor. Açıklamada, uluslararası hukuka uygun olarak insani yardım çalışanlarının ve barış güçlerinin güvenliğinin sağlanmasının önemi vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6646902/pexels-photo-6646902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T03:50:53.643Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/10-countries-urge-protection-of-aid-workers-in-lebanon-amid-worsening-crisis/3905806",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1776201962999910ah",
         "title": "Gazze'deki Mülteci Kampına İsrail Saldırısı: Çok Sayıda Ölü",
         "summary": "Gazze Şeridi'nde bulunan Shati mülteci kampına İsrail tarafından hava saldırısı düzenlendiği bildirildi. Saldırıda çok sayıda kişinin hayatını kaybettiği belirtilirken, Filistinli kaynaklar kurbanların tıbbi tesislere sevk edildiğini kaydetti. Bölgedeki gerilimin devam ettiği ve saldırının ardından can kaybı ile yaralı sayısının artmasından endişe edildiği ifade edildi. Olay, Orta Doğu'daki çatışma ve güvenlik durumunu bir kez daha gündeme getirdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776000035085mfsef",
-        "title": "ABD-İran ateşkes görüşmeleri: Temel anlaşmazlık noktaları neler?",
-        "summary": "ABD ile İran arasında devam eden ateşkes görüşmeleri, taraflar arasındaki derin anlaşmazlıkları bir kez daha ortaya koydu. İki haftalık ateşkes süresince yürütülen müzakereler, beklenen ilerlemeyi sağlayamayarak bölgedeki belirsizliği artırdı. Görüşmelerdeki temel anlaşmazlık noktaları, ateşkesin kalıcılığı ve bölgesel güvenlik üzerindeki etkileri konusunda endişelere yol açıyor. Tarafların uzlaşma sağlamakta zorlanması, Orta Doğu'daki gerilimin devam etme riskini canlı tutuyor. Bu durum, ABD-İran ilişkilerinin karmaşıklığını ve bölgesel istikrarın kırılganlığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7792841/pexels-photo-7792841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T13:20:35.085Z",
-        "location": {
-            "lat": 29,
-            "lng": 48,
-            "name": "Bölgesel"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776000104044l0e5o",
-        "title": "İran görüşmeleri çıkmaza girerken, Trump'ın sonraki adımı bekleniyor",
-        "summary": "İran ile yürütülen görüşmelerin bir anlaşmayla sonuçlanmamasının ardından dünya, ABD Başkanı Trump'ın sonraki adımlarını merakla bekliyor. BBC muhabiri Lyse Doucet'in haberine göre, müzakerelerin çıkmaza girmesiyle birlikte Trump yönetiminin İran'a yönelik politikalarında gerilimi artırma veya yeni bir müzakere sürecine girme seçenekleri masada bulunuyor. Bu durum, Orta Doğu'daki diplomatik dengeler ve bölgesel güvenlik dinamikleri açısından kritik bir dönemeç olarak değerlendiriliyor. Uluslararası toplum, Washington'dan gelecek kararın bölge üzerindeki potansiyel etkilerini yakından takip ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7256463/pexels-photo-7256463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T13:21:44.044Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1775992137290i7u2h",
-        "title": "Gazze'deki Böbrek Hastaları İlaç Kıtlığı ve İsrail Saldırıları Ortasında Yurt Dışında Tedavi Talep Ediyor",
-        "summary": "Gazze Şeridi'nin orta kesimindeki Deyr el-Balah'ta bir grup böbrek hastası, ilaç kıtlığı ve devam eden İsrail saldırıları nedeniyle tedaviye erişim sorunlarına dikkat çekmek amacıyla protesto gösterisi düzenledi. Hastalar, uluslararası topluma seslenerek yaşadıkları acıların sona erdirilmesini ve hayati önem taşıyan tedavilerini alabilmek için yurt dışına seyahat etmelerine izin verilmesini talep etti. Bölgedeki sağlık altyapısının ciddi şekilde zarar görmesi ve tıbbi malzeme eksikliği, böbrek hastaları başta olmak üzere birçok kronik hastanın durumunu kritik hale getiriyor. Bu eylem, Gazze'deki insani krizin derinleşen boyutlarını ve sağlık hizmetlerine erişimdeki zorlukları bir kez daha gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36038711/pexels-photo-36038711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-12T11:08:57.290Z",
-        "location": {
-            "lat": 31.4167,
-            "lng": 34.3417,
-            "name": "Deyr el-Balah, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/kidney-patients-in-gaza-demand-treatment-abroad-amid-drug-shortage-israeli-assault/3902778",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
