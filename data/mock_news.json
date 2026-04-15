@@ -1,5 +1,69 @@
 [
     {
+        "id": "1776247042495ws783",
+        "title": "Fransa'da Gözaltına Alınan İran Vatandaşı Ülkesine Döndü",
+        "summary": "Fransa'da Filistin yanlısı yorumları nedeniyle gözaltına alınan İran vatandaşı Mahdieh Esfandiari, ülkesine geri döndü. Bu gelişme, İran'ın casusluk suçlamasıyla tutuklu bulunan iki Fransız vatandaşını serbest bırakmasından bir hafta sonra gerçekleşti. Karşılıklı vatandaş serbest bırakmaları, Tahran ile Paris arasındaki diplomatik ilişkilerde bir yumuşama işareti olarak yorumlanıyor. Olay, iki ülke arasındaki gerilimi azaltma potansiyeli taşıyan önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T09:57:22.495Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/15/iran-citizen-held-in-france-over-pro-palestine-comments-returns-state-tv?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17762470839984mcqv",
+        "title": "Filistinli lider Barghouti İsrail hapishanelerinde 'şiddetli' saldırılara maruz kalıyor",
+        "summary": "Filistinli lider Mervan Barghouti'nin İsrail hapishanelerinde \"şiddetli\" saldırılara maruz kaldığı bildirildi. Gelen son raporlar, Barghouti'nin cezaevinde kötü muamele gördüğünü ve fiziksel şiddete uğradığını ortaya koyuyor. Geçtiğimiz yıl yaşanan bir saldırıda kaburgalarının kırıldığı ve kafa travması geçirdiği belirtilmişti. Bu yeni raporlar, Barghouti'ye yönelik şiddetin devam ettiğini ve cezaevi koşullarının endişe verici boyutlara ulaştığını gösteriyor. Durum, uluslararası insan hakları örgütlerinin dikkatini çekmeye devam ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6069341/pexels-photo-6069341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T09:58:03.998Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/15/palestinian-leader-barghouti-endures-violent-assaults-in-israeli-prisons?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17762471060807ihq9",
+        "title": "'Yemek birleştiriyor': Lübnan'daki göçmenler savaş mağdurlarını nasıl besliyor?",
+        "summary": "Lübnan'da genellikle göz ardı edilen göçmen topluluğu, devletin eksiklerini doldurarak savaş mağdurlarını besleme görevini üstleniyor. Ülke içinde yerinden edilmiş kişilere yönelik devlet desteğinin yetersiz kaldığı bir dönemde, göçmenler kendi imkanlarıyla dayanışma ağları kuruyor. Bu çabalar, özellikle zorlu ekonomik koşullar altında yaşam mücadelesi veren yerinden edilmiş topluluklar için hayati önem taşıyor. Göçmenlerin bu insani yardımları, Lübnan toplumunda derinleşen sosyal ve ekonomik sorunlara dikkat çekiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6646882/pexels-photo-6646882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T09:58:26.080Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/15/food-is-unifying-how-lebanons-migrants-are-feeding-the-war-displaced?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17762471283135k1lx",
+        "title": "Sudan'da Milyonlarca Kişi Yerinden Edilme ve Açlıkla Mücadele Ediyor",
+        "summary": "Sudan'da dokuz milyondan fazla kişi yerinden edilmiş durumda bulunuyor. Ülke genelinde yaklaşık 29 milyon kişi ise akut açlık tehlikesiyle karşı karşıya. Yıllardır süren bu insani kriz, Sudan genelindeki ailelerin yaşam koşullarını derinden etkiliyor. Yerinden edilme ve gıda güvensizliği, milyonlarca kişinin temel ihtiyaçlara erişimini zorlaştırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17067104/pexels-photo-17067104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-15T09:58:48.313Z",
+        "location": {
+            "lat": 15,
+            "lng": 32,
+            "name": "Sudan"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/4/15/sudan-families-endure-years-of-displacement-hunger-and-unimaginable-loss?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1776240824092lmzfa",
         "title": "ABD-İran Gerilimi: Trump'tan Yeni Görüşme Sinyali",
         "summary": "ABD Başkanı Donald Trump, önümüzdeki günlerde İran ile olası ikinci tur görüşmelerin sinyalini verdi. Bu açıklama, iki ülke arasındaki mevcut gerilimin 47. gününde geldi ve diplomatik çözüm arayışlarına dair yeni bir umut ışığı yaktı. Washington ile Tahran arasındaki ilişkilerde son dönemde yaşanan tırmanışın ardından, potansiyel müzakereler uluslararası kamuoyunun dikkatini çekiyor. Söz konusu görüşmelerin formatı ve gündemi hakkında henüz detay verilmezken, bu gelişme bölgedeki tansiyonu düşürme potansiyeli taşıyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1776075567391pce5j",
-        "title": "İşgal Altındaki Batı Şeria Köyünde İsrailli Yerleşimci Saldırısında Filistinli Vurularak Öldürüldü",
-        "summary": "İşgal altındaki Batı Şeria'da, İsrailli yerleşimcilerin düzenlediği bir saldırı sırasında bir Filistinli vurularak hayatını kaybetti. Bu olay, bölgedeki gerilimi tırmandırırken, İsrail'in eski güvenlik şeflerinden önemli uyarılar geldi. Eski güvenlik yetkilileri, \"hükümet destekli Yahudi terörünün\" kontrol dışına çıktığı konusunda ciddi endişelerini dile getirdi. Bu durum, İsrail-Filistin çatışmasında yerleşimci şiddetinin artan rolünü ve bu şiddetin potansiyel devlet bağlantılarını yeniden tartışmaya açtı. Olay, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T10:19:27.391Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17760756261724pfl3",
-        "title": "İran'dan ABD ablukası sonrası 'Körfez ve Umman Denizi'ndeki hiçbir liman güvende olmayacak' uyarısı",
-        "summary": "İran, ABD'nin uyguladığı deniz ablukasına sert tepki gösterdi. İran Devrim Muhafızları (IRGC), Körfez ve Umman Denizi'ndeki hiçbir limanın güvende olmayacağı uyarısında bulundu. IRGC'den yapılan açıklamada, bölgedeki limanların güvenliğinin 'ya herkes için ya da hiç kimse için' olacağı belirtildi. Bu açıklama, bölgedeki denizcilik güvenliği ve uluslararası gerilimin artabileceğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28819550/pexels-photo-28819550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T10:20:26.172Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/world/iran-warns-no-port-in-gulf-sea-of-oman-will-be-safe-after-us-naval-blockade/3903616",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1776068982876dd0u3",
-        "title": "Papa Leo, dört ülkeli Afrika turuna Cezayir'den başlıyor",
-        "summary": "Katolik Kilisesi lideri Papa Leo, 11 gün sürecek Afrika turuna Cezayir'den başladı. Bu önemli ziyaret kapsamında Papa, Cezayir'in ardından Kamerun, Angola ve Ekvator Ginesi'ni de ziyaret edecek. Papa'nın bölgeye yaptığı bu tür ziyaretler, genellikle diplomatik ilişkilerin güçlendirilmesi ve dinler arası diyaloğun teşvik edilmesi açısından büyük önem taşıyor. Ziyaretin, kıtadaki Katolik cemaatleriyle bir araya gelme ve barış mesajları verme fırsatı sunması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12044711/pexels-photo-12044711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T08:29:42.876Z",
-        "location": {
-            "lat": 36.737232,
-            "lng": 3.086497,
-            "name": "Cezayir, Cezayir"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/13/pope-leo-heads-to-algeria-as-he-starts-four-country-africa-tour?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1776050428663m6ul6",
-        "title": "ABD ordusu, Pazartesi gününden itibaren tüm İran limanlarını abluka altına almakla tehdit etti",
-        "summary": "ABD Merkez Komutanlığı (CENTCOM) tarafından yapılan açıklamaya göre, ABD ordusu Pazartesi gününden itibaren İran'ın tüm limanlarına yönelik bir abluka başlatma tehdidinde bulundu. Bu tehdit, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor. CENTCOM, Hürmüz Boğazı'ndan İran dışındaki limanlara giden ve gelen gemilerin geçişine ise izin verileceğini belirtti. Bu durum, ABD'nin İran'a yönelik ekonomik ve siyasi baskısını artırma stratejisinin bir parçası olarak değerlendirilirken, küresel deniz ticareti ve enerji piyasaları üzerindeki olası etkileri tartışılıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20432165/pexels-photo-20432165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-13T03:20:28.663Z",
-        "location": {
-            "lat": 27,
-            "lng": 54,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
