@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776368730711whg56",
+        "title": "Hizbullah, Lübnan'daki ateşkes duyurusu öncesinde İsrail'in kuzeyini vurdu",
+        "summary": "Hizbullah'ın İsrail'in kuzeyindeki Kiryat Şmona kentine düzenlediği roket saldırısı sonrası yangın çıktı. İsrail itfaiye ekipleri, saldırının yol açtığı yangını söndürmek için çalışma başlattı. Saldırı, Lübnan'da olası bir ateşkes duyurusunun öncesinde gerçekleşti. Bölgedeki gerilimin devam ettiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18015296/pexels-photo-18015296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T19:45:30.711Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.57,
+            "name": "Kiryat Shmona, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1776362980741b168v",
         "title": "Trump, Lübnan ve İsrail Arasında 10 Günlük Ateşkes İlan Etti",
         "summary": "Amerika Birleşik Devletleri Başkanı Donald Trump, İsrail ve Lübnan arasında 10 günlük bir ateşkes anlaşmasına varıldığını açıkladı. Yapılan duyuruya göre, ateşkes Perşembe günü Greenwich Ortalama Saati (GMT) ile 21:00'de yürürlüğe girecek. Bu gelişme, Orta Doğu'da uzun süredir devam eden gerilimin azaltılmasına yönelik önemli bir adım olarak değerlendiriliyor. Ateşkesin, taraflar arasında diplomatik görüşmelerin önünü açması ve bölgede daha geniş çaplı bir istikrarın sağlanmasına katkıda bulunması umuluyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776224995913ktwxn",
-        "title": "ABD Başkanı Trump: İran'a Yönelik Hürmüz Ablukası Sürerken Savaş \"Bitmek Üzere\"",
-        "summary": "ABD Başkanı Donald Trump, İran limanlarına yönelik deniz ablukasının devam ettiğini ve savaşın \"bitmek üzere\" olduğunu belirtti. Trump, İran ile ikinci tur müzakerelerin Pakistan'da gerçekleştirilebileceğini dile getirdi. Bu açıklamalar, Hürmüz Boğazı'ndaki gerilimin sürdüğü bir dönemde geldi. Bölgedeki deniz ablukası, İran'ın uluslararası ticaretini ve enerji sevkiyatını doğrudan etkiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15599632/pexels-photo-15599632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T03:49:55.913Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
