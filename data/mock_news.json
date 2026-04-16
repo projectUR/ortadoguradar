@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776319532965uxwgr",
+        "title": "İran Dışişleri Bakanı Çinli ve Japon Mevkidaşlarıyla Bölgesel Gelişmeleri Görüştü",
+        "summary": "İran Dışişleri Bakanı, Çinli ve Japon mevkidaşlarıyla bir araya gelerek bölgesel gelişmeleri ele aldı. Görüşmelerde Çin, diplomasiye olan desteğini vurgularken, Japonya gerilimi azaltmaya yardımcı olmaya hazır olduğunu belirtti. Bu diplomatik temaslar, Orta Doğu'daki mevcut durumu ve uluslararası aktörlerin bölgedeki istikrar arayışlarını yansıtıyor. İran'ın dış politikası ve bölgesel ilişkileri açısından önem taşıyan bu görüşmeler, uluslararası toplumun bölgedeki gerilimleri düşürme çabalarına katkı sağlamayı hedefliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5686014/pexels-photo-5686014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T06:05:32.965Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/irans-foreign-minister-discusses-regional-developments-with-chinese-japanese-counterparts/3907263",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776311703697muxb4",
         "title": "Pakistan Arabuluculuğunda ABD-İran Görüşmelerinde Atılım Umutları Yükseliyor",
         "summary": "ABD ile İran arasındaki nükleer program görüşmelerinde önemli bir gelişme yaşandığı bildirildi. Pakistan'ın arabuluculuğunda yürütülen bu müzakerelerde bir atılım beklentisi yükseliyor. Pakistanlı kaynaklar, İran'ın nükleer programına ilişkin bir anlaşma konusunda \"büyük bir atılım\" kaydedildiğini belirtiyor. Bu gelişme, uzun süredir devam eden nükleer müzakerelerde yeni bir dönemin başlangıcı olabileceği şeklinde yorumlanıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776186869873i5h3j",
-        "title": "Sudan'da Üç Yıllık Savaşın Ardından Durum Ne?",
-        "summary": "Sudan'da üç yıldır devam eden savaş, milyonlarca insanın yerinden edilmesine ve binlerce kişinin hayatını kaybetmesine neden oldu. Ülkede süregelen şiddetin yakın zamanda sona ereceğine dair net bir işaret bulunmuyor. İnsani kriz derinleşirken, uluslararası toplumun çabaları henüz kalıcı bir çözüm getiremedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T17:14:29.873Z",
-        "location": {
-            "lat": 15.5007,
-            "lng": 32.5599,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/14/after-three-years-of-war-what-is-the-situation-like-in-sudan?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
