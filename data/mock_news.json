@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776357827444d16ih",
+        "title": "Suriye, ABD Güçlerinin Konuşlandığı Tüm Üslerin Kontrolünü Ele Geçirdi",
+        "summary": "ABD askerleri ve teçhizatından oluşan son konvoyun Suriye'nin kuzeydoğusundaki Haseke vilayetinde bulunan Qasrak hava üssünden ayrılmasıyla, Suriye ordusu ABD güçlerinin daha önce konuşlandığı tüm üslerin kontrolünü sağladı. Bu gelişme, bölgedeki güç dengelerinde önemli bir değişime işaret ediyor. ABD'nin bölgeden çekilmesi, Suriye hükümetinin egemenliğini pekiştirme çabaları açısından kritik bir adım olarak değerlendiriliyor. Uluslararası gözlemciler, bu durumun Suriye'deki iç savaşın seyrini ve bölgesel aktörlerin pozisyonlarını etkileyebileceğini belirtiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163467/war-desert-guns-gunshow-163467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T16:43:47.444Z",
+        "location": {
+            "lat": 36.689722,
+            "lng": 40.803056,
+            "name": "Qasrak, Haseke, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17763578681429bwfu",
+        "title": "Trump: İsrail ve Lübnan Geçici Ateşkes Konusunda Anlaştı",
+        "summary": "ABD Başkanı Donald Trump, İsrail ve Lübnan arasında geçici bir ateşkes anlaşmasına varıldığını duyurdu. Bu gelişme, Orta Doğu'da uzun süredir devam eden gerilimin ardından geldi. Anlaşmanın detayları henüz tam olarak bilinmemekle birlikte, bölgedeki çatışmaların durdurulması yönünde önemli bir adım olduğu belirtiliyor. Gelişmenin, taraflar arasındaki diplomatik çabaların bir sonucu olduğu ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3926749/pexels-photo-3926749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T16:44:28.142Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanon-agree-to-temporary-ceasefire?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1776343414941yy8xz",
         "title": "İsrail ve Lübnan Arasında Tarihi Görüşmeler Gerçekleşecek",
         "summary": "İsrail ve Lübnan liderleri, 34 yıllık sessizliğin ardından tarihi görüşmeler için bir araya gelmeye hazırlanıyor. Bu görüşmelerin, devam eden çatışmaların ortasında iki ülke arasındaki gerilimi azaltmayı hedeflediği belirtiliyor. Taraflar, uzun süredir devam eden anlaşmazlıklara diplomatik bir çözüm bulma umudu taşıyor. Bu adım, bölgesel istikrar açısından önemli bir gelişme olarak değerlendiriliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/10-countries-urge-protection-of-aid-workers-in-lebanon-amid-worsening-crisis/3905806",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1776201962999910ah",
-        "title": "Gazze'deki Mülteci Kampına İsrail Saldırısı: Çok Sayıda Ölü",
-        "summary": "Gazze Şeridi'nde bulunan Shati mülteci kampına İsrail tarafından hava saldırısı düzenlendiği bildirildi. Saldırıda çok sayıda kişinin hayatını kaybettiği belirtilirken, Filistinli kaynaklar kurbanların tıbbi tesislere sevk edildiğini kaydetti. Bölgedeki gerilimin devam ettiği ve saldırının ardından can kaybı ile yaralı sayısının artmasından endişe edildiği ifade edildi. Olay, Orta Doğu'daki çatışma ve güvenlik durumunu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T21:26:02.999Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Shati Mülteci Kampı, Gazze"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1776202031667thqmy",
-        "title": "Hamas, Gazze'nin Silahsızlandırılması Planını Reddetti",
-        "summary": "Hamas, Gazze'nin silahsızlandırılmasına yönelik bir planı reddettiğini açıkladı. Bir Filistinli yetkili BBC'ye yaptığı açıklamada, silahlı grubun İsrail'in taahhütlerine tam olarak uymadığı sürece müzakerelere devam etmeyeceğini belirtti. Bu ret, İsrail ile Filistin arasındaki gerilimi daha da artırırken, bölgedeki barış çabalarını olumsuz etkileyebilir. Hamas'ın bu duruşu, Gazze'deki mevcut siyasi ve güvenlik çıkmazını derinleştiriyor ve gelecekteki olası anlaşmaları zorlaştırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640438/pexels-photo-7640438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T21:27:11.667Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
