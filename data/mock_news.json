@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776343414941yy8xz",
+        "title": "İsrail ve Lübnan Arasında Tarihi Görüşmeler Gerçekleşecek",
+        "summary": "İsrail ve Lübnan liderleri, 34 yıllık sessizliğin ardından tarihi görüşmeler için bir araya gelmeye hazırlanıyor. Bu görüşmelerin, devam eden çatışmaların ortasında iki ülke arasındaki gerilimi azaltmayı hedeflediği belirtiliyor. Taraflar, uzun süredir devam eden anlaşmazlıklara diplomatik bir çözüm bulma umudu taşıyor. Bu adım, bölgesel istikrar açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-16T12:43:34.941Z",
+        "location": {
+            "lat": 33.1,
+            "lng": 35.1,
+            "name": "Naqoura, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/16/can-historic-israel-lebanon-talks-lead-to-ceasefire?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776333471430lit93",
         "title": "Afgan Köylüler Geçimlerini Sağlamak İçin Altın Aramaya Yöneliyor",
         "summary": "Hindu Kuş dağlarında yaşayan Afgan köylüler, bölgedeki kısıtlı ekonomik fırsatlar nedeniyle geçimlerini sağlamak amacıyla altın aramaya başladı. Erkekler, zorlu coğrafyada nehir yataklarında altın tozu arayarak ailelerinin ihtiyaçlarını karşılamaya çalışıyor. Bu durum, ülkedeki ekonomik zorlukların ve işsizliğin artmasıyla birlikte alternatif geçim kaynaklarına yönelişi gözler önüne seriyor. Altın arama, birçok Afgan için hayatta kalma mücadelesinin bir parçası haline gelmiş durumda.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1776202132564vgo58",
-        "title": "BM Genel Sekreteri Hürmüz Boğazı'nda seyrüsefer haklarına ve özgürlüğüne saygı çağrısı yaptı",
-        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, küresel ticaret için hayati önem taşıyan Hürmüz Boğazı'nda seyrüsefer haklarına ve özgürlüğüne saygı gösterilmesi çağrısında bulundu. Guterres, barış anlaşmalarının kalıcı bağlılık ve siyasi irade gerektirdiğini vurgulayarak, bölgedeki gerilimlerin azaltılmasına yönelik diplomatik çabaların önemine dikkat çekti. Bu açıklama, Basra Körfezi ile Umman Denizi'ni birbirine bağlayan ve dünya petrol taşımacılığının önemli bir kısmının geçtiği bu stratejik su yolundaki güvenlik endişelerinin arttığı bir dönemde geldi. BM Genel Sekreteri'nin bu çağrısı, uluslararası hukuka uygunluğun ve bölgesel istikrarın korunması yönündeki küresel beklentileri yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-14T21:28:52.564Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/world/un-chief-urges-respect-for-navigational-rights-freedom-in-strait-of-hormuz/3905627",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
