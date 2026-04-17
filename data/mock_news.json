@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776449601091kf3vp",
+        "title": "İsrail Saldırıları Güney Lübnan'daki Tek Çalışan Hastaneyi Vurdu",
+        "summary": "Al Jazeera muhabiri Obaida Hitto'nun Tibnin Hastanesi'nden bildirdiğine göre, Güney Lübnan'ın tek işlevsel hastanesi olan Tibnin Hastanesi, İsrail saldırılarında hasar gördü. Bölgedeki sağlık hizmetleri için hayati öneme sahip olan bu hastanenin aldığı hasar, bölgedeki insani durumu daha da kötüleştirebilir. Saldırının detayları ve hastanenin mevcut durumu hakkında daha fazla bilgi bekleniyor. Bu olay, Lübnan-İsrail sınırındaki gerilimin artmaya devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32134727/pexels-photo-32134727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-17T18:13:21.091Z",
+        "location": {
+            "lat": 33.15,
+            "lng": 35.4,
+            "name": "Tibnin, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/17/southern-lebanons-only-functioning-hospital-damaged-by-israeli-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1776422304560hinlw",
         "title": "İran'a Yönelik Savaş Belirsizliği Avustralya'yı Enerji Güvenliği İçin Harekete Geçirdi",
         "summary": "İran'a yönelik olası bir savaşın yarattığı belirsizlik ortamında Avustralya, enerji güvenliğini sağlamak için yoğun çaba sarf ediyor. İthal petrole büyük ölçüde bağımlı olan ülke, enerji arzında yaşanabilecek aksaklıklara karşı önlemler almayı hedefliyor. Bu kapsamda Avustralya hükümeti, bölgesel diplomatik girişimlerden iç tüketimi azaltmaya yönelik adımlara kadar çeşitli hızlı çözümler üzerinde duruyor. Haber, Orta Doğu'daki jeopolitik gelişmelerin küresel enerji piyasaları ve ülkelerin enerji politikaları üzerindeki etkisini gözler önüne seriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/15/italy-suspends-long-standing-defence-agreement-with-israel?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1776251442396c17zc",
-        "title": "İtalya, İsrail ile savunma anlaşmasını askıya aldı",
-        "summary": "İtalya, İsrail ile olan savunma anlaşmasını askıya aldığını açıkladı. İtalya Başbakanı tarafından yapılan açıklamada, her beş yılda bir yenilenen anlaşmanın 'mevcut durum göz önüne alınarak' askıya alındığı belirtildi. Bu karar, iki ülke arasındaki savunma işbirliğinde önemli bir değişikliğe işaret etmektedir. Anlaşmanın askıya alınmasının bölgesel ve uluslararası ilişkiler üzerinde etkileri olabileceği değerlendirilmektedir. Kararın, Orta Doğu'daki güncel gelişmelerle bağlantılı olduğu düşünülmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9488837/pexels-photo-9488837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-15T11:10:42.396Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cr71184ex91o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
