@@ -1197,3 +1197,19 @@ async function updateNewsInteractionsUI(newsId) {
         }
     }
 }
+// --- BÜLTEN AÇMA/KAPATMA MOTORU ---
+window.openNewsletterModal = function() {
+    const modal = document.getElementById('newsletter-modal');
+    if (modal) {
+        modal.classList.remove('hidden');
+        modal.style.display = 'flex';
+    }
+};
+
+window.closeNewsletterModal = function() {
+    const modal = document.getElementById('newsletter-modal');
+    if (modal) {
+        modal.classList.add('hidden');
+        modal.style.display = 'none';
+    }
+};
