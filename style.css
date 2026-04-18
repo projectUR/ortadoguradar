@@ -1420,3 +1420,85 @@ body {
     overflow: hidden !important;
     padding: 0 15px !important;
 }
+/* --- RADAR ASİSTAN TASARIMI --- */
+
+/* Asistanın Genel Konumu */
+#radar-assistant-container {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 99999; /* Her şeyin en üstünde kalsın */
+    font-family: 'Inter', sans-serif;
+}
+
+/* Yüzen Mavi Buton */
+#chat-bubble {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #3498db, #2980b9);
+    color: white;
+    border: 2px solid rgba(255,255,255,0.1);
+    font-size: 26px;
+    cursor: pointer;
+    box-shadow: 0 8px 25px rgba(52, 152, 219, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+#chat-bubble:hover {
+    transform: scale(1.1) rotate(10deg);
+    box-shadow: 0 12px 30px rgba(52, 152, 219, 0.6);
+}
+
+/* Sohbet Penceresi */
+#chat-window {
+    position: absolute;
+    bottom: 85px;
+    right: 0;
+    width: 360px;
+    height: 500px;
+    background: #121212; /* Sitenin koyu temasıyla uyumlu */
+    border: 1px solid #333;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: 0 15px 50px rgba(0,0,0,0.8);
+    backdrop-filter: blur(10px); /* Hafif cam efekti */
+}
+
+/* Mesaj Alanı Özelleştirme */
+#chat-messages {
+    background-image: radial-gradient(circle at 2px 2px, #1a1a1a 1px, transparent 0);
+    background-size: 20px 20px; /* Arka planda hafif noktalar */
+}
+
+/* Botun Mesaj Balonu */
+.bot-msg {
+    border-left: 3px solid #3498db;
+    line-height: 1.5;
+}
+
+/* Giriş Alanı */
+.chat-input-area input:focus {
+    outline: none;
+    border-color: #3498db !important;
+    box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+}
+
+/* Gizleme ve Gösterme Geçişi */
+.hidden {
+    display: none !important;
+}
+
+/* Safari Uyumu: Alt barların altında kalmaması için */
+@media (max-width: 768px) {
+    #chat-window {
+        width: 300px;
+        height: 400px;
+        bottom: 75px;
+    }
+}
