@@ -1,5 +1,21 @@
 [
     {
+        "id": "17765135096443dz2v",
+        "title": "İran, ABD ile bir sonraki tur görüşmelere henüz onay vermedi",
+        "summary": "Tasnim haber ajansının bildirdiğine göre, İran, ABD ile planlanan bir sonraki tur görüşmelere henüz rıza göstermedi. Tahran yönetimi, bu kararı ABD'nin İran limanlarına uyguladığı abluka ve \"aşırı talepler\" gerekçesiyle aldığını belirtti. Bu durum, iki ülke arasındaki diplomatik ilişkilerde devam eden gerilimi bir kez daha gözler önüne serdi. Görüşmelerin geleceği ve taraflar arasındaki anlaşmazlıkların nasıl çözüleceği belirsizliğini koruyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8730173/pexels-photo-8730173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T11:58:29.644Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-has-not-yet-agreed-to-next-round-of-talks-with-us-report/3910498",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776510497694t0fh5",
         "title": "Hormuz Boğazı'nda Gerilim: Propaganda ve Taktik Savaşları",
         "summary": "Hormuz Boğazı'nda yaşanan abluka süreci, bölgedeki gerilimi artırmaya devam ediyor. Haber, bu stratejik su yolunda uygulanan savaş taktikleri ile propaganda taktikleri arasındaki çekişmeyi ele alıyor. Küresel enerji tedariki için hayati öneme sahip olan boğazda, taraflar arasında askeri ve iletişimsel bir mücadele yaşandığı belirtiliyor. Bu durum, bölgedeki jeopolitik dinamiklerin karmaşıklığını ve uluslararası ilişkilerdeki hassasiyeti gözler önüne seriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1776368730711whg56",
-        "title": "Hizbullah, Lübnan'daki ateşkes duyurusu öncesinde İsrail'in kuzeyini vurdu",
-        "summary": "Hizbullah'ın İsrail'in kuzeyindeki Kiryat Şmona kentine düzenlediği roket saldırısı sonrası yangın çıktı. İsrail itfaiye ekipleri, saldırının yol açtığı yangını söndürmek için çalışma başlattı. Saldırı, Lübnan'da olası bir ateşkes duyurusunun öncesinde gerçekleşti. Bölgedeki gerilimin devam ettiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18015296/pexels-photo-18015296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T19:45:30.711Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.57,
-            "name": "Kiryat Shmona, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
