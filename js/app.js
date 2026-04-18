@@ -1269,3 +1269,17 @@ function handleChatKey(event) {
         sendMessage();
     }
 }
+// Menü butonlarını bul ve asistanı onlara bağla
+document.addEventListener('click', function(e) {
+    // Eğer tıklanan şey bir menü butonuysa
+    if (e.target.closest('.nav-item') || e.target.closest('button')) {
+        const btnText = e.target.innerText.toLowerCase();
+        
+        // Eğer butonun içinde "akış" geçiyorsa göster, geçmiyorsa gizle
+        if (btnText.includes('akış')) {
+            updateAssistantVisibility('akis');
+        } else if (btnText.includes('rasathane') || btnText.includes('oyun') || btnText.includes('envanter')) {
+            updateAssistantVisibility('diger');
+        }
+    }
+});
