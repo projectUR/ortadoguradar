@@ -1215,7 +1215,6 @@ window.closeNewsletterModal = function() {
 };
 /* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
 
-// 1. BURAYA Google Cloud'dan kısıtladığın o zırhlı anahtarı direkt yapıştır.
 const GEMINI_API_KEY = "AIzaSyBd_uiYA3ggl2o_ZNe7wre6C37oKeBEe-s"; 
 
 async function sendMessage() {
@@ -1233,7 +1232,7 @@ async function sendMessage() {
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
     try {
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -1246,13 +1245,16 @@ async function sendMessage() {
         if (data.error) throw new Error(data.error.message);
 
         const aiResponse = data.candidates[0].content.parts[0].text;
-        document.getElementById(loadingId).remove();
+        const loadingElement = document.getElementById(loadingId);
+        if (loadingElement) loadingElement.remove();
+        
         chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
         
     } catch (error) {
         console.error("Hata:", error);
-        if(document.getElementById(loadingId)) document.getElementById(loadingId).remove();
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Şu an bağlanılamıyor. Lütfen anahtarın aktifleşmesi için 1-2 dakika bekleyin.</div>`;
+        const loadingElement = document.getElementById(loadingId);
+        if (loadingElement) loadingElement.remove();
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı hatası: ${error.message}</div>`;
     } finally {
         input.disabled = false;
         input.focus();
@@ -1260,16 +1262,15 @@ async function sendMessage() {
     }
 }
 
-// 2. toggleChat ve diğer fonksiyonlar buradan aşağıda aynen kalsın...
-// 3. PENCERE VE TUŞ KONTROLLERİ
 function toggleChat() {
     const win = document.getElementById('chat-window');
     if (win) win.classList.toggle('hidden');
 }
 
-function handleChatKey(e) { if (e.key === 'Enter') sendMessage(); }
+function handleChatKey(e) { 
+    if (e.key === 'Enter') sendMessage(); 
+}
 
-// 4. GÖRÜNÜRLÜK AYARLARI
 window.addEventListener('DOMContentLoaded', () => {
     const assistant = document.getElementById('radar-assistant-container');
     if (assistant) assistant.classList.remove('hidden');
