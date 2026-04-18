@@ -1217,7 +1217,7 @@ window.closeNewsletterModal = function() {
 /* --- RADAR ASİSTAN MASTER AI PAKETİ (ZIRHLI MOD) --- */
 
 // Base64 sitesinden aldığın o karışık metni buraya yapıştır
-const sifreliKey = "BURAYA_BASE64_METNINI_YAPISTIR"; 
+const sifreliKey = "QUl6YVN5QWU3VTVwU3lxX3pUblh0YkdfRlc1bFBfZENsSUpUSEtB"; 
 
 // GitHub botları bunu okuyamaz ama tarayıcı çözer
 const GEMINI_API_KEY = atob(sifreliKey); 
