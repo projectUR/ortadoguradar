@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776506902615zvo3i",
+        "title": "Pakistan'dan ABD-İran Görüşmeleri İçin Diplomatik Çaba",
+        "summary": "Pakistan Başbakanı Şahbaz Şerif ve Genelkurmay Başkanı Asım Munir, ABD ile İran arasındaki müzakerelerin yeniden başlaması yönündeki diplomatik girişimlerini tamamladı. Genelkurmay Başkanı Munir, Tahran ziyaretini sonlandırırken, Başbakan Şerif de Türkiye'den ülkesine döndü. Her iki ziyaretin de ABD-İran görüşmelerinin yeni bir turunun gerçekleşmesi umuduyla yapıldığı belirtildi. Bu çabalar, bölgesel istikrar ve uluslararası ilişkiler açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T10:08:22.615Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776506944036xej3e",
+        "title": "Kırılgan Ateşkes Altında İranlılar ABD Anlaşmasının Mümkün Olup Olmadığını Merak Ediyor",
+        "summary": "BBC'nin baş uluslararası muhabiri Lyse Doucet, İran'dan yaptığı bildirimde, ülkede kırılgan bir ateşkesin sürdüğünü ve İranlıların ABD ile olası bir anlaşmanın akıbetini merak ettiğini aktardı. Habere göre, bölgede savaşa geri dönüşü engellemek amacıyla diplomatik çabalar yoğunlaşmış durumda. Bu durum, İran ile ABD arasındaki ilişkilerin kritik bir dönemden geçtiğini ve müzakerelerin önemini vurguluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8770999/pexels-photo-8770999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T10:09:04.036Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776506969201yfnhu",
+        "title": "Endonezya, Lübnan'da Kalıcı Ateşkes ve Egemenliğe Saygı Talep Ediyor",
+        "summary": "Endonezya Dışişleri Bakanlığı, Lübnan'da kalıcı bir ateşkesin sağlanması ve ülkenin egemenliğine saygı gösterilmesi çağrısında bulundu. Anadolu Ajansı'na yapılan açıklamada, Jakarta'nın Lübnan ile İsrail arasındaki müzakerelerin daha fazla sivil kaybını önleyecek somut adımlara yol açmasını umduğu belirtildi. Endonezya, bölgedeki gerilimin düşürülmesi ve istikrarın sağlanması için diplomatik çabaların önemini vurguladı. Bu açıklama, Orta Doğu'daki mevcut durumu ve uluslararası toplumun barış arayışlarını yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6065067/pexels-photo-6065067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-18T10:09:29.201Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/indonesia-seeks-permanent-ceasefire-in-lebanon-respect-for-sovereignty/3910466",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776504279394a7k0s",
         "title": "İran, Hürmüz Boğazı'nın En Güçlü Caydırıcısı Olduğunu Öğrendi",
         "summary": "Tufts Üniversitesi'nden kıdemli araştırmacı Donald Heflin, İran'ın nükleer silahlara caydırıcı olarak ihtiyaç duymadığını gösterdiğini belirtti. Heflin'e göre, Tahran yönetimi Hürmüz Boğazı'nın stratejik önemini kendi lehine kullanmayı öğrenmiştir. Bu durum, boğazın İran için en güçlü caydırıcı güç haline geldiği yorumlarına yol açmaktadır. Analiz, İran'ın bölgesel güvenliğini ve dış politikasını şekillendiren unsurlara dair yeni bir bakış açısı sunmaktadır.",
@@ -748,54 +796,6 @@
             "name": "Naqoura, Lübnan"
         },
         "source": "https://www.aljazeera.com/news/2026/4/16/can-historic-israel-lebanon-talks-lead-to-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776333471430lit93",
-        "title": "Afgan Köylüler Geçimlerini Sağlamak İçin Altın Aramaya Yöneliyor",
-        "summary": "Hindu Kuş dağlarında yaşayan Afgan köylüler, bölgedeki kısıtlı ekonomik fırsatlar nedeniyle geçimlerini sağlamak amacıyla altın aramaya başladı. Erkekler, zorlu coğrafyada nehir yataklarında altın tozu arayarak ailelerinin ihtiyaçlarını karşılamaya çalışıyor. Bu durum, ülkedeki ekonomik zorlukların ve işsizliğin artmasıyla birlikte alternatif geçim kaynaklarına yönelişi gözler önüne seriyor. Altın arama, birçok Afgan için hayatta kalma mücadelesinin bir parçası haline gelmiş durumda.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/30836332/pexels-photo-30836332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T09:57:51.430Z",
-        "location": {
-            "lat": 34.5228,
-            "lng": 69.1776,
-            "name": "Kabil, Afganistan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/4/16/afghan-villagers-turn-to-gold-panning-to-sustain-livelihoods?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776333535693efoij",
-        "title": "İran, lider kadrosunun öldürülmesi nedeniyle ABD ve İsrail'den hesap sorulmasını talep etti",
-        "summary": "İran Dışişleri Bakanlığı, lider kadrosundan isimlerin öldürülmesi nedeniyle ABD ve İsrail'den hesap sorulacağını bildirdi. Bakanlık sözcüsü, Rus medyasına yaptığı açıklamada, Tahran'ın bu eylemleri 'savaş suçu' olarak nitelendirdiğini belirtti. Açıklamada, İran'ın bu saldırıların sorumlularının adalet önüne çıkarılması için uluslararası platformlarda girişimlerde bulunacağı vurgulandı. Tahran yönetimi, ABD ve İsrail'in bölgedeki eylemlerinin uluslararası hukuka aykırı olduğunu savunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34793422/pexels-photo-34793422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T09:58:55.693Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-seeks-accountability-from-us-israel-over-killing-of-its-leadership/3907675",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776333601630lnanf",
-        "title": "İsrail Ordusu Komutanı, Filistinli Tutukluya Cinsel Tacizle Suçlanan Askerlerin Göreve Dönüşünü Onayladı",
-        "summary": "İsrail ordusu komutanı, Filistinli bir tutukluya cinsel tacizde bulunmakla suçlanan askerlerin görevlerine dönmesine onay verdi. Haaretz gazetesinin bildirdiğine göre, bu karar askerler hakkındaki suçlamaların düşürülmesinin ardından geldi. Olayın Sde Teiman üssünde yaşandığı ve askerler hakkında işkence ve cinsel saldırı iddiaları bulunduğu belirtildi. Karar, insan hakları örgütleri ve Filistinliler arasında tepkilere yol açabilirken, İsrail'in askeri adalet sistemi üzerindeki tartışmaları yeniden alevlendirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7468186/pexels-photo-7468186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-16T10:00:01.630Z",
-        "location": {
-            "lat": 31.25,
-            "lng": 34.8,
-            "name": "Be'er Sheva, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-chief-approves-return-of-soldiers-accused-of-sexually-abusing-palestinian-detainee-to-service/3907575",
         "trendScore": 85,
         "isBreaking": false
     }
