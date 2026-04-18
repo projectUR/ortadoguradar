@@ -1357,3 +1357,25 @@ body {
     justify-content: space-between !important;
     gap: 10px !important;
 }
+/* Üst barın genelini rahatlatalım */
+.header-container {
+    padding: 0 10px !important; /* Kenar boşluklarını daralt */
+    gap: 5px !important; /* Elemanlar arası boşluğu azalt */
+}
+
+/* Arama çubuğunu ve yanındaki butonları biraz küçültelim */
+.nav-item, .toggle-btn, .search-bar {
+    padding: 5px 8px !important; /* İç boşluğu azalt */
+    font-size: 13px !important; /* Yazıları çok hafif küçült (Safari için kritik) */
+}
+
+/* Bülten butonunun yazısının taşmasını engelle */
+.toggle-btn {
+    white-space: nowrap !important;
+}
+
+/* Arama kabının minimum alanını düşür ki sıkışınca diğerlerini itmesin */
+.search-container {
+    min-width: 100px !important; 
+    margin: 0 5px !important;
+}
