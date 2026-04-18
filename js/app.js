@@ -1214,22 +1214,19 @@ window.closeNewsletterModal = function() {
     }
 };
 
-/* --- RADAR ASİSTAN MASTER AI PAKETİ (ZIRHLI MOD) --- */
+/* --- RADAR ASİSTAN MASTER AI PAKETİ (TAM SİSTEM) --- */
 
-// Base64 sitesinden aldığın o karışık metni buraya yapıştır
+// 1. GÜVENLİK: Base64 şifreni buraya yapıştır
 const sifreliKey = "QUl6YVN5QWU3VTVwU3lxX3pUblh0YkdfRlc1bFBfZENsSUpUSEtB"; 
-
-// GitHub botları bunu okuyamaz ama tarayıcı çözer
 const GEMINI_API_KEY = atob(sifreliKey); 
 
+// 2. MESAJ GÖNDERME
 async function sendMessage() {
     const input = document.getElementById('user-input');
     const msg = input.value.trim();
     if (msg === "" || input.disabled) return;
 
     const chatMsgs = document.getElementById('chat-messages');
-    
-    // Kullanıcı mesajı
     chatMsgs.innerHTML += `<div style="background: #3498db; color: white; padding: 10px 15px; border-radius: 15px 15px 0 15px; align-self: flex-end; max-width: 80%; font-size: 14px; margin-left: auto; margin-bottom: 10px;">${msg}</div>`;
     input.value = "";
     input.disabled = true;
@@ -1243,29 +1240,49 @@ async function sendMessage() {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                contents: [{
-                    parts: [{
-                        text: `Sen Orta Doğu Radar asistanısın. Profesyonel ol ve sadece Orta Doğu konuş. Cevabın 3 cümleyi geçmesin. Soru: ${msg}`
-                    }]
-                }]
+                contents: [{ parts: [{ text: `Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: ${msg}` }] }]
             })
         });
-
         const data = await response.json();
-        
-        if (data.error) throw new Error(data.error.message);
-
         const aiResponse = data.candidates[0].content.parts[0].text;
         document.getElementById(loadingId).remove();
         chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
-        
     } catch (error) {
         if(document.getElementById(loadingId)) document.getElementById(loadingId).remove();
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı kesildi. Lütfen az sonra tekrar deneyin.</div>`;
-        console.error("Hata:", error);
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı hatası.</div>`;
     } finally {
         input.disabled = false;
         input.focus();
         chatMsgs.scrollTop = chatMsgs.scrollHeight;
     }
 }
+
+// 3. PENCERE VE TUŞ KONTROLLERİ
+function toggleChat() {
+    const win = document.getElementById('chat-window');
+    if (win) win.classList.toggle('hidden');
+}
+
+function handleChatKey(e) { if (e.key === 'Enter') sendMessage(); }
+
+// 4. GÖRÜNÜRLÜK (BOTUN EKRANA GELMESİNİ SAĞLAYAN KISIM)
+window.addEventListener('DOMContentLoaded', () => {
+    const assistant = document.getElementById('radar-assistant-container');
+    if (assistant) assistant.classList.remove('hidden');
+});
+
+document.addEventListener('click', function(e) {
+    const btn = e.target.closest('.nav-item') || e.target.closest('button');
+    if (!btn) return;
+    const text = btn.innerText.toLowerCase();
+    const assistant = document.getElementById('radar-assistant-container');
+    if (!assistant) return;
+
+    if (text.includes('akış')) {
+        assistant.classList.remove('hidden');
+    } else if (['rasathane', 'oyun', 'envanter', 'radar akışı'].some(s => text.includes(s))) {
+        assistant.classList.add('hidden');
+        const chatWin = document.getElementById('chat-window');
+        if (chatWin) chatWin.classList.add('hidden');
+    }
+});
