@@ -1215,47 +1215,38 @@ window.closeNewsletterModal = function() {
 };
 /* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
 
-// Eski hali yerine bunu yapıştır (Tırnak içindeki anahtar senin yeni aldığın anahtar olsun)
-const GEMINI_API_KEY = "AIzaSyAuKXKgtL4PV7VKZ0EvUcweriA99pqguXA".trim();
+// 1. BURAYA AI STUDIO'DAN ALDIĞIN YEPYENİ ANAHTARI YAPIŞTIR
+const GEMINI_API_KEY = "AIzaSyAHT_gQqteId6rq7C3Xegm5MpGeu5IYBDI".trim(); 
 
 async function sendMessage() {
-    const input = document.getElementById('user-input');
-    const msg = input.value.trim();
-    if (msg === "" || input.disabled) return;
-
-    const chatMsgs = document.getElementById('chat-messages');
-    chatMsgs.innerHTML += `<div style="background: #3498db; color: white; padding: 10px 15px; border-radius: 15px 15px 0 15px; align-self: flex-end; max-width: 80%; font-size: 14px; margin-left: auto; margin-bottom: 10px;">${msg}</div>`;
-    input.value = "";
-    input.disabled = true;
-
-    const loadingId = 'loading-' + Date.now();
-    chatMsgs.innerHTML += `<div id="${loadingId}" class="bot-msg" style="background: #252525; color: #aaa; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px; font-style: italic;">Radar verileri taranıyor...</div>`;
-    chatMsgs.scrollTop = chatMsgs.scrollHeight;
-
-   try {
-        const apiUrl = "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
+    // ... input ve msg kısımları aynı ...
+    
+    try {
+        // v1beta her zaman en sağlamıdır, adresi tam olarak bu şekilde yaz:
+        const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
         const response = await fetch(apiUrl, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                contents: [{ 
-                    parts: [{ 
-                        text: "Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: " + msg 
-                    }] 
-                }]
+                contents: [{ parts: [{ text: "Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: " + msg }] }]
             })
         });
 
         const data = await response.json();
-        if (data.error) throw new Error(data.error.message);
+        
+        // Burası çok önemli: Hata varsa nedenini konsola yazdırıyoruz
+        if (data.error) {
+            console.error("Google'dan Gelen Hata Detayı:", data.error);
+            throw new Error(data.error.message);
+        }
 
         const aiResponse = data.candidates[0].content.parts[0].text;
         const loadingElement = document.getElementById(loadingId);
         if (loadingElement) loadingElement.remove();
-
+        
         chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">` + aiResponse + `</div>`;
-
+        
     } catch (error) {
         console.error("Hata:", error);
         const loadingElement = document.getElementById(loadingId);
