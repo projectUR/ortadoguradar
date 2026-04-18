@@ -1213,3 +1213,59 @@ window.closeNewsletterModal = function() {
         modal.style.display = 'none';
     }
 };
+/* --- RADAR ASİSTAN MANTIĞI --- */
+
+// 1. Sohbet Penceresini Aç/Kapat
+function toggleChat() {
+    const chatWindow = document.getElementById('chat-window');
+    chatWindow.classList.toggle('hidden');
+    
+    // Pencere açıldığında input'a odaklan
+    if (!chatWindow.classList.contains('hidden')) {
+        document.getElementById('user-input').focus();
+    }
+}
+
+// 2. Görünürlük Kontrolü (Senin isteğin: Sadece Ana Akışta gözüksün)
+function updateAssistantVisibility(activeTabId) {
+    const assistantContainer = document.getElementById('radar-assistant-container');
+    
+    // Eğer aktif sekme 'akis' ise (veya senin akış ID'n neyse) göster, değilse gizle
+    if (activeTabId === 'akis' || activeTabId === 'main-feed') {
+        assistantContainer.classList.remove('hidden');
+    } else {
+        assistantContainer.classList.add('hidden');
+        // Sekme değişince açık olan sohbet penceresini de kapat ki arkada kalmasın
+        document.getElementById('chat-window').classList.add('hidden');
+    }
+}
+
+// 3. Mesaj Gönderme Fonksiyonu (Şimdilik test amaçlı)
+function sendMessage() {
+    const input = document.getElementById('user-input');
+    const message = input.value.trim();
+    
+    if (message !== "") {
+        const messagesDiv = document.getElementById('chat-messages');
+        
+        // Kullanıcı mesajını ekle
+        messagesDiv.innerHTML += `<div class="user-msg" style="background: #3498db; color: white; padding: 10px 15px; border-radius: 15px 15px 0 15px; align-self: flex-end; max-width: 80%; font-size: 14px; margin-left: auto;">${message}</div>`;
+        
+        input.value = "";
+        
+        // Otomatik cevap simülasyonu
+        setTimeout(() => {
+            messagesDiv.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db;">Anladım Barkın, Orta Doğu Radar veritabanında bunu senin için araştırıyorum...</div>`;
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }, 1000);
+        
+        messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    }
+}
+
+// Enter tuşuyla mesaj gönderme
+function handleChatKey(event) {
+    if (event.key === 'Enter') {
+        sendMessage();
+    }
+}
