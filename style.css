@@ -1343,3 +1343,17 @@ body {
 .logo {
     flex-shrink: 0 !important;
 }
+/* Arama çubuğunun Safari'de logoyu ezmesini engellemek için */
+.search-container {
+    flex: 1 !important;
+    min-width: 150px !important;
+    margin: 0 15px !important;
+}
+
+/* Üst barın elemanları arasındaki boşluğu otomatik ayarla */
+.header-container {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 10px !important;
+}
