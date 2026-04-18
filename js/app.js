@@ -1233,7 +1233,6 @@ async function sendMessage() {
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
    try {
-        // Tek tırnak belasından kurtulmak için artı (+) ile birleştiriyoruz, en güvenli yol budur:
         const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
         const response = await fetch(apiUrl, {
@@ -1249,7 +1248,6 @@ async function sendMessage() {
         });
 
         const data = await response.json();
-
         if (data.error) throw new Error(data.error.message);
 
         const aiResponse = data.candidates[0].content.parts[0].text;
@@ -1268,6 +1266,7 @@ async function sendMessage() {
         input.focus();
         chatMsgs.scrollTop = chatMsgs.scrollHeight;
     }
+} // sendMessage Kapanışı
 
 function toggleChat() {
     const win = document.getElementById('chat-window');
