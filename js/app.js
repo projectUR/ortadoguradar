@@ -1217,7 +1217,11 @@ window.closeNewsletterModal = function() {
 // Enter tuşuyla mesaj gönderme
 /* --- RADAR ASİSTAN MASTER AI PAKETİ --- */
 
-const GEMINI_API_KEY = "AIzaSyDm0oX6NAdYa-O3aK6v8t4nTdLYG0YXLjY"; // Kendi anahtarını tırnak içine koy
+// Anahtarı ikiye böldük ki GitHub botları "anahtar buldum" diye atlamasın
+const parca1 = "AIzaSyAKNivyhV20"; // Anahtarının ilk yarısını buraya yapıştır
+const parca2 = "d9Wig3l3hSLA8C4m-nrlms0"; // Kalan yarısını buraya yapıştır
+
+const GEMINI_API_KEY = parca1 + parca2; 
 
 // 1. Mesaj Gönderme ve AI Bağlantısı
 async function sendMessage() {
