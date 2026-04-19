@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776639873313akn63",
+        "title": "Arjantin Devlet Başkanı Milei, Kudüs Ziyaretinde ABD ve İsrail'in İran'a Karşı Savaşını Destekledi",
+        "summary": "Arjantin Devlet Başkanı Javier Milei, Kudüs'e gerçekleştirdiği ziyaret sırasında ABD ve İsrail ile olan uyumunu bir kez daha teyit etti. Bu diplomatik ziyaret kapsamında Milei, ABD ve İsrail'in İran'a karşı yürüttüğü 'savaşı' desteklediğini açıkça ifade etti. Arjantin liderinin bu açıklamaları, ülkesinin Orta Doğu'daki jeopolitik duruşunu ve bölgesel güç dengelerine yönelik yaklaşımını netleştirdi. Söz konusu destek, uluslararası arenada önemli bir diplomatik hamle olarak değerlendirilirken, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T23:04:33.313Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776628945740jlw2r",
         "title": "ABD uçak gemisi USS Gerald R. Ford onarım sonrası Orta Doğu'ya döndü: Rapor",
         "summary": "ABD Donanması'na ait uçak gemisi USS Gerald R. Ford'un onarım işlemlerinin ardından Orta Doğu bölgesine geri döndüğü bildirildi. Bu gelişmeyle birlikte Washington'ın bölgede kısa süre içinde üç uçak gemisine sahip olabileceği belirtiliyor. Geminin dönüşü, İran ile devam eden müzakereler bağlamında stratejik bir önem taşıyor. ABD'nin bölgedeki askeri varlığının güçlenmesi, bölgesel güvenlik dinamikleri üzerinde etkili olabilir.",
@@ -780,22 +796,6 @@
             "name": "Hartum, Sudan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/us-imposes-sanctions-on-5-actors-for-alleged-sudan-war-links-as-conflict-enters-4th-year/3910265",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776499334069ob7eg",
-        "title": "İsrail'in Sınır Kısıtlamaları Yardım Teslimatına Ana Engel",
-        "summary": "Bir Barış Kurulu yetkilisi, İsrail'in uyguladığı sınır kısıtlamalarının insani yardımların bölgeye ulaştırılmasındaki temel engel olduğunu belirtti. Yüksek Temsilci Nickolay Mladenov'a göre, önceki yardım dağıtım mekanizmaları tahrip edilmiş durumda ve alternatif sistemler henüz devreye sokulamadı. Bu durum, bölgedeki ihtiyaç sahiplerine yardım ulaştırılmasını ciddi şekilde aksatıyor ve insani krizi derinleştiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6647121/pexels-photo-6647121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T08:02:14.069Z",
-        "location": {
-            "lat": 32,
-            "lng": 34.8,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/world/board-of-peace-official-says-israel-s-border-restrictions-main-obstacle-to-aid-delivery/3910263",
         "trendScore": 85,
         "isBreaking": false
     }
