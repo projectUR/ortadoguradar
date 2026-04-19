@@ -1237,24 +1237,15 @@ async function sendMessage() {
     chatMsgs.innerHTML += `<div id="${loadingId}" class="bot-msg" style="background: #252525; color: #aaa; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px; font-style: italic;">Radar verileri taranıyor...</div>`;
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
-    try {
-        // FETCH satırını tam olarak bu model ismiyle (flash-latest) değiştir:
-const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=" + GEMINI_API_KEY;
-        const response = await fetch(apiUrl, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                contents: [{ parts: [{ text: "Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: " + msg }] }]
-            })
-        });
-
+  try {
+        // Bu adres sana yetkin olan modellerin listesini verir
+        const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models?key=" + GEMINI_API_KEY;
+        const response = await fetch(apiUrl);
         const data = await response.json();
-        if (data.error) throw new Error(data.error.message);
-
-        const aiResponse = data.candidates[0].content.parts[0].text;
-        const loadingElement = document.getElementById(loadingId);
-        if (loadingElement) loadingElement.remove();
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
+        
+        // Modellerin listesini ekrana basıyoruz ki hatayı görelim
+        const modelNames = data.models ? data.models.map(m => m.name).join(", ") : "Hiç model bulunamadı!";
+        throw new Error("Yetkili olduğun modeller: " + modelNames);
     } catch (error) {
         console.error("Hata:", error);
         const loadingElement = document.getElementById(loadingId);
