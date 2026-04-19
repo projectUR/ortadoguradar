@@ -1,5 +1,53 @@
 [
     {
+        "id": "1776592269459ees0a",
+        "title": "İran ve ABD, Hürmüz Boğazı Çıkmazında Hala Çözümden Uzak",
+        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, Tahran'ın ABD'nin her an düşmanlıklara yeniden başlamasına tamamen hazır olduğunu bildirdi. Bu açıklama, İran ile ABD arasında Hürmüz Boğazı'ndaki çıkmazın devam ettiği ve iki ülkenin bir uzlaşmaya hala 'uzak' olduğu bir dönemde geldi. Kalibaf'ın sözleri, bölgedeki mevcut gerilimi ve potansiyel çatışma riskini vurgularken, Tahran'ın olası bir tırmanışa karşı hazırlıklı olduğunu gösteriyor. İki ülke arasındaki ilişkilerde herhangi bir ilerleme kaydedilemediği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36548655/pexels-photo-36548655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T09:51:09.459Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/19/iran-us-still-far-from-breakthrough-in-strait-of-hormuz-impasse?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776592348278sk3ua",
+        "title": "İran Cumhurbaşkanı Pezeshkian: Trump'ın Tahran'ı Nükleer Haklarından Mahrum Bırakma Hakkı Yok",
+        "summary": "İran Cumhurbaşkanı Pezeshkian, ABD Başkanı Donald Trump'ın Tahran'ı nükleer haklarından mahrum bırakma hakkı olmadığını belirtti. Pezeshkian'ın bu açıklaması, İran'ın nükleer programına yönelik uluslararası baskıların devam ettiği bir dönemde geldi. İran, nükleer faaliyetlerinin barışçıl amaçlı olduğunu savunurken, Batılı ülkeler programın askeri potansiyeli konusunda endişelerini dile getiriyor. Bu açıklama, İran'ın nükleer meselesindeki kararlı duruşunu ve egemenlik haklarına vurgusunu bir kez daha gösterdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33848676/pexels-photo-33848676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T09:52:28.278Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-is-seeking-to-end-war-with-dignity-says-president-pezeshkian/3911173",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177659237073357gsi",
+        "title": "İsrail Ordusu Gazze'de Bir Filistinliyi Öldürdü, Birini Yaraladı",
+        "summary": "Gazze Şeridi'nde İsrail ordusu tarafından düzenlenen operasyonda bir Filistinli hayatını kaybederken, bir başka Filistinli de yaralandı. Bölgedeki kaynaklar, bu olayın İsrail'in Gazze'deki ateşkes anlaşmasını ihlal eden devam eden eylemlerinin sonuncusu olduğunu bildirdi. Yaşanan bu saldırılar, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor ve uluslararası toplumda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T09:52:50.733Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/world/israeli-army-kills-1-palestinian-wounds-another-in-gaza/3911161",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776587583039bdoc0",
         "title": "İsrail İHA Saldırısında Gazze'de Filistinli Genç Yaralandı",
         "summary": "Anadolu Ajansı'nın tıbbi kaynaklara dayandırdığı bilgilere göre, Gazze Şeridi'nin orta kesimlerinde 16 yaşındaki bir Filistinli genç, İsrail insansız hava aracı saldırısında ağır yaralandı. Olay, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Yaralı genç, Al-Aksa Şehitleri Hastanesi'ne kaldırılarak tedavi altına alındı. Bu saldırı, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17764803600819dhy7",
-        "title": "Orta Doğu'daki Gerilimin Azalmasıyla Enerji Fiyatlarında Büyük Haftalık Düşüşler Yaşandı",
-        "summary": "Küresel enerji piyasalarında, Orta Doğu'daki gerilimin hafiflemesiyle birlikte önemli haftalık düşüşler kaydedildi. Haftalık bazda Brent petrol vadeli işlemleri %3,5, Batı Teksas Petrolü (WTI) %11,4 ve doğal gaz fiyatları %9,1 oranında geriledi. Bölgedeki jeopolitik risklerin azalması, piyasalardaki arz endişelerini hafifleterek fiyatlar üzerinde aşağı yönlü baskı oluşturdu. Bu düşüşler, enerji emtialarında yatırımcıların risk algısının değiştiğini ve piyasaların daha sakin bir döneme girdiğini gösteriyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/28779355/pexels-photo-28779355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T02:46:00.081Z",
-        "location": {
-            "lat": 30,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/energy-prices-post-huge-weekly-drops-amid-easing-tensions-in-middle-east/3910224",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776465857453opzt4",
-        "title": "İran, Trump'ın Nükleer Malzeme Teslim İddiasını Reddetti",
-        "summary": "İran, eski ABD Başkanı Donald Trump'ın ülkenin zenginleştirilmiş uranyum stoklarını teslim etme konusunda bir anlaşmaya vardığı yönündeki iddialarını kesin bir dille yalanladı. Trump, daha önce yaptığı açıklamalarda İran'ın nükleer materyallerini teslim etmeyi kabul ettiğini öne sürmüştü. Tahran yönetimi, bu iddiaların gerçeği yansıtmadığını ve nükleer programının barışçıl amaçlı olduğunu vurguladı. Bu gelişme, İran'ın nükleer faaliyetleri ve uluslararası toplumla ilişkileri üzerindeki tartışmaları yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9703551/pexels-photo-9703551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T22:44:17.453Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776465879068v4cyr",
-        "title": "Lübnan Devlet Başkanı: Ülke Artık Bir Piyon Değil",
-        "summary": "Lübnan Devlet Başkanı Joseph Aoun, İsrail ile yaşanan ateşkes sürecinde ülkesinin artık bir piyon olmadığını belirtti. Aoun, Lübnan'ın egemenliğini ve özgürlüğünü korumak için çalışmaya devam edeceğini vurguladı. Bu açıklama, bölgesel dinamikler ve Lübnan'ın komşu ülkelerle ilişkileri bağlamında ülkenin bağımsız duruşunu pekiştirme amacı taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T22:44:39.068Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
