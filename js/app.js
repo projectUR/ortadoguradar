@@ -1237,27 +1237,39 @@ async function sendMessage() {
     chatMsgs.innerHTML += `<div id="${loadingId}" class="bot-msg" style="background: #252525; color: #aaa; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px; font-style: italic;">Radar verileri taranıyor...</div>`;
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
-  try {
-        // Bu adres sana yetkin olan modellerin listesini verir
-        const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models?key=" + GEMINI_API_KEY;
-        const response = await fetch(apiUrl);
+ try {
+        // ARTIK HEDEF NET: gemini-2.5-flash
+        const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=" + GEMINI_API_KEY;
+
+        const response = await fetch(apiUrl, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                contents: [{ parts: [{ text: "Sen Orta Doğu Radar asistanısın. Kısa ve profesyonel cevap ver. Konu: " + msg }] }]
+            })
+        });
+
         const data = await response.json();
         
-        // Modellerin listesini ekrana basıyoruz ki hatayı görelim
-        const modelNames = data.models ? data.models.map(m => m.name).join(", ") : "Hiç model bulunamadı!";
-        throw new Error("Yetkili olduğun modeller: " + modelNames);
+        if (data.error) throw new Error(data.error.message);
+
+        const aiResponse = data.candidates[0].content.parts[0].text;
+        const loader = document.getElementById(loadingId);
+        if (loader) loader.remove();
+        
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; border-left: 3px solid #3498db; margin-bottom: 10px;">${aiResponse}</div>`;
+        
     } catch (error) {
-        console.error("Hata:", error);
-        const loadingElement = document.getElementById(loadingId);
-        if (loadingElement) loadingElement.remove();
-        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Bağlantı hatası: ${error.message}</div>`;
-    } finally {
+        console.error("Hata Detayı:", error);
+        const loader = document.getElementById(loadingId);
+        if (loader) loader.remove();
+        chatMsgs.innerHTML += `<div class="bot-msg" style="background: #c0392b; color: white; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px; margin-bottom: 10px;">Hata: ${error.message}</div>`;
+    } finally { // <--- BURADAKİ FAZLA PARANTEZİ SİLDİM, DOĞRUSU BUDUR
         input.disabled = false;
         input.focus();
         chatMsgs.scrollTop = chatMsgs.scrollHeight;
     }
-}
-
+} // sendMessage fonksiyonunu kapatan parantez tek olmalı
 // Bot kontrolleri
 function toggleChat() {
     const win = document.getElementById('chat-window');
