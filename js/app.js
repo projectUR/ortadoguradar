@@ -1238,9 +1238,8 @@ async function sendMessage() {
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
 
     try {
-        // 1.5-flash modeli İÇİN EN GARANTİ YOL BUDUR
-        const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
-
+        // FETCH satırını tam olarak bu model ismiyle (flash-latest) değiştir:
+const apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=" + GEMINI_API_KEY;
         const response = await fetch(apiUrl, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
