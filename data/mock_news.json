@@ -1,5 +1,101 @@
 [
     {
+        "id": "177658351368396vsg",
+        "title": "Nakit Sıkıntısı, Para Biriminin İstikrara Kavuşmasına Rağmen Yemen'i Etkisi Altına Aldı",
+        "summary": "Yemen'de para biriminin istikrara kavuşmasına yönelik adımlara rağmen, ülke genelinde nakit sıkıntısı derinleşiyor. Devam eden likidite krizi nedeniyle döviz büroları, para dönüştürme işlemlerini sınırlamak zorunda kalıyor. Bu durum, ekonomik zorluklarla mücadele eden Yemenliler arasında artan bir hayal kırıklığına neden oluyor. Nakit akışındaki bu aksaklıklar, halkın günlük yaşamını ve temel ihtiyaçlara erişimini olumsuz etkiliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/36095554/pexels-photo-36095554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T07:25:13.683Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 48.5,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/19/cash-shortages-grip-yemen-despite-currency-stabilisation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776583588670onn98",
+        "title": "İsrail-Lübnan Ateşkesi Hakkında Bildiklerimiz",
+        "summary": "İsrail ile Lübnan arasında on günlük bir ateşkes yürürlüğe girdi. Bölgedeki gerilimi azaltmayı hedefleyen bu ateşkes, iki ülke arasındaki çatışmaların durdurulması yönünde önemli bir adım olarak değerlendiriliyor. İran destekli Hizbullah örgütü de ateşkesi desteklediğini açıkladı. Bu gelişme, ABD ile İran arasındaki devam eden müzakerelerle eş zamanlı olarak yaşanıyor ve bölgesel dinamikler açısından dikkat çekiyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T07:26:28.670Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1776583614041k0ctt",
+        "title": "Güney Lübnan'da Ateşkesine Rağmen Bir İsrail Askeri Daha Öldürüldü, 9 Kişi Yaralandı",
+        "summary": "Güney Lübnan'da yaşanan son olayda, bir İsrail askeri hayatını kaybederken, dokuz asker de yaralandı. Olayın, bölgede ilan edilen ateşkese rağmen meydana geldiği belirtildi. Bu son kayıpla birlikte, 2 Mart tarihinden bu yana hayatını kaybeden İsrail askeri sayısı 15'e yükseldi. Bölgedeki gerilimin devam ettiği gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T07:26:54.041Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/another-israeli-soldier-killed-9-injured-in-southern-lebanon-despite-ceasefire/3911075",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17765836354274siwa",
+        "title": "İsrail ordusu Suriye'nin Kuneytra bölgesine yeni operasyon başlattı, prefabrik yapılar kurdu",
+        "summary": "İsrail ordusu, Suriye'nin Kuneytra bölgesine yeni bir askeri operasyon başlattı. Tanklarla desteklenen İsrail güçleri, Kuneytra'nın güney kesimlerine girdi. Bu gelişme, İsrail'in bölgeye prefabrik odalar ve bir buldozer getirmesinden bir gün sonra yaşandı. Operasyonun amacı ve kurulan prefabrik yapıların niteliği hakkında detay verilmezken, İsrail'in Suriye topraklarındaki askeri varlığını ve faaliyetlerini sürdürdüğü belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12357472/pexels-photo-12357472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T07:27:15.427Z",
+        "location": {
+            "lat": 33.106,
+            "lng": 35.795,
+            "name": "Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-new-incursion-into-syria-s-quneitra-sets-up-prefabricated-structures/3911068",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1776583658211a18k5",
+        "title": "Batı Şeria'da Filistinli Ev Kundaklandı, Yaşlı Kadına Saldırı Düzenlendi",
+        "summary": "Batı Şeria'da Filistinlilere ait bir ev ateşe verildi ve yaşlı bir kadın saldırıya uğradı. Olayda yaralanan Filistinli kadının üç oğlu gözaltına alındı. İsrail ordusu, Hebron ve Nablus şehirlerine baskınlar düzenledi. Bu olaylar, bölgedeki gerilimi artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4235993/pexels-photo-4235993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T07:27:38.211Z",
+        "location": {
+            "lat": 31.53,
+            "lng": 35.1,
+            "name": "Hebron, Nablus, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/world/israeli-occupiers-torch-palestinian-home-in-west-bank-assault-elderly-woman/3911066",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776583679667pd7em",
+        "title": "İsrailliler Lübnan'a Karşı Devam Eden Savaşı Protesto Etti",
+        "summary": "İsrail'in Hayfa kentinde yüzlerce kişi, Lübnan'a karşı devam eden savaşı protesto etmek amacıyla gösteri düzenledi. Protestocular, çatışmaların derhal sona erdirilmesi çağrısında bulunurken, hükümetin savaş politikalarını sert bir dille eleştirdi. Gösterilerde, bölgedeki gerilimin azaltılması ve diplomatik çözüm yollarının aranması gerektiği vurgulandı. Eylemciler, hükümetin mevcut yaklaşımının hem İsrail hem de Lübnan halkı için yıkıcı sonuçlar doğurduğunu belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27499944/pexels-photo-27499944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T07:27:59.667Z",
+        "location": {
+            "lat": 32.8,
+            "lng": 35,
+            "name": "Hayfa, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hundreds-of-israelis-protest-continuing-war-against-lebanon/3911056",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776577218842vsu0s",
         "title": "Britanya Aşırı Sağının Filistin'de Saygı Duyulan Bir Azizi Kutlaması",
         "summary": "Britanya'nın aşırı sağcı \"Britain First\" grubunun yüzlerce destekçisi, Aziz George'u kutlamak amacıyla Manchester sokaklarında bir yürüyüş gerçekleştirdi. Haber başlığı, Britanya aşırı sağının Filistin'de de saygı duyulan bu azizi neden kutladığı sorusunu gündeme getiriyor. Aziz George, Hristiyanlıkta önemli bir figür olmasının yanı sıra, Filistin'de hem Hristiyanlar hem de Müslümanlar tarafından Hızır adıyla hürmet gören bir azizdir. Bu durum, aşırı sağcı bir grubun kültürel ve dini sembolleri farklı coğrafyalardaki anlamlarıyla ilişkilendirmesi açısından dikkat çekiyor.",
@@ -702,101 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1776454805431kdmd3",
-        "title": "Akademisyen Rumeysa Öztürk, Trump Dönemi Sınır Dışı Baskılarının Ardından Türkiye'ye Döndü",
-        "summary": "Akademisyen Rumeysa Öztürk, eski ABD Başkanı Donald Trump döneminde karşılaştığı sınır dışı etme girişimlerinin ardından Türkiye'ye geri döndü. Öztürk, bu kararı, Trump yönetimi altında maruz kaldığı \"devletin uyguladığı şiddet ve düşmanlığa daha fazla zaman kaybetmemek\" amacıyla aldığını ifade etti. Bu gelişme, ABD'deki siyasi iklimin uluslararası akademisyenler üzerindeki etkilerini ve bireylerin yaşadığı zorlukları bir kez daha gözler önüne serdi. Öztürk'ün Türkiye'ye dönüşü, hem kişisel bir tercih hem de siyasi baskıların bir sonucu olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8390511/pexels-photo-8390511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T19:40:05.431Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Türkiye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/17/scholar-rumeysa-ozturk-returns-to-turkiye-following-trump-deportation-push?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1776449601091kf3vp",
-        "title": "İsrail Saldırıları Güney Lübnan'daki Tek Çalışan Hastaneyi Vurdu",
-        "summary": "Al Jazeera muhabiri Obaida Hitto'nun Tibnin Hastanesi'nden bildirdiğine göre, Güney Lübnan'ın tek işlevsel hastanesi olan Tibnin Hastanesi, İsrail saldırılarında hasar gördü. Bölgedeki sağlık hizmetleri için hayati öneme sahip olan bu hastanenin aldığı hasar, bölgedeki insani durumu daha da kötüleştirebilir. Saldırının detayları ve hastanenin mevcut durumu hakkında daha fazla bilgi bekleniyor. Bu olay, Lübnan-İsrail sınırındaki gerilimin artmaya devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32134727/pexels-photo-32134727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T18:13:21.091Z",
-        "location": {
-            "lat": 33.15,
-            "lng": 35.4,
-            "name": "Tibnin, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/17/southern-lebanons-only-functioning-hospital-damaged-by-israeli-strikes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1776422304560hinlw",
-        "title": "İran'a Yönelik Savaş Belirsizliği Avustralya'yı Enerji Güvenliği İçin Harekete Geçirdi",
-        "summary": "İran'a yönelik olası bir savaşın yarattığı belirsizlik ortamında Avustralya, enerji güvenliğini sağlamak için yoğun çaba sarf ediyor. İthal petrole büyük ölçüde bağımlı olan ülke, enerji arzında yaşanabilecek aksaklıklara karşı önlemler almayı hedefliyor. Bu kapsamda Avustralya hükümeti, bölgesel diplomatik girişimlerden iç tüketimi azaltmaya yönelik adımlara kadar çeşitli hızlı çözümler üzerinde duruyor. Haber, Orta Doğu'daki jeopolitik gelişmelerin küresel enerji piyasaları ve ülkelerin enerji politikaları üzerindeki etkisini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T10:38:24.560Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/17/australia-scrambles-to-secure-energy-as-war-on-iran-fuels-uncertainty?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17764178052014hqgh",
-        "title": "Sudan Başbakanı: Bu, savaşın dehşetinden çıkış yoludur",
-        "summary": "Sudan Başbakanı Kamil Idris, ülkesindeki savaşı sona erdirme, ülkeyi yeniden inşa etme ve sivil yönetimi yeniden tesis etme vizyonunu açıkladı. Başbakan, hükümetinin bu hedeflere ulaşmak için izleyeceği yolu detaylandırdı. Açıklamada, mevcut çatışma ortamından kalıcı bir çıkış sağlanarak barış ve istikrarın yeniden tesis edilmesi amaçlanıyor. Bu adımların, Sudan'ın geleceği için kritik öneme sahip olduğu vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10932618/pexels-photo-10932618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T09:23:25.201Z",
-        "location": {
-            "lat": 15.5007,
-            "lng": 32.5596,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/4/17/sudans-prime-minister-this-is-the-path-out-of-the-horrors-of-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776417830844d5jyi",
-        "title": "İnsan Hakları İzleme Örgütü'nden AB-İsrail Ticaret Anlaşması'nın Askıya Alınması Çağrısı",
-        "summary": "İnsan Hakları İzleme Örgütü (Human Rights Watch) yetkilileri, Avrupa Birliği ile İsrail arasındaki ticaret anlaşmasının askıya alınması zamanının geldiğini belirtti. Bu açıklama, İsrail'in Filistinliler için ölüm cezası yasasını onaylamasının ardından gelen eleştiriler üzerine yapıldı. Örgüt, İsrail'in bu kararının uluslararası insan hakları standartlarına aykırı olduğunu ve bölgedeki gerilimi artırabileceğini ifade etti. AB'nin insan hakları değerlerine bağlılığını göstermesi ve İsrail'e bu konuda baskı yapması gerektiği vurgulandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8898645/pexels-photo-8898645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T09:23:50.844Z",
-        "location": {
-            "lat": 31.76,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/europe/human-rights-watch-official-says-time-has-come-to-suspend-eu-israel-trade-deal/3909050",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776417856228kfz8v",
-        "title": "Washington, Suriye-İsrail Diplomasisinde Gerekli Görülen Yerde Etki Kullanıyor: ABD'nin Türkiye Büyükelçisi",
-        "summary": "ABD'nin Türkiye Büyükelçisi Barrack, Antalya Diplomasi Forumu'nda Anadolu Ajansı'na yaptığı açıklamada, Washington'ın Suriye-İsrail arasındaki diplomatik süreçlerde \"gerektiği yerde\" etkisini kullandığını belirtti. Büyükelçi Barrack, bölgelerin kendi sorunlarını kendilerinin çözmesi gerektiği çağrısında bulundu. Ayrıca, Suriye'nin gelecekteki gidişatı konusunda \"gerçekten umutlu\" olduğunu ifade etti. Bu açıklamalar, ABD'nin Orta Doğu'daki diplomatik çabalarına ve bölgesel dinamiklere yönelik bakış açısını ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-17T09:24:16.228Z",
-        "location": {
-            "lat": 36.8969,
-            "lng": 30.7133,
-            "name": "Antalya, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/washington-exerts-influence-where-necessary-on-syria-israel-diplomacy-us-envoy-to-turkiye/3909037",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
