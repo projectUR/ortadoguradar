@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776618463378dopy3",
+        "title": "ABD-İran Gerilimi: Hürmüz Boğazı Üzerindeki Çıkmaz ve Trump'tan Ateşkes İhlali Suçlaması",
+        "summary": "ABD ile İran arasındaki Hürmüz Boğazı üzerindeki gerilim devam ediyor. ABD Başkanı Trump, İran'ı ateşkesi ihlal etmekle suçlayarak iki ülke arasındaki mevcut çıkmazı daha da derinleştirdi. Trump, gerilimi azaltma ve daha fazla görüşme yapmak amacıyla ABD'li müzakerecileri Pakistan'a gönderme planlarını duyurdu. Bu diplomatik adım, bölgedeki tansiyonu düşürme çabalarının bir parçası olarak değerlendiriliyor. Ancak, ateşkes ihlali iddiaları müzakerelerin seyrini etkileyebilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/23384426/pexels-photo-23384426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T17:07:43.378Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776618531270a4mc3",
+        "title": "İsrail Ordusu, Güney Lübnan'daki 'İleri Savunma Hattı' ve Birlik Pozisyonlarının Haritasını Yayımladı",
+        "summary": "İsrail ordusu, güney Lübnan'da 'ileri savunma hattı' olarak tanımladığı bölgeye ilişkin bir harita yayımladı. Haritada, İsrail birliklerinin Lübnan toprakları içindeki pozisyonları gösterildi. İsrail Savunma Bakanı, İsrail güçlerinin Lübnan topraklarına 12 kilometre ilerlediğini doğruladı. Bakan ayrıca, İsrail'in işgal ettiği tüm bölgeler üzerinde kontrolü sürdürme niyetinde olduğunu belirtti. Bu gelişmeler, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14015957/pexels-photo-14015957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-19T17:08:51.271Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-releases-map-of-forward-defense-line-troop-positions-in-southern-lebanon/3911472",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17766041640370p2qx",
         "title": "Trump: ABD Müzakerecileri İran Ateşkes Görüşmeleri İçin Pakistan'a Gidecek",
         "summary": "ABD Başkanı Donald Trump, Amerikalı müzakerecilerin İran ile ateşkes görüşmeleri yapmak üzere Pakistan'a gideceğini duyurdu. Trump, İran'ın 'anlaşmayı kabul etmemesi' durumunda ciddi sonuçlarla karşılaşacağı uyarısında bulundu. Bu açıklama, ABD ile İran arasındaki gerilimin devam ettiği bir dönemde geldi ve bölgedeki diplomatik çabaların genişlediğini gösteriyor. Görüşmelerin Pakistan'da yapılacak olması, taraflar arasında arabuluculuk arayışlarının bir parçası olarak değerlendiriliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776494908823eoffc",
-        "title": "İran, Hürmüz Boğazı'nın Açık Olduğunu Duyurdu, Ancak Gemi Trafiği Düşük Seyrediyor",
-        "summary": "İran, stratejik Hürmüz Boğazı'nın uluslararası deniz trafiğine açık olduğunu bildirdi. Ancak, gemi takip verileri boğazdaki hareketliliğin düşük seviyede olduğunu gösteriyor. ABD Başkanı Donald Trump, Tahran'ın bu açıklamasını memnuniyetle karşıladığını ifade etti. Bununla birlikte Trump, bir barış anlaşmasına varılana kadar ABD deniz ablukasının devam edeceğini belirtti. Bu durum, bölgedeki gerilimi ve denizcilik güvenliği konusundaki belirsizliği sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9550526/pexels-photo-9550526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T06:48:28.823Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776494929128t5zv0",
-        "title": "Risk ve Fırsat Anı: İki Ateşkes ABD-İran Görüşmelerini Nasıl Canlandırabilir?",
-        "summary": "Amerika Birleşik Devletleri ile İran arasındaki diplomatik ilişkilerde yeni bir döneme girildiği belirtilmektedir. Haberde, mevcut iki ateşkesin, iki ülke arasındaki müzakereleri hızlandırma potansiyeli taşıdığı ifade edilmektedir. Bu durum, hem bölgedeki gerilimi azaltma hem de yeni işbirliği alanları yaratma açısından bir fırsat olarak değerlendirilmektedir. Ancak, devam eden diplomatik ilerlemenin, olası bir çatışmayı önlemek için yeterli olup olmadığı sorusu gündemdeki yerini korumaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8770999/pexels-photo-8770999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T06:48:49.128Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
