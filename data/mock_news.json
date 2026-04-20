@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776710083948sgzvd",
+        "title": "BAE, İran bağlantılı 'terör' hücresinin çökertildiğini duyurdu",
+        "summary": "Birleşik Arap Emirlikleri (BAE) yetkilileri, İran ile bağlantılı olduğu iddia edilen bir \"terör\" hücresinin çökertildiğini ve üyelerinin tutuklandığını bildirdi. Bu operasyon, BAE'nin Körfez komşularına yönelik İran saldırılarının etkilerini yoğun bir şekilde hissetmesinin ardından geldi. Haberde, çökertilen hücrenin faaliyetleri veya tutuklanan kişi sayısı hakkında detay verilmedi. BAE, bölgesel güvenlik ve istikrarı tehdit eden unsurlara karşı mücadelesini sürdürdüğünü vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13530046/pexels-photo-13530046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T18:34:43.948Z",
+        "location": {
+            "lat": 24.4539,
+            "lng": 54.3773,
+            "name": "Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/20/uae-reports-dismantling-of-iran-linked-terror-cell?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776704913620lna80",
         "title": "Uganda ve Kongo Güçleri, IŞİD Destekli ADF'den 200 Kişiyi Kurtardı",
         "summary": "Uganda ve Kongo Demokratik Cumhuriyeti (KDC) güvenlik güçleri, terör örgütü IŞİD ile bağlantılı Müttefik Demokratik Güçler (ADF) tarafından alıkonulan 200 sivili kurtardı. Ortak operasyon, iki ülkenin sınır bölgelerinde ADF'nin faaliyet gösterdiği alanlarda gerçekleştirildi. ADF, Orta Afrika'da uzun süredir aktif olan ve son yıllarda IŞİD'den destek aldığı bilinen radikal bir grup olarak tanınıyor. Kurtarılan sivillerin sağlık durumları ve kimlikleri hakkında detaylı bilgi verilmezken, güvenlik birimleri bölgedeki operasyonlarını sürdürüyor. Bu kurtarma operasyonu, bölgedeki terör tehdidine karşı uluslararası işbirliğinin önemini bir kez daha ortaya koydu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/18/ambulance-crew-in-south-lebanon-describes-israels-triple-tap-attack?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17765105443003xujh",
-        "title": "Hürmüz Boğazı'nda Yeni Kriz: Petrol Fiyatları Düşüşte",
-        "summary": "Petrol fiyatları haftalar sonra 91 doların altına gerilerken, Hürmüz Boğazı'nda yeni bir krizin baş gösterdiği bildirildi. İran'ın, daha önce açacağını duyurduğu su yolunu ABD ablukası gerekçesiyle yeniden kapatma kararı alması piyasalarda yankı buldu. Bu gelişme üzerine Brent petrol fiyatları yüzde 9'dan fazla düşüş kaydetti. İran'ın bu adımı, bölgedeki jeopolitik gerilimi artırarak küresel enerji tedarik zincirleri üzerindeki endişeleri yükseltti.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/36152063/pexels-photo-36152063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T11:09:04.300Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/18/as-oil-prices-plunge-below-91-after-weeks-a-new-hormuz-crisis-emerges?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
