@@ -1,5 +1,37 @@
 [
     {
+        "id": "17766486063425griv",
+        "title": "İran, ABD'yi 'Korsanlıkla' Suçladı, Misilleme Sözü Verdi",
+        "summary": "İran, bir gemi ele geçirme olayının ardından Amerika Birleşik Devletleri'ni 'korsanlık' yapmakla suçlayarak misilleme yapma sözü verdi. Tahran yönetimi, bu eylemin uluslararası hukuka aykırı olduğunu belirtti. Söz konusu gerilim, ABD Başkanı Donald Trump'ın ekibini olası görüşmeler için Pakistan'ın başkenti İslamabad'a göndereceğini açıklamasından sadece saatler sonra meydana geldi. Bu durum, Washington ile Tahran arasındaki mevcut tansiyonun daha da yükseldiğine işaret ediyor. Bölgedeki gelişmeler yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36548662/pexels-photo-36548662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T01:30:06.342Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1776648697587wygrr",
+        "title": "İsrailli asker Güney Lübnan'da İsa heykelini parçalarken görüntülendi: Rapor",
+        "summary": "Güney Lübnan'daki Deir Siryan köyünde bir İsrail askerinin İsa heykeli parçalarken çekilen görüntüleri ortaya çıktı. Görüntülerin sosyal medyada yayılmasının ardından İsrail ordusu, olayın araştırılacağını duyurdu. Bu olay, bölgedeki hassas durumu ve askeri personel davranışlarının potansiyel yansımalarını bir kez daha gündeme getirdi. Heykelin parçalanması, dini ve kültürel değerlere yönelik bir saygısızlık olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9657770/pexels-photo-9657770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T01:31:37.587Z",
+        "location": {
+            "lat": 33.25,
+            "lng": 35.5,
+            "name": "Deir Siryan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-filmed-smashing-jesus-statue-in-southern-lebanon-report/3911654",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1776639873313akn63",
         "title": "Arjantin Devlet Başkanı Milei, Kudüs Ziyaretinde ABD ve İsrail'in İran'a Karşı Savaşını Destekledi",
         "summary": "Arjantin Devlet Başkanı Javier Milei, Kudüs'e gerçekleştirdiği ziyaret sırasında ABD ve İsrail ile olan uyumunu bir kez daha teyit etti. Bu diplomatik ziyaret kapsamında Milei, ABD ve İsrail'in İran'a karşı yürüttüğü 'savaşı' desteklediğini açıkça ifade etti. Arjantin liderinin bu açıklamaları, ülkesinin Orta Doğu'daki jeopolitik duruşunu ve bölgesel güç dengelerine yönelik yaklaşımını netleştirdi. Söz konusu destek, uluslararası arenada önemli bir diplomatik hamle olarak değerlendirilirken, bölgedeki gerilimi artırma potansiyeli taşıyor.",
@@ -764,38 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aa.com.tr/en/world/uk-france-to-lead-multinational-mission-to-protect-navigation-of-hormuz-as-soon-as-conditions-allow/3910419",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776504445395qok6i",
-        "title": "İran Hava Sahasının Kısmen Yeniden Açıldığını Duyurdu",
-        "summary": "İran, uluslararası uçuşlara yönelik hava sahasının kısmen yeniden açıldığını bildirdi. İran Sivil Havacılık Teşkilatı'ndan yapılan açıklamaya göre, uluslararası uçuşların artık ülkenin doğu hava sahasından transit geçişine izin veriliyor. Bu karar, bölgedeki hava trafiği akışını etkileyebilecek önemli bir gelişme olarak değerlendiriliyor. Hava sahasının yeniden açılması, uluslararası havayolu şirketleri için yeni rotalar ve operasyonel kolaylıklar sağlayabilir. İran'ın bu adımı, havacılık sektöründeki normalleşme çabalarının bir parçası olarak yorumlanıyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/33836584/pexels-photo-33836584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T09:27:25.395Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/world/iran-announces-partial-reopening-of-airspace/3910345",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776499309352bikq2",
-        "title": "ABD, Sudan'daki Çatışmayla Bağlantılı Olduğu İddia Edilen 5 Aktöre Yaptırım Uyguladı",
-        "summary": "Amerika Birleşik Devletleri, Sudan'daki çatışmalarla bağlantılı olduğu iddia edilen beş aktöre yaptırım uygulama kararı aldı. Bu yaptırımlar, Sudan'daki iç savaşın dördüncü yılına girdiği bir dönemde geldi. ABD Dışişleri Bakanlığı, Sudan'da kalıcı bir barışın sağlanması yönündeki taahhüdünü sürdürdüğünü belirtti. Yaptırımların, çatışmanın tarafları üzerindeki baskıyı artırmayı hedeflediği düşünülüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33700907/pexels-photo-33700907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T08:01:49.352Z",
-        "location": {
-            "lat": 15.5007,
-            "lng": 32.5599,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-imposes-sanctions-on-5-actors-for-alleged-sudan-war-links-as-conflict-enters-4th-year/3910265",
         "trendScore": 85,
         "isBreaking": false
     }
