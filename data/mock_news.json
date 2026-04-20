@@ -1,5 +1,21 @@
 [
     {
+        "id": "177666635354420qun",
+        "title": "İsrail ile Ateşkes Lübnan'a Nefes Aldırdı, Ancak Barışın Önündeki Engeller Sürüyor",
+        "summary": "İsrail ile Lübnan arasında haftalar süren çatışmaların sona ermesi, Lübnan'da büyük bir rahatlama ve sevinçle karşılandı. Ülke genelinde yaşanan bu ateşkes, halka geçici bir nefes alma imkanı sundu. Ancak, bölgedeki kaynaklar ve analistler, bu ateşkesin kalıcı bir barışa dönüşmesinin önünde ciddi engellerin bulunduğunu belirtiyor. Taraflar arasındaki güvensizlik ve temel sorunların çözülememesi, barış sürecinin kırılganlığını koruduğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-20T06:25:53.544Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776657513433upeu6",
         "title": "Petrol Fiyatları, ABD-İran Barış Görüşmelerindeki Çelişkili Sinyallerle Yükseldi",
         "summary": "Brent ham petrol fiyatları, ABD ve İran'dan gelen ateşkes müzakerelerine ilişkin çelişkili açıklamaların ardından yüzde 7'den fazla artış gösterdi. Washington ve Tahran arasındaki barış görüşmelerine dair belirsizlik, küresel enerji piyasalarında dalgalanmalara yol açtı. İran'ın önemli bir petrol üreticisi olması ve ABD ile ilişkilerinin bölgedeki istikrarı doğrudan etkilemesi, piyasalardaki bu hassasiyeti artırdı. Taraflar arasındaki müzakerelerin seyri ve olası bir anlaşmanın içeriği, petrol arzı ve fiyatları üzerinde belirleyici olmaya devam ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/4/18/man-city-vs-arsenal-all-you-need-to-know-about-title-showdown?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776504349164xzhos",
-        "title": "İsrail Polisi Mescid-i Aksa'da Çocukların Futbol Toplarına El Koyup İmha Etti",
-        "summary": "Kudüs'teki Mescid-i Aksa yerleşkesinde İsrail polisi tarafından dikkat çeken bir müdahale gerçekleştirildi. Bölgede futbol oynayan çocukların toplarına el koyan polis güçleri, bu topları daha sonra imha etti. Olay, Mescid-i Aksa'nın hassas statüsü ve bölgedeki gerilimler bağlamında değerlendiriliyor. Çocukların oyun haklarına yönelik bu müdahale, uluslararası kamuoyunda da tartışma konusu olmaya aday.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5443980/pexels-photo-5443980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T09:25:49.164Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/18/israeli-police-destroy-childrens-footballs-at-al-aqsa-mosque?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
