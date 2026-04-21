@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776808498179ye42o",
+        "title": "AB, İran Kaynaklı Gerilim Nedeniyle Jet Yakıtı Kıtlığı Tehdidine Karşı Seçenekleri Değerlendiriyor",
+        "summary": "Avrupa Birliği, İran ile ilgili çatışmanın potansiyel jet yakıtı kıtlığı tehdidi nedeniyle alternatifleri değerlendiriyor. Haber, Hürmüz Boğazı'nın abluka altına alınmasının Avrupa'da ciddi endişelere yol açtığını belirtiyor. Zira Avrupa, ithal jet yakıtına büyük ölçüde bağımlı bir konumda bulunuyor. Bu durum, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji tedarik zincirleri üzerindeki doğrudan etkisini gözler önüne seriyor. AB'nin bu duruma karşı çözüm arayışında olduğu ifade ediliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/36488785/pexels-photo-36488785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T21:54:58.179Z",
+        "location": {
+            "lat": 26.25,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776805052974s9gtu",
         "title": "IOM: 2025 Yılında Göç Yollarında Yaklaşık 8.000 Kişi Hayatını Kaybetti veya Kayboldu",
         "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), 2025 yılına ilişkin yayımladığı raporda, dünya genelindeki göç yollarında yaklaşık 8.000 kişinin hayatını kaybettiğini veya kaybolduğunu bildirdi. Kurumun açıklamasına göre, bu ölümlerin ve kaybolmaların yüzde 40'ından fazlası Avrupa'ya ulaşmaya çalışan göçmenlerin kullandığı deniz rotalarında gerçekleşti. Özellikle Akdeniz'deki tehlikeli geçişler, can kayıplarının önemli bir kısmını oluşturuyor. IOM, bu durumun göçmenlerin karşılaştığı risklerin ciddiyetini bir kez daha gözler önüne serdiğini vurguladı.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-is-seeking-to-end-war-with-dignity-says-president-pezeshkian/3911173",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177659237073357gsi",
-        "title": "İsrail Ordusu Gazze'de Bir Filistinliyi Öldürdü, Birini Yaraladı",
-        "summary": "Gazze Şeridi'nde İsrail ordusu tarafından düzenlenen operasyonda bir Filistinli hayatını kaybederken, bir başka Filistinli de yaralandı. Bölgedeki kaynaklar, bu olayın İsrail'in Gazze'deki ateşkes anlaşmasını ihlal eden devam eden eylemlerinin sonuncusu olduğunu bildirdi. Yaşanan bu saldırılar, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor ve uluslararası toplumda endişelere yol açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T09:52:50.733Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/world/israeli-army-kills-1-palestinian-wounds-another-in-gaza/3911161",
         "trendScore": 85,
         "isBreaking": false
     }
