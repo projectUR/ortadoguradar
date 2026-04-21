@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776800748614cadez",
+        "title": "Nikaragua Devlet Başkanı'ndan Trump'a İran Eleştirisi",
+        "summary": "Nikaragua Devlet Başkanı, ABD Başkanı Donald Trump'ı İran'a yönelik olası bir savaş politikası nedeniyle sert bir dille eleştirdi. Nikaragua lideri, Trump'ın bu konudaki tutumunu 'akli dengesi bozuk' olarak nitelendirdi. Bu açıklama, ABD ile İran arasındaki gerilimin uluslararası alanda farklı ülkelerden de tepki çektiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T19:45:48.614Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/21/nicaraguas-president-says-trump-mentally-deranged-over-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776800864718g2oxw",
+        "title": "Papa Francis'in Vefatından Bir Yıl Sonra Popemobile Çocuk Kliniği Gazze'ye Ulaşamadı",
+        "summary": "Papa Francis'in son dileklerinden biri, kendi aracının Gazze'deki çocuklar için bir kliniğe dönüştürülerek kullanılmasıydı. Bu insani yardım projesi kapsamında, Popemobile'ın Gazze'ye gönderilmesi hedefleniyordu. Ancak, Papa'nın vefatının üzerinden bir yıl geçmesine rağmen, projeyi yürüten yardım kuruluşu hala aracın bölgeye girişi için gerekli izinleri beklemektedir. Bu durum, Gazze'ye yönelik insani yardım çabalarının karşılaştığı bürokratik ve lojistik zorlukları bir kez daha ortaya koymaktadır. Kliniğin bölgeye ulaşamaması, Gazze'deki çocukların sağlık hizmetlerine erişimindeki mevcut sıkıntıları derinleştirmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T19:47:44.718Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/c5ywj0n6pkyo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "1776771582070qxc66",
         "title": "Hürmüz Boğazı: Bir Tehditten Stratejik Bir Kontrol Mekanizmasına Dönüşüm",
         "summary": "Haber, Hürmüz Boğazı'nın küresel güç dengelerini ve dünya ekonomisini şekillendiren bir kontrol sistemine nasıl dönüştüğünü inceliyor. Boğazın başlangıçta bir tehdit unsuru olarak algılanmasından, zamanla jeopolitik bir strateji ve kontrol mekanizması haline gelme süreci ele alınıyor. Uluslararası ticaret yolları üzerindeki kritik etkisi ve enerji arzı güvenliği açısından taşıdığı önem vurgulanıyor. Bu durum, boğazın sadece bir geçiş noktası olmaktan çıkarak bölgesel ve küresel aktörler için stratejik bir araç haline geldiğini gösteriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/19/cash-shortages-grip-yemen-despite-currency-stabilisation?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1776583588670onn98",
-        "title": "İsrail-Lübnan Ateşkesi Hakkında Bildiklerimiz",
-        "summary": "İsrail ile Lübnan arasında on günlük bir ateşkes yürürlüğe girdi. Bölgedeki gerilimi azaltmayı hedefleyen bu ateşkes, iki ülke arasındaki çatışmaların durdurulması yönünde önemli bir adım olarak değerlendiriliyor. İran destekli Hizbullah örgütü de ateşkesi desteklediğini açıkladı. Bu gelişme, ABD ile İran arasındaki devam eden müzakerelerle eş zamanlı olarak yaşanıyor ve bölgesel dinamikler açısından dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T07:26:28.670Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1776583614041k0ctt",
-        "title": "Güney Lübnan'da Ateşkesine Rağmen Bir İsrail Askeri Daha Öldürüldü, 9 Kişi Yaralandı",
-        "summary": "Güney Lübnan'da yaşanan son olayda, bir İsrail askeri hayatını kaybederken, dokuz asker de yaralandı. Olayın, bölgede ilan edilen ateşkese rağmen meydana geldiği belirtildi. Bu son kayıpla birlikte, 2 Mart tarihinden bu yana hayatını kaybeden İsrail askeri sayısı 15'e yükseldi. Bölgedeki gerilimin devam ettiği gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-19T07:26:54.041Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/another-israeli-soldier-killed-9-injured-in-southern-lebanon-despite-ceasefire/3911075",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
