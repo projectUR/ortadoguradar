@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776743562322igpqs",
+        "title": "Küresel Sumud Filosu, İsrail'e Giden Kargo Gemisini Engelledi",
+        "summary": "Küresel Sumud Filosu aktivistleri, İsrail'e malzeme taşıdığını iddia ettikleri bir kargo gemisinin seyrini engelledi. Aktivistler, söz konusu geminin İsrail silahları için kritik malzemeler taşıdığını ileri sürdü. Bu eylem, İsrail'in askeri operasyonlarına karşı uluslararası protestoların bir parçası olarak gerçekleştirildi. Olayın, Doğu Akdeniz'deki deniz taşımacılığı güvenliği ve bölgesel gerilimler üzerinde etkileri olabileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32995076/pexels-photo-32995076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-21T03:52:42.322Z",
+        "location": {
+            "lat": 33,
+            "lng": 34.5,
+            "name": "İsrail Açıkları, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/21/global-sumud-flotilla-disrupts-cargo-ship-bound-for-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776730016620w3n83",
         "title": "Uluslararası Af Örgütü, insan hakları gerilerken Netanyahu, Putin ve Trump'ı 'yırtıcı' olmakla eleştirdi",
         "summary": "Uluslararası Af Örgütü, küresel insan hakları durumunun kötüleştiğini belirterek İsrail Başbakanı Binyamin Netanyahu, Rusya Devlet Başkanı Vladimir Putin ve eski ABD Başkanı Donald Trump'ı sert bir dille eleştirdi. Örgüt, bu liderleri 'yırtıcı' olarak nitelendirerek, yıkıcı savaşların arkasındaki isimler olduklarını ve diğer devletlere insan hakları ihlalleri yapma konusunda ilham verdiklerini ifade etti. Açıklamada, bu liderlerin politikalarının dünya genelinde insan hakları standartlarının düşmesine yol açtığı vurgulandı. Af Örgütü, uluslararası hukukun ve insan hakları değerlerinin korunması çağrısında bulundu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/18/trump-claims-on-iranian-concessions-trigger-questions-rejections-in-tehran?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1776518469657h6nq7",
-        "title": "Kölelik Tazminatları Adil, Ancak Kim Kime Borçlu?",
-        "summary": "Kölelik tazminatları konusundaki küresel tartışmalar, adalet arayışının karmaşıklığını gözler önüne seriyor. Haber, köle ticaretinden ve sömürgeleştirmeden bazı Afrikalı elitlerin de fayda sağladığına dikkat çekiyor. Bu durum, tazminat tartışmalarında kimin kime borçlu olduğu sorusunu daha da derinleştirerek, sorumluluğun tek taraflı olmadığını vurguluyor. Tarihsel adaletsizliklerin telafisi sürecinde, tüm aktörlerin rolünün kapsamlı bir şekilde değerlendirilmesi gerektiği belirtiliyor. Bu yaklaşım, tazminat taleplerinin ve ödemelerinin daha adil bir zeminde ele alınmasına olanak tanıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/12267861/pexels-photo-12267861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-18T13:21:09.657Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/4/18/slavery-reparations-are-just-but-who-exactly-owes-whom?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
