@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776893220077e3nh9",
+        "title": "Erdoğan: Türkiye, Rusya-Ukrayna görüşmelerini canlandırma çabalarını sürdürüyor",
+        "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, ülkesinin Rusya ile Ukrayna arasındaki barış görüşmelerini yeniden canlandırma yönündeki çabalarını sürdürdüğünü belirtti. Bu açıklama, Cumhurbaşkanı Erdoğan'ın NATO Genel Sekreteri ile bir araya gelmesinin ardından geldi. Ukrayna'nın başkenti Kiev'in, Ankara'dan Rusya ile liderler düzeyinde bir toplantıya ev sahipliği yapmasını talep ettiği bildirildi. Türkiye, savaşın başından bu yana iki ülke arasında arabuluculuk rolü üstlenmişti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868979/pexels-photo-7868979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-22T21:27:00.077Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/22/turkiye-making-efforts-to-revive-russia-ukraine-talks-says-erdogan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776883166328ovc6l",
         "title": "İngiltere'deki üniversitelerin Filistin yanlısı öğrencileri izlettiği iddiaları",
         "summary": "İngiltere'deki üniversitelerin, Filistin yanlısı öğrencileri izlemek amacıyla askeri istihbarat bağlantıları bulunan bir güvenlik firmasıyla anlaştığı iddia edildi. Bu iddialar, üniversite yönetimlerinin öğrenci aktivizmini hedef aldığı ve gözetim altında tuttuğu yönünde ciddi endişelere yol açtı. Durum, ifade özgürlüğü ve öğrenci hakları konularında geniş çaplı tartışmaları beraberinde getirirken, Filistin yanlısı öğrenci hareketlerinin küresel çapta destek ve protestoları devam ediyor. Söz konusu iddiaların doğruluğu ve üniversitelerin bu konudaki tutumu kamuoyunda yakından takip edilmektedir.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776657513433upeu6",
-        "title": "Petrol Fiyatları, ABD-İran Barış Görüşmelerindeki Çelişkili Sinyallerle Yükseldi",
-        "summary": "Brent ham petrol fiyatları, ABD ve İran'dan gelen ateşkes müzakerelerine ilişkin çelişkili açıklamaların ardından yüzde 7'den fazla artış gösterdi. Washington ve Tahran arasındaki barış görüşmelerine dair belirsizlik, küresel enerji piyasalarında dalgalanmalara yol açtı. İran'ın önemli bir petrol üreticisi olması ve ABD ile ilişkilerinin bölgedeki istikrarı doğrudan etkilemesi, piyasalardaki bu hassasiyeti artırdı. Taraflar arasındaki müzakerelerin seyri ve olası bir anlaşmanın içeriği, petrol arzı ve fiyatları üzerinde belirleyici olmaya devam ediyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/32357268/pexels-photo-32357268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T03:58:33.433Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
