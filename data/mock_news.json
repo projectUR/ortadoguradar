@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776873098946ur18b",
+        "title": "Ukrayna İHA'ları Rus Petrol Rafinerisini Vurdu: Yangınlar Çıktı",
+        "summary": "Rusya'nın Karadeniz kıyısındaki Tuapse kentinde bulunan bir petrol rafinerisinde Ukrayna insansız hava araçlarının (İHA) saldırısı sonucu büyük yangınlar çıktığı bildirildi. Yerel yetkililer, yüzlerce itfaiyecinin tesiste çıkan alevleri kontrol altına almak için yoğun çaba gösterdiğini belirtti. Bu saldırı, Rusya-Ukrayna savaşının enerji altyapısına yönelik devam eden saldırılar zincirinin bir parçası olarak değerlendiriliyor. Rusya'nın önemli enerji tesislerine yönelik bu tür eylemler, küresel enerji piyasalarında belirsizliğe yol açarak petrol fiyatları üzerinde etkili olabilmektedir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/10407691/pexels-photo-10407691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-22T15:51:38.946Z",
+        "location": {
+            "lat": 44.1,
+            "lng": 39.08,
+            "name": "Tuapse, Rusya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/22/fires-ignited-by-ukrainian-drones-rage-at-russian-oil-refinery?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1776854913173i7h24",
         "title": "İran'ın savaş gemisi Umman açıklarında konteyner gemisine ateş açtı",
         "summary": "İran Devrim Muhafızları Ordusu'na (IRGC) ait bir savaş gemisi, Umman açıklarında seyreden bir konteyner gemisine ateş açtı. IRGC tarafından yapılan açıklamada, bu eylemin ABD'nin bir İran ticari gemisine el koymasına karşılık olarak gerçekleştirildiği ifade edildi. Olay, bölgedeki deniz güvenliği ve uluslararası sulardaki gerilimleri bir kez daha gündeme getirdi. Bu gelişme, İran ile ABD arasındaki dolaylı çatışmaların denizlerdeki yansımalarından biri olarak değerlendirilmektedir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/trump-says-us-forces-intercepted-iranian-cargo-ship-breaching-naval-blockade/3911611",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17766486063425griv",
-        "title": "İran, ABD'yi 'Korsanlıkla' Suçladı, Misilleme Sözü Verdi",
-        "summary": "İran, bir gemi ele geçirme olayının ardından Amerika Birleşik Devletleri'ni 'korsanlık' yapmakla suçlayarak misilleme yapma sözü verdi. Tahran yönetimi, bu eylemin uluslararası hukuka aykırı olduğunu belirtti. Söz konusu gerilim, ABD Başkanı Donald Trump'ın ekibini olası görüşmeler için Pakistan'ın başkenti İslamabad'a göndereceğini açıklamasından sadece saatler sonra meydana geldi. Bu durum, Washington ile Tahran arasındaki mevcut tansiyonun daha da yükseldiğine işaret ediyor. Bölgedeki gelişmeler yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36548662/pexels-photo-36548662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T01:30:06.342Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
