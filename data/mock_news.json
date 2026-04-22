@@ -1,5 +1,21 @@
 [
     {
+        "id": "1776854913173i7h24",
+        "title": "İran'ın savaş gemisi Umman açıklarında konteyner gemisine ateş açtı",
+        "summary": "İran Devrim Muhafızları Ordusu'na (IRGC) ait bir savaş gemisi, Umman açıklarında seyreden bir konteyner gemisine ateş açtı. IRGC tarafından yapılan açıklamada, bu eylemin ABD'nin bir İran ticari gemisine el koymasına karşılık olarak gerçekleştirildiği ifade edildi. Olay, bölgedeki deniz güvenliği ve uluslararası sulardaki gerilimleri bir kez daha gündeme getirdi. Bu gelişme, İran ile ABD arasındaki dolaylı çatışmaların denizlerdeki yansımalarından biri olarak değerlendirilmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16658374/pexels-photo-16658374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-22T10:48:33.173Z",
+        "location": {
+            "lat": 24.5,
+            "lng": 58.5,
+            "name": "Umman Denizi, Umman"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776841930186kdf7c",
         "title": "ABD Başkanı Trump'tan İran ile Ateşkes Uzatma Kararı",
         "summary": "ABD Başkanı Donald Trump, İran ile olan ateşkesi uzattığını duyurdu. Yapılan açıklamaya göre, bu uzatma İran'ın bir teklif sunması ve müzakerelerin tamamlanmasına kadar geçerli olacak. Bu gelişme, iki ülke arasındaki gerilimi azaltma ve diplomatik çözüm arayışlarına zaman tanıma çabaları kapsamında değerlendiriliyor. Taraflar arasındaki görüşmelerin geleceği ve İran'ın sunacağı teklif merakla bekleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1776648697587wygrr",
-        "title": "İsrailli asker Güney Lübnan'da İsa heykelini parçalarken görüntülendi: Rapor",
-        "summary": "Güney Lübnan'daki Deir Siryan köyünde bir İsrail askerinin İsa heykeli parçalarken çekilen görüntüleri ortaya çıktı. Görüntülerin sosyal medyada yayılmasının ardından İsrail ordusu, olayın araştırılacağını duyurdu. Bu olay, bölgedeki hassas durumu ve askeri personel davranışlarının potansiyel yansımalarını bir kez daha gündeme getirdi. Heykelin parçalanması, dini ve kültürel değerlere yönelik bir saygısızlık olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9657770/pexels-photo-9657770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T01:31:37.587Z",
-        "location": {
-            "lat": 33.25,
-            "lng": 35.5,
-            "name": "Deir Siryan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-filmed-smashing-jesus-statue-in-southern-lebanon-report/3911654",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
