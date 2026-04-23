@@ -1,5 +1,37 @@
 [
     {
+        "id": "1776966107110o8xmi",
+        "title": "BM uyardı: ABD-İsrail'in İran'a yönelik savaşı 30 milyon kişiyi yoksulluğa sürükleyecek",
+        "summary": "Birleşmiş Milletler (BM), ABD ve İsrail'in İran'a yönelik olası bir askeri müdahalesinin küresel çapta ciddi insani ve ekonomik sonuçlar doğurabileceği uyarısında bulundu. BM Kalkınma Programı (UNDP) Başkanı, böyle bir çatışmanın 30 milyon insanı yeniden yoksulluğa itebileceğini belirtti. Uyarıda, Hürmüz Boğazı'nın kapanması durumunda yakıt ve gübre tedarikinde yaşanacak aksaklıkların tarımsal verimi olumsuz etkileyeceği vurgulandı. Bu durumun, özellikle gıda güvenliği açısından küresel çapta geniş çaplı bir krize yol açabileceği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T17:41:47.110Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1776966193895gip0e",
+        "title": "Lübnan, hava saldırısında öldürülen gazetecinin İsrail tarafından hedef alındığını iddia etti",
+        "summary": "Lübnan Başbakanı, İsrail'i hava saldırısında öldürülen bir gazeteciyi hedef almakla suçladı. Başbakan, İsrail Savunma Kuvvetleri'nin (IDF) Kızıl Haç araçlarına yönelik saldırılarının kurtarma ekiplerinin olay yerine ulaşmasını engellediğini belirterek, bu eylemleri savaş suçu olarak nitelendirdi. Olay, bölgedeki gerilimi artırırken, uluslararası hukukun ihlali iddialarını gündeme getirdi. Lübnan hükümeti, konunun uluslararası platformlarda takipçisi olacağını ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34098896/pexels-photo-34098896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-23T17:43:13.895Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1776959853116jesmf",
         "title": "Türkiye Milletvekilleri 15 Yaş Altı Çocuklar İçin Sosyal Medya Kullanımını Kısıtlayan Yasa Tasarısını Kabul Etti",
         "summary": "Türkiye Büyük Millet Meclisi'nde milletvekilleri, 15 yaş altı çocukların sosyal medya kullanımına kısıtlamalar getiren bir yasa tasarısını kabul etti. Yeni yasa, sosyal medya platformlarının yaş doğrulama araçları ve etkili kontrol mekanizmaları geliştirmesini zorunlu kılıyor. Bu düzenleme ile çocukların çevrimiçi ortamda daha güvenli bir deneyim yaşaması ve zararlı içeriklere karşı korunması amaçlanıyor. Kabul edilen yasa, platformların belirlenen standartlara uyum sağlaması için yasal bir çerçeve sunarken, uygulamanın detayları ve denetim süreçleri ilgili kurumlarca belirlenecek.",
@@ -764,38 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/4/20/eu-eyes-ukraine-loan-israeli-settler-sanctions-after-hungarian-election?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776723049461ioox3",
-        "title": "ABD-İran Görüşmelerinin Pakistan'daki Yeni Turu Hakkında Bilinmesi Gerekenler",
-        "summary": "ABD ve İran arasında doğrudan görüşmelerin yeni bir turunun Salı günü Pakistan'da yapılması planlanıyor. Bu görüşmelerin, iki ülke arasındaki gerilimi azaltma ve çeşitli bölgesel konuları ele alma potansiyeli taşıdığı belirtiliyor. Ancak, İran tarafının bu görüşmelere katılıp katılmayacağı konusunda belirsizlikler bulunuyor. Görüşmelerin gerçekleşmesi halinde, taraflar arasındaki diplomatik çabaların devamı açısından önem arz edeceği ifade ediliyor. İran'ın katılımı, gelecekteki ilişkilerin seyrini etkileyebilecek kritik bir faktör olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T22:10:49.461Z",
-        "location": {
-            "lat": 33.68,
-            "lng": 73.05,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-to-know-about-the-next-round-of-us-iran-talks-in-pakistan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177671536296692475",
-        "title": "İsrailli Askerin İsa Heykelini Tahrip Etmesi Lübnanlı Rahip Tarafından Kınandı",
-        "summary": "Bir İsrailli askerin İsa heykeline zarar vermesi, Lübnanlı bir rahip tarafından sert bir şekilde eleştirildi. Rahip Dany Darghem, Anadolu Ajansı'na yaptığı açıklamada, bu olayın inanç özgürlüğünü ve başkalarının inandığı değerlerin kutsallığını ihlal eden kınanmış bir eylem olduğunu belirtti. Darghem, yaşananların kabul edilemez olduğunu ve bölgedeki dini hoşgörüye aykırı olduğunu vurguladı. Olay, Orta Doğu'da dini sembollere yönelik saldırıların yol açabileceği gerilimi ve inanç özgürlüğü tartışmalarını bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11555191/pexels-photo-11555191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-20T20:02:42.966Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-s-destruction-of-jesus-statue-violates-freedom-of-belief-lebanese-priest/3912695",
         "trendScore": 80,
         "isBreaking": false
     }
