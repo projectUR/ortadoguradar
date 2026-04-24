@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777070530746kgjct",
+        "title": "İsrail'in Gazze'deki Saldırılarında 12 Filistinli Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde yaşanan olaylarda İsrail güçlerinin en az 12 Filistinliyi öldürdüğü bildirildi. Bu gelişmeler, bölgede ilan edildiği belirtilen 'ateşkes' ortamında yaşandı. Hamas tarafından yapılan açıklamada, İsrail'in bu eylemlerinin uluslararası toplumun Gazze'deki ateşkese uyulmasını sağlama konusundaki başarısızlığını temsil ettiği belirtildi. Olaylar, bölgedeki gerilimi yeniden tırmandırırken, uluslararası tepkiler merakla bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T22:42:10.746Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "177706756223405lc7",
         "title": "Gazze'de 300 Çift İçin Toplu Düğün Töreni Düzenlendi",
         "summary": "Gazze Şeridi'nin orta kesiminde yer alan Deyr el-Balah kentinde, hayırsever bir kuruluşun sponsorluğunda büyük bir toplu düğün töreni düzenlendi. Etkinlik kapsamında 300 gelin ve damat dünya evine girdi. Bölge halkı için neşeli bir an yaşatan tören, zorlu koşullar altında yaşam mücadelesi veren Gazze'de moral ve umut kaynağı oldu. Çiftler, bu özel günlerinde bir araya gelerek yeni bir hayata adım atarken, organizasyonun toplumsal dayanışmayı güçlendirdiği belirtildi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/container-ship-damaged-by-gunboat-fire-near-oman-crew-safe/3914087",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1776842170420lys80",
-        "title": "İsrail güçlerinin ateşi Filistin okulunda paniğe ve can kaybına yol açtı",
-        "summary": "Batı Şeria'da, Ramallah'ın kuzeydoğusundaki bir Filistin okulunun çevresinde İsrail güçlerinin düzenlediği operasyon sırasında çatışma yaşandı. Sabah saatlerinde meydana gelen olayda, İsrail askerlerinin açtığı ateş sonucu 2 Filistinli hayatını kaybetti. Hayatını kaybedenlerden birinin 14 yaşında bir çocuk olduğu belirtildi. Olay anında, bölgedeki ebeveynler öğrencileri okuldan tahliye etmek için büyük çaba sarf etti. Yaşananlar, okul çevresinde büyük paniğe ve can kaybına neden oldu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553346/pexels-photo-8553346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:16:10.420Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2087,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-fire-turns-morning-at-palestinian-school-into-panic-and-bloodshed/3914069",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
