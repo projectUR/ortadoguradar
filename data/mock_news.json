@@ -1,5 +1,69 @@
 [
     {
+        "id": "1777053148570mo0f3",
+        "title": "Lübnanlı Gazeteci Amal Khalil'in İsrail Saldırısında Hayatını Kaybetmesi",
+        "summary": "Lübnanlı gazeteci Amal Khalil, güney Lübnan'da bir İsrail hava saldırısını haber yaparken yaşamını yitirdi. Olay, bölgede ilan edilen 10 günlük ateşkesin devam ettiği sırada gerçekleşti. Habere göre, Khalil'in İsrail güçleri tarafından hedef alındığı iddia ediliyor. Bu gelişme, çatışma bölgelerinde görev yapan basın mensuplarının güvenliği konusundaki endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36797224/pexels-photo-36797224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T17:52:28.570Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777053175740sgl3x",
+        "title": "Ukrayna Saldırıları Nedeniyle Rus Petrol İhracatında Düşüş Bekleniyor",
+        "summary": "Rusya'nın petrol ihracatının, Ukrayna'nın limanlara ve rafinerilere yönelik saldırıları nedeniyle önemli ölçüde düşüş yaşayabileceği belirtildi. Kaynaklar, ABD'nin yaptırım muafiyetine rağmen Rus petrol ihracatının 2023'ten bu yana en düşük seviyelere gerileyebileceğini ifade etti. Bu durum, küresel enerji piyasalarında arz endişelerini artırarak petrol fiyatları üzerinde yukarı yönlü baskı oluşturabilir. Rusya'nın enerji gelirlerindeki olası düşüş, ülkenin ekonomik istikrarını etkilerken, küresel petrol arzındaki bu değişim Orta Doğu'daki petrol üreticisi ülkelerin piyasa konumunu ve gelirlerini dolaylı olarak etkileme potansiyeli taşımaktadır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T17:52:55.740Z",
+        "location": {
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "name": "Rusya"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777053249392pueq4",
+        "title": "İsrail Başbakanı Binyamin Netanyahu'ya erken evre prostat kanseri tedavisi uygulandı",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'ya erken evre prostat kanseri teşhisi konulmasının ardından tedavi uygulandı. Başbakan, kötü huylu bir tümörün başarıyla alındığını duyurdu. Operasyonun ardından Netanyahu, fiziksel durumunun 'mükemmel' olduğunu belirtti. Bu sağlık gelişmesi, Orta Doğu'nun önemli liderlerinden birinin durumu hakkında kamuoyunu bilgilendirdi.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/5207103/pexels-photo-5207103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T17:54:09.392Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777053272270xh6go",
+        "title": "Ukrayna ve Suudi Arabistan 'Stratejik Güvenlik Anlaşması' Geliştiriyor",
+        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Suudi Arabistan ile 'stratejik güvenlik anlaşması' geliştirdiklerini duyurdu. Zelenskiy, Suudi Arabistan Veliaht Prensi ile gerçekleştirdiği görüşmede, bu anlaşmanın üç temel alanda 'aktif olarak' ilerletildiğini ifade etti. Bu işbirliğinin, Ukrayna'nın güvenlik ihtiyaçlarına yönelik destek arayışının bir parçası olduğu belirtildi. Anlaşmanın detayları henüz açıklanmazken, iki ülke arasındaki diplomatik ilişkilerin derinleştiği gözlemleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T17:54:32.270Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/eurasia/zelenskyy-says-ukraine-saudi-arabia-developing-strategic-security-arrangement-/3917284",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777048394769u3ur4",
         "title": "ABD, 2003'ten Bu Yana İlk Kez Orta Doğu'da Üç Uçak Gemisi Konuşlandırdı",
         "summary": "ABD ordusu, kırılgan ateşkes ortamında artan gerilimin ortasında, İran limanlarına yönelik ablukanın bir parçası olarak 34 gemiyi yönlendirdiğini duyurdu. Bu gelişmeyle birlikte ABD, 2003 yılından bu yana ilk kez Orta Doğu'da aynı anda üç uçak gemisi konuşlandırmış oldu. Bölgedeki askeri varlığın bu denli artırılması, İran'a yönelik baskıyı ve bölgesel güvenlik endişelerini yansıttığı belirtiliyor. Bu durum, bölgedeki stratejik dengeleri etkileyebilecek önemli bir askeri hareketlilik olarak değerlendiriliyor.",
@@ -732,70 +796,6 @@
             "name": "Northwood, Birleşik Krallık"
         },
         "source": "https://www.aa.com.tr/en/middle-east/uk-france-to-lead-multinational-strait-of-hormuz-military-planning-conference/3914065",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776835798818kjo7z",
-        "title": "FIFA, daha fazla Dünya Kupası bileti satışa sundu ve yeni, daha pahalı kategoriler ekledi",
-        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA), Dünya Kupası için ek biletleri satışa sunduğunu duyurdu. Bu yeni satış dalgası, daha önce mevcut olmayan ve taraftarlar arasında tepkiye neden olan yeni, premium fiyatlı kategorileri de içeriyor. Futbolun küresel yönetim organı, turnuvaya olan yoğun talebi karşılamak amacıyla bu adımı attığını belirtti. Ancak, bilet fiyatlarındaki artış ve yeni lüks seçeneklerin eklenmesi, bazı taraftar gruplarının memnuniyetsizliğine yol açtı. Bu durum, Dünya Kupası biletlerinin erişilebilirliği ve taraftar deneyimi üzerine tartışmaları yeniden gündeme getirdi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/27151463/pexels-photo-27151463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T05:29:58.818Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/22/fifa-unlocks-more-world-cup-tickets-and-adds-new-more-expensive-categories?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776826489169oq960",
-        "title": "İsrailli askerler Lübnan'daki İsa heykeline zarar verdikleri için cezalandırıldı",
-        "summary": "İsrail ordusu, Lübnan'da bir İsa heykeline zarar veren iki asker hakkında disiplin cezası uyguladığını duyurdu. Yapılan açıklamaya göre, söz konusu askerler muharebe görevinden alınacak ve 30 gün askeri gözaltında tutulacak. Bu olay, İsrail askerlerinin komşu bir ülkedeki dini bir sembole yönelik eylemlerini ve bu tür davranışlara karşı alınan askeri disiplin tedbirlerini gözler önüne sermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5718909/pexels-photo-5718909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T02:54:49.169Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776808498179ye42o",
-        "title": "AB, İran Kaynaklı Gerilim Nedeniyle Jet Yakıtı Kıtlığı Tehdidine Karşı Seçenekleri Değerlendiriyor",
-        "summary": "Avrupa Birliği, İran ile ilgili çatışmanın potansiyel jet yakıtı kıtlığı tehdidi nedeniyle alternatifleri değerlendiriyor. Haber, Hürmüz Boğazı'nın abluka altına alınmasının Avrupa'da ciddi endişelere yol açtığını belirtiyor. Zira Avrupa, ithal jet yakıtına büyük ölçüde bağımlı bir konumda bulunuyor. Bu durum, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji tedarik zincirleri üzerindeki doğrudan etkisini gözler önüne seriyor. AB'nin bu duruma karşı çözüm arayışında olduğu ifade ediliyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/36488785/pexels-photo-36488785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T21:54:58.179Z",
-        "location": {
-            "lat": 26.25,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/21/eu-eyes-options-as-iran-conflict-threatens-jet-fuel-shortages?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776805052974s9gtu",
-        "title": "IOM: 2025 Yılında Göç Yollarında Yaklaşık 8.000 Kişi Hayatını Kaybetti veya Kayboldu",
-        "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), 2025 yılına ilişkin yayımladığı raporda, dünya genelindeki göç yollarında yaklaşık 8.000 kişinin hayatını kaybettiğini veya kaybolduğunu bildirdi. Kurumun açıklamasına göre, bu ölümlerin ve kaybolmaların yüzde 40'ından fazlası Avrupa'ya ulaşmaya çalışan göçmenlerin kullandığı deniz rotalarında gerçekleşti. Özellikle Akdeniz'deki tehlikeli geçişler, can kayıplarının önemli bir kısmını oluşturuyor. IOM, bu durumun göçmenlerin karşılaştığı risklerin ciddiyetini bir kez daha gözler önüne serdiğini vurguladı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35621630/pexels-photo-35621630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T20:57:32.974Z",
-        "location": {
-            "lat": 35,
-            "lng": 18,
-            "name": "Akdeniz, Avrupa"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
