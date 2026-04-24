@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777048394769u3ur4",
+        "title": "ABD, 2003'ten Bu Yana İlk Kez Orta Doğu'da Üç Uçak Gemisi Konuşlandırdı",
+        "summary": "ABD ordusu, kırılgan ateşkes ortamında artan gerilimin ortasında, İran limanlarına yönelik ablukanın bir parçası olarak 34 gemiyi yönlendirdiğini duyurdu. Bu gelişmeyle birlikte ABD, 2003 yılından bu yana ilk kez Orta Doğu'da aynı anda üç uçak gemisi konuşlandırmış oldu. Bölgedeki askeri varlığın bu denli artırılması, İran'a yönelik baskıyı ve bölgesel güvenlik endişelerini yansıttığı belirtiliyor. Bu durum, bölgedeki stratejik dengeleri etkileyebilecek önemli bir askeri hareketlilik olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31301873/pexels-photo-31301873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T16:33:14.769Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17770484174742za43",
+        "title": "Başbakan Sanchez, ABD'nin İspanya'yı NATO'dan çıkarma fikrini reddetti",
+        "summary": "İspanya Başbakanı Pedro Sanchez, ABD'nin İspanya'yı NATO üyeliğinden uzaklaştırmayı düşündüğüne dair çıkan haberlere yanıt verdi. Söz konusu haberler, İspanya'nın İran'a karşı olası bir savaşa muhalefeti nedeniyle ABD'nin bu yönde bir adım atabileceğini iddia ediyordu. Başbakan Sanchez, bu iddiaları kesin bir dille reddederek İspanya'nın NATO içindeki konumunun sağlam olduğunu ve ittifakın temel değerlerine bağlılığını vurguladı. Madrid'in İran politikası ve bölgesel çatışmalara yaklaşımı, ABD ile NATO içindeki ilişkilerinde zaman zaman farklılıklar yaratabileceği belirtiliyor. Bu durum, NATO müttefikleri arasındaki dış politika farklılıklarının ittifak içi dinamikleri nasıl etkileyebileceğine dair önemli bir gösterge olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16147348/pexels-photo-16147348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T16:33:37.474Z",
+        "location": {
+            "lat": 40.42,
+            "lng": -3.7,
+            "name": "Madrid, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17770434697522m5ol",
         "title": "İranlı Müzisyenler, ABD-İsrail Saldırılarının Harap Ettiği Bölgelerde Sahne Alıyor",
         "summary": "İranlı müzisyenler, ABD ve İsrail'in saldırıları sonucu tahrip olan bölgelerde ve şehir sokaklarında sahne alıyor. Bu kültürel girişim, yıkımın yaşandığı alanlara müzik aracılığıyla bir mesaj taşıyor. Müzisyenlerin bu eylemi, saldırılardan etkilenen topluluklara moral verme ve sanatsal bir direniş sergileme amacı güdüyor. Söz konusu performanslar, bölgedeki gerilimli atmosfere rağmen kültürel ifade ve dayanışmanın bir göstergesi olarak değerlendiriliyor.",
@@ -764,38 +796,6 @@
             "name": "Akdeniz, Avrupa"
         },
         "source": "https://www.aljazeera.com/news/2026/4/21/nearly-8000-people-died-or-disappeared-on-migration-routes-in-2025-iom?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776805075951a8l1u",
-        "title": "ABD, İran'a Yönelik Yeni Yaptırımlar Uyguladı",
-        "summary": "Amerika Birleşik Devletleri, İran'ın silah endüstrisiyle bağlantılı olduğu iddia edilen 14 kişi ve kuruluşa yönelik yeni yaptırımlar uyguladı. Trump yönetimi tarafından alınan bu karar, Pakistan'da İran ile yapılabilecek olası görüşmelerin arifesinde geldi. Washington, Tahran'ın balistik füze programı ve bölgesel istikrarsızlaştırıcı faaliyetleri nedeniyle bu adımı attığını belirtti. Yaptırımların, İran üzerindeki ekonomik ve siyasi baskıyı artırmayı hedeflediği ifade edildi. Bu gelişme, ABD-İran ilişkilerindeki gerilimi daha da tırmandırabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30917890/pexels-photo-30917890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T20:57:55.951Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776805129818apbw1",
-        "title": "Trump, İran'a Yönelik Ateşkesin Uzatıldığını Duyurdu Ancak Ablukanın Süreceğini Belirtti",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik saldırıların durdurulması kararının uzatıldığını açıkladı. Trump, bu kararın, İranlı liderlerin savaşı sona erdirmek için 'birleşik bir öneri' sunana kadar geçerli olacağını belirtti. Ancak, İran'a uygulanan ablukanın devam edeceğini vurguladı. Bu gelişme, ABD'nin İran'a yönelik politikalarında gerilimi düşürme çabası olarak yorumlanırken, Tahran'dan henüz resmi bir yanıt gelmedi. Karar, bölgedeki tansiyonun seyrini etkileyebilecek önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/29056910/pexels-photo-29056910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T20:58:49.818Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
