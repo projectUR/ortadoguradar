@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777009270783piysc",
+        "title": "Petrol Fiyatları Yükseldi: ABD ve İran Hürmüz Boğazı'nda Çıkmazda",
+        "summary": "Küresel petrol fiyatları, ABD ile İran arasındaki Hürmüz Boğazı'ndaki gerilimin artmasıyla varil başına 106 doların üzerine çıktı. Eski ABD Başkanı Donald Trump'ın bölgeden geçecek gemilerin ABD Donanması'ndan izin alması gerektiğini belirtmesi, iki ülke arasındaki çıkmazı derinleştirdi. Dünya petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolundaki bu durum, piyasalarda belirsizliğe yol açtı. Olay, bölgedeki güvenlik endişelerini ve enerji arz güvenliği üzerindeki potansiyel etkilerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36152058/pexels-photo-36152058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T05:41:10.783Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777009325912yweom",
+        "title": "İsrail, ateşkes uzatılmasına rağmen güney Lübnan'a yeni saldırılar düzenledi",
+        "summary": "İsrail'in güney Lübnan'a yeni saldırılar düzenlediği bildirildi. Bu saldırılar, ABD tarafından duyurulan ateşkesin uzatılmasından sadece saatler sonra gerçekleşti. Bölgedeki gerilimin devam ettiği ve ateşkes anlaşmalarına rağmen çatışmaların sürdüğü belirtiliyor. Gelişmeler, Orta Doğu'daki güvenlik durumunu yakından takip eden uluslararası kamuoyunun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429520/pexels-photo-7429520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-24T05:42:05.912Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-launches-fresh-strikes-in-southern-lebanon-despite-ceasefire-extension/3916320",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1776999384256oj0ku",
         "title": "İran Savaşı Canlı: Lübnan'da Ateşkes Uzatıldı; Trump Tahran'ın Zamanının Kalmadığını Söyledi",
         "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in Gazze Şeridi'ne yönelik devam eden saldırılarında can kaybı artıyor. Son verilere göre, bölgedeki çatışmalarda hayatını kaybedenlerin sayısı 72.568'e ulaştı. Yaralı sayısı ise 172.338 olarak kaydedildi. Bakanlık, bu rakamların İsrail'in Gazze'ye yönelik 'soykırım savaşı' olarak nitelendirdiği operasyonlar sonucunda ortaya çıktığını belirtti. Bölgedeki insani durumun ciddiyetini koruduğu ifade ediliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/21/iran-war-what-is-happening-on-day-53-of-the-us-israel-conflict?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17767595948935xm4d",
-        "title": "ABD, İran bandıralı kargo gemisine el koydu, Tahran misilleme sözü verdi",
-        "summary": "Amerika Birleşik Devletleri'nin İran bandıralı bir kargo gemisine el koyduğu bildirildi. İran'ın başkenti Tahran, bu eylemi 'silahlı korsanlık' olarak nitelendirerek sert tepki gösterdi. Tahran yönetimi, ABD'nin bu adımına karşı misilleme yapma sözü verdi. Bu olay, Washington'ın Tahran ile ikinci tur görüşmelere hazırlandığı bir döneme denk geldi ve iki ülke arasındaki gerilimi daha da tırmandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11820857/pexels-photo-11820857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T08:19:54.893Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17767596243233jhj4",
-        "title": "Filistinli papaz, heykel olayının ardından Gazze ve Lübnan'daki sivil ölümlerine odaklanma çağrısı yaptı",
-        "summary": "Filistinli papaz Munther Isaac, Gazze ve Lübnan'da yaşanan sivil kayıplarına dikkat çekerek, kamuoyunun bu insani krize odaklanması gerektiğini belirtti. Isaac, yakın zamanda bir heykelin tahrip edilmesi olayının ardından ortaya çıkan tepkilerin, sadece dini bir sembolün yıkımına değil, bölgedeki savaşın kendisine ve sivillere yönelik saldırılara yönelmesi gerektiğini vurguladı. Papaz, çatışmaların yol açtığı insani boyutun göz ardı edilmemesi ve masum canların korunmasının önceliklendirilmesi çağrısında bulundu. Bu açıklama, Orta Doğu'daki mevcut gerilimin ve insani krizin derinliğini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8963687/pexels-photo-8963687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-21T08:20:24.323Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-pastor-urges-focus-on-civilian-deaths-in-gaza-lebanon-after-statue-incident/3913030",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
