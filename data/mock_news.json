@@ -1,5 +1,37 @@
 [
     {
+        "id": "177712465369700psv",
+        "title": "Endonezyalı BM Barış Gücü Mensubu Lübnan'da Öldürülen Altıncı Kişi Oldu",
+        "summary": "Birleşmiş Milletler (BM) Barış Gücü bünyesinde görev yapan Endonezyalı bir asker, Lübnan'ın güneyinde yaşanan son çatışmalarda hayatını kaybetti. Bu olayla birlikte, bölgedeki düşmanlıklarda yaşamını yitiren BM barış gücü mensuplarının sayısı altıya yükseldi. Endonezyalı askerin ölümü, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. BM yetkilileri, barış gücü askerlerinin güvenliğinin sağlanması konusunda endişelerini dile getirdi ve olayın soruşturulacağını belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35108475/pexels-photo-35108475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T13:44:13.697Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1777124674314i7212",
+        "title": "Tahran Havalimanı'nda Uçuşlar Yeniden Başladı",
+        "summary": "Tahran İmam Humeyni Uluslararası Havalimanı'nda uluslararası uçuşlar yeniden başladı. Haftalar süren kesintinin ardından uçuşların normale döndüğü belirtildi. Bu gelişme, ABD ile İran arasındaki ateşkesin devam etmesiyle birlikte yaşandı. Savaş nedeniyle aksayan seferlerin yeniden başlaması, bölgedeki gerilimin azaldığına işaret ediyor ve sivil havacılığın normalleşme sürecine girdiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32653098/pexels-photo-32653098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T13:44:34.314Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777118611279juyjj",
         "title": "Batı Şeria ve Gazze'nin Bazı Bölgelerinde Filistinliler Yerel Seçimlerde Oy Kullandı",
         "summary": "Filistin'de yerel seçimler düzenlendi. İşgal altındaki Batı Şeria'da ve Gazze Şeridi'ndeki bir şehirde sandık başına gidildi. Ancak, Hamas ve diğer bazı önemli gruplar bu seçimlere katılmama kararı aldı. Bu durum, Filistin siyasetindeki mevcut bölünmüşlüğü ve farklı gruplar arasındaki uzlaşmazlığı bir kez daha gözler önüne serdi. Seçimlerin, Filistin Yönetimi'nin kontrolündeki bölgelerde yapıldığı belirtildi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776981199926xlhtl",
-        "title": "Trump, İran'a Karşı Nükleer Silah Kullanımını Reddetti",
-        "summary": "ABD Başkanı Trump, İran ile devam eden görüşmelerdeki çıkmaza rağmen bu ülkeye karşı nükleer silah kullanma ihtimalini kesin bir dille reddetti. Trump, yaptığı açıklamada, \"Hayır, kullanmazdım. Nükleer bir silahın hiç kimse tarafından kullanılmasına asla izin verilmemeli,\" ifadelerini kullandı. Bu beyan, ABD'nin İran'a yönelik politikalarında nükleer seçeneğin masada olmadığını net bir şekilde ortaya koydu. İki ülke arasındaki gerilimin sürdüğü ve diplomatik çabaların devam ettiği bir dönemde yapılan bu açıklama, uluslararası arenada önemli bir mesaj olarak değerlendirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/33848674/pexels-photo-33848674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T21:53:19.926Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/trump-rules-out-using-nuclear-weapon-against-iran-amid-impasse-in-talks/3916262",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17769718086689h4pu",
-        "title": "Lübnan'da İsrail ile tartışmalı görüşmeler öncesi karmaşık görüşler",
-        "summary": "Lübnan'da İsrail ile devam eden çatışmanın sona erdirilmesi konusunda farklı görüşler hakim. Ülke içinde, bu konuda bir uzlaşı sağlanamazken, bazı kesimler Hizbullah'ın silahlı müdahalesini destekliyor. Bu durum, İsrail ile yapılması planlanan tartışmalı görüşmeler öncesinde Lübnan siyasetinde derin bir bölünmüşlüğü gözler önüne seriyor. Görüşmelerin, ülkedeki bu iç ayrılıklar nedeniyle zorlu geçmesi bekleniyor. Taraflar arasında kalıcı bir çözüm bulunması yönündeki çabalar, bu farklı yaklaşımlar nedeniyle karmaşık bir hal alıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T19:16:48.668Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
