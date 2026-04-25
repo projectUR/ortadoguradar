@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777118611279juyjj",
+        "title": "Batı Şeria ve Gazze'nin Bazı Bölgelerinde Filistinliler Yerel Seçimlerde Oy Kullandı",
+        "summary": "Filistin'de yerel seçimler düzenlendi. İşgal altındaki Batı Şeria'da ve Gazze Şeridi'ndeki bir şehirde sandık başına gidildi. Ancak, Hamas ve diğer bazı önemli gruplar bu seçimlere katılmama kararı aldı. Bu durum, Filistin siyasetindeki mevcut bölünmüşlüğü ve farklı gruplar arasındaki uzlaşmazlığı bir kez daha gözler önüne serdi. Seçimlerin, Filistin Yönetimi'nin kontrolündeki bölgelerde yapıldığı belirtildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5926406/pexels-photo-5926406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T12:03:31.279Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35,
+            "name": "Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17771155979591rdgx",
         "title": "Birleşik Krallık ve Finlandiya, İsrail'in Lübnan'daki Gazetecilere Yönelik Saldırılarını Kınadı",
         "summary": "Birleşik Krallık ve Finlandiya, İsrail'in Lübnan'da görev yapan gazetecilere yönelik saldırılarını 'kabul edilemez' olarak nitelendirerek kınadıklarını açıkladı. Bu kınama, bölgedeki çatışmalar sırasında basın mensuplarının güvenliğine ilişkin artan endişeleri yansıtıyor. Son olarak, Amal Khalil'in hayatını kaybetmesiyle birlikte, 2 Mart'tan bu yana Lübnan'da öldürülen gazeteci sayısı 27'ye yükseldi. Uluslararası toplum, gazetecilerin hedef alınmasının savaş suçu teşkil edebileceği uyarısında bulunarak, bu tür olayların kapsamlı bir şekilde soruşturulması çağrısında bulunuyor.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776971909893negxg",
-        "title": "İran'dan Hürmüz Boğazı açıklaması: Ateşkes ihlalleri nedeniyle açılamaz",
-        "summary": "İran'ın baş müzakerecisi, ABD ve İsrail tarafından yapılan \"ihlaller\" nedeniyle Hürmüz Boğazı'nın açılamayacağını duyurdu. Bu açıklama, bölgedeki mevcut gerilimi ve stratejik öneme sahip su yolunun güvenliğine ilişkin endişeleri bir kez daha gündeme getirdi. Küresel petrol ticaretinin ana arterlerinden biri olan Hürmüz Boğazı, uluslararası denizcilik için hayati bir geçiş noktası olarak kabul ediliyor. İran, daha önce de boğazın güvenliği ve kullanımı konusunda çeşitli uyarılar yapmıştı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32162424/pexels-photo-32162424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T19:18:29.893Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
