@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777135894334h69pb",
+        "title": "Sudan'ın Kordofan Bölgesi'ne RSF İHA Saldırısı: 7 Ölü, 22 Yaralı",
+        "summary": "Sudan'ın Kordofan bölgesinde Hızlı Destek Kuvvetleri (RSF) tarafından düzenlenen insansız hava aracı (İHA) saldırısında ilk belirlemelere göre 7 kişi hayatını kaybetti, 22 kişi yaralandı. Sudan Doktorlar Ağı, saldırının sivil yerleşim yerlerini hedef aldığını iddia etti. Ağ, uluslararası toplumu sivilleri korumak için Hızlı Destek Kuvvetleri üzerinde baskı kurmaya çağırdı. Bu olay, Sudan'da devam eden çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T16:51:34.334Z",
+        "location": {
+            "lat": 13.17,
+            "lng": 30.22,
+            "name": "Kordofan, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/7-killed-22-injured-in-rsf-drone-attack-on-sudan-s-kordofan-medics/3917952",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777135917892f68i1",
+        "title": "İran'ın ABD Üslerine Verdiği Hasar Açıklanandan Daha Büyük: Rapor",
+        "summary": "NBC tarafından yayımlanan bir rapora göre, İran'ın Orta Doğu'daki ABD askeri üslerine yönelik misilleme saldırılarının yol açtığı hasar, daha önce kamuoyuna açıklanandan çok daha kapsamlı boyutlarda. Söz konusu rapor, bu saldırıların onarım maliyetinin milyarlarca dolara ulaşmasının beklendiğini ortaya koyuyor. İran'ın bu eylemleri, bölgedeki gerilimin ciddiyetini ve askeri altyapı üzerindeki yıkıcı etkilerini bir kez daha gözler önüne serdi. Hasarın gerçek boyutu, ABD ve İran arasındaki ilişkilerin kırılganlığını ve potansiyel çatışma risklerini yeniden gündeme taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19822632/pexels-photo-19822632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T16:51:57.892Z",
+        "location": {
+            "lat": 30,
+            "lng": 40,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-inflicted-extensive-damage-to-us-bases-than-previously-disclosed-report/3917950",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "177712465369700psv",
         "title": "Endonezyalı BM Barış Gücü Mensubu Lübnan'da Öldürülen Altıncı Kişi Oldu",
         "summary": "Birleşmiş Milletler (BM) Barış Gücü bünyesinde görev yapan Endonezyalı bir asker, Lübnan'ın güneyinde yaşanan son çatışmalarda hayatını kaybetti. Bu olayla birlikte, bölgedeki düşmanlıklarda yaşamını yitiren BM barış gücü mensuplarının sayısı altıya yükseldi. Endonezyalı askerin ölümü, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. BM yetkilileri, barış gücü askerlerinin güvenliğinin sağlanması konusunda endişelerini dile getirdi ve olayın soruşturulacağını belirtti.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17769810902497mmuw",
-        "title": "Papa, göçmen ve mültecilere 'evcil hayvanlardan daha kötü' muamele edilmesini kınadı",
-        "summary": "Katolik Kilisesi lideri Papa, göçmen ve mültecilere yönelik muameleyi sert bir dille eleştirdi. Küresel çapta yaşanan mülteci krizine dikkat çeken Papa, bu kişilerin \"evcil hayvanlardan bile daha kötü\" koşullarda yaşadığını belirtti. Daha önce ABD'nin eski başkanı Donald Trump'ın göçmenlik politikalarını da eleştiren Papa, mültecilere daha iyi muamele edilmesi çağrısında bulunmuştu. Bu açıklamalar, dünya genelindeki göçmen ve mülteci hakları tartışmalarına yeni bir boyut kazandırdı. Papa'nın bu insani çağrısı, uluslararası toplumun dikkatini bir kez daha bu hassas konuya çekti.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19264473/pexels-photo-19264473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T21:51:30.249Z",
-        "location": {
-            "lat": 41.9029,
-            "lng": 12.4534,
-            "name": "Vatikan Şehri"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/23/pope-decries-migrants-and-refugees-being-treated-worse-than-house-pets?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1776981143479c8k3k",
-        "title": "İsrail Saldırılarında Gazze'de Sekiz Filistinli Hayatını Kaybetti",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda sekiz Filistinli hayatını kaybettiği bildirildi. İlk yardım ekiplerinin açıklamasına göre, saldırılardan biri Çarşamba akşamı Gazze'nin kuzeyindeki Beyt Lahiya kasabasında bir caminin yakınında meydana geldi. Bu saldırıda üç çocuk ve iki yetişkin yaşamını yitirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8832577/pexels-photo-8832577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-23T21:52:23.479Z",
-        "location": {
-            "lat": 31.55,
-            "lng": 34.5,
-            "name": "Beyt Lahiya, Gazze Şeridi"
-        },
-        "source": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
