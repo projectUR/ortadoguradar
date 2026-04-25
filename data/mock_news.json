@@ -1,5 +1,69 @@
 [
     {
+        "id": "1777094110860eaqmq",
+        "title": "İran ve ABD Temsilcileri İslamabad'da Bir Araya Geliyor",
+        "summary": "İran Dışişleri Bakanı'nın İslamabad'da bulunması ve ABD temsilcilerinin de aynı şehre doğru yola çıkması, iki ülke arasında potansiyel bir diplomatik temasın sinyallerini veriyor. Bu gelişme, uzun süredir gergin olan İran-ABD ilişkilerinde yeni bir sayfa açma veya belirli konularda görüş alışverişinde bulunma ihtimalini gündeme getiriyor. Pakistan'ın bu diplomatik trafiğe ev sahipliği yapması, bölgesel arabuluculuk çabaları açısından da önem taşıyor. Görüşmelerin içeriği ve olası sonuçları, Orta Doğu'daki siyasi dinamikler açısından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7644014/pexels-photo-7644014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T05:15:10.860Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "177709413272415k7b",
+        "title": "İsrail, Gazze'deki saldırılarını artırdı: 12 kişi hayatını kaybetti",
+        "summary": "İsrail güçleri, Gazze Şeridi genelinde düzenlediği çeşitli saldırılarda 12 Filistinliyi öldürdü. Hayatını kaybedenler arasında altı polis memuru da bulunuyor. Bu saldırılar, bölgedeki gerilimi daha da tırmandırdı. Olaylar, uluslararası toplumda endişeyle karşılanırken, bölgedeki güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T05:15:32.724Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777094156574mq8oc",
+        "title": "Trump Müzakere Ekibini Gönderirken İran Gerilimi 57. Gününde: Diplomatik Hareketlilik",
+        "summary": "ABD'nin özel elçileri Steve Witkoff ve Jared Kushner'in Pakistan'a seyahat edeceği bildirildi. Bu gelişme, İran Dışişleri Bakanı Abbas Araghchi'nin de İslamabad'a varmasıyla eş zamanlı olarak yaşanıyor. Haber, 'İran savaşı' olarak adlandırılan gerilimin 57. gününde, ABD Başkanı Trump'ın bir müzakere ekibini bölgeye göndermesiyle ortaya çıktı. Bu diplomatik hareketlilik, İran ile ABD arasındaki mevcut gerilimi düşürme çabalarının bir parçası olarak değerlendiriliyor. Taraflar arasındaki dolaylı veya doğrudan temasların bölgedeki durumu nasıl etkileyeceği merak konusu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T05:15:56.574Z",
+        "location": {
+            "lat": 33.6844,
+            "lng": 73.0479,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777094270776g47mh",
+        "title": "İranlı yetkili: İslamabad'da İran-ABD görüşmesi planlanmıyor",
+        "summary": "İranlı bir yetkili, İran ile ABD arasında Pakistan'ın başkenti İslamabad'da herhangi bir görüşme planlanmadığını bildirdi. İran Dışişleri Bakanlığı Sözcüsü Esmaeil Baqaei, bu yöndeki iddiaları yalanlarken, İran'ın konuyla ilgili gözlemlerinin Pakistan'a iletileceğini belirtti. Bu açıklama, iki ülke arasında olası bir diplomatik temas spekülasyonlarına yanıt niteliği taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7710139/pexels-photo-7710139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T05:17:50.776Z",
+        "location": {
+            "lat": 33.68,
+            "lng": 73.05,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/no-iran-us-meeting-planned-in-islamabad-iranian-official/3917451",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17770851598730nabe",
         "title": "İran Savaşı Canlı: Tahran Dışişleri Bakanı İslamabad'da; ABD Elçileri Görüşmeler İçin Seyahat Edecek",
         "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırıları ve tank atışları sonucunda en az 12 Filistinli hayatını kaybetti. Hayatını kaybedenler arasında altı polis memuru da bulunuyor. Bölgedeki gerilim devam ederken, bu saldırılar uluslararası kamuoyunda endişelere yol açtı. Olaylar, Orta Doğu'daki mevcut çatışma ortamının bir parçası olarak değerlendiriliyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1776842022526lsgjq",
-        "title": "Trump, yoğun diplomasi gününün ardından İran anlaşması için zaman kazandırdı",
-        "summary": "ABD Başkanı Trump, yoğun diplomatik görüşmelerin ardından İran nükleer anlaşması konusunda bir kez daha erteleme kararı aldı. Bu karar, ABD Başkanı'nın son haftalarda savaşı tırmandırma tehdidinden ikinci kez geri adım atması olarak yorumlandı. Böylece İran anlaşmasıyla ilgili müzakereler ve diplomatik çabalar için ek süre tanınmış oldu. Gelişme, bölgedeki gerilimin azaltılmasına yönelik bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8921546/pexels-photo-8921546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:13:42.526Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776842045300auxmj",
-        "title": "ABD-İran Ateşkesinin Uzatılması 'Nefes Alma Alanı' Sağladı",
-        "summary": "ABD Başkanı Trump'ın İran ile yapılan ateşkesin uzatıldığını duyurması, bölgede yeni bir diplomatik pencere açtı. BBC'nin baş uluslararası muhabiri Lyse Doucet, bu gelişmeyi Tahran'dan aktararak, kararın taraflara 'nefes alma alanı' sağladığını belirtti. Ateşkesin uzatılması, ABD ve İran arasındaki gerilimi azaltma çabalarına katkıda bulunurken, gelecekteki müzakereler için zemin hazırlıyor. Bu adım, Orta Doğu'daki istikrarsızlığın giderilmesi yönünde atılan önemli bir diplomatik hamle olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6065067/pexels-photo-6065067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:14:05.300Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/videos/cj604n1werpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776842074835q3jta",
-        "title": "İran'da ABD ve İsrail ile Olası Savaş Nedeniyle Kitlesel İşten Çıkarmalar Yaşanıyor",
-        "summary": "İran'da, ABD ve İsrail ile olası bir savaşın tetiklediği endişelerle birlikte, çeşitli sektörlerde kitlesel işten çıkarmalar yaşandığı bildirildi. Ülke ekonomisi üzerinde hissedilen bu olumsuz etki, özellikle imalat, perakende ve dijital sektörlerde kendini gösteriyor. Yetkililer ve uzmanlar, savaşın yeniden başlaması veya tırmanması durumunda ekonomik durumun daha da kötüleşebileceği konusunda uyarılarda bulunuyor. Bu durum, İran'ın bölgesel gerilimlerden kaynaklanan ekonomik kırılganlığını gözler önüne seriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:14:34.835Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17768420981504asjy",
-        "title": "Batı Şeria köyünde yerleşimci saldırısında iki Filistinli öldürüldü",
-        "summary": "Batı Şeria'daki El-Muğayyir köyüne düzenlenen yerleşimci saldırısında iki Filistinli hayatını kaybetti. Yetkililer tarafından yapılan açıklamaya göre, ölenler arasında 14 yaşında bir çocuk da bulunuyor. Olay, bölgedeki gerilimin tırmandığı bir dönemde yaşandı ve uluslararası kamuoyunda endişelere yol açtı. Güvenlik güçleri saldırıyla ilgili soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553686/pexels-photo-8553686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:14:58.150Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.33,
-            "name": "El-Muğayyir, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
