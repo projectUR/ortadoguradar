@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777099969982ht1k2",
+        "title": "İran, Hürmüz Boğazı'nda İsrail bağlantılı olduğu iddia edilen iki kargo gemisine el koydu",
+        "summary": "İran, Hürmüz Boğazı'nda seyreden 'MSC-Francesca' ve 'Epaminondas' adlı iki kargo gemisine el koyduğunu açıkladı. İranlı yetkililer, gemilerin İsrail ile bağlantılı olduğu iddialarını dile getirdi. Gemilerin denizcilik kurallarını ihlal etmek, navigasyon sistemlerine müdahale etmek ve su yolundaki diğer gemileri tehlikeye atmakla suçlandığı belirtildi. Bu gelişme, bölgedeki denizcilik güvenliği ve mevcut gerilimler açısından önemli bir olay olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20097612/pexels-photo-20097612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T06:52:49.982Z",
+        "location": {
+            "lat": 26.2,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-seizes-2-cargo-vessels-in-strait-of-hormuz-for-alleged-links-to-israel/3917457",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1777094110860eaqmq",
         "title": "İran ve ABD Temsilcileri İslamabad'da Bir Araya Geliyor",
         "summary": "İran Dışişleri Bakanı'nın İslamabad'da bulunması ve ABD temsilcilerinin de aynı şehre doğru yola çıkması, iki ülke arasında potansiyel bir diplomatik temasın sinyallerini veriyor. Bu gelişme, uzun süredir gergin olan İran-ABD ilişkilerinde yeni bir sayfa açma veya belirli konularda görüş alışverişinde bulunma ihtimalini gündeme getiriyor. Pakistan'ın bu diplomatik trafiğe ev sahipliği yapması, bölgesel arabuluculuk çabaları açısından da önem taşıyor. Görüşmelerin içeriği ve olası sonuçları, Orta Doğu'daki siyasi dinamikler açısından yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17768419907983crp9",
-        "title": "Tahran'da Ateşkesin Sona Ermesi Öncesi Askeri Geçit Törenleri Düzenlendi",
-        "summary": "İran'ın başkenti Tahran'da Salı günü askeri geçit törenleri düzenlendi. Yayımlanan videolarda, ABD ile İran arasındaki ateşkes süresinin sona ermesine yaklaşıldığı bir dönemde, bu törenlere büyük kalabalıkların katıldığı görüldü. Geçit törenleri, ülkenin askeri gücünü sergileme amacı taşıyor. Bu etkinlikler, bölgesel ve uluslararası ilişkilerdeki mevcut hassas dengeler bağlamında dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29919426/pexels-photo-29919426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-22T07:13:10.798Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
