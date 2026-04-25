@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777143519433lvmr5",
+        "title": "Trump, İranlı Yetkilinin Pakistan Ziyareti Sonrası ABD Elçilerinin Seyahatini İptal Etti",
+        "summary": "ABD Başkanı Donald Trump, İranlı yetkili Araghchi'nin Pakistan'dan ayrılmasının ardından ABD elçilerinin planlanan seyahatini iptal ettiğini duyurdu. Trump, daha sonraki görüşmelerin telefon üzerinden yapılabileceğini ima ederek, \"Konuşmak istiyorlarsa, tek yapmaları gereken aramak!!!\" ifadelerini kullandı. Bu gelişme, ABD ile İran arasındaki gerilimli diplomatik ilişkiler ve potansiyel müzakereler bağlamında önemli bir adım olarak değerlendiriliyor. İptal edilen seyahat ve Trump'ın açıklaması, iki ülke arasındaki iletişim kanallarının geleceğine dair belirsizliği artırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8770999/pexels-photo-8770999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T18:58:39.433Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777143557878s2dc2",
+        "title": "Gazze'nin Deir el-Balah Kentinde Seçim Sevinci ve Değişim Arzusu",
+        "summary": "Gazze Şeridi'ndeki Deir el-Balah kentinde, 2006 yılından bu yana ilk kez yerel seçimler düzenlendi. Bölgedeki yoğun yıkım, yerinden edilme ve soykırım iddialarına rağmen, kent sakinleri sandık başına giderek oy kullandı. Halkın bu seçimlere katılımı, hem bir sevinç kaynağı hem de mevcut zorlu koşullar altında değişim arzusunun güçlü bir göstergesi olarak değerlendiriliyor. Seçimler, bölgenin karşı karşıya olduğu zorluklara rağmen demokratik süreçlere olan inancı yansıtıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T18:59:17.878Z",
+        "location": {
+            "lat": 31.41,
+            "lng": 34.34,
+            "name": "Deir el-Balah, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777143621671gwzeu",
+        "title": "Suriye Devlet Başkanı ve Lübnanlı Dürzi Lider Şam'da Bölgesel Gelişmeleri Görüştü",
+        "summary": "Suriye Devlet Başkanı ve Lübnanlı Dürzi lider Jumblatt, Şam'daki başkanlık sarayında bir araya geldi. Görüşmede, taraflar Orta Doğu'daki son bölgesel gelişmeleri detaylı bir şekilde değerlendirdi. Toplantıda, bölgenin karşı karşıya olduğu zorluklar ve işbirliği imkanları üzerinde duruldu. Bu buluşma, iki ülke arasındaki ilişkilerin ve bölgesel istikrarın önemini vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-25T19:00:21.671Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-lebanese-druze-leader-discuss-regional-developments-in-damascus/3918076",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777135894334h69pb",
         "title": "Sudan'ın Kordofan Bölgesi'ne RSF İHA Saldırısı: 7 Ölü, 22 Yaralı",
         "summary": "Sudan'ın Kordofan bölgesinde Hızlı Destek Kuvvetleri (RSF) tarafından düzenlenen insansız hava aracı (İHA) saldırısında ilk belirlemelere göre 7 kişi hayatını kaybetti, 22 kişi yaralandı. Sudan Doktorlar Ağı, saldırının sivil yerleşim yerlerini hedef aldığını iddia etti. Ağ, uluslararası toplumu sivilleri korumak için Hızlı Destek Kuvvetleri üzerinde baskı kurmaya çağırdı. Bu olay, Sudan'da devam eden çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
@@ -748,54 +796,6 @@
             "name": "Güney Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-launches-fresh-strikes-in-southern-lebanon-despite-ceasefire-extension/3916320",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1776999384256oj0ku",
-        "title": "İran Savaşı Canlı: Lübnan'da Ateşkes Uzatıldı; Trump Tahran'ın Zamanının Kalmadığını Söyledi",
-        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in Gazze Şeridi'ne yönelik devam eden saldırılarında can kaybı artıyor. Son verilere göre, bölgedeki çatışmalarda hayatını kaybedenlerin sayısı 72.568'e ulaştı. Yaralı sayısı ise 172.338 olarak kaydedildi. Bakanlık, bu rakamların İsrail'in Gazze'ye yönelik 'soykırım savaşı' olarak nitelendirdiği operasyonlar sonucunda ortaya çıktığını belirtti. Bölgedeki insani durumun ciddiyetini koruduğu ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T02:56:24.256Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "1776999407121pd9pv",
-        "title": "ABD'li Profesörler Filistin Yanlısı Protesto Sırasında Tutuklanmaları Nedeniyle Üniversiteye Dava Açtı",
-        "summary": "Amerika Birleşik Devletleri'nde Filistin yanlısı bir protesto sırasında tutuklanan profesörler, üniversitelerine dava açtı. Felsefe profesörü Noelle McAfee, üniversitenin protestolara yönelik müdahalesinde öğrencileri ve personeli koruyamadığını iddia etti. Bu dava, üniversite yönetimlerinin kampüslerdeki siyasi gösterilere yaklaşımını ve ifade özgürlüğü sınırlarını tartışmaya açıyor. Olay, ABD'deki üniversitelerde Filistin-İsrail çatışmasıyla ilgili protestoların artan gerilimini yansıtıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9748681/pexels-photo-9748681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T02:56:47.121Z",
-        "location": {
-            "lat": 40.7128,
-            "lng": -74.006,
-            "name": "New York, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1776999477559tj7ak",
-        "title": "Kuveyt'te Gözaltına Alınan ABD-Kuveytli Gazeteci Beraat Etti",
-        "summary": "ABD ve Kuveyt vatandaşı gazeteci Ahmed Shihab-Eldin'in, sosyal medya paylaşımları nedeniyle Kuveyt'te gözaltına alındığı ve yargılandığı bildirildi. Gazeteci, İran savaşıyla ilgili görselleri yeniden paylaşmasının ardından yanlış bilgi yaymak da dahil olmak üzere çeşitli suçlamalarla karşı karşıya kalmıştı. Avukatları tarafından yapılan açıklamaya göre, Shihab-Eldin bu suçlamalardan beraat etti. Olay, Orta Doğu'da ifade özgürlüğü ve sosyal medya kullanımı üzerindeki tartışmaları bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11219740/pexels-photo-11219740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T02:57:57.559Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
