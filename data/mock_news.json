@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777241040211uydic",
+        "title": "İran Dışişleri Bakanı Pakistan'dan Rusya'ya Geçti",
+        "summary": "İran Dışişleri Bakanı, Pakistan ziyaretinin ardından Rusya'ya hareket etti. İran Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Bakan Abbas Araghchi, Moskova'da üst düzey Rus yetkililerle bir araya gelecek. Görüşmelerin içeriği hakkında detay verilmezken, bölgesel ve uluslararası konuların ele alınması bekleniyor. Bu ziyaret, İran'ın dış politikasındaki aktif rolünü ve Rusya ile olan ilişkilerinin önemini bir kez daha vurguluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868982/pexels-photo-7868982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T22:04:00.211Z",
+        "location": {
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "name": "Moskova, Rusya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1777241146815a1cbh",
+        "title": "İsrailli İşgalciler Batı Şeria'da Ana Yolu Kapattı, Filistin Araçlarına Taş Attı",
+        "summary": "Batı Şeria'nın orta kesimlerinde İsrailli işgalcilerin ana bir yolu kapatarak Filistinlilere ait araçlara taşlı saldırıda bulunduğu bildirildi. Bu olay, bölgedeki gerilimi yeniden tırmandırdı. Resmi Filistin kaynaklarından alınan bilgilere göre, İsrail güçleri ve işgalciler Mart ayı boyunca Filistinlilere yönelik toplam 1.819 saldırı gerçekleştirdi. Bu saldırılar, bölgedeki güvenlik durumunun kırılganlığını ve devam eden çatışmaları gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T22:05:46.815Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-block-main-road-in-central-west-bank-stone-palestinian-vehicles/3918847",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777237547675x0l3f",
         "title": "İsrailli Yerleşimci, El Halil'de Filistinli Aktivistin Evine Saldırdı",
         "summary": "Batı Şeria'nın El Halil kentinde bir İsrailli yerleşimcinin, Filistinli aktivist Issa Amro'nun evine saldırdığı bildirildi. Çekilen görüntülerde, yerleşimcinin aktivistin evine taş attığı ve içeri girmeye çalıştığı kaydedildi. Olay sırasında bir İsrail askerinin de bölgede bulunduğu ancak müdahale etmediği belirtildi. Bu saldırı, bölgedeki İsrailli yerleşimciler ile Filistinliler arasındaki gerilimi bir kez daha gündeme getirdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177710450587071dqk",
-        "title": "İran'ın İmam Humeyni Havalimanı Bazı Uluslararası Uçuşlara Yeniden Başladı",
-        "summary": "İran'ın başkenti Tahran'da bulunan İmam Humeyni Uluslararası Havalimanı, bazı uluslararası uçuş operasyonlarına yeniden başladığını duyurdu. Havalimanından kalkan ilk seferler, bölgedeki önemli destinasyonlara yöneldi. Bu kapsamda, Türkiye'nin İstanbul kentine, Umman'ın başkenti Maskat'a ve Suudi Arabistan'ın Medine şehrine uçuşlar gerçekleştirildi. Söz konusu gelişme, İran'ın uluslararası hava bağlantılarının yeniden aktifleştiğini ve bölgesel ulaşım ağının canlandığını gösteriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/4836109/pexels-photo-4836109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:08:25.870Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-imam-khomeini-airport-resumes-some-international-flights/3917548",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777104526920zq58z",
-        "title": "İşgal Altındaki Batı Şeria ve Gazze Şeridi'nin Deir al-Balah Bölgesinde Yerel Seçimler Başladı",
-        "summary": "İşgal altındaki Batı Şeria ve Gazze Şeridi'nin Deir al-Balah bölgesinde yerel seçimler başladı. Yaklaşık 1.03 milyon seçmenin oy kullanma hakkına sahip olduğu belirtildi. Vatandaşların oylarını kullanabilmeleri için toplam 491 seçim merkezi kuruldu. Bu seçimler, bölgedeki yerel yönetimlerin belirlenmesi açısından önem taşıyor ve demokratik katılımın bir göstergesi olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5926406/pexels-photo-5926406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:08:46.920Z",
-        "location": {
-            "lat": 31.35,
-            "lng": 34.34,
-            "name": "Deir al-Balah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/local-elections-begin-in-occupied-west-bank-gaza-strips-deir-al-balah/3917532",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
