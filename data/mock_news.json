@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777173795743z82kf",
+        "title": "ABD-İran Barış Görüşmelerinin Duraksaması Üzerine Tel Aviv'de Protesto",
+        "summary": "Tel Aviv'de pazar günü yüzlerce İsrailli protestocu sokağa çıktı. Gösteriler, ABD ile İran arasındaki barış görüşmelerinin duraksamasıyla eş zamanlı olarak gerçekleşti. Protestocular, ABD ve İsrail'in İran'a karşı olası bir savaşının yeniden başlayabileceği yönündeki endişelerini dile getirdi. Bu durum, bölgedeki gerilimin artması ve diplomatik çözüm arayışlarının zorlaşmasıyla ilgili kaygıları yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5428361/pexels-photo-5428361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T03:23:15.743Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17771738963560li9g",
+        "title": "Suriye, 2013 Tadamon katliamının kilit failinin itirafını yayınladı: \"Koku yayılmasın diye yaktık\"",
+        "summary": "Suriye, 2013 Tadamon katliamının kilit faili olduğu belirtilen bir kişinin itirafını kamuoyuyla paylaştı. \"Tadamon kasabı\" olarak anılan Amjad Youssef'in yer aldığı bir videoda, infazları gerçekleştirdiğini ve cesetleri yaktığını itiraf ettiği görülüyor. Youssef'in itirafında, \"koku yayılmasın diye yaktık\" ifadelerini kullandığı belirtildi. Bu gelişme, 2013 yılında yaşanan ve uluslararası kamuoyunda büyük yankı uyandıran katliamla ilgili yeni detayları ortaya koyuyor. Olay, Suriye iç savaşının karanlık dönemlerinden birine ışık tutuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36719900/pexels-photo-36719900.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T03:24:56.356Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-we-burned-them-so-no-smell-would-spread-syria-releases-confession-of-key-perpetrator-in-2013-tadamon-massacre/3918153",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1777173932773ak63k",
+        "title": "İran Cumhurbaşkanı Adayı Pezeşkian: Baskı Altında Müzakere Etmeyeceğiz",
+        "summary": "İran Cumhurbaşkanı adayı Masoud Pezeshkian, Tahran'ın baskı ve abluka altında herhangi bir müzakereye girmeyeceğini açıkladı. Pezeshkian, güvenin yeniden inşa edilmesi için düşmanca önlemlerin sona erdirilmesi ve bu tür eylemlerin tekrarlanmayacağına dair garantiler verilmesi gerektiğini ifade etti. Bu açıklama, İran'ın uluslararası arenadaki duruşunu ve özellikle Batılı güçlerle olan ilişkilerindeki temel prensiplerini yansıtmaktadır. Ülkenin nükleer programı ve yaptırımlar gibi konularda süregelen gerilimler bağlamında bu tür beyanlar önem taşımaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5520322/pexels-photo-5520322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T03:25:32.773Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-president-says-tehran-will-not-engage-in-talks-under-pressure-blockade/3918148",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777160530580a2fxr",
         "title": "ABD Göçmenlik Gözaltında En Uzun Süre Kalan Aile Serbest Bırakıldıktan Sonra Yeniden Tutuklandı",
         "summary": "El Gamal ailesi, ABD göçmenlik gözaltında en uzun süre tutulan ailelerden biri olarak biliniyor. Aile, 10 aylık bir gözaltı sürecinin ardından serbest bırakıldıktan sadece saatler sonra yeniden tutuklandı. Avukatları, ailenin Trump yönetimi tarafından evlerine döndükten kısa bir süre sonra tekrar gözaltına alındığını belirtti. Bu durum, ABD'nin göçmenlik politikaları ve göçmenlerin muamelesi konusundaki tartışmaları yeniden alevlendirdi.",
@@ -748,54 +796,6 @@
             "name": "Khiam, Lübnan"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777025348652xbqld",
-        "title": "İran, İstanbul ve Maskat'a uluslararası uçuşları Cumartesi günü yeniden başlatıyor",
-        "summary": "İran, İstanbul ve Umman'ın başkenti Maskat'a uluslararası uçuşlarını Cumartesi günü yeniden başlatma kararı aldı. Yetkililer tarafından yapılan açıklamaya göre, İstanbul ve Maskat'a gidiş-dönüş seferleri için izinler şimdiden verildi. Bu kararın, bölgedeki ateşkes ortamında alındığı belirtildi ve daha önce askıya alınan seferlerin yeniden başlaması anlamına geliyor. Ülke içinde ve uluslararası alanda ek rotalar için izinlerin ise talebe bağlı olarak kademeli bir şekilde çıkarılacağı ifade edildi. Bu adım, İran'ın hava ulaşımını normalleştirme ve uluslararası bağlantılarını güçlendirme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/1311074/pexels-photo-1311074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T10:09:08.652Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-to-resume-international-flights-to-istanbul-muscat-on-saturday-amid-ceasefire/3916598",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777018308199ivm0e",
-        "title": "Lübnanlı Çift, Evlerinin İsrail Tarafından Yıkıldığını Uydu Görüntüleriyle Keşfetti",
-        "summary": "Joe Elias adlı bir kişi, köyünün İsrail güçleri tarafından yıkılan birçok yerleşim yeri arasında olduğu yönündeki haberlerin ardından BBC Verify ile iletişime geçti. Elias ve eşi, Lübnan'daki evlerinin İsrail tarafından yıkıldığını uydu görüntüleri aracılığıyla tespit etti. Bu olay, İsrail'in bölgedeki askeri faaliyetleri sırasında sivil yerleşim yerlerinde meydana gelen hasarı bir kez daha gözler önüne serdi. Haber, Lübnan'da yaşanan çatışmaların sivil halk üzerindeki yıkıcı etkilerini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11734711/pexels-photo-11734711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T08:11:48.199Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777018382746ver85",
-        "title": "İsrail, İran Savaşı Başlangıcından Bu Yana Yaralı Asker Sayısını Açıkladı",
-        "summary": "İsrail ordusu tarafından yapılan açıklamaya göre, son dönemde 45 askerin daha yaralandığı bildirildi. Bu son yaralanmalarla birlikte, 'İran savaşı' olarak adlandırılan çatışmaların başlangıcından bu yana toplam yaralı asker sayısı 735'e ulaştı. Askeri veriler, yaralı askerlerden 144'ünün durumunun ciddi olduğunu gösteriyor. Halihazırda 149 askerin tedavisine devam edildiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36163611/pexels-photo-36163611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T08:13:02.746Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-says-45-soldiers-wounded-bringing-total-injured-since-start-of-iran-war-to-735/3916299",
         "trendScore": 85,
         "isBreaking": false
     }
