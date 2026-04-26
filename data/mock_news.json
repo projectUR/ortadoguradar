@@ -1,5 +1,101 @@
 [
     {
+        "id": "17771983623440r5s1",
+        "title": "Yemen'in Mayın Krizi, Ateşkese ve Temizleme Çabalarına Rağmen Devam Ediyor",
+        "summary": "Yemen'de mayın krizi, ilan edilen ateşkese ve devam eden mayın temizleme çabalarına rağmen sürmektedir. Ülke genelinde kara mayınları, çatışmaların sona ermesine rağmen can almaya ve insanları sakat bırakmaya devam ediyor. Bu durum, insani yardım kuruluşlarının ve yerel ekiplerin yoğun çalışmalarına rağmen mayınların yaygınlığını ve tehlikesini gözler önüne seriyor. Savaşın ardından kalan bu patlayıcılar, sivil halk için ciddi bir tehdit oluşturmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/949131/pexels-photo-949131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T10:12:42.344Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777198436536nde3o",
+        "title": "Rusya'nın Ukrayna'ya Saldırıları Can Kaybına Yol Açtı, Ukrayna'dan Rusya'ya Misilleme",
+        "summary": "Ukrayna'dan gelen bilgilere göre, Rusya'nın Ukrayna topraklarına düzenlediği saldırılarda en az beş kişi hayatını kaybetti. Saldırılar sonucunda bir limanda bulunan gemide de hasar meydana geldiği bildirildi. Aynı zamanda, Ukrayna güçlerinin Rusya'ya yönelik gerçekleştirdiği misilleme saldırılarında ise Vologda bölgesi ve ilhak edilen Kırım'da en az altı kişinin yaralandığı kaydedildi. Bu olaylar, Rusya-Ukrayna savaşındaki gerilimin ve karşılıklı saldırıların devam ettiğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T10:13:56.536Z",
+        "location": {
+            "lat": 50.45,
+            "lng": 30.52,
+            "name": "Ukrayna, Rusya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1777198461422s2m2r",
+        "title": "Bahreyn, Beyaz Saray Muhabirleri Yemeğindeki Silahlı Saldırıyı Kınadı",
+        "summary": "Bahreyn Dışişleri Bakanlığı, Beyaz Saray muhabirleri yemeğinde meydana gelen silahlı saldırıyı şiddetle kınadığını duyurdu. Bakanlık, her türlü şiddet ve terörü reddettiğini bir kez daha vurguladı. Yapılan açıklamada, bu tür eylemlerin uluslararası barış ve güvenliğe yönelik tehdit oluşturduğu belirtildi. Bahreyn, terörle mücadelede uluslararası toplumla işbirliğine devam etme kararlılığını yineledi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T10:14:21.422Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-condemns-shooting-at-white-house-correspondents-dinner/3918416",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "177719848100211jte",
+        "title": "İsrail'in Gazze'ye yönelik yeni saldırılarında 4 Filistinli hayatını kaybetti",
+        "summary": "İsrail güçlerinin Gazze Şeridi'ne düzenlediği yeni hava saldırılarında dört Filistinli yaşamını yitirdi. Anadolu Ajansı'na konuşan tıbbi kaynaklar, hayatını kaybedenler arasında 14 yaşında bir gencin de bulunduğunu bildirdi. Saldırılar, bölgedeki gerilimi artırırken, can kayıpları endişelere yol açtı. Olayın ardından bölgede güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850211/pexels-photo-36850211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T10:14:41.002Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/new-wave-of-israeli-strikes-kill-4-palestinians-in-gaza/3918391",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1777198503511t2n7h",
+        "title": "İran'ın Üst Düzey Diplomatı Moskova Ziyareti Öncesi Pakistan'a Geri Dönecek",
+        "summary": "İran'ın üst düzey diplomatı Abbas Araghchi, Umman ziyaretinin ardından ve Rusya seyahati öncesinde Pakistan'ı yeniden ziyaret edecek. Bu ziyaretler, ABD ile devam eden gerilimi ve potansiyel çatışmayı sona erdirmeye yönelik arabuluculuk çabaları kapsamında gerçekleşiyor. Araghchi'nin diplomatik temasları, bölgesel istikrarı sağlama ve taraflar arasındaki anlaşmazlıkları çözme amacı taşıyor. Bu girişimler, Orta Doğu'daki mevcut gerilimleri azaltma yönünde önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T10:15:03.511Z",
+        "location": {
+            "lat": 33.6844,
+            "lng": 73.0479,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/irans-top-diplomat-to-return-to-pakistan-before-moscow-trip/3918387",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17771985234618rp82",
+        "title": "Umman Sultanı, İran Dışişleri Bakanı ile Bölgesel Durumu Görüştü",
+        "summary": "Umman Sultanı Heysem bin Tarık, İran Dışişleri Bakanı ile bir araya geldi. Görüşmede, bölgedeki 'gelişen durum' ve ABD ile İran arasındaki gerilimi sona erdirmeye yönelik arabuluculuk çabaları ele alındı. Umman'ın uzun süredir bölgedeki diplomatik arabuluculuk rolüyle bilindiği bu görüşme, bölgesel istikrarın sağlanması ve gerilimlerin azaltılması açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433840/pexels-photo-7433840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-26T10:15:23.461Z",
+        "location": {
+            "lat": 23.5859,
+            "lng": 58.4059,
+            "name": "Maskat, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/omans-sultan-meets-iranian-foreign-minister-to-discuss-regional-situation/3918339",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1777194411090uvlzx",
         "title": "Amerikalı Vergi Mükellefleri Trump Dönemi Savaşlarını Nasıl Finanse Etti?",
         "summary": "Yeni bir rapora göre, Amerikalı vergi mükellefleri 2025 yılında savaş harcamalarını finanse etmek için 50 gün çalıştı. Haberde, eski ABD Başkanı Donald Trump dönemindeki askeri operasyonların maliyetine dikkat çekiliyor. Raporda ayrıca, savaş müteahhitlerine ödenen vergi paralarının, ABD askerlerine ödenen miktarın iki katına ulaştığı belirtildi. Bu durum, ABD'nin askeri harcamalarının önemli bir bölümünün özel sektör aracılığıyla gerçekleştiğini ve vergi mükellefleri üzerindeki yükü gözler önüne seriyor. Haber, ABD'nin küresel askeri angajmanlarının finansal boyutunu ve bu harcamaların dağılımını mercek altına alıyor.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777070530746kgjct",
-        "title": "İsrail'in Gazze'deki Saldırılarında 12 Filistinli Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde yaşanan olaylarda İsrail güçlerinin en az 12 Filistinliyi öldürdüğü bildirildi. Bu gelişmeler, bölgede ilan edildiği belirtilen 'ateşkes' ortamında yaşandı. Hamas tarafından yapılan açıklamada, İsrail'in bu eylemlerinin uluslararası toplumun Gazze'deki ateşkese uyulmasını sağlama konusundaki başarısızlığını temsil ettiği belirtildi. Olaylar, bölgedeki gerilimi yeniden tırmandırırken, uluslararası tepkiler merakla bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T22:42:10.746Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "177706756223405lc7",
-        "title": "Gazze'de 300 Çift İçin Toplu Düğün Töreni Düzenlendi",
-        "summary": "Gazze Şeridi'nin orta kesiminde yer alan Deyr el-Balah kentinde, hayırsever bir kuruluşun sponsorluğunda büyük bir toplu düğün töreni düzenlendi. Etkinlik kapsamında 300 gelin ve damat dünya evine girdi. Bölge halkı için neşeli bir an yaşatan tören, zorlu koşullar altında yaşam mücadelesi veren Gazze'de moral ve umut kaynağı oldu. Çiftler, bu özel günlerinde bir araya gelerek yeni bir hayata adım atarken, organizasyonun toplumsal dayanışmayı güçlendirdiği belirtildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32468906/pexels-photo-32468906.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T21:52:42.234Z",
-        "location": {
-            "lat": 31.4167,
-            "lng": 34.3333,
-            "name": "Deyr el-Balah, Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1777067671958mucot",
-        "title": "Irak'ın En Büyük Bloğu Başbakan Adayı Kararını Üçüncü Kez Erteledi",
-        "summary": "Irak'ta en büyük siyasi blok, ülkenin yeni başbakan adayını belirleme kararını bir kez daha erteledi. Daha önce hafta içinde yaşanan birden fazla gecikmenin ardından, görüşmelerin Cumartesi gününe yeniden planlandığı bildirildi. Bu erteleme, Irak'taki siyasi belirsizliğin devam ettiğini ve hükümet kurma sürecinin karmaşıklığını gözler önüne seriyor. Ülke, istikrarlı bir hükümetin kurulması için kritik bir dönemden geçiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7103072/pexels-photo-7103072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T21:54:31.958Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-s-largest-bloc-postpones-prime-minister-nominee-decision-for-third-time/3917432",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777053148570mo0f3",
-        "title": "Lübnanlı Gazeteci Amal Khalil'in İsrail Saldırısında Hayatını Kaybetmesi",
-        "summary": "Lübnanlı gazeteci Amal Khalil, güney Lübnan'da bir İsrail hava saldırısını haber yaparken yaşamını yitirdi. Olay, bölgede ilan edilen 10 günlük ateşkesin devam ettiği sırada gerçekleşti. Habere göre, Khalil'in İsrail güçleri tarafından hedef alındığı iddia ediliyor. Bu gelişme, çatışma bölgelerinde görev yapan basın mensuplarının güvenliği konusundaki endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36797224/pexels-photo-36797224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T17:52:28.570Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777053175740sgl3x",
-        "title": "Ukrayna Saldırıları Nedeniyle Rus Petrol İhracatında Düşüş Bekleniyor",
-        "summary": "Rusya'nın petrol ihracatının, Ukrayna'nın limanlara ve rafinerilere yönelik saldırıları nedeniyle önemli ölçüde düşüş yaşayabileceği belirtildi. Kaynaklar, ABD'nin yaptırım muafiyetine rağmen Rus petrol ihracatının 2023'ten bu yana en düşük seviyelere gerileyebileceğini ifade etti. Bu durum, küresel enerji piyasalarında arz endişelerini artırarak petrol fiyatları üzerinde yukarı yönlü baskı oluşturabilir. Rusya'nın enerji gelirlerindeki olası düşüş, ülkenin ekonomik istikrarını etkilerken, küresel petrol arzındaki bu değişim Orta Doğu'daki petrol üreticisi ülkelerin piyasa konumunu ve gelirlerini dolaylı olarak etkileme potansiyeli taşımaktadır.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T17:52:55.740Z",
-        "location": {
-            "lat": 55.7558,
-            "lng": 37.6173,
-            "name": "Rusya"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777053249392pueq4",
-        "title": "İsrail Başbakanı Binyamin Netanyahu'ya erken evre prostat kanseri tedavisi uygulandı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'ya erken evre prostat kanseri teşhisi konulmasının ardından tedavi uygulandı. Başbakan, kötü huylu bir tümörün başarıyla alındığını duyurdu. Operasyonun ardından Netanyahu, fiziksel durumunun 'mükemmel' olduğunu belirtti. Bu sağlık gelişmesi, Orta Doğu'nun önemli liderlerinden birinin durumu hakkında kamuoyunu bilgilendirdi.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/5207103/pexels-photo-5207103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-24T17:54:09.392Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
