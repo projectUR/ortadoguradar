@@ -1,5 +1,21 @@
 [
     {
+        "id": "17772827899477sk7s",
+        "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda 14 Kişi Hayatını Kaybetti",
+        "summary": "ABD'nin üç gün önce ateşkesin üç hafta uzatıldığını duyurmasına rağmen, İsrail'in Lübnan'a düzenlediği saldırılarda 14 kişi yaşamını yitirdi. Bu olay, devam eden ateşkes ortamında gerçekleşti ve bölgedeki gerilimi yeniden tırmandırdı. Saldırılar, ABD'nin arabuluculuğunda yapılan görüşmeler sonucunda uzatılan ateşkesin kırılganlığını gözler önüne serdi. Bölgede tansiyonun yükseldiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T09:39:49.947Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17772741035699k9o3",
         "title": "Almanya'da Elbit Fabrikasına Baskınla Suçlanan Filistin Yanlısı Grup Yargılanıyor",
         "summary": "Almanya'da, İsrail'in en büyük silah üreticisi Elbit Systems ile bağlantılı bir tesise baskın düzenlemekle suçlanan beş Avrupalı aktivist, 'Ulm Beşlisi' olarak bilinen grup, yargı karşısına çıkıyor. Filistin yanlısı olduğu belirtilen aktivistler, eylemleri nedeniyle Almanya'da mahkemeye sevk edildi. Bu olay, İsrail-Filistin çatışmasıyla ilgili uluslararası aktivizmin ve sivil itaatsizliğin bir örneğini teşkil ediyor. Yargılama süreci, aktivistlerin eylemlerinin hukuki sonuçlarını belirleyecek.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17771155979591rdgx",
-        "title": "Birleşik Krallık ve Finlandiya, İsrail'in Lübnan'daki Gazetecilere Yönelik Saldırılarını Kınadı",
-        "summary": "Birleşik Krallık ve Finlandiya, İsrail'in Lübnan'da görev yapan gazetecilere yönelik saldırılarını 'kabul edilemez' olarak nitelendirerek kınadıklarını açıkladı. Bu kınama, bölgedeki çatışmalar sırasında basın mensuplarının güvenliğine ilişkin artan endişeleri yansıtıyor. Son olarak, Amal Khalil'in hayatını kaybetmesiyle birlikte, 2 Mart'tan bu yana Lübnan'da öldürülen gazeteci sayısı 27'ye yükseldi. Uluslararası toplum, gazetecilerin hedef alınmasının savaş suçu teşkil edebileceği uyarısında bulunarak, bu tür olayların kapsamlı bir şekilde soruşturulması çağrısında bulunuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10464787/pexels-photo-10464787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T11:13:17.959Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/europe/uk-finland-condemn-unacceptable-israeli-attacks-on-journalists-in-lebanon/3917695",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
