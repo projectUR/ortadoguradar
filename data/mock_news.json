@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777323999239shdfs",
+        "title": "Kral Charles ve Kraliçe Camilla ABD'de Devlet Ziyaretine Başladı",
+        "summary": "Birleşik Krallık Kralı Charles ve Kraliçe Camilla, yüksek profilli bir devlet ziyareti için Amerika Birleşik Devletleri'ne ulaştı. Bu ziyaret, iki ülke arasındaki köklü ortak tarihi vurgularken, aynı zamanda gergin ilişkiler ve özellikle İran çatışması üzerindeki tansiyonun gölgesinde gerçekleşiyor. Ziyaretin, bu kritik bölgesel meselelerin ele alındığı diplomatik görüşmelere sahne olması bekleniyor. İran çatışması, Birleşik Krallık ve ABD arasındaki bu önemli buluşmanın gündem maddelerinden biri olarak öne çıkıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37189004/pexels-photo-37189004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T21:06:39.239Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17773187165525jayx",
         "title": "Lübnan-İsrail Müzakereleri ve Beyrut Kamuoyu",
         "summary": "Lübnan ve İsrail arasında otuz yılı aşkın bir süredir ilk doğrudan müzakereler bu ayın başlarında Washington'da gerçekleşti. Bu tarihi görüşmelerde Lübnanlı liderler İsrailli yetkililerle bir araya geldi. Haber, Beyrut'taki vatandaşların bu müzakerelere ilişkin düşüncelerini ve beklentilerini mercek altına alıyor. Kamuoyunun, iki ülke arasındaki ilişkilerin geleceği ve olası anlaşmalar hakkındaki görüşleri önem taşıyor. Bu müzakerelerin bölgedeki barış ve istikrara etkileri de tartışılıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iranian-president-says-tehran-will-not-engage-in-talks-under-pressure-blockade/3918148",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777160530580a2fxr",
-        "title": "ABD Göçmenlik Gözaltında En Uzun Süre Kalan Aile Serbest Bırakıldıktan Sonra Yeniden Tutuklandı",
-        "summary": "El Gamal ailesi, ABD göçmenlik gözaltında en uzun süre tutulan ailelerden biri olarak biliniyor. Aile, 10 aylık bir gözaltı sürecinin ardından serbest bırakıldıktan sadece saatler sonra yeniden tutuklandı. Avukatları, ailenin Trump yönetimi tarafından evlerine döndükten kısa bir süre sonra tekrar gözaltına alındığını belirtti. Bu durum, ABD'nin göçmenlik politikaları ve göçmenlerin muamelesi konusundaki tartışmaları yeniden alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/34631/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T23:42:10.580Z",
-        "location": {
-            "lat": 39.8283,
-            "lng": -98.5795,
-            "name": "Amerika Birleşik Devletleri"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/25/family-longest-held-in-us-immigration-detention-re-arrested-after-release?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
