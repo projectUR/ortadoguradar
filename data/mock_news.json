@@ -1,5 +1,85 @@
 [
     {
+        "id": "1777262866578pmot0",
+        "title": "İsrail'in Güney Lübnan Kasabalarında Yol Açtığı Yıkımın Boyutu Uydu Görüntülerinde",
+        "summary": "Uydu görüntüleri, İsrail ordusunun Güney Lübnan'daki kasabalarda neden olduğu yıkımın boyutunu gözler önüne serdi. Görüntüler, bölgedeki yerleşim yerlerinde meydana gelen geniş çaplı hasarı detaylı bir şekilde ortaya koyuyor. Bu durum, devam eden çatışmaların sivil altyapı ve yaşam alanları üzerindeki yıkıcı etkilerini bir kez daha gündeme getirdi. Uluslararası toplum ve insani yardım kuruluşları, bölgedeki durumu yakından takip ediyor ve hasarın tam boyutunu belirlemeye çalışıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27791225/pexels-photo-27791225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T04:07:46.578Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777262903567273ln",
+        "title": "Video: İsrail'in Gazze'deki 'ateşkes' ihlalleri artıyor",
+        "summary": "Gazze Şeridi'nde İsrail ile Filistinli gruplar arasında ilan edilen ateşkesin ihlallerinde önemli bir artış yaşandığı bildirildi. Verilere göre, İsrail'in söz konusu \"ateşkesi\" 2.400'den fazla kez ihlal ettiği belirtiliyor. Bu ihlallerin bölgedeki gerilimi tırmandırma potansiyeli taşıdığı ifade ediliyor. Konuya ilişkin detaylı analiz ve gelişmeler, Al Jazeera muhabiri Hala Al Shami tarafından aktarıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5710424/pexels-photo-5710424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T04:08:23.567Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777262926236rj3u3",
+        "title": "İsrail polisi, memurların bir takkeden 'Filistin bayrağını kestiği' iddiasını soruşturuyor",
+        "summary": "İsrail polisi, bir İngiliz-İsrailli erkeğin takkesinden Filistin bayrağını kestiği iddiaları üzerine soruşturma başlattı. Olay, söz konusu kişinin İsrail ve Filistin bayraklarıyla işlenmiş takkesi nedeniyle bir kişinin rahatsız olması üzerine gözaltına alındığını belirtmesiyle ortaya çıktı. Adam, gözaltı sırasında polis memurlarının takkesindeki Filistin bayrağını kestiğini iddia ediyor. Bu olay, bölgedeki ulusal semboller ve kimlikler etrafındaki hassasiyetleri ve gerilimleri bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/30211342/pexels-photo-30211342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T04:08:46.236Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.23,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17772629833955azn2",
+        "title": "Netanyahu'nun Lübnan ve İran Konusundaki Başarısızlıklar İçin 'Günah Keçisi' Aradığı İddia Edildi",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, Lübnan'daki operasyonlardaki başarısızlıklar ve İran'daki kısmi sonuçlar nedeniyle 'günah keçisi' aradığı öne sürüldü. İsrail Hayom gazetesine konuşan üst düzey ordu yetkilileri, Başbakan'ın Hizbullah'a 'güçlü bir şekilde karşılık verme' emrinin aslında iç baskıyı hafifletmek amacıyla kullanılan bir 'sis perdesi' olduğunu belirtti. Bu iddialar, İsrail'in bölgesel güvenlik politikaları ve iç siyasi dinamikleri üzerindeki gerilimi yansıtıyor. Netanyahu'nun, yaşanan aksaklıkların sorumluluğunu başkalarına yükleme çabası içinde olduğu ve liderliğine yönelik eleştirilerin arttığı ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5974857/pexels-photo-5974857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T04:09:43.395Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-seeks-scapegoat-for-failures-in-lebanon-and-partial-results-in-iran-report/3918901",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17772630059864ezxw",
+        "title": "İran Dışişleri Bakanı: Umman Görüşmeleri Hürmüz Boğazı'nda Güvenli Geçişe Odaklandı",
+        "summary": "İran Dışişleri Bakanı, Umman'da gerçekleştirdiği görüşmelerin Hürmüz Boğazı'nda güvenli geçiş konularına odaklandığını açıkladı. Bakan, Maskat ziyaretinin ardından yaptığı açıklamada, bölge komşularının Tahran'ın dış politikasında öncelikli konumda olduğunu vurguladı. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçiş noktası olup, bölgedeki gerilimler zaman zaman uluslararası endişelere yol açmaktadır. Bu görüşmeler, İran'ın bölgesel ilişkilerini güçlendirme ve kritik su yollarında istikrarı sağlama çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4345107/pexels-photo-4345107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T04:10:05.986Z",
+        "location": {
+            "lat": 23.6,
+            "lng": 58.4,
+            "name": "Maskat, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-foreign-minister-says-oman-talks-focused-on-safe-transit-in-strait-of-hormuz/3918900",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777248351318go9bu",
         "title": "İran Dışişleri Bakanı Rusya'ya Gidiyor, Trump Tahran'a Görüşme Teklif Etti",
         "summary": "İran Dışişleri Bakanı, ABD Başkanı Donald Trump'ın İranlı liderlerin görüşmek istemeleri halinde telefonla arayabileceklerini belirtmesinin ardından Rusya'ya bir ziyaret gerçekleştirecek. Bu diplomatik hamle, İran ile uluslararası güçler arasındaki mevcut gerilimi azaltma veya diplomatik yollarla çözüm bulma çabalarının bir parçası olarak değerlendiriliyor. Görüşmelerin, bölgedeki durumu ve nükleer anlaşma gibi konuları ele alması bekleniyor.",
@@ -717,86 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777109381653a62p0",
-        "title": "İrlanda, İsrail'den Filistin Okulunun Yıkımı İçin Tazminat Talep Edecek",
-        "summary": "İrlanda hükümeti, İsrail makamlarından, Filistin topraklarında yerleşimciler tarafından yıkılan bir okulun maliyetinin karşılanmasını talep edeceğini açıkladı. Bu talep, uluslararası hukuka aykırı olduğu belirtilen Filistinlilere ait yapıların yıkımına karşı İrlanda'nın gösterdiği tepkinin bir parçasıdır. İrlanda, bu tür eylemlerin Filistin toplumuna ve çocukların eğitim hakkına verdiği zarara dikkat çekmeyi amaçlamaktadır. Söz konusu okulun, bölgedeki Filistinli çocukların eğitim ihtiyaçlarını karşılamak üzere inşa edildiği belirtilmiştir. Bu diplomatik girişim, İsrail-Filistin çatışması bağlamında uluslararası toplumun sorumluluklarına vurgu yapmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12805860/pexels-photo-12805860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T09:29:41.653Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777109405093b7i11",
-        "title": "İsrail Ordusu, Ateşkese Rağmen Sivilleri Güney Lübnan Köylerine Dönmemeleri Konusunda Uyardı",
-        "summary": "İsrail ordusu, devam eden ateşkese rağmen sivilleri güney Lübnan köylerine geri dönmemeleri konusunda uyardı. Ordu sözcüsü tarafından yapılan açıklamada, Litani Nehri, Salhani Vadisi ve Saluki bölgelerine yaklaşmanın kesinlikle yasak olduğu vurgulandı. Bu uyarı, bölgedeki güvenlik durumunun henüz normale dönmediğini ve potansiyel tehlikelerin devam ettiğini işaret ediyor. Sivillerin güvenliği için alınan bu önlem, çatışma sonrası hassas dönemin bir göstergesi olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5522695/pexels-photo-5522695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T09:30:05.093Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/world/israeli-army-warns-civilians-against-returning-to-southern-lebanon-villages-despite-ceasefire/3917652",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777104376786kc0cz",
-        "title": "Batı Şeria'da Filistinliler Yerel Seçimlere Şüpheyle Yaklaşıyor",
-        "summary": "Batı Şeria'da Filistinliler arasında yerel seçimlerin önemli bir değişiklik getireceğine dair yaygın bir şüphecilik gözlemleniyor. Filistin Yönetimi'ne duyulan hayal kırıklığı ve İsrail işgalinin devam etmesi, seçmen ilgisizliğini körüklüyor. Bu durum, bölgedeki siyasi ve toplumsal gerilimi yansıtırken, halkın mevcut duruma yönelik umutsuzluğunu ortaya koyuyor. Seçmenlerin sandığa gitme motivasyonunun düşük olduğu ve seçimlerin mevcut sorunlara çözüm getirmeyeceğine inandıkları belirtiliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5926416/pexels-photo-5926416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:06:16.786Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777104397771momzp",
-        "title": "ABD, İran Petrolü Alan Çin Rafinerisine Yaptırım Uyguladı",
-        "summary": "ABD Hazine Bakanlığı, Çin'in 'çaydanlık' olarak bilinen Hengli rafinerisine İran petrolü satın aldığı gerekçesiyle yaptırım uyguladığını açıkladı. Bakanlık, bu rafinerinin İran ordusu için yüz milyonlarca dolar gelir elde etmesine olanak sağladığını belirtti. Bu yaptırımlar, ABD'nin İran'ın petrol ihracatını ve askeri finansmanını kısıtlama çabalarının bir parçası olarak görülüyor. Çinli bir şirketi hedef alan bu adım, İran'ın küresel enerji piyasasındaki erişimini daraltmayı amaçlıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/16862261/pexels-photo-16862261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:06:37.771Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777104438198scyuh",
-        "title": "ABD ve İran'ın gemi ele geçirmesi uluslararası hukuku ihlal ediyor",
-        "summary": "Uluslararası Deniz Ticaret Odası (ICS) direktörü, ABD ve İran'ın gemi ele geçirme eylemlerinin uluslararası hukuku ihlal ettiğini belirtti. Kuruluş, her iki ülkeye de ele geçirilen gemilerin mürettebatını derhal serbest bırakma çağrısında bulundu. ICS, bu tür eylemlerin küresel denizcilik güvenliği ve ticareti üzerinde olumsuz etkileri olduğunu vurguladı. Uluslararası denizcilik kurallarına uyulması ve bölgedeki gerginliğin azaltılması gerektiği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32508280/pexels-photo-32508280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T08:07:18.198Z",
-        "location": {
-            "lat": 27,
-            "lng": 51,
-            "name": "Basra Körfezi, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
