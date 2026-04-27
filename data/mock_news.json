@@ -1,5 +1,21 @@
 [
     {
+        "id": "17772905141148ei2g",
+        "title": "Gazze'de Ateşkes Devam Ederken İsrail Ordusu Ateşiyle Bir Filistinli Öldürüldü, Bir Diğeri Yaralandı",
+        "summary": "Gazze Şeridi'nde yaşanan son olayda, İsrail ordusunun açtığı ateş sonucu bir Filistinli hayatını kaybederken, bir diğeri yaralandı. Bu olay, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Haber kaynakları, saldırının ateşkes ihlallerinin sürdüğü ve İsrail'in bölgedeki operasyonlarının devam ettiği bir dönemde meydana geldiğini bildirdi. Yaşanan bu gelişme, Gazze'deki gerilimin ve güvenlik endişelerinin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-27T11:48:34.114Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-killed-another-injured-by-israeli-army-fire-in-gaza-despite-ceasefire/3919298",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17772827899477sk7s",
         "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda 14 Kişi Hayatını Kaybetti",
         "summary": "ABD'nin üç gün önce ateşkesin üç hafta uzatıldığını duyurmasına rağmen, İsrail'in Lübnan'a düzenlediği saldırılarda 14 kişi yaşamını yitirdi. Bu olay, devam eden ateşkes ortamında gerçekleşti ve bölgedeki gerilimi yeniden tırmandırdı. Saldırılar, ABD'nin arabuluculuğunda yapılan görüşmeler sonucunda uzatılan ateşkesin kırılganlığını gözler önüne serdi. Bölgede tansiyonun yükseldiği belirtiliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777118611279juyjj",
-        "title": "Batı Şeria ve Gazze'nin Bazı Bölgelerinde Filistinliler Yerel Seçimlerde Oy Kullandı",
-        "summary": "Filistin'de yerel seçimler düzenlendi. İşgal altındaki Batı Şeria'da ve Gazze Şeridi'ndeki bir şehirde sandık başına gidildi. Ancak, Hamas ve diğer bazı önemli gruplar bu seçimlere katılmama kararı aldı. Bu durum, Filistin siyasetindeki mevcut bölünmüşlüğü ve farklı gruplar arasındaki uzlaşmazlığı bir kez daha gözler önüne serdi. Seçimlerin, Filistin Yönetimi'nin kontrolündeki bölgelerde yapıldığı belirtildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5926406/pexels-photo-5926406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-25T12:03:31.279Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35,
-            "name": "Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
