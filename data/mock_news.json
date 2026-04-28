@@ -1,5 +1,21 @@
 [
     {
+        "id": "17774189417091pef1",
+        "title": "İsrailli Asker, Gazze'nin Beyt Hanun Bölgesindeki Yıkımı Görüntüledi",
+        "summary": "İsrailli bir asker tarafından çekilen video kaydı, Gazze Şeridi'nin kuzeyinde yer alan Beyt Hanun bölgesindeki geniş çaplı yıkımı gözler önüne serdi. Görüntülerde, bölgenin tamamen yerle bir olduğu ve büyük bir tahribatın yaşandığı belirtildi. Bu durum, bölgedeki çatışmaların şiddetini ve insani durumu bir kez daha gündeme getirdi. Video, bölgedeki altyapı ve yerleşim alanlarının aldığı hasarın boyutunu ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4592430/pexels-photo-4592430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T23:29:01.709Z",
+        "location": {
+            "lat": 31.56,
+            "lng": 34.52,
+            "name": "Beyt Hanun, Gazze Şeridi"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777413690629d5gqf",
         "title": "PSG, Şampiyonlar Ligi Yarı Final İlk Maçında Bayern Münih'i Mağlup Etti",
         "summary": "UEFA Şampiyonlar Ligi yarı final ilk maçında Paris Saint-Germain (PSG), kendi sahasında Bayern Münih'i 5-4 mağlup etti. Son şampiyon PSG, maçta üç farklı öne geçmesine rağmen rakibinin geri dönüşüne izin verdi ancak skoru korumayı başararak galibiyete ulaştı. Bu sonuçla PSG, rövanş maçı öncesi avantaj elde ederken, futbolseverler gol düellosu şeklinde geçen heyecanlı bir mücadeleye tanık oldu. Kulübün Katarlı sahipliği nedeniyle haberin Orta Doğu ile dolaylı bir bağlantısı bulunmaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777262926236rj3u3",
-        "title": "İsrail polisi, memurların bir takkeden 'Filistin bayrağını kestiği' iddiasını soruşturuyor",
-        "summary": "İsrail polisi, bir İngiliz-İsrailli erkeğin takkesinden Filistin bayrağını kestiği iddiaları üzerine soruşturma başlattı. Olay, söz konusu kişinin İsrail ve Filistin bayraklarıyla işlenmiş takkesi nedeniyle bir kişinin rahatsız olması üzerine gözaltına alındığını belirtmesiyle ortaya çıktı. Adam, gözaltı sırasında polis memurlarının takkesindeki Filistin bayrağını kestiğini iddia ediyor. Bu olay, bölgedeki ulusal semboller ve kimlikler etrafındaki hassasiyetleri ve gerilimleri bir kez daha gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30211342/pexels-photo-30211342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T04:08:46.236Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.23,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
