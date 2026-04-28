@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777413690629d5gqf",
+        "title": "PSG, Şampiyonlar Ligi Yarı Final İlk Maçında Bayern Münih'i Mağlup Etti",
+        "summary": "UEFA Şampiyonlar Ligi yarı final ilk maçında Paris Saint-Germain (PSG), kendi sahasında Bayern Münih'i 5-4 mağlup etti. Son şampiyon PSG, maçta üç farklı öne geçmesine rağmen rakibinin geri dönüşüne izin verdi ancak skoru korumayı başararak galibiyete ulaştı. Bu sonuçla PSG, rövanş maçı öncesi avantaj elde ederken, futbolseverler gol düellosu şeklinde geçen heyecanlı bir mücadeleye tanık oldu. Kulübün Katarlı sahipliği nedeniyle haberin Orta Doğu ile dolaylı bir bağlantısı bulunmaktadır.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/9935391/pexels-photo-9935391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T22:01:30.629Z",
+        "location": {
+            "lat": 48.8566,
+            "lng": 2.3522,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/28/psg-beat-bayern-5-4-in-record-breaking-champions-league-semifinal-first-leg?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777413858503yx4bg",
+        "title": "RÖPORTAJ – 'Ülke çökmüş durumda': İsrail'den ayrılan gazeteci artan güvensizliğe karşı uyarıyor",
+        "summary": "Eski Haaretz gazetecisi Asaf Ronel, İsrail'den ayrıldıktan sonra ülkedeki mevcut duruma ilişkin çarpıcı açıklamalarda bulundu. Ronel, Gazze'deki olayların sadece devletin değil, aynı zamanda toplumun da çökmüş olduğunu açıkça gösterdiğini belirtti. Gazeteci, bu durumun İsrail'de derin bir toplumsal ve yönetimsel krizin yaşandığına işaret ettiğini ifade etti. Bu açıklamalar, bölgedeki mevcut gerilimin İsrail içindeki yansımalarını ve toplumsal algıyı gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5807072/pexels-photo-5807072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T22:04:18.503Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/interview-the-country-is-broken-journalist-who-left-israel-warns-of-growing-insecurity/3920866",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1777409275169xve3d",
         "title": "İran'daki 60 Günlük Savaşın Ardından ABD Kongresi Söz Sahibi Olmak İstiyor mu?",
         "summary": "İran'da devam eden bir savaşın 60. gününe ulaşmasının ardından, ABD Kongresi'nin bu konudaki rolü tartışılmaya başlandı. Uzmanlar, mevcut yasalara göre ABD Başkanı Trump'ın savaşı sürdürmek için Kongre'nin onayını alması gerektiğini belirtiyor. Ancak, Kongre'nin bu meseleye müdahil olmaktan kaçınabileceği veya konuyu tamamen göz ardı edebileceği yönünde değerlendirmeler bulunuyor. Bu durum, ABD'nin dış politika ve askeri operasyon kararlarında yasama ve yürütme arasındaki yetki paylaşımını ve Kongre'nin savaş yetkileri üzerindeki potansiyel etkisini gündeme getiriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17772629833955azn2",
-        "title": "Netanyahu'nun Lübnan ve İran Konusundaki Başarısızlıklar İçin 'Günah Keçisi' Aradığı İddia Edildi",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, Lübnan'daki operasyonlardaki başarısızlıklar ve İran'daki kısmi sonuçlar nedeniyle 'günah keçisi' aradığı öne sürüldü. İsrail Hayom gazetesine konuşan üst düzey ordu yetkilileri, Başbakan'ın Hizbullah'a 'güçlü bir şekilde karşılık verme' emrinin aslında iç baskıyı hafifletmek amacıyla kullanılan bir 'sis perdesi' olduğunu belirtti. Bu iddialar, İsrail'in bölgesel güvenlik politikaları ve iç siyasi dinamikleri üzerindeki gerilimi yansıtıyor. Netanyahu'nun, yaşanan aksaklıkların sorumluluğunu başkalarına yükleme çabası içinde olduğu ve liderliğine yönelik eleştirilerin arttığı ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5974857/pexels-photo-5974857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T04:09:43.395Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-seeks-scapegoat-for-failures-in-lebanon-and-partial-results-in-iran-report/3918901",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17772630059864ezxw",
-        "title": "İran Dışişleri Bakanı: Umman Görüşmeleri Hürmüz Boğazı'nda Güvenli Geçişe Odaklandı",
-        "summary": "İran Dışişleri Bakanı, Umman'da gerçekleştirdiği görüşmelerin Hürmüz Boğazı'nda güvenli geçiş konularına odaklandığını açıkladı. Bakan, Maskat ziyaretinin ardından yaptığı açıklamada, bölge komşularının Tahran'ın dış politikasında öncelikli konumda olduğunu vurguladı. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçiş noktası olup, bölgedeki gerilimler zaman zaman uluslararası endişelere yol açmaktadır. Bu görüşmeler, İran'ın bölgesel ilişkilerini güçlendirme ve kritik su yollarında istikrarı sağlama çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4345107/pexels-photo-4345107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T04:10:05.986Z",
-        "location": {
-            "lat": 23.6,
-            "lng": 58.4,
-            "name": "Maskat, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-foreign-minister-says-oman-talks-focused-on-safe-transit-in-strait-of-hormuz/3918900",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
