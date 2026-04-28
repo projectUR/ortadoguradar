@@ -1,5 +1,101 @@
 [
     {
+        "id": "1777396316989guvc0",
+        "title": "Ukrayna İHA'ları Rusya'nın Tuapse Rafinerisini Üçüncü Kez Vurdu",
+        "summary": "Ukrayna, Karadeniz kıyısındaki liman kenti Tuapse'de bulunan önemli bir Rus petrol rafinerisini son iki hafta içinde üçüncü kez hedef aldı. Kiev yönetimi tarafından gerçekleştirildiği belirtilen bu insansız hava aracı saldırısı, Rusya'nın enerji altyapısına yönelik devam eden operasyonların bir parçası olarak kaydedildi. Saldırının rafineride yol açtığı hasar ve operasyonel durumu hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin artması ve enerji tesislerinin hedef alınması, küresel enerji piyasaları üzerinde potansiyel etkiler yaratabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32399139/pexels-photo-32399139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T17:11:56.989Z",
+        "location": {
+            "lat": 44.1083,
+            "lng": 39.075,
+            "name": "Tuapse, Rusya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777396338928ij4ly",
+        "title": "ABD-İran Anlaşması Hala Mümkün mü?",
+        "summary": "ABD ile İran arasında olası bir anlaşmanın akıbeti gündemdeki yerini koruyor. Hürmüz Boğazı'nın büyük ölçüde kapalı kalması ve Washington yönetiminden gelen çelişkili mesajlar, diplomatik süreci karmaşıklaştırıyor. Taraflar arasındaki görüşmelerin İslamabad ve Moskova üzerinden yürütüldüğü belirtiliyor. Bu gelişmeler, Orta Doğu'daki siyasi dengeler ve küresel enerji güvenliği açısından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T17:12:18.928Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/the-take-2/2026/4/28/is-a-us-iran-deal-still-possible?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777396366233t86mb",
+        "title": "Birleşik Arap Emirlikleri OPEC'ten Çekildi",
+        "summary": "Birleşik Arap Emirlikleri (BAE), Petrol İhraç Eden Ülkeler Örgütü (OPEC) ve OPEC+ grubundan çekildiğini resmen duyurdu. Bu karar, BAE'nin küresel petrol piyasasındaki üretim ve arz politikalarını bağımsız bir şekilde belirleme arayışının bir göstergesi olarak yorumlanıyor. OPEC'ten ayrılma, örgütün gelecekteki etkinliği ve küresel petrol fiyatları üzerinde önemli etkiler yaratabilecek stratejik bir adım olarak değerlendirilmektedir. Bu gelişme, Orta Doğu'daki enerji dinamiklerinde yeni bir dönemin başlangıcı olabileceği şeklinde yorumlanıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/16952913/pexels-photo-16952913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T17:12:46.233Z",
+        "location": {
+            "lat": 24.4539,
+            "lng": 54.3773,
+            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777396401593p7fgo",
+        "title": "Körfez Liderleri, İran'a Karşı Savaşın Başlamasından Bu Yana İlk Kez Suudi Arabistan'da Bir Araya Geldi",
+        "summary": "Körfez İşbirliği Konseyi (KİK) liderleri, İran'a karşı savaşın başlamasından bu yana ilk kez Suudi Arabistan'ın Cidde kentinde üst düzey bir zirvede bir araya geldi. Katar Emiri, bu toplantının savaşa karşı 'birleşik bir Körfez duruşunu' temsil ettiğini belirtti. Zirve, bölgedeki mevcut gerilimli duruma karşı ortak bir strateji geliştirme ve Körfez ülkeleri arasındaki işbirliğini güçlendirme amacı taşıyor. Liderler, bölgesel güvenlik ve istikrar konularını ele aldı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7644014/pexels-photo-7644014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T17:13:21.593Z",
+        "location": {
+            "lat": 21.5,
+            "lng": 39.2,
+            "name": "Cidde, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177739649003448irr",
+        "title": "BM yetkilisi, kırılgan ateşkes ortamında Gazze'deki durumun 'istikrarlı bir şekilde kötüleştiği' uyarısında bulundu",
+        "summary": "Birleşmiş Milletler Orta Doğu Genel Sekreter Yardımcısı, Gazze'deki durumun \"istikrarlı bir şekilde kötüleştiği\" konusunda uyarıda bulundu. Yetkili, bölgedeki ateşkesin \"kırılgan\" olduğunu vurguladı. Açıklamasına göre, Filistin toplulukları rutin olarak ölümcül şiddet, vandalizm ve tacizle karşı karşıya kalmaktadır. Bu olayların sıklıkla İsrail askerlerinin varlığında veya onların katılımıyla gerçekleştiği belirtildi. BM yetkilisi, bölgedeki gerilimin ve insani zorlukların devam ettiğine dikkat çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T17:14:50.034Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-official-warns-gaza-situation-steadily-worsening-amid-fragile-ceasefire/3920726",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777396527732bm4q2",
+        "title": "BM Genel Kurul Başkanı, İran ve Gazze Savaşları Ortasında BM'ye Destek İçin Bölgeler Arası İttifak Çağrısı Yaptı",
+        "summary": "Birleşmiş Milletler Genel Kurulu Başkanı, İran ve Gazze'deki devam eden savaşların ortasında Birleşmiş Milletler'e destek olmak amacıyla bölgeler arası bir ittifak kurulması çağrısında bulundu. 80. Genel Kurul Başkanı Annalena Baerbock, bu önemli açıklamaları Hindistan ziyareti sırasında gerçekleştirdi. Baerbock, uluslararası toplumun bu kritik dönemde BM'nin küresel barış ve güvenliği koruma misyonunu güçlendirmesi gerektiğini vurguladı. Bu çağrı, Orta Doğu'daki mevcut gerilimlerin ve çatışmaların uluslararası iş birliğinin önemini bir kez daha ortaya koydu. BM'nin bu bölgelerdeki insani ve diplomatik çabalarının sürdürülebilirliği için geniş tabanlı bir desteğin gerekliliği üzerinde duruldu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T17:15:27.732Z",
+        "location": {
+            "lat": 28.6139,
+            "lng": 77.209,
+            "name": "Yeni Delhi, Hindistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-general-assembly-president-urges-cross-regional-alliance-to-support-un-amid-iran-gaza-wars/3920694",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "17773782868210am7y",
         "title": "Uluslararası Af Örgütü, ABD'nin Yemen'e Yönelik Saldırısının Savaş Suçu Olarak Soruşturulmasını İstedi",
         "summary": "Uluslararası Af Örgütü, ABD'nin geçen yıl Yemen'deki bir göçmen gözaltı tesisine düzenlediği ve en az 68 kişinin ölümüne neden olan saldırının savaş suçu olarak soruşturulması çağrısında bulundu. Örgüt, olayın tüm yönleriyle araştırılmasını, sorumluların tespit edilmesini ve uluslararası hukuk önünde hesap vermesini talep ediyor. Bu çağrı, çatışma bölgelerindeki sivil kayıplar ve insan hakları ihlalleri konusundaki endişeleri bir kez daha gündeme getirdi.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177722532326139q9e",
-        "title": "İran, Savaş Belirsizliğinde Ekonomik Odağını Temel İhtiyaçlara Kaydırıyor",
-        "summary": "İran hükümeti, ülkedeki savaş belirsizliğinin yarattığı ekonomik baskılar karşısında yeni adımlar atıyor. Bu kapsamda, temel ihtiyaç maddeleri için alınan bir döviz kararını kısmen geri çekme kararı alındı. Ayrıca, devletin egemen varlık fonundan kaynak aktarımı yapılacağı belirtildi. Bu hamlelerin, vatandaşların temel ihtiyaçlarını güvence altına almayı ve ekonomik istikrarı sağlamayı hedeflediği ifade ediliyor. Ülkenin ekonomik politikalarında yaşanan bu değişim, bölgesel gerilimlerin iç ekonomiye yansımaları olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/14902678/pexels-photo-14902678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T17:42:03.261Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1777225347828yzinh",
-        "title": "Abbas'a Bağlı İsimler Filistin Seçimlerinde Zafer Kazandı, Gazze'de Katılım Düşük Kaldı",
-        "summary": "Filistin'de gerçekleştirilen seçimlerde Devlet Başkanı Mahmud Abbas'a sadık isimlerin önemli bir zafer elde ettiği açıklandı. Seçim sonuçlarına göre, Abbas yanlıları Gazze Şeridi'ndeki bazı sandalyeleri de kazanmayı başardı. Ancak Gazze'de seçmen katılımının, bölgede devam eden çatışmaların ve insani krizin etkisiyle oldukça düşük seviyelerde kaldığı belirtildi. Bu durum, bölgedeki siyasi süreçlerin mevcut koşullardan nasıl etkilendiğini gözler önüne serdi ve seçimlerin genel meşruiyeti hakkında tartışmaları beraberinde getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8846783/pexels-photo-8846783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T17:42:27.828Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza City, Palestine"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777222261546rxwuh",
-        "title": "Yamal, Salah ve Ekitike 2026 Dünya Kupası'nı Sakatlık Nedeniyle Kaçırabilir mi?",
-        "summary": "2026 Dünya Kupası'na katılamama riski taşıyan önemli futbolcuların sakatlık durumları gündeme geldi. Haberde, İspanyol genç yetenek Lamine Yamal, Mısırlı yıldız Mohamed Salah ve Brezilyalı üçlü dahil olmak üzere toplam 10 oyuncunun sakatlık nedeniyle sahalardan uzak kalabileceği belirtiliyor. Bu durum, futbol dünyasında endişe yaratırken, özellikle Mısır'ın önemli oyuncusu Salah'ın durumu Orta Doğu'da yakından takip ediliyor. Oyuncuların sağlık durumları ve Dünya Kupası'na yetişip yetişemeyecekleri önümüzdeki dönemde netleşecek.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/29558669/pexels-photo-29558669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T16:51:01.546Z",
-        "location": {
-            "lat": 30.04,
-            "lng": 31.23,
-            "name": "Mısır"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/26/will-yamal-salah-and-ekitike-miss-the-world-cup-2026-due-to-injury?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777218412209l783e",
-        "title": "ABD-İran Çatışması: İslamabad Görüşmeleri Duraksarken Son Durum Ne?",
-        "summary": "ABD ile İran arasındaki gerilim devam ederken, taraflar pozisyonlarını koruyor. İslamabad'da yürütülen diplomatik görüşmelerin duraksadığı bildirildi. Arabulucular, Washington ve Tahran arasındaki anlaşmazlıkta diplomatik bir çözüm umuyor. Haberde, ABD ve İsrail'in İran'a karşı yürüttüğü savaşta bir diplomatik atılım beklendiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T15:46:52.209Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777215039509l49b6",
-        "title": "Lübnanlı Gazeteci Amal Khalil Öldürüldü: Shireen Abu Akleh Benzetmesi",
-        "summary": "Lübnanlı gazeteci Amal Khalil'in susturulma girişimlerine boyun eğmeyi reddettiği için öldürüldüğü bildirildi. Haber başlığında, İsrail'in Khalil'den, daha önce öldürülen Filistinli-Amerikalı gazeteci Shireen Abu Akleh'ten korktuğu gibi korktuğu ifade ediliyor. Bu olay, bölgedeki gazetecilerin karşılaştığı riskleri ve ifade özgürlüğü üzerindeki baskıları bir kez daha gündeme getiriyor. Gazetecinin ölümü, Orta Doğu'da basın özgürlüğü ve insan hakları konularında endişeleri artırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11219740/pexels-photo-11219740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T14:50:39.509Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/4/26/israel-feared-amal-khalil-just-as-it-did-shireen-abu-akleh?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1777211208501se2ja",
-        "title": "Gazze'de Ateşkeslerin Geleceği: Bölgesel Gerilim Azalırken Yeni Çıkmazlar",
-        "summary": "Bölgesel gerilimin azalmasıyla birlikte, dikkatler Gazze'deki duruma çevrilmiş durumda. İran ve Lübnan'daki ateşkeslerin ardından, Gazze'de Hamas'ın silahları ve gelecekteki yönetimi konusundaki çıkmaz, bölgedeki ateşkesi tehdit ediyor. Bu durum, Gazze'de kalıcı bir barışın sağlanması önündeki engelleri bir kez daha gözler önüne seriyor. Bölgesel aktörler ve uluslararası toplum, Gazze'deki bu kilitlenmeyi aşmak için diplomatik çabalarını yoğunlaştırmak zorunda kalabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193761/pexels-photo-36193761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T13:46:48.501Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
