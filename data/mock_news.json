@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777339007097g26tx",
+        "title": "Hürmüz Boğazı Gerilimi: BM Küresel Gıda Krizi Uyarısı Yaparken, Trump Barış Planını İnceliyor",
+        "summary": "Birleşmiş Milletler Genel Sekreteri, ABD ile İran arasında Hürmüz Boğazı'nda yaşanan gerilimin küresel bir gıda acil durumunu tetikleme riski taşıdığı konusunda uyarıda bulundu. BM, stratejik öneme sahip Hürmüz Boğazı'nın uluslararası denizcilik için yeniden açılması çağrısını yineledi. Bu çağrı, bölgedeki seyrüsefer güvenliğinin ve uluslararası ticaretin kesintisiz devamının kritik önemini vurguluyor. Haber başlığında ayrıca ABD Başkanı Trump'ın bölgedeki tansiyonu düşürmeye yönelik bir barış planını gözden geçirdiği bilgisi yer alıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9550526/pexels-photo-9550526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-28T01:16:47.097Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17773326301955hghq",
         "title": "İran, BM'de ABD ve İsrail'i Saldırganlıkla Suçladı, Hürmüz Boğazı'ndaki Eylemlerini Savundu",
         "summary": "İran, Birleşmiş Milletler'de yaptığı açıklamada ABD ve İsrail'i saldırganlıkla suçladı. İran temsilcisi, ABD ve İsrail rejiminin 28 Şubat'tan bu yana İran'a karşı haksız ve büyük çaplı bir saldırı savaşı başlattığını iddia etti. Tahran yönetimi, aynı zamanda stratejik öneme sahip Hürmüz Boğazı'ndaki eylemlerini uluslararası platformda savundu. Bu açıklamalar, Orta Doğu'daki mevcut gerilimin diplomatik arenaya taşındığını göstermektedir.",
@@ -780,22 +796,6 @@
             "name": "Umman Denizi"
         },
         "source": "https://www.aa.com.tr/en/middle-east/us-intercepts-sanctioned-vessel-in-arabian-sea-redirects-to-iran/3918149",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777183362192fbyrk",
-        "title": "Brown Üniversitesi Profesörü Gazze Savaşı'nı 'Soykırım' Olarak Nitelendirdi",
-        "summary": "Brown Üniversitesi'nden bir profesör, devam eden Gazze savaşını 'soykırım' olarak tanımladı. İsrailli-Amerikalı akademisyen, mevcut durumun Holokost'tan farklı olduğunu ancak Birleşmiş Milletler'in soykırım tanımına uyduğunu belirtti. Bu açıklama, İsrail'in Gazze'deki askeri operasyonlarına yönelik uluslararası tartışmaları ve eleştirileri yeniden gündeme getirdi. Profesörün bu değerlendirmesi, çatışmanın insani boyutlarına ve uluslararası hukuk çerçevesindeki sorumluluklara dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8832577/pexels-photo-8832577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-26T06:02:42.192Z",
-        "location": {
-            "lat": 31.4,
-            "lng": 34.3,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/brown-university-professor-describes-gaza-war-as-genocide-/3918146",
         "trendScore": 85,
         "isBreaking": false
     }
