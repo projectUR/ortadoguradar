@@ -1,5 +1,53 @@
 [
     {
+        "id": "1777447559174isrqp",
+        "title": "İran Gerilimi ve BAE'nin OPEC Kararı: Körfez Liderleri Suudi Arabistan'da Toplandı",
+        "summary": "Orta Doğu'da devam eden gerilimler ve diplomatik hareketlilik dikkat çekiyor. İran ile ilgili gelişmeler 61. gününe ulaşırken, Birleşik Arap Emirlikleri'nin OPEC'ten ayrılma kararı bölgedeki enerji ve siyaset dengelerini etkileyecek önemli bir adım olarak değerlendiriliyor. Eski ABD Başkanı Trump, İran'ın 'çöküş halinde' olduğunu iddia etti. Bu sırada, Körfez ülkeleri liderleri Suudi Arabistan'da bir araya gelerek bölgesel konuları ele aldı. Bu gelişmeler, Orta Doğu'daki siyasi ve ekonomik dinamiklerdeki değişimleri gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5737246/pexels-photo-5737246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T07:25:59.174Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777447635049pimx4",
+        "title": "Birleşik Arap Emirlikleri OPEC'ten Ayrılma Kararı Aldı",
+        "summary": "Birleşik Arap Emirlikleri (BAE), yaklaşık 60 yıldır üyesi olduğu Petrol İhraç Eden Ülkeler Örgütü (OPEC) üyeliğinden ayrılma kararı aldı. Bu önemli karar, küresel petrol piyasalarında büyük yankı uyandırdı ve OPEC'in geleceği hakkında spekülasyonlara yol açtı. Analistler, BAE'nin bu adımının petrol karteli için potansiyel bir dönüm noktası olabileceğini belirtiyor. BAE'nin kendi petrol üretim ve ihracat politikalarında daha fazla bağımsızlık arayışında olduğu düşünülüyor. Kararın küresel enerji dengeleri üzerindeki etkileri yakından takip ediliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/15609718/pexels-photo-15609718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T07:27:15.049Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777447736929wigi6",
+        "title": "İsrail ordusunun açtığı ateş Batı Şeria'nın Silwad kasabasında bir Filistinlinin ölümüne neden oldu",
+        "summary": "Batı Şeria'da İsrail ordusunun düzenlediği bir operasyon sırasında bir Filistinli hayatını kaybetti. Filistin Sağlık Bakanlığı'ndan yapılan açıklamaya göre, olay Ramallah'ın doğusundaki Silwad kasabasında meydana geldi. Hayatını kaybeden kişinin, İsrail güçlerinin kasabaya düzenlediği baskın sırasında açılan ateş sonucu vurulduğu bildirildi. Bölgedeki gerilimin devam ettiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T07:28:56.929Z",
+        "location": {
+            "lat": 31.97,
+            "lng": 35.27,
+            "name": "Silwad, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-fire-kills-palestinian-in-west-banks-silwad/3921108",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1777438475704hw5lp",
         "title": "BM Yardım Şefi: Somali'deki Durum ABD'nin İran'a Karşı Savaşıyla Kötüleşti",
         "summary": "Birleşmiş Milletler insani yardım koordinatörü Tom Fletcher, Somali'ye gerçekleştirdiği ziyaret sırasında İran'a karşı yürütülen savaşı sert bir dille eleştirdi. Fletcher, bu savaşın Somali'deki insani durumu daha da kötüleştirdiğini ifade etti. Açıklamalar, bölgedeki insani krizin uluslararası çatışmalardan nasıl etkilendiğini gözler önüne serdi.",
@@ -748,54 +796,6 @@
             "name": "Tunus, Tunus"
         },
         "source": "https://www.aa.com.tr/en/americas/us-state-department-approves-possible-sale-of-equipment-for-tunisian-border-project/3919577",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17772905141148ei2g",
-        "title": "Gazze'de Ateşkes Devam Ederken İsrail Ordusu Ateşiyle Bir Filistinli Öldürüldü, Bir Diğeri Yaralandı",
-        "summary": "Gazze Şeridi'nde yaşanan son olayda, İsrail ordusunun açtığı ateş sonucu bir Filistinli hayatını kaybederken, bir diğeri yaralandı. Bu olay, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleşti. Haber kaynakları, saldırının ateşkes ihlallerinin sürdüğü ve İsrail'in bölgedeki operasyonlarının devam ettiği bir dönemde meydana geldiğini bildirdi. Yaşanan bu gelişme, Gazze'deki gerilimin ve güvenlik endişelerinin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699721/pexels-photo-5699721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T11:48:34.114Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-killed-another-injured-by-israeli-army-fire-in-gaza-despite-ceasefire/3919298",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17772827899477sk7s",
-        "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda 14 Kişi Hayatını Kaybetti",
-        "summary": "ABD'nin üç gün önce ateşkesin üç hafta uzatıldığını duyurmasına rağmen, İsrail'in Lübnan'a düzenlediği saldırılarda 14 kişi yaşamını yitirdi. Bu olay, devam eden ateşkes ortamında gerçekleşti ve bölgedeki gerilimi yeniden tırmandırdı. Saldırılar, ABD'nin arabuluculuğunda yapılan görüşmeler sonucunda uzatılan ateşkesin kırılganlığını gözler önüne serdi. Bölgede tansiyonun yükseldiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T09:39:49.947Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17772741035699k9o3",
-        "title": "Almanya'da Elbit Fabrikasına Baskınla Suçlanan Filistin Yanlısı Grup Yargılanıyor",
-        "summary": "Almanya'da, İsrail'in en büyük silah üreticisi Elbit Systems ile bağlantılı bir tesise baskın düzenlemekle suçlanan beş Avrupalı aktivist, 'Ulm Beşlisi' olarak bilinen grup, yargı karşısına çıkıyor. Filistin yanlısı olduğu belirtilen aktivistler, eylemleri nedeniyle Almanya'da mahkemeye sevk edildi. Bu olay, İsrail-Filistin çatışmasıyla ilgili uluslararası aktivizmin ve sivil itaatsizliğin bir örneğini teşkil ediyor. Yargılama süreci, aktivistlerin eylemlerinin hukuki sonuçlarını belirleyecek.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/28862431/pexels-photo-28862431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T07:15:03.569Z",
-        "location": {
-            "lat": 48.4011,
-            "lng": 9.9876,
-            "name": "Ulm, Almanya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": false
     }
