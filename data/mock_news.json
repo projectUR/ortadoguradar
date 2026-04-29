@@ -1,5 +1,53 @@
 [
     {
+        "id": "17774255044235cn51",
+        "title": "ABD Başkanı Trump: İran, Deniz Ablukasının Kaldırılmasını İstedi; İsrail Sağlık Görevlilerini Öldürdü",
+        "summary": "ABD Başkanı Donald Trump, İran'ın Washington yönetimine başvurarak İran limanlarına uygulanan deniz ablukasının kaldırılmasını talep ettiğini açıkladı. Bu gelişme, ABD ile İran arasındaki gerilimin devam ettiği bir dönemde yaşandı. Haber başlığında ayrıca \"İran savaşı canlı\" ifadesi ve İsrail'in sağlık görevlilerini öldürdüğü bilgisi de yer aldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10945150/pexels-photo-10945150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T01:18:24.423Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1777425544501qkx5v",
+        "title": "ABD-İran Görüşmeleri Çıkmaza Girerken Uzmanlar Uzun Vadeli Kesintiler Konusunda Uyarıyor",
+        "summary": "ABD ile İran arasındaki nükleer müzakerelerin durma noktasına gelmesi, küresel piyasalarda endişeleri artırıyor. İki ülke arasındaki gerilimin devam etmesiyle birlikte, uluslararası petrol fiyatları yükselişini sürdürüyor. Uzmanlar, bu siyasi çıkmazın uzun vadede enerji arzında ve bölgesel istikrarda ciddi aksaklıklara yol açabileceği konusunda uyarıyor. Görüşmelerdeki tıkanıklık, küresel enerji güvenliği üzerindeki baskıyı artırmaya devam ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36488785/pexels-photo-36488785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T01:19:04.501Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777425634788g86kg",
+        "title": "İİT, BM Güvenlik Konseyi'ne Gazze'de 'Adil ve Kalıcı Barış' Çağrısı Yaptı",
+        "summary": "İslam İşbirliği Teşkilatı (İİT), Birleşmiş Milletler Güvenlik Konseyi'ne Gazze'deki ateşkesin 'adil ve kalıcı bir barışa' dönüştürülmesi için çağrıda bulundu. Teşkilat, İsrail'in Ramazan ve Paskalya dönemlerinde kutsal mekanlara yönelik ihlallerinin 'ibadet özgürlüğüne ciddi bir tecavüz' teşkil ettiğini belirtti. Ahmet Yıldız tarafından yapılan açıklamada, bu tür eylemlerin bölgedeki gerilimi artırdığı ve uluslararası hukukun ihlali olduğu vurgulandı. İİT, Güvenlik Konseyi'nden bölgede kalıcı bir çözüm ve tüm taraflar için güvenlik sağlayacak somut adımlar atmasını talep etti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-29T01:20:34.788Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oic-urges-un-security-council-to-turn-gaza-ceasefire-into-just-and-lasting-peace/3921036",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17774189417091pef1",
         "title": "İsrailli Asker, Gazze'nin Beyt Hanun Bölgesindeki Yıkımı Görüntüledi",
         "summary": "İsrailli bir asker tarafından çekilen video kaydı, Gazze Şeridi'nin kuzeyinde yer alan Beyt Hanun bölgesindeki geniş çaplı yıkımı gözler önüne serdi. Görüntülerde, bölgenin tamamen yerle bir olduğu ve büyük bir tahribatın yaşandığı belirtildi. Bu durum, bölgedeki çatışmaların şiddetini ve insani durumu bir kez daha gündeme getirdi. Video, bölgedeki altyapı ve yerleşim alanlarının aldığı hasarın boyutunu ortaya koydu.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-proposes-reopening-strait-of-hormuz-delaying-nuclear-talks-report/3918904",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177727428373322oq5",
-        "title": "Hizbullah, Güney Lübnan'da İsrail Askerlerine Tanksavar Füzesi Saldırısı Düzenlediğini Duyurdu",
-        "summary": "Hizbullah, Güney Lübnan'da İsrail askerlerine yönelik bir tanksavar füzesi saldırısı gerçekleştirdiğini açıkladı. Lübnanlı grup tarafından yapılan açıklamada, saldırının Kafr Kila yakınlarındaki Tal al-Nahas bölgesinde toplanan İsrail askerlerini hedef aldığı belirtildi. Bu olay, İsrail-Lübnan sınır hattında devam eden gerilimin son örneklerinden biri olarak kayıtlara geçti. Bölgedeki güvenlik durumu ve taraflar arasındaki gelişmeler yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T07:18:03.733Z",
-        "location": {
-            "lat": 33.35,
-            "lng": 35.56,
-            "name": "Kafr Kila, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-launched-anti-tank-missile-attack-on-israeli-troops-in-southern-lebanon/3918899",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1777262866578pmot0",
-        "title": "İsrail'in Güney Lübnan Kasabalarında Yol Açtığı Yıkımın Boyutu Uydu Görüntülerinde",
-        "summary": "Uydu görüntüleri, İsrail ordusunun Güney Lübnan'daki kasabalarda neden olduğu yıkımın boyutunu gözler önüne serdi. Görüntüler, bölgedeki yerleşim yerlerinde meydana gelen geniş çaplı hasarı detaylı bir şekilde ortaya koyuyor. Bu durum, devam eden çatışmaların sivil altyapı ve yaşam alanları üzerindeki yıkıcı etkilerini bir kez daha gündeme getirdi. Uluslararası toplum ve insani yardım kuruluşları, bölgedeki durumu yakından takip ediyor ve hasarın tam boyutunu belirlemeye çalışıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27791225/pexels-photo-27791225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T04:07:46.578Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777262903567273ln",
-        "title": "Video: İsrail'in Gazze'deki 'ateşkes' ihlalleri artıyor",
-        "summary": "Gazze Şeridi'nde İsrail ile Filistinli gruplar arasında ilan edilen ateşkesin ihlallerinde önemli bir artış yaşandığı bildirildi. Verilere göre, İsrail'in söz konusu \"ateşkesi\" 2.400'den fazla kez ihlal ettiği belirtiliyor. Bu ihlallerin bölgedeki gerilimi tırmandırma potansiyeli taşıdığı ifade ediliyor. Konuya ilişkin detaylı analiz ve gelişmeler, Al Jazeera muhabiri Hala Al Shami tarafından aktarıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5710424/pexels-photo-5710424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-27T04:08:23.567Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-israeli-ceasefire-violations-on-the-rise-in-gaza?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
