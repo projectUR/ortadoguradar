@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777588172119sxk4q",
+        "title": "Filistin Futbol Federasyonu Başkanı FIFA Kongresi'nde İsrail Federasyonu Başkan Yardımcısını Eleştirdi",
+        "summary": "Kanada'da düzenlenen FIFA Kongresi'nde Filistin Futbol Federasyonu (FA) başkanı, İsrail Futbol Federasyonu başkan yardımcısına yönelik sert eleştirilerde bulundu. Kongrede Filistin ve İsrail temsilcilerinin birbirine yakın sıralarda oturduğu belirtildi. Bu olay, iki taraf arasındaki siyasi gerilimin uluslararası bir spor platformunda da kendini gösterdiğini ortaya koydu. Eleştirilerin içeriği ve İsrail tarafından gelen yanıtlar hakkında detay verilmedi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7640471/pexels-photo-7640471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T22:29:32.119Z",
+        "location": {
+            "lat": 43.6532,
+            "lng": -79.3832,
+            "name": "Toronto, Kanada"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777588220371dc60k",
+        "title": "ABD'de benzin fiyatları yükseldi; Trump, İran savaşı sonrası düşüş öngörüyor",
+        "summary": "ABD'de benzin fiyatları, Hürmüz Boğazı'ndaki abluka ve İran ile yaşanan diplomatik çıkmazın etkisiyle bir haftada yaklaşık 30 sent artarak galon başına 4,30 dolara yükseldi. Bu artış, Orta Doğu'daki jeopolitik gerilimlerin küresel enerji piyasaları üzerindeki doğrudan etkisini gösteriyor. Eski ABD Başkanı Donald Trump ise, İran ile olası bir savaşın ardından benzin fiyatlarının düşeceğini iddia etti. Bu açıklama, bölgedeki güvenlik endişelerini ve enerji politikalarını bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T22:30:20.371Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777583396385v0gm1",
         "title": "İsrail'in Lübnan'da Gazze Taktiklerini Tekrarladığı İddiası",
         "summary": "İsrail'in Lübnan'daki sivil hedeflere yönelik geniş çaplı saldırılarının, Gazze Şeridi'nde uyguladığı taktiklerin bir tekrarı olduğu belirtiliyor. Haber kaynakları, İsrail güçlerinin Lübnan'ın güneyinde gerçekleştirdiği operasyonlarda sivil altyapıyı hedef almasının, Gazze'deki çatışmalarda gözlemlenen yöntemlere benzediğini ifade ediyor. Bu durum, bölgedeki gerilimi artırırken, uluslararası toplumda endişelere yol açıyor. Saldırıların, Lübnan'da geniş çaplı yıkıma ve sivil kayıplara neden olabileceği vurgulanıyor.",
@@ -764,38 +796,6 @@
             "name": "Golan Tepeleri"
         },
         "source": "https://www.aa.com.tr/en/world/israel-must-stop-plans-to-expand-settlements-in-occupied-syrian-golan-heights-un/3920853",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777396316989guvc0",
-        "title": "Ukrayna İHA'ları Rusya'nın Tuapse Rafinerisini Üçüncü Kez Vurdu",
-        "summary": "Ukrayna, Karadeniz kıyısındaki liman kenti Tuapse'de bulunan önemli bir Rus petrol rafinerisini son iki hafta içinde üçüncü kez hedef aldı. Kiev yönetimi tarafından gerçekleştirildiği belirtilen bu insansız hava aracı saldırısı, Rusya'nın enerji altyapısına yönelik devam eden operasyonların bir parçası olarak kaydedildi. Saldırının rafineride yol açtığı hasar ve operasyonel durumu hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin artması ve enerji tesislerinin hedef alınması, küresel enerji piyasaları üzerinde potansiyel etkiler yaratabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32399139/pexels-photo-32399139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T17:11:56.989Z",
-        "location": {
-            "lat": 44.1083,
-            "lng": 39.075,
-            "name": "Tuapse, Rusya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777396338928ij4ly",
-        "title": "ABD-İran Anlaşması Hala Mümkün mü?",
-        "summary": "ABD ile İran arasında olası bir anlaşmanın akıbeti gündemdeki yerini koruyor. Hürmüz Boğazı'nın büyük ölçüde kapalı kalması ve Washington yönetiminden gelen çelişkili mesajlar, diplomatik süreci karmaşıklaştırıyor. Taraflar arasındaki görüşmelerin İslamabad ve Moskova üzerinden yürütüldüğü belirtiliyor. Bu gelişmeler, Orta Doğu'daki siyasi dengeler ve küresel enerji güvenliği açısından yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T17:12:18.928Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/the-take-2/2026/4/28/is-a-us-iran-deal-still-possible?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
