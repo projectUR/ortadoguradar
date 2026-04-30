@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777583396385v0gm1",
+        "title": "İsrail'in Lübnan'da Gazze Taktiklerini Tekrarladığı İddiası",
+        "summary": "İsrail'in Lübnan'daki sivil hedeflere yönelik geniş çaplı saldırılarının, Gazze Şeridi'nde uyguladığı taktiklerin bir tekrarı olduğu belirtiliyor. Haber kaynakları, İsrail güçlerinin Lübnan'ın güneyinde gerçekleştirdiği operasyonlarda sivil altyapıyı hedef almasının, Gazze'deki çatışmalarda gözlemlenen yöntemlere benzediğini ifade ediyor. Bu durum, bölgedeki gerilimi artırırken, uluslararası toplumda endişelere yol açıyor. Saldırıların, Lübnan'da geniş çaplı yıkıma ve sivil kayıplara neden olabileceği vurgulanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T21:09:56.385Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777583550123q0jyd",
+        "title": "BAE, 'bölgesel gelişmeler' nedeniyle vatandaşlarının İran, Lübnan ve Irak'a seyahatini yasakladı",
+        "summary": "Birleşik Arap Emirlikleri (BAE), vatandaşlarının İran, Lübnan ve Irak'a seyahat etmesini yasakladığını duyurdu. BAE Dışişleri Bakanlığı tarafından yapılan açıklamada, bu kararın 'bölgesel gelişmeler' nedeniyle alındığı belirtildi. Bakanlık ayrıca, halihazırda bu üç ülkede bulunan BAE vatandaşlarına 'en erken fırsatta' ülkelerine dönmeleri çağrısında bulundu. Bu adım, Orta Doğu'daki istikrarsızlık ve güvenlik durumuna ilişkin artan endişeleri yansıtmaktadır. Kararın, bölgedeki gerilimlerin tırmanması karşısında BAE vatandaşlarının güvenliğini sağlamaya yönelik önleyici bir tedbir olduğu düşünülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828583/pexels-photo-8828583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-04-30T21:12:30.123Z",
+        "location": {
+            "lat": 24.5,
+            "lng": 54.4,
+            "name": "Abu Dhabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-bans-citizens-from-traveling-to-iran-lebanon-iraq-due-to-regional-developments/3923710",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777579015991ucq0y",
         "title": "FIFA Başkanı Infantino'dan İran'ın Dünya Kupası Katılımına Onay",
         "summary": "FIFA Başkanı Gianni Infantino, İran'ın 2026 Dünya Kupası'nda yer alacağını doğruladı. İran'ın ABD ile birlikte ev sahipliği yapacak olan turnuvadaki konumu, ülkeye yönelik ABD-İsrail savaşı nedeniyle belirsizliğini koruyordu. Bu açıklama, İran'ın uluslararası spor sahnesindeki yerini güvence altına alırken, ülkenin karşı karşıya kaldığı siyasi gerilimlerin spor üzerindeki potansiyel etkilerini de gündeme getiriyor. Infantino'nun onayı, sporun siyasi gerilimlerden ayrı tutulması yönündeki uluslararası çabaların bir göstergesi olarak yorumlanabilir.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/the-take-2/2026/4/28/is-a-us-iran-deal-still-possible?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777396366233t86mb",
-        "title": "Birleşik Arap Emirlikleri OPEC'ten Çekildi",
-        "summary": "Birleşik Arap Emirlikleri (BAE), Petrol İhraç Eden Ülkeler Örgütü (OPEC) ve OPEC+ grubundan çekildiğini resmen duyurdu. Bu karar, BAE'nin küresel petrol piyasasındaki üretim ve arz politikalarını bağımsız bir şekilde belirleme arayışının bir göstergesi olarak yorumlanıyor. OPEC'ten ayrılma, örgütün gelecekteki etkinliği ve küresel petrol fiyatları üzerinde önemli etkiler yaratabilecek stratejik bir adım olarak değerlendirilmektedir. Bu gelişme, Orta Doğu'daki enerji dinamiklerinde yeni bir dönemin başlangıcı olabileceği şeklinde yorumlanıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/16952913/pexels-photo-16952913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T17:12:46.233Z",
-        "location": {
-            "lat": 24.4539,
-            "lng": 54.3773,
-            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777396401593p7fgo",
-        "title": "Körfez Liderleri, İran'a Karşı Savaşın Başlamasından Bu Yana İlk Kez Suudi Arabistan'da Bir Araya Geldi",
-        "summary": "Körfez İşbirliği Konseyi (KİK) liderleri, İran'a karşı savaşın başlamasından bu yana ilk kez Suudi Arabistan'ın Cidde kentinde üst düzey bir zirvede bir araya geldi. Katar Emiri, bu toplantının savaşa karşı 'birleşik bir Körfez duruşunu' temsil ettiğini belirtti. Zirve, bölgedeki mevcut gerilimli duruma karşı ortak bir strateji geliştirme ve Körfez ülkeleri arasındaki işbirliğini güçlendirme amacı taşıyor. Liderler, bölgesel güvenlik ve istikrar konularını ele aldı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644014/pexels-photo-7644014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-28T17:13:21.593Z",
-        "location": {
-            "lat": 21.5,
-            "lng": 39.2,
-            "name": "Cidde, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
