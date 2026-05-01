@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777643997469h166k",
+        "title": "Howe: Suudi Sahiplerinin Newcastle'daki Başarı Arzusu Değişmedi",
+        "summary": "Newcastle United Teknik Direktörü Eddie Howe, kulübün Suudi sahiplerinin başarıya olan arzusunun değişmediğini belirtti. Bu açıklama, Suudi Arabistan Kamu Yatırım Fonu'nun (PIF) 2026 sezonu sonunda LIV Golf'e sağladığı finansmanı keseceğini duyurmasının ardından geldi. Suudi Arabistan'ın egemen varlık fonu olan PIF, spor ve eğlence sektörleri dahil olmak üzere çeşitli alanlarda önemli yatırımlar yapmaktadır. Fonun LIV Golf'ten çekilme kararı, genel yatırım stratejilerindeki potansiyel değişiklikleri veya önceliklendirmeleri yansıtabilirken, Newcastle United'ın Suudi sahipliği kulübün gelecekteki hedefleri açısından önemini koruyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8369765/pexels-photo-8369765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T13:59:57.469Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/1/howe-says-saudi-owners-desire-for-success-at-newcastle-remains-unchanged?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17776375501234t2qu",
         "title": "Gazze Yardım Filosu Gemileri İsrail Müdahalesi Sonrası Girit'e Götürüldü",
         "summary": "İsrail ordusu, Gazze'ye insani yardım taşıyan Global Sumud Filosu'na ait 22 gemiye müdahale etti. Uluslararası sularda gerçekleştiği belirtilen operasyonla gemilerin ele geçirildiği bildirildi. Müdahalenin ardından yardım gemileri, Yunanistan'ın Girit adasına götürüldü. Olay, Gazze'ye yönelik ablukanın delinmesi girişimlerine karşı İsrail'in askeri müdahalesini bir kez daha gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Gazze Şehri, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/4/29/cctv-footage-shows-moment-israeli-strike-targets-palestinians?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777492126129gv2ro",
-        "title": "Faisal Islam: BAE'nin OPEC'ten Ayrılması Neden Büyük Bir Olay?",
-        "summary": "Birleşik Arap Emirlikleri'nin (BAE) Petrol İhraç Eden Ülkeler Örgütü (OPEC) üyeliğinden ayrılma ihtimali, enerji piyasalarında önemli bir gelişme olarak değerlendiriliyor. Faisal Islam'ın analizine göre, bu ayrılığın mevcut petrol ambargoları üzerinde anlık bir etkisi olmayabilir. Ancak, uzun vadede küresel petrol arzı ve fiyatlandırma politikalarında köklü değişikliklere yol açabileceği belirtiliyor. BAE'nin bu hamlesi, OPEC'in gelecekteki yapısını ve Orta Doğu'daki enerji dengelerini etkileyebilecek potansiyele sahip olup, küresel ekonomide geniş çaplı sonuçlar doğurabilir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/5737246/pexels-photo-5737246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T19:48:46.129Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
