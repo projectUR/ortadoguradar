@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777658534521c7ygy",
+        "title": "İsrail, Gazze Yardım Filosunu Durdurduktan Sonra Aktivistleri Serbest Bıraktı",
+        "summary": "İsrail, Gazze'ye yardım götüren \"Global Sumud Filosu\"nu durdurdu. Olayın ardından filodaki aktivistlerin çoğu Yunanistan'da serbest bırakılırken, iki aktivistin durumu belirsizliğini koruyor. Filo organizatörleri bu müdahaleyi \"korsanlık\" olarak nitelendirirken, İsrail Dışişleri Bakanlığı filoyu bir \"halkla ilişkiler gösterisi\" olarak değerlendirdi. Bu olay, Gazze'ye yönelik ablukanın ve uluslararası yardım çabalarının yarattığı gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31259994/pexels-photo-31259994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-01T18:02:14.521Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777653511864olsaf",
         "title": "Türk polisi 1 Mayıs mitinginde göz yaşartıcı gaz kullandı, yüzlerce kişiyi gözaltına aldı",
         "summary": "İstanbul'da 1 Mayıs İşçi Bayramı kutlamaları sırasında gerginlik yaşandı. Taksim Meydanı'nda toplanmak isteyen göstericilere Türk güvenlik güçleri müdahale etti. Polis, göstericilere karşı göz yaşartıcı gaz kullanırken, yüzlerce kişinin gözaltına alındığı bildirildi. Yetkililer, Taksim Meydanı'nın bu tür etkinliklere kapalı olduğunu daha önce belirtmişti.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1777501981437utefr",
-        "title": "BAE OPEC'ten Ayrıldı",
-        "summary": "Birleşik Arap Emirlikleri (BAE), Petrol İhraç Eden Ülkeler Örgütü (OPEC) üyeliğinden çekildiğini duyurdu. Yapılan açıklamaya göre, BAE'nin bu kararı 1 Mayıs tarihi itibarıyla yürürlüğe girdi. Bu gelişme, küresel enerji piyasalarında ve OPEC'in gelecekteki üretim politikalarında önemli etkiler yaratma potansiyeli taşıyor. BAE'nin bu adımı, kendi petrol üretim ve ihracat stratejilerini daha bağımsız bir şekilde belirleme hedefiyle ilişkilendiriliyor. Örgütün önemli bir Orta Doğu üyesini kaybetmesi, OPEC'in yapısı ve karar alma süreçleri üzerinde de tartışmaları beraberinde getirebilir.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/5737246/pexels-photo-5737246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-29T22:33:01.437Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, BAE"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
