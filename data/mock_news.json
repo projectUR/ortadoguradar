@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777740876022omxna",
+        "title": "İran saldırılarının Orta Doğu'daki 16 ABD askeri tesisine zarar verdiği iddia edildi",
+        "summary": "CNN tarafından yayımlanan bir rapora göre, İran'ın Orta Doğu'daki ABD askeri tesislerine yönelik saldırıları, bölgedeki ABD askeri konumlarının çoğunluğunu oluşturan 16 tesiste hasara yol açtı. Bu iddia, bölgedeki gerilimin boyutunu ve ABD'nin askeri varlığının kırılganlığını bir kez daha gözler önüne seriyor. Söz konusu hasarın, ABD'nin bölgedeki operasyonel kapasitesini ne ölçüde etkilediği ise henüz netlik kazanmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11823877/pexels-photo-11823877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T16:54:36.022Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-strikes-damaged-16-us-military-sites-in-middle-east-report-claims/3925162",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777737092058kldom",
         "title": "İsrail'deki Filistin Kasabalarında Suç Salgını ve 'İki Kademeli' Polislik İddiaları",
         "summary": "İsrail'deki Filistinlilere ait yerleşim yerlerinde cinayet oranlarında endişe verici bir artış yaşanmaktadır. Bu durum, İsrail devletinin Filistinli topluluklardaki suçlara karşı ihmalkar davrandığı ve hatta suç ortaklığı yaptığı yönündeki iddiaları gündeme getirmiştir. Haber, İsrail'in bu bölgelerde 'iki kademeli' bir polislik sistemi uyguladığı ve bunun güvenlik sorunlarını derinleştirdiği eleştirilerine dikkat çekmektedir. Artan şiddet olayları, Filistinli kasabalardaki yaşam kalitesini ve toplumsal düzeni olumsuz etkilemektedir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1777612217821s0dap",
-        "title": "Ateşkese Rağmen İsrail'den Güney Lübnan'a Ölümcül Saldırılar",
-        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in güney Lübnan'a düzenlediği saldırılarda en az dokuz kişi hayatını kaybetti. Hayatını kaybedenler arasında iki çocuğun da bulunduğu belirtildi. Bu saldırılar, bölgede ilan edilmiş bir ateşkese rağmen gerçekleşti. Olay, Orta Doğu'daki gerilimi yeniden tırmandırarak uluslararası toplumda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640438/pexels-photo-7640438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T05:10:17.821Z",
-        "location": {
-            "lat": 33.1,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
