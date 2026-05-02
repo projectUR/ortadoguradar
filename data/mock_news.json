@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777719386675rrcu0",
+        "title": "İsrail'in Güney Lübnan Saldırılarında 13 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in Güney Lübnan'a düzenlediği hava saldırılarında 13 kişinin yaşamını yitirdiği bildirildi. Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, hayatını kaybedenler arasında dört kadın ve bir çocuk bulunuyor. Bu saldırılar, İsrail ile İran destekli Hizbullah arasındaki çatışmaların devam ettiği bir dönemde gerçekleşti. Bölgede ilan edilen ateşkese rağmen taraflar arasındaki gerilim ve çatışmaların sürdüğü belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T10:56:26.675Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.4,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777714953642jat85",
         "title": "Birleşik Krallık'tan Starmer, bazı Filistin yanlısı protestoları yasaklamayı değerlendiriyor",
         "summary": "Birleşik Krallık İşçi Partisi lideri Keir Starmer, 'İntifada'yı küreselleştirin' ifadesinin 'kesinlikle yasaklanması' gerektiğini belirterek, bazı Filistin yanlısı protestoların yasaklanabileceği sinyalini verdi. Bu açıklama, Birleşik Krallık'ta Filistin'e destek gösterileri sırasında kullanılan sloganlar ve kamu düzeni üzerindeki potansiyel etkileri hakkında tartışmaları alevlendirdi. Starmer'ın bu tutumu, ülkedeki ifade özgürlüğü sınırları ve hassas uluslararası konulara ilişkin protestoların gelecekteki düzenlenişi konusunda önemli bir adım olarak değerlendiriliyor. Hükümetin bu tür protestolara yaklaşımının, Birleşik Krallık'ın Orta Doğu politikaları ve iç güvenlik stratejileri açısından da yansımaları olabileceği belirtiliyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777583396385v0gm1",
-        "title": "İsrail'in Lübnan'da Gazze Taktiklerini Tekrarladığı İddiası",
-        "summary": "İsrail'in Lübnan'daki sivil hedeflere yönelik geniş çaplı saldırılarının, Gazze Şeridi'nde uyguladığı taktiklerin bir tekrarı olduğu belirtiliyor. Haber kaynakları, İsrail güçlerinin Lübnan'ın güneyinde gerçekleştirdiği operasyonlarda sivil altyapıyı hedef almasının, Gazze'deki çatışmalarda gözlemlenen yöntemlere benzediğini ifade ediyor. Bu durum, bölgedeki gerilimi artırırken, uluslararası toplumda endişelere yol açıyor. Saldırıların, Lübnan'da geniş çaplı yıkıma ve sivil kayıplara neden olabileceği vurgulanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-30T21:09:56.385Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
