@@ -1,5 +1,37 @@
 [
     {
+        "id": "17777441352654b6mv",
+        "title": "Yemen, Kaçırılan Petrol Tankerinin Somali'ye Doğru İlerlediğini Bildirdi",
+        "summary": "Yemen'den gelen haberlere göre, bir petrol tankeri kaçırıldı ve Somali'ye doğru ilerliyor. Bu olay, son haftalarda Somali açıklarında yaşanan en az dördüncü gemi kaçırma vakası olarak kayıtlara geçti. Bölgedeki deniz güvenliği endişeleri artarken, uluslararası toplumun korsanlıkla mücadele çabaları yeniden gündeme geldi. Olayın detayları ve müdahale çalışmaları hakkında henüz ek bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7047322/pexels-photo-7047322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T17:48:55.265Z",
+        "location": {
+            "lat": 12.5,
+            "lng": 47.5,
+            "name": "Aden Körfezi, Somali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777744239238i6nzc",
+        "title": "İran'dan ABD'ye Nükleer Anlaşma Suçlaması",
+        "summary": "İran, ABD'nin nükleer silahların yayılmasını önleme anlaşmasına uymadığını iddia etti. İran'ın Birleşmiş Milletler Daimi Temsilciliği'nden yapılan açıklamada, Uluslararası Atom Enerjisi Ajansı (UAEA) denetiminde yapıldığı sürece uranyum zenginleştirme seviyesine yasal bir kısıtlama olmadığı belirtildi. Açıklamada, İran'ın kendi nükleer programının da UAEA denetiminde olduğu hatırlatılarak, bu durumun yasalara uygun olduğu vurgulandı. Bu gelişme, İran'ın nükleer programı etrafındaki uluslararası tartışmaları ve ABD ile süregelen anlaşmazlıkları yeniden gündeme taşıdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34126111/pexels-photo-34126111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T17:50:39.238Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-us-not-complying-with-nuclear-non-proliferation-treaty/3925118",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777740876022omxna",
         "title": "İran saldırılarının Orta Doğu'daki 16 ABD askeri tesisine zarar verdiği iddia edildi",
         "summary": "CNN tarafından yayımlanan bir rapora göre, İran'ın Orta Doğu'daki ABD askeri tesislerine yönelik saldırıları, bölgedeki ABD askeri konumlarının çoğunluğunu oluşturan 16 tesiste hasara yol açtı. Bu iddia, bölgedeki gerilimin boyutunu ve ABD'nin askeri varlığının kırılganlığını bir kez daha gözler önüne seriyor. Söz konusu hasarın, ABD'nin bölgedeki operasyonel kapasitesini ne ölçüde etkilediği ise henüz netlik kazanmadı.",
@@ -764,38 +796,6 @@
             "name": "Doğu Kudüs, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-carry-out-arrests-storm-neighborhoods-across-occupied-east-jerusalem/3923796",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777621483781k9zl1",
-        "title": "Serbest Bırakılan Filistinli Gazeteci İsrail Hapishanelerini 'Yaşayan Mezarlar' Olarak Niteledi",
-        "summary": "Filistinli gazeteci Ali Samoudi, İsrail hapishanelerinden serbest bırakılmasının ardından yaşadıklarını kamuoyuyla paylaştı. Samoudi, bir yıl süren idari gözaltı süresince vücut ağırlığının yarısını kaybettiğini belirtti. Gazeteci, İsrail cezaevlerini 'yaşayan mezarlar' olarak nitelendirerek, tutukluluk koşullarının ağırlığına dikkat çekti. Bu açıklamalar, İsrail'in Filistinlilere yönelik idari gözaltı uygulamaları ve cezaevlerindeki insan hakları durumu hakkındaki tartışmaları yeniden alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9932963/pexels-photo-9932963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T07:44:43.781Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin/İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/freed-palestinian-journalist-describes-israeli-prisons-as-living-graves-/3923782",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777612175148bowc8",
-        "title": "İsrail'in Gazze Yardım Filosuna Müdahalesi Uluslararası Tepkilere Yol Açtı",
-        "summary": "İsrail, uluslararası sularda Gazze'ye insani yardım taşıyan gemilere müdahale etmesi nedeniyle dünya genelinde kınamalarla karşılaştı. Olay, Gazze Şeridi'ne uygulanan ablukanın devam ettiği bir dönemde, yardım malzemelerini bölgeye ulaştırmayı hedefleyen bir filoya yönelik gerçekleşti. İsrail güçlerinin müdahalesi sırasında yaşananlar, uluslararası kamuoyunda geniş yankı buldu ve birçok ülke ile uluslararası kuruluş tarafından sert bir dille eleştirildi. Bu gelişme üzerine, dünya genelinde İsrail'in eylemlerini protesto eden gösteriler düzenlendi ve diplomatik gerilimler yaşandı. Uluslararası toplum, Gazze'deki insani durumun iyileştirilmesi ve ablukanın kaldırılması çağrılarını yineledi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32995076/pexels-photo-32995076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T05:09:35.148Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
