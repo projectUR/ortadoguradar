@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777727986933bgj5f",
+        "title": "İsrail'in Güney Lübnan'a Hava Saldırılarında 10 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırılarında 10 kişi yaşamını yitirdi. Saldırılarda insansız hava araçları ve savaş uçakları kullanılarak bölgedeki birçok kasaba hedef alındı. Bu eylemler, 17 Nisan'dan bu yana yürürlükte olan ateşkesin ihlal edildiği şeklinde yorumlandı. Yaşanan bu gerilimin ardından, Lübnan merkezli Hizbullah örgütü saldırılarına devam edeceğini duyurdu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33333373/pexels-photo-33333373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T13:19:46.933Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777728008951rj72b",
+        "title": "Küresel Sumud Filosu Aktivistleri İsrail Tarafından Gözaltına Alındıktan Sonra İstanbul'a Döndü",
+        "summary": "Küresel Sumud Filosu aktivistleri, İsrail'in Gazze'ye yardım taşıyan konvoylarını denizde durdurmasının ardından İstanbul'a ulaştı. İsrail güçleri, Gazze'ye gitmekte olan yardım konvoyunu uluslararası sularda engelledi ve aktivistleri gözaltına aldı. Gözaltına alınan aktivistler, daha sonra serbest bırakılarak Türkiye'ye gönderildi. Bu olay, Gazze'ye yönelik ablukanın delinmesi girişimleri ve İsrail'in bu tür girişimlere karşı aldığı önlemleri bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18622063/pexels-photo-18622063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T13:20:08.951Z",
+        "location": {
+            "lat": 41,
+            "lng": 29,
+            "name": "İstanbul, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777722599250l886f",
         "title": "Spirit Airlines Yakıt Krizi Nedeniyle Faaliyetlerini Durdurdu, Tüm Uçuşlarını İptal Etti",
         "summary": "ABD merkezli düşük maliyetli havayolu şirketi Spirit Airlines, jet yakıtı fiyatlarındaki iki katına çıkan artış nedeniyle faaliyetlerini durdurma kararı aldı. Şirket, tüm uçuşlarını iptal ettiğini duyurdu. Bu gelişme, binlerce kişinin işini kaybetmesine yol açacak ve havacılık sektöründe artan yakıt maliyetlerinin yarattığı baskıyı gözler önüne serdi. Havayolu sektöründeki bu çöküş, küresel enerji piyasalarındaki dalgalanmaların şirketler üzerindeki etkisini bir kez daha gösterdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/us-has-determined-that-hostilities-against-iran-since-feb-28-have-ended-says-official-report/3923778",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777591823180mkf48",
-        "title": "Eski ABD Yetkilileri, İran'daki Ölümcül Okul Saldırısı Konusunda Pentagon'un Sessizliğini Eleştirdi",
-        "summary": "Eski Amerikalı yetkililer, İran'da meydana gelen ve ölümcül sonuçlar doğuran bir okul saldırısına ilişkin Pentagon'un sessizliğini eleştirdi. Olayın üzerinden iki ay geçmesine rağmen, ABD Savunma Bakanlığı'nın bu konuda yalnızca bir soruşturma yürütüldüğünü belirtmesi dikkat çekti. Bu durum, ABD'nin İran'daki bu tür olaylara yaklaşımındaki şeffaflık ve hesap verebilirlik eksikliği konusunda endişeleri artırdı. Eski yetkililer, Pentagon'dan daha net bir açıklama ve hızlı bir yanıt beklediklerini ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10082701/pexels-photo-10082701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-30T23:30:23.180Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777588172119sxk4q",
-        "title": "Filistin Futbol Federasyonu Başkanı FIFA Kongresi'nde İsrail Federasyonu Başkan Yardımcısını Eleştirdi",
-        "summary": "Kanada'da düzenlenen FIFA Kongresi'nde Filistin Futbol Federasyonu (FA) başkanı, İsrail Futbol Federasyonu başkan yardımcısına yönelik sert eleştirilerde bulundu. Kongrede Filistin ve İsrail temsilcilerinin birbirine yakın sıralarda oturduğu belirtildi. Bu olay, iki taraf arasındaki siyasi gerilimin uluslararası bir spor platformunda da kendini gösterdiğini ortaya koydu. Eleştirilerin içeriği ve İsrail tarafından gelen yanıtlar hakkında detay verilmedi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7640471/pexels-photo-7640471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-04-30T22:29:32.119Z",
-        "location": {
-            "lat": 43.6532,
-            "lng": -79.3832,
-            "name": "Toronto, Kanada"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
