@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777756145682ai059",
+        "title": "Spirit Airlines, İran'a Yönelik Savaşın Tetiklediği Artan Yakıt Maliyetleri Nedeniyle Faaliyetlerini Durdurdu",
+        "summary": "ABD merkezli düşük maliyetli havayolu şirketi Spirit Airlines, hükümetle yapılan kurtarma paketi görüşmelerinin başarısızlıkla sonuçlanmasının ardından faaliyetlerini durdurduğunu açıkladı. Şirketin kapanma kararının temelinde, başlıkta belirtildiği üzere, İran'a yönelik bir savaşın tetiklediği artan yakıt maliyetleri yatıyor. Bu durum, küresel enerji piyasalarındaki dalgalanmaların ve jeopolitik gerilimlerin havayolu sektörüne doğrudan etkilerini gözler önüne seriyor. Spirit Airlines'ın çöküşü, Orta Doğu'daki potansiyel veya mevcut çatışmaların dünya genelindeki ekonomik sonuçlarına dair önemli bir örnek teşkil ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T21:09:05.682Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1777756232825c8xkt",
+        "title": "İran, ABD'nin Savaşın Sona Erdirilmesi Teklifine 14 Maddelik Yanıt Sundu",
+        "summary": "İran, ABD'nin savaşın sona erdirilmesi yönündeki teklifine Pakistan aracılığıyla 14 maddelik bir yanıt iletti. Tasnim haber ajansının aktardığına göre, bu yanıt askeri eylemlere karşı garantiler içeriyor. Teklif ayrıca, ABD'nin İran'ı çevreleyen bölgelerden çekilmesini, deniz ablukasının kaldırılmasını ve dondurulmuş İran varlıklarının serbest bırakılmasını talep ediyor. Bu adımlar, iki ülke arasındaki gerilimi azaltma ve potansiyel bir çatışmayı önleme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-02T21:10:32.825Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-submits-14-point-response-to-us-proposal-on-ending-war-via-pakistan-tasnim-news-agency/3925302",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1777748702602c8clt",
         "title": "İspanya, İsrail'den Gazze filosu mürettebat üyesini serbest bırakmasını talep etti",
         "summary": "İspanya, İsrail'den, Gazze'ye yardım götürmeyi amaçlayan filonun mürettebat üyesi Saif Abukeshek'i serbest bırakmasını talep etti. Abukeshek, İsrail güçlerinin Yunanistan açıklarında 'Global Sumid Filosu'na düzenlediği baskın sırasında gözaltına alınarak İsrail'e götürülmüştü. Bu olay, Gazze Şeridi'ne uygulanan ablukayı delmeyi hedefleyen insani yardım girişimleriyle ilgili gerilimi bir kez daha gündeme getirdi. İspanya'nın bu talebi, uluslararası alanda İsrail'in Gazze'ye yönelik politikalarına karşı çıkan sesleri yansıtıyor ve diplomatik bir krize işaret ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/2-killed-10-injured-in-fresh-israeli-airstrike-in-southern-lebanon/3923822",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777621307252tbpyc",
-        "title": "Rusya, Ukrayna'ya Gece Boyunca Saldırılar Düzenledi",
-        "summary": "Rusya, Ukrayna genelindeki hedeflere gece boyunca hava saldırıları düzenledi. Karadeniz kıyısındaki ve orta Ukrayna'daki yerleşim yerlerini hedef alan saldırılarda bir sivil hayatını kaybederken, çok sayıda kişi de yaralandı. Ukrayna makamları, saldırıların altyapı ve sivil bölgeleri hedef aldığını belirtti. Bu son saldırılar, iki ülke arasındaki devam eden çatışmaların bir parçası olarak kayıtlara geçti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T07:41:47.252Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777621353873e3qq7",
-        "title": "Gazze'de İşçiler 1 Mayıs'ta Geçim Kaynağı Arayışında",
-        "summary": "Gazze Şeridi'nde yaşanan derin ekonomik çöküş, bölgedeki işçileri son derece zorlu ve tehlikeli koşullar altında çalışmaya itiyor. Süregelen yıkım ve abluka nedeniyle işsizlik oranları rekor seviyelere ulaşmış durumda. 1 Mayıs İşçi Bayramı'nda dahi Gazze'deki emekçiler, ailelerini geçindirebilmek için bulabildikleri her türlü gelir kaynağına yönelmek zorunda kalıyor. Bölgedeki insani durumun kötüleşmesi, iş gücünün büyük bir kısmını güvencesiz ve tehlikeli işlere mahkum ediyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/13748651/pexels-photo-13748651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T07:42:33.873Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
