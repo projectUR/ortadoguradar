@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777821905916ymon3",
+        "title": "Kudüs'te Rahibeye Saldırı Sonrası Bir Kişi Gözaltına Alındı",
+        "summary": "Kudüs'te bir rahibeye yönelik saldırının ardından İsrail polisi bir kişiyi gözaltına aldı. Fransız rahibe, görünüşe göre sebepsiz bir saldırıda itilerek yere düşürüldü ve tekmelendi. Bu olay, şehirde Yahudi aşırılık yanlıları tarafından Hristiyanlara yönelik taciz vakalarının arttığı bir döneme denk geldi. Saldırı, Kudüs'teki dini gruplar arasındaki gerilimi bir kez daha gündeme getirdi ve yetkililer soruşturmayı sürdürüyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7005325/pexels-photo-7005325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T15:25:05.916Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17778185715511dysh",
         "title": "İsrail Tarafından Gözaltına Alınan İki Gazze Filosu Aktivisti Kimler?",
         "summary": "İsrail, Gazze ablukasını delmeyi amaçlayan bir filodaki 175 aktivisti gözaltına aldı. Gözaltına alınanlar arasında İspanyol vatandaşı Saif Abu Keshek ve Brezilyalı Thiago Avila da bulunuyor. Bu olay, İsrail'in Gazze'ye yönelik ablukasına karşı uluslararası sivil toplum tepkilerini ve İsrail'in bu tür girişimlere karşı uyguladığı politikaları bir kez daha gündeme getirdi. Aktivistlerin farklı uyruklardan olması, meselenin uluslararası boyutunu vurgulamaktadır.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1777672829643b3z5q",
-        "title": "Trump, İran'ın Teklifinden Memnun Kalmadığını Açıkladı",
-        "summary": "ABD Başkanı Donald Trump, İran'ın sunduğu tekliften \"memnun olmadığını\" ve kabul edemeyeceği talepler içerdiğini bildirdi. Trump, İran ile devam eden müzakerelerin \"çok kopuk\" ilerlediğini ve henüz bir sonuca ulaşamadığını ifade etti. Pakistan arabuluculuğunda yürütülen görüşmelerin sürdüğünü belirten ABD Başkanı, bu süreçte Hürmüz Boğazı'nın kapalı kalmaya devam ettiğini vurguladı. Bu durum, bölgedeki gerilimin sürdüğüne işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32481362/pexels-photo-32481362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-01T22:00:29.643Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/trump-says-he-is-not-satisfied-with-irans-proposal-citing-demands-he-cannot-agree-to/3924527",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
