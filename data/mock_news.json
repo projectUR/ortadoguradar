@@ -1,5 +1,21 @@
 [
     {
+        "id": "17778320167484qg37",
+        "title": "İran, ABD'nin 'savaşı sona erdirme' teklifine verdiği yanıtı incelediğini duyurdu",
+        "summary": "İran, ABD'den 'savaşı sona erdirme' yönündeki kendi teklifine ilişkin bir yanıt aldığını ve bu yanıtı incelediğini bildirdi. Tahran yönetimi, ABD'nin cevabının Pakistanlı arabulucular aracılığıyla kendilerine ulaştırıldığını belirtti. İranlı yetkililer, bu gelişmenin mevcut nükleer müzakerelerle ilgili olmadığını özellikle vurguladı. Söz konusu diplomatik temas, iki ülke arasındaki gerilimin azaltılmasına yönelik çabalar kapsamında değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T18:13:36.748Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-is-reviewing-us-response-to-its-proposal-to-end-war/3925829",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777829166619rat7q",
         "title": "UKMTO: İran Açıklarında Dökme Yük Gemisine Saldırı Düzenlendi",
         "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), İran açıklarında bir dökme yük gemisinin çok sayıda küçük tekne tarafından saldırıya uğradığını bildirdi. Sirik'in 11 deniz mili (yaklaşık 20 kilometre) batısında meydana gelen olayın ardından gemi mürettebatının güvende olduğu ve herhangi bir çevresel hasar rapor edilmediği açıklandı. Bu tür olaylar, bölgedeki deniz güvenliği endişelerini artırmaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777702166823px3xy",
-        "title": "İran Savaşı Protestocusu Washington Köprüsü Üzerinden El Cezire'ye Konuştu",
-        "summary": "Amerika Birleşik Devletleri'nin başkenti Washington'da 45 yaşındaki bir adam, Frederick Douglass Anıt Köprüsü'nün tepesine çıkarak İran'a karşı olası bir savaşı protesto etti. Eylemini sürdüren protestocu, bu yüksek noktadan El Cezire televizyonuna açıklamalarda bulundu. Bu dikkat çekici protesto, İran ile ilgili jeopolitik gerilimlere dair süregelen endişeleri bir kez daha gündeme getirdi. Olay, kamuoyunun ve medyanın dikkatini çekerken, bölgedeki potansiyel çatışma risklerine yönelik muhalif seslerin yükseldiğini gösterdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30766222/pexels-photo-30766222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T06:09:26.823Z",
-        "location": {
-            "lat": 38.87,
-            "lng": -77,
-            "name": "Washington, D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
