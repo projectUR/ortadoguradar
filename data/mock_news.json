@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777824604119nkkp7",
+        "title": "Dünya Basın Özgürlüğü Günü'nde Papa, Savaş Bölgelerinde Öldürülen Gazetecileri Andı",
+        "summary": "Dünya Basın Özgürlüğü Günü dolayısıyla Papa Leo XIV, inananlara gerçeğin peşinde koşarken hayatını kaybeden gazetecileri anma çağrısında bulundu. Papa, özellikle savaş bölgelerinde görev yaparken yaşamını yitiren basın mensuplarının fedakarlıklarına dikkat çekti. Bu çağrı, gazetecilik mesleğinin zorluklarına ve tehlikelerine vurgu yaparak, basın özgürlüğünün evrensel önemini bir kez daha gündeme getirdi. Çatışma bölgelerinde çalışan gazetecilerin karşılaştığı yüksek riskler, bu tür anma etkinlikleriyle dünya kamuoyunun dikkatine sunulmaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/2479958/pexels-photo-2479958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T16:10:04.119Z",
+        "location": {
+            "lat": 41.9029,
+            "lng": 12.4534,
+            "name": "Vatikan Şehri, Vatikan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777821905916ymon3",
         "title": "Kudüs'te Rahibeye Saldırı Sonrası Bir Kişi Gözaltına Alındı",
         "summary": "Kudüs'te bir rahibeye yönelik saldırının ardından İsrail polisi bir kişiyi gözaltına aldı. Fransız rahibe, görünüşe göre sebepsiz bir saldırıda itilerek yere düşürüldü ve tekmelendi. Bu olay, şehirde Yahudi aşırılık yanlıları tarafından Hristiyanlara yönelik taciz vakalarının arttığı bir döneme denk geldi. Saldırı, Kudüs'teki dini gruplar arasındaki gerilimi bir kez daha gündeme getirdi ve yetkililer soruşturmayı sürdürüyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17776933164748h9n9",
-        "title": "Trump, İran'ı 'yerle bir etme' seçeneğini değerlendiriyor",
-        "summary": "ABD Başkanı Donald Trump, İran'dan gelen son barış teklifinden 'memnun olmadığını' açıkladı. Başkan Trump, İran'a karşı 'yerle bir etme' seçeneğini değerlendirdiğini belirtti. Bu açıklama, Washington ile Tahran arasındaki gerilimi daha da artırdı. Söz konusu durum, Orta Doğu'daki güvenlik dinamikleri ve diplomatik ilişkiler açısından kritik bir gelişme olarak öne çıkıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11477794/pexels-photo-11477794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T03:41:56.474Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": true
     }
 ]
