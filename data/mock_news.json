@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777852436820gcuq8",
+        "title": "Suriye ve Mısır Ekonomik İşbirliğini Artırmak İçin Ortak İş Konseyi Kurdu",
+        "summary": "Suriye ve Mısır, iki ülke arasındaki ekonomik işbirliğini güçlendirmek amacıyla ortak bir iş konseyi oluşturdu. Bu önemli gelişme, Suriye Dışişleri Bakanı'nın Mısır'a gerçekleştirdiği ilk resmi ziyaretle eş zamanlı olarak duyuruldu. Konseyin temel hedefi, iki ülke arasındaki ticari ilişkileri geliştirmek, yatırım fırsatlarını artırmak ve ekonomik entegrasyonu teşvik etmektir. Bu adım, bölgesel ilişkilerde normalleşme çabalarının bir parçası olarak değerlendirilmekte ve Suriye'nin uluslararası arenadaki konumunu güçlendirme potansiyeli taşımaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-03T23:53:56.820Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-forms-joint-business-council-with-egypt-to-enhance-economic-cooperation/3925944",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777841398692ukzaw",
         "title": "Gazze'de Dünya Basın Özgürlüğü Günü, Gazeteci Kayıpları Artarken Anıldı",
         "summary": "Gazze Şeridi'ndeki Filistinli gazeteciler, Dünya Basın Özgürlüğü Günü'nü özel bir etkinlikle kutladı. Bu anlamlı günde, İsrail tarafından öldürülen veya hedef alınan meslektaşlarını anarak saygı duruşunda bulundular. Bölgedeki çatışmalar sırasında hayatını kaybeden gazetecilerin sayısının artması, basın özgürlüğü ve gazetecilerin güvenliği konusundaki endişeleri bir kez daha gündeme getirdi. Gazeteciler, görevlerini yaparken karşılaştıkları zorluklara ve risklere dikkat çekerek uluslararası toplumu bu konuda adım atmaya çağırdı.",
@@ -780,22 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777709466686cojo9",
-        "title": "İran, Hürmüz Boğazı gerilimleri ortasında yeni denizcilik kurallarını duyurdu",
-        "summary": "İran Devrim Muhafızları Donanması, Basra Körfezi ve Hürmüz Boğazı'nda \"İran kıyı şeridinin yaklaşık 2.000 kilometrelik kısmı üzerinde\" kontrol uygulayacağını bildirdi. Bu açıklama, bölgedeki denizcilik gerilimlerinin arttığı bir dönemde geldi. Devrim Muhafızları'nın bu adımı, stratejik su yolundaki seyrüsefer güvenliği ve bölgesel güç dengeleri açısından önemli sonuçlar doğurabilir. Bu yeni kuralların uluslararası denizcilik üzerindeki etkileri yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35022042/pexels-photo-35022042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T08:11:06.686Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-announces-new-maritime-rules-amid-strait-of-hormuz-tensions/3924702",
         "trendScore": 85,
         "isBreaking": false
     }
