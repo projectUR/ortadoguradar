@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777916631051ru9th",
+        "title": "Hürmüz Boğazı'nda Güvenlik Endişesi: Kaptanlardan Uyarı",
+        "summary": "Kaptan Raman Kapoor, Hürmüz Boğazı'ndan geçişin güvenliği konusunda önemli bir uyarıda bulundu. Kapoor, güvenlik güvencesi olmadan hiçbir geminin boğazdan çıkış yapmaya teşebbüs etmeyeceğini belirtti. Bu açıklama, dünyanın en kritik deniz geçiş noktalarından biri olan Hürmüz Boğazı'ndaki denizcilik güvenliğine ilişkin artan endişeleri yansıtıyor. Küresel petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolundaki herhangi bir aksaklık, bölgesel ve küresel ekonomiler üzerinde ciddi etkilere yol açabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12355316/pexels-photo-12355316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T17:43:51.051Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777908666526juu8y",
         "title": "Trump'ın Hürmüz Boğazı Geriliminde İran'a Karşı Güveni",
         "summary": "ABD Başkanı Donald Trump'ın, Hürmüz Boğazı'nda İran ile yaşanan gerilimde kendine olan güvenini dile getirdiği bildirildi. Bölgede tansiyonun yükseldiği bir dönemde, Trump'ın İran'a karşı elinde 'tüm kartların' olup olmadığı uluslararası kamuoyunda tartışılıyor. Stratejik öneme sahip Hürmüz Boğazı'ndaki bu durum, ABD ve İran arasındaki güç dengesini ve olası senaryoları gündeme getiriyor. Küresel enerji tedarikini doğrudan etkileyebilecek potansiyele sahip olan bu gerilim, uluslararası arenada yakından takip ediliyor. ABD'nin bölgedeki duruşu ve İran'ın tepkileri, Orta Doğu'daki istikrarsızlığı artırma riski taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/jordan-strikes-drug-arms-smuggling-sites-in-southern-syria/3925354",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777792137925c27yq",
-        "title": "Gazze'de Enkaz Altında 8 Bin Ceset Bulunuyor, Temizliğin Yüzde 1'inden Azı Tamamlandı",
-        "summary": "Gazze Şeridi'ndeki enkaz altında yaklaşık 8 bin cesedin hala bulunduğu ve temizlik çalışmalarının mevcut hızla yıllar sürebileceği bildirildi. Bir İsrail gazetesinin raporuna göre, enkaz kaldırma işlemlerinin henüz yüzde 1'inden azı tamamlanabildi. Bölgedeki aileler, sevdiklerinin naaşlarına ulaşmak için bekleyişlerini sürdürüyor. Bu durum, Gazze'deki insani krizin boyutlarını bir kez daha gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8832577/pexels-photo-8832577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T07:08:57.925Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/8-000-bodies-still-under-gaza-rubble-as-less-than-1-cleared-report/3925353",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
