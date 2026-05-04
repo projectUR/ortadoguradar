@@ -1,5 +1,21 @@
 [
     {
+        "id": "17779390465264aui4",
+        "title": "Hürmüz Boğazı'nda Gerilim Tırmanıyor: ABD ve İran'dan Karşılıklı Açıklamalar",
+        "summary": "ABD askeri yetkilileri, gemilerin Hürmüz Boğazı'ndan geçişini teşvik ettiklerini duyurdu. Ancak İran, stratejik su yolunun tam kontrolünün kendisinde olduğunu iddia etti. ABD Başkanı Donald Trump'ın İran'a yönelik tehditleriyle birlikte bölgedeki gerilim tırmanışa geçti. Bu gelişmeler, Hürmüz Boğazı'ndaki tansiyonu ateşkesi tehlikeye atacak seviyeye taşıdı. Taraflar arasındaki bu karşılıklı açıklamalar, bölgedeki güvenlik endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36152058/pexels-photo-36152058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T23:57:26.526Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17779339675910vmwk",
         "title": "İsrail ve Kudüs'teki Hristiyanlar İçin Hoşgörüsüzlük Normalleşiyor",
         "summary": "İsrail ve Kudüs'teki Hristiyan topluluklar arasında hoşgörüsüzlüğün giderek normalleştiği belirtiliyor. Geçtiğimiz hafta Doğu Kudüs'te Fransız bir rahibeye yönelik saldırı, bu durumun son örneklerinden biri olarak gösteriliyor. Resmi açıklamaların aksine, bölgedeki Hristiyanlar için bu tür olayların yeni olmadığı ve uzun süredir devam eden bir sorunun parçası olduğu ifade ediliyor. Bu durum, Hristiyanların günlük yaşamlarında karşılaştıkları zorlukları ve güvenlik endişelerini artırıyor. Olay, bölgedeki dini azınlıkların durumu hakkında endişeleri yeniden gündeme getirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/3/are-somali-pirates-on-a-comeback-in-2026?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777804371660ucqco",
-        "title": "İsrail, ABD'den F-35 ve F-15IA Savaş Uçağı Alımını Onayladı",
-        "summary": "İsrail hükümeti, ABD'den F-35 ve F-15IA tipi savaş uçakları satın alma planını onayladığını duyurdu. Bu askeri tedarik kararı, Tel Aviv'in Gazze ve Lübnan'da devam eden ateşkes ihlalleriyle aynı döneme denk geldi. Anlaşmanın, İsrail Hava Kuvvetleri'nin operasyonel kapasitesini önemli ölçüde artırması bekleniyor. Bölgedeki güvenlik dinamiklerini etkileyeceği öngörülen bu alımın detayları ve teslimat takvimi hakkında henüz tam bilgi paylaşılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27080761/pexels-photo-27080761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T10:32:51.660Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-approves-plan-to-buy-f-35-f-15ia-fighter-jets-from-us/3925490",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
