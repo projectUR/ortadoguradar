@@ -1,5 +1,37 @@
 [
     {
+        "id": "17779339675910vmwk",
+        "title": "İsrail ve Kudüs'teki Hristiyanlar İçin Hoşgörüsüzlük Normalleşiyor",
+        "summary": "İsrail ve Kudüs'teki Hristiyan topluluklar arasında hoşgörüsüzlüğün giderek normalleştiği belirtiliyor. Geçtiğimiz hafta Doğu Kudüs'te Fransız bir rahibeye yönelik saldırı, bu durumun son örneklerinden biri olarak gösteriliyor. Resmi açıklamaların aksine, bölgedeki Hristiyanlar için bu tür olayların yeni olmadığı ve uzun süredir devam eden bir sorunun parçası olduğu ifade ediliyor. Bu durum, Hristiyanların günlük yaşamlarında karşılaştıkları zorlukları ve güvenlik endişelerini artırıyor. Olay, bölgedeki dini azınlıkların durumu hakkında endişeleri yeniden gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7272612/pexels-photo-7272612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T22:32:47.591Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1777934069627hbmob",
+        "title": "BAE, İran'dan gelen 15 füze ve 4 insansız hava aracının engellendiğini duyurdu",
+        "summary": "Birleşik Arap Emirlikleri (BAE) Savunma Bakanlığı, İran'dan fırlatılan 15 füze ve 4 insansız hava aracının hava savunma sistemleri tarafından başarıyla engellendiğini açıkladı. Bakanlık tarafından yapılan duyuruda, engellenen hedefler arasında balistik ve seyir füzelerinin de yer aldığı belirtildi. Bu olay, BAE'nin hava sahasına yönelik bir saldırı girişimini temsil etmektedir. Bölgedeki gerilimi artırma potansiyeli taşıyan bu tür saldırılar, Körfez ülkeleri arasındaki güvenlik endişelerini yeniden gündeme getirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T22:34:29.627Z",
+        "location": {
+            "lat": 24.4,
+            "lng": 54.3,
+            "name": "Abu Dabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-says-air-defenses-intercepted-15-missiles-4-drones-from-iran/3927113",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1777929098133dsg5l",
         "title": "İspanya'dan İsrail'in Filo Müdahalesine 'Kaçırma' Tepkisi",
         "summary": "İspanya Dışişleri Bakanlığı, İsrail'in Global Sumud Filosu'na müdahale ederek iki İspanyol aktivisti gözaltına almasını 'kaçırma' olarak değerlendirdi. Madrid yönetimi, İsrail'in uluslararası sularda gerçekleştirdiği bu eylemin hukuka aykırı olduğunu ve aktivistlerin derhal serbest bırakılması gerektiğini belirtti. Olay, İsrail'in Gazze ablukasına yönelik uluslararası tepkileri ve filolara müdahale yetkisinin hukuki geçerliliğini yeniden gündeme getirdi. Bu durum, İsrail ile İspanya arasındaki diplomatik ilişkilerde gerilime yol açarken, uluslararası hukukun denizcilik ve insan hakları boyutları üzerine tartışmaları alevlendirdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-approves-plan-to-buy-f-35-f-15ia-fighter-jets-from-us/3925490",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777799059381vkc1z",
-        "title": "İsrail, Güney Lübnan'da Yeni Zorunlu Yerinden Etme Emirleri Yayınladı",
-        "summary": "İsrail, Lübnan'ın güneyinde bulunan 10'dan fazla köy ve kasaba için yeni zorunlu yerinden etme emirleri yayımladığını duyurdu. Bu emirler, özellikle Litani Nehri'nin kuzeyinde yer alan Nabatiye bölgesindeki bazı yerleşim yerlerini de kapsıyor. Söz konusu karar, bölgedeki sivil nüfus üzerinde doğrudan bir etki yaratma potansiyeli taşıyor. Bu gelişme, İsrail-Lübnan sınır hattındaki mevcut gerilimi daha da tırmandırabilecek nitelikte değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12833266/pexels-photo-12833266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T09:04:19.381Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.49,
-            "name": "Nabatiye, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777792028143z3ec6",
-        "title": "Yemen'de Starlink İnternet Bazıları İçin Fırsatlar Sunuyor",
-        "summary": "Yemen'de Starlink internet hizmetinin yaygınlaşması, Husilerin direnişi ve yüksek maliyet gibi zorluklara rağmen ülkenin dijital iş gücünde önemli bir büyümeyi tetikliyor. Haber, Starlink'in Yemen'deki belirli kesimler için yeni ekonomik fırsatlar yarattığını belirtiyor. Ancak, hizmetin herkes için erişilebilir olmadığı ve bu durumun bazı zorlukları beraberinde getirdiği vurgulanıyor. Bu gelişme, çatışma ortamındaki bir ülkede teknolojik ilerlemenin ve istihdam potansiyelinin altını çiziyor. Starlink'in, Yemen'deki dijital dönüşüm çabalarına katkıda bulunduğu ifade ediliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/9699133/pexels-photo-9699133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T07:07:08.143Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
-        "trendScore": 82,
         "isBreaking": false
     }
 ]
