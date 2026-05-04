@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777929098133dsg5l",
+        "title": "İspanya'dan İsrail'in Filo Müdahalesine 'Kaçırma' Tepkisi",
+        "summary": "İspanya Dışişleri Bakanlığı, İsrail'in Global Sumud Filosu'na müdahale ederek iki İspanyol aktivisti gözaltına almasını 'kaçırma' olarak değerlendirdi. Madrid yönetimi, İsrail'in uluslararası sularda gerçekleştirdiği bu eylemin hukuka aykırı olduğunu ve aktivistlerin derhal serbest bırakılması gerektiğini belirtti. Olay, İsrail'in Gazze ablukasına yönelik uluslararası tepkileri ve filolara müdahale yetkisinin hukuki geçerliliğini yeniden gündeme getirdi. Bu durum, İsrail ile İspanya arasındaki diplomatik ilişkilerde gerilime yol açarken, uluslararası hukukun denizcilik ve insan hakları boyutları üzerine tartışmaları alevlendirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11902475/pexels-photo-11902475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T21:11:38.133Z",
+        "location": {
+            "lat": 32.5,
+            "lng": 34.5,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777923924093t3yin",
         "title": "Hürmüz Boğazı'nda İran ve ABD Arasında Savaş Gemisi Gerilimi",
         "summary": "İran, donanmasının Hürmüz Boğazı'nda bir ABD savaş gemisini geri çevirdiğini iddia etti. Washington ise bu iddiaları yalanlayarak herhangi bir çatışma yaşanmadığını belirtti. Küresel petrol ticareti için hayati öneme sahip olan Hürmüz Boğazı'ndaki bu tür olaylar, bölgedeki gerilimi artırma potansiyeli taşıyor. İki ülke arasındaki bu tür karşılıklı iddialar, bölgenin güvenlik dinamikleri üzerindeki etkileriyle yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
         "trendScore": 82,
-        "isBreaking": false
-    },
-    {
-        "id": "17777920944369l0o8",
-        "title": "İran, ABD'ye deniz ablukasını ve İran ile Lübnan'daki savaşları sona erdirmesi için bir ay süre tanıdı",
-        "summary": "Tahran yönetimi, ABD'ye deniz ablukasını kaldırması ve İran ile Lübnan'daki çatışmaları sona erdirmesi için bir aylık bir süre tanıdığını açıkladı. Açıklanan teklif, Hürmüz Boğazı'nın yeniden açılmasını ve her iki ülkede de ateşkes sağlanmasını hedefliyor. Konuya yakın iki kaynağın aktardığı bilgilere göre, önerinin ikinci aşamasında İran'ın nükleer programına ilişkin müzakerelerin ele alınması planlanıyor. Bu adım, bölgesel gerilimleri azaltma ve stratejik deniz yolunu güvence altına alma çabası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36926293/pexels-photo-36926293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T07:08:14.436Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-sets-one-month-deadline-for-us-to-end-naval-blockade-wars-in-iran-lebanon/3925361",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
