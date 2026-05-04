@@ -1,5 +1,21 @@
 [
     {
+        "id": "1777900244054pxagu",
+        "title": "Trump'ın Barış Kurulu Elçisi, Gazze'ye Yardımlar Konusunda İsrailli Yetkililerle Görüşecek",
+        "summary": "ABD'nin eski başkanı Donald Trump'ın Barış Kurulu elçisi Nickolay Mladenov'un, Gazze'ye yönelik yardımlar üzerindeki kısıtlamaların hafifletilmesi amacıyla İsrailli yetkililerle bir araya gelmesi bekleniyor. İsrail medyasında yer alan haberlere göre, Mladenov'un bu görüşmelerde İsrail'den Gazze'deki askeri operasyonlarını sınırlamasını talep edeceği belirtildi. Bu adım, bölgedeki insani durumun iyileştirilmesi ve gerilimin azaltılması hedefini taşıyor. Görüşmelerin, Gazze Şeridi'ne yönelik insani yardım akışının kolaylaştırılmasına odaklanacağı ifade ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-04T13:10:44.054Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gaza City, Palestine"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-s-board-of-peace-envoy-set-to-meet-israeli-officials-on-easing-restrictions-on-gaza-aid/3926491",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1777893760531qz06x",
         "title": "NATO Genel Sekreteri: Avrupalılar Trump'ın Savunma Mesajını Aldı",
         "summary": "NATO Genel Sekreteri, Avrupalı müttefiklerin ABD Başkanı Trump'ın savunma harcamaları konusundaki mesajını 'aldığını' belirtti. Trump, daha önce bazı NATO ülkelerini savunma bütçelerine yeterince katkı sağlamamakla eleştirmişti. Haberin içeriğinde, ABD Başkanı'nın bu eleştirilerinin, bazı NATO ülkelerinin ABD-İsrail'in İran'a karşı olası bir savaşına yeterince destek vermemesiyle ilgili olduğu ifade ediliyor. Bu durum, NATO içindeki yük paylaşımı tartışmalarının yanı sıra, Orta Doğu'daki bölgesel gerilimlerin ittifak üzerindeki etkilerini de gözler önüne seriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777756232825c8xkt",
-        "title": "İran, ABD'nin Savaşın Sona Erdirilmesi Teklifine 14 Maddelik Yanıt Sundu",
-        "summary": "İran, ABD'nin savaşın sona erdirilmesi yönündeki teklifine Pakistan aracılığıyla 14 maddelik bir yanıt iletti. Tasnim haber ajansının aktardığına göre, bu yanıt askeri eylemlere karşı garantiler içeriyor. Teklif ayrıca, ABD'nin İran'ı çevreleyen bölgelerden çekilmesini, deniz ablukasının kaldırılmasını ve dondurulmuş İran varlıklarının serbest bırakılmasını talep ediyor. Bu adımlar, iki ülke arasındaki gerilimi azaltma ve potansiyel bir çatışmayı önleme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-02T21:10:32.825Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-submits-14-point-response-to-us-proposal-on-ending-war-via-pakistan-tasnim-news-agency/3925302",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
