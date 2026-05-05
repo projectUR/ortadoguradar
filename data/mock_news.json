@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778015170694nil9k",
+        "title": "İsrail'in Gazze polis karakoluna düzenlediği saldırıda bir çocuk hayatını kaybetti, memurlar yaralandı",
+        "summary": "İsrail güçlerinin Gazze Şeridi'ndeki bir polis karakoluna düzenlediği saldırıda can kaybı yaşandı. Saldırıda 15 yaşındaki Mahmoud Sahweil isimli bir çocuğun hayatını kaybettiği bildirildi. Olayda ayrıca bazı polis memurlarının da yaralandığı belirtildi. Bu gelişme, bölgedeki güvenlik durumunu ve gerilimi yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850182/pexels-photo-36850182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T21:06:10.694Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778010482655g41hb",
         "title": "Sudan, Hartum'a yönelik saldırıların ardından Etiyopya Büyükelçisi'ni geri çağırdı",
         "summary": "Sudan, başkenti Hartum'daki havalimanına düzenlenen saldırıların arkasında Etiyopya'nın olduğunu iddia ederek, Addis Ababa Büyükelçisi'ni geri çağırdı. Bu diplomatik adım, iki komşu ülke arasındaki ilişkilerde ciddi bir gerilimin yaşandığına işaret ediyor. Sudan hükümeti, saldırılardan doğrudan Etiyopya'yı sorumlu tutarken, Etiyopya tarafından konuya ilişkin henüz resmi bir açıklama yapılmadı. Bölgedeki mevcut istikrarsızlık ve iki ülke arasındaki süregelen anlaşmazlıklar, bu son gelişmeyle birlikte daha da karmaşık bir hal alabilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1777829205992urw8s",
-        "title": "İsrail, ateşkesin bozulmasıyla silahsızlanmayı zorlamak için Gazze'de savaşın yeniden başlayacağı tehdidinde bulundu",
-        "summary": "İsrail, Gazze'deki ateşkesin bozulmaya başlamasıyla birlikte, bölgedeki Filistinli grupların silahsızlandırılmasını sağlamak amacıyla savaşın yeniden başlayabileceği tehdidinde bulundu. Bu tehdit, Filistinli grupların ABD destekli, insani yardımları silah bırakmaya bağlayan planları reddetmesinin ardından geldi. Filistinli gruplar, söz konusu planları kabul etmeyerek, bunun yerine ileriye dönük net bir siyasi yol haritası talep ediyor. Bölgedeki gerilim, taraflar arasındaki anlaşmazlıkların derinleştiğini ve mevcut durumun kırılganlığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27970302/pexels-photo-27970302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T17:26:45.992Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza, Palestine"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
