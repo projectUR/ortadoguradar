@@ -1,5 +1,37 @@
 [
     {
+        "id": "1777961977487lxhg7",
+        "title": "İran, ABD Ordusunu Hürmüz Boğazı'nda Yolcu Teknelerine Saldırmakla Suçladı",
+        "summary": "İranlı yetkililer, ABD ordusunun Hürmüz Boğazı'nda yolcu teknelerine saldırı düzenlediğini ve bu saldırılarda beş sivilin hayatını kaybettiğini iddia etti. İranlı bir komutan, Pazartesi günü gerçekleşen olayda ABD güçlerinin hedef aldığı gemilerin Devrim Muhafızları'na ait olmadığını, aksine sivil yolcu tekneleri olduğunu belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek nitelikte bir suçlama olarak değerlendiriliyor ve iki ülke arasındaki tansiyonu yükseltme potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3706659/pexels-photo-3706659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T06:19:37.487Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17779620356289em80",
+        "title": "Devletler, krizden çıkış için petrol şirketlerinin beklenmedik kârlarını vergilendirmeli",
+        "summary": "Küresel çapta yaşanan büyük bir ekonomik kriz, enerji sektöründeki kârları önemli ölçüde artırmaktadır. Uzmanlar, devletlerin bu beklenmedik yüksek kârları vergilendirmesi gerektiğini belirtiyor. Bu vergilendirme, ülkelerin mevcut ekonomik zorlukların üstesinden gelmesine yardımcı olabilir. Ayrıca, elde edilecek gelirler sayesinde ülkeler, gelecekteki ekonomik şoklara karşı daha dirençli hale gelebilir ve sürdürülebilir bir ekonomik yapıya kavuşabilir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/7111577/pexels-photo-7111577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-05T06:20:35.628Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Bölgesel"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/5/5/states-should-tax-windfall-oil-profits-to-fund-their-way-out-of-the-crisis?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17779523044301akun",
         "title": "İsrail Saldırısı Gazze Şeridi'nin Kuzeyinde Yangına Neden Oldu",
         "summary": "Gazze Şeridi'nin kuzey kesiminde İsrail tarafından gerçekleştirilen bir saldırı sonucunda yangın çıktığı bildirildi. Bölgeden gelen video görüntülerinde, İsrail'in sivilleri hedef aldığı belirtilen saldırının ardından alevlerin yükseldiği görüldü. Olayın Gazze Şeridi'nin kuzeyindeki Gazze şehrinde meydana geldiği ve bölgedeki gerilimi artırdığı kaydedildi. Saldırının detayları ve olası can kayıpları hakkında henüz net bir bilgi bulunmuyor. Bölgedeki durum yakından takip ediliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-attacks-in-occupied-west-bank-kill-1-palestinian-injure-several-others/3925655",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17778088354415sa6d",
-        "title": "İran'ın Savaşı Bitirmeye Yönelik 14 Maddelik Önerisi Ne? Trump Kabul Edecek mi?",
-        "summary": "ABD Başkanı Trump'ın, İran'ın mevcut bir savaşı sona erdirmeye yönelik sunduğu son öneriyi değerlendirdiği bildirildi. İran tarafından sunulan 14 maddelik bu teklifin detayları henüz kamuoyuna açıklanmadı. Ancak, iki taraf arasındaki derin güvensizliğin, bu önerinin kabul edilmesinin önündeki en büyük engellerden biri olduğu belirtiliyor. Teklifin, bölgedeki mevcut bir çatışmayı veya gerilimi sona erdirmeyi amaçladığı tahmin ediliyor. Washington ve Tahran arasındaki ilişkilerdeki mevcut durum göz önüne alındığında, bu diplomatik girişimin geleceği belirsizliğini koruyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T11:47:15.441Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777808889432okhap",
-        "title": "Kuveyt Dışişleri Bakanı Pazartesi Türkiye'yi Ziyaret Edecek",
-        "summary": "Kuveyt Dışişleri Bakanı Şeyh Jarrah Al-Ahmad Al-Sabah, Pazartesi günü Türkiye'ye resmi bir ziyaret gerçekleştirecek. Ziyaret kapsamında Türk Dışişleri Bakanı Hakan Fidan ile bir araya gelecek olan Kuveytli Bakan, ikili ilişkilerin yanı sıra savunma ve bölgesel krizleri ele alacak. Görüşmelerde, iki ülke arasındaki işbirliği alanlarının geliştirilmesi hedefleniyor. Ankara'nın ABD-İran görüşmelerine verdiği destek de gündemdeki konular arasında yer alacak. Bu ziyaretin, Orta Doğu'daki güncel gelişmeler ve bölgesel istikrar açısından önemli mesajlar içermesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868982/pexels-photo-7868982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-03T11:48:09.432Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 32.8,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/kuwaits-foreign-minister-to-visit-turkiye-on-monday/3925578",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
