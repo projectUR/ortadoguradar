@@ -98,118 +98,89 @@ body {
 }
 
 /* =========================================
-   HEADER
+   HEADER & LOGO ABSOLUTE FIX
    ========================================= */
 .app-header {
-    height: var(--header-height);
-    background: rgba(26, 29, 36, 0.85);
+    height: 70px !important;
+    background: rgba(26, 29, 36, 0.95) !important;
     backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--border-color);
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
+    display: flex !important;
+    align-items: center !important;
 }
 
 .header-container {
-    max-width: 1400px;
-    margin: 0 auto;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 20px;
+    width: 100% !important;
+    max-width: 1400px !important;
+    margin: 0 auto !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    padding: 0 20px !important;
+    gap: 15px !important;
+}
+
+#siteLogo {
+    display: flex !important;
+    align-items: center !important;
+    text-decoration: none !important;
+    flex-shrink: 0 !important;
+    min-width: auto !important;
 }
 
 .logo {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    cursor: pointer; /* BURAYI EKLEDİK */
+    display: flex !important;
+    align-items: center !important;
+    gap: 0 !important;
 }
 
-
-.radar-icon {
-    color: var(--accent-blue);
-    font-size: 1.5rem;
+/* ESKİ METİNLERİ VE İKONLARI KOMPLE KAPAT */
+.logo h1, .logo span, .radar-icon {
+    display: none !important;
 }
 
-.logo h1 {
-    font-size: 1.3rem;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-}
-
-.logo span {
-    font-weight: 300;
-    color: var(--text-secondary);
+/* LOGO GÖRSELİNİ MERKEZLE */
+.logo img {
+    height: 40px !important;
+    width: auto !important;
+    display: block !important;
 }
 
 .search-bar {
-    flex: 0 1 400px;
-    position: relative;
-    background: #0f1115;
-    border: 1px solid var(--border-color);
-    border-radius: 30px;
-    padding: 8px 16px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    transition: var(--transition);
-}
-
-.search-bar:focus-within {
-    border-color: var(--accent-blue);
-    box-shadow: 0 0 0 3px var(--accent-blue-glow);
-}
-
-.search-bar i {
-    color: var(--text-secondary);
-}
-
-.search-bar input {
-    background: transparent;
-    border: none;
-    color: var(--text-primary);
-    width: 100%;
-    outline: none;
-    font-size: 0.95rem;
+    flex: 1 !important;
+    max-width: 400px !important;
+    min-width: 150px !important;
+    background: #0f1115 !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: 30px !important;
+    padding: 8px 16px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
 }
 
 .view-toggles {
-    display: flex;
-    gap: 10px;
-    background: #0f1115;
-    padding: 4px;
-    border-radius: 30px;
-    border: 1px solid var(--border-color);
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 8px !important;
+    background: #0f1115 !important;
+    padding: 4px !important;
+    border-radius: 30px !important;
+    border: 1px solid var(--border-color) !important;
+    flex-shrink: 0 !important;
 }
 
-.toggle-btn {
-    background: transparent;
-    border: none;
-    color: var(--text-secondary);
-    padding: 6px 16px;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    font-weight: 500;
-    cursor: pointer;
-    transition: var(--transition);
-    display: flex;
-    align-items: center;
-    gap: 8px;
-}
-
-.toggle-btn:hover {
-    color: var(--text-primary);
-}
-
-.toggle-btn.active {
-    background: var(--bg-surface-hover);
-    color: var(--text-primary);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+/* Giriş ve Dil Seçici Alanlarını Yan Yana Tut */
+.user-auth-area, .lang-selector {
+    display: flex !important;
+    align-items: center !important;
+    flex-shrink: 0 !important;
 }
 /* =========================================
    LANGUAGE SELECTOR
