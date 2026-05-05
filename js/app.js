@@ -153,7 +153,6 @@ function renderNewsCards() {
                     <h3>${item.title}</h3>
                     <p>${item.summary}</p>
                 </div>
-                
                 <div class="card-footer">
                     <a href="${item.source}" target="_blank" class="source-link" rel="nofollow">
                         <i class="fa-solid fa-link"></i> Kaynak Taramasını Gör
@@ -161,7 +160,11 @@ function renderNewsCards() {
                     <div class="card-actions">
                         <button class="action-btn" title="Yerini Göster (Rasathane)"
                         onclick="if(window.focusMapOnItem) window.focusMapOnItem('${item.id}')"><i class="fa-solid fa-location-dot"></i></button>
+                        
+                        <!-- YENİ EKLENEN PAYLAŞ BUTONU -->
+                        <button class="action-btn" title="Haberi Paylaş" onclick="shareNews('${item.id}')"><i class="fa-solid fa-share-nodes"></i></button>
                     </div>
+                </div>
                 </div>
             </article>
         `;
