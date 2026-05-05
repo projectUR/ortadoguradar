@@ -1588,3 +1588,21 @@ body {
     width: 100% !important; /* Yazı alanının çubuğu tam doldurmasını sağla */
     text-overflow: ellipsis; /* Çok uzun yazı yazılırsa taşmasın, üç nokta koysun */
 }
+/* =========================================
+   BUTON ODAKLANMA (FOCUS) VE OVAL DÜZELTMESİ
+   ========================================= */
+
+.app-header button, 
+.app-header .toggle-btn,
+.app-header select {
+    border-radius: 30px !important; /* Butonların kalıcı olarak oval kalmasını garantiler */
+    outline: none !important; /* Tıklayınca çıkan o çirkin dikdörtgen varsayılan çizgiyi yok eder */
+}
+
+/* Tıklandığında dikdörtgen çizgi yerine, butonun kendi oval şekline uygun hafif bir parlama (opsiyonel şıklık) */
+.app-header button:focus, 
+.app-header .toggle-btn:focus,
+.app-header select:focus {
+    outline: none !important;
+    box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.3) !important; /* Mavi, yumuşak bir oval çerçeve */
+}
