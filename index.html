@@ -18,21 +18,25 @@
 
     <link rel="stylesheet" href="style.css">
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
 </head>
 
 <body>
 
-  <!-- Yeni Kod -->
-<a href="index.html" id="siteLogo" style="text-decoration: none; display: flex; align-items: center;">
-    <div class="logo">
-        <img src="ur-logo.png" alt="UR Logo" style="height: 35px; width: auto; object-fit: contain;">
-    </div>
-</a>
+    <header class="app-header">
+        <div class="header-container">
+            <!-- LOGO KISMI BURADA -->
+            <a href="index.html" id="siteLogo" style="text-decoration: none; display: flex; align-items: center;">
+                <div class="logo">
+                    <img src="ur-logo.png" alt="UR Logo" style="height: 35px; width: auto; object-fit: contain;">
+                </div>
+            </a>
+            
             <div class="search-bar">
                 <i class="fa-solid fa-magnifying-glass"></i>
                 <input type="text" id="searchInput" placeholder="Gündemde ara... (örn: Gazze, Petrol)">
             </div>
+            
             <div class="view-toggles">
                 <button class="toggle-btn active" id="btn-feed" title="Haber Akışı">
                     <i class="fa-solid fa-stream"></i> Akış
@@ -47,18 +51,20 @@
                     <i class="fa-solid fa-shield-halved"></i> Envanter
                 </button>
                 <button class="toggle-btn" id="btn-social" title="Radar Akışı (Sosyal)">
-    <i class="fa-solid fa-users-viewfinder"></i> Radar Akışı
-</button>
-      <button onclick="openNewsletterModal()" class="toggle-btn" style="color: #3498db; border: 1px solid #3498db; margin-left: 15px; white-space: nowrap; position: relative; z-index: 50; padding: 0 15px;">
-    <i class="fa-solid fa-envelope-open-text"></i> Bültene Abone Ol
-</button>
+                    <i class="fa-solid fa-users-viewfinder"></i> Radar Akışı
+                </button>
+                <button onclick="openNewsletterModal()" class="toggle-btn" style="color: #3498db; border: 1px solid #3498db; margin-left: 15px; white-space: nowrap; position: relative; z-index: 50; padding: 0 15px;">
+                    <i class="fa-solid fa-envelope-open-text"></i> Bültene Abone Ol
+                </button>
             </div>
-<div class="user-auth-area" style="margin-left: 15px; display: flex; align-items: center; gap: 10px;">
-    <button onclick="openAuthModal()" class="toggle-btn" id="btn-login-trigger" title="Giriş Yap veya Kayıt Ol" style="background: rgba(255,255,255,0.05); border: 1px solid #333; color: #fff; padding: 8px 15px; border-radius: 20px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: 0.3s;">
-        <i class="fa-solid fa-user-circle"></i>
-        <span style="font-size: 0.9rem; font-weight: 500;">Giriş Yap</span>
-    </button>
-</div>
+            
+            <div class="user-auth-area" style="margin-left: 15px; display: flex; align-items: center; gap: 10px;">
+                <button onclick="openAuthModal()" class="toggle-btn" id="btn-login-trigger" title="Giriş Yap veya Kayıt Ol" style="background: rgba(255,255,255,0.05); border: 1px solid #333; color: #fff; padding: 8px 15px; border-radius: 20px; cursor: pointer; display: flex; align-items: center; gap: 8px; transition: 0.3s;">
+                    <i class="fa-solid fa-user-circle"></i>
+                    <span style="font-size: 0.9rem; font-weight: 500;">Giriş Yap</span>
+                </button>
+            </div>
+            
             <div class="lang-selector">
                 <select id="languageSelect" class="notranslate" translate="no">
                     <option value="tr" selected>🇹🇷 Türkçe</option>
@@ -101,13 +107,13 @@
                     <li id="btnShowCountries">Ülkeler</li>
                 </ul>
                 <ul class="category-list hidden" id="countryList">
-                    </ul>
+                </ul>
             </div>
 
             <div class="sidebar-widget trends-widget">
                 <h3><i class="fa-solid fa-fire text-orange"></i> Gündem (Trendler)</h3>
                 <ul class="trend-list" id="trendList">
-                    </ul>
+                </ul>
             </div>
         </aside>
 
@@ -135,142 +141,144 @@
                         <button class="btn-primary" style="margin-top: 15px; pointer-events: none;">Operasyonu Başlat</button>
                     </div>
 
-                  <div class="game-card" id="startFlagGame" style="background: #1e1e1e; border: 2px solid #333; padding: 25px; border-radius: 12px; cursor: pointer; transition: 0.3s;">
-    <i class="fa-solid fa-flag" style="font-size: 3rem; color: #e74c3c; margin-bottom: 15px;"></i>
-    <h3 style="color: #fff; margin-bottom: 10px;">Bayrak Tahmini</h3>
-    <p style="color: #aaa; font-size: 0.9rem;">Bölge ülkelerinin bayraklarını ne kadar hızlı tanıyorsun? Profesörlüğünü kanıtla.</p>
-    <button class="btn-primary" style="margin-top: 15px; pointer-events: none;">Operasyonu Başlat</button>
-</div>
+                    <div class="game-card" id="startFlagGame" style="background: #1e1e1e; border: 2px solid #333; padding: 25px; border-radius: 12px; cursor: pointer; transition: 0.3s;">
+                        <i class="fa-solid fa-flag" style="font-size: 3rem; color: #e74c3c; margin-bottom: 15px;"></i>
+                        <h3 style="color: #fff; margin-bottom: 10px;">Bayrak Tahmini</h3>
+                        <p style="color: #aaa; font-size: 0.9rem;">Bölge ülkelerinin bayraklarını ne kadar hızlı tanıyorsun? Profesörlüğünü kanıtla.</p>
+                        <button class="btn-primary" style="margin-top: 15px; pointer-events: none;">Operasyonu Başlat</button>
+                    </div>
+                    
                     <div class="game-card" id="startOilGame" style="background: #1e1e1e; border: 2px solid #f1c40f; padding: 25px; border-radius: 12px; cursor: pointer; transition: 0.3s; box-shadow: 0 0 15px rgba(241, 196, 15, 0.1);">
-    <i class="fa-solid fa-oil-well" style="font-size: 3rem; color: #f1c40f; margin-bottom: 15px;"></i>
-    <h3 style="color: #fff; margin-bottom: 10px;">Varil Avcısı</h3>
-    <p style="color: #aaa; font-size: 0.9rem;">Orta Doğu bilginle 1.000.000 varil petrolü kazanmaya hazır mısın? "Kim Bir Milyon Varil İster?" başlıyor.</p>
-    <button class="btn-primary" style="margin-top: 15px; pointer-events: none; background: #f1c40f; color: #000; font-weight: bold; border: none;">Kuyuya İn</button>
-</div>
+                        <i class="fa-solid fa-oil-well" style="font-size: 3rem; color: #f1c40f; margin-bottom: 15px;"></i>
+                        <h3 style="color: #fff; margin-bottom: 10px;">Varil Avcısı</h3>
+                        <p style="color: #aaa; font-size: 0.9rem;">Orta Doğu bilginle 1.000.000 varil petrolü kazanmaya hazır mısın? "Kim Bir Milyon Varil İster?" başlıyor.</p>
+                        <button class="btn-primary" style="margin-top: 15px; pointer-events: none; background: #f1c40f; color: #000; font-weight: bold; border: none;">Kuyuya İn</button>
+                    </div>
                 </div>
             </div>
 
             <div id="actualGuessGame" class="hidden">
-               <div style="display: flex; justify-content: flex-end; padding: 10px 15px 0 0; position: relative; z-index: 1000;">
-        <button id="btnCloseGame" title="Operasyon Merkezine Dön" style="background: none; border: none; color: #666; cursor: pointer; font-size: 1.8rem; transition: 0.3s; line-height: 1;">
-            <i class="fa-solid fa-xmark"></i>
-        </button>
-    </div>
-            <div class="quiz-header">
-                <h2><i class="fa-solid fa-user-secret"></i> Gizli Figürü Tahmin Et</h2>
-                <div class="quiz-status" style="margin-left: 20px;">
-    <span id="quiz-attempts">Kalan Hak: 6</span>
-                    <div class="attempt-dots" id="attemptDots">
-                        </div>
+                <div style="display: flex; justify-content: flex-end; padding: 10px 15px 0 0; position: relative; z-index: 1000;">
+                    <button id="btnCloseGame" title="Operasyon Merkezine Dön" style="background: none; border: none; color: #666; cursor: pointer; font-size: 1.8rem; transition: 0.3s; line-height: 1;">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+                <div class="quiz-header">
+                    <h2><i class="fa-solid fa-user-secret"></i> Gizli Figürü Tahmin Et</h2>
+                    <div class="quiz-status" style="margin-left: 20px;">
+                        <span id="quiz-attempts">Kalan Hak: 6</span>
+                        <div class="attempt-dots" id="attemptDots"></div>
+                    </div>
+                </div>
+                
+                <div class="quiz-search-area">
+                    <div class="quiz-input-wrapper">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <input type="text" id="quizSearchInput" placeholder="Karakter adı tahmin edin...">
+                    </div>
+                    <ul class="quiz-suggestions hidden" id="quizSuggestions"></ul>
+                </div>
+
+                <div class="quiz-table-header hidden" id="quizTableHeader">
+                    <div class="qt-col">Karakter</div>
+                    <div class="qt-col">Uyruk</div>
+                    <div class="qt-col">Görev/Rol</div>
+                    <div class="qt-col">Durum</div>
+                </div>
+
+                <div class="quiz-guesses" id="quizGuesses"></div>
+
+                <div class="quiz-modal hidden" id="quizModal">
+                    <div class="quiz-modal-content">
+                        <h3 id="quizResultTitle">Oyun Bitti</h3>
+                        <p id="quizResultMessage">Gizli kişi: <strong>-</strong></p>
+                        <button id="btnRestartQuiz" class="btn-primary">Tekrar Oyna</button>
+                    </div>
                 </div>
             </div>
             
-            <div class="quiz-search-area">
-                <div class="quiz-input-wrapper">
-                    <i class="fa-solid fa-magnifying-glass"></i>
-                    <input type="text" id="quizSearchInput" placeholder="Karakter adı tahmin edin...">
-                </div>
-                <ul class="quiz-suggestions hidden" id="quizSuggestions"></ul>
-            </div>
-
-            <div class="quiz-table-header hidden" id="quizTableHeader">
-                <div class="qt-col">Karakter</div>
-                <div class="qt-col">Uyruk</div>
-                <div class="qt-col">Görev/Rol</div>
-                <div class="qt-col">Durum</div>
-            </div>
-
-            <div class="quiz-guesses" id="quizGuesses">
-                </div>
-
-            <div class="quiz-modal hidden" id="quizModal">
-                <div class="quiz-modal-content">
-                    <h3 id="quizResultTitle">Oyun Bitti</h3>
-                    <p id="quizResultMessage">Gizli kişi: <strong>-</strong></p>
-                    <button id="btnRestartQuiz" class="btn-primary">Tekrar Oyna</button>
-                </div>
-            </div>
-</div>
             <div id="actualFlagGame" class="hidden" style="padding: 20px; text-align: center;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-        <h2 style="color: var(--text-primary); margin: 0; font-size: 1.5rem;"><i class="fa-solid fa-flag"></i> Bayrak Tahmini</h2>
-        <div id="flagTimer" style="background: #e74c3c; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold; font-family: monospace; font-size: 1.2rem; min-width: 80px;">00:00</div>
-        <button id="btnCloseFlagGame" style="background: none; border: none; color: #666; cursor: pointer; font-size: 1.8rem; line-height: 1;"><i class="fa-solid fa-xmark"></i></button>
-    </div>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                    <h2 style="color: var(--text-primary); margin: 0; font-size: 1.5rem;"><i class="fa-solid fa-flag"></i> Bayrak Tahmini</h2>
+                    <div id="flagTimer" style="background: #e74c3c; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold; font-family: monospace; font-size: 1.2rem; min-width: 80px;">00:00</div>
+                    <button id="btnCloseFlagGame" style="background: none; border: none; color: #666; cursor: pointer; font-size: 1.8rem; line-height: 1;"><i class="fa-solid fa-xmark"></i></button>
+                </div>
 
-    <div id="flagDisplay" style="margin: 20px auto; max-width: 350px; height: 220px; background: #1a1a1a; border-radius: 12px; display: flex; align-items: center; justify-content: center; border: 2px solid #333; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-        <img id="currentFlagImg" src="" style="max-width: 90%; max-height: 90%; object-fit: contain; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.3));">
-    </div>
+                <div id="flagDisplay" style="margin: 20px auto; max-width: 350px; height: 220px; background: #1a1a1a; border-radius: 12px; display: flex; align-items: center; justify-content: center; border: 2px solid #333; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+                    <img id="currentFlagImg" src="" style="max-width: 90%; max-height: 90%; object-fit: contain; filter: drop-shadow(0 5px 15px rgba(0,0,0,0.3));">
+                </div>
 
-    <div style="max-width: 400px; margin: 0 auto;">
-        <input type="text" id="flagInput" placeholder="Ülke adını yazın..." autocomplete="off" style="width: 100%; padding: 15px; border-radius: 12px; border: 2px solid #333; background: #111; color: white; text-align: center; font-size: 1.1rem; outline: none; transition: 0.3s; margin-bottom: 15px;">
-        
-        <div style="display: flex; gap: 10px;">
-            <button id="btnSkipFlag" style="flex: 1; padding: 12px; border-radius: 10px; background: #333; color: white; border: none; cursor: pointer; font-weight: bold; transition: 0.3s;">Geç</button>
-            <button id="btnSubmitFlag" style="flex: 2; padding: 12px; border-radius: 10px; background: var(--accent-blue); color: white; border: none; cursor: pointer; font-weight: bold; transition: 0.3s;">Tahmin Et</button>
-        </div>
-        
-        <p id="flagProgress" style="margin-top: 25px; color: #666; font-size: 0.9rem; letter-spacing: 1px;">KALAN ÜLKE: 18/18</p>
-    </div>
-</div>
+                <div style="max-width: 400px; margin: 0 auto;">
+                    <input type="text" id="flagInput" placeholder="Ülke adını yazın..." autocomplete="off" style="width: 100%; padding: 15px; border-radius: 12px; border: 2px solid #333; background: #111; color: white; text-align: center; font-size: 1.1rem; outline: none; transition: 0.3s; margin-bottom: 15px;">
+                    
+                    <div style="display: flex; gap: 10px;">
+                        <button id="btnSkipFlag" style="flex: 1; padding: 12px; border-radius: 10px; background: #333; color: white; border: none; cursor: pointer; font-weight: bold; transition: 0.3s;">Geç</button>
+                        <button id="btnSubmitFlag" style="flex: 2; padding: 12px; border-radius: 10px; background: var(--accent-blue); color: white; border: none; cursor: pointer; font-weight: bold; transition: 0.3s;">Tahmin Et</button>
+                    </div>
+                    
+                    <p id="flagProgress" style="margin-top: 25px; color: #666; font-size: 0.9rem; letter-spacing: 1px;">KALAN ÜLKE: 18/18</p>
+                </div>
+            </div>
+            
             <div id="actualOilGame" class="hidden oil-game-container">
                 <div id="oilGameModal" class="modal">
-    <div class="oil-modal-content">
-      <div id="oil-timer-container" style="display:none; align-items:center; justify-content:center; background: rgba(0,0,0,0.8); border: 2px solid #f1c40f; color: #f1c40f; border-radius: 50%; width: 45px; height: 45px; font-weight: bold; font-size: 18px; position: absolute; top: 70px; left: 500px; z-index: 1000; box-shadow: 0 0 15px rgba(241, 196, 15, 0.4); font-family: 'Courier New', Courier, monospace;">
-    <span id="oil-timer">0</span>
-</div>
+                    <div class="oil-modal-content">
+                        <div id="oil-timer-container" style="display:none; align-items:center; justify-content:center; background: rgba(0,0,0,0.8); border: 2px solid #f1c40f; color: #f1c40f; border-radius: 50%; width: 45px; height: 45px; font-weight: bold; font-size: 18px; position: absolute; top: 70px; left: 500px; z-index: 1000; box-shadow: 0 0 15px rgba(241, 196, 15, 0.4); font-family: 'Courier New', Courier, monospace;">
+                            <span id="oil-timer">0</span>
+                        </div>
+                        <div class="oil-header">
+                            <h2><i class="fa-solid fa-oil-well"></i> Kim Bir Milyon Varil İster?</h2>
+                            <div class="oil-status">
+                                <span id="oilCurrentPrize" class="oil-badge">0 Varil</span>
+                                <button id="btnCloseOilGame" class="btn-close-oil"><i class="fa-solid fa-xmark"></i></button>
+                            </div>
+                        </div>
+                        
+                        <div class="oil-layout">
+                            <div class="oil-main">
+                                <div class="oil-lifelines">
+                                    <button id="ll-50" class="lifeline-btn" title="Yarı Yarıya (İki Şıkkı Ele)">50:50</button>
+                                    <button id="ll-phone" class="lifeline-btn" title="Liderler Hattı (Saddam, Kaddafi, Nasır)"><i class="fa-solid fa-phone"></i></button>
+                                    <button id="ll-audience" class="lifeline-btn" title="Halkın Sesi (İstihbarat Grafiği)"><i class="fa-solid fa-users"></i></button>
+                                    <button id="ll-double" class="lifeline-btn locked" title="Çift Cevap Hakkı (7. Soruda Açılır)"><i class="fa-solid fa-check-double"></i></button>
+                                </div>
+                                
+                                <div class="oil-question-box">
+                                    <h3 id="oilQuestionText">Soru sistemi başlatılıyor, lütfen bekleyin...</h3>
+                                </div>
+                                
+                                <div class="oil-options-grid">
+                                    <button class="oil-option" id="opt-0" data-index="0"><span class="opt-letter">A:</span> <span class="opt-text">...</span></button>
+                                    <button class="oil-option" id="opt-1" data-index="1"><span class="opt-letter">B:</span> <span class="opt-text">...</span></button>
+                                    <button class="oil-option" id="opt-2" data-index="2"><span class="opt-letter">C:</span> <span class="opt-text">...</span></button>
+                                    <button class="oil-option" id="opt-3" data-index="3"><span class="opt-letter">D:</span> <span class="opt-text">...</span></button>
+                                </div>
+                                
+                                <div class="oil-actions">
+                                    <button id="btnWithdraw" class="btn-withdraw">Varilleri Al ve Oyundan Çekil</button>
+                                </div>
+                            </div>
+                            
+                            <div class="oil-ladder-container">
+                                <h4 style="text-align: center; color: #888; margin-bottom: 10px; font-size: 0.9rem;">ÖDÜL TABLOSU</h4>
+                                <ul class="oil-ladder" id="oilLadderList">
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-       
-    <div class="oil-header">
-        <h2><i class="fa-solid fa-oil-well"></i> Kim Bir Milyon Varil İster?</h2>
-        <div class="oil-status">
-            <span id="oilCurrentPrize" class="oil-badge">0 Varil</span>
-            <button id="btnCloseOilGame" class="btn-close-oil"><i class="fa-solid fa-xmark"></i></button>
-        </div>
-    </div>
-    
-    <div class="oil-layout">
-        <div class="oil-main">
-            <div class="oil-lifelines">
-                <button id="ll-50" class="lifeline-btn" title="Yarı Yarıya (İki Şıkkı Ele)">50:50</button>
-                <button id="ll-phone" class="lifeline-btn" title="Liderler Hattı (Saddam, Kaddafi, Nasır)"><i class="fa-solid fa-phone"></i></button>
-                <button id="ll-audience" class="lifeline-btn" title="Halkın Sesi (İstihbarat Grafiği)"><i class="fa-solid fa-users"></i></button>
-                <button id="ll-double" class="lifeline-btn locked" title="Çift Cevap Hakkı (7. Soruda Açılır)"><i class="fa-solid fa-check-double"></i></button>
+                <div id="oilJokerModal" class="hidden quiz-modal">
+                    <div class="quiz-modal-content" style="border: 2px solid #f1c40f; background: #111;">
+                        <h3 id="oilJokerTitle" style="color: #f1c40f;">Joker Devrede</h3>
+                        <div id="oilJokerContent" style="color: #fff; margin: 20px 0; font-size: 1.1rem; line-height: 1.5;">...</div>
+                        <button id="btnOilJokerClose" class="btn-primary" style="background: #f1c40f; color: #000;">Anlaşıldı</button>
+                    </div>
+                </div>
             </div>
-            
-            <div class="oil-question-box">
-                <h3 id="oilQuestionText">Soru sistemi başlatılıyor, lütfen bekleyin...</h3>
-            </div>
-            
-            <div class="oil-options-grid">
-                <button class="oil-option" id="opt-0" data-index="0"><span class="opt-letter">A:</span> <span class="opt-text">...</span></button>
-                <button class="oil-option" id="opt-1" data-index="1"><span class="opt-letter">B:</span> <span class="opt-text">...</span></button>
-                <button class="oil-option" id="opt-2" data-index="2"><span class="opt-letter">C:</span> <span class="opt-text">...</span></button>
-                <button class="oil-option" id="opt-3" data-index="3"><span class="opt-letter">D:</span> <span class="opt-text">...</span></button>
-            </div>
-            
-            <div class="oil-actions">
-                <button id="btnWithdraw" class="btn-withdraw">Varilleri Al ve Oyundan Çekil</button>
-            </div>
-        </div>
-        
-        <div class="oil-ladder-container">
-            <h4 style="text-align: center; color: #888; margin-bottom: 10px; font-size: 0.9rem;">ÖDÜL TABLOSU</h4>
-            <ul class="oil-ladder" id="oilLadderList">
-                </ul>
-        </div>
-    </div>
-
-    <div id="oilJokerModal" class="hidden quiz-modal">
-        <div class="quiz-modal-content" style="border: 2px solid #f1c40f; background: #111;">
-            <h3 id="oilJokerTitle" style="color: #f1c40f;">Joker Devrede</h3>
-            <div id="oilJokerContent" style="color: #fff; margin: 20px 0; font-size: 1.1rem; line-height: 1.5;">...</div>
-            <button id="btnOilJokerClose" class="btn-primary" style="background: #f1c40f; color: #000;">Anlaşıldı</button>
-        </div>
-    </div>
-</div>
         </section>
-       <section id="arsenalContainer" class="hidden" style="grid-column: 1 / -1; padding: 20px; padding-top: 10px; height: 100%; overflow-y: auto; padding-bottom: 40px;">
+        
+        <section id="arsenalContainer" class="hidden" style="grid-column: 1 / -1; padding: 20px; padding-top: 10px; height: 100%; overflow-y: auto; padding-bottom: 40px;">
             <div class="arsenal-header" style="text-align: center; margin-bottom: 30px;">
                 <h2 style="color: var(--text-primary); margin-bottom: 20px; font-size: 1.8rem;"><i class="fa-solid fa-crosshairs"></i> Bölgesel Askeri Envanter</h2>
                 
@@ -285,37 +293,39 @@
             </div>
 
             <div class="arsenal-grid" id="arsenalGrid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px;">
-                </div>
+            </div>
         </section>
 
     </main>
-<div id="authModal" class="hidden quiz-modal">
-    <div class="quiz-modal-content" style="max-width: 400px; border: 2px solid var(--accent-blue); background: #111;">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-            <h3 id="authTitle" style="color: var(--accent-blue); margin: 0;">Radar'a Katıl</h3>
-            <button onclick="closeAuthModal()" style="background: none; border: none; color: #555; cursor: pointer; font-size: 1.5rem;">&times;</button>
-        </div>
-        
-        <div class="auth-form">
-            <div style="margin-bottom: 15px;">
-                <label style="color: #888; display: block; margin-bottom: 5px; font-size: 0.9rem;">Kullanıcı Adı</label>
-                <input type="text" id="authUsername" placeholder="Örn: Levanten35" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #333; background: #050505; color: white; outline: none;">
+    
+    <div id="authModal" class="hidden quiz-modal">
+        <div class="quiz-modal-content" style="max-width: 400px; border: 2px solid var(--accent-blue); background: #111;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                <h3 id="authTitle" style="color: var(--accent-blue); margin: 0;">Radar'a Katıl</h3>
+                <button onclick="closeAuthModal()" style="background: none; border: none; color: #555; cursor: pointer; font-size: 1.5rem;">&times;</button>
             </div>
+            
+            <div class="auth-form">
+                <div style="margin-bottom: 15px;">
+                    <label style="color: #888; display: block; margin-bottom: 5px; font-size: 0.9rem;">Kullanıcı Adı</label>
+                    <input type="text" id="authUsername" placeholder="Örn: Levanten35" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #333; background: #050505; color: white; outline: none;">
+                </div>
 
-            <div style="margin-bottom: 20px;">
-                <label style="color: #888; display: block; margin-bottom: 5px; font-size: 0.9rem;">Şifre</label>
-                <input type="password" id="authPassword" placeholder="••••••••" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #333; background: #050505; color: white; outline: none;">
-            </div>
-            
-            <button id="authPrimaryBtn" class="btn-primary" style="width: 100%; padding: 12px; margin-bottom: 15px; font-weight: bold;">Giriş Yap</button>
-            
-            <div style="text-align: center;">
-                <span id="authSwitchText" style="color: #666; font-size: 0.9rem;">Hesabın yok mu?</span>
-                <button id="btnSwitchAuth" style="background: none; border: none; color: var(--accent-blue); cursor: pointer; font-weight: 500; margin-left: 5px;">Kayıt Ol</button>
+                <div style="margin-bottom: 20px;">
+                    <label style="color: #888; display: block; margin-bottom: 5px; font-size: 0.9rem;">Şifre</label>
+                    <input type="password" id="authPassword" placeholder="••••••••" style="width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #333; background: #050505; color: white; outline: none;">
+                </div>
+                
+                <button id="authPrimaryBtn" class="btn-primary" style="width: 100%; padding: 12px; margin-bottom: 15px; font-weight: bold;">Giriş Yap</button>
+                
+                <div style="text-align: center;">
+                    <span id="authSwitchText" style="color: #666; font-size: 0.9rem;">Hesabın yok mu?</span>
+                    <button id="btnSwitchAuth" style="background: none; border: none; color: var(--accent-blue); cursor: pointer; font-weight: 500; margin-left: 5px;">Kayıt Ol</button>
+                </div>
             </div>
         </div>
     </div>
-</div>
+    
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
@@ -328,7 +338,7 @@
     <script src="js/quiz.js"></script>
     <script src="js/oil_game.js"></script>
 
-                    <div id="newsletter-modal" class="hidden" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 9999; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(5px);">
+    <div id="newsletter-modal" class="hidden" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 9999; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(5px);">
         
         <div style="background: #121212; border: 1px solid #333; border-radius: 12px; width: 90%; max-width: 400px; padding: 25px; position: relative; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
             
@@ -353,28 +363,29 @@
 
         </div>
     </div>
-                    <div id="radar-assistant-container" class="hidden">
-    <div id="chat-window" class="hidden">
-        <div class="chat-header" style="background: #1a1a1a; padding: 15px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #333; color: #3498db; font-weight: bold;">
-            <span><i class="fa-solid fa-robot"></i> Radar Asistan</span>
-            <button onclick="toggleChat()" style="background: none; border: none; color: #666; cursor: pointer;"><i class="fa-solid fa-xmark"></i></button>
-        </div>
-        <div id="chat-messages" style="flex: 1; padding: 15px; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; height: 300px;">
-            <div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px;">
-                Merhaba! Ben Radar Asistan. Orta Doğu gündemi veya bölge tarihi hakkında size nasıl yardımcı olabilirim?
+    
+    <div id="radar-assistant-container" class="hidden">
+        <div id="chat-window" class="hidden">
+            <div class="chat-header" style="background: #1a1a1a; padding: 15px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #333; color: #3498db; font-weight: bold;">
+                <span><i class="fa-solid fa-robot"></i> Radar Asistan</span>
+                <button onclick="toggleChat()" style="background: none; border: none; color: #666; cursor: pointer;"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div id="chat-messages" style="flex: 1; padding: 15px; overflow-y: auto; display: flex; flex-direction: column; gap: 10px; height: 300px;">
+                <div class="bot-msg" style="background: #252525; color: #eee; padding: 10px 15px; border-radius: 15px 15px 15px 0; align-self: flex-start; max-width: 80%; font-size: 14px;">
+                    Merhaba! Ben Radar Asistan. Orta Doğu gündemi veya bölge tarihi hakkında size nasıl yardımcı olabilirim?
+                </div>
+            </div>
+            <div class="chat-input-area" style="padding: 15px; display: flex; gap: 10px; border-top: 1px solid #333;">
+                <input type="text" id="user-input" placeholder="Sorunu buraya yaz..." onkeypress="handleChatKey(event)" style="flex: 1; background: #1a1a1a; border: 1px solid #333; color: white; padding: 8px 12px; border-radius: 8px;">
+                <button onclick="sendMessage()" style="background: #3498db; border: none; color: white; padding: 0 15px; border-radius: 8px; cursor: pointer;">
+                    <i class="fa-solid fa-paper-plane"></i>
+                </button>
             </div>
         </div>
-        <div class="chat-input-area" style="padding: 15px; display: flex; gap: 10px; border-top: 1px solid #333;">
-            <input type="text" id="user-input" placeholder="Sorunu buraya yaz..." onkeypress="handleChatKey(event)" style="flex: 1; background: #1a1a1a; border: 1px solid #333; color: white; padding: 8px 12px; border-radius: 8px;">
-            <button onclick="sendMessage()" style="background: #3498db; border: none; color: white; padding: 0 15px; border-radius: 8px; cursor: pointer;">
-                <i class="fa-solid fa-paper-plane"></i>
-            </button>
-        </div>
+        
+        <button id="chat-bubble" onclick="toggleChat()" style="position: fixed; bottom: 25px; right: 25px; width: 60px; height: 60px; border-radius: 50%; background: #3498db; color: white; border: none; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.3); z-index: 10001;">
+            <i class="fa-solid fa-comment-dots"></i>
+        </button>
     </div>
-    
-    <button id="chat-bubble" onclick="toggleChat()" style="position: fixed; bottom: 25px; right: 25px; width: 60px; height: 60px; border-radius: 50%; background: #3498db; color: white; border: none; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.3); z-index: 10001;">
-        <i class="fa-solid fa-comment-dots"></i>
-    </button>
-</div>
 </body>
 </html>
