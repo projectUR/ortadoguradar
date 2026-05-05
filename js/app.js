@@ -236,7 +236,11 @@ function renderCountries() {
 function setupEventListeners() {
 
    // Logo Click (Akışı Tazele ve Üste Çık)
-    DOM.logo.addEventListener('click', async () => {
+  // Logo Click (Akışı Tazele ve Üste Çık)
+    const siteLogoBtn = document.getElementById('siteLogo') || DOM.logo;
+    siteLogoBtn.addEventListener('click', async (e) => {
+        e.preventDefault(); // Logonun link özelliğini ezip sayfa yenilemesini durdurur
+
         DOM.feedContainer.innerHTML = `<div class="loading-state"><i class="fa-solid fa-circle-notch fa-spin"></i> Akış Yenileniyor...</div>`;
         STATE.activeCategory = 'Tümü';
         STATE.searchQuery = '';
@@ -244,9 +248,22 @@ function setupEventListeners() {
         await fetchNewsData();
         updateUI(); 
         switchView('feed');
+        
+        // --- EKLENEN KISIM: TV VE DİĞER EKRANLARI ZORLA GİZLE ---
+        document.getElementById('tvContainer')?.classList.add('hidden');
+        document.getElementById('arsenalContainer')?.classList.add('hidden');
+        document.getElementById('quizContainer')?.classList.add('hidden');
+        
+        // Sağ barı (Kategoriler) görünür yap
+        document.querySelector('.sidebar-right')?.classList.remove('hidden');
+
+        // Menüdeki buton renklerini sıfırla ve "Akış" butonunu aktif yap
+        document.querySelectorAll('.toggle-btn').forEach(b => b.classList.remove('active'));
+        document.getElementById('btn-feed')?.classList.add('active');
+        // --------------------------------------------------------
+
         document.querySelector('.feed-container').scrollTop = 0;
     });
-
     // Category Clicks
     DOM.categoryList.addEventListener('click', (e) => {
         const li = e.target.closest('li');
