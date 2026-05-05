@@ -746,3 +746,63 @@ document.addEventListener('click', (e) => {
         if (chatWin) chatWin.classList.add('hidden');
     }
 });
+
+// =========================================
+// UR TV MANTIĞI VE BUTON KONTROLLERİ
+// =========================================
+document.addEventListener('DOMContentLoaded', () => {
+    const btnTv = document.getElementById('btn-tv');
+    const secTv = document.getElementById('tvContainer');
+    const mainApp = document.querySelector('.app-main');
+    const sidebar = document.querySelector('.sidebar-right');
+    
+    // Sitedeki tüm ana sekmeler ve onlara ait butonlar
+    const allSections = ['feedContainer', 'mapContainer', 'quizContainer', 'arsenalContainer', 'tvContainer'];
+    const allBtns = ['btn-feed', 'btn-map', 'btn-quiz', 'btn-arsenal', 'btn-tv'];
+
+    // UR TV Butonuna Tıklanınca
+    if (btnTv) {
+        btnTv.addEventListener('click', () => {
+            // 1. Tüm butonların aktifliğini sil, sadece TV butonunu aktif (mavi) yap
+            allBtns.forEach(id => {
+                const b = document.getElementById(id);
+                if (b) b.classList.remove('active');
+            });
+            btnTv.classList.add('active');
+
+            // 2. Ekranda ne açıksa (haber, oyun, harita) hepsini gizle
+            allSections.forEach(id => {
+                const s = document.getElementById(id);
+                if (s) s.classList.add('hidden');
+            });
+            
+            // 3. Sağ taraftaki kategorileri gizle, harita modunu sıfırla ve TV'yi göster
+            if (sidebar) sidebar.classList.add('hidden');
+            mainApp.classList.remove('map-active');
+            if (secTv) secTv.classList.remove('hidden');
+        });
+    }
+
+    // Haberler veya Harita sekmelerine geri dönüldüğünde TV'yi gizle
+    ['btn-feed', 'btn-map'].forEach(id => {
+        const b = document.getElementById(id);
+        if (b) {
+            b.addEventListener('click', () => {
+                if (secTv) secTv.classList.add('hidden');
+                // Bu sayfalarda sağ barın (Kategoriler) görünmesi gerekiyor
+                if (sidebar) sidebar.classList.remove('hidden'); 
+            });
+        }
+    });
+
+    // Oyun veya Envanter sekmelerine geçildiğinde TV'yi gizle
+    ['btn-quiz', 'btn-arsenal'].forEach(id => {
+        const b = document.getElementById(id);
+        if (b) {
+            b.addEventListener('click', () => {
+                if (secTv) secTv.classList.add('hidden');
+                // Bu sayfalarda zaten sağ bar gizleniyordu, ekstra işleme gerek yok
+            });
+        }
+    });
+});
