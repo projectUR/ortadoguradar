@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778106419330ryv9x",
+        "title": "Trump: ABD, Hürmüz Boğazı'ndaki Gemi Rehberlik Operasyonunu Duraklatacak",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda gemilere rehberlik etme amacıyla başlatılan bir operasyonun askıya alınacağını duyurdu. Pazartesi günü başlayan ve \"Özgürlük Projesi\" olarak adlandırılan bu operasyonun durdurulma nedeni olarak, ABD ile İran arasında bir anlaşmaya yönelik kaydedilen ilerleme gösterildi. Bu karar, bölgedeki denizcilik güvenliği ve iki ülke arasındaki ilişkiler açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T22:26:59.330Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1778102022415e4owc",
         "title": "El Kaide Bağlantılı Militanlar Mali Cezaevini Bastı, Bamako'ya Gıda Tedarikini Engelledi",
         "summary": "El Kaide bağlantılı militanlar, Mali'nin başkenti Bamako'ya gıda tedarikini kesintiye uğratarak önemli bir cezaevine saldırı düzenledi. 'Afrika'nın Alcatraz'ı' olarak bilinen bu cezaevi, yüksek profilli mahkumları barındırmasıyla tanınıyor. Saldırının, başkente yönelik hayati tedarik zincirlerini hedef aldığı ve bölgedeki güvenlik durumunu daha da kötüleştirdiği belirtildi. Militanların eylemleri, Mali'de devam eden güvenlik sorunlarını ve terör örgütlerinin ülkedeki etkisini bir kez daha gözler önüne serdi. Olayın ardından başkent Bamako'da gıda sıkıntısı yaşanabileceği endişesi dile getiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-approves-270m-budget-for-settlement-roads-in-occupied-west-bank/3926363",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893971619acofv",
-        "title": "Dubai Havalimanları, BAE Hava Sahasının Tamamen Restore Edilmesinin Ardından Operasyonları Artırıyor",
-        "summary": "Dubai Havalimanları CEO'su, Birleşik Arap Emirlikleri hava sahasının tamamen restore edilmesinin ardından operasyonların ölçeğini büyüttüklerini duyurdu. Havalimanları, Şubat ayının sonundan bu yana 6 milyondan fazla yolcuya hizmet verdi. Aynı dönemde 32.000 uçuş gerçekleştirilirken, 213.000 ton kargo taşındı. Bu durum, bölgedeki hava trafiğinin ve lojistik faaliyetlerinin normalleşme sürecine girdiğini gösteriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/6861306/pexels-photo-6861306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:26:11.619Z",
-        "location": {
-            "lat": 25.2048,
-            "lng": 55.2708,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/dubai-airports-scaling-up-operations-after-uae-airspace-fully-restored-ceo/3926272",
         "trendScore": 85,
         "isBreaking": false
     }
