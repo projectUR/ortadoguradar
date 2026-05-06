@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778102022415e4owc",
+        "title": "El Kaide Bağlantılı Militanlar Mali Cezaevini Bastı, Bamako'ya Gıda Tedarikini Engelledi",
+        "summary": "El Kaide bağlantılı militanlar, Mali'nin başkenti Bamako'ya gıda tedarikini kesintiye uğratarak önemli bir cezaevine saldırı düzenledi. 'Afrika'nın Alcatraz'ı' olarak bilinen bu cezaevi, yüksek profilli mahkumları barındırmasıyla tanınıyor. Saldırının, başkente yönelik hayati tedarik zincirlerini hedef aldığı ve bölgedeki güvenlik durumunu daha da kötüleştirdiği belirtildi. Militanların eylemleri, Mali'de devam eden güvenlik sorunlarını ve terör örgütlerinin ülkedeki etkisini bir kez daha gözler önüne serdi. Olayın ardından başkent Bamako'da gıda sıkıntısı yaşanabileceği endişesi dile getiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6069344/pexels-photo-6069344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T21:13:42.415Z",
+        "location": {
+            "lat": 12.6392,
+            "lng": -7.9999,
+            "name": "Bamako, Mali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1778097145508l5ei9",
         "title": "BM, Gazze'de Açlığın Derinleştiği Konusunda Uyardı",
         "summary": "Birleşmiş Milletler (BM), Gazze Şeridi'nde açlığın giderek derinleştiği ve bölgedeki ailelerin yaşam mücadelesi verdiği konusunda ciddi bir uyarıda bulundu. BM Sözcüsü Stéphane Dujarric, her beş aileden birinin her gün sadece bir öğün yemekle hayatta kalmaya çalıştığını belirtti. Bu durum, Gazze'deki insani krizin boyutlarını gözler önüne sererken, acil ve kapsamlı insani yardıma olan ihtiyacın altını çiziyor. Uluslararası toplum, bölgedeki gıda güvenliğinin sağlanması için harekete geçmeye çağrılıyor.",
@@ -780,22 +796,6 @@
             "name": "Dubai, Birleşik Arap Emirlikleri"
         },
         "source": "https://www.aa.com.tr/en/middle-east/dubai-airports-scaling-up-operations-after-uae-airspace-fully-restored-ceo/3926272",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777886580842vvreg",
-        "title": "Japonya Başbakanı: Hürmüz Boğazı'nın Kapanması Asya-Pasifik'i 'Büyük Ölçüde Etkiliyor'",
-        "summary": "Japonya Başbakanı, Hürmüz Boğazı'nın fiili kapanmasının Asya-Pasifik bölgesi üzerinde \"muazzam bir etki\" yarattığını ifade etti. Bu açıklama, küresel enerji tedariki ve uluslararası ticaret için hayati önem taşıyan boğazın stratejik konumunu bir kez daha gündeme getirdi. Orta Doğu'daki gerilimler nedeniyle zaman zaman kapanma tehditleriyle karşı karşıya kalan Hürmüz Boğazı, dünya petrolünün önemli bir kısmının geçiş güzergahıdır. Japonya gibi enerji ithalatına bağımlı Asya ülkeleri için boğazdaki herhangi bir aksaklık, ciddi ekonomik ve stratejik sonuçlar doğurabilir. Başbakanın bu ifadeleri, bölgesel istikrarın ve deniz yollarının güvenliğinin korunmasının önemine dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/19910644/pexels-photo-19910644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T09:23:00.842Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
