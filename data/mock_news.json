@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778097145508l5ei9",
+        "title": "BM, Gazze'de Açlığın Derinleştiği Konusunda Uyardı",
+        "summary": "Birleşmiş Milletler (BM), Gazze Şeridi'nde açlığın giderek derinleştiği ve bölgedeki ailelerin yaşam mücadelesi verdiği konusunda ciddi bir uyarıda bulundu. BM Sözcüsü Stéphane Dujarric, her beş aileden birinin her gün sadece bir öğün yemekle hayatta kalmaya çalıştığını belirtti. Bu durum, Gazze'deki insani krizin boyutlarını gözler önüne sererken, acil ve kapsamlı insani yardıma olan ihtiyacın altını çiziyor. Uluslararası toplum, bölgedeki gıda güvenliğinin sağlanması için harekete geçmeye çağrılıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36038677/pexels-photo-36038677.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-06T19:52:25.508Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/world/un-warns-hunger-deepening-in-gaza-as-families-survive-on-one-meal-a-day/3929501",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1778089443211ju533",
         "title": "BM, İsrail'den Filo Aktivistlerini Derhal Serbest Bırakmasını Talep Etti",
         "summary": "Birleşmiş Milletler, İsrail'e Gazze'ye gitmekte olan bir filoda gözaltına alınan iki aktivisti derhal serbest bırakması çağrısında bulundu. Bu çağrı, uluslararası toplumun Gazze ablukası ve insani yardım girişimleri konusundaki endişelerini yansıtıyor. Aktivistlerin gözaltına alınması, bölgedeki gerilimi artırabilecek bir gelişme olarak değerlendirilmektedir. BM, İsrail'in uluslararası hukuka uygun hareket etmesi gerektiğini vurgulayarak, bu tür olayların barışçıl çözümlere zarar verdiğini belirtti.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177788662241232fgm",
-        "title": "ABD güçlerince el konulan İran gemisinin mürettebatı Pakistan'a tahliye edildi",
-        "summary": "ABD güçleri tarafından el konulan İran bandıralı MV Touska gemisinin 22 mürettebatı, ülkelerine geri gönderilmek üzere Pakistan'a nakledildi. İran hükümeti tarafından yapılan açıklamaya göre, mürettebatın tahliyesi insani gerekçelerle gerçekleştirildi. Olay, İran ile ABD arasındaki gerilimli ilişkiler bağlamında uluslararası dikkat çekiyor. Gemiye el konulma nedenleri ve mürettebatın akıbetiyle ilgili detaylar henüz tam olarak açıklanmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7272551/pexels-photo-7272551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T09:23:42.412Z",
-        "location": {
-            "lat": 30.3753,
-            "lng": 69.3451,
-            "name": "Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
