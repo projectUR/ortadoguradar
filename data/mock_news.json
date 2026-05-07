@@ -1,5 +1,133 @@
 [
     {
+        "id": "17781400853671942p",
+        "title": "Somali'de Kuraklık, Çatışma ve Yardım Kesintileri Umutsuzluğa Yol Açıyor",
+        "summary": "Somali'de yaşanan şiddetli kuraklık, devam eden iç çatışmalar ve insani yardım fonlarındaki kesintiler, ülkedeki durumu kritik seviyeye taşımıştır. Bu faktörlerin birleşimi, binlerce Somaliliyi açlık tehlikesiyle karşı karşıya bırakmaktadır. Özellikle Kismayo'daki yerinden edilmiş kişilerin (IDP) kampları, artan nüfus ve yetersiz kaynaklar nedeniyle krizi yönetmekte büyük zorluklar yaşamaktadır. Bölgedeki insani durumun giderek kötüleştiği ve acil müdahaleye ihtiyaç duyulduğu belirtilmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35603323/pexels-photo-35603323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:48:05.367Z",
+        "location": {
+            "lat": -0.358,
+            "lng": 42.545,
+            "name": "Kismayo, Somali"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778140123483mvgao",
+        "title": "İsrail'in Gazze Saldırısında Bir Kişi Hayatını Kaybetti, Hamas Yetkilisinin Oğlu Yaralandı",
+        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen bir saldırıda bir kişi hayatını kaybetti. Saldırıda ayrıca Hamas'ın üst düzey yetkililerinden Halil el-Hayya'nın oğlu Azzam el-Hayya'nın da ağır yaralandığı bildirildi. Halil el-Hayya, oğlunun Gazze Şehri'ne yönelik bu ölümcül saldırıda \"ciddi şekilde yaralandığını\" doğruladı. Bu olay, bölgedeki güvenlik durumunu ve İsrail-Filistin arasındaki gerilimi yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7777508/pexels-photo-7777508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:48:43.483Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1778140179728aqxxk",
+        "title": "İran, ABD Teklifini Değerlendiriyor: Trump'tan 'Hızlı Savaş' Açıklaması",
+        "summary": "İran'ın, Amerika Birleşik Devletleri'nden gelen bir teklifi değerlendirme aşamasında olduğu bildirildi. Dönemin ABD Başkanı Donald Trump'ın olası bir çatışmanın 'hızla sona ereceği' yönündeki açıklamaları gündeme gelirken, arabulucu rolündeki Pakistan'dan da önemli bir açıklama yapıldı. Pakistan, mevcut ateşkesi kalıcı bir barışa dönüştürmek için çaba gösterdiğini duyurdu. Bu gelişmeler, bölgedeki gerilimin azaltılmasına yönelik diplomatik girişimleri ve potansiyel çatışma riskini yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:49:39.728Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778140203849zucma",
+        "title": "Trump'ın İran Barış Anlaşması Umutları İhtiyat Payı İçeriyor",
+        "summary": "ABD eski Başkanı Donald Trump'ın İran ile olası bir barış anlaşması yapma umutlarına ilişkin gelişmeler yaşanıyor. Bölgedeki savaşı sona erdirmeye yönelik yeni bir ivme olduğuna dair işaretler bulunmakla birlikte, Trump'ın kendisi bu konuda ihtiyatlı bir duruş sergilediği belirtiliyor. Bu durum, Orta Doğu'daki diplomatik çabaların karmaşıklığını ve potansiyel engelleri gözler önüne seriyor. Gelişmeler, İran'ın bölgesel ve uluslararası ilişkilerindeki konumunu etkileme potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:50:03.849Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778140224409ivkit",
+        "title": "İsrail, Hizbullah Ateşkesinden Bu Yana İlk Kez Beyrut'u Vurdu",
+        "summary": "İsrail, Lübnan'ın başkenti Beyrut'a hava saldırısı düzenlediğini açıkladı. Yapılan açıklamada, saldırının hedefinin üst düzey bir Hizbullah yetkilisi olduğu belirtildi. Bu operasyonun, Nisan ortasından bu yana Beyrut'a yönelik gerçekleştirilen ilk İsrail saldırısı olduğu kaydedildi. Olay, İsrail ile Hizbullah arasındaki ateşkesin ardından bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6462781/pexels-photo-6462781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:50:24.410Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1778140249071nmbv9",
+        "title": "İran çatışması Körfez ekonomilerine uzun vadeli zarar veriyor",
+        "summary": "Körfez ülkelerinin ekonomileri, İran ile yaşanan çatışmaların uzun vadeli olumsuz etkileriyle karşı karşıya kalacak. Uzmanlar, bu çatışmaların bölge ekonomilerine verdiği zararın onarılmasının yıllar, hatta on yıllar sürebileceğini belirtiyor. Bölgedeki istikrarsızlık ve gerilimin, enerji piyasaları, ticaret ve yatırımlar üzerinde kalıcı olumsuz etkiler yaratması bekleniyor. Bu durum, Körfez ülkelerinin ekonomik büyüme potansiyelini ve kalkınma hedeflerini ciddi şekilde etkileyebilir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/32269245/pexels-photo-32269245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:50:49.071Z",
+        "location": {
+            "lat": 27,
+            "lng": 50,
+            "name": "Basra Körfezi Bölgesi"
+        },
+        "source": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778140314421z07nr",
+        "title": "İsrail'in Güney Lübnan'a Yeni Saldırıları: Ateşkese Rağmen 3 Ölü",
+        "summary": "İsrail ordusu, Güney Lübnan'a yönelik yeni hava saldırıları düzenledi. Bu saldırılarda üç kişinin hayatını kaybettiği bildirildi. Olay, Nisan ayında ilan edilen ateşkese rağmen gerçekleşti ve ateşkesin ihlali olarak değerlendiriliyor. İsrail ordusunun bölgedeki günlük saldırılarını sürdürdüğü belirtilirken, bu durum bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952901/pexels-photo-5952901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:51:54.422Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-strikes-kill-3-in-southern-lebanon-despite-ceasefire/3929643",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1778140368108zm0ef",
+        "title": "Suriye Devlet Başkanı ve Fransız Askeri Yetkili İkili İşbirliği ve Bölgesel Gelişmeleri Görüştü",
+        "summary": "Suriye Devlet Başkanı Beşar Esad, Şam'da üst düzey bir Fransız askeri yetkiliyle bir araya geldi. Suriye Devlet Başkanlığı'ndan yapılan açıklamaya göre, görüşmelerin ana gündem maddesi Suriye ve Fransa arasındaki ikili işbirliği oldu. Taraflar ayrıca bölgedeki güncel gelişmeleri de değerlendirdi. Toplantıda iki ülke arasındaki koordinasyonun artırılması konuları ele alındı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T07:52:48.108Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-french-military-official-discuss-bilateral-cooperation-regional-developments/3929604",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778116676098l0ud9",
         "title": "Washington Köprüsü'nde Beş Gün Kalan Savaş Karşıtı Protestocu Gözaltına Alındı",
         "summary": "Washington'da Frederick Douglass Köprüsü üzerinde beş gün süren eylemini sonlandıran savaş karşıtı bir protestocu polis tarafından gözaltına alındı. Protestocu, köprü üzerinde oturma eylemi yaparak savaş karşıtı mesajlar vermişti. Olay, başkent Washington'da dikkat çeken bir güvenlik operasyonuyla sona erdi. Gözaltına alınan kişinin kimliği ve eyleminin spesifik hedefi hakkında detay verilmedi.",
@@ -670,133 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1777908706844qtsb8",
-        "title": "Ermenistan, Rusya'dan uzaklaşma sürecinde önemli AB zirvelerine ev sahipliği yapıyor",
-        "summary": "Avrupalı liderler, güvenlik, ticaret ve Ukrayna'daki savaşın görüşmelere damga vurduğu iki önemli zirve için Ermenistan'da bir araya geldi. Bu zirveler, Ermenistan'ın Rusya'dan uzaklaşarak Batı ile ilişkilerini güçlendirme çabalarının bir göstergesi olarak değerlendiriliyor. Toplantılarda bölgesel güvenlik meseleleri, ekonomik işbirliği fırsatları ve Ukrayna'daki savaşın Avrupa üzerindeki etkileri ele alındı. Ermenistan'ın bu stratejik yönelimi, Güney Kafkasya'daki jeopolitik dengeleri etkileyerek bölgedeki diğer aktörler için de önemli sonuçlar doğurabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/28845662/pexels-photo-28845662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T15:31:46.844Z",
-        "location": {
-            "lat": 40.1792,
-            "lng": 44.4991,
-            "name": "Yerevan, Ermenistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/4/armenia-hosts-major-eu-summits-in-pivot-away-from-russia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777908748596jq82k",
-        "title": "Formula 1, 2030'a Kadar V8 Motorlara Geri Dönmeyi Planlıyor",
-        "summary": "Formula 1'in 2030 yılına kadar geleneksel V8 motorlara geri dönme planları gündeme geldi. Uluslararası Otomobil Federasyonu (FIA) Başkanı Mohammed Ben Sulayem, Miami Grand Prix'sinde yaptığı açıklamada bu olasılıktan bahsetti. Bu potansiyel değişiklik, Formula 1'in elektrikli motorlara geçiş sürecinde yaşanan ilginin azalmasıyla ilişkilendiriliyor. Kararın, motor sporlarının geleceği ve teknik düzenlemeleri üzerinde önemli etkileri olması bekleniyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/36946602/pexels-photo-36946602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T15:32:28.596Z",
-        "location": {
-            "lat": 25.7617,
-            "lng": -80.1918,
-            "name": "Miami, ABD"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/4/formula-one-plans-return-to-v8-engines-as-electrical-revolution-loses-spark?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777908772100c5vst",
-        "title": "İsrail'in Lübnan'a Yönelik Saldırılarında Ateşkese Rağmen Onlarca Kişi Hayatını Kaybetti",
-        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in güney Lübnan'a yönelik saldırılarında Perşembe gününden bu yana 77 kişi hayatını kaybetti. Bölgede devam eden ateşkes çabalarına rağmen saldırıların sürdüğü belirtildi. Bu durum, Orta Doğu'daki gerilimi daha da tırmandırırken, insani kriz endişelerini artırıyor. Uluslararası toplum, taraflara itidal çağrısı yapmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T15:32:52.100Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.4,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1777908862343pmve2",
-        "title": "Mısır Cumhurbaşkanı: Gazze Savaşı Nedeniyle Süveyş Kanalı'nda 10 Milyar Dolarlık Kayıp Yaşandı",
-        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, Gazze'deki savaşın neden olduğu bölgesel gerilimler sebebiyle ülkesinin Süveyş Kanalı'ndan elde ettiği gelirde 10 milyar dolarlık bir kayıp yaşadığını açıkladı. Cumhurbaşkanı Sisi, Bab el-Mendeb Boğazı'nda gemilere yönelik düzenlenen saldırıların, Süveyş Kanalı'na yönelen deniz trafiğini önemli ölçüde azalttığını belirtti. Bu durumun, küresel ticaretin kilit noktalarından biri olan Süveyş Kanalı'nın gelirlerini olumsuz etkilediği ifade edildi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/34358847/pexels-photo-34358847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T15:34:22.344Z",
-        "location": {
-            "lat": 30.58,
-            "lng": 32.34,
-            "name": "Süveyş Kanalı, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egypt-incurs-10b-in-suez-canal-losses-over-gaza-war-president-says/3926662",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777900244054pxagu",
-        "title": "Trump'ın Barış Kurulu Elçisi, Gazze'ye Yardımlar Konusunda İsrailli Yetkililerle Görüşecek",
-        "summary": "ABD'nin eski başkanı Donald Trump'ın Barış Kurulu elçisi Nickolay Mladenov'un, Gazze'ye yönelik yardımlar üzerindeki kısıtlamaların hafifletilmesi amacıyla İsrailli yetkililerle bir araya gelmesi bekleniyor. İsrail medyasında yer alan haberlere göre, Mladenov'un bu görüşmelerde İsrail'den Gazze'deki askeri operasyonlarını sınırlamasını talep edeceği belirtildi. Bu adım, bölgedeki insani durumun iyileştirilmesi ve gerilimin azaltılması hedefini taşıyor. Görüşmelerin, Gazze Şeridi'ne yönelik insani yardım akışının kolaylaştırılmasına odaklanacağı ifade ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/35934176/pexels-photo-35934176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T13:10:44.054Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza City, Palestine"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/trump-s-board-of-peace-envoy-set-to-meet-israeli-officials-on-easing-restrictions-on-gaza-aid/3926491",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893760531qz06x",
-        "title": "NATO Genel Sekreteri: Avrupalılar Trump'ın Savunma Mesajını Aldı",
-        "summary": "NATO Genel Sekreteri, Avrupalı müttefiklerin ABD Başkanı Trump'ın savunma harcamaları konusundaki mesajını 'aldığını' belirtti. Trump, daha önce bazı NATO ülkelerini savunma bütçelerine yeterince katkı sağlamamakla eleştirmişti. Haberin içeriğinde, ABD Başkanı'nın bu eleştirilerinin, bazı NATO ülkelerinin ABD-İsrail'in İran'a karşı olası bir savaşına yeterince destek vermemesiyle ilgili olduğu ifade ediliyor. Bu durum, NATO içindeki yük paylaşımı tartışmalarının yanı sıra, Orta Doğu'daki bölgesel gerilimlerin ittifak üzerindeki etkilerini de gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3799176/pexels-photo-3799176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:22:40.531Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893787932lwdsz",
-        "title": "'Bacağımı Hissetmiyorum': İsrail Ateşi Batı Şeria'da Gençleri Sakat Bıraktı",
-        "summary": "El Cezire'nin haberine göre, işgal altındaki Batı Şeria'da bulunan bir mülteci kampında İsrail askerlerinin açtığı ateş sonucu birçok genç hayatını kaybetti veya sakat kaldı. Haberde, İsrail güçlerinin müdahaleleri sırasında gençlerin ciddi şekilde yaralandığı ve bazılarının kalıcı engellerle yaşamak zorunda kaldığı belirtiliyor. Özellikle bacaklarından vurulan gençlerin yaşadığı travma ve fiziksel kayıplar vurgulanıyor. Bölgedeki insan hakları örgütleri, İsrail askerlerinin orantısız güç kullanımını eleştirirken, İsrail ordusu ise güvenlik operasyonları kapsamında hareket ettiğini savunuyor. Bu olaylar, İsrail-Filistin çatışmasının Batı Şeria'daki insani boyutunu bir kez daha gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7395450/pexels-photo-7395450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:23:07.932Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777893811109lon9f",
-        "title": "ABD Başkanı Trump'tan Hürmüz Boğazı'na Yeni Misyon Emri",
-        "summary": "ABD Başkanı Donald Trump, İran'ın barış önerisine Washington'dan yanıt aldığını açıklamasının ardından Hürmüz Boğazı'na yönelik yeni bir misyon emri verdi. Bu karar, bölgedeki gerilimin tırmandığı bir dönemde geldi. Misyonun detayları henüz kamuoyuyla paylaşılmazken, Hürmüz Boğazı'nda seyrüsefer güvenliğinin sağlanması ve İran ile ABD arasındaki potansiyel çatışma riskinin yönetilmesi hedefleniyor. Gelişme, uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T11:23:31.109Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
