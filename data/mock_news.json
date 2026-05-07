@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778174280468v8lho",
+        "title": "ABD, Lübnan-İsrail Görüşmeleri Öncesi İsrail'i Gerilimi Azaltmaya Çağırıyor",
+        "summary": "Lübnanlı bir yetkili, Al Jazeera'ya yaptığı açıklamada, Lübnan ve İsrail heyetleri arasında önümüzdeki hafta ABD'nin başkenti Washington DC'de görüşmeler yapılacağını bildirdi. Yetkiliye göre, ABD'nin bu görüşmeler öncesinde İsrail'i bölgedeki gerilimi azaltmaya yönelik adımlar atmaya teşvik ettiği belirtildi. Bu diplomatik temasların, iki ülke arasındaki mevcut durumu değerlendirmesi ve potansiyel bir de-eskalasyon sürecine zemin hazırlaması bekleniyor. Görüşmelerin içeriği ve gündemi hakkında detaylı bilgi verilmezken, taraflar arasındaki ilişkilerin normalleşmesi veya belirli sorunların çözümü hedefleniyor olabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T17:18:00.468Z",
+        "location": {
+            "lat": 38.9,
+            "lng": -77,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778166830589qaocm",
         "title": "ABD-İsrail'in İran'a Karşı Savaşı Ürdün'deki Petra'yı Turistlerden Mahrum Bıraktı",
         "summary": "Ortadoğu'da devam eden çatışmalar, özellikle ABD ve İsrail'in İran'a yönelik olası bir savaşı, Ürdün'ün tarihi Petra antik kentindeki turizmi derinden etkiledi. Bölgedeki gerilimin artmasıyla birlikte turistler Petra'dan uzak durmaya başladı. Bu durum, bir zamanlar hareketli olan antik kentin neredeyse tamamen boş kalmasına neden oldu. Turist akışının durması, Petra ve çevresindeki Ürdünlülerin gelir kaybıyla karşı karşıya kalmasına ve ekonomik olarak zor günler geçirmesine yol açtı. Bölgedeki güvenlik endişeleri, turizm sektörünün toparlanmasını engelliyor.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/un-says-southern-lebanon-sees-highest-exchanges-of-fire-since-ceasefire/3928096",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17779700104951947n",
-        "title": "İsrail Güvenlik Birimleri Yerleşimcilerin Faaliyetleri Hakkında Alarm Verdi",
-        "summary": "İsrail güvenlik birimleri, Batı Şeria'daki yerleşimcilerin artan şiddet eylemleri konusunda endişelerini dile getirdi. Yetkililer, bu tür şiddetin devletin güvenliğini tehdit ettiğini belirtirken, bölgedeki saldırılar, toprak gaspları ve ablukaların devam ettiğine dikkat çekti. Bu durum, İsrail'in iç güvenlik dinamikleri ve Filistinlilerle olan ilişkileri üzerinde ciddi etkiler yaratıyor. Haftalık değerlendirmelerde, Batı Şeria'daki gerilimin tırmanmaya devam ettiği vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7835238/pexels-photo-7835238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-05T08:33:30.495Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
