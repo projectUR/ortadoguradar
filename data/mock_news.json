@@ -1,5 +1,85 @@
 [
     {
+        "id": "1778149660415n5dvo",
+        "title": "Çin'in Yaptırım Karşıtı Yasası ve İşleyişi",
+        "summary": "Pekin'in beş petrol rafinerisine yönelik ABD yaptırımlarını engelleme kararı, 2021 tarihli yasanın ilk kez uygulanışını işaret ediyor. Bu gelişme, Çin'in uluslararası yaptırımlara karşı kendi egemenliğini koruma çabasını gösteriyor. Yasa, Çinli şirketleri ve bireyleri yabancı yaptırımların etkilerinden korumayı amaçlıyor. Bu adımın küresel enerji piyasaları ve uluslararası ticaret ilişkileri üzerindeki potansiyel etkileri yakından izleniyor ve Orta Doğu'daki enerji üreticileri ve ihracatçıları için dolaylı sonuçlar doğurabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/241028/pexels-photo-241028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T10:27:40.415Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778149723290rrzsd",
+        "title": "İran, Hürmüz üzerinde düşürüldüğü iddia edilen ABD insansız hava aracının görüntülerini yayımladı",
+        "summary": "İran medyası, İran tarafından düşürüldüğü iddia edilen bir ABD insansız hava aracının (İHA) enkazına ait olduğu öne sürülen görüntüleri kamuoyuyla paylaştı. Yayımlanan videonun, Hürmüz Boğazı üzerinde yaşanan bir olaya ilişkin olduğu belirtildi. Bu görüntüler, İran'ın daha önce ABD'ye ait bir İHA'yı düşürdüğü yönündeki iddialarını destekler nitelikte sunuldu. Olay, bölgedeki ABD ve İran arasındaki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34182342/pexels-photo-34182342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T10:28:43.290Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17781497623272n2s7",
+        "title": "Trump, Hürmüz planını duyurduktan 50 saat sonra durdurdu - ne oldu?",
+        "summary": "ABD Başkanı, Hürmüz Boğazı'ndan gemilerin geçişini sağlamak amacıyla duyurduğu askeri operasyonu durdurma kararı aldı. Bu karar, operasyonun kamuoyuna açıklanmasından sadece iki gün sonra geldi. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği stratejik bir su yolu olması nedeniyle, bölgedeki askeri hareketlilik küresel enerji piyasaları ve uluslararası ilişkiler açısından büyük önem taşımaktadır. ABD'nin bu ani adımı, bölgedeki gerilimin seyrine ve diplomatik çabalara yönelik yeni tartışmaları beraberinde getirdi. Gelişmelerin bölge güvenliği üzerindeki etkileri yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36152063/pexels-photo-36152063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T10:29:22.327Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17781497880252np2i",
+        "title": "BM ajansı uyarıyor: Gazze nüfusu kemirgenlerin yayılması ve enfeksiyonlar nedeniyle yüksek hastalık riski altında",
+        "summary": "Birleşmiş Milletler Yakın Doğu'daki Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA), Gazze Şeridi'ndeki sağlık durumunun kritik seviyeye ulaştığı konusunda uyarıda bulundu. Ajans, bölgedeki kemirgenlerin yayılması ve enfeksiyon riskinin artmasıyla birlikte Gazze nüfusunun yüksek hastalık tehdidi altında olduğunu bildirdi. Yerinden edilmiş Filistinlilerin barındığı alanlardaki aşırı kalabalık, güvenli suya erişimdeki sıkıntılar ve hasar görmüş sanitasyon sistemleri, sağlık koşullarını daha da kötüleştiriyor. UNRWA, bu durumun salgın hastalıkların yayılmasına zemin hazırladığını ve insani krizin derinleştiğini vurguladı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T10:29:48.025Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.45,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/spread-of-rodents-infections-leave-gaza-s-population-at-high-risk-of-disease-un-agency-warns/3930004",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778149842269vrtch",
+        "title": "İran, Hürmüz Boğazı'ndaki Gemilere Destek Hizmetleri Sunmaya Hazır Olduğunu Duyurdu",
+        "summary": "İran, ABD ile Hürmüz Boğazı üzerindeki gerilimin ortasında, boğazda faaliyet gösteren ticari gemilere destek hizmetleri sağlamaya hazır olduğunu bildirdi. İran Limanlar ve Denizcilik Örgütü tarafından bölgesel sularda seyreden ticari gemi komutanlarına gönderilen mesajda, İran limanlarının lojistik ve teknik destek sunabileceği belirtildi. Bu açıklama, bölgedeki denizcilik güvenliği ve seyrüsefer serbestisi konularındaki tartışmalar bağlamında önemli bir gelişme olarak değerlendiriliyor. İran, bu adımla bölgedeki denizcilik faaliyetlerine katkı sağlama niyetini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32307758/pexels-photo-32307758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-07T10:30:42.269Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-ports-ready-to-provide-support-services-to-ships-in-strait-of-hormuz/3929651",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17781400853671942p",
         "title": "Somali'de Kuraklık, Çatışma ve Yardım Kesintileri Umutsuzluğa Yol Açıyor",
         "summary": "Somali'de yaşanan şiddetli kuraklık, devam eden iç çatışmalar ve insani yardım fonlarındaki kesintiler, ülkedeki durumu kritik seviyeye taşımıştır. Bu faktörlerin birleşimi, binlerce Somaliliyi açlık tehlikesiyle karşı karşıya bırakmaktadır. Özellikle Kismayo'daki yerinden edilmiş kişilerin (IDP) kampları, artan nüfus ve yetersiz kaynaklar nedeniyle krizi yönetmekte büyük zorluklar yaşamaktadır. Bölgedeki insani durumun giderek kötüleştiği ve acil müdahaleye ihtiyaç duyulduğu belirtilmektedir.",
@@ -717,86 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1777934069627hbmob",
-        "title": "BAE, İran'dan gelen 15 füze ve 4 insansız hava aracının engellendiğini duyurdu",
-        "summary": "Birleşik Arap Emirlikleri (BAE) Savunma Bakanlığı, İran'dan fırlatılan 15 füze ve 4 insansız hava aracının hava savunma sistemleri tarafından başarıyla engellendiğini açıkladı. Bakanlık tarafından yapılan duyuruda, engellenen hedefler arasında balistik ve seyir füzelerinin de yer aldığı belirtildi. Bu olay, BAE'nin hava sahasına yönelik bir saldırı girişimini temsil etmektedir. Bölgedeki gerilimi artırma potansiyeli taşıyan bu tür saldırılar, Körfez ülkeleri arasındaki güvenlik endişelerini yeniden gündeme getirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T22:34:29.627Z",
-        "location": {
-            "lat": 24.4,
-            "lng": 54.3,
-            "name": "Abu Dabi, BAE"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-says-air-defenses-intercepted-15-missiles-4-drones-from-iran/3927113",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1777929098133dsg5l",
-        "title": "İspanya'dan İsrail'in Filo Müdahalesine 'Kaçırma' Tepkisi",
-        "summary": "İspanya Dışişleri Bakanlığı, İsrail'in Global Sumud Filosu'na müdahale ederek iki İspanyol aktivisti gözaltına almasını 'kaçırma' olarak değerlendirdi. Madrid yönetimi, İsrail'in uluslararası sularda gerçekleştirdiği bu eylemin hukuka aykırı olduğunu ve aktivistlerin derhal serbest bırakılması gerektiğini belirtti. Olay, İsrail'in Gazze ablukasına yönelik uluslararası tepkileri ve filolara müdahale yetkisinin hukuki geçerliliğini yeniden gündeme getirdi. Bu durum, İsrail ile İspanya arasındaki diplomatik ilişkilerde gerilime yol açarken, uluslararası hukukun denizcilik ve insan hakları boyutları üzerine tartışmaları alevlendirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11902475/pexels-photo-11902475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T21:11:38.133Z",
-        "location": {
-            "lat": 32.5,
-            "lng": 34.5,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/5/4/is-israels-interception-of-the-global-sumud-flotilla-legal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777923924093t3yin",
-        "title": "Hürmüz Boğazı'nda İran ve ABD Arasında Savaş Gemisi Gerilimi",
-        "summary": "İran, donanmasının Hürmüz Boğazı'nda bir ABD savaş gemisini geri çevirdiğini iddia etti. Washington ise bu iddiaları yalanlayarak herhangi bir çatışma yaşanmadığını belirtti. Küresel petrol ticareti için hayati öneme sahip olan Hürmüz Boğazı'ndaki bu tür olaylar, bölgedeki gerilimi artırma potansiyeli taşıyor. İki ülke arasındaki bu tür karşılıklı iddialar, bölgenin güvenlik dinamikleri üzerindeki etkileriyle yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32421253/pexels-photo-32421253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T19:45:24.093Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777916631051ru9th",
-        "title": "Hürmüz Boğazı'nda Güvenlik Endişesi: Kaptanlardan Uyarı",
-        "summary": "Kaptan Raman Kapoor, Hürmüz Boğazı'ndan geçişin güvenliği konusunda önemli bir uyarıda bulundu. Kapoor, güvenlik güvencesi olmadan hiçbir geminin boğazdan çıkış yapmaya teşebbüs etmeyeceğini belirtti. Bu açıklama, dünyanın en kritik deniz geçiş noktalarından biri olan Hürmüz Boğazı'ndaki denizcilik güvenliğine ilişkin artan endişeleri yansıtıyor. Küresel petrol ticaretinin önemli bir kısmının geçtiği bu stratejik su yolundaki herhangi bir aksaklık, bölgesel ve küresel ekonomiler üzerinde ciddi etkilere yol açabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12355316/pexels-photo-12355316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T17:43:51.051Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1777908666526juu8y",
-        "title": "Trump'ın Hürmüz Boğazı Geriliminde İran'a Karşı Güveni",
-        "summary": "ABD Başkanı Donald Trump'ın, Hürmüz Boğazı'nda İran ile yaşanan gerilimde kendine olan güvenini dile getirdiği bildirildi. Bölgede tansiyonun yükseldiği bir dönemde, Trump'ın İran'a karşı elinde 'tüm kartların' olup olmadığı uluslararası kamuoyunda tartışılıyor. Stratejik öneme sahip Hürmüz Boğazı'ndaki bu durum, ABD ve İran arasındaki güç dengesini ve olası senaryoları gündeme getiriyor. Küresel enerji tedarikini doğrudan etkileyebilecek potansiyele sahip olan bu gerilim, uluslararası arenada yakından takip ediliyor. ABD'nin bölgedeki duruşu ve İran'ın tepkileri, Orta Doğu'daki istikrarsızlığı artırma riski taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34621168/pexels-photo-34621168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-04T15:31:06.526Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
