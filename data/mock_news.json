@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778255062408kvqh6",
+        "title": "Batı Şeria'daki Bir Ailenin Süregelen Birliği: 'Eski Günlerde Dünya Güvendeydi'",
+        "summary": "Filistin'in işgal altındaki Batı Şeria bölgesinde yaşayan Masallam ailesi, topraklarında kalmak için direnişini sürdürüyor. Bölgedeki zorlu koşullara ve baskılara rağmen aile, dayanıklılık göstererek birliğini koruma mücadelesi veriyor. Bu durum, işgal altındaki topraklarda yaşayan Filistinli ailelerin karşılaştığı zorlukları ve topraklarına olan bağlılıklarını gözler önüne seriyor. Haber, ailenin geçmişe atıfta bulunarak \"eski günlerde dünya güvendeydi\" ifadesiyle mevcut durumu karşılaştırdığını belirtiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/16732790/pexels-photo-16732790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T15:44:22.408Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/5/8/in-the-days-of-old-the-world-was-safe-west-bank-familys-enduring-unity?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1778248671664g9x5u",
         "title": "Rusya'nın Karadeniz Kıyılarındaki Felaket Kendi Eseri",
         "summary": "Rusya'nın Karadeniz kıyılarında büyük bir çevre felaketi yaşandığı bildirildi. Ülkenin güney bölgelerine yayılan kirliliğin, ciddi bir çevresel çöküşü gözler önüne serdiği belirtiliyor. Haberlerde, bu durumun Rusya Devlet Başkanı Putin'in yönetim sistemi altındaki çevresel politikaların bir sonucu olduğu vurgulanıyor. Yaşanan felaketin, bölgedeki ekosistem üzerinde uzun vadeli olumsuz etkiler yaratmasından endişe ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/syrian-president-french-military-official-discuss-bilateral-cooperation-regional-developments/3929604",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778116676098l0ud9",
-        "title": "Washington Köprüsü'nde Beş Gün Kalan Savaş Karşıtı Protestocu Gözaltına Alındı",
-        "summary": "Washington'da Frederick Douglass Köprüsü üzerinde beş gün süren eylemini sonlandıran savaş karşıtı bir protestocu polis tarafından gözaltına alındı. Protestocu, köprü üzerinde oturma eylemi yaparak savaş karşıtı mesajlar vermişti. Olay, başkent Washington'da dikkat çeken bir güvenlik operasyonuyla sona erdi. Gözaltına alınan kişinin kimliği ve eyleminin spesifik hedefi hakkında detay verilmedi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/27499944/pexels-photo-27499944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T01:17:56.098Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/7/police-arrest-protester-after-five-days-atop-washington-bridge?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
