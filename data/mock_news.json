@@ -1,5 +1,37 @@
 [
     {
+        "id": "17782233285020tm3l",
+        "title": "BAE, hava savunmasının 'füze tehdidine' yanıt verdiğini açıkladı",
+        "summary": "Birleşik Arap Emirlikleri (BAE) yetkilileri, ülkenin hava savunma sistemlerinin bir füze tehdidine karşı harekete geçtiğini duyurdu. Yetkililer, bölge sakinlerini güvenli bir yerde kalmaya ve resmi kanallardan yapılan uyarıları ve güncellemeleri takip etmeye çağırdı. Bu gelişme, BAE'nin son dönemde benzer saldırılarla karşı karşıya kaldığı bir döneme denk geliyor. Olayın detayları ve füzenin kaynağı hakkında henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T06:55:28.502Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-says-its-air-defenses-responding-to-missile-threat/3930827",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778223365023sgphe",
+        "title": "İsrail ordusu Batı Şeria baskınlarında 2 Filistinliyi gözaltına aldı, 4 kişiyi yaraladı",
+        "summary": "İsrail güçleri, Batı Şeria'nın çeşitli bölgelerinde operasyonlar düzenledi. Hebron, Ramallah, Tulkarm ve Cenin gibi kentlerde baskınlar, silahlı çatışmalar ve saldırılar gerçekleştirildi. Bu operasyonlar sonucunda iki Filistinli gözaltına alınırken, dört Filistinli de yaralandı. Olaylar, bölgedeki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30890361/pexels-photo-30890361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T06:56:05.023Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-2-palestinians-injures-4-others-in-west-bank-raids/3930809",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177821509482226tcj",
         "title": "Petrol Fiyatları, ABD ve İran'ın Hürmüz Boğazı'nda Karşılıklı Ateş Açmasıyla Yükseldi",
         "summary": "Küresel petrol piyasalarında Brent ham petrol fiyatları, ABD ve İran güçleri arasında Hürmüz Boğazı'nda yaşanan gerilim ve karşılıklı ateş açma haberlerinin ardından yükselişe geçti. Dünyanın en önemli petrol geçiş noktalarından biri olan bu kritik su yolundaki çatışmalar, piyasalarda arz endişelerini artırdı. Yaşanan olaylar, bölgedeki jeopolitik risklerin tırmandığına işaret ederken, enerji güvenliği konusundaki endişeleri de beraberinde getirdi. Bu durum, uluslararası piyasalarda petrol fiyatlarının aniden sıçramasına neden oldu.",
@@ -764,38 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/5/6/iran-war-live-trump-says-hormuz-operation-paused-amid-us-tehran-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778038413754ph1xe",
-        "title": "İsrail Ordusu, İşgal Altındaki Batı Şeria'da Hristiyan Kutlamacılara Müdahale Etti",
-        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da bulunan Beytüllahim kentinde Aziz George Günü kutlamalarına müdahale etti. Edinilen bilgilere göre, İsrail askerleri dini bir etkinlik için toplanan Hristiyan kutlamacılara göz yaşartıcı gaz ve ses bombasıyla saldırdı. Olay, bölgedeki gerilimi tırmandırırken, kutlamacılar dini özgürlüklerinin ihlal edildiğini belirtti. Müdahale sonucunda yaralanan olup olmadığına dair henüz resmi bir açıklama yapılmadı. Bu olay, İsrail güçlerinin Filistin topraklarındaki sivil halka yönelik uygulamalarını bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33026804/pexels-photo-33026804.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-06T03:33:33.754Z",
-        "location": {
-            "lat": 31.705,
-            "lng": 35.205,
-            "name": "Beytüllahim, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-assaults-christian-celebrants-in-occupied-west-bank/3928268",
-        "trendScore": 75,
-        "isBreaking": true
-    },
-    {
-        "id": "177802511188100opk",
-        "title": "Rubio, Vatikan Ziyareti Öncesi Trump'ın İran Hakkındaki Papa Leo Yorumlarını Savundu",
-        "summary": "ABD'li Senatör Marco Rubio, Vatikan'a yapacağı ziyaret öncesinde, eski Başkan Donald Trump'ın İran ile ilgili Papa Leo hakkındaki yorumlarını savundu. Rubio'nun bu açıklamaları, Perşembe günü Vatikan'da Papa Leo XIV ile gerçekleştireceği görüşme öncesinde geldi. Trump'ın daha önceki yorumlarının içeriği belirtilmese de, İran'ın nükleer programı veya bölgesel politikaları gibi konularla ilgili olduğu tahmin ediliyor. Rubio'nun bu savunması, ABD'nin İran politikası ve uluslararası ilişkilerdeki dini liderlerin rolü üzerine devam eden tartışmaları yansıtmaktadır. Söz konusu görüşmenin, ABD-Vatikan ilişkileri ve Orta Doğu'daki gelişmeler açısından önem taşıdığı düşünülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/33132520/pexels-photo-33132520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-05T23:51:51.881Z",
-        "location": {
-            "lat": 41.9029,
-            "lng": 12.4534,
-            "name": "Vatikan Şehir Devleti, İtalya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
