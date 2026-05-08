@@ -1,5 +1,21 @@
 [
     {
+        "id": "177821509482226tcj",
+        "title": "Petrol Fiyatları, ABD ve İran'ın Hürmüz Boğazı'nda Karşılıklı Ateş Açmasıyla Yükseldi",
+        "summary": "Küresel petrol piyasalarında Brent ham petrol fiyatları, ABD ve İran güçleri arasında Hürmüz Boğazı'nda yaşanan gerilim ve karşılıklı ateş açma haberlerinin ardından yükselişe geçti. Dünyanın en önemli petrol geçiş noktalarından biri olan bu kritik su yolundaki çatışmalar, piyasalarda arz endişelerini artırdı. Yaşanan olaylar, bölgedeki jeopolitik risklerin tırmandığına işaret ederken, enerji güvenliği konusundaki endişeleri de beraberinde getirdi. Bu durum, uluslararası piyasalarda petrol fiyatlarının aniden sıçramasına neden oldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36152066/pexels-photo-36152066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T04:38:14.822Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1778203189158ubx2x",
         "title": "İran-ABD Çatışması: Trump Ateşkesin Devam Ettiğini Söyledi",
         "summary": "İran ile ABD arasındaki gerilimde yeni bir gelişme yaşandı. İran, ABD'yi ateşkesi ihlal etmekle suçlayarak, İran gemilerini hedef aldığını ve kıyı bölgelerine saldırılar düzenlediğini iddia etti. Bu suçlamalar, iki ülke arasındaki mevcut gerilimi daha da artırmaktadır. Eski ABD Başkanı Trump'ın ateşkesin hala yürürlükte olduğunu belirtmesi ise durumun karmaşıklığını gözler önüne sermektedir.",
@@ -780,22 +796,6 @@
             "name": "Vatikan Şehir Devleti, İtalya"
         },
         "source": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778020257274iuqzb",
-        "title": "CENTCOM: Hürmüz Boğazı'nda Güvenli Geçiş ve İran'ın Ablukası ABD Önceliği",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) sözcüsü Tim Hawkins, 'Özgürlük Projesi' kapsamında Hürmüz Boğazı'ndaki ana önceliklerinin güvenli geçiş yollarını sağlamak ve İran'ı ablukaya almak olduğunu belirtti. Hawkins, bu stratejik su yolunun uluslararası denizcilik için kritik önem taşıdığını vurguladı. Açıklama, bölgedeki deniz güvenliği ve İran ile ilişkilerdeki gerilimi bir kez daha gündeme getirdi. ABD'nin bölgedeki askeri varlığının ve operasyonlarının temel hedeflerini ortaya koyan bu ifadeler, uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29699838/pexels-photo-29699838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-05T22:30:57.274Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
