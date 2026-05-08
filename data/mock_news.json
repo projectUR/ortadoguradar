@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778248671664g9x5u",
+        "title": "Rusya'nın Karadeniz Kıyılarındaki Felaket Kendi Eseri",
+        "summary": "Rusya'nın Karadeniz kıyılarında büyük bir çevre felaketi yaşandığı bildirildi. Ülkenin güney bölgelerine yayılan kirliliğin, ciddi bir çevresel çöküşü gözler önüne serdiği belirtiliyor. Haberlerde, bu durumun Rusya Devlet Başkanı Putin'in yönetim sistemi altındaki çevresel politikaların bir sonucu olduğu vurgulanıyor. Yaşanan felaketin, bölgedeki ekosistem üzerinde uzun vadeli olumsuz etkiler yaratmasından endişe ediliyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/10707745/pexels-photo-10707745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T13:57:51.664Z",
+        "location": {
+            "lat": 43.585,
+            "lng": 39.72,
+            "name": "Soçi, Rusya"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/5/8/the-disaster-unfolding-on-russias-black-sea-coast-is-of-its-own-making?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778248742303bnjej",
+        "title": "İsrail Hapishanelerinde Filistinlilere Yönelik Cinsel Şiddet 'Sistematik' İddiası",
+        "summary": "Bir analist, İsrail hapishanelerinde tutulan Filistinlilere yönelik cinsel şiddetin 'sistematik' bir nitelik taşıdığını iddia etti. Bu açıklama, İsrail cezaevlerindeki insan hakları ihlallerine ilişkin endişeleri bir kez daha gündeme getirdi. Filistinli mahkumların maruz kaldığı muamele, uluslararası insan hakları kuruluşları tarafından yakından izleniyor. Söz konusu iddialar, İsrail-Filistin çatışmasının insani boyutunu vurgulayan önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19306599/pexels-photo-19306599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T13:59:02.303Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/8/sexual-violence-against-palestinians-in-israeli-prisons-is?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778241288876hk55k",
         "title": "18 Aylık Yasın Ardından, Gazze'li Oğul İsrail Hapishanesinde Sağ Bulundu",
         "summary": "Gazze'li bir ailenin 18 aydır şehit olduğuna inandığı oğullarının İsrail hapishanesinde sağ bulunmasıyla kabusu sona erdi. Aile, oğullarının hayatta olduğunu öğrenince büyük bir şok ve sevinç yaşadı. Bu gelişme, bölgedeki çatışmaların ortasında yaşanan insanlık dramlarını bir kez daha gözler önüne serdi. Olay, hem ailenin yaşadığı acıyı hem de beklenmedik bir umudu temsil ediyor. Yetkililerden konuyla ilgili detaylı açıklama bekleniyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/7/police-arrest-protester-after-five-days-atop-washington-bridge?traffic_source=rss",
         "trendScore": 70,
         "isBreaking": false
-    },
-    {
-        "id": "1778116719636zbeir",
-        "title": "İran Dışişleri Bakanı Pekin'de: ABD Anlaşması İçin Çin'den Destek Talebi",
-        "summary": "İran Dışişleri Bakanı Abbas Araghchi, ABD ile yürütülen bir anlaşma konusunda destek arayışıyla Çin'in başkenti Pekin'i ziyaret ediyor. Ziyaretin temel gündem maddesi, Tahran'ın Washington ile olan ilişkilerinde ve özellikle nükleer anlaşma çerçevesindeki pozisyonunda Çin'in diplomatik desteğini sağlamak. İran, uluslararası arenada ABD'nin uyguladığı yaptırımlara karşı müttefik arayışını sürdürürken, Çin'in bu süreçteki rolü önem taşıyor. Pekin'deki görüşmelerin, İran'ın bölgesel ve küresel politikalarındaki konumunu güçlendirmeye yönelik olduğu belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T01:18:39.636Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 116.4,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778116790812bmea9",
-        "title": "ABD ve İran, savaşı sona erdirecek tek sayfalık bir anlaşmaya yakınlaşıyor: Rapor",
-        "summary": "ABD ve İran'ın, bölgedeki gerilimi sona erdirecek tek sayfalık bir anlaşmaya yakınlaştığı bildirildi. Axios'un haberine göre, Washington yönetimi Tahran'dan kilit konularda 48 saat içinde yanıt bekliyor. Bu gelişme, iki ülke arasındaki uzun süreli anlaşmazlıkların çözümüne yönelik diplomatik çabaların hızlandığını gösteriyor. Anlaşmanın içeriği ve detayları henüz netleşmezken, tarafların müzakerelerde ilerleme kaydettiği belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6949994/pexels-photo-6949994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T01:19:50.812Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-iran-getting-close-to-one-page-agreement-to-end-war-report/3929600",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
