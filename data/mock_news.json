@@ -1,5 +1,21 @@
 [
     {
+        "id": "17782811091970l6wt",
+        "title": "Pentagon, İran Petrol Tankerlerine Yönelik Saldırıların Videosunu Yayınladı",
+        "summary": "Pentagon, Hürmüz Boğazı'nda iki İran petrol tankerine yönelik ABD saldırılarına ait görüntüleri kamuoyuyla paylaştı. Yayınlanan videoda, ABD güçlerinin İran'a ait tankerlere düzenlediği operasyonun detayları yer alıyor. Bu gelişme, küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'ndaki gerilimi artırma potansiyeli taşıyor. Olay, ABD ile İran arasındaki mevcut tansiyonu daha da yükseltebilecek nitelikte.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9908693/pexels-photo-9908693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T22:58:29.197Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778276142804n55mu",
         "title": "İran, ABD Teklifini Değerlendirirken Trump Olası Savaşın 'Hızlı Biteceğini' Söyledi",
         "summary": "İran'ın, Amerika Birleşik Devletleri tarafından sunulan bir teklifi değerlendirme sürecinde olduğu belirtildi. Bu gelişme, ABD Başkanı Donald Trump'ın olası bir çatışmanın 'hızlı bir şekilde sona ereceğini' dile getirmesiyle eş zamanlı yaşanıyor. Bölgedeki gerilimi azaltma çabaları kapsamında arabulucu rolünü üstlenen Pakistan, mevcut ateşkes durumunu kalıcı bir barış anlaşmasına dönüştürmek için yoğun diplomatik girişimlerde bulunduğunu açıkladı. Bu adımlar, iki ülke arasındaki uzun süreli gerilimi sona erdirme potansiyeli taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17781497880252np2i",
-        "title": "BM ajansı uyarıyor: Gazze nüfusu kemirgenlerin yayılması ve enfeksiyonlar nedeniyle yüksek hastalık riski altında",
-        "summary": "Birleşmiş Milletler Yakın Doğu'daki Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA), Gazze Şeridi'ndeki sağlık durumunun kritik seviyeye ulaştığı konusunda uyarıda bulundu. Ajans, bölgedeki kemirgenlerin yayılması ve enfeksiyon riskinin artmasıyla birlikte Gazze nüfusunun yüksek hastalık tehdidi altında olduğunu bildirdi. Yerinden edilmiş Filistinlilerin barındığı alanlardaki aşırı kalabalık, güvenli suya erişimdeki sıkıntılar ve hasar görmüş sanitasyon sistemleri, sağlık koşullarını daha da kötüleştiriyor. UNRWA, bu durumun salgın hastalıkların yayılmasına zemin hazırladığını ve insani krizin derinleştiğini vurguladı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T10:29:48.025Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.45,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/spread-of-rodents-infections-leave-gaza-s-population-at-high-risk-of-disease-un-agency-warns/3930004",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
