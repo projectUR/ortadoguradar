@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778276142804n55mu",
+        "title": "İran, ABD Teklifini Değerlendirirken Trump Olası Savaşın 'Hızlı Biteceğini' Söyledi",
+        "summary": "İran'ın, Amerika Birleşik Devletleri tarafından sunulan bir teklifi değerlendirme sürecinde olduğu belirtildi. Bu gelişme, ABD Başkanı Donald Trump'ın olası bir çatışmanın 'hızlı bir şekilde sona ereceğini' dile getirmesiyle eş zamanlı yaşanıyor. Bölgedeki gerilimi azaltma çabaları kapsamında arabulucu rolünü üstlenen Pakistan, mevcut ateşkes durumunu kalıcı bir barış anlaşmasına dönüştürmek için yoğun diplomatik girişimlerde bulunduğunu açıkladı. Bu adımlar, iki ülke arasındaki uzun süreli gerilimi sona erdirme potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112152/pexels-photo-8112152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T21:35:42.804Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778270853746webwy",
         "title": "İsrail'in Lübnan'a Yönelik Saldırıları Artıyor",
         "summary": "İsrail, Lübnan'ın güney bölgelerine yönelik saldırılarını yoğunlaştırdı. Al Jazeera muhabiri Obaida Hitto, bölgedeki gelişmeleri Sur şehrinden takip ederek saldırılara tanıklık etti. Bu durum, iki ülke arasındaki gerilimi daha da tırmandırırken, bölgedeki güvenlik endişelerini artırıyor. İsrail'in saldırılarının nedenleri ve hedefleri hakkında detaylı bilgi henüz paylaşılmadı.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/spread-of-rodents-infections-leave-gaza-s-population-at-high-risk-of-disease-un-agency-warns/3930004",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778149842269vrtch",
-        "title": "İran, Hürmüz Boğazı'ndaki Gemilere Destek Hizmetleri Sunmaya Hazır Olduğunu Duyurdu",
-        "summary": "İran, ABD ile Hürmüz Boğazı üzerindeki gerilimin ortasında, boğazda faaliyet gösteren ticari gemilere destek hizmetleri sağlamaya hazır olduğunu bildirdi. İran Limanlar ve Denizcilik Örgütü tarafından bölgesel sularda seyreden ticari gemi komutanlarına gönderilen mesajda, İran limanlarının lojistik ve teknik destek sunabileceği belirtildi. Bu açıklama, bölgedeki denizcilik güvenliği ve seyrüsefer serbestisi konularındaki tartışmalar bağlamında önemli bir gelişme olarak değerlendiriliyor. İran, bu adımla bölgedeki denizcilik faaliyetlerine katkı sağlama niyetini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32307758/pexels-photo-32307758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T10:30:42.269Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-ports-ready-to-provide-support-services-to-ships-in-strait-of-hormuz/3929651",
         "trendScore": 85,
         "isBreaking": false
     }
