@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778270853746webwy",
+        "title": "İsrail'in Lübnan'a Yönelik Saldırıları Artıyor",
+        "summary": "İsrail, Lübnan'ın güney bölgelerine yönelik saldırılarını yoğunlaştırdı. Al Jazeera muhabiri Obaida Hitto, bölgedeki gelişmeleri Sur şehrinden takip ederek saldırılara tanıklık etti. Bu durum, iki ülke arasındaki gerilimi daha da tırmandırırken, bölgedeki güvenlik endişelerini artırıyor. İsrail'in saldırılarının nedenleri ve hedefleri hakkında detaylı bilgi henüz paylaşılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6382699/pexels-photo-6382699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T20:07:33.746Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778271003956plu2r",
+        "title": "İsrail'in İhracat ve Teknoloji Sektörlerini Tehdit Eden Ekonomik Krize İlişkin Uyarılar Artıyor",
+        "summary": "İsrail'in ihracat ve teknoloji sektörlerini tehdit eden bir ekonomik krize dair uyarılar artıyor. Bir rapora göre, ABD doları karşısında güçlenen İsrail para birimi şekelin, ihracat karlarının düşmesine neden olmasından endişe ediliyor. Bu durumun, İsrailli şirketlerin iş operasyonlarını yurt dışına taşıma riskini artırdığı belirtiliyor. Ekonomik zorlukların, ülkenin kilit sektörleri üzerinde olumsuz etkiler yaratabileceği vurgulanıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/18500698/pexels-photo-18500698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T20:10:03.956Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/warnings-grow-over-economic-crisis-threatening-israel-s-export-tech-sectors-report/3931867",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778266361157utq90",
         "title": "Trump, Rusya-Ukrayna Savaşı'nda Üç Günlük Ateşkes İlan Etti",
         "summary": "ABD Başkanı Trump, Rusya-Ukrayna Savaşı'nda üç günlük bir ateşkesin sağlanacağını duyurdu. Başkan Trump'ın açıklamasına göre, bu ateşkes aynı zamanda her iki ülkeden biner savaş esirinin karşılıklı olarak takas edilmesini de içerecek. Bu insani adımın, çatışmaların geçici olarak durdurulmasını ve gerilimin azaltılmasını hedeflediği belirtildi. Ateşkesin detayları ve uygulama süreci hakkında henüz ek bilgi paylaşılmadı. Bu gelişme, devam eden çatışmalarda diplomatik bir çözüm arayışının bir parçası olarak değerlendiriliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-ports-ready-to-provide-support-services-to-ships-in-strait-of-hormuz/3929651",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17781400853671942p",
-        "title": "Somali'de Kuraklık, Çatışma ve Yardım Kesintileri Umutsuzluğa Yol Açıyor",
-        "summary": "Somali'de yaşanan şiddetli kuraklık, devam eden iç çatışmalar ve insani yardım fonlarındaki kesintiler, ülkedeki durumu kritik seviyeye taşımıştır. Bu faktörlerin birleşimi, binlerce Somaliliyi açlık tehlikesiyle karşı karşıya bırakmaktadır. Özellikle Kismayo'daki yerinden edilmiş kişilerin (IDP) kampları, artan nüfus ve yetersiz kaynaklar nedeniyle krizi yönetmekte büyük zorluklar yaşamaktadır. Bölgedeki insani durumun giderek kötüleştiği ve acil müdahaleye ihtiyaç duyulduğu belirtilmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35603323/pexels-photo-35603323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T07:48:05.367Z",
-        "location": {
-            "lat": -0.358,
-            "lng": 42.545,
-            "name": "Kismayo, Somali"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1778140123483mvgao",
-        "title": "İsrail'in Gazze Saldırısında Bir Kişi Hayatını Kaybetti, Hamas Yetkilisinin Oğlu Yaralandı",
-        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen bir saldırıda bir kişi hayatını kaybetti. Saldırıda ayrıca Hamas'ın üst düzey yetkililerinden Halil el-Hayya'nın oğlu Azzam el-Hayya'nın da ağır yaralandığı bildirildi. Halil el-Hayya, oğlunun Gazze Şehri'ne yönelik bu ölümcül saldırıda \"ciddi şekilde yaralandığını\" doğruladı. Bu olay, bölgedeki güvenlik durumunu ve İsrail-Filistin arasındaki gerilimi yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7777508/pexels-photo-7777508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T07:48:43.483Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
