@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778241288876hk55k",
+        "title": "18 Aylık Yasın Ardından, Gazze'li Oğul İsrail Hapishanesinde Sağ Bulundu",
+        "summary": "Gazze'li bir ailenin 18 aydır şehit olduğuna inandığı oğullarının İsrail hapishanesinde sağ bulunmasıyla kabusu sona erdi. Aile, oğullarının hayatta olduğunu öğrenince büyük bir şok ve sevinç yaşadı. Bu gelişme, bölgedeki çatışmaların ortasında yaşanan insanlık dramlarını bir kez daha gözler önüne serdi. Olay, hem ailenin yaşadığı acıyı hem de beklenmedik bir umudu temsil ediyor. Yetkililerden konuyla ilgili detaylı açıklama bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6069341/pexels-photo-6069341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T11:54:48.876Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17782346061682epn5",
         "title": "CPJ: FBI'ın İsrailli gazetecinin öldürülmesi soruşturmasındaki ilerleme eksikliği 'endişe verici'",
         "summary": "Gazetecileri Koruma Komitesi (CPJ), Federal Soruşturma Bürosu'nun (FBI) İsrail tarafından öldürülen bir gazetecinin davasındaki soruşturmasında kaydedilen ilerleme eksikliğini \"endişe verici\" olarak nitelendirdi. CPJ, FBI'ın bu konudaki \"somut ilerleme eksikliğinin\" ABD hükümetinin bir başarısızlığını temsil ettiğini ifade etti. Örgüt, gazetecilerin güvenliğinin sağlanması ve sorumluların hesap vermesi gerektiğini vurguladı. Bu durum, uluslararası hukuk ve insan hakları örgütlerinin İsrail-Filistin çatışma bölgelerindeki gazetecilerin korunmasına yönelik çağrılarını bir kez daha gündeme getirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/us-iran-getting-close-to-one-page-agreement-to-end-war-report/3929600",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1778110091064gezd8",
-        "title": "ABD'li Milletvekilleri, İsrail'in Nükleer Kapasitesi Konusunda Şeffaflık Talep Etti",
-        "summary": "ABD'li milletvekilleri, İsrail'in nükleer yetenekleri hakkında şeffaflık çağrısında bulundu. Bu nadir adım, ABD'nin İsrail'in nükleer programı konusundaki belirsizlik politikasının bölgedeki riskleri artırdığı endişesiyle atıldı. Milletvekilleri, özellikle ABD ve İsrail'in İran'a karşı yürüttüğü 'savaş' ortamında bu belirsizliğin tehlikeli olduğunu vurguladı. Bu talep, İsrail'in nükleer programına yönelik uluslararası denetim ve açıklık ihtiyacını gündeme getirerek Orta Doğu'daki stratejik dengeler ve nükleer yayılma konularında yeni bir tartışma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32966555/pexels-photo-32966555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-06T23:28:11.064Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
