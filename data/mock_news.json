@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778266361157utq90",
+        "title": "Trump, Rusya-Ukrayna Savaşı'nda Üç Günlük Ateşkes İlan Etti",
+        "summary": "ABD Başkanı Trump, Rusya-Ukrayna Savaşı'nda üç günlük bir ateşkesin sağlanacağını duyurdu. Başkan Trump'ın açıklamasına göre, bu ateşkes aynı zamanda her iki ülkeden biner savaş esirinin karşılıklı olarak takas edilmesini de içerecek. Bu insani adımın, çatışmaların geçici olarak durdurulmasını ve gerilimin azaltılmasını hedeflediği belirtildi. Ateşkesin detayları ve uygulama süreci hakkında henüz ek bilgi paylaşılmadı. Bu gelişme, devam eden çatışmalarda diplomatik bir çözüm arayışının bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32304409/pexels-photo-32304409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T18:52:41.157Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "1778266443537e83f0",
+        "title": "İsrail, Hizbullah Ateşkesinden Bu Yana İlk Kez Beyrut'u Vurdu",
+        "summary": "İsrail, Lübnan'ın başkenti Beyrut'a hava saldırısı düzenlediğini duyurdu. Bu saldırının, Nisan ortasından bu yana Hizbullah ile varılan ateşkesin ardından Beyrut'a yönelik ilk operasyon olduğu belirtildi. İsrail, hedefinde üst düzey bir Hizbullah yetkilisinin bulunduğunu açıkladı. Olay, bölgedeki gerilimi artırma potansiyeli taşırken, ateşkesin kırılganlığını bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5054951/pexels-photo-5054951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-08T18:54:03.537Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
         "id": "1778260950525qkguf",
         "title": "Şirin Ebu Akile İçin Adalet: Amerikan Soruşturması",
         "summary": "Filistinli-Amerikalı gazeteci Şirin Ebu Akile'nin ölümünün üzerinden dört yıl geçmesine rağmen, ailesi hala ABD destekli bir hesap verebilirlik arayışında. El Cezire muhabiri Ebu Akile, 2022 yılında Batı Şeria'da İsrail güçlerinin düzenlediği bir operasyon sırasında vurularak hayatını kaybetmişti. Ailesi, olayın sorumlularının adalet önüne çıkarılması için uluslararası topluma ve özellikle ABD yönetimine baskı yapmaya devam ediyor. Bu durum, çatışma bölgelerinde görev yapan gazetecilerin güvenliği ve insan hakları ihlallerinin soruşturulması konularını gündemde tutuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1778140179728aqxxk",
-        "title": "İran, ABD Teklifini Değerlendiriyor: Trump'tan 'Hızlı Savaş' Açıklaması",
-        "summary": "İran'ın, Amerika Birleşik Devletleri'nden gelen bir teklifi değerlendirme aşamasında olduğu bildirildi. Dönemin ABD Başkanı Donald Trump'ın olası bir çatışmanın 'hızla sona ereceği' yönündeki açıklamaları gündeme gelirken, arabulucu rolündeki Pakistan'dan da önemli bir açıklama yapıldı. Pakistan, mevcut ateşkesi kalıcı bir barışa dönüştürmek için çaba gösterdiğini duyurdu. Bu gelişmeler, bölgedeki gerilimin azaltılmasına yönelik diplomatik girişimleri ve potansiyel çatışma riskini yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T07:49:39.728Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778140203849zucma",
-        "title": "Trump'ın İran Barış Anlaşması Umutları İhtiyat Payı İçeriyor",
-        "summary": "ABD eski Başkanı Donald Trump'ın İran ile olası bir barış anlaşması yapma umutlarına ilişkin gelişmeler yaşanıyor. Bölgedeki savaşı sona erdirmeye yönelik yeni bir ivme olduğuna dair işaretler bulunmakla birlikte, Trump'ın kendisi bu konuda ihtiyatlı bir duruş sergilediği belirtiliyor. Bu durum, Orta Doğu'daki diplomatik çabaların karmaşıklığını ve potansiyel engelleri gözler önüne seriyor. Gelişmeler, İran'ın bölgesel ve uluslararası ilişkilerindeki konumunu etkileme potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T07:50:03.849Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
