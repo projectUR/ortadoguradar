@@ -1,5 +1,117 @@
 [
     {
+        "id": "1778316210843r2pca",
+        "title": "İsrailli yerleşimciler Batı Şeria'da evleri ve araçları ateşe verdi",
+        "summary": "Batı Şeria'da İsrailli yerleşimciler tarafından şiddet olayları yaşandı. Edinilen bilgilere göre, onlarca İsrailli yerleşimci Batı Şeria'nın çeşitli bölgelerine baskın düzenledi. Baskınlar sırasında yerleşimciler, Filistinlilere ait evleri ve araçları ateşe verdi. Olaylarda Filistinlilere yönelik saldırılar da gerçekleşti. Bölgede gerilimin arttığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4405560/pexels-photo-4405560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T08:43:30.843Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1778316232875t6s3j",
+        "title": "Yemen Ordusunda Mali Sıkıntılar: Askerler Maaş Bekliyor",
+        "summary": "Yemen ordusundaki askerler, ayda 38 ila 116 dolar arasında değişen düşük maaşlarla mücadele ediyor. Ülkedeki istikrarsız para birimi, bu maaşların değerini önemli ölçüde aşındırarak askerlerin mali durumunu daha da kötüleştiriyor. Bu durum, ordunun operasyonel kapasitesini ve askerlerin moralini olumsuz etkilerken, Yemen'deki mevcut ekonomik kriz ve iç çatışmaların bir yansıması olarak değerlendiriliyor. Askerler, temel ihtiyaçlarını karşılamakta zorlanırken, maaş ödemelerindeki gecikmeler de sorunları derinleştiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30162464/pexels-photo-30162464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T08:43:52.875Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17783162749788o0py",
+        "title": "İran, ABD'yi 'pervasız askeri macera' ile suçladı",
+        "summary": "İran, Amerika Birleşik Devletleri'ni 'pervasız askeri macera' yürütmekle suçladı. İranlı yetkili Abbas Araghchi, ABD'nin diplomatik bir çözüm masadayken her seferinde saldırılar düzenlediğini belirtti. Bu açıklama, iki ülke arasındaki gerilimin devam ettiğini ve İran'ın ABD'nin bölgedeki askeri eylemlerini diplomatik süreçleri baltalayıcı olarak gördüğünü gösteriyor. İranlı yetkilinin bu sözleri, Washington ile Tahran arasındaki mevcut gerilimin boyutunu bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36452131/pexels-photo-36452131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T08:44:34.978Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17783162990888emo6",
+        "title": "İsrail ordusu işgal altındaki Batı Şeria'da 3 Filistinliyi gözaltına aldı",
+        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın Nablus kentine düzenlediği baskında üç Filistinliyi gözaltına aldı. Gözaltına alınanlar arasında daha önce serbest bırakılmış iki eski mahkumun bulunduğu belirtildi. Operasyon, İsrail güçlerinin bölgedeki Filistinlilere yönelik rutin operasyonları kapsamında gerçekleştirildi. Nablus, Batı Şeria'da sık sık İsrail ordusunun operasyonlarına sahne olan şehirlerden biri olarak biliniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7714795/pexels-photo-7714795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T08:44:59.088Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-3-palestinians-in-occupied-west-bank/3932210",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1778316320101jcbf5",
+        "title": "İsrail Ordusu Güney Lübnan'ı Hedef Aldı, Evler Yıkıldı",
+        "summary": "İsrail ordusu, güney Lübnan'daki Braashit, Safad al-Battikh ve Touline kasabalarını topçu ateşiyle hedef aldı. Bölgedeki saldırılarda evlerin yıkıldığı bildirildi. Tel Aviv'in ateşkes ihlallerine devam ettiği belirtilirken, bölgedeki gerilimin sürdüğü kaydedildi. Saldırılar, iki ülke arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35389872/pexels-photo-35389872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T08:45:20.101Z",
+        "location": {
+            "lat": 33.15,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778316344042m3a00",
+        "title": "Gazze Kuşatmasını Kırma Uluslararası Komitesi: İsrail Yardım Filosu Aktivistlerine Karşı 'Acımasız İhlaller' İşledi",
+        "summary": "Gazze Kuşatmasını Kırma Uluslararası Komitesi, İsrail'in yardım filosu aktivistlerine karşı \"acımasız ihlaller\" işlediğini iddia etti. Komite başkanı Youssef Ajissa, Anadolu Ajansı'na yaptığı açıklamada, bu ihlallerin saldırılar, cinsel taciz ve darp gibi eylemleri içerdiğini belirtti. Ajissa, komitelerinin Gazze'ye yönelik ablukayı kırmayı amaçlayan bu yolculuğu düzenlediğini ifade etti. Bu iddialar, İsrail'in Gazze'ye uyguladığı abluka ve uluslararası yardım çabaları bağlamında önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193770/pexels-photo-36193770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T08:45:44.042Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-committed-brutal-violations-against-activists-of-aid-flotilla-intl-committee-to-break-the-siege-on-gaza/3932133",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1778316366756u4p1d",
+        "title": "Lübnan'ın Güneyinde Hristiyanlar İsrail İlerlemesine Rağmen Köylerinde Kalmaya Devam Ediyor; Papa'dan Kutsama Mesajı",
+        "summary": "Lübnan'ın güneyindeki binlerce Hristiyan, İsrail'in 'Sarı Hat' olarak adlandırdığı bölgedeki köylerini terk etmeyi reddediyor. Bölgede artan izolasyon, yıkım ve kötüleşen yaşam koşullarına rağmen halk, evlerinde kalma kararlılığını sürdürüyor. İsrail güçlerinin bölgedeki ilerleyişine karşı gösterilen bu direniş, insani bir kriz potansiyeli taşıyor. Katolik Kilisesi lideri Papa, zorlu süreçten geçen bölge halkına destek ve kutsama mesajı gönderdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33541739/pexels-photo-33541739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T08:46:06.756Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/defiant-in-lebanon-s-south-christians-stay-as-israel-advances-pope-offers-blessing/3932067",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17782994459694riek",
         "title": "İsrail'in Güney Lübnan'da Düzenlediği Saldırıda 31 Kişi Hayatını Kaybetti",
         "summary": "Lübnan Ulusal Haber Ajansı'nın bildirdiğine göre, İsrail Cuma günü Güney Lübnan'da aralarında bir kurtarma görevlisinin de bulunduğu 31 kişiyi öldürdü. Bu olay, bölgedeki mevcut gerilimi daha da artırdı. Can kayıpları, uluslararası toplumda endişelere yol açarken, taraflar arasında tansiyonun yükseldiği gözlemleniyor. Bölgedeki güvenlik durumu, bu tür olaylarla birlikte daha da kırılgan hale gelmektedir. Olayla ilgili detaylı soruşturmaların başlatılması bekleniyor.",
@@ -684,118 +796,6 @@
             "name": "Melbourne, Avustralya"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/7/isil-linked-australian-women-arrested-at-airports?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778181392096nu3x1",
-        "title": "Colorado'daki kundaklama saldırısına karışan kişi suçunu kabul etti, gruplar ailesi için af çağrısı yapıyor",
-        "summary": "Colorado'da bir kundaklama saldırısına karışan bir kişi suçunu kabul etti. Haziran 2025'te gerçekleşen bu saldırı, Gazze'deki İsrailli esirlerin destekçilerini hedef almıştı. Olayın ardından, çeşitli gruplar saldırganın ailesinin haksız yere hedef alındığını belirterek, aileye yönelik baskıların durdurulması çağrısında bulundu. Bu gelişme, Orta Doğu'daki çatışmaların küresel yansımalarını bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/68138/fire-danger-dangerous-fight-68138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T19:16:32.096Z",
-        "location": {
-            "lat": 39.7392,
-            "lng": -104.9903,
-            "name": "Colorado, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/7/man-pleads-guilty-to-colorado-firebombing-groups-call-for-family-reprieve?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778174280468v8lho",
-        "title": "ABD, Lübnan-İsrail Görüşmeleri Öncesi İsrail'i Gerilimi Azaltmaya Çağırıyor",
-        "summary": "Lübnanlı bir yetkili, Al Jazeera'ya yaptığı açıklamada, Lübnan ve İsrail heyetleri arasında önümüzdeki hafta ABD'nin başkenti Washington DC'de görüşmeler yapılacağını bildirdi. Yetkiliye göre, ABD'nin bu görüşmeler öncesinde İsrail'i bölgedeki gerilimi azaltmaya yönelik adımlar atmaya teşvik ettiği belirtildi. Bu diplomatik temasların, iki ülke arasındaki mevcut durumu değerlendirmesi ve potansiyel bir de-eskalasyon sürecine zemin hazırlaması bekleniyor. Görüşmelerin içeriği ve gündemi hakkında detaylı bilgi verilmezken, taraflar arasındaki ilişkilerin normalleşmesi veya belirli sorunların çözümü hedefleniyor olabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T17:18:00.468Z",
-        "location": {
-            "lat": 38.9,
-            "lng": -77,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778166830589qaocm",
-        "title": "ABD-İsrail'in İran'a Karşı Savaşı Ürdün'deki Petra'yı Turistlerden Mahrum Bıraktı",
-        "summary": "Ortadoğu'da devam eden çatışmalar, özellikle ABD ve İsrail'in İran'a yönelik olası bir savaşı, Ürdün'ün tarihi Petra antik kentindeki turizmi derinden etkiledi. Bölgedeki gerilimin artmasıyla birlikte turistler Petra'dan uzak durmaya başladı. Bu durum, bir zamanlar hareketli olan antik kentin neredeyse tamamen boş kalmasına neden oldu. Turist akışının durması, Petra ve çevresindeki Ürdünlülerin gelir kaybıyla karşı karşıya kalmasına ve ekonomik olarak zor günler geçirmesine yol açtı. Bölgedeki güvenlik endişeleri, turizm sektörünün toparlanmasını engelliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15997882/pexels-photo-15997882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T15:13:50.589Z",
-        "location": {
-            "lat": 30.33,
-            "lng": 35.44,
-            "name": "Petra, Ürdün"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/5/7/us-israel-war-on-iran-leaves-jordans-petra-nearly-empty-of-tourists?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17781668562877l6c8",
-        "title": "PSG'nin Şampiyonlar Ligi Zaferi Paris'te Şiddet Olaylarıyla Gölgelendi",
-        "summary": "Paris Saint-Germain'in Bayern Münih'i 6-5 mağlup ederek Şampiyonlar Ligi yarı finalinde elde ettiği galibiyet, Fransa'nın başkenti Paris'te ciddi iç karışıklıklara neden oldu. Maç sonrası kutlamalar sırasında şehirde geniş çaplı şiddet olayları, yağma ve isyanlar yaşandı. Bu olaylar, kulübün sportif başarısının önüne geçerek kamuoyunda güvenlik endişelerini artırdı ve yetkililerin müdahalesini gerektirdi. Paris polisi, olaylara karışan çok sayıda kişiyi gözaltına alırken, şehirde güvenlik önlemleri artırıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4646818/pexels-photo-4646818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T15:14:16.287Z",
-        "location": {
-            "lat": 48.9,
-            "lng": 2.4,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/7/psgs-champions-league-win-marred-by-night-of-violence-and-riots-in-paris?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1778156297416dnvnp",
-        "title": "İrlandalı Futbolcular ve Ünlüler İsrail Maçlarının Boykot Edilmesi İçin Çağrı Yaptı",
-        "summary": "İrlandalı futbolcular ve ünlülerden oluşan bir grup, İsrail'in Gazze'deki eylemleri nedeniyle İsrail maçlarının boykot edilmesi çağrısında bulundu. İrlandalı kampanya grubu, UEFA Uluslar Ligi maçları öncesinde İsrail'i Gazze'deki savaşta 'soykırım' yapmakla suçladı. Bu çağrı, Gazze'deki çatışmaların uluslararası alandaki yansımalarını ve spor etkinlikleri üzerindeki potansiyel etkilerini gündeme getirdi. Boykot talebi, İsrail'e yönelik uluslararası baskıyı artırma amacı taşıyor ve insan hakları ihlallerine dikkat çekmeyi hedefliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/18500641/pexels-photo-18500641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T12:18:17.416Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gaza, Filistin"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/7/irish-footballers-and-celebrities-urge-boycott-of-israel-match?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1778156318390utbtk",
-        "title": "Türkiye İlk Kıtalararası Balistik Füzesi Yıldırimhan'ı Tanıttı",
-        "summary": "Türkiye, ilk kıtalararası balistik füzesi Yıldırimhan'ı kamuoyuna tanıttı. Yapılan açıklamaya göre, Yıldırimhan ICBM'nin 6.000 kilometre menzile sahip olduğu belirtildi. Füzenin maksimum hızının Mach 25 olduğu ve 3.000 kilogramlık bir faydalı yük kapasitesi taşıyabildiği açıklandı. Bu gelişme, Türkiye'nin savunma sanayii kapasitesini önemli ölçüde artırdığı ve bölgesel güç dengeleri açısından dikkat çekici bir adım olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13359076/pexels-photo-13359076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T12:18:38.390Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17781563450316om6a",
-        "title": "İran Savaşı'nın Asya Ekonomilerine Etkileri",
-        "summary": "İran'da yaşanabilecek olası bir savaşın Asya ekonomileri üzerindeki potansiyel sonuçları değerlendiriliyor. Bu durumun, küresel enerji piyasalarında yaratacağı dalgalanmalarla yakıt maliyetlerini önemli ölçüde artırması bekleniyor. Yükselen yakıt fiyatları, Asya ülkelerinde enflasyonu tetikleyerek hane halkı ve işletmeler üzerinde ciddi bir baskı oluşturabilir. Ayrıca, artan maliyetler ve ekonomik belirsizlik, bu ülkelerin mevcut borç yükünü daha da ağırlaştırarak ekonomik istikrarı tehdit edebilir. Uzmanlar, Asya ekonomilerinin bu zorlu süreçle başa çıkma kapasitesini yakından inceliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T12:19:05.031Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
