@@ -1,5 +1,53 @@
 [
     {
+        "id": "17782994459694riek",
+        "title": "İsrail'in Güney Lübnan'da Düzenlediği Saldırıda 31 Kişi Hayatını Kaybetti",
+        "summary": "Lübnan Ulusal Haber Ajansı'nın bildirdiğine göre, İsrail Cuma günü Güney Lübnan'da aralarında bir kurtarma görevlisinin de bulunduğu 31 kişiyi öldürdü. Bu olay, bölgedeki mevcut gerilimi daha da artırdı. Can kayıpları, uluslararası toplumda endişelere yol açarken, taraflar arasında tansiyonun yükseldiği gözlemleniyor. Bölgedeki güvenlik durumu, bu tür olaylarla birlikte daha da kırılgan hale gelmektedir. Olayla ilgili detaylı soruşturmaların başlatılması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700146/pexels-photo-5700146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T04:04:05.969Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778299524806yzmax",
+        "title": "İran'ın Harg Adası Yakınlarında Büyük Petrol Sızıntısı Tespit Edildi",
+        "summary": "İsrail gazetesi Yedioth Ahronoth'un haberine göre, İran'ın Basra Körfezi'ndeki ana petrol ihracat terminali olan Harg Adası yakınlarında büyük bir petrol sızıntısı tespit edildi. Uydu görüntülerinde, şüpheli petrol tabakasının körfez sularında yayıldığı görülüyor. Harg Adası, İran'ın petrol ihracatında stratejik öneme sahip bir konumda bulunuyor. Sızıntının kaynağı ve çevresel etkileri hakkında henüz detaylı bilgi verilmezken, bölgedeki deniz ekosistemi üzerindeki potansiyel olumsuz etkileri endişe yaratıyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/4974714/pexels-photo-4974714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T04:05:24.806Z",
+        "location": {
+            "lat": 29.23,
+            "lng": 50.33,
+            "name": "Harg Adası, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/massive-oil-slick-spotted-near-iran-s-kharg-island-report/3932068",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17782995796603g4z6",
+        "title": "İsrail güçlerinin Batı Şeria'nın güneyindeki saldırılarında 4 Filistinli yaralandı",
+        "summary": "İsrail güçlerinin Batı Şeria'nın güneyinde düzenlediği saldırılarda, aralarında bir çocuğun da bulunduğu dört Filistinli yaralandı. Yerel kaynaklardan edinilen bilgilere göre, saldırılar bölgede gerilimi tırmandırdı. Öte yandan, işgal altındaki Doğu Kudüs'te İsrail güçleri tarafından bir Filistinli gözaltına alındı. Bu olaylar, İsrail-Filistin çatışmasının devam eden boyutlarını ve bölgedeki güvenlik durumunu yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12309279/pexels-photo-12309279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T04:06:19.660Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Doğu Kudüs, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attacks-injure-4-palestinians-including-child-in-southern-west-bank/3932061",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17782811091970l6wt",
         "title": "Pentagon, İran Petrol Tankerlerine Yönelik Saldırıların Videosunu Yayınladı",
         "summary": "Pentagon, Hürmüz Boğazı'nda iki İran petrol tankerine yönelik ABD saldırılarına ait görüntüleri kamuoyuyla paylaştı. Yayınlanan videoda, ABD güçlerinin İran'a ait tankerlere düzenlediği operasyonun detayları yer alıyor. Bu gelişme, küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'ndaki gerilimi artırma potansiyeli taşıyor. Olay, ABD ile İran arasındaki mevcut tansiyonu daha da yükseltebilecek nitelikte.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/counting-the-cost/2026/5/7/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1778149660415n5dvo",
-        "title": "Çin'in Yaptırım Karşıtı Yasası ve İşleyişi",
-        "summary": "Pekin'in beş petrol rafinerisine yönelik ABD yaptırımlarını engelleme kararı, 2021 tarihli yasanın ilk kez uygulanışını işaret ediyor. Bu gelişme, Çin'in uluslararası yaptırımlara karşı kendi egemenliğini koruma çabasını gösteriyor. Yasa, Çinli şirketleri ve bireyleri yabancı yaptırımların etkilerinden korumayı amaçlıyor. Bu adımın küresel enerji piyasaları ve uluslararası ticaret ilişkileri üzerindeki potansiyel etkileri yakından izleniyor ve Orta Doğu'daki enerji üreticileri ve ihracatçıları için dolaylı sonuçlar doğurabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/241028/pexels-photo-241028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T10:27:40.415Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778149723290rrzsd",
-        "title": "İran, Hürmüz üzerinde düşürüldüğü iddia edilen ABD insansız hava aracının görüntülerini yayımladı",
-        "summary": "İran medyası, İran tarafından düşürüldüğü iddia edilen bir ABD insansız hava aracının (İHA) enkazına ait olduğu öne sürülen görüntüleri kamuoyuyla paylaştı. Yayımlanan videonun, Hürmüz Boğazı üzerinde yaşanan bir olaya ilişkin olduğu belirtildi. Bu görüntüler, İran'ın daha önce ABD'ye ait bir İHA'yı düşürdüğü yönündeki iddialarını destekler nitelikte sunuldu. Olay, bölgedeki ABD ve İran arasındaki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34182342/pexels-photo-34182342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T10:28:43.290Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17781497623272n2s7",
-        "title": "Trump, Hürmüz planını duyurduktan 50 saat sonra durdurdu - ne oldu?",
-        "summary": "ABD Başkanı, Hürmüz Boğazı'ndan gemilerin geçişini sağlamak amacıyla duyurduğu askeri operasyonu durdurma kararı aldı. Bu karar, operasyonun kamuoyuna açıklanmasından sadece iki gün sonra geldi. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği stratejik bir su yolu olması nedeniyle, bölgedeki askeri hareketlilik küresel enerji piyasaları ve uluslararası ilişkiler açısından büyük önem taşımaktadır. ABD'nin bu ani adımı, bölgedeki gerilimin seyrine ve diplomatik çabalara yönelik yeni tartışmaları beraberinde getirdi. Gelişmelerin bölge güvenliği üzerindeki etkileri yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36152063/pexels-photo-36152063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T10:29:22.327Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
