@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778369129658qt44r",
+        "title": "Gazze'de Bir Kişi Hayatını Kaybetti, Türk Dışişleri Bakanı Hamas Yetkilisiyle Barış Çabalarını Görüştü",
+        "summary": "Gazze Şeridi'nde yaşanan olaylarda bir kişinin yaşamını yitirdiği bildirildi. Bu gelişmelerin ardından, Türk Dışişleri Bakanı'nın bir Hamas yetkilisiyle bölgedeki barış çabalarını ele aldığı belirtildi. Haberde, İsrail'in Ekim ayında üzerinde anlaşılan 'ateşkesi' ihlal etmeye devam ettiği ve Şerit genelinde yüzlerce kişinin daha hayatını kaybettiği ifade edildi. Bölgedeki gerilimin sürdüğü ve diplomatik girişimlerin devam ettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T23:25:29.658Z",
+        "location": {
+            "lat": 31.4,
+            "lng": 34.3,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778361069361bookq",
         "title": "Filistinli aile: Yerleşimciler babamızın naaşını mezardan çıkarmaya zorladı",
         "summary": "Batı Şeria'nın Cenin kentinde yaşayan Filistinli bir aile, İsrailli yerleşimcilerin kendilerini babalarının naaşını mezardan çıkarmaya zorladığını iddia etti. Ailenin açıklamasına göre, bu olay babalarının cenaze töreninden sadece birkaç saat sonra gerçekleşti. Söz konusu iddia, bölgedeki Filistinliler ile İsrailli yerleşimciler arasındaki gerilimin yeni bir boyutunu gözler önüne serdi. Cenin bölgesi, İsrail işgali altındaki Batı Şeria'da sık sık benzer olayların ve çatışmaların yaşandığı hassas bir nokta olarak biliniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-civil-defense-member-in-southern-lebanon-despite-ceasefire/3930961",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1778228535169vmt0i",
-        "title": "Rusya ve Ukrayna, Zafer Günü Ateşkesine Rağmen Karşılıklı Ateş Açtı",
-        "summary": "Rusya ve Ukrayna arasındaki çatışmalar, Zafer Günü dolayısıyla ilan edilen ateşkes çağrılarına rağmen devam etti. Çatışan taraflar, cephe hatları boyunca süren saldırılar nedeniyle birbirlerini ateşkesi ihlal etmekle suçladı. Bu durum, bölgedeki gerilimi tırmandırırken, uluslararası toplumun ateşkesin uygulanabilirliği konusundaki endişelerini artırdı. Karşılıklı suçlamalar, savaşın devam eden karmaşıklığını ve çözüm arayışlarındaki zorlukları gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19893301/pexels-photo-19893301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T08:22:15.169Z",
-        "location": {
-            "lat": 49,
-            "lng": 32,
-            "name": "Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/8/russia-ukraine-trade-fire-despite-victory-day-ceasefire?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
     }
 ]
