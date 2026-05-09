@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778335154931pk8zg",
+        "title": "İran, 2026 Dünya Kupası'na Katılım İçin Ev Sahibi Ülkelerden 'Endişelerin Giderilmesini' Talep Etti",
+        "summary": "İran, 2026 Dünya Kupası'na katılımıyla ilgili belirsizliğin sürdüğünü duyurdu. Ülke, ev sahibi ülkelerin belirli endişeleri gidermesi halinde turnuvada yer alacağını bildirdi. İran'ın turnuvadaki varlığına ilişkin bu belirsizliğin, ABD ve İsrail'in ülkeye karşı savaş başlatmasından bu yana devam ettiği belirtildi. Bu açıklama, bölgesel gerilimlerin ve güvenlik endişelerinin spor etkinlikleri üzerindeki potansiyel etkisini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36798300/pexels-photo-36798300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T13:59:14.931Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/9/iran-says-it-will-play-at-2026-world-cup-if-hosts-address-concerns?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778325994916uvm1v",
         "title": "Venedik Bienali'nde Gazze: Dilin Yetersiz Kaldığı Yerde İplikler Devreye Giriyor",
         "summary": "Venedik Bienali'nde sergilenecek olan \"Gazze Soykırımı Duvar Halısı\" adlı bir eserin hikayesi paylaşıldı. Haberde, bu duvar halısının ortak siparişini veren kişi, dilin yetersiz kaldığı durumlarda ipliklerin ve sanatın devreye girdiğini belirtiyor. Eser, Gazze'deki olayları ve insani durumu sanatsal bir dille ifade etmeyi amaçlıyor. Bu girişim, Gazze'deki trajediyi uluslararası bir sanat platformuna taşıyarak farkındalık yaratmayı hedefliyor.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17781914582476p11v",
-        "title": "Hamas ile Silahsızlanma Görüşmelerinin Tıkanması Gazze'de Yeniden Savaş Endişelerini Artırıyor",
-        "summary": "İsrail medyası, Hamas ile yürütülen silahsızlanma görüşmelerindeki çıkmaz nedeniyle İsrail'in çatışmalara yeniden başlama hazırlığında olduğunu bildiriyor. Görüşmelerin durması, Gazze Şeridi'nde yeni bir savaşın patlak verebileceği yönündeki endişeleri artırıyor. Bölgedeki gerilim tırmanırken, uluslararası toplum gelişmeleri yakından takip ediyor. Taraflar arasındaki müzakerelerin akıbeti, bölgenin geleceği açısından kritik önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27970289/pexels-photo-27970289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-07T22:04:18.247Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
