@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778353653032f8mqt",
+        "title": "Manchester City, Brentford'ı Yenerek Arsenal ile Puan Farkını İkiye İndirdi",
+        "summary": "İngiltere Premier Lig'de şampiyonluk mücadelesi veren Manchester City, Brentford karşısında ikinci yarıda bulduğu gollerle galibiyete ulaştı. Bu sonuçla Manchester City, lider Arsenal ile arasındaki puan farkını ikiye indirerek şampiyonluk umutlarını sürdürdü. Ligdeki konumunu güçlendiren ekip, zirve takibini sürdürüyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/6275175/pexels-photo-6275175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T19:07:33.032Z",
+        "location": {
+            "lat": 51.5,
+            "lng": -0.1,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/9/man-city-beat-brentford-to-close-gap-to-arsenal-to-two-points-in-title-race?traffic_source=rss",
+        "trendScore": 60,
+        "isBreaking": false
+    },
+    {
+        "id": "1778353726382am1gd",
+        "title": "Gazze Sakinleri İsrail Saldırılarının Ardından Yıkıma Geri Döndü",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarının ardından, bölge sakinleri evlerine geri dönerek büyük bir yıkımla karşılaştı. Özellikle El Şati Mülteci Kampı'nda durumun ağır olduğu ve birçok yapının hasar gördüğü bildirildi. Al Jazeera muhabiri Tareq Abu Azzoum, gece boyunca süren saldırıların ardından kamptaki son durumu aktardı. Bölge halkı, saldırılar nedeniyle gidecek başka yerleri kalmadığını ve yaşam koşullarının giderek zorlaştığını ifade ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193772/pexels-photo-36193772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T19:08:46.382Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1778347856862yup3j",
         "title": "İsrail'in Lübnan'a Yönelik Saldırılarında En Az 19 Kişi Hayatını Kaybetti",
         "summary": "İsrail'in Lübnan genelinde düzenlediği saldırılarda en az 19 kişinin hayatını kaybettiği bildirildi. ABD arabuluculuğunda bir ateşkes anlaşması yapılmış olmasına rağmen, İsrail'in Lübnan'a yönelik saldırılarında herhangi bir durulma yaşanmadığı belirtiliyor. Bu durum, bölgedeki gerilimin devam ettiğini ve çatışmaların şiddetini koruduğunu gösteriyor. Öte yandan, taraflar arasında önümüzdeki hafta yeni bir tur görüşmelerin gerçekleştirilmesi bekleniyor. Bu görüşmelerin, mevcut çatışmaların sona erdirilmesi ve bölgede istikrarın sağlanması açısından kritik öneme sahip olduğu vurgulanıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/8/amid-ukraines-daring-assaults-russia-scales-back-victory-day-celebrations?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1778228629778h39a1",
-        "title": "Güneydoğu Asya Liderleri ASEAN Zirvesi'nde İran Savaşı'nın Etkilerini Ele Alıyor",
-        "summary": "Güneydoğu Asya ülkeleri liderleri, ASEAN zirvesinde bir araya gelerek olası bir İran savaşının küresel yansımalarını değerlendirdi. Zirvede, bölge bloğunun enerji işbirliğini derinleştirme ve küresel petrol ticareti için hayati öneme sahip Hürmüz Boğazı'nın yeniden açılması çağrısında bulunması bekleniyor. Bu çağrı, Orta Doğu'daki gerilimin uluslararası enerji güvenliği ve deniz ticareti üzerindeki potansiyel etkilerine dikkat çekiyor. Liderler, bölgedeki istikrarın korunması ve ekonomik aksaklıkların önlenmesi için ortak adımlar atma gerekliliğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13102530/pexels-photo-13102530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T08:23:49.778Z",
-        "location": {
-            "lat": -6.2088,
-            "lng": 106.8456,
-            "name": "Cakarta, Endonezya"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177822867492274ubw",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırıda Paramedik Hayatını Kaybetti",
-        "summary": "Lübnan medyasının bildirdiğine göre, İsrail güçleri güney Lübnan'a yeni bir saldırı düzenledi. Ateşkes anlaşmasına rağmen gerçekleşen bu saldırıda iki kişi hayatını kaybetti. Hayatını kaybedenlerden birinin paramedik olduğu belirtildi. Olay, bölgedeki gerilimi yeniden tırmandırdı ve uluslararası toplumda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952901/pexels-photo-5952901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T08:24:34.922Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-paramedic-in-southern-lebanon/3930961",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
