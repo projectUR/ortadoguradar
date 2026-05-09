@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778339024705qeeud",
+        "title": "Bahreyn, İran Devrim Muhafızları ile bağlantılı olduğu iddia edilen düzinelerce kişiyi gözaltına aldı",
+        "summary": "Bahreyn İçişleri Bakanlığı, İran Devrim Muhafızları (IRGC) ile bağlantılı oldukları iddiasıyla düzinelerce kişiyi gözaltına aldığını duyurdu. Yapılan açıklamada, toplam 41 kişinin tutuklandığı belirtildi. Bakanlık, gözaltına alınan bu kişiler hakkında yasal işlemlerin başlatıldığını bildirdi. Bu gelişme, Bahreyn'in iç güvenliğini tehdit eden unsurlara karşı aldığı önlemler kapsamında değerlendiriliyor. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7714849/pexels-photo-7714849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T15:03:44.705Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1778335154931pk8zg",
         "title": "İran, 2026 Dünya Kupası'na Katılım İçin Ev Sahibi Ülkelerden 'Endişelerin Giderilmesini' Talep Etti",
         "summary": "İran, 2026 Dünya Kupası'na katılımıyla ilgili belirsizliğin sürdüğünü duyurdu. Ülke, ev sahibi ülkelerin belirli endişeleri gidermesi halinde turnuvada yer alacağını bildirdi. İran'ın turnuvadaki varlığına ilişkin bu belirsizliğin, ABD ve İsrail'in ülkeye karşı savaş başlatmasından bu yana devam ettiği belirtildi. Bu açıklama, bölgesel gerilimlerin ve güvenlik endişelerinin spor etkinlikleri üzerindeki potansiyel etkisini bir kez daha gözler önüne serdi.",
@@ -780,22 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778203275240a74pz",
-        "title": "İsrail Ordusu, Lübnan'daki Meryem Ana Heykeline Yönelik Asker Eylemini Soruşturuyor",
-        "summary": "İsrail ordusu, Lübnan'da bir Meryem Ana heykeline karşı bir askerin gerçekleştirdiği eylemi soruşturma başlattı. Olayda, söz konusu askerin heykelin ağzına sigara koyarken fotoğraflandığı belirtildi. Bu durum, haftalar içinde bir Hristiyan figürüne yönelik ikinci olay olarak kayıtlara geçti. İsrail askeri yetkilileri, olayın ciddiyetini vurgulayarak gerekli adımların atılacağını bildirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8491005/pexels-photo-8491005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T01:21:15.240Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cddpygv2j90o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
