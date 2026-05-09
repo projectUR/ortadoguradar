@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778361069361bookq",
+        "title": "Filistinli aile: Yerleşimciler babamızın naaşını mezardan çıkarmaya zorladı",
+        "summary": "Batı Şeria'nın Cenin kentinde yaşayan Filistinli bir aile, İsrailli yerleşimcilerin kendilerini babalarının naaşını mezardan çıkarmaya zorladığını iddia etti. Ailenin açıklamasına göre, bu olay babalarının cenaze töreninden sadece birkaç saat sonra gerçekleşti. Söz konusu iddia, bölgedeki Filistinliler ile İsrailli yerleşimciler arasındaki gerilimin yeni bir boyutunu gözler önüne serdi. Cenin bölgesi, İsrail işgali altındaki Batı Şeria'da sık sık benzer olayların ve çatışmaların yaşandığı hassas bir nokta olarak biliniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33058823/pexels-photo-33058823.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-09T21:11:09.361Z",
+        "location": {
+            "lat": 32.47,
+            "lng": 35.29,
+            "name": "Cenin, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1778353653032f8mqt",
         "title": "Manchester City, Brentford'ı Yenerek Arsenal ile Puan Farkını İkiye İndirdi",
         "summary": "İngiltere Premier Lig'de şampiyonluk mücadelesi veren Manchester City, Brentford karşısında ikinci yarıda bulduğu gollerle galibiyete ulaştı. Bu sonuçla Manchester City, lider Arsenal ile arasındaki puan farkını ikiye indirerek şampiyonluk umutlarını sürdürdü. Ligdeki konumunu güçlendiren ekip, zirve takibini sürdürüyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/8/russia-ukraine-trade-fire-despite-victory-day-ceasefire?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1778228582529ms02p",
-        "title": "Ukrayna Saldırıları Nedeniyle Rusya Zafer Günü Kutlamalarını Kısıtladı",
-        "summary": "Rusya, Ukrayna'nın devam eden saldırıları ve güvenlik endişeleri nedeniyle, her yıl büyük bir coşkuyla kutladığı 9 Mayıs Zafer Günü etkinliklerinin kapsamını daraltma kararı aldı. Rus takviminde önemli bir yer tutan bu günde, geleneksel askeri geçit törenleri ve gösterilerin bu yıl daha az askeri teçhizat sergilenerek ve daha mütevazı bir şekilde yapılacağı belirtildi. Bu adım, ülkenin içinde bulunduğu savaş durumu ve olası tehditlere karşı alınan bir önlem olarak değerlendiriliyor. Zafer Günü, Rusya için İkinci Dünya Savaşı'ndaki zaferi anma ve askeri gücünü sergileme açısından büyük önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29919426/pexels-photo-29919426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T08:23:02.529Z",
-        "location": {
-            "lat": 55.7558,
-            "lng": 37.6173,
-            "name": "Moskova, Rusya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/8/amid-ukraines-daring-assaults-russia-scales-back-victory-day-celebrations?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
