@@ -1,5 +1,53 @@
 [
     {
+        "id": "1778450334829ecfp7",
+        "title": "İsrail Silahı Lübnan'da İnsanlara Küçük Metal Küpler Fırlatıyor, Gazze'deki Gibi",
+        "summary": "İsrail'e ait bombalardan çıkan küçük tungsten küplerinin Lübnan'da insanlarda ciddi iç yaralanmalara neden olduğu bildirildi. Bu durumun Gazze'deki benzer vakaları akla getirdiği belirtiliyor. Söz konusu silahın, hedeflenen kişilerde yıkıcı iç hasarlar oluşturduğu ifade ediliyor. Olay, bölgedeki çatışmalarda kullanılan mühimmat türleri hakkında endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5966347/pexels-photo-5966347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T21:58:54.829Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17784503874643b8mm",
+        "title": "İranlı aktivist BBC'ye savaşın yeniden başlama korkusunun baskı travmasını nasıl yoğunlaştırdığını anlattı",
+        "summary": "Tahran'da yaşayan İranlı bir muhalif, BBC'ye verdiği demeçte, ülkesindeki baskıların yol açtığı travmanın, olası bir savaşın yeniden başlama korkusuyla daha da yoğunlaştığını ifade etti. Aktivist, kendisini çaresiz hissettiğini ve büyük bir psikolojik baskı altında olduğunu belirtti. Bu durumun, hem iç siyasi koşullardan hem de bölgesel gerilimlerden kaynaklandığı vurgulandı. Muhalif, savaş tehdidinin, zaten var olan baskı travmasını derinleştirdiğini dile getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6638878/pexels-photo-6638878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T21:59:47.464Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1778450441036qn8x2",
+        "title": "Hamas: İsrail'in Polise Saldırıları Gazze'de 'Kaosu Sürdürmeyi' Amaçlıyor",
+        "summary": "Hamas, İsrail'in Gazze'deki polise yönelik saldırılarının bölgede 'kaosu sürdürmeyi' hedeflediğini iddia etti. Pazar günü Gazze Şeridi'nin Han Yunus kentinde meydana gelen bir İsrail saldırısında iki polis memurunun hayatını kaybettiği bildirildi. Hamas, bu olayın son ateşkes ihlallerinden biri olduğunu belirtti. Saldırı, Gazze'deki güvenlik ve istikrar endişelerini artırırken, taraflar arasındaki gerilimi yeniden tırmandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T22:00:41.036Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Han Yunus, Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-attacks-on-police-aim-to-perpetuate-chaos-in-gaza-hamas-says/3933297",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1778443161552v8im2",
         "title": "Güney Kore, Hürmüz'de bir gemiye 'tanımlanamayan uçan cisimlerin' çarptığını açıkladı",
         "summary": "Güney Kore, 4 Mayıs'ta Hürmüz Boğazı'nda Kore bandıralı bir kargo gemisine iki tanımlanamayan cismin çarptığı olayı soruşturduğunu duyurdu. Seul yönetimi, olayın detaylarını aydınlatmak ve geminin uğradığı zararı tespit etmek için çalışmalarını sürdürüyor. Bu olay, stratejik öneme sahip Hürmüz Boğazı'nda deniz güvenliği endişelerini gündeme getirdi. Bölgedeki uluslararası deniz trafiği açısından potansiyel etkileri yakından takip ediliyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/latin-patriarch-of-jerusalem-says-extremism-gaining-ground-in-israeli-society-amid-gaza-war/3932288",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1778326101089txcwz",
-        "title": "Bahreyn, İran Bağlantılı Bir Grubun 41 Üyesini Tutukladığını Duyurdu",
-        "summary": "Bahreyn İçişleri Bakanlığı, İran Devrim Muhafızları Kolordusu ile bağlantılı olduğu iddia edilen 41 kişinin tutuklandığını bildirdi. Bakanlık tarafından yapılan açıklamada, yetkililerin söz konusu grubun faaliyetlerini ortaya çıkardığı belirtildi. Bu tutuklamaların, ülkenin iç güvenliğine yönelik tehditlerle mücadele kapsamında gerçekleştirildiği ifade edildi. Olay, Bahreyn'in iç istikrarını hedef alan dış bağlantılı gruplara karşı aldığı önlemleri gözler önüne seriyor ve bölgesel güvenlik dinamiklerini yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7785088/pexels-photo-7785088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-09T11:28:21.089Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-arrested-41-members-of-iran-linked-group/3932274",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778321294444vsoqy",
-        "title": "İran'a Karşı Olası Savaşın Amerikan Geri Çekilmesiyle Sonuçlanması Muhtemel",
-        "summary": "ABD'nin İran'a karşı olası bir savaşı, kabul edilebilir finansal, askeri ve siyasi maliyetlerle kazanamayacağı belirtiliyor. Analistler, böyle bir çatışmanın Amerikan imparatorluğu için ağır sonuçlar doğuracağını öngörüyor. Bu durum, ABD'nin bölgedeki askeri stratejileri ve dış politikaları üzerinde önemli etkiler yaratabilir. İran ile ABD arasındaki gerilimin potansiyel bir askeri çatışmaya dönüşmesi halinde, Washington'ın geri çekilmek zorunda kalabileceği değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-09T10:08:14.444Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778316210843r2pca",
-        "title": "İsrailli yerleşimciler Batı Şeria'da evleri ve araçları ateşe verdi",
-        "summary": "Batı Şeria'da İsrailli yerleşimciler tarafından şiddet olayları yaşandı. Edinilen bilgilere göre, onlarca İsrailli yerleşimci Batı Şeria'nın çeşitli bölgelerine baskın düzenledi. Baskınlar sırasında yerleşimciler, Filistinlilere ait evleri ve araçları ateşe verdi. Olaylarda Filistinlilere yönelik saldırılar da gerçekleşti. Bölgede gerilimin arttığı bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4405560/pexels-photo-4405560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-09T08:43:30.843Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
