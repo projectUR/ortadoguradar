@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778387545574vxkhl",
+        "title": "Putin, Rusya'nın Ukrayna'daki savaşının 'sona yaklaştığını' öne sürdü",
+        "summary": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin Ukrayna'daki savaşının \"sona yaklaştığını\" öne sürdü. Putin, uzun vadeli bir barış anlaşmasına ulaşılması durumunda Ukrayna Devlet Başkanı Volodimir Zelenskiy ile üçüncü bir ülkede görüşmeye hazır olduğunu belirtti. Bu açıklama, uluslararası kamuoyunda çatışmanın geleceğine dair yeni tartışmaları tetiklerken, savaşın küresel enerji ve gıda piyasaları üzerindeki etkileri nedeniyle Orta Doğu dahil birçok bölge için potansiyel sonuçlar taşıyor. Ancak, barış görüşmelerinin somut adımlara dönüşüp dönüşmeyeceği henüz belirsizliğini koruyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16561998/pexels-photo-16561998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T04:32:25.574Z",
+        "location": {
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "name": "Moskova, Rusya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1778387582155xqjut",
+        "title": "İran'ın Harg Adası Açıklarında Şüpheli Petrol Sızıntısı Tespit Edildi",
+        "summary": "Uydu görüntüleri, İran'ın Basra Körfezi'ndeki önemli petrol ihracat terminali olan Harg Adası açıklarında onlarca kilometrekarelik geniş bir alana yayılan şüpheli bir petrol sızıntısını tespit etti. Görüntüler, sızıntının boyutunu ve coğrafi konumunu net bir şekilde gözler önüne seriyor. Bu durum, bölgedeki deniz ekosistemi ve çevresel denge için potansiyel bir tehdit oluşturuyor. Olayın kaynağı ve nedenleri hakkında henüz resmi bir açıklama yapılmazken, sızıntının çevresel etkileri ve temizleme çalışmaları yakından izleniyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/36271434/pexels-photo-36271434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T04:33:02.155Z",
+        "location": {
+            "lat": 29.23,
+            "lng": 50.33,
+            "name": "Harg Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1778369129658qt44r",
         "title": "Gazze'de Bir Kişi Hayatını Kaybetti, Türk Dışişleri Bakanı Hamas Yetkilisiyle Barış Çabalarını Görüştü",
         "summary": "Gazze Şeridi'nde yaşanan olaylarda bir kişinin yaşamını yitirdiği bildirildi. Bu gelişmelerin ardından, Türk Dışişleri Bakanı'nın bir Hamas yetkilisiyle bölgedeki barış çabalarını ele aldığı belirtildi. Haberde, İsrail'in Ekim ayında üzerinde anlaşılan 'ateşkesi' ihlal etmeye devam ettiği ve Şerit genelinde yüzlerce kişinin daha hayatını kaybettiği ifade edildi. Bölgedeki gerilimin sürdüğü ve diplomatik girişimlerin devam ettiği kaydedildi.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/no-casualties-among-chinese-crew-aboard-tanker-attacked-in-hormuz-beijing/3931095",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1778234805030n4ppk",
-        "title": "İran'ın İnternet Ablukası Ekonomiyi ve Toplumu Yeniden Şekillendiriyor",
-        "summary": "İran'da üç aydır devam eden internet ablukası, ülke ekonomisi ve toplum yapısı üzerinde önemli değişikliklere yol açıyor. Uzmanlar, uygulanan kısıtlamaların internetin tamamen kapatılmasından ziyade küresel platformlara erişimi sınırladığını belirtiyor. Bu durum, özellikle dijital ekonomide faaliyet gösteren işletmeleri ve sosyal etkileşimi derinden etkiliyor. Hükümetin bu adımı, bilgi akışını kontrol altına alma çabası olarak değerlendiriliyor ve günlük yaşamda ciddi aksaklıklara neden oluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/29711663/pexels-photo-29711663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:06:45.030Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-months-on-iran-s-internet-blockade-reshapes-economy-society/3931074",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1778234826829f39s3",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırıda Sivil Savunma Üyesi Hayatını Kaybetti",
-        "summary": "Lübnan medyası tarafından bildirildiğine göre, İsrail ordusuna ait bir insansız hava aracı, Lübnan'ın güneyindeki Hasbaya bölgesinde bir aracı hedef aldı. Saldırıda bir sivil savunma üyesi hayatını kaybetti. Olay, bölgedeki gerilimi artırırken, ateşkesin ihlal edildiği yönündeki endişeleri de beraberinde getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/997122/pexels-photo-997122.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:07:06.829Z",
-        "location": {
-            "lat": 33.37,
-            "lng": 35.68,
-            "name": "Hasbaya, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-civil-defense-member-in-southern-lebanon-despite-ceasefire/3930961",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
