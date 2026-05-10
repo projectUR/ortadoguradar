@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778437916191tq217",
+        "title": "İran, nükleer tesislerin kullanımı konusunda güvence verebilir",
+        "summary": "İran'ın nükleer tesislerinin kullanımı konusunda güvence vermeye yönelik müzakerelere açık olabileceği bildirildi. Ancak haberde, Tahran yönetiminin elindeki uranyumu imha etmeyeceği veya başka bir yere taşınmasına müsaade etmeyeceği özellikle belirtildi. Bu durum, uluslararası toplumun İran'ın nükleer programına ilişkin endişelerini gidermeye yönelik potansiyel bir diplomatik süreci işaret ediyor. Aynı zamanda, İran'ın nükleer materyalleri üzerindeki egemenliğini koruma konusundaki kararlılığını da ortaya koyuyor. Söz konusu gelişmeler, Orta Doğu'daki güvenlik dengeleri ve uluslararası diplomasi açısından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18334961/pexels-photo-18334961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T18:31:56.191Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17784379708630nyep",
+        "title": "Rusya, Ukrayna'yı Ateşkesi İhlal Etmekle Suçladı, Üç Ukraynalının Öldürüldüğünü Duyurdu",
+        "summary": "Rusya, son 24 saat içinde üç Ukraynalının hayatını kaybettiğini açıklayarak, Kiev yönetimini ateşkesi ihlal etmekle suçladı. Moskova'dan yapılan açıklamada, Cumartesi günü yürürlüğe giren üç günlük ateşkesin başlamasından bu yana Ukrayna'nın binden fazla ihlal gerçekleştirdiği iddia edildi. Bu gelişmeler, bölgedeki gerilimi artırırken, taraflar arasındaki karşılıklı suçlamalar devam ediyor ve ateşkesin geleceği hakkında endişeler doğuruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T18:32:50.863Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17784327175395scp3",
         "title": "Savaşın Vurduğu İran'da Gıda Enflasyonu Haneleri Zorluyor",
         "summary": "İran'da haneler, gıda fiyatlarındaki fahiş artışlarla mücadele ediyor. Ülkede enflasyon hızla yükselirken, ulusal para birimi değer kaybetmeye devam ediyor. Bu durum, ABD tarafından uygulanan deniz ablukasının etkisiyle daha da kötüleşiyor. Halk, temel gıda maddelerine erişimde ciddi zorluklar yaşıyor ve yaşam maliyetindeki artışla başa çıkmaya çalışıyor.",
@@ -764,38 +796,6 @@
             "name": "Güney Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778316344042m3a00",
-        "title": "Gazze Kuşatmasını Kırma Uluslararası Komitesi: İsrail Yardım Filosu Aktivistlerine Karşı 'Acımasız İhlaller' İşledi",
-        "summary": "Gazze Kuşatmasını Kırma Uluslararası Komitesi, İsrail'in yardım filosu aktivistlerine karşı \"acımasız ihlaller\" işlediğini iddia etti. Komite başkanı Youssef Ajissa, Anadolu Ajansı'na yaptığı açıklamada, bu ihlallerin saldırılar, cinsel taciz ve darp gibi eylemleri içerdiğini belirtti. Ajissa, komitelerinin Gazze'ye yönelik ablukayı kırmayı amaçlayan bu yolculuğu düzenlediğini ifade etti. Bu iddialar, İsrail'in Gazze'ye uyguladığı abluka ve uluslararası yardım çabaları bağlamında önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36193770/pexels-photo-36193770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-09T08:45:44.042Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-committed-brutal-violations-against-activists-of-aid-flotilla-intl-committee-to-break-the-siege-on-gaza/3932133",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1778316366756u4p1d",
-        "title": "Lübnan'ın Güneyinde Hristiyanlar İsrail İlerlemesine Rağmen Köylerinde Kalmaya Devam Ediyor; Papa'dan Kutsama Mesajı",
-        "summary": "Lübnan'ın güneyindeki binlerce Hristiyan, İsrail'in 'Sarı Hat' olarak adlandırdığı bölgedeki köylerini terk etmeyi reddediyor. Bölgede artan izolasyon, yıkım ve kötüleşen yaşam koşullarına rağmen halk, evlerinde kalma kararlılığını sürdürüyor. İsrail güçlerinin bölgedeki ilerleyişine karşı gösterilen bu direniş, insani bir kriz potansiyeli taşıyor. Katolik Kilisesi lideri Papa, zorlu süreçten geçen bölge halkına destek ve kutsama mesajı gönderdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33541739/pexels-photo-33541739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-09T08:46:06.756Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/defiant-in-lebanon-s-south-christians-stay-as-israel-advances-pope-offers-blessing/3932067",
         "trendScore": 85,
         "isBreaking": false
     }
