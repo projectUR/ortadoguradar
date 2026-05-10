@@ -1,5 +1,21 @@
 [
     {
+        "id": "17784141309581qeyj",
+        "title": "İran, ABD'nin Savaş Teklifini Değerlendiriyor: Nükleer Program ve Hürmüz Boğazı Kilit Noktalar",
+        "summary": "Haber, İran'ın Amerika Birleşik Devletleri'nin bir savaşı sona erdirme teklifine yanıt verme sürecini incelediğini belirtiyor. Tahran'ın bu teklifi değerlendirme süreci devam ederken, iki ana konunun anlaşmazlık noktası olmaya devam ettiği vurgulanıyor. Bu kilit konuların başında İran'ın nükleer programı geliyor. Diğer önemli anlaşmazlık noktası ise stratejik öneme sahip Hürmüz Boğazı'nın durumu olarak öne çıkıyor. Bu iki meselenin, İran'ın ABD teklifine vereceği yanıtın gecikmesinde temel etkenler olduğu ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6795499/pexels-photo-6795499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T11:55:30.958Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177840993176301u0s",
         "title": "İran Ordusu, Saldırı Halinde 'Şaşırtıcı' Savaş Yöntemleri Kullanacağı Konusunda Uyardı",
         "summary": "İran ordusu sözcüsü, ülkenin tekrar saldırıya uğraması durumunda 'düşmana' karşı şaşırtıcı ve yeni savaş yöntemlerinin kullanılacağı uyarısında bulundu. Yapılan açıklamada, İran'a yönelik olası bir saldırının, mevcut askeri stratejilerin ötesinde farklı bir yanıtla karşılaşacağı vurgulandı. Sözcü, bu yeni yöntemlerin düşmanı hazırlıksız yakalayacak nitelikte olacağını ifade etti. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde İran'ın savunma kapasitesine ve caydırıcılık politikasına dair önemli bir mesaj olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": true
-    },
-    {
-        "id": "1778266443537e83f0",
-        "title": "İsrail, Hizbullah Ateşkesinden Bu Yana İlk Kez Beyrut'u Vurdu",
-        "summary": "İsrail, Lübnan'ın başkenti Beyrut'a hava saldırısı düzenlediğini duyurdu. Bu saldırının, Nisan ortasından bu yana Hizbullah ile varılan ateşkesin ardından Beyrut'a yönelik ilk operasyon olduğu belirtildi. İsrail, hedefinde üst düzey bir Hizbullah yetkilisinin bulunduğunu açıkladı. Olay, bölgedeki gerilimi artırma potansiyeli taşırken, ateşkesin kırılganlığını bir kez daha ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5054951/pexels-photo-5054951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T18:54:03.537Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
         "isBreaking": true
     }
 ]
