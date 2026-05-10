@@ -1,5 +1,117 @@
 [
     {
+        "id": "17783980649592qcn6",
+        "title": "Lübnan, İsrail Saldırılarında 39 Kişinin Hayatını Kaybettiğini Duyurdu",
+        "summary": "Lübnan makamları, İsrail'in düzenlediği saldırılarda 39 kişinin yaşamını yitirdiğini bildirdi. Geçtiğimiz ay bir ateşkes anlaşması duyurulmasına karşın, İsrail ile Hizbullah arasındaki karşılıklı çatışmalar sürmektedir. Bu durum, bölgedeki güvenlik durumunun kırılganlığını gözler önüne sermektedir. Taraflar arasındaki gerilim, Orta Doğu'daki istikrarsızlık endişelerini artırmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15688701/pexels-photo-15688701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T07:27:44.959Z",
+        "location": {
+            "lat": 33.8547,
+            "lng": 35.8623,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778398088951a001g",
+        "title": "İran, Dünya Kupası Katılımı İçin Garanti Talep Ediyor",
+        "summary": "İran Futbol Federasyonu (FFIRI), ABD, Meksika ve Kanada'da düzenlenecek Dünya Kupası'na katılım için FIFA'ya on maddelik şartlar sundu. Federasyon, bu şartların yerine getirilmesi halinde turnuvada yer alacaklarını belirtti. Talep edilen garantilerin içeriği hakkında detay verilmezken, İran'ın uluslararası spor organizasyonlarına katılımında karşılaştığı potansiyel engelleri aşmayı hedeflediği düşünülüyor. FIFA'nın İran'ın taleplerine nasıl yanıt vereceği merak konusu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/13707179/pexels-photo-13707179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T07:28:08.951Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1778398110743zsdt3",
+        "title": "Katar açıklarında bir kargo gemisi 'bilinmeyen bir cisim' tarafından vuruldu",
+        "summary": "Birleşik Krallık denizcilik ajansından yapılan açıklamaya göre, Katar'ın başkenti açıklarında Basra Körfezi'nde seyreden bir kargo gemisi 'bilinmeyen bir cisim' tarafından hedef alındı. Olay sonucunda gemide küçük çaplı bir yangın çıktığı ancak kısa sürede söndürüldüğü bildirildi. Birleşik Krallık Deniz Ticaret Operasyonları Merkezi (UKMTO), olayda herhangi bir can kaybı yaşanmadığını duyurdu. Bölgedeki deniz güvenliği endişeleri artarken, olayın sorumluluğunu üstlenen henüz bir taraf bulunmuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5520019/pexels-photo-5520019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T07:28:30.743Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/cargo-ship-in-gulf-hit-by-unknown-projectile-off-qatari-capital-uk-maritime-agency/3932819",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "1778398130839jgkpq",
+        "title": "İsrail saldırısında güney Lübnan'da 1 kişi öldü, 13 kişi yaralandı",
+        "summary": "Güney Lübnan'da İsrail tarafından düzenlenen bir saldırıda 1 kişi hayatını kaybetti, 13 kişi yaralandı. Saldırı, Bedias bölgesinde gerçekleşti. Bu olay, Cumartesi günü Lübnan'da en az 25 kişinin ölümüne yol açan bir dizi ölümcül saldırının ardından geldi. Bölgede ateşkes ihlallerinin devam ettiği bildiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952901/pexels-photo-5952901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T07:28:50.839Z",
+        "location": {
+            "lat": 33.25,
+            "lng": 35.25,
+            "name": "Bedias, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-1-injures-13-in-southern-lebanon-amid-ceasefire-violations/3932768",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1778398151900qbdkq",
+        "title": "İsrail askerleri ordu üslerinden silah çalmaktan gözaltına alındı: Medya raporu",
+        "summary": "İsrail medyasında yer alan haberlere göre, bazı İsrail askerleri ordu üslerinden silah çalmakla suçlanıyor. Çalınan silahların, İsrail içindeki kimliği belirsiz gruplara aktarıldığı iddia ediliyor. Bu durum, İsrail ordusu içindeki güvenlik zafiyetlerine işaret ederken, ülkenin iç güvenliği açısından endişelere yol açıyor. Olayla ilgili soruşturmanın devam ettiği bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36130911/pexels-photo-36130911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T07:29:11.900Z",
+        "location": {
+            "lat": 31,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldiers-held-for-theft-of-weapons-from-army-bases-report/3932767",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1778398172144xdno1",
+        "title": "İsrail güçlerinin Batı Şeria'daki baskınları ve saldırıları çok sayıda yaralanmaya neden oldu",
+        "summary": "Batı Şeria genelinde İsrail güçleri tarafından düzenlenen baskınlar ve saldırılar sonucunda çok sayıda Filistinli yaralandı. İşgal altındaki topraklarda çeşitli bölgelere yayılan olaylarda, yaralananlar arasında hamile bir kadın ve yaşlı bir Filistinlinin de bulunduğu bildirildi. Bölgedeki gerilimin arttığı bu olaylar, güvenlik güçleri ile Filistinliler arasındaki çatışmaların devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13115050/pexels-photo-13115050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T07:29:32.144Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupier-assaults-army-raids-cause-multiple-injuries-across-west-bank/3932766",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778398195617hzwuv",
+        "title": "Suriye, Esad dönemi ihlalleri nedeniyle eski bir başkanlık danışmanını tutukladı",
+        "summary": "Suriye'de, Esad dönemi ihlalleriyle bağlantılı olarak eski bir başkanlık danışmanının tutuklandığı bildirildi. Tutuklanan kişinin Tümgeneral Wajih Ali al-Abdullah olduğu belirtildi. Al-Abdullah'ın, Esad döneminde başkanlık sarayında 13 yıl boyunca askeri işler direktörü olarak görev yaptığı kaydedildi. Bu tutuklama, ülkedeki iç siyasi gelişmeler ve geçmişteki olaylarla yüzleşme çabaları bağlamında değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6065259/pexels-photo-6065259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T07:29:55.617Z",
+        "location": {
+            "lat": 33.513,
+            "lng": 36.2912,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-arrests-former-presidential-aide-for-assad-era-abuses/3932765",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778387545574vxkhl",
         "title": "Putin, Rusya'nın Ukrayna'daki savaşının 'sona yaklaştığını' öne sürdü",
         "summary": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin Ukrayna'daki savaşının \"sona yaklaştığını\" öne sürdü. Putin, uzun vadeli bir barış anlaşmasına ulaşılması durumunda Ukrayna Devlet Başkanı Volodimir Zelenskiy ile üçüncü bir ülkede görüşmeye hazır olduğunu belirtti. Bu açıklama, uluslararası kamuoyunda çatışmanın geleceğine dair yeni tartışmaları tetiklerken, savaşın küresel enerji ve gıda piyasaları üzerindeki etkileri nedeniyle Orta Doğu dahil birçok bölge için potansiyel sonuçlar taşıyor. Ancak, barış görüşmelerinin somut adımlara dönüşüp dönüşmeyeceği henüz belirsizliğini koruyor.",
@@ -685,118 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/5/8/after-18-months-of-mourning-a-gaza-son-is-found-alive-in-israeli-prison?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17782346061682epn5",
-        "title": "CPJ: FBI'ın İsrailli gazetecinin öldürülmesi soruşturmasındaki ilerleme eksikliği 'endişe verici'",
-        "summary": "Gazetecileri Koruma Komitesi (CPJ), Federal Soruşturma Bürosu'nun (FBI) İsrail tarafından öldürülen bir gazetecinin davasındaki soruşturmasında kaydedilen ilerleme eksikliğini \"endişe verici\" olarak nitelendirdi. CPJ, FBI'ın bu konudaki \"somut ilerleme eksikliğinin\" ABD hükümetinin bir başarısızlığını temsil ettiğini ifade etti. Örgüt, gazetecilerin güvenliğinin sağlanması ve sorumluların hesap vermesi gerektiğini vurguladı. Bu durum, uluslararası hukuk ve insan hakları örgütlerinin İsrail-Filistin çatışma bölgelerindeki gazetecilerin korunmasına yönelik çağrılarını bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10464472/pexels-photo-10464472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:03:26.168Z",
-        "location": {
-            "lat": 32.46,
-            "lng": 35.29,
-            "name": "Cenin, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/8/cpj-demands-progress-on-us-probe-of-journalist-abu-akleh-killing-four-year?traffic_source=rss",
-        "trendScore": 82,
-        "isBreaking": false
-    },
-    {
-        "id": "1778234630066avmdf",
-        "title": "ABD ve İran Arasında Hürmüz Boğazı Gerilimi: Ateşkes Devam Ediyor, Barış Anlaşması Bekleniyor",
-        "summary": "Amerika Birleşik Devletleri ile İran arasında 8 Nisan'dan bu yana yürürlükte olan bir ateşkes bulunmaktadır. Ancak iki taraf, kalıcı bir barış anlaşması konusunda henüz uzlaşmaya varamamıştır. Haber başlığı, Hürmüz Boğazı'nda yaşanan çatışmalara ve savaşın tırmanma potansiyeline dikkat çekmektedir. Bu durum, bölgedeki güvenlik ve uluslararası denizcilik açısından önemini korumaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147230/pexels-photo-6147230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:03:50.066Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778234673068ul8n4",
-        "title": "Yemen'de Akaryakıt Fiyatlarındaki Artışlar Ulaşım Maliyetlerini Yükselterek Zorlukları Derinleştiriyor",
-        "summary": "Yemen'de akaryakıt fiyatlarındaki artışlar, ülke genelinde ulaşım maliyetlerini önemli ölçüde yükseltiyor. Bu durum, sürücüleri yolcu ücretlerini artırmaya mecbur bırakırken, zaten kötüleşen mali yüklerle mücadele eden yolcuların üzerindeki ekonomik baskıyı daha da derinleştiriyor. Artan ulaşım giderleri, halkın temel ihtiyaçlara erişimini zorlaştırıyor ve günlük yaşam maliyetlerini artırıyor. Ülkedeki genel ekonomik sıkıntılar ve insani kriz, akaryakıt zamlarıyla birlikte vatandaşların geçim sıkıntısını daha da derinleştirerek yaşam kalitesini olumsuz etkiliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/4744707/pexels-photo-4744707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:04:33.068Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/features/2026/5/8/yemen-fuel-price-hikes-deepen-hardship-as-transport-costs-rise?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1778234711272cc4x5",
-        "title": "Trump: ABD-İran Ateşkesi Hürmüz Boğazı'ndaki Çatışmaya Rağmen Sürüyor",
-        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda yaşanan çatışmaya rağmen ABD ile İran arasındaki ateşkesin devam ettiğini açıkladı. İran ise ABD'yi ateşkesi ihlal etmekle suçladı. Tahran yönetimi, ABD güçlerinin bir petrol tankerini hedef aldığını ve kıyı bölgelerine saldırılar düzenlediğini iddia etti. Bu karşılıklı suçlamalar, bölgedeki gerilimin sürdüğünü gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:05:11.272Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778234736746xkhly",
-        "title": "'Hondurasgate': Sızdırılan iddialar Netanyahu'yu Latin Amerika hükümetlerini hedef alan komploya bağlıyor",
-        "summary": "\"Hondurasgate\" olarak adlandırılan olayda, sızdırıldığı iddia edilen ses kayıtları gündeme geldi. Bu kayıtlarda, eski Honduras Devlet Başkanı Hernandez'in, ABD'nin eski başkanı Trump'ın müttefikleri, Arjantin Devlet Başkanı Milei ve İsrail bağlantılı kişilerle ilişkili olduğu öne sürülüyor. İddialara göre, bu figürler Latin Amerika hükümetlerini hedef alan bir kampanyanın parçası. Sızan bilgiler, İsrail'in eski başbakanı Netanyahu'nun da bu komplo ile bağlantılı olabileceği yönünde spekülasyonlara yol açtı. Olay, bölgesel siyasi dinamikler üzerinde potansiyel etkileri nedeniyle dikkatle takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7676090/pexels-photo-7676090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:05:36.746Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/americas/hondurasgate-alleged-leaks-link-netanyahu-to-plot-targeting-latin-american-governments/3931151",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1778234758683ksrkh",
-        "title": "Suudi Arabistan, Hava Sahasının Saldırı Amaçlı Askeri Operasyonlar İçin Kullanılmasına İzin Verdiği İddialarını Reddetti",
-        "summary": "Suudi Arabistan, hava sahasının saldırı amaçlı askeri operasyonlar için kullanılmasına izin verdiği yönündeki iddiaları yalanladı. Suudi televizyonu Al Arabiya'nın bir kaynağa dayandırdığı habere göre, Riyad gerilimi azaltma çabası içinde. Ülke ayrıca, Pakistan'ın arabuluculuk girişimlerini desteklediğini belirtti. Bu açıklama, bölgesel gerilimlerin düşürülmesi yönündeki diplomatik adımların bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:05:58.683Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-denies-allowing-airspace-use-for-offensive-military-operations-report/3931039",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1778234782889wwbol",
-        "title": "Hürmüz'de saldırıya uğrayan tankerdeki Çinli mürettebat arasında can kaybı yok: Pekin",
-        "summary": "Çin Dışişleri Bakanlığı, Hürmüz Boğazı'nda saldırıya uğrayan bir tankerdeki Çinli mürettebat arasında herhangi bir can kaybı yaşanmadığını duyurdu. Pekin yönetimi, saldırıya uğrayan gemilerin Marshall Adaları bandıralı olduğunu belirtti. Bu açıklama, 4 Mayıs'ta ilk Çin gemisinin saldırıya uğradığına dair çıkan haberlerin ardından geldi. Küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'ndaki bu tür olaylar, bölgedeki deniz güvenliği endişelerini artırmaktadır. Olay, uluslararası kamuoyunun dikkatini bölgedeki gerilime çekmiştir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10816311/pexels-photo-10816311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-08T10:06:22.889Z",
-        "location": {
-            "lat": 26,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/no-casualties-among-chinese-crew-aboard-tanker-attacked-in-hormuz-beijing/3931095",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
