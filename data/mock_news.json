@@ -1,5 +1,21 @@
 [
     {
+        "id": "17784287970523x8wj",
+        "title": "BAE, İran'dan Gelen İki İnsansız Hava Aracının Engellendiğini Duyurdu",
+        "summary": "Birleşik Arap Emirlikleri (BAE) Savunma Bakanlığı, İran'dan geldiği belirtilen iki insansız hava aracının (İHA) başarıyla etkisiz hale getirildiğini duyurdu. Bakanlık tarafından yapılan açıklamada, son saatlerde yaşanan bu olayda herhangi bir can kaybı veya yaralanma olmadığı belirtildi. Bu gelişme, bölgedeki gerilimin tırmandığı bir dönemde yaşandı. Olayın detaylarına ilişkin ek bilgi verilmezken, BAE hava sahasının güvenliğinin sağlandığı vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7230960/pexels-photo-7230960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-10T15:59:57.052Z",
+        "location": {
+            "lat": 24.5,
+            "lng": 54.4,
+            "name": "Abu Dabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-says-it-successfully-engaged-2-drones-from-iran-amid-regional-escalation/3933023",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778423807529mwack",
         "title": "Harabelerde Futbol: Gazze'nin Yetimleri Sahada Sığınak Buluyor",
         "summary": "Gazze Şeridi'nde İsrail saldırılarında ailesini kaybeden bir genç, bölgedeki spor altyapısının büyük ölçüde tahrip olmasına rağmen futbol sahasında teselli buluyor. Bu durum, Filistin sporunun yaşadığı zorlukları ve gençlerin spor aracılığıyla hayata tutunma çabalarını gözler önüne seriyor. Futbol, yetim kalan çocuklar için bir umut kaynağı olmaya devam ederken, aynı zamanda toplumsal dayanışmanın ve iyileşmenin bir aracı haline geliyor. Genç futbolcular, yıkımın ortasında sporun birleştirici ve iyileştirici gücünü temsil ederek, zorlu koşullara rağmen yaşam mücadelesini sürdürüyor.",
@@ -780,22 +796,6 @@
             "name": "Harg Adası, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/massive-oil-slick-spotted-near-iran-s-kharg-island-report/3932068",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17782995796603g4z6",
-        "title": "İsrail güçlerinin Batı Şeria'nın güneyindeki saldırılarında 4 Filistinli yaralandı",
-        "summary": "İsrail güçlerinin Batı Şeria'nın güneyinde düzenlediği saldırılarda, aralarında bir çocuğun da bulunduğu dört Filistinli yaralandı. Yerel kaynaklardan edinilen bilgilere göre, saldırılar bölgede gerilimi tırmandırdı. Öte yandan, işgal altındaki Doğu Kudüs'te İsrail güçleri tarafından bir Filistinli gözaltına alındı. Bu olaylar, İsrail-Filistin çatışmasının devam eden boyutlarını ve bölgedeki güvenlik durumunu yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12309279/pexels-photo-12309279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-09T04:06:19.660Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Doğu Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attacks-injure-4-palestinians-including-child-in-southern-west-bank/3932061",
         "trendScore": 80,
         "isBreaking": false
     }
