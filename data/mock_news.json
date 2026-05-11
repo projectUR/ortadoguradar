@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778474668820e1hrc",
+        "title": "BBC'nin yayınlamaktan vazgeçtiği Gazze belgeseli BAFTA ödülü kazandı",
+        "summary": "İsrail'in Gazze'deki sağlık sistemi ve personeline yönelik saldırılarını konu alan bir belgesel, BAFTA ödüllerinde 'En İyi Güncel Olaylar' kategorisinde birincilik elde etti. Daha önce BBC tarafından yayınlanmaktan vazgeçilen yapım, Gazze'deki sağlık hizmetlerinin karşılaştığı zorlukları ve personelin yaşadığı sıkıntıları gözler önüne seriyor. Belgesel, bölgedeki insani durumun uluslararası alanda dikkat çekmesine katkı sağladı. Bu ödül, Gazze'deki sağlık altyapısının kırılganlığını ve çatışmaların sivil yaşam üzerindeki etkilerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36450021/pexels-photo-36450021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-11T04:44:28.820Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778450334829ecfp7",
         "title": "İsrail Silahı Lübnan'da İnsanlara Küçük Metal Küpler Fırlatıyor, Gazze'deki Gibi",
         "summary": "İsrail'e ait bombalardan çıkan küçük tungsten küplerinin Lübnan'da insanlarda ciddi iç yaralanmalara neden olduğu bildirildi. Bu durumun Gazze'deki benzer vakaları akla getirdiği belirtiliyor. Söz konusu silahın, hedeflenen kişilerde yıkıcı iç hasarlar oluşturduğu ifade ediliyor. Olay, bölgedeki çatışmalarda kullanılan mühimmat türleri hakkında endişeleri artırıyor.",
@@ -780,22 +796,6 @@
             "name": "Moskova, Rusya"
         },
         "source": "https://www.aljazeera.com/gallery/2026/5/9/scaled-back-victory-day-parade-held-in-moscow?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17783260801931cdaa",
-        "title": "Kudüs Latin Patriği, Gazze Savaşı Ortamında İsrail Toplumunda Aşırıcılığın Arttığını Belirtti",
-        "summary": "Kudüs Latin Patriği Kardinal Pierbattista Pizzaballa, Gazze'deki savaşın devam ettiği süreçte İsrail toplumunda aşırıcılığın yükselişte olduğunu ifade etti. Patrik, özellikle Araplara ve Yahudi olmayanlara karşı 'aşağılama kültürünün' giderek arttığına dikkat çekerek endişelerini dile getirdi. Bu durumun, bölgedeki farklı etnik ve dini gruplar arasındaki ilişkiler üzerinde olumsuz etkiler yaratabileceği belirtildi. Pizzaballa'nın açıklamaları, İsrail-Filistin çatışmasının toplumsal yansımalarını gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11696743/pexels-photo-11696743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-09T11:28:00.193Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/latin-patriarch-of-jerusalem-says-extremism-gaining-ground-in-israeli-society-amid-gaza-war/3932288",
         "trendScore": 85,
         "isBreaking": false
     }
