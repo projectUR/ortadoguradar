@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778534441793ltkq3",
+        "title": "Trump, ABD'deki Artan Yakıt Fiyatları Nedeniyle Benzin Vergisini Askıya Alacağını Söyledi",
+        "summary": "Eski ABD Başkanı Donald Trump, ülkedeki yükselen yakıt fiyatlarına karşı federal benzin vergisini askıya almayı planladığını duyurdu. Bu adımın, tüketiciler üzerindeki mali yükü hafifletmeyi amaçladığı belirtildi. Ancak, federal bir verginin askıya alınması için Kongre'nin onayı gerektiği ve bu sürecin prosedürel gecikmelere yol açabileceği ifade edildi. Trump'ın bu önerisi, ABD'de enerji maliyetlerinin artışıyla ilgili devam eden tartışmaların bir parçası olarak değerlendiriliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/18703889/pexels-photo-18703889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-11T21:20:41.793Z",
+        "location": {
+            "lat": 39.8283,
+            "lng": -98.5795,
+            "name": "Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1778534496181ow862",
+        "title": "AB, aylarca süren çıkmazın ardından şiddet yanlısı İsrailli yerleşimcilere yaptırım uyguladı",
+        "summary": "Avrupa Birliği, aylarca süren iç anlaşmazlıkların ardından şiddet yanlısı İsrailli yerleşimcilere ve yerleşimci örgütlerine yönelik yeni bir yaptırım paketi açıkladı. Bu yaptırımlar, söz konusu kişi ve kuruluşların mal varlıklarını hedef alıyor. AB'nin bu adımı, Batı Şeria'daki yerleşimci şiddetinin artması ve bölgedeki insan hakları ihlallerine ilişkin endişeler üzerine geldi. Karar, uluslararası toplumun İsrail-Filistin çatışmasındaki gerilimi azaltma ve uluslararası hukuka uygunluğu teşvik etme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33539269/pexels-photo-33539269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-11T21:21:36.181Z",
+        "location": {
+            "lat": 32,
+            "lng": 35,
+            "name": "Batı Şeria, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778529196861neb22",
         "title": "AB, İsrailli Batı Şeria yerleşimcileri ve Hamas liderlerine yaptırım konusunda anlaştı",
         "summary": "Avrupa Birliği (AB), İsrailli Batı Şeria yerleşimcileri ve Hamas liderlerine yönelik yaptırımlar konusunda anlaşmaya vardı. Uzun süredir beklenen bu karar, Macaristan'ın yeni hükümetinin veto hakkını geri çekmesiyle mümkün oldu. Anlaşma, bölgedeki gerilimi azaltma ve insan hakları ihlallerini hedef alma amacı taşıyor. Bu gelişme, AB'nin Orta Doğu'daki çatışmalara yönelik politikalarında önemli bir adımı temsil ediyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/cargo-ship-in-gulf-hit-by-unknown-projectile-off-qatari-capital-uk-maritime-agency/3932819",
         "trendScore": 80,
         "isBreaking": true
-    },
-    {
-        "id": "1778398130839jgkpq",
-        "title": "İsrail saldırısında güney Lübnan'da 1 kişi öldü, 13 kişi yaralandı",
-        "summary": "Güney Lübnan'da İsrail tarafından düzenlenen bir saldırıda 1 kişi hayatını kaybetti, 13 kişi yaralandı. Saldırı, Bedias bölgesinde gerçekleşti. Bu olay, Cumartesi günü Lübnan'da en az 25 kişinin ölümüne yol açan bir dizi ölümcül saldırının ardından geldi. Bölgede ateşkes ihlallerinin devam ettiği bildiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952901/pexels-photo-5952901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T07:28:50.839Z",
-        "location": {
-            "lat": 33.25,
-            "lng": 35.25,
-            "name": "Bedias, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-1-injures-13-in-southern-lebanon-amid-ceasefire-violations/3932768",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1778398151900qbdkq",
-        "title": "İsrail askerleri ordu üslerinden silah çalmaktan gözaltına alındı: Medya raporu",
-        "summary": "İsrail medyasında yer alan haberlere göre, bazı İsrail askerleri ordu üslerinden silah çalmakla suçlanıyor. Çalınan silahların, İsrail içindeki kimliği belirsiz gruplara aktarıldığı iddia ediliyor. Bu durum, İsrail ordusu içindeki güvenlik zafiyetlerine işaret ederken, ülkenin iç güvenliği açısından endişelere yol açıyor. Olayla ilgili soruşturmanın devam ettiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36130911/pexels-photo-36130911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T07:29:11.900Z",
-        "location": {
-            "lat": 31,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldiers-held-for-theft-of-weapons-from-army-bases-report/3932767",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
