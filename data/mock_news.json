@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778512681829wimxe",
+        "title": "İsrail ve Hizbullah Arasındaki Saldırılar Artıyor: Ateşkes Tehlikede mi?",
+        "summary": "İsrail ve Lübnan merkezli Hizbullah arasındaki karşılıklı saldırılar, resmi bir ateşkesin varlığına rağmen yoğunlaştı. Lübnan'da İsrail kaynaklı ölümlerin artması, bölgedeki gerilimi tırmandırıyor. Bu durum, taraflar arasındaki ateşkesin fiilen sona erip ermediği sorusunu gündeme getiriyor. Artan çatışmalar, Orta Doğu'da güvenlik endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-11T15:18:01.829Z",
+        "location": {
+            "lat": 33.8,
+            "lng": 35.8,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1778499731394qfaz5",
         "title": "Gerhard Schröder Kimdir? Putin'in Ukrayna Barış Görüşmeleri Arabulucusu Seçimi",
         "summary": "Eski Almanya Başbakanı Gerhard Schröder'in, Rusya Devlet Başkanı Vladimir Putin tarafından Ukrayna barış görüşmeleri için arabulucu olarak önerildiği belirtiliyor. Haber, Schröder'in bu kritik rol için uygunluğunu ve Ukrayna ile Batılı ülkeler tarafından kabul görüp görmeyeceğini sorguluyor. Schröder'in Rusya ile olan yakın ilişkileri ve enerji şirketlerindeki görevleri, arabuluculuk pozisyonundaki tarafsızlığına dair tartışmaları beraberinde getiriyor. Bu durum, Ukrayna'daki çatışmanın çözümüne yönelik diplomatik çabaların karmaşıklığını ve arabulucu seçiminin önemini vurguluyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/syria-arrests-former-presidential-aide-for-assad-era-abuses/3932765",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1778387545574vxkhl",
-        "title": "Putin, Rusya'nın Ukrayna'daki savaşının 'sona yaklaştığını' öne sürdü",
-        "summary": "Rusya Devlet Başkanı Vladimir Putin, ülkesinin Ukrayna'daki savaşının \"sona yaklaştığını\" öne sürdü. Putin, uzun vadeli bir barış anlaşmasına ulaşılması durumunda Ukrayna Devlet Başkanı Volodimir Zelenskiy ile üçüncü bir ülkede görüşmeye hazır olduğunu belirtti. Bu açıklama, uluslararası kamuoyunda çatışmanın geleceğine dair yeni tartışmaları tetiklerken, savaşın küresel enerji ve gıda piyasaları üzerindeki etkileri nedeniyle Orta Doğu dahil birçok bölge için potansiyel sonuçlar taşıyor. Ancak, barış görüşmelerinin somut adımlara dönüşüp dönüşmeyeceği henüz belirsizliğini koruyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16561998/pexels-photo-16561998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T04:32:25.574Z",
-        "location": {
-            "lat": 55.7558,
-            "lng": 37.6173,
-            "name": "Moskova, Rusya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
