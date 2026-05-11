@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778529196861neb22",
+        "title": "AB, İsrailli Batı Şeria yerleşimcileri ve Hamas liderlerine yaptırım konusunda anlaştı",
+        "summary": "Avrupa Birliği (AB), İsrailli Batı Şeria yerleşimcileri ve Hamas liderlerine yönelik yaptırımlar konusunda anlaşmaya vardı. Uzun süredir beklenen bu karar, Macaristan'ın yeni hükümetinin veto hakkını geri çekmesiyle mümkün oldu. Anlaşma, bölgedeki gerilimi azaltma ve insan hakları ihlallerini hedef alma amacı taşıyor. Bu gelişme, AB'nin Orta Doğu'daki çatışmalara yönelik politikalarında önemli bir adımı temsil ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/19544043/pexels-photo-19544043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-11T19:53:16.861Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778520817386mw30d",
         "title": "İsrail'in Güney Lübnan Saldırılarında En Az Dört Kişi Hayatını Kaybetti",
         "summary": "İsrail'in güney Lübnan'a yönelik düzenlediği saldırılarda en az dört kişinin yaşamını yitirdiği bildirildi. Bu saldırılar, Lübnan'ın güney ve doğu bölgelerinde bulunan dokuz kasaba için daha önce yapılan zorunlu tahliye uyarılarının ardından geldi. Bölgedeki güvenlik durumu giderek kötüleşirken, sivil kayıpların artması ve yerleşim yerlerinin boşaltılması yönündeki tehditler endişeleri artırıyor. Olaylar, iki ülke arasındaki sınır hattında devam eden gerilimi bir kez daha gözler önüne serdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-soldiers-held-for-theft-of-weapons-from-army-bases-report/3932767",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1778398172144xdno1",
-        "title": "İsrail güçlerinin Batı Şeria'daki baskınları ve saldırıları çok sayıda yaralanmaya neden oldu",
-        "summary": "Batı Şeria genelinde İsrail güçleri tarafından düzenlenen baskınlar ve saldırılar sonucunda çok sayıda Filistinli yaralandı. İşgal altındaki topraklarda çeşitli bölgelere yayılan olaylarda, yaralananlar arasında hamile bir kadın ve yaşlı bir Filistinlinin de bulunduğu bildirildi. Bölgedeki gerilimin arttığı bu olaylar, güvenlik güçleri ile Filistinliler arasındaki çatışmaların devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13115050/pexels-photo-13115050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T07:29:32.144Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupier-assaults-army-raids-cause-multiple-injuries-across-west-bank/3932766",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
