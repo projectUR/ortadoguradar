@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778520817386mw30d",
+        "title": "İsrail'in Güney Lübnan Saldırılarında En Az Dört Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in güney Lübnan'a yönelik düzenlediği saldırılarda en az dört kişinin yaşamını yitirdiği bildirildi. Bu saldırılar, Lübnan'ın güney ve doğu bölgelerinde bulunan dokuz kasaba için daha önce yapılan zorunlu tahliye uyarılarının ardından geldi. Bölgedeki güvenlik durumu giderek kötüleşirken, sivil kayıpların artması ve yerleşim yerlerinin boşaltılması yönündeki tehditler endişeleri artırıyor. Olaylar, iki ülke arasındaki sınır hattında devam eden gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-11T17:33:37.386Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778512681829wimxe",
         "title": "İsrail ve Hizbullah Arasındaki Saldırılar Artıyor: Ateşkes Tehlikede mi?",
         "summary": "İsrail ve Lübnan merkezli Hizbullah arasındaki karşılıklı saldırılar, resmi bir ateşkesin varlığına rağmen yoğunlaştı. Lübnan'da İsrail kaynaklı ölümlerin artması, bölgedeki gerilimi tırmandırıyor. Bu durum, taraflar arasındaki ateşkesin fiilen sona erip ermediği sorusunu gündeme getiriyor. Artan çatışmalar, Orta Doğu'da güvenlik endişelerini artırıyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupier-assaults-army-raids-cause-multiple-injuries-across-west-bank/3932766",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778398195617hzwuv",
-        "title": "Suriye, Esad dönemi ihlalleri nedeniyle eski bir başkanlık danışmanını tutukladı",
-        "summary": "Suriye'de, Esad dönemi ihlalleriyle bağlantılı olarak eski bir başkanlık danışmanının tutuklandığı bildirildi. Tutuklanan kişinin Tümgeneral Wajih Ali al-Abdullah olduğu belirtildi. Al-Abdullah'ın, Esad döneminde başkanlık sarayında 13 yıl boyunca askeri işler direktörü olarak görev yaptığı kaydedildi. Bu tutuklama, ülkedeki iç siyasi gelişmeler ve geçmişteki olaylarla yüzleşme çabaları bağlamında değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6065259/pexels-photo-6065259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T07:29:55.617Z",
-        "location": {
-            "lat": 33.513,
-            "lng": 36.2912,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-arrests-former-presidential-aide-for-assad-era-abuses/3932765",
         "trendScore": 85,
         "isBreaking": false
     }
