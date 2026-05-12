@@ -1608,26 +1608,31 @@ body {
 }
 
 /* =========================================
-   NİHAİ MOBİL UYUM VE DÜZELTME PAKETİ
+   MOBİL ÜST MENÜ VE TAŞMA KESİN ÇÖZÜMÜ
    ========================================= */
 
 @media (max-width: 900px) {
-    /* ANA İSKELET */
+    /* 1. ANA İSKELET: Alt alta al ve üst boşluğu sıfırla */
     .app-main {
         display: flex !important;
         flex-direction: column !important;
-        margin-top: 0 !important;
+        margin-top: 0 !important; /* Header'ın sabit 70px boşluğunu iptal et */
         padding-top: 15px !important;
         height: auto !important;
     }
-    body { overflow-y: auto !important; }
+    
+    body {
+        overflow-y: auto !important; 
+    }
 
-    /* HEADER */
+    /* 2. HEADER: Sabit yüksekliği bırak, içeriğe göre uzasın */
     .app-header {
-        position: relative !important;
+        position: relative !important; /* Haberleri ezmesini kesin olarak engeller */
         height: auto !important;
         padding-bottom: 10px !important;
     }
+
+    /* 3. ÜST MENÜ ELEMANLARI: Kutu sırasını (Order) belirliyoruz */
     .header-container {
         display: flex !important;
         flex-wrap: wrap !important;
@@ -1635,67 +1640,48 @@ body {
         padding: 10px 15px !important;
         align-items: center !important;
     }
+
+    /* Logo sol üste */
     #siteLogo, .logo {
         order: 1 !important;
-        flex: 1 !important;
+        flex: 1 !important; /* Sol tarafı kaplasın */
     }
+
+    /* Dil Seçici ("Türkçe") sağ üste */
     .user-auth-area, .lang-selector {
         order: 2 !important;
         margin: 0 !important;
     }
 
-    /* 1. EKSİK: Arama Çubuğunu Kendi Satırında Geri Getir */
+    /* Arama Çubuğu (Mobilde çok yer kaplıyor, gizliyoruz) */
     .search-bar {
-        display: flex !important;
-        order: 3 !important;
-        width: 100% !important;
-        max-width: 100% !important;
-        margin-top: 5px !important;
+        display: none !important; 
     }
 
-    /* "Akış, Rasathane" Butonları */
+    /* "Akış, Rasathane, Oyun" Butonları 2. Satıra (Yatay Kaydırmalı) */
     .view-toggles {
-        order: 4 !important;
+        order: 3 !important;
         width: 100% !important;
         margin-top: 5px !important;
         overflow-x: auto !important;
         white-space: nowrap !important;
-        -webkit-overflow-scrolling: touch;
+        -webkit-overflow-scrolling: touch; /* Telefondan kaydırırken pürüzsüz yapar */
         padding-bottom: 5px !important;
-        border: none !important;
+        border: none !important; /* Mobilde dış çerçeveyi kaldırıp rahatlatıyoruz */
         background: transparent !important;
     }
 
-   /* 2. EKSİK: Kategoriler Panelini YUKARI Al ve Yatay Tasarla */
-    .sidebar-right {
-        display: flex !important; 
-        flex-direction: column !important;
-        order: 1 !important; /* Haber akışından ÖNCE (en üstte) gelsin */
+    /* 4. HARİTA (Rasathane) VE İÇERİK KUTULARI */
+    .map-container {
         width: 100% !important;
-        margin-top: 15px !important;
-        margin-bottom: 10px !important;
+        height: 60vh !important;
+        min-height: 400px !important;
+    }
+    
+    .sidebar-right {
+        order: 5 !important;
+        width: 100% !important;
+        margin-top: 20px !important;
         height: auto !important;
     }
-
-    /* Kategori Listesini Yatay (Kaydırılabilir) Menüye Çevir */
-    .category-list {
-        display: flex !important;
-        flex-direction: row !important;
-        overflow-x: auto !important;
-        gap: 10px !important;
-        padding-bottom: 10px !important;
-        -webkit-overflow-scrolling: touch; /* Yağ gibi kaysın */
-    }
-
-    .category-list li {
-        white-space: nowrap !important; /* Yazılar alt alta kırılmasın */
-        border: 1px solid var(--border-color) !important;
-        border-radius: 25px !important; /* Yuvarlak hap (pill) görünümü */
-        padding: 8px 16px !important;
-        margin-bottom: 0 !important;
-    }
-
-    /* Haber Akışını Kategorilerin Altına At */
-    .feed-container {
-        order: 2 !important;
-    }
+}
