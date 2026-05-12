@@ -1606,3 +1606,58 @@ body {
     outline: none !important;
     box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.3) !important; /* Mavi, yumuşak bir oval çerçeve */
 }
+
+/* ========================================= */
+/* MOBİL UYUM (RESPONSIVE) AYARLARI */
+/* ========================================= */
+@media (max-width: 768px) {
+    /* Ana yapıyı alt alta al */
+    .app-main {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    /* Üst menü butonlarını yatayda kaydırılabilir yap */
+    .view-toggles {
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        padding-bottom: 10px;
+        -webkit-overflow-scrolling: touch; /* Telefondan kaydırmayı yumuşatır */
+    }
+
+    /* Sağ menüyü (Kategoriler) aşağıya gönder ve tam genişlik yap */
+    .sidebar-right {
+        width: 100%;
+        margin-top: 20px;
+        order: 3; /* En alta atar */
+    }
+
+    /* Haritanın ekrandan taşmasını engelle */
+    .map-container {
+        width: 100%;
+        height: 70vh; /* Ekran yüksekliğinin %70'ini kaplasın */
+        position: relative;
+    }
+
+    #leafletMap {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* Arama çubuğunu ve logoyu mobilde ortala/düzenle */
+    .header-container {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .search-bar {
+        width: 100%;
+    }
+
+    /* Oyun kartlarını alt alta diz */
+    .game-cards-grid {
+        grid-template-columns: 1fr !important;
+    }
+}
