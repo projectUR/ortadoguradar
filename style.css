@@ -1607,57 +1607,81 @@ body {
     box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.3) !important; /* Mavi, yumuşak bir oval çerçeve */
 }
 
-/* ========================================= */
-/* MOBİL UYUM (RESPONSIVE) AYARLARI */
-/* ========================================= */
-@media (max-width: 768px) {
-    /* Ana yapıyı alt alta al */
+/* =========================================
+   MOBİL ÜST MENÜ VE TAŞMA KESİN ÇÖZÜMÜ
+   ========================================= */
+
+@media (max-width: 900px) {
+    /* 1. ANA İSKELET: Alt alta al ve üst boşluğu sıfırla */
     .app-main {
-        display: flex;
-        flex-direction: column;
-        padding: 10px;
+        display: flex !important;
+        flex-direction: column !important;
+        margin-top: 0 !important; /* Header'ın sabit 70px boşluğunu iptal et */
+        padding-top: 15px !important;
+        height: auto !important;
+    }
+    
+    body {
+        overflow-y: auto !important; 
     }
 
-    /* Üst menü butonlarını yatayda kaydırılabilir yap */
-    .view-toggles {
-        display: flex;
-        overflow-x: auto;
-        white-space: nowrap;
-        padding-bottom: 10px;
-        -webkit-overflow-scrolling: touch; /* Telefondan kaydırmayı yumuşatır */
+    /* 2. HEADER: Sabit yüksekliği bırak, içeriğe göre uzasın */
+    .app-header {
+        position: relative !important; /* Haberleri ezmesini kesin olarak engeller */
+        height: auto !important;
+        padding-bottom: 10px !important;
     }
 
-    /* Sağ menüyü (Kategoriler) aşağıya gönder ve tam genişlik yap */
-    .sidebar-right {
-        width: 100%;
-        margin-top: 20px;
-        order: 3; /* En alta atar */
-    }
-
-    /* Haritanın ekrandan taşmasını engelle */
-    .map-container {
-        width: 100%;
-        height: 70vh; /* Ekran yüksekliğinin %70'ini kaplasın */
-        position: relative;
-    }
-
-    #leafletMap {
-        width: 100%;
-        height: 100%;
-    }
-
-    /* Arama çubuğunu ve logoyu mobilde ortala/düzenle */
+    /* 3. ÜST MENÜ ELEMANLARI: Kutu sırasını (Order) belirliyoruz */
     .header-container {
-        flex-direction: column;
-        gap: 15px;
+        display: flex !important;
+        flex-wrap: wrap !important;
+        gap: 10px !important;
+        padding: 10px 15px !important;
+        align-items: center !important;
     }
 
+    /* Logo sol üste */
+    #siteLogo, .logo {
+        order: 1 !important;
+        flex: 1 !important; /* Sol tarafı kaplasın */
+    }
+
+    /* Dil Seçici ("Türkçe") sağ üste */
+    .user-auth-area, .lang-selector {
+        order: 2 !important;
+        margin: 0 !important;
+    }
+
+    /* Arama Çubuğu (Mobilde çok yer kaplıyor, gizliyoruz) */
     .search-bar {
-        width: 100%;
+        display: none !important; 
     }
 
-    /* Oyun kartlarını alt alta diz */
-    .game-cards-grid {
-        grid-template-columns: 1fr !important;
+    /* "Akış, Rasathane, Oyun" Butonları 2. Satıra (Yatay Kaydırmalı) */
+    .view-toggles {
+        order: 3 !important;
+        width: 100% !important;
+        margin-top: 5px !important;
+        overflow-x: auto !important;
+        white-space: nowrap !important;
+        -webkit-overflow-scrolling: touch; /* Telefondan kaydırırken pürüzsüz yapar */
+        padding-bottom: 5px !important;
+        border: none !important; /* Mobilde dış çerçeveyi kaldırıp rahatlatıyoruz */
+        background: transparent !important;
+    }
+
+    /* 4. HARİTA (Rasathane) VE İÇERİK KUTULARI */
+    .map-container {
+        width: 100% !important;
+        height: 60vh !important;
+        min-height: 400px !important;
+    }
+    
+    .sidebar-right {
+        order: 5 !important;
+        width: 100% !important;
+        margin-top: 20px !important;
+        height: auto !important;
     }
 }
