@@ -34,16 +34,16 @@ window.initMap = function(newsData) {
 };
 
 // Expose map resize functionality (for when tab switches)
+// Expose map resize functionality (for when tab switches)
 window.invalidateMapSize = function () {
     if (radarMap) {
-        // Deep fix: Force Leaflet to recalculate offset and clear cached DOM bounds
+        // Harita container'ının CSS ile görünür olduğundan emin olmak için 
+        // 10 milisaniye bekleyip Leaflet motorunu "Kendine gel ve yeniden boyutlan" diyerek uyandırıyoruz.
         setTimeout(() => {
-            radarMap.invalidateSize(true);
-            if(radarMap._onResize) radarMap._onResize(); 
-        }, 100); 
-        setTimeout(() => {
-            radarMap.invalidateSize(true);
-        }, 400); 
+            radarMap.invalidateSize();
+            // Mobil cihazlarda ekran yüksekliğine göre merkezi yeniden hizalamak istersen:
+            radarMap.setView(radarMap.getCenter(), radarMap.getZoom(), { animate: false });
+        }, 10);
     }
 };
 
