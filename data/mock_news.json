@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778607326167x2k1v",
+        "title": "ABD Savunma Bakanı'ndan İran Ateşkesi Açıklaması",
+        "summary": "ABD Savunma Bakanı'nın, İran ile ilgili bir ateşkesin 'yürürlükte kaldığını' belirttiği bildirildi. Habere göre, Pete Hegseth Temsilciler Meclisi alt komitesine yaptığı açıklamada, 'Biliyoruz. Bu açık ve ateşkes yürürlükte,' ifadelerini kullandı. Bu açıklama, Orta Doğu'daki güvenlik durumu ve İran'ın bölgesel politikalarına ilişkin devam eden tartışmalar bağlamında önem taşıyor. Ateşkesin detayları veya hangi çatışma bağlamında olduğu belirtilmese de, ABD'nin İran'a yönelik tutumunu yansıtması açısından dikkat çekici bulundu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-12T17:35:26.167Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-defense-chief-says-iran-ceasefire-remains-in-effect/3935335",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778599301726hw1jz",
         "title": "İsrail Ateşi Sonrası Filistinli Gencin Hayatı Değişti",
         "summary": "İşgal altındaki Batı Şeria'da, Nablus yakınlarındaki bir tepede İsrail askerleri tarafından vurulan 16 yaşındaki Filistinli Amir Othman'ın hayatı kökten değişti. Olay, gencin yaşamında kalıcı etkiler bırakırken, bölgedeki gerilimi bir kez daha gözler önüne serdi. Filistinli kaynaklar, İsrail güçlerinin bölgedeki operasyonları sırasında sivillerin hedef alındığını belirtiyor. İsrail makamları ise genellikle bu tür olaylarda güvenlik gerekçelerini öne sürüyor. Bu olay, İsrail-Filistin çatışmasının insani boyutunu bir kez daha gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778443272983fg375",
-        "title": "İran, ABD Teklifini Değerlendiriyor; Trump \"Savaş Hızlı Biter\" Dedi",
-        "summary": "ABD Başkanı Donald Trump'ın olası bir savaşın \"hızlı biteceği\" yönündeki açıklamalarıyla birlikte, İran'ın ABD'den gelen bir teklifi değerlendirdiği bildirildi. Arabulucu rolünü üstlenen Pakistan, mevcut ateşkesi kalıcı bir barışa dönüştürmek için çaba sarf ettiğini duyurdu. Bu gelişmeler, iki ülke arasındaki gerilimin azaltılmasına yönelik diplomatik girişimleri ve arabuluculuk çabalarını gözler önüne seriyor. Bölgedeki tansiyonun düşürülmesi hedeflenirken, taraflar arasındaki müzakerelerin seyri yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T20:01:12.983Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
