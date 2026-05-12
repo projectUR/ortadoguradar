@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778588761723t30ix",
+        "title": "Filistin Nüfusu Dünya Genelinde 15.5 Milyona Ulaştı, Yarısı Filistin Topraklarında Yaşıyor",
+        "summary": "Filistin Merkezi İstatistik Bürosu'nun açıkladığı verilere göre, dünya genelindeki Filistin nüfusu 15.5 milyona ulaştı. Bu nüfusun yaklaşık yarısı, tarihi Filistin toprakları olarak bilinen bölgelerde ikamet ediyor. Raporda ayrıca, Gazze Şeridi ve işgal altındaki Batı Şeria'da 2 milyondan fazla Filistinlinin yerinden edildiği belirtildi. Bu istatistikler, Filistin halkının demografik yapısı ve yaşadığı zorluklar hakkında önemli bilgiler sunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19028574/pexels-photo-19028574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-12T12:26:01.723Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.2,
+            "name": "Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-population-reaches-155-million-worldwide-half-lives-in-palestine/3934984",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778580280743tt09r",
         "title": "Ürdün'de Sosyal Medya Dolandırıcılar İçin 'Altın Madeni' Haline Geldi",
         "summary": "Ürdün'de sosyal medya platformları üzerinden yürütülen dolandırıcılık faaliyetlerinde önemli bir artış yaşandığı bildirildi. Özellikle indirimli ürün arayışında olan Ürdünlü vatandaşların, internet üzerinden \"ucuz altın\" vaatleriyle hedef alındığı ve dolandırıldığı belirtiliyor. Bu tür çevrimiçi dolandırıcılık vakalarının giderek yaygınlaştığı ve dolandırıcılar için sosyal medyanın adeta bir \"altın madeni\" haline geldiği ifade edildi. Yetkililer, vatandaşları bu tür sahte tekliflere karşı dikkatli olmaları konusunda uyarıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17784379708630nyep",
-        "title": "Rusya, Ukrayna'yı Ateşkesi İhlal Etmekle Suçladı, Üç Ukraynalının Öldürüldüğünü Duyurdu",
-        "summary": "Rusya, son 24 saat içinde üç Ukraynalının hayatını kaybettiğini açıklayarak, Kiev yönetimini ateşkesi ihlal etmekle suçladı. Moskova'dan yapılan açıklamada, Cumartesi günü yürürlüğe giren üç günlük ateşkesin başlamasından bu yana Ukrayna'nın binden fazla ihlal gerçekleştirdiği iddia edildi. Bu gelişmeler, bölgedeki gerilimi artırırken, taraflar arasındaki karşılıklı suçlamalar devam ediyor ve ateşkesin geleceği hakkında endişeler doğuruyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T18:32:50.863Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
