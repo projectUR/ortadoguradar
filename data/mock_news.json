@@ -1,5 +1,21 @@
 [
     {
+        "id": "17786158577406nd67",
+        "title": "İran Neden BAE'yi Savaş Mesajlaşmasında Hedef Alıyor?",
+        "summary": "İran'ın savaş söyleminde Birleşik Arap Emirlikleri'ni (BAE) giderek daha fazla hedef almasının nedenleri incelenmektedir. BAE'nin ABD ve İsrail ile geliştirdiği yakın ilişkiler, Körfez ülkesini İran'ın şüpheleri altına sokmuştur. Bu durum, bölgesel gerilimleri artırarak iki ülke arasındaki diplomatik ilişkilerde yeni bir boyut açmaktadır. İran, BAE'nin bu ittifaklarını kendi ulusal güvenliğine yönelik bir tehdit olarak algılamaktadır. Bölgedeki güç dengeleri ve ittifaklar, bu tür mesajlaşmaların temelini oluşturmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560842/pexels-photo-8560842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-12T19:57:37.740Z",
+        "location": {
+            "lat": 24.4539,
+            "lng": 54.3773,
+            "name": "Birleşik Arap Emirlikleri, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778607326167x2k1v",
         "title": "ABD Savunma Bakanı'ndan İran Ateşkesi Açıklaması",
         "summary": "ABD Savunma Bakanı'nın, İran ile ilgili bir ateşkesin 'yürürlükte kaldığını' belirttiği bildirildi. Habere göre, Pete Hegseth Temsilciler Meclisi alt komitesine yaptığı açıklamada, 'Biliyoruz. Bu açık ve ateşkes yürürlükte,' ifadelerini kullandı. Bu açıklama, Orta Doğu'daki güvenlik durumu ve İran'ın bölgesel politikalarına ilişkin devam eden tartışmalar bağlamında önem taşıyor. Ateşkesin detayları veya hangi çatışma bağlamında olduğu belirtilmese de, ABD'nin İran'a yönelik tutumunu yansıtması açısından dikkat çekici bulundu.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1778443253074r4smn",
-        "title": "Babası yeni defnedilmişti. Ardından Batı Şeria yerleşimcileri onu cesedi çıkarmaya zorladı",
-        "summary": "Birleşmiş Milletler insan hakları ofisi, Batı Şeria'da yaşanan ve Filistinlilerin insanlıktan çıkarılmasını simgeleyen \"korkunç\" bir olayı kınadı. Olayda, İsrailli yerleşimcilerin, babasını yeni defnetmiş bir Filistinliyi, mezardan cesedi çıkarmaya zorladığı belirtildi. BM yetkilileri, bu tür eylemlerin bölgedeki gerilimi artırdığını ve uluslararası hukukun ihlali anlamına geldiğini vurguladı. Kınama metninde, Filistinlilere yönelik bu tür muamelelerin kabul edilemez olduğu ve sorumluların hesap vermesi gerektiği ifade edildi. Olay, Batı Şeria'daki insan hakları durumuna ilişkin endişeleri bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32304414/pexels-photo-32304414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T20:00:53.074Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
