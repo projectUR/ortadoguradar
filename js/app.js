@@ -865,3 +865,23 @@ window.shareNews = async function(newsId) {
         });
     }
 };
+// =========================================
+// MOBİL İÇİN OYUN KARTLARINI DÜZELTME
+// =========================================
+window.addEventListener('resize', fixMobileGames);
+window.addEventListener('DOMContentLoaded', fixMobileGames);
+
+function fixMobileGames() {
+    const gameGrid = document.querySelector('.game-cards-grid');
+    if (!gameGrid) return;
+
+    if (window.innerWidth <= 900) {
+        // Ekran darsa (Mobil), HTML içindeki o inatçı grid ayarını ez ve alt alta diz
+        gameGrid.style.display = 'flex';
+        gameGrid.style.flexDirection = 'column';
+    } else {
+        // Masaüstü ise orijinal o jilet gibi duran haline geri dön
+        gameGrid.style.display = 'grid';
+        gameGrid.style.gridTemplateColumns = 'repeat(auto-fit, minmax(250px, 1fr))';
+    }
+}
