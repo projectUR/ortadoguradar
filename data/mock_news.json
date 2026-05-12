@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778599301726hw1jz",
+        "title": "İsrail Ateşi Sonrası Filistinli Gencin Hayatı Değişti",
+        "summary": "İşgal altındaki Batı Şeria'da, Nablus yakınlarındaki bir tepede İsrail askerleri tarafından vurulan 16 yaşındaki Filistinli Amir Othman'ın hayatı kökten değişti. Olay, gencin yaşamında kalıcı etkiler bırakırken, bölgedeki gerilimi bir kez daha gözler önüne serdi. Filistinli kaynaklar, İsrail güçlerinin bölgedeki operasyonları sırasında sivillerin hedef alındığını belirtiyor. İsrail makamları ise genellikle bu tür olaylarda güvenlik gerekçelerini öne sürüyor. Bu olay, İsrail-Filistin çatışmasının insani boyutunu bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6090839/pexels-photo-6090839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-12T15:21:41.726Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778588761723t30ix",
         "title": "Filistin Nüfusu Dünya Genelinde 15.5 Milyona Ulaştı, Yarısı Filistin Topraklarında Yaşıyor",
         "summary": "Filistin Merkezi İstatistik Bürosu'nun açıkladığı verilere göre, dünya genelindeki Filistin nüfusu 15.5 milyona ulaştı. Bu nüfusun yaklaşık yarısı, tarihi Filistin toprakları olarak bilinen bölgelerde ikamet ediyor. Raporda ayrıca, Gazze Şeridi ve işgal altındaki Batı Şeria'da 2 milyondan fazla Filistinlinin yerinden edildiği belirtildi. Bu istatistikler, Filistin halkının demografik yapısı ve yaşadığı zorluklar hakkında önemli bilgiler sunuyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778437916191tq217",
-        "title": "İran, nükleer tesislerin kullanımı konusunda güvence verebilir",
-        "summary": "İran'ın nükleer tesislerinin kullanımı konusunda güvence vermeye yönelik müzakerelere açık olabileceği bildirildi. Ancak haberde, Tahran yönetiminin elindeki uranyumu imha etmeyeceği veya başka bir yere taşınmasına müsaade etmeyeceği özellikle belirtildi. Bu durum, uluslararası toplumun İran'ın nükleer programına ilişkin endişelerini gidermeye yönelik potansiyel bir diplomatik süreci işaret ediyor. Aynı zamanda, İran'ın nükleer materyalleri üzerindeki egemenliğini koruma konusundaki kararlılığını da ortaya koyuyor. Söz konusu gelişmeler, Orta Doğu'daki güvenlik dengeleri ve uluslararası diplomasi açısından yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18334961/pexels-photo-18334961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-10T18:31:56.191Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
