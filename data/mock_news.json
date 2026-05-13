@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778696739409dqp4s",
+        "title": "Barış Kurulu Elçisi: \"Hamas'ın siyasi bir hareket olarak ortadan kalkmasını istemiyoruz\"",
+        "summary": "Barış Kurulu elçisi Nickolay Mladenov, Kudüs ziyareti sırasında yaptığı açıklamada, Gazze'deki ateşkesin \"mükemmel olmaktan çok uzak\" olduğunu belirtti. Mladenov, İsrail'in devam eden ateşkes ihlalleri arasında günlük ihlallerin yaşandığını ifade etti. Elçi, Hamas'ın siyasi bir hareket olarak ortadan kalkmasını talep etmediklerini vurguladı. Bu açıklamalar, bölgedeki gerilimin ve barış çabalarının karmaşıklığını gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850175/pexels-photo-36850175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-13T18:25:39.409Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/world/-we-are-not-asking-hamas-to-disappear-as-political-movement-says-board-of-peace-envoy/3936523",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1778696791534b3eey",
+        "title": "AB Milletvekili: İsrail'in Filistinli Tutuklulara Yönelik İstismarı 'İnsanlığa Karşı Suç' Teşkil Ediyor",
+        "summary": "İtalyan Avrupa Parlamentosu Üyesi Danilo Della Valle, İsrail'in Filistinli tutuklulara yönelik muamelesini 'insanlığa karşı suç' olarak nitelendirdi. Della Valle ve İnsan Hakları İzleme Örgütü temsilcisi, Filistinli mahkumlara, çocukların da dahil olduğu sistematik cinsel şiddet uygulandığını detaylandıran bir raporun ardından uluslararası bir soruşturma başlatılması çağrısında bulundu. Bu çağrı, İsrail hapishanelerindeki insan hakları ihlallerine dikkat çekiyor. Uluslararası toplumun bu iddiaları araştırması ve sorumluları hesap vermeye çağırması talep ediliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10473519/pexels-photo-10473519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-13T18:26:31.534Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/abuse-of-palestinian-detainees-by-israel-constitutes-crimes-against-humanity-says-eu-lawmaker/3936404",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1778688141248aijx6",
         "title": "Manchester City - Crystal Palace Premier Lig Maçı Canlı Takip Ediliyor",
         "summary": "İngiltere Premier Lig'de Manchester City ile Crystal Palace arasındaki futbol karşılaşması canlı olarak takip ediliyor. Maç öncesi takımların kadroları ve son durumları hakkında detaylı bilgiler sunuluyor. Abu Dabi merkezli City Football Group'a ait olan Manchester City'nin bu maçı, Orta Doğu'dan yapılan spor yatırımlarının bir parçası olarak öne çıkıyor. Bu tür yatırımlar, bölge ülkelerinin uluslararası arenadaki ekonomik etkisini ve yumuşak güç stratejilerini yansıtmaktadır. Karşılaşma, futbolseverler tarafından metin tabanlı canlı anlatım akışı üzerinden takip edilebilecektir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/eu-syria-hold-first-high-level-political-dialogue-signaling-deeper-cooperation/3934358",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1778534441793ltkq3",
-        "title": "Trump, ABD'deki Artan Yakıt Fiyatları Nedeniyle Benzin Vergisini Askıya Alacağını Söyledi",
-        "summary": "Eski ABD Başkanı Donald Trump, ülkedeki yükselen yakıt fiyatlarına karşı federal benzin vergisini askıya almayı planladığını duyurdu. Bu adımın, tüketiciler üzerindeki mali yükü hafifletmeyi amaçladığı belirtildi. Ancak, federal bir verginin askıya alınması için Kongre'nin onayı gerektiği ve bu sürecin prosedürel gecikmelere yol açabileceği ifade edildi. Trump'ın bu önerisi, ABD'de enerji maliyetlerinin artışıyla ilgili devam eden tartışmaların bir parçası olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/18703889/pexels-photo-18703889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-11T21:20:41.793Z",
-        "location": {
-            "lat": 39.8283,
-            "lng": -98.5795,
-            "name": "Amerika Birleşik Devletleri"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1778534496181ow862",
-        "title": "AB, aylarca süren çıkmazın ardından şiddet yanlısı İsrailli yerleşimcilere yaptırım uyguladı",
-        "summary": "Avrupa Birliği, aylarca süren iç anlaşmazlıkların ardından şiddet yanlısı İsrailli yerleşimcilere ve yerleşimci örgütlerine yönelik yeni bir yaptırım paketi açıkladı. Bu yaptırımlar, söz konusu kişi ve kuruluşların mal varlıklarını hedef alıyor. AB'nin bu adımı, Batı Şeria'daki yerleşimci şiddetinin artması ve bölgedeki insan hakları ihlallerine ilişkin endişeler üzerine geldi. Karar, uluslararası toplumun İsrail-Filistin çatışmasındaki gerilimi azaltma ve uluslararası hukuka uygunluğu teşvik etme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33539269/pexels-photo-33539269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-11T21:21:36.181Z",
-        "location": {
-            "lat": 32,
-            "lng": 35,
-            "name": "Batı Şeria, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
