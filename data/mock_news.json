@@ -1,5 +1,53 @@
 [
     {
+        "id": "1778688141248aijx6",
+        "title": "Manchester City - Crystal Palace Premier Lig Maçı Canlı Takip Ediliyor",
+        "summary": "İngiltere Premier Lig'de Manchester City ile Crystal Palace arasındaki futbol karşılaşması canlı olarak takip ediliyor. Maç öncesi takımların kadroları ve son durumları hakkında detaylı bilgiler sunuluyor. Abu Dabi merkezli City Football Group'a ait olan Manchester City'nin bu maçı, Orta Doğu'dan yapılan spor yatırımlarının bir parçası olarak öne çıkıyor. Bu tür yatırımlar, bölge ülkelerinin uluslararası arenadaki ekonomik etkisini ve yumuşak güç stratejilerini yansıtmaktadır. Karşılaşma, futbolseverler tarafından metin tabanlı canlı anlatım akışı üzerinden takip edilebilecektir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/13345792/pexels-photo-13345792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-13T16:02:21.248Z",
+        "location": {
+            "lat": 24.4539,
+            "lng": 54.3773,
+            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778688193952mg358",
+        "title": "İsrail'in Lübnan'daki Saldırılarında 12 Kişi Hayatını Kaybetti",
+        "summary": "İsrail güçlerinin Lübnan topraklarında araçlara yönelik düzenlediği bir dizi hava saldırısında en az 12 kişi yaşamını yitirdi. Saldırılarda hayatını kaybedenler arasında bir kadın ve iki çocuğunun da bulunduğu belirtildi. Olay, bölgedeki gerilimi artırırken, can kayıpları büyük üzüntüye neden oldu. Yetkililer, saldırıların detayları hakkında henüz resmi bir açıklama yapmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-13T16:03:13.952Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1778688214709y4amm",
+        "title": "İsrail'in Güney Lübnan'daki Araçlara Yönelik Saldırılarında 12 Kişi Hayatını Kaybetti",
+        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in Güney Lübnan'da araçlara düzenlediği saldırılarda 12 kişi yaşamını yitirdi. Beyrut'un güneyinde meydana gelen ayrı ayrı saldırılarda toplam yedi aracın hedef alındığı belirtildi. Hayatını kaybedenler arasında iki çocuğun da bulunduğu bildirildi. Bu olay, bölgedeki gerilimi tırmandırabilecek önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/371838/pexels-photo-371838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-13T16:03:34.709Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1778678119597gktgg",
         "title": "İran Ateşkesinden Bu Yana İsrail'in Gazze'ye Saldırıları %35 Arttı: Rapor",
         "summary": "Çatışma izleme kuruluşu ACLED, son raporunda İsrail'in Gazze Şeridi'ne yönelik saldırılarında önemli bir artış olduğunu belirtti. Rapora göre, Nisan ayında İsrail'in Gazze'ye düzenlediği saldırılar, İran ateşkesinden bu yana %35 oranında yükseldi. Bu artış, bölgedeki gerilimin devam ettiğini ve çatışma dinamiklerinin değiştiğini gösteriyor. ACLED, bölgedeki güvenlik durumunu yakından takip eden önemli bir kuruluş olarak öne çıkıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1778529196861neb22",
-        "title": "AB, İsrailli Batı Şeria yerleşimcileri ve Hamas liderlerine yaptırım konusunda anlaştı",
-        "summary": "Avrupa Birliği (AB), İsrailli Batı Şeria yerleşimcileri ve Hamas liderlerine yönelik yaptırımlar konusunda anlaşmaya vardı. Uzun süredir beklenen bu karar, Macaristan'ın yeni hükümetinin veto hakkını geri çekmesiyle mümkün oldu. Anlaşma, bölgedeki gerilimi azaltma ve insan hakları ihlallerini hedef alma amacı taşıyor. Bu gelişme, AB'nin Orta Doğu'daki çatışmalara yönelik politikalarında önemli bir adımı temsil ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/19544043/pexels-photo-19544043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-11T19:53:16.861Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778520817386mw30d",
-        "title": "İsrail'in Güney Lübnan Saldırılarında En Az Dört Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in güney Lübnan'a yönelik düzenlediği saldırılarda en az dört kişinin yaşamını yitirdiği bildirildi. Bu saldırılar, Lübnan'ın güney ve doğu bölgelerinde bulunan dokuz kasaba için daha önce yapılan zorunlu tahliye uyarılarının ardından geldi. Bölgedeki güvenlik durumu giderek kötüleşirken, sivil kayıpların artması ve yerleşim yerlerinin boşaltılması yönündeki tehditler endişeleri artırıyor. Olaylar, iki ülke arasındaki sınır hattında devam eden gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-11T17:33:37.386Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778512681829wimxe",
-        "title": "İsrail ve Hizbullah Arasındaki Saldırılar Artıyor: Ateşkes Tehlikede mi?",
-        "summary": "İsrail ve Lübnan merkezli Hizbullah arasındaki karşılıklı saldırılar, resmi bir ateşkesin varlığına rağmen yoğunlaştı. Lübnan'da İsrail kaynaklı ölümlerin artması, bölgedeki gerilimi tırmandırıyor. Bu durum, taraflar arasındaki ateşkesin fiilen sona erip ermediği sorusunu gündeme getiriyor. Artan çatışmalar, Orta Doğu'da güvenlik endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-11T15:18:01.829Z",
-        "location": {
-            "lat": 33.8,
-            "lng": 35.8,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
