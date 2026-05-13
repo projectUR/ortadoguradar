@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778678119597gktgg",
+        "title": "İran Ateşkesinden Bu Yana İsrail'in Gazze'ye Saldırıları %35 Arttı: Rapor",
+        "summary": "Çatışma izleme kuruluşu ACLED, son raporunda İsrail'in Gazze Şeridi'ne yönelik saldırılarında önemli bir artış olduğunu belirtti. Rapora göre, Nisan ayında İsrail'in Gazze'ye düzenlediği saldırılar, İran ateşkesinden bu yana %35 oranında yükseldi. Bu artış, bölgedeki gerilimin devam ettiğini ve çatışma dinamiklerinin değiştiğini gösteriyor. ACLED, bölgedeki güvenlik durumunu yakından takip eden önemli bir kuruluş olarak öne çıkıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934252/pexels-photo-35934252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-13T13:15:19.597Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1778668330346regla",
         "title": "İsrail'in Beyrut Güneyindeki Otoyola Düzenlediği İHA Saldırılarında En Az Sekiz Kişi Hayatını Kaybetti",
         "summary": "İsrail'in Lübnan'ın başkenti Beyrut'un güneyindeki bir otoyola düzenlediği insansız hava aracı saldırılarında en az sekiz kişi yaşamını yitirdi. Lübnan'ın Ciyeh bölgesindeki otoyolda seyreden araçlara yönelik toplam üç saldırı gerçekleştirildiği bildirildi. Yetkililer, saldırılarda hayatını kaybedenler arasında iki çocuğun da bulunduğunu açıkladı. Bu saldırılar, bölgedeki gerilimi tırmandıran son olaylardan biri olarak kayıtlara geçti.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1778499731394qfaz5",
-        "title": "Gerhard Schröder Kimdir? Putin'in Ukrayna Barış Görüşmeleri Arabulucusu Seçimi",
-        "summary": "Eski Almanya Başbakanı Gerhard Schröder'in, Rusya Devlet Başkanı Vladimir Putin tarafından Ukrayna barış görüşmeleri için arabulucu olarak önerildiği belirtiliyor. Haber, Schröder'in bu kritik rol için uygunluğunu ve Ukrayna ile Batılı ülkeler tarafından kabul görüp görmeyeceğini sorguluyor. Schröder'in Rusya ile olan yakın ilişkileri ve enerji şirketlerindeki görevleri, arabuluculuk pozisyonundaki tarafsızlığına dair tartışmaları beraberinde getiriyor. Bu durum, Ukrayna'daki çatışmanın çözümüne yönelik diplomatik çabaların karmaşıklığını ve arabulucu seçiminin önemini vurguluyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/31838539/pexels-photo-31838539.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-11T11:42:11.394Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
