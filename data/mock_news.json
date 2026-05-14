@@ -1,5 +1,85 @@
 [
     {
+        "id": "1778756207444kubft",
+        "title": "Rusya, Ukrayna'ya yüzlerce insansız hava aracı daha fırlattı, üç kişi hayatını kaybetti",
+        "summary": "Rusya'nın Ukrayna'ya yönelik saldırıları devam ediyor. Ukrayna Devlet Başkanı Volodymyr Zelenskyy, Rusya'nın Çarşamba gününden bu yana Ukrayna'ya 1.560'tan fazla insansız hava aracı fırlattığını açıkladı. Bu saldırılarda üç kişinin hayatını kaybettiği bildirildi. Ukrayna genelinde hava savunma sistemleri devreye girerken, sivil altyapı ve yerleşim yerleri hedef alındı. Uluslararası toplum, saldırıları kınayarak taraflara gerilimi düşürme çağrısı yapıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538178/pexels-photo-15538178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T10:56:47.444Z",
+        "location": {
+            "lat": 49,
+            "lng": 32,
+            "name": "Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1778756247292lef50",
+        "title": "BM'den İran Savaşı Uyarısı: Küresel Açlık Krizi Tetiklenebilir",
+        "summary": "Birleşmiş Milletler (BM), İran'da yaşanabilecek olası bir savaşın küresel çapta bir açlık krizini tetikleyebileceği konusunda ciddi bir uyarıda bulundu. Örgüt, Hürmüz Boğazı'ndaki deniz trafiğinde meydana gelebilecek herhangi bir kesintinin, dünya genelinde gıda ve gübre maliyetlerini önemli ölçüde artırabileceğini belirtti. Bu durumun, halihazırda var olan küresel açlık sorununu daha da derinleştireceği ifade edildi. Uyarı, bölgedeki jeopolitik gerilimlerin küresel gıda güvenliği üzerindeki potansiyel yıkıcı etkilerine dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36099563/pexels-photo-36099563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T10:57:27.292Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "177875627058709rnm",
+        "title": "ABD'li Yargıç, BM Raportörü Francesca Albanese'ye Yönelik Yaptırımları Engelledi",
+        "summary": "ABD'de federal bir yargıç, Birleşmiş Milletler (BM) uzmanı Francesca Albanese'ye Trump yönetimi tarafından uygulanan yaptırımları geçici olarak durdurma kararı aldı. Albanese, 1967'den bu yana işgal altındaki Filistin topraklarındaki insan hakları durumuyla ilgili BM Özel Raportörü olarak görev yapmaktadır. Bu yaptırımlar, Albanese'nin Filistin'deki insan hakları ihlallerine ilişkin raporları ve İsrail'e yönelik eleştirileri nedeniyle gündeme gelmişti. Yargıcın kararı, Albanese'nin görevini sürdürmesi ve uluslararası insan hakları mekanizmalarının işleyişi açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36419261/pexels-photo-36419261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T10:57:50.587Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778756314872ils60",
+        "title": "Filistinli Grup Fetih, Ramallah'ta 8. Genel Kongresini Açmaya Hazırlanıyor",
+        "summary": "Filistin'in önde gelen siyasi gruplarından Fetih, 8. genel kongresini düzenlemeye hazırlanıyor. Kongre oturumları, eş zamanlı olarak Ramallah, Gazze, Kahire ve Beyrut'ta gerçekleştirilecek. Bu kongrenin, grubun gelecekteki stratejileri, liderlik yapısı ve Filistin siyasetindeki rolü üzerinde önemli kararlar alınmasına zemin hazırlaması bekleniyor. Toplantıların, Filistin'in iç dinamikleri ve bölgesel ilişkiler üzerindeki etkileri yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9152408/pexels-photo-9152408.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T10:58:34.872Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-group-fatah-set-to-open-8th-general-congress-in-ramallah/3937196",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778756336555axuw1",
+        "title": "İsrail Ordusu Batı Şeria'da Bir Yardım Kuruluşunu Kapattı",
+        "summary": "İsrail ordusu, Batı Şeria'da faaliyet gösteren Madeed adlı bir yardım kuruluşunu kapattı. Kaynaklardan edinilen bilgilere göre, İsrail güçleri söz konusu yardım kuruluşunun binasına baskın düzenleyerek içerideki eşyaları dağıttı. Bu eylemle birlikte Madeed'in bölgedeki insani yardım faaliyetleri durduruldu. Olay, İsrail'in Batı Şeria'daki Filistinli sivil toplum kuruluşlarına yönelik politikaları kapsamında gerçekleştiği belirtiliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36350203/pexels-photo-36350203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T10:58:56.555Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-shuts-down-charity-organization-in-west-bank/3937123",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1778746132427y4j7w",
         "title": "İran Savaşının 76. Gününde Vance'den Görüşmelerde İlerleme Açıklaması; İsrail Lübnan'ı Vurdu",
         "summary": "ABD Başkan Yardımcısı Vance, İran ile yürütülen görüşmelerde ilerleme kaydedildiğini açıkladı. Bu diplomatik gelişme, ABD Başkanı Trump'ın Çin ziyaretine başladığı bir döneme denk geldi. Öte yandan, bölgedeki gerilimin sürdüğü bildirilirken, İsrail güçlerinin Lübnan'a yönelik saldırılar düzenlediği belirtildi. İran savaşının 76. gününde yaşanan bu gelişmeler, Orta Doğu'daki hem askeri hem de diplomatik dinamikleri yansıtıyor.",
@@ -718,85 +798,5 @@
         "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-rejects-kuwait-s-claims-over-alleged-irgc-infiltration/3935582",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1778621270578x084s",
-        "title": "Lübnan Sağlık Bakanı: 2 Mart'tan Bu Yana İsrail Tarafından Lübnan'da 108 Sağlık Çalışanı Öldürüldü",
-        "summary": "Lübnan Sağlık Bakanı Rakan Nassereddine, 2 Mart'tan bu yana İsrail tarafından Lübnan'da 108 sağlık çalışanının öldürüldüğünü açıkladı. Bakan Nassereddine'nin açıklamasına göre, 17 Nisan'daki ateşkesin ardından toplamda 380 kişi hayatını kaybederken, 1.122 kişi de yaralandı. Bu veriler, bölgedeki çatışmaların devam eden insani maliyetini gözler önüne seriyor. Açıklama, Lübnan'daki sivil halk ve sağlık personeli üzerindeki ciddi etkiyi vurguluyor. Bakanın sözleri, gerilimi azaltma çabalarına rağmen süregelen şiddete dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-12T21:27:50.578Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/108-medics-health-workers-killed-by-israel-in-lebanon-since-march-2-health-minister/3935485",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17786158577406nd67",
-        "title": "İran Neden BAE'yi Savaş Mesajlaşmasında Hedef Alıyor?",
-        "summary": "İran'ın savaş söyleminde Birleşik Arap Emirlikleri'ni (BAE) giderek daha fazla hedef almasının nedenleri incelenmektedir. BAE'nin ABD ve İsrail ile geliştirdiği yakın ilişkiler, Körfez ülkesini İran'ın şüpheleri altına sokmuştur. Bu durum, bölgesel gerilimleri artırarak iki ülke arasındaki diplomatik ilişkilerde yeni bir boyut açmaktadır. İran, BAE'nin bu ittifaklarını kendi ulusal güvenliğine yönelik bir tehdit olarak algılamaktadır. Bölgedeki güç dengeleri ve ittifaklar, bu tür mesajlaşmaların temelini oluşturmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560842/pexels-photo-8560842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-12T19:57:37.740Z",
-        "location": {
-            "lat": 24.4539,
-            "lng": 54.3773,
-            "name": "Birleşik Arap Emirlikleri, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778607326167x2k1v",
-        "title": "ABD Savunma Bakanı'ndan İran Ateşkesi Açıklaması",
-        "summary": "ABD Savunma Bakanı'nın, İran ile ilgili bir ateşkesin 'yürürlükte kaldığını' belirttiği bildirildi. Habere göre, Pete Hegseth Temsilciler Meclisi alt komitesine yaptığı açıklamada, 'Biliyoruz. Bu açık ve ateşkes yürürlükte,' ifadelerini kullandı. Bu açıklama, Orta Doğu'daki güvenlik durumu ve İran'ın bölgesel politikalarına ilişkin devam eden tartışmalar bağlamında önem taşıyor. Ateşkesin detayları veya hangi çatışma bağlamında olduğu belirtilmese de, ABD'nin İran'a yönelik tutumunu yansıtması açısından dikkat çekici bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-12T17:35:26.167Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-defense-chief-says-iran-ceasefire-remains-in-effect/3935335",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778599301726hw1jz",
-        "title": "İsrail Ateşi Sonrası Filistinli Gencin Hayatı Değişti",
-        "summary": "İşgal altındaki Batı Şeria'da, Nablus yakınlarındaki bir tepede İsrail askerleri tarafından vurulan 16 yaşındaki Filistinli Amir Othman'ın hayatı kökten değişti. Olay, gencin yaşamında kalıcı etkiler bırakırken, bölgedeki gerilimi bir kez daha gözler önüne serdi. Filistinli kaynaklar, İsrail güçlerinin bölgedeki operasyonları sırasında sivillerin hedef alındığını belirtiyor. İsrail makamları ise genellikle bu tür olaylarda güvenlik gerekçelerini öne sürüyor. Bu olay, İsrail-Filistin çatışmasının insani boyutunu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6090839/pexels-photo-6090839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-12T15:21:41.726Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778588761723t30ix",
-        "title": "Filistin Nüfusu Dünya Genelinde 15.5 Milyona Ulaştı, Yarısı Filistin Topraklarında Yaşıyor",
-        "summary": "Filistin Merkezi İstatistik Bürosu'nun açıkladığı verilere göre, dünya genelindeki Filistin nüfusu 15.5 milyona ulaştı. Bu nüfusun yaklaşık yarısı, tarihi Filistin toprakları olarak bilinen bölgelerde ikamet ediyor. Raporda ayrıca, Gazze Şeridi ve işgal altındaki Batı Şeria'da 2 milyondan fazla Filistinlinin yerinden edildiği belirtildi. Bu istatistikler, Filistin halkının demografik yapısı ve yaşadığı zorluklar hakkında önemli bilgiler sunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19028574/pexels-photo-19028574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-12T12:26:01.723Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.2,
-            "name": "Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-population-reaches-155-million-worldwide-half-lives-in-palestine/3934984",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
