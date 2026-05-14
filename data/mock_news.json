@@ -1,5 +1,21 @@
 [
     {
+        "id": "17787968243934k2bl",
+        "title": "Analist: Çin, ABD'nin İran politikalarından kazançlı çıkıyor",
+        "summary": "Jeopolitik analist Steve Okun, Çin'in ABD'nin İran'a yönelik politikalarından fayda sağladığını öne sürdü. Okun'a göre, ABD'nin İran'a karşı uyguladığı baskı ve gerilim, Pekin için stratejik avantajlar yaratıyor. Bu durum, Orta Doğu'daki jeopolitik güç dengelerinin yeniden şekillenmesinde önemli bir rol oynuyor. Analist, ABD'nin İran üzerindeki eylemlerinin Çin'in bölgedeki nüfuzunu artırmasına zemin hazırladığını belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6220559/pexels-photo-6220559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T22:13:44.393Z",
+        "location": {
+            "lat": 32.4,
+            "lng": 53.7,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778792014464pb40j",
         "title": "Filistin Devlet Başkanı Abbas, Fatah Konferansı'nda Seçim ve Reform Sözü Verdi",
         "summary": "Filistin Devlet Başkanı Mahmud Abbas, Fatah hareketinin liderliğine oybirliğiyle yeniden seçildi. Fatah konferansında yaptığı konuşmada Abbas, Filistin'de seçimlerin yapılacağı ve reformların gerçekleştirileceği yönünde taahhütlerde bulundu. Bu gelişme, Filistin iç siyaseti ve Fatah hareketinin geleceği açısından önemli bir dönüm noktası olarak değerlendiriliyor. Abbas'ın yeniden seçilmesi, Filistin Yönetimi'nin mevcut siyasi çizgisinin devam edeceği sinyalini veriyor.",
@@ -780,22 +796,6 @@
             "name": "Tel Aviv, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-premier-appears-in-tel-aviv-court-for-87th-hearing-in-corruption-trial/3935993",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778668477734ykjnq",
-        "title": "İsrail ordusu Batı Şeria'da onlarca kişiyi gözaltına aldı, işgalcilerin saldırıları tırmanıyor",
-        "summary": "İsrail ordusu, Batı Şeria'da gerçekleştirdiği bir baskında onlarca kişiyi gözaltına aldı. Bölgedeki işgalcilerin saldırılarının tırmandığı belirtiliyor. Ramallah'ın kuzeyindeki Sinjil kasabası yakınlarında Filistinlilere ait mülklerin hedef alındığı bildirildi. Olaylar sırasında koyun ve traktör gibi malların çalındığı kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33829904/pexels-photo-33829904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-13T10:34:37.734Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Sinjil, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-holds-dozens-in-west-bank-raid-as-occupiers-escalate-attacks/3935941",
         "trendScore": 85,
         "isBreaking": false
     }
