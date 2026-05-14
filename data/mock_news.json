@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778801446231fju2w",
+        "title": "Türkiye, Irak'ın yeni hükümetini karşılarken destek sözü verdi",
+        "summary": "Ankara, Başbakan Ali el-Zaidi liderliğindeki Irak'ın yeni hükümetini memnuniyetle karşıladığını duyurdu. Türkiye, yeni yönetimin ülkedeki istikrarı, refahı ve bölgesel entegrasyonu güçlendireceği yönündeki umudunu dile getirdi. Yapılan açıklamada, iki ülke arasındaki yakın iş birliğinin devam edeceği vurgulandı. Türkiye, Irak'ın yeni döneminde başarılı olması için destek vermeye hazır olduğunu belirtti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T23:30:46.231Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkiye-pledges-support-as-it-welcomes-iraq-s-new-government/3937844",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17787968243934k2bl",
         "title": "Analist: Çin, ABD'nin İran politikalarından kazançlı çıkıyor",
         "summary": "Jeopolitik analist Steve Okun, Çin'in ABD'nin İran'a yönelik politikalarından fayda sağladığını öne sürdü. Okun'a göre, ABD'nin İran'a karşı uyguladığı baskı ve gerilim, Pekin için stratejik avantajlar yaratıyor. Bu durum, Orta Doğu'daki jeopolitik güç dengelerinin yeniden şekillenmesinde önemli bir rol oynuyor. Analist, ABD'nin İran üzerindeki eylemlerinin Çin'in bölgedeki nüfuzunu artırmasına zemin hazırladığını belirtti.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/2-children-among-8-killed-in-israeli-airstrikes-south-of-beirut/3936029",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17786684552541fhc8",
-        "title": "İsrail Başbakanı yolsuzluk davasında 87. kez mahkemeye çıktı",
-        "summary": "İsrail Başbakanı, hakkında açılan yolsuzluk davasının 87. duruşması için Tel Aviv'deki mahkemede hazır bulundu. Başbakan, üç ayrı büyük yolsuzluk davasında rüşvet, dolandırıcılık ve görevi kötüye kullanma suçlamalarıyla karşı karşıya. Dava, İsrail siyasetinde önemli bir gündem maddesi olmaya devam ediyor. Yargı süreci, ülkenin iç siyasetinde geniş yankı uyandırıyor ve kamuoyunun dikkatini çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7875998/pexels-photo-7875998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-13T10:34:15.254Z",
-        "location": {
-            "lat": 32.08,
-            "lng": 34.78,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-premier-appears-in-tel-aviv-court-for-87th-hearing-in-corruption-trial/3935993",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
