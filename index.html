@@ -48,7 +48,7 @@
 
 <body>
 
-    <header class="app-header">
+  <header class="app-header">
         <div class="header-container">
             <a href="index.html" id="siteLogo" style="text-decoration: none; display: flex; align-items: center;">
                 <div class="logo">
@@ -65,6 +65,9 @@
                 <button class="toggle-btn active" id="btn-feed" title="Haber Akışı">
                     <i class="fa-solid fa-stream"></i> Akış
                 </button>
+                <button class="toggle-btn" id="btn-categories-drawer" title="Kategoriler">
+                    <i class="fa-solid fa-layer-group"></i> Kategoriler
+                </button>
                 <button class="toggle-btn" id="btn-map" title="Rasathane (Harita)">
                     <i class="fa-solid fa-earth-asia"></i> Rasathane
                 </button>
@@ -77,13 +80,12 @@
               <button class="toggle-btn" id="btn-tv" title="UR TV Orijinal Belgeselleri">
                     <i class="fa-solid fa-tv"></i> UR TV
                 </button>
-                <button onclick="openNewsletterModal()" class="toggle-btn" style="color: #3498db; border: 1px solid #3498db; margin-left: 15px; white-space: nowrap; position: relative; z-index: 50; padding: 0 15px;">
-                    <i class="fa-solid fa-envelope-open-text"></i> Bültene Abone Ol
-                </button>
             </div>
             
-            
-            <div class="lang-selector">
+            <div class="lang-selector" style="display: flex; align-items: center; gap: 12px;">
+                <button onclick="openNewsletterModal()" class="toggle-btn" style="color: #3498db; border: 1px solid #3498db; white-space: nowrap; padding: 0 15px; height: 36px; border-radius: 8px; background: transparent; cursor: pointer; font-size: 13px; font-weight: 500;">
+                    <i class="fa-solid fa-envelope-open-text"></i> Bültene Abone Ol
+                </button>
                 <select id="languageSelect" class="notranslate" translate="no">
                     <option value="tr" selected>🇹🇷 Türkçe</option>
                     <option value="en">🇬🇧 English</option>
@@ -92,7 +94,31 @@
             </div>
         </div>
     </header>
-
+    <div id="categoriesDrawer" class="categories-drawer hidden">
+        <div class="drawer-content" style="max-width: 1200px; margin: 0 auto; padding: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+            <div class="drawer-column">
+                <h4 style="color: #3498db; margin-bottom: 15px; border-bottom: 1px solid #333; padding-bottom: 5px;">Haber Kategorileri</h4>
+                <ul id="drawerCategoryList" style="list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                    <li data-cat="Diplomatik" style="cursor: pointer; color: #ccc;">Diplomatik</li>
+                    <li data-cat="Ekonomik" style="cursor: pointer; color: #ccc;">Ekonomik</li>
+                    <li data-cat="Çatışma ve Güvenlik" style="cursor: pointer; color: #ccc;">Çatışma ve Güvenlik</li>
+                    <li data-cat="Toplum ve İnsan Hakları" style="cursor: pointer; color: #ccc;">Toplum ve İnsan Hakları</li>
+                    <li data-cat="Enerji ve Altyapı" style="cursor: pointer; color: #ccc;">Enerji ve Altyapı</li>
+                    <li data-cat="Çevre ve İklim" style="cursor: pointer; color: #ccc;">Çevre ve İklim</li>
+                </ul>
+            </div>
+            <div class="drawer-column">
+                <h4 style="color: #3498db; margin-bottom: 15px; border-bottom: 1px solid #333; padding-bottom: 5px;">Ülkeler</h4>
+                <ul id="drawerCountryList" style="list-style: none; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; color: #ccc;">
+                    <li>Türkiye</li>
+                    <li>İran</li>
+                    <li>Irak</li>
+                    <li>Suriye</li>
+                    <li>Lübnan</li>
+                </ul>
+            </div>
+        </div>
+    </div>
     <main class="app-main">
 
         <section class="feed-container" id="feedContainer">
