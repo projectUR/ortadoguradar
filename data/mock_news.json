@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778779277517hrrdv",
+        "title": "Lamine Yamal'ın Filistin Bayrağı Hareketi Tartışma Yarattı",
+        "summary": "Barcelona'nın genç yıldızı Lamine Yamal'ın Filistin bayrağı sallaması, kamuoyunda geniş yankı uyandırdı ve farklı görüşlerin ortaya çıkmasına neden oldu. Bu hareketin ardından, Filistin'in Gazze Şeridi'nde genç futbolcunun anısına bir duvar resmi yapıldığı bildirildi. Olay, spor dünyasının siyasi sembollerle olan etkileşimini ve bu tür jestlerin toplumsal algı üzerindeki etkisini bir kez daha gündeme taşıdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32304414/pexels-photo-32304414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-14T17:21:17.517Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gaza City, Palestine"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/14/lamine-yamal-divides-opinion-with-palestinian-flag-gesture?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17787723688205b870",
         "title": "İsrailli Bakan, Lamine Yamal'ın Filistin Bayrağı Sallamasını Kınadı",
         "summary": "İspanyol milli futbolcu Lamine Yamal, Barcelona'nın La Liga şampiyonluğunu kutladığı otobüs geçidi sırasında Filistin bayrağı salladığı için eleştirilerin hedefi oldu. Bu olay, İsrailli bir bakanın sert tepkisine yol açtı. Bakan, Yamal'ın bu hareketini kınayarak, sporun siyasetten uzak tutulması gerektiğini belirtti. Olay, spor ve siyasetin kesiştiği hassas bir konuyu yeniden gündeme getirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/2-israeli-soldiers-injured-in-explosive-drone-blast-near-lebanon-border/3935723",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1778658111663g72z8",
-        "title": "İsrail Güçleri, İşgal Altındaki Batı Şeria'daki Yusuf Türbesi'ne Baskın Düzenledi",
-        "summary": "İşgal altındaki Batı Şeria'da yer alan Yusuf Türbesi'ne İsrail güçleri tarafından bir baskın düzenlendiği bildirildi. Bölgedeki askeri koruma altında gerçekleşen bu olayın, yerel kaynaklarca gerilime yol açtığı belirtildi. Baskın ve beraberindeki askeri tedbirler nedeniyle bölgedeki okulların açılış saatinin ertelendiği kaydedildi. Bu gelişme, Batı Şeria'daki hassas dini mekanlar çevresindeki güvenlik durumunu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30403110/pexels-photo-30403110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-13T07:41:51.663Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-raid-joseph-s-tomb-in-occupied-west-bank-under-army-protection/3935722",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
