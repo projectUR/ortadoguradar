@@ -885,3 +885,35 @@ function fixMobileGames() {
         gameGrid.style.gridTemplateColumns = 'repeat(auto-fit, minmax(250px, 1fr))';
     }
 }
+// Köşe Yazıları ve Canlı Akış Sekme Geçişi
+document.addEventListener('DOMContentLoaded', () => {
+    const tabLive = document.getElementById('tab-live-feed');
+    const tabEditorials = document.getElementById('tab-editorials');
+    const newsFeed = document.getElementById('newsFeed');
+    const editorialFeed = document.getElementById('editorialFeed');
+    const liveIndicator = document.getElementById('live-indicator-badge');
+
+    if(tabLive && tabEditorials) {
+        tabLive.addEventListener('click', () => {
+            tabLive.classList.add('active');
+            tabLive.style.color = 'var(--text-primary)';
+            tabEditorials.classList.remove('active');
+            tabEditorials.style.color = '#888';
+            
+            newsFeed.style.display = 'block';
+            editorialFeed.style.display = 'none';
+            liveIndicator.style.display = 'inline-block';
+        });
+
+        tabEditorials.addEventListener('click', () => {
+            tabEditorials.classList.add('active');
+            tabEditorials.style.color = 'var(--text-primary)';
+            tabLive.classList.remove('active');
+            tabLive.style.color = '#888';
+            
+            newsFeed.style.display = 'none';
+            editorialFeed.style.display = 'flex';
+            liveIndicator.style.display = 'none';
+        });
+    }
+});
