@@ -110,7 +110,8 @@
 
         <div class="editorial-feed" id="editorialFeed" style="display: none; flex-direction: column; gap: 20px; padding-top: 15px;">
             <div class="editorial-card" style="background: #1a1a1a; border: 1px solid #333; border-radius: 12px; padding: 20px; position: relative;">
-                <div class="author-info" style="display: inline-flex; align-items: center; gap: 12px; margin-bottom: 15px; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+                <span style="position: absolute; top: 24px; right: 24px; color: var(--text-secondary); font-size: 0.85rem; font-weight: 500;">15 Mayıs 2026</span>
+               <div class="author-info" onclick="openAuthorArchive()" style="display: inline-flex; align-items: center; gap: 12px; margin-bottom: 15px; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
                    <img src="TrenciJack.png" alt="Trenci Jack" style="width: 48px; height: 48px; border-radius: 50%; border: 2px solid #444; object-fit: cover;">
 <div>
     <h4 style="margin: 0; color: #fff; font-size: 1.1rem;">Trenci Jack</h4>
@@ -445,6 +446,47 @@ Oluşan bu güç vakumunda, Ankara'nın Irak'ın yeni hükümetiyle kurduğu pro
         <button id="chat-bubble" onclick="toggleChat()" style="position: fixed; bottom: 25px; right: 25px; width: 60px; height: 60px; border-radius: 50%; background: #3498db; color: white; border: none; font-size: 24px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.3); z-index: 10001;">
             <i class="fa-solid fa-comment-dots"></i>
         </button>
+    </div>
+    <div id="authorArchiveModal" class="hidden quiz-modal" style="z-index: 100000; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(8px);">
+        <div class="quiz-modal-content" style="max-width: 600px; width: 90%; background: #111; border: 1px solid #333; padding: 30px; border-radius: 16px; text-align: left; position: relative; box-shadow: 0 15px 40px rgba(0,0,0,0.8);">
+            
+            <button onclick="closeAuthorArchive()" style="position: absolute; top: 20px; right: 20px; background: none; border: none; color: #888; font-size: 1.5rem; cursor: pointer; transition: 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#888'">&times;</button>
+            
+            <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #222;">
+                <img src="TrenciJack.png" alt="Trenci Jack" style="width: 70px; height: 70px; border-radius: 50%; border: 2px solid var(--accent-blue); object-fit: cover;">
+                <div>
+                    <h3 style="margin: 0 0 5px 0; color: #fff; font-size: 1.5rem;">Trenci Jack</h3>
+                    <span style="color: var(--accent-blue); font-size: 0.95rem; font-weight: 600;">Bağımsız Analist</span>
+                </div>
+            </div>
+
+            <h4 style="color: var(--text-secondary); margin-bottom: 15px; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">Yazarın Arşivi</h4>
+            
+            <div style="display: flex; flex-direction: column; gap: 12px; max-height: 400px; overflow-y: auto; padding-right: 5px;">
+                
+                <div style="background: #1a1a1a; border: 1px solid #222; padding: 15px; border-radius: 10px; cursor: pointer; transition: 0.2s;" onmouseover="this.style.borderColor='var(--accent-blue)'; this.style.transform='translateX(5px)'" onmouseout="this.style.borderColor='#222'; this.style.transform='translateX(0)'">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 15px;">
+                        <h4 style="margin: 0; color: #fff; font-size: 1.05rem; line-height: 1.4;">Kusursuz Fırtına: Tahran-Pekin Hattı ve Levant'ta Kırılan Fay Hatları</h4>
+                        <span style="color: #666; font-size: 0.8rem; white-space: nowrap; margin-top: 3px;">15 Mayıs 2026</span>
+                    </div>
+                </div>
+
+                <div style="background: #1a1a1a; border: 1px solid #222; padding: 15px; border-radius: 10px; cursor: pointer; transition: 0.2s;" onmouseover="this.style.borderColor='var(--accent-blue)'; this.style.transform='translateX(5px)'" onmouseout="this.style.borderColor='#222'; this.style.transform='translateX(0)'">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 15px;">
+                        <h4 style="margin: 0; color: #fff; font-size: 1.05rem; line-height: 1.4;">Gazze'nin Ötesi: Yeni Bir Bölgesel Düzen mi Doğuyor?</h4>
+                        <span style="color: #666; font-size: 0.8rem; white-space: nowrap; margin-top: 3px;">28 Nisan 2026</span>
+                    </div>
+                </div>
+                
+                <div style="background: #1a1a1a; border: 1px solid #222; padding: 15px; border-radius: 10px; cursor: pointer; transition: 0.2s;" onmouseover="this.style.borderColor='var(--accent-blue)'; this.style.transform='translateX(5px)'" onmouseout="this.style.borderColor='#222'; this.style.transform='translateX(0)'">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 15px;">
+                        <h4 style="margin: 0; color: #fff; font-size: 1.05rem; line-height: 1.4;">Petrol Koridorunda Yeni Satranç: Körfez'in Sessiz Bekleyişi</h4>
+                        <span style="color: #666; font-size: 0.8rem; white-space: nowrap; margin-top: 3px;">04 Nisan 2026</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
 </body>
 </html>
