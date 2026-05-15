@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778808262607gh9rv",
+        "title": "Eurovision'da İsrail'in Katılımına Yönelik Yeni Protestolar Bekleniyor",
+        "summary": "Eurovision Şarkı Yarışması büyük finale yaklaşırken, organizatörler İsrail'in katılımına karşı düzenlenecek yeni protesto gösterilerine hazırlanıyor. Yarışmanın düzenlendiği şehirde, İsrail'in Gazze'deki eylemleri nedeniyle ülkenin yarışmadan men edilmesi yönünde çağrılar yapılıyor. Bu çağrılar, uluslararası kamuoyunda İsrail'in yarışmadaki varlığına yönelik artan tepkileri yansıtıyor. Protestoların, yarışmanın final aşamalarında da devam etmesi ve güvenlik önlemlerinin artırılması bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/12017424/pexels-photo-12017424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-15T01:24:22.607Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778808284699y51h4",
+        "title": "İran Dışişleri Bakanı: İranlılar Boyun Eğmeyecek, Askeri Çözüm Yok",
+        "summary": "İran Dışişleri Bakanı, ülkesinin 'boyun eğmeyeceğini' vurgulayarak, Tahran ile yaşanan anlaşmazlıkların askeri bir çözümü olmadığını belirtti. Bu açıklama, ABD Başkanı Trump'ın Çin'e gerçekleştirdiği ziyaretin İran ile süregelen gerilimin gölgesinde kaldığı bir dönemde yapıldı. Bakan, İran halkının kararlılığını ve uluslararası baskılara karşı direncini dile getirdi. Ayrıca, bölgesel ve uluslararası sorunların çözümünde diplomatik yolların esas alınması gerektiğinin altını çizdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803713/pexels-photo-15803713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-15T01:24:44.699Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1778801446231fju2w",
         "title": "Türkiye, Irak'ın yeni hükümetini karşılarken destek sözü verdi",
         "summary": "Ankara, Başbakan Ali el-Zaidi liderliğindeki Irak'ın yeni hükümetini memnuniyetle karşıladığını duyurdu. Türkiye, yeni yönetimin ülkedeki istikrarı, refahı ve bölgesel entegrasyonu güçlendireceği yönündeki umudunu dile getirdi. Yapılan açıklamada, iki ülke arasındaki yakın iş birliğinin devam edeceği vurgulandı. Türkiye, Irak'ın yeni döneminde başarılı olması için destek vermeye hazır olduğunu belirtti.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/13/series-of-tremors-near-tehran-renews-concerns-over-major-quake-risk?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1778668391702xd86s",
-        "title": "BM'den Hürmüz Boğazı'nda seyrüsefer serbestisi çağrısı",
-        "summary": "Birleşmiş Milletler, küresel petrol ve doğalgaz ticaretinin önemli bir kısmının geçtiği stratejik Hürmüz Boğazı'nda seyrüsefer serbestisinin sağlanması yönünde bir karar kabul etti. Bu karar, tüm gemilerin uluslararası hukuka uygun olarak boğazdan güvenli ve engelsiz geçiş hakkına sahip olduğunu vurgulamaktadır. Bölgedeki gerilimler ve zaman zaman yaşanan olaylar nedeniyle uluslararası seyrüsefer güvenliği sıkça gündeme gelmektedir. BM'nin bu diplomatik adımı, bölgesel istikrarın ve küresel enerji tedarik zincirinin korunması açısından büyük önem taşımaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36263106/pexels-photo-36263106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-13T10:33:11.702Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/13/un-resolution-calls-for-freedom-of-navigation-in-the-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1778668433435mlqo9",
-        "title": "İsrail'in Beyrut Güneyine Düzenlediği Hava Saldırılarında 2'si Çocuk 8 Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in Lübnan'ın başkenti Beyrut'un güneyindeki kıyı bölgelerine hava saldırıları düzenlediği bildirildi. Sağlık Bakanlığı'ndan yapılan açıklamaya göre, saldırılarda 2'si çocuk olmak üzere toplam 8 kişi yaşamını yitirdi. Hava saldırıları, Beyrut'u Sayda ve Güney Lübnan'a bağlayan otoyol üzerindeki Barja, Jiyeh ve Saadiyat bölgelerini hedef aldı. Bölgede can kaybına yol açan saldırılar, Lübnan'da endişe yarattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19237317/pexels-photo-19237317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-13T10:33:53.435Z",
-        "location": {
-            "lat": 33.65,
-            "lng": 35.45,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-children-among-8-killed-in-israeli-airstrikes-south-of-beirut/3936029",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
