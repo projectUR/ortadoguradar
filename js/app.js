@@ -917,3 +917,19 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+// Yazar Arşivi Modalını Aç/Kapat
+function openAuthorArchive() {
+    const modal = document.getElementById('authorArchiveModal');
+    if (modal) {
+        modal.classList.remove('hidden');
+        document.body.style.overflow = 'hidden'; // Arka planın kaymasını engelle
+    }
+}
+
+function closeAuthorArchive() {
+    const modal = document.getElementById('authorArchiveModal');
+    if (modal) {
+        modal.classList.add('hidden');
+        document.body.style.overflow = 'auto'; // Arka plan kaydırmasını geri aç
+    }
+}
