@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778884237628vkyrp",
+        "title": "Mahmoud Khalil'in Sınır Dışı Kararının Durdurulması Çağrısı",
+        "summary": "Avukatlar, Filistin yanlısı Columbia Üniversitesi öğrencisi Mahmoud Khalil'in sınır dışı edilme davasında yeni kanıtların ortaya çıktığını duyurdu. Bu kanıtların, Trump yönetiminin davanın sonucunu \"tasarladığını\" gösterdiği iddia ediliyor. Khalil'in avukatları, müvekkillerinin sınır dışı edilme sürecinin bu yeni bulgular ışığında derhal durdurulması çağrısında bulundu. Olay, ABD'deki Filistin yanlısı aktivistlerin karşılaştığı yasal zorlukları ve siyasi müdahaleleri bir kez daha gündeme getiriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35053524/pexels-photo-35053524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-15T22:30:37.628Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778884415853jfwz8",
+        "title": "İsrail'in Gazze Şeridi'ne Düzenlediği Saldırılarda 8 Filistinli Hayatını Kaybetti",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarında sekiz Filistinlinin hayatını kaybettiği, onlarca kişinin ise yaralandığı bildirildi. Anadolu Ajansı'na konuşan tıbbi kaynaklar ve görgü tanıkları, Gazze Şehri'nde iki ayrı hava saldırısının bir yerleşim binasını ve sivil bir aracı hedef aldığını belirtti. Saldırıların, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleştiği ifade edildi. Bu olay, Orta Doğu'daki İsrail-Filistin çatışmasının hassasiyetini ve gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29159810/pexels-photo-29159810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-15T22:33:35.853Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/8-palestinians-killed-dozens-injured-in-israeli-strikes-on-gaza-city-despite-ceasefire/3939106",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778879194443jd2vs",
         "title": "Trump, gazetecinin İran haberlerini 'vatana ihanet' olarak nitelendirdi",
         "summary": "ABD Başkanı Donald Trump, New York Times gazetesinden bir gazetecinin İran savaşına ilişkin haberlerini 'vatana ihanet' olarak değerlendirdi. Başkan Trump, bu açıklamayı yaparken aynı zamanda bir 'zafer' iddia etti. Bu durum, ABD'nin İran'a yönelik politikaları ve medya ile ilişkileri bağlamında önemli bir gelişme olarak değerlendiriliyor. Söz konusu yorumlar, gazetecilik özgürlüğü ile ulusal güvenlik arasındaki hassas dengeyi bir kez daha gündeme getirirken, kamuoyunda geniş yankı uyandırdı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-shuts-down-charity-organization-in-west-bank/3937123",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1778746132427y4j7w",
-        "title": "İran Savaşının 76. Gününde Vance'den Görüşmelerde İlerleme Açıklaması; İsrail Lübnan'ı Vurdu",
-        "summary": "ABD Başkan Yardımcısı Vance, İran ile yürütülen görüşmelerde ilerleme kaydedildiğini açıkladı. Bu diplomatik gelişme, ABD Başkanı Trump'ın Çin ziyaretine başladığı bir döneme denk geldi. Öte yandan, bölgedeki gerilimin sürdüğü bildirilirken, İsrail güçlerinin Lübnan'a yönelik saldırılar düzenlediği belirtildi. İran savaşının 76. gününde yaşanan bu gelişmeler, Orta Doğu'daki hem askeri hem de diplomatik dinamikleri yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28297262/pexels-photo-28297262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T08:08:52.427Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İran, İsrail, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778746153970h6e6s",
-        "title": "Trump, Xi Jinping ile görüşmeler için Çin'de",
-        "summary": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Xi Jinping ile yüksek önem taşıyan bir zirve için Pekin'i ziyaret etti. Zirvede, iki ülke arasındaki ilişkileri geren kritik konular ele alındı. Görüşmelerin ana gündem maddeleri arasında İran meselesi, ticaret anlaşmazlıkları ve Tayvan konusu yer aldı. Bu başlıklar, ABD ile Çin arasındaki diplomatik ve ekonomik gerilimleri yansıtmaktadır. Liderlerin, bu zorlu konulara çözüm bulma arayışında olduğu belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1367274/pexels-photo-1367274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T08:09:13.970Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 116.4,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
