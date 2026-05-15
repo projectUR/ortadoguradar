@@ -933,3 +933,18 @@ function closeAuthorArchive() {
         document.body.style.overflow = 'auto'; // Arka plan kaydırmasını geri aç
     }
 }
+function openTurgutArchive() {
+    const modal = document.getElementById('turgutArchiveModal');
+    if (modal) {
+        modal.classList.remove('hidden');
+        document.body.style.overflow = 'hidden';
+    }
+}
+
+function closeTurgutArchive() {
+    const modal = document.getElementById('turgutArchiveModal');
+    if (modal) {
+        modal.classList.add('hidden');
+        document.body.style.overflow = 'auto';
+    }
+}
