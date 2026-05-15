@@ -489,7 +489,7 @@
 <div id="turgutArchiveModal" class="hidden quiz-modal" style="z-index: 100000; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(8px);">
     <div class="quiz-modal-content" style="max-width: 600px; width: 90%; background: #111; border: 1px solid #333; padding: 30px; border-radius: 16px; text-align: left; position: relative; box-shadow: 0 15px 40px rgba(0,0,0,0.8);">
         
-        <button onclick="closeTurgutArchive()" style="position: absolute; top: 20px; right: 20px; background: none; border: none; color: #888; font-size: 1.5rem; cursor: pointer;">&times;</button>
+        <button onclick="closeTurgutArchive()" style="position: absolute; top: 20px; right: 20px; background: none; border: none; color: #888; font-size: 1.5rem; cursor: pointer; transition: 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#888'">&times;</button>
         
         <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #222;">
             <img src="TurgutKarahan.png" alt="Turgut Karahan" style="width: 70px; height: 70px; border-radius: 50%; border: 2px solid var(--accent-blue); object-fit: cover;">
@@ -502,18 +502,14 @@
         <h4 style="color: var(--text-secondary); margin-bottom: 15px; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">Yazarın Arşivi</h4>
         
         <div style="display: flex; flex-direction: column; gap: 12px; max-height: 400px; overflow-y: auto; padding-right: 5px;">
-            <div onclick="closeTurgutArchive(); document.getElementById('tab-editorials').click();" style="background: #1a1a1a; border: 1px solid #222; padding: 15px; border-radius: 10px; cursor: pointer; transition: 0.2s;">
+            
+            <div onclick="closeTurgutArchive(); document.getElementById('tab-editorials').click();" style="background: #1a1a1a; border: 1px solid #222; padding: 15px; border-radius: 10px; cursor: pointer; transition: 0.2s;" onmouseover="this.style.borderColor='var(--accent-blue)'; this.style.transform='translateX(5px)'" onmouseout="this.style.borderColor='#222'; this.style.transform='translateX(0)'">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 15px;">
                     <h4 style="margin: 0; color: #fff; font-size: 1.05rem; line-height: 1.4;">Geçmişin Gölgesinde Geleceği Okumak: Yüz Yıllık Enkaz</h4>
-                    <span style="color: #666; font-size: 0.8rem; white-space: nowrap;">15 Mayıs 2026</span>
+                    <span style="color: #666; font-size: 0.8rem; white-space: nowrap; margin-top: 3px;">15 Mayıs 2026</span>
                 </div>
             </div>
-            <div style="background: #1a1a1a; border: 1px solid #222; padding: 15px; border-radius: 10px; cursor: pointer; opacity: 0.7;">
-                <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 15px;">
-                    <h4 style="margin: 0; color: #fff; font-size: 1.05rem; line-height: 1.4;">Sykes-Picot'nun Görünmeyen Fay Hatları</h4>
-                    <span style="color: #666; font-size: 0.8rem; white-space: nowrap;">22 Nisan 2026</span>
-                </div>
-            </div>
+
         </div>
     </div>
 </div>
