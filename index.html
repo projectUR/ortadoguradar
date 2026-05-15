@@ -96,16 +96,35 @@
     <main class="app-main">
 
         <section class="feed-container" id="feedContainer">
-            <div class="feed-header">
-                <h2>Canlı Akış</h2>
-                <span class="live-indicator"><span class="dot"></span> Güncelleniyor</span>
-            </div>
+          <div class="feed-header" style="display: flex; align-items: center; gap: 20px;">
+            <h2 id="tab-live-feed" class="feed-tab active" style="cursor: pointer; margin: 0; color: var(--text-primary); transition: color 0.3s;">Canlı Akış</h2>
+            <h2 id="tab-editorials" class="feed-tab" style="cursor: pointer; margin: 0; color: #888; transition: color 0.3s;">Köşe Yazıları</h2>
+            <span class="live-indicator" id="live-indicator-badge" style="margin-left: auto;"><span class="dot"></span> Güncelleniyor</span>
+        </div>
 
-            <div class="news-feed" id="newsFeed">
-                <div class="loading-state">
-                    <i class="fa-solid fa-circle-notch fa-spin"></i> Veriler Yükleniyor...
+        <div class="news-feed" id="newsFeed">
+            <div class="loading-state">
+                <i class="fa-solid fa-circle-notch fa-spin"></i> Veriler Yükleniyor...
+            </div>
+        </div>
+
+        <div class="editorial-feed" id="editorialFeed" style="display: none; flex-direction: column; gap: 20px; padding-top: 15px;">
+            <div class="editorial-card" style="background: #1a1a1a; border: 1px solid #333; border-radius: 12px; padding: 20px; position: relative;">
+                <div class="author-info" style="display: inline-flex; align-items: center; gap: 12px; margin-bottom: 15px; cursor: pointer; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+                    <img src="https://ui-avatars.com/api/?name=Yazar+Ismi&background=3498db&color=fff" alt="Yazar" style="width: 48px; height: 48px; border-radius: 50%; border: 2px solid #444; object-fit: cover;">
+                    <div>
+                        <h4 style="margin: 0; color: #fff; font-size: 1.1rem;">Yazar İsmi</h4>
+                        <span style="font-size: 0.8rem; color: var(--accent-blue); font-weight: 600;">Levant Analisti</span>
+                    </div>
+                </div>
+                <div class="editorial-content">
+                    <h3 style="color: var(--text-primary); margin-top: 0; margin-bottom: 10px; font-size: 1.3rem;">Örnek Köşe Yazısı Başlığı</h3>
+                    <p style="color: #ccc; font-size: 0.95rem; line-height: 1.6; margin: 0;">
+                        Köşe yazısı metni buraya gelecek. Bu alanı sen yeni yazılar attıkça güncelleyeceğiz...
+                    </p>
                 </div>
             </div>
+        </div>
         </section>
 
         <aside class="sidebar-right">
