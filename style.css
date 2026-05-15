@@ -1685,3 +1685,123 @@ body {
         height: auto !important;
     }
 }
+/* =========================================
+   KÖŞE YAZILARI (EDITORIALS) SEKMESİ VE KARTLARI
+   ========================================= */
+
+/* Sekme Başlıkları ve Aktiflik Durumu */
+.feed-header {
+    position: relative; /* Alt çizgiler için referans noktası */
+}
+
+.feed-tab {
+    cursor: pointer;
+    margin: 0;
+    color: var(--text-secondary) !important; /* HTML'deki inline stili ezer */
+    transition: var(--transition);
+    position: relative;
+    padding-bottom: 16px; /* Alt çizgi için boşluk */
+    margin-bottom: -16px; /* feed-header padding'ini dengeler */
+}
+
+.feed-tab:hover {
+    color: var(--text-primary) !important;
+}
+
+.feed-tab.active {
+    color: var(--text-primary) !important;
+}
+
+/* Aktif Sekmenin Altına Şık UR Mavisi Çizgi */
+.feed-tab::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background-color: var(--accent-blue);
+    transition: var(--transition);
+    border-radius: 3px 3px 0 0;
+}
+
+.feed-tab.active::after {
+    width: 100%;
+}
+
+/* Köşe Yazısı Akış Alanı */
+.editorial-feed {
+    /* display durumu JS tarafından yönetiliyor */
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 5px;
+}
+
+/* Köşe Yazısı Kartı - Hover (Üzerine Gelme) Efektleri */
+.editorial-card {
+    background: var(--bg-surface) !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: var(--radius-lg) !important;
+    padding: 24px !important;
+    transition: var(--transition) !important;
+}
+
+.editorial-card:hover {
+    background: var(--bg-surface-hover) !important;
+    transform: translateY(-3px) !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3) !important;
+    border-color: #3f4657 !important;
+}
+
+/* Yazar Bilgisi Alanı */
+.author-info {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 15px !important;
+    margin-bottom: 18px !important;
+    cursor: pointer !important;
+    transition: var(--transition) !important;
+}
+
+.author-info:hover {
+    transform: translateX(5px) !important;
+}
+
+.author-info img {
+    border-color: var(--border-color) !important;
+    transition: var(--transition) !important;
+}
+
+.author-info:hover img {
+    border-color: var(--accent-blue) !important;
+    box-shadow: 0 0 10px var(--accent-blue-glow) !important;
+}
+
+.author-info h4 {
+    font-size: 1.15rem !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.3px;
+}
+
+.author-info span {
+    font-size: 0.85rem !important;
+    letter-spacing: 0.5px;
+}
+
+/* Köşe Yazısı İçeriği */
+.editorial-content h3 {
+    font-size: 1.35rem !important;
+    font-weight: 700 !important;
+    line-height: 1.4 !important;
+    transition: var(--transition) !important;
+    cursor: pointer;
+}
+
+.editorial-card:hover .editorial-content h3 {
+    color: var(--accent-blue) !important;
+}
+
+.editorial-content p {
+    color: var(--text-secondary) !important;
+    font-size: 1.05rem !important;
+}
