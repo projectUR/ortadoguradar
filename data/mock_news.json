@@ -1,5 +1,21 @@
 [
     {
+        "id": "1778969604108co84x",
+        "title": "Beit Shemesh Yakınlarındaki Büyük Patlama Önceden Planlanmış Bir Testin Parçası: İsrailli Savunma Firması",
+        "summary": "İsrail'in Beit Shemesh kenti yakınlarında büyük bir patlama meydana geldiği bildirildi. Olayın ardından sosyal medyada alevler ve yoğun dumanın yükseldiğini gösteren videolar paylaşıldı. İsrailli bir savunma firması, söz konusu patlamanın önceden planlanmış bir testin parçası olduğunu açıkladı. Bu açıklama, olayın savunma sanayii tarafından gerçekleştirilen kontrollü bir deneme veya tatbikat olduğunu ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982144/pexels-photo-35982144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T22:13:24.108Z",
+        "location": {
+            "lat": 31.75,
+            "lng": 34.98,
+            "name": "Beit Shemesh, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/large-blast-near-beit-shemesh-part-of-pre-planned-test-israeli-defense-firm/3939902",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "1778956285676pwgn3",
         "title": "Londra'da Binlerce Kişi 78. Nakba Yıldönümünü Anmak İçin Yürüdü",
         "summary": "Cumartesi günü binlerce gösterici, Nakba'nın 78. yıldönümünü anmak amacıyla Londra'nın merkezinde bir yürüyüş gerçekleştirdi. Nakba, 1948 Arap-İsrail Savaşı sırasında yüz binlerce Filistinlinin evlerinden sürülmesi ve yerinden edilmesi olayını ifade etmektedir. Bu olay, Filistinliler tarafından bir felaket olarak kabul edilmekte ve her yıl anılmaktadır. Londra'daki bu yürüyüş, Filistin davasına uluslararası desteği göstermeyi amaçlamaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778844325731aivb5",
-        "title": "İspanyol Bakan, İsrail'in Katılımıyla Eurovision'u Gazze Savaşı'nı 'Aklamakla' Suçladı",
-        "summary": "İspanya Kültür Bakanı Ernest Urtasun, Eurovision Şarkı Yarışması organizatörlerini, İsrail'in yarışmaya katılmasına izin vererek Gazze'deki savaşı 'aklamakla' itham etti. Bakan Urtasun, organizatörlerin bu kararının 'yanlış' olduğunu ve kültürel etkinliklerin siyasi hassasiyetleri göz ardı etmemesi gerektiğini belirtti. Bu açıklama, Gazze'deki çatışmaların uluslararası kültürel ve siyasi platformlardaki yansımalarını bir kez daha gündeme getirdi. İsrail'in Eurovision'a katılımı, özellikle Avrupa'da Filistin yanlısı gruplar ve bazı siyasetçiler tarafından yoğun eleştirilere maruz kalıyor. Tartışma, sanat ve siyasetin kesişim noktasında uluslararası arenada yaşanan gerilimleri ve farklı bakış açılarını ortaya koyuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6638878/pexels-photo-6638878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-15T11:25:25.731Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.7,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/europe/spanish-minister-accuses-eurovision-of-whitewashing-gaza-war-by-including-israel/3938493",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
