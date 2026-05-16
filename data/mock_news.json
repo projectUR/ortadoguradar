@@ -1,5 +1,53 @@
 [
     {
+        "id": "1778956285676pwgn3",
+        "title": "Londra'da Binlerce Kişi 78. Nakba Yıldönümünü Anmak İçin Yürüdü",
+        "summary": "Cumartesi günü binlerce gösterici, Nakba'nın 78. yıldönümünü anmak amacıyla Londra'nın merkezinde bir yürüyüş gerçekleştirdi. Nakba, 1948 Arap-İsrail Savaşı sırasında yüz binlerce Filistinlinin evlerinden sürülmesi ve yerinden edilmesi olayını ifade etmektedir. Bu olay, Filistinliler tarafından bir felaket olarak kabul edilmekte ve her yıl anılmaktadır. Londra'daki bu yürüyüş, Filistin davasına uluslararası desteği göstermeyi amaçlamaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36850182/pexels-photo-36850182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T18:31:25.676Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/16/thousands-march-in-central-london-to-mark-78th-nakba-anniversary?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778956307477vd9rf",
+        "title": "Filistin Devlet Başkanı Abbas, kritik Fatah seçimlerinde oy kullandı",
+        "summary": "Filistin Devlet Başkanı Mahmud Abbas, Fatah hareketinin liderlik seçimlerinde oyunu kullandı. Seçimler, 90 yaşındaki liderin halefinin kim olacağı sorularının gölgesinde gerçekleşiyor. Fatah'ın iç liderlik mücadelesi, Filistin siyasetinin geleceği ve bölgesel dengeler açısından büyük önem taşıyor. Bu seçimler, partinin ve Filistin Yönetimi'nin önümüzdeki dönemdeki yönünü belirlemede kritik bir rol oynayacak.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5926283/pexels-photo-5926283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T18:31:47.477Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/16/palestinian-president-abbas-casts-vote-in-decisive-fatah-elections?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778956348771elwzr",
+        "title": "El Cezire'nin Hürmüz Boğazı'ndan Özel Raporu",
+        "summary": "El Cezire, dünyanın en kritik enerji rotalarından biri olan Hürmüz Boğazı'ndan özel bir rapor yayınladı. Raporda, boğazdaki yoğun gemi trafiği ve bölgedeki artan gerilimlere dikkat çekildi. Bu durumun küresel enerji sevkiyatları üzerindeki potansiyel etkileri vurgulandı. Hürmüz Boğazı, Orta Doğu'dan petrol ve doğalgazın dünya pazarlarına ulaştırılmasında stratejik bir geçiş noktasıdır. Bölgesel istikrarsızlıklar, bu hayati su yolunun güvenliğini ve enerji akışını tehdit etme potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36152063/pexels-photo-36152063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T18:32:28.771Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778950896468n6z04",
         "title": "Hamas, İsrail saldırısında Kassam Tugayları liderinin öldürüldüğünü doğruladı",
         "summary": "Hamas, İsrail'in Gazze'ye düzenlediği saldırıda silahlı kanadı Kassam Tugayları'nın liderlerinden İzz el-Din el-Haddad'ın öldürüldüğünü doğruladı. Saldırıda el-Haddad ile birlikte yedi kişinin daha hayatını kaybettiği bildirildi. İsrail güçlerinin hedef aldığı el-Haddad, Gazze'deki Hamas'ın askeri yapısında önemli bir figür olarak biliniyordu. Bu gelişme, bölgedeki gerilimi artırabilecek önemli bir olay olarak değerlendiriliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/europe/spanish-minister-accuses-eurovision-of-whitewashing-gaza-war-by-including-israel/3938493",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "177884434700723tcc",
-        "title": "Sudan'da kıtlık riski devam ediyor, 19.5 milyon kişi akut açlıkla karşı karşıya: BM ajansları",
-        "summary": "Birleşmiş Milletler ajansları, Sudan'da insani krizin derinleştiğini ve 19.5 milyon kişinin akut açlıkla karşı karşıya olduğunu bildirdi. Ülkedeki çatışmalar ve gıda güvensizliği nedeniyle kıtlık riskinin sürdüğü vurgulandı. Gıda ve Tarım Örgütü (FAO), Dünya Gıda Programı (WFP) ve UNICEF'in ortak açıklamasına göre, 2026 yılına kadar 825.000 çocuğun ciddi yetersiz beslenme riski altında olduğu belirtildi. Bu durum, Sudan'daki insani durumun vahametini gözler önüne seriyor ve acil uluslararası yardım çağrılarını beraberinde getiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/33789467/pexels-photo-33789467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-15T11:25:47.007Z",
-        "location": {
-            "lat": 15,
-            "lng": 30,
-            "name": "Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sudan-famine-risk-persists-as-195m-face-acute-hunger-un-agencies/3938491",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778844384886v7391",
-        "title": "İsrailli aşırı sağcı aktivistler Mescid-i Aksa yakınında toplandı, polis Filistinli ibadet edenleri engelledi",
-        "summary": "İsrailli aşırı sağcı aktivistler, Doğu Kudüs'ün işgalinin yıl dönümünü anmak amacıyla Mescid-i Aksa yakınlarında bir araya geldi. Görgü tanıklarının ifadelerine göre, İsrail polisi bu toplanma sırasında cami yerleşkesinin iki kapısını kapattı. Aynı zamanda, Filistinli ibadet edenlerin camiye girişleri engellendi. Bu durum, bölgedeki hassasiyeti ve gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18387998/pexels-photo-18387998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-15T11:26:24.886Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs"
-        },
-        "source": "https://www.aa.com.tr/en/world/israeli-far-right-activists-gather-near-al-aqsa-mosque-as-police-bar-palestinian-worshippers/3938357",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17788351703010ej86",
-        "title": "Nadim Bawalsa ve Filistin Diasporası: İnkar Edilmekten Soykırıma",
-        "summary": "Nadim Bawalsa'nın araştırması, Latin Amerika'daki ilk Filistinli göçmenlerin 1948 öncesinde ulusal kimliklerini nasıl oluşturduğunu inceliyor. Bu çalışma, Filistin diasporasının vatanlarından uzakta kendi kimliklerini nasıl şekillendirdiğini ve Filistin ulusal bilincinin gelişimine katkılarını ortaya koyuyor. Bawalsa, bu erken dönem kimlik oluşumunun Filistin halkının tarihsel sürecindeki önemine dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36038673/pexels-photo-36038673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-15T08:52:50.301Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/centre-stage/2026/5/15/nadim-bawalsa-the-palestinian-diaspora-from-denial-to-genocide?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
