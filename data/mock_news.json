@@ -1,5 +1,21 @@
 [
     {
+        "id": "17789413823615n7jh",
+        "title": "Londra'da aşırı sağcı ve Filistin yanlısı protestolarda on binlerce kişi yürüdü",
+        "summary": "İngiltere'nin başkenti Londra, aynı anda düzenlenen aşırı sağcı bir miting ile Filistin yanlısı Nakba Günü yürüyüşüne sahne oldu. Şehirde on binlerce kişinin katıldığı protestolar nedeniyle güvenlik önlemleri artırıldı. Filistinlilerin 1948'deki tehcirini anan Nakba Günü yürüyüşü, Orta Doğu'daki Filistin-İsrail çatışmasına dikkat çekti. Aşırı sağcı grupların da kendi gösterilerini düzenlemesiyle başkentte gergin anlar yaşandı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/30766222/pexels-photo-30766222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T14:23:02.361Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": -0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778935061693ks3it",
         "title": "Ultra-Ortodoks Askerlik Tartışması İsrail Hükümetini Çöküşün Eşiğine Getiriyor",
         "summary": "İsrail hükümeti, koalisyon partileri arasında Ultra-Ortodoks (Haredi) seçmenlere yönelik askerlik muafiyetleri konusunda yaşanan anlaşmazlık nedeniyle çöküşle karşı karşıya. Uzun süredir devam eden bu tartışma, özellikle Gazze'deki savaşın ortasında askerlik yükünün adil dağıtılması taleplerinin artmasıyla daha da alevlendi. Başbakan Binyamin Netanyahu liderliğindeki koalisyon hükümeti, bu konuda bir uzlaşma sağlayamazsa erken seçim olasılığı güçleniyor. Haredi partileri muafiyetlerin kaldırılmasına karşı çıkarken, diğer koalisyon ortakları bu muafiyetlerin sonlandırılmasını talep ediyor. Bu durum, hükümetin geleceğini belirsizliğe sürüklüyor ve ülkedeki siyasi istikrarsızlığı artırıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/gallery/2026/5/15/millions-of-palestinians-mark-78-years-since-the-nakba?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17788352760799i36v",
-        "title": "İran'ın 'yüzen cephanelik' gemisini ele geçirdiği bildirildi",
-        "summary": "Umman Körfezi'nde 'yüzen cephanelik' olarak tanımlanan bir geminin İran askeri personeli tarafından ele geçirildiği bildirildi. Haberlere göre, stratejik öneme sahip bu su yolunda gerçekleşen olayda, söz konusu gemi İran güçlerince alıkonuldu. Geminin niteliği ve ele geçirilme şekli, bölgedeki deniz güvenliği ve uluslararası seyrüsefer özgürlüğü açısından endişelere yol açabilir. Bu gelişme, Orta Doğu'daki gerilimi artırma potansiyeli taşıyor ve uluslararası tepkilere neden olabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13019394/pexels-photo-13019394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-15T08:54:36.079Z",
-        "location": {
-            "lat": 25,
-            "lng": 58,
-            "name": "Umman Körfezi"
-        },
-        "source": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
