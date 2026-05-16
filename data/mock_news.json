@@ -1,5 +1,37 @@
 [
     {
+        "id": "1778912741301204bi",
+        "title": "Lübnan ve İsrail Arasında Ateşkes Uzatıldı, İran ABD ile Görüşmelere Hazır Olduğunu Bildirdi",
+        "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında 2.951 kişinin hayatını kaybettiğini ve en az 8.988 kişinin yaralandığını duyurdu. Bölgedeki gerilim devam ederken, Lübnan ve İsrail arasında ateşkesin uzatıldığı bildirildi. Diğer yandan, İran'ın ABD ile daha fazla görüşmeye hazır olduğu belirtildi. Bu gelişmeler, Orta Doğu'daki çatışma ve diplomatik çabaların sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20545284/pexels-photo-20545284.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T06:25:41.301Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778912797256p3psc",
+        "title": "Hizbullah, Güney Lübnan'da İsrail Güçlerine Yönelik 33 Saldırı Düzenlediğini Bildirdi",
+        "summary": "Hizbullah, Güney Lübnan'da İsrail güçlerine karşı 33 saldırı gerçekleştirdiğini duyurdu. Grup tarafından yapılan açıklamada, bu operasyonların İsrail'e ait askeri mevzileri, asker toplanma alanlarını ve araçları hedef aldığı belirtildi. Bu saldırılar, bölgedeki gerilimin devam ettiğini gösteriyor. Lübnan-İsrail sınır hattında yaşanan çatışmalar, Orta Doğu'daki güvenlik durumunu etkilemeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T06:26:37.256Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-reports-33-attacks-on-israeli-forces-in-south-lebanon/3939198",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1778902882172g9chx",
         "title": "İngiliz Sanatçı, Sergisi İptal Edildikten Sonra 'Soykırıma Karşı Çizimler' Adlı Eserini Savundu",
         "summary": "İngiliz sanatçı Matthew Collings'in \"Soykırıma Karşı Çizimler\" başlıklı sergisi, anti-Semitik olduğu iddiaları üzerine iptal edildi. Sanatçı, eserlerinin yanlış bir şekilde anti-Semitik olarak tasvir edildiğini belirterek kendini savundu. Collings, çizimlerinin herhangi bir gruba karşı nefret içermediğini ve ifade özgürlüğü kapsamında değerlendirilmesi gerektiğini vurguladı. Bu olay, sanatın siyasi ve toplumsal hassasiyetlerle kesiştiği noktada yaşanan tartışmaları ve ifade özgürlüğü üzerindeki baskıları bir kez daha gündeme getirdi.",
@@ -764,38 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/un-official-warns-of-worsening-humanitarian-conditions-in-gaza/3937840",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778779277517hrrdv",
-        "title": "Lamine Yamal'ın Filistin Bayrağı Hareketi Tartışma Yarattı",
-        "summary": "Barcelona'nın genç yıldızı Lamine Yamal'ın Filistin bayrağı sallaması, kamuoyunda geniş yankı uyandırdı ve farklı görüşlerin ortaya çıkmasına neden oldu. Bu hareketin ardından, Filistin'in Gazze Şeridi'nde genç futbolcunun anısına bir duvar resmi yapıldığı bildirildi. Olay, spor dünyasının siyasi sembollerle olan etkileşimini ve bu tür jestlerin toplumsal algı üzerindeki etkisini bir kez daha gündeme taşıdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32304414/pexels-photo-32304414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T17:21:17.517Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gaza City, Palestine"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/14/lamine-yamal-divides-opinion-with-palestinian-flag-gesture?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17787723688205b870",
-        "title": "İsrailli Bakan, Lamine Yamal'ın Filistin Bayrağı Sallamasını Kınadı",
-        "summary": "İspanyol milli futbolcu Lamine Yamal, Barcelona'nın La Liga şampiyonluğunu kutladığı otobüs geçidi sırasında Filistin bayrağı salladığı için eleştirilerin hedefi oldu. Bu olay, İsrailli bir bakanın sert tepkisine yol açtı. Bakan, Yamal'ın bu hareketini kınayarak, sporun siyasetten uzak tutulması gerektiğini belirtti. Olay, spor ve siyasetin kesiştiği hassas bir konuyu yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32304414/pexels-photo-32304414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T15:26:08.820Z",
-        "location": {
-            "lat": 41.3851,
-            "lng": 2.1734,
-            "name": "Barselona, İspanya"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
