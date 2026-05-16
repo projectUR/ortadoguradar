@@ -1,5 +1,101 @@
 [
     {
+        "id": "17789198071068cu7q",
+        "title": "İran savaşı 78. gün: Trump ve Tahran görüşme sinyali verdi, Lübnan'da ateşkes uzatıldı",
+        "summary": "İran, ABD Başkanı Trump'ın görüşmelere açık olduğu sinyalini verdiğini duyurdu. Bu gelişme, Tahran'ın nükleer programı üzerindeki çıkmazın devam ettiği bir dönemde yaşandı. Bölgedeki gerilimin sürdüğü bu süreçte, Lübnan'daki ateşkesin de uzatıldığı bildirildi. Taraflar arasındaki potansiyel müzakereler, Orta Doğu'daki istikrar açısından önem arz ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6949994/pexels-photo-6949994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T08:23:27.106Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778919844862giwhg",
+        "title": "İspanya Başbakanı, Eurovision Boykotunu Savundu",
+        "summary": "İspanya Başbakanı Pedro Sanchez, ülkesinin Eurovision Şarkı Yarışması'nı boykot etme kararını savundu. Bu kararın, İsrail'in yarışmaya katılımına yönelik bir tepki olarak alındığı belirtildi. Sanchez, İspanya'nın bu tutumunun uluslararası arenadaki değerlerini ve duruşunu yansıttığını ifade etti. Eurovision gibi kültürel etkinliklerin siyasi protestolara sahne olması, İsrail'in politikalarına karşı uluslararası toplumda artan hassasiyeti bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18500633/pexels-photo-18500633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T08:24:04.862Z",
+        "location": {
+            "lat": 40.4168,
+            "lng": -3.7038,
+            "name": "Madrid, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1778919901272t4jkq",
+        "title": "Lübnan, İsrail Saldırısında Altı Kişinin Öldüğünü Duyurdu; ABD Ateşkes Uzatmasını Açıkladı",
+        "summary": "Lübnan, İsrail'in gerçekleştirdiği bir saldırıda altı kişinin yaşamını yitirdiğini bildirdi. Bu olay, Amerika Birleşik Devletleri'nin bölgedeki ateşkesin uzatıldığını duyurmasının ardından meydana geldi. Geçtiğimiz ay ABD Başkanı Trump tarafından ilan edilen ateşkese rağmen, İsrail ve Hizbullah güçleri arasında karşılıklı ateş açma eylemleri devam etti. Bölgedeki gerilim, uluslararası diplomatik çabalara rağmen tırmanışını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T08:25:01.272Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778919922534srdoe",
+        "title": "Irak'ın başkentinde patlamalar meydana geldiği bildirildi",
+        "summary": "Irak'ın başkenti Bağdat'ta patlama sesleri duyulduğu bildirildi. Yerel kaynaklardan alınan ilk bilgilere göre, patlamaların nedeni henüz netlik kazanmadı. Güvenlik güçleri ve ilgili birimler olayla ilgili incelemelerini sürdürüyor. Patlamaların kaynağı ve olası etkileri hakkında resmi bir açıklama henüz yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982153/pexels-photo-35982153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T08:25:22.534Z",
+        "location": {
+            "lat": 33.34,
+            "lng": 44.39,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iraq-s-capital-report/3939241",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17789199443938cl5z",
+        "title": "İran Cumhurbaşkanı Papa'ya Diplomasiye Bağlılık Mesajı Verdi",
+        "summary": "İran Cumhurbaşkanı, Papa Leo XIV'e gönderdiği mesajda, ülkesinin diplomasiye olan bağlılığını yineledi. Cumhurbaşkanı, Katolik liderin İran'a yönelik son askeri saldırılar karşısındaki \"ahlaki duruşunu\" takdir ettiğini belirtti. Bu açıklama, bölgedeki mevcut gerilimler ve uluslararası ilişkiler bağlamında önemli bir diplomatik adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T08:25:44.393Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-remains-committed-to-diplomacy-president-tells-pope/3939223",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1778919968386mt4gh",
+        "title": "Güney Kore, İran'ın Hürmüz Boğazı'ndan geçiş ücreti alma planına karşı çıkıyor",
+        "summary": "Güney Kore, İran'ın Hürmüz Boğazı'ndan geçen gemilerden geçiş ücreti talep etme yönündeki iddia edilen planına karşı olduğunu açıkladı. Güney Kore Okyanuslar Bakanı Hwang Jong-woo, bu tür bir ücret uygulamasının, uluslararası hukuka göre serbest geçiş hakkına sahip olan stratejik su yolunu fiilen engellemekle eşdeğer olacağını belirtti. Bakan Hwang, boğazın serbest ve güvenli geçişinin küresel ticaret ve enerji tedariki için hayati önem taşıdığını vurguladı. Bu durum, küresel enerji tedarik zinciri için kritik öneme sahip boğazın statüsü üzerine uluslararası bir tartışma başlatma potansiyeli taşıyor. Güney Kore'nin bu diplomatik karşı çıkışı, boğazın uluslararası statüsünün korunmasına yönelik uluslararası endişeleri yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30292757/pexels-photo-30292757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-16T08:26:08.386Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/south-korea-opposes-iran-s-reported-plan-to-charge-hormuz-transit-fees/3939200",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1778912741301204bi",
         "title": "Lübnan ve İsrail Arasında Ateşkes Uzatıldı, İran ABD ile Görüşmelere Hazır Olduğunu Bildirdi",
         "summary": "Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında 2.951 kişinin hayatını kaybettiğini ve en az 8.988 kişinin yaralandığını duyurdu. Bölgedeki gerilim devam ederken, Lübnan ve İsrail arasında ateşkesin uzatıldığı bildirildi. Diğer yandan, İran'ın ABD ile daha fazla görüşmeye hazır olduğu belirtildi. Bu gelişmeler, Orta Doğu'daki çatışma ve diplomatik çabaların sürdüğünü gösteriyor.",
@@ -700,102 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778792014464pb40j",
-        "title": "Filistin Devlet Başkanı Abbas, Fatah Konferansı'nda Seçim ve Reform Sözü Verdi",
-        "summary": "Filistin Devlet Başkanı Mahmud Abbas, Fatah hareketinin liderliğine oybirliğiyle yeniden seçildi. Fatah konferansında yaptığı konuşmada Abbas, Filistin'de seçimlerin yapılacağı ve reformların gerçekleştirileceği yönünde taahhütlerde bulundu. Bu gelişme, Filistin iç siyaseti ve Fatah hareketinin geleceği açısından önemli bir dönüm noktası olarak değerlendiriliyor. Abbas'ın yeniden seçilmesi, Filistin Yönetimi'nin mevcut siyasi çizgisinin devam edeceği sinyalini veriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8846994/pexels-photo-8846994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T20:53:34.464Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778792102347aof7o",
-        "title": "Lavrov, Yeni Delhi'deki BRICS Zirvesi'nde İranlı ve Brezilyalı Mevkidaşlarıyla Görüştü",
-        "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Yeni Delhi'de düzenlenen BRICS zirvesi kapsamında İranlı ve Brezilyalı dışişleri bakanlarıyla bir araya geldi. Lavrov, İran Dışişleri Bakanı ile yaptığı görüşmede, Rusya'nın İran ile ABD arasındaki müzakerelere destek vermeye ve bu sürece yardımcı olmaya hazır olduğunu ifade etti. Bu açıklama, İran'ın nükleer programı ve bölgesel gerilimler bağlamında uluslararası diplomasi açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4345107/pexels-photo-4345107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T20:55:02.347Z",
-        "location": {
-            "lat": 28.6139,
-            "lng": 77.209,
-            "name": "Yeni Delhi, Hindistan"
-        },
-        "source": "https://www.aa.com.tr/en/politics/lavrov-meets-iranian-brazilian-counterparts-at-brics-summit-in-new-delhi/3937902",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778786358551krkzu",
-        "title": "ABD'nin Lübnan-İsrail Görüşmelerinden Beklentileri ve Hizbullah'ın Ateşkes Müzakerelerine Muhalefeti",
-        "summary": "ABD'nin Lübnan ile İsrail arasındaki görüşmelerden ne beklediği tartışılırken, İsrail'in Lübnan'a yönelik saldırıları devam ediyor. Bu gergin ortamda, Lübnan'daki Hizbullah örgütü, Washington'da yapılması planlanan ateşkes görüşmelerine karşı çıktığını duyurdu. Gelişmeler, bölgedeki çatışmaların sürdüğünü ve diplomatik çözüm arayışlarının önemli engellerle karşılaştığını gösteriyor. ABD'nin arabuluculuk çabaları, Hizbullah'ın muhalefeti nedeniyle zorlu bir süreçten geçiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36850210/pexels-photo-36850210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T19:19:18.551Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778786426906nhqd3",
-        "title": "İsrailli Bakan Ben Gvir, Kudüs Günü'nde Mescid-i Aksa'ya Girdi",
-        "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben Gvir, Kudüs Günü yürüyüşü sırasında yoğun askeri koruma altında Mescid-i Aksa yerleşkesine girdi. Bu ziyaret, İsrail'in 1967'deki Altı Gün Savaşı'nda Doğu Kudüs'ü ele geçirmesini kutlayan Kudüs Günü'nde gerçekleşti. Filistinliler, İsrailli yetkililerin Mescid-i Aksa'ya yaptığı bu tür ziyaretleri provokasyon olarak değerlendirmekte ve bölgedeki gerilimi artırdığını belirtmektedir. Mescid-i Aksa, Müslümanlar için üçüncü en kutsal yer olup, Yahudiler tarafından da Tapınak Tepesi olarak kutsal kabul edilmektedir. Olay, Kudüs'ün statüsü ve kutsal mekanlara erişim konusundaki hassasiyeti bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16732791/pexels-photo-16732791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T19:20:26.906Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778786499018bccy2",
-        "title": "Fatah Kongresi Mahmud Abbas'ı Yeniden Lider Seçti",
-        "summary": "Filistin'in önde gelen siyasi hareketlerinden Fatah, sekizinci genel kongresini gerçekleştirdi. Kongrede yapılan oylama sonucunda, mevcut lider Mahmud Abbas yeniden Fatah hareketinin başına seçildi. Delegelerin büyük desteğini alan Abbas'ın bu yeniden seçimi, Filistin siyasetindeki liderlik yapısının devamlılığını pekiştirdi. Bu gelişme, Filistin Yönetimi'nin gelecekteki politikaları ve bölgesel ilişkiler üzerindeki etkileri açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T19:21:39.018Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/fatah-congress-re-elects-mahmoud-abbas-as-group-leader/3937842",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778786521558d2n91",
-        "title": "BM yetkilisi Gazze'deki insani koşulların kötüleştiği konusunda uyardı",
-        "summary": "Birleşmiş Milletler'den bir yetkili, Gazze Şeridi'ndeki insani koşulların giderek kötüleştiği konusunda ciddi uyarılarda bulundu. Yapılan açıklamaya göre, yerinden edilmiş aileler arasında cilt enfeksiyonları ve çeşitli hastalıkların arttığı rapor ediliyor. Sözcü, fare ve böceklerin çadırlara girerek veya gıdaları kirleterek yiyecekleri kirletmesinin bu sağlık sorunlarına yol açtığını belirtti. Bu durum, bölgedeki hijyen eksikliği ve kalabalık yaşam koşullarının sağlık üzerindeki olumsuz etkilerini gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934188/pexels-photo-35934188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-14T19:22:01.558Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-official-warns-of-worsening-humanitarian-conditions-in-gaza/3937840",
         "trendScore": 85,
         "isBreaking": false
     }
