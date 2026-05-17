@@ -1,5 +1,53 @@
 [
     {
+        "id": "177901625327046qqa",
+        "title": "Javier Bardem: Gazze'yi Kınamak Bana Daha Fazla İş Getirdi",
+        "summary": "Ünlü İspanyol aktör Javier Bardem, Gazze'deki olaylara ilişkin yaptığı kınayıcı açıklamaların kariyerine olumlu yansıdığını belirtti. Bardem, bu duruşunun kendisine daha fazla iş fırsatı sunduğunu ifade etti. Aktörün bu sözleri, sanat dünyasında politik duruşların profesyonel etkileri üzerine bir tartışmayı da beraberinde getirebilir. Bu açıklama, uluslararası kamuoyunda Gazze'ye yönelik hassasiyetin ve sanatçıların bu konudaki duruşlarının öneminin bir göstergesi olarak yorumlanıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/26832251/pexels-photo-26832251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T11:10:53.270Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/17/javier-bardem-says-condemning-the-gaza-genocide-has-led-to-more-work?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1779016276603ipbe3",
+        "title": "İsrail'in Doha ve Tahran Saldırıları: Savaşın Yeni Geometrisi",
+        "summary": "İsrail'in Doha ve Tahran'a yönelik gerçekleştirdiği saldırılar, savaşın doğasını daha öngörülemez hale getirebilecek yeni bir askeri yeteneği gözler önüne serdi. Bu eylemler, Orta Doğu'daki çatışmaların dinamiklerini kökten değiştirebilecek potansiyele sahip stratejik bir gelişmeye işaret ediyor. Uzmanlar, İsrail'in bu yeni kabiliyetinin bölgesel güvenlik ortamında belirsizliği artırabileceği ve gelecekteki askeri operasyonların seyrini etkileyebileceği uyarısında bulunuyor. Bu durum, bölgedeki gerilimi tırmandırabilecek yeni bir dönemin başlangıcı olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952899/pexels-photo-5952899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T11:11:16.603Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17790163157885wpxl",
+        "title": "Mısırlı genç Amina Orfi, PSA dünya squash şampiyonluğunu kazandı",
+        "summary": "Mısırlı genç squash oyuncusu Amina Orfi, PSA Dünya Şampiyonası'nda şampiyonluğa ulaştı. 18 yaşındaki Orfi, Mısır'ın Gize kentinde düzenlenen turnuvanın finalinde hemşehrisi Nour El-Sherbini ile karşılaştı. Beş set süren çekişmeli mücadelenin ardından rakibini mağlup eden Orfi, kariyerinin en büyük başarısını elde etti. Bu zaferle birlikte Orfi, dünya squash sahnesinde adından söz ettirerek Mısır'a önemli bir spor başarısı getirdi.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/18702052/pexels-photo-18702052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T11:11:55.788Z",
+        "location": {
+            "lat": 30.01,
+            "lng": 31.21,
+            "name": "Gize, Mısır"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779011639711odkeu",
         "title": "Ukrayna İHA Saldırılarında Rusya'da En Az Dört Kişi Hayatını Kaybetti",
         "summary": "Rus yetkililer, Ukrayna'nın düzenlediği İHA saldırılarında Rusya genelinde en az dört kişinin yaşamını yitirdiğini bildirdi. Açıklamalara göre, başkent Moskova bölgesinde üç kişi hayatını kaybederken, Belgorod kentinde de bir kişi saldırılar sonucu yaşamını yitirdi. Bu saldırılar, Ukrayna-Rusya savaşının devam eden bir parçası olarak Rus topraklarına yönelik artan İHA operasyonlarını yansıtmaktadır. Rusya, bu tür saldırılara karşı hava savunma sistemlerini güçlendirme çabalarını sürdürdüğünü belirtmektedir.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/16/uk-artist-defends-drawings-against-genocide-after-show-cancelled?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1778902903265xv2w5",
-        "title": "Libya'dan Gazze'ye Yardım Konvoyu Hazırlanıyor",
-        "summary": "Libya'dan yola çıkmaya hazırlanan \"Soumoud 2\" adlı kara konvoyu, Gazze'ye insani yardım ulaştırmayı hedefliyor. Konvoyun, bölgedeki ihtiyaç sahiplerine temel malzemeler ve destek sağlaması bekleniyor. Bu girişim, Gazze'deki mevcut insani krize yanıt verme ve uluslararası dayanışmayı güçlendirme çabalarının bir parçası olarak değerlendiriliyor. Yardım konvoyunun bölgeye ulaşmasıyla insani durumun bir nebze olsun hafifletilmesi amaçlanıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-16T03:41:43.265Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778902955235s27ly",
-        "title": "Filistinli Liderler Nadir Parti Toplantısı Düzenledi, Halkın Memnuniyetsizliği Artıyor",
-        "summary": "Filistinli liderler, kamuoyunda artan hoşnutsuzluğun anketlere yansıdığı bir dönemde nadir bir parti toplantısı gerçekleştirdi. Toplantıda, iktidardaki Fatah grubu üst düzey karar alıcıları seçti. Ancak sıradan Filistinliler, partinin ve liderinin halktan kopuk olduğunu ifade ediyor. Bu durum, Filistin iç siyasetindeki gerilimleri ve halkın yönetimden beklentilerini gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32304390/pexels-photo-32304390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-16T03:42:35.235Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1778902993329pu8s3",
-        "title": "BAE, dışarıdan korunmaya ihtiyaç duymadığını belirtti, egemenliğini savunma sözü verdi",
-        "summary": "Birleşik Arap Emirlikleri (BAE), İran ile yaşanan gerilimler ortamında, dışarıdan herhangi bir korumaya ihtiyaç duymadığını açıkladı. Bir devlet bakanı tarafından yapılan açıklamada, BAE'nin egemenliğini ve toprak bütünlüğünü savunma hakkını saklı tuttuğu vurgulandı. Bu açıklama, bölgedeki mevcut siyasi ve güvenlik dinamikleri bağlamında BAE'nin kendi savunma kapasitesine olan güvenini yansıtıyor ve ülkenin dış müdahaleye karşı duruşunu ortaya koyuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5511769/pexels-photo-5511769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-16T03:43:13.329Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-says-it-needs-no-protection-from-outside-vows-to-defend-sovereignty/3939196",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
