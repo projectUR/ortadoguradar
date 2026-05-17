@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779055305594wc3p3",
+        "title": "Suudi Arabistan, Irak'tan Gelen 3 İnsansız Hava Aracının Engellendiğini Duyurdu",
+        "summary": "Suudi Arabistan Savunma Bakanlığı, Irak yönünden hava sahasına giren üç insansız hava aracının (İHA) başarılı bir şekilde engellendiğini açıkladı. Bakanlık tarafından yapılan açıklamada, bu İHA'ların durdurulduğu belirtildi. Suudi Arabistan, bu tür ihlallere karşı \"uygun zamanda ve yerde karşılık verme hakkını saklı tuttuğunu\" vurguladı. Olay, bölgesel güvenlik ve istikrar konularında endişeleri artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33404405/pexels-photo-33404405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T22:01:45.594Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-3-drones-intercepted-after-entering-airspace-from-iraq/3940464",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779051448066vpx2i",
         "title": "Trump'tan İran'a nükleer program ve füze stokları konusunda tehdit",
         "summary": "ABD Başkanı, durma noktasına gelen müzakerelerin ortasında İran'a yönelik sert bir tehditte bulundu. Başkan, İran'ın nükleer programını ve füze stoklarını dağıtması da dahil olmak üzere belirli taleplere boyun eğmesi yönünde baskı uyguladı. Trump, İran'ın bu taleplere uymaması halinde 'hiçbir şey kalmayacağı' uyarısında bulundu. Bu açıklama, ABD ile İran arasındaki gerilimi daha da artırarak bölgesel güvenlik dinamikleri üzerinde potansiyel etkiler yaratıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/netanyahu-sues-new-york-times-over-rape-and-sexual-abuse-article/3939335",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17789254247328qhia",
-        "title": "Britanya, antisemitizm ile muhalefeti ayırt etme yeteneğini kaybediyor",
-        "summary": "Birleşik Krallık'ta antisemitizm ile siyasi muhalefet arasındaki ayrımın giderek bulanıklaştığı belirtilmektedir. Haberde, bu ayrımın ortadan kalkmasının, özellikle savunmayı amaçladığı Yahudi toplulukları başta olmak üzere kimseyi korumadığı vurgulanmaktadır. Bu durum, Orta Doğu meselelerine yönelik eleştirilerin antisemitizmle karıştırılması riskini artırmaktadır. Söz konusu ayrımın netliğini yitirmesi, hem ifade özgürlüğü hem de antisemitizmle mücadele çabaları açısından önemli sorunlara yol açmaktadır. Bu gelişme, Birleşik Krallık'taki siyasi ve toplumsal tartışmaların seyrini etkilemektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35303785/pexels-photo-35303785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-16T09:57:04.732Z",
-        "location": {
-            "lat": 55.3781,
-            "lng": -3.436,
-            "name": "Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
