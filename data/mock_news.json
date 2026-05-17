@@ -1,5 +1,21 @@
 [
     {
+        "id": "17789956564518sdh6",
+        "title": "Tunus'ta ekonomik kriz ve siyasi tutuklamalar protesto edildi",
+        "summary": "Tunus'un başkentinde yüzlerce Tunuslu, kötüleşen ekonomik krizi ve muhaliflere yönelik baskıları protesto etmek amacıyla bir yürüyüş düzenledi. Göstericiler, artan yaşam maliyetleri ve işsizlik gibi sorunlara dikkat çekerek hükümetin politikalarını eleştirdi. Ülkede son dönemde yaşanan siyasi tutuklamalar da protestoların ana gündem maddelerinden biri oldu. Eylemciler, demokratik hakların korunması ve siyasi özgürlüklerin güvence altına alınması çağrısında bulundu. Miting, ülkedeki derinleşen siyasi ve ekonomik gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/30766239/pexels-photo-30766239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T05:27:36.451Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/17/tunisians-rally-amid-economic-crisis-and-political-arrests?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1778981149248vi0r0",
         "title": "Irak'ın Yeni Başbakanı Ali el-Zaidi Resmen Göreve Başladı",
         "summary": "Irak'ın yeni Başbakanı Ali el-Zaidi, Bağdat'ta düzenlenen törenle resmen görevi devraldı. El-Zaidi, göreve başlamasının ardından ülkesinde reformlar yapma taahhüdünde bulundu. Bu gelişme, Irak siyasetinde yeni bir dönemin başlangıcı olarak değerlendiriliyor. Yeni hükümetin öncelikleri arasında ekonomik istikrarın sağlanması ve kamu hizmetlerinin iyileştirilmesi bekleniyor.",
@@ -780,22 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aljazeera.com/sports/2026/5/15/ronaldo-judged-on-form-not-age-for-portugal-at-world-cup-says-martinez?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778850852628nxoik",
-        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimciler Aktivistlere Saldırdı",
-        "summary": "İşgal altındaki Batı Şeria'da, İsrailli yerleşimciler bir grup İsrailli insan hakları aktivistine saldırdı. Aktivistler, bölgedeki yerleşimci şiddetini belgelemek ve bu konuda farkındalık yaratmak amacıyla bir tur düzenliyorlardı. Bu olay, İsrail-Filistin çatışmasının yaşandığı bölgedeki gerilimi ve yerleşimcilerin eylemlerini bir kez daha gündeme getirdi. Saldırı, bölgedeki insan hakları ihlalleri ve sivil toplum kuruluşlarının karşılaştığı zorlukları gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8898688/pexels-photo-8898688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-15T13:14:12.628Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israeli-settler-attacks-activist-during-tour-on-settler-violence?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
