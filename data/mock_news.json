@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779032297649d784o",
+        "title": "ABD'de Hristiyan Siyonizmi Düşüşte mi?",
+        "summary": "ABD'deki genç muhafazakarlar arasında İsrail'e verilen desteğin azaldığı belirtiliyor. Bu durum, İsrail'i dini inançlar temelinde güçlü bir şekilde savunan Hristiyan Siyonizmi için olumsuz sonuçlar doğurabilir. Genç demografideki bu destek düşüşü, ABD-İsrail ilişkilerine yönelik genel siyasi görünümde potansiyel bir değişime işaret ediyor. Söz konusu gelişme, ABD'nin Orta Doğu'ya yönelik gelecekteki dış politika kararlarını etkileyebilir ve bölgedeki dengeler üzerinde dolaylı etkiler yaratabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11733643/pexels-photo-11733643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T15:38:17.649Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17790323628362la6l",
+        "title": "Hamas, üst düzey komutanının İsrail hava saldırısında öldürüldüğünü doğruladı",
+        "summary": "Hamas, üst düzey bir komutanının İsrail'in Gazze'ye düzenlediği hava saldırısında hayatını kaybettiğini açıkladı. Cuma günü gerçekleşen bu saldırı, İsrail'in Hamas ile varılan ateşkes anlaşmasına rağmen Gazze'ye yönelik gerçekleştirdiği son operasyonlardan biri oldu. Olay, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor ve ateşkesin kırılganlığını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34889186/pexels-photo-34889186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T15:39:22.836Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779032384813fgyx4",
+        "title": "Filistinli Liderler Nadir Parti Toplantısı Düzenledi, Halkta Hoşnutsuzluk Artıyor",
+        "summary": "Filistinli liderler, kamuoyu yoklamalarının artan hoşnutsuzluğu ortaya koyduğu bir süreçte nadir bir parti toplantısı gerçekleştirdi. Toplantıda, iktidardaki Fatah grubu üst düzey karar alıcılarını seçmek üzere bir araya geldi. Ancak, sıradan Filistinliler arasında partinin ve liderinin halktan kopuk olduğu yönünde yaygın bir kanaat bulunuyor. Bu durum, Filistin siyasetindeki iç dinamikleri ve halkın yönetimden beklentilerini gözler önüne seriyor. Toplantının, artan memnuniyetsizliği giderme çabalarının bir parçası olup olmadığı tartışılıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6949525/pexels-photo-6949525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-17T15:39:44.813Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.23,
+            "name": "Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1779026717461lc4pf",
         "title": "İsrail, Hamas Komutanı İzz el-Din el-Haddad'ı Öldürdü: Gazze Ateşkesi Test Ediliyor",
         "summary": "İsrail güçleri, Hamas'ın üst düzey komutanlarından İzz el-Din el-Haddad'ı hedef alarak öldürdü. Bu olay, Gazze'de devam eden ateşkesin kırılganlığını bir kez daha ortaya koydu. Hamas, komutanının öldürülmesinin ardından operasyonel yapısını ve stratejilerini uyarlayacağını açıkladı. Bölgedeki gerilimi tırmandırma potansiyeli taşıyan bu gelişme, İsrail-Filistin çatışmasındaki dinamikleri etkileyebilir.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778919922534srdoe",
-        "title": "Irak'ın başkentinde patlamalar meydana geldiği bildirildi",
-        "summary": "Irak'ın başkenti Bağdat'ta patlama sesleri duyulduğu bildirildi. Yerel kaynaklardan alınan ilk bilgilere göre, patlamaların nedeni henüz netlik kazanmadı. Güvenlik güçleri ve ilgili birimler olayla ilgili incelemelerini sürdürüyor. Patlamaların kaynağı ve olası etkileri hakkında resmi bir açıklama henüz yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982153/pexels-photo-35982153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-16T08:25:22.534Z",
-        "location": {
-            "lat": 33.34,
-            "lng": 44.39,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iraq-s-capital-report/3939241",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17789199443938cl5z",
-        "title": "İran Cumhurbaşkanı Papa'ya Diplomasiye Bağlılık Mesajı Verdi",
-        "summary": "İran Cumhurbaşkanı, Papa Leo XIV'e gönderdiği mesajda, ülkesinin diplomasiye olan bağlılığını yineledi. Cumhurbaşkanı, Katolik liderin İran'a yönelik son askeri saldırılar karşısındaki \"ahlaki duruşunu\" takdir ettiğini belirtti. Bu açıklama, bölgedeki mevcut gerilimler ve uluslararası ilişkiler bağlamında önemli bir diplomatik adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-16T08:25:44.393Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-remains-committed-to-diplomacy-president-tells-pope/3939223",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1778919968386mt4gh",
-        "title": "Güney Kore, İran'ın Hürmüz Boğazı'ndan geçiş ücreti alma planına karşı çıkıyor",
-        "summary": "Güney Kore, İran'ın Hürmüz Boğazı'ndan geçen gemilerden geçiş ücreti talep etme yönündeki iddia edilen planına karşı olduğunu açıkladı. Güney Kore Okyanuslar Bakanı Hwang Jong-woo, bu tür bir ücret uygulamasının, uluslararası hukuka göre serbest geçiş hakkına sahip olan stratejik su yolunu fiilen engellemekle eşdeğer olacağını belirtti. Bakan Hwang, boğazın serbest ve güvenli geçişinin küresel ticaret ve enerji tedariki için hayati önem taşıdığını vurguladı. Bu durum, küresel enerji tedarik zinciri için kritik öneme sahip boğazın statüsü üzerine uluslararası bir tartışma başlatma potansiyeli taşıyor. Güney Kore'nin bu diplomatik karşı çıkışı, boğazın uluslararası statüsünün korunmasına yönelik uluslararası endişeleri yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30292757/pexels-photo-30292757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-16T08:26:08.386Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/south-korea-opposes-iran-s-reported-plan-to-charge-hormuz-transit-fees/3939200",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
