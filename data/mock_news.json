@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779145533110yobaw",
+        "title": "Brezilya, Neymar'ı 2026 Dünya Kupası Kadrosuna Çağırdı",
+        "summary": "Brezilya Milli Takımı'nın tüm zamanların en golcü oyuncusu Neymar, 2026 Dünya Kupası kadrosuna dahil edildi. Bu karar, teknik direktör Carlo Ancelotti'nin ilk kez Neymar'ı milli takıma çağırmasıyla geldi. Yıldız oyuncu, şu anda Suudi Arabistan'ın Al-Hilal takımında forma giymektedir. Neymar'ın kadroya alınması, hem Brezilya'nın Dünya Kupası hazırlıkları hem de Suudi Arabistan'ın spor yatırımları açısından önemli bir gelişme olarak değerlendirilmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32285228/pexels-photo-32285228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-18T23:05:33.110Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/18/brazil-call-up-neymar-to-world-cup-2026-squad?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "177913530618602tj5",
         "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda Can Kaybı 3.000'i Aştı",
         "summary": "Yetkililerin açıklamasına göre, İsrail'in Lübnan'a düzenlediği saldırılarda hayatını kaybedenlerin sayısı 3.000'i aştı. Bu gelişme, Mart ayından bu yana İsrail ile Lübnanlı silahlı grup Hizbullah arasındaki çatışmada kritik bir eşiği temsil ediyor. Bölgede nominal bir ateşkesin varlığına rağmen, çatışmaların devam ettiği belirtiliyor. Can kaybındaki bu artış, bölgedeki gerilimin sürdüğünü ve insani durumun ciddiyetini gözler önüne seriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1779004645839d3j9v",
-        "title": "İran, Hürmüz Boğazı İçin Yeni Planını Açıklayacak; İsrail Lübnan'ı Bombaladı",
-        "summary": "İran, Hürmüz Boğazı'nda uygulanacak yeni bir geçiş ücreti planını yakında açıklayacağını duyurdu. Bu açıklama, ABD Başkanı Trump'ın İran'ı bir anlaşmaya varılmaması durumunda 'çok kötü zamanlar' yaşayacağı yönündeki uyarısıyla eş zamanlı geldi. Bölgedeki gerilim artarken, İsrail'in Lübnan'a yönelik hava saldırıları gerçekleştirdiği de bildirildi. Bu gelişmeler, Orta Doğu'daki mevcut çatışma ve güvenlik dinamiklerini yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T07:57:25.839Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
