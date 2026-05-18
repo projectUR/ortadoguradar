@@ -1,5 +1,53 @@
 [
     {
+        "id": "177913530618602tj5",
+        "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda Can Kaybı 3.000'i Aştı",
+        "summary": "Yetkililerin açıklamasına göre, İsrail'in Lübnan'a düzenlediği saldırılarda hayatını kaybedenlerin sayısı 3.000'i aştı. Bu gelişme, Mart ayından bu yana İsrail ile Lübnanlı silahlı grup Hizbullah arasındaki çatışmada kritik bir eşiği temsil ediyor. Bölgede nominal bir ateşkesin varlığına rağmen, çatışmaların devam ettiği belirtiliyor. Can kaybındaki bu artış, bölgedeki gerilimin sürdüğünü ve insani durumun ciddiyetini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699840/pexels-photo-5699840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-18T20:15:06.186Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779135361800upyp2",
+        "title": "Trump: ABD, İran'a Yönelik Planlanan Saldırıyı Erteledi",
+        "summary": "ABD Başkanı Donald Trump, ülkesinin İran'a yönelik Salı günü planlanan saldırıyı ertelediğini duyurdu. Trump, 'kabul edilebilir bir anlaşmaya varılamaması' halinde ABD ordusuna İran'a karşı 'tam ve büyük ölçekli bir saldırı' için hazırlıklı olma talimatı verdiğini belirtti. Bu açıklama, ABD ile İran arasındaki gerilimin devam ettiğini ve bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-18T20:16:01.800Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-says-us-postponing-planned-tuesday-attack-on-iran/3941559",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1779135398695cyfa1",
+        "title": "Pakistan ve Katar Başbakanları Orta Doğu Durumunu Görüştü",
+        "summary": "Pakistan Başbakanı Şehbaz Şerif ve Katar Başbakanı Muhammed bin Abdurrahman bin Casim Al Sani, iki gün içinde ikinci kez telefon görüşmesi gerçekleştirdi. Görüşmede, Orta Doğu'daki mevcut durumun ele alındığı bildirildi. İki liderin bölgesel gelişmeler ve karşılıklı ilgi alanları hakkında fikir alışverişinde bulunduğu belirtildi. Bu diplomatik temas, Pakistan ve Katar arasındaki ilişkilerin yanı sıra bölgesel meselelerdeki işbirliğinin sürdüğünü gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868982/pexels-photo-7868982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-18T20:16:38.695Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/pakistani-qatari-premiers-discuss-middle-east-situation/3941524",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17791195376894adhu",
         "title": "İran Savaşı'nın Küresel Borç Şokunu Tetikleme Potansiyeli Tartışılıyor",
         "summary": "Küresel piyasalarda İran ile ilgili olası bir çatışmanın ekonomik etkileri tartışılıyor. Uzmanlar, böyle bir senaryonun devlet tahvilleri üzerinde ciddi bir baskı oluşturabileceği konusunda uyarıyor. Bu durumun, dünya genelindeki hane halklarının finansal durumunu olumsuz etkileyebileceği belirtiliyor. Olası bir savaşın küresel borç piyasalarında yeni bir şoku tetikleme potansiyeli üzerinde duruluyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779004683006p6uz6",
-        "title": "FIFA, İranlı Futbol Yetkilileriyle Dünya Kupası Hakkında 'Olumlu' Görüşmeler Yaptı",
-        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA), İranlı futbol yetkilileriyle Dünya Kupası'na ilişkin görüşmeler gerçekleştirdi. İran Futbol Federasyonu Başkanı'nın açıklamasına göre, görüşmeler 'olumlu' bir atmosferde geçti. FIFA, ABD'de düzenlenecek maçlar öncesinde İran'ın dile getirdiği endişelere yönelik çeşitli çözümler sundu. Bu görüşmelerin, İran'ın turnuvaya katılımı ve olası sorunların giderilmesi açısından önemli olduğu belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T07:58:03.006Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1779004704812nov5t",
-        "title": "Hizbullah'ın insansız hava aracı saldırısı videoları, İsrail'e karşı gelişen taktikleri gösteriyor",
-        "summary": "BBC Verify, Lübnanlı silahlı grup Hizbullah tarafından gerçekleştirilen fiber optik insansız hava aracı saldırılarına ait onlarca videoyu inceledi. Bu inceleme, grubun İsrail'e karşı kullandığı taktiklerdeki evrimi gözler önüne seriyor. Söz konusu saldırılar, bölgedeki çatışmanın doğasını ve kullanılan teknolojik yöntemleri ortaya koyarken, İsrail-Lübnan sınırındaki gerilimi artırma potansiyeli taşıyor. Analiz, insansız hava araçlarının modern çatışmalardaki rolünün giderek arttığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9596281/pexels-photo-9596281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T07:58:24.812Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "Lübnan-İsrail Sınırı"
-        },
-        "source": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779004729736p2r6y",
-        "title": "Katar ve Suudi Arabistan, Orta Doğu'daki Gerilimi Azaltma Çabalarını Görüştü",
-        "summary": "Katar Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Katar Dışişleri Bakanı Şeyh Muhammed bin Abdurrahman Al Sani ile Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan telefon görüşmesi gerçekleştirdi. Görüşmede, Orta Doğu'daki gerilimi azaltmaya yönelik çabalar ele alındı. İki bakan ayrıca ikili ilişkileri gözden geçirerek, bu ilişkileri güçlendirmenin yollarını değerlendirdi. Diplomatik temasların bölgedeki istikrara katkı sağlaması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T07:58:49.736Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatari-saudi-arabia-discuss-efforts-to-ease-tension-in-middle-east/3939944",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
