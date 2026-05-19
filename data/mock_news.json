@@ -1,5 +1,69 @@
 [
     {
+        "id": "1779214874334t768t",
+        "title": "Somaliland, Kudüs'te Büyükelçilik Açacak",
+        "summary": "Somaliland'ın İsrail'in başkenti Kudüs'te büyükelçilik açacağı bildirildi. Bu diplomatik adım, İsrail'in Somali'den ayrılıkçı bölge olan Somaliland'ın bağımsızlığını resmi olarak tanımasından aylar sonra geldi. Somaliland'ın başkenti Hargeisa'da da İsrail'in bir temsilcilik açması bekleniyor. Bu gelişme, bölgedeki diplomatik ilişkilerde önemli bir değişiklik olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37585921/pexels-photo-37585921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T18:21:14.334Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779214900107fk0su",
+        "title": "Putin, Çin Lideri Şi Cinping ile Görüşmek Üzere Çin'e Geldi",
+        "summary": "Rusya Devlet Başkanı Vladimir Putin, Çin lideri Şi Cinping ile bir araya gelmek üzere Pekin'e ulaştı. Bu ziyaret, iki ülke arasındaki stratejik ortaklığı pekiştirmeyi hedefliyor. Görüşmelerde ikili ilişkilerin yanı sıra bölgesel ve küresel meselelerin ele alınması bekleniyor. Zirve, Rusya ve Çin'in uluslararası arenadaki işbirliğini ve Batı'ya karşı duruşlarını güçlendirme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T18:21:40.107Z",
+        "location": {
+            "lat": 39.9,
+            "lng": 116.4,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1779214944169ie0cq",
+        "title": "İsrail Maliye Bakanı Smotrich: UCM Tutuklama Emri İstiyor, Batı Şeria'daki Filistinlileri Yerinden Etme Tehdidi",
+        "summary": "İsrail'in aşırı sağcı Maliye Bakanı Bezalel Smotrich, Uluslararası Ceza Mahkemesi'nin (UCM) kendisi hakkında tutuklama emri talep ettiğini duyurdu. Bu gelişmenin ardından Bakan Smotrich, Batı Şeria'daki Filistinlilerin yerinden edilme tehdidinde bulundu. Smotrich'in bu açıklaması, İsrail-Filistin çatışması bağlamında gerilimi artırabilecek ve uluslararası hukuk açısından ciddi tartışmalara yol açabilecek nitelikte bir gelişme olarak değerlendiriliyor. Uluslararası toplum, bu tür tehditlerin bölgedeki istikrarsızlığı derinleştirebileceği konusunda endişelerini dile getiriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33797642/pexels-photo-33797642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T18:22:24.169Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1779215059949g59hy",
+        "title": "Gaza'ya Giden Yardım Filosu Teknesi Teknik Arıza Sonrası Türk Limanına Ulaştı",
+        "summary": "Gaza'ya doğru yola çıkan insani yardım filosu bünyesindeki bir gemi, denizde teknik bir arıza yaşadı. Gemide bulunan 27 aktivistle birlikte, Türk Sahil Güvenlik birimleri eşliğinde Türkiye'nin güneyindeki Antalya limanına yanaştı. Yardım gemisi, Gaza'ya yönelik ablukanın delinmesi amacıyla yola çıkan filonun bir parçasıydı. Arıza nedeniyle seferine ara vermek zorunda kalan geminin durumu yakından takip ediliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/37599347/pexels-photo-37599347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T18:24:19.949Z",
+        "location": {
+            "lat": 36.8969,
+            "lng": 30.7133,
+            "name": "Antalya, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/boat-in-gaza-bound-aid-flotilla-reaches-turkish-port-after-technical-failure/3942385",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1779207841453zc9kv",
         "title": "Katar: ABD-İran Müzakereleri İçin Daha Fazla Zaman Gerekli",
         "summary": "Katar Dışişleri Bakanlığı, ABD ile İran arasındaki dolaylı müzakerelerin başarıyla sonuçlanması için daha fazla zamana ihtiyaç duyulduğunu bildirdi. Doha'dan yapılan açıklamada, taraflar arasında süregelen görüşmelerin karmaşık doğasına dikkat çekildi. Katar, bu süreçte arabuluculuk rolünü sürdürerek, iki ülke arasındaki anlaşmazlıkların diplomatik yollarla çözülmesi yönündeki çabalara destek veriyor. Müzakerelerin, özellikle nükleer anlaşma (JCPOA) ve bölgesel güvenlik konularında ilerleme kaydetmesi hedefleniyor. Katar, tarafları sabırlı olmaya ve yapıcı diyaloğu sürdürmeye teşvik etti.",
@@ -732,70 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iranian-president-praises-neighbors-for-preventing-misuse-of-territory-against-iran/3940253",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779032297649d784o",
-        "title": "ABD'de Hristiyan Siyonizmi Düşüşte mi?",
-        "summary": "ABD'deki genç muhafazakarlar arasında İsrail'e verilen desteğin azaldığı belirtiliyor. Bu durum, İsrail'i dini inançlar temelinde güçlü bir şekilde savunan Hristiyan Siyonizmi için olumsuz sonuçlar doğurabilir. Genç demografideki bu destek düşüşü, ABD-İsrail ilişkilerine yönelik genel siyasi görünümde potansiyel bir değişime işaret ediyor. Söz konusu gelişme, ABD'nin Orta Doğu'ya yönelik gelecekteki dış politika kararlarını etkileyebilir ve bölgedeki dengeler üzerinde dolaylı etkiler yaratabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11733643/pexels-photo-11733643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T15:38:17.649Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17790323628362la6l",
-        "title": "Hamas, üst düzey komutanının İsrail hava saldırısında öldürüldüğünü doğruladı",
-        "summary": "Hamas, üst düzey bir komutanının İsrail'in Gazze'ye düzenlediği hava saldırısında hayatını kaybettiğini açıkladı. Cuma günü gerçekleşen bu saldırı, İsrail'in Hamas ile varılan ateşkes anlaşmasına rağmen Gazze'ye yönelik gerçekleştirdiği son operasyonlardan biri oldu. Olay, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor ve ateşkesin kırılganlığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34889186/pexels-photo-34889186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T15:39:22.836Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779032384813fgyx4",
-        "title": "Filistinli Liderler Nadir Parti Toplantısı Düzenledi, Halkta Hoşnutsuzluk Artıyor",
-        "summary": "Filistinli liderler, kamuoyu yoklamalarının artan hoşnutsuzluğu ortaya koyduğu bir süreçte nadir bir parti toplantısı gerçekleştirdi. Toplantıda, iktidardaki Fatah grubu üst düzey karar alıcılarını seçmek üzere bir araya geldi. Ancak, sıradan Filistinliler arasında partinin ve liderinin halktan kopuk olduğu yönünde yaygın bir kanaat bulunuyor. Bu durum, Filistin siyasetindeki iç dinamikleri ve halkın yönetimden beklentilerini gözler önüne seriyor. Toplantının, artan memnuniyetsizliği giderme çabalarının bir parçası olup olmadığı tartışılıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6949525/pexels-photo-6949525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T15:39:44.813Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.23,
-            "name": "Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1779026717461lc4pf",
-        "title": "İsrail, Hamas Komutanı İzz el-Din el-Haddad'ı Öldürdü: Gazze Ateşkesi Test Ediliyor",
-        "summary": "İsrail güçleri, Hamas'ın üst düzey komutanlarından İzz el-Din el-Haddad'ı hedef alarak öldürdü. Bu olay, Gazze'de devam eden ateşkesin kırılganlığını bir kez daha ortaya koydu. Hamas, komutanının öldürülmesinin ardından operasyonel yapısını ve stratejilerini uyarlayacağını açıkladı. Bölgedeki gerilimi tırmandırma potansiyeli taşıyan bu gelişme, İsrail-Filistin çatışmasındaki dinamikleri etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36850182/pexels-photo-36850182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T14:05:17.461Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
