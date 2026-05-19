@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779227732639xl6lg",
+        "title": "İran Adası'nda Rafineri Saldırısı Sonrası Petrol Sızıntısı Görüntülendi",
+        "summary": "Geçtiğimiz ay İran'ın Lavan rafinerisine düzenlenen saldırının ardından meydana gelen petrol sızıntısının etkileri ortaya çıktı. Yayınlanan bir video, İran adalarından birinde yaşanan çevre felaketinin boyutlarını gözler önüne serdi. Saldırının neden olduğu sızıntı, bölgedeki deniz ekosistemi üzerinde ciddi bir tehdit oluşturuyor. Yetkililer, sızıntının temizlenmesi ve çevresel zararın en aza indirilmesi için çalışmaların sürdüğünü belirtti. Olay, bölgedeki enerji altyapısının güvenliği ve çevresel riskler konusundaki endişeleri artırdı.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/36343143/pexels-photo-36343143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T21:55:32.639Z",
+        "location": {
+            "lat": 26.8,
+            "lng": 53.38,
+            "name": "Lavan Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17792216190459xs39",
         "title": "San Diego Camii Saldırısında Kurbanların Kimlikleri Belirlendi",
         "summary": "Kaliforniya'nın San Diego kentinde bir camiye düzenlenen saldırıda hayatını kaybeden üç kurbanın kimlikleri tespit edildi. Yetkililer, olayı nefret suçu olarak soruşturmaya devam ediyor. Kurbanlardan Mansour Kaziha ve Nader Awad'ın isimleri kamuoyuna açıklandı. Bu saldırı, ABD'deki Müslüman topluluklar arasında endişeye yol açtı ve nefret suçlarıyla mücadele konusunu yeniden gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Mavi Nil Eyaleti, Sudan"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779047199639xyf67",
-        "title": "İsrail'in Ofer Cezaevi'ndeki Filistinli Tutuklular Arasında Uyuz Salgını Yayılıyor: Komisyon",
-        "summary": "İsrail'in Ofer Cezaevi'nde tutulan Filistinli mahkumlar arasında uyuz salgını yayıldığı bildirildi. Bir komisyon tarafından yapılan açıklamaya göre, cezaevindeki sağlık koşulları endişe verici boyutlara ulaştı. İnsan hakları grupları, İsrail'in cezaevlerinde 9.400'den fazla Filistinli tutukluyu barındırdığını belirtiyor. Bu durum, tutukluların sağlık ve yaşam koşullarına ilişkin uluslararası kamuoyunun dikkatini çekiyor ve insan hakları ihlalleri iddialarını gündeme getiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6069346/pexels-photo-6069346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T19:46:39.639Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2035,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/scabies-spreads-among-palestinian-detainees-in-israel-s-ofer-prison-commission/3940378",
         "trendScore": 85,
         "isBreaking": false
     }
