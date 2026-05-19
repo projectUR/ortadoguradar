@@ -1,5 +1,37 @@
 [
     {
+        "id": "1779207841453zc9kv",
+        "title": "Katar: ABD-İran Müzakereleri İçin Daha Fazla Zaman Gerekli",
+        "summary": "Katar Dışişleri Bakanlığı, ABD ile İran arasındaki dolaylı müzakerelerin başarıyla sonuçlanması için daha fazla zamana ihtiyaç duyulduğunu bildirdi. Doha'dan yapılan açıklamada, taraflar arasında süregelen görüşmelerin karmaşık doğasına dikkat çekildi. Katar, bu süreçte arabuluculuk rolünü sürdürerek, iki ülke arasındaki anlaşmazlıkların diplomatik yollarla çözülmesi yönündeki çabalara destek veriyor. Müzakerelerin, özellikle nükleer anlaşma (JCPOA) ve bölgesel güvenlik konularında ilerleme kaydetmesi hedefleniyor. Katar, tarafları sabırlı olmaya ve yapıcı diyaloğu sürdürmeye teşvik etti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4173352/pexels-photo-4173352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T16:24:01.453Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779207933585565yi",
+        "title": "BAE, Son 48 Saatte 6 İnsansız Hava Aracıyla 'Başarılı Bir Şekilde' Angaje Olduğunu Duyurdu",
+        "summary": "Birleşik Arap Emirlikleri (BAE) Savunma Bakanlığı, son 48 saat içinde altı insansız hava aracıyla (İHA) başarılı bir şekilde angaje olunduğunu açıkladı. Bakanlık ayrıca, Pazar günü Barakah Nükleer Santrali'ne yönelik saldırıya karışan tüm İHA'ların Irak topraklarından geldiğini belirtti. Bu açıklama, bölgesel güvenlik ve sınır ötesi tehditler konusunda endişeleri artırıyor ve iki Orta Doğu ülkesi arasında potansiyel bir güvenlik sorununa işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525965/pexels-photo-16525965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T16:25:33.585Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Abu Dabi, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-says-it-successfully-engaged-with-6-drones-in-past-48-hours/3942319",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779194560902nfxa5",
         "title": "Xi Jinping, Çin ziyaretinde Putin ile bağları güçlendirmeyi hedefliyor",
         "summary": "Çin Devlet Başkanı Xi Jinping, Rusya Devlet Başkanı Vladimir Putin'i Pekin'de ağırlıyor. Bu ziyaret, Xi'nin birkaç gün önce eski ABD Başkanı Donald Trump'ı ağırlamasının ardından gerçekleşiyor. Görüşmelerin, iki ülke arasındaki stratejik ortaklığı ve işbirliğini daha da derinleştirmeyi amaçladığı belirtiliyor. Çin ve Rusya'nın, küresel ve bölgesel konularda ortak tutum sergileme ve çok kutuplu dünya düzenini destekleme çabalarını sürdürmesi bekleniyor. Bu zirve, iki liderin uluslararası arenadaki etkilerini artırma ve Batı'nın politikalarına karşı denge oluşturma arayışlarının bir parçası olarak değerlendiriliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779026739122sz5ly",
-        "title": "İsrail'den ateşkes ihlaline rağmen Lübnan'a yeni saldırı dalgası",
-        "summary": "İsrail ordusu, Lübnan topraklarına yönelik yeni bir hava saldırısı dalgası düzenledi. Saldırıların, bölgede ilan edilen ateşkes anlaşmasına rağmen gerçekleştiği bildirildi. Bu durum, taraflar arasındaki gerilimi yeniden tırmandırırken, ateşkesin sürdürülebilirliği konusunda endişeleri artırdı. Uluslararası toplumdan henüz resmi bir açıklama gelmezken, bölgedeki güvenlik durumu yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/984954/pexels-photo-984954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T14:05:39.122Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1779026775522fqi22",
-        "title": "İsrail Baskını Sonrası Batı Şeria'da Okul Çocukları Kaçtı",
-        "summary": "İşgal altındaki Batı Şeria'da bulunan Nablus kentine bağlı Burqa köyünde, İsrail güçlerinin okulları tahliye etmesinin ardından Filistinli çocuklar sokaklara döküldü. İsrail güçlerinin bölgeye düzenlediği baskın sırasında, çocuklar güvenlik endişesiyle okullarından kaçmak zorunda kaldı. Bu olay, Batı Şeria'da devam eden gerilimin ve sivil halk üzerindeki etkilerinin yeni bir göstergesi oldu. Bölgedeki durumun yakından takip edildiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4405560/pexels-photo-4405560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T14:06:15.522Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/17/schoolchildren-flee-israeli-raid-in-occupied-west-bank?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
