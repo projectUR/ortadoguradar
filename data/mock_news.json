@@ -1,5 +1,21 @@
 [
     {
+        "id": "17792320089081bj1e",
+        "title": "İsrailli Bakan Smotrich, UCM Savcısının Kendisi Hakkında Tutuklama Emri İstediğini İddia Etti",
+        "summary": "İsrailli Bakan Bezalel Smotrich, Uluslararası Ceza Mahkemesi (UCM) savcısının kendisi hakkında tutuklama emri çıkarmaya çalıştığını öne sürdü. Lahey merkezli mahkeme yetkilileri ise, tutuklama emri başvurularının gizli olarak sınıflandırıldığını belirterek bu iddialar hakkında yorum yapmaktan kaçındı. Bu durum, İsrailli bir hükümet yetkilisine karşı uluslararası bir mahkeme tarafından potansiyel bir yasal işlem başlatılması olasılığını gündeme getiriyor. Gelişme, Orta Doğu'daki çatışmalarla ilgili uluslararası hukuki süreçlerin yoğunlaştığı bir döneme denk geliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29344117/pexels-photo-29344117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T23:06:48.908Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779227732639xl6lg",
         "title": "İran Adası'nda Rafineri Saldırısı Sonrası Petrol Sızıntısı Görüntülendi",
         "summary": "Geçtiğimiz ay İran'ın Lavan rafinerisine düzenlenen saldırının ardından meydana gelen petrol sızıntısının etkileri ortaya çıktı. Yayınlanan bir video, İran adalarından birinde yaşanan çevre felaketinin boyutlarını gözler önüne serdi. Saldırının neden olduğu sızıntı, bölgedeki deniz ekosistemi üzerinde ciddi bir tehdit oluşturuyor. Yetkililer, sızıntının temizlenmesi ve çevresel zararın en aza indirilmesi için çalışmaların sürdüğünü belirtti. Olay, bölgedeki enerji altyapısının güvenliği ve çevresel riskler konusundaki endişeleri artırdı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17790471303906jxkl",
-        "title": "Sudan Ordusu Mavi Nil Eyaleti'nde İlerlemesini Sürdürüyor",
-        "summary": "Sudan ordusunun Mavi Nil Eyaleti'ndeki ilerleyişi, bölgedeki çatışmaları yeniden alevlendirdi. Yaşanan şiddetli çatışmalar nedeniyle çok sayıda aile evlerini terk etmek zorunda kaldı. Yerinden edilen siviller, aşırı kalabalık kamplara sığınarak zorlu koşullarda yaşam mücadelesi veriyor. Bu durum, bölgedeki insani krizi derinleştirerek yerinden edilme sorununu artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34222337/pexels-photo-34222337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T19:45:30.390Z",
-        "location": {
-            "lat": 11.77,
-            "lng": 34.33,
-            "name": "Mavi Nil Eyaleti, Sudan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
