@@ -1,5 +1,37 @@
 [
     {
+        "id": "1779154181518gzhsp",
+        "title": "San Diego'da Camiye Saldırı: Üç Kişi Hayatını Kaybetti",
+        "summary": "Amerika Birleşik Devletleri'nin San Diego kentinde bir camiye düzenlenen silahlı saldırıda üç kişi yaşamını yitirdi. Olay, iki genç silahlı saldırgan tarafından gerçekleştirilirken, saldırının nefret suçu şüphesiyle soruşturulduğu bildirildi. Yetkililer, saldırının ardındaki motivasyonu ve faillerin kimliğini belirlemek için geniş çaplı bir inceleme başlattı. Bu tür saldırılar, ülke genelindeki Müslüman topluluklarda endişe yaratırken, nefret suçlarıyla mücadele çağrılarını artırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/750241/pexels-photo-750241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T01:29:41.518Z",
+        "location": {
+            "lat": 32.715738,
+            "lng": -117.161084,
+            "name": "San Diego, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/19/two-teen-gunmen-kill-three-at-san-diego-mosque-in-suspected-hate-crime?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779154204078mw5zi",
+        "title": "ABD'den İran'a Yönelik Saldırı Erteleme Açıklamasına Tahran'dan Yanıt",
+        "summary": "ABD Başkanı Donald Trump'ın, İran'a yönelik olası bir askeri saldırının Körfez müttefiklerinin talebi üzerine ertelendiğini duyurmasının ardından, Tahran'dan ilk tepkiler geldi. Al Jazeera'nın Tahran muhabiri, İran liderlerinin ABD'den gelen baskıyı kesin bir dille reddederek 'meydan okuyan bir duruş sergilediğini' bildirdi. Bu durum, Washington ile Tahran arasındaki gerilimin sürdüğünü ve bölgesel güvenlik dinamiklerinin hassasiyetini koruduğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-19T01:30:04.078Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1779145533110yobaw",
         "title": "Brezilya, Neymar'ı 2026 Dünya Kupası Kadrosuna Çağırdı",
         "summary": "Brezilya Milli Takımı'nın tüm zamanların en golcü oyuncusu Neymar, 2026 Dünya Kupası kadrosuna dahil edildi. Bu karar, teknik direktör Carlo Ancelotti'nin ilk kez Neymar'ı milli takıma çağırmasıyla geldi. Yıldız oyuncu, şu anda Suudi Arabistan'ın Al-Hilal takımında forma giymektedir. Neymar'ın kadroya alınması, hem Brezilya'nın Dünya Kupası hazırlıkları hem de Suudi Arabistan'ın spor yatırımları açısından önemli bir gelişme olarak değerlendirilmektedir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-cannot-destroy-all-hezbollah-weapons-without-political-breakthrough-israeli-source/3940017",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779011825419yu2ig",
-        "title": "İsrail'in yeni saldırılarında Gazze'de bir Filistinli öldü, 4 kişi yaralandı",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği yeni saldırılarda bir Filistinli hayatını kaybetti, dört kişi ise yaralandı. Saldırılar, İsrail insansız hava aracının (İHA) Filistinlilerin toplandığı bir noktayı hedef alması sonucu meydana geldi. Olay, Ekim 2025'ten bu yana yürürlükte olan ateşkese rağmen gerçekleşti. Bu gelişme, bölgedeki hassas güvenlik durumunu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T09:57:05.419Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-attacks-kill-palestinian-wound-4-others-in-gaza/3940004",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1779004624669bwssf",
-        "title": "İsrail'in Uluslararası İzolasyonu: Liderlik Değişimi Beklentileri",
-        "summary": "İsrail'deki muhalefet liderleri, ülkenin uluslararası alandaki izolasyonunu sona erdirme hedefini taşıyor. Ancak muhalefet, İsrail'i bu izolasyona iten Filistinlilere yönelik mevcut politikaları sürdürme eğiliminde. Bu durum, olası bir liderlik değişiminin İsrail'in dış ilişkilerindeki konumunu ne ölçüde değiştirebileceği konusunda tartışmalara yol açıyor. Muhalefetin bu çelişkili yaklaşımı, uluslararası toplum nezdinde İsrail'in imajını düzeltme çabalarını karmaşıklaştırabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4386445/pexels-photo-4386445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-17T07:57:04.669Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
