@@ -1,5 +1,69 @@
 [
     {
+        "id": "17793024779868iirw",
+        "title": "Rusya, Karadeniz Üzerinde İngiliz Casus Uçağını 'Tehlikeli Bir Şekilde' Engelledi",
+        "summary": "İngiltere Savunma Bakanlığı, Rusya'ya ait bir uçağın Karadeniz uluslararası hava sahasında görev yapan silahsız bir İngiliz Rivet Joint casus uçağını \"tehlikeli bir şekilde\" engellediğini duyurdu. Geçen ay meydana gelen bu olayın, NATO'nun doğu kanadını güvence altına alma misyonu sırasında gerçekleştiği belirtildi. İngiltere, Rusya'nın bu eylemini uluslararası kurallara aykırı ve provokatif olarak değerlendirerek bölgedeki gerilimi artırdığını ifade etti. Bu tür hava sahası ihlalleri, uluslararası ilişkilerde tansiyonu yükseltme potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14686866/pexels-photo-14686866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-20T18:41:17.986Z",
+        "location": {
+            "lat": 43,
+            "lng": 35,
+            "name": "Karadeniz, Uluslararası Sular"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779302515602llv3s",
+        "title": "İran'da Uzun Süreli Borsa Kapanışı Kontrollü Yeniden Açılışla Sona Erdi",
+        "summary": "İran'da uzun süredir kapalı olan borsa, kontrollü bir yeniden açılışla faaliyetlerine başladı. Bu yeniden açılış sürecinde, ABD ve İsrail saldırılarından etkilenen enerji ve çelik firmaları gibi şirketlerin hisseleri işleme alınmadı. Bu durum, ülkenin ekonomik toparlanma çabalarını ve dış etkenlerin piyasalar üzerindeki etkisini gözler önüne seriyor. Yeniden açılışın, İran ekonomisi üzerindeki etkileri yakından takip ediliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-20T18:41:55.602Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1779302574732ctohw",
+        "title": "İsrailli Bakana Gazze Filosu Aktivistleriyle Alay Ettiği İçin Uluslararası Kınama",
+        "summary": "İsrail'in aşırı sağcı bakanı Itamar Ben-Gvir'in, bir İsrail limanında gözaltına alınan Gazze filosu aktivistleriyle alay ederken çekilen videosu uluslararası tepkilere neden oldu. Görüntülerde kelepçeli aktivistlerle dalga geçtiği görülen Ben-Gvir'in bu eylemleri, Fransa ve İtalya başta olmak üzere birçok ülke tarafından sert bir şekilde kınandı. Bu durum, İsrail'in Gazze ablukasına karşı çıkan aktivistlere yönelik tutumunu ve insan hakları ihlali iddialarını yeniden gündeme getirdi. Uluslararası toplum, olayın diplomatik sonuçları olabileceği konusunda endişelerini dile getirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/19065484/pexels-photo-19065484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-20T18:42:54.732Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779302617401j0jyr",
+        "title": "BM'den İsrail'e Gazze Filosu Aktivistlerine Onurlu Davranma Çağrısı",
+        "summary": "Birleşmiş Milletler, İsrail'i gözaltına aldığı Gazze filosu aktivistlerine onurlu bir şekilde muamele etmeye çağırdı. BM sözcüsü tarafından yapılan açıklamada, gözaltına alınan tüm kişilerin kendi ülkelerine hızlı bir şekilde iade edilmesi gerektiği vurgulandı. Bu çağrı, İsrail'in Gazze'ye yönelik ablukasını kırmaya çalışan filolara müdahalesi sonrası yaşanan gerilimleri ve insan hakları endişelerini yansıtıyor. Uluslararası toplum, benzer olaylarda aktivistlerin haklarının korunması konusunda İsrail'e sık sık çağrıda bulunuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/19985056/pexels-photo-19985056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-20T18:43:37.401Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/world/un-urges-israel-to-treat-detained-gaza-flotilla-activists-with-dignity/3943780",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779294566016q9tly",
         "title": "İsrail'in Güney Lübnan'a Düzenlediği Hava Saldırılarında En Az Sekiz Kişi Hayatını Kaybetti",
         "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırılarında en az sekiz kişinin hayatını kaybettiği bildirildi. Bölgedeki gerilim devam ederken, İsrail'in Lübnan'a yönelik saldırılarının sürdüğü belirtildi. Bu saldırılar, yakın zamanda Temmuz ayının başına kadar uzatılan ateşkes anlaşmasına rağmen gerçekleşiyor. Olaylar, Orta Doğu'daki kırılgan güvenlik durumunu bir kez daha gözler önüne serdi.",
@@ -734,69 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/global-sumud-flotilla-activists-say-convoy-continues-toward-gaza-despite-interceptions/3940954",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1779091979317yb4kd",
-        "title": "İran Savaşı 80. Gün: Trump'tan Uyarı; Tahran Saldırganlığa Karşı Koymaya Hazır",
-        "summary": "ABD'nin İran'a yönelik olası yeni saldırıları bölgede endişeleri artırırken, İsrail'in Lübnan'daki saldırıları uzatılan ateşkes anlaşmasına rağmen devam ediyor. Bu gelişmeler, Orta Doğu'da tırmanan gerilimi gözler önüne seriyor. ABD Başkanı Trump'ın uyarıları ve Tahran yönetiminin olası bir saldırganlığa karşı koymaya hazır olduğu yönündeki açıklamaları bölgedeki tansiyonu yükseltiyor. Mevcut durum, çatışma riskinin yüksek olduğu bir döneme işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T08:12:59.317Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779092041390yabjp",
-        "title": "İsrail'in yakıt ve un ithalatını kısıtlamasıyla Gazze'de ekmek kuyrukları uzuyor",
-        "summary": "Gazze Şeridi'nde ekmek kıtlığı, İsrail'in bölgeye yönelik yakıt ve un ithalatına getirdiği kısıtlamalar nedeniyle giderek artıyor. Yerel fırınlar, temel hammaddelerden olan unun tedarikinde yaşanan sıkıntılarla boğuşurken, aynı zamanda yakıt eksikliği nedeniyle üretim kapasitelerini düşürmek zorunda kalıyor. Bu durum, bölge halkının temel gıda maddesi olan ekmeğe ulaşımını zorlaştırarak uzun kuyrukların oluşmasına yol açıyor. Artan talep karşısında azalan üretim, Gazze'deki insani durumu daha da kötüleştiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/251610/pexels-photo-251610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T08:14:01.390Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17790920639743pyi4",
-        "title": "Trump'tan İran'a 'saat işliyor' uyarısı: Barış süreci tıkandı",
-        "summary": "Eski ABD Başkanı Donald Trump'ın, İran'a yönelik 'saatin işlediği' uyarısında bulunduğu bildirildi. Bu açıklama, ABD ile İran arasındaki barış görüşmelerinde ilerleme kaydedilememesi üzerine geldi. İran medyası, Tahran'ın sunduğu son tekliflere karşılık Washington'ın somut tavizler vermediğini duyurdu. Görüşmelerdeki bu tıkanıklık, iki ülke arasındaki diplomatik çabaların zorluğunu ve gerilimin devam ettiğini gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T08:14:23.974Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "177909208582768lm0",
-        "title": "BAE, Abu Dabi nükleer santrali yakınlarında saldırı bildirildiğini duyurdu",
-        "summary": "Birleşik Arap Emirlikleri (BAE), başkenti Abu Dabi'deki bir nükleer enerji santrali yakınlarında bir saldırı yaşandığını bildirdi. Ülke yetkilileri, olayın kaynağını belirlemek üzere kapsamlı bir soruşturma başlattıklarını açıkladı. BAE, bu saldırıyı \"tehlikeli bir tırmanış\" olarak nitelendirerek bölgedeki gerilimin artabileceği endişelerini dile getirdi. Olayın nükleer santralin operasyonlarını veya güvenliğini etkileyip etkilemediği hakkında henüz detaylı bilgi verilmedi. Bölgedeki güvenlik durumu yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4192/sport-alley-ball-game.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T08:14:45.827Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
