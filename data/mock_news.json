@@ -1,5 +1,37 @@
 [
     {
+        "id": "1779281009545m5jxo",
+        "title": "Lübnan, İsrail hava saldırılarında aralarında çocukların da bulunduğu 21 kişinin öldüğünü bildirdi",
+        "summary": "Lübnan resmi haber ajansı, İsrail'in düzenlediği hava saldırılarında aralarında çocukların da bulunduğu 21 kişinin hayatını kaybettiğini duyurdu. Ajansın bildirdiğine göre, bir eve düzenlenen tek bir saldırıda üç çocuk ve üç kadın dahil olmak üzere toplam on iki kişi yaşamını yitirdi. Bu saldırılar, bölgedeki gerilimi artırırken, sivil kayıpların yaşanması endişelere yol açtı. Lübnan makamları, saldırıların detaylarına ilişkin incelemelerini sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34072473/pexels-photo-34072473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-20T12:43:29.545Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779281053282d7uni",
+        "title": "BBC'nin Kimliğini Ortaya Çıkardığı Önemli İnsan Kaçakçısı Tutuklandı",
+        "summary": "İngiliz yayın kuruluşu BBC'nin kimliğini ifşa etmesinin ardından önemli bir insan kaçakçısı yakalandı. 28 yaşındaki şahsın liderliğini yaptığı şebekenin, binlerce yasa dışı göçmeni Birleşik Krallık'a taşıdığı düşünülüyor. Bu tutuklama, uluslararası insan kaçakçılığı ağlarına karşı yürütülen mücadelede önemli bir adım olarak değerlendiriliyor. Yasa dışı göçmenlerin genellikle Orta Doğu ve Kuzey Afrika'dan Avrupa'ya uzanan tehlikeli rotaları kullandığı biliniyor. Bu tür operasyonlar, bölgedeki insan kaçakçılığı faaliyetlerinin boyutunu ve uluslararası işbirliğinin önemini bir kez daha gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33314492/pexels-photo-33314492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-20T12:44:13.282Z",
+        "location": {
+            "lat": 41.0082,
+            "lng": 28.9784,
+            "name": "İstanbul, Türkiye"
+        },
+        "source": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779257577057a07vp",
         "title": "Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin Pekin'de görüştü",
         "summary": "Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin, Pekin'de önemli bir görüşme gerçekleştirdi. İki lider, ikili ilişkilerin yanı sıra küresel ve bölgesel meseleleri ele aldı. Bu zirve, ABD Başkanı Donald Trump'ın Çin'e yaptığı resmi ziyaretin hemen ardından düzenlendi. Görüşmelerin, Çin ve Rusya arasındaki stratejik ortaklığı daha da güçlendirmesi ve uluslararası politikadaki etkileşimlerini artırması bekleniyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-uproots-olive-trees-bulldozes-agricultural-land-in-west-bank/3940558",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1779092208564rvjpj",
-        "title": "İran'dan Umman Körfezi Tehdidi: 'ABD Ablukayı Kaldırmazsa Gemiler İçin Mezarlığa Dönüşür'",
-        "summary": "İranlı üst düzey bir askeri danışman, ABD'nin ablukayı kaldırmaması durumunda Umman Körfezi'ni gemiler için bir 'mezarlığa' dönüştürecekleri uyarısında bulundu. Tümgeneral Mohsen Rezaei, deniz ablukasının bir savaş eylemi olarak kabul edildiğini ve buna yanıt vermenin İran'ın doğal hakkı olduğunu belirtti. Bu açıklama, bölgedeki gerilimi tırmandırabilecek potansiyel bir askeri çatışma riskine işaret ediyor. Umman Körfezi, küresel petrol ticareti için hayati öneme sahip stratejik bir su yoludur.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T08:16:48.564Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-will-turn-gulf-of-oman-into-graveyard-for-ships-if-us-doesn-t-end-blockade-top-military-adviser/3940490",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1779076832646m7xqv",
-        "title": "İsrail, 'ateşkesi' uzatmasına rağmen güney Lübnan'a saldırı düzenledi",
-        "summary": "Al Jazeera muhabiri Obaida Hitto, güney Lübnan'daki Sur şehrinden bölgedeki son İsrail saldırılarını bildirdi. İsrail'in, daha önce uzattığı 'ateşkes' anlaşmasına rağmen güney Lübnan'a yönelik hava saldırıları gerçekleştirdiği belirtildi. Saldırıların detayları ve bölgedeki son durum hakkında bilgiler aktarıldı. Bu gelişmeler, bölgedeki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15688701/pexels-photo-15688701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T04:00:32.646Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.2,
-            "name": "Sur, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
