@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779257577057a07vp",
+        "title": "Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin Pekin'de görüştü",
+        "summary": "Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin, Pekin'de önemli bir görüşme gerçekleştirdi. İki lider, ikili ilişkilerin yanı sıra küresel ve bölgesel meseleleri ele aldı. Bu zirve, ABD Başkanı Donald Trump'ın Çin'e yaptığı resmi ziyaretin hemen ardından düzenlendi. Görüşmelerin, Çin ve Rusya arasındaki stratejik ortaklığı daha da güçlendirmesi ve uluslararası politikadaki etkileşimlerini artırması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-20T06:12:57.057Z",
+        "location": {
+            "lat": 39.9042,
+            "lng": 116.4074,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/20/chinas-xi-jinping-and-russian-president-vladimir-putin-meet-in-beijing?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779240670410k5xfj",
         "title": "ABD Senatosu, Trump'ın İran'a Savaş Açma Yetkisini Kısıtlama Kararını İlerletti",
         "summary": "ABD Senatosu, Başkan Donald Trump'ın İran'a karşı savaş açma yetkilerini kısıtlamayı hedefleyen bir Savaş Yetkileri Kararı'nı ilerletme yönünde oy kullandı. Bu oylama, Başkan'a yönelik nadir bir kınama olarak yorumlandı. Karar, ABD'nin İran'a yönelik olası bir saldırısını sona erdirme yönündeki kamuoyu ve siyasi baskının arttığı bir dönemde alındı. Senato'nun bu adımı, yürütme organının savaş ilan etme yetkileri üzerindeki yasama denetimini güçlendirme çabalarının bir parçası olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1779076888671nky5s",
-        "title": "İran'da Savaşın Başlamasından Bu Yana Siyasi İnfazlarda Artış",
-        "summary": "Birleşmiş Milletler'in açıklamasına göre, 28 Şubat'ta ABD ve İsrail'in İran'a yönelik saldırılarının başlamasından bu yana ülkede en az 32 siyasi mahkumun infaz edildiği doğrulandı. Bu durum, İran'daki siyasi infazlarda belirgin bir artışa işaret etmektedir. Haber başlığı, infaz edilecek kişilerin yaşadığı çaresizliği \"Sesimi son kez duyuyor olabilirsiniz\" ifadesiyle çarpıcı bir şekilde yansıtmaktadır. Uluslararası toplum, İran'daki insan hakları ihlallerine ilişkin endişelerini dile getirmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8111858/pexels-photo-8111858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T04:01:28.671Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
