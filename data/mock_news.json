@@ -1,5 +1,21 @@
 [
     {
+        "id": "177933932807064fb7",
+        "title": "İsrail, işgal altındaki Doğu Kudüs yakınlarında 8 Filistinli ev ve yapı için yıkım emri çıkardı",
+        "summary": "İsrail makamları, işgal altındaki Doğu Kudüs yakınlarındaki Hizma bölgesinde bulunan sekiz Filistinli ev ve yapı için yıkım emri verdi. Verilen bilgilere göre, yıkım emirleri hem konut hem de ticari mülkleri hedef alıyor. İsrail, bu yapıların ruhsatsız olduğu gerekçesiyle yıkım kararı aldığını belirtiyor. Filistinliler ise Doğu Kudüs çevresindeki bölgelerde ruhsat almanın neredeyse imkansız olduğunu ve bu tür emirlerin Filistinlilerin bölgedeki varlığını azaltma amacı taşıdığını savunuyor. Bu kararlar, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7900228/pexels-photo-7900228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-21T04:55:28.070Z",
+        "location": {
+            "lat": 31.83,
+            "lng": 35.26,
+            "name": "Hizma, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-issues-demolition-orders-for-8-palestinian-homes-and-structures-near-occupied-east-jerusalem/3944072",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1779316786505wecc6",
         "title": "ABD, İsrail'in Ben-Gvir'ini Kınarken, Gazze Filosu Organizatörlerine Yaptırım Uyguladı",
         "summary": "Amerika Birleşik Devletleri, İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'i, Gazze'ye yardım götürmeyi amaçlayan filo aktivistleriyle alay ettiği bir video nedeniyle kınadığını açıkladı. Bu kınama, ABD'nin Gazze filosu organizatörlerine yaptırım uygulamasından bir gün sonra geldi. Eski Arkansas Valisi Mike Huckabee, Ben-Gvir'in bu davranışının 'onurunu ihlal ettiğini' belirtti. Bu gelişmeler, ABD'nin hem İsrail iç siyasetine hem de Gazze'ye yönelik insani yardım çabalarına ilişkin karmaşık diplomatik tutumunu yansıtmaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1779105594069hvx1u",
-        "title": "İsrail Güçleri, Gazze'ye Giden Yardım Filosunu Kıbrıs Açıklarında Durdurmaya Başladı",
-        "summary": "İsrail güçleri, Gazze Şeridi'ne insani yardım taşıyan Global Sumud Filosu'na ait tekneleri Kıbrıs açıklarında durdurma operasyonuna başladı. Filo, Gazze'ye yönelik ablukayı delmeyi hedefleyerek yola çıkmıştı. Olay, uluslararası sularda, Kıbrıs yakınlarında gerçekleşirken, İsrail donanması filodaki gemilere müdahale ederek ilerlemelerini engelledi. Bu müdahale, Gazze'ye deniz yoluyla yardım ulaştırma girişimlerine karşı İsrail'in uyguladığı politikaların bir parçası olarak değerlendiriliyor. Bölgedeki gerilimin artmasına neden olabilecek bu gelişme, uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11912586/pexels-photo-11912586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-18T11:59:54.069Z",
-        "location": {
-            "lat": 34,
-            "lng": 33,
-            "name": "Kıbrıs Açıkları, Doğu Akdeniz"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israeli-forces-begin-intercepting-gaza-bound-aid-flotilla-near-cyprus?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": true
     }
 ]
