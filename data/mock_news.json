@@ -1,5 +1,53 @@
 [
     {
+        "id": "17793790610757zbwz",
+        "title": "ABD-İran Diplomasisinde Yeni Gelişmeler",
+        "summary": "İran medyası, Pakistan İçişleri Bakanı'nın ABD ile İran arasında bir barış anlaşmasına aracılık etmek üzere İran'da bulunduğunu bildirdi. Bu ziyaret, iki ülke arasındaki gerilimi azaltma ve diplomatik çözümler bulma çabalarının bir parçası olarak değerlendiriliyor. Pakistan'ın arabuluculuk rolü, bölgesel istikrar arayışlarında önemli bir adım olarak görülüyor. Görüşmelerin detayları henüz açıklanmazken, taraflar arasındaki diyaloğun devam ettiği belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-21T15:57:41.075Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779379136111s3j5y",
+        "title": "Gözaltına Alınan Global Sumud Yardım Filosu Aktivistleri İstanbul'a Ulaştı",
+        "summary": "İsrail ordusu tarafından müdahale edilerek gözaltına alınan Global Sumud insani yardım filosu aktivistleri, İsrail'den kalkan özel uçuşlarla Türkiye'ye getirildi. İnsani yardım misyonu kapsamında bölgeye ulaşmaya çalışan aktivistler, İsrail güçlerinin müdahalesi sonucu alıkonulmuştu. Türkiye Dışişleri Bakanlığı'nın girişimleriyle serbest bırakılan aktivistler, İstanbul Havalimanı'nda karşılandı. Olay, uluslararası kamuoyunda geniş yankı uyandırırken, bölgedeki insani durum ve uluslararası suların kullanımı konularını yeniden tartışmaya açtı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32475025/pexels-photo-32475025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-21T15:58:56.111Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "İstanbul, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/world/detained-global-sumud-aid-flotilla-activists-arrive-in-istanbul/3944953",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779379160840kvn95",
+        "title": "'Kabul edilemez ve utanç verici': Barış Kurulu elçisi, İsrail'in Gazze filosu tutuklularına muamelesini kınadı",
+        "summary": "Barış Kurulu elçisi Nickolay Mladenov, İsrail'in Gazze filosu tutuklularına yönelik muamelesini 'kabul edilemez ve utanç verici' olarak nitelendirdi. Mladenov, İsrail'in bu eylemlerinin, ABD Başkanı Trump'ın Gazze için hazırladığı Kapsamlı Plan'ın uygulanmasına yönelik acil çalışmaları sekteye uğrattığını belirtti. Açıklama, İsrail-Filistin çatışması bağlamında uluslararası toplumun bölgedeki gerilimi azaltma çabalarına dikkat çekiyor. Bu durum, Gazze'deki insani durumu ve bölgedeki siyasi dinamikleri etkileyen önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32995076/pexels-photo-32995076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-21T15:59:20.840Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/unacceptable-and-shameful-board-of-peace-envoy-condemns-israeli-treatment-of-gaza-flotilla-detainees/3944949",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1779365816752yhwwk",
         "title": "Gazze'li Kız Kardeşler Savaş Enkazını Tuğlaya Dönüştürerek Dünya Ödülü Kazandı",
         "summary": "Gazze'den Filistinli kız kardeşler Tala ve Farah Mousa, bombalanan evlerinin enkazını yeniden kullanılabilir tuğlalara dönüştürerek önemli bir başarıya imza attı. Bu yenilikçi ve sürdürülebilir projeleri sayesinde uluslararası alanda prestijli 'Earth Prize' ödülünü kazandılar. Kız kardeşlerin bu girişimi, savaşın yıkıcı etkilerine karşı çevresel bir çözüm sunarken, bölgedeki yeniden yapılanma çabalarına ilham verici bir örnek teşkil ediyor. Proje, atık yönetimi ve kaynakların yeniden kullanımı konularında farkındalık yaratmayı hedefliyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/19/king-of-the-north-who-is-andy-burnham-a-potential-uk-prime-minister?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": false
-    },
-    {
-        "id": "1779184475071sy4ct",
-        "title": "İsrail Donanması'nın Gazze Açıklarında Ateş Açması Sonucu İki Filistinli Balıkçı Yaralandı",
-        "summary": "Gazze Şeridi'nin güney kıyısı açıklarında İsrail donanması tarafından açılan ateş sonucu iki Filistinli balıkçı yaralandı. Olay, bölgede yürürlükte olan ateşkes anlaşmasına rağmen meydana geldi. Haber kaynakları, İsrail'in ateşkes mutabakatına rağmen Gazze sularında balıkçılığı yasaklamaya devam ettiğini belirtiyor. Bu durum, Gazze'deki balıkçıların geçim kaynaklarını olumsuz etkilemeye devam ederken, bölgedeki gerilimi de artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36850177/pexels-photo-36850177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-19T09:54:35.071Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-palestinian-fishermen-wounded-by-israeli-navy-fire-off-southern-gaza-coast-despite-ceasefire/3941958",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17791845087112zzb7",
-        "title": "ABD ve İran Çatışmayı Önlemek İçin Öneriler Değiş Tokuş Ediyor: Rapor",
-        "summary": "ABD ve İran arasında olası bir çatışmayı önlemek amacıyla çeşitli önerilerin karşılıklı olarak değerlendirildiği bildirildi. Raporlara göre, dönemin ABD Başkanı Donald Trump'ın İran'a yönelik saldırıları erteleme kararını açıklamasından 24 saat önce Suudi Arabistan, Katar ve Birleşik Arap Emirlikleri liderleriyle telefon görüşmeleri gerçekleştirdiği belirtildi. Bu görüşmelerin, bölgedeki gerilimi azaltma ve diplomatik çözümler arama çabalarının bir parçası olduğu düşünülüyor. Haber, ABD'nin Körfez ülkeleriyle koordinasyon içinde İran ile diplomatik yollar aradığını ve çatışmayı önlemeye çalıştığını gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-19T09:55:08.711Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-iran-exchange-several-proposals-to-avoid-more-conflict-report/3941943",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779184565161i3oyx",
-        "title": "İsrailli Bakan Ben-Gvir UCM'yi Kınadı, Filistinlilere Karşı Gerilimi Artırma Sözü Verdi",
-        "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Uluslararası Ceza Mahkemesi'ni (UCM) sert bir dille eleştirdi. Bakan Ben-Gvir, Filistinlilere karşı gerilimi artırma sözü verdiğini belirtti. Bu açıklamalar, UCM'nin Batı Şeria'da işlendiği iddia edilen savaş suçları nedeniyle Ben-Gvir hakkında tutuklama emri çıkarmayı düşündüğüne dair çıkan haberlerin ardından geldi. Söz konusu iddialar, İsrail-Filistin çatışmasının hassas bir döneminde uluslararası hukukun rolünü bir kez daha gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700146/pexels-photo-5700146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-19T09:56:05.161Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-minister-ben-gvir-slams-icc-vows-escalation-against-palestinians/3941792",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
