@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779479656977b3scq",
+        "title": "Pakistan Genelkurmay Başkanı, İran savaşını sona erdirme arabuluculuk çabaları kapsamında Tahran'a geldi",
+        "summary": "Pakistan Genelkurmay Başkanı Asım Münir, 28 Şubat'ta başlayan \"İran savaşını\" sona erdirmeye yönelik Pakistan'ın arabuluculuk çabaları kapsamında Tahran'a ikinci ziyaretini gerçekleştirdi. Bu ziyaret, bölgesel istikrarın sağlanması ve çatışmanın diplomatik yollarla çözülmesi hedefini taşıyor. Münir'in Tahran'daki temasları, Pakistan'ın bölgedeki gerilimleri azaltma ve barışçıl çözümler bulma konusundaki aktif rolünü vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7447080/pexels-photo-7447080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-22T19:54:16.977Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-s-army-chief-arrives-in-tehran-amid-mediation-efforts-to-end-iran-war/3946150",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779472516584t21xw",
         "title": "Gazze filosu aktivistleri İsrail gözaltısında taciz ve cinsel saldırı iddialarında bulundu",
         "summary": "Global Sumud Filosu organizatörleri, yabancı aktivistlerin İsrail gözaltısında en az 15 cinsel saldırı vakası bildirdiğini açıkladı. Bu vakaların arasında tecavüz iddiaları da yer alıyor. İddialar, Gazze'ye yardım götürmeyi amaçlayan filonun İsrail güçleri tarafından durdurulmasının ardından gündeme geldi. Aktivistler, gözaltı süreçlerinde kötü muamele ve insan hakları ihlallerine maruz kaldıklarını belirtiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/20/oscar-winning-director-calls-trump-netanyahu-and-putin?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177929468585991gvv",
-        "title": "İran Hapishanesindeki İngiliz Çift Yeniden Açlık Grevine Başladı",
-        "summary": "İran'da tutuklu bulunan İngiliz vatandaşı Lindsay ve Craig Foreman çiftinin yeniden açlık grevine başladığı bildirildi. Çiftin ailesi tarafından yapılan açıklamaya göre, Doğu Sussex'ten olan Lindsay ve Craig Foreman, birkaç gündür yemek yemeyi reddediyor. Bu eylemin, çiftin İran'daki tutukluluk koşullarına ve durumlarına dikkat çekmek amacıyla gerçekleştirildiği belirtiliyor. Uluslararası kamuoyunun ve İngiliz hükümetinin konuya ilişkin gelişmeleri yakından takip ettiği ifade ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30558986/pexels-photo-30558986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-20T16:31:25.859Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
