@@ -1,5 +1,21 @@
 [
     {
+        "id": "17794134345227e3zb",
+        "title": "ABD, Francesca Albanese'ye Yaptırım Konusundaki Duruşunu Değiştirmedi",
+        "summary": "Birleşmiş Milletler uzmanı Francesca Albanese'ye yönelik yaptırımlar konusunda ABD'nin duruşunda bir değişiklik olmadığı bildirildi. Daha önce Trump yönetimi tarafından yaptırım uygulanan Albanese, İsrail'in Filistinlilere yönelik politikalarını eleştirmesi nedeniyle hedef alınmıştı. Bu açıklama, ABD'nin İsrail politikalarına yönelik eleştirilere karşı tutumunu sürdürdüğünü gösteriyor. Albanese, Filistin topraklarındaki insan hakları durumu özel raportörü olarak görev yapmaktadır ve bu durum uluslararası arenada tartışmalara yol açmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/29268612/pexels-photo-29268612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-22T01:30:34.522Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779405120417znu95",
         "title": "Filistin'in BM Temsilcisi: Dünya Filistinlilerin Öldürülmesine Alışmamalı",
         "summary": "Filistin'in Birleşmiş Milletler Daimi Temsilcisi Riyad Mansour, İsrail'in Filistinli sivillere yönelik şiddeti kışkırtmaya ve olanak sağlamaya devam ettiğini belirtti. Mansour, İsrail'in işgal güçleri veya İsrailli yerleşimciler aracılığıyla Filistinlilere karşı şiddet uyguladığını ifade etti. Filistinli diplomat, uluslararası toplumu bu duruma karşı duyarlı olmaya çağırarak, dünyanın Filistinlilerin öldürülmesine alışmaması gerektiğini vurguladı. Açıklamalar, bölgedeki gerilimin ve insan hakları ihlallerinin devam ettiğine dikkat çekiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779214900107fk0su",
-        "title": "Putin, Çin Lideri Şi Cinping ile Görüşmek Üzere Çin'e Geldi",
-        "summary": "Rusya Devlet Başkanı Vladimir Putin, Çin lideri Şi Cinping ile bir araya gelmek üzere Pekin'e ulaştı. Bu ziyaret, iki ülke arasındaki stratejik ortaklığı pekiştirmeyi hedefliyor. Görüşmelerde ikili ilişkilerin yanı sıra bölgesel ve küresel meselelerin ele alınması bekleniyor. Zirve, Rusya ve Çin'in uluslararası arenadaki işbirliğini ve Batı'ya karşı duruşlarını güçlendirme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-19T18:21:40.107Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 116.4,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
