@@ -1,5 +1,69 @@
 [
     {
+        "id": "1779452614631ridt0",
+        "title": "İran'ın Zenginleştirilmiş Uranyum Stoğu Yurt Dışına Gönderilmeyecek",
+        "summary": "İran'ın zenginleştirilmiş uranyum stoğuyla ilgili önemli bir gelişme yaşandı. Ülkenin dini lideri Ayetullah Ali Hamaney'in, zenginleştirilmiş uranyumun yurt dışına gönderilmemesi yönünde bir talimat verdiği bildirildi. Bu direktif, İran'ın nükleer programı ve uluslararası nükleer anlaşmalarla ilgili müzakereler üzerinde doğrudan etkili olabilir. Söz konusu karar, bölgesel güvenlik dinamikleri ve uluslararası toplumun İran'ın nükleer faaliyetlerine yönelik endişeleri açısından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/87610/bernstein-stone-glass-colorful-87610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-22T12:23:34.631Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779452642743ru1ht",
+        "title": "Manchester City, Pep Guardiola'nın Ayrılığını Doğruladı",
+        "summary": "Premier Lig devi Manchester City, teknik direktör Pep Guardiola'nın kulüpten ayrılacağını resmen duyurdu. İspanyol teknik adam, on yıllık görev süresi boyunca kulübe 20 kupa kazandırarak önemli bir başarıya imza attı. Guardiola'nın ayrılığı, kulübün Abu Dabi merkezli sahipleri için başarılı bir dönemin sonunu işaret ediyor. Bu gelişme, kulübün gelecekteki sportif ve ticari stratejileri açısından yeni bir dönemin başlangıcı olarak değerlendiriliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/32190700/pexels-photo-32190700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-22T12:24:02.743Z",
+        "location": {
+            "lat": 53.4808,
+            "lng": -2.2426,
+            "name": "Manchester, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/22/guardiola-confirms-man-city-exit-ending-17-year-trophy-laden-spell?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779452737496kd039",
+        "title": "İsrail İHA'sı Ateşkese Rağmen Gazze'nin Refah Kentinde Bir Filistinliyi Öldürdü",
+        "summary": "Gazze Şeridi'nin güneyindeki Refah kentinde, İsrail'e ait bir insansız hava aracı saldırısında bir Filistinli hayatını kaybetti. Olay, bölgede devam eden ateşkese rağmen gerçekleşti. Görgü tanıklarının Anadolu Ajansı'na verdiği bilgilere göre, Refah'ın batısındaki El-Şakuş bölgesinde bir çobanın üzerine quadcopter tipi bir drone bomba bıraktı. Bu saldırı, bölgedeki gerilimi yeniden artırma potansiyeli taşıyor ve ateşkesin kırılganlığını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28861948/pexels-photo-28861948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-22T12:25:37.496Z",
+        "location": {
+            "lat": 31.3,
+            "lng": 34.3,
+            "name": "Refah, Gazze"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-kills-palestinian-man-in-southern-gaza-s-rafah-despite-ceasefire/3945578",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17794527606190sglq",
+        "title": "Suudi Arabistan, 2026 Hac ibadeti sırasında güvenliği artırmak için dronlar ve yapay zeka kullanacak",
+        "summary": "Suudi Arabistan, 2026 Hac ibadeti sırasında hacıların güvenliğini ve akışını sağlamak amacıyla ileri teknolojileri kullanmaya hazırlanıyor. Ülke yetkilileri, bu kapsamda dronlar ve yapay zeka destekli sistemleri devreye sokacak. Suudi bir gazetenin haberine göre, yapay zeka tabanlı kalabalık analiz sistemleri, yoğunluk yaşanan bölgeleri önceden tespit ederek hacıların aşırı kalabalık rotalardan yönlendirilmesine yardımcı olacak. Bu teknolojik adımlar, milyonlarca hacının katıldığı bu büyük organizasyonun daha düzenli ve güvenli bir şekilde gerçekleşmesini hedefliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34956775/pexels-photo-34956775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-22T12:26:00.619Z",
+        "location": {
+            "lat": 21.4225,
+            "lng": 39.8262,
+            "name": "Mekke, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-deploys-drones-ai-to-enhance-security-during-2026-hajj-pilgrimage/3945526",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1779442415384o4drb",
         "title": "Lübnan Ekonomisi Yenilenen Savaş ve Küresel Yakıt Krizi Altında Zorlanıyor",
         "summary": "Lübnan ekonomisi, ülkedeki devam eden savaş ve derinleşen mali krizler nedeniyle ciddi bir çıkmazla karşı karşıya. Uzmanlar, bu durumun ülkeyi ekonomik olarak sürdürülemez bir noktaya taşıyabileceği konusunda uyarıyor. Yenilenen çatışmalar ve küresel yakıt krizi, Lübnan'ın zaten kırılgan olan ekonomik yapısını daha da kötüleştiriyor. Ülke, temel hizmetlerin aksaması ve yaşam standartlarının düşmesi gibi sorunlarla boğuşuyor. Bu gelişmeler, Lübnan'ın gelecekteki ekonomik istikrarı hakkında endişeleri artırıyor.",
@@ -732,70 +796,6 @@
             "name": "İstanbul, Türkiye"
         },
         "source": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779257577057a07vp",
-        "title": "Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin Pekin'de görüştü",
-        "summary": "Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin, Pekin'de önemli bir görüşme gerçekleştirdi. İki lider, ikili ilişkilerin yanı sıra küresel ve bölgesel meseleleri ele aldı. Bu zirve, ABD Başkanı Donald Trump'ın Çin'e yaptığı resmi ziyaretin hemen ardından düzenlendi. Görüşmelerin, Çin ve Rusya arasındaki stratejik ortaklığı daha da güçlendirmesi ve uluslararası politikadaki etkileşimlerini artırması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-20T06:12:57.057Z",
-        "location": {
-            "lat": 39.9042,
-            "lng": 116.4074,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/20/chinas-xi-jinping-and-russian-president-vladimir-putin-meet-in-beijing?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779240670410k5xfj",
-        "title": "ABD Senatosu, Trump'ın İran'a Savaş Açma Yetkisini Kısıtlama Kararını İlerletti",
-        "summary": "ABD Senatosu, Başkan Donald Trump'ın İran'a karşı savaş açma yetkilerini kısıtlamayı hedefleyen bir Savaş Yetkileri Kararı'nı ilerletme yönünde oy kullandı. Bu oylama, Başkan'a yönelik nadir bir kınama olarak yorumlandı. Karar, ABD'nin İran'a yönelik olası bir saldırısını sona erdirme yönündeki kamuoyu ve siyasi baskının arttığı bir dönemde alındı. Senato'nun bu adımı, yürütme organının savaş ilan etme yetkileri üzerindeki yasama denetimini güçlendirme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11630366/pexels-photo-11630366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-20T01:31:10.410Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779240691202bvdzh",
-        "title": "İran'dan 'Çatışma Yeniden Başlarsa Çok Daha Fazla Sürpriz' Uyarısı",
-        "summary": "İran, çatışmanın yeniden başlaması durumunda 'çok daha fazla sürprizle' karşılık vereceği uyarısında bulundu. Bu açıklama, ABD Başkanı Trump'ın İran'a yönelik askeri eylem tehdidinde bulunması ve bir anlaşmaya varması için 'iki ila üç gün' süre tanımasının ardından geldi. Tahran'dan yapılan bu sert uyarı, bölgedeki gerilimin tırmandığına işaret ediyor. Uluslararası kamuoyu, iki ülke arasındaki potansiyel bir çatışmanın Orta Doğu'daki istikrarsızlığı daha da artırabileceği endişesini taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-20T01:31:31.202Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779240713954uho0k",
-        "title": "Putin ve Şi Bir Araya Geldi: Rusya ve Çin'in Birbirine İhtiyacı",
-        "summary": "Rusya Devlet Başkanı Vladimir Putin, Çin'e resmi bir ziyaret gerçekleştirdi. Putin'in Pekin'e gelişi, ABD Başkanı Donald Trump'ın şehirden ayrılmasından sadece bir gün sonra duyuruldu. Bu zirve, Rusya ve Çin arasındaki stratejik iş birliğinin ve iki ülkenin karşılıklı ihtiyaçlarının altını çiziyor. Liderlerin buluşması, küresel jeopolitik dengeler açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-20T01:31:53.954Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 116.4,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/19/putin-meets-xi-why-russia-and-china-need-each-other?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
