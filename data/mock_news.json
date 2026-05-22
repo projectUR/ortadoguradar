@@ -1,5 +1,21 @@
 [
     {
+        "id": "17794642196950y0db",
+        "title": "İran, Hürmüz Boğazı üzerindeki kontrol iddiasını artırdı",
+        "summary": "İran, Hürmüz Boğazı'nın 22.000 kilometrekareden fazla bir alanında \"silahlı kuvvetler denetimi\" iddiasında bulunan bir harita yayımladı. Bu adım, ülkenin stratejik su yolu üzerindeki egemenlik taleplerini güçlendirme çabası olarak değerlendiriliyor. Hürmüz Boğazı, küresel petrol ticaretinin önemli bir geçiş noktası olması nedeniyle uluslararası öneme sahiptir. İran'ın bu hamlesi, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası denizcilik güvenliği konusunda endişelere yol açabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29042648/pexels-photo-29042648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-22T15:36:59.695Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1779452614631ridt0",
         "title": "İran'ın Zenginleştirilmiş Uranyum Stoğu Yurt Dışına Gönderilmeyecek",
         "summary": "İran'ın zenginleştirilmiş uranyum stoğuyla ilgili önemli bir gelişme yaşandı. Ülkenin dini lideri Ayetullah Ali Hamaney'in, zenginleştirilmiş uranyumun yurt dışına gönderilmemesi yönünde bir talimat verdiği bildirildi. Bu direktif, İran'ın nükleer programı ve uluslararası nükleer anlaşmalarla ilgili müzakereler üzerinde doğrudan etkili olabilir. Söz konusu karar, bölgesel güvenlik dinamikleri ve uluslararası toplumun İran'ın nükleer faaliyetlerine yönelik endişeleri açısından yakından takip ediliyor.",
@@ -780,22 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779281053282d7uni",
-        "title": "BBC'nin Kimliğini Ortaya Çıkardığı Önemli İnsan Kaçakçısı Tutuklandı",
-        "summary": "İngiliz yayın kuruluşu BBC'nin kimliğini ifşa etmesinin ardından önemli bir insan kaçakçısı yakalandı. 28 yaşındaki şahsın liderliğini yaptığı şebekenin, binlerce yasa dışı göçmeni Birleşik Krallık'a taşıdığı düşünülüyor. Bu tutuklama, uluslararası insan kaçakçılığı ağlarına karşı yürütülen mücadelede önemli bir adım olarak değerlendiriliyor. Yasa dışı göçmenlerin genellikle Orta Doğu ve Kuzey Afrika'dan Avrupa'ya uzanan tehlikeli rotaları kullandığı biliniyor. Bu tür operasyonlar, bölgedeki insan kaçakçılığı faaliyetlerinin boyutunu ve uluslararası işbirliğinin önemini bir kez daha gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/33314492/pexels-photo-33314492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-20T12:44:13.282Z",
-        "location": {
-            "lat": 41.0082,
-            "lng": 28.9784,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
