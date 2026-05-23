@@ -6,13 +6,13 @@ const quizCharacters = {
         { name: "Muammer Kaddafi", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/960px-Muammar_al-Gaddafi_at_the_AU_summit.jpg", desc: "Öngörülemez, ezber bozan ve tamamen kendine has bir lidersin. Kimsenin kurallarına uymadan kendi oyununu kurarsın." }
     ],
     B: [
-        { name: "Cemal Abdünnasır", image: "nasser.png", desc: "Kitleleri peşinden sürükleyen, karizmatik bir vizyonersin. Hitabetin ve birleştirici gücün senin en büyük silahın." },
-        { name: "Yaser Arafat", image: "arafat.png", desc: "Mücadeleden asla vazgeçmeyen, direnişin sembolüsün. En zor şartlarda bile hayatta kalmayı ve masada olmayı başarırsın." },
-        { name: "Kral Hüseyin", image: "huseyin.png", desc: "Krizlerin ortasında dengede kalmayı başaran, kurnaz ve diplomatik bir lidersin. Fırtınaları yönetmekte üstüne yok." }
+        { name: "Cemal Abdünnasır", image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Nasser_in_1969.jpg", desc: "Kitleleri peşinden sürükleyen, karizmatik bir vizyonersin. Hitabetin ve birleştirici gücün senin en büyük silahın." },
+        { name: "Yaser Arafat", image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg", desc: "Mücadeleden asla vazgeçmeyen, direnişin sembolüsün. En zor şartlarda bile hayatta kalmayı ve masada olmayı başarırsın." },
+        { name: "Kral Hüseyin", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/960px-HusseinJordanien.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail", desc: "Krizlerin ortasında dengede kalmayı başaran, kurnaz ve diplomatik bir lidersin. Fırtınaları yönetmekte üstüne yok." }
     ],
     C: [
-        { name: "Şah Muhammed Rıza Pehlevi", image: "pehlevi.png", desc: "Batı vizyonlu, modernist ama bir o kadar da mesafeli bir stratejistsin. Gücünü küresel ittifaklardan ve ekonomiden alırsın." },
-        { name: "Kral Faysal", image: "faysal.png", desc: "Sessiz, derinden ilerleyen ve elindeki kaynakları (petrol/ekonomi) ölümcül bir siyasi silaha dönüştüren zeki bir lidersin." }
+        { name: "Şah Muhammed Rıza Pehlevi", image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Shah_Mohammad_Reza_Pahlavi%2C_1973.jpg", desc: "Batı vizyonlu, modernist ama bir o kadar da mesafeli bir stratejistsin. Gücünü küresel ittifaklardan ve ekonomiden alırsın." },
+        { name: "Kral Faysal", image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/King_Faisal_bin_Abdulaziz.jpg", desc: "Sessiz, derinden ilerleyen ve elindeki kaynakları (petrol/ekonomi) ölümcül bir siyasi silaha dönüştüren zeki bir lidersin." }
     ],
     D: [
         { name: "Trenci Jack", image: "TrenciJack.png", desc: "Sahadaki kaosu uzaktan izleyen, görünmez ipleri elinde tutan bağımsız bir analistsin. Bilgi ve veri senin en büyük gücün." },
