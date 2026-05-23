@@ -1,9 +1,9 @@
 // 1. KARAKTER HAVUZU
 const quizCharacters = {
     A: [
-        { name: "Saddam Hüseyin", image: "saddam.png", desc: "Tavizsiz, sert ve güce dayalı bir stratejistsin. Masada diplomasiyi sadece sahada kazandıktan sonra bir araç olarak kullanırsın." },
-        { name: "Hafız Esad", image: "esad.png", desc: "Sabırlı, acımasız ve uzun vadeli düşünen bir yapıya sahipsin. Beklemeyi ve rakiplerini birbirine düşürmeyi çok iyi biliyorsun." },
-        { name: "Muammer Kaddafi", image: "kaddafi.png", desc: "Öngörülemez, ezber bozan ve tamamen kendine has bir lidersin. Kimsenin kurallarına uymadan kendi oyununu kurarsın." }
+        { name: "Saddam Hüseyin", image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saddam_Hussein_in_1998.png", desc: "Tavizsiz, sert ve güce dayalı bir stratejistsin. Masada diplomasiyi sadece sahada kazandıktan sonra bir araç olarak kullanırsın." },
+        { name: "Hafız Esad", image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Hafez_al-Assad_official_portrait.jpg", desc: "Sabırlı, acımasız ve uzun vadeli düşünen bir yapıya sahipsin. Beklemeyi ve rakiplerini birbirine düşürmeyi çok iyi biliyorsun." },
+        { name: "Muammer Kaddafi", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/960px-Muammar_al-Gaddafi_at_the_AU_summit.jpg", desc: "Öngörülemez, ezber bozan ve tamamen kendine has bir lidersin. Kimsenin kurallarına uymadan kendi oyununu kurarsın." }
     ],
     B: [
         { name: "Cemal Abdünnasır", image: "nasser.png", desc: "Kitleleri peşinden sürükleyen, karizmatik bir vizyonersin. Hitabetin ve birleştirici gücün senin en büyük silahın." },
