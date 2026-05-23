@@ -106,13 +106,18 @@ function loadQuestion() {
 
     const optionsDiv = document.getElementById('quiz-options');
     optionsDiv.innerHTML = '';
+    
+    // Şıkları yan yana 2x2 ızgara (grid) yapıyoruz
+    optionsDiv.style.display = 'grid';
+    optionsDiv.style.gridTemplateColumns = '1fr 1fr';
+    optionsDiv.style.gap = '10px';
 
     for (const [key, text] of Object.entries(qData.opts)) {
         const btn = document.createElement('button');
         btn.innerText = text;
-        btn.style.cssText = "background: #1a1a1a; border: 1px solid #333; color: #ccc; padding: 15px; border-radius: 8px; text-align: left; font-size: 1rem; cursor: pointer; transition: all 0.2s ease;";
-        btn.onmouseover = () => { btn.style.borderColor = '#ff9f43'; btn.style.color = '#fff'; btn.style.transform = 'translateX(5px)'; };
-        btn.onmouseout = () => { btn.style.borderColor = '#333'; btn.style.color = '#ccc'; btn.style.transform = 'translateX(0)'; };
+        btn.style.cssText = "background: #1a1a1a; border: 1px solid #333; color: #ccc; padding: 12px; border-radius: 8px; text-align: left; font-size: 0.95rem; cursor: pointer; transition: all 0.2s ease; min-height: 80px; display: flex; align-items: center;";
+        btn.onmouseover = () => { btn.style.borderColor = '#ff9f43'; btn.style.color = '#fff'; btn.style.transform = 'translateY(-2px)'; };
+        btn.onmouseout = () => { btn.style.borderColor = '#333'; btn.style.color = '#ccc'; btn.style.transform = 'translateY(0)'; };
         btn.onclick = () => selectQuizOption(key);
         optionsDiv.appendChild(btn);
     }
