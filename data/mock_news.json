@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779510523445d7yrh",
+        "title": "Irak, Suudi Arabistan ve BAE'ye Yönelik Saldırıları Araştıran Komitenin Verileri İki Ülkeyle Analiz Edeceğini Duyurdu",
+        "summary": "Irak, Suudi Arabistan ve Birleşik Arap Emirlikleri'ne yönelik saldırıları araştırmak üzere kurulan komitenin, saldırılarla ilgili verileri her iki ülkeyle birlikte analiz edeceğini açıkladı. Irak askeri sözcüsü, ülkenin güvenlik stratejisinin temel bir unsuru olarak silahların devlet kontrolü altında tutulmasının mutlak surette uygulanması gereken bir politika olduğunu belirtti. Bu gelişme, bölgesel güvenlik ve istikrarın sağlanması yönündeki çabaların bir parçası olarak değerlendiriliyor ve bölgedeki gerilimi azaltma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30576172/pexels-photo-30576172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T04:28:43.445Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-says-committee-investigating-attacks-on-saudi-arabia-uae-to-analyze-data-with-both-countries/3946264",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779494997806r256c",
         "title": "İsrail ablukası, Hac adayını Gazze'de mahsur bıraktı",
         "summary": "Gazze Şeridi'nde yaşayan 64 yaşındaki Najia Abu Lehia, eşiyle birlikte Hac ibadetini yerine getirme hayalini kuruyordu. Ancak İsrail'in Gazze'ye uyguladığı abluka nedeniyle bu kutsal yolculuğa çıkışı engellendi. Yıllardır beklediği Hac iznini alamayan Lehia, Suudi Arabistan'a gidemedi. Bu durum, Gazze'deki Filistinlilerin dini vecibelerini yerine getirme özgürlüklerinin kısıtlandığına dair endişeleri bir kez daha gündeme getirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-issues-demolition-orders-for-8-palestinian-homes-and-structures-near-occupied-east-jerusalem/3944072",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1779316786505wecc6",
-        "title": "ABD, İsrail'in Ben-Gvir'ini Kınarken, Gazze Filosu Organizatörlerine Yaptırım Uyguladı",
-        "summary": "Amerika Birleşik Devletleri, İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'i, Gazze'ye yardım götürmeyi amaçlayan filo aktivistleriyle alay ettiği bir video nedeniyle kınadığını açıkladı. Bu kınama, ABD'nin Gazze filosu organizatörlerine yaptırım uygulamasından bir gün sonra geldi. Eski Arkansas Valisi Mike Huckabee, Ben-Gvir'in bu davranışının 'onurunu ihlal ettiğini' belirtti. Bu gelişmeler, ABD'nin hem İsrail iç siyasetine hem de Gazze'ye yönelik insani yardım çabalarına ilişkin karmaşık diplomatik tutumunu yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/19065484/pexels-photo-19065484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-20T22:39:46.505Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Gazze, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
