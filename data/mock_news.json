@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779575243384n55uc",
+        "title": "İsrail Hava Saldırılarında Ölen Sağlık Görevlileri İçin Cenaze Törenleri Düzenlendi",
+        "summary": "Güney Lübnan'da İsrail'in düzenlediği hava saldırılarında hayatını kaybeden sağlık görevlileri için cenaze törenleri yapıldı. Cuma günü gerçekleşen iki ayrı İsrail hava saldırısında yaşamını yitiren paramedikler, bölgede derin üzüntüye yol açtı. Saldırılar, Lübnan'ın güney bölgelerindeki gerilimi artırırken, sağlık çalışanlarının hedef alınması uluslararası kamuoyunda tartışmalara neden oldu. Hayatını kaybeden sağlık görevlileri, görev başında oldukları sırada vurulmuştu. Cenaze törenlerine çok sayıda yerel halk ve yetkili katılım gösterdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16350324/pexels-photo-16350324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T22:27:23.384Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779575315973qc5tm",
+        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimcilerin Saldırılarında 5 Filistinli Yaralandı",
+        "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimcilerin düzenlediği saldırılarda beş Filistinli yaralandı. Filistin Kızılayı ve görgü tanıklarından alınan bilgilere göre, olaylar Batı Şeria'nın güney kesimlerinde yer alan El Halil ve Beytüllahim vilayetlerinde yaşandı. Yaralıların sağlık durumlarına ilişkin detaylı bilgi verilmezken, bölgede İsrailli yerleşimciler ile Filistinliler arasındaki gerginliğin devam ettiği kaydedildi. Saldırıların ardından bölgede güvenlik güçlerinin teyakkuza geçtiği bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640438/pexels-photo-7640438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T22:28:35.973Z",
+        "location": {
+            "lat": 31.6,
+            "lng": 35.15,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/5-palestinians-injured-in-attacks-by-israeli-occupiers-in-occupied-west-bank/3947035",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17795753821677dxmo",
+        "title": "Lübnan'dan düzenlenen insansız hava aracı saldırısında İsrailli asker hayatını kaybetti",
+        "summary": "Lübnan'dan İsrail'in kuzeyine yönelik gerçekleştirilen insansız hava aracı (İHA) saldırısında bir İsrail askeri hayatını kaybetti. İsrail ordusundan yapılan açıklamaya göre, saldırıda iki asker de yaralandı. Olay, İsrail-Lübnan sınır hattında gerilimin devam ettiği bir dönemde meydana geldi. Saldırının sorumluluğunu henüz üstlenen bir grup olmazken, İsrail ordusu bölgedeki güvenlik önlemlerini artırdığını bildirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640438/pexels-photo-7640438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T22:29:42.167Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.5,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-killed-in-drone-attack-from-lebanon/3946971",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1779571621920de60p",
         "title": "Trump: İran Anlaşması Büyük Ölçüde Müzakere Edildi, Sonuçlanmayı Bekliyor",
         "summary": "ABD Başkanı Trump, İran ile ilgili bir anlaşmanın büyük ölçüde müzakere edildiğini ancak henüz nihai aşamaya gelmediğini duyurdu. Trump'ın açıklamasına göre, Orta Doğu liderleriyle yaptığı görüşmelerin ardından varılacak bu anlaşma, Hürmüz Boğazı'nın yeniden açılmasını içerecek. Bu gelişme, küresel enerji ticareti için hayati öneme sahip olan Hürmüz Boğazı'ndaki denizcilik güvenliği ve serbest geçiş konularını doğrudan etkileyecek. Anlaşmanın detayları ve ne zaman sonuçlanacağı ise henüz netlik kazanmadı.",
@@ -748,54 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/syria-joins-global-initiative-to-strengthen-commitment-to-international-humanitarian-law/3945260",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779400670260csamt",
-        "title": "Barış Elçisi, Gazze'de Mevcut Durumun Kalıcı Bir Ayrılığa Yol Açabileceği Uyarısında Bulundu",
-        "summary": "Bir Barış Kurulu elçisi, Gazze Şeridi'ndeki mevcut durumun bölgede kalıcı bir bölünmeye yol açabileceği konusunda ciddi bir uyarıda bulundu. Elçi, Birleşmiş Milletler Güvenlik Konseyi'ne, Gazze'deki \"ateşkes yol haritası\" çerçevesinde İsrail'in yükümlülüklerini yerine getirmesi ve Hamas'ın silahsızlandırılması yönünde baskı yapması çağrısında bulundu. Bu çağrı, bölgedeki gerilimin azaltılması ve sürdürülebilir bir barışın tesis edilmesi hedefini taşıyor. Mevcut statükonun devam etmesinin Gazze'nin geleceği üzerindeki belirsizliği artıracağı ve kalıcı bir ayrılığı derinleştireceği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T21:57:50.260Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779400695733j4zjm",
-        "title": "Ronaldo, Al-Nassr ile Suudi Pro Ligi şampiyonluğunu iki golle garantiledi",
-        "summary": "Portekizli yıldız futbolcu Cristiano Ronaldo, Suudi Arabistan'ın Al-Nassr takımını Suudi Pro Ligi şampiyonluğuna taşıdı. Ligin son maçında attığı iki golle takımının şampiyonluğunu garantileyen Ronaldo, bu önemli başarıda kilit rol oynadı. Bu zafer, 2026 Dünya Kupası öncesinde gerçekleşen ve bölgedeki spor gündemini meşgul eden önemli bir gelişme olarak kayıtlara geçti. Al-Nassr, Ronaldo'nun liderliğinde sergilediği performansla ligdeki mücadelesini zirvede tamamladı ve taraftarlarına büyük sevinç yaşattı.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/32285244/pexels-photo-32285244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T21:58:15.733Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1779400747906cax0m",
-        "title": "Filo Aktivistleri Türkiye'de İsrail Şiddetini Anlattı",
-        "summary": "Global Sumud Filosu aktivistleri, Türkiye'ye ulaşmalarının ardından İsrail'in kendilerine yönelik şiddetini dile getirdi. Perşembe günü İstanbul'a varan aktivistler, yaşadıkları olaylara ilişkin detayları kamuoyuyla paylaştı. Bu açıklamalar, İsrail-Filistin meselesi bağlamında uluslararası aktivistlerin karşılaştığı zorlukları ve insan hakları ihlallerini bir kez daha gündeme getirdi. Aktivistlerin ifadeleri, uluslararası kamuoyunun dikkatini bölgedeki gelişmelere çekmeyi hedefliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11912586/pexels-photo-11912586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T21:59:07.906Z",
-        "location": {
-            "lat": 41.0082,
-            "lng": 28.9784,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
