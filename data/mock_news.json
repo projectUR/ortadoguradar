@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779579216522rn62w",
+        "title": "ABD Temsilcileri ve Mısır Dışişleri Bakanı, Washington-Tahran Müzakerelerini Ele Aldı",
+        "summary": "ABD temsilcileri, Mısır Dışişleri Bakanı ile bir araya gelerek Washington ile Tahran arasındaki müzakereleri görüştü. Mısır Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, görüşmede bölgedeki hızlı gelişmeler ve gerilimi azaltma çabaları üzerinde duruldu. Taraflar, Orta Doğu'da tansiyonun düşürülmesi ve istikrarın sağlanması yönündeki adımları değerlendirdi. Bu görüşme, ABD ve İran arasındaki dolaylı veya doğrudan temasların bölgesel aktörler üzerinden yürütülmesinin bir parçası olarak yorumlanıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7644014/pexels-photo-7644014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T23:33:36.522Z",
+        "location": {
+            "lat": 30,
+            "lng": 31.2,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-envoys-egyptian-foreign-minister-discuss-washington-tehran-negotiations/3947034",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779575243384n55uc",
         "title": "İsrail Hava Saldırılarında Ölen Sağlık Görevlileri İçin Cenaze Törenleri Düzenlendi",
         "summary": "Güney Lübnan'da İsrail'in düzenlediği hava saldırılarında hayatını kaybeden sağlık görevlileri için cenaze törenleri yapıldı. Cuma günü gerçekleşen iki ayrı İsrail hava saldırısında yaşamını yitiren paramedikler, bölgede derin üzüntüye yol açtı. Saldırılar, Lübnan'ın güney bölgelerindeki gerilimi artırırken, sağlık çalışanlarının hedef alınması uluslararası kamuoyunda tartışmalara neden oldu. Hayatını kaybeden sağlık görevlileri, görev başında oldukları sırada vurulmuştu. Cenaze törenlerine çok sayıda yerel halk ve yetkili katılım gösterdi.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/palestines-un-envoy-says-world-must-not-grow-accustomed-to-seeing-palestinians-killed/3945263",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177940514043321ddm",
-        "title": "Suriye, Uluslararası İnsancıl Hukuka Bağlılığı Güçlendirme Küresel Girişimine Katıldı",
-        "summary": "Suriye Dışişleri Bakanlığı, ülkenin uluslararası insancıl hukuka bağlılığı güçlendirmeyi amaçlayan küresel bir girişime katıldığını duyurdu. Bakanlık, bu adımın 'yeni Suriye'nin uluslararası toplumla sorumlu bir şekilde etkileşim kurma çabasını yansıttığını belirtti. Girişimin, insancıl hukukun uygulanmasına yönelik taahhütleri pekiştirmesi hedefleniyor. Bu katılım, Suriye'nin uluslararası arenadaki diplomatik duruşunu güçlendirme arayışının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5472447/pexels-photo-5472447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T23:12:20.433Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-joins-global-initiative-to-strengthen-commitment-to-international-humanitarian-law/3945260",
         "trendScore": 85,
         "isBreaking": false
     }
