@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779545358114ujku1",
+        "title": "Fransa, aşırı sağcı İsrailli Bakan Ben-Gvir'e aktivistlere yönelik taciz nedeniyle yasak getirdi",
+        "summary": "Fransa, aşırı sağcı İsrailli Ulusal Güvenlik Bakanı Itamar Ben-Gvir'e ülkeye giriş yasağı uyguladı. Bu karar, Bakan Ben-Gvir'in aktivistlere yönelik taciz iddiaları üzerine alındı. Fransa Dışişleri Bakanı Jean-Noel Barrot, Fransız vatandaşlarının tehdit edilmesine veya sindirilmesine kesinlikle müsamaha göstermeyeceklerini vurguladı. Bu diplomatik adım, İsrailli bir bakanın eylemleri nedeniyle bir Avrupa ülkesi tarafından alınan önemli bir kararı temsil ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4033852/pexels-photo-4033852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T14:09:18.114Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779528114462ahzt6",
         "title": "İran, 'derin ve önemli' anlaşmazlıklara rağmen ABD barış önerisini değerlendiriyor",
         "summary": "İran'ın, Amerika Birleşik Devletleri'nden gelen bir barış önerisini, aralarındaki 'derin ve önemli' anlaşmazlıklara rağmen değerlendirdiği bildirildi. Bu gelişme, iki ülke arasındaki gerilimi azaltma potansiyeli taşıyor. Pakistan Genelkurmay Başkanı'nın Tahran'a gerçekleştirdiği ziyaretin, müzakerelerde önemli bir ilerleme işareti olarak görüldüğü belirtildi. Ziyaretin, diplomatik çabaların hız kazandığı bir döneme denk gelmesi dikkat çekiyor. Bu durum, bölgesel ve uluslararası aktörlerin İran-ABD ilişkilerindeki potansiyel yumuşamaya yönelik ilgisini gösteriyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779379136111s3j5y",
-        "title": "Gözaltına Alınan Global Sumud Yardım Filosu Aktivistleri İstanbul'a Ulaştı",
-        "summary": "İsrail ordusu tarafından müdahale edilerek gözaltına alınan Global Sumud insani yardım filosu aktivistleri, İsrail'den kalkan özel uçuşlarla Türkiye'ye getirildi. İnsani yardım misyonu kapsamında bölgeye ulaşmaya çalışan aktivistler, İsrail güçlerinin müdahalesi sonucu alıkonulmuştu. Türkiye Dışişleri Bakanlığı'nın girişimleriyle serbest bırakılan aktivistler, İstanbul Havalimanı'nda karşılandı. Olay, uluslararası kamuoyunda geniş yankı uyandırırken, bölgedeki insani durum ve uluslararası suların kullanımı konularını yeniden tartışmaya açtı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32475025/pexels-photo-32475025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T15:58:56.111Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/world/detained-global-sumud-aid-flotilla-activists-arrive-in-istanbul/3944953",
         "trendScore": 85,
         "isBreaking": false
     }
