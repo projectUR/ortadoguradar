@@ -107,15 +107,18 @@ function loadQuestion() {
     const optionsDiv = document.getElementById('quiz-options');
     optionsDiv.innerHTML = '';
     
-    // Şıkları yan yana 2x2 ızgara (grid) yapıyoruz
+    // Şıkları yan yana 2x2 ızgara yapıyoruz (boşluğu 10'dan 6'ya düşürdük)
     optionsDiv.style.display = 'grid';
     optionsDiv.style.gridTemplateColumns = '1fr 1fr';
-    optionsDiv.style.gap = '10px';
+    optionsDiv.style.gap = '6px';
 
     for (const [key, text] of Object.entries(qData.opts)) {
         const btn = document.createElement('button');
         btn.innerText = text;
-        btn.style.cssText = "background: #1a1a1a; border: 1px solid #333; color: #ccc; padding: 12px; border-radius: 8px; text-align: left; font-size: 0.95rem; cursor: pointer; transition: all 0.2s ease; min-height: 80px; display: flex; align-items: center;";
+        
+        // Buton boyutlarını ve yazı boyutunu ekrana sığması için küçülttük
+        btn.style.cssText = "background: #1a1a1a; border: 1px solid #333; color: #ccc; padding: 10px; border-radius: 8px; text-align: left; font-size: 0.9rem; cursor: pointer; transition: all 0.2s ease; min-height: 55px; display: flex; align-items: center;";
+        
         btn.onmouseover = () => { btn.style.borderColor = '#ff9f43'; btn.style.color = '#fff'; btn.style.transform = 'translateY(-2px)'; };
         btn.onmouseout = () => { btn.style.borderColor = '#333'; btn.style.color = '#ccc'; btn.style.transform = 'translateY(0)'; };
         btn.onclick = () => selectQuizOption(key);
@@ -157,8 +160,12 @@ function restartQuiz() {
 }
 
 function closeQuiz() {
-    // Quizi kapatıp ana menüye döner
+    // Quizi kapat
     document.getElementById('characterQuizContainer').classList.add('hidden');
+    
+    // Ana menüyü "Grid (Izgara)" formatında geri getir
     const gameGrid = document.getElementById('startQuizGame').parentElement;
-    if(gameGrid) gameGrid.style.display = ''; // Grid sistemini geri getir
+    if(gameGrid) {
+        gameGrid.style.display = 'grid'; 
+    }
 }
