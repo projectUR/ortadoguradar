@@ -337,35 +337,39 @@
                     </div>
                 </div>
             </div>
-           <div id="characterQuizContainer" class="hidden" style="position: relative; padding: 20px; padding-top: 10px; height: 100%; overflow-y: auto;">
-            
-            <button onclick="closeQuiz()" style="position: absolute; top: 10px; right: 20px; background: none; border: none; color: #888; font-size: 2rem; cursor: pointer; transition: 0.2s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#888'">&times;</button>
-            
-            <div class="quiz-header" style="text-align: center; margin-bottom: 15px;">
-                <h2 style="color: var(--text-primary); font-size: 1.5rem; margin-bottom: 5px;">Stratejine Göre Hangi Orta Doğu Karakterisin?</h2>
-                <span id="quiz-progress" style="color: var(--accent-blue); font-weight: 600; font-size: 1rem;">Soru: 1/10</span>
-            </div>
+          <div id="characterQuizContainer" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); z-index: 9999; justify-content: center; align-items: center;">
+    
+    <div style="width: 90%; max-width: 700px; background: #0a0a0a; border: 2px solid #ff9f43; border-radius: 12px; padding: 25px; position: relative; box-shadow: 0 0 30px rgba(0,0,0,0.7);">
+        
+        <button onclick="closeQuiz()" style="position: absolute; top: 15px; right: 20px; background: none; border: none; color: #fff; font-size: 2rem; cursor: pointer; line-height: 1;">&times;</button>
 
-          <div id="quiz-card" style="max-width: 800px; margin: 0 auto; background: #1a1a1a; border: 1px solid #333; border-radius: 12px; padding: 15px;">
-                <h3 id="quiz-question" style="color: #fff; font-size: 1.1rem; margin-bottom: 10px; line-height: 1.3; text-align: left;">Soru Metni Buraya Gelecek</h3>
-                
-                <div style="width: 100%; height: 150px; overflow: hidden; border-radius: 8px; margin-bottom: 10px; border: 1px solid #222;">
-                    <img id="quiz-gif" src="" alt="Soru Görseli" style="width: 100%; height: 100%; object-fit: cover;">
-                </div>
-
-                <div id="quiz-options"></div>
-            </div>
-
-            <div id="quiz-result" class="hidden" style="max-width: 700px; margin: 0 auto; text-align: center; background: #1a1a1a; border: 1px solid #333; border-radius: 12px; padding: 30px; margin-top: 20px;">
-                <h2 style="color: var(--accent-blue); margin-bottom: 20px;">Operasyon Tamamlandı!</h2>
-                <div style="width: 160px; height: 160px; margin: 0 auto 20px; border-radius: 50%; overflow: hidden; border: 3px solid var(--accent-blue);">
-                    <img id="result-image" src="" style="width: 100%; height: 100%; object-fit: cover;">
-                </div>
-                <h3 id="result-character" style="color: #fff; font-size: 1.8rem; margin-bottom: 15px;">Karakter Adı</h3>
-                <p id="result-desc" style="color: #ccc; font-size: 1.05rem; line-height: 1.6; max-width: 550px; margin: 0 auto 20px;"></p>
-                <button onclick="restartQuiz()" style="background: var(--accent-blue); color: #fff; border: none; padding: 12px 30px; border-radius: 8px; font-weight: 600; cursor: pointer; transition: 0.2s;">Yeniden Başlat</button>
-            </div>
+        <div style="text-align: center; margin-bottom: 20px; border-bottom: 1px solid #222; padding-bottom: 10px;">
+            <h2 style="color: #ff9f43; font-size: 1.4rem; margin: 0 0 5px 0; text-transform: uppercase; letter-spacing: 1px;">Karakter Profilleme</h2>
+            <span id="quiz-progress" style="color: #888; font-size: 0.95rem;">Soru: 1/10</span>
         </div>
+
+        <div id="quiz-card">
+            <h3 id="quiz-question" style="color: #fff; font-size: 1.15rem; text-align: center; margin-bottom: 15px; line-height: 1.4;">Soru Metni</h3>
+            
+            <div style="width: 100%; height: 220px; display: flex; justify-content: center; align-items: center; margin-bottom: 20px; background: #111; border-radius: 8px;">
+                <img id="quiz-gif" src="" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 4px;">
+            </div>
+
+            <div id="quiz-options"></div>
+        </div>
+
+        <div id="quiz-result" class="hidden" style="text-align: center; padding: 10px;">
+            <h2 style="color: #ff9f43; margin-bottom: 15px;">Operasyon Tamamlandı!</h2>
+            <div style="width: 150px; height: 150px; margin: 0 auto 15px; border-radius: 50%; overflow: hidden; border: 3px solid #ff9f43;">
+                <img id="result-image" src="" style="width: 100%; height: 100%; object-fit: cover;">
+            </div>
+            <h3 id="result-character" style="color: #fff; font-size: 1.6rem; margin-bottom: 10px;">Karakter</h3>
+            <p id="result-desc" style="color: #ccc; font-size: 1rem; line-height: 1.5; margin: 0 auto 20px;"></p>
+            <button onclick="restartQuiz()" style="background: #ff9f43; color: #000; border: none; padding: 10px 24px; border-radius: 8px; font-weight: 600; cursor: pointer;">Yeniden Başlat</button>
+        </div>
+
+    </div>
+</div>
         </section>
         
         <section id="arsenalContainer" class="hidden" style="grid-column: 1 / -1; padding: 20px; padding-top: 10px; height: 100%; overflow-y: auto; padding-bottom: 40px;">
