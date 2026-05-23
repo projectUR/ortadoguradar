@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779571621920de60p",
+        "title": "Trump: İran Anlaşması Büyük Ölçüde Müzakere Edildi, Sonuçlanmayı Bekliyor",
+        "summary": "ABD Başkanı Trump, İran ile ilgili bir anlaşmanın büyük ölçüde müzakere edildiğini ancak henüz nihai aşamaya gelmediğini duyurdu. Trump'ın açıklamasına göre, Orta Doğu liderleriyle yaptığı görüşmelerin ardından varılacak bu anlaşma, Hürmüz Boğazı'nın yeniden açılmasını içerecek. Bu gelişme, küresel enerji ticareti için hayati öneme sahip olan Hürmüz Boğazı'ndaki denizcilik güvenliği ve serbest geçiş konularını doğrudan etkileyecek. Anlaşmanın detayları ve ne zaman sonuçlanacağı ise henüz netlik kazanmadı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7841410/pexels-photo-7841410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T21:27:01.920Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779566844379rb3pq",
         "title": "İran, Dünya Kupası Kamp Yerini ABD'den Meksika'ya Taşıdı",
         "summary": "İran Milli Futbol Takımı'nın 2026 Dünya Kupası hazırlıkları kapsamında kamp yerini değiştirdiği bildirildi. Takımın başlangıçta Türkiye'den ABD'nin Arizona eyaletine geçmesi bekleniyordu. Ancak Uluslararası Futbol Federasyonları Birliği (FIFA) onayıyla kamp yeri Meksika olarak belirlendi. Bu değişiklik, İran'ın Dünya Kupası'na yönelik hazırlıklarını Meksika'da sürdüreceği anlamına geliyor.",
@@ -780,22 +796,6 @@
             "name": "İstanbul, Türkiye"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779400771940iigty",
-        "title": "Gazze Filosu Aktivistleri İsrail'den Sınır Dışı Edildi, Kötü Muamele Tepki Topladı",
-        "summary": "Gazze'ye yardım götürmeyi amaçlayan filodaki aktivistler, İsrail tarafından sınır dışı edildi. Aktivistlere yönelik muamele, uluslararası alanda tepkilere neden oldu. Özellikle, aşırı sağcı bir İsrailli bakanın, elleri arkadan bağlı ve diz çökmüş aktivistlerle alay ettiğini gösteren bir video geniş çapta kınandı. Bu olay, İsrail'in aktivistlere yönelik tutumunu yeniden tartışmaya açtı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35000651/pexels-photo-35000651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T21:59:31.940Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
