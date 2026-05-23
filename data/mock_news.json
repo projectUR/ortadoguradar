@@ -1,5 +1,21 @@
 [
     {
+        "id": "177956136324314f4z",
+        "title": "Ateşkese Rağmen İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 15 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in güney Lübnan'a düzenlediği yeni saldırılarda 15 kişi hayatını kaybederken, onlarca kişi de yaralandı. Bölgede ilan edilen ateşkese rağmen gerçekleşen bu saldırılar, gerilimi yeniden tırmandırdı. Mart ayından bu yana İsrail'in Lübnan'a yönelik operasyonlarında yaşamını yitirenlerin sayısı en az 3.123'e ulaştı. Aynı dönemde 9.506 kişi de yaralandı. Bölgedeki insani durumun kötüleştiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-23T18:36:03.243Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-15-killed-dozens-injured-in-fresh-israeli-strikes-in-southern-lebanon-despite-ceasefire/3946884",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1779555811300p27nk",
         "title": "İspanyol polisi, Gazze filosu aktivistlerini havalimanında darp etti ve gözaltına aldı",
         "summary": "İspanya'nın Bilbao Havalimanı'nda, Gazze'ye insani yardım götürmeyi hedefleyen Global Sumud Filosu aktivistleri ve destekçileri ile İspanyol polisi arasında gerginlik yaşandı. Aktivistlerin havalimanında toplanarak eylem yapması üzerine güvenlik güçleri müdahalede bulundu. Çıkan olaylarda İspanyol polisinin göstericileri darp ettiği ve çok sayıda kişiyi gözaltına aldığı bildirildi. Bu olay, Gazze ablukasına karşı uluslararası dayanışma eylemlerinin bir parçası olarak kayıtlara geçti. Aktivistler, Gazze'ye yönelik ablukanın kaldırılması çağrısında bulunuyordu.",
@@ -780,22 +796,6 @@
             "name": "Washington D.C., ABD"
         },
         "source": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779394898339t7dbu",
-        "title": "Trump'ın İran Gerilimi Karşısında Diplomasi ve Tehdit Arasında Değişen Tutumu",
-        "summary": "ABD'nin eski başkanı Donald Trump'ın İran ile yaşanan gerilimde hem diplomatik yaklaşımları hem de tehditleri bir arada kullandığı belirtiliyor. Bu tutum, uluslararası arenada farklı yorumlara neden olmuştur. Trump'ın destekçileri, bu öngörülemez yaklaşımın anlaşma yapma gücünü artırdığını ve müzakerelerde avantaj sağladığını savunmaktadır. Ancak eleştirenler, söz konusu stratejinin ABD'nin İran politikasında bir stratejik ikilemi yansıttığını ve belirsizliği artırdığını ifade etmektedir. Bu durum, bölgedeki tansiyonu ve ABD'nin dış politika adımlarını yakından takip eden çevrelerce dikkatle izlenmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13955050/pexels-photo-13955050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T20:21:38.339Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
