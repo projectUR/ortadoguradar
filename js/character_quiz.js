@@ -79,20 +79,15 @@ let currentQuizStep = 0;
 let quizScores = { A: 0, B: 0, C: 0, D: 0 };
 
 function startCharacterQuiz() {
-    // Ana oyun ızgarasını (butonların olduğu div) gizle
-    const gameGrid = document.getElementById('startQuizGame').parentElement;
-    if(gameGrid) gameGrid.style.display = 'none';
-
-    // Test ekranını göster
-    document.getElementById('characterQuizContainer').classList.remove('hidden');
-    document.getElementById('quiz-card').classList.remove('hidden');
+    // Ekranın üzerine karanlık kutuyu aç
+    document.getElementById('characterQuizContainer').style.display = 'flex';
+    document.getElementById('quiz-card').style.display = 'block';
     document.getElementById('quiz-result').classList.add('hidden');
 
     currentQuizStep = 0;
     quizScores = { A: 0, B: 0, C: 0, D: 0 };
     loadQuestion();
 }
-
 function loadQuestion() {
     if (currentQuizStep >= quizData.length) {
         showQuizResult();
@@ -107,18 +102,15 @@ function loadQuestion() {
     const optionsDiv = document.getElementById('quiz-options');
     optionsDiv.innerHTML = '';
     
-    // Şıkları yan yana 2x2 ızgara yapıyoruz (boşluğu 10'dan 6'ya düşürdük)
+    // Şıkları jilet gibi 2x2 diz (Boşluk 10px)
     optionsDiv.style.display = 'grid';
     optionsDiv.style.gridTemplateColumns = '1fr 1fr';
-    optionsDiv.style.gap = '6px';
+    optionsDiv.style.gap = '10px';
 
     for (const [key, text] of Object.entries(qData.opts)) {
         const btn = document.createElement('button');
         btn.innerText = text;
-        
-        // Buton boyutlarını ve yazı boyutunu ekrana sığması için küçülttük
-        btn.style.cssText = "background: #1a1a1a; border: 1px solid #333; color: #ccc; padding: 10px; border-radius: 8px; text-align: left; font-size: 0.9rem; cursor: pointer; transition: all 0.2s ease; min-height: 55px; display: flex; align-items: center;";
-        
+        btn.style.cssText = "background: #1a1a1a; border: 1px solid #333; color: #ccc; padding: 12px; border-radius: 8px; text-align: left; font-size: 0.95rem; cursor: pointer; transition: all 0.2s ease; min-height: 65px; display: flex; align-items: center;";
         btn.onmouseover = () => { btn.style.borderColor = '#ff9f43'; btn.style.color = '#fff'; btn.style.transform = 'translateY(-2px)'; };
         btn.onmouseout = () => { btn.style.borderColor = '#333'; btn.style.color = '#ccc'; btn.style.transform = 'translateY(0)'; };
         btn.onclick = () => selectQuizOption(key);
@@ -160,8 +152,9 @@ function restartQuiz() {
 }
 
 function closeQuiz() {
-    // Quizi kapat
-    document.getElementById('characterQuizContainer').classList.add('hidden');
+    // Sadece kutuyu gizle, ana menü zaten arkada bekliyor
+    document.getElementById('characterQuizContainer').style.display = 'none';
+}
     
     // Ana menüyü "Grid (Izgara)" formatında geri getir
     const gameGrid = document.getElementById('startQuizGame').parentElement;
