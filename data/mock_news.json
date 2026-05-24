@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779653306511hx10i",
+        "title": "İran Savaşı'nın Olası Sonuçları Yaklaşan ABD Seçimlerini Nasıl Etkileyecek?",
+        "summary": "Yaklaşan ABD seçimleri öncesinde, İran'da yaşanabilecek bir savaşın olası sonuçlarının Amerikan siyasetine etkileri tartışılıyor. Haber, eski Başkan Trump'ın Cumhuriyetçi Parti içindeki eleştirel sesleri tasfiye etme çabalarına da değiniyor. Bu gelişmelerin, Cumhuriyetçi Parti'nin seçimlerdeki şansını artırıp artırmayacağı veya azaltıp azaltmayacağı merak konusu. Analiz, Orta Doğu'daki jeopolitik olayların ABD iç siyaseti ve seçim sonuçları üzerindeki karmaşık etkileşimini gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8849332/pexels-photo-8849332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T20:08:26.511Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., United States"
+        },
+        "source": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779653327229t2tw4",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda Altı Kişi Hayatını Kaybetti, Yeni Tahliye Emirleri Verildi",
+        "summary": "İsrail ordusunun Güney Lübnan'a yönelik saldırıları devam ediyor. Son saldırılarda altı kişinin hayatını kaybettiği bildirildi. Bölgede yaşayan siviller için yeni tahliye emirleri yayınlandı. Bu gelişmeler, ateşkes beklentilerine rağmen İsrail'in bölgedeki operasyonlarının genişlediğini gösteriyor ve gerginliğin tırmanması endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T20:08:47.229Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1779653347952x71qs",
+        "title": "Zelenskyy, Rus Saldırılarının Ardından Kiev'de Al Jazeera'ya Konuştu",
+        "summary": "Rusya, Ukrayna'nın başkenti Kiev'e savaşın başlangıcından bu yana en büyük saldırılarından birini gerçekleştirdi. Yüzlerce insansız hava aracı ve füzenin kullanıldığı bu saldırılar, şehirde geniş çaplı yıkıma neden oldu. Ukrayna Devlet Başkanı Volodimir Zelenskyy, saldırıların yaşandığı bölgede Katar merkezli Al Jazeera televizyonuna açıklamalarda bulundu. Zelenskyy'nin bu açıklamaları, uluslararası kamuoyuna yönelik önemli mesajlar içerdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6471683/pexels-photo-6471683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T20:09:07.952Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17796479520612o9de",
         "title": "Fatou Bensouda'dan İsrail'in Kendisine ve UCM'ye Yönelik Tehditlerine İlişkin Açıklama",
         "summary": "Uluslararası Ceza Mahkemesi'nin (UCM) eski başsavcısı Fatou Bensouda, İsrail'in kendisine ve mahkemeye yönelik tehditlerine ilişkin önemli açıklamalarda bulundu. Bensouda, adaletin siyasi çıkarlara kurban edildiğini ve bu durumun uluslararası hukukun üstünlüğünü zedelediğini belirtti. Eski başsavcının bu ifadeleri, UCM'nin İsrail-Filistin çatışmasıyla ilgili yürüttüğü soruşturmalar bağlamında değerlendiriliyor. Bensouda, uluslararası adalet mekanizmalarının bağımsızlığının korunması gerektiğinin altını çizdi.",
@@ -748,54 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/new-israeli-strikes-cause-extensive-damage-to-hospital-in-southern-lebanon/3946429",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779520588065gqgav",
-        "title": "İran-ABD Görüşmelerinde Önemli Boşluklar Devam Ediyor: Pakistan Genelkurmay Başkanı Tahran'da",
-        "summary": "İran ile Amerika Birleşik Devletleri arasındaki barış anlaşması çabaları yoğunlaşırken, Pakistan Genelkurmay Başkanı Asım Münir Tahran'a resmi bir ziyaret gerçekleştirdi. Bu ziyaret, iki ülke arasındaki müzakerelerde arabuluculuk faaliyetlerinin arttığı bir döneme denk geldi. Tahran yönetimi, ABD ile yapılan görüşmelerde hala önemli farklılıkların ve giderilmesi gereken boşlukların bulunduğunu belirtti. Diplomatik kaynaklar, bu girişimlerin bölgedeki gerilimi azaltma ve uzun süreli bir anlaşmaya varma hedefi taşıdığını ifade ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-23T07:16:28.065Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17795206123947kbm4",
-        "title": "İsrail güçleri ateşkes anlaşmasına rağmen Gazze'nin merkezine saldırdı",
-        "summary": "İsrail güçlerinin, ateşkes anlaşmasına rağmen Gazze Şeridi'nin merkezindeki Nuseyrat ve Bureyc mülteci kamplarına saldırı düzenlediği bildirildi. Yayınlanan görüntülerde, saldırı anları yer alırken, olayda onlarca kişinin yaralandığı belirtildi. Bu saldırı, bölgedeki hassas ateşkes durumuna rağmen gerçekleşti ve zaten gergin olan ortamı daha da tırmandırdı. Uluslararası toplumdan henüz bir açıklama gelmezken, bölgedeki insani durumun kötüleşmesinden endişe ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28872506/pexels-photo-28872506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-23T07:16:52.394Z",
-        "location": {
-            "lat": 31.45,
-            "lng": 34.39,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1779520651708ap3b3",
-        "title": "Gazze filosu aktivistleri gözaltında İsrail güçleri tarafından istismara uğradıklarını iddia etti",
-        "summary": "Gazze'ye yardım götürmeyi amaçlayan filoda yer alan aktivistler, İsrail güçleri tarafından gözaltına alındıkları sırada istismara uğradıklarını öne sürdü. Aktivistler, gözaltı sürecinde tokatlandıklarını, darp edildiklerini, aşağılandıklarını ve hatta cinsel şiddete maruz kaldıklarını iddia etti. Bu iddialar, uluslararası kamuoyunda tartışmalara yol açtı. Ancak, İsrail cezaevi servisi, aktivistlerin dile getirdiği tüm bu iddiaların gerçeği yansıtmadığını ve asılsız olduğunu belirtti. Olayla ilgili soruşturmaların devam ettiği bildirildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19985056/pexels-photo-19985056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-23T07:17:31.708Z",
-        "location": {
-            "lat": 31,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
