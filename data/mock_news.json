@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779620224238ww0ce",
+        "title": "Trump'tan İran Barış Anlaşması ve Hürmüz Boğazı Açıklaması",
+        "summary": "ABD Başkanı Trump, İran ile barış anlaşması konusunda ilerleme kaydedildiğini açıkladı. Bu duyuru, küresel ticaret için kritik öneme sahip Hürmüz Boğazı'nın yakında yeniden açılabileceği yönünde sinyaller verdi. Açıklamada, taraflar arasındaki 'güvensizlik bulutu'na rağmen potansiyel bir anlaşmanın mümkün olduğu belirtildi. Bu gelişme, Orta Doğu'daki gerilimin azaltılmasına yönelik diplomatik çabaların bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32266756/pexels-photo-32266756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T10:57:04.238Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17796202477058w5yw",
+        "title": "Fas'taki Senegalli Futbol Taraftarları Kraliyet Affıyla Ülkelerine Döndü",
+        "summary": "Fas'ta 2025 Afrika Uluslar Kupası (AFCON) finalinin ardından gözaltına alınan Senegalli futbol taraftarları, Fas Kralı tarafından verilen insani bir afla serbest bırakıldı. Kraliyet affı sayesinde, söz konusu taraftarların ülkeleri Senegal'e dönüşleri sağlandı. Bu insani jest, Fas ile Senegal arasındaki ilişkilerde olumlu bir gelişme olarak yorumlanıyor. Olay, spor etkinlikleri sonrası ortaya çıkan gerginliklerin diplomatik ve insani yollarla çözülebileceğini bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18222812/pexels-photo-18222812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T10:57:27.705Z",
+        "location": {
+            "lat": 34.020882,
+            "lng": -6.84165,
+            "name": "Rabat, Fas"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1779620271129gd68e",
+        "title": "ABD-İran Görüşmelerinde Önemli İlerleme Kaydedildiği İddiası",
+        "summary": "ABD Senatörü Marco Rubio, ABD ile İran arasında devam eden görüşmelerde \"savaşı sona erdirmek\" amacıyla önemli ilerleme kaydedildiğini açıkladı. İran haber ajansları ise, olası bir anlaşmanın Hürmüz Boğazı'ndaki deniz taşımacılığı seviyelerini haftalar içinde savaş öncesi düzeylere döndürebileceğini bildirdi. Bu gelişmeler, bölgedeki gerilimi azaltma ve küresel enerji tedarik zinciri için kritik öneme sahip olan Hürmüz Boğazı'ndaki trafiği normalleştirme çabalarını yansıtıyor. Görüşmelerin içeriği ve potansiyel bir anlaşmanın detayları hakkında henüz resmi bir açıklama yapılmadı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T10:57:51.129Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779614937147zc5d7",
         "title": "Rubio, ABD-İran müzakerelerinde 'önemli ilerleme' kaydedildiğini belirtti",
         "summary": "ABD Dışişleri Bakanı Marco Rubio, Amerika Birleşik Devletleri ile İran arasında yürütülen müzakerelerde 'önemli ilerleme' kaydedildiğini açıkladı. Rubio'nun bu açıklaması, iki ülke arasındaki diplomatik çabaların devam ettiğini gösteriyor. Müzakerelerin içeriği hakkında detay verilmezken, bu tür görüşmelerin genellikle nükleer program, bölgesel güvenlik ve yaptırımlar gibi konuları kapsadığı biliniyor. Taraflar arasındaki diyalogun ilerlemesi, bölgedeki gerilimin azaltılmasına yönelik umutları artırıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17794894459920jya8",
-        "title": "Suriye, kötü şöhretli Sednaya cezaevinin Esad dönemi gardiyanını tutukladı",
-        "summary": "Suriye İçişleri Bakanlığı tarafından yapılan açıklamaya göre, yetkililer eski askeri polis çavuşu Mohammad Imad Mahrez'i tutukladı. Mahrez'in, ülkenin kötü şöhretli Sednaya cezaevinde Esad dönemi gardiyanı olarak görev yaptığı belirtildi. Bu tutuklama, Suriye'deki cezaevlerindeki koşullar ve insan hakları ihlalleri iddiaları bağlamında dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10475174/pexels-photo-10475174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-22T22:37:25.992Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-arrests-assad-era-jailer-of-notorious-sednaya-prison/3946305",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1779484518031z2cz5",
-        "title": "Pep Guardiola, Manchester City Menajerliğinden Ayrılıyor",
-        "summary": "Manchester City'nin başarılı menajeri Pep Guardiola, kulüpte geçirdiği 10 yılın ardından görevinden ayrılma kararı aldı. Bu süre zarfında takıma birçok kupa kazandıran Guardiola'nın ayrılığı, futbol dünyasında önemli bir gelişme olarak kaydedildi. Filistin'in savunucusu olarak da bilinen Guardiola'nın bu kararı, spor çevrelerinde geniş yankı buldu. Deneyimli teknik adamın gelecekteki kariyer planları ve olası yeni durağı merak konusu oldu.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5934181/pexels-photo-5934181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-22T21:15:18.031Z",
-        "location": {
-            "lat": 53.4808,
-            "lng": -2.2426,
-            "name": "Manchester, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779479656977b3scq",
-        "title": "Pakistan Genelkurmay Başkanı, İran savaşını sona erdirme arabuluculuk çabaları kapsamında Tahran'a geldi",
-        "summary": "Pakistan Genelkurmay Başkanı Asım Münir, 28 Şubat'ta başlayan \"İran savaşını\" sona erdirmeye yönelik Pakistan'ın arabuluculuk çabaları kapsamında Tahran'a ikinci ziyaretini gerçekleştirdi. Bu ziyaret, bölgesel istikrarın sağlanması ve çatışmanın diplomatik yollarla çözülmesi hedefini taşıyor. Münir'in Tahran'daki temasları, Pakistan'ın bölgedeki gerilimleri azaltma ve barışçıl çözümler bulma konusundaki aktif rolünü vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7447080/pexels-photo-7447080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-22T19:54:16.977Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-s-army-chief-arrives-in-tehran-amid-mediation-efforts-to-end-iran-war/3946150",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
