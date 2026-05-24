@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779595034110fqjj9",
+        "title": "İranlı Kaynaklar, ABD ile Potansiyel Anlaşmanın Detaylarını Açıkladı",
+        "summary": "İranlı kaynaklar, ABD ile potansiyel bir anlaşmaya dair detayları kamuoyuyla paylaştı. Al Jazeera muhabiri Ali Haşem, İran'ın ABD ile olası barış anlaşmasına ilişkin tutumunun ayrıntılarını açıkladı. Bu açıklamalar, iki ülke arasındaki diplomatik çabaların ve müzakerelerin seyrine dair önemli bilgiler sunuyor. Söz konusu anlaşmanın içeriği ve İran'ın bu konudaki pozisyonu, bölgesel ve uluslararası ilişkiler açısından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5472447/pexels-photo-5472447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T03:57:14.110Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779579216522rn62w",
         "title": "ABD Temsilcileri ve Mısır Dışişleri Bakanı, Washington-Tahran Müzakerelerini Ele Aldı",
         "summary": "ABD temsilcileri, Mısır Dışişleri Bakanı ile bir araya gelerek Washington ile Tahran arasındaki müzakereleri görüştü. Mısır Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, görüşmede bölgedeki hızlı gelişmeler ve gerilimi azaltma çabaları üzerinde duruldu. Taraflar, Orta Doğu'da tansiyonun düşürülmesi ve istikrarın sağlanması yönündeki adımları değerlendirdi. Bu görüşme, ABD ve İran arasındaki dolaylı veya doğrudan temasların bölgesel aktörler üzerinden yürütülmesinin bir parçası olarak yorumlanıyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail/Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779405120417znu95",
-        "title": "Filistin'in BM Temsilcisi: Dünya Filistinlilerin Öldürülmesine Alışmamalı",
-        "summary": "Filistin'in Birleşmiş Milletler Daimi Temsilcisi Riyad Mansour, İsrail'in Filistinli sivillere yönelik şiddeti kışkırtmaya ve olanak sağlamaya devam ettiğini belirtti. Mansour, İsrail'in işgal güçleri veya İsrailli yerleşimciler aracılığıyla Filistinlilere karşı şiddet uyguladığını ifade etti. Filistinli diplomat, uluslararası toplumu bu duruma karşı duyarlı olmaya çağırarak, dünyanın Filistinlilerin öldürülmesine alışmaması gerektiğini vurguladı. Açıklamalar, bölgedeki gerilimin ve insan hakları ihlallerinin devam ettiğine dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6964112/pexels-photo-6964112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-21T23:12:00.417Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestines-un-envoy-says-world-must-not-grow-accustomed-to-seeing-palestinians-killed/3945263",
         "trendScore": 85,
         "isBreaking": false
     }
