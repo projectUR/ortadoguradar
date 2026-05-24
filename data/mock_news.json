@@ -1,5 +1,21 @@
 [
     {
+        "id": "17796244105365y8aq",
+        "title": "İran, Hürmüz Boğazı Üzerindeki Kontrol İddiasını Artırıyor",
+        "summary": "İran, Hürmüz Boğazı üzerindeki kontrol iddiasını güçlendiren yeni bir adım attı. Ülke, boğazın 22.000 kilometrekareden fazla bir bölümünde 'silahlı kuvvetler denetimi' talep ettiğini gösteren bir harita yayımladı. Bu stratejik su yolu, küresel petrol ticaretinin ana arterlerinden biri olması nedeniyle uluslararası öneme sahip. İran'ın bu hamlesi, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası denizcilik güvenliği konusunda endişelere yol açabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33586879/pexels-photo-33586879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-24T12:06:50.536Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779620224238ww0ce",
         "title": "Trump'tan İran Barış Anlaşması ve Hürmüz Boğazı Açıklaması",
         "summary": "ABD Başkanı Trump, İran ile barış anlaşması konusunda ilerleme kaydedildiğini açıkladı. Bu duyuru, küresel ticaret için kritik öneme sahip Hürmüz Boğazı'nın yakında yeniden açılabileceği yönünde sinyaller verdi. Açıklamada, taraflar arasındaki 'güvensizlik bulutu'na rağmen potansiyel bir anlaşmanın mümkün olduğu belirtildi. Bu gelişme, Orta Doğu'daki gerilimin azaltılmasına yönelik diplomatik çabaların bir parçası olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/5/22/premier-league-finale-arsenal-relegation-champions-league-salah-and-pep?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779489331170j35ul",
-        "title": "Mahmud Halil, ABD Sınır Dışı Davasını Yüksek Mahkeme'ye Taşıyor",
-        "summary": "Filistin yanlısı aktivist Mahmud Halil, ABD'deki sınır dışı davasını ülkenin en yüksek yargı organı olan Yüksek Mahkeme'ye götürme kararı aldı. Halil, Trump yönetiminin kendisini korunan ifade özgürlüğü haklarını kullandığı için hedef aldığını iddia ediyor. Bu dava, ABD'de Filistin yanlısı aktivistlerin hakları ve siyasi ifade özgürlüğünün sınırları konusunda önemli bir emsal teşkil edebilir. Yüksek Mahkeme'nin davayı ele almasıyla birlikte, siyasi aktivizmin sınır dışı süreçlerindeki rolü ve hükümetin aktivistlere yönelik eylemleri yeniden gündeme gelecek. Halil'in hukuk mücadelesi, ABD'deki insan hakları ve sivil özgürlükler tartışmalarına yeni bir boyut katıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/12172004/pexels-photo-12172004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-22T22:35:31.170Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
