@@ -1,5 +1,21 @@
 [
     {
+        "id": "17797485543887cz6i",
+        "title": "Trump, Anma Günü'nde İran'a karşı savaşta ölen ABD askerlerini andı",
+        "summary": "ABD Başkanı Donald Trump, Anma Günü dolayısıyla Arlington Ulusal Mezarlığı'nda düzenlenen törene katıldı. Trump, burada hayatını kaybeden ABD askerlerini andı. Haberin başlığına göre, bu anma, İran'a karşı savaşta yaşamını yitiren ABD askerlerine yönelikti. Bu durum, ABD'nin İran politikaları ve bölgedeki askeri varlığına ilişkin tartışmaları yeniden gündeme getirebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-25T22:35:54.388Z",
+        "location": {
+            "lat": 38.8793,
+            "lng": -77.0687,
+            "name": "Arlington, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779743607316ebwpw",
         "title": "İsrail, Lübnan'daki Hizbullah'a Yönelik Saldırılarını Yoğunlaştıracağını Duyurdu",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkesinin Lübnan'daki Hizbullah'a yönelik saldırılarını \"yoğunlaştıracağını\" açıkladı. İsrail ordusu da yaptığı açıklamada, Lübnan'daki silahlı grubu hedef aldığını belirtti. Bu hamle, İsrail'in Hizbullah'ı \"ezme\" amacının bir parçası olarak değerlendiriliyor. Bölgedeki gerilimi tırmandıran bu gelişme, Orta Doğu'daki çatışma dinamiklerini etkileyecek nitelikte.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/syria-holds-parliamentary-elections-in-hasakah-ain-al-arab/3947287",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1779615073399y5sub",
-        "title": "ABD'den Hürmüz Boğazı'nın 'Geçiş Ücreti Olmadan' Açılması İçin Plan Taslağı",
-        "summary": "ABD'li Senatör Rubio, Hürmüz Boğazı'nı 'geçiş ücreti olmaksızın' açmaya yönelik bir plan taslağında ilerleme kaydedildiğini duyurdu. ABD Dışişleri Bakanı'na göre, Körfez ülkeleriyle görüşülen bu taslak, İran'ın tam kabulünü ve ardından uyumunu gerektirecek. Bu diplomatik çaba, stratejik öneme sahip Hürmüz Boğazı'nda uluslararası seyrüsefer serbestliğini güvence altına almayı hedefliyor. Planın hayata geçirilmesi için İran'ın rızası ve işbirliği kritik önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9550526/pexels-photo-9550526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T09:31:13.399Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/rubio-says-progress-made-on-outline-to-open-strait-of-hormuz-without-toll/3947258",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
