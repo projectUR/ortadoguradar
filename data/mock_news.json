@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779685560131dhd0v",
+        "title": "Afrika Günü 2026: Kıta Gerçek Kurtuluşa Ulaştı mı?",
+        "summary": "Afrika Günü 2026 etkinlikleri, kıtanın gerçek bağımsızlık ve egemenlik arayışını mercek altına alıyor. Bu yılki kutlamalar, Afrika ülkelerinin güç dengeleri, dış borç yükü ve dijital kontrol gibi kritik meseleler etrafında egemenliklerini yeniden tanımlama çabalarına odaklanıyor. Afrika'nın siyasi ve ekonomik bağımsızlığını sorgulayan bu gündem, kıtanın gelecekteki yönelimleri açısından önemli tartışmaları beraberinde getiriyor. Afrika halkları, gerçek kurtuluşun sadece siyasi değil, aynı zamanda ekonomik ve teknolojik bağımsızlıkla mümkün olabileceği yönündeki beklentilerini dile getiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37400446/pexels-photo-37400446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-25T05:06:00.131Z",
+        "location": {
+            "lat": 0,
+            "lng": 20,
+            "name": "Afrika"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17796674676403xya9",
         "title": "Pakistan'da Hayvan Tüccarları, İran'a Yönelik Savaş Nedeniyle Fiyat Artışlarından Etkileniyor",
         "summary": "Pakistan'daki hayvan tüccarları, İran'a yönelik savaşın Kurban Bayramı öncesi satışlarını olumsuz etkilediğini belirtiyor. Tüccarlar, savaşın yol açtığı fiyat artışlarının hayvan satışlarını düşürdüğünü ifade ediyor. Bu durum, bayram döneminde önemli gelir elde etmeyi bekleyen sektör temsilcileri arasında endişeye neden oluyor. İran'daki gelişmelerin bölgesel ekonomiler üzerindeki dolaylı etkileri, Pakistan'daki ticari faaliyetlerde de hissediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779528137324twnqd",
-        "title": "Sadece ABD değil: Hindistan'dan Brezilya'ya 51 ülke Gazze Savaşı sırasında İsrail'i silahlandırdı",
-        "summary": "Uluslararası Adalet Divanı'nın (UAD) soykırım uyarılarına rağmen, Gazze'deki savaş devam ederken 51 ülkenin İsrail'e silah tedarik etmeye devam ettiği bildirildi. ABD'nin yanı sıra Hindistan'dan Brezilya'ya kadar geniş bir coğrafyadan ülkelerin bu tedarik zincirinde yer aldığı belirtildi. Habere göre, bazı ülkelerin İsrail'e desteği durdurma taahhütlerine rağmen silah sevkiyatlarını sürdürdüğü ifade edildi. Bu durum, uluslararası hukukun ve insani çağrıların çatışma bölgelerindeki silah akışını durdurmadığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14207910/pexels-photo-14207910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-23T09:22:17.324Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
