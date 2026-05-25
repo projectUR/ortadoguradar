@@ -1,5 +1,37 @@
 [
     {
+        "id": "1779724382092jfdcw",
+        "title": "Trump, İran Müzakerelerini İbrahim Anlaşmaları'nın Genişletilmesiyle İlişkilendiriyor",
+        "summary": "Eski ABD Başkanı Donald Trump, İran ile yürütülen müzakereler ile İbrahim Anlaşmaları'nın genişletilmesi arasında bir bağlantı kurduğunu belirtti. Trump'ın bu açıklaması, Orta Doğu'daki diplomatik süreçlerin ve bölgesel normalleşme çabalarının karmaşık yapısını gözler önüne seriyor. Bu stratejik bağlantı, hem İran'ın nükleer programı ve bölgesel etkisiyle ilgili görüşmeleri hem de İsrail ile Arap ülkeleri arasındaki ilişkilerin normalleşmesini aynı çerçevede değerlendirme potansiyelini taşıyor. Bu durum, gelecekteki Orta Doğu politikalarında önemli bir etken olarak görülebilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-25T15:53:02.092Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17797244552435i8m5",
+        "title": "Gazze'de Yerinden Edilmiş Filistinliler Kampına İsrail Saldırısı: Kadın ve Çocuk Öldü",
+        "summary": "Gazze Şeridi'nde yerinden edilmiş Filistinlilerin bulunduğu bir kampa İsrail tarafından saldırı düzenlendiği bildirildi. Saldırıda bir kadın ve bir çocuk hayatını kaybederken, çok sayıda kişinin de yaralandığı belirtildi. Haber ajansının aktardığına göre, İsrail'in Ekim 2025 tarihli ateşkes anlaşmasını ihlal etmeye devam ettiği öne sürüldü. Bu ihlaller sonucunda Gazze'de toplam 904 kişinin yaşamını yitirdiği ve 2.713 kişinin yaralandığı bilgisi paylaşıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/22608382/pexels-photo-22608382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-25T15:54:15.243Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/woman-child-killed-several-injured-in-israeli-strike-on-displaced-palestinians-camp-in-gaza/3948272",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17797134071760rdlm",
         "title": "Dünya, ABD-İran Anlaşmasına Acilen İhtiyaç Duyuyor",
         "summary": "Küresel çapta yaşanan krizlerin derinleşebileceği endişesiyle, Amerika Birleşik Devletleri ile İran arasında acil bir anlaşma yapılması gerektiği vurgulanıyor. Uzmanlar, Washington ve Tahran yönetimleri arasında bir mutabakat sağlanamaması halinde, Hürmüz Boğazı'nın olası bir kapanmasının dünya genelindeki mevcut sorunları daha da kötüleştirebileceği konusunda uyarıyor. Bu durumun, özellikle enerji piyasaları ve uluslararası ticaret üzerinde ciddi olumsuz etkiler yaratabileceği belirtiliyor. Taraflar arasındaki gerilimin azaltılması ve diplomatik bir çözüm bulunması, küresel istikrar açısından kritik önem taşıyor.",
@@ -764,38 +796,6 @@
             "name": "Orta Doğu"
         },
         "source": "https://www.aa.com.tr/en/americas/israel-fears-limited-us-iran-deal-as-key-nuclear-issues-remain-unresolved-report/3947083",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779607754089ppnz8",
-        "title": "Hizbullah, İsrail'in Demir Kubbe Fırlatıcılarını ve İHA Savunma Sistemlerini Hedef Alan 12 Saldırı Düzenlediğini Duyurdu",
-        "summary": "Lübnan merkezli Hizbullah grubu, İsrail'in Demir Kubbe füze savunma sistemi fırlatıcılarını ve insansız hava aracı savunma sistemlerini hedef alan 12 saldırı gerçekleştirdiğini açıkladı. Grup, bu saldırıların İsrail'in ateşkes ihlallerine ve Lübnan'ın güneyindeki köylere yönelik eylemlerine bir yanıt olduğunu belirtti. Açıklamada, İsrail hedeflerine yönelik operasyonların devam edeceği vurgulandı. Bölgedeki gerilimin tırmanmaya devam ettiği gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147233/pexels-photo-6147233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T07:29:14.089Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-launched-12-attacks-targeting-israeli-iron-dome-launchers-drone-defense-systems/3947074",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1779607779268tgscy",
-        "title": "Katar Emiri'nden Suudi Arabistan ve BAE ile ABD-İran Anlaşması Görüşmeleri",
-        "summary": "Katar Emiri, ABD ile İran arasında olası bir anlaşmaya yönelik diplomatik çabaların yoğunlaştığı bir dönemde Suudi Arabistan ve Birleşik Arap Emirlikleri (BAE) yetkilileriyle görüşmeler gerçekleştirdi. Bölgesel temasların artmasıyla birlikte diplomatik girişimlerin hız kazandığı belirtilen bu görüşmeler, Orta Doğu'daki gerilimi azaltma potansiyeli taşıyor. Katar'ın, ABD-İran ilişkilerinde arabuluculuk rolü üstlenerek taraflar arasında bir uzlaşı zemini oluşturmaya çalıştığı ifade ediliyor. Bu diplomatik hamlelerin, bölgedeki istikrarın sağlanması ve olası bir anlaşmanın önünün açılması açısından kritik öneme sahip olduğu vurgulanıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7868979/pexels-photo-7868979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T07:29:39.268Z",
-        "location": {
-            "lat": 25.28,
-            "lng": 51.53,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-s-emir-holds-saudi-uae-talks-amid-diplomatic-push-for-us-iran-deal/3947057",
         "trendScore": 85,
         "isBreaking": false
     }
