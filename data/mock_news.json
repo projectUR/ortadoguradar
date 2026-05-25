@@ -1,5 +1,37 @@
 [
     {
+        "id": "1779743607316ebwpw",
+        "title": "İsrail, Lübnan'daki Hizbullah'a Yönelik Saldırılarını Yoğunlaştıracağını Duyurdu",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkesinin Lübnan'daki Hizbullah'a yönelik saldırılarını \"yoğunlaştıracağını\" açıkladı. İsrail ordusu da yaptığı açıklamada, Lübnan'daki silahlı grubu hedef aldığını belirtti. Bu hamle, İsrail'in Hizbullah'ı \"ezme\" amacının bir parçası olarak değerlendiriliyor. Bölgedeki gerilimi tırmandıran bu gelişme, Orta Doğu'daki çatışma dinamiklerini etkileyecek nitelikte.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-25T21:13:27.316Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779743675618yy1su",
+        "title": "Netanyahu: İsrail, Hizbullah'a Yönelik Saldırılarını Yoğunlaştıracak",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkesinin Lübnan merkezli Hizbullah örgütüne yönelik saldırılarını artıracağını duyurdu. Bu açıklamanın hemen ardından İsrail ordusu, Lübnan'ın doğu bölgelerindeki çeşitli hedeflere hava saldırıları düzenledi. Bölgedeki gerilimin tırmanmasına yol açan bu gelişmeler, İsrail ile Hizbullah arasındaki çatışmaların yeni bir boyut kazandığını gösteriyor. Uluslararası toplum, bölgedeki istikrarsızlığın artmasından endişe duyduğunu belirtiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700146/pexels-photo-5700146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-25T21:14:35.618Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "177973832294278a2m",
         "title": "İsrail'in Gazze Saldırısında 6 Yaşındaki Filistinli Kız Çocuğu Öldü",
         "summary": "Gazze Şeridi'ndeki Han Yunus kentinde bulunan bir yerinden edilmişler kampına İsrail tarafından hava saldırısı düzenlendi. Saldırı sonucunda altı yaşında Filistinli bir kız çocuğu hayatını kaybettiği bildirildi. Olay, bölgedeki insani durumu daha da kötüleştirirken, uluslararası toplumda endişelere yol açtı. Hayatını kaybeden çocuğun babasının, yaşanan bu trajik olayın ardından derin bir yas içinde olduğu belirtildi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/us-israel-iran-war/rubio-says-progress-made-on-outline-to-open-strait-of-hormuz-without-toll/3947258",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17796150954037b1ii",
-        "title": "İran, Rubio'yu enerji piyasaları ve nükleer program hakkındaki açıklamaları sonrası 'gerçekleri çarpıtmaya çalışmakla' suçladı",
-        "summary": "İran, ABD'li senatör Marco Rubio'nun ülkenin enerji piyasaları ve nükleer programına ilişkin yorumlarına sert tepki gösterdi. Tahran yönetimi, Rubio'yu \"gerçekleri çarpıtmaya çalışmakla\" itham etti. İran, nükleer programının \"yasal\" ve \"uluslararası alanda tanınmış\" olduğunu vurgulayarak, bu programdan \"asla vazgeçmeyeceğini\" belirtti. Bu açıklama, İran'ın nükleer faaliyetleri ve enerji politikaları üzerindeki uluslararası gerilimin devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34285434/pexels-photo-34285434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T09:31:35.403Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-accuses-rubio-of-attempting-to-distort-realities-after-remarks-on-energy-markets-nuclear-program/3947233",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177961511739914cd8",
-        "title": "İran'dan ABD ile Potansiyel Anlaşma Açıklaması: Yaptırımlar ve Çatışmaların Sonu Gündemde",
-        "summary": "İran haber ajansı Tasnim'in bildirdiğine göre, Tahran ile Washington arasında potansiyel bir mutabakat zaptı görüşmeleri gündemde. Bu anlaşmanın, tüm cephelerdeki çatışmaların sona ermesini içereceği belirtiliyor. Haberde ayrıca, ABD'nin müzakereler süresince İran'ın petrolüne uygulanan yaptırımları kaldırmayı taahhüt edeceği ifade edildi. Söz konusu gelişmeler, iki ülke arasındaki gerilimi azaltma ve diplomatik çözüm arayışlarının bir parçası olarak değerlendiriliyor. Anlaşmanın detayları ve müzakerelerin seyri, bölgesel ve küresel siyaset açısından büyük önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T09:31:57.399Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-potential-memorandum-with-us-includes-end-of-war-on-all-fronts-tasnim/3947211",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
