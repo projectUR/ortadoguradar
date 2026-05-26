@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779770692675c7m6o",
+        "title": "ABD, İran'ın güneyini 'nefsi müdafaa' gerekçesiyle vurdu, İran mayın gemilerini hedef aldı",
+        "summary": "ABD ordusu, İran'ın güneyine yönelik yeni saldırılar düzenlediğini duyurdu. Washington, bu eylemlerin 'nefsi müdafaa' kapsamında gerçekleştirildiğini belirtti. Saldırılarda İran'a ait füze mevzileri ve teknelerin hedef alındığı açıklandı. Bu gelişme, Orta Doğu'daki gerilimi artırma potansiyeli taşıyor ve bölgesel güvenlik dinamiklerini etkileyebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14136477/pexels-photo-14136477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T04:44:52.675Z",
+        "location": {
+            "lat": 27,
+            "lng": 56,
+            "name": "Güney İran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1779770714320es6w2",
+        "title": "Netanyahu, Hizbullah'ı 'ezici güçle vurma' sözü verdi",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, Lübnan merkezli Hizbullah örgütünü 'ezici güçle vurma' sözü verdi. Netanyahu, bu tehdidini bölgedeki gerilimin tırmandığı bir dönemde dile getirdi. İsrail'in kuzey sınırında Hizbullah ile yaşanan çatışmaların ardından gelen bu açıklama, bölgedeki güvenlik durumunu daha da karmaşık hale getirebilir. İsrail liderinin bu sözleri, ülkesinin güvenlik önceliklerini ve Hizbullah'a karşı duruşunu bir kez daha net bir şekilde ortaya koydu. Bu tür açıklamalar, Orta Doğu'daki istikrarsızlığı artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T04:45:14.320Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17797708320278hnti",
+        "title": "Kanada Başbakanı, İsrail Cumhurbaşkanı'na Filo Olayının Soruşturulması Gerektiğini Bildirdi",
+        "summary": "Kanada Başbakanı, İsrail Cumhurbaşkanı'na bir filo olayının kapsamlı bir şekilde soruşturulması gerektiğini iletti. Bu açıklama, uluslararası toplumun bölgedeki gerilimli konulara yönelik beklentilerini yansıtmaktadır. Ayrıca, Kanadalı yetkili Mark Carney'nin, Kanada'nın Filistin devletine olan desteğini yinelediği belirtildi. Bu durum, Kanada'nın Orta Doğu'daki iki devletli çözüm ve barış çabalarına verdiği önemi vurgulamaktadır. Olayın detayları ve soruşturmanın seyri uluslararası kamuoyu tarafından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T04:47:12.027Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/world/canada-s-prime-minister-tells-israeli-president-investigation-of-flotilla-incident-needed/3948489",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779754224227vuheo",
         "title": "İran Cumhurbaşkanı, internet erişiminin protesto öncesi seviyeye geri getirilmesi talimatı verdi: Rapor",
         "summary": "İran Cumhurbaşkanı'nın, ülkedeki internet erişiminin protestolar öncesindeki seviyeye geri döndürülmesi yönünde talimat verdiği bildirildi. Bu karar, Aralık sonu ve Ocak aylarında ülke genelinde yaşanan ve artan ekonomik baskılar nedeniyle patlak veren geniş çaplı protestoların ardından geldi. Protestolar sırasında internet erişiminde kısıtlamalar uygulandığı biliniyordu. Söz konusu talimat, internet kısıtlamalarının kaldırılması ve normalleşme adımı olarak değerlendiriliyor.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/24/rubio-says-significant-progress-made-in-us-iran-negotiations?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779614959333nosy0",
-        "title": "Yemen'deki Savaş, Yerinden Edilmiş Kişiler ile Yerel Halk Arasında Kıt Kaynak Mücadelesine Yol Açıyor",
-        "summary": "Yemen'de devam eden savaş, ülkedeki kıt kaynaklar üzerinde yerinden edilmiş kişiler ile yerel halk arasında ciddi bir mücadeleye neden oluyor. Azalan uluslararası yardımlar ve ülkedeki ekonomik kriz, durumu daha da kötüleştiriyor. Özellikle Maryamah kampında barınan yerinden edilmiş kişilerin aşırı derecede zorluk çektiği belirtiliyor. Bu durum, insani krizin derinleştiğini gözler önüne seriyor ve bölgedeki yaşam koşullarının vahametini ortaya koyuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30230054/pexels-photo-30230054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T09:29:19.333Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Maryamah Kampı, Yemen"
-        },
-        "source": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17796149995461d7lb",
-        "title": "Rusya'nın Ukrayna'nın Kiev'e Yönelik Saldırılarında En Az Dört Kişi Hayatını Kaybetti",
-        "summary": "Ukrayna'nın başkenti Kiev'e düzenlenen Rus saldırılarında en az dört kişi yaşamını yitirdi. Saldırılarda başkentin kendisinde iki, Kiev bölgesinde ise iki kişi hayatını kaybederken, toplamda 40 farklı nokta hasar gördü. Bu saldırılar, Rusya-Ukrayna savaşının devam eden şiddetini ve sivil kayıplarını bir kez daha gözler önüne serdi. Bölgedeki gerilim ve çatışmalar, küresel enerji ve gıda piyasaları üzerinde dolaylı etkiler yaratmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803716/pexels-photo-15803716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T09:29:59.546Z",
-        "location": {
-            "lat": 50.45,
-            "lng": 30.52,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779615021899qcq2h",
-        "title": "Pakistan'ın Belucistan Eyaletinde Bombalı Saldırı: 20'den Fazla Ölü",
-        "summary": "Pakistan'ın güneybatısındaki Belucistan eyaletinde düzenlenen bombalı saldırıda 20'den fazla kişi hayatını kaybetti. Saldırının sorumluluğunu, bölgede faaliyet gösteren ayrılıkçı gruplardan Belucistan Kurtuluş Ordusu (BKO) üstlendi. Olay, eyaletteki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Pakistan hükümeti, saldırıyı kınayarak sorumluların yakalanması için operasyon başlatıldığını duyurdu. Bölgede sık sık benzer saldırılar yaşanmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11477792/pexels-photo-11477792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T09:30:21.899Z",
-        "location": {
-            "lat": 30.1798,
-            "lng": 66.975,
-            "name": "Belucistan Eyaleti, Pakistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
