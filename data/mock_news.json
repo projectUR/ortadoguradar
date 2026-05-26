@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779754224227vuheo",
+        "title": "İran Cumhurbaşkanı, internet erişiminin protesto öncesi seviyeye geri getirilmesi talimatı verdi: Rapor",
+        "summary": "İran Cumhurbaşkanı'nın, ülkedeki internet erişiminin protestolar öncesindeki seviyeye geri döndürülmesi yönünde talimat verdiği bildirildi. Bu karar, Aralık sonu ve Ocak aylarında ülke genelinde yaşanan ve artan ekonomik baskılar nedeniyle patlak veren geniş çaplı protestoların ardından geldi. Protestolar sırasında internet erişiminde kısıtlamalar uygulandığı biliniyordu. Söz konusu talimat, internet kısıtlamalarının kaldırılması ve normalleşme adımı olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/27086784/pexels-photo-27086784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T00:10:24.227Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-president-orders-restoration-of-internet-access-to-pre-protest-level-report/3948378",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17797485543887cz6i",
         "title": "Trump, Anma Günü'nde İran'a karşı savaşta ölen ABD askerlerini andı",
         "summary": "ABD Başkanı Donald Trump, Anma Günü dolayısıyla Arlington Ulusal Mezarlığı'nda düzenlenen törene katıldı. Trump, burada hayatını kaybeden ABD askerlerini andı. Haberin başlığına göre, bu anma, İran'a karşı savaşta yaşamını yitiren ABD askerlerine yönelikti. Bu durum, ABD'nin İran politikaları ve bölgedeki askeri varlığına ilişkin tartışmaları yeniden gündeme getirebilir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17796150506604t2nk",
-        "title": "Suriye, Haseke ve Ayn el-Arab'da Parlamento Seçimleri Düzenledi",
-        "summary": "Suriye'de parlamento seçimleri düzenlendi. Ülkenin kuzeydoğusundaki Haseke vilayetinin Haseke ve Kamışlı ilçelerinde oy verme merkezleri açıldı. Ayrıca, Halep vilayetine bağlı Ayn el-Arab (Kobani) ilçesinde de vatandaşlar sandık başına gitti. Seçim komisyonu tarafından yapılan açıklamaya göre, oy kullanma işlemleri belirlenen bölgelerde sorunsuz bir şekilde başladı. Bu seçimler, Suriye'deki siyasi sürecin bir parçası olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5926403/pexels-photo-5926403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T09:30:50.660Z",
-        "location": {
-            "lat": 36.48,
-            "lng": 40.73,
-            "name": "Haseke, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-holds-parliamentary-elections-in-hasakah-ain-al-arab/3947287",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
