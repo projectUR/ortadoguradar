@@ -1,5 +1,69 @@
 [
     {
+        "id": "17798209956726jb4c",
+        "title": "Ermenistan, ABD ile Stratejik Ortaklık Anlaşması İmzaladı",
+        "summary": "Ermenistan, yaklaşan parlamento seçimleri öncesinde Amerika Birleşik Devletleri ile stratejik bir ortaklık anlaşması imzaladı. Başbakan Nikol Paşinyan liderliğindeki hükümet, ABD ile ilişkilerini derinleştirme adımları atarken, bu durum ülkenin iç siyasetinde önemli bir gündem maddesi haline geldi. Paşinyan, seçimlerde Rusya yanlısı partilerin güçlü muhalefetiyle karşı karşıya kalacak. Bu anlaşma, Ermenistan'ın dış politikasında Batı'ya yönelişini pekiştirirken, bölgedeki jeopolitik dengeler açısından da dikkat çekiyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/20678303/pexels-photo-20678303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T18:43:15.672Z",
+        "location": {
+            "lat": 40.1792,
+            "lng": 44.4991,
+            "name": "Erivan, Ermenistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/26/armenia-signs-strategic-partnership-deal-with-us-as-election-approaches?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779821064105ghfni",
+        "title": "Hak Grubu: BAE, Sudan'a Giden Paralı Askerler İçin Geçiş Noktası",
+        "summary": "Bir hak grubu, Birleşik Arap Emirlikleri'ni (BAE), Sudan'daki iç savaşa katılmak üzere giden paralı askerler için bir geçiş noktası olarak kullanıldığı iddiasıyla suçladı. Bu iddialar, Sudan'daki çatışmalara bölgesel aktörlerin müdahalesi konusundaki endişeleri gündeme getirdi. BAE hükümeti ise söz konusu iç savaşa herhangi bir şekilde dahil olduğunu kesin bir dille reddetti. Emirlikler ayrıca, iddia edilen bağlantılar hakkında soruşturma yürüttüğünü bildirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30687133/pexels-photo-30687133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T18:44:24.105Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Abu Dabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.bbc.com/news/articles/c1422nrgm1jo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779821087668f3ixu",
+        "title": "Netanyahu: İsrail, ateşkese rağmen Lübnan'daki kara harekatını genişletiyor",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkesinin Lübnan'daki kara harekatını genişlettiğini duyurdu. Netanyahu, İsrail ordusunun Lübnan topraklarında \"büyük güçlerle\" faaliyet gösterdiğini belirtti. Bu açıklama, bölgede devam eden bir ateşkese rağmen yapıldı. Gelişme, İsrail ile Lübnan arasındaki gerilimin tırmandığına işaret ediyor ve uluslararası kamuoyunda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147228/pexels-photo-6147228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T18:44:47.668Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-says-israel-expanding-ground-offensive-in-lebanon-despite-ceasefire/3949315",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1779821155304z4eff",
+        "title": "İsrail Güçleri Suriye'nin Kuneytra Kırsalında Araziyi Buldozerle Düzledi",
+        "summary": "Suriye devlet medyası, İsrail askeri buldozerinin Suriye'nin güneyindeki El-Rafid köyüne girdiğini duyurdu. Habere göre, İsrail güçleri Kuneytra kırsalında bir araziyi buldozerle düzledi. Bu eylem, İsrail'in Suriye topraklarına yönelik bir ihlali olarak kaydedildi. Bölgedeki gerilimi artırma potansiyeli taşıyan bu tür olaylar, uluslararası kamuoyunun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7985232/pexels-photo-7985232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T18:45:55.304Z",
+        "location": {
+            "lat": 33.1,
+            "lng": 35.78,
+            "name": "Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-bulldoze-land-during-incursion-into-syria-s-quneitra-countryside/3949242",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779812751920evd8p",
         "title": "Tahran, ABD saldırılarını 'ağır ihlal' olarak nitelendirdi, karşılık vermeye hazır olduğunu belirtti",
         "summary": "ABD, İran'da botları ve füze mevzilerini vurduğunu açıkladı. Bu saldırılar, her iki tarafın barış görüşmelerinde ilerleme kaydettiğini belirtmesinden kısa bir süre sonra gerçekleşti. Tahran yönetimi, ABD'nin bu eylemlerini 'ağır bir ihlal' olarak değerlendirdiğini duyurdu. İran, söz konusu saldırılara karşılık vermeye hazır olduğunu bildirdi.",
@@ -732,70 +796,6 @@
             "name": "Washington D.C., United States"
         },
         "source": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779653327229t2tw4",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda Altı Kişi Hayatını Kaybetti, Yeni Tahliye Emirleri Verildi",
-        "summary": "İsrail ordusunun Güney Lübnan'a yönelik saldırıları devam ediyor. Son saldırılarda altı kişinin hayatını kaybettiği bildirildi. Bölgede yaşayan siviller için yeni tahliye emirleri yayınlandı. Bu gelişmeler, ateşkes beklentilerine rağmen İsrail'in bölgedeki operasyonlarının genişlediğini gösteriyor ve gerginliğin tırmanması endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T20:08:47.229Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1779653347952x71qs",
-        "title": "Zelenskyy, Rus Saldırılarının Ardından Kiev'de Al Jazeera'ya Konuştu",
-        "summary": "Rusya, Ukrayna'nın başkenti Kiev'e savaşın başlangıcından bu yana en büyük saldırılarından birini gerçekleştirdi. Yüzlerce insansız hava aracı ve füzenin kullanıldığı bu saldırılar, şehirde geniş çaplı yıkıma neden oldu. Ukrayna Devlet Başkanı Volodimir Zelenskyy, saldırıların yaşandığı bölgede Katar merkezli Al Jazeera televizyonuna açıklamalarda bulundu. Zelenskyy'nin bu açıklamaları, uluslararası kamuoyuna yönelik önemli mesajlar içerdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6471683/pexels-photo-6471683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T20:09:07.952Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17796479520612o9de",
-        "title": "Fatou Bensouda'dan İsrail'in Kendisine ve UCM'ye Yönelik Tehditlerine İlişkin Açıklama",
-        "summary": "Uluslararası Ceza Mahkemesi'nin (UCM) eski başsavcısı Fatou Bensouda, İsrail'in kendisine ve mahkemeye yönelik tehditlerine ilişkin önemli açıklamalarda bulundu. Bensouda, adaletin siyasi çıkarlara kurban edildiğini ve bu durumun uluslararası hukukun üstünlüğünü zedelediğini belirtti. Eski başsavcının bu ifadeleri, UCM'nin İsrail-Filistin çatışmasıyla ilgili yürüttüğü soruşturmalar bağlamında değerlendiriliyor. Bensouda, uluslararası adalet mekanizmalarının bağımsızlığının korunması gerektiğinin altını çizdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36960201/pexels-photo-36960201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T18:39:12.061Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779647982789umlie",
-        "title": "Premier Lig'de Sezon Sonu Mücadeleleri: Tottenham Ligde Kaldı, West Ham Küme Düştü",
-        "summary": "İngiltere Premier Lig'de sezon sonu mücadeleleri tamamlandı. Tottenham Hotspur, Everton'ı 1-0 mağlup ederek ligde kalmayı garantiledi ve gelecek sezon da en üst ligde mücadele etme hakkını kazandı. Öte yandan, West Ham United 14 yıllık Premier Lig serüvenini noktalayarak küme düşen takımlar arasına katıldı. Haber başlığında ayrıca, Mısırlı yıldız Mohamed Salah ve teknik direktör Pep Guardiola'nın Premier Lig'e duygusal vedalarından bahsedildi, bu durum futbol dünyasında geniş yankı uyandırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285163/pexels-photo-32285163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-24T18:39:42.789Z",
-        "location": {
-            "lat": 51.5,
-            "lng": -0.1,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/24/premier-league-west-ham-go-down-salah-and-guardiola-make-emotional-exits?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
