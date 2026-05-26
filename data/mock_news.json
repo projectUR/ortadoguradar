@@ -1,5 +1,21 @@
 [
     {
+        "id": "1779838990385e6mll",
+        "title": "Suriye, Esad Rejiminin Kimyasal Silah Programına Ait Kalıntıların Keşfedildiğini Duyurdu",
+        "summary": "Suriye makamları, Esad rejiminin kimyasal silah programına ait kalıntıların keşfedildiğini bildirdi. Yapılan açıklamada, ele geçirilen bazı mühimmatların, daha önce Doğu Guta ve Hama'da gerçekleştirilen saldırılarda kullanılan kimyasal silahlara benzediği belirtildi. Bu bulgular, Suriye'deki kimyasal silah stokları ve kullanımıyla ilgili tartışmaları yeniden gündeme getirdi. Uluslararası toplumun bu konudaki endişeleri devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849154/pexels-photo-11849154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-26T23:43:10.385Z",
+        "location": {
+            "lat": 34.8071,
+            "lng": 38.9968,
+            "name": "Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/world/syria-says-remnants-of-assad-regime-s-chemical-weapons-program-discovered/3949402",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17798342633702quxs",
         "title": "İsrail'in Güney Lübnan'daki Ölümcül Saldırılarının Ardından",
         "summary": "Yeni yayınlanan görüntüler, İsrail'in güney Lübnan genelinde düzenlediği ölümcül saldırıların ardından Maarakeh kasabasında geniş çaplı yıkımı gözler önüne seriyor. Saldırılar sonucunda bölgede önemli maddi hasar meydana geldiği ve can kayıplarının yaşandığı belirtiliyor. Maarakeh'teki tahribatın boyutu, bölgedeki güvenlik durumunun ciddiyetini ve çatışmaların yıkıcı etkisini bir kez daha gözler önüne serdi. Bu gelişmeler, Orta Doğu'daki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunun dikkatini çekiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/us-iran-could-finalize-deal-maybe-today-says-rubio/3947706",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779685560131dhd0v",
-        "title": "Afrika Günü 2026: Kıta Gerçek Kurtuluşa Ulaştı mı?",
-        "summary": "Afrika Günü 2026 etkinlikleri, kıtanın gerçek bağımsızlık ve egemenlik arayışını mercek altına alıyor. Bu yılki kutlamalar, Afrika ülkelerinin güç dengeleri, dış borç yükü ve dijital kontrol gibi kritik meseleler etrafında egemenliklerini yeniden tanımlama çabalarına odaklanıyor. Afrika'nın siyasi ve ekonomik bağımsızlığını sorgulayan bu gündem, kıtanın gelecekteki yönelimleri açısından önemli tartışmaları beraberinde getiriyor. Afrika halkları, gerçek kurtuluşun sadece siyasi değil, aynı zamanda ekonomik ve teknolojik bağımsızlıkla mümkün olabileceği yönündeki beklentilerini dile getiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/37400446/pexels-photo-37400446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T05:06:00.131Z",
-        "location": {
-            "lat": 0,
-            "lng": 20,
-            "name": "Afrika"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/25/africa-day-2026-has-the-continent-achieved-true-liberation?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
