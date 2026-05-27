@@ -1,5 +1,53 @@
 [
     {
+        "id": "17798548819852yhyq",
+        "title": "Trump Destekli Paxton, Teksas Ön Seçimlerinde Senatör Cornyn'i Mağlup Etti",
+        "summary": "Teksas'ta yapılan ön seçimlerde, eski Başkan Donald Trump'ın desteklediği Ken Paxton, Cumhuriyetçi Parti'den Senatör John Cornyn'i mağlup etti. Bu sonuçla Paxton, Kasım ayında yapılacak genel seçimlerde Teksas eyaletini temsilen ABD Senatosu için yarışacak. Kasım ayındaki bu seçim, ABD Senatosu'nun kontrolünü belirleyebilecek kritik öneme sahip yarışlardan biri olarak değerlendirilmektedir. Senato'nun kontrolündeki olası bir değişim, ABD'nin dış politikası ve Orta Doğu'ya yönelik stratejileri üzerinde önemli etkiler yaratabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4669115/pexels-photo-4669115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T04:08:01.985Z",
+        "location": {
+            "lat": 31,
+            "lng": -99,
+            "name": "Teksas, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17798549051242n9tq",
+        "title": "ISIL Bağlantılı Olduğu İddia Edilen Kadın ve Çocuklar Avustralya'ya Döndü",
+        "summary": "Terör örgütü ISIL ile bağlantılı olduğu iddia edilen bir grup kadın ve çocuk, Avustralya'ya geri döndü. Avustralya Federal Polisi, söz konusu kişiler hakkında henüz herhangi bir tutuklama yapmadığını ancak soruşturmaların devam ettiğini bildirdi. Bu gelişme, Orta Doğu'daki çatışma bölgelerinden dönen kişilerin ulusal güvenlik üzerindeki potansiyel etkilerini bir kez daha gündeme getirdi. Avustralya makamları, bu kişilerin geçmişteki faaliyetlerini ve ülkeye dönüşlerinin güvenlik risklerini titizlikle değerlendiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9995973/pexels-photo-9995973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T04:08:25.124Z",
+        "location": {
+            "lat": -25.2744,
+            "lng": 133.7751,
+            "name": "Avustralya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/27/group-of-women-and-children-with-alleged-isil-ties-returns-to-australia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779855005495sq53m",
+        "title": "Batı Şeria'da İsrail Operasyonlarında İki Filistinli Çocuk Yaralandı",
+        "summary": "İsrail ordusunun Batı Şeria'da düzenlediği operasyonlarda iki Filistinli çocuğun yaralandığı bildirildi. Kurban Bayramı arifesinde gerçekleşen bu olaylarda, İsrailli yerleşimcilerin Filistinlilere ait tarım arazilerini hedef aldığı belirtildi. Bölgedeki gerilimin tırmandığı bu saldırılar, Filistin halkının günlük yaşamını ve bayram hazırlıklarını olumsuz etkiledi. Olaylar, İsrail-Filistin çatışmasının devam eden boyutlarını bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6862610/pexels-photo-6862610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T04:10:05.495Z",
+        "location": {
+            "lat": 31.9522,
+            "lng": 35.2332,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/world/israeli-military-raids-injure-2-palestinian-children-in-west-bank/3949447",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1779838990385e6mll",
         "title": "Suriye, Esad Rejiminin Kimyasal Silah Programına Ait Kalıntıların Keşfedildiğini Duyurdu",
         "summary": "Suriye makamları, Esad rejiminin kimyasal silah programına ait kalıntıların keşfedildiğini bildirdi. Yapılan açıklamada, ele geçirilen bazı mühimmatların, daha önce Doğu Guta ve Hama'da gerçekleştirilen saldırılarda kullanılan kimyasal silahlara benzediği belirtildi. Bu bulgular, Suriye'deki kimyasal silah stokları ve kullanımıyla ilgili tartışmaları yeniden gündeme getirdi. Uluslararası toplumun bu konudaki endişeleri devam ediyor.",
@@ -748,54 +796,6 @@
             "name": "İsrail-Lübnan Sınırı"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-killed-in-southern-lebanon-amid-continued-cross-border-hostilities/3947902",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779700537700x63gw",
-        "title": "İran, ABD ile Görüşmelerin 'Büyük Kısmının' Tamamlandığını Ancak Anlaşmanın Yakın Olmadığını Duyurdu",
-        "summary": "İran Dışişleri Bakanlığı, Amerika Birleşik Devletleri ile yürütülen müzakerelerin önemli bir bölümünün sonuçlandığını bildirdi. Ancak Tahran, görüşmelerdeki ilerlemenin bir anlaşmaya varılmasının yakın olduğu anlamına gelmediği konusunda uyarıda bulundu. Yetkililer, müzakerelerin devam ettiğini ve bazı konularda hala farklılıklar bulunduğunu belirtti. Bu açıklama, iki ülke arasındaki dolaylı görüşmelerin mevcut durumu hakkında bilgi verirken, nihai bir uzlaşının henüz ufukta görünmediğini ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8441790/pexels-photo-8441790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:15:37.700Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-large-part-of-talks-with-us-concluded-but-cautions-deal-not-imminent/3947836",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17797005621899s0oj",
-        "title": "İran'da Kalibaf Meclis Başkanı Olarak Yeniden Seçildi",
-        "summary": "İran'da Muhammed Bakır Kalibaf, meclis başkanı olarak yeniden seçildi. Kalibaf, ülkenin ABD ile yapılan müzakerelerdeki baş müzakerecisi olarak da biliniyor. Bu seçim, meclisin 12 ana üyesinin belirlendiği süreçle birlikte gerçekleşti. Kalibaf'ın yeniden seçilmesi, İran siyasetindeki mevcut dengelerin devamı niteliğinde değerlendiriliyor. Bu gelişme, İran iç siyasetinde önemli bir pozisyonun sahibini teyit etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5209879/pexels-photo-5209879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:16:02.189Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/irans-qalibaf-reelected-as-parliament-speaker/3947782",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1779700602530k1hv0",
-        "title": "ABD ve İran, Hürmüz Boğazı Anlaşmasını Bugün Sonuçlandırabilir",
-        "summary": "ABD'li yetkililer, İran ile Hürmüz Boğazı'nın açılmasına yönelik bir anlaşmanın bugün sonuçlandırılabileceğini bildirdi. Senatör Rubio'nun açıklamasına göre, ABD Dışişleri Bakanı masada 'oldukça sağlam bir şey' olduğunu belirtti. Bu potansiyel anlaşma, küresel petrol ticareti için hayati önem taşıyan stratejik Hürmüz Boğazı'nda deniz trafiğinin serbest ve güvenli akışını sağlamayı hedefliyor. Orta Doğu'da gerilimin sıkça yaşandığı bu su yolu, uluslararası enerji tedariki açısından kritik bir konumda bulunuyor. Anlaşmanın detayları henüz kamuoyuyla paylaşılmazken, ABD ve İran arasındaki diplomatik çabaların bir sonucu olduğu ifade ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5472447/pexels-photo-5472447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:16:42.530Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-iran-could-finalize-deal-maybe-today-says-rubio/3947706",
         "trendScore": 85,
         "isBreaking": false
     }
