@@ -1,5 +1,133 @@
 [
     {
+        "id": "1779870383945vks9i",
+        "title": "Papa'dan Gazze'ye Yardım Çağrısı",
+        "summary": "Katoliklerin ruhani lideri Papa, Gazze'ye yönelik insani yardım çağrısında bulundu. Papa'nın bu çağrısı, kendisine Gazze'ye yardım götürmeye çalışan filoların aktivistleri hakkında sorular yöneltilmesinin ardından geldi. Çağrı, bölgedeki insani krizin ciddiyetine dikkat çekiyor ve uluslararası toplumun Gazze'ye yönelik desteğini artırması gerektiğini vurguluyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193759/pexels-photo-36193759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:26:23.945Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17798704422016xx83",
+        "title": "İran Savaşı ve Hürmüz Boğazı Kesintisi Avrupa'da Gübre Kıtlığı Endişelerini Artırıyor",
+        "summary": "Avrupa Birliği, Hürmüz Boğazı'ndaki potansiyel kesintilerin gıda güvenliği endişelerini artırması üzerine yeni bir gübre planı başlattı. Bu durum, özellikle İran ile ilgili olası bir çatışmanın küresel tedarik zincirleri üzerindeki etkilerini gözler önüne seriyor. Bölgedeki istikrarsızlık, gübre hammaddelerinin taşınmasında kritik öneme sahip olan Hürmüz Boğazı'nın güvenliğini tehdit ediyor. Avrupa ülkeleri, gübre tedarikinde yaşanabilecek aksaklıkların tarım sektörünü ve dolayısıyla gıda üretimini olumsuz etkilemesinden endişe duyuyor. AB'nin bu adımı, bölgesel gerilimlerin küresel ekonomiye ve özellikle gıda güvenliğine yansımalarına karşı bir önlem olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11012320/pexels-photo-11012320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:27:22.201Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779870463594k5pn6",
+        "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda 31 Kişi Hayatını Kaybetti, Ateşkes Gerilimi Yükseliyor",
+        "summary": "İsrail'in Lübnan'a yönelik saldırıları yoğunlaşarak devam ediyor. Son saldırılarda Lübnan'da 31 kişinin hayatını kaybettiği bildirildi. Bölgede artan saldırılarla birlikte yerinden edilme emirleri yaygınlaşırken, bu gelişmeler ateşkes gerilimini tırmandırıyor. Olaylar, Orta Doğu'daki bölgesel çatışmanın seyrini etkilemeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:27:43.594Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1779870484674ec06a",
+        "title": "İsrail, Hamas'ın askeri kanadının yeni liderinin Gazze Şehri saldırılarında öldürüldüğünü duyurdu",
+        "summary": "İsrail, Hamas'ın askeri kanadının yeni liderinin Gazze Şehri'ne düzenlenen hava saldırılarında öldürüldüğünü açıkladı. Açıklamaya göre, söz konusu saldırılarda en az üç kişi yaşamını yitirdi. Olay, İsrail ile Hamas arasında devam eden ateşkese rağmen meydana geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8832578/pexels-photo-8832578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:28:04.674Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779870513359bxoso",
+        "title": "ABD, İsrail'e F-22 Savaş Jetleri ve Yakıt İkmal Uçakları Konuşlandırdı",
+        "summary": "ABD'nin İsrail'e F-22 savaş jetleri ve onlarca yakıt ikmal uçağı konuşlandırdığı bildirildi. İsrailli bir yayın kuruluşunun aktardığına göre, Washington bu askeri güçleri en az yıl sonuna kadar İsrail'de tutmayı planlıyor. Bu hamle, ABD'nin bölgedeki askeri varlığını güçlendirme ve güvenlik taahhütlerini sürdürme çabalarının bir parçası olarak değerlendiriliyor. Konuşlandırmanın, bölgesel istikrar ve caydırıcılık üzerindeki potansiyel etkileri yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34098901/pexels-photo-34098901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:28:33.359Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/live-blog/latest-developments-in-us-israel-iran-tensions-amid-lebanon-conflict/2910",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779870532795q5k6x",
+        "title": "İsrail ordusu, Gazze saldırısında Hamas askeri liderini öldürdüğünü iddia etti",
+        "summary": "İsrail ordusu, Gazze Şeridi'nin kuzeyinde düzenlediği bir saldırıda Hamas'ın askeri liderlerinden Muhammed Awda'yı öldürdüğünü duyurdu. Ordu, Awda'nın hedef alındığını ve etkisiz hale getirildiğini iddia etti. Filistinli grup Hamas'tan ise konuya ilişkin henüz bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36038704/pexels-photo-36038704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:28:52.795Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-claims-it-killed-hamas-military-chief-in-gaza-strike/3949518",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1779870559902ho7g4",
+        "title": "Müslümanlar Kurban Bayramı'nın İlk Gününde Mescid-i Aksa'da Namaz Kıldı",
+        "summary": "Müslümanlar, Kurban Bayramı'nın ilk gününü kutlamak üzere Kudüs'teki Mescid-i Aksa'da bir araya geldi. Binlerce Müslüman, bayram namazını kılmak için kutsal mekana akın ederek ibadetlerini gerçekleştirdi. İslam takvimindeki en önemli dini bayramlardan biri olan Kurban Bayramı, dört gün boyunca dünya genelindeki Müslümanlar tarafından idrak ediliyor. Bu özel gün, ibadetlerin yanı sıra aile ziyaretleri ve yardımlaşma ile geçirilmekte olup, Mescid-i Aksa gibi kutsal mekanlarda yoğun katılıma sahne olmaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11566548/pexels-photo-11566548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:29:19.902Z",
+        "location": {
+            "lat": 31.776,
+            "lng": 35.235,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/world/muslims-pray-at-al-aqsa-mosque-to-mark-1st-day-of-eid-al-adha/3949450",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1779870580496dpxjt",
+        "title": "Güney Lübnan'da Savaş Kurban Bayramı'nı Gölgede Bıraktı",
+        "summary": "Güney Lübnan'da devam eden çatışmalar ve İsrail saldırıları, bölgedeki Kurban Bayramı kutlamalarını derinden etkiliyor. Sınır köylerinde yaşayan aileler, artan güvenlik endişeleri nedeniyle geleneksel bayram buluşmalarını gerçekleştiremiyor. Bölgedeki belirsizlik, bayram geleneklerinin yeniden şekillenmesine yol açarken, yerel halk bayramı buruk bir atmosferde karşılıyor. Çatışmaların gölgesinde kalan bayram, bölge sakinleri için zorlu bir döneme işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11421076/pexels-photo-11421076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T08:29:40.496Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.4,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/world/-families-no-longer-gather-war-overshadows-eid-al-adha-in-south-lebanon/3949449",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17798548819852yhyq",
         "title": "Trump Destekli Paxton, Teksas Ön Seçimlerinde Senatör Cornyn'i Mağlup Etti",
         "summary": "Teksas'ta yapılan ön seçimlerde, eski Başkan Donald Trump'ın desteklediği Ken Paxton, Cumhuriyetçi Parti'den Senatör John Cornyn'i mağlup etti. Bu sonuçla Paxton, Kasım ayında yapılacak genel seçimlerde Teksas eyaletini temsilen ABD Senatosu için yarışacak. Kasım ayındaki bu seçim, ABD Senatosu'nun kontrolünü belirleyebilecek kritik öneme sahip yarışlardan biri olarak değerlendirilmektedir. Senato'nun kontrolündeki olası bir değişim, ABD'nin dış politikası ve Orta Doğu'ya yönelik stratejileri üzerinde önemli etkiler yaratabilir.",
@@ -668,134 +796,6 @@
             "name": "Manama, Bahreyn"
         },
         "source": "https://www.aa.com.tr/en/eurasia/putin-bahrain-king-reaffirm-cooperation-call-for-diplomatic-solution-to-iran-crisis/3948098",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779713522214t04sf",
-        "title": "İran Merkez Bankası Başkanı, Dondurulmuş Fon Görüşmeleri Sonrası Katar'ı Ziyaret Etti",
-        "summary": "İran Merkez Bankası Başkanı, dondurulmuş fonlar üzerine yapılan görüşmelerin ardından Katar'a resmi bir ziyarette bulundu. İran devlet medyasına göre, bu ziyaret Katar heyeti ile Tahran'da gerçekleştirilen son müzakerelerin devamı niteliğinde. Görüşmelerin ana gündem maddesini İran'ın yurt dışındaki dondurulmuş varlıkları oluşturuyor. Bu ziyaret, iki ülke arasındaki ekonomik ve diplomatik ilişkilerin geliştirilmesi ve mali konuların çözüme kavuşturulması çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7644069/pexels-photo-7644069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T12:52:02.214Z",
-        "location": {
-            "lat": 25.28,
-            "lng": 51.53,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-central-bank-chief-visits-qatar-following-talks-on-frozen-funds/3948074",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "177970035895211cdc",
-        "title": "Hacılar Mekke'de Tavaf Yaparken Zaman Atlamalı Görüntüler Yayımlandı",
-        "summary": "Her yıl düzenlenen Hac ibadeti için dünyanın dört bir yanından Müslümanlar Suudi Arabistan'da bir araya geliyor. Kutsal şehir Mekke'de toplanan milyonlarca hacı adayı, ibadetlerini yerine getirmeye başladı. Yayımlanan zaman atlamalı görüntülerde, hacıların Kabe etrafında tavaf ibadetini gerçekleştirdiği anlar gözler önüne serildi. İslam'ın beş şartından biri olan Hac, küresel Müslüman toplumu için büyük bir manevi öneme sahip. Suudi Arabistan yetkilileri, hacıların güvenliği ve ibadetlerini sorunsuz bir şekilde yerine getirebilmeleri için geniş çaplı önlemler aldı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36954377/pexels-photo-36954377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:12:38.952Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/25/timelapse-shows-hajj-pilgrims-performing-tawaf-in-mecca?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1779700383137nb5x6",
-        "title": "Trump: ABD, İran ile Anlaşma İçin Acele Etmiyor, İyimserlik Azaldı",
-        "summary": "ABD Başkanı Donald Trump, İran ile bir anlaşma imzalamak konusunda aceleci olmadıklarını ifade etti. Bu açıklama, taraflar arasında potansiyel bir anlaşmaya yönelik iyimserliği azalttı. İran medyası, bazı kilit konularda devam eden anlaşmazlıklar nedeniyle bir anlaşmaya varılamayabileceğini aktarıyor. Müzakerelerin kritik aşamalarında önemli pürüzlerin sürdüğü belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7734571/pexels-photo-7734571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:13:03.137Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17797004211905mts2",
-        "title": "Rubio: 'Sağlam' İran Anlaşması Pazartesi Günü Gelebilir",
-        "summary": "ABD'li Senatör Marco Rubio, Pazartesi günü 'sağlam' bir İran anlaşmasının yapılabileceğini ifade etti. ABD medya raporlarına göre, müzakere edilen anlaşma 60 günlük bir ateşkes uzatmasını içeriyor. Bu ateşkes süresi boyunca, küresel enerji ticareti için kritik öneme sahip Hürmüz Boğazı'nın yeniden ulaşıma açılması planlanıyor. Anlaşmanın detayları ve tarafları hakkında henüz net bir bilgi bulunmamakla birlikte, bölgedeki gerilimi azaltma potansiyeli taşıdığı değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6037021/pexels-photo-6037021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:13:41.190Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17797004438323o1im",
-        "title": "Suudi Arabistan'ın Harcama Çılgınlığı Sona mı Erdi?",
-        "summary": "Suudi Arabistan'ın Veliaht Prensi Muhammed bin Salman liderliğindeki iddialı Vizyon 2030 projesi, başlangıçta bilim kurgu filmlerini andıran hedeflerle dikkat çekmişti. Ülkenin petrol bağımlılığını azaltmayı ve ekonomiyi çeşitlendirmeyi amaçlayan bu devasa plan, şimdi gerçekliğin zorluklarıyla yüzleşiyor. Projenin finansmanında ve uygulanmasında karşılaşılan engeller, Suudi Arabistan'ın büyük ölçekli harcama stratejilerinin sürdürülebilirliği konusunda soru işaretleri yaratıyor. Bu durum, Vizyon 2030'un geleceği ve ülkenin ekonomik dönüşüm hedefleri üzerinde önemli etkiler yaratabilir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:14:03.832Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779700467902mxvok",
-        "title": "Trump, ABD müzakerecilerine İran ile anlaşma konusunda 'acele etmemeleri' talimatı verdi",
-        "summary": "ABD medyasına göre, ABD Başkanı Donald Trump, Amerikalı müzakerecilere İran ile yapılacak bir anlaşma konusunda aceleci davranmamaları yönünde talimat verdi. Görüşülen anlaşmanın, Hürmüz Boğazı'nın yeniden açılmasını içeren 60 günlük bir ateşkes uzatmasını kapsadığı belirtiliyor. Bu durum, Orta Doğu'daki diplomatik çabaların seyrini ve uluslararası deniz ticaretinin güvenliğini yakından ilgilendiriyor. Trump'ın bu talimatı, bölgedeki gerilimin azaltılmasına yönelik potansiyel adımların zamanlaması ve içeriği hakkında önemli ipuçları sunuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7876052/pexels-photo-7876052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:14:27.902Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779700490928jpfgv",
-        "title": "Gazze filosu aktivistleri gözaltında İsrail güçleri tarafından istismara uğradıklarını iddia etti",
-        "summary": "Gazze filosu aktivistleri, İsrail güçleri tarafından gözaltında tutuldukları sırada kötü muameleye maruz kaldıklarını iddia etti. Gözaltına alınanlar, tokatlandıklarını, dövüldüklerini, aşağılandıklarını ve hatta cinsel şiddete uğradıklarını belirtti. Bu iddialar, uluslararası insan hakları örgütlerinin dikkatini çekebilir. Ancak İsrail Cezaevi Servisi, söz konusu iddiaların asılsız olduğunu ve gerçeği yansıtmadığını açıkladı. Olayla ilgili bağımsız bir soruşturma yapılıp yapılmayacağı henüz netlik kazanmadı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11902475/pexels-photo-11902475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:14:50.928Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1779700516930m9n9d",
-        "title": "İsrail Askeri Güney Lübnan'da Hayatını Kaybetti",
-        "summary": "İsrail ordusu, güney Lübnan'da devam eden sınır ötesi çatışmalarda bir İsrail askerinin hayatını kaybettiğini duyurdu. Olayda bir başka askerin de yaralandığı belirtildi. Gelen haberler, bu olayın Lübnan merkezli Hizbullah'ın insansız hava aracı (İHA) saldırısıyla bağlantılı olduğunu öne sürüyor. Bu gelişme, İsrail-Lübnan sınır hattındaki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7176127/pexels-photo-7176127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T09:15:16.930Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-killed-in-southern-lebanon-amid-continued-cross-border-hostilities/3947902",
         "trendScore": 85,
         "isBreaking": false
     }
