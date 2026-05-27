@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779906521846jdr4h",
+        "title": "ABD ve İran'dan Anlaşma Konusunda Çelişkili Açıklamalar: Trump Yaptırım İndirimi Yok Dedi",
+        "summary": "ABD ve İran arasında potansiyel bir anlaşmaya ilişkin çelişkili raporlar gelmeye devam ederken, eski ABD Başkanı Donald Trump'tan yaptırım indirimi olmayacağına dair bir açıklama geldi. Trump, İran'ın kendisini 'bekleyemeyeceğini' belirterek, Washington'ın Tahran'ın anlaşma tekliflerinden memnun olmadığını ima etti. Bu durum, iki ülke arasındaki müzakerelerin mevcut durumunu ve ABD'nin İran'a yönelik 'maksimum baskı' politikasının devam ettiğini gösteriyor. ABD'nin yaptırımları kaldırma konusundaki isteksizliği ve İran'ın tekliflerinin yetersiz bulunması, taraflar arasındaki gerilimi sürdürmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6918529/pexels-photo-6918529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T18:28:41.846Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779906596951q4a3z",
+        "title": "Yapay Zeka Yarışı Yeni Bir Patlamayı mı Yoksa Yeni Bir Balonu mu Tetikleyecek?",
+        "summary": "Yapay zeka sektöründeki dev şirketler, değerlemeleri hızla yükselirken halka arz için yarışıyor. Bu durum, sektörde yeni bir ekonomik büyüme dönemi mi başlatacak yoksa potansiyel bir balonun habercisi mi olduğu sorularını gündeme getiriyor. Küresel piyasalar, yapay zeka teknolojilerine yapılan yatırımların sürdürülebilirliğini ve bu şirketlerin gerçek değerini yakından takip ediyor. Analistler, bu hızlı yükselişin uzun vadeli etkilerini değerlendirerek, yatırımcıları olası riskler ve fırsatlar konusunda uyarıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/30869149/pexels-photo-30869149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T18:29:56.951Z",
+        "location": {
+            "lat": 0,
+            "lng": 0,
+            "name": "Küresel"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779906619970f35j3",
+        "title": "İsrail, Güney Lübnan'daki Sur Şehrini Vurdu",
+        "summary": "İsrail ordusu, Lübnan'ın güneyindeki Sur (Tyre) şehrine saldırı düzenlediğini duyurdu. Açıklamada, bölge sakinlerine Hizbullah'a karşı \"güçlü bir şekilde hareket edeceği\" uyarısı yapıldıktan sonra Hizbullah hedeflerinin vurulduğu belirtildi. Bu saldırılar, İsrail'in bölgedeki güvenlik endişelerini artırma ve Hizbullah'ın faaliyetlerine karşılık verme çabalarının bir parçası olarak değerlendiriliyor. Bölgedeki gerilimin tırmanmaya devam ettiği gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429604/pexels-photo-7429604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T18:30:19.970Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1779897176286liiqb",
         "title": "İsrail Saldırısında Hayatını Kaybettiği Belirtilen 'Hamas Lideri' İçin Cenaze Töreni Düzenlendi",
         "summary": "Hamas'ın askeri kanadının lideri olduğuna inanılan Mohammed Odeh için bir cenaze töreni gerçekleştirildi. Odeh'in, İsrail güçleri tarafından düzenlenen bir saldırıda hayatını kaybettiği bildirildi. Bu olay, İsrail ile Filistinli gruplar arasındaki gerilimin devam ettiği bir dönemde yaşandı. Cenaze törenine Odeh'in ailesi ve çok sayıda kişi katılırken, bölgedeki güvenlik durumu yakından takip ediliyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1779731176595y0d3r",
-        "title": "1,5 Milyondan Fazla Hacı, Bölgesel Gerilimlerin Ortasında Hac İbadetine Başladı",
-        "summary": "Suudi Arabistan'da 1,5 milyondan fazla hacı, İslam'ın beş şartından biri olan Hac ibadetine başladı. Mekke'de gerçekleşen bu kutsal yolculuk, dünyanın dört bir yanından gelen Müslümanları bir araya getiriyor. Hacılar, bu ibadeti hem ruhsal hem de fiziksel açıdan zorlayıcı bir deneyim olarak tanımlıyor. Katılımcılar, Hac'ın kendileri için dönüştürücü ve derin anlamlar taşıyan bir yolculuk olduğunu ifade ediyor. Bölgedeki mevcut gerilimlere rağmen, milyonlarca hacının katılımıyla ibadetin sorunsuz bir şekilde devam etmesi hedefleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/26436662/pexels-photo-26436662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T17:46:16.595Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/5/25/over-1-5-million-pilgrims-begin-hajj-amid-regional-tensions?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1779731197263jflup",
-        "title": "Hac İbadetinde Teknolojinin Rolü Artıyor",
-        "summary": "Bu yıl yaklaşık iki milyon hacının katıldığı Hac ibadetinde teknolojinin kritik bir rol oynadığı belirtildi. Hac organizatörleri, ibadetin sorunsuz bir şekilde ilerlemesi ve hacıların deneyiminin iyileştirilmesi amacıyla çeşitli teknolojik çözümlerden faydalanıyor. Kalabalık yönetimi, sağlık hizmetleri, ulaşım ve iletişim gibi alanlarda kullanılan bu teknolojiler, milyonlarca Müslümanın kutsal yolculuklarını daha güvenli ve verimli bir şekilde tamamlamasına yardımcı oluyor. Bu gelişmeler, Hac deneyimini modern çağın gerekliliklerine uygun hale getiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/28209449/pexels-photo-28209449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T17:46:37.263Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/25/how-technology-is-shaping-hajj?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779724382092jfdcw",
-        "title": "Trump, İran Müzakerelerini İbrahim Anlaşmaları'nın Genişletilmesiyle İlişkilendiriyor",
-        "summary": "Eski ABD Başkanı Donald Trump, İran ile yürütülen müzakereler ile İbrahim Anlaşmaları'nın genişletilmesi arasında bir bağlantı kurduğunu belirtti. Trump'ın bu açıklaması, Orta Doğu'daki diplomatik süreçlerin ve bölgesel normalleşme çabalarının karmaşık yapısını gözler önüne seriyor. Bu stratejik bağlantı, hem İran'ın nükleer programı ve bölgesel etkisiyle ilgili görüşmeleri hem de İsrail ile Arap ülkeleri arasındaki ilişkilerin normalleşmesini aynı çerçevede değerlendirme potansiyelini taşıyor. Bu durum, gelecekteki Orta Doğu politikalarında önemli bir etken olarak görülebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T15:53:02.092Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
