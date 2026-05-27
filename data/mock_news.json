@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779921788804x72xj",
+        "title": "Piyasalar ABD-İran Anlaşması Umutlarıyla Yükselişe Geçti",
+        "summary": "ABD ile İran arasında potansiyel bir anlaşmaya dair beklentiler, küresel piyasalarda önemli bir yükselişe neden oldu. Piyasalar, böyle bir anlaşmanın stratejik öneme sahip Hürmüz Boğazı'nın yeniden açılmasını sağlayarak küresel ekonomik belirsizliği azaltacağına inanıyor. Bu durum, özellikle enerji piyasaları üzerindeki gerilimi hafifletebilir ve uluslararası petrol ticaretinin güvenliğini artırabilir. Anlaşmanın gerçekleşmesi halinde, bölgedeki jeopolitik risklerin azalması ve petrol akışının güvence altına alınması bekleniyor, bu da küresel ekonomiye olumlu yansıyacaktır.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8709582/pexels-photo-8709582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T22:43:08.804Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779921891191z4xwo",
+        "title": "Hizbullah İHA Saldırıları Sonrası İsrail Ordusu ABD'ye Yöneldi",
+        "summary": "İsrail ordusunun, Hizbullah'a ait insansız hava araçlarının (İHA) askeri tesisleri hedef almasının ardından ABD'den destek arayışına girdiği bildirildi. Gelen haberlere göre, İsrail kara kuvvetleri komutanının önümüzdeki günlerde ABD'ye bir ziyaret gerçekleştirmesi bekleniyor. Bu ziyaretin ana gündem maddesi, artan İHA tehdidine karşı savunma sistemleri ve ilgili ekipman alımlarını denetlemek olacak. Bölgedeki güvenlik dinamiklerinin değiştiğine işaret eden bu gelişme, İsrail'in yeni nesil tehditlere karşı hazırlıklarını hızlandırdığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6493443/pexels-photo-6493443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T22:44:51.191Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-turns-to-us-after-hezbollah-drones-strike-military-sites-report/3950060",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779921926914e4b2r",
+        "title": "Trump Destekli Barış Kurulu Temsilcileri Gazze'ye İlk Ziyaret İçin Hazırlanıyor: İsrail Yayıncısı",
+        "summary": "İsrail kamu yayıncısının bildirdiğine göre, eski ABD Başkanı Donald Trump tarafından desteklenen Barış Kurulu temsilcileri Gazze Şeridi'ne ilk ziyaretlerini gerçekleştirmeye hazırlanıyor. Barış Kurulu'nun Gazze Yüksek Temsilcisi, bölgeye giriş izni almak amacıyla İsrail ordusuna resmi bir talep iletti. Bu ziyaretin, bölgedeki diplomatik çabalar ve barış süreçleri açısından önemli bir adım olabileceği değerlendiriliyor. Gelişmelerin yakından takip edildiği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-27T22:45:26.914Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-backed-board-of-peace-representatives-preparing-for-1st-visit-to-gaza-israeli-broadcaster/3950043",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1779914225049365f1",
         "title": "İnternet Kesintisinin Sona Ermesiyle İranlılar Rahatladı",
         "summary": "İran hükümeti, Şubat ayında ABD ve İsrail ile başlayan savaşın ardından ülke genelinde internet erişimini kesmişti. Bu kesinti, çoğu İranlıyı dış dünyadan izole ederek bilgi akışını engellemişti. İnternet yasağının sona ermesiyle birlikte, İranlılar arasında büyük bir rahatlama yaşandığı bildiriliyor. Vatandaşlar, bu durumu 'hapisten çıkmak' olarak nitelendirirken, kesintinin kaldırılması iletişim ve bilgiye erişim özgürlüğü açısından önemli bir gelişme olarak değerlendiriliyor.",
@@ -748,54 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/world/canada-s-prime-minister-tells-israeli-president-investigation-of-flotilla-incident-needed/3948489",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779754224227vuheo",
-        "title": "İran Cumhurbaşkanı, internet erişiminin protesto öncesi seviyeye geri getirilmesi talimatı verdi: Rapor",
-        "summary": "İran Cumhurbaşkanı'nın, ülkedeki internet erişiminin protestolar öncesindeki seviyeye geri döndürülmesi yönünde talimat verdiği bildirildi. Bu karar, Aralık sonu ve Ocak aylarında ülke genelinde yaşanan ve artan ekonomik baskılar nedeniyle patlak veren geniş çaplı protestoların ardından geldi. Protestolar sırasında internet erişiminde kısıtlamalar uygulandığı biliniyordu. Söz konusu talimat, internet kısıtlamalarının kaldırılması ve normalleşme adımı olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/27086784/pexels-photo-27086784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-26T00:10:24.227Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-president-orders-restoration-of-internet-access-to-pre-protest-level-report/3948378",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17797485543887cz6i",
-        "title": "Trump, Anma Günü'nde İran'a karşı savaşta ölen ABD askerlerini andı",
-        "summary": "ABD Başkanı Donald Trump, Anma Günü dolayısıyla Arlington Ulusal Mezarlığı'nda düzenlenen törene katıldı. Trump, burada hayatını kaybeden ABD askerlerini andı. Haberin başlığına göre, bu anma, İran'a karşı savaşta yaşamını yitiren ABD askerlerine yönelikti. Bu durum, ABD'nin İran politikaları ve bölgedeki askeri varlığına ilişkin tartışmaları yeniden gündeme getirebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T22:35:54.388Z",
-        "location": {
-            "lat": 38.8793,
-            "lng": -77.0687,
-            "name": "Arlington, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-pays-tribute-to-us-troops-killed-in-war-on-iran-on-memorial-day?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779743607316ebwpw",
-        "title": "İsrail, Lübnan'daki Hizbullah'a Yönelik Saldırılarını Yoğunlaştıracağını Duyurdu",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkesinin Lübnan'daki Hizbullah'a yönelik saldırılarını \"yoğunlaştıracağını\" açıkladı. İsrail ordusu da yaptığı açıklamada, Lübnan'daki silahlı grubu hedef aldığını belirtti. Bu hamle, İsrail'in Hizbullah'ı \"ezme\" amacının bir parçası olarak değerlendiriliyor. Bölgedeki gerilimi tırmandıran bu gelişme, Orta Doğu'daki çatışma dinamiklerini etkileyecek nitelikte.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-25T21:13:27.316Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
