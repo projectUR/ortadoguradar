@@ -1,5 +1,37 @@
 [
     {
+        "id": "17800107471907eh9i",
+        "title": "İrlanda ve Katar, yaklaşan İsrail maçlarına karşı yapılan protestolar nedeniyle iki kez durduruldu",
+        "summary": "İrlanda Cumhuriyeti'nin UEFA Uluslar Ligi'nde İsrail ile iki kez karşılaşması planlanıyor. Ancak, bu maçların boykot edilmesi yönünde güçlü çağrılar yükseliyor. Haber başlığına göre, İrlanda ve Katar'da yaklaşan İsrail maçlarına karşı düzenlenen protestolar nedeniyle iki kez kesinti yaşandı. Bu durum, İsrail'in spor etkinliklerine katılımına yönelik önemli bir kamuoyu muhalefetini ve bunun yol açtığı aksaklıkları gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8635700/pexels-photo-8635700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-28T23:25:47.190Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1780010846007pgym1",
+        "title": "İsrail, cinsel şiddet nedeniyle kara listeye alınmasının ardından BM Genel Sekreteri'nin ofisiyle ilişkilerini kesti",
+        "summary": "Birleşmiş Milletler Genel Sekreteri'nin ofisi, İsrail'i cinsel şiddet iddiaları nedeniyle kara listeye aldı. Bu karar, İsrail ordusunun cinsel şiddet eylemlerinde bulunduğuna dair medya ve insan hakları gruplarından gelen çok sayıda raporun ardından alındı. İsrail Dışişleri Bakanlığı, bu gelişme üzerine BM Genel Sekreteri'nin ofisiyle tüm ilişkilerini kestiğini duyurdu. Tel Aviv'in kara listeye alınması, uluslararası arenada önemli bir diplomatik gerilime yol açtı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-28T23:27:26.007Z",
+        "location": {
+            "lat": 32,
+            "lng": 34.8,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-severs-ties-with-un-chiefs-office-after-being-blacklisted-for-sexual-violence/3950759",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "177999706079099igk",
         "title": "İsrail Başbakanı Netanyahu'dan Orduya Gazze Şeridi'nin Yüzde 70'ini Ele Geçirme Talimatı",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, orduya Gazze Şeridi'nin yüzde 70'ini ele geçirme talimatı verdiği bildirildi. Haberlere göre, İsrail ordusu halihazırda 'Sarı Hat' olarak adlandırılan bölgenin ötesine geçerek Gazze üzerindeki kontrolünü yüzde 11 oranında genişletti. Bu genişlemenin, mevcut ateşkes koşullarının dışına çıktığı belirtiliyor. Gelişmeler, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda endişelere yol açabilir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/-families-no-longer-gather-war-overshadows-eid-al-adha-in-south-lebanon/3949449",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17798548819852yhyq",
-        "title": "Trump Destekli Paxton, Teksas Ön Seçimlerinde Senatör Cornyn'i Mağlup Etti",
-        "summary": "Teksas'ta yapılan ön seçimlerde, eski Başkan Donald Trump'ın desteklediği Ken Paxton, Cumhuriyetçi Parti'den Senatör John Cornyn'i mağlup etti. Bu sonuçla Paxton, Kasım ayında yapılacak genel seçimlerde Teksas eyaletini temsilen ABD Senatosu için yarışacak. Kasım ayındaki bu seçim, ABD Senatosu'nun kontrolünü belirleyebilecek kritik öneme sahip yarışlardan biri olarak değerlendirilmektedir. Senato'nun kontrolündeki olası bir değişim, ABD'nin dış politikası ve Orta Doğu'ya yönelik stratejileri üzerinde önemli etkiler yaratabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4669115/pexels-photo-4669115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T04:08:01.985Z",
-        "location": {
-            "lat": 31,
-            "lng": -99,
-            "name": "Teksas, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/27/trump-backed-paxton-topples-senator-cornyn-in-texas-primary-run-off?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17798549051242n9tq",
-        "title": "ISIL Bağlantılı Olduğu İddia Edilen Kadın ve Çocuklar Avustralya'ya Döndü",
-        "summary": "Terör örgütü ISIL ile bağlantılı olduğu iddia edilen bir grup kadın ve çocuk, Avustralya'ya geri döndü. Avustralya Federal Polisi, söz konusu kişiler hakkında henüz herhangi bir tutuklama yapmadığını ancak soruşturmaların devam ettiğini bildirdi. Bu gelişme, Orta Doğu'daki çatışma bölgelerinden dönen kişilerin ulusal güvenlik üzerindeki potansiyel etkilerini bir kez daha gündeme getirdi. Avustralya makamları, bu kişilerin geçmişteki faaliyetlerini ve ülkeye dönüşlerinin güvenlik risklerini titizlikle değerlendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9995973/pexels-photo-9995973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T04:08:25.124Z",
-        "location": {
-            "lat": -25.2744,
-            "lng": 133.7751,
-            "name": "Avustralya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/27/group-of-women-and-children-with-alleged-isil-ties-returns-to-australia?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
