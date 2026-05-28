@@ -1,5 +1,53 @@
 [
     {
+        "id": "1779987329915zo12q",
+        "title": "İsrail Saldırısı Sonrası Beyrut Üzerinde Duman Yükseldi",
+        "summary": "Lübnan'ın başkenti Beyrut'ta İsrail tarafından düzenlenen bir saldırının ardından şehrin güney kesimlerinde yoğun dumanların yükseldiği bildirildi. Görüntülerde, saldırının etkisiyle oluşan dumanların gökyüzünü kapladığı görüldü. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının detaylarına ilişkin henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin tırmanmasına neden olan bu gelişme, uluslararası kamuoyunda yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17885542/pexels-photo-17885542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-28T16:55:29.915Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1779987420394tg6i8",
+        "title": "İsrail, Netanyahu'nun Danışmanını Gizli Bilgi Sızdırmaktan Suçladı",
+        "summary": "İsrail'de Başbakan Binyamin Netanyahu'nun danışmanlarından Yonatan Urich hakkında gizli bilgileri bir Alman gazetesine sızdırdığı iddiasıyla iddianame hazırlandı. Bu gelişme, İsrail siyasetinde önemli yankı uyandırdı ve bazı İsrailli bakanlar tarafından tepkilere neden oldu. İddianamenin açıklanmasının ardından, ülkenin iç siyasetinde gerilim yaşandığı belirtildi. Olay, bilgi sızdırma iddialarının ulusal güvenlik ve istihbarat çevrelerinde de tartışmalara yol açtığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4194856/pexels-photo-4194856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-28T16:57:00.394Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-indicts-netanyahus-adviser-over-leaking-secret-information-to-german-daily-report/3950682",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1779987445395vkab4",
+        "title": "ABD ve İran Arasında Geçici Ateşkes Anlaşması İddiası: Trump'ın Onayı Bekleniyor",
+        "summary": "Axios'un haberine göre, Amerika Birleşik Devletleri ve İran arasında geçici bir ateşkes anlaşmasına varıldığı öne sürüldü. Anlaşmanın, ABD Başkanı Donald Trump'ın onayını beklediği belirtildi. Önerilen 60 günlük çerçeve anlaşmasının, stratejik Hürmüz Boğazı'nın yeniden açılmasını içerdiği ifade edildi. Ayrıca, iki ülke arasındaki nükleer müzakereler için de bir çerçeve sunulduğu kaydedildi. Bu gelişme, bölgedeki gerilimi azaltma ve diplomatik çözüm arayışlarına ivme kazandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-28T16:57:25.395Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-iran-reach-tentative-ceasefire-trumps-approval-pending-report/3950648",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1779971443032sykt5",
         "title": "İran, Dünya Kupası Kadrosu İçin ABD'den Çoklu Giriş Vizesi Talep Etti",
         "summary": "İran, Dünya Kupası'na katılacak futbol takımı kadrosu için Amerika Birleşik Devletleri'nden çoklu giriş vizesi talep ettiğini duyurdu. İran heyeti, grup aşamasındaki üç maç için ABD'ye seyahat edecek olsa da, turnuva süresince Meksika'nın Tijuana kentinde konaklayacak. Bu talep, İranlı sporcuların ABD'ye sorunsuz giriş çıkış yapabilmesi ve lojistik süreçlerin kolaylaştırılması açısından önem taşıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779834300515bbjls",
-        "title": "Dağcı, Filistinli Çocukların Hayallerini Taşıyan Uçurtmayı Everest Zirvesi'ne Çıkardı",
-        "summary": "Bir dağcı, Filistinli çocukların umutlarını ve hayallerini temsil eden sembolik bir uçurtmayı dünyanın en yüksek zirvesi olan Everest Dağı'na taşıdı. Bu özel eylem, Filistinli çocukların yaşadığı zorluklara rağmen hayallerini canlı tutma mesajını uluslararası kamuoyuna iletmeyi amaçlıyor. Dağcı, bu girişimle Filistinli çocukların durumuna dikkat çekmeyi ve onların geleceğe dair dileklerine destek olmayı hedefledi. Bu sembolik tırmanış, küresel farkındalığı artırma çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5005214/pexels-photo-5005214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-26T22:25:00.515Z",
-        "location": {
-            "lat": 27.9861,
-            "lng": 86.9226,
-            "name": "Everest Dağı, Nepal"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17798290291115n1dc",
-        "title": "ABD ve İran Arasında Anlaşma Arayışları ve Yaptırım Tartışmaları",
-        "summary": "Amerika Birleşik Devletleri ile İran arasında daha kapsamlı bir anlaşmaya varılması yönünde adımlar atıldığı belirtiliyor. Ancak, taraflar arasında yaptırımların hafifletilmesi konusundaki anlaşmazlıklar devam ediyor. Eski ABD Başkanı Trump döneminde İran ile yapılan bir 'ateşkes anlaşmasının' (muhtemelen nükleer anlaşmaya atıf) etkinliği ve sunuluş biçimi de tartışma konusu olmaya devam ediyor. İki ülke arasındaki ilişkilerin geleceği, yaptırım muafiyetleri üzerindeki müzakerelerin seyrine bağlı olacak.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36729942/pexels-photo-36729942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-26T20:57:09.111Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1779829113122or5xe",
-        "title": "Sudan ordusu Mavi Nil eyaletinde 3 bölgeyi ele geçirdiğini duyurdu",
-        "summary": "Sudan ordusu, ülkenin güneydoğusundaki Mavi Nil eyaletinde üç bölgeyi ele geçirdiğini açıkladı. Ordu tarafından yapılan açıklamada, bu bölgelerin Hızlı Destek Kuvvetleri (RSF) ve Sudan Halk Kurtuluş Hareketi-Kuzey (SPLM-N) savaşçılarıyla yaşanan çatışmaların ardından kontrol altına alındığı belirtildi. Askeri yetkililer, operasyonlar sırasında çok sayıda savaş aracına el konulduğunu ifade etti. Bu gelişmeler, Sudan'da devam eden iç çatışmaların ve bölgesel istikrarsızlığın bir göstergesi olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-26T20:58:33.122Z",
-        "location": {
-            "lat": 11.77,
-            "lng": 34.35,
-            "name": "Ad-Damazin, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-says-it-captured-3-areas-in-blue-nile-state/3949332",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
