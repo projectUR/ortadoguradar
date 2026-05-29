@@ -1,5 +1,53 @@
 [
     {
+        "id": "17800866137702zykt",
+        "title": "Netanyahu: İsrail Güçleri Lübnan'daki Litani Nehri'ni Geçti",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail güçlerinin güney Lübnan'daki Litani Nehri'ni geçtiğini duyurdu. Bu açıklama, bölgedeki askeri hareketliliğin arttığını ve İsrail ile Lübnan arasındaki gerilimin tırmanma potansiyeli taşıdığını gösteriyor. Litani Nehri, Lübnan'ın stratejik öneme sahip coğrafi noktalarından biri olarak kabul edilmektedir. Sınır ötesi bu tür bir askeri operasyon, bölgedeki güvenlik dinamikleri açısından kritik bir gelişme olarak değerlendirilmektedir. Uluslararası toplum ve bölge ülkeleri, gelişmeleri yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163490/war-desert-guns-gunshow-163490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T20:30:13.771Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/29/netanyahu-says-israeli-forces-have-crossed-lebanons-litani-river?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1780086649931d4n9q",
+        "title": "Trump, İran Anlaşması İçin Durum Odası'nda",
+        "summary": "ABD Başkanı Donald Trump'ın, İran ile ilgili bir anlaşma hakkında \"nihai bir karar\" vermek üzere Beyaz Saray'daki Durum Odası'na gittiği bildirildi. Trump, bu önemli kararı almak için Durum Odası'nda bulunduğunu belirtti. Bu gelişme, İran ile uluslararası ilişkilerdeki gelecekteki seyrini belirleyebilecek kritik bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7640793/pexels-photo-7640793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T20:30:49.931Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780086703184804sn",
+        "title": "Netanyahu: IDF'ye Gazze'nin %70'ini Kontrol Altına Alma Talimatı Verdim",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail Savunma Kuvvetleri'ne (IDF) Gazze Şeridi'nin yüzde 70'ini kontrol altına alma talimatı verdiğini duyurdu. Bu açıklama, İsrail'in Gazze üzerindeki askeri varlığını önemli ölçüde genişletme niyetini ortaya koyuyor. Ancak, bu tür bir kontrol genişlemesinin, İsrail ile Hamas arasında Ekim 2025'te varılan ateşkes anlaşmasının şartlarına aykırı olacağı belirtiliyor. Söz konusu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor ve ateşkesin geleceği hakkında soru işaretleri yaratıyor. Bu durum, Orta Doğu'daki güvenlik ve istikrar açısından önemli sonuçlar doğurabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T20:31:43.184Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1780076146915iv7cn",
         "title": "Trump'tan Olası İran Anlaşması Hakkında 'Nihai Karar' Açıklaması",
         "summary": "ABD'nin eski başkanı Donald Trump, İran ile olası bir anlaşmaya ilişkin \"nihai kararın\" yakında verileceğini duyurdu. Washington ile Tahran arasında derin bir güvensizlik ortamı devam ederken, İran'ın baş müzakerecisi tarafları sadece sözlerle değil, somut adımlarla ilerlemeye çağırdı. Bu açıklama, iki ülke arasındaki gerilimli ilişkilerin ve nükleer anlaşma etrafındaki belirsizliğin sürdüğünü bir kez daha gözler önüne serdi. Anlaşmanın geleceği ve tarafların tutumu, bölgesel ve küresel diplomasi açısından kritik önem taşıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1779897176286liiqb",
-        "title": "İsrail Saldırısında Hayatını Kaybettiği Belirtilen 'Hamas Lideri' İçin Cenaze Töreni Düzenlendi",
-        "summary": "Hamas'ın askeri kanadının lideri olduğuna inanılan Mohammed Odeh için bir cenaze töreni gerçekleştirildi. Odeh'in, İsrail güçleri tarafından düzenlenen bir saldırıda hayatını kaybettiği bildirildi. Bu olay, İsrail ile Filistinli gruplar arasındaki gerilimin devam ettiği bir dönemde yaşandı. Cenaze törenine Odeh'in ailesi ve çok sayıda kişi katılırken, bölgedeki güvenlik durumu yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8865139/pexels-photo-8865139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T15:52:56.286Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779897198740cr6bd",
-        "title": "Mogadişu'da Bayram Kutlamaları ve Toplumsal Toparlanma",
-        "summary": "Somali'nin başkenti Mogadişu, son yıllarda şehri derinden etkileyen şiddet dalgalarının ardından Kurban Bayramı'nı dualar, aile yemekleri ve çeşitli sosyal etkinliklerle kutlamak üzere bir araya geldi. Halk, on yıllardır süren çatışmaların gölgesinden yavaş yavaş çıkmaya çalışırken, bayram kutlamaları toplumsal normalleşme ve dayanışmanın önemli bir göstergesi oldu. Şehir sakinleri, camilerde bayram namazı kılarak ve aileleriyle bir araya gelerek geleneksel bayram coşkusunu yaşadı. Bu kutlamalar, Mogadişu'nun geleceğe yönelik umutlarını ve toplumsal bağlarını güçlendirme çabalarını yansıtıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9127752/pexels-photo-9127752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T15:53:18.740Z",
-        "location": {
-            "lat": 2,
-            "lng": 45.3,
-            "name": "Mogadishu, Somalia"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/5/27/mogadishu-gathers-for-eid-with-prayers-family-meals-and-outings?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17798972194519zaqz",
-        "title": "Müslümanlar Dünya Genelinde Kurban Bayramı'nı Kutluyor",
-        "summary": "Kurban Bayramı, dünya genelindeki Müslümanlar tarafından kutlanmaya başlandı. Bu mübarek bayram, İslam'ın beş şartından biri olan Hac ibadetiyle aynı döneme denk gelmektedir. Bu yıl 1.7 milyondan fazla hacı adayı, manevi tatmin arayışıyla Suudi Arabistan'da bir araya geldi. Hac ibadeti, Müslümanlar için büyük bir öneme sahip olup, her yıl milyonlarca kişiyi kutsal topraklara çekmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/28209449/pexels-photo-28209449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T15:53:39.451Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/5/27/muslims-worldwide-celebrate-eid-al-adha-the-festival-of-sacrifice?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
