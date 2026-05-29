@@ -1,5 +1,37 @@
 [
     {
+        "id": "1780076146915iv7cn",
+        "title": "Trump'tan Olası İran Anlaşması Hakkında 'Nihai Karar' Açıklaması",
+        "summary": "ABD'nin eski başkanı Donald Trump, İran ile olası bir anlaşmaya ilişkin \"nihai kararın\" yakında verileceğini duyurdu. Washington ile Tahran arasında derin bir güvensizlik ortamı devam ederken, İran'ın baş müzakerecisi tarafları sadece sözlerle değil, somut adımlarla ilerlemeye çağırdı. Bu açıklama, iki ülke arasındaki gerilimli ilişkilerin ve nükleer anlaşma etrafındaki belirsizliğin sürdüğünü bir kez daha gözler önüne serdi. Anlaşmanın geleceği ve tarafların tutumu, bölgesel ve küresel diplomasi açısından kritik önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5922542/pexels-photo-5922542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T17:35:46.915Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780076182922xmsas",
+        "title": "ABD Başkan Yardımcısı Vance: ABD ve İran Anlaşmaya Yönelik Önemli İlerleme Kaydetti",
+        "summary": "ABD Başkan Yardımcısı JD Vance, Washington ve Tahran yönetimleri arasında bir ateşkes anlaşmasına yönelik \"önemli ilerleme\" kaydedildiğini duyurdu. Vance'ın açıklamaları, ABD ve İran arasındaki uzun süredir devam eden gerilimi azaltma çabalarında potansiyel bir dönüm noktasına işaret ediyor. Bu gelişmeler, bölgesel istikrarın sağlanması ve diplomatik çözüm arayışları açısından kritik öneme sahip. Taraflar arasındaki müzakerelerin olumlu yönde ilerlediği belirtilirken, anlaşmanın detayları hakkında henüz bilgi verilmedi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T17:36:22.922Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780062414326rwg67",
         "title": "İsrail'in Gazze'deki Kontrol Planı Almanya'da Endişe Yarattı",
         "summary": "İsrail'in Gazze Şeridi'ndeki kontrolünü genişletme yönündeki planları, Almanya'da ciddi endişelere neden oldu. Berlin'den gelen açıklamalar, Almanya'nın İsrail'e yönelik dış politikasında önemli bir değişime işaret ediyor. Almanya, uzun süredir İsrail'in en güçlü destekçilerinden biri olarak biliniyordu. Ancak bu son yorumlar, iki ülke arasındaki geleneksel ilişkide bir farklılaşmayı gözler önüne seriyor. Bu durum, Gazze'deki gelişmelerin uluslararası arenadaki yansımalarını ve diplomatik ilişkiler üzerindeki etkilerini ortaya koyuyor.",
@@ -764,38 +796,6 @@
             "name": "Mekke, Suudi Arabistan"
         },
         "source": "https://www.aljazeera.com/gallery/2026/5/27/muslims-worldwide-celebrate-eid-al-adha-the-festival-of-sacrifice?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779897260906x6zh8",
-        "title": "Bangladeş, 'İran Savaşı'nın Ekonomik Etkileri Nedeniyle IMF'den Yardım İstedi",
-        "summary": "Bangladeş, ekonomisinin 'İran savaşı'nın etkileriyle mücadele etmesi nedeniyle Uluslararası Para Fonu'ndan (IMF) mali yardım talebinde bulundu. Ülke, küresel enerji ve emtia fiyatlarındaki artışlar gibi savaşın yol açtığı ekonomik zorluklarla karşı karşıya. IMF, söz konusu 'İran savaşı'nın küresel borç seviyelerinde önemli bir artışı tetikleyebileceği konusunda uluslararası bir uyarı yayınladı. Bu durum, özellikle gelişmekte olan ülkelerin ekonomik istikrarını tehdit eden bir faktör olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/33175671/pexels-photo-33175671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T15:54:20.906Z",
-        "location": {
-            "lat": 23.8,
-            "lng": 90.4,
-            "name": "Dhaka, Bangladeş"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1779897367216ylscz",
-        "title": "İsrail Mahkemesi Netanyahu'nun Yolsuzluk Davası Duruşmasını İptal Etti",
-        "summary": "İsrail'de bir mahkeme, Başbakan Binyamin Netanyahu'nun yolsuzluk davası duruşmasını iptal etme kararı aldı. Mahkemenin bu kararı, Netanyahu'nun avukatları aracılığıyla yaptığı talep üzerine verildi. İsrail medyasına göre, Netanyahu duruşmanın iptali için \"güvenlik ve diplomatik meselelerle\" meşgul olduğunu gerekçe göstermişti. Bu gelişme, İsrail iç siyasetinde önemli bir gündem maddesi olmaya devam ederken, Başbakan'ın devlet işleri ile hukuki süreçleri arasındaki dengeyi bir kez daha gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16771684/pexels-photo-16771684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T15:56:07.216Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-court-cancels-netanyahus-corruption-trial-hearing/3949779",
         "trendScore": 85,
         "isBreaking": false
     }
