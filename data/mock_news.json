@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780050784355373rr",
+        "title": "Lübnan Başbakanı, İsrail'in tarihi güney şehirlerine yönelik saldırılarını 'toplu cezalandırma' olarak kınadı",
+        "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in ülkenin güneyindeki tarihi şehirlere düzenlediği saldırıları sert bir dille kınadı. Salam, bu saldırıları 'toplu cezalandırma' olarak nitelendirerek uluslararası hukuka aykırı olduğunu belirtti. Başbakan, bölgede acil bir ateşkesin sağlanması çağrısında bulundu. Ayrıca, İsrail güçlerinin Lübnan topraklarından tamamen çekilmesi gerektiğini vurguladı. Bu açıklamalar, Lübnan-İsrail sınırında artan gerilimin ortasında geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T10:33:04.355Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-condemns-israeli-attacks-on-historic-southern-cities-as-collective-punishment-/3950867",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780018370446w4b6s",
         "title": "Lübnan Başbakanı'ndan İsrail'in Askeri Operasyonlarına Sert Kınama",
         "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in Lübnan'daki 'barışçıl insanlara' yönelik askeri saldırısını hiçbir şeyin haklı çıkaramayacağını belirtti. Salam, İsrail'in eylemlerini sert bir dille kınayarak bölgedeki gerilimin tırmandığına dikkat çekti. Bu gelişmeler yaşanırken, İran ve ABD eski Başkanı Donald Trump'ın 60 günlük ateşkes uzatma planına ilişkin henüz bir yorum yapmadığı bildirildi. Bölgedeki çatışmaların devam ettiği ve diplomatik çabaların sürdüğü gözlemleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-claims-it-killed-hamas-military-chief-in-gaza-strike/3949518",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1779870559902ho7g4",
-        "title": "Müslümanlar Kurban Bayramı'nın İlk Gününde Mescid-i Aksa'da Namaz Kıldı",
-        "summary": "Müslümanlar, Kurban Bayramı'nın ilk gününü kutlamak üzere Kudüs'teki Mescid-i Aksa'da bir araya geldi. Binlerce Müslüman, bayram namazını kılmak için kutsal mekana akın ederek ibadetlerini gerçekleştirdi. İslam takvimindeki en önemli dini bayramlardan biri olan Kurban Bayramı, dört gün boyunca dünya genelindeki Müslümanlar tarafından idrak ediliyor. Bu özel gün, ibadetlerin yanı sıra aile ziyaretleri ve yardımlaşma ile geçirilmekte olup, Mescid-i Aksa gibi kutsal mekanlarda yoğun katılıma sahne olmaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11566548/pexels-photo-11566548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T08:29:19.902Z",
-        "location": {
-            "lat": 31.776,
-            "lng": 35.235,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/world/muslims-pray-at-al-aqsa-mosque-to-mark-1st-day-of-eid-al-adha/3949450",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
