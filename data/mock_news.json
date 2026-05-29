@@ -1,5 +1,37 @@
 [
     {
+        "id": "1780092921330rcidp",
+        "title": "BM'den Gazze Açıklaması: \"Yüzde 100'ü Filistinlilere Ait Olmalı\"",
+        "summary": "Birleşmiş Milletler Sözcüsü Stephane Dujarric, Gazze Şeridi'nin tamamının Filistinlilere ait olması gerektiğini ifade etti. Dujarric, bu açıklamasını uluslararası hukukun ve ilgili Birleşmiş Milletler kararlarının temelinde yaptığını belirtti. Sözcü, Gazze'nin gelecekteki statüsüne ilişkin uluslararası toplumun genel tutumunu yansıtan bu görüşün önemine dikkat çekti. Bu açıklama, bölgedeki siyasi tartışmalar ve çözüm arayışları bağlamında değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36038705/pexels-photo-36038705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T22:15:21.330Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780093010799b97z6",
+        "title": "BM: İsrail, Cinsel Şiddeti Önleme Çabalarına Dair Kanıt Sunmadı",
+        "summary": "Birleşmiş Milletler (BM), İsrail'in cinsel şiddeti önleme konusunda herhangi bir çaba gösterdiğine dair \"en ufak bir kanıt\" sunmadığını açıkladı. BM Genel Sekreteri'nin Çatışmalarda Cinsel Şiddet Özel Temsilcisi Pramila Patten, İsrail'in kara listeye alınması sürecinde bu konuda herhangi bir yanıt alamadığını belirtti. Patten, önleyici tedbirlerin esaslı yönüne ilişkin İsrail'den hiçbir geri dönüş almadığını vurguladı. Bu açıklama, İsrail'in çocuklara yönelik ihlallerde bulunan tarafları içeren bir BM listesine dahil edilmesi kararının ardından geldi. BM yetkilileri, İsrail'den bu konudaki iddialara ilişkin somut adımlar beklediklerini ifade etti.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7238309/pexels-photo-7238309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T22:16:50.799Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/world/un-says-israel-did-not-provide-iota-of-evidence-it-took-efforts-to-prevent-sexual-violence-amid-blacklisting/3951454",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17800866137702zykt",
         "title": "Netanyahu: İsrail Güçleri Lübnan'daki Litani Nehri'ni Geçti",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail güçlerinin güney Lübnan'daki Litani Nehri'ni geçtiğini duyurdu. Bu açıklama, bölgedeki askeri hareketliliğin arttığını ve İsrail ile Lübnan arasındaki gerilimin tırmanma potansiyeli taşıdığını gösteriyor. Litani Nehri, Lübnan'ın stratejik öneme sahip coğrafi noktalarından biri olarak kabul edilmektedir. Sınır ötesi bu tür bir askeri operasyon, bölgedeki güvenlik dinamikleri açısından kritik bir gelişme olarak değerlendirilmektedir. Uluslararası toplum ve bölge ülkeleri, gelişmeleri yakından takip ediyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1779906596951q4a3z",
-        "title": "Yapay Zeka Yarışı Yeni Bir Patlamayı mı Yoksa Yeni Bir Balonu mu Tetikleyecek?",
-        "summary": "Yapay zeka sektöründeki dev şirketler, değerlemeleri hızla yükselirken halka arz için yarışıyor. Bu durum, sektörde yeni bir ekonomik büyüme dönemi mi başlatacak yoksa potansiyel bir balonun habercisi mi olduğu sorularını gündeme getiriyor. Küresel piyasalar, yapay zeka teknolojilerine yapılan yatırımların sürdürülebilirliğini ve bu şirketlerin gerçek değerini yakından takip ediyor. Analistler, bu hızlı yükselişin uzun vadeli etkilerini değerlendirerek, yatırımcıları olası riskler ve fırsatlar konusunda uyarıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/30869149/pexels-photo-30869149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T18:29:56.951Z",
-        "location": {
-            "lat": 0,
-            "lng": 0,
-            "name": "Küresel"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779906619970f35j3",
-        "title": "İsrail, Güney Lübnan'daki Sur Şehrini Vurdu",
-        "summary": "İsrail ordusu, Lübnan'ın güneyindeki Sur (Tyre) şehrine saldırı düzenlediğini duyurdu. Açıklamada, bölge sakinlerine Hizbullah'a karşı \"güçlü bir şekilde hareket edeceği\" uyarısı yapıldıktan sonra Hizbullah hedeflerinin vurulduğu belirtildi. Bu saldırılar, İsrail'in bölgedeki güvenlik endişelerini artırma ve Hizbullah'ın faaliyetlerine karşılık verme çabalarının bir parçası olarak değerlendiriliyor. Bölgedeki gerilimin tırmanmaya devam ettiği gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7429604/pexels-photo-7429604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T18:30:19.970Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Sur, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
