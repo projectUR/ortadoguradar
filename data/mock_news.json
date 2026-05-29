@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780018370446w4b6s",
+        "title": "Lübnan Başbakanı'ndan İsrail'in Askeri Operasyonlarına Sert Kınama",
+        "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in Lübnan'daki 'barışçıl insanlara' yönelik askeri saldırısını hiçbir şeyin haklı çıkaramayacağını belirtti. Salam, İsrail'in eylemlerini sert bir dille kınayarak bölgedeki gerilimin tırmandığına dikkat çekti. Bu gelişmeler yaşanırken, İran ve ABD eski Başkanı Donald Trump'ın 60 günlük ateşkes uzatma planına ilişkin henüz bir yorum yapmadığı bildirildi. Bölgedeki çatışmaların devam ettiği ve diplomatik çabaların sürdüğü gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-29T01:32:50.446Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17800107471907eh9i",
         "title": "İrlanda ve Katar, yaklaşan İsrail maçlarına karşı yapılan protestolar nedeniyle iki kez durduruldu",
         "summary": "İrlanda Cumhuriyeti'nin UEFA Uluslar Ligi'nde İsrail ile iki kez karşılaşması planlanıyor. Ancak, bu maçların boykot edilmesi yönünde güçlü çağrılar yükseliyor. Haber başlığına göre, İrlanda ve Katar'da yaklaşan İsrail maçlarına karşı düzenlenen protestolar nedeniyle iki kez kesinti yaşandı. Bu durum, İsrail'in spor etkinliklerine katılımına yönelik önemli bir kamuoyu muhalefetini ve bunun yol açtığı aksaklıkları gözler önüne seriyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/world/muslims-pray-at-al-aqsa-mosque-to-mark-1st-day-of-eid-al-adha/3949450",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1779870580496dpxjt",
-        "title": "Güney Lübnan'da Savaş Kurban Bayramı'nı Gölgede Bıraktı",
-        "summary": "Güney Lübnan'da devam eden çatışmalar ve İsrail saldırıları, bölgedeki Kurban Bayramı kutlamalarını derinden etkiliyor. Sınır köylerinde yaşayan aileler, artan güvenlik endişeleri nedeniyle geleneksel bayram buluşmalarını gerçekleştiremiyor. Bölgedeki belirsizlik, bayram geleneklerinin yeniden şekillenmesine yol açarken, yerel halk bayramı buruk bir atmosferde karşılıyor. Çatışmaların gölgesinde kalan bayram, bölge sakinleri için zorlu bir döneme işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11421076/pexels-photo-11421076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T08:29:40.496Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.4,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/world/-families-no-longer-gather-war-overshadows-eid-al-adha-in-south-lebanon/3949449",
         "trendScore": 80,
         "isBreaking": false
     }
