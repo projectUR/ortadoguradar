@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780112691688dlkfs",
+        "title": "İsrail, Beyrut ve Güney Lübnan'ı Vurdu: Geniş Çaplı Tahliye Emirleri Verildi",
+        "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut ve güney bölgelerine yönelik hava saldırıları düzenledi. Bu operasyonlar, İsrail'in Lübnan topraklarının yaklaşık %17'sini kapsayan geniş çaplı tahliye emirleri vermesinin hemen ardından gerçekleşti. İsrail askeri yetkilileri, Lübnanlı sivillerden belirtilen bölgeleri boşaltmalarını talep etti. Bölgedeki gerilim, askeri operasyonlar ve sivil tahliyelerle birlikte tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T03:44:51.688Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1780092921330rcidp",
         "title": "BM'den Gazze Açıklaması: \"Yüzde 100'ü Filistinlilere Ait Olmalı\"",
         "summary": "Birleşmiş Milletler Sözcüsü Stephane Dujarric, Gazze Şeridi'nin tamamının Filistinlilere ait olması gerektiğini ifade etti. Dujarric, bu açıklamasını uluslararası hukukun ve ilgili Birleşmiş Milletler kararlarının temelinde yaptığını belirtti. Sözcü, Gazze'nin gelecekteki statüsüne ilişkin uluslararası toplumun genel tutumunu yansıtan bu görüşün önemine dikkat çekti. Bu açıklama, bölgedeki siyasi tartışmalar ve çözüm arayışları bağlamında değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/hamas-says-senior-al-qassam-commander-mohammed-awda-killed-in-israeli-strike/3949833",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1779906521846jdr4h",
-        "title": "ABD ve İran'dan Anlaşma Konusunda Çelişkili Açıklamalar: Trump Yaptırım İndirimi Yok Dedi",
-        "summary": "ABD ve İran arasında potansiyel bir anlaşmaya ilişkin çelişkili raporlar gelmeye devam ederken, eski ABD Başkanı Donald Trump'tan yaptırım indirimi olmayacağına dair bir açıklama geldi. Trump, İran'ın kendisini 'bekleyemeyeceğini' belirterek, Washington'ın Tahran'ın anlaşma tekliflerinden memnun olmadığını ima etti. Bu durum, iki ülke arasındaki müzakerelerin mevcut durumunu ve ABD'nin İran'a yönelik 'maksimum baskı' politikasının devam ettiğini gösteriyor. ABD'nin yaptırımları kaldırma konusundaki isteksizliği ve İran'ın tekliflerinin yetersiz bulunması, taraflar arasındaki gerilimi sürdürmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6918529/pexels-photo-6918529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-27T18:28:41.846Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
