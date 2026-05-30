@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780176863691iumw3",
+        "title": "PSG, penaltı atışları sonrası Arsenal'i yenerek üst üste ikinci Şampiyonlar Ligi şampiyonluğunu kazandı",
+        "summary": "Paris Saint-Germain (PSG), UEFA Şampiyonlar Ligi finalinde İngiliz temsilcisi Arsenal'i mağlup ederek üst üste ikinci kez şampiyon oldu. Normal süresi ve uzatmaları 1-1 berabere biten karşılaşmada, PSG penaltı atışları sonucunda rakibini 4-3 yenmeyi başardı. Bu zaferle birlikte PSG, Avrupa futbolunun en prestijli kupasını müzesine götürdü. Katar Spor Yatırımları'na ait olan PSG'nin bu başarısı, kulübün ve dolaylı olarak Katar'ın uluslararası arenadaki görünürlüğünü ve yumuşak güç stratejisini pekiştirdi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/35781787/pexels-photo-35781787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T21:34:23.691Z",
+        "location": {
+            "lat": 48.86,
+            "lng": 2.35,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178017185578092rx6",
         "title": "İran, ABD ile Anlaşma Sağlanamazken Hürmüz Boğazı'ndaki Kontrolünü Vurguladı",
         "summary": "İran, ABD ile beklenen anlaşmanın sağlanamaması üzerine stratejik Hürmüz Boğazı üzerindeki kontrolünü yeniden teyit ettiğini bildirdi. Bu gelişme, bölgedeki gerilimi artırabilecek potansiyel taşıyor. ABD Savunma Bakanı Pete Hegseth, Washington'ın tatmin edici bir anlaşmaya varılamaması durumunda savaşı yeniden başlatma konusunda 'fazlasıyla yetenekli' olduğunu belirtti. Hegseth'in açıklamaları, iki ülke arasındaki müzakerelerin çıkmaza girmesi halinde askeri bir çatışma riskinin devam ettiğini gösteriyor. Bölgesel ve uluslararası aktörler, Hürmüz Boğazı'nın güvenliği ve enerji tedariki açısından kritik önemini vurguluyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-says-it-carried-out-precise-strike-in-beirut/3950422",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779971636188n0uy0",
-        "title": "İran futbol yetkilisi, Dünya Kupası vizelerinin zamanında verilmesi gerektiğini söyledi",
-        "summary": "İran Futbol Federasyonu Başkanı, 2026 Dünya Kupası'na katılacak İran milli takımı ve heyeti için vizelerin zamanında verilmesinin büyük önem taşıdığını bildirdi. Başkan, Uluslararası Futbol Federasyonları Birliği (FIFA)'nın bu konuda ev sahibi ülkeler ABD, Kanada ve Meksika ile vize süreçlerini koordine ettiğini ifade etti. Bu açıklama, İranlı sporcuların ve yetkililerin turnuvaya sorunsuz bir şekilde seyahat edebilmelerini sağlamayı amaçlıyor. Federasyon, olası vize gecikmelerinin önüne geçilerek takımın hazırlıklarını aksatmadan sürdürmesini hedefliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32285126/pexels-photo-32285126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T12:33:56.188Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-football-chief-says-world-cup-visas-must-be-issued-on-time/3950364",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
