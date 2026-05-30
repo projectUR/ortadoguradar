@@ -1,5 +1,21 @@
 [
     {
+        "id": "17801430838777ndvp",
+        "title": "Lübnan Cumhurbaşkanı ve Başbakanı, İsrail ile askeri müzakereleri görüştü",
+        "summary": "Lübnan Cumhurbaşkanı ve Başbakanı, İsrail ile yapılması planlanan askeri görüşmeleri ele almak üzere bir araya geldi. Lübnan Cumhurbaşkanlığı'ndan yapılan açıklamaya göre, Joseph Aoun ve Nawaf Salam da ABD arabuluculuğunda İsrail ile gelecek hafta yapılması planlanan bir sonraki müzakere turuna hazırlıkları görüştü. Bu görüşmelerin, iki ülke arasındaki sınır güvenliği ve diğer hassas konuları kapsayacağı belirtildi. Taraflar, bölgesel istikrarın sağlanması ve gerilimin azaltılması amacıyla diplomatik çabalarını sürdürüyor. Toplantıda, müzakerelerin seyri ve olası sonuçları hakkında değerlendirmeler yapıldı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8190827/pexels-photo-8190827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T12:11:23.877Z",
+        "location": {
+            "lat": 33.8938,
+            "lng": 35.5018,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-president-premier-meet-to-discuss-military-talks-with-israel/3951794",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17801386905211ycds",
         "title": "Rubio: Trump'ın Suriye Temsilcisi Barrack Görevinden Ayrılıyor",
         "summary": "ABD Başkanı Donald Trump'ın özel temsilcisi Tom Barrack'ın Suriye görevinden ayrılacağı bildirildi. Senatör Marco Rubio tarafından yapılan açıklamaya göre, Barrack resmi Suriye görevinden çekilecek. Ancak Barrack'ın, ABD'nin Suriye ve Irak politikalarını yönetmede önemli bir rol oynamaya devam edeceği belirtildi. Bu gelişme, ABD'nin Orta Doğu'daki diplomatik angajmanlarında bir değişikliğe işaret ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1779957883018s949v",
-        "title": "ABD'nin Yeni Saldırıları Sonrası İran'da Gerilim Yükseliyor",
-        "summary": "ABD'nin İran yakınlarında yeni hava saldırıları düzenlemesiyle Hürmüz Boğazı'nda gerilim tırmandı. Saldırıların, İran'ın önemli liman kenti Bender Abbas yakınlarında gerçekleştiği bildirildi. İranlı yetkililer, saldırılar sonucunda herhangi bir can kaybı veya maddi hasar meydana gelmediğini açıkladı. Bu olay, bölgedeki mevcut gerilimi daha da artırırken, ABD ve İran arasındaki tansiyonun devam ettiğini gösteriyor. Hürmüz Boğazı'ndaki bu tür gelişmeler, küresel enerji güvenliği açısından da yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36352111/pexels-photo-36352111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T08:44:43.018Z",
-        "location": {
-            "lat": 27.1963,
-            "lng": 56.2708,
-            "name": "Bender Abbas, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
