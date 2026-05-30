@@ -1,5 +1,53 @@
 [
     {
+        "id": "17801386905211ycds",
+        "title": "Rubio: Trump'ın Suriye Temsilcisi Barrack Görevinden Ayrılıyor",
+        "summary": "ABD Başkanı Donald Trump'ın özel temsilcisi Tom Barrack'ın Suriye görevinden ayrılacağı bildirildi. Senatör Marco Rubio tarafından yapılan açıklamaya göre, Barrack resmi Suriye görevinden çekilecek. Ancak Barrack'ın, ABD'nin Suriye ve Irak politikalarını yönetmede önemli bir rol oynamaya devam edeceği belirtildi. Bu gelişme, ABD'nin Orta Doğu'daki diplomatik angajmanlarında bir değişikliğe işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T10:58:10.521Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Suriye, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/30/rubio-says-trump-envoy-barrack-to-step-down-from-syria-post?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780138712106i7ht2",
+        "title": "Hizbullah'ın roket saldırılarının ardından kuzey İsrail'de hasar görüldü",
+        "summary": "İsrail'in kuzeyinde, Hizbullah tarafından düzenlenen roket saldırılarının ardından hasar meydana geldiği bildirildi. İsrail ordusu, 30 Mayıs Cumartesi günü Hizbullah'tan gelen bir hava saldırısını engellediğini duyurdu. Saldırının, İsrail topraklarına yönelik olduğu ve bölgede gerilimi artırdığı belirtildi. Olayda can kaybı olup olmadığına dair detay verilmezken, güvenlik güçlerinin bölgede incelemelerde bulunduğu kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13733389/pexels-photo-13733389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T10:58:32.106Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kuzey İsrail, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780138790829b55v5",
+        "title": "ABD'nin İran Limanlarına Yönelik Ablukası Trump'ın Açıklamasına Rağmen Sürüyor",
+        "summary": "Bir rapora göre, ABD'nin İran limanlarına uyguladığı ablukanın, dönemin ABD Başkanı Trump'ın ilgili duyurusuna rağmen devam ettiği belirtildi. Haberde, İranlı bir yetkilinin açıklamalarına yer verildi. Yetkili, ablukanın sürdürülmesi ve Washington'ın aşırı taleplerde bulunmasıyla Trump yönetiminin müzakerelere katılmaya istekli olmadığını ve başka hedefler peşinde koştuğunu kanıtladığını ifade etti. Bu durum, ABD ile İran arasındaki gerilimin ve diplomatik çıkmazın sürdüğünü, taraflar arasında uzlaşma zemini bulunamadığını gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15599632/pexels-photo-15599632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T10:59:50.829Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/us-blockade-of-iranian-ports-still-in-place-despite-trumps-announcement-report/3951710",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780132903963zzi0r",
         "title": "Trump, İran Anlaşması Üzerindeki Adımlarını Değerlendirirken Tahran Müzakerelerin Sürmekte Olduğunu Belirtti",
         "summary": "Eski ABD Başkanı Donald Trump'ın İran nükleer anlaşmasıyla ilgili atacağı bir sonraki adımları değerlendirdiği bildirildi. Bu gelişmeler yaşanırken, İran'ın başkenti Tahran'dan yapılan açıklamalarda müzakerelerin halen devam ettiği ve henüz nihai bir anlaşmaya varılmadığı vurgulandı. Durum, anlaşmanın geleceğine dair belirsizliğin sürdüğüne ve taraflar arasındaki diplomatik sürecin devam ettiğine işaret ediyor. Bu süreç, bölgesel ve uluslararası ilişkiler açısından yakından takip ediliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1779957904811lyrn8",
-        "title": "Fas, Afrika'nın Sanayileşme Endeksi'nde İlk Kez Zirveye Yerleşti",
-        "summary": "Fas, Afrika'nın sanayileşme endeksinde ilk kez zirveye çıkarak önemli bir başarıya imza attı. Bu gelişme, Kuzey Afrika bölgesinin kıtanın sanayileşme çabalarına öncülük ettiğini gösteriyor. Ancak, Afrika genelinde sanayileşme alanındaki kazanımların yavaş ve dengesiz bir seyir izlediği belirtiliyor. Kıtanın ekonomik dönüşüm hedeflerine ulaşmasında bölgesel farklılıklar dikkat çekiyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/7178310/pexels-photo-7178310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T08:45:04.811Z",
-        "location": {
-            "lat": 34.020882,
-            "lng": -6.84165,
-            "name": "Rabat, Fas"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/28/morocco-tops-africas-industrialisation-index-for-first-time?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779957926401k07k1",
-        "title": "Trump: ABD, İran Anlaşmasından Henüz 'Memnun Değil'",
-        "summary": "ABD Başkanı Donald Trump, ülkesinin İran ile yapılacak bir anlaşmadan henüz tam olarak memnun olmadığını ifade etti. Trump, İran'ın bir anlaşmaya varmak istediğine inandığını belirtirken, anlaşmanın şartları üzerinde henüz bir uzlaşma sağlanamadığını vurguladı. Bu açıklama, iki ülke arasındaki nükleer anlaşma müzakerelerinin seyrine ilişkin önemli bir gösterge olarak değerlendiriliyor. Washington ve Tahran arasındaki ilişkiler, söz konusu anlaşma etrafında şekillenmeye devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T08:45:26.401Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17799579701351681h",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 8 Kişi Hayatını Kaybetti",
-        "summary": "Kurban Bayramı'nın ikinci gününde İsrail'in Güney Lübnan'a düzenlediği hava saldırılarında toplam 8 kişi hayatını kaybetti. Saldırılardan biri, Zahrani bölgesinde daha güvenli bir yere kaçmaya çalışan bir ailenin 6 üyesini hedef aldı. İsrail insansız hava aracı (İHA) saldırısı sonucu yaşamını yitiren aile üyeleri, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Bu olay, İsrail ile Lübnan arasındaki gerilimi daha da tırmandırırken, uluslararası kamuoyunda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34532194/pexels-photo-34532194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T08:46:10.135Z",
-        "location": {
-            "lat": 33.45,
-            "lng": 35.35,
-            "name": "Zahrani, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/8-killed-in-israeli-strikes-across-southern-lebanon-on-2nd-day-of-eid-al-adha/3950209",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
