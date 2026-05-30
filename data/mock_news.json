@@ -1,5 +1,21 @@
 [
     {
+        "id": "178017185578092rx6",
+        "title": "İran, ABD ile Anlaşma Sağlanamazken Hürmüz Boğazı'ndaki Kontrolünü Vurguladı",
+        "summary": "İran, ABD ile beklenen anlaşmanın sağlanamaması üzerine stratejik Hürmüz Boğazı üzerindeki kontrolünü yeniden teyit ettiğini bildirdi. Bu gelişme, bölgedeki gerilimi artırabilecek potansiyel taşıyor. ABD Savunma Bakanı Pete Hegseth, Washington'ın tatmin edici bir anlaşmaya varılamaması durumunda savaşı yeniden başlatma konusunda 'fazlasıyla yetenekli' olduğunu belirtti. Hegseth'in açıklamaları, iki ülke arasındaki müzakerelerin çıkmaza girmesi halinde askeri bir çatışma riskinin devam ettiğini gösteriyor. Bölgesel ve uluslararası aktörler, Hürmüz Boğazı'nın güvenliği ve enerji tedariki açısından kritik önemini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9550526/pexels-photo-9550526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T20:10:55.780Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780166465219jo4ur",
         "title": "Afganistan'da Mültecileri Taşıyan Kamyon Devrildi: 22 Ölü",
         "summary": "Afganistan'da, ülkeye yeni dönen Afgan mültecileri taşıyan bir kamyonun devrilmesi sonucu 22 kişi hayatını kaybetti. Olayda 36 kişi de yaralandı. Kaza, mültecilerin zorlu yolculukları ve güvenlik risklerini bir kez daha gözler önüne serdi. Afganistan, uzun yıllardır devam eden çatışmalar ve ekonomik zorluklar nedeniyle büyük bir mülteci kriziyle karşı karşıya bulunuyor. Bu tür olaylar, bölgedeki insani durumu ve göç yollarındaki tehlikeleri vurgulamaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-football-chief-says-world-cup-visas-must-be-issued-on-time/3950364",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1779971658311n6qlk",
-        "title": "Hamas: İsrail Gazze'de 'Soykırım Savaşı' Hızına Dönmek İstiyor",
-        "summary": "Hamas, İsrail'in Gazze Şeridi'nde son 48 saatte 20 kişinin hayatını kaybetmesinin ardından \"soykırım savaşı\" hızına geri dönmeyi hedeflediğini iddia etti. Filistinli grup, İsrail'in yerleşim bölgelerine yönelik düzenlediği saldırıların Şarm El-Şeyh ateşkes anlaşmasını ihlal ettiğini belirtti. Hamas'a göre, bu saldırılar bölgedeki gerilimi tırmandırmakta ve barış çabalarını baltalamaktadır. Açıklamada, uluslararası toplumun İsrail'in eylemlerine karşı harekete geçmesi çağrısı yapıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T12:34:18.311Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hamas-says-israel-seeks-return-to-genocide-war-pace-in-gaza-after-20-killed-in-48-hours/3950257",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
