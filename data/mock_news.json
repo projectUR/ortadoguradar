@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780166465219jo4ur",
+        "title": "Afganistan'da Mültecileri Taşıyan Kamyon Devrildi: 22 Ölü",
+        "summary": "Afganistan'da, ülkeye yeni dönen Afgan mültecileri taşıyan bir kamyonun devrilmesi sonucu 22 kişi hayatını kaybetti. Olayda 36 kişi de yaralandı. Kaza, mültecilerin zorlu yolculukları ve güvenlik risklerini bir kez daha gözler önüne serdi. Afganistan, uzun yıllardır devam eden çatışmalar ve ekonomik zorluklar nedeniyle büyük bir mülteci kriziyle karşı karşıya bulunuyor. Bu tür olaylar, bölgedeki insani durumu ve göç yollarındaki tehlikeleri vurgulamaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19264369/pexels-photo-19264369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T18:41:05.219Z",
+        "location": {
+            "lat": 33.9391,
+            "lng": 67.7099,
+            "name": "Afganistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780161189817sa2xn",
         "title": "İran'dan Hürmüz Boğazı'na Müdahale Eden Askeri Gemilere Yönelik Hedef Uyarısı",
         "summary": "İran, Hürmüz Boğazı'ndaki faaliyetlere müdahale eden askeri gemilerin hedef alınacağı konusunda uyarıda bulundu. İran askeri yetkilileri, ticari gemilerin ve petrol tankerlerinin bu stratejik su yolundan geçmeden önce Devrim Muhafızları Donanması'ndan izin alması gerektiğini belirtti. Bu açıklama, bölgedeki denizcilik güvenliği ve seyrüsefer serbestisi konularında gerilimi artırma potansiyeli taşıyor. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği kritik bir geçiş noktası olarak biliniyor.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/hamas-says-israel-seeks-return-to-genocide-war-pace-in-gaza-after-20-killed-in-48-hours/3950257",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779971678693ghjs6",
-        "title": "Tahran, ABD'nin Güney İran'daki Saldırısını Kınadı, Ateşkes İhlallerine Karşı Uyardı",
-        "summary": "İran Dışişleri Bakanlığı, ABD'nin güney İran'da gerçekleştirdiği saldırıyı şiddetle kınadığını açıkladı. Bakanlık, bu tür eylemlerin uluslararası hukukun açık bir ihlali olduğunu ve bölgedeki istikrarı ciddi şekilde tehdit ettiğini vurguladı. Tahran, ABD'nin tekrarlanan askeri müdahalelerinin ateşkes anlaşmalarını ihlal ettiğini ve gerilimi tırmandırdığını belirtti. İranlı yetkililer, Washington'ı bölgedeki provokatif eylemlerine son vermeye ve uluslararası normlara uymaya çağırdı. Bu açıklama, iki ülke arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T12:34:38.693Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/tehran-condemns-us-strike-in-southern-iran-warns-against-ceasefire-violations/3950252",
         "trendScore": 85,
         "isBreaking": false
     }
