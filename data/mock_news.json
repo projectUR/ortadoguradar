@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780161189817sa2xn",
+        "title": "İran'dan Hürmüz Boğazı'na Müdahale Eden Askeri Gemilere Yönelik Hedef Uyarısı",
+        "summary": "İran, Hürmüz Boğazı'ndaki faaliyetlere müdahale eden askeri gemilerin hedef alınacağı konusunda uyarıda bulundu. İran askeri yetkilileri, ticari gemilerin ve petrol tankerlerinin bu stratejik su yolundan geçmeden önce Devrim Muhafızları Donanması'ndan izin alması gerektiğini belirtti. Bu açıklama, bölgedeki denizcilik güvenliği ve seyrüsefer serbestisi konularında gerilimi artırma potansiyeli taşıyor. Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği kritik bir geçiş noktası olarak biliniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16382982/pexels-photo-16382982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-30T17:13:09.817Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-warns-military-vessels-interfering-in-hormuz-strait-will-be-targeted/3951953",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17801504593667jj17",
         "title": "İsrail Askerleri Güney Lübnan'daki Nabatiye Şehrine Ulaştı",
         "summary": "İsrail ordusu, 2006'dan bu yana ilk kez Lübnan'daki Litani Nehri'nin ötesine ilerledi. Askeri birlikler, Güney Lübnan'ın en büyük şehirlerinden biri olan Nabatiye'ye ulaştı. Bu gelişme, bölgedeki güvenlik durumunda önemli bir tırmanışa işaret ediyor. İsrail'in bu ilerleyişi, Lübnan ile İsrail arasındaki gerilimi daha da artırma potansiyeli taşıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/tehran-condemns-us-strike-in-southern-iran-warns-against-ceasefire-violations/3950252",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779957838669fwi79",
-        "title": "Avustralya, Suriye'den dönen IŞİD bağlantılı olduğu iddia edilen kadına dava açtı",
-        "summary": "Avustralya makamları, Suriye'den ülkeye geri dönen ve terör örgütü IŞİD ile bağlantılı olduğu iddia edilen bir kadına suçlama yöneltti. Bu dava, yıllardır Suriye'deki kamplarda yargılanmadan tutulan kadın ve çocukların ülkelerine geri gönderilmesi sürecinin bir parçası olarak gerçekleşti. Söz konusu kadın, Suriye'deki çatışma bölgelerinden dönen ve IŞİD ile ilişkisi olduğu öne sürülen Avustralya vatandaşlarından biri olarak biliniyor. Uluslararası toplum, Suriye'deki kamplarda tutulan yabancı uyruklu kişilerin akıbeti ve ülkelerine geri dönüşleri konusunda farklı yaklaşımlar sergiliyor. Avustralya'nın bu adımı, terörle mücadele ve vatandaşlarının güvenliğini sağlama çabaları kapsamında değerlendirilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15656807/pexels-photo-15656807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T08:43:58.669Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
