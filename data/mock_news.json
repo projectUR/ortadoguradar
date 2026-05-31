@@ -1,5 +1,101 @@
 [
     {
+        "id": "1780219969776flo8n",
+        "title": "ABD Medyasına Göre Trump, İran ile Olası Barış Anlaşması Şartlarını Sertleştirdi",
+        "summary": "ABD medyasına yansıyan haberlere göre, eski ABD Başkanı Donald Trump'ın İran ile olası bir barış anlaşmasına yönelik şartları sıkılaştırdığı belirtildi. ABD'li yetkililer, Tahran'ın Trump'ın daha sert koşullarına yanıt vermesinin birkaç gün sürebileceğini ifade etti. Bu durum, iki ülke arasındaki diplomatik gerilimin seyrini etkileyebilir ve bölgedeki siyasi dinamikler üzerinde önemli etkileri olması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T09:32:49.776Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17802200092228pwt8",
+        "title": "Hürmüz Boğazı Krizi: Küresel Güven Yeniden Sağlanamayabilir",
+        "summary": "Hürmüz Boğazı'ndaki krizin bir sonraki aşamasının, boğazın tamamen kapanmasından ziyade, koşullu erişimle tanımlanabileceği belirtiliyor. Boğazın yeniden açılması ihtimali olsa da, küresel piyasalarda ve uluslararası ticarette oluşan güvenin kolayca geri gelmeyebileceği vurgulanıyor. Bu durum, bölgedeki jeopolitik gerilimlerin ve enerji güvenliği endişelerinin devam ettiğini gösteriyor ve stratejik su yolunun gelecekteki kullanımına dair belirsizlikleri koruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34358849/pexels-photo-34358849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T09:33:29.222Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/5/31/the-strait-may-reopen-but-global-confidence-may-not-return?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780220031307examy",
+        "title": "Trump, İran ile Anlaşmayı 'Aceleye Getirmeyeceğini' Belirtirken, İsrail Lübnan'daki Operasyonlarını Genişletti",
+        "summary": "ABD Başkanı Donald Trump, İran ile yürütülen müzakerelerin 'yavaş ama emin adımlarla' ilerlediğini açıkladı. Bu diplomatik gelişme, Orta Doğu'daki gerilimin sürdüğü bir dönemde yaşanıyor. Aynı zamanda, İsrail'in Lübnan'daki askeri operasyonlarını yoğunlaştırdığı bildirildi. Bölgede hem diplomatik çabalar hem de askeri çatışmalar eş zamanlı olarak devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699687/pexels-photo-5699687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T09:33:51.307Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İran, İsrail, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1780220077901mzqol",
+        "title": "İsrail ordusu güney Lübnan'da 'büyük çaplı' operasyon başlattığını duyurdu",
+        "summary": "İsrail ordusu, güney Lübnan'da 'büyük çaplı' bir operasyon başlattığını duyurdu. Ordu sözcüsü, operasyonun 'birkaç gün önce büyük kara kuvvetleriyle' başladığını belirtti. Bu açıklama, Tel Aviv'in Lübnan'daki ateşkes ihlallerinin devam ettiği bir dönemde geldi. Bölgedeki gerilimin tırmandığına işaret eden bu gelişme, uluslararası kamuoyunun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T09:34:37.901Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.4,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/world/israeli-army-announces-large-scale-offensive-in-southern-lebanon/3952100",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17802200997189hns7",
+        "title": "İran, ABD Askeri İnsansız Hava Aracını Kendi Hava Sahasında Düşürdüğünü Açıkladı",
+        "summary": "İran, kendi hava sahasına giren bir ABD askeri insansız hava aracını düşürdüğünü duyurdu. İran devlet haber ajansı IRNA'nın bildirdiğine göre, İran askeri yetkilileri, MQ-1 Predator tipi insansız hava aracının İran hava savunma sistemleri tarafından tespit edilerek imha edildiğini belirtti. Olayın İran'ın karasuları üzerinde gerçekleştiği ifade edildi. Bu gelişme, ABD ile İran arasındaki gerilimi artırabilecek önemli bir güvenlik olayı olarak değerlendirilmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1336211/pexels-photo-1336211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T09:34:59.718Z",
+        "location": {
+            "lat": 27.5,
+            "lng": 51.5,
+            "name": "Basra Körfezi, İran"
+        },
+        "source": "https://www.aa.com.tr/en/live-blog/latest-developments-us-iran-peace-process-israeli-attacks-on-lebanon-and-palestine/3019",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780220123293ppr5c",
+        "title": "Trump: İran Nükleer Silaha Sahip Olamaz",
+        "summary": "ABD Başkanı Donald Trump, yaptığı açıklamada Chicago Belediye Başkanı'nı 'işe yaramaz' olarak nitelendirdi. Trump, aynı zamanda İran'ın nükleer silaha sahip olamayacağını kesin bir dille ifade etti. Başkan, bu mesajın Papa'ya iletilmesi gerektiğini belirtti. Bu açıklama, İran'ın nükleer programına ilişkin uluslararası tartışmaları ve güvenlik endişelerini bir kez daha gündeme taşıdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33848676/pexels-photo-33848676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T09:35:23.293Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/trump-says-chicago-mayor-useless-iran-cannot-have-nuclear-weapon/3952063",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780208660556nzinj",
         "title": "İsrail'in Güney Lübnan'a Düzenlediği Hava Saldırısında Aynı Aileden 9 Suriyeli Mülteci Hayatını Kaybetti",
         "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in güney Lübnan'daki Adloun kasabasına düzenlediği hava saldırısında bir ev hedef alındı. Saldırıda aynı aileden dokuz Suriyeli mülteci yaşamını yitirdi. Bakanlık, hayatını kaybedenler arasında altı çocuğun bulunduğunu bildirdi. Bu olay, bölgedeki çatışmaların siviller ve özellikle mülteciler üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
@@ -702,101 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israel-severs-ties-with-un-chiefs-office-after-being-blacklisted-for-sexual-violence/3950759",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "177999706079099igk",
-        "title": "İsrail Başbakanı Netanyahu'dan Orduya Gazze Şeridi'nin Yüzde 70'ini Ele Geçirme Talimatı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, orduya Gazze Şeridi'nin yüzde 70'ini ele geçirme talimatı verdiği bildirildi. Haberlere göre, İsrail ordusu halihazırda 'Sarı Hat' olarak adlandırılan bölgenin ötesine geçerek Gazze üzerindeki kontrolünü yüzde 11 oranında genişletti. Bu genişlemenin, mevcut ateşkes koşullarının dışına çıktığı belirtiliyor. Gelişmeler, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda endişelere yol açabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T19:37:40.790Z",
-        "location": {
-            "lat": 31.35,
-            "lng": 34.3,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1779997089807b9x1i",
-        "title": "ABD'nin Silah Stoklarını Yeniden Oluşturması İran Savaşı Sonrası Yıllar Sürebilir",
-        "summary": "ABD'nin kritik mühimmat stoklarını yeniden oluşturma sürecinin, olası bir \"İran savaşı\" sonrasında yıllar alabileceği belirtildi. Stratejik ve Uluslararası Çalışmalar Merkezi (CSIS) raporuna göre, savaş öncesi stok seviyelerine geri dönmek en az iki yıl sürecek. Bu durum, ABD'nin Orta Doğu'daki potansiyel askeri operasyonlara hazırlık kapasitesini ve savunma sanayisinin mevcut durumunu gözler önüne seriyor. Haber, bölgedeki jeopolitik gerilimlerin ve ABD'nin askeri stratejilerinin uzun vadeli etkilerini vurguluyor. ABD'nin savunma kapasitesinin yeniden inşası, küresel güç dengeleri ve özellikle Orta Doğu'daki güvenlik dinamikleri açısından önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T19:38:09.807Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779997117346ffb3b",
-        "title": "ABD ve İran Arasında 60 Günlük Ateşkes Mutabakatı Sağlandı, Trump'ın Onayı Bekleniyor",
-        "summary": "ABD ve İranlı müzakereciler, önerilen 60 günlük ateşkes uzatması konusunda bir mutabakat zaptına (MoU) vardı. Bu anlaşma, iki ülke arasındaki gerilimi azaltma ve bölgesel istikrara katkıda bulunma potansiyeli taşıyor. Mutabakatın yürürlüğe girmesi için ABD Başkanı Donald Trump'ın onayı bekleniyor. Anlaşmanın detayları henüz kamuoyuna açıklanmazken, taraflar arasındaki diplomatik çabaların bir sonucu olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9643161/pexels-photo-9643161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T19:38:37.346Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779987329915zo12q",
-        "title": "İsrail Saldırısı Sonrası Beyrut Üzerinde Duman Yükseldi",
-        "summary": "Lübnan'ın başkenti Beyrut'ta İsrail tarafından düzenlenen bir saldırının ardından şehrin güney kesimlerinde yoğun dumanların yükseldiği bildirildi. Görüntülerde, saldırının etkisiyle oluşan dumanların gökyüzünü kapladığı görüldü. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının detaylarına ilişkin henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin tırmanmasına neden olan bu gelişme, uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17885542/pexels-photo-17885542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T16:55:29.915Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1779987420394tg6i8",
-        "title": "İsrail, Netanyahu'nun Danışmanını Gizli Bilgi Sızdırmaktan Suçladı",
-        "summary": "İsrail'de Başbakan Binyamin Netanyahu'nun danışmanlarından Yonatan Urich hakkında gizli bilgileri bir Alman gazetesine sızdırdığı iddiasıyla iddianame hazırlandı. Bu gelişme, İsrail siyasetinde önemli yankı uyandırdı ve bazı İsrailli bakanlar tarafından tepkilere neden oldu. İddianamenin açıklanmasının ardından, ülkenin iç siyasetinde gerilim yaşandığı belirtildi. Olay, bilgi sızdırma iddialarının ulusal güvenlik ve istihbarat çevrelerinde de tartışmalara yol açtığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4194856/pexels-photo-4194856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T16:57:00.394Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-indicts-netanyahus-adviser-over-leaking-secret-information-to-german-daily-report/3950682",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779987445395vkab4",
-        "title": "ABD ve İran Arasında Geçici Ateşkes Anlaşması İddiası: Trump'ın Onayı Bekleniyor",
-        "summary": "Axios'un haberine göre, Amerika Birleşik Devletleri ve İran arasında geçici bir ateşkes anlaşmasına varıldığı öne sürüldü. Anlaşmanın, ABD Başkanı Donald Trump'ın onayını beklediği belirtildi. Önerilen 60 günlük çerçeve anlaşmasının, stratejik Hürmüz Boğazı'nın yeniden açılmasını içerdiği ifade edildi. Ayrıca, iki ülke arasındaki nükleer müzakereler için de bir çerçeve sunulduğu kaydedildi. Bu gelişme, bölgedeki gerilimi azaltma ve diplomatik çözüm arayışlarına ivme kazandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5257441/pexels-photo-5257441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T16:57:25.395Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-iran-reach-tentative-ceasefire-trumps-approval-pending-report/3950648",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
