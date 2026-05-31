@@ -1,5 +1,21 @@
 [
     {
+        "id": "17802458388872rd88",
+        "title": "İsrailli Diplomat, Fransa'nın Lübnan İçin BM Güvenlik Konseyi Çağrısı Üzerine Macron'la Alay Etti",
+        "summary": "Fransa, Lübnan'daki durumu görüşmek üzere Birleşmiş Milletler Güvenlik Konseyi'nde bir toplantı düzenlenmesi için çağrıda bulundu. Bu çağrının ardından, bir İsrailli diplomatın Fransa Cumhurbaşkanı Emmanuel Macron ile alay ettiği bildirildi. Daha önce Fransa Dışişleri Bakanı, İsrail'in Lübnan topraklarındaki varlığını \"büyük bir hata\" olarak nitelendirmişti. Bu diplomatik gerilim, Fransa'nın bölgedeki rolü ve İsrail-Lübnan ilişkileri üzerindeki uluslararası tartışmaları yeniden gündeme getirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37856948/pexels-photo-37856948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T16:43:58.887Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/europe/israeli-diplomat-mocks-macron-amid-france-s-push-for-un-security-council-meeting-on-lebanon/3952421",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17802407368499pw9m",
         "title": "ABD ile sınırlı değil: 51 ülke Gazze Savaşı sırasında İsrail'i nasıl silahlandırdı?",
         "summary": "El Cezire tarafından yürütülen bir soruşturma, Gazze Savaşı sırasında en az 51 ülke ve bölgeden İsrail'e askeri nitelikli malların akışının devam ettiğini ortaya koydu. Bu bulgu, İsrail'e sağlanan askeri desteğin sadece ABD ile sınırlı kalmayıp, uluslararası alanda geniş bir yelpazeye yayıldığını gösteriyor. Rapor, Gazze'deki çatışmalar sürerken İsrail'e yapılan silah ve askeri malzeme tedarikinin boyutunu ve kaynaklarını detaylandırmayı amaçlıyor. Bu durum, uluslararası toplumun çatışmadaki rolüne dair yeni tartışmaları beraberinde getirebilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1780086703184804sn",
-        "title": "Netanyahu: IDF'ye Gazze'nin %70'ini Kontrol Altına Alma Talimatı Verdim",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail Savunma Kuvvetleri'ne (IDF) Gazze Şeridi'nin yüzde 70'ini kontrol altına alma talimatı verdiğini duyurdu. Bu açıklama, İsrail'in Gazze üzerindeki askeri varlığını önemli ölçüde genişletme niyetini ortaya koyuyor. Ancak, bu tür bir kontrol genişlemesinin, İsrail ile Hamas arasında Ekim 2025'te varılan ateşkes anlaşmasının şartlarına aykırı olacağı belirtiliyor. Söz konusu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor ve ateşkesin geleceği hakkında soru işaretleri yaratıyor. Bu durum, Orta Doğu'daki güvenlik ve istikrar açısından önemli sonuçlar doğurabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T20:31:43.184Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
