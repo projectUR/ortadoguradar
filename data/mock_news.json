@@ -1,5 +1,37 @@
 [
     {
+        "id": "17802569981912j716",
+        "title": "ABD'nin İsrail ile askeri işbirliğini artırma girişimi iki partili muhalefetle karşılaştı",
+        "summary": "ABD'de İsrail ile askeri işbirliğini derinleştirmeyi amaçlayan bir yasa tasarısı, Kongre'de iki partiden de muhalefetle karşılaştı. Demokrat Parti'den Ro Khanna ve Cumhuriyetçi Parti'den Thomas Massie, söz konusu yasa tasarısındaki İsrail yanlısı bölümü çıkarmaya çalışacaklarını açıkladı. Bu bölüm, ABD savunma bütçesi tasarısı içinde yer alıyor ve İsrail'e yönelik askeri desteği ve işbirliğini artırmayı öngörüyor. Kongre üyelerinin bu girişimi, ABD'nin İsrail politikalarına yönelik iç tartışmaları yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16457298/pexels-photo-16457298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T19:49:58.191Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780257019083qspty",
+        "title": "ABD Kongresi İsrail ile Askeri Bağları Derinleştirme Adımı Atıyor",
+        "summary": "ABD Kongresi, İsrail ile askeri ilişkileri daha da derinleştirmeye yönelik adımlar atmaya hazırlanıyor. Analistler, bu planın İsrail'in askeri çıkarlarını ABD'nin ulusal güvenlik politikasının dokusuna daha fazla entegre edeceğini belirtiyor. Bu gelişme, iki ülke arasındaki stratejik iş birliğini yeni bir seviyeye taşıyabilir. Bölgedeki güvenlik dinamikleri ve jeopolitik dengeler açısından önemli sonuçlar doğurması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/404995/pexels-photo-404995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T19:50:19.083Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17802507328511hoj0",
         "title": "Aida Mülteci Kampı'nda 'Geri Dönüş Pazarı' Düzenlendi",
         "summary": "Filistin'in Batı Şeria bölgesinde bulunan Aida Mülteci Kampı'nda 'Geri Dönüş Pazarı' adıyla bir etkinlik düzenlendiği bildirildi. Bu pazarın, kamp sakinlerinin kültürel mirasını yaşatma ve ekonomik faaliyetlerini destekleme amacı taşıdığı belirtiliyor. Etkinliğin, Filistinli mültecilerin 'geri dönüş hakkı' talebiyle sembolik bir bağlantısı olduğu düşünülüyor. Pazarın, mültecilere sosyal ve ekonomik bir platform sunarak topluluk bağlarını güçlendirmeyi hedeflediği ifade edildi.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/live-blog/latest-developments-us-iran-peace-process-israel-s-ceasefire-violations-in-gaza-and-lebanon/3000",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780112691688dlkfs",
-        "title": "İsrail, Beyrut ve Güney Lübnan'ı Vurdu: Geniş Çaplı Tahliye Emirleri Verildi",
-        "summary": "İsrail ordusu, Lübnan'ın başkenti Beyrut ve güney bölgelerine yönelik hava saldırıları düzenledi. Bu operasyonlar, İsrail'in Lübnan topraklarının yaklaşık %17'sini kapsayan geniş çaplı tahliye emirleri vermesinin hemen ardından gerçekleşti. İsrail askeri yetkilileri, Lübnanlı sivillerden belirtilen bölgeleri boşaltmalarını talep etti. Bölgedeki gerilim, askeri operasyonlar ve sivil tahliyelerle birlikte tırmanmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-30T03:44:51.688Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1780092921330rcidp",
-        "title": "BM'den Gazze Açıklaması: \"Yüzde 100'ü Filistinlilere Ait Olmalı\"",
-        "summary": "Birleşmiş Milletler Sözcüsü Stephane Dujarric, Gazze Şeridi'nin tamamının Filistinlilere ait olması gerektiğini ifade etti. Dujarric, bu açıklamasını uluslararası hukukun ve ilgili Birleşmiş Milletler kararlarının temelinde yaptığını belirtti. Sözcü, Gazze'nin gelecekteki statüsüne ilişkin uluslararası toplumun genel tutumunu yansıtan bu görüşün önemine dikkat çekti. Bu açıklama, bölgedeki siyasi tartışmalar ve çözüm arayışları bağlamında değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36038705/pexels-photo-36038705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T22:15:21.330Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/29/un-100-of-gaza-should-be-for-palestinians?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
