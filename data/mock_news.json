@@ -1,5 +1,53 @@
 [
     {
+        "id": "1780227717778bzp10",
+        "title": "İsrail güçleri Lübnan'ın Litani Nehri'ni geçerek 12. yüzyıl kalesini ele geçirdi",
+        "summary": "İsrail güçleri, Lübnan topraklarına girerek Litani Nehri'nin kuzeyine geçti. Bölgede ilerleyen İsrail askerleri, tarihi Beaufort Kalesi'ni ele geçirdi. Bu gelişme, iki ülke arasındaki gerilimi tırmandıran yeni bir askeri operasyon olarak kaydedildi. Kalenin ele geçirilmesi, bölgedeki güvenlik durumunu daha da karmaşık hale getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T11:41:57.778Z",
+        "location": {
+            "lat": 33.4,
+            "lng": 35.53,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1780227741009tqhg0",
+        "title": "Fas'ın Futbol Gücü Haline Gelişi: AFCON'dan 2026 Dünya Kupası'na",
+        "summary": "Fas, Afrika Uluslar Kupası'ndan (AFCON) 2026 FIFA Dünya Kupası'na uzanan süreçte futbol alanında önemli bir güç haline geldiği belirtildi. Ülkenin bu başarısı, etkili bir strateji üzerine inşa edilmiş olsa da, FIFA Dünya Kupası hazırlıkları öncesinde Fas futbolunda bazı çalkantılar yaşandığı kaydedildi. Fas'ın futbol altyapısına yaptığı yatırımlar, genç yetenekleri geliştirme programları ve uluslararası arenadaki rekabetçi performansı, bu yükselişin temelini oluşturuyor. Bu durum, Fas'ın bölgesel ve küresel futbol sahnesindeki konumunu güçlendirirken, ulusal gururu da artırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32190742/pexels-photo-32190742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T11:42:21.009Z",
+        "location": {
+            "lat": 31.7917,
+            "lng": -7.0926,
+            "name": "Fas"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/5/31/from-afcon-to-world-cup-2026-how-morocco-became-a-football-powerhouse?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780227798132wxour",
+        "title": "İran: ABD ile Somut Sonuçlar Olmadan Anlaşma Yok",
+        "summary": "İran, Amerika Birleşik Devletleri ile yapılacak herhangi bir anlaşmanın somut sonuçlar doğurması gerektiğini açıkladı. İran'ın baş müzakerecisi Qalibaf, taahhütlerini yerine getirmeden önce somut sonuçlar elde etmenin tek kriterleri olduğunu belirtti. Bu açıklama, iki ülke arasındaki olası müzakerelerde İran'ın beklentilerini net bir şekilde ortaya koyuyor. Tahran yönetimi, Washington ile yürütülecek diplomatik süreçlerde kendi çıkarlarını ve elde edilecek kazanımları ön planda tuttuğunu vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T11:43:18.132Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-no-agreement-with-us-without-tangible-results/3952266",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780219969776flo8n",
         "title": "ABD Medyasına Göre Trump, İran ile Olası Barış Anlaşması Şartlarını Sertleştirdi",
         "summary": "ABD medyasına yansıyan haberlere göre, eski ABD Başkanı Donald Trump'ın İran ile olası bir barış anlaşmasına yönelik şartları sıkılaştırdığı belirtildi. ABD'li yetkililer, Tahran'ın Trump'ın daha sert koşullarına yanıt vermesinin birkaç gün sürebileceğini ifade etti. Bu durum, iki ülke arasındaki diplomatik gerilimin seyrini etkileyebilir ve bölgedeki siyasi dinamikler üzerinde önemli etkileri olması bekleniyor.",
@@ -748,54 +796,6 @@
             "name": "Güney Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-condemns-israeli-attacks-on-historic-southern-cities-as-collective-punishment-/3950867",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780018370446w4b6s",
-        "title": "Lübnan Başbakanı'ndan İsrail'in Askeri Operasyonlarına Sert Kınama",
-        "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in Lübnan'daki 'barışçıl insanlara' yönelik askeri saldırısını hiçbir şeyin haklı çıkaramayacağını belirtti. Salam, İsrail'in eylemlerini sert bir dille kınayarak bölgedeki gerilimin tırmandığına dikkat çekti. Bu gelişmeler yaşanırken, İran ve ABD eski Başkanı Donald Trump'ın 60 günlük ateşkes uzatma planına ilişkin henüz bir yorum yapmadığı bildirildi. Bölgedeki çatışmaların devam ettiği ve diplomatik çabaların sürdüğü gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T01:32:50.446Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17800107471907eh9i",
-        "title": "İrlanda ve Katar, yaklaşan İsrail maçlarına karşı yapılan protestolar nedeniyle iki kez durduruldu",
-        "summary": "İrlanda Cumhuriyeti'nin UEFA Uluslar Ligi'nde İsrail ile iki kez karşılaşması planlanıyor. Ancak, bu maçların boykot edilmesi yönünde güçlü çağrılar yükseliyor. Haber başlığına göre, İrlanda ve Katar'da yaklaşan İsrail maçlarına karşı düzenlenen protestolar nedeniyle iki kez kesinti yaşandı. Bu durum, İsrail'in spor etkinliklerine katılımına yönelik önemli bir kamuoyu muhalefetini ve bunun yol açtığı aksaklıkları gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8635700/pexels-photo-8635700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T23:25:47.190Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/28/ireland-and-qatar-halted-twice-by-protests-against-upcoming-israel-fixture?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1780010846007pgym1",
-        "title": "İsrail, cinsel şiddet nedeniyle kara listeye alınmasının ardından BM Genel Sekreteri'nin ofisiyle ilişkilerini kesti",
-        "summary": "Birleşmiş Milletler Genel Sekreteri'nin ofisi, İsrail'i cinsel şiddet iddiaları nedeniyle kara listeye aldı. Bu karar, İsrail ordusunun cinsel şiddet eylemlerinde bulunduğuna dair medya ve insan hakları gruplarından gelen çok sayıda raporun ardından alındı. İsrail Dışişleri Bakanlığı, bu gelişme üzerine BM Genel Sekreteri'nin ofisiyle tüm ilişkilerini kestiğini duyurdu. Tel Aviv'in kara listeye alınması, uluslararası arenada önemli bir diplomatik gerilime yol açtı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T23:27:26.007Z",
-        "location": {
-            "lat": 32,
-            "lng": 34.8,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-severs-ties-with-un-chiefs-office-after-being-blacklisted-for-sexual-violence/3950759",
         "trendScore": 85,
         "isBreaking": false
     }
