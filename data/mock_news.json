@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780208660556nzinj",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Hava Saldırısında Aynı Aileden 9 Suriyeli Mülteci Hayatını Kaybetti",
+        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in güney Lübnan'daki Adloun kasabasına düzenlediği hava saldırısında bir ev hedef alındı. Saldırıda aynı aileden dokuz Suriyeli mülteci yaşamını yitirdi. Bakanlık, hayatını kaybedenler arasında altı çocuğun bulunduğunu bildirdi. Bu olay, bölgedeki çatışmaların siviller ve özellikle mülteciler üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28309862/pexels-photo-28309862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T06:24:20.556Z",
+        "location": {
+            "lat": 33.47,
+            "lng": 35.26,
+            "name": "Adloun, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-in-southern-lebanon-kills-9-syrian-refugees-from-same-family/3952079",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17801912929694lny5",
         "title": "Fırat Nehri'nin Taşması Sonucu Doğu Suriye'de Kurtarma Çalışmaları Başlatıldı",
         "summary": "Doğu Suriye'de Fırat Nehri'nin taşması sonucu meydana gelen sel suları, bölgedeki tarım arazilerini ve yerleşim yerlerini etkiledi. Kurtarma ekipleri, sel sularında mahsur kalan çiftçileri güvenli bölgelere tahliye etti. Olayın ardından bölgede geniş çaplı kurtarma operasyonları başlatılırken, selden etkilenen diğer vatandaşlara ulaşmak için çalışmalar devam ediyor. Selin yol açtığı hasarın boyutu ve etkilenen kişi sayısı hakkında detaylı bilgiler henüz açıklanmadı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/us-iran-reach-tentative-ceasefire-trumps-approval-pending-report/3950648",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1779971443032sykt5",
-        "title": "İran, Dünya Kupası Kadrosu İçin ABD'den Çoklu Giriş Vizesi Talep Etti",
-        "summary": "İran, Dünya Kupası'na katılacak futbol takımı kadrosu için Amerika Birleşik Devletleri'nden çoklu giriş vizesi talep ettiğini duyurdu. İran heyeti, grup aşamasındaki üç maç için ABD'ye seyahat edecek olsa da, turnuva süresince Meksika'nın Tijuana kentinde konaklayacak. Bu talep, İranlı sporcuların ABD'ye sorunsuz giriş çıkış yapabilmesi ve lojistik süreçlerin kolaylaştırılması açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/35877758/pexels-photo-35877758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T12:30:43.032Z",
-        "location": {
-            "lat": 39.8283,
-            "lng": -98.5795,
-            "name": "Amerika Birleşik Devletleri"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
