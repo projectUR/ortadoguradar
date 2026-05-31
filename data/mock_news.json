@@ -1,5 +1,37 @@
 [
     {
+        "id": "17801912929694lny5",
+        "title": "Fırat Nehri'nin Taşması Sonucu Doğu Suriye'de Kurtarma Çalışmaları Başlatıldı",
+        "summary": "Doğu Suriye'de Fırat Nehri'nin taşması sonucu meydana gelen sel suları, bölgedeki tarım arazilerini ve yerleşim yerlerini etkiledi. Kurtarma ekipleri, sel sularında mahsur kalan çiftçileri güvenli bölgelere tahliye etti. Olayın ardından bölgede geniş çaplı kurtarma operasyonları başlatılırken, selden etkilenen diğer vatandaşlara ulaşmak için çalışmalar devam ediyor. Selin yol açtığı hasarın boyutu ve etkilenen kişi sayısı hakkında detaylı bilgiler henüz açıklanmadı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35302181/pexels-photo-35302181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T01:34:52.969Z",
+        "location": {
+            "lat": 35,
+            "lng": 39,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1780191383980asvad",
+        "title": "Netanyahu'dan kuzeydeki gerilim üzerine güvenlik toplantısı kararı",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, ülkenin kuzey sınırındaki gerilimin tırmanması üzerine bir güvenlik toplantısı düzenleyeceği bildirildi. Kanal 13'ün haberine göre, İsrail ordusu, roket atışlarının ölçeği ve Hizbullah'ın ateş açma politikasını değiştirmesi karşısında şaşkınlık yaşadı. Bu durumun, güney Lübnan'daki kara operasyonlarının genişletilmesine bir yanıt olduğu belirtildi. Toplantının, bölgedeki güvenlik durumunu değerlendirmek amacıyla yapılacağı kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T01:36:23.980Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-to-hold-security-meeting-amid-northern-escalation-report/3952060",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1780182082473ea0ww",
         "title": "ABD Kongresi, Amerikan-İsrail askeri entegrasyon planını ilerletiyor",
         "summary": "ABD Kongresi, Amerikan-İsrail askeri entegrasyon planını ilerletme kararı aldı. Bu plan, iki ülkenin savunma sanayilerini daha önce hiç olmadığı kadar birbirine bağlamayı hedefliyor. 2027 taslak ABD savunma yasa tasarısında yer alan bir madde, bu entegrasyonun temelini oluşturuyor. Söz konusu madde, ABD ve İsrail arasındaki silah endüstrisi işbirliğini derinleştirecek adımları içeriyor. Bu gelişme, iki ülke arasındaki stratejik ortaklığı askeri alanda daha da güçlendirecek.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17799714754923ncva",
-        "title": "Gazze'de Ramazan Bayramı Sevinci Direniş Biçimine Dönüştü",
-        "summary": "Gazze Şeridi'nde Ramazan Bayramı kutlamaları, bölgedeki devam eden çatışmaların gölgesinde derin ve farklı bir anlam kazandı. Bayram gecesi Gazze'nin Remal bölgesinde düzenlenen saldırıda altı sivilin hayatını kaybetmesi, bölgede büyük üzüntüye yol açtı. Ancak bu trajik olayın ardından dakikalar içinde tezgahların yeniden açılması, Gazze halkının zorlu koşullar altında dahi bayram sevincini sürdürme ve direniş ruhunu yansıtma kararlılığını gözler önüne serdi. Bu durum, Gazze'de bayram coşkusunun artık bir direniş biçimi olarak görüldüğünü gösteriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36766883/pexels-photo-36766883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T12:31:15.492Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1779971500690ajwnr",
-        "title": "Al Jazeera Muhabiri Emmy Ödülü Sonrası Duygusal Konuşma Yaptı",
-        "summary": "Katar merkezli Al Jazeera medya kuruluşundan bir gazeteci, prestijli Emmy ödülünü kazanmasının ardından duygusal bir konuşma gerçekleştirdi. Ödül töreninde sahneye çıkan gazetecinin konuşması, uluslararası medya camiasında dikkat çekti. Bu başarı, Al Jazeera'nın küresel gazetecilik alanındaki etkisini ve tanınırlığını bir kez daha vurguladı. Gazetecinin ödül konuşması, mesleki adanmışlığın ve zorlu koşullarda yapılan haberlerin önemini gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10464472/pexels-photo-10464472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-28T12:31:40.690Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/28/al-jazeera-journalists-emotional-speech-after-winning-emmy-2?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
