@@ -1,5 +1,85 @@
 [
     {
+        "id": "1780235482926bbut9",
+        "title": "İsrail güçleri Lübnan'da Litani Nehri'nin ötesine ilerledi",
+        "summary": "Analistler, İsrail güçlerinin Lübnan'da Litani Nehri'nin ötesine geçerek askeri kontrol alanını kuzeye, Zahrani Nehri'ne doğru genişlettiğini belirtiyor. Bu ilerleme, İsrail'in Lübnan topraklarındaki askeri varlığını artırdığı şeklinde yorumlanıyor. Bölgedeki askeri hareketliliğin önemi ve potansiyel sonuçları uzmanlar tarafından değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T13:51:22.926Z",
+        "location": {
+            "lat": 33.4,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780235503628gf4mi",
+        "title": "Uydu Görüntüleri İsrail'in Gazze'deki Kontrolünü Genişletmesini ve Güney Gazze'nin Değişimini Gösteriyor",
+        "summary": "Uydu görüntüleri, İsrail'in Gazze Şeridi'ndeki askeri operasyonlarının bölgede yarattığı dönüşümü gözler önüne serdi. İsrail Başbakanı Binyamin Netanyahu'nun ordusuna Gazze'nin yüzde 70'ini işgal etme emri vermesinin ardından, özellikle güney Gazze'de önemli değişiklikler kaydedildi. Görüntüler, İsrail'in bölgedeki kontrolünü genişletme çabalarını ve bunun coğrafi etkilerini ortaya koyuyor. Bu durum, bölgedeki çatışmanın boyutunu ve İsrail'in askeri hedeflerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5965203/pexels-photo-5965203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T13:51:43.628Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780235579059www37",
+        "title": "Gazze'de Kurban Bayramı'nda İsrail Saldırılarında 33 Filistinli Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde Kurban Bayramı tatili süresince İsrail güçlerinin düzenlediği saldırılarda 33 Filistinli hayatını kaybetti. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, dört günlük bayram süresince gerçekleşen bu olaylarda 130'dan fazla kişi de yaralandı. Bölgedeki gerilimin tırmanmaya devam ettiği bu dönemde, uluslararası toplumdan olaylara ilişkin tepkiler gelmesi bekleniyor. Hayatını kaybedenler arasında sivillerin de bulunduğu belirtildi. Bu durum, bölgedeki insani krizi daha da derinleştirme potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T13:52:59.059Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gaza, Palestine"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/33-palestinians-killed-by-israeli-fire-in-gaza-during-eid-holiday-health-ministry-says/3952357",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1780235600868uui87",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Hava Saldırısında 13 Sağlık Çalışanı Yaralandı",
+        "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırısında Sur şehrindeki Hiram Hastanesi hedef alındı. Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, saldırı sonucunda hastanede görevli 13 sağlık çalışanı yaralandı. Bakanlık, bombardımanın hastanede 'ciddi hasara' yol açtığını bildirdi. Olay, bölgedeki güvenlik durumunu bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/87088/fighter-jet-jet-aircraft-army-87088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T13:53:20.868Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-wounds-13-healthcare-workers-in-southern-lebanon/3952356",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1780235623600wzw14",
+        "title": "Fransa, İsrail'in Lübnan'daki İlerlemesini 'Son Derece Endişe Verici' Buldu, Acil BM Güvenlik Konseyi Toplantısı Talep Etti",
+        "summary": "Fransa, İsrail'in Lübnan topraklarındaki ilerleyişini \"son derece endişe verici\" olarak tanımladı. Fransız Dışişleri Bakanı, İsrail'in Lübnan'daki varlığını derinleştirmesini \"büyük bir hata\" olarak nitelendirdi. Bu gelişmeler üzerine Paris, Birleşmiş Milletler Güvenlik Konseyi'nin acil olarak toplanması çağrısında bulundu. Fransa'nın bu adımı, bölgedeki gerilimin tırmanmasına yönelik uluslararası kaygıları ve diplomatik çözüm arayışlarını ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-05-31T13:53:43.600Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan-İsrail Sınırı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/europe/france-says-israeli-advance-in-lebanon-extremely-concerning-seeks-emergency-unsc-meeting/3952299",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780227717778bzp10",
         "title": "İsrail güçleri Lübnan'ın Litani Nehri'ni geçerek 12. yüzyıl kalesini ele geçirdi",
         "summary": "İsrail güçleri, Lübnan topraklarına girerek Litani Nehri'nin kuzeyine geçti. Bölgede ilerleyen İsrail askerleri, tarihi Beaufort Kalesi'ni ele geçirdi. Bu gelişme, iki ülke arasındaki gerilimi tırmandıran yeni bir askeri operasyon olarak kaydedildi. Kalenin ele geçirilmesi, bölgedeki güvenlik durumunu daha da karmaşık hale getirdi.",
@@ -717,86 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/5/29/harvard-medical-school-graduate-dedicates-speech-to-lebanon-and-palestine?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1780062515399ppwqs",
-        "title": "ABD ve İran Arasında Ateşkes Anlaşmasına Yakınlık İddiası",
-        "summary": "ABD ve İran'ın bir anlaşmaya varmaya 'çok yakın' olduğu ancak henüz nihai bir sonuca ulaşılamadığı bildirildi. ABD'li yetkililer, BBC'ye yaptıkları açıklamada, bir ateşkes uzatma anlaşmasının çerçevesinin belirlendiğini ifade etti. Ancak anlaşmanın yürürlüğe girmesi için ABD Başkanı Trump ve İran liderliğinin onayının beklendiği kaydedildi. Bu gelişme, iki ülke arasındaki gerilimi azaltma potansiyeli taşıyan önemli bir diplomatik adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T13:48:35.399Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, D.C., ABD"
-        },
-        "source": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178006255543399gy4",
-        "title": "AB Komiseri, Netanyahu'nun Gazze'nin Yüzde 70'ini Kontrol Etme Planlarını Eleştirdi",
-        "summary": "Avrupa Birliği Komiseri Hadja Lahbib, İsrail Başbakanı Binyamin Netanyahu'nun Gazze Şeridi'nin yüzde 70'ini kontrol etme planlarını sert bir şekilde eleştirdi. Lahbib, değişen askeri hatların bölgeye insani yardım erişimini ve temel hizmetlerin sağlanmasını engellediğini vurguladı. İsrail'in Gazze'nin yaklaşık yüzde 60'ını kontrol ettiğini kabul ettiği bir dönemde yapılan bu açıklamalar, bölgedeki insani durumu daha da kötüleştirdiğine işaret ediyor. AB Komiseri, uluslararası hukuka uygun hareket edilmesi ve sivillerin korunması çağrısında bulundu. Bu durum, Gazze'deki çatışmaların insani boyutunu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36038715/pexels-photo-36038715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T13:49:15.433Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/europe/eu-commissioner-slams-netanyahu-s-plans-to-control-70-of-gaza/3951311",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1780062611181nqhyx",
-        "title": "Filistin'den Gazze'deki İnsani Durum Hakkında Kritik Uyarı",
-        "summary": "Filistin Dışişleri Bakanlığı, İsrail ablukası altındaki Gazze Şeridi'nde insani durumun kötüleştiği konusunda ciddi uyarılarda bulundu. Bakanlık, İsrail'in bölgeye yönelik yardım kısıtlamalarının devam etmesinin, Gazze'de yaygın açlığın yeniden baş gösterme riskini artırdığını belirtti. Uluslararası topluma acil müdahale çağrısı yapan Filistin, insani yardımların kesintisiz ve yeterli miktarda ulaştırılmasının hayati önem taşıdığını vurguladı. Açıklamada, ablukanın Gazze halkının temel ihtiyaçlara erişimini engellediği ve yaşam koşullarını dayanılmaz hale getirdiği ifade edildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T13:50:11.181Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestine-warns-of-worsening-humanitarian-catastrophe-in-gaza-amid-israeli-blockade/3951240",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1780062634557xh9qa",
-        "title": "Almanya, İsrail'in Gazze üzerindeki kontrolünü genişletme planlarından 'endişeli'",
-        "summary": "Almanya Dışişleri Bakanlığı, İsrail'in Gazze üzerindeki kontrolünü genişletme planlarına ilişkin endişelerini dile getirdi. Bakanlık, bu tür adımların atılması halinde bölgeye yapılan insani yardım çabalarını ciddi şekilde zorlaştıracağını belirtti. Özellikle Gazze'deki sivil nüfusa ulaştırılması gereken hayati yardımların aksayabileceği vurgulandı. Almanya, bu tür duyuruları ve raporları dikkatle takip ettiğini ve olası sonuçlarından kaygı duyduğunu ifade etti. Bu durumun, uluslararası toplumun Gazze'deki insani krizi hafifletme çalışmalarını olumsuz etkileyeceği öngörülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T13:50:34.557Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/europe/germany-concerned-over-israeli-plans-to-expand-control-of-gaza/3951185",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1780050784355373rr",
-        "title": "Lübnan Başbakanı, İsrail'in tarihi güney şehirlerine yönelik saldırılarını 'toplu cezalandırma' olarak kınadı",
-        "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in ülkenin güneyindeki tarihi şehirlere düzenlediği saldırıları sert bir dille kınadı. Salam, bu saldırıları 'toplu cezalandırma' olarak nitelendirerek uluslararası hukuka aykırı olduğunu belirtti. Başbakan, bölgede acil bir ateşkesin sağlanması çağrısında bulundu. Ayrıca, İsrail güçlerinin Lübnan topraklarından tamamen çekilmesi gerektiğini vurguladı. Bu açıklamalar, Lübnan-İsrail sınırında artan gerilimin ortasında geldi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-29T10:33:04.355Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-condemns-israeli-attacks-on-historic-southern-cities-as-collective-punishment-/3950867",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
