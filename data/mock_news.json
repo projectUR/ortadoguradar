@@ -1,5 +1,53 @@
 [
     {
+        "id": "1780291632297wl30l",
+        "title": "İsrail, kara harekatını genişletirken Lübnan'da bir kaleyi ele geçirdi",
+        "summary": "İsrail ordusu, Lübnan'daki stratejik bir kaleyi ele geçirdiğini duyurdu. Başbakan Binyamin Netanyahu, bu ele geçirmeyi İsrail'in Hizbullah'a karşı yürüttüğü harekatta \"belirleyici bir dönüm noktası\" olarak nitelendirdi. Bu gelişme, İsrail'in kara harekatını genişlettiği bir döneme denk geldi. Avrupa hükümetleri ise çatışmanın tırmanmasından duydukları endişeyi dile getirerek durumu eleştirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T05:27:12.297Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780291671703uc2yn",
+        "title": "Netanyahu, IDF'ye Gazze'nin %70'ini kontrol etme talimatı verdiğini açıkladı",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail Savunma Kuvvetleri'ne (IDF) Gazze Şeridi'nin yüzde 70'ini kontrol altına alma talimatı verdiğini duyurdu. Bu talimatın, İsrail'in Gazze'deki askeri varlığını önemli ölçüde artırma hedefi taşıdığı belirtildi. Ancak, bu tür bir kontrol genişlemesinin, İsrail ile Hamas arasında Ekim 2025'te varılan ateşkes anlaşmasının şartlarıyla çelişeceği ifade edildi. Bu durum, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T05:27:51.703Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "17802916982957h92v",
+        "title": "ABD'li yorumcular Cenk Uygur ve Hasan Piker, İngiltere'nin kendilerini İsrail ile ilgili açıklamaları nedeniyle ülkeye almadığını iddia etti",
+        "summary": "ABD'li tanınmış yorumcular Cenk Uygur ve Hasan Piker, İngiltere'ye girişlerinin İsrail ile ilgili yaptıkları açıklamalar nedeniyle engellendiğini iddia etti. The Young Turks'ün kurucu ortağı Uygur, İngiliz yetkililerinin kendisini 'kamu düzeni için risk' olarak değerlendirdiğini belirtti. Bu iddialar, ifade özgürlüğü ve siyasi görüşler nedeniyle seyahat kısıtlamaları konularında uluslararası tartışmaları beraberinde getirdi. İngiliz hükümeti ise söz konusu iddialar hakkında henüz resmi bir yorumda bulunmadı. Olay, uluslararası ilişkiler ve medya özgürlüğü bağlamında dikkat çekiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/16109131/pexels-photo-16109131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T05:28:18.295Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-commentators-cenk-uygur-hasan-piker-say-uk-barred-them-over-israel-related-remarks/3952602",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1780266898223q5m5f",
         "title": "İsrail güçleri, Batı Şeria'da araçla saldırı düzenlediği iddia edilen Filistinliyi öldürdü",
         "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da araçla saldırı düzenlediği iddia edilen bir Filistinliyi öldürdü. İsrail medyasında yer alan haberlere göre, şüpheli saldırgan olay yerinde vurularak etkisiz hale getirildi. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının detaylarına ilişkin resmi makamlardan henüz kapsamlı bir açıklama yapılmadı. Bu olay, İsrail ile Filistinliler arasındaki gerilimin devam ettiğini bir kez daha gözler önüne serdi.",
@@ -748,54 +796,6 @@
             "name": "İsrail"
         },
         "source": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178013299807444c1r",
-        "title": "İşgal Altındaki Batı Şeria'da Filistin Evleri ve Arazilerine Saldırılar Düzenlendi",
-        "summary": "İşgal altındaki Batı Şeria'da Filistinlilere ait evlere ve arazilere yönelik saldırılar düzenlendiği bildirildi. Bölgenin güney ve kuzey kesimlerinde meydana gelen olaylarda, Filistinlilere ait konutların hedef alındığı ve tarım arazilerinin zarar gördüğü belirtildi. Bu saldırıların, bölgedeki gerilimi artırdığı ve Filistin halkının yaşam koşullarını olumsuz etkilediği ifade edildi. Olaylarla ilgili detaylı soruşturmaların sürdüğü kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-30T09:23:18.074Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2079,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-palestinian-homes-lands-across-occupied-west-bank/3951704",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780133018156d1gyw",
-        "title": "Güney Lübnan'a Yönelik İsrail Saldırılarında Can Kaybı ve Yaralılar",
-        "summary": "Güney Lübnan'a düzenlenen yeni İsrail saldırılarında en az 3 kişinin hayatını kaybettiği, 11 kişinin ise yaralandığı bildirildi. Haberlere göre, İsrail ordusu 17 Nisan'da yürürlüğe giren ve daha sonra Temmuz başına kadar uzatılan Lübnan ateşkes anlaşmasını ihlal etmeye devam ediyor. Bu saldırılar, bölgedeki gerilimin sürdüğünü ve ateşkesin kırılganlığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-30T09:23:38.156Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/at-least-3-killed-11-others-injured-in-fresh-israeli-attacks-on-southern-lebanon/3951651",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780133041550ad3tf",
-        "title": "ABD Kongresi'nin İsrail ile Askeri Entegrasyon Adımları Attığı Bildirildi",
-        "summary": "ABD Kongresi'nin, Amerikan ve İsrail askeri güçlerini entegre etmeye yönelik adımlar attığı bir raporla ortaya konuldu. 'Amerika Birleşik Devletleri-İsrail Savunma Teknolojisi İşbirliği Girişimi' olarak adlandırılan bu planın, iki ülkenin orduları arasında benzeri görülmemiş bir düzeyde entegrasyon sağlamayı hedeflediği belirtiliyor. Bu girişimin, savunma teknolojileri ve operasyonel kapasitelerin ortak kullanımını artırarak bölgesel güvenlik dinamiklerini etkilemesi bekleniyor. Söz konusu entegrasyonun, ABD'nin Orta Doğu'daki stratejik konumlanması ve İsrail'in savunma yetenekleri açısından önemli sonuçlar doğurabileceği ifade ediliyor. Gelişmelerin, bölgedeki diğer aktörler tarafından yakından takip edildiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5323838/pexels-photo-5323838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-30T09:24:01.550Z",
-        "location": {
-            "lat": 31,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-congress-quietly-moving-to-integrate-american-and-israeli-military-forces-report/3951614",
         "trendScore": 85,
         "isBreaking": false
     }
