@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780355058348qyu9g",
+        "title": "New York'ta İsrail Günü Geçit Töreni Düzenlendi",
+        "summary": "New York'ta her yıl geleneksel olarak düzenlenen İsrail Günü Geçit Töreni bu yıl da gerçekleştirildi. Etkinliğe İsrail ve ABD'den çok sayıda resmi yetkili katılım gösterdi. Al Jazeera muhabiri Ava Warriner, geçit töreninde yer alan İsrailli ve Amerikalı yetkilileri ve katılımcıları mercek altına aldı. Bu geçit töreni, İsrail'in ABD'deki kültürel ve siyasi varlığını kutlayan önemli bir etkinlik olarak biliniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/31753212/pexels-photo-31753212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T23:04:18.348Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1780347421665owyz0",
         "title": "ABD Destekli Gazze Barış Süreci Tehlikede mi?",
         "summary": "ABD destekli Gazze barış sürecinin ciddi tehlikede olduğu belirtiliyor. İsrail'in daha fazla Filistinliyi öldürdüğü ve Gazze Şeridi'nin yüzde 70'ini ele geçirme yönünde adımlar attığı bildirildi. Bu gelişmelerin, bölgedeki barış çabalarını olumsuz etkilediği ifade ediliyor. Sürecin geleceği hakkında endişeler artıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/trump-says-chicago-mayor-useless-iran-cannot-have-nuclear-weapon/3952063",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1780208660556nzinj",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Hava Saldırısında Aynı Aileden 9 Suriyeli Mülteci Hayatını Kaybetti",
-        "summary": "Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in güney Lübnan'daki Adloun kasabasına düzenlediği hava saldırısında bir ev hedef alındı. Saldırıda aynı aileden dokuz Suriyeli mülteci yaşamını yitirdi. Bakanlık, hayatını kaybedenler arasında altı çocuğun bulunduğunu bildirdi. Bu olay, bölgedeki çatışmaların siviller ve özellikle mülteciler üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28309862/pexels-photo-28309862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T06:24:20.556Z",
-        "location": {
-            "lat": 33.47,
-            "lng": 35.26,
-            "name": "Adloun, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-in-southern-lebanon-kills-9-syrian-refugees-from-same-family/3952079",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
