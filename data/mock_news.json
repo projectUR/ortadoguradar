@@ -1,5 +1,69 @@
 [
     {
+        "id": "1780347421665owyz0",
+        "title": "ABD Destekli Gazze Barış Süreci Tehlikede mi?",
+        "summary": "ABD destekli Gazze barış sürecinin ciddi tehlikede olduğu belirtiliyor. İsrail'in daha fazla Filistinliyi öldürdüğü ve Gazze Şeridi'nin yüzde 70'ini ele geçirme yönünde adımlar attığı bildirildi. Bu gelişmelerin, bölgedeki barış çabalarını olumsuz etkilediği ifade ediliyor. Sürecin geleceği hakkında endişeler artıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T20:57:01.665Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/6/1/is-the-u-s-backed-gaza-peace-process-in-serious-danger?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780347459127z5eh9",
+        "title": "Ermenistan Başbakanı, Rusya'nın AB Referandumu Talebini Reddetti",
+        "summary": "Ermenistan Başbakanı Nikol Paşinyan, Rusya'nın ülkesinde Avrupa Birliği'ne katılım konusunda referandum yapılması yönündeki talebini geri çevirdi. Bu ret, geleneksel müttefikler olan Ermenistan ile Rusya arasındaki ilişkilerin giderek kötüleştiği bir döneme denk geliyor. Ermenistan'ın Batı'ya yönelme çabaları, Moskova'nın Erivan üzerindeki baskısını artırmasına neden oluyor. İki ülke arasındaki bu derinleşen anlaşmazlık, Güney Kafkasya'daki jeopolitik dengeler ve bölgesel aktörler açısından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T20:57:39.127Z",
+        "location": {
+            "lat": 40.1872,
+            "lng": 44.5152,
+            "name": "Erivan, Ermenistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780347529519dexik",
+        "title": "Lübnan, Hizbullah'ın ABD'nin İsrail ile karşılıklı saldırıları durdurma önerisini kabul ettiğini duyurdu",
+        "summary": "Lübnan, Hizbullah'ın ABD tarafından sunulan İsrail ile karşılıklı saldırıları durdurma önerisine onay verdiğini açıkladı. Lübnan'ın Washington Büyükelçiliği tarafından yapılan açıklamaya göre, bu düzenleme kapsamında İsrail'in Beyrut'un güney banliyölerine yönelik saldırıları durdurulacak. Karşılığında ise Hizbullah'ın İsrail'e yönelik saldırılardan vazgeçmesi öngörülüyor. Bu gelişme, bölgedeki gerilimi azaltma potansiyeli taşıyan önemli bir diplomatik adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5464868/pexels-photo-5464868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T20:58:49.519Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/americas/lebanon-says-hezbollah-agreed-to-us-proposal-for-mutual-halt-to-attacks-with-israel/3953576",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17803475668398p8ar",
+        "title": "ABD, Beyrut'ta ateşkes sözü verdi, Lübnan genelini kapsama çabaları sürüyor",
+        "summary": "Lübnanlı üst düzey bir yetkili, ABD'den Beyrut'ta ateşkes sağlanacağına dair bir söz aldıklarını duyurdu. Yetkili, Anadolu Ajansı'na yaptığı açıklamada, bu ateşkesin potansiyel olarak tüm Lübnan'ı kapsayabileceğini ifade etti. Bu gelişme, bölgedeki gerilimi düşürme ve istikrarı sağlama yönündeki diplomatik çabaların bir parçası olarak değerlendirilmektedir. ABD'nin bu taahhüdü, Lübnan'daki mevcut güvenlik durumuna ilişkin endişelerin ortasında geldi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5326807/pexels-photo-5326807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-01T20:59:26.839Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-pledges-ceasefire-in-beirut-efforts-underway-to-cover-all-lebanon-senior-lebanese-official/3953557",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780331996108esqg8",
         "title": "İsrail Litani Nehri'ni Geçerken, Lübnanlılar UNIFIL'in Amacını Sorguluyor",
         "summary": "İsrail güçlerinin Litani Nehri'ni geçerek ilerlemesi, bölgedeki gerilimi artırdı. Birleşmiş Milletler Geçici Barış Gücü (UNIFIL), bu ilerlemeyi engellemede yetersiz kalırken, Lübnan kamuoyunda UNIFIL'in misyonu ve etkinliği hakkında ciddi sorular ortaya çıktı. Lübnanlılar, uluslararası barış gücünün varlığına rağmen İsrail'in askeri operasyonlarını durduramamasını eleştiriyor. Bu durum, bölgedeki güvenlik dinamiklerini ve uluslararası güçlerin rolünü yeniden tartışmaya açtı.",
@@ -734,69 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-in-southern-lebanon-kills-9-syrian-refugees-from-same-family/3952079",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17801912929694lny5",
-        "title": "Fırat Nehri'nin Taşması Sonucu Doğu Suriye'de Kurtarma Çalışmaları Başlatıldı",
-        "summary": "Doğu Suriye'de Fırat Nehri'nin taşması sonucu meydana gelen sel suları, bölgedeki tarım arazilerini ve yerleşim yerlerini etkiledi. Kurtarma ekipleri, sel sularında mahsur kalan çiftçileri güvenli bölgelere tahliye etti. Olayın ardından bölgede geniş çaplı kurtarma operasyonları başlatılırken, selden etkilenen diğer vatandaşlara ulaşmak için çalışmalar devam ediyor. Selin yol açtığı hasarın boyutu ve etkilenen kişi sayısı hakkında detaylı bilgiler henüz açıklanmadı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35302181/pexels-photo-35302181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T01:34:52.969Z",
-        "location": {
-            "lat": 35,
-            "lng": 39,
-            "name": "Suriye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1780191383980asvad",
-        "title": "Netanyahu'dan kuzeydeki gerilim üzerine güvenlik toplantısı kararı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, ülkenin kuzey sınırındaki gerilimin tırmanması üzerine bir güvenlik toplantısı düzenleyeceği bildirildi. Kanal 13'ün haberine göre, İsrail ordusu, roket atışlarının ölçeği ve Hizbullah'ın ateş açma politikasını değiştirmesi karşısında şaşkınlık yaşadı. Bu durumun, güney Lübnan'daki kara operasyonlarının genişletilmesine bir yanıt olduğu belirtildi. Toplantının, bölgedeki güvenlik durumunu değerlendirmek amacıyla yapılacağı kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T01:36:23.980Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-to-hold-security-meeting-amid-northern-escalation-report/3952060",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1780182082473ea0ww",
-        "title": "ABD Kongresi, Amerikan-İsrail askeri entegrasyon planını ilerletiyor",
-        "summary": "ABD Kongresi, Amerikan-İsrail askeri entegrasyon planını ilerletme kararı aldı. Bu plan, iki ülkenin savunma sanayilerini daha önce hiç olmadığı kadar birbirine bağlamayı hedefliyor. 2027 taslak ABD savunma yasa tasarısında yer alan bir madde, bu entegrasyonun temelini oluşturuyor. Söz konusu madde, ABD ve İsrail arasındaki silah endüstrisi işbirliğini derinleştirecek adımları içeriyor. Bu gelişme, iki ülke arasındaki stratejik ortaklığı askeri alanda daha da güçlendirecek.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34693641/pexels-photo-34693641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-30T23:01:22.473Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Haifa, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780182150808sfj8s",
-        "title": "İsrailli Askerlerden Gazze'de Şok Edici İfadeler: Filistinlileri Öldürmek 'Zevk'",
-        "summary": "Associated Press tarafından yayımlanan ifadelere göre, İsrailli askerler Gazze'deki operasyonlar sırasında Filistinlilerin öldürülmesini sıradan bir olay olarak tanımladı. Haberde, bazı askerlerin Filistinlileri öldürmekten 'zevk aldıklarını' belirten şok edici beyanlara yer verildiği aktarıldı. Bu ifadeler, bölgedeki çatışmaların insani boyutunu ve askerlerin psikolojisini gözler önüne seriyor. Yayımlanan tanıklıklar, uluslararası kamuoyunda geniş yankı uyandırması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-30T23:02:30.808Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/killing-palestinians-is-pleasure-shocking-testimonies-from-israeli-soldiers-in-gaza/3952067",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
