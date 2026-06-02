@@ -1,5 +1,53 @@
 [
     {
+        "id": "1780429398893ocb58",
+        "title": "ABD: İran'ın Yeni Dini Lideri Hayatta ve Müzakerelere Katılımı Artıyor",
+        "summary": "ABD Dışişleri Bakanı Marco Rubio, İran'ın yeni dini lideri olarak tanımladığı Mojtaba Hamenei'nin müzakerelere katılımının giderek arttığını açıkladı. Bu açıklama, İran'ın mevcut dini lideri Ali Hamenei'nin sağlık durumu ve olası halefiyeti hakkındaki tartışmaların yoğunlaştığı bir döneme denk geldi. ABD'li yetkililer, Mojtaba Hamenei'nin artan angajmanının, ülkenin iç ve dış politikasında önemli değişikliklere yol açabileceğini belirtti. Söz konusu müzakerelerin içeriği ve tarafları hakkında detay verilmezken, bu gelişme Tahran'ın gelecekteki yönelimleri açısından kritik bir sinyal olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33812938/pexels-photo-33812938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T19:43:18.893Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17804294365829m77m",
+        "title": "Trump'ın Netanyahu'ya Yönelik Sert Eleştirileri Gündemde",
+        "summary": "Eski ABD Başkanı Donald Trump'ın, İsrail Başbakanı Binyamin Netanyahu ile gerçekleştirdiği bir telefon görüşmesinde Netanyahu'ya sert sözlerle yüklendiği iddia edildi. Bu haber, iki lider arasındaki ilişkinin dinamiklerine dair yeni tartışmaları beraberinde getirdi. Görüşmenin içeriği ve Trump'ın eleştirilerinin detayları henüz tam olarak açıklanmazken, olayın diplomatik çevrelerde yankı uyandırdığı belirtiliyor. Söz konusu \"azarlama\"nın, ABD-İsrail ilişkileri ve Netanyahu'nun siyasi konumu üzerindeki potansiyel etkileri merak konusu oldu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T19:43:56.582Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/2/what-trump-telling-off-means-for-netanyahu?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780429558943vwymi",
+        "title": "Hamas, Gazze'deki Yönetimi Devretmeyi Reddetmediğini Açıkladı",
+        "summary": "Hamas, Gazze Şeridi'ndeki yönetimi devretmeyi reddettiği yönündeki iddiaları yalanladı. Grup tarafından yapılan açıklamada, Kahire'de üzerinde uzlaşılan ulusal bir komiteye yönetim sorumluluklarını devretmeye hazır olunduğu belirtildi. Bu açıklama, Gazze'nin gelecekteki idaresine ilişkin devam eden siyasi müzakereler ve beklentiler bağlamında önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36207471/pexels-photo-36207471.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T19:45:58.943Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hamas-denies-refusing-to-hand-over-governance-in-gaza/3954502",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1780414958485yr7j2",
         "title": "Taliban-Rusya Mutabakat Zaptı Afganistan İçin İyi mi?",
         "summary": "Haber, Taliban ile Rusya arasında yakın zamanda imzalanan bir mutabakat zaptının Afganistan'ın ulusal çıkarları üzerindeki potansiyel etkilerini sorgulamaktadır. Yapılan değerlendirmelere göre, söz konusu anlaşmanın ülkenin uzun vadeli ulusal çıkarlarına hizmet etme olasılığının düşük olduğu belirtilmektedir. Bu mutabakatın Afganistan'ın geleceği ve bölgesel dinamikler açısından ne gibi sonuçlar doğurabileceği tartışılmaktadır. Anlaşmanın, ülkenin istikrarı ve kalkınması üzerindeki etkileri konusunda endişeler dile getirilmektedir.",
@@ -748,54 +796,6 @@
             "name": "İsrail"
         },
         "source": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780240756987nzinx",
-        "title": "İsrail Hava Saldırıları Lübnan'ın Sur Kentini Harabeye Çevirdi",
-        "summary": "Lübnan'ın güneyindeki Sur kentinden gelen görüntüler, İsrail'in şehri defalarca bombalamasının ardından geniş çaplı yıkımı gözler önüne serdi. İsrail hava saldırıları sonucunda Sur kentinde büyük hasar meydana geldiği bildirildi. Bölgedeki kaynaklar, saldırıların ardından altyapı ve binalarda ciddi tahribat oluştuğunu belirtti. Olayın ardından bölgede güvenlik endişeleri artarken, uluslararası toplumdan henüz resmi bir açıklama gelmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33333373/pexels-photo-33333373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T15:19:16.987Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Sur, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780240814265in8kq",
-        "title": "ABD ve İran Anlaşmaya Yakın Ancak Henüz Tamamlanmadı",
-        "summary": "ABD ve İran arasında bir anlaşmaya varılmasının \"çok yakın\" olduğu ancak henüz nihai aşamaya gelinmediği bildirildi. Vance adlı bir yetkili, iki ülkenin bir anlaşmaya varmaya çok yaklaştığını ancak henüz tamamlanmadığını belirtti. Daha önce ABD'li yetkililer, BBC'ye yaptıkları açıklamada, bir ateşkes uzatma anlaşmasının çerçevesi üzerinde mutabakata varıldığını ifade etmişti. Bu anlaşmanın yürürlüğe girmesi için ABD Başkanı Trump ve İran liderliğinin onayının beklendiği kaydedildi. Söz konusu gelişmeler, ABD ve İran arasındaki diplomatik süreçlerin devam ettiğini ortaya koyuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6598770/pexels-photo-6598770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T15:20:14.265Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780240857158b2qc8",
-        "title": "Trump, Türkiye Büyükelçisi Barrack'ı Suriye ve Irak Özel Elçisi Olarak Atadı",
-        "summary": "ABD Başkanı Donald Trump, Türkiye Büyükelçisi Tom Barrack'ı Suriye ve Irak özel başkanlık elçisi olarak görevlendirdi. Barrack'ın, Ankara'daki büyükelçilik görevini sürdürürken bu yeni ikili elçilik sorumluluklarını da üstleneceği açıklandı. Bu atama, ABD'nin Orta Doğu'daki diplomatik çabalarını ve bölgedeki krizlere yönelik yaklaşımını güçlendirme amacı taşıyor. Barrack'ın, Suriye ve Irak'taki kritik meselelerde ABD'yi temsil etmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T15:20:57.158Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/trump-names-us-ambassador-to-turkiye-barrack-as-special-presidential-envoy-to-syria-iraq/3952409",
         "trendScore": 85,
         "isBreaking": false
     }
