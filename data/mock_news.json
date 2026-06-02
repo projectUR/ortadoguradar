@@ -1,5 +1,21 @@
 [
     {
+        "id": "17804391324011ii5h",
+        "title": "İngiliz çiftin İran'daki hapis cezası temyiz başvurusu reddedildi, aile açıkladı",
+        "summary": "İran'da tutuklu bulunan İngiliz çift Lindsay ve Craig Foreman'ın hapis cezalarına ilişkin temyiz başvurusu reddedildi. Aile tarafından yapılan açıklamaya göre, çiftin temyiz talebi geri çevrildi ve ceza onandı. Lindsay ve Craig Foreman, dünya turu kapsamında motosikletle seyahat ederken Ocak 2025'te İran'da gözaltına alınmıştı. Çiftin durumu, Birleşik Krallık ile İran arasındaki diplomatik ilişkilerde gerilime neden olmaya devam ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6065075/pexels-photo-6065075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T22:25:32.401Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1780429398893ocb58",
         "title": "ABD: İran'ın Yeni Dini Lideri Hayatta ve Müzakerelere Katılımı Artıyor",
         "summary": "ABD Dışişleri Bakanı Marco Rubio, İran'ın yeni dini lideri olarak tanımladığı Mojtaba Hamenei'nin müzakerelere katılımının giderek arttığını açıkladı. Bu açıklama, İran'ın mevcut dini lideri Ali Hamenei'nin sağlık durumu ve olası halefiyeti hakkındaki tartışmaların yoğunlaştığı bir döneme denk geldi. ABD'li yetkililer, Mojtaba Hamenei'nin artan angajmanının, ülkenin iç ve dış politikasında önemli değişikliklere yol açabileceğini belirtti. Söz konusu müzakerelerin içeriği ve tarafları hakkında detay verilmezken, bu gelişme Tahran'ın gelecekteki yönelimleri açısından kritik bir sinyal olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.aa.com.tr/en/europe/israeli-diplomat-mocks-macron-amid-france-s-push-for-un-security-council-meeting-on-lebanon/3952421",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17802407368499pw9m",
-        "title": "ABD ile sınırlı değil: 51 ülke Gazze Savaşı sırasında İsrail'i nasıl silahlandırdı?",
-        "summary": "El Cezire tarafından yürütülen bir soruşturma, Gazze Savaşı sırasında en az 51 ülke ve bölgeden İsrail'e askeri nitelikli malların akışının devam ettiğini ortaya koydu. Bu bulgu, İsrail'e sağlanan askeri desteğin sadece ABD ile sınırlı kalmayıp, uluslararası alanda geniş bir yelpazeye yayıldığını gösteriyor. Rapor, Gazze'deki çatışmalar sürerken İsrail'e yapılan silah ve askeri malzeme tedarikinin boyutunu ve kaynaklarını detaylandırmayı amaçlıyor. Bu durum, uluslararası toplumun çatışmadaki rolüne dair yeni tartışmaları beraberinde getirebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15264967/pexels-photo-15264967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T15:18:56.849Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.7,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
