@@ -1,5 +1,21 @@
 [
     {
+        "id": "17803830923294ztp4",
+        "title": "UAEA Başkanı Grossi: Yeni İran Nükleer Anlaşması Çok Farklı Olacak",
+        "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Genel Direktörü Rafael Grossi, 2015 tarihli İran nükleer anlaşmasının (JCPOA) artık uygulanabilir bir model olmadığını açıkladı. Grossi, gelecekteki herhangi bir anlaşmanın mevcut jeopolitik gerçekleri ve İran'ın nükleer programındaki son gelişmeleri yansıtması gerektiğini belirtti. Bu açıklama, İran'ın nükleer faaliyetleri üzerindeki uluslararası denetim ve müzakerelerin geleceği açısından önemli bir dönüm noktası olarak görülüyor. Yeni bir anlaşmanın müzakerelerinin karmaşık ve uzun soluklu bir süreç olacağı tahmin ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32966555/pexels-photo-32966555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T06:51:32.329Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780365581250a4uh9",
         "title": "Lübnan Sağlık Bakanlığı: İsrail Saldırılarında 3.433 Kişi Hayatını Kaybetti",
         "summary": "Lübnan Sağlık Bakanlığı tarafından yapılan açıklamaya göre, İsrail'in Mart ayından bu yana Lübnan'a yönelik düzenlediği saldırılarda hayatını kaybedenlerin sayısı 3.433'e ulaştı. Bakanlık, aynı dönemde 10.395 kişinin de yaralandığını bildirdi. Bu veriler, bölgedeki çatışmaların insani boyutunu ve şiddetini gözler önüne seriyor. İsrail ile Lübnan arasındaki gerilimin devam ettiği ve can kayıplarının arttığı belirtiliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/world/israeli-army-announces-large-scale-offensive-in-southern-lebanon/3952100",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17802200997189hns7",
-        "title": "İran, ABD Askeri İnsansız Hava Aracını Kendi Hava Sahasında Düşürdüğünü Açıkladı",
-        "summary": "İran, kendi hava sahasına giren bir ABD askeri insansız hava aracını düşürdüğünü duyurdu. İran devlet haber ajansı IRNA'nın bildirdiğine göre, İran askeri yetkilileri, MQ-1 Predator tipi insansız hava aracının İran hava savunma sistemleri tarafından tespit edilerek imha edildiğini belirtti. Olayın İran'ın karasuları üzerinde gerçekleştiği ifade edildi. Bu gelişme, ABD ile İran arasındaki gerilimi artırabilecek önemli bir güvenlik olayı olarak değerlendirilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1336211/pexels-photo-1336211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T09:34:59.718Z",
-        "location": {
-            "lat": 27.5,
-            "lng": 51.5,
-            "name": "Basra Körfezi, İran"
-        },
-        "source": "https://www.aa.com.tr/en/live-blog/latest-developments-us-iran-peace-process-israeli-attacks-on-lebanon-and-palestine/3019",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
