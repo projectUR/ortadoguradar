@@ -1,5 +1,37 @@
 [
     {
+        "id": "1780414958485yr7j2",
+        "title": "Taliban-Rusya Mutabakat Zaptı Afganistan İçin İyi mi?",
+        "summary": "Haber, Taliban ile Rusya arasında yakın zamanda imzalanan bir mutabakat zaptının Afganistan'ın ulusal çıkarları üzerindeki potansiyel etkilerini sorgulamaktadır. Yapılan değerlendirmelere göre, söz konusu anlaşmanın ülkenin uzun vadeli ulusal çıkarlarına hizmet etme olasılığının düşük olduğu belirtilmektedir. Bu mutabakatın Afganistan'ın geleceği ve bölgesel dinamikler açısından ne gibi sonuçlar doğurabileceği tartışılmaktadır. Anlaşmanın, ülkenin istikrarı ve kalkınması üzerindeki etkileri konusunda endişeler dile getirilmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7821937/pexels-photo-7821937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T15:42:38.485Z",
+        "location": {
+            "lat": 34.5228,
+            "lng": 69.1776,
+            "name": "Kabul, Afganistan"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/6/2/is-the-taliban-russia-mou-good-for-afghanistan?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780415013805qkhuv",
+        "title": "'Mahsur Kalanlar': Gazze'den Irak'a götürülen hastalar idari belirsizlik içinde",
+        "summary": "Gazze'den tedavi amacıyla Irak'a getirilen Filistinli hastaların idari sorunlar nedeniyle Bağdat'ta mahsur kaldığı bildirildi. Hastaların belgelerinin ellerinden alındığı ve bir tıp merkezinde tutulduğu belirtiliyor. Bu durum, hastaların hareket özgürlüğünü kısıtlayarak belirsiz bir gelecekle karşı karşıya kalmalarına neden oluyor. Uluslararası yardım kuruluşları ve ilgili tarafların, bu insani duruma çözüm bulmak için harekete geçmesi bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6129454/pexels-photo-6129454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T15:43:33.805Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/features/2026/6/2/trapped-gaza-patients-flown-to-iraq-stuck-in-administrative-limbo?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1780399239646qyobp",
         "title": "Dünya Kupası: Los Angeles'taki İran Maçları İçin Ek Güvenlik, ICE Konuşlandırılmayacak",
         "summary": "Los Angeles'ta düzenlenecek Dünya Kupası maçları sırasında federal ajanların görev yapacağı, ancak göçmenlik yasalarının uygulanmayacağı bildirildi. İl şerifi tarafından yapılan açıklamaya göre, özellikle İran'ın maçları için ek güvenlik önlemleri alınacak. Bu önlemler kapsamında, federal ajanların varlığına rağmen göçmenlik denetimi yapılmayacak. Karar, turnuva süresince katılımcıların ve taraftarların güvenliğini sağlamayı hedeflerken, göçmenlik statüsü endişelerini gidermeyi amaçlıyor.",
@@ -764,38 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aa.com.tr/en/turkiye/trump-names-us-ambassador-to-turkiye-barrack-as-special-presidential-envoy-to-syria-iraq/3952409",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780235482926bbut9",
-        "title": "İsrail güçleri Lübnan'da Litani Nehri'nin ötesine ilerledi",
-        "summary": "Analistler, İsrail güçlerinin Lübnan'da Litani Nehri'nin ötesine geçerek askeri kontrol alanını kuzeye, Zahrani Nehri'ne doğru genişlettiğini belirtiyor. Bu ilerleme, İsrail'in Lübnan topraklarındaki askeri varlığını artırdığı şeklinde yorumlanıyor. Bölgedeki askeri hareketliliğin önemi ve potansiyel sonuçları uzmanlar tarafından değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T13:51:22.926Z",
-        "location": {
-            "lat": 33.4,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780235503628gf4mi",
-        "title": "Uydu Görüntüleri İsrail'in Gazze'deki Kontrolünü Genişletmesini ve Güney Gazze'nin Değişimini Gösteriyor",
-        "summary": "Uydu görüntüleri, İsrail'in Gazze Şeridi'ndeki askeri operasyonlarının bölgede yarattığı dönüşümü gözler önüne serdi. İsrail Başbakanı Binyamin Netanyahu'nun ordusuna Gazze'nin yüzde 70'ini işgal etme emri vermesinin ardından, özellikle güney Gazze'de önemli değişiklikler kaydedildi. Görüntüler, İsrail'in bölgedeki kontrolünü genişletme çabalarını ve bunun coğrafi etkilerini ortaya koyuyor. Bu durum, bölgedeki çatışmanın boyutunu ve İsrail'in askeri hedeflerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5965203/pexels-photo-5965203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T13:51:43.628Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
