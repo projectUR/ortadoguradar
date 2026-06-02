@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780365581250a4uh9",
+        "title": "Lübnan Sağlık Bakanlığı: İsrail Saldırılarında 3.433 Kişi Hayatını Kaybetti",
+        "summary": "Lübnan Sağlık Bakanlığı tarafından yapılan açıklamaya göre, İsrail'in Mart ayından bu yana Lübnan'a yönelik düzenlediği saldırılarda hayatını kaybedenlerin sayısı 3.433'e ulaştı. Bakanlık, aynı dönemde 10.395 kişinin de yaralandığını bildirdi. Bu veriler, bölgedeki çatışmaların insani boyutunu ve şiddetini gözler önüne seriyor. İsrail ile Lübnan arasındaki gerilimin devam ettiği ve can kayıplarının arttığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-02T01:59:41.250Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780355058348qyu9g",
         "title": "New York'ta İsrail Günü Geçit Töreni Düzenlendi",
         "summary": "New York'ta her yıl geleneksel olarak düzenlenen İsrail Günü Geçit Töreni bu yıl da gerçekleştirildi. Etkinliğe İsrail ve ABD'den çok sayıda resmi yetkili katılım gösterdi. Al Jazeera muhabiri Ava Warriner, geçit töreninde yer alan İsrailli ve Amerikalı yetkilileri ve katılımcıları mercek altına aldı. Bu geçit töreni, İsrail'in ABD'deki kültürel ve siyasi varlığını kutlayan önemli bir etkinlik olarak biliniyor.",
@@ -780,22 +796,6 @@
             "name": "Basra Körfezi, İran"
         },
         "source": "https://www.aa.com.tr/en/live-blog/latest-developments-us-iran-peace-process-israeli-attacks-on-lebanon-and-palestine/3019",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780220123293ppr5c",
-        "title": "Trump: İran Nükleer Silaha Sahip Olamaz",
-        "summary": "ABD Başkanı Donald Trump, yaptığı açıklamada Chicago Belediye Başkanı'nı 'işe yaramaz' olarak nitelendirdi. Trump, aynı zamanda İran'ın nükleer silaha sahip olamayacağını kesin bir dille ifade etti. Başkan, bu mesajın Papa'ya iletilmesi gerektiğini belirtti. Bu açıklama, İran'ın nükleer programına ilişkin uluslararası tartışmaları ve güvenlik endişelerini bir kez daha gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33848676/pexels-photo-33848676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-05-31T09:35:23.293Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-says-chicago-mayor-useless-iran-cannot-have-nuclear-weapon/3952063",
         "trendScore": 85,
         "isBreaking": false
     }
