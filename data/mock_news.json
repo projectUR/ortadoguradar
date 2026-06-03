@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780513820905s90y2",
+        "title": "İran, Kuveyt Havalimanı Terminalindeki Hasarın ABD Patriot Füzesi Arızasından Kaynaklandığını İddia Etti",
+        "summary": "İran, Kuveyt Uluslararası Havalimanı terminalinde meydana gelen hasarın, bir ABD Patriot füzesinin arızalanması sonucu oluştuğunu iddia etti. İran Devrim Muhafızları Ordusu (IRGC) sözcüsü, havalimanı terminaline yönelik herhangi bir İran saldırısı iddialarını kesin bir dille yalanladı. Bu açıklama, bölgedeki gerilimin ve karşılıklı suçlamaların devam ettiğini gösteriyor. Olayın detayları ve hasarın boyutu hakkında henüz net bir bilgi bulunmuyor. Haber, ABD'nin bölgedeki askeri varlığı ve İran ile ilişkileri bağlamında önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-03T19:10:20.905Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-damage-at-kuwait-airport-terminal-caused-by-us-patriot-missile-malfunction/3955764",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780499862885fnr1f",
         "title": "Filistin Yanlısı ABD Ordusu Gazisi Adam Hamawy New Jersey Ön Seçimlerini Kazandı",
         "summary": "Eski bir ABD Ordusu savaş cerrahı ve Filistin yanlısı bir isim olan Adam Hamawy, New Jersey'deki Demokrat Parti ön seçimlerini kazandı. Hamawy, daha önce Gazze'deki bir hastanede gönüllü olarak görev yapmış ve Filistin davasına olan desteğini açıkça ifade etmişti. Bu zafer, ABD siyasetinde Filistin meselesine verilen desteğin artan bir göstergesi olarak yorumlanıyor. Hamawy'nin Kongre'ye girmesi halinde, ABD'nin Orta Doğu politikaları ve İsrail-Filistin çatışması konusundaki tartışmalara yeni bir boyut katması bekleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/massive-displacement-unfolds-in-lebanese-capital-after-israeli-attack-threat/3953010",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1780310704741r0rff",
-        "title": "İran, Lübnan'a İsrail'e Karşı Direnişte Yardım Etmekten Çekinmeyeceğini Açıkladı",
-        "summary": "İran, Lübnan'a İsrail'in \"yasa dışı saldırganlığına\" karşı direnişinde destek vermekten çekinmeyeceğini duyurdu. İran Dışişleri Bakanlığı sözcüsü, Lübnan'daki ateşkesin, ABD ile olan savaşı sona erdirecek herhangi bir ateşkesin ve nihai anlaşmanın ayrılmaz bir parçası olduğunu belirtti. Bu açıklama, Tahran'ın bölgesel müttefiklerine olan desteğini ve Orta Doğu'daki mevcut gerilimlere bakış açısını yansıtıyor. İran, bölgedeki istikrarsızlığın giderilmesi için Lübnan'daki durumun kritik önem taşıdığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-01T10:45:04.741Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-will-not-hesitate-to-help-lebanon-resist-israel-s-illegal-aggression/3952913",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
