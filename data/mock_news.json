@@ -1,5 +1,21 @@
 [
     {
+        "id": "17805247257640mv4a",
+        "title": "Kuveyt, İran Saldırısını 'Menfur Saldırganlık' Olarak Niteledi",
+        "summary": "Kuveyt Savunma Bakanlığı, ülkenin uluslararası havalimanına yönelik gerçekleştirilen bir saldırıyı 'menfur İran saldırganlığı' olarak tanımladı. Bakanlık tarafından yapılan açıklamada, bu eylemin Kuveyt'in egemenliğine ve güvenliğine yönelik ciddi bir tehdit oluşturduğu vurgulandı. Saldırının bölgesel istikrara zarar verdiği belirtilirken, sorumluların tespit edilmesi için detaylı bir soruşturma başlatıldığı bildirildi. Kuveyt, uluslararası toplumu bu tür saldırgan eylemlere karşı durmaya çağırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5941993/pexels-photo-5941993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-03T22:12:05.764Z",
+        "location": {
+            "lat": 29.38,
+            "lng": 47.98,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780513820905s90y2",
         "title": "İran, Kuveyt Havalimanı Terminalindeki Hasarın ABD Patriot Füzesi Arızasından Kaynaklandığını İddia Etti",
         "summary": "İran, Kuveyt Uluslararası Havalimanı terminalinde meydana gelen hasarın, bir ABD Patriot füzesinin arızalanması sonucu oluştuğunu iddia etti. İran Devrim Muhafızları Ordusu (IRGC) sözcüsü, havalimanı terminaline yönelik herhangi bir İran saldırısı iddialarını kesin bir dille yalanladı. Bu açıklama, bölgedeki gerilimin ve karşılıklı suçlamaların devam ettiğini gösteriyor. Olayın detayları ve hasarın boyutu hakkında henüz net bir bilgi bulunmuyor. Haber, ABD'nin bölgedeki askeri varlığı ve İran ile ilişkileri bağlamında önem taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1780310682447u4rwo",
-        "title": "İsrail'in saldırı tehdidi sonrası Lübnan başkentinde büyük çaplı yerinden edilme yaşanıyor",
-        "summary": "İsrail'in Lübnan'a yönelik saldırı tehditlerinin ardından, Lübnan'ın başkenti Beyrut'ta büyük çaplı bir yerinden edilme süreci başladı. Anadolu Ajansı muhabirinin bildirdiğine göre, bu durum özellikle Beyrut'un güney banliyölerine giden yollarda ve girişlerde ciddi trafik sıkışıklığına neden oldu. Bölge sakinleri, olası bir çatışma endişesiyle şehir merkezinden veya riskli bölgelerden uzaklaşmaya çalışıyor. Bu gelişmeler, Orta Doğu'daki gerilimin tırmandığını ve sivil halk üzerinde doğrudan etkiler yarattığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/26975401/pexels-photo-26975401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-01T10:44:42.447Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/massive-displacement-unfolds-in-lebanese-capital-after-israeli-attack-threat/3953010",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
