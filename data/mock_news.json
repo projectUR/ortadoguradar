@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780606751770iwmgd",
+        "title": "İsrail'e Silah Kısıtlaması Getiren ABD Yasa Tasarısına Destek Artıyor",
+        "summary": "İsrail'e yönelik silah satışlarını kısıtlamayı amaçlayan bir ABD yasa tasarısı, Kongre'de giderek daha fazla destek buluyor. Tasarı, bir yıl önce sunulmasının ardından 73 ortak sponsora ulaşmış durumda. Tasarının savunucuları, yasanın geçmesi için hala 'uzun bir yol' olduğunu belirtse de, bu gelişme ABD'nin İsrail'e yönelik dış politikasında potansiyel bir değişimin sinyallerini veriyor. Bu durum, iki ülke arasındaki diplomatik ilişkiler ve bölgesel güvenlik dinamikleri açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5327509/pexels-photo-5327509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-04T20:59:11.770Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780598097897xbzgo",
         "title": "Trump Dönemi Yetkilisi John Bolton Belge Davasında Anlaşmayı Kabul Etti",
         "summary": "Eski ABD Ulusal Güvenlik Danışmanı John Bolton, hakkında açılan belge davasında bir anlaşmaya vardı. Başkan Donald Trump döneminde görev yapan Bolton, daha sonra Trump'ın önde gelen eleştirmenlerinden biri haline gelmişti. Bu hukuki süreç, eski bir üst düzey yetkilinin görev süresi boyunca edindiği belgelerle ilgili yasal sorumluluklarını gündeme getiriyor. Bolton'ın ulusal güvenlik danışmanı olarak görev yaptığı dönemdeki kararları ve edindiği bilgiler, ABD'nin dış politikası ve uluslararası ilişkileri açısından önem taşıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780365581250a4uh9",
-        "title": "Lübnan Sağlık Bakanlığı: İsrail Saldırılarında 3.433 Kişi Hayatını Kaybetti",
-        "summary": "Lübnan Sağlık Bakanlığı tarafından yapılan açıklamaya göre, İsrail'in Mart ayından bu yana Lübnan'a yönelik düzenlediği saldırılarda hayatını kaybedenlerin sayısı 3.433'e ulaştı. Bakanlık, aynı dönemde 10.395 kişinin de yaralandığını bildirdi. Bu veriler, bölgedeki çatışmaların insani boyutunu ve şiddetini gözler önüne seriyor. İsrail ile Lübnan arasındaki gerilimin devam ettiği ve can kayıplarının arttığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-02T01:59:41.250Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
