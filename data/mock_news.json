@@ -1,5 +1,37 @@
 [
     {
+        "id": "17805505742966ljta",
+        "title": "İsrail'in Gazze Şehri'ndeki Konutlara Yönelik Saldırılarında Dokuz Kişi Hayatını Kaybetti",
+        "summary": "Gazze Şehri'nde İsrail güçleri tarafından düzenlenen hava saldırılarında dokuz Filistinli hayatını kaybetti. Saldırılar, şehrin çeşitli bölgelerindeki konut binalarını hedef aldı. Hedef alınan binalarda çıkan yangınlar büyük hasara yol açarken, çevrede geniş çaplı yıkım meydana geldi. Olay yerinden gelen ilk bilgilere göre, çok sayıda ev kullanılamaz hale geldi ve bölgedeki gerilim tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-04T05:22:54.296Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1780550601409gmgba",
+        "title": "Endonezya Rupisi ABD Doları Karşısında Rekor Düşük Seviyeye Geriledi",
+        "summary": "Endonezya rupisi, ABD doları karşısında tarihi düşük seviyeye gerileyerek rekor kırdı. Bu değer kaybının temel nedeni, İran'daki olası bir savaştan kaynaklanan enerji şokunun Güneydoğu Asya ekonomileri üzerinde yarattığı belirsizlik olarak belirtiliyor. Orta Doğu'daki jeopolitik gerilimlerin küresel enerji fiyatlarını yükseltmesi, özellikle enerji ithalatına bağımlı Endonezya gibi ülkelerin ekonomilerini olumsuz etkiliyor. Bu durum, bölgesel para birimlerinin değer kaybetmesine yol açarak ekonomik istikrara yönelik endişeleri artırıyor. Küresel piyasalardaki bu dalgalanmaların, Orta Doğu'daki gelişmelerle doğrudan bağlantılı olduğu vurgulanıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11757218/pexels-photo-11757218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-04T05:23:21.409Z",
+        "location": {
+            "lat": -6.2,
+            "lng": 106.8,
+            "name": "Cakarta, Endonezya"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1780532048780oxmkz",
         "title": "Londra'da aktivistler, tutuklu Filistinli liderin heykelini dikmeye çalıştı",
         "summary": "Londra'da aktivistler, tutuklu Filistinli lider Marwan Barghouti'nin heykelini Parlamento Meydanı'na dikme girişiminde bulundu. Eylemciler, Barghouti'nin serbest bırakılması ve Filistin davasına dikkat çekmek amacıyla bu adımı attı. Ancak, polis ekipleri olaya müdahale ederek heykelin dikilmesini engelledi. Olay, Filistin meselesine uluslararası kamuoyunun dikkatini çekme çabalarının bir parçası olarak değerlendiriliyor. Barghouti, İsrail tarafından tutuklu bulunan önemli bir Filistinli siyasi figürdür.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-orders-residents-of-beiruts-southern-suburbs-to-evacuate-ahead-of-attacks/3953314",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780310509674pkc2c",
-        "title": "Etiyopya'da Başbakan Abiy'nin Partisinin Zaferi Beklenen Seçimler Yapılıyor",
-        "summary": "Etiyopya'da Başbakan Abiy Ahmed'in liderliğindeki Refah Partisi'nin büyük bir zafer kazanmasının beklendiği genel seçimler düzenleniyor. Ülke genelinde oy verme işlemleri devam ederken, kuzeydeki Tigray bölgesi ile Amhara bölgesinin bazı kesimlerinde devam eden güvenlik sorunları nedeniyle seçimler yapılamıyor. Bu durum, ülkedeki siyasi istikrarsızlığın ve iç çatışmaların seçim sürecini doğrudan etkilediğini gösteriyor. Seçimlerin sonuçları, Etiyopya'nın iç siyasetindeki dengeleri ve bölgesel ilişkilerini, özellikle Nil Nehri üzerindeki baraj projesi gibi konularda, etkileme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20879646/pexels-photo-20879646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-01T10:41:49.674Z",
-        "location": {
-            "lat": 9.0309,
-            "lng": 38.748,
-            "name": "Addis Ababa, Etiyopya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17803105666610z00z",
-        "title": "Ultra-Ortodoks Yahudi Göstericiler İsrail Polis Karakoluna Saldırdı",
-        "summary": "İsrail'de Ultra-Ortodoks Yahudi göstericiler, bir polis karakoluna saldırdı. Habere göre, göstericiler karakol binasına girmeye çalıştı ve olay yerinde güvenlik güçleriyle karşı karşıya geldi. Bu durum, bölgedeki gerilimi artırırken, saldırının nedenine dair detaylar henüz açıklanmadı. Güvenlik güçleri, karakol çevresinde geniş güvenlik önlemleri alarak durumu kontrol altına almaya çalıştı. Olayla ilgili soruşturma başlatıldığı ve gelişmelerin takip edildiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8635700/pexels-photo-8635700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-01T10:42:46.661Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
