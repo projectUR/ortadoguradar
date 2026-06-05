@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780682380956259vu",
+        "title": "İrlanda, İsrailli Bakanlar Ben-Gvir ve Smotrich'e Seyahat Yasağı Getirdi",
+        "summary": "İrlanda hükümeti, İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir ve Maliye Bakanı Bezalel Smotrich hakkında seyahat yasağı kararı aldı. İrlanda Başbakanı Martin, bu kararın, adı geçen bakanların Filistinlilerin Filistin'den çıkarılması yönündeki açıklamaları ve eylemleri nedeniyle alındığını ifade etti. Başbakan Martin, bakanların \"Filistinlilerin Filistin'den yok edilmesini arzuladıklarını\" gösteren ifadeler kullandığını vurguladı. Bu diplomatik adım, İrlanda'nın İsrail-Filistin meselesine yönelik sert duruşunu ve insan hakları ihlallerine karşı hassasiyetini ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7010180/pexels-photo-7010180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-05T17:59:40.956Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/5/ireland-imposes-travel-ban-on-israeli-ministers-ben-gvir-and-smotrich?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780673741966yijnk",
         "title": "WFP'den İran'a Yönelik Olası Savaş Uyarısı: Milyonlarca Kişi Açlıkla Karşı Karşıya Kalabilir",
         "summary": "Birleşmiş Milletler Dünya Gıda Programı (WFP), ABD ve İsrail'in İran'a yönelik olası bir çatışmasının bölgede ciddi insani sonuçlar doğurabileceği uyarısında bulundu. WFP'den yapılan açıklamaya göre, böyle bir senaryonun 45 milyona kadar insanı akut açlıkla karşı karşıya bırakabileceği belirtildi. Kuruluş, potansiyel bir savaşın gıda güvenliği üzerindeki yıkıcı etkilerine dikkat çekti. Bu durumun, halihazırda kırılgan olan bölgedeki insani krizi derinleştirebileceği vurgulandı.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/japan-expresses-deep-concern-over-israeli-ground-operations-in-southern-lebanon/3955083",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780482408569gu0r4",
-        "title": "İran, ABD'yi Kuveyt ve Bahreyn'deki Üslerden Saldırı Düzenlemekle Suçladı",
-        "summary": "İran, ABD'yi Kuveyt ve Bahreyn'deki askeri üslerinden bir petrol tankerine ve stratejik öneme sahip Kasım Adası'na saldırılar düzenlemekle itham etti. Tahran yönetimi, bu iddia edilen saldırılar nedeniyle Kuveyt ve Bahreyn hükümetlerinin 'doğrudan ve açık sorumluluk' taşıdığını belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek nitelikte olup, ABD'nin Körfez'deki askeri varlığını ve işbirliğini yeniden gündeme getirdi. İran'ın suçlamaları, Orta Doğu'da devam eden güvenlik endişelerini ve denizcilik faaliyetlerine yönelik tehditleri bir kez daha ön plana çıkardı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5941993/pexels-photo-5941993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-03T10:26:48.569Z",
-        "location": {
-            "lat": 27,
-            "lng": 50,
-            "name": "Basra Körfezi"
-        },
-        "source": "https://www.aa.com.tr/en/americas/iran-accuses-us-of-launching-attacks-on-oil-tanker-qeshm-island-from-bases-in-kuwait-bahrain/3955060",
         "trendScore": 85,
         "isBreaking": false
     }
