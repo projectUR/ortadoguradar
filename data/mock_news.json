@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780618369363lm833",
+        "title": "İsrail Yüksek Mahkemesi, Filistinli Mahkumlara Kızılhaç Ziyaret Yasağını İptal Etti",
+        "summary": "İsrail Yüksek Mahkemesi, hükümetin Uluslararası Kızılhaç Örgütü'nün İsrail hapishanelerindeki Filistinli mahkumları ziyaret etmesini yasaklayan kararını iptal etti. Bu karar, mahkumların insani koşullarının denetlenmesi ve aileleriyle iletişimlerinin sağlanması açısından önemli bir gelişme olarak değerlendiriliyor. Uluslararası Kızılhaç, çatışma bölgelerindeki mahkumların haklarını koruma misyonuyla hareket eden tarafsız bir kuruluştur. Mahkemenin bu adımı, uluslararası insancıl hukukun uygulanması yönünde atılmış bir adım olarak yorumlanıyor. Kararın, İsrail ile Filistin arasındaki gerilimli ilişkilerde yeni bir boyut açabileceği belirtiliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10475004/pexels-photo-10475004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-05T00:12:49.363Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17806128216747wzg0",
         "title": "Lübnan'dan Son Gelişmeler: Hizbullah ABD Planını Redderken İsrail Saldırılarına Devam Ediyor",
         "summary": "Lübnan'da devam eden şiddet olayları gündemdeki yerini koruyor. Bölgeden gelen son bilgilere göre, Hizbullah'ın Amerika Birleşik Devletleri tarafından sunulan bir planı reddettiği bildirildi. Bu gelişmeler yaşanırken, İsrail'in bölgedeki saldırılarını sürdürdüğü belirtiliyor. Yeni bir diplomatik girişimin, şiddeti dindirme konusunda yetersiz kaldığı gözlemleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/3-gazans-killed-by-israeli-fire-in-latest-ceasefire-violations/3954056",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "178039943337063bgq",
-        "title": "İran, ABD ile savaşın yeniden başlaması halinde silahlı kuvvetlerinin 'geçmişten daha fazla' hazır olduğunu bildirdi",
-        "summary": "İran, ABD ile olası bir savaşın yeniden başlaması durumunda silahlı kuvvetlerinin 'geçmişten daha fazla' hazır olduğunu açıkladı. İran Devrim Muhafızları Ordusu (IRGC) sözcüsü tarafından yapılan açıklamada, Tahran'ın 'tüm olası senaryolara' hazırlıklı olduğu vurgulandı. Bu açıklama, bölgedeki gerilimin devam ettiğini ve İran'ın potansiyel çatışmalara karşı duruşunu ortaya koyuyor. İranlı yetkililer, ülkenin savunma kapasitesine olan güvenini dile getirerek, herhangi bir tehdide karşı koymaya hazır olduklarını belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-02T11:23:53.370Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-its-armed-forces-ready-more-than-in-the-past-if-war-renews-with-us/3954013",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
