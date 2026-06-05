@@ -1,5 +1,37 @@
 [
     {
+        "id": "1780673741966yijnk",
+        "title": "WFP'den İran'a Yönelik Olası Savaş Uyarısı: Milyonlarca Kişi Açlıkla Karşı Karşıya Kalabilir",
+        "summary": "Birleşmiş Milletler Dünya Gıda Programı (WFP), ABD ve İsrail'in İran'a yönelik olası bir çatışmasının bölgede ciddi insani sonuçlar doğurabileceği uyarısında bulundu. WFP'den yapılan açıklamaya göre, böyle bir senaryonun 45 milyona kadar insanı akut açlıkla karşı karşıya bırakabileceği belirtildi. Kuruluş, potansiyel bir savaşın gıda güvenliği üzerindeki yıkıcı etkilerine dikkat çekti. Bu durumun, halihazırda kırılgan olan bölgedeki insani krizi derinleştirebileceği vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11816420/pexels-photo-11816420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-05T15:35:41.966Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/5/wfp-war-on-iran-pushing-millions-towards-hunger?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17806738112343uhzh",
+        "title": "Avusturyalı STK, Gazze'deki 'dayanılmaz' insani koşulları kınadı",
+        "summary": "Avusturyalı sivil toplum kuruluşu Initiative Christian Orient, Gazze Şeridi'ndeki insani durumun 'dayanılmaz' olduğunu belirtti. Kuruluş, bölgede gıda ve su kıtlığının ciddi boyutlara ulaştığını vurguladı. Yapılan açıklamada, doktorların mevcut koşullar altında ciddi hastalık salgınlarının baş göstermesinden endişe duyduğu ifade edildi. STK, uluslararası toplumu Gazze'deki insani krize dikkat çekmeye ve çözüm bulmaya çağırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193769/pexels-photo-36193769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-05T15:36:51.234Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/austrian-ngo-denounces-unbearable-humanitarian-conditions-in-gaza/3957882",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17806614212614xahu",
         "title": "BM: ABD-İran Savaşı Milyonları Gıda Krizine Sürüklüyor",
         "summary": "Birleşmiş Milletler (BM) Dünya Gıda Programı (WFP), ABD ile İran arasındaki olası bir savaşın milyonlarca insanı gıda krizine sürükleyebileceği konusunda uyarıda bulundu. WFP'den yapılan açıklamada, söz konusu savaşın birçok ülkede gıda fiyatlarında önemli artışlara neden olduğu belirtildi. Bu durumun, bölgedeki ve çevre ülkelerdeki milyonlarca kişinin temel gıda maddelerine erişimini zorlaştırarak insani bir krize yol açabileceği ifade edildi. Program, uluslararası toplumu bu duruma karşı önlem almaya çağırdı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/iran-accuses-us-of-launching-attacks-on-oil-tanker-qeshm-island-from-bases-in-kuwait-bahrain/3955060",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780445525412dputh",
-        "title": "İran Savaşı Canlı: ABD, İran'ın Qeshm Adasını Vurdu; Tahran'ın Kuveyt ve Bahreyn'e Saldırdığı İddia Edildi",
-        "summary": "Orta Doğu'da gerilimin tırmandığı bir dönemde, ABD'nin İran'ın Qeshm adasına hava saldırıları düzenlediği ve Tahran'ın Kuveyt ile Bahreyn'e yönelik saldırılar gerçekleştirdiği iddia edildi. Bu gelişmeler, bölgedeki 'İran savaşı' atmosferini daha da kızıştırdı. Öte yandan, ABD Başkanı Trump'ın İsrail Başbakanı Netanyahu'ya, İsrail'in Lübnan'ın başkenti Beyrut'un banliyölerini vurma tehdidi nedeniyle sert bir dille tepki gösterdiği bildirildi. Bu durum, ABD ile İsrail arasındaki diplomatik ilişkilerde de gerilime yol açtı. Bölgedeki çok yönlü çatışma ve diplomatik gerilimler yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6471683/pexels-photo-6471683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-03T00:12:05.412Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17804391324011ii5h",
-        "title": "İngiliz çiftin İran'daki hapis cezası temyiz başvurusu reddedildi, aile açıkladı",
-        "summary": "İran'da tutuklu bulunan İngiliz çift Lindsay ve Craig Foreman'ın hapis cezalarına ilişkin temyiz başvurusu reddedildi. Aile tarafından yapılan açıklamaya göre, çiftin temyiz talebi geri çevrildi ve ceza onandı. Lindsay ve Craig Foreman, dünya turu kapsamında motosikletle seyahat ederken Ocak 2025'te İran'da gözaltına alınmıştı. Çiftin durumu, Birleşik Krallık ile İran arasındaki diplomatik ilişkilerde gerilime neden olmaya devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6065075/pexels-photo-6065075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-02T22:25:32.401Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
