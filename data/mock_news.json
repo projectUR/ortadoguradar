@@ -1,5 +1,37 @@
 [
     {
+        "id": "1780635442837dn0sn",
+        "title": "Mogadişu'daki çatışmalar Somali'nin siyasi krizini neden yeniden derinleştiriyor?",
+        "summary": "Somali'de seçimler üzerindeki gerilimler şiddetli çatışmalara dönüştü. Başkent Mogadişu'da yaşanan bu olaylar, şehir sakinlerini korku ve günlük yaşamda aksaklıklarla karşı karşıya bıraktı. Ülkenin siyasi krizini yeniden derinleştiren bu gelişmeler, seçim sürecindeki anlaşmazlıkların tırmanmasıyla ilişkilendiriliyor. Çatışmaların, Somali'nin istikrarsızlığını daha da artırmasından endişe ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31914898/pexels-photo-31914898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-05T04:57:22.837Z",
+        "location": {
+            "lat": 2.0469,
+            "lng": 45.3182,
+            "name": "Mogadişu, Somali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780635465503ftnu8",
+        "title": "ABD'li Demokrat vekilin İsrail ile askeri işbirliğini derinleştirme önlemini engelleme girişimi başarısız oldu",
+        "summary": "ABD Kongresi'nde, İsrail ile askeri işbirliğini derinleştirmeyi amaçlayan bir yasa tasarısı, Demokrat Parti'den bir vekilin engelleme çabalarına rağmen kabul edildi. Kongre Üyesi Ro Khanna, söz konusu önlemin İsrail Başbakanı Binyamin Netanyahu'nun konumunu güçlendireceğini savunarak tasarının iptali için girişimde bulundu. Ancak Khanna'nın bu çabası, yeterli desteği alamayarak başarısızlıkla sonuçlandı. Bu gelişme, ABD'nin İsrail ile savunma ilişkilerini daha da pekiştirme yönündeki kararlılığını gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34693694/pexels-photo-34693694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-05T04:57:45.503Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780618369363lm833",
         "title": "İsrail Yüksek Mahkemesi, Filistinli Mahkumlara Kızılhaç Ziyaret Yasağını İptal Etti",
         "summary": "İsrail Yüksek Mahkemesi, hükümetin Uluslararası Kızılhaç Örgütü'nün İsrail hapishanelerindeki Filistinli mahkumları ziyaret etmesini yasaklayan kararını iptal etti. Bu karar, mahkumların insani koşullarının denetlenmesi ve aileleriyle iletişimlerinin sağlanması açısından önemli bir gelişme olarak değerlendiriliyor. Uluslararası Kızılhaç, çatışma bölgelerindeki mahkumların haklarını koruma misyonuyla hareket eden tarafsız bir kuruluştur. Mahkemenin bu adımı, uluslararası insancıl hukukun uygulanması yönünde atılmış bir adım olarak yorumlanıyor. Kararın, İsrail ile Filistin arasındaki gerilimli ilişkilerde yeni bir boyut açabileceği belirtiliyor.",
@@ -764,38 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iraqs-asaib-ahl-al-haq-to-disengage-from-popular-mobilization-forces-place-weapons-under-state-control/3954095",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1780399389391pocj5",
-        "title": "Bahreyn, Vatandaşlarının Irak ve İran'a Seyahatini Yasakladı",
-        "summary": "Bahreyn, vatandaşlarının Irak ve İran'a seyahat etmesini yasakladığını duyurdu. Bahreyn İçişleri Bakanlığı'ndan yapılan açıklamada, kararın \"gergin güvenlik durumu\" nedeniyle alındığı belirtildi. Bakanlık, bu gergin güvenlik durumunun \"günahkar İran saldırganlığının yansımalarından\" kaynaklandığını ifade etti. Bu seyahat yasağı, bölgedeki güvenlik endişelerinin bir göstergesi olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4977524/pexels-photo-4977524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-02T11:23:09.391Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-bans-citizens-from-traveling-to-iraq-iran-over-tense-security-situation/3954061",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780399411770j43r1",
-        "title": "İsrail Ateşiyle 3 Gazalı Hayatını Kaybetti: Son Ateşkes İhlalleri",
-        "summary": "Gazze Şeridi'nde meydana gelen son olaylarda, İsrail ateşi sonucu üç Gazalı hayatını kaybettiği bildirildi. Bu gelişme, bölgedeki ateşkesin son ihlalleri arasında yer aldı. İsrail ordusunun, Filistin yerleşim bölgesinde ateşkesi günlük olarak ihlal etmeyi sürdürdüğü belirtiliyor. Yaşanan can kayıpları, bölgedeki gerilimi tırmandırırken, taraflar arasındaki hassas durumu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-02T11:23:31.770Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-gazans-killed-by-israeli-fire-in-latest-ceasefire-violations/3954056",
         "trendScore": 85,
         "isBreaking": true
     }
