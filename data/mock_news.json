@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780787240085k1iu9",
+        "title": "Hak grubu, Sudan'ın orta kesimindeki bir pazarda insansız hava aracı saldırısında 11 kişinin öldüğünü bildirdi",
+        "summary": "Bir hak grubu, Sudan'ın orta kesiminde bir pazara düzenlenen insansız hava aracı saldırısında 11 kişinin hayatını kaybettiğini duyurdu. Acil Durum Avukatları adlı grup, saldırıda onlarca kişinin de yaralandığını belirtti. Bu saldırının, benzer insansız hava aracı saldırılarından 24 saatten kısa bir süre sonra gerçekleştiği ifade edildi. Sudan'da devam eden çatışmaların siviller üzerindeki etkisi endişe yaratmaya devam ederken, bölgedeki güvenlik durumu ve sivil kayıplar uluslararası kamuoyunun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5014710/pexels-photo-5014710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T23:07:20.085Z",
+        "location": {
+            "lat": 14.5,
+            "lng": 32,
+            "name": "Orta Sudan, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1780781843762cvz7m",
         "title": "Pentagon'dan İsrail Casusluğu Tehdit Seviyesi Uyarısı: 'Kritik'",
         "summary": "ABD Savunma Bakanlığı (Pentagon), İsrail'in casusluk faaliyetlerine ilişkin tehdit seviyesini 'kritik' olarak yükselttiğini bildirdi. Bu karar, ABD ve İsrail'in İran ile arasındaki gerilim ve ateşkes görüşmeleri sırasında artan casusluk faaliyetlerine dair endişelerden kaynaklanıyor. Bakanlık raporları, bölgedeki hassas dengeler ve devam eden çatışmalar bağlamında bu tür istihbarat faaliyetlerinin risklerini vurguluyor. Gelişme, iki müttefik ülke arasındaki istihbarat ilişkilerinde potansiyel bir gerilime işaret ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178064954982183y4p",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 4 Kişi Hayatını Kaybetti",
-        "summary": "İsrail ordusu, Güney Lübnan'a yönelik bir dizi hava saldırısı düzenledi. Cuma sabahı erken saatlerde gerçekleşen bu saldırılarda ilk belirlemelere göre 4 kişi yaşamını yitirirken, en az 14 kişi de yaralandı. Bölgedeki kırılgan ateşkesi güçlendirmeye yönelik diplomatik çabalara rağmen yaşanan bu olaylar, gerilimin tırmandığını gösteriyor. Saldırıların detaylarına ilişkin henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T08:52:29.821Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-kills-4-in-a-dozen-attacks-on-southern-lebanon/3957274",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
