@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780747639824k8q6g",
+        "title": "İsrail güçleri Batı Şeria'da Filistinli bebeği öldürdü, ebeveynlerini yaraladı",
+        "summary": "Batı Şeria'da yaşanan olayda, İsrail güçlerinin açtığı ateş sonucu Filistinli bir bebek hayatını kaybetti. Olayda bebeğin ebeveynleri de yaralandı. Bu gelişme, bölgedeki gerilimin arttığı bir dönemde yaşandı. İsrail'in 2023 yılında Gazze'ye yönelik başlattığı operasyonlardan bu yana Batı Şeria'daki şiddet olaylarında belirgin bir artış gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8553677/pexels-photo-8553677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T12:07:19.824Z",
+        "location": {
+            "lat": 31.9038,
+            "lng": 35.2033,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1780743335886krbun",
         "title": "Ürdün 2026 Dünya Kupası Önizlemesi: İzlenecek Oyuncular, Grup Maçları ve Kadro",
         "summary": "Ürdün Milli Futbol Takımı, 2026 Dünya Kupası'na katılmaya hak kazanarak tarihinde bir ilki gerçekleştirdi. Bu önemli başarı, ülkenin futbol camiasında büyük bir heyecanla karşılandı. Takım, daha önce 2023 Asya Kupası ve 2025 Arap Kupası'nda finallere yükselerek dikkatleri üzerine çekmişti. Dünya Kupası'ndaki ilk katılımları, Ürdün futbolu için tarihi bir dönüm noktası olarak değerlendiriliyor. Haber, takımın izlenecek oyuncuları, grup maçları ve kadrosu hakkında detaylı bir önizleme sunuyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17805891701089118x",
-        "title": "Suudi Arabistan Veliaht Prensi'nden Bahreyn'e İran Saldırıları Sonrası Destek Mesajı",
-        "summary": "Suudi Arabistan Veliaht Prensi Muhammed bin Salman, Bahreyn Kralı Hamad bin İsa Al Halife ile bir telefon görüşmesi gerçekleştirdi. Suudi Basın Ajansı'nın aktardığına göre, Veliaht Prens görüşmede, İran'ın Bahreyn'e yönelik saldırılarının ardından ülkesinin Bahreyn'e olan desteğini bir kez daha vurguladı. Görüşmede iki ülke arasındaki güçlü ilişkiler ve bölgesel güvenlik konuları ele alındı. Bu destek mesajı, Körfez bölgesindeki güvenlik dinamikleri açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5489419/pexels-photo-5489419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-04T16:06:10.108Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-crown-prince-reiterates-support-for-bahrain-following-iranian-attacks/3956769",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
