@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780761094738qied5",
+        "title": "İsrail'in Lübnan'a Yönelik Saldırılarında Aralarında Üst Düzey Askerlerin de Bulunduğu 10 Kişi Hayatını Kaybetti",
+        "summary": "Lübnan'da İsrail tarafından gerçekleştirilen saldırılarda aralarında üst düzey askerlerin de bulunduğu 10 kişi yaşamını yitirdi. Hayatını kaybedenler arasında bir tuğgeneral, bir yüzbaşı ve bir askerin Khardali-Nabatieh yolu üzerinde seyahat ederken öldürüldüğü bildirildi. Saldırılar, bölgedeki gerilimi artırırken, can kayıpları endişelere yol açtı. Olay, iki ülke arasındaki çatışmaların şiddetlendiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T15:51:34.738Z",
+        "location": {
+            "lat": 33.55,
+            "lng": 35.48,
+            "name": "Nabatiye, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17807554256468b5gs",
         "title": "Lübnan ve İsrail Arasındaki Sürekli Çatışma Dinamikleri",
         "summary": "Lübnan ve İsrail arasındaki süregelen gerilim ve çatışma dinamikleri haberin ana odağını oluşturmaktadır. Haberde, Lübnan'ın İsrail'in çok cepheli savaş stratejilerindeki merkezi konumu ve önemi incelenmektedir. Bu durum, iki ülke arasındaki ilişkilerin karmaşıklığını ve bölgesel güvenlik mimarisindeki kritik rolünü gözler önüne sermektedir. Analiz, Lübnan'ın İsrail'in güvenlik algısında neden bu kadar önemli bir yer tuttuğunu açıklamayı hedeflemektedir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/4/pro-palestinian-badges-should-not-be-worn-by-nhs-staff-uk-review-suggests?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1780588986577tnc8g",
-        "title": "Trump, İran Savaşı Yetkilerini Kısıtlayan Cumhuriyetçileri Eleştirdi",
-        "summary": "ABD Temsilciler Meclisi'nin, İran'a karşı olası bir savaşı kısıtlayacak savaş yetkileri tasarısını kabul etmesinin ardından, eski Başkan Donald Trump, bu tasarıya oy veren Cumhuriyetçi milletvekillerini \"vatansever olmamakla\" suçladı. Trump, milletvekillerini hedef alarak sert eleştirilerde bulundu. Tasarının destekçileri, şimdi Senato'nun da bu önlemi ilerletmesi çağrısında bulunuyor. Bu gelişme, ABD'nin İran politikası ve başkanın savaş açma yetkileri üzerindeki tartışmaları yeniden alevlendirdi ve Washington'daki siyasi gerilimi artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-04T16:03:06.577Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
