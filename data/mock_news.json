@@ -1,5 +1,21 @@
 [
     {
+        "id": "17807241068696vdya",
+        "title": "İsrailli Asker, El Halil Yakınlarında Yedi Aylık Filistinli Bebeği Vurarak Öldürdü",
+        "summary": "Batı Şeria'da, El Halil kenti yakınlarında meydana gelen bir olayda, yedi aylık Filistinli bebek Sam Abu Haikal'ın İsrailli bir asker tarafından vurularak hayatını kaybettiği bildirildi. Filistinli kaynaklar, olayın detaylarına ilişkin bilgi verirken, İsrail ordusundan konuya dair henüz resmi bir açıklama yapılmadı. Bu gelişme, bölgedeki hassas güvenlik durumunu ve sivil kayıplar konusundaki endişeleri yeniden gündeme getirdi. Olayın ardından bölgede tansiyonun yükselmesinden endişe ediliyor ve uluslararası toplumdan tepkiler bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5202421/pexels-photo-5202421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T05:35:06.869Z",
+        "location": {
+            "lat": 31.5333,
+            "lng": 35.0917,
+            "name": "El Halil, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1780709359967dpr4b",
         "title": "Gazze'deki balıkçılar, kapı pervazlarından yaptıkları teknelerle geçimlerini sağlıyor",
         "summary": "Gazze'deki balıkçılar, enkazdan kurtarılan fiberglas, ahşap ve kapı pervazları gibi malzemelerden yapılmış derme çatma teknelerle geçimlerini sağlamaya çalışıyor. Bölgedeki zorlu koşullar altında balıkçılık faaliyetlerini sürdürmek için yaratıcı çözümler üreten balıkçılar, atık malzemeleri yeniden değerlendirerek hayatta kalma mücadelesi veriyor. Bu durum, Gazze halkının kısıtlı imkanlara rağmen gösterdiği direnci ve adaptasyonu gözler önüne seriyor. Balıkçılar, bu ilkel teknelerle denize açılarak ailelerinin geçimini sağlamak için mücadele ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/3/pro-palestine-us-army-veteran-adam-hamawy-wins-new-jersey-primary?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1780499918749syobg",
-        "title": "ABD'nin Vekil İstihbarat Şefi Bill Pulte'nin Nitelikleri Sorgulanıyor",
-        "summary": "ABD Başkanı Trump'ın son ataması olan vekil istihbarat şefi Bill Pulte'nin nitelikleri, hem Cumhuriyetçi hem de Demokrat partiden milletvekilleri tarafından sorgulanıyor. Milletvekilleri, Pulte'nin bu kritik görev için yeterli deneyime sahip olup olmadığını tartışıyor. Bu durum, ABD'nin ulusal güvenlik ve dış politika stratejileri açısından önemli bir pozisyonda yaşanan belirsizliği gündeme getiriyor. İstihbarat camiasındaki bu atama, Orta Doğu dahil olmak üzere küresel gelişmeleri etkileyebilecek potansiyele sahip olması nedeniyle yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8438944/pexels-photo-8438944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-03T15:18:38.749Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/3/doesnt-seem-qualified-who-is-bill-pulte-acting-us-intelligence-chief?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
