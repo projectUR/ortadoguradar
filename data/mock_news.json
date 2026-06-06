@@ -1,5 +1,53 @@
 [
     {
+        "id": "1780781843762cvz7m",
+        "title": "Pentagon'dan İsrail Casusluğu Tehdit Seviyesi Uyarısı: 'Kritik'",
+        "summary": "ABD Savunma Bakanlığı (Pentagon), İsrail'in casusluk faaliyetlerine ilişkin tehdit seviyesini 'kritik' olarak yükselttiğini bildirdi. Bu karar, ABD ve İsrail'in İran ile arasındaki gerilim ve ateşkes görüşmeleri sırasında artan casusluk faaliyetlerine dair endişelerden kaynaklanıyor. Bakanlık raporları, bölgedeki hassas dengeler ve devam eden çatışmalar bağlamında bu tür istihbarat faaliyetlerinin risklerini vurguluyor. Gelişme, iki müttefik ülke arasındaki istihbarat ilişkilerinde potansiyel bir gerilime işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5380651/pexels-photo-5380651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T21:37:23.762Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17807818641605t352",
+        "title": "Tunuslular basın özgürlüğü ve siyasi mahkumların serbest bırakılması için protesto düzenledi",
+        "summary": "Tunus'ta vatandaşlar, basın özgürlüğünün kısıtlanmasını ve siyasi mahkumların tutukluluğunu protesto etmek amacıyla gösteriler düzenledi. Başkent Tunus'ta toplanan kalabalıklar, hükümetin ifade özgürlüğü üzerindeki baskısını eleştirdi. Göstericiler, tutuklu bulunan siyasi muhaliflerin derhal serbest bırakılmasını talep etti. Ülkedeki demokratik kazanımların tehlikede olduğu yönündeki endişeler dile getirildi. Eylemciler, uluslararası toplumu Tunus'taki insan hakları ihlallerine dikkat çekmeye çağırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7790203/pexels-photo-7790203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T21:37:44.160Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1780781934409udrie",
+        "title": "İşgal Altındaki Batı Şeria'da İsrail Askerlerince Vurulan Bebeğin Cenazesi Düzenlendi",
+        "summary": "İşgal altındaki Batı Şeria'da, İsrail askerleri tarafından vurularak hayatını kaybeden yedi aylık bir bebeğin cenaze töreni gerçekleştirildi. Bebeğin kefenlenmiş naaşı, Filistin bayrağına sarılı olarak babası tarafından mezarlığa taşındı. Bu olay, bölgedeki güvenlik durumunun hassasiyetini ve siviller üzerindeki etkilerini bir kez daha gündeme getirdi. Filistinliler arasında derin üzüntüye yol açan bu gelişme, uluslararası kamuoyunun dikkatini çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7317677/pexels-photo-7317677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T21:38:54.409Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780771717322q09a9",
         "title": "Ermenistan seçimleri neden yurt dışında bu kadar yakından izleniyor?",
         "summary": "Ermenistan'da düzenlenecek seçimler, uluslararası arenada büyük bir dikkatle takip ediliyor. Rusya, Amerika Birleşik Devletleri ve Avrupa Birliği gibi önemli küresel aktörler, bölgedeki jeopolitik çıkarları nedeniyle bu seçimlere özel bir ilgi gösteriyor. Seçim sonuçlarının, Güney Kafkasya'daki güç dengeleri ve bölgesel istikrar üzerinde doğrudan etkileri olabileceği belirtiliyor. Bu durum, Ermenistan'ın stratejik konumu ve büyük güçlerin bölgedeki rekabeti göz önüne alındığında, seçimlerin sadece iç siyasi bir olaydan öte bir anlam taşıdığını gösteriyor.",
@@ -748,54 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-kills-4-in-a-dozen-attacks-on-southern-lebanon/3957274",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178064957457087j16",
-        "title": "İsrail ordusu, yenilenen ateşkese rağmen 3 Lübnan kasabası sakinlerini tahliye etmeleri konusunda uyardı",
-        "summary": "İsrail ordusu, yenilenen ateşkese rağmen Lübnan'ın üç kasabasında yaşayan sakinleri tahliye etmeleri yönünde uyarıda bulundu. Bu uyarı, 17 Nisan'dan bu yana yürürlükte olan ve kırılganlığını koruyan ateşkes ortamında geldi. Washington tarafından Temmuz ayı başına kadar uzatılan ateşkese rağmen İsrail'in bu adımı bölgedeki gerilimi artırma potansiyeli taşıyor. Gelişmeler, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/23877515/pexels-photo-23877515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T08:52:54.570Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-warns-residents-of-3-lebanese-towns-to-evacuate-despite-renewed-ceasefire/3957264",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1780635442837dn0sn",
-        "title": "Mogadişu'daki çatışmalar Somali'nin siyasi krizini neden yeniden derinleştiriyor?",
-        "summary": "Somali'de seçimler üzerindeki gerilimler şiddetli çatışmalara dönüştü. Başkent Mogadişu'da yaşanan bu olaylar, şehir sakinlerini korku ve günlük yaşamda aksaklıklarla karşı karşıya bıraktı. Ülkenin siyasi krizini yeniden derinleştiren bu gelişmeler, seçim sürecindeki anlaşmazlıkların tırmanmasıyla ilişkilendiriliyor. Çatışmaların, Somali'nin istikrarsızlığını daha da artırmasından endişe ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31914898/pexels-photo-31914898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T04:57:22.837Z",
-        "location": {
-            "lat": 2.0469,
-            "lng": 45.3182,
-            "name": "Mogadişu, Somali"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1780635465503ftnu8",
-        "title": "ABD'li Demokrat vekilin İsrail ile askeri işbirliğini derinleştirme önlemini engelleme girişimi başarısız oldu",
-        "summary": "ABD Kongresi'nde, İsrail ile askeri işbirliğini derinleştirmeyi amaçlayan bir yasa tasarısı, Demokrat Parti'den bir vekilin engelleme çabalarına rağmen kabul edildi. Kongre Üyesi Ro Khanna, söz konusu önlemin İsrail Başbakanı Binyamin Netanyahu'nun konumunu güçlendireceğini savunarak tasarının iptali için girişimde bulundu. Ancak Khanna'nın bu çabası, yeterli desteği alamayarak başarısızlıkla sonuçlandı. Bu gelişme, ABD'nin İsrail ile savunma ilişkilerini daha da pekiştirme yönündeki kararlılığını gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34693694/pexels-photo-34693694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T04:57:45.503Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
