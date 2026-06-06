@@ -1,5 +1,37 @@
 [
     {
+        "id": "1780709359967dpr4b",
+        "title": "Gazze'deki balıkçılar, kapı pervazlarından yaptıkları teknelerle geçimlerini sağlıyor",
+        "summary": "Gazze'deki balıkçılar, enkazdan kurtarılan fiberglas, ahşap ve kapı pervazları gibi malzemelerden yapılmış derme çatma teknelerle geçimlerini sağlamaya çalışıyor. Bölgedeki zorlu koşullar altında balıkçılık faaliyetlerini sürdürmek için yaratıcı çözümler üreten balıkçılar, atık malzemeleri yeniden değerlendirerek hayatta kalma mücadelesi veriyor. Bu durum, Gazze halkının kısıtlı imkanlara rağmen gösterdiği direnci ve adaptasyonu gözler önüne seriyor. Balıkçılar, bu ilkel teknelerle denize açılarak ailelerinin geçimini sağlamak için mücadele ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/34454533/pexels-photo-34454533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T01:29:19.967Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1780709385742ae1ck",
+        "title": "Orta Doğu'da Gerilim Tırmanıyor: Lübnan'da İnsani Kriz Derinleşirken, Bölgesel Çatışma Endişeleri Artıyor",
+        "summary": "Birleşmiş Milletler, İsrail'in Lübnan'a yönelik saldırıları sonucunda ülkede 1.4 milyon kişinin insani yardıma muhtaç olduğunu açıkladı. Bu durum, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Haber başlığında belirtilen ABD'nin İran radar sitelerine yönelik saldırıları ve Kuveyt'in hedef alınması gibi gelişmeler, Orta Doğu'da gerilimin hızla tırmandığına işaret ediyor. Bölgede insani krizin derinleştiği ve çatışmaların yayılma riskinin arttığı endişesi hakim.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-06T01:29:45.742Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1780701510183xw0qv",
         "title": "BM Güvenlik Konseyi, Husilerin alıkoymalarının ikinci yıl dönümünde serbest bırakılma çağrılarını yineledi",
         "summary": "Birleşmiş Milletler Güvenlik Konseyi, Yemen'deki Husiler tarafından alıkonulan kişilerin ikinci yıl dönümünü anarak, bu kişilerin derhal serbest bırakılması yönündeki taleplerini yineledi. Konsey üyeleri, insani yardım sağlayanlara yönelik her türlü tehdidin kabul edilemez olduğunu vurguladı. Yapılan açıklamada, bu tür tehditlerin Yemen'deki zaten vahim olan insani durumu daha da kötüleştirdiği belirtildi. Güvenlik Konseyi, tüm taraflara uluslararası hukuka uyma ve insani yardım erişimini kolaylaştırma çağrısında bulundu.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/3/doesnt-seem-qualified-who-is-bill-pulte-acting-us-intelligence-chief?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780499960964uh0pz",
-        "title": "İsrail Ordusu, Gazze'de Ateşkes İhlaliyle 3 Filistinliyi Öldürdü",
-        "summary": "İsrail ordusu, Gazze Şeridi'nin merkezinde gerçekleştirdiği operasyonda üç Filistinliyi öldürdü. Bu olay, bölgede devam eden ateşkesin son ihlali olarak kayıtlara geçti. Tel Aviv yönetiminin, Ekim 2025'ten bu yana yürürlükte olan Gazze ateşkesini günlük olarak ihlal etmeye devam ettiği belirtiliyor. Bölgedeki gerilim, bu tür olaylarla tırmanmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-03T15:19:20.964Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-3-palestinians-in-central-gaza-in-latest-truce-violations/3955597",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178049998325294g6w",
-        "title": "İsrail gemisinin Atina yakınlarındaki limana gelişi Filistin yanlısı aktivistlerce protesto edildi",
-        "summary": "Yunanistan'ın başkenti Atina yakınlarındaki Pire Limanı'na demirleyen bir İsrail kruvaziyer gemisi, Filistin yanlısı aktivistler tarafından protesto edildi. Protestoyu düzenleyen komite, İsrail'i \"soykırım\" yapmakla suçlayarak, bu tür eylemleri gerçekleştirenlerle hiçbir ilişkilerinin olmaması gerektiğini belirtti. Aktivistler, İsrail'in Gazze'deki operasyonlarına tepki göstermek amacıyla limanda toplanarak geminin varlığını protesto etti. Olay, İsrail-Filistin çatışmasının uluslararası alandaki yansımalarından biri olarak kaydedildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8635700/pexels-photo-8635700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-03T15:19:43.252Z",
-        "location": {
-            "lat": 37.945,
-            "lng": 23.647,
-            "name": "Pire, Yunanistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-cruise-ship-s-arrival-at-port-near-athens-protested-by-pro-palestine-activists/3955598",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
