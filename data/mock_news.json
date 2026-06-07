@@ -1,5 +1,53 @@
 [
     {
+        "id": "17808529273709yotd",
+        "title": "Trump, İran Varlıklarını Ateşkes Anlaşması Sağlanmadan Serbest Bırakmayacağını Açıkladı",
+        "summary": "ABD eski Başkanı Donald Trump, İran'ın dondurulmuş varlıklarının, kapsamlı bir ateşkes anlaşmasına varılmadan serbest bırakılmayacağını belirtti. İranlı yetkililer ise bu fonların serbest bırakılmasının, savaşı sona erdirecek kalıcı bir anlaşmaya ulaşmak için gerekli güveni inşa edeceğini ifade etmişti. Trump'ın bu açıklaması, iki ülke arasındaki gerilimi ve müzakere sürecindeki farklı beklentileri bir kez daha gözler önüne serdi. Bu durum, gelecekteki olası diplomatik adımlar üzerinde önemli bir etki yaratabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11624812/pexels-photo-11624812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T17:22:07.370Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780853010460s3lle",
+        "title": "İsrail, ABD Arabuluculuğundaki Ateşkesin Ardından Beyrut Banliyösünü Vurdu",
+        "summary": "İsrail, Lübnan'ın başkenti Beyrut'a yönelik saldırıların, Hizbullah'ın İsrail topraklarına ateş açmasına bir yanıt olarak emredildiğini duyurdu. Bu olay, ABD arabuluculuğunda sağlanan ateşkesin üzerinden sadece birkaç gün geçtikten sonra gerçekleşti. Saldırılar, bölgedeki gerilimin yeniden tırmandığına işaret ediyor ve ateşkesin kırılganlığını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T17:23:30.460Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780853034450tuh4x",
+        "title": "Dubai Emiri'nin Yeğeninin Eski Eşi Gözaltında",
+        "summary": "Dubai Emiri'nin yeğeninin eski eşi Zeynab Javadli'nin gözaltına alındığı bildirildi. Savcılık kaynakları tarafından yapılan açıklamada, Javadli'nin gözaltında olduğu doğrulandı. Habere göre, Javadli'den Salı gününden bu yana arkadaşları tarafından haber alınamıyordu. Bu durum, gözaltı sürecinin yakın zamanda gerçekleştiğini düşündürüyor. Olay, Birleşik Arap Emirlikleri'nin önde gelen ailelerinden birine mensup bir kişiyi ilgilendirmesi nedeniyle bölgede dikkat çekiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/12585889/pexels-photo-12585889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T17:23:54.450Z",
+        "location": {
+            "lat": 25.2,
+            "lng": 55.27,
+            "name": "Dubai, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
         "id": "17808474746308ug5r",
         "title": "İran Milli Takımı, ABD Vize Krizi Ortasında Meksika'ya Ulaştı",
         "summary": "İran Milli Takımı, Dünya Kupası hazırlıkları kapsamında Meksika'daki kampına ulaştı. Takımın bazı üyelerinin ABD tarafından vize başvurularının reddedilmesinin ardından yaşanan diplomatik gerilimin gölgesinde gerçekleşen bu varış, uluslararası spor etkinliklerinde dahi ülkeler arasındaki siyasi hassasiyetleri bir kez daha gözler önüne serdi. İran heyeti, vize sorununa rağmen planlandığı gibi kampına katılım sağladı. Bu durum, İran ile ABD arasındaki ilişkilerin spor alanına yansımaları açısından dikkat çekici bulundu.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1780709359967dpr4b",
-        "title": "Gazze'deki balıkçılar, kapı pervazlarından yaptıkları teknelerle geçimlerini sağlıyor",
-        "summary": "Gazze'deki balıkçılar, enkazdan kurtarılan fiberglas, ahşap ve kapı pervazları gibi malzemelerden yapılmış derme çatma teknelerle geçimlerini sağlamaya çalışıyor. Bölgedeki zorlu koşullar altında balıkçılık faaliyetlerini sürdürmek için yaratıcı çözümler üreten balıkçılar, atık malzemeleri yeniden değerlendirerek hayatta kalma mücadelesi veriyor. Bu durum, Gazze halkının kısıtlı imkanlara rağmen gösterdiği direnci ve adaptasyonu gözler önüne seriyor. Balıkçılar, bu ilkel teknelerle denize açılarak ailelerinin geçimini sağlamak için mücadele ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/34454533/pexels-photo-34454533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T01:29:19.967Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1780709385742ae1ck",
-        "title": "Orta Doğu'da Gerilim Tırmanıyor: Lübnan'da İnsani Kriz Derinleşirken, Bölgesel Çatışma Endişeleri Artıyor",
-        "summary": "Birleşmiş Milletler, İsrail'in Lübnan'a yönelik saldırıları sonucunda ülkede 1.4 milyon kişinin insani yardıma muhtaç olduğunu açıkladı. Bu durum, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Haber başlığında belirtilen ABD'nin İran radar sitelerine yönelik saldırıları ve Kuveyt'in hedef alınması gibi gelişmeler, Orta Doğu'da gerilimin hızla tırmandığına işaret ediyor. Bölgede insani krizin derinleştiği ve çatışmaların yayılma riskinin arttığı endişesi hakim.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T01:29:45.742Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1780701510183xw0qv",
-        "title": "BM Güvenlik Konseyi, Husilerin alıkoymalarının ikinci yıl dönümünde serbest bırakılma çağrılarını yineledi",
-        "summary": "Birleşmiş Milletler Güvenlik Konseyi, Yemen'deki Husiler tarafından alıkonulan kişilerin ikinci yıl dönümünü anarak, bu kişilerin derhal serbest bırakılması yönündeki taleplerini yineledi. Konsey üyeleri, insani yardım sağlayanlara yönelik her türlü tehdidin kabul edilemez olduğunu vurguladı. Yapılan açıklamada, bu tür tehditlerin Yemen'deki zaten vahim olan insani durumu daha da kötüleştirdiği belirtildi. Güvenlik Konseyi, tüm taraflara uluslararası hukuka uyma ve insani yardım erişimini kolaylaştırma çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14927297/pexels-photo-14927297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T23:18:30.183Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-security-council-marks-2nd-year-of-houthi-detentions-with-renewed-demands-for-release/3958137",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
