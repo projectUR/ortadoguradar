@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780863275066qg5ih",
+        "title": "İran'da Dünya Kupası Heyecanı Savaş ve Ekonomik Kriz Gölgesinde Kaldı",
+        "summary": "İran'da yaklaşan Dünya Kupası'na yönelik heyecan, ülkenin içinde bulunduğu savaş ve ekonomik kriz koşulları nedeniyle gölgelenmiş durumda. Uluslararası yaptırımlar ve yüksek enflasyon gibi faktörlerin tetiklediği derin ekonomik sıkıntılar, halkın günlük yaşam mücadelesini artırıyor. Bölgesel gerilimler ve jeopolitik gelişmeler de genel atmosferi olumsuz etkiliyor. Bu durum, normalde büyük bir coşkuyla karşılanan spor etkinliklerine olan ilgiyi azaltarak, vatandaşların önceliklerinin farklılaştığını gösteriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6519914/pexels-photo-6519914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T20:14:35.066Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17808582257213dou5",
         "title": "Irak'ın güneyinde otobüs devrildi: 21 ölü, 19 yaralı",
         "summary": "Irak'ın güneyinde meydana gelen bir otobüs kazasında 21 kişi hayatını kaybetti, 19 kişi ise yaralandı. Kaza, Nasıriye ile Basra şehirlerini birbirine bağlayan otoyolda gerçekleşti. Devrilen otobüste bulunan yolcular arasında İranlı ziyaretçilerin de olduğu belirtildi. Yetkililer, olayla ilgili soruşturma başlatırken, yaralılar çevredeki hastanelere sevk edildi.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/irans-top-diplomat-araghchi-rebukes-lebanese-president-over-remarks-on-tehran-s-role-in-lebanon/3958190",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780735240611wwu4f",
-        "title": "İran, Kuveyt ve Bahreyn'deki ABD Üslerini Vurduğunu Açıkladı",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Kuveyt ve Bahreyn'de bulunan Amerikan askeri tesislerine balistik füzeler fırlattığını bildirdi. Tasnim Haber Ajansı'nın aktardığına göre, bu eylemin İran topraklarına yönelik insansız hava aracı saldırılarına bir misilleme olduğu iddia edildi. IRGC, bölgedeki Amerikan askeri varlıklarını hedef aldığını belirtti. Söz konusu gelişme, Orta Doğu'daki güvenlik gerilimlerini artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975879/pexels-photo-28975879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T08:40:40.611Z",
-        "location": {
-            "lat": 27.5,
-            "lng": 50,
-            "name": "Kuveyt, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-strikes-us-bases-in-kuwait-bahrain-after-drone-attacks-on-iranian-territory-report/3958173",
         "trendScore": 85,
         "isBreaking": false
     }
