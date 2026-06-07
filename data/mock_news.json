@@ -1,5 +1,69 @@
 [
     {
+        "id": "17808474746308ug5r",
+        "title": "İran Milli Takımı, ABD Vize Krizi Ortasında Meksika'ya Ulaştı",
+        "summary": "İran Milli Takımı, Dünya Kupası hazırlıkları kapsamında Meksika'daki kampına ulaştı. Takımın bazı üyelerinin ABD tarafından vize başvurularının reddedilmesinin ardından yaşanan diplomatik gerilimin gölgesinde gerçekleşen bu varış, uluslararası spor etkinliklerinde dahi ülkeler arasındaki siyasi hassasiyetleri bir kez daha gözler önüne serdi. İran heyeti, vize sorununa rağmen planlandığı gibi kampına katılım sağladı. Bu durum, İran ile ABD arasındaki ilişkilerin spor alanına yansımaları açısından dikkat çekici bulundu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32285150/pexels-photo-32285150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T15:51:14.630Z",
+        "location": {
+            "lat": 23.6345,
+            "lng": -102.5528,
+            "name": "Meksika"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780847496350gkyeo",
+        "title": "İran Milli Futbol Takımı, ABD Vize Anlaşmazlığı Sürerken Meksika'ya Ulaştı",
+        "summary": "İran Milli Futbol Takımı, ABD'de düzenlenecek Dünya Kupası maçları öncesinde Meksika'ya vardı. Takımın Meksika'ya ulaşması, ABD ile yaşanan vize anlaşmazlığının devam ettiği bir döneme denk geldi. Bu durum, İranlı sporcuların ABD'ye giriş süreçleriyle ilgili belirsizlikleri gündeme getiriyor. Dünya Kupası hazırlıkları kapsamında yapılan bu seyahat, diplomatik gerilimlerin spor etkinliklerine yansımalarını bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32285230/pexels-photo-32285230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T15:51:36.350Z",
+        "location": {
+            "lat": 19.4,
+            "lng": -99.1,
+            "name": "Mexico City, Mexico"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "17808475635567u0vh",
+        "title": "İsrail'de Silahlı Saldırı: Bir Ölü, Beş Yaralı",
+        "summary": "İsrail'de meydana gelen silahlı saldırıda bir kişi hayatını kaybederken, beş kişi de yaralandı. Olay, şüphelinin bir araçtan çeşitli noktalara ateş açmasıyla başladı. Saldırgan, güvenlik güçlerinin müdahalesi sonucu vurularak öldürüldü. Yetkililer, olayın detaylarına ilişkin soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6090781/pexels-photo-6090781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T15:52:43.556Z",
+        "location": {
+            "lat": 32,
+            "lng": 34.8,
+            "name": "İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780847649779ewucv",
+        "title": "Trump'tan İran'ın Nükleer Programına İlişkin Sert Uyarı",
+        "summary": "ABD Başkanı Trump, İran'ın nükleer programına yönelik sert açıklamalarda bulundu. Trump, Tahran'ın uranyum stoklarının bir anlaşma olsun ya da olmasın yok edileceğini belirtti. ABD lideri, nükleer stokların güvence altına alınmasına yönelik müzakerelerin başarısızlıkla sonuçlanması durumunda askeri eylem seçeneğinin masada olduğunu vurguladı. Bu açıklamalar, İran'ın nükleer faaliyetleri ve uluslararası toplumla ilişkileri üzerindeki gerilimi artırıyor ve bölgedeki güvenlik endişelerini yükseltiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10165869/pexels-photo-10165869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T15:54:09.779Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-vows-to-destroy-iranian-uranium-with-or-without-deal/3959189",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780840858263k932a",
         "title": "Filistinliler, İsrail Saldırısı Sonrası Han Yunus'taki Yıkımı İnceliyor",
         "summary": "Gazze Şeridi'nin güneyindeki Han Yunus kentinde İsrail tarafından gerçekleştirilen bir saldırının ardından Filistinliler, bölgedeki yıkımın boyutlarını inceledi. Saldırının, bölgedeki ateşkes çabalarına rağmen gerçekleştiği belirtilirken, olay yerinde geniş çaplı hasar meydana geldiği gözlemlendi. Yerel halk, saldırının ardından oluşan tahribatı belgeleyerek uluslararası topluma çağrıda bulundu. Bölgedeki gerilimin devam ettiği kaydedildi.",
@@ -734,69 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/un-security-council-marks-2nd-year-of-houthi-detentions-with-renewed-demands-for-release/3958137",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17807015471242y3zh",
-        "title": "ABD Büyükelçisi, İranlı Futbolculara Vize Veren Ankara Elçilik Personelini Övdü",
-        "summary": "ABD'nin Ankara Büyükelçisi, elçilik personelini İran milli futbol takımının oyuncularına vize verme çabalarından dolayı takdir etti. Büyükelçi Tom Barrack, sporun sınırları aşan birleştirici gücünü vurgulayarak, dünyanın dört bir yanından sporcuları ve taraftarları ağırlamaktan memnuniyet duyacaklarını belirtti. Bu diplomatik adım, ABD'nin Türkiye'deki misyonu aracılığıyla İranlı sporculara yönelik bir kolaylaştırma olarak öne çıkıyor ve spor diplomasisi kapsamında değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T23:19:07.124Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-ambassador-lauds-embassy-staff-in-ankara-for-issuing-visas-to-iran-s-national-football-players/3958129",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17806966448135yu6r",
-        "title": "Trump, Wisconsin'de Çiftçilere Seslendi: İran Gerilimi Ekonomik Etkileri Vurgulandı",
-        "summary": "ABD Başkanı Donald Trump, Wisconsin eyaletinde gümrük vergileri ve İran ile olası bir savaşın ekonomik sonuçlarından olumsuz etkilenen kırsal kesim seçmenleri ve çiftçilerle bir araya geldi. Trump, bu kesimin desteğini sağlamlaştırmayı amaçlarken, çiftçilerin karşılaştığı zorlukların nedenleri arasında İran ile yaşanan gerilimin ekonomik yansımalarına dikkat çekti. Başkan, konuşmasında çiftçilerin yaşadığı ekonomik sıkıntıların giderilmesi yönünde adımlar atılacağını belirtti. Bu durum, Orta Doğu'daki potansiyel çatışmaların ABD iç siyaseti ve ekonomisi üzerindeki dolaylı ancak önemli etkilerini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T21:57:24.813Z",
-        "location": {
-            "lat": 43,
-            "lng": -89.4,
-            "name": "Wisconsin, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1780696668674j87qg",
-        "title": "Beyaz Saray: İranlı Futbolculara Dünya Kupası İçin ABD Vizesi Verildi",
-        "summary": "Beyaz Saray tarafından yapılan açıklamaya göre, İran milli futbol takımı oyuncularına Dünya Kupası'na katılım için Amerika Birleşik Devletleri vizesi verildi. İranlı futbolcular, 15 Haziran'da Los Angeles'ta Yeni Zelanda'ya karşı oynayacakları açılış maçından on gün önce vizelerini almış oldu. Bu gelişme, takımın turnuvaya katılımı önündeki bürokratik engellerin kalktığını gösteriyor. Dünya Kupası'na hazırlanan İran ekibi, bu vize onayıyla birlikte ABD'ye seyahat edebilecek.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32285250/pexels-photo-32285250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T21:57:48.674Z",
-        "location": {
-            "lat": 34.0522,
-            "lng": -118.2437,
-            "name": "Los Angeles, ABD"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1780696698325j8lb6",
-        "title": "Zelenskyy: Putin Yüz Yüze Görüşme Teklifini Reddederek Savaşı Seçti",
-        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskyy, Rusya Devlet Başkanı Vladimir Putin'in yüz yüze görüşme teklifini geri çevirdiğini açıkladı. Zelenskyy'nin açıklamasına göre, Putin'in bu kararı, diplomatik çözüm yerine çatışmanın devamını tercih ettiği anlamına geliyor. Bu durum, Rusya ile Ukrayna arasındaki gerilimin sürdüğünü ve yakın zamanda bir barış görüşmesi ihtimalinin düşük olduğunu gösteriyor. Küresel çapta enerji ve gıda güvenliği üzerinde önemli etkileri olan bu çatışmanın devam etmesi, Orta Doğu dahil birçok bölgeyi dolaylı yoldan etkilemeye devam edecektir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8730908/pexels-photo-8730908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T21:58:18.325Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
