@@ -1,5 +1,21 @@
 [
     {
+        "id": "17808582257213dou5",
+        "title": "Irak'ın güneyinde otobüs devrildi: 21 ölü, 19 yaralı",
+        "summary": "Irak'ın güneyinde meydana gelen bir otobüs kazasında 21 kişi hayatını kaybetti, 19 kişi ise yaralandı. Kaza, Nasıriye ile Basra şehirlerini birbirine bağlayan otoyolda gerçekleşti. Devrilen otobüste bulunan yolcular arasında İranlı ziyaretçilerin de olduğu belirtildi. Yetkililer, olayla ilgili soruşturma başlatırken, yaralılar çevredeki hastanelere sevk edildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10859261/pexels-photo-10859261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T18:50:25.721Z",
+        "location": {
+            "lat": 31.05,
+            "lng": 46.25,
+            "name": "Nasiriyah, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/21-killed-19-injured-as-bus-overturns-in-southern-iraq/3959365",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17808529273709yotd",
         "title": "Trump, İran Varlıklarını Ateşkes Anlaşması Sağlanmadan Serbest Bırakmayacağını Açıkladı",
         "summary": "ABD eski Başkanı Donald Trump, İran'ın dondurulmuş varlıklarının, kapsamlı bir ateşkes anlaşmasına varılmadan serbest bırakılmayacağını belirtti. İranlı yetkililer ise bu fonların serbest bırakılmasının, savaşı sona erdirecek kalıcı bir anlaşmaya ulaşmak için gerekli güveni inşa edeceğini ifade etmişti. Trump'ın bu açıklaması, iki ülke arasındaki gerilimi ve müzakere sürecindeki farklı beklentileri bir kez daha gözler önüne serdi. Bu durum, gelecekteki olası diplomatik adımlar üzerinde önemli bir etki yaratabilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-strikes-us-bases-in-kuwait-bahrain-after-drone-attacks-on-iranian-territory-report/3958173",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17807241068696vdya",
-        "title": "İsrailli Asker, El Halil Yakınlarında Yedi Aylık Filistinli Bebeği Vurarak Öldürdü",
-        "summary": "Batı Şeria'da, El Halil kenti yakınlarında meydana gelen bir olayda, yedi aylık Filistinli bebek Sam Abu Haikal'ın İsrailli bir asker tarafından vurularak hayatını kaybettiği bildirildi. Filistinli kaynaklar, olayın detaylarına ilişkin bilgi verirken, İsrail ordusundan konuya dair henüz resmi bir açıklama yapılmadı. Bu gelişme, bölgedeki hassas güvenlik durumunu ve sivil kayıplar konusundaki endişeleri yeniden gündeme getirdi. Olayın ardından bölgede tansiyonun yükselmesinden endişe ediliyor ve uluslararası toplumdan tepkiler bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5202421/pexels-photo-5202421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T05:35:06.869Z",
-        "location": {
-            "lat": 31.5333,
-            "lng": 35.0917,
-            "name": "El Halil, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
