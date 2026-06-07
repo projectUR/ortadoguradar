@@ -1,5 +1,37 @@
 [
     {
+        "id": "17807963474554gn7q",
+        "title": "ABD İstihbaratı, İsrail'den Gelen Casusluk Tehdidinden Endişeli",
+        "summary": "ABD istihbarat birimlerinin, İsrail'den kaynaklanan casusluk tehdidinin artmasından endişe duyduğu bildirildi. Savunma İstihbarat Teşkilatı'nın (DIA), Washington'ın Tahran ile devam eden müzakereleri sırasında İsrail'in karşı istihbarat tehdit seviyesini 'yüksek'ten 'kritik'e yükselttiği iddia edildi. Bu gelişme, ABD'nin önemli bir müttefiki olan İsrail'in istihbarat faaliyetlerinin, iki ülke arasındaki ilişkilerde yeni bir gerilim kaynağı olabileceğine işaret ediyor. Rapor, ABD'nin Orta Doğu'daki stratejik çıkarları ve diplomatik çabaları bağlamında İsrail'in rolünü yeniden değerlendirmesi gerektiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/17641651/pexels-photo-17641651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T01:39:07.455Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-intelligence-concerned-over-growing-espionage-threat-from-israel-report/3958776",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17807963852964stkm",
+        "title": "İsrail ordusu, güney Lübnan'da bir subay ve bir askerin öldürüldüğünü duyurdu",
+        "summary": "İsrail ordusu tarafından yapılan açıklamada, güney Lübnan'da yaşanan olaylarda bir subay ve bir askerin hayatını kaybettiği bildirildi. Ordudan yapılan bilgilendirmeye göre, bir subay insansız hava aracı (İHA) saldırısında aldığı yaralar sonucu yaşamını yitirdi. Aynı bölgede meydana gelen ayrı bir olayda ise bir askerin kaza kurşunuyla öldüğü belirtildi. Bu olaylar, İsrail-Lübnan sınırındaki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-07T01:39:45.296Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-officer-soldier-killed-in-south-lebanon/3958790",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1780787240085k1iu9",
         "title": "Hak grubu, Sudan'ın orta kesimindeki bir pazarda insansız hava aracı saldırısında 11 kişinin öldüğünü bildirdi",
         "summary": "Bir hak grubu, Sudan'ın orta kesiminde bir pazara düzenlenen insansız hava aracı saldırısında 11 kişinin hayatını kaybettiğini duyurdu. Acil Durum Avukatları adlı grup, saldırıda onlarca kişinin de yaralandığını belirtti. Bu saldırının, benzer insansız hava aracı saldırılarından 24 saatten kısa bir süre sonra gerçekleştiği ifade edildi. Sudan'da devam eden çatışmaların siviller üzerindeki etkisi endişe yaratmaya devam ederken, bölgedeki güvenlik durumu ve sivil kayıplar uluslararası kamuoyunun dikkatini çekiyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/5/un-envoys-call-on-trump-to-stop-israeli-annexation?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780649465251u1llw",
-        "title": "Lübnan-İsrail Ateşkes Anlaşması 'Umutla Karşılandı, Beklentiyle Değil'",
-        "summary": "Lübnan ve İsrail arasında bir ateşkes anlaşması yapıldığı bildirildi. Anlaşmanın, bölgedeki gerilimi azaltma potansiyeline rağmen, 'beklentiden ziyade umutla' karşılandığı belirtildi. BBC muhabiri John Sudworth, haberi Hizbullah'ın Beyrut'taki güçlü destek bölgesi Dahieh'ten aktardı. Bu durum, anlaşmanın kırılganlığını ve taraflar arasındaki derin güvensizliği yansıtmaktadır. Ateşkesin bölgedeki güvenlik durumunu nasıl etkileyeceği merak konusu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36462681/pexels-photo-36462681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T08:51:05.251Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178064950460686h7p",
-        "title": "Oscar adayı 'Persepolis'in yazarı Marjane Satrapi 56 yaşında hayatını kaybetti",
-        "summary": "Fransız-İranlı yazar ve illüstratör Marjane Satrapi, 56 yaşında hayatını kaybetti. Sanatçı, özellikle kendi otobiyografik deneyimlerini anlattığı \"Persepolis\" adlı çizgi roman serisiyle dünya çapında tanınmıştı. Bu eser, İran'daki İslam Devrimi dönemindeki çocukluğunu ve Avrupa'daki yaşamını konu alarak büyük ilgi görmüş, aynı zamanda Oscar adayı bir animasyon filmine de uyarlanmıştı. Satrapi'nin eserleri, siyasi ve kültürel değişimlerin bireyler üzerindeki etkilerini güçlü bir dille aktarmasıyla öne çıkıyordu. Yazarın vefatı, edebiyat ve sinema çevrelerinde derin üzüntüye yol açtı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/31482136/pexels-photo-31482136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-05T08:51:44.606Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
