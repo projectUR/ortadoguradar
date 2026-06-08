@@ -1,5 +1,21 @@
 [
     {
+        "id": "1780953074368xeetw",
+        "title": "Tel Aviv sakinleri İsrail-İran saldırıları sonrası tepkilerini dile getirdi: 'Temelde kaybettik'",
+        "summary": "İsrail ile İran arasında yaşanan füze alışverişinin ardından Tel Aviv'de yaşayan vatandaşlar, gelişmelere ilişkin farklı görüşler dile getirdi. Haber başlığında yer alan \"Temelde kaybettik\" gibi ifadeler, halk arasında hissedilen belirsizliği ve olası sonuçlara dair kaygıyı yansıttı. Bazı sakinler, bölgedeki gerilimin daha da tırmanmasından endişe duyduklarını belirtirken, diğerleri ülkenin savunma kapasitesine olan güvenlerini dile getirdi. Yaşanan olayların ardından şehirde günlük yaşamın normale dönme çabaları gözlemlense de, Orta Doğu'daki güvenlik durumu ve iki ülke arasındaki tansiyon gündemdeki yerini koruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-08T21:11:14.368Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 34.78,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780944249550s7p7f",
         "title": "Lübnan, İran savaşı ateşkesi için nasıl bir kırılma noktası haline geldi?",
         "summary": "Analistler, İran'ın bölgesel güç projeksiyon stratejisinde önemli bir değişikliğe gittiğini belirtiyor. Daha önce vekil güçleri aracılığıyla etki alanını genişleten Tahran'ın, artık bu grupları korumak için doğrudan kendi askeri gücünü kullanmaya başladığı ifade ediliyor. Bu stratejik dönüşümde Lübnan'ın, İran ile bölgesel çatışmalarda bir ateşkesin sağlanması açısından kritik bir kırılma noktası haline geldiği vurgulanıyor. Bu durumun, Orta Doğu'daki güç dengelerini ve güvenlik dinamiklerini derinden etkileyebileceği öngörülüyor.",
@@ -780,22 +796,6 @@
             "name": "Nabatiye, Lübnan"
         },
         "source": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17807554256468b5gs",
-        "title": "Lübnan ve İsrail Arasındaki Sürekli Çatışma Dinamikleri",
-        "summary": "Lübnan ve İsrail arasındaki süregelen gerilim ve çatışma dinamikleri haberin ana odağını oluşturmaktadır. Haberde, Lübnan'ın İsrail'in çok cepheli savaş stratejilerindeki merkezi konumu ve önemi incelenmektedir. Bu durum, iki ülke arasındaki ilişkilerin karmaşıklığını ve bölgesel güvenlik mimarisindeki kritik rolünü gözler önüne sermektedir. Analiz, Lübnan'ın İsrail'in güvenlik algısında neden bu kadar önemli bir yer tuttuğunu açıklamayı hedeflemektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T14:17:05.646Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
