@@ -1,5 +1,37 @@
 [
     {
+        "id": "1780944249550s7p7f",
+        "title": "Lübnan, İran savaşı ateşkesi için nasıl bir kırılma noktası haline geldi?",
+        "summary": "Analistler, İran'ın bölgesel güç projeksiyon stratejisinde önemli bir değişikliğe gittiğini belirtiyor. Daha önce vekil güçleri aracılığıyla etki alanını genişleten Tahran'ın, artık bu grupları korumak için doğrudan kendi askeri gücünü kullanmaya başladığı ifade ediliyor. Bu stratejik dönüşümde Lübnan'ın, İran ile bölgesel çatışmalarda bir ateşkesin sağlanması açısından kritik bir kırılma noktası haline geldiği vurgulanıyor. Bu durumun, Orta Doğu'daki güç dengelerini ve güvenlik dinamiklerini derinden etkileyebileceği öngörülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8079185/pexels-photo-8079185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-08T18:44:09.550Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1780944272422s6461",
+        "title": "İran Meclis Başkanı: ABD ile Müzakereler Normalleşme Değil, Kalıcı Güvenliğe Odaklı",
+        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD ile yürütülen müzakerelerin iki ülke arasındaki ilişkilerin normalleşmesini hedeflemediğini açıkladı. Kalibaf, görüşmelerin temel amacının bölgede kalıcı güvenliğin sağlanması olduğunu vurguladı. Açıklamasında diplomasi ve askeri eylemin birbirini tamamlayan araçlar olduğunu ve gerektiğinde kullanılması gerektiğini ifade etti. Bu beyan, İran'ın dış politika yaklaşımını ve ABD ile olan ilişkilerindeki önceliklerini bir kez daha ortaya koydu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112147/pexels-photo-8112147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-08T18:44:32.422Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/iran-s-parliament-speaker-says-negotiations-with-us-focused-on-lasting-security-not-normalization/3960765",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780935208452wdyd3",
         "title": "İsrail'in Güney Lübnan'daki Saldırıları Tırmanıyor",
         "summary": "İsrail ile Lübnan arasındaki gerilimde son gelişmeler yaşanıyor. İsrail güçlerinin güney Lübnan'da saldırılarını yoğunlaştırdığı ve bölgede daha derinlere ilerlediği bildirildi. Çatışmaların tırmanmasıyla birlikte bölgedeki güvenlik durumu endişe verici boyutlara ulaştı. Uluslararası toplum, taraflara itidal çağrısı yaparken, bölgedeki insani durum da yakından takip ediliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1780755580846kbjms",
-        "title": "Bahreyn ve Kuveyt, İran'ın topraklarına yönelik saldırılarını kınadı",
-        "summary": "Bahreyn ve Kuveyt, İran tarafından kendi topraklarına yönelik gerçekleştirildiği iddia edilen saldırıları şiddetle kınadı. Bahreyn Savunma Kuvvetleri'nden yapılan açıklamada, İran tarafından fırlatılan üç füze ve \"bir dizi insansız hava aracının\" başarıyla düşürüldüğü belirtildi. Bu olay, Basra Körfezi'ndeki güvenlik gerilimlerinin arttığı bir döneme denk geldi. İki Körfez ülkesi, İran'ın eylemlerinin uluslararası hukuka aykırı olduğunu ve bölgesel istikrarı tehdit ettiğini vurguladı. Bölgedeki gelişmeler ve saldırıların olası sonuçları yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T14:19:40.846Z",
-        "location": {
-            "lat": 26.226,
-            "lng": 50.583,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-kuwait-condemn-iranian-attacks-on-their-territories/3958299",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780747639824k8q6g",
-        "title": "İsrail güçleri Batı Şeria'da Filistinli bebeği öldürdü, ebeveynlerini yaraladı",
-        "summary": "Batı Şeria'da yaşanan olayda, İsrail güçlerinin açtığı ateş sonucu Filistinli bir bebek hayatını kaybetti. Olayda bebeğin ebeveynleri de yaralandı. Bu gelişme, bölgedeki gerilimin arttığı bir dönemde yaşandı. İsrail'in 2023 yılında Gazze'ye yönelik başlattığı operasyonlardan bu yana Batı Şeria'daki şiddet olaylarında belirgin bir artış gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553677/pexels-photo-8553677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T12:07:19.824Z",
-        "location": {
-            "lat": 31.9038,
-            "lng": 35.2033,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
