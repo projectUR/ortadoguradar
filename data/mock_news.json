@@ -1,5 +1,53 @@
 [
     {
+        "id": "1780935208452wdyd3",
+        "title": "İsrail'in Güney Lübnan'daki Saldırıları Tırmanıyor",
+        "summary": "İsrail ile Lübnan arasındaki gerilimde son gelişmeler yaşanıyor. İsrail güçlerinin güney Lübnan'da saldırılarını yoğunlaştırdığı ve bölgede daha derinlere ilerlediği bildirildi. Çatışmaların tırmanmasıyla birlikte bölgedeki güvenlik durumu endişe verici boyutlara ulaştı. Uluslararası toplum, taraflara itidal çağrısı yaparken, bölgedeki insani durum da yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-08T16:13:28.453Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-aje_onl_lebanon_wrap-080626?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17809352323784e0bp",
+        "title": "İsrail tarafından vurulan bebek Sam'in ailesi yas tutuyor: 'Hayatlar bir saniyede değişti'",
+        "summary": "Batı Şeria'da yedi aylık Filistinli bir bebeğin İsrail askeri tarafından vurularak hayatını kaybettiği bildirildi. Bebeğin babası, yaşanan trajik olayı ve oğlunun ölüm anını anlattı. Bu olay, İsrail-Filistin çatışmasının devam ettiği bölgedeki gerilimi ve sivil kayıplarını bir kez daha gözler önüne serdi. Batı Şeria, İsrail güçleri ile Filistinliler arasındaki çatışmaların sıkça yaşandığı bir bölge olarak öne çıkıyor. Yaşanan bu tür hadiseler, uluslararası kamuoyunda bölgedeki insan hakları ve güvenlik durumuyla ilgili endişeleri artırmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5202421/pexels-photo-5202421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-08T16:13:52.378Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.207,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/8/lives-turned-in-a-second-family-of-baby-sam-shot-dead-by-israel-grieve?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1780935293123bah84",
+        "title": "İran'ın İsrail'e Saldırısı, Rejimin Direnç Algısının Arttığını Gösteriyor",
+        "summary": "İran'ın İsrail'e yönelik gerçekleştirdiği saldırı, bölgedeki gerilimi önemli ölçüde artırdı. BBC Farsça editörü Amir Azimi'nin analizine göre, Tahran'ın barış görüşmelerini riske atma potansiyeli taşıyan bu kararı, İran liderlerinin mevcut konumlarına dair artan güvenini yansıtıyor. Bu eylem, rejimin dayanıklılık hissinin güçlendiğine ve bölgesel politikalarında daha iddialı bir duruş sergilediğine işaret ediyor. Uzmanlar, İran'ın bu adımla kendi gücünü ve kararlılığını göstermeyi amaçladığını belirtiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-08T16:14:53.123Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1780882862799xtfxd",
         "title": "Oppenheimer: Trump, Netanyahu'nun Gerilimi Artırma Seçeneklerini Kontrol Ediyor",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun İran ile gerilimi tırmandırmak için bazı teşviklere sahip olduğu belirtildi. Ancak, ABD Başkanı Trump'ın bu konudaki kısıtlamaları nedeniyle Netanyahu'nun hareket alanının sınırlı olduğu ifade edildi. Bu durum, iki ülke arasındaki potansiyel çatışma riskini ve bölgesel istikrarı etkileyen önemli bir faktör olarak öne çıkıyor. Washington'ın Tel Aviv üzerindeki etkisi, Orta Doğu'daki siyasi dengelerin şekillenmesinde kritik bir rol oynamaya devam ediyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1780743335886krbun",
-        "title": "Ürdün 2026 Dünya Kupası Önizlemesi: İzlenecek Oyuncular, Grup Maçları ve Kadro",
-        "summary": "Ürdün Milli Futbol Takımı, 2026 Dünya Kupası'na katılmaya hak kazanarak tarihinde bir ilki gerçekleştirdi. Bu önemli başarı, ülkenin futbol camiasında büyük bir heyecanla karşılandı. Takım, daha önce 2023 Asya Kupası ve 2025 Arap Kupası'nda finallere yükselerek dikkatleri üzerine çekmişti. Dünya Kupası'ndaki ilk katılımları, Ürdün futbolu için tarihi bir dönüm noktası olarak değerlendiriliyor. Haber, takımın izlenecek oyuncuları, grup maçları ve kadrosu hakkında detaylı bir önizleme sunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32179310/pexels-photo-32179310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T10:55:35.886Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.91,
-            "name": "Amman, Ürdün"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/6/jordan-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780743374925u616n",
-        "title": "İsrailli Yerleşimciler Küresel Kınamayı \"Onur Rozeti\" Olarak Görüyor",
-        "summary": "İsrailli yerleşimciler, kendilerine yönelik uluslararası kınamaları ve yaptırımları \"onur rozeti\" olarak gördüklerini belirterek bu tepkileri umursamadıklarını ifade ediyor. Aktivistler, mevcut yaptırımların yerleşimciler tarafından uygulanan şiddetin boyutunu ve bu saldırılardaki devlet iştirakini yeterince yansıtmadığını öne sürüyor. Bu durum, bölgedeki şiddet olaylarının devam ettiğini ve uluslararası toplumun tepkisinin etkinliğini sorgulatıyor. Yerleşimcilerin bu tutumu, İsrail-Filistin çatışmasının çözümüne yönelik diplomatik çabaları olumsuz etkileyen önemli bir faktör olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5807072/pexels-photo-5807072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T10:56:14.925Z",
-        "location": {
-            "lat": 31.9522,
-            "lng": 35.2332,
-            "name": "Batı Şeria, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17807434137876vxdr",
-        "title": "ABD ve İran Körfez'de Karşılıklı Saldırılar Düzenledi",
-        "summary": "ABD ordusu, İran'a ait insansız hava araçlarını ve radar sitelerini hedef aldığını açıkladı. Bu saldırıya misilleme olarak Tahran, Kuveyt ve Bahreyn'deki ABD üslerini vurdu. Olay, iki ülke arasındaki ateşkesin son testi olarak değerlendiriliyor ve bölgedeki gerilimi artırma potansiyeli taşıyor. Yaşanan bu karşılıklı saldırılar, Orta Doğu'daki güvenlik durumunu yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T10:56:53.787Z",
-        "location": {
-            "lat": 26,
-            "lng": 50,
-            "name": "Körfez Bölgesi, Kuveyt, Bahreyn"
-        },
-        "source": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
