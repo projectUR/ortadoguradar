@@ -86,10 +86,10 @@ function startCharacterQuiz() {
 
     currentQuizStep = 0;
     quizScores = { A: 0, B: 0, C: 0, D: 0 };
-    loadQuestion();
+    loadCharacterQuestion();
 }
 
-function loadQuestion() {
+function loadCharacterQuestion() {
     if (currentQuizStep >= quizData.length) {
         showQuizResult();
         return;
@@ -121,7 +121,7 @@ function loadQuestion() {
 function selectQuizOption(optKey) {
     quizScores[optKey]++;
     currentQuizStep++;
-    loadQuestion();
+    loadCharacterQuestion()();
 }
 
 function showQuizResult() {
