@@ -283,7 +283,7 @@ let timeLeft; // Kalan süreyi tutacak
 const questionTimes = [40, 50, 60, 70, 80, 90]; // İlk 6 sorunun süreleri
 
 // 4. Oyunu Başlat
-function startOilGame() {
+function initOilGame() {
     currentQuestionIndex = 0;
     guaranteedPrize = "0";
     isAnswerLocked = false;
