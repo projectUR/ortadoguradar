@@ -657,3 +657,16 @@ function startOilTimer(seconds) {
         }
     }, 1000);
 }
+/* ===================================================
+   OYUNU TETİKLEYİCİ (EVENT LISTENER)
+   =================================================== */
+document.getElementById('startOilGame')?.addEventListener('click', () => {
+    // 1. Operasyon Merkezi menüsünü gizle
+    document.getElementById('quizMenu').classList.add('hidden');
+    
+    // 2. Kim Bir Milyon Varil İster oyun ekranını göster
+    document.getElementById('actualOilGame').classList.remove('hidden');
+    
+    // 3. Oyun motorunu ateşle (Soru ve ödül tablosunu yükle)
+    initOilGame(); 
+});
