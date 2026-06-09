@@ -1,5 +1,37 @@
 [
     {
+        "id": "1781028568288vtp65",
+        "title": "Filistinliler, El Halil yakınlarında toprak gaspı nedeniyle İsrailli yerleşimcilerle karşı karşıya geldi",
+        "summary": "Filistinliler, Batı Şeria'daki El Halil kenti yakınlarında İsrailli yerleşimcilerle karşı karşıya geldi. Gerginlik, yerleşimcilerin Filistinlilere ait toprakları ele geçirme girişimleri üzerine yaşandı. Bölgede sık sık benzer olaylar meydana gelmekte olup, bu durum Filistinliler ile İsrailli yerleşimciler arasındaki arazi anlaşmazlıklarını ve gerilimi yansıtmaktadır. Olayda can kaybı veya yaralanma olup olmadığına dair henüz bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9492160/pexels-photo-9492160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-09T18:09:28.288Z",
+        "location": {
+            "lat": 31.53,
+            "lng": 35.1,
+            "name": "El Halil, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/9/palestinians-confront-israeli-settlers-over-land-grab-near-hebron?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781028606989acppa",
+        "title": "Dağlık Karabağ Sonrası Ermenistan'da Halk Barışı Milliyetçiliğe Tercih Etti",
+        "summary": "Dağlık Karabağ'daki çatışmaların ardından Ermenistan'da gerçekleştirilen seçimlerde, halkın milliyetçilik yerine barış odaklı bir yaklaşımı tercih ettiği belirtildi. Başbakan Nikol Paşinyan'ın bu seçimlerden zaferle ayrılması, ülkenin iç siyasetinde önemli bir dönüm noktası olarak değerlendiriliyor. Paşinyan'ın galibiyeti, aynı zamanda Rusya'nın Ermenistan üzerindeki geleneksel etkisinin zayıfladığına dair güçlü işaretler taşıyor. Bu durum, Güney Kafkasya'daki bölgesel güç dengeleri ve uluslararası ilişkiler açısından yeni dinamikler yaratma potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32654857/pexels-photo-32654857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-09T18:10:06.989Z",
+        "location": {
+            "lat": 40.1792,
+            "lng": 44.4991,
+            "name": "Yerevan, Ermenistan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/6/9/after-karabakh-armenians-vote-for-peace-over-nationalism?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781019558280j1tzv",
         "title": "Altı Ülke, İşgal Altındaki Batı Şeria'da Yerleşimci Şiddetini Destekleyenlere Yaptırım Uyguladı",
         "summary": "Altı Batılı ülke, işgal altındaki Batı Şeria'da yerleşimci şiddetini destekleyen kişi ve kuruluşlara yönelik yaptırım kararı aldı. Bu ülkeler, İsrail'in sahadaki durumu ele almaması halinde ek önlemler alacaklarını açıkça belirtti. Karar, bölgedeki insan hakları ihlallerini ve gerilimi azaltma çabalarının bir parçası olarak değerlendiriliyor. Uluslararası toplum, Batı Şeria'daki yerleşimci şiddetinin artmasından endişe duyduğunu sık sık dile getiriyordu. Bu yaptırımlar, İsrail hükümeti üzerinde, yerleşimci şiddetini kontrol altına alması yönünde uluslararası baskıyı artırmayı hedefliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-officer-soldier-killed-in-south-lebanon/3958790",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1780787240085k1iu9",
-        "title": "Hak grubu, Sudan'ın orta kesimindeki bir pazarda insansız hava aracı saldırısında 11 kişinin öldüğünü bildirdi",
-        "summary": "Bir hak grubu, Sudan'ın orta kesiminde bir pazara düzenlenen insansız hava aracı saldırısında 11 kişinin hayatını kaybettiğini duyurdu. Acil Durum Avukatları adlı grup, saldırıda onlarca kişinin de yaralandığını belirtti. Bu saldırının, benzer insansız hava aracı saldırılarından 24 saatten kısa bir süre sonra gerçekleştiği ifade edildi. Sudan'da devam eden çatışmaların siviller üzerindeki etkisi endişe yaratmaya devam ederken, bölgedeki güvenlik durumu ve sivil kayıplar uluslararası kamuoyunun dikkatini çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5014710/pexels-photo-5014710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T23:07:20.085Z",
-        "location": {
-            "lat": 14.5,
-            "lng": 32,
-            "name": "Orta Sudan, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1780781843762cvz7m",
-        "title": "Pentagon'dan İsrail Casusluğu Tehdit Seviyesi Uyarısı: 'Kritik'",
-        "summary": "ABD Savunma Bakanlığı (Pentagon), İsrail'in casusluk faaliyetlerine ilişkin tehdit seviyesini 'kritik' olarak yükselttiğini bildirdi. Bu karar, ABD ve İsrail'in İran ile arasındaki gerilim ve ateşkes görüşmeleri sırasında artan casusluk faaliyetlerine dair endişelerden kaynaklanıyor. Bakanlık raporları, bölgedeki hassas dengeler ve devam eden çatışmalar bağlamında bu tür istihbarat faaliyetlerinin risklerini vurguluyor. Gelişme, iki müttefik ülke arasındaki istihbarat ilişkilerinde potansiyel bir gerilime işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380651/pexels-photo-5380651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-06T21:37:23.762Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
