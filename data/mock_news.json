@@ -1,5 +1,37 @@
 [
     {
+        "id": "1781036910063jhrib",
+        "title": "İran Çatışması: Petrol Fiyatları Neden 100 Dolar Civarında Seyrediyor?",
+        "summary": "İran ile ilgili bir çatışma senaryosunun küresel petrol piyasaları üzerindeki etkileri değerlendirildi. Haberde, en kötü petrol senaryosunun önüne geçilmiş olmasına rağmen, petrol fiyatlarının neden 100 dolar civarında seyretmeye devam ettiği inceleniyor. Küresel ekonomideki enflasyon ve yavaş büyümenin sürmesi, bu durumun önemli nedenleri arasında gösteriliyor. İran'daki gelişmelerin ve jeopolitik gerilimlerin, küresel enerji piyasaları üzerindeki kalıcı etkileri analiz ediliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-09T20:28:30.063Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "17810369483536hs5v",
+        "title": "USS Liberty Olayı: Amerikan Kamuoyunda Neden Yeterince Bilinmiyor?",
+        "summary": "Al Jazeera muhabiri Ava Warriner, 1967'deki Altı Gün Savaşı sırasında İsrail güçleri tarafından hedef alınan ABD gemisi USS Liberty'ye yönelik saldırının detaylarını ve ardından gelen iddia edilen örtbas etme çabalarını inceliyor. Haber, olayın tarihi arka planını ve Amerikan kamuoyundaki bilgi eksikliğinin nedenlerini ele alıyor. Akdeniz'de, Sina Yarımadası açıklarında gerçekleşen bu saldırı, ABD-İsrail ilişkilerinde uzun süredir tartışma konusu olmuştur. Olay, Orta Doğu'daki çatışmaların karmaşık yapısını ve uluslararası ilişkiler üzerindeki etkilerini gözler önüne sermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37195596/pexels-photo-37195596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-09T20:29:08.353Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 33.5,
+            "name": "Akdeniz, Mısır açıklarında"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/9/why-so-many-americans-havent-heard-about-the-uss-liberty?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1781028568288vtp65",
         "title": "Filistinliler, El Halil yakınlarında toprak gaspı nedeniyle İsrailli yerleşimcilerle karşı karşıya geldi",
         "summary": "Filistinliler, Batı Şeria'daki El Halil kenti yakınlarında İsrailli yerleşimcilerle karşı karşıya geldi. Gerginlik, yerleşimcilerin Filistinlilere ait toprakları ele geçirme girişimleri üzerine yaşandı. Bölgede sık sık benzer olaylar meydana gelmekte olup, bu durum Filistinliler ile İsrailli yerleşimciler arasındaki arazi anlaşmazlıklarını ve gerilimi yansıtmaktadır. Olayda can kaybı veya yaralanma olup olmadığına dair henüz bilgi verilmedi.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/why-are-players-being-issued-visas-just-days-before-the-world-cup?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": false
-    },
-    {
-        "id": "17807963474554gn7q",
-        "title": "ABD İstihbaratı, İsrail'den Gelen Casusluk Tehdidinden Endişeli",
-        "summary": "ABD istihbarat birimlerinin, İsrail'den kaynaklanan casusluk tehdidinin artmasından endişe duyduğu bildirildi. Savunma İstihbarat Teşkilatı'nın (DIA), Washington'ın Tahran ile devam eden müzakereleri sırasında İsrail'in karşı istihbarat tehdit seviyesini 'yüksek'ten 'kritik'e yükselttiği iddia edildi. Bu gelişme, ABD'nin önemli bir müttefiki olan İsrail'in istihbarat faaliyetlerinin, iki ülke arasındaki ilişkilerde yeni bir gerilim kaynağı olabileceğine işaret ediyor. Rapor, ABD'nin Orta Doğu'daki stratejik çıkarları ve diplomatik çabaları bağlamında İsrail'in rolünü yeniden değerlendirmesi gerektiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17641651/pexels-photo-17641651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T01:39:07.455Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-intelligence-concerned-over-growing-espionage-threat-from-israel-report/3958776",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17807963852964stkm",
-        "title": "İsrail ordusu, güney Lübnan'da bir subay ve bir askerin öldürüldüğünü duyurdu",
-        "summary": "İsrail ordusu tarafından yapılan açıklamada, güney Lübnan'da yaşanan olaylarda bir subay ve bir askerin hayatını kaybettiği bildirildi. Ordudan yapılan bilgilendirmeye göre, bir subay insansız hava aracı (İHA) saldırısında aldığı yaralar sonucu yaşamını yitirdi. Aynı bölgede meydana gelen ayrı bir olayda ise bir askerin kaza kurşunuyla öldüğü belirtildi. Bu olaylar, İsrail-Lübnan sınırındaki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T01:39:45.296Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-officer-soldier-killed-in-south-lebanon/3958790",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
