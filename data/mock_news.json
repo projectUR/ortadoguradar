@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781043009812wkl9e",
+        "title": "Trump, İran'ın Apache helikopteri düşürdüğü iddiasıyla misilleme sözü verdi",
+        "summary": "ABD Başkanı Trump, İran'ı Hürmüz Boğazı üzerinde bir Amerikan Apache helikopterini düşürmekle suçladı. Bu iddia, ABD ile İran arasındaki mevcut gerilimi tırmandırabilecek önemli bir gelişme olarak değerlendiriliyor. Başkan Trump, bu olaya karşılık misilleme yapılacağı yönünde açıklamalarda bulundu. Küresel petrol ticareti için stratejik öneme sahip Hürmüz Boğazı'nda yaşanan bu olay, bölgedeki güvenlik dinamiklerini yakından ilgilendiriyor. Gelişme, iki ülke arasındaki ilişkilerde yeni bir krizin habercisi olabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-09T22:10:09.812Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781036910063jhrib",
         "title": "İran Çatışması: Petrol Fiyatları Neden 100 Dolar Civarında Seyrediyor?",
         "summary": "İran ile ilgili bir çatışma senaryosunun küresel petrol piyasaları üzerindeki etkileri değerlendirildi. Haberde, en kötü petrol senaryosunun önüne geçilmiş olmasına rağmen, petrol fiyatlarının neden 100 dolar civarında seyretmeye devam ettiği inceleniyor. Küresel ekonomideki enflasyon ve yavaş büyümenin sürmesi, bu durumun önemli nedenleri arasında gösteriliyor. İran'daki gelişmelerin ve jeopolitik gerilimlerin, küresel enerji piyasaları üzerindeki kalıcı etkileri analiz ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_outrage-over-palestinian-dog-rape-joke-at-tribeca-070626?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780813691386efhr9",
-        "title": "Oyunculara Dünya Kupası'ndan günler önce neden vize veriliyor?",
-        "summary": "FIFA Dünya Kupası'nda mücadele edecek oyunculara turnuvanın başlamasına günler kala son dakika vizeleri çıkarıldığı bildirildi. Bu durum, uluslararası spor etkinliklerinin organizasyonunda yaşanan lojistik zorlukları ve vize süreçlerinin karmaşıklığını gündeme getiriyor. Katar merkezli Al Jazeera haber ajansından Mohammad Saleh, konuya ilişkin detaylı açıklamalarda bulundu. Haber, özellikle ev sahibi ülkelerin vize politikaları ve büyük çaplı organizasyonların bürokratik süreçleri açısından önem arz ediyor. Bu gelişme, turnuva öncesi hazırlıkların son aşamasında yaşanan potansiyel aksaklıklara dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T06:28:11.386Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/why-are-players-being-issued-visas-just-days-before-the-world-cup?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
