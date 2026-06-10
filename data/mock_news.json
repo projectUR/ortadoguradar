@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781064178824g6meo",
+        "title": "Belfast'ta Mülteci Saldırısı Sonrası Şiddetli Protestolar Patlak Verdi",
+        "summary": "Kuzey İrlanda'nın başkenti Belfast'ta, bir mültecinin karıştığı bıçaklı saldırının ardından geniş çaplı protestolar patlak verdi. Olaylar, Kuzey Belfast'ta Sudan uyruklu bir kişinin bıçaklı saldırı şüphesiyle gözaltına alınmasıyla başladı. Protestocular, kentte araçları ve binaları ateşe vererek şiddetli gösteriler düzenledi. Güvenlik güçleri, kamu düzenini sağlamak amacıyla bölgede geniş güvenlik önlemleri aldı. Yaşanan gerilim, mülteci meselesi ve toplumsal huzursuzluk konularını yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4636148/pexels-photo-4636148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-10T04:02:58.824Z",
+        "location": {
+            "lat": 54.5973,
+            "lng": -5.4545,
+            "name": "Belfast, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781049183260bsw4v",
         "title": "İsrail Güçleri, Sur'da Dokuz Kişiyi Öldürdü",
         "summary": "İsrail güçleri, Lübnan'ın güneyindeki Sur şehrine yönelik zorla yerinden etme emirleri yayınlamasının ardından bölgede operasyon düzenledi. Son 24 saat içinde gerçekleştirilen bu operasyonlarda dokuz kişinin hayatını kaybettiği bildirildi. Olay, bölgedeki insani durumu ve güvenlik endişelerini artırdı. Uluslararası kuruluşlar ve insan hakları örgütleri, sivillerin korunması ve zorla yerinden edilme uygulamalarına son verilmesi çağrısında bulundu. Bölgedeki gerilimin tırmanmasından endişe ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/sports/iran-says-its-world-cup-squad-must-enter-leave-us-soil-on-match-day/3958875",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1780825704646vzel0",
-        "title": "İran'a Yönelik 100 Günlük Savaşın Başarıları Yadsınamaz",
-        "summary": "ABD'nin İran'a karşı yürüttüğü 100 günlük savaşın önemli başarılar elde ettiği iddia edildi. Habere göre, bu süreçte ABD, İran'ın nükleer programını ve askeri kapasitesini ciddi ölçüde zayıflatmakla kalmadı. Aynı zamanda İran rejiminin gücünü de azalttığı belirtildi. Bu gelişmelerin Orta Doğu'daki güç dengeleri üzerinde etkili olabileceği değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9643191/pexels-photo-9643191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T09:48:24.646Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
