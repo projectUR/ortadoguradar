@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781118851851yne2y",
+        "title": "ABD, İran'a Yönelik Askeri Saldırılar Düzenledi",
+        "summary": "Amerika Birleşik Devletleri, İran'a karşı askeri saldırılar gerçekleştirdi. Bu saldırılar, ABD'nin İran'ı Hürmüz Boğazı üzerinde bir Amerikan askeri helikopterini düşürmekle suçlamasının ardından geldi. ABD Başkanı Donald Trump, olayın ardından İran'a misilleme yapılacağını duyurmuştu. Gerginlik, bölgedeki güvenlik endişelerini artırdı ve iki ülke arasındaki tansiyonu yükseltti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952951/pexels-photo-5952951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-10T19:14:11.851Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "178110863292175cmi",
         "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 17 Kişi Hayatını Kaybetti",
         "summary": "Lübnan'ın güneyine İsrail tarafından düzenlenen saldırılarda 17 kişinin hayatını kaybettiği bildirildi. Lübnan devlet haber ajansının aktardığı bilgilere göre, ölenlerden dokuzu Tayr Debba kasabasında gerçekleşen bir dizi saldırıda yaşamını yitirdi. Bu saldırılar, bölgedeki mevcut gerilimi daha da artırdı. Olay, uluslararası alanda endişelere yol açarken, bölgedeki güvenlik durumu yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780847496350gkyeo",
-        "title": "İran Milli Futbol Takımı, ABD Vize Anlaşmazlığı Sürerken Meksika'ya Ulaştı",
-        "summary": "İran Milli Futbol Takımı, ABD'de düzenlenecek Dünya Kupası maçları öncesinde Meksika'ya vardı. Takımın Meksika'ya ulaşması, ABD ile yaşanan vize anlaşmazlığının devam ettiği bir döneme denk geldi. Bu durum, İranlı sporcuların ABD'ye giriş süreçleriyle ilgili belirsizlikleri gündeme getiriyor. Dünya Kupası hazırlıkları kapsamında yapılan bu seyahat, diplomatik gerilimlerin spor etkinliklerine yansımalarını bir kez daha gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32285230/pexels-photo-32285230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T15:51:36.350Z",
-        "location": {
-            "lat": 19.4,
-            "lng": -99.1,
-            "name": "Mexico City, Mexico"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
