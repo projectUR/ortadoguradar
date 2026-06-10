@@ -1,5 +1,21 @@
 [
     {
+        "id": "178110863292175cmi",
+        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 17 Kişi Hayatını Kaybetti",
+        "summary": "Lübnan'ın güneyine İsrail tarafından düzenlenen saldırılarda 17 kişinin hayatını kaybettiği bildirildi. Lübnan devlet haber ajansının aktardığı bilgilere göre, ölenlerden dokuzu Tayr Debba kasabasında gerçekleşen bir dizi saldırıda yaşamını yitirdi. Bu saldırılar, bölgedeki mevcut gerilimi daha da artırdı. Olay, uluslararası alanda endişelere yol açarken, bölgedeki güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-10T16:23:52.921Z",
+        "location": {
+            "lat": 33.15,
+            "lng": 35.21,
+            "name": "Tayr Debba, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781094227752jgtb6",
         "title": "Netanyahu ABD, Lübnan Savaşı ve İran Ateşkesi Arasında Sıkıştı",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, yaklaşan seçimler öncesinde hem iç hem de dış politikada yoğun baskılar altında olduğu bildiriliyor. Başbakan Netanyahu'nun, ülkesinin en önemli müttefiki ABD ile ilişkileri yönetme zorunluluğu bulunuyor. Aynı zamanda, Lübnan ile potansiyel bir savaşın gölgesinde ve İran ile olası bir ateşkes anlaşmasının getireceği sonuçlarla yüzleşmek zorunda kalıyor. Bu karmaşık durum, Netanyahu'yu kendi seçmenleri, siyasi müttefikleri ve muhalifleri arasında hassas bir denge kurmaya itiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "17808475635567u0vh",
-        "title": "İsrail'de Silahlı Saldırı: Bir Ölü, Beş Yaralı",
-        "summary": "İsrail'de meydana gelen silahlı saldırıda bir kişi hayatını kaybederken, beş kişi de yaralandı. Olay, şüphelinin bir araçtan çeşitli noktalara ateş açmasıyla başladı. Saldırgan, güvenlik güçlerinin müdahalesi sonucu vurularak öldürüldü. Yetkililer, olayın detaylarına ilişkin soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6090781/pexels-photo-6090781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T15:52:43.556Z",
-        "location": {
-            "lat": 32,
-            "lng": 34.8,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.com/news/articles/cpwe8e80weyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
