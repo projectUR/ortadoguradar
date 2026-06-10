@@ -1,5 +1,53 @@
 [
     {
+        "id": "1781078905289vcaxg",
+        "title": "Ukrayna İHA'ları Sivastopol Müzesi'ni ve Önemli Rus Petrol Rafinerilerini Vurdu",
+        "summary": "Ukrayna'nın Rusya'ya yönelik insansız hava aracı saldırıları, Karadeniz'deki Sivastopol kentinde bulunan bir müzeyi ve Rusya'daki kritik petrol rafinerilerini hedef aldı. Birkaç gündür devam eden bu saldırı kampanyası sonucunda bir demiryolu işçisi yaşamını yitirdi. Ayrıca, bombalanan Çongar karayolu köprüsü ulaşıma kapanırken, bölgede yakıt tedarikinde ciddi sıkıntılar yaşanmaya başlandığı bildirildi. Saldırılar, Rusya-Ukrayna savaşındaki gerilimi artırırken, enerji altyapısına yönelik tehditlerin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28861949/pexels-photo-28861949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-10T08:08:25.289Z",
+        "location": {
+            "lat": 44.6,
+            "lng": 33.52,
+            "name": "Sivastopol, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781078927079s3vga",
+        "title": "İran Savaşı 103. Gün: ABD Helikopter Düşürülmesi Sonrası Vurdu, Tahran Karşılık Verdi",
+        "summary": "İran Savaşı'nın 103. gününde, ABD'nin bir helikopterin düşürülmesinin ardından misilleme saldırıları düzenlediği bildirildi. Tahran'ın bu saldırılara karşılık vermesiyle bölgedeki gerilim tırmandı. Analistler, Tahran ile Washington arasındaki bu karşılıklı saldırıların daha fazla tırmanmaya yol açabileceği konusunda uyarıda bulundu. Yaşanan gelişmeler, Orta Doğu'daki mevcut çatışmanın yeni bir boyut kazanabileceği endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-10T08:08:47.079Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1781078986433u2jsg",
+        "title": "İsrail, İran'ın Uyarısına Rağmen Lübnan'ın Sur Kentini Vurdu",
+        "summary": "İsrail'in Lübnan'ın güneyindeki Sur kentine hava saldırıları düzenlediği bildirildi. Bu saldırılar, İran'ın İsrail'e yönelik saldırıları durdurma uyarısına rağmen gerçekleşti. İran, Pazartesi günü yaptığı açıklamada, İsrail'in Lübnanlı müttefiki Hizbullah'a yönelik saldırılarını durdurmaması halinde düşmanlıkları yeniden başlatabileceği konusunda uyarıda bulunmuştu. Bölgedeki gerilimin tırmandığı gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20478221/pexels-photo-20478221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-10T08:09:46.433Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Sur, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781064178824g6meo",
         "title": "Belfast'ta Mülteci Saldırısı Sonrası Şiddetli Protestolar Patlak Verdi",
         "summary": "Kuzey İrlanda'nın başkenti Belfast'ta, bir mültecinin karıştığı bıçaklı saldırının ardından geniş çaplı protestolar patlak verdi. Olaylar, Kuzey Belfast'ta Sudan uyruklu bir kişinin bıçaklı saldırı şüphesiyle gözaltına alınmasıyla başladı. Protestocular, kentte araçları ve binaları ateşe vererek şiddetli gösteriler düzenledi. Güvenlik güçleri, kamu düzenini sağlamak amacıyla bölgede geniş güvenlik önlemleri aldı. Yaşanan gerilim, mülteci meselesi ve toplumsal huzursuzluk konularını yeniden gündeme getirdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/eu-calls-for-full-accountability-after-another-unifil-soldier-killed-in-lebanon/3959066",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780833189129antuq",
-        "title": "Pakistan İçişleri Bakanı, Tahran'da İranlı Diplomatla Görüştü",
-        "summary": "Pakistan İçişleri Bakanı Moshin Naqvi, arabuluculuk çabalarının sürdüğü bir dönemde İran'ın üst düzey diplomatı Abbas Araghchi ile Tahran'da bir araya geldi. İran devlet medyasına göre, görüşmede İran ile ABD arasındaki müzakerelerdeki son diplomatik gelişmeler ele alındı. Bu görüşme, bölgesel diplomasideki hareketliliği ve İran'ın uluslararası ilişkilerindeki kritik konuları yansıtıyor. Pakistan'ın arabuluculuk rolü, bölgedeki gerilimin azaltılmasına yönelik çabaların bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8463151/pexels-photo-8463151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T11:53:09.130Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/pakistani-interior-minister-meets-irans-top-diplomat-in-tehran-amid-mediation-efforts/3958993",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1780833226377w4fbc",
-        "title": "Gazze'de İsrail Donanması Ateşiyle Filistinli Genç Öldürüldü",
-        "summary": "Gazze Şeridi'nde bir Filistinli gencin İsrail donanması ateşi sonucu hayatını kaybettiği bildirildi. Anadolu Ajansı'nın kaynaklarına göre, 15 yaşındaki Muhammed Musa Ebu Ciab adlı genç, olay anında balıkçılık yapmaktaydı. Ebu Ciab'ın İsrail ordusu tarafından vurularak öldürüldüğü belirtildi. Bu olay, bölgedeki güvenlik durumunu ve İsrail-Filistin arasındaki gerilimi yeniden gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T11:53:46.377Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-teen-killed-by-israeli-naval-fire-in-gaza/3958931",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1780833247450pe00y",
-        "title": "İran, Dünya Kupası Kadrosunun ABD'ye Giriş-Çıkış Koşullarını Açıkladı",
-        "summary": "İran, Dünya Kupası'na katılacak milli futbol takımının ABD topraklarına giriş ve çıkış koşullarına ilişkin bir açıklama yaptı. İran'ın Meksika Büyükelçisi, takımın ABD'ye maç günü sabah giriş yapıp aynı gün ayrılmak zorunda olduğunu bildirdi. Bu açıklama, İranlı yetkililerin ABD'ye seyahatle ilgili özel bir düzenlemeyi vurguladığını gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14905734/pexels-photo-14905734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T11:54:07.450Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/sports/iran-says-its-world-cup-squad-must-enter-leave-us-soil-on-match-day/3958875",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
