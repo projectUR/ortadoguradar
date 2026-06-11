@@ -1,5 +1,85 @@
 [
     {
+        "id": "17811789764780drzx",
+        "title": "Britanya Savunma Bakanı Healey, savunma harcamaları nedeniyle istifa etti",
+        "summary": "Birleşik Krallık Savunma Bakanı Healey'nin görevinden ayrıldığı bildirildi. Bakanın istifasının, savunma harcamaları konusundaki anlaşmazlıklar nedeniyle gerçekleştiği belirtildi. Bu gelişme, İngiliz hükümetinin savunma politikaları ve bütçesi üzerindeki iç tartışmaları gözler önüne serdi. Haber ajansları, konunun son dakika gelişmesi olarak duyurulduğunu aktardı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7103075/pexels-photo-7103075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-11T11:56:16.478Z",
+        "location": {
+            "lat": 51.5,
+            "lng": -0.1,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/11/britains-defence-%e2%81%a0minister-healey-quits-over-defence-spending?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1781179000431bzmly",
+        "title": "Gazze'de İsrail Güçleri Tarafından Öldürülen Genç Balıkçının Görüntüleri Ortaya Çıktı",
+        "summary": "Gazze Şeridi'nde yaşanan trajik bir olayda, 15 yaşındaki balıkçı Muhammed Ebu Ciab'ın Deir el-Balah açıklarında İsrail güçleri tarafından vurularak hayatını kaybettiği bildirildi. Olayın ardından, genç balıkçının ölümünden önceki anlarını gösteren bir video kaydı kamuoyuyla paylaşıldı. Bu gelişme, İsrail-Filistin çatışması bağlamında sivil kayıplar ve güvenlik güçlerinin müdahaleleri konusundaki tartışmaları yeniden alevlendirdi. Bölgedeki insan hakları örgütleri, olayın detaylarının şeffaf bir şekilde araştırılması çağrısında bulundu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-11T11:56:40.431Z",
+        "location": {
+            "lat": 31.4167,
+            "lng": 34.3333,
+            "name": "Deir el-Balah, Gazze Şeridi"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-gaza-teen-fisherman-before-israeli-forces-killed-him-at-sea?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781179023781bnubx",
+        "title": "Dünya Genelinde 117.8 Milyon Kişi Evlerinden Kaçtı: Lübnan'da Barınma Krizi Derinleşiyor",
+        "summary": "Birleşmiş Milletler verilerine göre, dünya genelinde 117.8 milyon kişinin evlerini terk etmek zorunda kaldığı açıklandı. Bu küresel yerinden edilme krizi, özellikle Orta Doğu ülkeleri üzerinde büyük bir baskı oluşturuyor. Lübnan'da ise barınma krizi giderek derinleşiyor ve ülkenin mevcut altyapısı bu yoğunluğa cevap vermekte zorlanıyor. Hem kendi vatandaşları hem de bölgedeki çatışmalardan kaçan mülteciler için yeterli barınma imkanı sağlamakta güçlük çeken Lübnan, uluslararası toplumdan acil destek bekliyor. Bu durum, insani yardımların ve sürdürülebilir çözümlerin önemini bir kez daha gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19264467/pexels-photo-19264467.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-11T11:57:03.781Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/11/117-8-million-fled-their-homes-worldwide-lebanons-shelter-crisis-worsens?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1781179047362as3d2",
+        "title": "Gözaltındaki Gazze'li Doktor Hussam Abu Safia'nın Ailesi İşkence İddiasında Bulundu",
+        "summary": "İsrail tarafından gözaltına alınan Gazze'li çocuk doktoru Hussam Abu Safia'nın ailesi, doktorun işkence belirtileri gösterdiğini iddia etti. İsrail mahkemesinde video bağlantısıyla duruşmaya çıkan Safia'nın avukatı ve ailesi, doktorun yaşamından endişe duyduklarını belirterek derhal serbest bırakılmasını talep etti. Bu iddialar, İsrail'in gözaltı uygulamalarına yönelik uluslararası insan hakları örgütlerinin eleştirilerini yeniden gündeme getirdi. Olay, İsrail-Filistin çatışması bağlamında insan hakları ihlalleri tartışmalarını derinleştirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17765365/pexels-photo-17765365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-11T11:57:27.362Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781179068674nr4y8",
+        "title": "ABD ve İran, Orta Doğu'da İkinci Gün Karşılıklı Saldırılar Düzenledi",
+        "summary": "ABD ve İran'ın Orta Doğu'da üst üste ikinci gün karşılıklı saldırılar düzenlediği bildirildi. İran, ABD'nin gerçekleştirdiği saldırılara yanıt olarak Kuveyt, Ürdün ve Bahreyn'deki Amerikan varlıklarını hedef aldığını duyurdu. Bahreyn, başkentinde gece boyunca meydana gelen saldırılarda hasar oluştuğunu açıkladı. Bu gelişmeler, bölgedeki gerilimin tırmandığına işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952942/pexels-photo-5952942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-11T11:57:48.674Z",
+        "location": {
+            "lat": 26.2,
+            "lng": 50.6,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1781162179345i0z29",
         "title": "İran, ABD Üslerine Saldırdı ve Hürmüz Boğazı'nı Kapattı",
         "summary": "ABD'nin saldırılarının ardından İran, stratejik öneme sahip Hürmüz Boğazı'nı kapatma kararı aldı. Bu adım, bölgedeki deniz trafiği ve enerji tedariki açısından kritik bir gelişme olarak değerlendiriliyor. İran ayrıca, misilleme olarak Kuveyt, Bahreyn ve Ürdün'de bulunan ABD üslerine yönelik saldırılar düzenlediğini duyurdu. Yaşanan bu gelişmeler, Orta Doğu'da zaten yüksek olan gerilimi daha da tırmandırarak bölgesel güvenlik dinamiklerini derinden etkiledi.",
@@ -718,85 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/celebrations-seen-in-tehran-as-missiles-fly-overhead-towards-israel?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17808738758284g5la",
-        "title": "İran, İsrail'e yönelik füze saldırılarının ardından ülkenin batı hava sahasını kapattı",
-        "summary": "İran, ülkenin batı hava sahasını kapatma kararı aldı. Bu adım, İran'ın İsrail'deki bir hava üssünü hedef alan füze saldırılarının ardından geldi. İran'ın bu saldırıları ise Beyrut'un güney banliyölerine yönelik saldırılara misilleme olarak gerçekleştirildi. Bölgedeki gerilimin tırmandığı bu gelişmeler, Orta Doğu'da güvenlik endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T23:11:15.828Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-closes-western-part-of-country-s-airspace-after-missile-attacks-on-israel/3959617",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "178087389815859mef",
-        "title": "Irak ve Suriye, İran-İsrail Gerilimi Nedeniyle Hava Sahalarını Kapattı",
-        "summary": "Irak ve Suriye, İran ile İsrail arasındaki artan gerilimler üzerine hava sahalarını geçici olarak kapatma kararı aldı. Irak Sivil Havacılık Otoritesi, ülkenin hava sahasının 72 saat süreyle tüm uçuşlara kapatıldığını duyurdu. Benzer şekilde, Suriye de güney hava koridorlarını askıya aldığını ve Şam Uluslararası Havalimanı'ndaki operasyonları durdurduğunu bildirdi. Bu önlemlerin, bölgedeki güvenlik durumunun kötüleşmesi ve olası askeri operasyonlara karşı bir tedbir olarak alındığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12901880/pexels-photo-12901880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T23:11:38.158Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Bağdat, Irak; Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-syria-announce-temporary-closure-of-airspace-amid-renewed-iran-israel-tensions/3959614",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17808686910949qug4",
-        "title": "İran Medyası, İsrail'e Yönelik Füze Fırlatıldığını Gösteren Görüntüler Yayınladı",
-        "summary": "İran medyası, İsrail'e doğru fırlatılan füzelere ait olduğu iddia edilen görüntüleri kamuoyuyla paylaştı. Yayınlanan videolarda, İran topraklarından İsrail'e yönelik füze atışlarının gerçekleştirildiği görülüyor. Bu gelişme, Orta Doğu'da uzun süredir devam eden gerilimi yeni bir boyuta taşıdı. İran ve İsrail arasındaki doğrudan askeri eylemler, bölgedeki güvenlik durumunu ciddi şekilde etkileme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13128611/pexels-photo-13128611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T21:44:51.094Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İran, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "178086873276961amm",
-        "title": "İran, Beyrut Saldırısı Sonrası İsrail'e Füze Fırlattı",
-        "summary": "İran, Beyrut'a yönelik bir saldırının 'tüm kırmızı çizgileri aştığı' gerekçesiyle İsrail'e füze fırlattığını duyurdu. İran Devrim Muhafızları Ordusu (IRGC), bu füze saldırısının İsrail'e bir 'uyarı' niteliğinde olduğunu belirtti. Saldırı, İsrail'in Lübnan'a yönelik devam eden kuşatması sırasında gerçekleşti. Bu eylem, Orta Doğu'daki mevcut gerilimi daha da artırdı ve bölgedeki güvenlik endişelerini yükseltti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31365894/pexels-photo-31365894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T21:45:32.769Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780863275066qg5ih",
-        "title": "İran'da Dünya Kupası Heyecanı Savaş ve Ekonomik Kriz Gölgesinde Kaldı",
-        "summary": "İran'da yaklaşan Dünya Kupası'na yönelik heyecan, ülkenin içinde bulunduğu savaş ve ekonomik kriz koşulları nedeniyle gölgelenmiş durumda. Uluslararası yaptırımlar ve yüksek enflasyon gibi faktörlerin tetiklediği derin ekonomik sıkıntılar, halkın günlük yaşam mücadelesini artırıyor. Bölgesel gerilimler ve jeopolitik gelişmeler de genel atmosferi olumsuz etkiliyor. Bu durum, normalde büyük bir coşkuyla karşılanan spor etkinliklerine olan ilgiyi azaltarak, vatandaşların önceliklerinin farklılaştığını gösteriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6519914/pexels-photo-6519914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-07T20:14:35.066Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
