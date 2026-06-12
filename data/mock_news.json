@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781229601357kld3c",
+        "title": "İsrailli firma, Fransa'da sahte Filistin yardım kampanyasıyla bağış toplamakla suçlanıyor",
+        "summary": "Fransa'da, İsrailli bir firmanın sahte bir Filistin yardım kampanyası düzenleyerek bağış topladığı iddia edildi. Haberlere göre, söz konusu firma, çevrimiçi ağlar aracılığıyla kendisini Filistinlilere destek veren insani bir kuruluş olarak tanıttı. Ancak bu ağların sahte olduğu ve toplanan bağışların amacı dışında kullanıldığı öne sürülüyor. Bu durum, Filistin'e yönelik insani yardım faaliyetlerinin güvenilirliği konusunda endişeleri artırdı ve uluslararası kamuoyunda tartışmalara yol açtı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7111601/pexels-photo-7111601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-12T02:00:01.357Z",
+        "location": {
+            "lat": 31.9038,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-firm-accused-of-using-fake-palestine-aid-campaign-to-collect-donations-in-france/3964684",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781220379947kgz73",
         "title": "ABD'li milletvekilleri İsrail'e, kanser hastalarının tedavi için Gazze'den çıkışına izin vermesi yönünde baskı yapıyor",
         "summary": "ABD'li bir grup milletvekili, İsrail'e Gazze Şeridi'ndeki kanser hastalarının tedavi amacıyla bölgeden ayrılmasına izin vermesi yönünde çağrıda bulundu. Milletvekilleri, Gazze'deki sağlık hizmetlerinin yetersizliği nedeniyle tıbbi tahliyelerin aciliyetine dikkat çekti. Trump yönetimine seslenen vekiller, Gazze'den tıbbi tahliyelerin kolaylaştırılması için adımlar atılmasını talep etti. Bu çağrı, bölgedeki insani durumun ciddiyetini bir kez daha gündeme getirdi ve uluslararası toplumun dikkatini çekti.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1780944272422s6461",
-        "title": "İran Meclis Başkanı: ABD ile Müzakereler Normalleşme Değil, Kalıcı Güvenliğe Odaklı",
-        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD ile yürütülen müzakerelerin iki ülke arasındaki ilişkilerin normalleşmesini hedeflemediğini açıkladı. Kalibaf, görüşmelerin temel amacının bölgede kalıcı güvenliğin sağlanması olduğunu vurguladı. Açıklamasında diplomasi ve askeri eylemin birbirini tamamlayan araçlar olduğunu ve gerektiğinde kullanılması gerektiğini ifade etti. Bu beyan, İran'ın dış politika yaklaşımını ve ABD ile olan ilişkilerindeki önceliklerini bir kez daha ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8112147/pexels-photo-8112147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-08T18:44:32.422Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/iran-s-parliament-speaker-says-negotiations-with-us-focused-on-lasting-security-not-normalization/3960765",
         "trendScore": 85,
         "isBreaking": false
     }
