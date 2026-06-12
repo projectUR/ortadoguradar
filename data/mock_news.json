@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781306452863stowp",
+        "title": "Filistin Futbol Federasyonu Başkanı, Dünya Kupası İçin ABD Vizesi Alamadığını Açıkladı",
+        "summary": "Filistin Futbol Federasyonu Başkanı Jibril Rajoub, 2026 Dünya Kupası'na katılmak üzere ABD vizesi alamadığını duyurdu. Rajoub, vize başvurusunun sonucunu beklemek üzere şu anda Meksika'da bulunuyor. Bu durum, uluslararası spor etkinliklerine katılımda yaşanan bürokratik ve potansiyel diplomatik engelleri bir kez daha gündeme getirdi. Filistinli yetkilinin ABD'ye girişine izin verilmemesi, spor ve siyaset arasındaki hassas ilişkiyi gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8061942/pexels-photo-8061942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-12T23:20:52.863Z",
+        "location": {
+            "lat": 31.9039,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/6/12/palestine-football-chief-says-he-wasnt-granted-us-visa-to-attend-world-cup?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1781301049291j5xsn",
         "title": "Trump: İran'a Yönelik Saldırılar İptal Edildi, Savaş Anlaşması Yakında Tamamlanacak",
         "summary": "ABD Başkanı Donald Trump, İran'a yönelik planlanan askeri saldırıların iptal edildiğini duyurdu. Trump, yaptığı açıklamada, İran ile olan 'savaşı' sona erdirecek bir anlaşmanın yakında nihai hale getirileceğini belirtti. Bu gelişme, bölgedeki gerilimi azaltma ve diplomatik çözüm yollarını hızlandırma potansiyeli taşıyor. Söz konusu açıklama, ABD'nin İran politikasına dair yeni bir dönemin başlangıcı olabileceği yönünde yorumlara neden oldu.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781043009812wkl9e",
-        "title": "Trump, İran'ın Apache helikopteri düşürdüğü iddiasıyla misilleme sözü verdi",
-        "summary": "ABD Başkanı Trump, İran'ı Hürmüz Boğazı üzerinde bir Amerikan Apache helikopterini düşürmekle suçladı. Bu iddia, ABD ile İran arasındaki mevcut gerilimi tırmandırabilecek önemli bir gelişme olarak değerlendiriliyor. Başkan Trump, bu olaya karşılık misilleme yapılacağı yönünde açıklamalarda bulundu. Küresel petrol ticareti için stratejik öneme sahip Hürmüz Boğazı'nda yaşanan bu olay, bölgedeki güvenlik dinamiklerini yakından ilgilendiriyor. Gelişme, iki ülke arasındaki ilişkilerde yeni bir krizin habercisi olabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-09T22:10:09.812Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
