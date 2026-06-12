@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781301049291j5xsn",
+        "title": "Trump: İran'a Yönelik Saldırılar İptal Edildi, Savaş Anlaşması Yakında Tamamlanacak",
+        "summary": "ABD Başkanı Donald Trump, İran'a yönelik planlanan askeri saldırıların iptal edildiğini duyurdu. Trump, yaptığı açıklamada, İran ile olan 'savaşı' sona erdirecek bir anlaşmanın yakında nihai hale getirileceğini belirtti. Bu gelişme, bölgedeki gerilimi azaltma ve diplomatik çözüm yollarını hızlandırma potansiyeli taşıyor. Söz konusu açıklama, ABD'nin İran politikasına dair yeni bir dönemin başlangıcı olabileceği yönünde yorumlara neden oldu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-12T21:50:49.291Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781292654612ifw50",
         "title": "İran Savaşı Sona Erdikten Sonra Körfez Kolektif Güvenliği Nasıl Yönetecek?",
         "summary": "İran ile ABD arasında olası bir anlaşmanın, Körfez ülkeleri için güvenlik düzenlemelerini gözden geçirme fırsatı sunabileceği belirtiliyor. Haber, İran ile yaşanabilecek bir çatışmanın sona ermesi durumunda, Körfez bölgesindeki kolektif güvenlik mimarisinin nasıl şekilleneceği sorusuna odaklanıyor. Bu durum, bölge ülkelerinin mevcut savunma stratejilerini ve işbirliklerini yeniden değerlendirmelerini gerektirebilir. Olası bir anlaşma, bölgesel istikrar ve güvenlik dinamiklerinde önemli değişikliklere yol açabilir. Körfez ülkelerinin gelecekteki güvenlik yaklaşımları, bu yeni dönemin temel gündem maddelerinden biri olacak.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-vows-retaliation-after-claiming-iran-shot-down-apache-helicopter?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781036910063jhrib",
-        "title": "İran Çatışması: Petrol Fiyatları Neden 100 Dolar Civarında Seyrediyor?",
-        "summary": "İran ile ilgili bir çatışma senaryosunun küresel petrol piyasaları üzerindeki etkileri değerlendirildi. Haberde, en kötü petrol senaryosunun önüne geçilmiş olmasına rağmen, petrol fiyatlarının neden 100 dolar civarında seyretmeye devam ettiği inceleniyor. Küresel ekonomideki enflasyon ve yavaş büyümenin sürmesi, bu durumun önemli nedenleri arasında gösteriliyor. İran'daki gelişmelerin ve jeopolitik gerilimlerin, küresel enerji piyasaları üzerindeki kalıcı etkileri analiz ediliyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-09T20:28:30.063Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
