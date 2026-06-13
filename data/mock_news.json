@@ -1,5 +1,37 @@
 [
     {
+        "id": "1781359616856xg4iv",
+        "title": "ABD-İran Anlaşmasıyla İlgili 'Hala Birçok Şey Ters Gidebilir' Uyarısı",
+        "summary": "ABD ile İran arasında bir savaşı sona erdirmeyi amaçlayan anlaşmaya ilişkin değerlendirmeler yapıldı. Analist Henry Ensher, söz konusu anlaşmanın nihai bir çözümden ziyade, sorunlarla karşılaşabilecek bir sürecin başlangıcı olduğunu ifade etti. Ensher, anlaşmanın uygulanması sırasında birçok olumsuzluğun ortaya çıkabileceği uyarısında bulundu. Bu durum, iki ülke arasındaki ilişkilerin geleceği ve bölgesel istikrar açısından potansiyel risklere işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-13T14:06:56.856Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17813596442985qj53",
+        "title": "İran, Yüce Lider Hamaney'in Cenaze ve Defin Tarihlerini Duyurdu",
+        "summary": "İran, hayatını kaybeden Yüce Lider Ayetullah Ali Hamaney'in cenaze ve defin tarihlerini kamuoyuna açıkladı. Yapılan duyuruya göre, cenaze törenleri ülkenin önemli şehirlerinden Tahran ve Kum'da gerçekleştirilecek. Bu törenlerin ardından, Hamaney'in naaşı memleketi olan Meşhed şehrine nakledilerek burada toprağa verilecek. Detaylar, İran'ın dini ve siyasi liderinin son yolculuğuna uğurlanması sürecini belirliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6841108/pexels-photo-6841108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-13T14:07:24.298Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
         "id": "1781351749335p1p9q",
         "title": "Katar - İsviçre: Dünya Kupası grup maçı – önizleme, takım haberleri, kadrolar",
         "summary": "Katar, 2022'de ev sahipliği yaptığı Dünya Kupası'ndaki hayal kırıklığı yaratan performansının ardından, Kuzey Amerika'da düzenlenecek bir sonraki turnuvada daha iyi bir sonuç elde etmeyi hedefliyor. Asya Kupası şampiyonu unvanına sahip Katar Milli Futbol Takımı, bu hedefe ulaşmak için hazırlıklarını sürdürüyor. Bu kapsamda, İsviçre ile oynayacağı grup maçı, takımın mevcut durumunu ve potansiyelini test etme fırsatı sunacak. Maç öncesi yapılan önizlemelerde, takımların kadroları ve son durumları değerlendiriliyor. Katar'ın bu karşılaşmadaki performansı, gelecek Dünya Kupası'ndaki beklentileri şekillendirecek önemli bir gösterge olacak.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781094227752jgtb6",
-        "title": "Netanyahu ABD, Lübnan Savaşı ve İran Ateşkesi Arasında Sıkıştı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, yaklaşan seçimler öncesinde hem iç hem de dış politikada yoğun baskılar altında olduğu bildiriliyor. Başbakan Netanyahu'nun, ülkesinin en önemli müttefiki ABD ile ilişkileri yönetme zorunluluğu bulunuyor. Aynı zamanda, Lübnan ile potansiyel bir savaşın gölgesinde ve İran ile olası bir ateşkes anlaşmasının getireceği sonuçlarla yüzleşmek zorunda kalıyor. Bu karmaşık durum, Netanyahu'yu kendi seçmenleri, siyasi müttefikleri ve muhalifleri arasında hassas bir denge kurmaya itiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7103075/pexels-photo-7103075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-10T12:23:47.752Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781094282812mmi1i",
-        "title": "Dünya Kupası Öncesi ABD-İsrail-İran Gerilimi Gündemi Gölgede Bıraktı",
-        "summary": "Dünya Kupası'nın başlamasına bir gün kala, turnuva hazırlıkları siyasi gelişmelerin gölgesinde kalmaya devam ediyor. Özellikle ABD ve İsrail'in İran'a yönelik olası bir savaşına dair endişeler, spor gündeminin önüne geçerek küresel dikkatleri üzerine çekti. Bu durum, Orta Doğu'daki gerilimin uluslararası etkinlikler üzerindeki etkisini bir kez daha gözler önüne serdi. Dünya Kupası'nın açılışına kısa bir süre kala, bölgedeki siyasi dinamikler ve potansiyel çatışma riskleri, turnuvanın heyecanını gölgede bırakıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-10T12:24:42.812Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/10/whats-happening-at-the-world-cup-one-day-before-tournament-starts?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
