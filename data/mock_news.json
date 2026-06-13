@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781385688382kqhh5",
+        "title": "İsrail Medyası: İsrail, ABD-İran Anlaşmaları Kapsamında Güney Lübnan'dan Çekilmeyecek",
+        "summary": "İsrail medyasına göre, İsrail'in ABD ile İran arasındaki olası mutabakatlar çerçevesinde Güney Lübnan'dan çekilme niyeti bulunmuyor. Kaynaklar, İsrail'in Lübnan'ın derinliklerindeki saldırılarını azaltmaya hazırlandığını belirtiyor. Ancak, ülkenin güneyindeki operasyonlarına devam edeceği ifade ediliyor. Bu durum, bölgedeki gerilimin seyrini etkileyebilecek önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-13T21:21:28.382Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-won-t-withdraw-from-southern-lebanon-under-us-iran-understandings-israeli-media/3966330",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781379680056a97va",
         "title": "'Benim adıma değil': Yahudi diasporası İsrail üzerindeki konsensüse karşı çıkıyor",
         "summary": "Yahudi diasporası, İsrail'in kendi adları üzerindeki yetkisini reddettiğini açıkladı. Bu açıklama, İsrail Maliye Bakanı Bezalel Smotrich'in İsrail Günü geçit törenindeki görünümünün ardından geldi. Diaspora üyeleri, İsrail'in politikaları ve eylemleri konusunda farklı görüşlere sahip olduklarını ve İsrail hükümetinin kendilerini temsil etmediğini belirtiyor. Bu durum, İsrail ile dünya genelindeki Yahudi toplulukları arasındaki ilişkilerde artan bir gerilimi ve fikir ayrılığını gözler önüne seriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1781162224061zb5h1",
-        "title": "Umman Körfezi'nde ABD'nin tankere çarptığını açıklamasının ardından üç Hint denizci kayıp",
-        "summary": "Umman Körfezi'nde meydana gelen bir olayda, ABD'nin bir tankere çarptığını açıklamasının ardından üç Hint denizcinin kayıp olduğu bildirildi. Hindistan hükümeti, Umman kıyısı açıklarında Settebello adlı tankere yapılan müdahale sonrasında 21 mürettebatın kurtarıldığını duyurdu. Olayın detayları ve kayıp denizcilerin akıbeti hakkında araştırmalar devam ediyor. Bölgedeki deniz güvenliği endişeleri artıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33218944/pexels-photo-33218944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-11T07:17:04.061Z",
-        "location": {
-            "lat": 24.5,
-            "lng": 58,
-            "name": "Umman Körfezi, Umman"
-        },
-        "source": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
