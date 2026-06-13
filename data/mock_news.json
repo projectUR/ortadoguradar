@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781379680056a97va",
+        "title": "'Benim adıma değil': Yahudi diasporası İsrail üzerindeki konsensüse karşı çıkıyor",
+        "summary": "Yahudi diasporası, İsrail'in kendi adları üzerindeki yetkisini reddettiğini açıkladı. Bu açıklama, İsrail Maliye Bakanı Bezalel Smotrich'in İsrail Günü geçit törenindeki görünümünün ardından geldi. Diaspora üyeleri, İsrail'in politikaları ve eylemleri konusunda farklı görüşlere sahip olduklarını ve İsrail hükümetinin kendilerini temsil etmediğini belirtiyor. Bu durum, İsrail ile dünya genelindeki Yahudi toplulukları arasındaki ilişkilerde artan bir gerilimi ve fikir ayrılığını gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/34355547/pexels-photo-34355547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-13T19:41:20.056Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/13/not-in-my-name-the-jewish-diaspora-fighting-the-consensus-on-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781372447094oaszo",
         "title": "Katar - İsviçre 2026 Dünya Kupası Maçı Canlı Takibi",
         "summary": "2026 Dünya Kupası kapsamında Katar ile İsviçre arasında oynanacak maçın canlı takibi başlamıştır. Maç öncesi takımlara dair son gelişmeler ve kadro bilgileri anlık olarak paylaşılmaktadır. Futbolseverler, müsabakanın metin yorum akışını takip edebileceklerdir. Bu karşılaşma, Katar'ın uluslararası spor sahnesindeki varlığını pekiştirmesi açısından önem taşımaktadır. Canlı yayın, maçın başlangıcına kadar sürecek hazırlık sürecini kapsamaktadır.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17811273526185l47w",
-        "title": "BM, İsrail'in Lübnan'daki Eylemlerini Uluslararası Hukuk Açısından İnceleyecek",
-        "summary": "Birleşmiş Milletler (BM) müfettişleri, İsrail'in Lübnan'da 16 kişinin ölümüne yol açtığı iddia edilen olayların ardından uluslararası hukuk ihlallerini değerlendirmek üzere önümüzdeki hafta Lübnan'a gidecek. Heyet, bölgedeki tüm tarafların potansiyel uluslararası hukuk ihlallerini kapsamlı bir şekilde inceleyecek. Bu soruşturma, Orta Doğu'da devam eden gerilimin ve çatışmaların uluslararası hukuk boyutunu ele almayı hedefliyor. BM'nin bu adımı, olayların şeffaf bir şekilde aydınlatılması ve sorumluların belirlenmesi yönündeki uluslararası beklentileri yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10481302/pexels-photo-10481302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-10T21:35:52.618Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
