@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781366360888f0uq5",
+        "title": "İran ve ABD Arasında Anlaşma Yaklaşırken Tahran'dan Açıklama",
+        "summary": "İranlı yetkililer, ABD ile olası bir anlaşmaya yaklaşılırken, son bir yıl içinde kendilerine yönelik gerçekleştirilen suikastlar ve saldırıların İran'ı caydırmakta başarısız olduğunu bildirdi. Tahran yönetimi, bu tür eylemlerin ülkenin politikalarını ve hedeflerini değiştirmeyeceğini vurguladı. Açıklamalar, iki ülke arasındaki diplomatik çabaların devam ettiği ve gerilimin sürdüğü bir dönemde geldi. Bu durum, müzakerelerin karmaşık bir güvenlik ortamında ilerlediğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4963359/pexels-photo-4963359.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-13T15:59:20.888Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781359616856xg4iv",
         "title": "ABD-İran Anlaşmasıyla İlgili 'Hala Birçok Şey Ters Gidebilir' Uyarısı",
         "summary": "ABD ile İran arasında bir savaşı sona erdirmeyi amaçlayan anlaşmaya ilişkin değerlendirmeler yapıldı. Analist Henry Ensher, söz konusu anlaşmanın nihai bir çözümden ziyade, sorunlarla karşılaşabilecek bir sürecin başlangıcı olduğunu ifade etti. Ensher, anlaşmanın uygulanması sırasında birçok olumsuzluğun ortaya çıkabileceği uyarısında bulundu. Bu durum, iki ülke arasındaki ilişkilerin geleceği ve bölgesel istikrar açısından potansiyel risklere işaret ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "178110863292175cmi",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 17 Kişi Hayatını Kaybetti",
-        "summary": "Lübnan'ın güneyine İsrail tarafından düzenlenen saldırılarda 17 kişinin hayatını kaybettiği bildirildi. Lübnan devlet haber ajansının aktardığı bilgilere göre, ölenlerden dokuzu Tayr Debba kasabasında gerçekleşen bir dizi saldırıda yaşamını yitirdi. Bu saldırılar, bölgedeki mevcut gerilimi daha da artırdı. Olay, uluslararası alanda endişelere yol açarken, bölgedeki güvenlik durumu yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-10T16:23:52.921Z",
-        "location": {
-            "lat": 33.15,
-            "lng": 35.21,
-            "name": "Tayr Debba, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
