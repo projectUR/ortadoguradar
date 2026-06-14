@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781471760407qyfkn",
+        "title": "İsrail Saldırısında Hayatını Kaybeden Dört Kişi İçin Gazze'de Yas",
+        "summary": "Gazze Şeridi'nin kuzeyindeki Cibaliye mülteci kampı yakınlarında düzenlenen İsrail saldırısında dört Filistinlinin hayatını kaybetmesinin ardından Gazze Şehri'nde derin bir yas yaşanıyor. Olayın ardından bölgede gerilim yeniden tırmanırken, hayatını kaybedenler için düzenlenen cenaze törenlerine binlerce kişi katıldı. Filistinli yetkililer, saldırıyı kınayarak uluslararası toplumu İsrail'in eylemlerine karşı harekete geçmeye çağırdı. Bu durum, bölgedeki güvenlik endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-14T21:16:00.407Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781466675361a62gk",
         "title": "BM Genel Sekreteri, İsrail'in Beyrut Saldırılarını Kınadı",
         "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, İsrail'in Beyrut'a yönelik saldırılarını 'bu kritik anda' şiddetle kınadığını açıkladı. Guterres, tüm taraflara 'azami itidal' çağrısında bulunarak gerilimin tırmanmasını önlemeye çağırdı. Bu kınama, ABD'nin başkenti Washington ile İran'ın başkenti Tahran arasında potansiyel bir barış anlaşmasına yönelik görüşmelerin sürdüğü bir döneme denk geldi. Genel Sekreter, bölgedeki hassas dengelerin korunması ve diplomatik çözüm yollarının önceliklendirilmesi gerektiğini vurguladı.",
@@ -780,22 +796,6 @@
             "name": "Gazze Şeridi, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-expanding-gaza-yellow-line-to-derail-ceasefire-talks-says-hamas/3965331",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781274189541i3iyq",
-        "title": "Uzmanlar Uyarıyor: İsrail'in Bölgesel Kontrolü Genişletmesiyle Gazze Ateşkes Yol Haritası Tehdit Altında",
-        "summary": "Uzmanlar, İsrail'in bölgesel kontrolünü genişletmesinin Gazze'deki ateşkes yol haritasını tehdit ettiğini belirtiyor. Ateşkesin üzerinden sekiz aydan fazla bir süre geçmesine rağmen, bölgede yeniden yapılanma çalışmaları henüz başlayamadı. Yardım kısıtlamaları, geniş çaplı yerinden edilmeler ve devam eden askeri operasyonlar, insani durumu daha da kötüleştiriyor ve barış sürecini sekteye uğratıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-12T14:23:09.541Z",
-        "location": {
-            "lat": 31.4,
-            "lng": 34.3,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-ceasefire-roadmap-under-threat-as-israel-expands-territorial-control-experts-warn/3965246",
         "trendScore": 85,
         "isBreaking": false
     }
