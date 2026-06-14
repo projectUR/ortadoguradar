@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781459889012idvy4",
+        "title": "G7 Zirvesi Öncesi Binlerce Kişi Trump ve Diğer Dünya Liderlerini Protesto Etti",
+        "summary": "Aktivistler, G7 ülkelerinin politikalarını kınamak amacıyla İsviçre'nin Cenevre kentinde geniş çaplı bir protesto gösterisi düzenledi. Gösteriler, Kanada, Fransa, Almanya, İtalya, Japonya, Birleşik Krallık ve Amerika Birleşik Devletleri liderlerinin katılacağı G7 zirvesi öncesinde gerçekleşti. Eylemciler, küresel meselelerde G7 ülkelerinin izlediği politikaları eleştirerek, daha adil ve sürdürülebilir bir dünya çağrısında bulundu. Protestoların, bu hafta Fransa'da yapılacak olan yıllık G7 toplantısı öncesinde liderler üzerinde baskı oluşturmayı hedeflediği belirtildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11622840/pexels-photo-11622840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-14T17:58:09.012Z",
+        "location": {
+            "lat": 46.2044,
+            "lng": 6.1432,
+            "name": "Cenevre, İsviçre"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1781453196488o391e",
         "title": "Trump, İsrail'in Beyrut saldırısını kınadı, İran anlaşmasının hala yakın olduğunu belirtti",
         "summary": "ABD Başkanı Trump, İsrail'in Beyrut'a yönelik saldırısını kınadığını açıkladı. Trump, olası bir anlaşmanın imzalanabileceği \"özel bir günde\" İsrail veya Hizbullah tarafından başka saldırıların olmaması gerektiğini vurguladı. Ayrıca, İran ile nükleer anlaşmaya varılmasının hala yakın olduğunu ifade etti. Bu açıklamalar, bölgedeki gerilimi azaltma ve diplomatik çözümleri teşvik etme çabaları olarak yorumlandı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/palestinians-offer-friday-prayers-on-land-threatened-by-israeli-occupier-attacks/3965213",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1781262230513c23gq",
-        "title": "Umman Açıklarındaki Tanker Saldırısında Hayatını Kaybeden Hintli Denizcinin Ailesi Yas Tutuyor",
-        "summary": "Umman açıklarında bir petrol tankerine düzenlenen ABD saldırısında hayatını kaybeden Hintli bir denizcinin eşi ve ailesi yasa boğuldu. Bu hafta gerçekleşen olay, bölgedeki deniz güvenliği endişelerini yeniden gündeme getirdi. Hintli denizcinin ölümü, uluslararası sularda seyreden gemilere yönelik saldırıların insani boyutunu gözler önüne serdi. ABD'nin bölgedeki askeri faaliyetleri ve petrol tankerlerine yönelik saldırılar, Orta Doğu'daki gerilimi artırma potansiyeli taşıyor. Aile, Hindistan'da toplanarak acılarını paylaşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3840446/pexels-photo-3840446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-12T11:03:50.513Z",
-        "location": {
-            "lat": 24.5,
-            "lng": 58,
-            "name": "Umman Denizi, Umman"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
