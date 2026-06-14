@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781395849089sb1o4",
+        "title": "Brezilya ve Fas Maçı Coşkulu Bir Atmosferde Başladı",
+        "summary": "Brezilya ve Fas taraftarları, merakla beklenen grup aşaması maçlarından birine büyük bir coşkuyla hazırlandı. Stadyuma akın eden binlerce taraftar, takımlarına destek olmak için şarkılar söyledi, dans etti ve tezahüratlar yaptı. Maç öncesinde oluşan elektrikli atmosfer, karşılaşmanın önemini ve taraftarların heyecanını gözler önüne serdi. Her iki ülkenin destekçileri de takımlarına olan bağlılıklarını göstererek unutulmaz anlar yaşattı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33827014/pexels-photo-33827014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-14T00:10:49.089Z",
+        "location": {
+            "lat": 35.7595,
+            "lng": -5.833,
+            "name": "Tanca, Fas"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_brazil-and-morocco-kickoff-amid-electric-atmosphere-130626?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1781390231340qxo1l",
         "title": "Katar, İsviçre karşısında geç golle tarihi ilk Dünya Kupası puanını aldı",
         "summary": "Asya Kupası şampiyonu Katar, 2026 Dünya Kupası açılış maçında İsviçre ile karşılaştı. Maçın uzatma dakikalarında bulduğu golle skoru 1-1'e getiren Katar, sahadan beraberlikle ayrıldı. Bu sonuçla Katar, Dünya Kupası tarihindeki ilk puanını elde ederek önemli bir başarıya imza attı. Karşılaşma, Katar'ın uluslararası futbol sahnesindeki varlığını pekiştiren bir gelişme olarak kaydedildi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/11/117-8-million-fled-their-homes-worldwide-lebanons-shelter-crisis-worsens?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1781179047362as3d2",
-        "title": "Gözaltındaki Gazze'li Doktor Hussam Abu Safia'nın Ailesi İşkence İddiasında Bulundu",
-        "summary": "İsrail tarafından gözaltına alınan Gazze'li çocuk doktoru Hussam Abu Safia'nın ailesi, doktorun işkence belirtileri gösterdiğini iddia etti. İsrail mahkemesinde video bağlantısıyla duruşmaya çıkan Safia'nın avukatı ve ailesi, doktorun yaşamından endişe duyduklarını belirterek derhal serbest bırakılmasını talep etti. Bu iddialar, İsrail'in gözaltı uygulamalarına yönelik uluslararası insan hakları örgütlerinin eleştirilerini yeniden gündeme getirdi. Olay, İsrail-Filistin çatışması bağlamında insan hakları ihlalleri tartışmalarını derinleştirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/17765365/pexels-photo-17765365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-11T11:57:27.362Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/11/detained-gaza-doctor-hussam-abu-safia-shows-signs-of-torture-family-says?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
