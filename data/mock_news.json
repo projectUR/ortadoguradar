@@ -1,5 +1,37 @@
 [
     {
+        "id": "1781453196488o391e",
+        "title": "Trump, İsrail'in Beyrut saldırısını kınadı, İran anlaşmasının hala yakın olduğunu belirtti",
+        "summary": "ABD Başkanı Trump, İsrail'in Beyrut'a yönelik saldırısını kınadığını açıkladı. Trump, olası bir anlaşmanın imzalanabileceği \"özel bir günde\" İsrail veya Hizbullah tarafından başka saldırıların olmaması gerektiğini vurguladı. Ayrıca, İran ile nükleer anlaşmaya varılmasının hala yakın olduğunu ifade etti. Bu açıklamalar, bölgedeki gerilimi azaltma ve diplomatik çözümleri teşvik etme çabaları olarak yorumlandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-14T16:06:36.488Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17814532845503kc6c",
+        "title": "İsrail'in Beyrut Banliyösüne Düzenlediği Saldırıda Üç Kişi Hayatını Kaybetti",
+        "summary": "Lübnan, İsrail'in Beyrut banliyösüne düzenlediği saldırıda üç kişinin yaşamını yitirdiğini duyurdu. İsrail, saldırının İran destekli Hizbullah'ı hedef aldığını belirtti. Tahran ise bu durumun, ABD ile İran arasında çatışmaları sona erdirmeyi amaçlayan bir anlaşmayı raydan çıkarabileceği uyarısında bulundu. Bu olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve diplomatik çabaları olumsuz etkileyebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429604/pexels-photo-7429604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-14T16:08:04.550Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17814462513952d13f",
         "title": "İsrail Hapishanelerinde Cinsel Şiddet: Tarih Bize Ne Anlatıyor?",
         "summary": "Haber, İsrail hapishanelerinde Filistinlilere yönelik cinsel şiddet iddialarını ele almaktadır. Genellikle 7 Ekim olayları sonrası bir mesele olarak çerçevelenen bu tür şiddet vakalarının, tarihi kayıtlara göre daha köklü bir geçmişe sahip olduğu belirtilmektedir. Bu durum, İsrail'in Filistinli tutuklulara yönelik muamelesi konusunda uluslararası insan hakları örgütlerinin endişelerini artırmaktadır. Tarihsel perspektif, mevcut iddiaların sadece güncel bir sorun olmadığını, aksine uzun süredir devam eden bir örüntünün parçası olabileceğini düşündürmektedir.",
@@ -764,38 +796,6 @@
             "name": "Umman Denizi, Umman"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17812622571526pzle",
-        "title": "'Filistinliler için işkence yeni değil': İsrail sömürgecilikten nasıl öğrendi?",
-        "summary": "Haberde, Filistinlilere yönelik uygulanan işkence yöntemlerinin tarihsel kökenleri inceleniyor. Makale, İngiltere ve Fransa gibi sömürgeci güçler tarafından geliştirilen bir şiddet zincirinin, İsrail tarafından devralındığını ve Filistinlilere karşı kullanıldığını iddia ediyor. Özellikle cinsel şiddet biçimlerinin bu tarihsel mirasın bir parçası olduğu belirtiliyor. Bu durumun, Filistinlilerin yaşadığı zorlukların sömürgecilik dönemi uygulamalarıyla bağlantılı olduğunu öne sürüyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36766883/pexels-photo-36766883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-12T11:04:17.152Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin/İsrail"
-        },
-        "source": "https://www.aljazeera.com/features/2026/6/12/torture-isnt-new-to-palestinians-how-israel-learned-from-colonialism?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781262300491qv5sl",
-        "title": "Lübnan'ın Sur Kentindeki Hristiyan Mahallesi Sakinleri, İsrail'in Tahliye Tehditlerine Rağmen Evlerinde Kalmak İstiyor",
-        "summary": "Lübnan'ın güneyindeki Sur (Tyre) kentinde yaşayanlar, İsrail'in Hristiyan Mahallesi'ni tahliye etme tehditleri karşısında evlerinde kalmak istediklerini belirtiyor. Bölge sakinleri, herhangi bir askeri faaliyetle bağlantıları olmayan siviller olduklarını vurguluyor. Bu durum, İsrail ile Lübnan arasındaki sınırda artan gerilimi ve potansiyel çatışma riskini gözler önüne seriyor. Sakinler, evlerini terk etmek yerine 'evlerinde ölmeyi tercih edeceklerini' ifade ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7517884/pexels-photo-7517884.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-12T11:05:00.491Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Sur, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanon-s-tyre-residents-say-i-would-rather-die-at-home-as-israel-threatens-christian-quarter-evacuation/3965079",
         "trendScore": 85,
         "isBreaking": false
     }
