@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781466675361a62gk",
+        "title": "BM Genel Sekreteri, İsrail'in Beyrut Saldırılarını Kınadı",
+        "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, İsrail'in Beyrut'a yönelik saldırılarını 'bu kritik anda' şiddetle kınadığını açıkladı. Guterres, tüm taraflara 'azami itidal' çağrısında bulunarak gerilimin tırmanmasını önlemeye çağırdı. Bu kınama, ABD'nin başkenti Washington ile İran'ın başkenti Tahran arasında potansiyel bir barış anlaşmasına yönelik görüşmelerin sürdüğü bir döneme denk geldi. Genel Sekreter, bölgedeki hassas dengelerin korunması ve diplomatik çözüm yollarının önceliklendirilmesi gerektiğini vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16795074/pexels-photo-16795074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-14T19:51:15.361Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-chief-strongly-condemns-israeli-strikes-on-beirut-at-this-crucial-moment/3966853",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1781459889012idvy4",
         "title": "G7 Zirvesi Öncesi Binlerce Kişi Trump ve Diğer Dünya Liderlerini Protesto Etti",
         "summary": "Aktivistler, G7 ülkelerinin politikalarını kınamak amacıyla İsviçre'nin Cenevre kentinde geniş çaplı bir protesto gösterisi düzenledi. Gösteriler, Kanada, Fransa, Almanya, İtalya, Japonya, Birleşik Krallık ve Amerika Birleşik Devletleri liderlerinin katılacağı G7 zirvesi öncesinde gerçekleşti. Eylemciler, küresel meselelerde G7 ülkelerinin izlediği politikaları eleştirerek, daha adil ve sürdürülebilir bir dünya çağrısında bulundu. Protestoların, bu hafta Fransa'da yapılacak olan yıllık G7 toplantısı öncesinde liderler üzerinde baskı oluşturmayı hedeflediği belirtildi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/gaza-ceasefire-roadmap-under-threat-as-israel-expands-territorial-control-experts-warn/3965246",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781274211922rv019",
-        "title": "Filistinliler, İsrail saldırılarıyla tehdit altındaki topraklarda Cuma namazı kıldı",
-        "summary": "Batı Şeria'daki Idhna kasabası sakinleri, İsrail ordusunun bölgeyi 'kapalı askeri bölge' ilan etmesine rağmen, İsrail saldırılarıyla tehdit altındaki arazilerde Cuma namazı kıldı. Bu eylem, Filistinlilerin topraklarını koruma ve ibadet özgürlüklerini kullanma çabalarının bir parçası olarak değerlendirildi. Bölgedeki gerilim, İsrail yerleşimcilerinin saldırıları ve İsrail'in askeri varlığı nedeniyle devam ediyor. Idhna sakinleri, tehditlere rağmen ibadetlerini sürdürerek direnişlerini gösterdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-12T14:23:31.922Z",
-        "location": {
-            "lat": 31.55,
-            "lng": 35,
-            "name": "Idhna, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinians-offer-friday-prayers-on-land-threatened-by-israeli-occupier-attacks/3965213",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
