@@ -1,5 +1,37 @@
 [
     {
+        "id": "1781557669376dpkjz",
+        "title": "7 Yaşındaki Çocuk, Gazze'ye Düzenlenen İsrail Saldırısında Ölen Babası ve Erkek Kardeşinin Yasını Tutuyor",
+        "summary": "Gazze Şeridi'nde yaşanan son olaylarda, İsrail'in bölgeye düzenlediği bir saldırıda bir baba ve oğlu hayatını kaybetti. Olayın ardından, 7 yaşındaki bir çocuk babasını ve erkek kardeşini kaybetmenin acısını yaşıyor. Bu tür olaylar, bölgedeki insani durumu ve sivil kayıpları bir kez daha gündeme getirdi. Uluslararası toplum, bölgedeki gerilimin düşürülmesi ve sivillerin korunması çağrılarını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33577012/pexels-photo-33577012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-15T21:07:49.376Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "178155774385850s81",
+        "title": "Netanyahu: İsrail, Lübnan'daki işgal altındaki toprakları terk etmeyecek",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkesinin Lübnan ve Suriye'deki işgal altındaki topraklardan ayrılmayacağını açıkladı. Netanyahu, bu duruşun ABD'nin İran ile yaptığı anlaşmaya rağmen devam edeceğini belirtti. Bu açıklama, İsrail'in bölgedeki güvenlik politikalarına ilişkin kararlılığını yansıtırken, Orta Doğu'daki mevcut gerilimleri yeniden gündeme getirdi. İsrail'in bu bölgelerdeki varlığı, uluslararası arenada uzun süredir tartışılan bir konu olmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7155810/pexels-photo-7155810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-15T21:09:03.858Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1781544705220nnycp",
         "title": "Trump: İran Anlaşması 'Tamamen İmzalandı'",
         "summary": "ABD Başkanı Donald Trump, İran ile yapılan anlaşmanın 'tamamen imzalandığını' belirtti. Bu açıklama, İran'ın nükleer programına ilişkin uluslararası bir mutabakata işaret etmektedir. Trump yönetimi, 2018 yılında İran nükleer anlaşmasından (JCPOA) çekilmiş ve İran'a yönelik yaptırımları yeniden uygulamaya başlamıştı. Başkan Trump'ın bu son ifadesi, İran ile olası yeni bir anlaşma veya mevcut durum hakkında bir gelişme olup olmadığına dair soruları gündeme getirmektedir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17813596442985qj53",
-        "title": "İran, Yüce Lider Hamaney'in Cenaze ve Defin Tarihlerini Duyurdu",
-        "summary": "İran, hayatını kaybeden Yüce Lider Ayetullah Ali Hamaney'in cenaze ve defin tarihlerini kamuoyuna açıkladı. Yapılan duyuruya göre, cenaze törenleri ülkenin önemli şehirlerinden Tahran ve Kum'da gerçekleştirilecek. Bu törenlerin ardından, Hamaney'in naaşı memleketi olan Meşhed şehrine nakledilerek burada toprağa verilecek. Detaylar, İran'ın dini ve siyasi liderinin son yolculuğuna uğurlanması sürecini belirliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6841108/pexels-photo-6841108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T14:07:24.298Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "1781351749335p1p9q",
-        "title": "Katar - İsviçre: Dünya Kupası grup maçı – önizleme, takım haberleri, kadrolar",
-        "summary": "Katar, 2022'de ev sahipliği yaptığı Dünya Kupası'ndaki hayal kırıklığı yaratan performansının ardından, Kuzey Amerika'da düzenlenecek bir sonraki turnuvada daha iyi bir sonuç elde etmeyi hedefliyor. Asya Kupası şampiyonu unvanına sahip Katar Milli Futbol Takımı, bu hedefe ulaşmak için hazırlıklarını sürdürüyor. Bu kapsamda, İsviçre ile oynayacağı grup maçı, takımın mevcut durumunu ve potansiyelini test etme fırsatı sunacak. Maç öncesi yapılan önizlemelerde, takımların kadroları ve son durumları değerlendiriliyor. Katar'ın bu karşılaşmadaki performansı, gelecek Dünya Kupası'ndaki beklentileri şekillendirecek önemli bir gösterge olacak.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285230/pexels-photo-32285230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T11:55:49.335Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/13/qatar-vs-switzerland-world-cup-group-match-preview-team-news-lineups?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
