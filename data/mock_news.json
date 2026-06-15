@@ -1,5 +1,69 @@
 [
     {
+        "id": "1781544705220nnycp",
+        "title": "Trump: İran Anlaşması 'Tamamen İmzalandı'",
+        "summary": "ABD Başkanı Donald Trump, İran ile yapılan anlaşmanın 'tamamen imzalandığını' belirtti. Bu açıklama, İran'ın nükleer programına ilişkin uluslararası bir mutabakata işaret etmektedir. Trump yönetimi, 2018 yılında İran nükleer anlaşmasından (JCPOA) çekilmiş ve İran'a yönelik yaptırımları yeniden uygulamaya başlamıştı. Başkan Trump'ın bu son ifadesi, İran ile olası yeni bir anlaşma veya mevcut durum hakkında bir gelişme olup olmadığına dair soruları gündeme getirmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668512/pexels-photo-5668512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-15T17:31:45.220Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17815447445502xx42",
+        "title": "BM: Sudan'da Drone Saldırıları 2026'da Binden Fazla Can Aldı",
+        "summary": "Birleşmiş Milletler tarafından yayımlanan raporlara göre, Sudan'da drone kullanımının yaygınlaşmasıyla birlikte sivil kayıplarda ciddi bir artış yaşanıyor. 2026 yılının ilk beş ayında gerçekleştirilen drone saldırıları sonucunda binden fazla sivilin hayatını kaybettiği bildirildi. Bu durum, ülkedeki çatışmaların siviller üzerindeki yıkıcı etkisini ve insansız hava araçlarının savaşlardaki rolünün artışını gözler önüne seriyor. Raporlar, insani krizin derinleştiğine ve uluslararası toplumun dikkatini bu konuya çekmesi gerektiğine işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14484029/pexels-photo-14484029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-15T17:32:24.550Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5599,
+            "name": "Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/15/drone-warfare-kills-over-1000-in-sudan-in-2026-as-strikes-multiply-un?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "17815447672180hk4n",
+        "title": "Lübnan'da ABD-İran Ateşkesi Sonrası Temkinli İyimserlik",
+        "summary": "Güney Lübnan'da, Amerika Birleşik Devletleri ile İran arasında varılan ateşkes anlaşmasının yürürlüğe girmesiyle birlikte bölgede rahatlama ve temkinli bir iyimserlik gözlemleniyor. Bu gelişme, uzun süredir devam eden gerilimin ardından bölge halkı için bir nefes alma imkanı sunuyor. Ateşkesin kalıcılığı ve bölgedeki güvenlik dinamiklerine uzun vadeli etkileri yakından izleniyor. Anlaşmanın detayları ve tarafların taahhütleri, gelecekteki istikrar açısından kritik önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5326807/pexels-photo-5326807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-15T17:32:47.218Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-aje_onl_lebanon_wrap-150626?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1781544794671cvhkf",
+        "title": "Bowen: İran Anlaşması, ABD Hakimiyetinin Sınırlarını Ortaya Koyan Trump Dönemi Savaşını Sona Erdiriyor",
+        "summary": "İran ile yapılan anlaşma, Hürmüz Boğazı'nın yeniden açılmasını ve çatışmaların sona ermesini öngörüyor. Anlaşma, savaş öncesi duruma dönülmesini sağlarken, binlerce kişinin hayatını kaybetmesine neden olan bir dönemin ardından geldi. Bu gelişme, ABD'nin bölgedeki hakimiyetinin sınırlarını ortaya koyan Trump dönemi politikalarının bir sonucu olarak değerlendiriliyor. Hürmüz Boğazı'nın yeniden açılması, küresel enerji ticareti açısından kritik öneme sahip.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30124729/pexels-photo-30124729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-15T17:33:14.671Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781526164791pvefl",
         "title": "ABD-İran Anlaşması'nın Netanyahu'nun 'Hayat Projesi'ni Başarısız Kıldığı İddia Edildi",
         "summary": "Haberde, İsrail Başbakanı Binyamin Netanyahu'nun uzun süredir devam eden siyasi hedeflerinin, Amerika Birleşik Devletleri ile İran arasında varılan bir anlaşma nedeniyle başarısızlığa uğradığı öne sürülmektedir. Bu 'hayat projesi' ifadesinin, Netanyahu'nun İran'ın nükleer programını engelleme ve bölgesel etkisini sınırlama çabalarını kapsadığı düşünülmektedir. Söz konusu ABD-İran anlaşmasının, İsrail'in güvenlik endişelerini artırdığı ve Netanyahu'nun bu konudaki politikalarını zayıflattığı belirtilmektedir. Bu durum, Orta Doğu'daki güç dengeleri ve bölgesel ittifaklar üzerinde potansiyel etkiler yaratabilir.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/6/13/qatar-vs-switzerland-world-cup-group-match-preview-team-news-lineups?traffic_source=rss",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1781351770623o2kbh",
-        "title": "Yemen'in 'Örümcek Adamı' volkanik krateri tırmanırken hayatını kaybetti",
-        "summary": "Yemen'de 'Örümcek Adam' lakabıyla tanınan bir dağcı, volkanik bir krateri tırmanışı sırasında yaşamını yitirdi. Yerel kaynaklardan edinilen bilgilere göre, olay ülkenin dağlık bölgelerinden birinde meydana geldi. Tırmanış sırasında yaşanan talihsiz kaza sonucu hayatını kaybeden kişinin kimliği ve olayın detayları hakkında henüz resmi bir açıklama yapılmadı. Bu olay, Yemen'deki dağcılık topluluğunda üzüntüyle karşılandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5383798/pexels-photo-5383798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T11:56:10.623Z",
-        "location": {
-            "lat": 15.5527,
-            "lng": 48.5164,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/13/yemens-spider-man-dies-while-scaling-volcanic-crater?traffic_source=rss",
-        "trendScore": 60,
-        "isBreaking": false
-    },
-    {
-        "id": "1781351793489x6ewr",
-        "title": "İsrail, potansiyel barış anlaşmasına dahil edilmesine rağmen Lübnan'a saldırdı",
-        "summary": "İsrail'in Lübnan'a yönelik saldırıları devam ediyor. Bu saldırılar, İran'ın İsrail'in potansiyel bir mutabakat zaptına dahil edildiğini açıklamasının ardından geldi. Tahran, bölgedeki gerilimi azaltmaya yönelik olası bir anlaşmadan bahsetmişti. Ancak İsrail güçleri, Lübnan topraklarına yönelik operasyonlarını sürdürüyor. Bu durum, diplomatik çabalara rağmen bölgedeki güvenlik durumunun kırılganlığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T11:56:33.489Z",
-        "location": {
-            "lat": 33.25,
-            "lng": 35.5,
-            "name": "Lübnan-İsrail Sınırı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-despite-being-included-in-potential-peace-deal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781343802341htnps",
-        "title": "'Soykırımı Protesto Etme Hakkı' Reddedildi: İskoçya'daki Filistin Eylemi Destekçileri",
-        "summary": "İskoçya'da Filistin Eylemi destekçileri, 'soykırımı protesto etme hakkının' kendilerine tanınmadığını belirtiyor. Yasaklı grup, Londra'da kendilerine yönelik yasaklama kararına karşı hukuki mücadele verirken, benzer mücadeleler Edinburgh'da da yaşanıyor. Bu durum, Filistin davasıyla bağlantılı olarak algılanan eylemleri protesto etme özgürlüğü etrafında dönen tartışmaları gündeme getiriyor. Destekçiler, Filistin'deki olaylara dikkat çekmek amacıyla eylemlerini sürdürme kararlılıklarını ifade ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11960989/pexels-photo-11960989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T09:43:22.341Z",
-        "location": {
-            "lat": 55.9533,
-            "lng": -3.1883,
-            "name": "Edinburgh, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17813438279344oom6",
-        "title": "ABD ve İran Anlaşmaya Yakın Olduğunu Duyurdu, Lübnan'da Çatışmalar Devam Ediyor",
-        "summary": "Amerika Birleşik Devletleri ve İran, devam eden savaşı sona erdirecek bir anlaşmaya varma konusunda sona yaklaşıldığını bildirdi. Taraflar, nihai metin üzerinde uzlaşmaya varıldığını ancak bazı önemli adımların henüz tamamlanmadığını belirtti. Bu diplomatik gelişmeler yaşanırken, Orta Doğu'da Lübnan'da çatışmaların devam ettiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T09:43:47.934Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
