@@ -1,5 +1,53 @@
 [
     {
+        "id": "1781575734924cq95z",
+        "title": "ABD Yakıt Fiyatları, ABD-İran Anlaşması Sonrası Bile Aylarca Normalleşmeyebilir",
+        "summary": "ABD'de yakıt fiyatlarının normalleşmesinin, ABD ile İran arasında olası bir savaşın sona ermesi anlaşması yapılsa dahi aylar sürebileceği belirtiliyor. Sektör uzmanları, üreticilerin üretim kapasitelerini artırmasının zaman alacağını ifade ediyor. Ayrıca, limanlardaki darboğazlar ve artan talep, ABD'deki yakıt fiyatlarının yüksek kalmasına neden olacak faktörler arasında gösteriliyor. Bu durum, olası bir diplomatik çözümün ardından bile piyasalardaki rahatlamanın hemen gerçekleşmeyeceğine işaret ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/4061116/pexels-photo-4061116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-16T02:08:54.924Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781575790533yl3af",
+        "title": "ABD-İran Anlaşmasına İsrail'den Tepki Büyüyor, İran Gemileri Hürmüz Boğazı'ndan Geçti",
+        "summary": "ABD ile İran arasında imzalandığı belirtilen mutabakat zaptına (MoU) ve genel olarak ABD-İran anlaşmasına yönelik İsrail'deki tepkiler artış gösteriyor. Bu gelişmeler, ABD'nin deniz ablukasını kaldırmasının ardından İran gemilerinin Hürmüz Boğazı'ndan geçişiyle eş zamanlı olarak yaşandı. ABD Başkanı Trump, Tahran ile bir mutabakat zaptının elektronik olarak imzalandığını ifade etti. Bölgedeki gerilim, anlaşmanın detayları ve yansımalarıyla birlikte yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9606999/pexels-photo-9606999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-16T02:09:50.533Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781575813595b0bfi",
+        "title": "Trump'ın İran Anlaşması Netanyahu İçin Siyasi Çıkmaz Yaratıyor",
+        "summary": "ABD Başkanı Donald Trump'ın İran ile vardığı ateşkes anlaşması, İsrail Başbakanı Binyamin Netanyahu için siyasi ve güvenlik alanında yeni bir çıkmaz oluşturmaktadır. Bu gelişme, Netanyahu'nun siyasi pozisyonunu ve İsrail'in bölgesel güvenlik stratejilerini doğrudan etkileme potansiyeli taşımaktadır. Anlaşmanın içeriği ve İsrail'in bölgesel çıkarları üzerindeki olası yansımaları bölgede dikkatle izlenmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-16T02:10:13.595Z",
+        "location": {
+            "lat": 32,
+            "lng": 34.7,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781565467342l1qmp",
         "title": "Lübnan'da Görev Yapan Gazeteci İsrail Saldırısında Yaralandı",
         "summary": "Lübnan'ın güneyinde görev yapan bir gazeteci, İsrail saldırıları sırasında şarapnel isabet etmesi sonucu yaralandı. Press TV muhabiri olduğu belirtilen gazeteci, bölgedeki İsrail saldırılarını haberleştirirken hedef oldu. Olay, Lübnan-İsrail sınır hattındaki çatışma bölgesinde meydana geldi. Yaralı gazetecinin sağlık durumu hakkında detaylı bilgi verilmezken, olayın ardından bölgedeki gazetecilerin güvenliği endişe konusu oldu. Bu olay, çatışma bölgelerinde görev yapan basın mensuplarının karşılaştığı riskleri bir kez daha gözler önüne serdi.",
@@ -748,54 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/news/2026/6/13/not-in-my-name-the-jewish-diaspora-fighting-the-consensus-on-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781372447094oaszo",
-        "title": "Katar - İsviçre 2026 Dünya Kupası Maçı Canlı Takibi",
-        "summary": "2026 Dünya Kupası kapsamında Katar ile İsviçre arasında oynanacak maçın canlı takibi başlamıştır. Maç öncesi takımlara dair son gelişmeler ve kadro bilgileri anlık olarak paylaşılmaktadır. Futbolseverler, müsabakanın metin yorum akışını takip edebileceklerdir. Bu karşılaşma, Katar'ın uluslararası spor sahnesindeki varlığını pekiştirmesi açısından önem taşımaktadır. Canlı yayın, maçın başlangıcına kadar sürecek hazırlık sürecini kapsamaktadır.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/32285126/pexels-photo-32285126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T17:40:47.094Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/liveblog/2026/6/13/live-qatar-vs-switzerland-world-cup-2026?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": true
-    },
-    {
-        "id": "1781372467493fpro1",
-        "title": "Gazze'deki Evcil Hayvan Sahipleri Veteriner Krizi Ortasında Hayvanlarını Sağlıklı Tutmakta Zorlanıyor",
-        "summary": "Gazze Şeridi'nde evcil hayvan sahipleri, bölgedeki veterinerlik hizmetlerindeki ciddi sıkıntılar nedeniyle hayvanlarının sağlığını korumakta büyük güçlükler yaşıyor. Mevcut kriz, hayvanseverleri evcil hayvanlarını hayatta ve sağlıklı tutmak için çaresiz önlemler almaya itiyor. Yetersiz tıbbi malzeme, ilaç eksikliği ve sınırlı veteriner hekim sayısı, durumu daha da kötüleştiriyor. Bu durum, Gazze'deki hayvanların refahı konusunda endişeleri artırıyor ve acil çözümler gerektiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/16465615/pexels-photo-16465615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T17:41:07.493Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1781372509901frwz1",
-        "title": "Gazze ve Batı Şeria'da İsrail Saldırıları: Ölü Sayısı Artıyor",
-        "summary": "Gazze Şeridi'ndeki Bureij mülteci kampına düzenlenen İsrail saldırısında bir kişi hayatını kaybetti. İşgal altındaki Batı Şeria'da ise engelli bir Filistinli vurularak öldürüldü. Bu son olaylarla birlikte, Gazze'de 'ateşkes sonrası' dönemde hayatını kaybedenlerin sayısının 983'e ulaştığı bildirildi. Bölgedeki gerilim ve çatışmalar devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T17:41:49.901Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.45,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
