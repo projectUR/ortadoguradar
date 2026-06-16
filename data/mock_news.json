@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781598545608nl8i8",
+        "title": "ABD: İran Nükleer Müzakereleri Çerçeve Anlaşması Sonrası Başladı",
+        "summary": "ABD, İran ile nükleer müzakerelerin bir çerçeve anlaşmasının imzalanmasının ardından başladığını açıkladı. Beyaz Saray'dan yapılan açıklamada, İran ile önerilen mutabakat zaptının sadece bir çerçeve anlaşması niteliğinde olduğu vurgulandı. Bu açıklama, nükleer programla ilgili görüşmelerin ilerleyişine dair uluslararası kamuoyuna bilgi verdi. Müzakerelerin, İran'ın nükleer faaliyetleri üzerindeki kısıtlamaları ve yaptırımların kaldırılması gibi kritik konuları ele alması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36733315/pexels-photo-36733315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-16T08:29:05.608Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-says-iran-nuclear-talks-begin-after-framework-deal-signing?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781575734924cq95z",
         "title": "ABD Yakıt Fiyatları, ABD-İran Anlaşması Sonrası Bile Aylarca Normalleşmeyebilir",
         "summary": "ABD'de yakıt fiyatlarının normalleşmesinin, ABD ile İran arasında olası bir savaşın sona ermesi anlaşması yapılsa dahi aylar sürebileceği belirtiliyor. Sektör uzmanları, üreticilerin üretim kapasitelerini artırmasının zaman alacağını ifade ediyor. Ayrıca, limanlardaki darboğazlar ve artan talep, ABD'deki yakıt fiyatlarının yüksek kalmasına neden olacak faktörler arasında gösteriliyor. Bu durum, olası bir diplomatik çözümün ardından bile piyasalardaki rahatlamanın hemen gerçekleşmeyeceğine işaret ediyor.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-won-t-withdraw-from-southern-lebanon-under-us-iran-understandings-israeli-media/3966330",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781379680056a97va",
-        "title": "'Benim adıma değil': Yahudi diasporası İsrail üzerindeki konsensüse karşı çıkıyor",
-        "summary": "Yahudi diasporası, İsrail'in kendi adları üzerindeki yetkisini reddettiğini açıkladı. Bu açıklama, İsrail Maliye Bakanı Bezalel Smotrich'in İsrail Günü geçit törenindeki görünümünün ardından geldi. Diaspora üyeleri, İsrail'in politikaları ve eylemleri konusunda farklı görüşlere sahip olduklarını ve İsrail hükümetinin kendilerini temsil etmediğini belirtiyor. Bu durum, İsrail ile dünya genelindeki Yahudi toplulukları arasındaki ilişkilerde artan bir gerilimi ve fikir ayrılığını gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/34355547/pexels-photo-34355547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-13T19:41:20.056Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/13/not-in-my-name-the-jewish-diaspora-fighting-the-consensus-on-israel?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
