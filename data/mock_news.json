@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781737178193ojht8",
+        "title": "Al Jazeera Gazetecisi Yıllar Sonra Ailesiyle Hartum'da Buluştu",
+        "summary": "Al Jazeera muhabiri Al-Tahir al-Mardi, üç yıllık ayrılığın ardından ailesiyle Sudan'ın başkenti Hartum'da bir araya geldi. Bölgedeki uzun süreli çatışmalar nedeniyle ailesinden uzak kalan Mardi'nin bu kavuşması, savaşın bireyler ve aileler üzerindeki yıkıcı etkilerini bir kez daha gözler önüne serdi. Gazetecinin ailesine sağ salim ulaşması, bölgedeki insani durumun zorluklarına rağmen umut verici bir an olarak kaydedildi. Bu gelişme, Sudan'daki çatışmaların devam ettiği bir dönemde, kişisel hikayelerin önemini vurgulamaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8153944/pexels-photo-8153944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-17T22:59:38.193Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5596,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1781721743987d1eu0",
         "title": "Trump: İran Mutabakat Zaptı İmzalanıp İmzalanmayacağı Yakında Belli Olacak",
         "summary": "ABD eski Başkanı Donald Trump, İran ile ilgili bir mutabakat zaptının (MOU) imzalanıp imzalanmayacağının yakında netleşeceğini belirtti. Trump, Cuma günü yapılması beklenen anlaşmanın hala suya düşebileceği imasında bulundu. Eski Başkan, İran'ın 'uslu durmaması' halinde ülkeyi bombalama tehdidinde bulundu. Bu açıklamalar, ABD'nin İran'a yönelik politikaları ve bölgedeki gerilimin potansiyel seyrine dair önemli sinyaller taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/netanyahus-life-project-failed-with-us-iran?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1781526202863i31f4",
-        "title": "Gazze'de İsrail İHA'sı Tarafından Vurulan Adamın Görüntüleri Ortaya Çıktı",
-        "summary": "Gazze Şeridi'nde, İsrail'e ait bir insansız hava aracı tarafından vurulan bir adamı gösteren görüntüler kamuoyuna yansıdı. Videoda, bir grup insanla birlikte oturduğu sırada insansız hava aracı ateşiyle hedef alınan bir kişinin anları yer alıyor. Olayın ne zaman ve hangi koşullarda gerçekleştiğine dair detaylı bilgi henüz paylaşılmadı. Bu tür olaylar, bölgedeki güvenlik durumunu ve gerilimi yakından ilgilendirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3722737/pexels-photo-3722737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T12:23:22.863Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
