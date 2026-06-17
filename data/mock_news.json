@@ -1,5 +1,69 @@
 [
     {
+        "id": "1781721743987d1eu0",
+        "title": "Trump: İran Mutabakat Zaptı İmzalanıp İmzalanmayacağı Yakında Belli Olacak",
+        "summary": "ABD eski Başkanı Donald Trump, İran ile ilgili bir mutabakat zaptının (MOU) imzalanıp imzalanmayacağının yakında netleşeceğini belirtti. Trump, Cuma günü yapılması beklenen anlaşmanın hala suya düşebileceği imasında bulundu. Eski Başkan, İran'ın 'uslu durmaması' halinde ülkeyi bombalama tehdidinde bulundu. Bu açıklamalar, ABD'nin İran'a yönelik politikaları ve bölgedeki gerilimin potansiyel seyrine dair önemli sinyaller taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32563992/pexels-photo-32563992.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-17T18:42:23.987Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781721832282dr3sx",
+        "title": "İran, ABD askeri ablukasını aşarak petrol yüklü tankerler gönderdi",
+        "summary": "Gemi takip verilerine göre, üç İran petrol tankeri Umman Körfezi'ndeki ABD ablukasını aşarak geçiş yaptı. Bu durum, ABD'nin İran'ın petrol ihracatını kısıtlamaya yönelik yaptırımlarına ve bölgedeki askeri varlığına rağmen Tahran'ın petrol sevkiyatını sürdürme kararlılığını gösteriyor. Olay, Orta Doğu'da enerji güvenliği ve jeopolitik gerilimleri yeniden gündeme getirirken, ABD ile İran arasındaki dolaylı çatışmanın devam ettiğini ortaya koyuyor. İran'ın bu adımı, uluslararası sularda seyrüsefer özgürlüğü ve yaptırımlara meydan okuma bağlamında önemli bir gelişme olarak kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/932577/pexels-photo-932577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-17T18:43:52.282Z",
+        "location": {
+            "lat": 25,
+            "lng": 58,
+            "name": "Umman Körfezi"
+        },
+        "source": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1781721857315y1sze",
+        "title": "Birleşmiş Milletler, Lübnan'ın Egemenliğine Saygı Gösterilmesini İstiyor",
+        "summary": "Birleşmiş Milletler (BM), Lübnan'ın egemenliğine saygı gösterilmesi çağrısında bulundu. BM sözcüsü, devam eden bir çatışmaya dahil olan tüm tarafların, bu çatışmayı sona erdirmeye yönelik görünen bir anlaşmayı raydan çıkaracak hiçbir eylemde bulunmamasını vurguladı. Açıklamada, Lübnan'ın bağımsızlığının ve toprak bütünlüğünün korunmasının önemi belirtildi. Bu çağrı, bölgedeki istikrarın sağlanması ve gerilimin azaltılması yönündeki uluslararası çabaların bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-17T18:44:17.315Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.85,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/world/un-wants-to-see-lebanons-sovereignty-respected/3970137",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781721878901gk14n",
+        "title": "Yemen Açıklarında Bir Gemiye Silahlı Saldırı Düzenlendi",
+        "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO) tarafından yapılan açıklamaya göre, Yemen açıklarında seyreden bir gemiye silahlı saldırganlar tarafından ateş açıldı. Olayın ardından gemi mürettebatının güvende olduğu bildirildi. Bu saldırı, Kızıldeniz ve Aden Körfezi'nde devam eden deniz güvenliği endişelerini bir kez daha gündeme getirdi. UKMTO, bölgedeki gemileri dikkatli olmaları konusunda uyardı ve gelişmeleri takip ettiklerini belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/942542/pexels-photo-942542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-17T18:44:38.901Z",
+        "location": {
+            "lat": 13.5,
+            "lng": 47.5,
+            "name": "Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/armed-assailants-fire-on-vessel-off-yemen-s-coast-uk-maritime-authority/3970132",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1781698736905uqxeg",
         "title": "Kanada'nın Göçmen ve Mülteci Hakları Politikasında 'Endişe Verici' Değişim",
         "summary": "Uzmanlar, Kanada'nın göçmen ve mülteci hakları konusundaki duruşunda 'endişe verici' bir kayma yaşandığını belirtiyor. Ülkenin, on yıllardır süregelen göçmenlik konusundaki uzlaşısını sosyoekonomik sorunlar nedeniyle terk ettiği ifade ediliyor. Bu durumun, Kanada'nın kapılarını kapatmaya başladığı şeklinde yorumlandığı ve ülkenin uluslararası mülteci ve göçmen kabul politikalarında önemli bir dönüşüme işaret ettiği vurgulanıyor. Değişimin, küresel göç akışları ve mülteci yerleşimleri üzerindeki etkileri merak ediliyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/video-shows-man-shot-by-israeli-drone-while-sitting-with-others-in-gaza?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1781526241937y6k11",
-        "title": "Trump İran Anlaşmasını Duyurdu Ancak Sorular ve Riskler Devam Ediyor",
-        "summary": "Eski ABD Başkanı Donald Trump'ın İran ile ilgili bir anlaşmayı duyurması, o dönemdeki başkan için olumlu bir gelişme olarak karşılanmıştı. Ancak, bu anlaşmanın gerçek başarısı veya başarısızlığının detaylara bağlı olabileceği belirtiliyor. Bu durum, söz konusu anlaşmanın uygulanmasındaki potansiyel zorluklara ve barındırdığı risklere dikkat çekiyor. Anlaşmanın geleceği ve etkileri, içeriğindeki maddelerin nasıl şekilleneceğine göre belirlenecek olup, uluslararası kamuoyunda soru işaretleri yaratmaya devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7734571/pexels-photo-7734571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T12:24:01.937Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17815262674963d9dk",
-        "title": "ABD-İran Anlaşmasının Lübnan'a Rahatlama Sağlayıp Sağlamayacağı Belirsizliğini Koruyor",
-        "summary": "Amerika Birleşik Devletleri ile İran arasında varılan bir anlaşmanın Lübnan'a bir rahatlama sağlayıp sağlamayacağı konusunda belirsizlik sürüyor. Pakistan, söz konusu anlaşmanın Lübnan'ı da kapsadığını belirtirken, ülkedeki son ateşkeslerin kalıcı olamadığına dikkat çekiliyor. Bu durum, yeni bir anlaşmanın Lübnan'daki istikrarsızlığa çözüm getirip getiremeyeceği konusunda soru işaretleri yaratıyor. Bölgedeki gelişmeler, anlaşmanın Lübnan üzerindeki potansiyel etkilerini yakından takip etmeyi gerektiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/955392/pexels-photo-955392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T12:24:27.496Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17815262924572alvr",
-        "title": "ABD ve İran savaşın sona erdirilmesi konusunda anlaştı, Trump Hürmüz Boğazı'nın yeniden açılacağını söyledi",
-        "summary": "ABD ve İran arasında, bölgedeki askeri operasyonların derhal ve kalıcı olarak sona erdirilmesi konusunda bir anlaşmaya varıldığı bildirildi. Pakistan tarafından yapılan açıklamaya göre, taraflar Lübnan dahil tüm cephelerdeki askeri faaliyetleri durdurma kararı aldı. ABD Başkanı Trump, anlaşmanın bir parçası olarak stratejik Hürmüz Boğazı'nın yeniden uluslararası deniz trafiğine açılacağını duyurdu. Bu gelişme, iki ülke arasındaki gerilimi azaltma ve bölgesel istikrara katkı sağlama potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/344754/pexels-photo-344754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T12:24:52.457Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.com/news/articles/c39yvvy273ko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1781526316791dxrw7",
-        "title": "ABD-İran Anlaşması Sonrası Petrol Fiyatları Düştü, Borsalar Yükseldi",
-        "summary": "ABD Başkanı Donald Trump'ın açıklamasına göre, ABD ile İran arasında bir anlaşma sağlandı. Bu anlaşma kapsamında, küresel petrol ticareti için kritik öneme sahip Hürmüz Boğazı'nın yeniden açılacağı belirtildi. Anlaşmanın duyurulmasının ardından uluslararası piyasalarda petrol fiyatlarında düşüş yaşandı. Aynı zamanda, hisse senedi piyasalarında yükselişler kaydedildi. Hürmüz Boğazı, Basra Körfezi'ni Umman Denizi'ne bağlayan ve dünya petrol arzının önemli bir kısmının geçtiği stratejik bir su yolu olarak biliniyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/7796455/pexels-photo-7796455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T12:25:16.791Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
