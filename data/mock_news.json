@@ -1,5 +1,21 @@
 [
     {
+        "id": "178181110524878alj",
+        "title": "Küresel Güney, küresel meselelerde söz sahibi olabilir mi?",
+        "summary": "Çin, gelişmekte olan ekonomilerin küresel arenada daha güçlü temsil edilmeleri çağrısında bulundu. Bu çağrı, Küresel Güney ülkelerinin uluslararası meselelerdeki etkisini artırma arayışının bir parçası olarak değerlendiriliyor. Pekin yönetimi, mevcut küresel yönetim yapılarının daha kapsayıcı ve adil olması gerektiğini savunuyor. Bu durum, özellikle Birleşmiş Milletler gibi uluslararası kuruluşlarda gelişmekte olan ülkelerin karar alma süreçlerindeki rolünün güçlendirilmesi ihtiyacını gündeme getiriyor. Küresel Güney'in artan ekonomik ve siyasi ağırlığına paralel olarak, uluslararası sistemde daha fazla söz sahibi olma talebi giderek yükseliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-18T19:31:45.248Z",
+        "location": {
+            "lat": 39.9042,
+            "lng": 116.4074,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/6/18/can-the-global-south-have-a-say-in-global-affairs?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781787442000azlgj",
         "title": "İran, Hürmüz Boğazı'nda 'hizmet bedeli' talep edeceğini açıkladı",
         "summary": "İran, küresel enerji ticareti için hayati önem taşıyan Hürmüz Boğazı'ndan geçen gemilerden 'hizmet bedeli' talep edeceğini duyurdu. Bu karar, uluslararası denizcilik ve özellikle petrol tankerleri için önemli bir gelişme olarak değerlendiriliyor. Boğaz, dünya petrol arzının önemli bir kısmının geçtiği stratejik bir geçiş noktasıdır. İran'ın bu adımı, bölgedeki gerilimi artırma ve küresel ticaret ile enerji fiyatları üzerinde etkiler yaratma potansiyeli taşıyor. Bu durum, İran'ın boğazdaki serbest geçiş politikasına ilişkin potansiyel bir değişikliğe işaret ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/us-iran-deal-may-be-seen-as-betrayal-in-israel-ex-premier-olmert-says/3968728",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1781615830885q9afm",
-        "title": "İsrail, Gazze'nin Merkezinde Sivillere Yönelik Saldırıda 2 Filistinliyi Öldürdü",
-        "summary": "İsrail ordusu, Gazze Şeridi'nin merkezinde sivillere yönelik düzenlediği saldırıda 2 Filistinliyi öldürdü. Olay, Nuseyrat mülteci kampının kuzeyindeki bir toplanma alanının İsrail insansız hava aracı tarafından hedef alınmasıyla gerçekleşti. Bu saldırı, Ekim 2025'ten bu yana yürürlükte olan ateşkesin yeni bir ihlali olarak değerlendiriliyor. Bölgedeki gerilimi artıran bu gelişme, uluslararası kamuoyunda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934252/pexels-photo-35934252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-16T13:17:10.885Z",
-        "location": {
-            "lat": 31.45,
-            "lng": 34.4,
-            "name": "Nuseyrat Mülteci Kampı, Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-kills-2-palestinians-in-strike-on-civilians-in-central-gaza/3968679",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
