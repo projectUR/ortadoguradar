@@ -1,5 +1,53 @@
 [
     {
+        "id": "17817599152660catp",
+        "title": "Cezayir'in Gazze Yetimlerine Desteği Övgüyle Karşılandı",
+        "summary": "Bir aktivist, Cezayir'in Gazze'deki yetimlere yönelik sağladığı desteği takdirle karşıladığını duyurdu. Aktivist, Cezayir'in bu insani yardım çabalarının önemine vurgu yaptı. Söz konusu övgü, Cezayir'in Dünya Kupası'ndan elenmesinin ardından geldi. Bu destek, Gazze Şeridi'ndeki savunmasız çocuklara yönelik kritik bir yardım olarak değerlendiriliyor. Cezayir'in bu tutumu, bölgedeki insani krizlere karşı gösterdiği duyarlılığı ve dayanışmayı yansıtıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6646846/pexels-photo-6646846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-18T05:18:35.266Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/18/activist-praises-algerias-support-for-gaza-orphans-following-world-cup-def?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1781759968549mw0mi",
+        "title": "Trump'ın İran ile Mutabakat Zaptı Bazı Cumhuriyetçilerden Tepki Çekti",
+        "summary": "Eski ABD Başkanı Donald Trump'ın İran ile imzaladığı bir Mutabakat Zaptı (MoU), Cumhuriyetçi Parti içinde bazı kesimlerden sert eleştirilere maruz kaldı. Louisiana Senatörü Bill Cassidy, söz konusu anlaşmayı \"onlarca yıldır görülen en kötü dış politika hatası\" olarak nitelendirdi. Bu eleştiriler, ABD'nin İran'a yönelik dış politikasının geleceği ve iki ülke arasındaki ilişkilerin seyri hakkında tartışmaları yeniden alevlendirdi. Anlaşmanın içeriği ve potansiyel etkileri, ABD siyasetinde önemli bir gündem maddesi haline geldi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/955392/pexels-photo-955392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-18T05:19:28.549Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1781760010108wvkxc",
+        "title": "Lübnan, Trump'ın Suriye'nin 'Hizbullah'la İlgilenmesi' Önerisini Reddetti",
+        "summary": "Lübnan, eski ABD Başkanı Donald Trump'ın Suriye'nin \"Hizbullah'la ilgilenmesi\" yönündeki önerisini geri çevirdi. Lübnan Adalet Bakanı Adel Nassar, CNN'e yaptığı açıklamada, ülkesinin yıllardır dış müdahalelerden muzdarip olduğunu belirtti. Bu açıklama, bölgesel aktörlerin ve uluslararası güçlerin Lübnan'ın iç işlerine yönelik yaklaşımlarına dair tartışmaları yeniden gündeme getirdi. Öneri, Hizbullah'ın Lübnan siyasetindeki ve bölgesel dinamiklerdeki rolü üzerine odaklanıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8850718/pexels-photo-8850718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-18T05:20:10.108Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanon-rejects-trumps-proposal-for-syria-to-take-care-of-hezbollah-/3970295",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17817422193689lyrq",
         "title": "Trump ve Pezeşkian'dan Çatışmaları Bitirme ve Hürmüz'ü Açma Anlaşması",
         "summary": "Eski ABD Başkanı Donald Trump ile İranlı siyasetçi Pezeşkian arasında, bölgedeki çatışmaları sona erdirmeyi amaçlayan bir mutabakat zaptı imzalandığı bildirildi. Anlaşmanın yürürlüğe girdiği ve Lübnan'daki savaşın sona erdirilmesini kapsadığı belirtildi. Ayrıca, küresel enerji ticareti için kritik öneme sahip Hürmüz Boğazı'nın yeniden ulaşıma açılmasının da mutabakatın maddeleri arasında yer aldığı kaydedildi. Her iki taraf da anlaşmanın yürürlükte olduğunu teyit etti.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1781544705220nnycp",
-        "title": "Trump: İran Anlaşması 'Tamamen İmzalandı'",
-        "summary": "ABD Başkanı Donald Trump, İran ile yapılan anlaşmanın 'tamamen imzalandığını' belirtti. Bu açıklama, İran'ın nükleer programına ilişkin uluslararası bir mutabakata işaret etmektedir. Trump yönetimi, 2018 yılında İran nükleer anlaşmasından (JCPOA) çekilmiş ve İran'a yönelik yaptırımları yeniden uygulamaya başlamıştı. Başkan Trump'ın bu son ifadesi, İran ile olası yeni bir anlaşma veya mevcut durum hakkında bir gelişme olup olmadığına dair soruları gündeme getirmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668512/pexels-photo-5668512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T17:31:45.220Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17815447445502xx42",
-        "title": "BM: Sudan'da Drone Saldırıları 2026'da Binden Fazla Can Aldı",
-        "summary": "Birleşmiş Milletler tarafından yayımlanan raporlara göre, Sudan'da drone kullanımının yaygınlaşmasıyla birlikte sivil kayıplarda ciddi bir artış yaşanıyor. 2026 yılının ilk beş ayında gerçekleştirilen drone saldırıları sonucunda binden fazla sivilin hayatını kaybettiği bildirildi. Bu durum, ülkedeki çatışmaların siviller üzerindeki yıkıcı etkisini ve insansız hava araçlarının savaşlardaki rolünün artışını gözler önüne seriyor. Raporlar, insani krizin derinleştiğine ve uluslararası toplumun dikkatini bu konuya çekmesi gerektiğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14484029/pexels-photo-14484029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T17:32:24.550Z",
-        "location": {
-            "lat": 15.5007,
-            "lng": 32.5599,
-            "name": "Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/15/drone-warfare-kills-over-1000-in-sudan-in-2026-as-strikes-multiply-un?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17815447672180hk4n",
-        "title": "Lübnan'da ABD-İran Ateşkesi Sonrası Temkinli İyimserlik",
-        "summary": "Güney Lübnan'da, Amerika Birleşik Devletleri ile İran arasında varılan ateşkes anlaşmasının yürürlüğe girmesiyle birlikte bölgede rahatlama ve temkinli bir iyimserlik gözlemleniyor. Bu gelişme, uzun süredir devam eden gerilimin ardından bölge halkı için bir nefes alma imkanı sunuyor. Ateşkesin kalıcılığı ve bölgedeki güvenlik dinamiklerine uzun vadeli etkileri yakından izleniyor. Anlaşmanın detayları ve tarafların taahhütleri, gelecekteki istikrar açısından kritik önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5326807/pexels-photo-5326807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-15T17:32:47.218Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-aje_onl_lebanon_wrap-150626?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
