@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781912309949tkzoe",
+        "title": "Türkiye ve Suriye'den Sağlık ve Tıp Bilimleri Alanında İşbirliği Anlaşması",
+        "summary": "Türkiye ve Suriye, sağlık ve tıp bilimleri alanında işbirliği anlaşması imzaladı. Türk Sağlık Bakanı'nın açıklamasına göre, bu mutabakat zaptı halk sağlığı, hastalık kontrolü, anne ve bebek sağlığı, ilaç ve afet yönetimi gibi önemli konuları kapsıyor. Anlaşma, iki ülke arasındaki sağlık hizmetleri ve bilimsel bilgi alışverişini güçlendirmeyi hedefliyor. Bu işbirliği, bölgesel sağlık sorunlarına ortak çözümler üretme potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5398879/pexels-photo-5398879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T23:38:29.949Z",
+        "location": {
+            "lat": 37,
+            "lng": 35,
+            "name": "Türkiye, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkiye-syria-sign-agreement-on-cooperation-in-health-medical-sciences/3972654",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17819068142292hdzs",
         "title": "İspanya'nın genç yıldızı Yamal: Dünya Kupası'nda tam maç oynamak için 'çok erken ve gereksiz'",
         "summary": "İspanya Milli Takımı'nın genç yeteneği Lamine Yamal, Dünya Kupası'nda tam bir maç oynamanın kendisi için henüz erken ve gereksiz olduğunu belirtti. Bu açıklama, İspanya'nın Suudi Arabistan ile yapacağı karşılaşma öncesinde geldi. Yamal, fiziksel ve mental olarak 90 dakikalık bir mücadeleye hazır olmadığını ima ederek, kademeli bir ilerlemenin daha doğru olacağını ifade etti. Genç oyuncunun bu görüşü, teknik heyetin oyuncu gelişimini yönetme stratejilerini etkileyebilir. Bu durum, uluslararası futbol arenasında genç yeteneklerin korunması ve doğru şekilde geliştirilmesi tartışmalarını da beraberinde getiriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781742242824sm2nl",
-        "title": "Trump'tan Netanyahu'ya Lübnan İçin 'Daha Yumuşak Yaklaşım' Çağrısı",
-        "summary": "ABD Başkanı Donald Trump'ın, İsrail Başbakanı Binyamin Netanyahu'ya Lübnan ile ilişkilerde 'daha yumuşak bir yaklaşım' sergilemesi yönünde tavsiyede bulunduğu bildirildi. Bu diplomatik çağrı, Washington'ın İsrail'in bölgesel politikalarına yönelik beklentilerini yansıtırken, iki ülke arasındaki gerilimin azaltılmasına yönelik bir adım olarak değerlendirildi. Söz konusu tavsiye, ABD'nin Orta Doğu'daki diplomatik rolü ve bölgesel istikrar arayışları açısından önem taşıyor ve İsrail-Lübnan sınırındaki hassas durumu bir kez daha gündeme getiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T00:24:02.824Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
