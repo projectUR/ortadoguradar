@@ -1,5 +1,53 @@
 [
     {
+        "id": "178184724516869rv6",
+        "title": "İran Anlaşması Gündeminin Gölgesinde Filistin'deki Gerilimler Devam Ediyor",
+        "summary": "Uluslararası kamuoyunun dikkati İran nükleer anlaşması müzakerelerine odaklanmışken, Orta Doğu'da Filistin topraklarındaki gerilimler ve çatışmalar devam ediyor. Haber, İsrail'in Filistinlilere yönelik eylemlerinin hiç durmadığını, ancak küresel medyanın ve dünyanın bu duruma olan ilgisinin azaldığını belirtiyor. Bu durum, Filistin'deki insani krizin ve güvenlik sorunlarının uluslararası gündemde yeterince yer bulamadığı eleştirilerini beraberinde getiriyor. Bölgedeki istikrarsızlık ve acılar, küresel odak noktasının değişmesiyle göz ardı ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T05:34:05.168Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17818473137868ipu5",
+        "title": "İsrail, Hizbullah ile Artan Çatışmalar Üzerine Güney Lübnan'ı Vurdu",
+        "summary": "İsrail ordusu, Lübnan'ın güneyindeki bölgelere hava saldırıları düzenlediğini duyurdu. Bu saldırılar, İsrail ile Hizbullah arasında son dönemde yaşanan gerilimin ve çatışmaların tırmanmasının ardından gerçekleşti. Bölgedeki kaynaklar, saldırıların Hizbullah'a ait hedefleri vurduğunu belirtirken, can kaybı veya hasar hakkında henüz detaylı bilgi paylaşılmadı. Gelişme, iki taraf arasındaki tansiyonun yükseldiğini ve bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Uluslararası toplum, taraflara itidal çağrısı yapmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T05:35:13.786Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17818474007053qnyf",
+        "title": "Oxfam yetkilisi, Gazze'deki ateşkesin 'başarısız olduğu' gerekçesiyle BM Güvenlik Konseyi'ni eyleme geçmeye çağırdı",
+        "summary": "Uluslararası yardım kuruluşu Oxfam'dan bir yetkili, Birleşmiş Milletler Güvenlik Konseyi'ne Gazze'deki duruma ilişkin acil bir çağrıda bulundu. Yetkili, bölgedeki ateşkesin 'başarısız olduğunu' belirterek, Konsey'in sadece sözde kalmayıp somut adımlar atması gerektiğini vurguladı. Khalidi adlı yetkili, Güvenlik Konseyi'ni siyasi, diplomatik ve hukuki araçları kullanarak bölgedeki vahşeti sona erdirmeye çağırdı. Bu çağrı, Gazze'deki insani krizin derinleştiği ve çatışmaların devam ettiği bir dönemde yapıldı. Oxfam, uluslararası toplumun Gazze'deki sivillerin korunması için daha etkin rol oynaması gerektiğini ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33337402/pexels-photo-33337402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T05:36:40.705Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oxfam-official-urges-un-security-council-to-move-from-words-to-action-on-gaza-amid-ceasefire-failing-/3971477",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1781827801494nmfub",
         "title": "ABD, İran ile Savaşın Sona Erdirilmesi Anlaşması Sonrası Müzakere Sürecinin Başladığını Duyurdu",
         "summary": "ABD Başkan Yardımcısı, Washington ile Tahran arasında 60 günlük bir müzakere döneminin başladığını açıkladı. Bu gelişme, iki ülke arasındaki savaşı sona erdirmeyi amaçlayan bir anlaşmanın imzalanmasının ardından geldi. Açıklamada ayrıca, daha önce uygulanan deniz ablukasının da kaldırıldığı belirtildi. Anlaşma, ABD ve İran arasındaki ilişkilerde diplomatik çözüme odaklanan yeni bir aşamaya işaret ediyor. Bu müzakere sürecinin, iki taraf arasındaki gelecekteki etkileşimi şekillendirmesi bekleniyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/16/israeli-strikes-kill-four-in-southern-lebanon-amid-ceasefire-talks?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781633876803mijc9",
-        "title": "İsrail, İşgal Altındaki Batı Şeria'daki Caminin Kontrolünü Filistinlilerden Aldı",
-        "summary": "İsrail'in, işgal altındaki Batı Şeria'da yer alan bir caminin kontrolünü Filistinlilerden devraldığı açıklandı. Bu adımın, bölgedeki mevcut gerilimi daha da tırmandırmasından endişe ediliyor. El Halil Belediye Başkanı, yapılan bu tek taraflı değişikliğin uluslararası anlaşmaları ihlal ettiğini vurguladı. Belediye Başkanı, söz konusu eylemin bölgenin istikrarı açısından önemli sonuçlar doğurabileceği konusunda uyarıda bulundu. Bu gelişme, İsrail-Filistin arasındaki hassas ilişkilerde yeni bir anlaşmazlık noktası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12293041/pexels-photo-12293041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-16T18:17:56.803Z",
-        "location": {
-            "lat": 31.5333,
-            "lng": 35.1,
-            "name": "El Halil, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/16/israel-seizes-power-over-occupied-west-bank-mosque-from-palestinians?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781633965792flk06",
-        "title": "İstanbul'daki Filistin etkinliğinde Gazze, Kudüs ve küresel medya anlatıları vurgulandı",
-        "summary": "İstanbul'da düzenlenen bir etkinlikte Filistin meselesi kapsamlı bir şekilde ele alındı. Konuşmacılar, Filistin sorununun tarihi kökenlerine değinerek, Kudüs'ün bu meseledeki merkezi rolünü vurguladı. Etkinlikte ayrıca Gazze'deki mevcut durum ve Filistinlilerin küresel medyada temsil biçimleri de tartışıldı. Katılımcılar, uluslararası medyanın Filistin anlatılarını nasıl şekillendirdiğini değerlendirerek, doğru ve dengeli bir temsilin önemine dikkat çekti.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/28953390/pexels-photo-28953390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-16T18:19:25.792Z",
-        "location": {
-            "lat": 41.0082,
-            "lng": 28.9784,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestine-event-in-istanbul-highlights-gaza-jerusalem-global-media-narratives/3969047",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17816157047575ll62",
-        "title": "Lübnan'da Kırılgan Ateşkes Sürerken Aileler Yıkık Kentlere Geri Dönüyor",
-        "summary": "Lübnan'ın güney bölgelerinde, kırılgan ateşkesin devam etmesiyle birlikte yerinden edilmiş aileler evlerine dönmeye başladı. Ancak, geri dönenler yıkıma uğramış kasabalarda ve zorlu yaşam koşullarıyla karşı karşıya kalıyor. Kurtarabildikleri eşyalarıyla birlikte hayata tutunmaya çalışan bu aileler, ateşkesin belirsizliği nedeniyle endişe taşıyor. Bölgedeki insani durumun ciddiyeti, geri dönüş sürecini daha da zorlaştırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6918513/pexels-photo-6918513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-16T13:15:04.757Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 35.5,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/6/16/families-return-to-shattered-towns-as-fragile-ceasefire-holds-in-lebanon?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
