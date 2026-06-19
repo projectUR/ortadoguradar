@@ -1,5 +1,53 @@
 [
     {
+        "id": "1781827801494nmfub",
+        "title": "ABD, İran ile Savaşın Sona Erdirilmesi Anlaşması Sonrası Müzakere Sürecinin Başladığını Duyurdu",
+        "summary": "ABD Başkan Yardımcısı, Washington ile Tahran arasında 60 günlük bir müzakere döneminin başladığını açıkladı. Bu gelişme, iki ülke arasındaki savaşı sona erdirmeyi amaçlayan bir anlaşmanın imzalanmasının ardından geldi. Açıklamada ayrıca, daha önce uygulanan deniz ablukasının da kaldırıldığı belirtildi. Anlaşma, ABD ve İran arasındaki ilişkilerde diplomatik çözüme odaklanan yeni bir aşamaya işaret ediyor. Bu müzakere sürecinin, iki taraf arasındaki gelecekteki etkileşimi şekillendirmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T00:10:01.494Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1781827902758pvzge",
+        "title": "İran ve ABD Anlaşması: Kazanımlar ve Sürdürülebilirlik Zorlukları",
+        "summary": "BBC analistleri, Washington ve Tahran'ın aralarındaki gerilimi sona erdiren anlaşmadan zaferle çıktıkları yönündeki iddialarını değerlendiriyor. Her iki tarafın da anlaşmadan elde ettikleri kazanımları vurguladığı belirtiliyor. Ancak analistler, anlaşmanın uzun vadede sürdürülebilirliğinin zorluklarına dikkat çekiyor. Tarafların farklı beklentileri ve iç siyasi dinamiklerin anlaşmanın geleceğini etkileyebileceği öngörülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T00:11:42.758Z",
+        "location": {
+            "lat": 30,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781827973966bb07b",
+        "title": "ABD, Lübnanlı Yetkililere ve Hizbullah Bağlantılı İş Ağına Yaptırım Uyguladı",
+        "summary": "Amerika Birleşik Devletleri, Lübnanlı yetkililere ve Hizbullah ile bağlantılı bir iş ağına yönelik yeni yaptırımlar uygulama kararı aldı. Bu adımlar, Washington'ın Lübnan'daki Hizbullah'ın silahsızlandırılması yönündeki baskılarını artırdığı bir döneme denk geldi. Dönemin ABD Başkanı Donald Trump'ın Lübnan dahil olmak üzere \"tüm cephelerde tam bir ateşkes\" çağrısında bulunduğu belirtildi. Yaptırımlar, ABD'nin Lübnan'daki siyasi istikrarsızlık ve bölgesel güvenlik endişelerine yanıt olarak attığı adımların bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9995973/pexels-photo-9995973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T00:12:53.966Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-sanctions-lebanese-officials-hezbollah-linked-business-network/3971467",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781820805585g3zhh",
         "title": "Trump'tan Barış Anlaşması ve Petrol Akışı İddiası: ABD Fiyatları Düşüyor mu?",
         "summary": "Eski ABD Başkanı Donald Trump, sosyal medya üzerinden yaptığı açıklamada, bir barış anlaşması mutabakat zaptının imzalanmasından bu yana petrol akışının arttığını ve ABD'deki fiyatların düştüğünü iddia etti. Trump'ın bu açıklamaları, küresel petrol piyasaları ve Orta Doğu'daki jeopolitik gelişmelerin ABD ekonomisi üzerindeki potansiyel etkilerini gündeme getirdi. Barış anlaşmasının detayları veya petrol akışının kaynağı belirtilmese de, bu iddialar enerji piyasalarındaki dalgalanmalar ve diplomatik süreçlerin ekonomik sonuçları arasındaki ilişkiyi vurguluyor. Küresel enerji arzındaki artışın ABD'deki tüketici fiyatlarına yansıması tartışma konusu oldu.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/gallery/2026/6/16/families-return-to-shattered-towns-as-fragile-ceasefire-holds-in-lebanon?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1781615731127iw5yd",
-        "title": "Gazze'deki Çocuklar Patlama Kaynaklı İşitme Kaybı Tedavisi İçin Zamanla Yarışıyor",
-        "summary": "Birleşmiş Milletler ve insani yardım kuruluşları, Gazze Şeridi'ndeki çocukların tekrarlayan patlamalara maruz kalmaları nedeniyle artan oranlarda işitme bozuklukları yaşadığını bildiriyor. Uzmanlar, patlama kaynaklı işitme kaybı yaşayan bu çocukların tedavisi için kritik bir zaman diliminde olduğunu vurguluyor. Bölgedeki sağlık altyapısının yetersizliği ve tedaviye erişimdeki zorluklar, durumun ciddiyetini daha da artırıyor. Uluslararası toplum, Gazze'deki çocukların sağlık ihtiyaçlarına yönelik acil müdahale ve destek çağrısında bulunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-16T13:15:31.127Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17816157588300mq3z",
-        "title": "Süfrajetlerden Filistin Eylemi'ne: Birleşik Krallık'ta doğrudan eylem protestolarının tarihi",
-        "summary": "Birleşik Krallık'ta doğrudan eylem protestolarının tarihi, süfrajet hareketinden günümüzdeki Filistin Eylemi gibi gruplara kadar uzanan geniş bir yelpazeyi kapsıyor. Analistler, İngiliz hükümetinin sivil itaatsizlik eylemlerine karşı daha önce görülmemiş bir sertlikle yanıt verdiğini belirtiyor. Bu durum, ülkedeki protesto hareketlerine yönelik devlet yaklaşımında önemli bir değişime işaret ediyor. Haber, Birleşik Krallık'taki protestocular ile devlet otoritesi arasındaki gelişen dinamiklere odaklanıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11421274/pexels-photo-11421274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-16T13:15:58.830Z",
-        "location": {
-            "lat": 51.5,
-            "lng": -0.1,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/16/suffragettes-to-palestine-action-a-history-of-direct-action-protest-in-uk?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781615780644en8fr",
-        "title": "Trump, ABD-İran Anlaşmasını Cuma Öncesi Açıklayabilir",
-        "summary": "ABD Başkan Yardımcısı'nın açıklamasına göre, ABD Başkanı Donald Trump'ın ABD ile İran arasında üzerinde çalışılan anlaşmayı Cuma gününden önce kamuoyuna duyurabileceği belirtildi. Başkan Yardımcısı, söz konusu mutabakatın \"yaklaşık bir buçuk sayfa\" uzunluğunda ve \"çok genel\" ifadeler içerdiğini kaydetti. Bu durum, anlaşmanın birçok detayının ilerleyen süreçte netleştirileceği anlamına geliyor. Potansiyel anlaşma, ABD'nin İran'a yönelik politikaları ve Orta Doğu'daki diplomatik girişimleri açısından kritik bir gelişme olarak değerlendirilmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7734571/pexels-photo-7734571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-16T13:16:20.644Z",
-        "location": {
-            "lat": 38.9,
-            "lng": -77,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
