@@ -1,5 +1,53 @@
 [
     {
+        "id": "1781902334765cnn7n",
+        "title": "İran Dışişleri Bakan Yardımcısı: ABD ile Anlaşmada İlerlemeye Hazırız",
+        "summary": "İran Dışişleri Bakan Yardımcısı Ali Bagheri Kani, Al Jazeera'ye verdiği demeçte, ABD ile bir anlaşmada ilerlemeye hazır olduklarını belirtti. Kani, diplomasinin ileriye dönük tek yol olduğunu vurguladı. Ancak, bu ilerlemenin ön koşulu olarak ABD'nin İsrail'in Lübnan'a yönelik saldırılarını durdurmasını sağlaması gerektiğini ifade etti. Bu açıklama, bölgedeki gerilimin azaltılmasına yönelik potansiyel diplomatik çabaları ve İran'ın bu süreçteki şartlarını ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T20:52:14.765Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781902418730p4dsq",
+        "title": "ABD-İran Görüşmeleri, İsrail'in Lübnan Saldırıları Nedeniyle Ertelendi",
+        "summary": "ABD ile İran arasında yapılması planlanan görüşmeler, İsrail'in Lübnan'a yönelik başlattığı ölümcül saldırıların ardından ertelendi. İsrail ordusu, Lübnan topraklarında Hizbullah hedeflerini vurduğunu ve bu çatışmalarda dört İsrail askerinin hayatını kaybettiğini açıkladı. Bölgedeki gerilimi tırmandıran bu gelişmeler, diplomatik çabaların sekteye uğramasına yol açtı. Erteleme kararı, Orta Doğu'daki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T20:53:38.730Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1781902462803pntej",
+        "title": "Rusya, ABD-İran Barış Anlaşmasının Ardından Körfez'e Seyahat Uyarısını Kaldırdı",
+        "summary": "Rusya Dışişleri Bakanlığı, ABD ile İran arasında varılan barış anlaşmasının ardından Körfez ülkelerine yönelik seyahat uyarısını kaldırdığını duyurdu. Bakanlık, Bahreyn, Katar, Kuveyt, Birleşik Arap Emirlikleri, Umman ve Suudi Arabistan'a seyahat etmekten kaçınılması yönündeki tavsiyelere artık gerek kalmadığını belirtti. Bu karar, bölgedeki güvenlik durumunun iyileştiği ve gerilimin azaldığı yönündeki değerlendirmelerin bir sonucu olarak yorumlanıyor. Rusya'nın bu adımı, ABD-İran anlaşmasının bölgesel istikrara olumlu etkileri olabileceğine işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33175650/pexels-photo-33175650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-19T20:54:22.803Z",
+        "location": {
+            "lat": 25,
+            "lng": 50,
+            "name": "Körfez Ülkeleri"
+        },
+        "source": "https://www.aa.com.tr/en/eurasia/russia-lifts-advisory-to-refrain-from-traveling-to-gulf-following-us-iran-peace-agreement/3972593",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781888349059l9sk4",
         "title": "İsrail'den Lübnan'a Ateşkes Sonrası Hava Saldırısı",
         "summary": "İsrail ile Hizbullah arasında yeni bir ateşkesin yürürlüğe girmesinden dakikalar sonra Lübnan'ın güneyinde patlamalar meydana geldiği bildirildi. Görgü tanıkları, bölgede İsrail hava saldırılarının gerçekleştiğini belirtti. Bu olay, yeni başlayan ateşkesin hemen ardından yaşanması nedeniyle bölgedeki gerilimi yeniden tırmandırdı. Taraflar arasında varılan anlaşmanın kırılganlığı ve uygulanmasındaki zorluklar bu gelişmeyle bir kez daha ortaya çıktı.",
@@ -748,54 +796,6 @@
             "name": "Umman Körfezi"
         },
         "source": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1781721857315y1sze",
-        "title": "Birleşmiş Milletler, Lübnan'ın Egemenliğine Saygı Gösterilmesini İstiyor",
-        "summary": "Birleşmiş Milletler (BM), Lübnan'ın egemenliğine saygı gösterilmesi çağrısında bulundu. BM sözcüsü, devam eden bir çatışmaya dahil olan tüm tarafların, bu çatışmayı sona erdirmeye yönelik görünen bir anlaşmayı raydan çıkaracak hiçbir eylemde bulunmamasını vurguladı. Açıklamada, Lübnan'ın bağımsızlığının ve toprak bütünlüğünün korunmasının önemi belirtildi. Bu çağrı, bölgedeki istikrarın sağlanması ve gerilimin azaltılması yönündeki uluslararası çabaların bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-17T18:44:17.315Z",
-        "location": {
-            "lat": 33.85,
-            "lng": 35.85,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/world/un-wants-to-see-lebanons-sovereignty-respected/3970137",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781721878901gk14n",
-        "title": "Yemen Açıklarında Bir Gemiye Silahlı Saldırı Düzenlendi",
-        "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO) tarafından yapılan açıklamaya göre, Yemen açıklarında seyreden bir gemiye silahlı saldırganlar tarafından ateş açıldı. Olayın ardından gemi mürettebatının güvende olduğu bildirildi. Bu saldırı, Kızıldeniz ve Aden Körfezi'nde devam eden deniz güvenliği endişelerini bir kez daha gündeme getirdi. UKMTO, bölgedeki gemileri dikkatli olmaları konusunda uyardı ve gelişmeleri takip ettiklerini belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/942542/pexels-photo-942542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-17T18:44:38.901Z",
-        "location": {
-            "lat": 13.5,
-            "lng": 47.5,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/armed-assailants-fire-on-vessel-off-yemen-s-coast-uk-maritime-authority/3970132",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1781698736905uqxeg",
-        "title": "Kanada'nın Göçmen ve Mülteci Hakları Politikasında 'Endişe Verici' Değişim",
-        "summary": "Uzmanlar, Kanada'nın göçmen ve mülteci hakları konusundaki duruşunda 'endişe verici' bir kayma yaşandığını belirtiyor. Ülkenin, on yıllardır süregelen göçmenlik konusundaki uzlaşısını sosyoekonomik sorunlar nedeniyle terk ettiği ifade ediliyor. Bu durumun, Kanada'nın kapılarını kapatmaya başladığı şeklinde yorumlandığı ve ülkenin uluslararası mülteci ve göçmen kabul politikalarında önemli bir dönüşüme işaret ettiği vurgulanıyor. Değişimin, küresel göç akışları ve mülteci yerleşimleri üzerindeki etkileri merak ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6257207/pexels-photo-6257207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-17T12:18:56.905Z",
-        "location": {
-            "lat": 45.4215,
-            "lng": -75.6972,
-            "name": "Ottawa, Kanada"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/17/inside-canadas-troubling-shift-on-migrant-refugee-rights?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
