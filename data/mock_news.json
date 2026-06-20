@@ -1,5 +1,117 @@
 [
     {
+        "id": "1781951741772b3fkp",
+        "title": "Trump'ın İran Anlaşması ve İsrail'in Tepkisi",
+        "summary": "Haber, ABD ile İran arasındaki kırılgan mutabakat zaptını konu almaktadır. Eski ABD Başkanı Trump döneminde İran ile yapılan bir anlaşmanın veya potansiyel bir anlaşmanın detaylarına işaret edilmektedir. Bu durumun İsrail üzerinde yarattığı \"erime\" veya büyük tepki, bölgedeki siyasi dengelerin hassasiyetini gözler önüne sermektedir. Söz konusu mutabakatın Orta Doğu'daki güç dengeleri ve diplomatik ilişkiler üzerindeki etkileri önem taşımaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16795074/pexels-photo-16795074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T10:35:41.772Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Tahran, İran / Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781951785546hod7t",
+        "title": "Kuzeybatı Pakistan'da Yol Kenarı Bombalı Saldırılarda En Az Yedi Kişi Hayatını Kaybetti",
+        "summary": "Kuzeybatı Pakistan'da meydana gelen iki ayrı yol kenarı bombalı saldırısında en az yedi kişi hayatını kaybetti. Yetkililer tarafından yapılan açıklamaya göre, saldırıların sorumluluğunu henüz hiçbir grup üstlenmedi. Bölge, militan grupların faaliyet gösterdiği ve güvenlik güçleri ile sivilleri hedef alan saldırıların sıkça yaşandığı bir coğrafya olarak biliniyor. Olayla ilgili geniş çaplı bir soruşturma başlatılırken, güvenlik güçleri bölgede operasyonlarını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11477792/pexels-photo-11477792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T10:36:25.546Z",
+        "location": {
+            "lat": 34,
+            "lng": 71.5,
+            "name": "Kuzeybatı Pakistan, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1781951806793bc7ou",
+        "title": "İsrail'in Gazze Saldırılarında Bir Aile Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail tarafından düzenlenen saldırılarda, iki kızı da dahil olmak üzere bir ailenin hayatını kaybettiği bildirildi. Bu olay, İsrail'in ABD arabuluculuğunda sağlanan Ekim ayındaki ateşkese yönelik ihlallerini sürdürdüğü iddialarını yeniden gündeme getirdi. Bölgede devam eden gerilim ve çatışmalar, sivil kayıpların artmasına neden oluyor. Uluslararası gözlemciler, ateşkesin korunması ve sivillerin güvenliğinin sağlanması yönündeki çağrılarını yineliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193757/pexels-photo-36193757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T10:36:46.793Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781951831022fqo5g",
+        "title": "İsrail'in Gazze'ye Yönelik Yeni Saldırılarında En Az 5 Kişi Hayatını Kaybetti, Ateşkes İhlalleri Sürüyor",
+        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından gerçekleştirilen yeni saldırılarda en az 5 kişi hayatını kaybetti. Bölgedeki tıbbi kaynaklar, Anadolu Ajansı'na yaptığı açıklamada, yaşamını yitirenlerden 4'ünün aynı aileye mensup olduğunu belirtti. Saldırılar, bölgede devam eden ateşkes ihlallerinin ortasında meydana geldi. Bu olay, Gazze'deki gerilimin sürdüğünü ve insani durumun kırılganlığını bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T10:37:11.022Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-attacks-kill-at-least-5-in-gaza-amid-continued-ceasefire-violations/3972859",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1781951852735f49fh",
+        "title": "İsrail'in Lübnan'a Düzenlediği Saldırılarda 8 Kişi Hayatını Kaybetti, Ateşkes İhlal Edildi",
+        "summary": "İsrail'in Lübnan'ın güneyine düzenlediği son saldırılarda en az 8 kişi yaşamını yitirdi. Hayatını kaybedenler arasında bir Lübnan askeri ve iki çocuğun da bulunduğu belirtildi. Bu saldırılar, Tel Aviv ile Hizbullah arasında ilan edilen ateşkese rağmen gerçekleşti. Olay, bölgedeki gerilimi artırarak ateşkesin kırılganlığını bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T10:37:32.735Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-strikes-in-lebanon-kill-at-least-8-including-lebanese-soldier-despite-ceasefire/3972860",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1781951875544voj0c",
+        "title": "İsviçre, ABD-İran Görüşmelerine Ev Sahipliği Yapacak: Pakistan Kaynakları",
+        "summary": "Pakistan kaynaklarına göre, İsviçre'nin önümüzdeki iki gün içinde ABD ile İran arasındaki görüşmelere ev sahipliği yapması bekleniyor. Bu diplomatik gelişme, bölgedeki gerilimi azaltma çabalarının bir parçası olarak değerlendiriliyor. Anadolu Ajansı'nın bildirdiğine göre, Pakistan İçişleri Bakanı Naqvi, görüşmelerin bir sonraki aşamasını İran liderliğiyle ele almak üzere Cumartesi günü Tahran'a gitti. Bu ziyaretin, ABD-İran diyaloğunun ilerletilmesi için zemin hazırlaması hedefleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T10:37:55.544Z",
+        "location": {
+            "lat": 46.2,
+            "lng": 6.1,
+            "name": "Cenevre, İsviçre"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/switzerland-to-host-us-iran-talks-within-2-days-pakistani-sources/3972780",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1781951897238skcvz",
+        "title": "Pakistan İçişleri Bakanı, ABD-İran Müzakereleri İçin Tahran'a Gitti",
+        "summary": "Pakistan İçişleri Bakanı, Amerika Birleşik Devletleri ile İran arasındaki doğrudan müzakerelerin yeniden başlaması gündemiyle Tahran'a bir ziyaret gerçekleştirdi. Anadolu Ajansı'nın Pakistan hükümet kaynaklarından edindiği bilgilere göre, Bakan Naqvi'nin bu ziyareti, iki ülke arasındaki diplomatik temasları canlandırmayı hedefliyor. Görüşmelerin, bölgesel gerilimlerin azaltılması ve uluslararası ilişkilerde yeni bir sayfa açılması açısından kritik öneme sahip olduğu belirtiliyor. Pakistan'ın bu süreçteki arabuluculuk rolü, ABD ve İran arasındaki potansiyel yakınlaşma çabalarına destek olarak görülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8463151/pexels-photo-8463151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T10:38:17.238Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/pakistans-interior-minister-departs-for-tehran-to-discuss-us-iran-negotiations/3972754",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781942143033y2qw3",
         "title": "Lübnanlı Kaplumbağa Savunucusu Mona Khalil, İsrail Saldırısı Sonrası Hayatını Kaybetti",
         "summary": "Lübnan'ın güneyinde nesli tükenmekte olan kaplumbağa türlerinin korunmasına adanmış aktivist Mona Khalil, İsrail saldırısı sonrası yaşamını yitirdi. Khalil, yirmi yılı aşkın süredir bölgedeki deniz kaplumbağalarının yuvalarını koruma çalışmaları yürütüyordu. Çevre koruma camiasında tanınan bir isim olan Khalil'in ölümü, bölgedeki aktivistler arasında derin üzüntüye yol açtı. Olayın, İsrail'in Lübnan'a yönelik askeri operasyonları sırasında meydana geldiği bildirildi.",
@@ -684,118 +796,6 @@
             "name": "Washington, ABD"
         },
         "source": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178181110524878alj",
-        "title": "Küresel Güney, küresel meselelerde söz sahibi olabilir mi?",
-        "summary": "Çin, gelişmekte olan ekonomilerin küresel arenada daha güçlü temsil edilmeleri çağrısında bulundu. Bu çağrı, Küresel Güney ülkelerinin uluslararası meselelerdeki etkisini artırma arayışının bir parçası olarak değerlendiriliyor. Pekin yönetimi, mevcut küresel yönetim yapılarının daha kapsayıcı ve adil olması gerektiğini savunuyor. Bu durum, özellikle Birleşmiş Milletler gibi uluslararası kuruluşlarda gelişmekte olan ülkelerin karar alma süreçlerindeki rolünün güçlendirilmesi ihtiyacını gündeme getiriyor. Küresel Güney'in artan ekonomik ve siyasi ağırlığına paralel olarak, uluslararası sistemde daha fazla söz sahibi olma talebi giderek yükseliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T19:31:45.248Z",
-        "location": {
-            "lat": 39.9042,
-            "lng": 116.4074,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/6/18/can-the-global-south-have-a-say-in-global-affairs?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781787442000azlgj",
-        "title": "İran, Hürmüz Boğazı'nda 'hizmet bedeli' talep edeceğini açıkladı",
-        "summary": "İran, küresel enerji ticareti için hayati önem taşıyan Hürmüz Boğazı'ndan geçen gemilerden 'hizmet bedeli' talep edeceğini duyurdu. Bu karar, uluslararası denizcilik ve özellikle petrol tankerleri için önemli bir gelişme olarak değerlendiriliyor. Boğaz, dünya petrol arzının önemli bir kısmının geçtiği stratejik bir geçiş noktasıdır. İran'ın bu adımı, bölgedeki gerilimi artırma ve küresel ticaret ile enerji fiyatları üzerinde etkiler yaratma potansiyeli taşıyor. Bu durum, İran'ın boğazdaki serbest geçiş politikasına ilişkin potansiyel bir değişikliğe işaret ediyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/16382982/pexels-photo-16382982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T12:57:22.000Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/18/iran-says-it-will-charge-a-payment-for-services-in-the-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178178748658529gdi",
-        "title": "Trump-İran Anlaşması Lübnan, Hürmüz ve Uranyum Hakkında Ne Söylüyor?",
-        "summary": "Birleşik Devletler ve İran arasında potansiyel bir mutabakat zaptı gündemde. Bu anlaşmanın, Orta Doğu'daki kritik konuları ele aldığı belirtiliyor. Özellikle Lübnan'ın siyasi durumu, Hürmüz Boğazı'nın güvenliği ve İran'ın uranyum programı gibi başlıklar anlaşmanın içeriğinde yer alıyor. Ancak, 14 maddeden oluşan bu mutabakat zaptının birçok önemli soruyu yanıtsız bıraktığı ifade ediliyor. Bu durum, bölgesel dinamikler ve uluslararası ilişkiler açısından belirsizlikleri koruduğuna işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T12:58:06.585Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781787545757myx9v",
-        "title": "ABD-İran Anlaşması Temel Sorunları Çözümsüz Bırakıyor, 300 Milyar Dolarlık Bir Soru İşareti Gündemde",
-        "summary": "ABD'nin eski başkanı Trump, İran ile yapılan anlaşmanın Tahran'ın nükleer silah edinmesini, geliştirmesini veya üretmesini asla engellediği konusunda ısrar etmişti. Ancak anlaşma metninin bu iddiayı tam olarak karşılamadığı belirtiliyor. Bu durum, anlaşmanın temel sorunları çözümsüz bıraktığı ve İran'ın nükleer kapasitesi üzerindeki belirsizliği sürdürdüğü yorumlarına yol açıyor. Haberde ayrıca, anlaşmanın ekonomik boyutlarına ilişkin 300 milyar dolarlık bir soru işaretinin de gündemde olduğu ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4185120/pexels-photo-4185120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T12:59:05.757Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781787569565ak175",
-        "title": "ABD ve İran liderleri savaşı bitirmeyi hedefleyen anlaşma imzaladı",
-        "summary": "Amerika Birleşik Devletleri ve İran cumhurbaşkanları, iki ülke arasındaki çatışmayı sona erdirmeyi hedefleyen bir anlaşmaya imza attı. Bu anlaşma, uzun süredir devam eden gerilimi azaltma yönünde önemli bir adım olarak değerlendiriliyor. Haberde, ABD'nin çatışmayı başlatma nedenlerinden biri olarak gösterdiği İran'ın nükleer programının geleceğine ilişkin müzakerelerin henüz tamamlanmadığı ve devam edeceği belirtildi. Nükleer programın akıbeti, taraflar arasındaki nihai barışın sağlanmasında kilit bir rol oynamaya devam edecek.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3182767/pexels-photo-3182767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T12:59:29.565Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.com/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781787595904nqjcy",
-        "title": "İsrail'den ABD'li Muhafazakarların Desteğini Yeniden Kazanmak İçin 40 Milyon Dolarlık Bütçe: Rapor",
-        "summary": "İsrail'in, ABD'li muhafazakarlar arasında kaybettiği desteği yeniden kazanmak amacıyla 40 milyon dolardan fazla bir bütçe ayırdığı bildirildi. Haaretz gazetesinin raporuna göre, bu yeni kampanya, İsrail'in eski ABD Başkanı Donald Trump'ı İran ile savaşa sürüklediği yönündeki eleştirilere karşı koymayı hedefliyor. Söz konusu fonların, İsrail'in ABD'deki imajını güçlendirme ve siyasi ilişkilerini onarma çabalarının bir parçası olduğu belirtiliyor. Bu girişim, özellikle ABD'deki sağ kanat seçmen tabanında İsrail'e yönelik algıyı düzeltmeyi amaçlıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T12:59:55.904Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-allocates-over-40m-to-regain-support-among-us-conservatives-report/3970853",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781776523312us7a8",
-        "title": "G7, Küresel Güney'i Dinliyor mu?",
-        "summary": "Küresel düzende yaşanan değişimler, G7, BRICS ve yükselen güçler arasında nüfuz mücadelesini artırmaktadır. Bu rekabet, uluslararası ilişkilerin geleceğini şekillendiren önemli bir dinamik olarak öne çıkmaktadır. Özellikle Küresel Güney ülkelerinin artan rolü, bu güç bloklarının dikkatini çekmektedir. G7 ülkeleri, geleneksel liderliklerini sürdürme çabasındayken, BRICS ülkeleri ve diğer yükselen ekonomiler, çok kutuplu bir dünya düzeni arayışındadır. Bu durum, enerji, ticaret ve güvenlik gibi alanlarda yeni işbirlikleri ve rekabetleri beraberinde getirmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T09:55:23.312Z",
-        "location": {
-            "lat": 0,
-            "lng": 0,
-            "name": "Küresel"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
