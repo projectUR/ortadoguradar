@@ -1,5 +1,21 @@
 [
     {
+        "id": "1781990467112voirl",
+        "title": "İran'ın Hürmüz Boğazı Hamlesi Parya Devlet Olma Riski Taşıyor",
+        "summary": "Haber, İran'ın Hürmüz Boğazı'nı stratejik bir koz olarak aşırı kullanmasının uluslararası alanda izole edilmesine yol açacağı uyarısında bulunuyor. Bu tür bir politikanın, ülkeyi \"parya devlet\" konumuna düşürerek diplomatik ve ekonomik yaptırımlarla karşı karşıya bırakabileceği belirtiliyor. Dünya petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı, küresel enerji güvenliği için hayati önem taşıyor. İran'ın boğazdaki olası müdahaleleri, bölgedeki gerilimi tırmandırma ve uluslararası tepkilere yol açma potansiyeli taşıyor. Uzmanlar, Tahran'ın bu stratejiyi benimsemesi halinde, mevcut uluslararası baskının daha da artacağı ve ülkenin dış ilişkilerinin ciddi şekilde zarar göreceği konusunda uyarıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36152058/pexels-photo-36152058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T21:21:07.112Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781984509787jzcj6",
         "title": "Al Jazeera Kameramanı Ahmed Wishah Gazze'de İsrail Saldırısında Hayatını Kaybetti",
         "summary": "Al Jazeera medya ağı, Gazze Şeridi'nde görev yapan kameramanı Ahmed Wishah'ın İsrail saldırısında hayatını kaybettiğini duyurdu. Kanal, Wishah'ın \"hedef alınarak öldürülmesi\" eylemini \"menfur bir suç\" olarak nitelendirerek şiddetle kınadığını belirtti. Bu olay, bölgedeki gazetecilerin güvenliğine ilişkin endişeleri bir kez daha gündeme getirirken, Al Jazeera uluslararası toplumu gazetecilerin korunması için harekete geçmeye çağırdı. Wishah'ın ölümüyle birlikte Gazze'deki çatışmalarda hayatını kaybeden medya mensuplarının sayısı artmaya devam ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israel-s-national-security-minister-says-all-of-lebanon-must-burn-after-soldiers-killed/3971770",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17818659494065937g",
-        "title": "İsrail Muhalefet Lideri Lapid'den Dış İlişkiler Uyarısı",
-        "summary": "İsrail muhalefet lideri Yair Lapid, ülkenin müttefikleriyle yaşadığı gerilimler nedeniyle dış ilişkilerinin ciddi şekilde zarar gördüğü konusunda uyarıda bulundu. Lapid, mevcut hükümetin politikalarının İsrail'in uluslararası arenadaki konumunu olumsuz etkilediğini belirtti. Muhalefet lideri, \"Bu hükümeti hızla değiştirmezsek, İsrail'in dış ilişkileri silinip gidecek\" ifadelerini kullandı. Bu açıklama, İsrail'in diplomatik ilişkilerindeki mevcut durumu ve geleceğine dair ciddi endişeleri yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T10:45:49.406Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-warns-country-s-foreign-relations-being-damaged-amid-tensions-with-allies/3971707",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
