@@ -1,5 +1,21 @@
 [
     {
+        "id": "17819280663422o3p9",
+        "title": "Tahran: ABD, İsrail'in Lübnan'a Saldırılarını Durdurmalı",
+        "summary": "İran Dışişleri Bakan Yardımcısı, ABD ile diplomasi konusunda ilerlemeye hazır olduklarını açıkladı. Ancak, bölgedeki savaşın tüm cephelerde sona ermesi gerektiğini vurguladı. Tahran yönetimi, ABD'nin İsrail'in Lübnan'a yönelik saldırılarını durdurmasını sağlaması gerektiğini belirtti. Bu açıklama, Orta Doğu'daki gerilimin düşürülmesi ve diplomatik çözüm arayışlarının devam ettiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6670897/pexels-photo-6670897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T04:01:06.342Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1781912309949tkzoe",
         "title": "Türkiye ve Suriye'den Sağlık ve Tıp Bilimleri Alanında İşbirliği Anlaşması",
         "summary": "Türkiye ve Suriye, sağlık ve tıp bilimleri alanında işbirliği anlaşması imzaladı. Türk Sağlık Bakanı'nın açıklamasına göre, bu mutabakat zaptı halk sağlığı, hastalık kontrolü, anne ve bebek sağlığı, ilaç ve afet yönetimi gibi önemli konuları kapsıyor. Anlaşma, iki ülke arasındaki sağlık hizmetleri ve bilimsel bilgi alışverişini güçlendirmeyi hedefliyor. Bu işbirliği, bölgesel sağlık sorunlarına ortak çözümler üretme potansiyeli taşıyor.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanon-rejects-trumps-proposal-for-syria-to-take-care-of-hezbollah-/3970295",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17817422193689lyrq",
-        "title": "Trump ve Pezeşkian'dan Çatışmaları Bitirme ve Hürmüz'ü Açma Anlaşması",
-        "summary": "Eski ABD Başkanı Donald Trump ile İranlı siyasetçi Pezeşkian arasında, bölgedeki çatışmaları sona erdirmeyi amaçlayan bir mutabakat zaptı imzalandığı bildirildi. Anlaşmanın yürürlüğe girdiği ve Lübnan'daki savaşın sona erdirilmesini kapsadığı belirtildi. Ayrıca, küresel enerji ticareti için kritik öneme sahip Hürmüz Boğazı'nın yeniden ulaşıma açılmasının da mutabakatın maddeleri arasında yer aldığı kaydedildi. Her iki taraf da anlaşmanın yürürlükte olduğunu teyit etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36705563/pexels-photo-36705563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-18T00:23:39.368Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
