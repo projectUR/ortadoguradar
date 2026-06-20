@@ -1,5 +1,37 @@
 [
     {
+        "id": "1781978095484vwsbh",
+        "title": "ABD-İran Görüşmeleri Pazar Günü İsviçre'de Başlayacak",
+        "summary": "Pakistan'dan yapılan açıklamaya göre, ABD ile İran arasındaki planlanan görüşmeler Pazar günü İsviçre'de başlayacak. Bu müzakereler, İsrail'in Lübnan'a yönelik saldırıları ve İran'ın Hürmüz Boğazı'nı yeniden kapatma tehdidi nedeniyle artan gerilimlerin ortasında gerçekleşecek. Görüşmelerin, bölgedeki mevcut krizin diplomatik yollarla çözülmesine yönelik bir adım olması bekleniyor. Tarafların, özellikle Lübnan'daki çatışmalar ve Hürmüz Boğazı'nın uluslararası deniz trafiği için önemi gibi konuları ele alacağı belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433850/pexels-photo-7433850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T17:54:55.484Z",
+        "location": {
+            "lat": 46.8182,
+            "lng": 8.2275,
+            "name": "İsviçre"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1781978193644ucswv",
+        "title": "İsrail ve Hizbullah Ateşkes Anlaşmasına Rağmen Saldırılara Devam Ediyor",
+        "summary": "İsrail ile Lübnan merkezli Hizbullah arasındaki çatışmalar, ateşkes anlaşmasına rağmen şiddetlenerek devam ediyor. İsrail ordusu, Hizbullah'ın güney Lübnan'dan İsrail askerlerine ateş açtığını bildirdi. Bu saldırılara karşılık olarak İsrail'in düzenlediği hava saldırılarında en az 20 kişinin hayatını kaybettiği belirtildi. Bölgedeki gerilim, uluslararası çağrılara rağmen tırmanmaya devam ederken, can kayıpları endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-20T17:56:33.644Z",
+        "location": {
+            "lat": 33.25,
+            "lng": 35.5,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17819725202968zoxa",
         "title": "İran'dan ABD'ye Mutabakat Zaptı Taahhütleri Konusunda 'Karşılıklı Eylem' Uyarısı",
         "summary": "İran, Amerika Birleşik Devletleri'ni mutabakat zaptı (MOU) taahhütlerine uymaması durumunda misilleme yapacağı konusunda uyardı. Tahran yönetimi, Washington'ın söz konusu anlaşmadaki yükümlülüklerini yerine getirmemesi halinde karşılıklı adımlar atılacağını belirtti. Bu açıklama, iki ülke arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor. İranlı yetkililer, ABD'nin anlaşmaya sadık kalmasının önemini vurguladı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17818473137868ipu5",
-        "title": "İsrail, Hizbullah ile Artan Çatışmalar Üzerine Güney Lübnan'ı Vurdu",
-        "summary": "İsrail ordusu, Lübnan'ın güneyindeki bölgelere hava saldırıları düzenlediğini duyurdu. Bu saldırılar, İsrail ile Hizbullah arasında son dönemde yaşanan gerilimin ve çatışmaların tırmanmasının ardından gerçekleşti. Bölgedeki kaynaklar, saldırıların Hizbullah'a ait hedefleri vurduğunu belirtirken, can kaybı veya hasar hakkında henüz detaylı bilgi paylaşılmadı. Gelişme, iki taraf arasındaki tansiyonun yükseldiğini ve bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Uluslararası toplum, taraflara itidal çağrısı yapmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T05:35:13.786Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17818474007053qnyf",
-        "title": "Oxfam yetkilisi, Gazze'deki ateşkesin 'başarısız olduğu' gerekçesiyle BM Güvenlik Konseyi'ni eyleme geçmeye çağırdı",
-        "summary": "Uluslararası yardım kuruluşu Oxfam'dan bir yetkili, Birleşmiş Milletler Güvenlik Konseyi'ne Gazze'deki duruma ilişkin acil bir çağrıda bulundu. Yetkili, bölgedeki ateşkesin 'başarısız olduğunu' belirterek, Konsey'in sadece sözde kalmayıp somut adımlar atması gerektiğini vurguladı. Khalidi adlı yetkili, Güvenlik Konseyi'ni siyasi, diplomatik ve hukuki araçları kullanarak bölgedeki vahşeti sona erdirmeye çağırdı. Bu çağrı, Gazze'deki insani krizin derinleştiği ve çatışmaların devam ettiği bir dönemde yapıldı. Oxfam, uluslararası toplumun Gazze'deki sivillerin korunması için daha etkin rol oynaması gerektiğini ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33337402/pexels-photo-33337402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T05:36:40.705Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oxfam-official-urges-un-security-council-to-move-from-words-to-action-on-gaza-amid-ceasefire-failing-/3971477",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
