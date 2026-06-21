@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782058562396s7rkf",
+        "title": "Suriye, aktivist Hassan Akkad'ı gözaltına alındıktan günler sonra serbest bıraktı",
+        "summary": "Suriye'de gözaltına alınan aktivist Hassan Akkad, birkaç gün sonra serbest bırakıldı. Akkad'ın serbest bırakılması, gazeteci Musa el-Ömer'in kendisine yönelik çevrimiçi eleştiriler nedeniyle yaptığı şikayeti geri çekmesinin ardından gerçekleştiği bildirildi. Olay, Suriye'deki aktivistlerin ve gazetecilerin ifade özgürlüğü üzerindeki baskıları bir kez daha gündeme getirdi. Akkad'ın serbest bırakılması, uluslararası insan hakları örgütleri tarafından yakından takip edilen bir gelişmeydi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8898639/pexels-photo-8898639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-21T16:16:02.396Z",
+        "location": {
+            "lat": 34.802075,
+            "lng": 38.996815,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1782058586535gn6a8",
+        "title": "Fransa ve Irak Dünya Kupası Maçında Karşı Karşıya Geliyor",
+        "summary": "Yıldız forvet Kylian Mbappe'nin formasını giydiği Fransa Milli Takımı, Dünya Kupası mücadelesinde Irak ile Boston'da karşı karşıya gelecek. Maç, Fransa'nın eleme aşamasına yükselme hedefleri doğrultusunda kritik bir öneme sahip. Irak Milli Takımı'nın bu uluslararası turnuvadaki varlığı, Orta Doğu ülkesi için önemli bir temsil ve ulusal gurur kaynağı olarak görülüyor. Karşılaşma öncesinde takımların kadroları ve maç tahminleri de spor kamuoyunun gündeminde yer alıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/12239377/pexels-photo-12239377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-21T16:16:26.535Z",
+        "location": {
+            "lat": 42.3601,
+            "lng": -71.0589,
+            "name": "Boston, ABD"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782052131800vwefg",
         "title": "Gazze, öldürülen gazeteci Ahmed Wishah'a veda etti",
         "summary": "Gazze Şeridi'nde öldürülen gazeteci Ahmed Wishah için bir veda töreni düzenlendi. Törene Wishah'ın ailesi, meslektaşları ve çok sayıda bölge sakini katıldı. Cenaze namazının ardından Wishah'ın naaşı, gözyaşları içinde toprağa verildi. Bu olay, bölgedeki çatışmalar sırasında gazetecilerin karşılaştığı tehlikeleri ve basın özgürlüğü endişelerini bir kez daha gündeme getirdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/turkiye/turkiye-syria-sign-agreement-on-cooperation-in-health-medical-sciences/3972654",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17819068142292hdzs",
-        "title": "İspanya'nın genç yıldızı Yamal: Dünya Kupası'nda tam maç oynamak için 'çok erken ve gereksiz'",
-        "summary": "İspanya Milli Takımı'nın genç yeteneği Lamine Yamal, Dünya Kupası'nda tam bir maç oynamanın kendisi için henüz erken ve gereksiz olduğunu belirtti. Bu açıklama, İspanya'nın Suudi Arabistan ile yapacağı karşılaşma öncesinde geldi. Yamal, fiziksel ve mental olarak 90 dakikalık bir mücadeleye hazır olmadığını ima ederek, kademeli bir ilerlemenin daha doğru olacağını ifade etti. Genç oyuncunun bu görüşü, teknik heyetin oyuncu gelişimini yönetme stratejilerini etkileyebilir. Bu durum, uluslararası futbol arenasında genç yeteneklerin korunması ve doğru şekilde geliştirilmesi tartışmalarını da beraberinde getiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285250/pexels-photo-32285250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T22:06:54.229Z",
-        "location": {
-            "lat": 23.8859,
-            "lng": 45.0792,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/19/spains-yamal-says-very-early-unnecessary-to-play-full-world-cup-match?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1781906932709shzxk",
-        "title": "Vance: İsrail'e Yönelik Eleştiriler Her Zaman Antisemitizme Yol Açmaz",
-        "summary": "ABD Başkan Yardımcısı Vance, İsrail'e yönelik eleştirilerin her zaman antisemitizmle sonuçlanmadığını vurguladı. Vance, özellikle İsrail Başbakanı Binyamin Netanyahu'nun politika kararlarına yönelik eleştirilerin antisemitizm olarak değerlendirilmesinin doğru olmadığını ifade etti. Bu açıklama, İsrail'in politikaları ve antisemitizm arasındaki ilişki üzerine süregelen uluslararası tartışmalara yeni bir boyut kattı. Vance'in bu sözleri, ABD'nin İsrail politikalarına yönelik eleştirel söylemlere yaklaşımını yansıtması açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T22:08:52.709Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/americas/vance-says-criticism-of-israel-does-not-always-lead-to-antisemitism/3972598",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
