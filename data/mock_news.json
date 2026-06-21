@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782052131800vwefg",
+        "title": "Gazze, öldürülen gazeteci Ahmed Wishah'a veda etti",
+        "summary": "Gazze Şeridi'nde öldürülen gazeteci Ahmed Wishah için bir veda töreni düzenlendi. Törene Wishah'ın ailesi, meslektaşları ve çok sayıda bölge sakini katıldı. Cenaze namazının ardından Wishah'ın naaşı, gözyaşları içinde toprağa verildi. Bu olay, bölgedeki çatışmalar sırasında gazetecilerin karşılaştığı tehlikeleri ve basın özgürlüğü endişelerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9932963/pexels-photo-9932963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-21T14:28:51.800Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1782052174060bdukj",
+        "title": "Fransız Mahkemesinden İşgal Altındaki Halkların Direniş Hakkına İlişkin Karar",
+        "summary": "Fransa'da bir mahkeme tarafından alınan son bir karar, işgal altındaki halkların direniş hakkına ilişkin uluslararası alanda kabul görmüş ilkeyi reddetme eğiliminde olduğu yorumlarına neden oldu. Bu yargı kararı, özellikle Filistin meselesi bağlamında, işgal altındaki bölgelerde yaşayan halkların hakları konusunda yeni tartışmaları beraberinde getirdi. Karar, uluslararası hukukun temel prensiplerinden biri olarak kabul edilen direniş hakkının yorumlanması ve uygulanması açısından önemli sonuçlar doğurabilir. Fransız yargısının bu tutumu, Filistin'e yönelik politik duruşu hakkında uluslararası kamuoyunda soruları gündeme taşıdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6339596/pexels-photo-6339596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-21T14:29:34.060Z",
+        "location": {
+            "lat": 48.86,
+            "lng": 2.35,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/6/21/is-the-french-judiciary-against-palestine?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782043182371ekb5y",
         "title": "ABD ve İran Heyetleri İsviçre'de Müzakerelere Başladı",
         "summary": "Amerika Birleşik Devletleri ve İran heyetleri, İsviçre'de bir araya gelerek diplomatik müzakerelere başladı. Görüşmelerin, iki ülke arasındaki mevcut gerilimleri azaltma ve çeşitli konularda ortak zemin bulma amacı taşıdığı belirtiliyor. Bu müzakerelerin, özellikle nükleer anlaşma ve bölgesel güvenlik meseleleri gibi kritik başlıkları ele alması bekleniyor. Uluslararası toplum, bu üst düzey diplomatik çabaların sonuçlarını yakından takip ediyor. İsviçre, tarafsız bir ülke olarak bu tür önemli görüşmelere ev sahipliği yapmaya devam ediyor.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/americas/vance-says-criticism-of-israel-does-not-always-lead-to-antisemitism/3972598",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17819069563607yuhx",
-        "title": "İran, Gazze'nin 'daha geniş bölgesel barış çabasının' bir parçası olabileceğini işaret etti",
-        "summary": "İran Devrim Muhafızları Kudüs Gücü Komutanı, İsrail'i Gazze'de bir \"fırtına\" konusunda uyardı. Aynı zamanda üst düzey bir İranlı yetkili, Tahran'ın tüm cephelerde barış arayışında olduğunu belirtti. Bu açıklamalar, Gazze'deki durumun daha geniş bir bölgesel barış çabasının bir parçası olarak ele alınabileceği sinyalini taşıyor. İran'ın bu çifte mesajı, bölgedeki gerilimi ve potansiyel diplomatik girişimleri aynı anda yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T22:09:16.360Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-signals-gaza-may-emerge-as-part-of-broader-regional-peace-push/3972563",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781902334765cnn7n",
-        "title": "İran Dışişleri Bakan Yardımcısı: ABD ile Anlaşmada İlerlemeye Hazırız",
-        "summary": "İran Dışişleri Bakan Yardımcısı Ali Bagheri Kani, Al Jazeera'ye verdiği demeçte, ABD ile bir anlaşmada ilerlemeye hazır olduklarını belirtti. Kani, diplomasinin ileriye dönük tek yol olduğunu vurguladı. Ancak, bu ilerlemenin ön koşulu olarak ABD'nin İsrail'in Lübnan'a yönelik saldırılarını durdurmasını sağlaması gerektiğini ifade etti. Bu açıklama, bölgedeki gerilimin azaltılmasına yönelik potansiyel diplomatik çabaları ve İran'ın bu süreçteki şartlarını ortaya koyuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T20:52:14.765Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
