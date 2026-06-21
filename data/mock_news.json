@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782019628130nvqme",
+        "title": "ABD ve İran, İsviçre'de Üst Düzey Görüşmeler Gerçekleştirecek",
+        "summary": "Amerika Birleşik Devletleri ve İranlı yetkililer, İsviçre'de üst düzey görüşmeler yapmak üzere bir araya gelecek. Bu diplomatik temaslar, İran'ın İsrail'in Lübnan'a yönelik saldırılarına tepki olarak Hürmüz Boğazı'nı kapatma tehdidinde bulunmasının ardından gerçekleşiyor. Boğazın kapatılması tehdidi, bölgedeki gerilimi tırmandırırken, uluslararası deniz taşımacılığı için kritik öneme sahip bu su yolunun güvenliği konusunda endişeleri artırıyor. Görüşmelerin, bölgesel tansiyonu düşürme ve diplomatik çözüm arayışlarına katkı sağlaması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8190827/pexels-photo-8190827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-21T05:27:08.130Z",
+        "location": {
+            "lat": 46.2044,
+            "lng": 6.1432,
+            "name": "Cenevre, İsviçre"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1782000664815ifkbd",
         "title": "ABD, İran'ın Dünya Kupası seyahat kısıtlamalarını Belçika maçı için hafifletmeyi reddetti",
         "summary": "Amerika Birleşik Devletleri, İran milli futbol takımının Dünya Kupası maçları için uygulanan seyahat kısıtlamalarını Belçika karşılaşması özelinde hafifletmeyi reddetti. ABD'li yetkili Andrew Giuliani, İranlı oyuncuların ABD'deki grup maçları için ülkede daha uzun süre kalmalarına izin verilmeyeceğini açıkladı. Bu karar, ABD'nin İran'a yönelik seyahat politikalarında spor etkinlikleri kapsamında dahi bir esneklik göstermeyeceğini ortaya koyuyor. Haber, iki ülke arasındaki mevcut gerilimli ilişkilerin spor alanına yansımasını gözler önüne seriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-continues-attacks-on-lebanon-despite-us-iran-deal?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1781865793852ffuad",
-        "title": "Suriyeli aktivist Hassan Akkad Şam'da gözaltına alındı",
-        "summary": "Suriyeli aktivist Hassan Akkad'ın Suriye'nin başkenti Şam'da gözaltına alındığı bildirildi. Gözaltının, Suriyeli gazeteci Musa el-Ömer'in Akkad'ın sosyal medya yorumları hakkında yaptığı şikayetle bağlantılı olduğu belirtildi. Bu olay, Suriye'deki aktivistlere yönelik baskıları ve ifade özgürlüğü endişelerini bir kez daha gündeme getirdi. Akkad'ın gözaltına alınma nedenleri ve mevcut durumu hakkında detaylı bilgi henüz kamuoyuyla paylaşılmadı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8898619/pexels-photo-8898619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-19T10:43:13.852Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
