@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782170575439p0bfx",
+        "title": "Mısır Milli Takımı'nın Dünya Kupası Maçı Öncesi Seattle Uçuşu Reddedildi",
+        "summary": "Mısır milli futbol takımı, ABD'nin Seattle şehrine yapmayı planladığı uçuşun reddedilmesiyle karşılaştı. Bu durum üzerine takım, Seattle'ın yaklaşık 450 kilometre doğusunda bulunan Spokane'deki antrenman üssüne geri dönmek zorunda kaldı. Olay, Mısır'ın Dünya Kupası grup maçları öncesindeki lojistik planlamasında aksaklıklara yol açtı. Uçuşun neden reddedildiğine dair detaylı bir açıklama henüz yapılmadı. Takımın, maç öncesi hazırlıklarını Spokane'de sürdüreceği belirtildi.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/31160114/pexels-photo-31160114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T23:22:55.439Z",
+        "location": {
+            "lat": 47.66,
+            "lng": -117.43,
+            "name": "Spokane, ABD"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/6/22/egypt-denied-flight-to-seattle-ahead-of-final-world-cup-group-match?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "17821639835815g9xn",
         "title": "Gazze ve Batı Şeria'dan çıkarılan STK'lar nedeniyle Filistinli çocuklar 'korumasız' kaldı",
         "summary": "İsrail'in, işgal altındaki Filistin topraklarında faaliyet gösteren insani yardım kuruluşları ve insan hakları savunucularının operasyonlarını kısıtlamaya zorladığı bildirildi. Bu durumun, özellikle Gazze ve Batı Şeria'daki Filistinli çocukların korunmasız kalmasına yol açtığı belirtiliyor. Uluslararası sivil toplum kuruluşları, İsrail'in bu adımlarının bölgedeki insani krizi derinleştirebileceği konusunda endişelerini dile getiriyor. Çocukların temel ihtiyaçlara erişimi ve haklarının korunması konusunda ciddi aksaklıklar yaşanabileceği vurgulanıyor.",
@@ -780,22 +796,6 @@
             "name": "Cenevre, İsviçre"
         },
         "source": "https://www.aa.com.tr/en/europe/iranian-swiss-foreign-ministers-meet-ahead-of-us-iran-talks/3973502",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782033114711nqzp9",
-        "title": "Ürdün'de Terör Suçlamasıyla Altı Kişi İdam Edildi",
-        "summary": "Ürdün hükümeti, terör suçlamaları ve ordu ile Kamu Güvenliği Müdürlüğü mensuplarını öldüren saldırılarla bağlantılı cezai davalar nedeniyle altı kişinin idam edildiğini duyurdu. Yapılan açıklamada, idam edilen kişilerin terör eylemleri ve güvenlik güçlerine yönelik saldırılarla ilgili suçlardan hüküm giydiği belirtildi. Bu kararın, ülkenin terörle mücadeledeki kararlılığını gösterdiği ifade edildi. İdamların, Ürdün'ün iç güvenliğini tehdit eden unsurlara karşı sert bir duruş sergilediği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7433874/pexels-photo-7433874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T09:11:54.711Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.91,
-            "name": "Amman, Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-executes-6-individuals-on-alleged-terrorism-charges/3973436",
         "trendScore": 85,
         "isBreaking": false
     }
