@@ -1,5 +1,21 @@
 [
     {
+        "id": "17820937891043mm5m",
+        "title": "ABD ve İran Arasında Gergin Ancak Yapıcı Ateşkes Görüşmeleri",
+        "summary": "Amerika Birleşik Devletleri ve İran'dan gelen müzakereciler, İsviçre'de bir günlük ateşkes görüşmelerini tamamladı. Görüşmelerin 'gergin' ancak 'yapıcı' bir atmosferde geçtiği bildirildi. Bu diplomatik temaslar, iki ülke arasındaki mevcut gerilimi azaltma ve bölgesel istikrarı sağlama çabaları açısından önem taşıyor. Tarafların, olası bir ateşkesin detayları ve uygulama mekanizmaları üzerinde durduğu belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433847/pexels-photo-7433847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T02:03:09.104Z",
+        "location": {
+            "lat": 46.8182,
+            "lng": 8.2275,
+            "name": "İsviçre"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17820839769661fy0h",
         "title": "Belçika ve İran Dünya Kupası maçında golsüz berabere kaldı, Belçika'dan bir oyuncu kırmızı kart gördü",
         "summary": "Los Angeles'ta oynanan Dünya Kupası G Grubu maçında Belçika ile İran golsüz berabere kaldı. Karşılaşmada Belçika'dan Nathan Ngoy, İranlı Mehdi Taremi'yi düşürdüğü gerekçesiyle kırmızı kartla oyun dışı kaldı. Taremi'nin ilk yarıda attığı gol ise ofsayt gerekçesiyle iptal edildi. Maç, her iki takımın da gol bulamadığı çekişmeli bir mücadeleye sahne oldu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1781951806793bc7ou",
-        "title": "İsrail'in Gazze Saldırılarında Bir Aile Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde İsrail tarafından düzenlenen saldırılarda, iki kızı da dahil olmak üzere bir ailenin hayatını kaybettiği bildirildi. Bu olay, İsrail'in ABD arabuluculuğunda sağlanan Ekim ayındaki ateşkese yönelik ihlallerini sürdürdüğü iddialarını yeniden gündeme getirdi. Bölgede devam eden gerilim ve çatışmalar, sivil kayıpların artmasına neden oluyor. Uluslararası gözlemciler, ateşkesin korunması ve sivillerin güvenliğinin sağlanması yönündeki çağrılarını yineliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193757/pexels-photo-36193757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-20T10:36:46.793Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
