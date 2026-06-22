@@ -1,5 +1,37 @@
 [
     {
+        "id": "17821639835815g9xn",
+        "title": "Gazze ve Batı Şeria'dan çıkarılan STK'lar nedeniyle Filistinli çocuklar 'korumasız' kaldı",
+        "summary": "İsrail'in, işgal altındaki Filistin topraklarında faaliyet gösteren insani yardım kuruluşları ve insan hakları savunucularının operasyonlarını kısıtlamaya zorladığı bildirildi. Bu durumun, özellikle Gazze ve Batı Şeria'daki Filistinli çocukların korunmasız kalmasına yol açtığı belirtiliyor. Uluslararası sivil toplum kuruluşları, İsrail'in bu adımlarının bölgedeki insani krizi derinleştirebileceği konusunda endişelerini dile getiriyor. Çocukların temel ihtiyaçlara erişimi ve haklarının korunması konusunda ciddi aksaklıklar yaşanabileceği vurgulanıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10010407/pexels-photo-10010407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T21:33:03.581Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/22/palestinian-children-unprotected-as-ngos-forced-out-of-gaza-and-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782164041056v2drs",
+        "title": "ABD'den İsrail'e Lübnan'da 'Kısıtlamasız Faaliyet Yetkisi'nin Sona Erdiği Mesajı",
+        "summary": "İsrail medyası, ABD'nin İsrail'e Lübnan topraklarında 'kısıtlamasız faaliyet gösterme' yetkisinin sona erdiğini bildirdiğini duyurdu. Habere göre, İsrailli üst düzey bir yetkili, ABD'den bu yönde bir mesaj alındığını belirtti. Bu gelişme, İsrail'in Lübnan'daki askeri operasyonlarına ilişkin ABD'nin tutumunda bir değişiklik sinyali olarak yorumlanıyor. Söz konusu yetkinin ne zaman verildiği veya hangi koşullar altında sona erdiği hakkında detay verilmedi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T21:34:01.056Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-ends-authorization-for-israel-to-operate-without-restriction-in-lebanon-israeli-media/3974959",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17821541969257m3as",
         "title": "ABD-İran Anlaşması İran Ekonomisini Dönüştürebilir mi?",
         "summary": "ABD ile İran arasında potansiyel bir anlaşmanın İran ekonomisi üzerindeki etkileri tartışılıyor. Uzmanlar, böyle bir anlaşmanın İran'ın dondurulmuş varlıklarının serbest bırakılmasına olanak tanıyabileceğini belirtiyor. Ayrıca, ülkenin petrol ihracatının artması ve yabancı yatırımların çekilmesiyle İran'ın ekonomik geleceğinin önemli ölçüde yeniden şekillenebileceği öngörülüyor. Bu gelişmelerin, İran ekonomisinde kapsamlı bir dönüşüm yaratma potansiyeli taşıdığı ifade ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Amman, Ürdün"
         },
         "source": "https://www.aa.com.tr/en/middle-east/jordan-executes-6-individuals-on-alleged-terrorism-charges/3973436",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782033136097tboho",
-        "title": "ABD ve İran heyetleri teknik görüşmeler için İsviçre'ye ulaştı",
-        "summary": "ABD ve İran heyetleri, teknik görüşmeler gerçekleştirmek üzere İsviçre'ye vardı. Pakistan'ın arabuluculuğunda yürütülecek olan bu önemli müzakerelere ABD Başkan Yardımcısı ile İran Meclis Başkanı ve Dışişleri Bakanı liderlik edecek. Taraflar arasındaki görüşmelerin, Çarşamba günü imzalanan geçici bir anlaşma çerçevesinde yürütüleceği belirtildi. Bu zirve, iki ülke arasındaki ilişkilerde yeni bir dönemin başlangıcı olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36733315/pexels-photo-36733315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T09:12:16.097Z",
-        "location": {
-            "lat": 46.2044,
-            "lng": 6.1432,
-            "name": "Cenevre, İsviçre"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-iranian-delegations-arrive-in-switzerland-for-technical-talks/3973395",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17820331588652j24f",
-        "title": "Al Jazeera, Gazze'deki Muhabirlerinin Öldürülmesi Nedeniyle İsrailli Yetkililerin Cezalandırılmasını Talep Ediyor",
-        "summary": "Katar merkezli Al Jazeera medya kuruluşu, İsrailli yetkililerin Gazze'de görev yapan muhabirlerinin öldürülmesinden sorumlu tutulmasını talep etti. Yayın kuruluşu, son kurbanın kameraman Ahmed Washah olduğunu belirtti. Al Jazeera, uluslararası hukukun ihlal edildiğini ve gazetecilerin çatışma bölgelerinde hedef alınmaması gerektiğini vurguladı. Bu talep, Gazze'deki çatışmalarda gazetecilerin güvenliğine ilişkin artan endişeleri bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10464787/pexels-photo-10464787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T09:12:38.866Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/al-jazeera-demands-punishment-of-israeli-officials-for-killing-of-its-correspondents-in-gaza/3973382",
         "trendScore": 85,
         "isBreaking": false
     }
