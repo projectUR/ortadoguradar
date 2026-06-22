@@ -1,5 +1,69 @@
 [
     {
+        "id": "17821541969257m3as",
+        "title": "ABD-İran Anlaşması İran Ekonomisini Dönüştürebilir mi?",
+        "summary": "ABD ile İran arasında potansiyel bir anlaşmanın İran ekonomisi üzerindeki etkileri tartışılıyor. Uzmanlar, böyle bir anlaşmanın İran'ın dondurulmuş varlıklarının serbest bırakılmasına olanak tanıyabileceğini belirtiyor. Ayrıca, ülkenin petrol ihracatının artması ve yabancı yatırımların çekilmesiyle İran'ın ekonomik geleceğinin önemli ölçüde yeniden şekillenebileceği öngörülüyor. Bu gelişmelerin, İran ekonomisinde kapsamlı bir dönüşüm yaratma potansiyeli taşıdığı ifade ediliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T18:49:56.925Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17821542197433v6os",
+        "title": "İsrail ve Hizbullah, Ateşkes Anlaşmasına Rağmen Saldırılarını Sürdürüyor",
+        "summary": "İsrail ile Hizbullah arasındaki gerilim, ateşkes anlaşmasına rağmen karşılıklı saldırılarla devam ediyor. İsrail ordusu, Hizbullah'ın güney Lübnan'dan İsrail askerlerine ateş açtığını bildirdi. Bu gelişmenin ardından İsrail'in düzenlediği hava saldırılarında en az 20 kişinin hayatını kaybettiği açıklandı. Bölgedeki çatışmaların şiddeti artarken, uluslararası toplumdan gerilimi düşürme çağrıları yükseliyor. Taraflar arasındaki çatışmaların tırmanması endişe yaratıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T18:50:19.743Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1782154245265qwjx3",
+        "title": "İran'dan Lübnan'ın Egemenliği Vurgusu: ABD Görüşmeleri Sürüyor",
+        "summary": "İran'ın baş müzakerecisi Mohammad Bagher Qalibaf, ABD ile devam eden görüşmelerin ortasında Lübnan'ın egemenliğinin tamamen yeniden tesis edilmesi gerektiğini vurguladı. Qalibaf, diplomasiyi askeri kazanımları güvence altına almanın ve Lübnan'ın tam egemenliğini sağlamanın anahtarı olarak gördüğünü ifade etti. Bu açıklama, bölgedeki siyasi dinamiklerin ve uluslararası ilişkilerin karmaşıklığını bir kez daha gözler önüne serdi. İranlı yetkili, Lübnan'ın iç işlerine dış müdahalenin sona ermesi ve ülkenin kendi kaderini tayin etme hakkının korunmasının önemine dikkat çekti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T18:50:45.265Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-chief-negotiator-says-lebanon-s-sovereignty-must-be-fully-restored-amid-us-talks/3974915",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782154266894o5egq",
+        "title": "İsrail, Lübnan Ateşkesinin Ardından Kuzeydeki Sivil 'Alarm Ekiplerini' Dağıtıyor",
+        "summary": "İsrail ordusu, Lübnan ile sağlanan ateşkesin ardından ülkenin kuzeyindeki yerleşim birimlerinde görev yapan sivil hızlı müdahale ekiplerini dağıtma kararı aldı. Ordu tarafından yapılan açıklamada, güvenlik değerlendirmesindeki değişiklikler nedeniyle bu sivil birimlerin önümüzdeki hafta itibarıyla görevden alınacağı belirtildi. Söz konusu 'alarm ekipleri', özellikle sınır bölgelerindeki yerleşim yerlerinde acil durumlara karşı ilk müdahaleyi sağlamak üzere oluşturulmuştu. Bu adım, bölgedeki güvenlik durumunun iyileştiği yönündeki bir işaret olarak yorumlanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7985232/pexels-photo-7985232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-22T18:51:06.894Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kuzey İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-to-disband-civilian-alert-squads-in-north-after-lebanon-ceasefire/3974909",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782139430750dgcs4",
         "title": "Birleşik Krallık Başbakanı Keir Starmer İstifa Etti: On Yılda Yedinci Başbakan Dönemi Başlıyor",
         "summary": "Birleşik Krallık Başbakanı Keir Starmer'ın görevinden istifa etmesiyle ülke siyasetinde önemli bir gelişme yaşandı. Bu istifa, Birleşik Krallık'ın son on yılda yedinci başbakanını atayacağı anlamına geliyor ve ülkedeki siyasi istikrarsızlığa dikkat çekiyor. Starmer'ın neden istifa ettiği ve yerine kimin geçeceği soruları gündemdeki yerini koruyor. Yeni başbakanın belirlenmesi süreci yakından takip edilirken, bu durumun Birleşik Krallık'ın iç ve dış politikaları üzerindeki potansiyel etkileri merak ediliyor. Özellikle Orta Doğu gibi hassas bölgelerle ilişkilerde yeni liderin nasıl bir yol izleyeceği uluslararası kamuoyunda ilgiyle bekleniyor.",
@@ -732,70 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/al-jazeera-demands-punishment-of-israeli-officials-for-killing-of-its-correspondents-in-gaza/3973382",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782019628130nvqme",
-        "title": "ABD ve İran, İsviçre'de Üst Düzey Görüşmeler Gerçekleştirecek",
-        "summary": "Amerika Birleşik Devletleri ve İranlı yetkililer, İsviçre'de üst düzey görüşmeler yapmak üzere bir araya gelecek. Bu diplomatik temaslar, İran'ın İsrail'in Lübnan'a yönelik saldırılarına tepki olarak Hürmüz Boğazı'nı kapatma tehdidinde bulunmasının ardından gerçekleşiyor. Boğazın kapatılması tehdidi, bölgedeki gerilimi tırmandırırken, uluslararası deniz taşımacılığı için kritik öneme sahip bu su yolunun güvenliği konusunda endişeleri artırıyor. Görüşmelerin, bölgesel tansiyonu düşürme ve diplomatik çözüm arayışlarına katkı sağlaması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8190827/pexels-photo-8190827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T05:27:08.130Z",
-        "location": {
-            "lat": 46.2044,
-            "lng": 6.1432,
-            "name": "Cenevre, İsviçre"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782000664815ifkbd",
-        "title": "ABD, İran'ın Dünya Kupası seyahat kısıtlamalarını Belçika maçı için hafifletmeyi reddetti",
-        "summary": "Amerika Birleşik Devletleri, İran milli futbol takımının Dünya Kupası maçları için uygulanan seyahat kısıtlamalarını Belçika karşılaşması özelinde hafifletmeyi reddetti. ABD'li yetkili Andrew Giuliani, İranlı oyuncuların ABD'deki grup maçları için ülkede daha uzun süre kalmalarına izin verilmeyeceğini açıkladı. Bu karar, ABD'nin İran'a yönelik seyahat politikalarında spor etkinlikleri kapsamında dahi bir esneklik göstermeyeceğini ortaya koyuyor. Haber, iki ülke arasındaki mevcut gerilimli ilişkilerin spor alanına yansımasını gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8061994/pexels-photo-8061994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T00:11:04.815Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17820006850899x0hk",
-        "title": "İran Heyeti, ABD ile Barış Görüşmeleri İçin İsviçre'ye Ulaştı",
-        "summary": "İran'dan bir heyet, Amerika Birleşik Devletleri ile yapılması planlanan barış görüşmeleri için İsviçre'ye ulaştı. Görüşmelerin, iki ülke arasındaki mevcut gerilimi azaltma ve diplomatik bir çözüm bulma amacı taşıdığı belirtiliyor. Bu diplomatik temaslar, Orta Doğu'daki bölgesel istikrar ve güvenlik açısından büyük önem arz ediyor. Heyetin İsviçre'deki temasları sırasında, nükleer anlaşma ve yaptırımlar gibi kritik konuların ele alınması bekleniyor. Uluslararası toplum, bu görüşmelerden çıkacak sonuçları yakından takip ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T00:11:25.089Z",
-        "location": {
-            "lat": 46.2044,
-            "lng": 6.1432,
-            "name": "Cenevre, İsviçre"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17819954146143r4rt",
-        "title": "Trump'tan Hürmüz Boğazı Açıklaması: İran Ücret Almayacak, ABD Alabilir",
-        "summary": "Eski ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'ndan geçiş ücreti talep etmeyeceğini taahhüt ederken, ABD'nin bu yönde bir adım atabileceğini dile getirdi. ABD ile İran arasında imzalanan mutabakat zaptının, başlangıçtaki 60 günlük sürenin ardından boğazda gelecekteki geçiş ücretlerinin uygulanmasını engellemediği belirtildi. Bu durum, küresel petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı'nın statüsü ve gelecekteki kullanım koşulları hakkında tartışmaları beraberinde getirdi. Boğazın uluslararası denizcilik ve enerji güvenliği açısından kritik önemi göz önüne alındığında, bu tür açıklamaların bölgedeki gerilimi artırma potansiyeli bulunuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/28994394/pexels-photo-28994394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-20T22:43:34.614Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
