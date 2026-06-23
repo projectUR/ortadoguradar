@@ -1,5 +1,53 @@
 [
     {
+        "id": "1782238945654ozfy8",
+        "title": "İsrail Askerleri Güney Lübnan'da İki Kişiyi Öldürdü",
+        "summary": "İsrail ordusu, Lübnan'ın güneyinde iki kişiyi öldürdüğünü bildirdi. İsrail, öldürülen kişilerin Hizbullah militanları olduğunu iddia ederken, İran destekli grup bu iddiayı yalanladı ve İsrail'i ateşkesi ihlal etmekle suçladı. Bu olay, bölgedeki çatışmalarda yaşanan bir sakinliğin ardından gerilimin yeniden tırmandığına işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T18:22:25.654Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782239016130oqyjv",
+        "title": "Ateşkese Rağmen Gazze'de Yeni İsrail Saldırılarında 2 Filistinli Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail saldırıları devam ediyor. Son olarak, ilan edilen ateşkese rağmen düzenlenen saldırılarda 2 Filistinli hayatını kaybetti. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, ateşkesin yürürlüğe girmesinden bu yana İsrail saldırılarında en az 1.027 Filistinli yaşamını yitirdi. Aynı dönemde 3.280 kişi de yaralandı. Bu durum, bölgedeki gerilimin ve çatışmaların ateşkese rağmen sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T18:23:36.130Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/fresh-israeli-attacks-kill-2-palestinians-in-gaza-despite-ceasefire/3975934",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782239041729vbcym",
+        "title": "ABD'nin İsrail Ordusuna Lübnan'da Kısıtlama Getirmesiyle Netanyahu'nun Devre Dışı Kaldığı İddia Edildi",
+        "summary": "Bir rapora göre, Amerika Birleşik Devletleri'nin İsrail ordusunun Lübnan'daki faaliyetlerine kısıtlamalar getirmesiyle İsrail Başbakanı Binyamin Netanyahu'nun devre dışı bırakıldığı öne sürüldü. İsrailli askeri analist Amos Harel, Netanyahu ve Katz'ın İsraillilere tam resmi sunmadığını ve onları kasıtlı olarak yanılttığını belirtti. Bu durum, ABD'nin İsrail'in Lübnan sınırındaki askeri operasyonlarına müdahil olduğunu ve İsrail liderliğinin bu konudaki yetkisinin azaldığını gösteriyor. Haber, iki ülke arasındaki askeri koordinasyon ve strateji konusunda potansiyel bir gerilime işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T18:24:01.729Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-sidelined-as-us-restricts-israeli-army-in-lebanon-report/3975891",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782231014099jcnef",
         "title": "ABD'nin Büyük Medicare Dolandırıcılığı Zanlısı Türkiye'de Yakalandı",
         "summary": "Amerika Birleşik Devletleri'nde 3.7 milyar dolarlık Medicare dolandırıcılığıyla suçlanan bir iş insanı, bir yıldır firardayken Türkiye'de yakalandı. ABD makamları tarafından aranan şüphelinin Türkiye'deki gözaltı süreci, uluslararası adli işbirliğinin bir parçası olarak değerlendiriliyor. Bu gelişme, ABD'nin en büyük sağlık dolandırıcılıklarından birinin faillerinden birinin adalete teslim edilmesi yolunda önemli bir adım olarak görülüyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782065231356hsezk",
-        "title": "İran, ABD, İsrail: Yanlış Anlama Muhtırası mı?",
-        "summary": "Drop Site News kurucu ortağı Jeremy Scahill, İran ile ABD arasındaki ilişkilerde ilerleme kaydedilme olasılığının düşük olduğunu ifade etti. Bu değerlendirme, İran, ABD ve İsrail üçgenindeki mevcut durumu bir 'yanlış anlama muhtırası' olarak nitelendiren başlıkla birlikte ele alındı. Scahill'in analizine göre, taraflar arasındaki derin anlaşmazlıklar ve karşılıklı güvensizlik, diplomatik çabaların önünde önemli bir engel teşkil ediyor. Bölgesel istikrarsızlık ve farklı çıkarlar, yakın gelecekte somut bir çözüm bulunmasını zorlaştırıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T18:07:11.356Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782065268275mnez9",
-        "title": "ABD ve İran İsviçre'de İlk Barış Anlaşması Görüşmelerine Başladı",
-        "summary": "Amerika Birleşik Devletleri ve İran temsilcileri, İsviçre'de yüz yüze ilk barış anlaşması müzakerelerine başladı. Bu önemli diplomatik adım, Lübnan'da devam eden çatışmaların ve İran'ın Hürmüz Boğazı'nı kapattığı yönündeki iddialarının ardından geldi. Görüşmelerin, bölgedeki gerilimi azaltma ve uzun süredir devam eden anlaşmazlıklara çözüm bulma amacı taşıdığı belirtiliyor. Taraflar arasındaki bu temasın, Orta Doğu'daki istikrar ve güvenlik üzerindeki potansiyel etkileri yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7640793/pexels-photo-7640793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T18:07:48.275Z",
-        "location": {
-            "lat": 46.8182,
-            "lng": 8.2275,
-            "name": "İsviçre"
-        },
-        "source": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1782058562396s7rkf",
-        "title": "Suriye, aktivist Hassan Akkad'ı gözaltına alındıktan günler sonra serbest bıraktı",
-        "summary": "Suriye'de gözaltına alınan aktivist Hassan Akkad, birkaç gün sonra serbest bırakıldı. Akkad'ın serbest bırakılması, gazeteci Musa el-Ömer'in kendisine yönelik çevrimiçi eleştiriler nedeniyle yaptığı şikayeti geri çekmesinin ardından gerçekleştiği bildirildi. Olay, Suriye'deki aktivistlerin ve gazetecilerin ifade özgürlüğü üzerindeki baskıları bir kez daha gündeme getirdi. Akkad'ın serbest bırakılması, uluslararası insan hakları örgütleri tarafından yakından takip edilen bir gelişmeydi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8898639/pexels-photo-8898639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T16:16:02.396Z",
-        "location": {
-            "lat": 34.802075,
-            "lng": 38.996815,
-            "name": "Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
