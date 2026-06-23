@@ -1,5 +1,21 @@
 [
     {
+        "id": "17822469971943jluc",
+        "title": "BM, Gazze'deki Yerinden Edilmiş Kişilerin Barınma Alanlarındaki Vahim Koşullar Konusunda Uyarıyor",
+        "summary": "Birleşmiş Milletler (BM), Gazze Şeridi'ndeki yerinden edilmiş kişilerin barınma alanlarında yaşanan vahim insani koşullar konusunda ciddi bir uyarı yayınladı. Açıklamada, yaklaşık 1,7 milyon Filistinlinin temel gıda, su ve barınma gibi yaşamsal ihtiyaç maddeleri konusunda büyük kıtlıklarla karşı karşıya kaldığı belirtildi. BM sözcüsü, çatışma bölgelerinde çocuklar da dahil olmak üzere sivillerin her zaman korunması gerektiğinin altını çizdi. Bu durum, bölgedeki insani krizin derinleştiğini ve uluslararası toplumun acil müdahalesine ihtiyaç duyulduğunu gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19264358/pexels-photo-19264358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T20:36:37.194Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-warns-of-dire-conditions-in-gaza-displacement-sites-as-17m-palestinians-face-shortages/3975966",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782238945654ozfy8",
         "title": "İsrail Askerleri Güney Lübnan'da İki Kişiyi Öldürdü",
         "summary": "İsrail ordusu, Lübnan'ın güneyinde iki kişiyi öldürdüğünü bildirdi. İsrail, öldürülen kişilerin Hizbullah militanları olduğunu iddia ederken, İran destekli grup bu iddiayı yalanladı ve İsrail'i ateşkesi ihlal etmekle suçladı. Bu olay, bölgedeki çatışmalarda yaşanan bir sakinliğin ardından gerilimin yeniden tırmandığına işaret ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1782065204638gp38o",
-        "title": "Hamaney'in Mutabakat Zaptı Tutumu, İran-ABD Görüşmelerinde Tartışma Konusu Oldu",
-        "summary": "İran ve ABD temsilcileri İsviçre'de bir araya gelerek geçici bir anlaşma (mutabakat zaptı) üzerinde görüşmeler gerçekleştirdi. İran'ın dini lideri Ayetullah Ali Hamaney, bu geçici anlaşmaya ilişkin çekincelerini dile getirdi. Ancak, ülkedeki üst düzey karar alıcıların çoğunluğunun söz konusu anlaşmayı desteklediği belirtiliyor. Hamaney'in bu tutumu, İran içinde ve uluslararası alanda tartışmalara yol açtı ve diplomatik süreci etkileme potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T18:06:44.638Z",
-        "location": {
-            "lat": 46.2044,
-            "lng": 6.1432,
-            "name": "Cenevre, İsviçre"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
