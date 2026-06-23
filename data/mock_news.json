@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782231014099jcnef",
+        "title": "ABD'nin Büyük Medicare Dolandırıcılığı Zanlısı Türkiye'de Yakalandı",
+        "summary": "Amerika Birleşik Devletleri'nde 3.7 milyar dolarlık Medicare dolandırıcılığıyla suçlanan bir iş insanı, bir yıldır firardayken Türkiye'de yakalandı. ABD makamları tarafından aranan şüphelinin Türkiye'deki gözaltı süreci, uluslararası adli işbirliğinin bir parçası olarak değerlendiriliyor. Bu gelişme, ABD'nin en büyük sağlık dolandırıcılıklarından birinin faillerinden birinin adalete teslim edilmesi yolunda önemli bir adım olarak görülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7714862/pexels-photo-7714862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T16:10:14.099Z",
+        "location": {
+            "lat": 39,
+            "lng": 35,
+            "name": "Türkiye"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/6/23/the-3-7bn-man-inside-one-of-americas-biggest-medicare-frauds?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1782220945989x1jfl",
         "title": "Eski Başbakan, İsrail'in Starlink internet sistemlerini İran'a kaçırdığını söyledi",
         "summary": "İsrail'in eski Başbakanı Naftali Bennett, ülkesinin Starlink uydu internet sistemlerini İran'a kaçırdığını itiraf etti. Bennett'in bu açıklaması, İsrail ile İran arasındaki gerilimli ilişkiler bağlamında dikkat çekiyor. Starlink sistemleri, devlet kontrolündeki internet altyapısından bağımsız iletişim imkanı sunması nedeniyle stratejik bir öneme sahip. Bu tür bir operasyonun, İran içindeki muhalif gruplara destek sağlamayı veya iletişim kanallarını açık tutmayı amaçlamış olabileceği değerlendiriliyor. Eski başbakanın bu itirafı, bölgesel güvenlik ve siber altyapı konularında yeni tartışmaları beraberinde getirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1782058586535gn6a8",
-        "title": "Fransa ve Irak Dünya Kupası Maçında Karşı Karşıya Geliyor",
-        "summary": "Yıldız forvet Kylian Mbappe'nin formasını giydiği Fransa Milli Takımı, Dünya Kupası mücadelesinde Irak ile Boston'da karşı karşıya gelecek. Maç, Fransa'nın eleme aşamasına yükselme hedefleri doğrultusunda kritik bir öneme sahip. Irak Milli Takımı'nın bu uluslararası turnuvadaki varlığı, Orta Doğu ülkesi için önemli bir temsil ve ulusal gurur kaynağı olarak görülüyor. Karşılaşma öncesinde takımların kadroları ve maç tahminleri de spor kamuoyunun gündeminde yer alıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/12239377/pexels-photo-12239377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T16:16:26.535Z",
-        "location": {
-            "lat": 42.3601,
-            "lng": -71.0589,
-            "name": "Boston, ABD"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
