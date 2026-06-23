@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782253055270carxv",
+        "title": "BM: İsrail, Gazze'deki çocukları hedef alarak soykırım işledi",
+        "summary": "Birleşmiş Milletler (BM), İsrail'i Gazze'de Filistinli çocukları kasten hedef alarak soykırım yapmakla suçladı. Habere göre, İsrail'in bu eylemleri soykırım niteliği taşıyor. Bu iddia, Gazze'deki çatışmalarda çocukların maruz kaldığı durumları uluslararası gündeme taşıyor. BM'nin bu açıklaması, bölgedeki insani kriz ve uluslararası hukuk ihlalleri tartışmalarını derinleştirecek nitelikte.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934230/pexels-photo-35934230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T22:17:35.270Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
+        "id": "1782253191030yrobq",
+        "title": "Hizbullah Lideri: İsrail'in Lübnan Topraklarından Çekilmekten Başka Seçeneği Yok",
+        "summary": "Hizbullah lideri, İsrail'in Lübnan topraklarından çekilmekten başka seçeneği olmadığını dile getirdi. Lider Naem Qassem, mevcut ateşkesin ardından belirlenecek bir zaman çizelgesi dahilinde bu çekilmenin gerçekleşmesi gerektiğini vurguladı. Bu açıklama, İsrail ile Lübnan arasındaki uzun süredir devam eden sınır anlaşmazlıkları ve bölgesel güvenlik dinamikleri açısından önem arz etmektedir. Bölgedeki gerilimin azaltılması ve istikrarın sağlanması için bu tür taleplerin diplomatik süreçlerde ele alınması beklenmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9270465/pexels-photo-9270465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T22:19:51.030Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-has-no-option-but-to-withdraw-from-lebanese-territory-hezbollah-chief/3976020",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17822469971943jluc",
         "title": "BM, Gazze'deki Yerinden Edilmiş Kişilerin Barınma Alanlarındaki Vahim Koşullar Konusunda Uyarıyor",
         "summary": "Birleşmiş Milletler (BM), Gazze Şeridi'ndeki yerinden edilmiş kişilerin barınma alanlarında yaşanan vahim insani koşullar konusunda ciddi bir uyarı yayınladı. Açıklamada, yaklaşık 1,7 milyon Filistinlinin temel gıda, su ve barınma gibi yaşamsal ihtiyaç maddeleri konusunda büyük kıtlıklarla karşı karşıya kaldığı belirtildi. BM sözcüsü, çatışma bölgelerinde çocuklar da dahil olmak üzere sivillerin her zaman korunması gerektiğinin altını çizdi. Bu durum, bölgedeki insani krizin derinleştiğini ve uluslararası toplumun acil müdahalesine ihtiyaç duyulduğunu gözler önüne seriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/us-israel-iran-war/us-iran-talks-in-switzerland-not-over-say-pakistani-sources/3973949",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782065159159b5ddf",
-        "title": "Hürmüz Boğazı Krizi: İran'dan Lübnan Saldırılarına Yanıt",
-        "summary": "İran silahlı kuvvetleri, İsrail'in Lübnan'a yönelik saldırılarının ardından stratejik Hürmüz Boğazı'nı kapattıklarını açıkladı. Dünya petrol ticaretinin önemli bir geçiş noktası olan bu su yolunun kapatılması, küresel enerji piyasaları üzerinde ciddi etkiler yaratabilir. İran'ın bu hamlesi, Orta Doğu'daki mevcut gerilimi daha da artırma potansiyeli taşıyor. Uluslararası toplum, bölgedeki gelişmeleri ve boğazın durumunu yakından izliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38088488/pexels-photo-38088488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T18:05:59.159Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782065182589r9p53",
-        "title": "Etiyopya Başbakanı'nın Partisi Parlamento Seçimlerini Kazandı",
-        "summary": "Etiyopya Başbakanı Abiy Ahmed'in partisi, ülkedeki parlamento seçimlerini büyük bir farkla kazanarak iktidardaki konumunu korudu. Nobel Barış Ödülü sahibi Ahmed'in liderliğindeki parti, seçimlerde önemli bir başarı elde etti. Ancak, seçim sonuçlarının açıklanmasının ardından siyasi analistler, Etiyopya'da yeni çatışmaların patlak verebileceği yönünde endişelerini dile getirdi. Ülke, özellikle Tigray bölgesindeki çatışmalar ve iç istikrarsızlıklarla mücadele ederken, bu durumun bölgesel yansımaları olabileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8849327/pexels-photo-8849327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T18:06:22.589Z",
-        "location": {
-            "lat": 9.03,
-            "lng": 38.74,
-            "name": "Addis Ababa, Etiyopya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
