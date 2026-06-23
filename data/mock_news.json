@@ -1,5 +1,85 @@
 [
     {
+        "id": "1782220945989x1jfl",
+        "title": "Eski Başbakan, İsrail'in Starlink internet sistemlerini İran'a kaçırdığını söyledi",
+        "summary": "İsrail'in eski Başbakanı Naftali Bennett, ülkesinin Starlink uydu internet sistemlerini İran'a kaçırdığını itiraf etti. Bennett'in bu açıklaması, İsrail ile İran arasındaki gerilimli ilişkiler bağlamında dikkat çekiyor. Starlink sistemleri, devlet kontrolündeki internet altyapısından bağımsız iletişim imkanı sunması nedeniyle stratejik bir öneme sahip. Bu tür bir operasyonun, İran içindeki muhalif gruplara destek sağlamayı veya iletişim kanallarını açık tutmayı amaçlamış olabileceği değerlendiriliyor. Eski başbakanın bu itirafı, bölgesel güvenlik ve siber altyapı konularında yeni tartışmaları beraberinde getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7230191/pexels-photo-7230191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T13:22:25.989Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/23/former-pm-says-israel-smuggled-starlink-internet-systems-into-iran?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1782220970208dfpwj",
+        "title": "İsrail Ateşi Lübnan'da İki Kişiyi Öldürdü, Hizbullah Ateşkes İhlali Olduğunu Duyurdu",
+        "summary": "Lübnan'da İsrail güçleri tarafından gerçekleştirilen bir saldırıda iki kişinin hayatını kaybettiği bildirildi. Lübnanlı silahlı grup Hizbullah, bu olayı 'haince bir saldırı' olarak nitelendirdi. Grup, saldırının mevcut ateşkese yönelik 'açık bir ihlal' olduğunu belirtti. Olay, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor ve taraflar arasındaki hassas durumu gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699687/pexels-photo-5699687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T13:22:50.208Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1782221012913fmjju",
+        "title": "BM soruşturması: Gazze'de Filistinli çocuklar soykırım ve savaş suçlarının hedefi oldu",
+        "summary": "Birleşmiş Milletler (BM) soruşturma komisyonu, Gazze'de Filistinli çocukların kasıtlı olarak hedef alınmasının soykırım ile sonuçlandığını bildirdi. Komisyon, İsrail'in eylemlerinin savaş suçları teşkil ettiğini de belirtti. Bu bulgular, bölgedeki çatışmaların insani boyutunu ve uluslararası hukukun ihlallerini bir kez daha gündeme getirdi. Rapor, uluslararası toplumun dikkatini Gazze'deki çocukların durumuna çekmeyi amaçlıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934252/pexels-photo-35934252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T13:23:32.913Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1782221034756ug5px",
+        "title": "İran, Nükleer Tesisler Konusunda Yeni Taahhüt Vermediğini Duyurdu",
+        "summary": "İran Dışişleri Bakanlığı, İsviçre'de gerçekleştirilen görüşmelerin ardından nükleer denetimler konusunda \"yeni bir taahhütte bulunmadığını\" bildirdi. Bu açıklama, daha önce müfettişlerin nükleer tesislere geri davet edileceği yönündeki iddiaların ardından geldi. İran'ın nükleer programı, uluslararası toplum ve özellikle Orta Doğu ülkeleri için kritik bir güvenlik meselesi olmaya devam etmektedir. Ülkenin nükleer faaliyetleri, bölgesel ve küresel diplomasi gündeminin önemli maddelerinden birini oluşturmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34285428/pexels-photo-34285428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T13:23:54.756Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782221111852eeygo",
+        "title": "Hürmüz Boğazı'nda Ticari Gemi Trafiği Savaş Öncesi Seviyenin %20'sini Aştı",
+        "summary": "ABD ile İran arasında Hürmüz Boğazı'nın yeniden açılmasını içeren 14 maddelik mutabakatın ardından, boğazdaki ticari gemi trafiği savaş öncesi seviyenin yüzde 20'sinden fazlasına ulaştı. Son beş gün içinde bu stratejik su yolundan toplam 144 gemi geçiş yaptı. Bu gelişme, bölgedeki deniz ticaretinin ve enerji akışının normalleşme yolunda ilerlediğini gösteriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/32843666/pexels-photo-32843666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-23T13:25:11.852Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/commercial-ship-traffic-through-strait-of-hormuz-rebounds-to-over-20-of-pre-war-level/3975617",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782209463049k188v",
         "title": "İran, ABD ile İsviçre'deki teknik görüşmelerin başarıyla sonuçlandığını duyurdu",
         "summary": "İran, ABD ile İsviçre'de gerçekleştirilen teknik görüşmelerin başarıyla tamamlandığını bildirdi. İran'ın baş müzakerecisi Mohammad Ghalibaf, görüşmeler sonucunda ABD ile dondurulmuş 12 milyar dolarlık varlığın serbest bırakılması konusunda anlaşmaya varıldığını açıkladı. Bu gelişme, iki ülke arasındaki ilişkilerde önemli bir adım olarak değerlendiriliyor. Varlıkların serbest bırakılması, İran ekonomisi için kritik bir öneme sahip.",
@@ -716,86 +796,6 @@
             "name": "Boston, ABD"
         },
         "source": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782052131800vwefg",
-        "title": "Gazze, öldürülen gazeteci Ahmed Wishah'a veda etti",
-        "summary": "Gazze Şeridi'nde öldürülen gazeteci Ahmed Wishah için bir veda töreni düzenlendi. Törene Wishah'ın ailesi, meslektaşları ve çok sayıda bölge sakini katıldı. Cenaze namazının ardından Wishah'ın naaşı, gözyaşları içinde toprağa verildi. Bu olay, bölgedeki çatışmalar sırasında gazetecilerin karşılaştığı tehlikeleri ve basın özgürlüğü endişelerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9932963/pexels-photo-9932963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T14:28:51.800Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782052174060bdukj",
-        "title": "Fransız Mahkemesinden İşgal Altındaki Halkların Direniş Hakkına İlişkin Karar",
-        "summary": "Fransa'da bir mahkeme tarafından alınan son bir karar, işgal altındaki halkların direniş hakkına ilişkin uluslararası alanda kabul görmüş ilkeyi reddetme eğiliminde olduğu yorumlarına neden oldu. Bu yargı kararı, özellikle Filistin meselesi bağlamında, işgal altındaki bölgelerde yaşayan halkların hakları konusunda yeni tartışmaları beraberinde getirdi. Karar, uluslararası hukukun temel prensiplerinden biri olarak kabul edilen direniş hakkının yorumlanması ve uygulanması açısından önemli sonuçlar doğurabilir. Fransız yargısının bu tutumu, Filistin'e yönelik politik duruşu hakkında uluslararası kamuoyunda soruları gündeme taşıdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6339596/pexels-photo-6339596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T14:29:34.060Z",
-        "location": {
-            "lat": 48.86,
-            "lng": 2.35,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/6/21/is-the-french-judiciary-against-palestine?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782043182371ekb5y",
-        "title": "ABD ve İran Heyetleri İsviçre'de Müzakerelere Başladı",
-        "summary": "Amerika Birleşik Devletleri ve İran heyetleri, İsviçre'de bir araya gelerek diplomatik müzakerelere başladı. Görüşmelerin, iki ülke arasındaki mevcut gerilimleri azaltma ve çeşitli konularda ortak zemin bulma amacı taşıdığı belirtiliyor. Bu müzakerelerin, özellikle nükleer anlaşma ve bölgesel güvenlik meseleleri gibi kritik başlıkları ele alması bekleniyor. Uluslararası toplum, bu üst düzey diplomatik çabaların sonuçlarını yakından takip ediyor. İsviçre, tarafsız bir ülke olarak bu tür önemli görüşmelere ev sahipliği yapmaya devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7888760/pexels-photo-7888760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T11:59:42.371Z",
-        "location": {
-            "lat": 46.2044,
-            "lng": 6.1432,
-            "name": "Cenevre, İsviçre"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-delegations-arrive-as-talks-begin-in-switzerland?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17820432783752f9cj",
-        "title": "Katar, ABD-İran Müzakerelerinin İsviçre'de Başladığını Duyurdu",
-        "summary": "Katar Dışişleri Bakanlığı sözcüsü, ABD ile İran arasındaki müzakerelerin İsviçre'de başladığını açıkladı. Sözcü, nihai anlaşmanın tüm yönlerini kapsayan bir Mutabakat Zaptı hükümlerini müzakere etmek üzere uzman teknik ve uzman çalışma gruplarının oluşturulduğunu belirtti. Bu gelişme, iki ülke arasındaki uzun süreli gerilimi azaltma ve diplomatik bir çözüm bulma çabalarının önemli bir adımı olarak değerlendiriliyor. Müzakerelerin detayları hakkında henüz ek bilgi verilmedi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5778672/pexels-photo-5778672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T12:01:18.375Z",
-        "location": {
-            "lat": 46.2,
-            "lng": 6.1,
-            "name": "Cenevre, İsviçre"
-        },
-        "source": "https://www.aa.com.tr/en/europe/qatar-announces-start-of-us-iran-negotiations-in-switzerland/3973643",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1782043358351c9kbv",
-        "title": "İran, ABD ile Ön Anlaşma Kapsamında Katar'daki 6 Milyar Dolarlık Dondurulmuş Varlıklarının Serbest Bırakılacağını Duyurdu",
-        "summary": "İran, ABD ile yapılan ön anlaşma çerçevesinde Katar'da dondurulmuş olan 6 milyar dolarlık varlıklarının serbest bırakılacağını açıkladı. Bu gelişme, iki ülke arasındaki gerilimi azaltmaya yönelik diplomatik bir adım olarak değerlendiriliyor. İran Cumhurbaşkanı adayı Pezeshkian, ülkesinin uranyum zenginleştirme hakkından asla vazgeçmeyeceğini vurgularken, nükleer silah geliştirme niyetinde olmadığını belirtti. Bu açıklama, İran'ın nükleer programına ilişkin uluslararası endişelerin devam ettiği bir dönemde geldi ve bölgesel dinamikler açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-21T12:02:38.351Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-6b-frozen-assets-in-qatar-will-be-released-as-part-of-preliminary-deal-with-us/3973549",
         "trendScore": 85,
         "isBreaking": false
     }
