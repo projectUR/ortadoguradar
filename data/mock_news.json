@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782315817857os1s3",
+        "title": "BM Nükleer Şefi: Müfettişler İran Tesislerini Ziyaret Edecek",
+        "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, ajans müfettişlerinin İran'daki nükleer tesisleri ziyaret edeceğini bildirdi. Grossi, ziyaretlerin \"modaliteleri üzerinde çalışıldığını\" belirtti. Ancak, bir İranlı bakan, bu tür bir erişimin ancak ABD ile nihai bir anlaşmanın parçası olarak mümkün olacağını ifade etti. Bu durum, İran'ın nükleer programı üzerindeki uluslararası denetimler konusunda farklı yaklaşımları ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18334961/pexels-photo-18334961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T15:43:37.857Z",
+        "location": {
+            "lat": 32,
+            "lng": 54,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782298477722le4xl",
         "title": "BM, Hürmüz Boğazı'nda Mahsur Kalan Denizcileri Tahliye Edecek; ABD, İran'ı Boğaz Geçiş Ücretleri Konusunda Uyardı",
         "summary": "Birleşmiş Milletler'in Hürmüz Boğazı'nda mahsur kalan denizcileri tahliye edeceği bildirildi. ABD Dışişleri Bakanı Marco Rubio, İran'ı uyararak hiçbir ülkenin boğazdan geçen gemilerden ücret talep edemeyeceğini belirtti. Bu açıklama, Hürmüz Boğazı'nın uluslararası denizcilik için stratejik önemini ve bölgedeki gerilimi bir kez daha gündeme getirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1782117628134yphp9",
-        "title": "İsrail ve Lübnan, Washington görüşmelerinde Lübnan ordusuna devredilecek 'pilot bölgeleri' belirleyecek: Rapor",
-        "summary": "İsrail ve Lübnan arasında yeni bir görüşme turu Salı günü Washington DC'de düzenlenecek. Görüşmelerin ana gündem maddesi, Lübnan ordusuna devredilecek 'pilot bölgelerin' belirlenmesi olacak. Bu adımın, iki ülke arasındaki sınır güvenliği ve istikrarın sağlanmasına yönelik çabalara katkıda bulunması hedefleniyor. Tarafların, bu bölgelerin tespiti ve devri konusunda detayları ele alması bekleniyor. Toplantıların, bölgedeki gerilimi azaltma potansiyeli taşıdığı belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T08:40:28.134Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, DC, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-lebanon-to-identify-pilot-zones-for-transfer-to-lebanese-army-during-washington-talks-report/3974232",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
