@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782342568797se8jp",
+        "title": "İsrail'de Ultra-Ortodoks Yahudiler Askerlik Protestosu İçin Yolları Kapattı",
+        "summary": "İsrail'de binlerce ultra-Ortodoks Yahudi, zorunlu askerlik hizmetine ve askerlikten kaçanların tutuklanmasına karşı ülke genelinde protesto gösterileri düzenledi. İsrail medyasının aktardığına göre, 100'den fazla araç ve binlerce protestocu konvoylar halinde yolları kapatarak eylem yaptı. Ultra-Ortodoks Yahudiler, dini eğitimlerinin askerlik hizmetinden muafiyet sağlaması gerektiğini savunarak, bu uygulamanın dini özgürlüklerini kısıtladığını belirtiyor. Bu protestolar, İsrail toplumunda ultra-Ortodoks cemaatin askerlik muafiyeti konusunda uzun süredir devam eden gerilimi ve tartışmaları bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13846535/pexels-photo-13846535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T23:09:28.797Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/thousands-of-ultra-orthodox-jews-block-roads-in-israel-to-protest-arrest-of-draft-dodgers/3977158",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782337199696peeq7",
         "title": "İran: Yardımcı Antrenör Mehdi Taremi ABD'li Yetkililer Tarafından Havalimanında Alıkonuldu",
         "summary": "İranlı bir spor takımının yardımcı antrenörü Mehdi Taremi'nin ABD'li yetkililer tarafından havalimanında alıkonulduğu açıklandı. İran tarafından yapılan açıklamaya göre, takımın Seattle'a gerçekleştireceği seyahat, Taremi ve Alhoei'nin açıklanmayan bir sebeple alıkonulması nedeniyle 25 dakikalık bir gecikme yaşadı. Olayın nedeni hakkında herhangi bir detay paylaşılmazken, bu durum İranlı yetkililer tarafından dile getirildi. Yaşanan bu gecikme, ABD ve İran arasındaki hassas ilişkiler bağlamında değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Doha, Katar"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-denies-snubbing-us-vice-president-in-viral-video?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17821395479426vzce",
-        "title": "Lübnan Başbakanı'ndan Suriye'nin Lübnan'a Yönelik Niyetleri Hakkında Açıklama",
-        "summary": "Lübnan Başbakanı Nawaf Salam, Suriye Devlet Başkanı Ahmed el-Şaraa'nın Lübnan'a yönelik tutumunu takdirle karşıladığını bildirdi. Salam, Şaraa'nın pazar günü verdiği bir röportajda sergilediği \"kardeşçe ve samimi duruşun\", Suriye'nin Lübnan'a yönelik niyetleri hakkındaki \"yanıltıcı varsayımları\" giderdiğini ifade etti. Bu açıklama, iki komşu ülke arasındaki ilişkilerin geleceği hakkında önemli bir sinyal olarak değerlendiriliyor. Lübnan Başbakanı'nın bu sözleri, bölgesel diplomasi çevrelerinde dikkatle takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5489419/pexels-photo-5489419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T14:45:47.942Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sharaa-s-position-dispels-misleading-assumptions-on-syria-s-intentions-toward-lebanon-says-lebanese-premier/3974691",
         "trendScore": 85,
         "isBreaking": false
     }
