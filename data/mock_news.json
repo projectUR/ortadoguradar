@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782323912577vxpi3",
+        "title": "İran Cumhurbaşkanı'na Pakistan'da Fahri Doktora Verildi",
+        "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Pakistan'a gerçekleştirdiği ziyaret kapsamında önemli bir akademik onura layık görüldü. Pezeşkiyan'a, kalp cerrahisi alanında fahri tıp üyeliği takdim edildi. Bu fahri doktora, iki ülke arasındaki diplomatik ve kültürel ilişkilerin güçlenmesine katkı sağlayan bir gelişme olarak değerlendirildi. Ziyaretin, diplomatik temasların yanı sıra bilimsel ve akademik işbirliklerini de kapsadığı belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6532373/pexels-photo-6532373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T17:58:32.577Z",
+        "location": {
+            "lat": 33.7,
+            "lng": 73,
+            "name": "İslamabad, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/24/irans-president-awarded-honorary-doctorate-in-pakistan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782315817857os1s3",
         "title": "BM Nükleer Şefi: Müfettişler İran Tesislerini Ziyaret Edecek",
         "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, ajans müfettişlerinin İran'daki nükleer tesisleri ziyaret edeceğini bildirdi. Grossi, ziyaretlerin \"modaliteleri üzerinde çalışıldığını\" belirtti. Ancak, bir İranlı bakan, bu tür bir erişimin ancak ABD ile nihai bir anlaşmanın parçası olarak mümkün olacağını ifade etti. Bu durum, İran'ın nükleer programı üzerindeki uluslararası denetimler konusunda farklı yaklaşımları ortaya koyuyor.",
@@ -780,22 +796,6 @@
             "name": "Burgenstock, İsviçre"
         },
         "source": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17821176039986ubev",
-        "title": "Canlı: İngiltere Başbakanı Keir Starmer'ın istifasını açıklaması bekleniyor",
-        "summary": "İngiltere'de iktidardaki İşçi Partisi'nin lideri ve Başbakan Keir Starmer'ın istifa etmesi bekleniyor. Aylardır süregelen düşen popülaritesi nedeniyle artan baskıyla karşı karşıya kalan Starmer'ın bu kararı alacağı belirtiliyor. Bu gelişme, İngiliz siyasetinde önemli bir dönüm noktası olarak değerlendiriliyor. Birleşmiş Milletler Güvenlik Konseyi daimi üyesi olan İngiltere'nin liderlik değişimi, ülkenin dış politikaları ve Orta Doğu'ya yönelik yaklaşımları üzerinde potansiyel etkiler yaratabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T08:40:03.998Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/6/22/live-uk-pm-keir-starmer-expected-to-announce-his-resignation?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
     }
