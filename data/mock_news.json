@@ -1,5 +1,53 @@
 [
     {
+        "id": "17823311765323cyqk",
+        "title": "İsrail neden ABD silahlarına daha az bağımlı olmak istiyor?",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkesinin 'silahlanma bağımsızlığını' hedeflemesi çağrısında bulundu. Bu açıklama, İsrail'in ABD silahlarına olan bağımlılığını azaltma arayışında olduğunu gösteriyor. Netanyahu'nun bu stratejik hedefi, ülkenin savunma kapasitesini çeşitlendirme ve ulusal güvenlik stratejisini güçlendirme çabalarının bir parçası olarak değerlendiriliyor. Bu durum, hem ABD-İsrail ilişkileri hem de Orta Doğu'daki bölgesel güç dengeleri açısından önemli sonuçlar doğurabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8390980/pexels-photo-8390980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T19:59:36.532Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1782331266648g78gj",
+        "title": "BM, Güney Lübnan'da Güvenlik Risklerinin Önemli Bir Endişe Kaynağı Olmaya Devam Ettiğini Belirtti",
+        "summary": "Birleşmiş Milletler (BM), Güney Lübnan'da güvenlik risklerinin önemli bir endişe kaynağı olmayı sürdürdüğünü açıkladı. BM Genel Sekreter Yardımcısı Sözcüsü, bölgedeki sivillerin korunması çağrısında bulundu. Bu açıklama, Güney Lübnan'da devam eden gerilimler ve istikrarsızlık ortamında geldi. BM yetkilileri, bölgedeki tüm taraflara uluslararası insancıl hukuka uyma ve sivillerin güvenliğini sağlama yükümlülüklerini hatırlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30546987/pexels-photo-30546987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T20:01:06.648Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-says-security-risks-remain-major-concern-in-southern-lebanon/3977040",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17823312890754ixt6",
+        "title": "İsrail güçleri Gazze'de Kanadalı askerlerin kalıntılarını içeren mezarlığı yıktı",
+        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından bir mezarlığın yıkıldığı bildirildi. Yıkılan mezarlıkta, daha önce bölgede görev yapmış Kanadalı askerlerin kalıntılarının bulunduğu belirtiliyor. Olayın ardından, hayatını kaybeden Birleşmiş Milletler (BM) barış güçlerinin aileleri, mezarların korunması ve kalıntıların Kanada'ya nakledilmesi çağrısında bulundu. Bu durum, uluslararası toplumda endişelere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15750965/pexels-photo-15750965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T20:01:29.075Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-forces-destroy-cemetery-containing-remains-of-canadian-soldiers-in-gaza/3976976",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782323912577vxpi3",
         "title": "İran Cumhurbaşkanı'na Pakistan'da Fahri Doktora Verildi",
         "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Pakistan'a gerçekleştirdiği ziyaret kapsamında önemli bir akademik onura layık görüldü. Pezeşkiyan'a, kalp cerrahisi alanında fahri tıp üyeliği takdim edildi. Bu fahri doktora, iki ülke arasındaki diplomatik ve kültürel ilişkilerin güçlenmesine katkı sağlayan bir gelişme olarak değerlendirildi. Ziyaretin, diplomatik temasların yanı sıra bilimsel ve akademik işbirliklerini de kapsadığı belirtildi.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/palestinian-rights-group-calls-for-release-of-3-pregnant-women-held-by-israel/3974612",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1782139633498jquqa",
-        "title": "AB, İsrailli Bakan Ben-Gvir'in Lübnan'ı Yakma Çağrısını Kınadı",
-        "summary": "Avrupa Birliği (AB), İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in Lübnan'ı yakma yönündeki çağrılarını şiddetle kınadığını bildirdi. Avrupa Komisyonu sözcüsü, bu tür söylemlerin en güçlü ifadelerle reddedildiğini vurguladı. Sözcü, AB'nin bu tür bir söylemi kabul edilemez bulduğunu ve bölgedeki gerilimi tırmandırıcı nitelikte olduğunu belirtti. Bu kınama, Orta Doğu'daki hassas diplomatik dengeleri ve uluslararası toplumun bölgedeki barış ve istikrara verdiği önemi yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10473503/pexels-photo-10473503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T14:47:13.498Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/europe/eu-condemns-ben-gvirs-call-to-burn-lebanon/3974603",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782117522598tbdji",
-        "title": "İran-ABD Görüşmelerinde Lübnan Engeli Uyarısı",
-        "summary": "İran ile ABD arasında İsviçre'de gerçekleşen görüşmelerin temel sonuçları ve geleceği tartışılırken, uzmanlar önemli bir uyarıda bulundu. Uzmanlar, Lübnan üzerindeki çözülememiş sorunların, taraflar arasında kalıcı bir anlaşmaya varma çabalarını ciddi şekilde zorlaştırabileceğini belirtiyor. Bu durum, bölgesel istikrar ve diplomatik süreçler açısından kritik bir engel teşkil ediyor ve gelecekteki müzakerelerin seyrini etkileyebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T08:38:42.598Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/22/what-are-the-key-outcomes-of-the-iran-us-talks-in-switzerland-what-next?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782117578843ue2rv",
-        "title": "ABD ve İran, İsviçre'deki görüşmelerde 'yol haritası' üzerinde anlaştı",
-        "summary": "Amerika Birleşik Devletleri ve İranlı yetkililer, İsviçre'nin Burgenstock kasabasında gerçekleştirdikleri teknik görüşmelerde önemli ilerleme kaydetti. Taraflar, Hürmüz Boğazı ve Lübnan gibi kritik bölgesel konularda nihai bir anlaşmaya ulaşmak amacıyla bir 'yol haritası' üzerinde mutabık kaldı. Görüşmelerin, belirlenen bu yol haritası çerçevesinde devam edeceği bildirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9068394/pexels-photo-9068394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T08:39:38.843Z",
-        "location": {
-            "lat": 46.98,
-            "lng": 8.38,
-            "name": "Burgenstock, İsviçre"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
