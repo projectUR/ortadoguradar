@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782298477722le4xl",
+        "title": "BM, Hürmüz Boğazı'nda Mahsur Kalan Denizcileri Tahliye Edecek; ABD, İran'ı Boğaz Geçiş Ücretleri Konusunda Uyardı",
+        "summary": "Birleşmiş Milletler'in Hürmüz Boğazı'nda mahsur kalan denizcileri tahliye edeceği bildirildi. ABD Dışişleri Bakanı Marco Rubio, İran'ı uyararak hiçbir ülkenin boğazdan geçen gemilerden ücret talep edemeyeceğini belirtti. Bu açıklama, Hürmüz Boğazı'nın uluslararası denizcilik için stratejik önemini ve bölgedeki gerilimi bir kez daha gündeme getirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/13820316/pexels-photo-13820316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T10:54:37.722Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17822985167879i43t",
+        "title": "Lübnan Cumhurbaşkanı: İsrail Görüşmeleri ABD-İran Toplantılarından Ayrı",
+        "summary": "Lübnan Cumhurbaşkanı, İsrail ile yürütülen görüşmelerin ABD-İran İsviçre toplantılarından bağımsız olduğunu açıkladı. Bu açıklama, ABD arabuluculuğunda Lübnan-İsrail müzakerelerinin Washington'da başlamasından bir gün sonra geldi. Görüşmelerin, iki ülke arasındaki sınır anlaşmazlıkları ve diğer konuları ele alması bekleniyor. Lübnan ve İsrail arasındaki bu dolaylı müzakereler, bölgesel istikrar açısından önem taşıyor ve diplomatik çabaların bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-24T10:55:16.787Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-president-says-talks-with-israel-separate-from-us-iran-meetings-in-switzerland/3976457",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782287051271djd92",
         "title": "Gazze'deki Diyabet Hastaları Savaş Ortamında Hayatta Kalma Mücadelesi Veriyor",
         "summary": "Gazze Şeridi'nde diyabet hastaları, devam eden savaşın yol açtığı insülin ve tıbbi ekipman kıtlığı nedeniyle hayatta kalma mücadelesi veriyor. Bölgedeki sağlık kuruluşları, temel ilaç ve malzemelerin eksikliğinin hastalar için ölümcül riskler oluşturduğunu belirtiyor. Bu durum, diyabet hastalarında kritik sağlık komplikasyonlarına yol açarak yaşamlarını tehdit ediyor ve insani krizin boyutlarını gözler önüne seriyor. Uluslararası yardım kuruluşları, bölgeye acil tıbbi malzeme sevkiyatı yapılması çağrısında bulunuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-lebanon-to-identify-pilot-zones-for-transfer-to-lebanese-army-during-washington-talks-report/3974232",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782117648432smz7f",
-        "title": "İsrail ordusu işgal altındaki Batı Şeria'nın güneyinde 2 Filistinliyi öldürdü",
-        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'nın güneyinde iki Filistinliyi öldürdü. Filistin resmi haber ajansı Wafa'ya konuşan kaynaklar, İsrail güçlerinin iki Filistinliyi uzun süre kanlar içinde bıraktığını belirtti. Aynı kaynaklar, İsrail güçlerinin daha sonra cenazeleri alıkoyduğunu aktardı. Bu olay, bölgedeki gerilimin devam ettiğini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9818608/pexels-photo-9818608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T08:40:48.432Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 35.1,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-2-palestinians-in-southern-occupied-west-bank/3974222",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782117667700d9zig",
-        "title": "İran heyeti, ABD ile 18 saatlik görüşmelerin ardından Tahran'a döndü",
-        "summary": "İran heyeti, ABD ile 18 saat süren görüşmelerin ardından Tahran'a geri döndü. Devlet medyası tarafından aktarılan bilgilere göre, İran heyetine Meclis Başkanı Mohammad Bagher Qalibaf başkanlık etti. Arabulucular, görüşmelerin 'olumlu ve yapıcı bir atmosferde' gerçekleştiğini bildirdi. Bu gelişme, iki ülke arasındaki diplomatik temasların sürdüğüne işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T08:41:07.700Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/iranian-delegation-off-to-tehran-after-18-hours-of-talks-with-us-state-media/3974184",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
