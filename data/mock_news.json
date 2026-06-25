@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782415691592zqmbv",
+        "title": "Bedeviler, İsrail'in Necef Çölü'ndeki ev yıkım politikasını protesto etti",
+        "summary": "İsrail'in Necef Çölü'ndeki Bedevi toplulukları, hükümetin ev yıkım politikalarına karşı protesto gösterileri düzenledi. Göstericiler, İsrail makamlarının ruhsatsız olduğu gerekçesiyle Bedevilere ait evleri yıkmasını kınadı. Bu yıkımların, Bedevi vatandaşların yaşam alanlarını ve kültürel miraslarını tehdit ettiğini savunan protestocular, uluslararası toplumu duruma müdahale etmeye çağırdı. Bedevi liderler, bu politikaların ayrımcılık olduğunu ve topluluklarını yerinden etmeyi amaçladığını belirtti.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11816776/pexels-photo-11816776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T19:28:11.592Z",
+        "location": {
+            "lat": 31.25,
+            "lng": 34.75,
+            "name": "Negev Çölü, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1782415714086nthh4",
+        "title": "Uzman: İran İçin Hürmüz Boğazı'nın Kontrolü Savaş Ganimeti Niteliğinde",
+        "summary": "Uzman Andreas Krieg, İran'ın Hürmüz Boğazı'nda önemli coğrafi ve askeri bir etkiye sahip olduğunu ifade etti. Krieg'e göre, İran için bu stratejik su yolunun kontrolü, bir tür \"savaş ganimeti\" olarak değerlendirilmektedir. Bu açıklama, boğazın küresel enerji ticareti ve bölgesel güvenlik açısından taşıdığı kritik önemi bir kez daha gözler önüne sermektedir. İran'ın boğaz üzerindeki potansiyel etkisi, uluslararası arenada yakından takip edilen bir konu olmaya devam etmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35533703/pexels-photo-35533703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T19:28:34.086Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1782401030298emyce",
         "title": "İsrail'in Lübnan'da Düzenlediği Saldırıda Üç Kişi Hayatını Kaybetti",
         "summary": "Lübnan'ın güneyindeki Nabatiye kentinde İsrail tarafından bir araca düzenlenen saldırıda üç kişi hayatını kaybetti. Lübnan'ın devlete ait Ulusal Haber Ajansı (NNA) tarafından bildirilen olay, bölgedeki gerilimi artırdı. Saldırının detaylarına ilişkin henüz resmi bir açıklama yapılmazken, can kayıplarının kimlikleri hakkında bilgi verilmedi. Bu saldırı, İsrail ile Lübnan arasındaki sınır hattında zaman zaman yaşanan çatışmaların son örneği olarak kayıtlara geçti.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782209571081bzncl",
-        "title": "İsrail'in Gazze'ye Düzenlediği Saldırılarda El Cezire Kameramanı Dahil Altı Kişi Hayatını Kaybetti",
-        "summary": "İsrail ordusunun Gazze Şeridi'ne düzenlediği hava saldırılarında altı kişinin yaşamını yitirdiği bildirildi. Hayatını kaybedenler arasında El Cezire televizyonunun kameramanı Ahmed Wishah'ın da bulunduğu belirtildi. İsrail askeri yetkilileri, Wishah'ı \"Hamas keskin nişancısı\" olmakla suçlarken, bu iddialarını destekleyecek herhangi bir kanıt sunmadı. Bölgedeki kaynaklar, saldırıların devam ettiğini ve sivil kayıpların arttığını ifade ediyor. Olay, bölgedeki gerilimi daha da tırmandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934230/pexels-photo-35934230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-23T10:12:51.081Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17822096120332jld7",
-        "title": "İsrail ve Hizbullah, Ateşkes Anlaşmasına Rağmen Saldırılarını Sürdürüyor",
-        "summary": "İsrail ve Hizbullah arasındaki çatışmalar, ateşkes anlaşmasına rağmen devam ediyor. İsrail ordusu, Hizbullah'ın güney Lübnan'dan İsrail askerlerine ateş açtığını duyurdu. Bu saldırıya karşılık olarak İsrail'in düzenlediği hava saldırılarında en az 20 kişinin hayatını kaybettiği bildirildi. Bölgedeki gerilimin tırmanmaya devam ettiği ve tarafların karşılıklı saldırılarını sürdürdüğü gözlemleniyor. Uluslararası toplum, bölgedeki durumu endişeyle takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-23T10:13:32.033Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "Güney Lübnan / Kuzey İsrail Sınırı"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
