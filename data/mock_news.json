@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782401030298emyce",
+        "title": "İsrail'in Lübnan'da Düzenlediği Saldırıda Üç Kişi Hayatını Kaybetti",
+        "summary": "Lübnan'ın güneyindeki Nabatiye kentinde İsrail tarafından bir araca düzenlenen saldırıda üç kişi hayatını kaybetti. Lübnan'ın devlete ait Ulusal Haber Ajansı (NNA) tarafından bildirilen olay, bölgedeki gerilimi artırdı. Saldırının detaylarına ilişkin henüz resmi bir açıklama yapılmazken, can kayıplarının kimlikleri hakkında bilgi verilmedi. Bu saldırı, İsrail ile Lübnan arasındaki sınır hattında zaman zaman yaşanan çatışmaların son örneği olarak kayıtlara geçti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T15:23:50.298Z",
+        "location": {
+            "lat": 33.5667,
+            "lng": 35.4833,
+            "name": "Nabatiye, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782401089165h8jwu",
+        "title": "İran Devrim Muhafızları'ndan gemiler için yeni Hürmüz rotası uyarısı",
+        "summary": "İran Devrim Muhafızları (IRGC), Hürmüz Boğazı'nda gemiler için yeni bir rota oluşturulmasına karşı uyarıda bulundu. Uzmanlar, nakliye rotaları ve geçiş ücretleri üzerindeki anlaşmazlıkların, kalıcı bir anlaşmaya varma çabalarını karmaşık hale getirebileceğini belirtiyor. Bu durum, bölgedeki denizcilik güvenliği ve uluslararası ticaret açısından önemli sonuçlar doğurabilir. Hürmüz Boğazı, küresel petrol taşımacılığı için hayati bir geçiş noktası olarak biliniyor ve bölgedeki gerilimler dünya ekonomisini doğrudan etkileyebiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36152063/pexels-photo-36152063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T15:24:49.165Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782390258017t7ocz",
         "title": "İsrail güçleri evine düzenlenen baskında Filistinli bir adamı öldürdü",
         "summary": "İsrail güçleri, Batı Şeria'da bir Filistinliyi evine düzenlenen baskın sırasında öldürdü. Olay, bölgedeki gerilimin arttığı bir dönemde yaşandı ve tansiyonu daha da yükseltti. Filistinli kaynaklar, olayın detaylarına ilişkin henüz resmi bir açıklama yapmazken, İsrail ordusundan da konuya ilişkin ayrıntılı bir bilgi verilmedi. Bölgede benzer olaylar zaman zaman yaşanmakta olup, bu durum taraflar arasındaki çatışmaları derinleştirmektedir. Uluslararası toplum, bölgedeki şiddetin tırmanmasından endişe duyduğunu belirtiyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1782209635645n49df",
-        "title": "İsrail ve Hizbullah Ateşkes Konusunda Anlaştı, ABD Duyurdu; Lübnan'da Saldırılar Devam Ediyor",
-        "summary": "ABD'nin açıklamasına göre, İsrail ile Lübnan merkezli Hizbullah arasında bir ateşkes anlaşmasına varıldı. Bu gelişme, Lübnan'da daha fazla saldırı haberlerinin geldiği bir dönemde yaşandı. Anlaşmanın, ABD ile İran arasındaki savaşı sona erdirme anlaşmasını baltalayabilecek çatışmaların devam etmesi yönündeki endişelerin ardından geldiği belirtildi. Bu ateşkes, bölgesel gerilimleri azaltma ve daha geniş çaplı bir çatışmayı önleme çabalarının bir parçası olarak değerlendiriliyor. Orta Doğu'daki güvenlik dinamikleri açısından önemli bir adım olarak kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/26830939/pexels-photo-26830939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-23T10:13:55.645Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1782209715397eqjlq",
-        "title": "İran, füze programının ABD görüşmelerinin parçası olmadığını ve nükleer tesislerde IAEA denetimlerini reddettiğini açıkladı",
-        "summary": "İran, füze programının İsviçre'de ABD ile yapılan görüşmelerin gündeminde olmadığını açıkladı. Ülke ayrıca, bombalanan nükleer tesislerinde Uluslararası Atom Enerjisi Ajansı (IAEA) denetimlerine izin vermeyeceğini belirtti. Dışişleri Bakanlığı sözcüsü, bir İran heyeti ile IAEA başkanı arasında İsviçre'de bir toplantı yapıldığına dair çıkan haberleri yalanladı. Bu açıklamalar, İran'ın nükleer ve füze faaliyetleri ile uluslararası denetimler konusundaki gerilimin devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-23T10:15:15.397Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-missile-program-not-part-of-us-talks-in-switzerland-rules-out-iaea-inspections-of-bombed-nuclear-sites/3975288",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
