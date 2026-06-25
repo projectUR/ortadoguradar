@@ -1,5 +1,69 @@
 [
     {
+        "id": "1782381231668cc9jf",
+        "title": "Irak, üretim kotası artırılmazsa OPEC'ten ayrılabileceği uyarısında bulundu: Rapor",
+        "summary": "Irak, petrol üretim kotasının artırılmaması halinde Petrol İhraç Eden Ülkeler Örgütü (OPEC) üyeliğini gözden geçirebileceği uyarısında bulundu. Bloomberg'in Petrol Bakanlığı sözcüsüne dayandırdığı habere göre, Bağdat OPEC'e bağlılığını sürdürdüğünü ancak mevcut üretim kotasının ülkenin petrol üretim kapasitesiyle eşleşecek şekilde yükseltilmesini talep ediyor. Irak'ın bu talebi, küresel petrol piyasalarında önemli bir oyuncu olan ülkenin enerji politikalarındaki kararlılığını gösteriyor. Bu durum, OPEC içindeki üretim anlaşmaları ve üye ülkeler arasındaki denge açısından potansiyel gerilimlere işaret ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/6628696/pexels-photo-6628696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T09:53:51.668Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-warns-it-may-leave-opec-unless-output-quota-is-raised-report/3977599",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782381253391pfmd9",
+        "title": "Körfez Ülkeleri ile ABD Arasında Ortak Bakanlar Toplantısı Bahreyn'de Başladı",
+        "summary": "Bahreyn'in başkenti Manama'da Körfez İşbirliği Konseyi (KİK) dışişleri bakanları ile ABD Dışişleri Bakanı arasında ortak bir bakanlar toplantısı düzenlendi. Toplantıda, İran ile ilgili memorandum, Hürmüz Boğazı'ndan geçiş güvenliği ve bölgesel istikrar konuları masaya yatırıldı. Görüşmelerin, Körfez ülkeleri ve ABD'nin bölgedeki ortak güvenlik endişelerini değerlendirdiği belirtildi. Bu zirve, taraflar arasındaki stratejik işbirliğini güçlendirmeyi hedefliyor ve bölgedeki diplomatik çabaların önemli bir parçasını oluşturuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7640793/pexels-photo-7640793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T09:54:13.391Z",
+        "location": {
+            "lat": 26.23,
+            "lng": 50.59,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/joint-ministerial-meeting-between-gulf-nations-us-kicks-off-in-bahrain/3977563",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17823812921991ufzz",
+        "title": "İsrailli Asker Lübnan'ın Güneyinde Hayatını Kaybetti",
+        "summary": "Medya raporlarına göre, Lübnan'ın güneyinde Çarşamba günü meydana gelen bir askeri yakıt tankerinin devrilmesi sonucu bir İsrailli asker yaşamını yitirdi, bir diğeri ise yaralandı. Olayın detaylarına ilişkin soruşturma başlatıldığı belirtildi. Kazanın, bölgedeki askeri faaliyetler sırasında gerçekleştiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18687949/pexels-photo-18687949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T09:54:52.199Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-killed-another-injured-in-southern-lebanon/3977455",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782381318689xvg3q",
+        "title": "İsrail Ordusu Gazze'nin Kuzeyinde Bir Filistinliyi Öldürdü: Ateşkes İhlali",
+        "summary": "Gazze Şeridi'nin kuzeyinde, İsrail ordusunun açtığı ateş sonucu bir Filistinli hayatını kaybetti. Olay, Beyt Lahiya bölgesinde meydana geldi. Ekim 2025'te yürürlüğe giren ateşkese rağmen İsrail güçlerinin bölgedeki günlük saldırılarını sürdürdüğü belirtiliyor. Bu son ölüm, söz konusu ateşkesin ihlali olarak kayıtlara geçerken, bölgedeki gerilimin devam ettiğini gösteriyor. Uluslararası gözlemciler, taraflara ateşkese uyma ve sivillerin güvenliğini sağlama çağrısı yapıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-25T09:55:18.689Z",
+        "location": {
+            "lat": 31.55,
+            "lng": 34.5,
+            "name": "Beyt Lahiya, Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-fire-kills-palestinian-in-northern-gaza-in-latest-ceasefire-violation/3977431",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782342568797se8jp",
         "title": "İsrail'de Ultra-Ortodoks Yahudiler Askerlik Protestosu İçin Yolları Kapattı",
         "summary": "İsrail'de binlerce ultra-Ortodoks Yahudi, zorunlu askerlik hizmetine ve askerlikten kaçanların tutuklanmasına karşı ülke genelinde protesto gösterileri düzenledi. İsrail medyasının aktardığına göre, 100'den fazla araç ve binlerce protestocu konvoylar halinde yolları kapatarak eylem yaptı. Ultra-Ortodoks Yahudiler, dini eğitimlerinin askerlik hizmetinden muafiyet sağlaması gerektiğini savunarak, bu uygulamanın dini özgürlüklerini kısıtladığını belirtiyor. Bu protestolar, İsrail toplumunda ultra-Ortodoks cemaatin askerlik muafiyeti konusunda uzun süredir devam eden gerilimi ve tartışmaları bir kez daha gündeme getirdi.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1782154245265qwjx3",
-        "title": "İran'dan Lübnan'ın Egemenliği Vurgusu: ABD Görüşmeleri Sürüyor",
-        "summary": "İran'ın baş müzakerecisi Mohammad Bagher Qalibaf, ABD ile devam eden görüşmelerin ortasında Lübnan'ın egemenliğinin tamamen yeniden tesis edilmesi gerektiğini vurguladı. Qalibaf, diplomasiyi askeri kazanımları güvence altına almanın ve Lübnan'ın tam egemenliğini sağlamanın anahtarı olarak gördüğünü ifade etti. Bu açıklama, bölgedeki siyasi dinamiklerin ve uluslararası ilişkilerin karmaşıklığını bir kez daha gözler önüne serdi. İranlı yetkili, Lübnan'ın iç işlerine dış müdahalenin sona ermesi ve ülkenin kendi kaderini tayin etme hakkının korunmasının önemine dikkat çekti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T18:50:45.265Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-chief-negotiator-says-lebanon-s-sovereignty-must-be-fully-restored-amid-us-talks/3974915",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782154266894o5egq",
-        "title": "İsrail, Lübnan Ateşkesinin Ardından Kuzeydeki Sivil 'Alarm Ekiplerini' Dağıtıyor",
-        "summary": "İsrail ordusu, Lübnan ile sağlanan ateşkesin ardından ülkenin kuzeyindeki yerleşim birimlerinde görev yapan sivil hızlı müdahale ekiplerini dağıtma kararı aldı. Ordu tarafından yapılan açıklamada, güvenlik değerlendirmesindeki değişiklikler nedeniyle bu sivil birimlerin önümüzdeki hafta itibarıyla görevden alınacağı belirtildi. Söz konusu 'alarm ekipleri', özellikle sınır bölgelerindeki yerleşim yerlerinde acil durumlara karşı ilk müdahaleyi sağlamak üzere oluşturulmuştu. Bu adım, bölgedeki güvenlik durumunun iyileştiği yönündeki bir işaret olarak yorumlanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7985232/pexels-photo-7985232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T18:51:06.894Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kuzey İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-to-disband-civilian-alert-squads-in-north-after-lebanon-ceasefire/3974909",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782139430750dgcs4",
-        "title": "Birleşik Krallık Başbakanı Keir Starmer İstifa Etti: On Yılda Yedinci Başbakan Dönemi Başlıyor",
-        "summary": "Birleşik Krallık Başbakanı Keir Starmer'ın görevinden istifa etmesiyle ülke siyasetinde önemli bir gelişme yaşandı. Bu istifa, Birleşik Krallık'ın son on yılda yedinci başbakanını atayacağı anlamına geliyor ve ülkedeki siyasi istikrarsızlığa dikkat çekiyor. Starmer'ın neden istifa ettiği ve yerine kimin geçeceği soruları gündemdeki yerini koruyor. Yeni başbakanın belirlenmesi süreci yakından takip edilirken, bu durumun Birleşik Krallık'ın iç ve dış politikaları üzerindeki potansiyel etkileri merak ediliyor. Özellikle Orta Doğu gibi hassas bölgelerle ilişkilerde yeni liderin nasıl bir yol izleyeceği uluslararası kamuoyunda ilgiyle bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4427544/pexels-photo-4427544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T14:43:50.750Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782139452778iim69",
-        "title": "Katar Başbakanı, ABD Başkan Yardımcısı'nı Görmezden Geldiği İddialarını Yalanladı",
-        "summary": "Katar Başbakanı, ABD Başkan Yardımcısı'nı görmezden geldiği yönündeki iddiaları yalanladı. Başbakan, Al Jazeera televizyonuna yaptığı açıklamada, sosyal medyada yayılan ve bu yönde yorumlanan haberlerin asılsız olduğunu belirtti. Söz konusu iddiaların, diplomatik çevrelerde yanlış anlaşılmalara yol açtığı ve iki ülke ilişkilerini etkileyebileceği endişeleri dile getirilmişti. Katar Başbakanı, ülkesinin ABD ile olan güçlü ilişkilerine vurgu yaparak, işbirliğinin devam ettiğini ifade etti. Bu açıklama, viral olan bir videonun ardından ortaya çıkan tartışmaları sonlandırmayı hedefliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433850/pexels-photo-7433850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-22T14:44:12.778Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-denies-snubbing-us-vice-president-in-viral-video?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
