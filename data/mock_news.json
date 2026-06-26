@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782449465678r81xy",
+        "title": "Mısır Teknik Direktörü Kritik Dünya Kupası Maçı Öncesi İran Takımına Destek Sundu",
+        "summary": "Mısır teknik direktörü Hossam Hassan, kritik bir Dünya Kupası maçı öncesinde İran takımına destek verdiğini açıkladı. Hassan, ABD'nin İran'a yönelik devam eden kısıtlamaları bağlamında, FIFA'nın \"saygı ve fair play\" ilkelerine vurgu yaptı. Mısır ve İran takımları, bu önemli karşılaşmada ABD'nin Seattle şehrinde mücadele edecek. Bu açıklama, sporun birleştirici gücünü ve uluslararası dayanışmayı ön plana çıkaran bir jest olarak değerlendirildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32285166/pexels-photo-32285166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-26T04:51:05.678Z",
+        "location": {
+            "lat": 47.6062,
+            "lng": -122.3321,
+            "name": "Seattle, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782432837090ba4sq",
         "title": "İsrail, Lübnan'a Saldırırken Netanyahu Askerlerin Kalacağını Duyurdu",
         "summary": "İsrail lideri, ABD-İran anlaşmasına rağmen, İsrail ordusunun güney Lübnan'daki işgal altındaki bölgelerde \"gerektiği sürece\" kalacağını açıkladı. Bu açıklama, İsrail'in Lübnan'a yönelik saldırılarının devam ettiği bir dönemde yapıldı. Bölgedeki askeri gerilim, İsrail'in bu kararıyla birlikte daha da tırmanma potansiyeli taşıyor. ABD ve İran arasındaki diplomatik çabalara rağmen İsrail'in bu tutumu, Orta Doğu'daki bölgesel güvenlik dengelerini etkileyebilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1782221034756ug5px",
-        "title": "İran, Nükleer Tesisler Konusunda Yeni Taahhüt Vermediğini Duyurdu",
-        "summary": "İran Dışişleri Bakanlığı, İsviçre'de gerçekleştirilen görüşmelerin ardından nükleer denetimler konusunda \"yeni bir taahhütte bulunmadığını\" bildirdi. Bu açıklama, daha önce müfettişlerin nükleer tesislere geri davet edileceği yönündeki iddiaların ardından geldi. İran'ın nükleer programı, uluslararası toplum ve özellikle Orta Doğu ülkeleri için kritik bir güvenlik meselesi olmaya devam etmektedir. Ülkenin nükleer faaliyetleri, bölgesel ve küresel diplomasi gündeminin önemli maddelerinden birini oluşturmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34285428/pexels-photo-34285428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-23T13:23:54.756Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
