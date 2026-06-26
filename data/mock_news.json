@@ -1,5 +1,53 @@
 [
     {
+        "id": "1782484286778c8afm",
+        "title": "İran, Körfez İşbirliği Konseyi ve ABD'nin \"Müdahaleci\" Açıklamasını Kınadı",
+        "summary": "Tahran, ABD ve Körfez İşbirliği Konseyi'nin (KİK) İran'ın füze programı, Hürmüz Boğazı'ndaki faaliyetleri ve bölgesel silahlı gruplara verdiği destek konularındaki baskılarını reddettiğini bildirdi. İran Dışişleri Bakanlığı, söz konusu açıklamayı \"müdahaleci\" olarak nitelendirerek kınadı. Bu durum, ABD ve KİK ülkelerinin İran'ın bölgesel politikalarına yönelik endişelerini sürdürdüğünü ve Tahran'ın bu endişeleri kabul etmediğini gösteriyor. İran yönetimi, ulusal güvenliği ve bölgesel çıkarları doğrultusunda hareket ettiğini vurgulayarak dış müdahaleyi kabul etmeyeceğini belirtti. Bu açıklama, bölgedeki diplomatik gerilimin devam ettiğini ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-26T14:31:26.778Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1782484329973ean7w",
+        "title": "Irak'ın Yeni Başbakanı Yolsuzlukla Mücadele Kampanyası Başlattı, Ancak Yeterli mi?",
+        "summary": "Irak'ın yeni Başbakanı, ülkedeki yaygın yolsuzlukla mücadele etmek amacıyla kapsamlı bir kampanya başlattı. Başbakan Al-Zaidi liderliğindeki bu kampanya kapsamında, 86 milyon dolar nakit para, çeşitli mülkler, araçlar ve altın gibi önemli varlıklara el konuldu. Kampanya, yolsuzlukla mücadelede somut adımlar atıldığını gösterse de, analistler bu çabaların yeterli olmadığını ve daha fazlasının yapılması gerektiğini vurguluyor. Bu adımların ülkedeki yolsuzluk sorununu kökten çözmek için daha geniş çaplı reformlarla desteklenmesi gerektiği belirtiliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5909799/pexels-photo-5909799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-26T14:32:09.973Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/26/iraqs-new-pm-launches-anticorruption-campaign-but-is-it-enough?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17824843702942xjsf",
+        "title": "Yardım kuruluşları, Sudan'ın el-Ubeyd kentinde 'vahşeti' önlemek için acil eylem çağrısı yapıyor",
+        "summary": "38 sivil toplum kuruluşu, Sudan'ın el-Ubeyd kentinin Hızlı Destek Kuvvetleri (RSF) paramiliter güçleri ve müttefikleri tarafından \"yaklaşan bir kara saldırısı\" riski altında olduğunu bildirdi. Kuruluşlar, bu saldırının \"vahşet\" boyutuna ulaşabilecek olaylara yol açabileceği uyarısında bulunarak, uluslararası toplumu acil önlem almaya çağırdı. Yapılan açıklamada, kentteki insani durumun hızla kötüleştiği ve sivillerin büyük bir tehlikeyle karşı karşıya olduğu vurgulandı. Yardım grupları, olası bir katliamı önlemek ve insani yardımların güvenli bir şekilde ulaştırılmasını sağlamak için derhal harekete geçilmesi gerektiğini belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33749782/pexels-photo-33749782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-26T14:32:50.294Z",
+        "location": {
+            "lat": 13.18,
+            "lng": 30.22,
+            "name": "el-Ubeyd, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17824743752430a61a",
         "title": "2026 Dünya Kupası'nda Mısır ve İran Karşılaşması Beklentisi",
         "summary": "2026 FIFA Dünya Kupası'nda Mısır ve İran milli futbol takımlarının eleme turlarına kalma mücadelesi verdiği belirtildi. Haberde, Mısır'ın yıldız oyuncusu Mohamed Salah ve İran'ın önemli ismi Mehdi Taremi'nin takımlarının G Grubu'ndaki performanslarına odaklanılıyor. İki Orta Doğu ülkesinin temsilcileri, turnuvada bir üst tura çıkmak için mücadelelerini sürdürüyor. Olası bir Mısır-İran karşılaşması senaryosu, takımların kadroları ve maçın nasıl izlenebileceği gibi detaylar da haberde yer alıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/qatar-says-proposed-300b-iran-reconstruction-fund-remains-aspirational/3976221",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782287165294nvamx",
-        "title": "BM Komisyonu: İsrail Filistinli Çocukları Hedef Alarak Soykırıma Devam Ediyor",
-        "summary": "Birleşmiş Milletler (BM) komisyonu, İsrail'in Filistinli çocukları hedef alarak soykırım eylemlerini sürdürdüğünü iddia etti. Komisyon tarafından yapılan açıklamada, bölgedeki saldırılar, açlık ve sağlık ile eğitim sistemlerinin tahrip edilmesinin Filistinli çocuk neslinde geri dönülemez zararlara yol açtığı belirtildi. Bu durumun, uluslararası hukukun ciddi ihlallerini teşkil ettiği ve insani krizin boyutlarını artırdığı ifade edildi. Açıklamada, uluslararası toplumun bu duruma karşı acil önlem alması gerektiği vurgulandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32304414/pexels-photo-32304414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-24T07:46:05.294Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-commission-says-israel-continues-genocide-through-targeting-of-palestinian-children/3975496",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782287185586u1vwf",
-        "title": "İsrail güçleri, güney Suriye'deki Kuneytra'ya sızma sırasında bir kişiyi gözaltına aldı",
-        "summary": "İsrail güçleri, Suriye'nin güneyindeki Kuneytra bölgesine düzenlediği bir sızma operasyonu sırasında bir kişiyi gözaltına aldı. Yerel medya kaynaklarına göre, gözaltı işlemi Al-Muallaqa köyü ile Ghadir al-Bustan kasabasını birbirine bağlayan yol üzerinde gerçekleşti. Bu olay, İsrail'in Suriye topraklarındaki güvenlik operasyonlarının devam ettiğini gösteriyor. Bölgedeki gerilimin yüksek olduğu bu tür olaylar, zaman zaman yaşanmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7714789/pexels-photo-7714789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-24T07:46:25.586Z",
-        "location": {
-            "lat": 33.1167,
-            "lng": 35.7833,
-            "name": "Kuneytra, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-arrest-man-during-quneitra-incursion-in-southern-syria-/3976129",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782287210583g2cc1",
-        "title": "Umman, Hürmüz Boğazı'nda Geçici Deniz Koridoru Açtı",
-        "summary": "Umman, Hürmüz Boğazı üzerinden tüm gemilerin kullanımına açık geçici bir deniz koridoru oluşturduğunu duyurdu. Umman devlet medyasına göre, bu koridoru kullanmak isteyen gemilerin Uluslararası Denizcilik Örgütü (IMO) ile koordinasyon sağlaması gerekmektedir. Bu adımın, bölgedeki deniz trafiğinin düzenlenmesi ve stratejik geçişin güvenliğinin artırılması amacıyla atıldığı belirtildi. Hürmüz Boğazı, küresel enerji ticareti için hayati öneme sahip bir geçiş noktası olarak kabul edilmektedir.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/30124729/pexels-photo-30124729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-24T07:46:50.583Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-opens-temporary-maritime-corridor-through-strait-of-hormuz/3976121",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
