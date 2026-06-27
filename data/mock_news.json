@@ -1,5 +1,37 @@
 [
     {
+        "id": "17825349332145vyoi",
+        "title": "ABD'nin İran'a Yönelik Saldırıları Kırılgan Ateşkesi Test Ediyor",
+        "summary": "Amerika Birleşik Devletleri, iki tarafın 17 Haziran'da bir Mutabakat Zaptı'na varmasından bu yana ilk kez İran'a yönelik saldırılar gerçekleştirdi. Bu saldırılar, bölgedeki kırılgan ateşkesin dayanıklılığını test eden bir gelişme olarak değerlendiriliyor. Olay, ABD ile İran arasındaki gerilimin yeniden tırmanma potansiyeli taşıdığını gösteriyor. Bölgesel istikrar açısından kritik öneme sahip olan bu durum, uluslararası kamuoyunun dikkatini çekiyor. Taraflar arasındaki mevcut anlaşmanın geleceği ve bölgedeki güvenlik dinamikleri üzerindeki etkileri yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T04:35:33.214Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1782535032441tsg5d",
+        "title": "Trump, Hürmüz Boğazı Saldırısı Sonrası İran'ı Ateşkes İhlaliyle Suçladı",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda meydana gelen bir saldırının ardından İran'ı ateşkesi ihlal etmekle suçladı. Perşembe günü Singapur bandıralı bir geminin söz konusu stratejik su yolunu geçerken vurulduğu bildirildi. Bu saldırı üzerine bölgede devam eden büyük çaplı bir tahliye operasyonunun durdurulması gerekti. Olay, uluslararası denizcilik güvenliği endişelerini artırırken, Hürmüz Boğazı'ndaki gerilimi yeniden tırmandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17720284/pexels-photo-17720284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T04:37:12.441Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782513975381idtm5",
         "title": "Senegal, 10 Kişilik Irak'ı 5-0 Mağlup Ederek Dünya Kupası Eleme Umutlarını Sürdürdü",
         "summary": "Senegal, Dünya Kupası'nda Irak'ı 5-0 gibi farklı bir skorla mağlup etti. Maçta Irak'ın 10 kişi kalması dikkat çekti. Bu galibiyetle Senegal, turnuvada eleme turlarına kalma umutlarını canlı tutmayı başardı. Takım, grup aşamasında üçüncü sıradaki en iyi takımlar arasında yer alarak bir üst tura çıkma şansını sürdürüyor. Senegal'in +2'lik gol averajı, üçüncü sıradaki takımlar arasında beşinci en iyi derece olarak kaydedildi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782331266648g78gj",
-        "title": "BM, Güney Lübnan'da Güvenlik Risklerinin Önemli Bir Endişe Kaynağı Olmaya Devam Ettiğini Belirtti",
-        "summary": "Birleşmiş Milletler (BM), Güney Lübnan'da güvenlik risklerinin önemli bir endişe kaynağı olmayı sürdürdüğünü açıkladı. BM Genel Sekreter Yardımcısı Sözcüsü, bölgedeki sivillerin korunması çağrısında bulundu. Bu açıklama, Güney Lübnan'da devam eden gerilimler ve istikrarsızlık ortamında geldi. BM yetkilileri, bölgedeki tüm taraflara uluslararası insancıl hukuka uyma ve sivillerin güvenliğini sağlama yükümlülüklerini hatırlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30546987/pexels-photo-30546987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-24T20:01:06.648Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.5,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-says-security-risks-remain-major-concern-in-southern-lebanon/3977040",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17823312890754ixt6",
-        "title": "İsrail güçleri Gazze'de Kanadalı askerlerin kalıntılarını içeren mezarlığı yıktı",
-        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından bir mezarlığın yıkıldığı bildirildi. Yıkılan mezarlıkta, daha önce bölgede görev yapmış Kanadalı askerlerin kalıntılarının bulunduğu belirtiliyor. Olayın ardından, hayatını kaybeden Birleşmiş Milletler (BM) barış güçlerinin aileleri, mezarların korunması ve kalıntıların Kanada'ya nakledilmesi çağrısında bulundu. Bu durum, uluslararası toplumda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15750965/pexels-photo-15750965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-24T20:01:29.075Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-forces-destroy-cemetery-containing-remains-of-canadian-soldiers-in-gaza/3976976",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
