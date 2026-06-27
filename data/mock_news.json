@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782561376380lrw7s",
+        "title": "Gazze'de Okulsuzluk ve Çadır Hayatına Rağmen Sınav Mücadelesi",
+        "summary": "Gazze Şeridi'nde, devam eden zorlu koşullara rağmen lise öğrencileri sınavlara girme mücadelesi veriyor. 18 yaşındaki Dana Shabat, bu öğrencilerden biri olarak her gün bir saat yürüyerek bir kafeye ulaşmak zorunda kalıyor. Shabat, çadırda yaşamasına ve okul imkanlarının kısıtlı olmasına rağmen lise sınavlarını tamamlamaya çalışıyor. Bu durum, bölgedeki öğrencilerin eğitimlerine devam etmek için karşılaştığı büyük engelleri ve insani krizi gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T11:56:16.380Z",
+        "location": {
+            "lat": 31.4167,
+            "lng": 34.3333,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17825614326700x53z",
+        "title": "Gazze'deki çadır kampa İsrail saldırısı: Bir Filistinli kadın hayatını kaybetti, 7 kişi yaralandı",
+        "summary": "Gazze Şeridi'nde, Han Yunus'un batısındaki El-Mevasi bölgesinde bulunan yerinden edilmiş kişilerin kaldığı çadır kampa İsrail insansız hava aracıyla saldırı düzenlendi. Saldırıda bir Filistinli kadın hayatını kaybederken, yedi kişi de yaralandı. Olayın, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleştiği belirtildi. İsrail güçlerinin hedef aldığı iki çadırın, yerinden edilmiş siviller tarafından kullanıldığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934174/pexels-photo-35934174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T11:57:12.670Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "El-Mevasi, Han Yunus, Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-woman-killed-7-others-injured-in-israeli-strike-on-gaza-displacement-tents/3979808",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782555124102paol1",
         "title": "Mısır-İran Dünya Kupası Maçı Sonrası Sevinç, Hayal Kırıklığı ve Protestolar",
         "summary": "Mısır ve İran arasında oynanan Dünya Kupası maçı sonrası her iki ülkede de farklı tepkiler gözlemlendi. Mısırlılar, takımlarının tarihi bir başarıyla turnuvaya katılmaya hak kazanmasını coşkuyla kutladı. İran'da ise Milli Takım'ın (Team Melli) bir sonraki tura kalma şansının devam etmesine rağmen, maçın ardından hayal kırıklığı ve protestolar yaşandığı belirtildi. İranlı taraftarlar, takımlarına desteklerini sürdürürken, maçın sonucu ülkedeki atmosferi farklı yönlerde etkiledi.",
@@ -764,38 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-its-forces-killed-6-people-in-southern-lebanon-amid-ceasefire-violations/3978325",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782415691592zqmbv",
-        "title": "Bedeviler, İsrail'in Necef Çölü'ndeki ev yıkım politikasını protesto etti",
-        "summary": "İsrail'in Necef Çölü'ndeki Bedevi toplulukları, hükümetin ev yıkım politikalarına karşı protesto gösterileri düzenledi. Göstericiler, İsrail makamlarının ruhsatsız olduğu gerekçesiyle Bedevilere ait evleri yıkmasını kınadı. Bu yıkımların, Bedevi vatandaşların yaşam alanlarını ve kültürel miraslarını tehdit ettiğini savunan protestocular, uluslararası toplumu duruma müdahale etmeye çağırdı. Bedevi liderler, bu politikaların ayrımcılık olduğunu ve topluluklarını yerinden etmeyi amaçladığını belirtti.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11816776/pexels-photo-11816776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-25T19:28:11.592Z",
-        "location": {
-            "lat": 31.25,
-            "lng": 34.75,
-            "name": "Negev Çölü, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782415714086nthh4",
-        "title": "Uzman: İran İçin Hürmüz Boğazı'nın Kontrolü Savaş Ganimeti Niteliğinde",
-        "summary": "Uzman Andreas Krieg, İran'ın Hürmüz Boğazı'nda önemli coğrafi ve askeri bir etkiye sahip olduğunu ifade etti. Krieg'e göre, İran için bu stratejik su yolunun kontrolü, bir tür \"savaş ganimeti\" olarak değerlendirilmektedir. Bu açıklama, boğazın küresel enerji ticareti ve bölgesel güvenlik açısından taşıdığı kritik önemi bir kez daha gözler önüne sermektedir. İran'ın boğaz üzerindeki potansiyel etkisi, uluslararası arenada yakından takip edilen bir konu olmaya devam etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35533703/pexels-photo-35533703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-25T19:28:34.086Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
