@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782568279580ec84a",
+        "title": "Ukrayna ve Rusya Gece Boyunca Karşılıklı Saldırılarda Bulundu: Üç Kişi Hayatını Kaybetti",
+        "summary": "Ukrayna ve Rusya arasındaki çatışmalar devam ederken, gece boyunca karşılıklı saldırılar düzenlendiği bildirildi. Moskova'dan yapılan açıklamalara göre, Rus güçlerinin Ukrayna'ya yönelik saldırılarında iki kişinin yaşamını yitirdiği belirtildi. Kiev ise Rusya topraklarına düzenlediği saldırılarda bir kişinin hayatını kaybettiğini duyurdu. Her iki taraf da saldırıların detaylarına ilişkin bilgi vermezken, bölgedeki gerilimin sürdüğü kaydedildi. Bu tür çatışmaların küresel enerji ve gıda piyasaları üzerindeki dolaylı etkileri nedeniyle Orta Doğu bölgesi için de önem arz etmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T13:51:19.580Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Ukrayna, Rusya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782568349300an6ib",
+        "title": "AB Komisyonu Başkanı, İsrail-Lübnan Anlaşmasını 'Gerilimi Azaltmada Kritik Bir Adım' Olarak Değerlendirdi",
+        "summary": "Avrupa Birliği Komisyonu Başkanı Ursula von der Leyen, İsrail ile Lübnan arasında varılan anlaşmayı memnuniyetle karşıladığını bildirdi. Von der Leyen, bu anlaşmanın bölgedeki gerilimi azaltma yönünde atılmış kritik bir adım olduğunu belirtti. Açıklamasında, Lübnan'da istikrarsızlığın sürmesi durumunda Orta Doğu'da barışın sağlanamayacağını vurguladı. Bu anlaşmanın, bölgedeki çatışma riskini düşürerek daha geniş çaplı bir istikrara katkı sunması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T13:52:29.300Z",
+        "location": {
+            "lat": 33.8938,
+            "lng": 35.5018,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/europe/eu-commission-chief-welcomes-israel-lebanon-deal-as-critical-step-away-from-escalation/3979875",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782561376380lrw7s",
         "title": "Gazze'de Okulsuzluk ve Çadır Hayatına Rağmen Sınav Mücadelesi",
         "summary": "Gazze Şeridi'nde, devam eden zorlu koşullara rağmen lise öğrencileri sınavlara girme mücadelesi veriyor. 18 yaşındaki Dana Shabat, bu öğrencilerden biri olarak her gün bir saat yürüyerek bir kafeye ulaşmak zorunda kalıyor. Shabat, çadırda yaşamasına ve okul imkanlarının kısıtlı olmasına rağmen lise sınavlarını tamamlamaya çalışıyor. Bu durum, bölgedeki öğrencilerin eğitimlerine devam etmek için karşılaştığı büyük engelleri ve insani krizi gözler önüne seriyor.",
@@ -764,38 +796,6 @@
             "name": "Venezuela"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782422080382pot5r",
-        "title": "BM Ajansı, Hürmüz Boğazı'ndaki Gemi Tahliye Girişimini Saldırı Sonrası Durdurdu",
-        "summary": "Birleşmiş Milletler'e bağlı bir ajans, Hürmüz Boğazı'nda bir gemiye düzenlenen saldırının ardından bölgedeki gemi tahliye girişimini askıya aldığını duyurdu. Bu gelişme üzerine İran, denizcilik şirketlerini yalnızca Tahran tarafından onaylanmış rotaları kullanmaları konusunda uyardı. Uluslararası Denizcilik Örgütü (IMO) da saldırıya uğrayan gemi sonrası Hürmüz'deki tahliye operasyonlarını durdurma kararı aldı. Olay, küresel petrol ticareti için hayati önem taşıyan bu stratejik su yolundaki deniz güvenliği endişelerini artırdı ve bölgedeki gerilimi yükseltti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30292757/pexels-photo-30292757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-25T21:14:40.382Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782422197375vtqkl",
-        "title": "İsrail ordusu, güney Lübnan'da 6 kişiyi öldürdüğünü duyurdu",
-        "summary": "İsrail ordusu, güney Lübnan'da düzenlediği operasyonlarda altı kişiyi öldürdüğünü bildirdi. Ordu yetkilileri, öldürülen kişilerin İsrail güçleri için \"tehdit oluşturduğunu\" iddia etti. Bu olayların, bölgedeki ateşkes ihlalleri sırasında gerçekleştiği belirtildi. Gelişme, İsrail-Lübnan sınır hattındaki mevcut gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-25T21:16:37.375Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-says-its-forces-killed-6-people-in-southern-lebanon-amid-ceasefire-violations/3978325",
         "trendScore": 80,
         "isBreaking": false
     }
