@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782583613630z1272",
+        "title": "İsrail'de Lübnan ile Çerçeve Anlaşması Nasıl Değerlendiriliyor?",
+        "summary": "İsrail, Lübnan ve ABD arasında, İsrail ile Hizbullah arasındaki düşmanlıkları sona erdirmeyi amaçlayan bir çerçeve anlaşması imzalandı. Bu anlaşma, bölgedeki gerilimi azaltma potansiyeli taşısa da, Hizbullah tarafından reddedildi. Anlaşmanın içeriği ve geleceği belirsizliğini korurken, İsrail'de bu diplomatik girişimin nasıl algılandığı ve iç siyasetteki yansımaları yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7054510/pexels-photo-7054510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T18:06:53.630Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782578383482ymg62",
         "title": "İsrail İHA Saldırısı Gazze'de Güvenli Bölgede Can Aldı",
         "summary": "Gazze Şeridi'nde İsrail insansız hava araçlarının düzenlediği saldırıda iki Filistinli hayatını kaybetti. Han Yunus kentine bağlı El-Mevasi bölgesinde bulunan çadırların hedef alındığı saldırıda, aralarında genç bir kızın da bulunduğu belirtilen iki kişi yaşamını yitirdi. Saldırıda ayrıca çok sayıda kişinin yaralandığı bildirildi. Olay, bölgedeki gerilimi artırırken, uluslararası toplumun dikkatini bir kez daha Gazze'deki duruma çekti.",
@@ -780,22 +796,6 @@
             "name": "Kahire, Mısır"
         },
         "source": "https://www.aa.com.tr/en/middle-east/eu-gaza-administration-committee-discuss-strips-recovery-reconstruction-in-cairo/3978347",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782449465678r81xy",
-        "title": "Mısır Teknik Direktörü Kritik Dünya Kupası Maçı Öncesi İran Takımına Destek Sundu",
-        "summary": "Mısır teknik direktörü Hossam Hassan, kritik bir Dünya Kupası maçı öncesinde İran takımına destek verdiğini açıkladı. Hassan, ABD'nin İran'a yönelik devam eden kısıtlamaları bağlamında, FIFA'nın \"saygı ve fair play\" ilkelerine vurgu yaptı. Mısır ve İran takımları, bu önemli karşılaşmada ABD'nin Seattle şehrinde mücadele edecek. Bu açıklama, sporun birleştirici gücünü ve uluslararası dayanışmayı ön plana çıkaran bir jest olarak değerlendirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32285166/pexels-photo-32285166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T04:51:05.678Z",
-        "location": {
-            "lat": 47.6062,
-            "lng": -122.3321,
-            "name": "Seattle, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
