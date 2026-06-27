@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782578383482ymg62",
+        "title": "İsrail İHA Saldırısı Gazze'de Güvenli Bölgede Can Aldı",
+        "summary": "Gazze Şeridi'nde İsrail insansız hava araçlarının düzenlediği saldırıda iki Filistinli hayatını kaybetti. Han Yunus kentine bağlı El-Mevasi bölgesinde bulunan çadırların hedef alındığı saldırıda, aralarında genç bir kızın da bulunduğu belirtilen iki kişi yaşamını yitirdi. Saldırıda ayrıca çok sayıda kişinin yaralandığı bildirildi. Olay, bölgedeki gerilimi artırırken, uluslararası toplumun dikkatini bir kez daha Gazze'deki duruma çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T16:39:43.482Z",
+        "location": {
+            "lat": 31.4,
+            "lng": 34.4,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1782578423953hm9r5",
+        "title": "Hizbullah, İsrail-Lübnan Anlaşmasını Reddediyor; İsrail Saldırıları Güneyi Vurdu",
+        "summary": "Lübnan'daki Hizbullah örgütü, İsrail ile Lübnan arasında varılan son anlaşmayı reddettiğini duyurdu. Örgüt ve Lübnan'daki birçok destekçisi, söz konusu anlaşmayı 'egemenlikten taviz vermek' olarak nitelendiriyor. Bu gelişme, İsrail'in Lübnan'ın güneyine yönelik saldırılarının devam ettiği bir dönemde yaşandı. Hizbullah'ın bu tutumu, bölgedeki gerilimi artırma potansiyeli taşıyor ve anlaşmanın geleceği hakkında soru işaretleri yaratıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33870581/pexels-photo-33870581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T16:40:23.953Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782568279580ec84a",
         "title": "Ukrayna ve Rusya Gece Boyunca Karşılıklı Saldırılarda Bulundu: Üç Kişi Hayatını Kaybetti",
         "summary": "Ukrayna ve Rusya arasındaki çatışmalar devam ederken, gece boyunca karşılıklı saldırılar düzenlendiği bildirildi. Moskova'dan yapılan açıklamalara göre, Rus güçlerinin Ukrayna'ya yönelik saldırılarında iki kişinin yaşamını yitirdiği belirtildi. Kiev ise Rusya topraklarına düzenlediği saldırılarda bir kişinin hayatını kaybettiğini duyurdu. Her iki taraf da saldırıların detaylarına ilişkin bilgi vermezken, bölgedeki gerilimin sürdüğü kaydedildi. Bu tür çatışmaların küresel enerji ve gıda piyasaları üzerindeki dolaylı etkileri nedeniyle Orta Doğu bölgesi için de önem arz etmektedir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782432837090ba4sq",
-        "title": "İsrail, Lübnan'a Saldırırken Netanyahu Askerlerin Kalacağını Duyurdu",
-        "summary": "İsrail lideri, ABD-İran anlaşmasına rağmen, İsrail ordusunun güney Lübnan'daki işgal altındaki bölgelerde \"gerektiği sürece\" kalacağını açıkladı. Bu açıklama, İsrail'in Lübnan'a yönelik saldırılarının devam ettiği bir dönemde yapıldı. Bölgedeki askeri gerilim, İsrail'in bu kararıyla birlikte daha da tırmanma potansiyeli taşıyor. ABD ve İran arasındaki diplomatik çabalara rağmen İsrail'in bu tutumu, Orta Doğu'daki bölgesel güvenlik dengelerini etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T00:13:57.090Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17824328617366j4kh",
-        "title": "BM: Venezuela'daki depremler halihazırda şiddetli olan insani krizi derinleştirecek",
-        "summary": "Birleşmiş Milletler (BM), Venezuela'yı etkileyen ikiz depremlerin ülkedeki halihazırda şiddetli olan insani krizi daha da derinleştireceği uyarısında bulundu. BM yetkilileri, felaketin ardından Venezuela'daki müdahale ve yardım çabalarını artırdıklarını açıkladı. Depremlerin, ülkenin altyapısı ve halkın yaşam koşulları üzerinde yıkıcı etkiler yaratması bekleniyor. Bu durum, gıda, barınma ve sağlık hizmetleri gibi temel ihtiyaçlara erişimde ciddi zorluklara yol açabilirken, uluslararası toplumun acil desteğinin önemi vurgulandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7806189/pexels-photo-7806189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T00:14:21.736Z",
-        "location": {
-            "lat": 8,
-            "lng": -66,
-            "name": "Venezuela"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
