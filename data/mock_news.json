@@ -1,5 +1,69 @@
 [
     {
+        "id": "1782590006289ngpyp",
+        "title": "İsrail, askerlerine Lübnan'da 'uzun süreli kalış' için hazırlanma emri verdi",
+        "summary": "İsrail Savunma Bakanı Israel Katz, İsrail ordusuna Lübnan'da \"uzun süreli bir kalış\" için hazırlık yapması talimatı verildiğini duyurdu. Bu açıklama, bölgedeki mevcut gerilimin artabileceğine dair endişeleri beraberinde getirdi. İsrail'in bu adımı, Lübnan sınırındaki güvenlik durumuna ilişkin stratejik bir hazırlık olarak değerlendiriliyor. Askeri hazırlıkların kapsamı ve potansiyel sonuçları uluslararası kamuoyu tarafından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10771801/pexels-photo-10771801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T19:53:26.289Z",
+        "location": {
+            "lat": 33.35,
+            "lng": 35.55,
+            "name": "Güney Lübnan Sınırı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1782590060319j87ei",
+        "title": "Gazze'de Yerinden Edilmiş Kişilerin Çadırlarına Düzenlenen İsrail Saldırısında İki Ölü, Onlarca Yaralı",
+        "summary": "Gazze Şeridi'nde yerinden edilmiş sivillerin barındığı çadır kentine İsrail tarafından bir saldırı düzenlendiği bildirildi. Saldırı sonucunda ilk belirlemelere göre iki kişi hayatını kaybetti. Olayda onlarca kişinin de yaralandığı belirtildi. Bölgedeki insani durumun kötüleştiği ve uluslararası toplumun gelişmeleri endişeyle takip ettiği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T19:54:20.319Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1782590083822bw76l",
+        "title": "İsrail Saldırısı Güney Lübnan'da Can Kaybına ve Yaralanmalara Neden Oldu",
+        "summary": "İsrail'in güney Lübnan'a düzenlediği bir saldırıda bir kişi hayatını kaybederken, iki kişi yaralandı. Lübnan Sağlık Bakanlığı'ndan yapılan açıklamaya göre, saldırı güney Lübnan'daki Nabatiye el-Fawqa bölgesini hedef aldı. Bu olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve taraflar arasındaki hassas durumu bir kez daha gözler önüne seriyor. Saldırının, bölgede devam eden çatışmaların bir parçası olduğu belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952949/pexels-photo-5952949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T19:54:43.822Z",
+        "location": {
+            "lat": 33.56,
+            "lng": 35.49,
+            "name": "Nabatiye, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-1-injures-2-in-southern-lebanon-despite-framework-agreement/3980052",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782590135384pn5d9",
+        "title": "İsrail Savunma Bakanı: Ordu Güney Lübnan'da Uzun Süreli Kalmaya Hazırlanıyor",
+        "summary": "İsrail Savunma Bakanı, İsrail ordusunun güney Lübnan'da 'uzun süreli bir kalışa' hazırlandığını duyurdu. İsrail, güçlerinin Lübnan genelinde Hizbullah silahsızlandırılana kadar güney Lübnan'da kalacağını belirtti. Bu açıklama, bölgedeki güvenlik durumunun ciddiyetini ve İsrail'in stratejik hedeflerini ortaya koyuyor. Gelişmeler, Lübnan-İsrail sınır hattındaki gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9460619/pexels-photo-9460619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-27T19:55:35.384Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-prepares-for-extended-stay-in-southern-lebanon-defense-minister/3980021",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782583613630z1272",
         "title": "İsrail'de Lübnan ile Çerçeve Anlaşması Nasıl Değerlendiriliyor?",
         "summary": "İsrail, Lübnan ve ABD arasında, İsrail ile Hizbullah arasındaki düşmanlıkları sona erdirmeyi amaçlayan bir çerçeve anlaşması imzalandı. Bu anlaşma, bölgedeki gerilimi azaltma potansiyeli taşısa da, Hizbullah tarafından reddedildi. Anlaşmanın içeriği ve geleceği belirsizliğini korurken, İsrail'de bu diplomatik girişimin nasıl algılandığı ve iç siyasetteki yansımaları yakından takip ediliyor.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-slams-us-gcc-statement-as-provocative-urges-regional-policy-rethink/3978577",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782462816761yyjw1",
-        "title": "İsrail Savaş Uçakları Washington Görüşmelerine Rağmen Lübnan'ı Vurdu",
-        "summary": "İsrail savaş uçakları, ABD arabuluculuğunda Washington'da Lübnan ile İsrail arasında devam eden müzakerelere rağmen Lübnan topraklarına hava saldırıları düzenledi. Saldırılar, Lübnan'ın güneyindeki Nabatiye el-Fevka'nın eteklerini hedef aldı. Bu eylem, diplomatik çabaların sürdüğü bir dönemde iki ülke arasındaki gerilimin devam ettiğini gözler önüne serdi. Bölgedeki güvenlik durumu ve devam eden görüşmelerin geleceği üzerindeki etkileri yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27168160/pexels-photo-27168160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T08:33:36.761Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.49,
-            "name": "Nabatiye, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-warplanes-strike-lebanon-despite-washington-talks/3978470",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782462838190aofcl",
-        "title": "Silahlı bir kişi Lübnan'da 4 İsrail askerini yaraladı: İsrail ordusu",
-        "summary": "İsrail ordusu, Lübnan'da meydana gelen bir çatışmada silahlı bir kişinin dört İsrail askerini yaraladığını duyurdu. İsrail gazetesi Ynet'in haberine göre, olay güney Lübnan'ın Beir Yahoun kasabasında gerçekleşti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31115392/pexels-photo-31115392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T08:33:58.190Z",
-        "location": {
-            "lat": 33.15,
-            "lng": 35.25,
-            "name": "Beir Yahoun, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/armed-man-injures-4-israeli-troops-in-lebanon-clash-israeli-army/3978458",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782462859340mnkd4",
-        "title": "Trump: ABD, İran fonlarını kullanarak İran için Amerikan buğdayı, soya fasulyesi ve mısır satın alacak",
-        "summary": "ABD Başkanı Donald Trump, İran'a ait dondurulmuş fonların, Amerikan buğdayı, soya fasulyesi ve mısır satın almak için kullanılacağını açıkladı. Bu planın, ABD'li çiftçiler için yeni bir pazar yaratacağını belirten Trump, söz konusu ürünlerin İran'a gönderileceğini ifade etti. Uygulamanın detayları henüz netleşmezken, bu adımın hem insani yardım hem de ekonomik bir strateji olarak değerlendirilebileceği belirtiliyor. Karar, ABD'nin İran'a yönelik yaptırımları sürerken, iki ülke arasındaki ticari ilişkilerde potansiyel bir açılım sinyali olarak yorumlanıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/30268013/pexels-photo-30268013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T08:34:19.340Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-says-us-will-use-iranian-funds-to-buy-american-wheat-soybeans-and-corn-for-iran/3978352",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782462883141fe95t",
-        "title": "AB ve Gazze Yönetimi Komitesi, Şeridin İyileşme ve Yeniden İnşasını Kahire'de Tartıştı",
-        "summary": "Avrupa Birliği (AB) ve Gazze yönetimi komitesi temsilcileri, Gazze Şeridi'nin toparlanması ve yeniden inşası konularını görüşmek üzere Mısır'ın başkenti Kahire'de bir araya geldi. Toplantıda, bölgedeki acil yardım ihtiyaçları, temel hizmetlerin yeniden sağlanması ve kurumsal kapasitenin güçlendirilmesi gibi kritik konular ele alındı. Görüşmeler, Gazze'deki insani durumun iyileştirilmesi ve sürdürülebilir bir gelecek için atılacak adımlara odaklandı. Bu toplantı, uluslararası toplumun Gazze'ye yönelik destek çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7640793/pexels-photo-7640793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T08:34:43.141Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/eu-gaza-administration-committee-discuss-strips-recovery-reconstruction-in-cairo/3978347",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
