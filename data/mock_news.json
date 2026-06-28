@@ -1,5 +1,37 @@
 [
     {
+        "id": "178265830091239zsk",
+        "title": "ABD-İran Mutabakatı: Bir Anlaşma Serabı",
+        "summary": "ABD ile İran arasında imzalanan mutabakat zaptının kalıcı bir barış getirmeyeceği belirtiliyor. Hem Washington hem de Tahran yönetimlerinin bu anlaşmanın sadece stratejik bir duraklama olduğunun farkında olduğu ifade ediliyor. Uzmanlar, mevcut mutabakatın iki ülke arasındaki gerilimi geçici olarak hafifletme amacı taşıdığını, ancak uzun vadeli çözümler sunmadığını vurguluyor. Bu durum, ABD ve İran ilişkilerinin geleceğine dair belirsizliklerin devam ettiğine ve bölgesel dinamikler üzerindeki etkisinin sınırlı kalabileceğine işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T14:51:40.912Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17826583408192pyio",
+        "title": "Adam Johnson: ABD Kurumsal Medyası İsrail'in Gazze'deki Soykırımını Nasıl Pazarladı?",
+        "summary": "Marc Lamont Hill, yazar Adam Johnson ile ABD kurumsal medyasının Gazze'deki rolünü ele alan bir söyleşi gerçekleştirdi. Johnson, bu medyanın İsrail'in Gazze'deki eylemlerini \"soykırım\" olarak nitelendirilen olayları kamuoyuna nasıl sunduğunu ve bu anlatıyı nasıl pazarladığını detaylandırdı. Söyleşi, medyanın çatışma bölgelerindeki haberleştirme etiği ve kamuoyu üzerindeki etkisi üzerine kritik bir bakış açısı sunuyor. Bu analiz, Orta Doğu'daki güncel çatışmaların medya tarafından nasıl şekillendirildiğini sorguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17609924/pexels-photo-17609924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T14:52:20.819Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178265140882397il6",
         "title": "Araghchi: Hürmüz Boğazı 30 Gün Boyunca İran'ın Kontrolünde Kalacak",
         "summary": "İranlı yetkili Araghchi, Hürmüz Boğazı'nın önümüzdeki 30 gün boyunca İran'ın kontrolünde kalacağını açıkladı. Dünyanın en önemli petrol geçiş noktalarından biri olan bu stratejik su yolunun yönetimi konusunda tüm taraflara müdahale etmeme çağrısında bulunuldu. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde geldi ve uluslararası denizcilik güvenliği açısından önem taşıyor. İran, boğazın güvenliğini kendi ulusal çıkarları doğrultusunda sağlamaya devam edeceğini vurguladı.",
@@ -764,38 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17825468170806gviu",
-        "title": "BM Nükleer Şefi, İran Tesislerine Denetim Ziyaretleri İçin Çalışıldığını Açıkladı",
-        "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, müfettişlerin İran'daki nükleer tesisleri ziyaret edeceğini duyurdu. Grossi, ajansın bu ziyaretlerin \"modaliteleri üzerinde çalıştığını\" belirtti. Ancak İranlı bir bakan, bu tür bir erişimin ancak ABD ile yapılacak nihai bir anlaşmanın parçası olabileceğini ifade etti. Bu durum, İran'ın nükleer programı üzerindeki uluslararası denetimler konusunda taraflar arasındaki görüş ayrılıklarını ve müzakerelerin karmaşıklığını gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/73909/nuclear-weapons-test-nuclear-weapon-weapons-test-explosion-73909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:53:37.080Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782546843412fksap",
-        "title": "Lübnan'daki Arap Kabileleri, İsrail Anlaşması Sonrası Devlete Desteklerini Açıkladı",
-        "summary": "Lübnan'daki Arap kabileleri, İsrail ile yapılan çerçeve anlaşmasının ardından devlete desteklerini açıkladı. Arap Kabileleri Topluluğu, Lübnan ve İsrail arasındaki anlaşmanın imzalanmasını protesto eden Hizbullah destekçilerinin gösterileri sonrasında ülkedeki bölünmelere karşı uyarıda bulundu. Kabileler, ulusal birliğin ve devlet kurumlarının güçlendirilmesinin önemini vurgulayarak, iç istikrarın korunması çağrısı yaptı. Bu açıklama, söz konusu anlaşmanın Lübnan iç siyasetinde yarattığı gerilimi ve farklı gruplar arasındaki görüş ayrılıklarını gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9301860/pexels-photo-9301860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:54:03.412Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/arab-tribes-in-lebanon-express-support-for-state-following-deal-with-israel/3979529",
         "trendScore": 85,
         "isBreaking": false
     }
