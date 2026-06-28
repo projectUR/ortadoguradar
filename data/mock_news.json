@@ -1,5 +1,53 @@
 [
     {
+        "id": "178265140882397il6",
+        "title": "Araghchi: Hürmüz Boğazı 30 Gün Boyunca İran'ın Kontrolünde Kalacak",
+        "summary": "İranlı yetkili Araghchi, Hürmüz Boğazı'nın önümüzdeki 30 gün boyunca İran'ın kontrolünde kalacağını açıkladı. Dünyanın en önemli petrol geçiş noktalarından biri olan bu stratejik su yolunun yönetimi konusunda tüm taraflara müdahale etmeme çağrısında bulunuldu. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde geldi ve uluslararası denizcilik güvenliği açısından önem taşıyor. İran, boğazın güvenliğini kendi ulusal çıkarları doğrultusunda sağlamaya devam edeceğini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10546956/pexels-photo-10546956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T12:56:48.823Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782651461122efepi",
+        "title": "ABD'nin İran'a Yönelik Saldırıları İkinci Gününde: Savaş Yetkileri Kararı İhlal Ediliyor mu?",
+        "summary": "Amerika Birleşik Devletleri'nin İran'a yönelik saldırıları ikinci gününde devam ederken, bu eylemlerin yasal zemini sorgulanıyor. ABD Kongresi'nin Başkan Trump'a İran ile olası bir savaşı sonlandırması veya bu konuda onay alması gerektiğini bildirmesinden kısa bir süre sonra, Trump yönetiminin saldırılara geri dönmesi dikkat çekiyor. Bu durum, ABD'nin savaş yetkileri yasasının potansiyel bir ihlali olarak değerlendiriliyor ve hukuki tartışmaları beraberinde getiriyor. Gelişmeler, iki ülke arasındaki gerilimin seyrini yakından etkiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T12:57:41.122Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782651484226tangw",
+        "title": "Suudi Aramco'ya ait helikopter Ras Tanura'da düştü: 14 kişi hayatını kaybetti",
+        "summary": "Suudi Arabistan'ın doğusundaki Ras Tanura kentinde Suudi Aramco'ya ait bir helikopter düştü. Devlet medyası tarafından bildirilen kazada, helikopterde bulunan 14 kişinin tamamı hayatını kaybetti. Olayın ardından yetkililer tarafından soruşturma başlatıldığı belirtildi. Kazanın nedeni hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki güvenlik ve acil durum ekipleri olay yerine sevk edildi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/34832029/pexels-photo-34832029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T12:58:04.226Z",
+        "location": {
+            "lat": 26.65,
+            "lng": 50.15,
+            "name": "Ras Tanura, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17826450016461d69a",
         "title": "ABD'nin İran'a Yönelik Saldırıları Sonrası Bölgesel Gerilim Tırmanıyor",
         "summary": "ABD'nin İran'a yönelik ikinci günkü saldırılarının ardından bölgede gerilim yükseldi. İran, bu saldırılara misilleme yaparak karşılık verdi. Bahreyn ve Kuveyt, İran'ın gerçekleştirdiği bu misilleme saldırılarını kınadıklarını açıkladı. Bu gelişmeler, ABD'nin İran ile daha önce imzalanan bir Mutabakat Zaptı'ndan çıkış yolları aradığı bir döneme denk geldi. Bölgedeki bu son olaylar, ABD-İran ilişkilerindeki mevcut hassasiyeti ve Orta Doğu'daki güvenlik endişelerini bir kez daha gözler önüne serdi.",
@@ -748,54 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/arab-tribes-in-lebanon-express-support-for-state-following-deal-with-israel/3979529",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178254686809907pkm",
-        "title": "Pakistan ve İranlı Diplomatlar Yeni Saldırıların Ardından Bölgesel Barış Taahhüdünü Yineledi",
-        "summary": "Pakistan ve İran'ın üst düzey diplomatları, bölgede yaşanan yeni saldırıların ardından telefon görüşmesi gerçekleştirdi. Pakistan Dışişleri Bakanı Ishaq Dar ve İranlı mevkidaşı Abbas Araghchi arasındaki görüşmede, bölgesel barış ve istikrara olan bağlılık vurgulandı. Bu diplomatik temas, iki ülke arasındaki gerilimi azaltma ve bölgedeki güvenlik durumunu yönetme çabalarının bir parçası olarak değerlendiriliyor. Görüşmenin, son dönemdeki olayların ardından ilişkileri normalleştirme ve işbirliğini sürdürme amacı taşıdığı belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:54:28.099Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/top-pakistani-iranian-diplomats-reaffirm-commitment-to-regional-peace-in-wake-of-new-strikes/3979498",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782546896080wwoj5",
-        "title": "ABD Arabuluculuğunda İsrail-Lübnan Anlaşması İmzalandı",
-        "summary": "Lübnan ve İsrail, ABD'nin arabuluculuğunda yürütülen dört günlük yoğun müzakerelerin ardından önemli bir anlaşmaya imza attı. Anlaşmanın temel hedefi, iki ülke arasında \"kalıcı barış ve güvenlik\" sağlamak olarak belirtildi. Bu çerçeve anlaşması, bölgedeki uzun süreli gerilimleri azaltma ve istikrarı artırma potansiyeli taşıyor. Taraflar, diplomatik çabalar sonucunda uzlaşıya vararak Orta Doğu'da önemli bir adım atmış oldu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:54:56.080Z",
-        "location": {
-            "lat": 33.1,
-            "lng": 35.11,
-            "name": "Naqoura, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/americas/factbox-key-points-in-us-mediated-framework-between-israel-lebanon/3979454",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178254691970011j1g",
-        "title": "İranlı Milletvekili: ABD Saldırıları Müzakereleri Olumsuz Etkileyecek",
-        "summary": "İranlı bir milletvekili, ABD'nin müzakereler devam ederken İran'a yönelik gerçekleştirdiği saldırıların 'geri çekilme ve pişmanlığa' yol açacağını bildirdi. Milletvekili İbrahim Azizi, Washington yönetiminin İran'a yönelik saldırılarla müzakere ilkelerini ihlal ettiğini savundu. Bu açıklama, ABD ile İran arasındaki gerilimin diplomatik süreçleri olumsuz etkileyebileceğine işaret ediyor. Bölgedeki güvenlik dinamikleri açısından önem taşıyan bu durum, taraflar arasındaki müzakerelerin geleceği hakkında endişeleri artırıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3321791/pexels-photo-3321791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:55:19.700Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-lawmaker-says-us-strikes-during-talks-will-lead-to-retreat-and-regret-/3979445",
         "trendScore": 85,
         "isBreaking": false
     }
