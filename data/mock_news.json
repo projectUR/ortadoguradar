@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782689936518zhnef",
+        "title": "İran'da Milli Takım'ın Dünya Kupası'ndan elenmesi sonrası duygusal gerilim",
+        "summary": "İran Milli Takımı'nın Dünya Kupası'ndan elenmesi ülke genelinde duygusal bir gerilime yol açtı. Bu durum, İran'da yaşanan ölümcül ülke çapındaki protestoların ardından gelen ikinci Dünya Kupası dönemi oldu. Ayrıca, ülkenin bir savaşın ortasında olduğu bir dönemde gerçekleşen ilk Dünya Kupası olarak dikkat çekiyor. Milli takımın elenmesiyle birlikte, mevcut toplumsal ve siyasi gerilimlerin daha da arttığı gözlemleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/15245811/pexels-photo-15245811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T23:38:56.518Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782690035789z0n7r",
+        "title": "Trump, Hürmüz Boğazı Saldırısı Sonrası İran'ı Ateşkes İhlaliyle Suçladı",
+        "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda meydana gelen gemi saldırısının ardından İran'ı ateşkesi ihlal etmekle suçladı. Perşembe günü Singapur bandıralı bir geminin stratejik su yolunu geçerken hedef alındığı bildirildi. Saldırı sonucunda bölgede yürütülen büyük çaplı bir tahliye operasyonuna ara verilmek zorunda kalındı. Bu olay, Orta Doğu'nun kritik deniz geçiş noktalarından biri olan Hürmüz Boğazı'nda gerilimi yeniden tırmandırdı ve uluslararası deniz güvenliği endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16558701/pexels-photo-16558701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T23:40:35.789Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782684359707p64t4",
         "title": "Mısır ve İran'ın Katıldığı 'Pride Maçı'nda Gökkuşağı Bayrakları Gerilimi",
         "summary": "Seattle'da düzenlenen ve Mısır ile İran'ın karşı karşıya geldiği kritik bir futbol maçı, \"Pride\" kutlamaları ve gökkuşağı bayrakları nedeniyle dikkat çekiyor. Maçın oynandığı şehirde yaygın olan bu kutlamalar, özellikle İran ve Mısır gibi LGBTQ+ hakları konusunda katı politikalara sahip ülkeler için gergin bir atmosfer yaratıyor. İran teknik direktörü, basın toplantısında \"Pride\" kutlamalarıyla ilgili soruları yanıtlamayı reddederek konuyu tartışmaktan kaçındı. Bu durum, küresel spor etkinliklerinde farklı kültürel ve sosyal değerlerin nasıl çatışabildiğini gözler önüne seriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-condemns-us-strikes-on-its-southern-coast-accuses-washington-of-violating-peace-deal/3979571",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1782546696284sei4z",
-        "title": "İran, ABD Saldırılarını Kınadı, Mutabakat Zaptı İhlali Olduğunu Belirtti",
-        "summary": "ABD ve İran arasında Orta Doğu'da gerilim devam ediyor. İran'ın başkenti Tahran, ABD'nin bölgedeki askeri operasyonlarını kınayarak, bu eylemlerin mutabakat zaptını ihlal ettiğini açıkladı. ABD Savunma Bakanlığı, saldırıların İran'a ait füze ve insansız hava aracı depolama tesislerini hedef aldığını duyurdu. İran Devrim Muhafızları Ordusu (IRGC) ise kendi güçlerinin bölgedeki ABD askeri tesislerini vurduğunu iddia etti. Bu karşılıklı açıklamalar, bölgedeki çatışmanın 120. gününde tansiyonun yükseldiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:51:36.284Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782546726281uvmkc",
-        "title": "Afrika'nın Altınından Kimler Kar Ediyor?",
-        "summary": "Afrika hükümetleri, kıtanın zengin altın kaynakları üzerinde daha fazla kontrol sağlamayı hedefliyor. Ancak, çıkarılan altının değerinin büyük bir kısmı yurt dışına akmaya devam ediyor. Bu durum, Afrika ülkelerinin doğal kaynaklarından elde ettikleri geliri artırma çabalarını engelliyor ve ekonomik kalkınma potansiyellerini sınırlıyor. Uluslararası piyasalardaki altın ticareti ve aracı kurumların rolü, bu değer akışında önemli bir yer tutuyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/33122147/pexels-photo-33122147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:52:06.281Z",
-        "location": {
-            "lat": 5.6037,
-            "lng": -0.187,
-            "name": "Accra, Gana"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/6/27/who-profits-from-africas-gold?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
