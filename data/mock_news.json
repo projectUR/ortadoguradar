@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782674725668xkjze",
+        "title": "ABD ve İran, barış anlaşmasından günler sonra karşılıklı saldırılar düzenledi",
+        "summary": "ABD ve İran arasında, kısa süre önce imzalanan bir mutabakat zaptının ardından karşılıklı saldırılar yaşandı. İki ülke arasındaki gerilim, barış anlaşması olarak nitelendirilen bu mutabakatın üzerinden sadece günler geçtikten sonra yeniden tırmandı. Saldırıların niteliği ve hedefleri hakkında detay verilmezken, bu durum bölgedeki istikrarsızlığı artırma potansiyeli taşıyor. Yaşanan bu gelişmeler, Orta Doğu'daki diplomatik çabaların kırılganlığını gözler önüne serdi ve uluslararası toplumda endişelere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T19:25:25.668Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1782663235784ulh69",
         "title": "İsrail Lübnan'ı Vurdu, Yeni Barış Anlaşması Sınanıyor",
         "summary": "İsrail'in Lübnan'a yönelik saldırıları, bölgede kısa süre önce varılan barış anlaşmasını sınadığı belirtiliyor. Haberlere göre, İsrail güçleri Lübnan'ın güneyindeki operasyonlarını sürdürüyor. Lübnan merkezli Hizbullah örgütü, söz konusu barış anlaşmasını \"teslimiyet\" olarak değerlendirdiğini açıkladı. Bu gelişmeler, bölgedeki gerilimin yeniden tırmanma potansiyeli taşıdığına işaret ediyor.",
@@ -780,22 +796,6 @@
             "name": "Mısır"
         },
         "source": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782546773420b5f4x",
-        "title": "İran ve ABD Saldırılar İçin Karşılıklı Suçlamalarda Bulunarak Kırılgan Ateşkesi Tehdit Ediyor",
-        "summary": "İran ve ABD arasında yaşanan gerilim, bölgedeki kırılgan ateşkesi tehdit ediyor. Her iki taraf da son saldırılarla ilgili olarak birbirini suçluyor. Açıklamalara göre, Vance \"şiddete şiddetle karşılık verileceği\" uyarısında bulunurken, İran Devrim Muhafızları (IRGC) gelecekteki saldırılara verilecek yanıtların \"daha geniş kapsamlı\" olacağını belirtti. Bu karşılıklı suçlamalar, bölgedeki tansiyonu artırarak mevcut durumu daha da karmaşık hale getiriyor ve ateşkesin sürdürülebilirliğini sorgulatıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33541739/pexels-photo-33541739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T07:52:53.420Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
