@@ -1,5 +1,53 @@
 [
     {
+        "id": "1782605114589237qu",
+        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimcilerin Ev Ele Geçirme Girişimi Videolara Yansıdı",
+        "summary": "İşgal altındaki Batı Şeria'da kaydedilen görüntülerde, İsrailli yerleşimcilerin bir evi ele geçirme girişiminde bulunduğu ortaya çıktı. Videolarda, yapım aşamasında olan bir konutun hedef alındığı görülüyor. Bu tür olaylar, bölgedeki gerilimi artıran unsurlar arasında yer alıyor. Olayın ardından bölgedeki durum yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6862610/pexels-photo-6862610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T00:05:14.589Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17826052038477tjf5",
+        "title": "Netanyahu: İsrail Ordusu Güney Lübnan'daki Pozisyonlarını Koruyacak",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail ordusunun geri çekilme planına rağmen güney Lübnan'daki pozisyonlarını sürdüreceğini bildirdi. Netanyahu, bu kararın bölgedeki güvenlik gereksinimlerinden kaynaklandığını ifade etti. Ayrıca, İsrail ordusunun Hizbullah'ın füze stokunun yüzde 90'ını imha ettiğini iddia etti. Bu açıklamalar, İsrail-Lübnan sınırındaki gerilimin devam ettiğini ve İsrail'in bölgedeki askeri varlığına ilişkin tutumunu yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37271570/pexels-photo-37271570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T00:06:43.847Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-says-israeli-army-to-keep-positions-in-southern-lebanon-despite-withdrawal-plan/3980137",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782605225300hgdn6",
+        "title": "Güney İran'da Sirik ve Keşm Adası'nda Patlamalar Bildirildi",
+        "summary": "İran'ın güneyindeki Sirik ve Keşm Adası bölgelerinde çok sayıda patlama meydana geldiği rapor edildi. İran devlet televizyonuna bilgi veren askeri bir kaynağa göre, Tahrouyi köyünde bulunan bir telekomünikasyon kulesi mermilerin hedefi oldu. Olayın nedenine ve sorumlularına ilişkin henüz resmi bir açıklama yapılmadı. Bölgede güvenlik güçlerinin incelemeleri devam ediyor. Olayın ardından bölgedeki iletişim altyapısında aksaklıklar yaşandığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12356447/pexels-photo-12356447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-28T00:07:05.300Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 57,
+            "name": "Sirik, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/several-explosions-reported-in-southern-iran-s-sirik-qeshm-island/3980133",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17825998114086kuk8",
         "title": "ABD, Hürmüz Boğazı'ndaki Gemi Saldırısı Sonrası İran'a İkinci Gece Saldırılarını Düzenledi",
         "summary": "Amerika Birleşik Devletleri, Hürmüz Boğazı'nda bir ticari geminin insansız hava aracıyla vurulmasının ardından İran'a yönelik ikinci gece saldırılarını gerçekleştirdi. ABD Savunma Bakanlığı'ndan yapılan açıklamaya göre, bu misilleme saldırıları, Cumartesi günü İran'a ait olduğu iddia edilen bir insansız hava aracı tarafından bir ticari geminin hedef alınmasına yanıt olarak düzenlendi. Olay, stratejik Hürmüz Boğazı'nda denizcilik güvenliği endişelerini artırırken, bölgedeki gerilimi de tırmandırdı. Washington'ın bu adımı, Orta Doğu'daki mevcut durumu daha da karmaşık hale getirme potansiyeli taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-hormuz-passage-cannot-be-guaranteed-without-coordination-with-tehran/3978739",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782474585377v0e2z",
-        "title": "Hürmüz Boğazı'nda Konteyner Gemisine Saldırıya Rağmen Trafik Akışı Devam Ediyor",
-        "summary": "Hürmüz Boğazı'nda bir konteyner gemisine yönelik saldırıya rağmen bölgedeki deniz trafiğinin aksamadan devam ettiği bildirildi. Bu gelişme, küresel enerji tedarik zinciri için kritik öneme sahip olan boğazın güvenliğinin sürdürüldüğünü gösteriyor. Öte yandan, Katar'ın Ras Laffan tesisleri açıklarında boş LNG taşıyıcıları toplanmaya başladı. Doha'nın sıvılaştırılmış doğalgaz (LNG) ihracatını artırma hazırlıkları kapsamında bu gemilerin yükleme için beklediği belirtiliyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/29050401/pexels-photo-29050401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T11:49:45.377Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56,
-            "name": "Hürmüz Boğazı, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/hormuz-traffic-keeps-moving-despite-attack-on-container-ship/3978675",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782462677994gwq4l",
-        "title": "İran savaşı 119. gün: İsrail Lübnan'ı vurdu, IAEA İran'a döneceğini açıkladı",
-        "summary": "İsrail ve Lübnan heyetleri arasındaki görüşmelerin cuma günü devam edeceği bildirildi. Bu diplomatik temaslar, bölgedeki mevcut gerilimlerin ve özellikle İsrail'in Lübnan'a yönelik eylemlerinin ardından kritik bir önem taşıyor. Tarafların, sınır güvenliği ve diğer ikili meseleleri ele alarak tansiyonu düşürme çabalarını sürdürdüğü belirtiliyor. Devam eden müzakerelerin, Orta Doğu'daki istikrara katkı sağlaması umuluyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T08:31:17.994Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782462700464kzo9z",
-        "title": "ABD, Suriyeliler ve Haitililer İçin Geçici Koruma Statüsünü (TPS) Sonlandırdı",
-        "summary": "ABD Yüksek Mahkemesi, Trump yönetiminin Geçici Koruma Statüsü'nü (TPS) sona erdirme girişimini destekleyen bir karar aldı. Bu karar, Haitili ve Suriyeli göçmenler için sınır dışı edilme korumalarının kaldırılması anlamına geliyor. TPS, doğal afetler veya silahlı çatışmalar gibi olağanüstü koşullar nedeniyle ülkelerine güvenli bir şekilde dönemeyen yabancılara verilen bir statüydü. Yüksek Mahkeme'nin bu onayı, binlerce Suriyeli ve Haitilinin ABD'deki yasal statüsünü belirsizliğe sürükleyerek, potansiyel olarak sınır dışı edilme riskiyle karşı karşıya bırakıyor. Karar, insan hakları örgütleri ve göçmen savunucuları tarafından eleştirilere yol açtı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30646922/pexels-photo-30646922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-26T08:31:40.464Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
