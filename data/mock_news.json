@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782752117033ei09k",
+        "title": "Uzman, İsrail İşgali Konusunda Güvenlik Konseyi'ne Seslendi: 'Engel Yasa Eksikliği Değil, Siyasi İsteksizlik'",
+        "summary": "Birleşmiş Milletler Güvenlik Konseyi'ne hitap eden bir uzman, İsrail işgaliyle ilgili temel sorunun uluslararası yasa eksikliği değil, mevcut yasaları uygulama konusundaki siyasi isteksizlik olduğunu belirtti. Norveç Mülteci Konseyi'nden Itay Epshtain, Konsey'den yeni yasalar oluşturmasını değil, zaten onayladığı yasaları uygulamasını talep ettiklerini vurguladı. Epshtain'in bu açıklaması, İsrail-Filistin çatışması bağlamında uluslararası hukukun uygulanması ve uluslararası toplumun rolü üzerine devam eden tartışmaları yeniden gündeme getirdi. Bu durum, bölgedeki insani durum ve barış çabaları açısından siyasi iradenin önemini bir kez daha ortaya koydu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T16:55:17.033Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/obstacle-is-not-lack-of-law-but-political-reluctance-expert-tells-security-council-on-israeli-occupation/3981550",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1782752187022uur79",
+        "title": "Hürmüz Boğazı'nda Gemi Trafiği Güvenlik Endişelerine Rağmen Devam Ediyor",
+        "summary": "Hürmüz Boğazı'nda gemi trafiği, bölgedeki güvenlik endişelerine rağmen devam ediyor. MarineTraffic verilerine göre, 26-28 Haziran tarihleri arasında bu kritik körfez suyolundan 108 doğrulanmış geçiş gerçekleşti. Rotalama modelleri, denizcilik operatörlerinin mevcut duruma karşı temkinli yaklaştığını ortaya koyuyor. Küresel enerji tedariki için hayati önem taşıyan boğazdaki bu hareketlilik, bölgedeki jeopolitik gerilimlerin denizcilik faaliyetleri üzerindeki etkisini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19910644/pexels-photo-19910644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T16:56:27.022Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/vessel-traffic-through-strait-of-hormuz-continues-amid-security-concerns/3981477",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17827410787536lj2d",
         "title": "Sudan: Çin 50 Milyon Dolarlık Krediyi Sildi",
         "summary": "Sudan, Çin'in ülkeye olan 50 milyon dolarlık bir krediyi sildiğini duyurdu. Bu gelişme, Sudan'daki askeri liderliğindeki hükümetin Batı yaptırımları altında uluslararası destek arayışında olduğu bir döneme denk geldi. Çin ile Sudan arasında imzalanan bu anlaşma, Hartum'un ekonomik yükünü hafifletmeyi ve iki ülke arasındaki ilişkileri güçlendirmeyi hedefliyor. Anlaşmanın, Sudan'ın mevcut siyasi ve ekonomik zorluklarla mücadelesinde önemli bir adım olduğu belirtiliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-bahrain-due-to-possible-attack/3980170",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1782605114589237qu",
-        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimcilerin Ev Ele Geçirme Girişimi Videolara Yansıdı",
-        "summary": "İşgal altındaki Batı Şeria'da kaydedilen görüntülerde, İsrailli yerleşimcilerin bir evi ele geçirme girişiminde bulunduğu ortaya çıktı. Videolarda, yapım aşamasında olan bir konutun hedef alındığı görülüyor. Bu tür olaylar, bölgedeki gerilimi artıran unsurlar arasında yer alıyor. Olayın ardından bölgedeki durum yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6862610/pexels-photo-6862610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T00:05:14.589Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/27/videos-show-israeli-settlers-trying-to-seize-house-in-occupied-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17826052038477tjf5",
-        "title": "Netanyahu: İsrail Ordusu Güney Lübnan'daki Pozisyonlarını Koruyacak",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail ordusunun geri çekilme planına rağmen güney Lübnan'daki pozisyonlarını sürdüreceğini bildirdi. Netanyahu, bu kararın bölgedeki güvenlik gereksinimlerinden kaynaklandığını ifade etti. Ayrıca, İsrail ordusunun Hizbullah'ın füze stokunun yüzde 90'ını imha ettiğini iddia etti. Bu açıklamalar, İsrail-Lübnan sınırındaki gerilimin devam ettiğini ve İsrail'in bölgedeki askeri varlığına ilişkin tutumunu yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37271570/pexels-photo-37271570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T00:06:43.847Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-says-israeli-army-to-keep-positions-in-southern-lebanon-despite-withdrawal-plan/3980137",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
