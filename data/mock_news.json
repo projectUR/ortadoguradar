@@ -1,5 +1,181 @@
 [
     {
+        "id": "1782724549194592f2",
+        "title": "Andy Burnham, İngiltere'nin Gazze Politikasında Bir Değişime Yol Açacak mı?",
+        "summary": "İngiltere İşçi Partisi'nin İsrail politikalarını gözden geçirme fırsatı doğdu. Bu durum, partinin Gazze'ye yönelik mevcut tutumunda potansiyel bir değişime yol açıp açmayacağı sorularını gündeme getirdi. Ancak siyasi gözlemciler, İşçi Partisi'nin bu konuda mevcut politikalarını sürdürme eğiliminde olacağını belirtiyor. Özellikle Andy Burnham gibi figürlerin bu süreçteki rolü yakından takip ediliyor. Bu gelişmeler, İngiltere'nin İsrail-Filistin çatışmasına yaklaşımına dair süregelen tartışmaların bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:15:49.194Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1782724590730xqpxc",
+        "title": "İsrail Güney Lübnan'da Büyük Bir Patlamayı Tetikledi",
+        "summary": "İsrail ordusu tarafından tetiklenen büyük bir patlama, Lübnan'ın güneyindeki Majdal Zoun köyünü sarstı. Olayın bölgede geniş çaplı bir etki yarattığı ve hissedilir derecede bir sarsıntıya yol açtığı bildirildi. Bu tür sınır ötesi olaylar, bölgedeki gerilimi artırma potansiyeli taşıyor ve güvenlik endişelerini beraberinde getiriyor. Patlamanın nedenleri ve sonuçlarına ilişkin detaylı bilgiler henüz kamuoyuyla paylaşılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9998072/pexels-photo-9998072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:16:30.730Z",
+        "location": {
+            "lat": 33.17,
+            "lng": 35.24,
+            "name": "Majdal Zoun, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782724630990q5rq5",
+        "title": "ABD, İran ile Karşılıklı Saldırıların Ardından 'Geri Çekilme' Konusunda Anlaştığını Duyurdu",
+        "summary": "ABD ve İran arasında hafta sonu karşılıklı saldırılar yaşandığı bildirildi. Bu saldırıların ardından her iki ülke de birbirlerini mevcut ateşkes anlaşmasını ihlal etmekle suçladı. Yaşanan gerilimin tırmanması üzerine ABD, İran ile 'geri çekilme' konusunda mutabakata vardığını açıkladı. Bu gelişme, bölgedeki tansiyonun düşürülmesi ve daha geniş çaplı bir çatışmanın önlenmesi adına önemli bir adım olarak görülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:17:10.990Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782724653926ipjo9",
+        "title": "Suudi Arabistan'da Helikopter Kazasında On Dört Kişi Hayatını Kaybetti",
+        "summary": "Suudi Arabistan'da meydana gelen bir helikopter kazasında on dört kişi yaşamını yitirdi. Kaza, ülkenin devlet petrol devi Aramco'ya ait bir helikopterin düşmesi sonucu gerçekleşti. Yetkililer, olayın nedenini belirlemek üzere geniş çaplı bir soruşturma başlattı. Kazanın detayları ve hayatını kaybedenlerin kimlikleri hakkında henüz ek bilgi verilmedi. Aramco, olaya ilişkin resmi bir açıklama yaparken, soruşturmanın devam ettiğini belirtti.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/13332578/pexels-photo-13332578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:17:33.926Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782724677531wqhhn",
+        "title": "ABD ve İran Karşılıklı Saldırılar Düzenledi, Ateşkes İhlali Suçlamaları Yükseldi",
+        "summary": "ABD ve İran arasında karşılıklı saldırılar düzenlendiği bildirildi. İran, ABD'nin kendi topraklarındaki çok sayıda hedefi vurmasının ardından Kuveyt ve Bahreyn'deki ABD altyapılarına misilleme saldırıları düzenlediğini duyurdu. Washington yönetimi ise İran'daki hedeflere yönelik operasyonlar gerçekleştirdiğini doğrulamıştı. Her iki taraf da birbirlerini mevcut ateşkesi ihlal etmekle suçluyor. Bu gelişmeler, bölgedeki gerilimin tırmandığına işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:17:57.531Z",
+        "location": {
+            "lat": 27,
+            "lng": 50,
+            "name": "Körfez Bölgesi"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1782724699447z59h0",
+        "title": "ABD'nin kargo gemisine saldırı sonrası İran'ı hedef alması",
+        "summary": "ABD'nin bir kargo gemisine düzenlenen saldırının ardından İran'ı hedef aldığı bildirildi. İran ise bu saldırıya karşılık olarak Amerikan güçleriyle bağlantılı hedefleri vurduğunu açıkladı. Tahran yönetimi, ABD'yi aralarındaki anlaşmayı ihlal etmekle suçladı. Bu gelişmeler, Orta Doğu'da gerilimi artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:18:19.447Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1782724724344xax8l",
+        "title": "Irak Dışişleri Bakanı, Esad'ın düşüşünden bu yana ilk resmi ziyaretini gerçekleştirmek üzere Suriye'ye ulaştı",
+        "summary": "Irak Dışişleri Bakanı Fuad Hüseyin, Suriyeli mevkidaşı Esad el-Şeybani'nin daveti üzerine Suriye'ye resmi bir ziyaret gerçekleştirdi. Bu ziyaret, Esad rejiminin düşüşünden bu yana Irak'tan Suriye'ye yapılan ilk üst düzey resmi ziyaret olma özelliğini taşıyor. İki ülke arasındaki diplomatik ilişkilerin normalleşmesi ve bölgesel işbirliğinin ele alınması bekleniyor. Görüşmelerde ikili ilişkiler, güvenlik konuları ve bölgesel gelişmelerin masaya yatırılacağı tahmin ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:18:44.344Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraqi-foreign-minister-arrives-in-syria-for-1st-official-visit-since-assad-s-fall/3980943",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782724748184cbcri",
+        "title": "Irak Başbakanı yolsuzlukla mücadelede 'dokunulmazlık olmayacağını' vurguladı",
+        "summary": "Irak Başbakanı, ülkede yolsuzlukla mücadele kapsamında yapılan tutuklamaların ardından, yolsuzluğa karışan yetkililer için \"dokunulmazlık olmayacağını\" belirtti. Pazar günü Irak'ta onlarca yetkili ve milletvekili yolsuzluk suçlamasıyla gözaltına alındı. Bu operasyonlar, hükümetin yolsuzlukla mücadeledeki kararlılığını gösteriyor. Ülke, uzun süredir yolsuzluk sorunlarıyla mücadele ediyor ve bu durum kamu hizmetlerinin aksamasına neden oluyor. Başbakanın açıklamaları, yolsuzlukla mücadeledeki kararlılığın bir işareti olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6266687/pexels-photo-6266687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:19:08.184Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraqi-prime-minister-vows-no-immunity-for-corrupt-officials-after-arrests/3980936",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17827247702224rmz0",
+        "title": "İran, Katar'daki 6 Milyar Dolarlık Fonlarının ABD Anlaşması Kapsamında Serbest Bırakılması Gerektiğini Belirtti",
+        "summary": "İran, Katar'da bulunan 6 milyar dolarlık fonlarının ABD ile varılan bir anlaşma çerçevesinde serbest bırakılması gerektiğini açıkladı. İran Cumhurbaşkanı, söz konusu fonların iadesi için gerekli takibin sürdüğünü belirtti. Bu fonlar, daha önce ABD ile yapılan bir mahkum takası anlaşması kapsamında dondurulmuştu. Tahran yönetimi, fonların serbest bırakılmasının anlaşmanın bir parçası olduğunu vurguluyor. Konuyla ilgili diplomatik ve finansal süreçlerin devam ettiği bildirildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:19:30.222Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-6b-of-its-funds-in-qatar-should-be-released-under-us-deal/3980919",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17827247900752ok7p",
+        "title": "İsrail ordusu Gazze'de 3 Filistinliyi öldürdü, işgal altındaki bölgeleri genişletti",
+        "summary": "İsrail ordusunun orta Gazze'de üç Filistinliyi öldürdüğü bildirildi. Tanıkların ifadelerine göre, İsrail araçları 'Sarı Hat'ı belirten beton blokları yaklaşık 150 metre batıya doğru hareket ettirdi. Bu eylemle birlikte, Vadi Gazze Köprüsü'nün kuzeyindeki işgal altındaki bölgelerin genişletildiği belirtildi. Gelişmeler, bölgedeki gerilimi artırabilecek nitelikte.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934175/pexels-photo-35934175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:19:50.075Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-3-palestinians-expands-areas-under-occupation-in-central-gaza/3980915",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1782724810146npgdx",
+        "title": "İsrail güçleri işgal altındaki Batı Şeria'da Filistin üniversitesine baskın düzenledi, güvenlik görevlisini darp etti",
+        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da bulunan Filistin'e ait Birzeit Üniversitesi'ne bir baskın gerçekleştirdi. Baskın sırasında üniversitenin bir güvenlik görevlisinin darp edildiği bildirildi. Üniversite yönetimi, kampüs tesislerinde meydana gelen hasarı gösteren fotoğrafları kamuoyuyla paylaştı. Bu olay, bölgedeki gerilimi artırırken, Filistin eğitim kurumlarına yönelik müdahaleleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34234351/pexels-photo-34234351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T09:20:10.146Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-palestinian-university-assault-security-guard-in-occupied-west-bank/3980849",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1782706513317m61vq",
         "title": "ABD ve İran Saldırıları Hürmüz Boğazı'nı Tehdit Ederken Petrol Fiyatları Yükseldi",
         "summary": "Petrol fiyatları, ABD ve İran arasındaki karşılıklı saldırıların etkisiyle yükseliş gösterdi. Bu saldırılar, küresel petrol ticareti için hayati önem taşıyan Hürmüz Boğazı'nda normalleşme çabalarını tehdit ediyor. Brent ham petrolünün fiyatı, kilit su yolundaki gerilimin artmasıyla yukarı yönlü bir seyir izledi. Bölgedeki güvenlik endişeleri, boğazın güvenli geçişini riske atarak enerji piyasalarında belirsizliğe yol açıyor.",
@@ -620,182 +796,6 @@
             "name": "Nabatiye, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-1-injures-2-in-southern-lebanon-despite-framework-agreement/3980052",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782590135384pn5d9",
-        "title": "İsrail Savunma Bakanı: Ordu Güney Lübnan'da Uzun Süreli Kalmaya Hazırlanıyor",
-        "summary": "İsrail Savunma Bakanı, İsrail ordusunun güney Lübnan'da 'uzun süreli bir kalışa' hazırlandığını duyurdu. İsrail, güçlerinin Lübnan genelinde Hizbullah silahsızlandırılana kadar güney Lübnan'da kalacağını belirtti. Bu açıklama, bölgedeki güvenlik durumunun ciddiyetini ve İsrail'in stratejik hedeflerini ortaya koyuyor. Gelişmeler, Lübnan-İsrail sınır hattındaki gerilimi daha da artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9460619/pexels-photo-9460619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T19:55:35.384Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-prepares-for-extended-stay-in-southern-lebanon-defense-minister/3980021",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782583613630z1272",
-        "title": "İsrail'de Lübnan ile Çerçeve Anlaşması Nasıl Değerlendiriliyor?",
-        "summary": "İsrail, Lübnan ve ABD arasında, İsrail ile Hizbullah arasındaki düşmanlıkları sona erdirmeyi amaçlayan bir çerçeve anlaşması imzalandı. Bu anlaşma, bölgedeki gerilimi azaltma potansiyeli taşısa da, Hizbullah tarafından reddedildi. Anlaşmanın içeriği ve geleceği belirsizliğini korurken, İsrail'de bu diplomatik girişimin nasıl algılandığı ve iç siyasetteki yansımaları yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7054510/pexels-photo-7054510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T18:06:53.630Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782578383482ymg62",
-        "title": "İsrail İHA Saldırısı Gazze'de Güvenli Bölgede Can Aldı",
-        "summary": "Gazze Şeridi'nde İsrail insansız hava araçlarının düzenlediği saldırıda iki Filistinli hayatını kaybetti. Han Yunus kentine bağlı El-Mevasi bölgesinde bulunan çadırların hedef alındığı saldırıda, aralarında genç bir kızın da bulunduğu belirtilen iki kişi yaşamını yitirdi. Saldırıda ayrıca çok sayıda kişinin yaralandığı bildirildi. Olay, bölgedeki gerilimi artırırken, uluslararası toplumun dikkatini bir kez daha Gazze'deki duruma çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T16:39:43.482Z",
-        "location": {
-            "lat": 31.4,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782578423953hm9r5",
-        "title": "Hizbullah, İsrail-Lübnan Anlaşmasını Reddediyor; İsrail Saldırıları Güneyi Vurdu",
-        "summary": "Lübnan'daki Hizbullah örgütü, İsrail ile Lübnan arasında varılan son anlaşmayı reddettiğini duyurdu. Örgüt ve Lübnan'daki birçok destekçisi, söz konusu anlaşmayı 'egemenlikten taviz vermek' olarak nitelendiriyor. Bu gelişme, İsrail'in Lübnan'ın güneyine yönelik saldırılarının devam ettiği bir dönemde yaşandı. Hizbullah'ın bu tutumu, bölgedeki gerilimi artırma potansiyeli taşıyor ve anlaşmanın geleceği hakkında soru işaretleri yaratıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33870581/pexels-photo-33870581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T16:40:23.953Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782568279580ec84a",
-        "title": "Ukrayna ve Rusya Gece Boyunca Karşılıklı Saldırılarda Bulundu: Üç Kişi Hayatını Kaybetti",
-        "summary": "Ukrayna ve Rusya arasındaki çatışmalar devam ederken, gece boyunca karşılıklı saldırılar düzenlendiği bildirildi. Moskova'dan yapılan açıklamalara göre, Rus güçlerinin Ukrayna'ya yönelik saldırılarında iki kişinin yaşamını yitirdiği belirtildi. Kiev ise Rusya topraklarına düzenlediği saldırılarda bir kişinin hayatını kaybettiğini duyurdu. Her iki taraf da saldırıların detaylarına ilişkin bilgi vermezken, bölgedeki gerilimin sürdüğü kaydedildi. Bu tür çatışmaların küresel enerji ve gıda piyasaları üzerindeki dolaylı etkileri nedeniyle Orta Doğu bölgesi için de önem arz etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T13:51:19.580Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Ukrayna, Rusya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782568349300an6ib",
-        "title": "AB Komisyonu Başkanı, İsrail-Lübnan Anlaşmasını 'Gerilimi Azaltmada Kritik Bir Adım' Olarak Değerlendirdi",
-        "summary": "Avrupa Birliği Komisyonu Başkanı Ursula von der Leyen, İsrail ile Lübnan arasında varılan anlaşmayı memnuniyetle karşıladığını bildirdi. Von der Leyen, bu anlaşmanın bölgedeki gerilimi azaltma yönünde atılmış kritik bir adım olduğunu belirtti. Açıklamasında, Lübnan'da istikrarsızlığın sürmesi durumunda Orta Doğu'da barışın sağlanamayacağını vurguladı. Bu anlaşmanın, bölgedeki çatışma riskini düşürerek daha geniş çaplı bir istikrara katkı sunması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T13:52:29.300Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/europe/eu-commission-chief-welcomes-israel-lebanon-deal-as-critical-step-away-from-escalation/3979875",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782561376380lrw7s",
-        "title": "Gazze'de Okulsuzluk ve Çadır Hayatına Rağmen Sınav Mücadelesi",
-        "summary": "Gazze Şeridi'nde, devam eden zorlu koşullara rağmen lise öğrencileri sınavlara girme mücadelesi veriyor. 18 yaşındaki Dana Shabat, bu öğrencilerden biri olarak her gün bir saat yürüyerek bir kafeye ulaşmak zorunda kalıyor. Shabat, çadırda yaşamasına ve okul imkanlarının kısıtlı olmasına rağmen lise sınavlarını tamamlamaya çalışıyor. Bu durum, bölgedeki öğrencilerin eğitimlerine devam etmek için karşılaştığı büyük engelleri ve insani krizi gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T11:56:16.380Z",
-        "location": {
-            "lat": 31.4167,
-            "lng": 34.3333,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17825614326700x53z",
-        "title": "Gazze'deki çadır kampa İsrail saldırısı: Bir Filistinli kadın hayatını kaybetti, 7 kişi yaralandı",
-        "summary": "Gazze Şeridi'nde, Han Yunus'un batısındaki El-Mevasi bölgesinde bulunan yerinden edilmiş kişilerin kaldığı çadır kampa İsrail insansız hava aracıyla saldırı düzenlendi. Saldırıda bir Filistinli kadın hayatını kaybederken, yedi kişi de yaralandı. Olayın, bölgede devam eden ateşkes anlaşmasına rağmen gerçekleştiği belirtildi. İsrail güçlerinin hedef aldığı iki çadırın, yerinden edilmiş siviller tarafından kullanıldığı bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934174/pexels-photo-35934174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T11:57:12.670Z",
-        "location": {
-            "lat": 31.35,
-            "lng": 34.3,
-            "name": "El-Mevasi, Han Yunus, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-woman-killed-7-others-injured-in-israeli-strike-on-gaza-displacement-tents/3979808",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782555124102paol1",
-        "title": "Mısır-İran Dünya Kupası Maçı Sonrası Sevinç, Hayal Kırıklığı ve Protestolar",
-        "summary": "Mısır ve İran arasında oynanan Dünya Kupası maçı sonrası her iki ülkede de farklı tepkiler gözlemlendi. Mısırlılar, takımlarının tarihi bir başarıyla turnuvaya katılmaya hak kazanmasını coşkuyla kutladı. İran'da ise Milli Takım'ın (Team Melli) bir sonraki tura kalma şansının devam etmesine rağmen, maçın ardından hayal kırıklığı ve protestolar yaşandığı belirtildi. İranlı taraftarlar, takımlarına desteklerini sürdürürken, maçın sonucu ülkedeki atmosferi farklı yönlerde etkiledi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285163/pexels-photo-32285163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T10:12:04.102Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Mısır, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/27/joy-disappointment-protests-a-view-from-egypt-iran-world-cup-tie?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782555149565qoojo",
-        "title": "FIFA Dünya Kupası 2026: İran Son 32 Turu İçin Bekleyişte",
-        "summary": "2026 FIFA Dünya Kupası'nda grup aşaması maçları devam ederken, takımlar son 32 turuna kalmak için kıyasıya mücadele ediyor. Cumartesi günü oynanan altı kritik karşılaşma, birçok takımın kaderini belirledi. Bu maçlar sonucunda Yeşil Burun Adaları tarihinde ilk kez bir üst tura yükselme başarısı gösterdi. Orta Doğu temsilcisi İran ise son 32 turundaki yerini garantilemek amacıyla diğer maçların sonuçlarını bekliyor. Turnuvada heyecan dorukta ve takımlar bir sonraki aşamaya geçmek için son şanslarını değerlendirmeye çalışıyor.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/32179279/pexels-photo-32179279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T10:12:29.565Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/27/fifa-world-cup-2026-saturday-schedule-round-of-32-standings-predictions?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1782555227019qryy5",
-        "title": "Bahreyn, İran İHA'larının Topraklarını Hedef Aldığını Duyurdu",
-        "summary": "Bahreyn Dışişleri Bakanlığı, Cumartesi günü erken saatlerde ülkenin topraklarına yönelik bir saldırı gerçekleştirildiğini açıkladı. Bakanlık, saldırının 'bir dizi İran insansız hava aracı' tarafından yapıldığını belirterek bu eylemi şiddetle kınadı. Yapılan açıklamada, söz konusu saldırının bölgesel güvenlik ve istikrara yönelik bir tehdit oluşturduğu vurgulandı. Bahreyn, bu tür eylemlerin uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi artırdığını belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11378718/pexels-photo-11378718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T10:13:47.019Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-iranian-drones-targeted-its-territory-early-saturday/3979713",
         "trendScore": 85,
         "isBreaking": false
     }
