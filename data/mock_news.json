@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782706513317m61vq",
+        "title": "ABD ve İran Saldırıları Hürmüz Boğazı'nı Tehdit Ederken Petrol Fiyatları Yükseldi",
+        "summary": "Petrol fiyatları, ABD ve İran arasındaki karşılıklı saldırıların etkisiyle yükseliş gösterdi. Bu saldırılar, küresel petrol ticareti için hayati önem taşıyan Hürmüz Boğazı'nda normalleşme çabalarını tehdit ediyor. Brent ham petrolünün fiyatı, kilit su yolundaki gerilimin artmasıyla yukarı yönlü bir seyir izledi. Bölgedeki güvenlik endişeleri, boğazın güvenli geçişini riske atarak enerji piyasalarında belirsizliğe yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34065552/pexels-photo-34065552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T04:15:13.317Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782706644960vhkyn",
+        "title": "ABD ve İran, Düşmanlıkları Durdurma ve Katar'da Görüşme Konusunda Anlaştı",
+        "summary": "ABD ve İran'ın düşmanlıkları durdurma konusunda anlaştığı ve Salı günü Katar'da bir araya geleceği bildirildi. Axios haber sitesinin aktardığına göre, üst düzey bir ABD yetkilisi Washington'ın İran'a yönelik saldırıları durdurma kararı aldığını açıkladı. Bu gelişme, iki ülke arasındaki mevcut gerilimi azaltma potansiyeli taşıyor. Tarafların Katar'daki görüşmelerde hangi konuları ele alacağı ve olası sonuçları merakla bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-29T04:17:24.960Z",
+        "location": {
+            "lat": 25.3,
+            "lng": 51.5,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-iran-agree-to-cease-hostilities-and-meet-tuesday-in-qatar-report/3980679",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782689936518zhnef",
         "title": "İran'da Milli Takım'ın Dünya Kupası'ndan elenmesi sonrası duygusal gerilim",
         "summary": "İran Milli Takımı'nın Dünya Kupası'ndan elenmesi ülke genelinde duygusal bir gerilime yol açtı. Bu durum, İran'da yaşanan ölümcül ülke çapındaki protestoların ardından gelen ikinci Dünya Kupası dönemi oldu. Ayrıca, ülkenin bir savaşın ortasında olduğu bir dönemde gerçekleşen ilk Dünya Kupası olarak dikkat çekiyor. Milli takımın elenmesiyle birlikte, mevcut toplumsal ve siyasi gerilimlerin daha da arttığı gözlemleniyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-iranian-drones-targeted-its-territory-early-saturday/3979713",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1782555249145jldwc",
-        "title": "Gazze'de İsrail Saldırısında Yaralanan Çocuk Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde 10 yaşındaki bir Filistinli çocuk, birkaç gün önce İsrail saldırısında aldığı yaralar nedeniyle yaşamını yitirdi. Yerel kaynaklar, çocuğun saldırının ardından ağır yaralı olarak hastaneye kaldırıldığını belirtmişti. Bu acı olay, İsrail ordusunun geçtiğimiz Ekim ayından bu yana yürürlükte olan ateşkese yönelik günlük ihlallerini sürdürdüğü bir dönemde meydana geldi. Bölgedeki gerilim ve sivil kayıplar uluslararası kamuoyunda endişe yaratmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T10:14:09.145Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/world/gaza-boy-succumbs-to-injuries-from-israeli-attack/3979671",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782555270671lucz1",
-        "title": "İran, ABD'nin Güney Kıyılarına Yönelik Saldırılarını Kınadı, Washington'ı Barış Anlaşmasını İhlal Etmekle Suçladı",
-        "summary": "İran Dışişleri Bakanlığı, ABD'nin ülkenin güney kıyılarına düzenlediği saldırıları şiddetle kınayan bir açıklama yayımladı. Bakanlık, Washington'ı mevcut bir barış anlaşmasını ihlal etmekle suçladı. Bu gelişmelerin ardından İran Devrim Muhafızları Ordusu (IRGC) da bir bildiri yayımladı. IRGC, ABD saldırılarına misilleme olarak bölgedeki Amerikan askeri mevzilerine karşı saldırılar düzenlediğini duyurdu. Bu durum, iki ülke arasındaki gerilimin tırmandığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-27T10:14:30.671Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-condemns-us-strikes-on-its-southern-coast-accuses-washington-of-violating-peace-deal/3979571",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
