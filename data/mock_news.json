@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782845945865s867u",
+        "title": "ABD Temsilcileri Doha'da Arabulucularla Görüşecek, İranlılarla Değil",
+        "summary": "Katar Dışişleri Bakanlığı sözcüsü, ABD temsilcilerinin Doha'da arabulucularla bir araya geleceğini ancak İranlı yetkililerle doğrudan veya üst düzey bir görüşme planlanmadığını açıkladı. Sözcü, ABD ile İran arasında herhangi bir doğrudan temasın gündemde olmadığını belirtti. Bu durum, iki ülke arasındaki gerilimin devam ettiğini ve diplomatik çabaların arabulucular üzerinden yürütüldüğünü gösteriyor. Katar, bu süreçte arabulucu rolünü üstlenmeye devam ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-30T18:59:05.865Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782837492417a6th5",
         "title": "UNRWA Başkanı Acil Fon ve Reform Çağrısı Yaptı, Ajans 100 Milyon Dolarlık Açıkla Karşı Karşıya",
         "summary": "Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA) başkanı, kurumun 100 milyon dolarlık bir bütçe açığıyla mücadele ettiğini belirterek acil finansman ve reform çağrısında bulundu. Christian Saunders, UNRWA'nın sadece hizmet verdiği kişiler için değil, aynı zamanda bölgenin geleceği için de korunmasının ve güçlendirilmesinin hayati önem taşıdığını vurguladı. Ajans, Filistinli mültecilere eğitim, sağlık ve sosyal hizmetler gibi temel yardımlar sağlayarak Orta Doğu'da istikrarın sürdürülmesinde kritik bir rol oynamaktadır. Bu finansal açık, ajansın bölgedeki milyonlarca mülteciye yönelik hayati hizmetlerini sürdürme kapasitesini ciddi şekilde tehdit etmektedir.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782651461122efepi",
-        "title": "ABD'nin İran'a Yönelik Saldırıları İkinci Gününde: Savaş Yetkileri Kararı İhlal Ediliyor mu?",
-        "summary": "Amerika Birleşik Devletleri'nin İran'a yönelik saldırıları ikinci gününde devam ederken, bu eylemlerin yasal zemini sorgulanıyor. ABD Kongresi'nin Başkan Trump'a İran ile olası bir savaşı sonlandırması veya bu konuda onay alması gerektiğini bildirmesinden kısa bir süre sonra, Trump yönetiminin saldırılara geri dönmesi dikkat çekiyor. Bu durum, ABD'nin savaş yetkileri yasasının potansiyel bir ihlali olarak değerlendiriliyor ve hukuki tartışmaları beraberinde getiriyor. Gelişmeler, iki ülke arasındaki gerilimin seyrini yakından etkiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T12:57:41.122Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
