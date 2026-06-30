@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782778033873ykfsl",
+        "title": "İsrail saldırısı Gazze'deki insani bölgede iki kişiyi öldürdü, çadırları ateşe verdi",
+        "summary": "Gazze Şeridi'nin Han Yunus kentine bağlı El-Mevasi bölgesine düzenlenen İsrail saldırısında iki kişi hayatını kaybetti. Saldırıda çok sayıda kişi de yaralandı. El-Mevasi bölgesi, daha önce İsrail ordusu tarafından sivillerin sığınması için 'güvenli bölge' olarak belirlenmişti. Saldırı sonucunda bölgedeki çadırların alev aldığı bildirildi. Olay, insani yardım kuruluşlarının bölgedeki güvenlik endişelerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-30T00:07:13.873Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Han Yunus, Gazze"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17827727887117c6d9",
         "title": "Umman'dan Hürmüz Boğazı'nda Ücretlendirmeye Karşı Çıkış",
         "summary": "Umman Dışişleri Bakanı Badr Albusaidi, Hürmüz Boğazı'nda ücretlendirmeye karşı olduklarını ancak denizcilik hizmet bedellerine açık kapı bıraktıklarını açıkladı. Bakan Albusaidi, ülkesinin gerilimin azaltılmasını, güvenli seyrüseferi ve ABD-İran mutabakatının uygulanmasını desteklediğini ifade etti. Bu açıklamalar, stratejik Hürmüz Boğazı'ndaki denizcilik güvenliği ve bölgesel istikrar konularında Umman'ın pozisyonunu ortaya koyuyor. Umman, bölgedeki denizcilik trafiği ve enerji güvenliği açısından kritik bir rol oynamaktadır.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-a-number-of-iranian-aerial-attacks/3980208",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "17826357100981jqeo",
-        "title": "İran Dışişleri Bakanı, Iraklı yetkililerle görüşmek üzere Bağdat'a gidiyor",
-        "summary": "İran Dışişleri Bakanı, Iraklı yetkililerle görüşmek üzere Bağdat'a bir ziyaret gerçekleştirecek. İranlı yetkili Abbas Araghchi'nin açıklamasına göre, ziyaretin ana gündem maddelerinden biri, İran'ın hayatını kaybeden dini lideri için düzenlenecek cenaze töreniyle ilgili gerekli düzenlemelerin Iraklı yetkililerle yapılması olacak. Görüşmelerde ayrıca bölgesel konuların ve ikili ilişkilerin de ele alınması bekleniyor. Bu ziyaret, iki komşu ülke arasındaki diplomatik ilişkilerin devamlılığı açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36733315/pexels-photo-36733315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T08:35:10.098Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-foreign-minister-heads-to-baghdad-for-talks-with-iraqi-officials/3980192",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
