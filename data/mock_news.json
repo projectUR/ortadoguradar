@@ -1,5 +1,37 @@
 [
     {
+        "id": "1782829554782dy5o0",
+        "title": "ABD ve İran Heyetleri Doha'da Dolaylı Görüşmeler Gerçekleştiriyor",
+        "summary": "ABD elçileri, dondurulmuş İran fonlarının serbest bırakılması konusunu görüşmek üzere İranlı teknik bir heyetle dolaylı görüşmeler yapmak üzere Katar'ın başkenti Doha'da bulunuyor. İran, bu mali meselenin takibi için Doha'ya bir uzman heyeti gönderdiğini resmi olarak açıkladı. Görüşmelerin temel amacı, İran'ın yurt dışında dondurulmuş olan fonlarının serbest bırakılması sürecini ilerletmek ve bu konudaki pürüzleri gidermek. Katar'ın ev sahipliği yaptığı bu dolaylı müzakereler, iki ülke arasındaki gerilimi azaltma ve mali konularda çözüm bulma çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-30T14:25:54.782Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/6/30/us-envoys-in-doha-for-indirect-talks-with-iranian-technical-delegation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17828296859944drdi",
+        "title": "İran, ABD Anlaşması İçin Katarlı Arabulucularla Doha'da Görüşeceğini Duyurdu",
+        "summary": "İranlı yetkililer, ABD ile varılan bir anlaşmanın uygulanması konusunda Katarlı arabulucularla Doha'da bir araya geleceklerini bildirdi. Tahran, Washington ile doğrudan görüşmeleri reddederken, dondurulmuş varlıkların gündemde olduğunu belirtti. Görüşmelerin, İran'ın yurt dışında bloke edilen fonlarına erişimi ve ABD yaptırımlarının hafifletilmesi gibi konuları ele alması bekleniyor. Katar'ın bu süreçteki arabuluculuk rolü, iki ülke arasındaki gerilimi azaltma çabalarının bir parçası olarak görülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7643748/pexels-photo-7643748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-30T14:28:05.994Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-officials-to-meet-qatari-mediators-in-doha-on-us-deal-implementation/3982298",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782820010840nufx6",
         "title": "Gazze'de İsrail Saldırısından Kurtulan Kişi",
         "summary": "Gazze Şeridi'nde bir aracın hedef alındığı İsrail saldırısında bir kişinin hayatta kaldığı bildirildi. Olay, İsrail güçlerinin bölgedeki hedeflere yönelik operasyonları sırasında meydana geldi. Haberde, saldırının 'çift vuruş' tekniğiyle gerçekleştirildiği bilgisi yer aldı. Hayatta kalan kişinin durumu hakkında detaylı bilgi verilmezken, bölgedeki gerilimin devam ettiği belirtildi.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17826450016461d69a",
-        "title": "ABD'nin İran'a Yönelik Saldırıları Sonrası Bölgesel Gerilim Tırmanıyor",
-        "summary": "ABD'nin İran'a yönelik ikinci günkü saldırılarının ardından bölgede gerilim yükseldi. İran, bu saldırılara misilleme yaparak karşılık verdi. Bahreyn ve Kuveyt, İran'ın gerçekleştirdiği bu misilleme saldırılarını kınadıklarını açıkladı. Bu gelişmeler, ABD'nin İran ile daha önce imzalanan bir Mutabakat Zaptı'ndan çıkış yolları aradığı bir döneme denk geldi. Bölgedeki bu son olaylar, ABD-İran ilişkilerindeki mevcut hassasiyeti ve Orta Doğu'daki güvenlik endişelerini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T11:10:01.646Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782645025014a4ceb",
-        "title": "Irak güvenlik güçleri yolsuzlukla mücadele operasyonunda çok sayıda yetkiliyi tutukladı",
-        "summary": "Irak güvenlik güçleri, yolsuzlukla mücadele kapsamında geniş çaplı bir operasyon düzenledi. Operasyonda, aralarında üst düzey isimlerin de bulunduğu çok sayıda yetkili gözaltına alındı. Güvenlik kaynaklarından edinilen bilgiye göre, operasyon şafak vakti başkent Bağdat'taki Yeşil Bölge ve şehrin çeşitli mahallelerinde gerçekleştirildi. Bu adımlar, ülkedeki yolsuzlukla mücadele çabalarının önemli bir parçası olarak değerlendiriliyor ve kamuoyunda yankı uyandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34628703/pexels-photo-34628703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T11:10:25.014Z",
-        "location": {
-            "lat": 33.34,
-            "lng": 44.39,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
