@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782794863490z7p9k",
+        "title": "2 Demokrat Milletvekili, ABD'nin İsrail'e Askeri Yardımını Engelleyen Değişikliğe Oy Verecek",
+        "summary": "ABD Kongresi'nde, İsrail'e yönelik askeri yardımların kesilmesini öngören bir yasa değişikliği gündeme geldi. Demokrat Parti'den iki milletvekili, Greg Casar ve Alexandria Ocasio-Cortez, Cumhuriyetçi Thomas Massie tarafından sunulan bu değişikliği destekleyeceklerini açıkladı. Söz konusu değişiklik, İsrail'e sağlanan 3,3 milyar dolarlık askeri yardımın durdurulmasını hedefliyor. Bu gelişme, ABD'nin İsrail politikaları ve Kongre içindeki farklı görüşleri bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-30T04:47:43.490Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/world/2-democratic-lawmakers-to-vote-for-amendment-blocking-us-military-aid-to-israel/3981786",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782778033873ykfsl",
         "title": "İsrail saldırısı Gazze'deki insani bölgede iki kişiyi öldürdü, çadırları ateşe verdi",
         "summary": "Gazze Şeridi'nin Han Yunus kentine bağlı El-Mevasi bölgesine düzenlenen İsrail saldırısında iki kişi hayatını kaybetti. Saldırıda çok sayıda kişi de yaralandı. El-Mevasi bölgesi, daha önce İsrail ordusu tarafından sivillerin sığınması için 'güvenli bölge' olarak belirlenmişti. Saldırı sonucunda bölgedeki çadırların alev aldığı bildirildi. Olay, insani yardım kuruluşlarının bölgedeki güvenlik endişelerini bir kez daha gündeme getirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/politics/top-pakistani-and-bahraini-diplomats-discuss-mideast-situation-in-wake-of-latest-hostilities/3980234",
         "trendScore": 75,
         "isBreaking": false
-    },
-    {
-        "id": "1782635688259nbmpr",
-        "title": "Bahreyn, İran'a Ait Hava Saldırılarını Engellediğini Duyurdu",
-        "summary": "Bahreyn İçişleri Bakanlığı, ülkenin kuzeyinde İran'a ait olduğu iddia edilen bir dizi hava saldırısının başarıyla engellendiğini açıkladı. Bakanlık tarafından yapılan açıklamada, saldırılar sonucunda bir konut binasında maddi hasar meydana geldiği ancak herhangi bir can kaybı yaşanmadığı belirtildi. Bu olay, Bahreyn'in hava savunma sistemlerinin etkinliğini gösterirken, bölgedeki gerilimi artırma potansiyeli taşıyor. Bahreyn, saldırıların kaynağı olarak doğrudan İran'ı işaret etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27080756/pexels-photo-27080756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T08:34:48.259Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-a-number-of-iranian-aerial-attacks/3980208",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
