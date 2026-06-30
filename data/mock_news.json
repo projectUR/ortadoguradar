@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782837492417a6th5",
+        "title": "UNRWA Başkanı Acil Fon ve Reform Çağrısı Yaptı, Ajans 100 Milyon Dolarlık Açıkla Karşı Karşıya",
+        "summary": "Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA) başkanı, kurumun 100 milyon dolarlık bir bütçe açığıyla mücadele ettiğini belirterek acil finansman ve reform çağrısında bulundu. Christian Saunders, UNRWA'nın sadece hizmet verdiği kişiler için değil, aynı zamanda bölgenin geleceği için de korunmasının ve güçlendirilmesinin hayati önem taşıdığını vurguladı. Ajans, Filistinli mültecilere eğitim, sağlık ve sosyal hizmetler gibi temel yardımlar sağlayarak Orta Doğu'da istikrarın sürdürülmesinde kritik bir rol oynamaktadır. Bu finansal açık, ajansın bölgedeki milyonlarca mülteciye yönelik hayati hizmetlerini sürdürme kapasitesini ciddi şekilde tehdit etmektedir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/6757956/pexels-photo-6757956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-06-30T16:38:12.417Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gaza Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/unrwa-chief-calls-for-urgent-funding-reform-as-agency-faces-100-million-deficit/3982559",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782829554782dy5o0",
         "title": "ABD ve İran Heyetleri Doha'da Dolaylı Görüşmeler Gerçekleştiriyor",
         "summary": "ABD elçileri, dondurulmuş İran fonlarının serbest bırakılması konusunu görüşmek üzere İranlı teknik bir heyetle dolaylı görüşmeler yapmak üzere Katar'ın başkenti Doha'da bulunuyor. İran, bu mali meselenin takibi için Doha'ya bir uzman heyeti gönderdiğini resmi olarak açıkladı. Görüşmelerin temel amacı, İran'ın yurt dışında dondurulmuş olan fonlarının serbest bırakılması sürecini ilerletmek ve bu konudaki pürüzleri gidermek. Katar'ın ev sahipliği yaptığı bu dolaylı müzakereler, iki ülke arasındaki gerilimi azaltma ve mali konularda çözüm bulma çabalarının bir parçası olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1782651484226tangw",
-        "title": "Suudi Aramco'ya ait helikopter Ras Tanura'da düştü: 14 kişi hayatını kaybetti",
-        "summary": "Suudi Arabistan'ın doğusundaki Ras Tanura kentinde Suudi Aramco'ya ait bir helikopter düştü. Devlet medyası tarafından bildirilen kazada, helikopterde bulunan 14 kişinin tamamı hayatını kaybetti. Olayın ardından yetkililer tarafından soruşturma başlatıldığı belirtildi. Kazanın nedeni hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki güvenlik ve acil durum ekipleri olay yerine sevk edildi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/34832029/pexels-photo-34832029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T12:58:04.226Z",
-        "location": {
-            "lat": 26.65,
-            "lng": 50.15,
-            "name": "Ras Tanura, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
