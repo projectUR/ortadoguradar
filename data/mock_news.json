@@ -1,5 +1,21 @@
 [
     {
+        "id": "17829336775871smu2",
+        "title": "BM Barış Gücü, Güney Lübnan'da Hareket Kısıtlamalarıyla Karşı Karşıya",
+        "summary": "Birleşmiş Milletler Lübnan Geçici Görev Gücü (UNIFIL), ülkenin güneyinde görev yapan barış güçlerinin hareket kısıtlamalarıyla karşılaştığını bildirdi. UNIFIL'den yapılan açıklamada, barikatlar, enkaz ve diğer engeller nedeniyle önemli devriyelerin geçici olarak durdurulduğu belirtildi. Bu kısıtlamaların, bölgedeki operasyonel faaliyetleri olumsuz etkilediği ifade edildi. Görev gücü, bu tür engellemelerin misyonlarının yerine getirilmesini zorlaştırdığını vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10225656/pexels-photo-10225656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T19:21:17.587Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-peacekeepers-in-lebanon-say-they-face-movement-restrictions-in-southern-lebanon/3983713",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782926921739zhe01",
         "title": "İran Müzakereleri ABD Diplomasisinin Çöküşünü Ortaya Koyuyor",
         "summary": "ABD'nin İran ile yürüttüğü müzakereler, Amerikan diplomasisinin Trump dönemiyle birlikte yaşadığı dönüşümü gözler önüne seriyor. Haberde, bu dönemde ABD dış politikasının tarafsız diplomatlar yerine emlak yatırımcıları tarafından yönlendirildiği ifade ediliyor. Bu durum, ABD'nin diplomatik yaklaşımında köklü bir değişime işaret ederek, uluslararası ilişkilerdeki etkisini sorgulatıyor.",
@@ -780,22 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iraqi-prime-minister-vows-no-immunity-for-corrupt-officials-after-arrests/3980936",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17827247702224rmz0",
-        "title": "İran, Katar'daki 6 Milyar Dolarlık Fonlarının ABD Anlaşması Kapsamında Serbest Bırakılması Gerektiğini Belirtti",
-        "summary": "İran, Katar'da bulunan 6 milyar dolarlık fonlarının ABD ile varılan bir anlaşma çerçevesinde serbest bırakılması gerektiğini açıkladı. İran Cumhurbaşkanı, söz konusu fonların iadesi için gerekli takibin sürdüğünü belirtti. Bu fonlar, daha önce ABD ile yapılan bir mahkum takası anlaşması kapsamında dondurulmuştu. Tahran yönetimi, fonların serbest bırakılmasının anlaşmanın bir parçası olduğunu vurguluyor. Konuyla ilgili diplomatik ve finansal süreçlerin devam ettiği bildirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14907377/pexels-photo-14907377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T09:19:30.222Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-6b-of-its-funds-in-qatar-should-be-released-under-us-deal/3980919",
         "trendScore": 85,
         "isBreaking": false
     }
