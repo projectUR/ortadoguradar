@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782919189959h0sy5",
+        "title": "İran'a Yönelik Savaş Küresel Enerji Sektörünü Nasıl Sonsuza Dek Değiştirdi?",
+        "summary": "Haber, İran'a yönelik olası bir savaşın küresel enerji sektöründe yaratacağı kalıcı değişiklikleri ele alıyor. Enerji analistleri, böyle bir çatışmanın yenilenebilir enerji kaynaklarına geçişi hızlandıracağını belirtiyor. Ayrıca, dünyanın Hürmüz Boğazı'na alternatif enerji nakliye rotaları arayışına girmesine neden olacağını öngörüyorlar. Bu durum, küresel enerji güvenliği stratejilerini yeniden şekillendirerek enerji piyasalarında köklü dönüşümlere yol açabilir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/33804689/pexels-photo-33804689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T15:19:49.959Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178290810700324pjw",
         "title": "Bosnalı Taraftarlar Dünya Kupası'na Tutku ve Filistin Desteği Getirdi",
         "summary": "Dünya Kupası'nda mücadele eden Bosna Hersek Milli Takımı'nın taraftarları, turnuvaya büyük bir tutkuyla katılım gösteriyor. Taraftarlar, takımlarına desteklerinin yanı sıra Filistin'e yönelik dayanışma mesajları da veriyor. Bu durum, Bosnalı taraftarları ve dünya genelindeki Bosna diasporasını dikkatlerin odağına yerleştirdi. Takım, Dünya Kupası'nda Son 16 turuna kalma mücadelesini sürdürüyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-3-palestinians-expands-areas-under-occupation-in-central-gaza/3980915",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782724810146npgdx",
-        "title": "İsrail güçleri işgal altındaki Batı Şeria'da Filistin üniversitesine baskın düzenledi, güvenlik görevlisini darp etti",
-        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da bulunan Filistin'e ait Birzeit Üniversitesi'ne bir baskın gerçekleştirdi. Baskın sırasında üniversitenin bir güvenlik görevlisinin darp edildiği bildirildi. Üniversite yönetimi, kampüs tesislerinde meydana gelen hasarı gösteren fotoğrafları kamuoyuyla paylaştı. Bu olay, bölgedeki gerilimi artırırken, Filistin eğitim kurumlarına yönelik müdahaleleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34234351/pexels-photo-34234351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T09:20:10.146Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-palestinian-university-assault-security-guard-in-occupied-west-bank/3980849",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
