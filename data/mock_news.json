@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782946086095sbrnv",
+        "title": "ABD, Batı Kudüs'te Kalıcı Büyükelçilik İçin İsrail ile Arazi Anlaşması İmzaladı",
+        "summary": "Amerika Birleşik Devletleri ve İsrail, Batı Kudüs'te kalıcı bir ABD büyükelçiliği inşa etmek üzere arazi tahsisini içeren bir anlaşmaya imza attı. Sembolik olarak 1 dolarlık kira bedeliyle yapılan bu sözleşme, ABD'nin Kudüs'teki diplomatik varlığını kalıcı hale getirme amacını taşıyor. Anlaşma, ABD'nin Kudüs'ü İsrail'in başkenti olarak tanıması ve büyükelçiliğini Tel Aviv'den buraya taşıması kararının ardından atılan önemli bir adım olarak değerlendiriliyor. Bu gelişme, Kudüs'ün statüsü konusundaki tartışmaları yeniden gündeme getirirken, bölgesel ve uluslararası alanda yankı uyandırması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18160262/pexels-photo-18160262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T22:48:06.095Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782940076103b941u",
         "title": "İsrail Muhalefeti Dış Politikada Üslup Değişikliğine İşaret Ediyor",
         "summary": "İsrail muhalefeti, ülkenin dış politikasında üslup ve yöntem açısından bir değişiklik sinyali veriyor ancak politikaların temel içeriğinde bir farklılık öngörmüyor. Muhalefet, Başbakan Netanyahu'nun dış politikayı yürütme biçimini eleştirirken, bu politikaların nihai hedeflerine karşı çıkmaktan kaçınıyor. Bu durum, muhalefetin iktidara gelmesi halinde dış politika uygulamalarında bir tarz değişikliği olabileceğini, ancak stratejik hedeflerin büyük ölçüde korunacağını gösteriyor. Muhalefetin bu tutumu, iç siyasette Netanyahu'ya karşı bir duruş sergilerken, dış politika konsensüsünü koruma çabası olarak yorumlanıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1782724724344xax8l",
-        "title": "Irak Dışişleri Bakanı, Esad'ın düşüşünden bu yana ilk resmi ziyaretini gerçekleştirmek üzere Suriye'ye ulaştı",
-        "summary": "Irak Dışişleri Bakanı Fuad Hüseyin, Suriyeli mevkidaşı Esad el-Şeybani'nin daveti üzerine Suriye'ye resmi bir ziyaret gerçekleştirdi. Bu ziyaret, Esad rejiminin düşüşünden bu yana Irak'tan Suriye'ye yapılan ilk üst düzey resmi ziyaret olma özelliğini taşıyor. İki ülke arasındaki diplomatik ilişkilerin normalleşmesi ve bölgesel işbirliğinin ele alınması bekleniyor. Görüşmelerde ikili ilişkiler, güvenlik konuları ve bölgesel gelişmelerin masaya yatırılacağı tahmin ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T09:18:44.344Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraqi-foreign-minister-arrives-in-syria-for-1st-official-visit-since-assad-s-fall/3980943",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
