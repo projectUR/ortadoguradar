@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782926921739zhe01",
+        "title": "İran Müzakereleri ABD Diplomasisinin Çöküşünü Ortaya Koyuyor",
+        "summary": "ABD'nin İran ile yürüttüğü müzakereler, Amerikan diplomasisinin Trump dönemiyle birlikte yaşadığı dönüşümü gözler önüne seriyor. Haberde, bu dönemde ABD dış politikasının tarafsız diplomatlar yerine emlak yatırımcıları tarafından yönlendirildiği ifade ediliyor. Bu durum, ABD'nin diplomatik yaklaşımında köklü bir değişime işaret ederek, uluslararası ilişkilerdeki etkisini sorgulatıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T17:28:41.739Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782919189959h0sy5",
         "title": "İran'a Yönelik Savaş Küresel Enerji Sektörünü Nasıl Sonsuza Dek Değiştirdi?",
         "summary": "Haber, İran'a yönelik olası bir savaşın küresel enerji sektöründe yaratacağı kalıcı değişiklikleri ele alıyor. Enerji analistleri, böyle bir çatışmanın yenilenebilir enerji kaynaklarına geçişi hızlandıracağını belirtiyor. Ayrıca, dünyanın Hürmüz Boğazı'na alternatif enerji nakliye rotaları arayışına girmesine neden olacağını öngörüyorlar. Bu durum, küresel enerji güvenliği stratejilerini yeniden şekillendirerek enerji piyasalarında köklü dönüşümlere yol açabilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-6b-of-its-funds-in-qatar-should-be-released-under-us-deal/3980919",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17827247900752ok7p",
-        "title": "İsrail ordusu Gazze'de 3 Filistinliyi öldürdü, işgal altındaki bölgeleri genişletti",
-        "summary": "İsrail ordusunun orta Gazze'de üç Filistinliyi öldürdüğü bildirildi. Tanıkların ifadelerine göre, İsrail araçları 'Sarı Hat'ı belirten beton blokları yaklaşık 150 metre batıya doğru hareket ettirdi. Bu eylemle birlikte, Vadi Gazze Köprüsü'nün kuzeyindeki işgal altındaki bölgelerin genişletildiği belirtildi. Gelişmeler, bölgedeki gerilimi artırabilecek nitelikte.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934175/pexels-photo-35934175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T09:19:50.075Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-3-palestinians-expands-areas-under-occupation-in-central-gaza/3980915",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
