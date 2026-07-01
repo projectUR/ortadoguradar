@@ -1,5 +1,53 @@
 [
     {
+        "id": "17828963721240z8ay",
+        "title": "Lübnan-İsrail Anlaşması: Yeni Bir Savaşın Habercisi mi?",
+        "summary": "Lübnan ile İsrail arasında imzalanan anlaşmanın, bölgede gelecekteki bir çatışmanın zeminini hazırladığı iddia edildi. Haberde, söz konusu anlaşmanın yeni bir savaşın önünü açabileceği ve bu olası çatışmada sorumluluğun Lübnan'a yükleneceği belirtiliyor. Bu durum, anlaşmanın uzun vadeli etkileri ve bölgedeki istikrara potansiyel tehditleri hakkında endişeleri artırıyor. Gözlemciler, anlaşmanın bölgedeki gerilimi azaltmak yerine artırabileceği yönünde yorumlar yapıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T08:59:32.124Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan-İsrail Sınırı"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782896402568okym6",
+        "title": "Hürmüz Boğazı'nda Bir Gemi İran'ın Belirlediği Rotadan Çıktıktan Sonra Karaya Oturdu",
+        "summary": "Hürmüz Boğazı'nda seyreden bir ticari gemi, İran tarafından belirlenen deniz rotasından ayrıldıktan sonra karaya oturduğu bildirildi. Bu olay, İran'ın Washington ile yapılan İslamabad Mutabakat Zaptı kapsamında ticari gemiler için uygulamaya koyduğu yeni navigasyon kurallarının ardından meydana geldi. Yeni düzenlemeler, güvenli geçiş için belirlenmiş rotaların kullanılmasını ve İranlı yetkililerle koordinasyonu zorunlu kılıyor. Yaşanan kaza, bölgedeki denizcilik güvenliği ve uluslararası sulardaki seyrüsefer özgürlüğü konularında tartışmaları yeniden alevlendirdi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/13102530/pexels-photo-13102530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T09:00:02.568Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/ship-runs-aground-in-hormuz-after-leaving-iran-designated-route-reports/3983028",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17828964441886utcn",
+        "title": "İsrail ordusu Batı Şeria baskınlarında aralarında gazeteci ve 5 kadının da bulunduğu 20 Filistinliyi gözaltına aldı",
+        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da düzenlediği baskınlarda aralarında bir gazeteci ve beş kadının da bulunduğu 20 Filistinliyi gözaltına aldı. Filistin Esirler Cemiyeti'nin açıklamasına göre, bu son gözaltılarla birlikte Ekim 2023'ten bu yana tutuklanan Filistinlilerin toplam sayısı 24.000'i aştı. Cemiyet, özellikle kadınların ve gazetecilerin hedef alınma oranının giderek arttığını vurguladı. Bu operasyonlar, bölgedeki gerilimin devam ettiğini göstermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7773268/pexels-photo-7773268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T09:00:44.188Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-20-palestinians-including-journalist-5-women-in-west-bank-raids/3982909",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1782882452854140uw",
         "title": "Dünya Okyanusları Tarihinin En Sıcak Haziran Ayını Yaşadı, Bilim İnsanları Daha Fazla Isınma Bekliyor",
         "summary": "Avrupa Birliği gözlemcileri tarafından yapılan açıklamaya göre, 2026 yılının ilk yarısı \"sürekli ve istisnai okyanus ısınması\" ile kayıtlara geçti. Bilim insanları, dünya okyanuslarının tarihindeki en sıcak Haziran ayını yaşadığını ve önümüzdeki dönemde daha fazla ısınmanın beklendiğini duyurdu. Bu durum, küresel iklim değişikliğinin okyanuslar üzerindeki derin etkilerini bir kez daha gözler önüne sermektedir. Deniz suyu sıcaklıklarındaki bu artışın, deniz ekosistemleri, kıyı şeridi bulunan bölgelerin iklim modelleri ve su kaynakları üzerinde önemli sonuçlar doğurması beklenmektedir. Özellikle Orta Doğu gibi geniş kıyı şeritlerine sahip bölgeler için bu ısınma, çevresel ve ekonomik riskler barındırmaktadır.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1782663235784ulh69",
-        "title": "İsrail Lübnan'ı Vurdu, Yeni Barış Anlaşması Sınanıyor",
-        "summary": "İsrail'in Lübnan'a yönelik saldırıları, bölgede kısa süre önce varılan barış anlaşmasını sınadığı belirtiliyor. Haberlere göre, İsrail güçleri Lübnan'ın güneyindeki operasyonlarını sürdürüyor. Lübnan merkezli Hizbullah örgütü, söz konusu barış anlaşmasını \"teslimiyet\" olarak değerlendirdiğini açıkladı. Bu gelişmeler, bölgedeki gerilimin yeniden tırmanma potansiyeli taşıdığına işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699687/pexels-photo-5699687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T16:13:55.784Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178265830091239zsk",
-        "title": "ABD-İran Mutabakatı: Bir Anlaşma Serabı",
-        "summary": "ABD ile İran arasında imzalanan mutabakat zaptının kalıcı bir barış getirmeyeceği belirtiliyor. Hem Washington hem de Tahran yönetimlerinin bu anlaşmanın sadece stratejik bir duraklama olduğunun farkında olduğu ifade ediliyor. Uzmanlar, mevcut mutabakatın iki ülke arasındaki gerilimi geçici olarak hafifletme amacı taşıdığını, ancak uzun vadeli çözümler sunmadığını vurguluyor. Bu durum, ABD ve İran ilişkilerinin geleceğine dair belirsizliklerin devam ettiğine ve bölgesel dinamikler üzerindeki etkisinin sınırlı kalabileceğine işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12231826/pexels-photo-12231826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T14:51:40.912Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17826583408192pyio",
-        "title": "Adam Johnson: ABD Kurumsal Medyası İsrail'in Gazze'deki Soykırımını Nasıl Pazarladı?",
-        "summary": "Marc Lamont Hill, yazar Adam Johnson ile ABD kurumsal medyasının Gazze'deki rolünü ele alan bir söyleşi gerçekleştirdi. Johnson, bu medyanın İsrail'in Gazze'deki eylemlerini \"soykırım\" olarak nitelendirilen olayları kamuoyuna nasıl sunduğunu ve bu anlatıyı nasıl pazarladığını detaylandırdı. Söyleşi, medyanın çatışma bölgelerindeki haberleştirme etiği ve kamuoyu üzerindeki etkisi üzerine kritik bir bakış açısı sunuyor. Bu analiz, Orta Doğu'daki güncel çatışmaların medya tarafından nasıl şekillendirildiğini sorguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17609924/pexels-photo-17609924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T14:52:20.819Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
