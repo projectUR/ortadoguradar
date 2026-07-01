@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782882452854140uw",
+        "title": "Dünya Okyanusları Tarihinin En Sıcak Haziran Ayını Yaşadı, Bilim İnsanları Daha Fazla Isınma Bekliyor",
+        "summary": "Avrupa Birliği gözlemcileri tarafından yapılan açıklamaya göre, 2026 yılının ilk yarısı \"sürekli ve istisnai okyanus ısınması\" ile kayıtlara geçti. Bilim insanları, dünya okyanuslarının tarihindeki en sıcak Haziran ayını yaşadığını ve önümüzdeki dönemde daha fazla ısınmanın beklendiğini duyurdu. Bu durum, küresel iklim değişikliğinin okyanuslar üzerindeki derin etkilerini bir kez daha gözler önüne sermektedir. Deniz suyu sıcaklıklarındaki bu artışın, deniz ekosistemleri, kıyı şeridi bulunan bölgelerin iklim modelleri ve su kaynakları üzerinde önemli sonuçlar doğurması beklenmektedir. Özellikle Orta Doğu gibi geniş kıyı şeritlerine sahip bölgeler için bu ısınma, çevresel ve ekonomik riskler barındırmaktadır.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/4061283/pexels-photo-4061283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-01T05:07:32.854Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1782845945865s867u",
         "title": "ABD Temsilcileri Doha'da Arabulucularla Görüşecek, İranlılarla Değil",
         "summary": "Katar Dışişleri Bakanlığı sözcüsü, ABD temsilcilerinin Doha'da arabulucularla bir araya geleceğini ancak İranlı yetkililerle doğrudan veya üst düzey bir görüşme planlanmadığını açıkladı. Sözcü, ABD ile İran arasında herhangi bir doğrudan temasın gündemde olmadığını belirtti. Bu durum, iki ülke arasındaki gerilimin devam ettiğini ve diplomatik çabaların arabulucular üzerinden yürütüldüğünü gösteriyor. Katar, bu süreçte arabulucu rolünü üstlenmeye devam ediyor.",
@@ -780,22 +796,6 @@
             "name": "Gazze Şehri, Filistin"
         },
         "source": "https://www.aljazeera.com/video/upfront/2026/6/28/adam-johnson-on-how-us-corporate-media-sold-israels-genocide-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178265140882397il6",
-        "title": "Araghchi: Hürmüz Boğazı 30 Gün Boyunca İran'ın Kontrolünde Kalacak",
-        "summary": "İranlı yetkili Araghchi, Hürmüz Boğazı'nın önümüzdeki 30 gün boyunca İran'ın kontrolünde kalacağını açıkladı. Dünyanın en önemli petrol geçiş noktalarından biri olan bu stratejik su yolunun yönetimi konusunda tüm taraflara müdahale etmeme çağrısında bulunuldu. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde geldi ve uluslararası denizcilik güvenliği açısından önem taşıyor. İran, boğazın güvenliğini kendi ulusal çıkarları doğrultusunda sağlamaya devam edeceğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10546956/pexels-photo-10546956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-28T12:56:48.823Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
