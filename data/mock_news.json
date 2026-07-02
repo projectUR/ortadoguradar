@@ -1,5 +1,85 @@
 [
     {
+        "id": "1782990568454mv1hx",
+        "title": "Kafes İçinde Bir Filistin Evi",
+        "summary": "Filistinli bir ailenin yaşadığı evin, İsrail yerleşimi ile ayrım duvarı arasında izole bir konumda bulunduğu bildirildi. Haberlere göre, söz konusu ev, bölgedeki yerleşim politikaları ve güvenlik önlemleri nedeniyle adeta bir 'kafes' içinde kalmış durumda. Bu durum, Filistinli ailelerin günlük yaşamda karşılaştığı zorlukları ve hareket kısıtlamalarını gözler önüne seriyor. Olay, İsrail-Filistin çatışmasının insani boyutunu ve yerleşim bölgelerindeki gerilimi yansıtmaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17702741/pexels-photo-17702741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T11:09:28.454Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1782990608995zypw4",
+        "title": "ABD, İran ile karşılıklı saldırıların ardından 'gerilimi düşürme' konusunda anlaştığını bildirdi",
+        "summary": "Amerika Birleşik Devletleri, İran ile yaşanan karşılıklı saldırıların ardından gerilimi düşürme konusunda anlaştığını açıkladı. Hafta sonu boyunca gerçekleşen bir dizi saldırı, ABD ve İran'ın birbirlerini ateşkes anlaşmasını ihlal etmekle suçlamasına neden oldu. Washington yönetimi, taraflar arasında yaşanan çatışmaların ardından 'geri çekilme' kararı alındığını belirtti. Bu gelişme, bölgedeki tansiyonun düşürülmesi yönünde atılan bir adım olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T11:10:08.995Z",
+        "location": {
+            "lat": 33,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1782990631399kah76",
+        "title": "Suudi Arabistan'da Helikopter Kazasında On Dört Kişi Hayatını Kaybetti",
+        "summary": "Suudi Arabistan'da meydana gelen bir helikopter kazasında on dört kişinin yaşamını yitirdiği bildirildi. Kazaya karışan hava aracı, ülkenin devlete ait petrol devi Aramco'ya aitti. Olayın ardından yetkililer tarafından geniş çaplı bir soruşturma başlatıldı. Kazanın nedeni henüz belirlenemezken, soruşturma devam ediyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/28552613/pexels-photo-28552613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T11:10:31.399Z",
+        "location": {
+            "lat": 23.8859,
+            "lng": 45.0792,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1782990686003baqv9",
+        "title": "Gazze hükümeti: İsrail, Gazze'nin %80'inden fazlasını kontrol ediyor; 'soykırım' 1000 güne ulaşırken 223.000 ton patlayıcı kullandı",
+        "summary": "Gazze hükümeti, İsrail'in Gazze Şeridi'nin %80'inden fazlasını kontrol ettiğini ve bölgeye 223.000 ton patlayıcı attığını iddia etti. Hükümetin medya ofisinden yapılan açıklamada, 'soykırım' olarak nitelendirilen çatışmaların 1000. gününe ulaştığı belirtildi. Açıklamaya göre, İsrail'in saldırılarında 73.000'den fazla Filistinli hayatını kaybettiği bildirildi. Hayatını kaybedenler arasında 21.500 çocuk ve 12.500 kadın bulunduğu ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T11:11:26.003Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-controls-over-80-of-gaza-dropped-223-000-tons-of-explosives-as-genocide-reaches-1-000-days-gaza-government/3984165",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
+        "id": "17829907213146g8nv",
+        "title": "Suriye Dışişleri Bakanı Lübnan Cumhurbaşkanı ile Beyrut'ta Görüştü",
+        "summary": "Suriye Dışişleri Bakanı, Lübnan Cumhurbaşkanı ile Beyrut'ta bir araya geldi. Görüşmede, iki ülke arasındaki ikili ilişkilerin güçlendirilmesi ana gündem maddesi oldu. Suriye Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, taraflar arasındaki müzakereler 'karşılıklı saygı ve iyi komşuluk temelinde' ilişkilerin geliştirilmesine odaklandı. Bu diplomatik buluşma, iki komşu ülke arasındaki mevcut ilişkilerin seyrini ve gelecekteki işbirliği alanlarını değerlendirme fırsatı sundu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T11:12:01.314Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/politics/syrian-foreign-minister-meets-lebanese-president-in-beirut/3983962",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "178298006024547kdy",
         "title": "'Ölümünden iki hafta sonra arandım': Gazze'deki hastalar tahliye için acı verici gecikmelerle karşı karşıya",
         "summary": "Gazze Şeridi'ndeki hastalar, yurt dışında tedavi görmek üzere tahliye edilmek için uzun ve acı verici gecikmelerle mücadele ediyor. Hamas kontrolündeki Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, ateşkesin başlamasından bu yana yurt dışında tedaviye sevk edilen yaklaşık 300 Filistinli, tahliye beklerken hayatını kaybetti. Bu durum, bölgedeki sağlık altyapısının yetersizliğini ve tıbbi tahliye süreçlerindeki ciddi aksaklıkları gözler önüne seriyor. Hasta yakınları, sevk onaylarının veya tahliye çağrılarının, hastalar vefat ettikten haftalar sonra kendilerine ulaştığını belirtiyor. Yaşanan bu gecikmeler, Gazze'deki insani krizin derinliğini ve sağlık hizmetlerine erişimdeki zorlukları bir kez daha ortaya koyuyor.",
@@ -717,86 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/obstacle-is-not-lack-of-law-but-political-reluctance-expert-tells-security-council-on-israeli-occupation/3981550",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782752187022uur79",
-        "title": "Hürmüz Boğazı'nda Gemi Trafiği Güvenlik Endişelerine Rağmen Devam Ediyor",
-        "summary": "Hürmüz Boğazı'nda gemi trafiği, bölgedeki güvenlik endişelerine rağmen devam ediyor. MarineTraffic verilerine göre, 26-28 Haziran tarihleri arasında bu kritik körfez suyolundan 108 doğrulanmış geçiş gerçekleşti. Rotalama modelleri, denizcilik operatörlerinin mevcut duruma karşı temkinli yaklaştığını ortaya koyuyor. Küresel enerji tedariki için hayati önem taşıyan boğazdaki bu hareketlilik, bölgedeki jeopolitik gerilimlerin denizcilik faaliyetleri üzerindeki etkisini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19910644/pexels-photo-19910644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T16:56:27.022Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/vessel-traffic-through-strait-of-hormuz-continues-amid-security-concerns/3981477",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17827410787536lj2d",
-        "title": "Sudan: Çin 50 Milyon Dolarlık Krediyi Sildi",
-        "summary": "Sudan, Çin'in ülkeye olan 50 milyon dolarlık bir krediyi sildiğini duyurdu. Bu gelişme, Sudan'daki askeri liderliğindeki hükümetin Batı yaptırımları altında uluslararası destek arayışında olduğu bir döneme denk geldi. Çin ile Sudan arasında imzalanan bu anlaşma, Hartum'un ekonomik yükünü hafifletmeyi ve iki ülke arasındaki ilişkileri güçlendirmeyi hedefliyor. Anlaşmanın, Sudan'ın mevcut siyasi ve ekonomik zorluklarla mücadelesinde önemli bir adım olduğu belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5900131/pexels-photo-5900131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T13:51:18.753Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.56,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/29/sudan-says-china-has-waived-50m-loan-whats-in-it-for-khartoum-beijing?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17827411156728jbfy",
-        "title": "İsrail'in Gazze'ye Düzenlediği Saldırıda Biri Çocuk Üç Kişi Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nin Deir el-Balah bölgesine İsrail tarafından düzenlenen bir saldırıda biri çocuk olmak üzere üç kişi hayatını kaybetti. Bu olay, bölgede devam eden 'ateşkes' ihlalleri arasında gerçekleşen son İsrail operasyonu olarak kayıtlara geçti. Saldırı, Gazze'deki gerilimin tırmanmaya devam ettiğini gösteriyor. Bölgedeki şiddet olayları uluslararası endişeleri artırıyor ve taraflara itidal çağrıları yapılıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19458354/pexels-photo-19458354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T13:51:55.672Z",
-        "location": {
-            "lat": 31.4167,
-            "lng": 34.3333,
-            "name": "Deir el-Balah, Gazze Şeridi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782741136665yssum",
-        "title": "Suudi Arabistan'ın FIFA Dünya Kupası'ndan Erken Elenmesi Federasyon Başkanının İstifasına Yol Açtı",
-        "summary": "Suudi Arabistan Milli Futbol Takımı, FIFA Dünya Kupası'nda H Grubu'nu son sırada tamamlayarak turnuvaya erken veda etti. Üç kez Asya şampiyonu olan ekip, oynadığı üç maçta sadece iki puan toplayarak beklentilerin altında kaldı. Bu başarısız sonucun ardından, Suudi Arabistan Futbol Federasyonu Başkanı görevinden istifa ettiğini duyurdu. Federasyon başkanının istifası, ülkenin futbol camiasında geniş yankı uyandırdı ve ulusal futbol stratejileri hakkında tartışmaları başlattı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32179279/pexels-photo-32179279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T13:52:16.665Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6877,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/6/29/saudi-arabias-early-fifa-world-cup-exit-prompts-federation-chief-to-resign?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1782741165671m1nmi",
-        "title": "İnsan Hakları Grubu: Batı Şeria'daki Çocuk Ölümleri, İsrail'in 'Hesap Vermeyen' Geniş Çaplı Politikasıyla Bağlantılı",
-        "summary": "İsrailli insan hakları örgütü B’Tselem, Batı Şeria'da yaşanan çocuk ölümlerinin, İsrail'in 'neredeyse hiçbir hesap vermeden' gerçekleştirdiği cinayetlerin daha geniş bir politikasını yansıttığını belirtti. Örgüt, bu ölümlerin, İsrail'in Gazze'de 21.000'den fazla Filistinli çocuğu öldürmesinden ayrı düşünülemeyeceğini vurguladı. B'Tselem, Batı Şeria'daki olayların, İsrail'in bölgedeki eylemlerinin bir parçası olduğunu ifade etti. Bu açıklama, İsrail'in insan hakları ihlalleri konusundaki uluslararası tartışmaları yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/34186772/pexels-photo-34186772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T13:52:45.671Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/west-bank-child-deaths-reflect-broader-israeli-policy-of-killings-with-virtually-no-accountability-rights-group/3981403",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
