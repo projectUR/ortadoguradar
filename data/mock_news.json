@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783026795433u1qb3",
+        "title": "Gazze'de Filistinli Kaleci İsrail Saldırılarında Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde yaşanan çatışmalarda bir Filistinli kalecinin, ilk çocuğunu göremeden İsrail saldırıları sonucu yaşamını yitirdiği bildirildi. Bu olay, 8 Ekim 2023 tarihinden bu yana İsrail'in bölgeye yönelik saldırılarında hayatını kaybeden Filistinli spor figürlerinin sayısının en az 1.009'a ulaştığını gösteriyor. Yaşanan bu kayıp, Gazze'deki sivil halkın ve spor camiasının karşı karşıya kaldığı zorlu durumu bir kez daha gözler önüne serdi. Uluslararası kuruluşlar, çatışmalarda sivillerin korunması gerektiği yönündeki çağrılarını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934175/pexels-photo-35934175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T21:13:15.433Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gazan-goalkeeper-killed-by-israel-before-seeing-his-1st-child/3984774",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783020893955rsxqq",
         "title": "İran'da Yüce Lider İçin Son Cenaze Töreni",
         "summary": "İran'ın ilk Yüce Lideri Ayetullah Ruhullah Humeyni için 1989 yılında düzenlenen cenaze töreni, ülke tarihinde önemli bir dönüm noktası olarak kayıtlara geçti. Tahmini 10 milyon kişinin katıldığı belirtilen bu tören, o dönemde ülke genelinde büyük bir yas ve birliktelik göstergesi olarak yorumlandı. Cenaze, İran İslam Cumhuriyeti'nin kurucusu Humeyni'nin vefatının ardından gerçekleşmişti. Söz konusu tören, ülkenin siyasi ve dini liderliğinin geçiş sürecindeki halk desteğini gözler önüne sermişti.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/2-members-of-irans-irgc-killed-in-shooting-reports/3981821",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1782794863490z7p9k",
-        "title": "2 Demokrat Milletvekili, ABD'nin İsrail'e Askeri Yardımını Engelleyen Değişikliğe Oy Verecek",
-        "summary": "ABD Kongresi'nde, İsrail'e yönelik askeri yardımların kesilmesini öngören bir yasa değişikliği gündeme geldi. Demokrat Parti'den iki milletvekili, Greg Casar ve Alexandria Ocasio-Cortez, Cumhuriyetçi Thomas Massie tarafından sunulan bu değişikliği destekleyeceklerini açıkladı. Söz konusu değişiklik, İsrail'e sağlanan 3,3 milyar dolarlık askeri yardımın durdurulmasını hedefliyor. Bu gelişme, ABD'nin İsrail politikaları ve Kongre içindeki farklı görüşleri bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30541596/pexels-photo-30541596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-30T04:47:43.490Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/world/2-democratic-lawmakers-to-vote-for-amendment-blocking-us-military-aid-to-israel/3981786",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
