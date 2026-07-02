@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782998277383ab73m",
+        "title": "Suriye'nin Başkenti Şam'da Patlama Meydana Geldi",
+        "summary": "Suriye'nin başkenti Şam'da bir patlama sesi duyulduğu bildirildi. Olayın ardından bölgede belirsizlik hakim olurken, patlamanın niteliği henüz netlik kazanmadı. Yerel yetkililer, patlamanın nedenini ve detaylarını araştırmak üzere harekete geçti. Güvenlik güçleri, olayın meydana geldiği alanda incelemelerini sürdürüyor. Patlamayla ilgili ilk belirlemeler ve resmi açıklamalar bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538429/pexels-photo-15538429.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T13:17:57.383Z",
+        "location": {
+            "lat": 33.5104,
+            "lng": 36.2783,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1782990568454mv1hx",
         "title": "Kafes İçinde Bir Filistin Evi",
         "summary": "Filistinli bir ailenin yaşadığı evin, İsrail yerleşimi ile ayrım duvarı arasında izole bir konumda bulunduğu bildirildi. Haberlere göre, söz konusu ev, bölgedeki yerleşim politikaları ve güvenlik önlemleri nedeniyle adeta bir 'kafes' içinde kalmış durumda. Bu durum, Filistinli ailelerin günlük yaşamda karşılaştığı zorlukları ve hareket kısıtlamalarını gözler önüne seriyor. Olay, İsrail-Filistin çatışmasının insani boyutunu ve yerleşim bölgelerindeki gerilimi yansıtmaktadır.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1782752117033ei09k",
-        "title": "Uzman, İsrail İşgali Konusunda Güvenlik Konseyi'ne Seslendi: 'Engel Yasa Eksikliği Değil, Siyasi İsteksizlik'",
-        "summary": "Birleşmiş Milletler Güvenlik Konseyi'ne hitap eden bir uzman, İsrail işgaliyle ilgili temel sorunun uluslararası yasa eksikliği değil, mevcut yasaları uygulama konusundaki siyasi isteksizlik olduğunu belirtti. Norveç Mülteci Konseyi'nden Itay Epshtain, Konsey'den yeni yasalar oluşturmasını değil, zaten onayladığı yasaları uygulamasını talep ettiklerini vurguladı. Epshtain'in bu açıklaması, İsrail-Filistin çatışması bağlamında uluslararası hukukun uygulanması ve uluslararası toplumun rolü üzerine devam eden tartışmaları yeniden gündeme getirdi. Bu durum, bölgedeki insani durum ve barış çabaları açısından siyasi iradenin önemini bir kez daha ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T16:55:17.033Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/obstacle-is-not-lack-of-law-but-political-reluctance-expert-tells-security-council-on-israeli-occupation/3981550",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
