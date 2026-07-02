@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783020893955rsxqq",
+        "title": "İran'da Yüce Lider İçin Son Cenaze Töreni",
+        "summary": "İran'ın ilk Yüce Lideri Ayetullah Ruhullah Humeyni için 1989 yılında düzenlenen cenaze töreni, ülke tarihinde önemli bir dönüm noktası olarak kayıtlara geçti. Tahmini 10 milyon kişinin katıldığı belirtilen bu tören, o dönemde ülke genelinde büyük bir yas ve birliktelik göstergesi olarak yorumlandı. Cenaze, İran İslam Cumhuriyeti'nin kurucusu Humeyni'nin vefatının ardından gerçekleşmişti. Söz konusu tören, ülkenin siyasi ve dini liderliğinin geçiş sürecindeki halk desteğini gözler önüne sermişti.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6841108/pexels-photo-6841108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T19:34:53.955Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1783014691997b11i6",
         "title": "Lüksemburg'da Gazze yanlısı paylaşımları nedeniyle işten çıkarılan öğretmen için miting düzenlendi",
         "summary": "Lüksemburg'da, sosyal medya paylaşımları nedeniyle işine son verilen bir öğretmen için öğrenciler ve destekçileri bu hafta bir gösteri düzenledi. Öğretmenin işten çıkarılma nedeni, Gazze'deki duruma ilişkin yaptığı paylaşımlar olarak belirtildi. Bu olay, Avrupa'da Orta Doğu'daki çatışmalarla ilgili ifade özgürlüğü ve iş güvenliği konularını yeniden gündeme getirdi. Göstericiler, öğretmenin yeniden işe alınmasını talep etti.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/world/2-democratic-lawmakers-to-vote-for-amendment-blocking-us-military-aid-to-israel/3981786",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782778033873ykfsl",
-        "title": "İsrail saldırısı Gazze'deki insani bölgede iki kişiyi öldürdü, çadırları ateşe verdi",
-        "summary": "Gazze Şeridi'nin Han Yunus kentine bağlı El-Mevasi bölgesine düzenlenen İsrail saldırısında iki kişi hayatını kaybetti. Saldırıda çok sayıda kişi de yaralandı. El-Mevasi bölgesi, daha önce İsrail ordusu tarafından sivillerin sığınması için 'güvenli bölge' olarak belirlenmişti. Saldırı sonucunda bölgedeki çadırların alev aldığı bildirildi. Olay, insani yardım kuruluşlarının bölgedeki güvenlik endişelerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-30T00:07:13.873Z",
-        "location": {
-            "lat": 31.35,
-            "lng": 34.3,
-            "name": "Han Yunus, Gazze"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
