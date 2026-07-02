@@ -1,5 +1,21 @@
 [
     {
+        "id": "1782951075490ilp1n",
+        "title": "ABD ve Tahran Arasındaki Dolaylı Görüşmeler Tamamlandı: 'Olumlu İlerleme' Kaydedildi",
+        "summary": "Amerika Birleşik Devletleri ve İran'ın başkenti Tahran arasında yürütülen dolaylı görüşmelerin sona erdiği ve 'olumlu ilerleme' kaydedildiği bildirildi. İran tarafından yapılan açıklamada, Mutabakat Zaptı (MoU) ihlallerini bildirmek ve tartışmak üzere bir 'iletişim kanalı' kurulacağı belirtildi. Bu gelişme, iki ülke arasındaki diplomatik çabaların devam ettiğini ve potansiyel anlaşmazlıkların diyalog yoluyla çözülmesine yönelik bir adım atıldığını gösteriyor. Kurulacak kanalın, gelecekteki olası sorunların ele alınmasında önemli bir rol oynaması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T00:11:15.490Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1782946086095sbrnv",
         "title": "ABD, Batı Kudüs'te Kalıcı Büyükelçilik İçin İsrail ile Arazi Anlaşması İmzaladı",
         "summary": "Amerika Birleşik Devletleri ve İsrail, Batı Kudüs'te kalıcı bir ABD büyükelçiliği inşa etmek üzere arazi tahsisini içeren bir anlaşmaya imza attı. Sembolik olarak 1 dolarlık kira bedeliyle yapılan bu sözleşme, ABD'nin Kudüs'teki diplomatik varlığını kalıcı hale getirme amacını taşıyor. Anlaşma, ABD'nin Kudüs'ü İsrail'in başkenti olarak tanıması ve büyükelçiliğini Tel Aviv'den buraya taşıması kararının ardından atılan önemli bir adım olarak değerlendiriliyor. Bu gelişme, Kudüs'ün statüsü konusundaki tartışmaları yeniden gündeme getirirken, bölgesel ve uluslararası alanda yankı uyandırması bekleniyor.",
@@ -780,22 +796,6 @@
             "name": "Körfez Bölgesi"
         },
         "source": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1782724699447z59h0",
-        "title": "ABD'nin kargo gemisine saldırı sonrası İran'ı hedef alması",
-        "summary": "ABD'nin bir kargo gemisine düzenlenen saldırının ardından İran'ı hedef aldığı bildirildi. İran ise bu saldırıya karşılık olarak Amerikan güçleriyle bağlantılı hedefleri vurduğunu açıkladı. Tahran yönetimi, ABD'yi aralarındaki anlaşmayı ihlal etmekle suçladı. Bu gelişmeler, Orta Doğu'da gerilimi artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T09:18:19.447Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
     }
