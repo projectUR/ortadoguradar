@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783006966002urytv",
+        "title": "İsrail'in Soykırımının 1000 Günü: Gazze'de Çocuklar Öldürülüyor, Yetim Kalıyor ve Açlıkla Mücadele Ediyor",
+        "summary": "Gazze Şeridi'nde devam eden çatışmalar, bölgedeki çocuklar üzerinde yıkıcı bir etki yaratmaya devam ediyor. Resmi verilere göre, Ekim 2023'ten bu yana İsrail tarafından 21.000'den fazla çocuk hayatını kaybetti. Aynı dönemde 44.500 çocuğun da yaralandığı belirtiliyor. Bu rakamlar, bölgedeki insani krizin derinliğini ve çocukların yaşadığı trajediyi gözler önüne seriyor. Çatışmaların bininci gününe yaklaşılırken, Gazze'deki çocukların öldürülme, yetim kalma ve açlık gibi sorunlarla karşı karşıya kaldığı vurgulanıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35934252/pexels-photo-35934252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T15:42:46.002Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/1-000-days-of-israel-s-genocide-gaza-children-get-killed-orphaned-and-starved/3984545",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17830070322954seh7",
+        "title": "Pakistan Başbakanı Şerif, Hamaney'in Cenazesine Katılacak",
+        "summary": "Pakistan Dışişleri Bakanlığı tarafından yapılan açıklamaya göre, Pakistan Başbakanı Şehbaz Şerif, İran'ın dini lideri Ayetullah Ali Hamaney'in cenaze törenine katılmak üzere İran'a gidecek. Başbakan Şerif'in bu ziyaret kapsamında, Pakistan hükümeti ve halkı adına taziye dileklerini ileteceği bildirildi. Ayrıca, ziyaretin iki ülke arasındaki dayanışmayı ve dostluk bağlarını yeniden teyit etme amacı taşıdığı belirtildi. Bu diplomatik katılım, Pakistan'ın bölgesel ilişkilerdeki hassasiyetini ve İran ile olan komşuluk ilişkilerine verdiği önemi gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7317709/pexels-photo-7317709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T15:43:52.295Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/pakistani-premier-sharif-to-attend-khameneis-funeral/3984381",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1782998277383ab73m",
         "title": "Suriye'nin Başkenti Şam'da Patlama Meydana Geldi",
         "summary": "Suriye'nin başkenti Şam'da bir patlama sesi duyulduğu bildirildi. Olayın ardından bölgede belirsizlik hakim olurken, patlamanın niteliği henüz netlik kazanmadı. Yerel yetkililer, patlamanın nedenini ve detaylarını araştırmak üzere harekete geçti. Güvenlik güçleri, olayın meydana geldiği alanda incelemelerini sürdürüyor. Patlamayla ilgili ilk belirlemeler ve resmi açıklamalar bekleniyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/oman-says-it-opposes-fees-in-hormuz-leaves-door-open-for-maritime-service-charges/3981718",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1782767298393ne1vv",
-        "title": "Irak'ta Yolsuzlukla Mücadele Kapsamında Üst Düzey Siyasiler Gözaltına Alındı",
-        "summary": "Irak'ta yolsuzlukla mücadele kapsamında geniş çaplı operasyonlar başlatıldığı bildirildi. Bu operasyonlar çerçevesinde çok sayıda üst düzey siyasetçinin gözaltına alındığı belirtildi. Gözaltına alınan isimlerin, kamu kaynaklarının kötüye kullanılması ve rüşvet gibi yolsuzluk iddialarıyla bağlantılı olduğu ifade ediliyor. Ülke genelinde devam eden bu gözaltı dalgasının, Irak siyasetinde ve kamuoyunda önemli yankı uyandırması bekleniyor. Yetkililer, operasyonların şeffaflık ve hesap verebilirlik ilkeleri doğrultusunda yürütüldüğünü vurguladı.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/17016244/pexels-photo-17016244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T21:08:18.393Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "178276735329850s8b",
-        "title": "İsrail Saldırılarında Gazze'de Sekiz, Batı Şeria'da Bir Genç Hayatını Kaybetti",
-        "summary": "İsrail güçlerinin Gazze Şeridi'ne düzenlediği saldırılarda sekiz kişinin yaşamını yitirdiği bildirildi. Aynı gün Batı Şeria'da da bir Filistinli gencin İsrail güçleri tarafından öldürüldüğü belirtildi. İsrailli insan hakları örgütü B'Tselem, Filistinli çocuk ve gençlerin \"benzeri görülmemiş şekilde öldürülmesini\" sert bir dille kınadı. Örgüt, bölgedeki sivil kayıpların artmasından derin endişe duyduğunu ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699687/pexels-photo-5699687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T21:09:13.298Z",
-        "location": {
-            "lat": 31.7,
-            "lng": 35,
-            "name": "Gazze, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
