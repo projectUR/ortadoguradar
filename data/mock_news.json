@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783014691997b11i6",
+        "title": "Lüksemburg'da Gazze yanlısı paylaşımları nedeniyle işten çıkarılan öğretmen için miting düzenlendi",
+        "summary": "Lüksemburg'da, sosyal medya paylaşımları nedeniyle işine son verilen bir öğretmen için öğrenciler ve destekçileri bu hafta bir gösteri düzenledi. Öğretmenin işten çıkarılma nedeni, Gazze'deki duruma ilişkin yaptığı paylaşımlar olarak belirtildi. Bu olay, Avrupa'da Orta Doğu'daki çatışmalarla ilgili ifade özgürlüğü ve iş güvenliği konularını yeniden gündeme getirdi. Göstericiler, öğretmenin yeniden işe alınmasını talep etti.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13846535/pexels-photo-13846535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-02T17:51:31.997Z",
+        "location": {
+            "lat": 49.6116,
+            "lng": 6.1319,
+            "name": "Lüksemburg Şehri, Lüksemburg"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783006966002urytv",
         "title": "İsrail'in Soykırımının 1000 Günü: Gazze'de Çocuklar Öldürülüyor, Yetim Kalıyor ve Açlıkla Mücadele Ediyor",
         "summary": "Gazze Şeridi'nde devam eden çatışmalar, bölgedeki çocuklar üzerinde yıkıcı bir etki yaratmaya devam ediyor. Resmi verilere göre, Ekim 2023'ten bu yana İsrail tarafından 21.000'den fazla çocuk hayatını kaybetti. Aynı dönemde 44.500 çocuğun da yaralandığı belirtiliyor. Bu rakamlar, bölgedeki insani krizin derinliğini ve çocukların yaşadığı trajediyi gözler önüne seriyor. Çatışmaların bininci gününe yaklaşılırken, Gazze'deki çocukların öldürülme, yetim kalma ve açlık gibi sorunlarla karşı karşıya kaldığı vurgulanıyor.",
@@ -780,22 +796,6 @@
             "name": "Han Yunus, Gazze"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17827727887117c6d9",
-        "title": "Umman'dan Hürmüz Boğazı'nda Ücretlendirmeye Karşı Çıkış",
-        "summary": "Umman Dışişleri Bakanı Badr Albusaidi, Hürmüz Boğazı'nda ücretlendirmeye karşı olduklarını ancak denizcilik hizmet bedellerine açık kapı bıraktıklarını açıkladı. Bakan Albusaidi, ülkesinin gerilimin azaltılmasını, güvenli seyrüseferi ve ABD-İran mutabakatının uygulanmasını desteklediğini ifade etti. Bu açıklamalar, stratejik Hürmüz Boğazı'ndaki denizcilik güvenliği ve bölgesel istikrar konularında Umman'ın pozisyonunu ortaya koyuyor. Umman, bölgedeki denizcilik trafiği ve enerji güvenliği açısından kritik bir rol oynamaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32843666/pexels-photo-32843666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-06-29T22:39:48.711Z",
-        "location": {
-            "lat": 23.5859,
-            "lng": 58.4059,
-            "name": "Muscat, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-says-it-opposes-fees-in-hormuz-leaves-door-open-for-maritime-service-charges/3981718",
         "trendScore": 85,
         "isBreaking": false
     }
