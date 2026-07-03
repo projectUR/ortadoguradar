@@ -1,5 +1,21 @@
 [
     {
+        "id": "17830976968480s8bh",
+        "title": "Almanya'dan Merz, Trump'ın Eleştirilerine Karşı NATO Savunma Harcamalarını Savundu",
+        "summary": "Almanya'dan Friedrich Merz, eski ABD Başkanı Donald Trump'ın NATO savunma harcamalarını 'saçma' olarak nitelendirmesinin ardından bu harcamaları güçlü bir şekilde savundu. Bu açıklamalar, NATO liderlerinin önümüzdeki hafta Ankara'da düzenlenecek kritik bir toplantı için bir araya gelmeye hazırlandığı bir döneme denk geldi. Toplantıda, ittifak üyeleri arasındaki savunma harcamalarının adil paylaşımı ve NATO'nun gelecekteki rolü gibi konuların masaya yatırılması bekleniyor. Merz'in savunması, özellikle Trump'ın eleştirileri ışığında, NATO içindeki yük paylaşımı tartışmalarının devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32797493/pexels-photo-32797493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-03T16:54:56.848Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783091901442kfcsx",
         "title": "Türk Dışişleri Bakanı, Irak Kürt Bölgesel Yönetimi Başbakan Yardımcısı ile Görüştü",
         "summary": "Türkiye Dışişleri Bakanı, Irak Kürt Bölgesel Yönetimi (IKBY) Başbakan Yardımcısı ile Ankara'da bir araya geldi. Türkiye'nin başkentinde gerçekleşen bu görüşmede, iki taraf arasındaki ilişkilerin ve bölgesel konuların ele alındığı tahmin ediliyor. Ancak Dışişleri Bakanlığı, yapılan görüşmelerin içeriğine dair herhangi bir detaylı bilgi paylaşmadı. Toplantının gündemine ilişkin resmi bir açıklama yapılmazken, diplomatik çevreler gelişmeleri yakından takip ediyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aa.com.tr/en/middle-east/ship-runs-aground-in-hormuz-after-leaving-iran-designated-route-reports/3983028",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17828964441886utcn",
-        "title": "İsrail ordusu Batı Şeria baskınlarında aralarında gazeteci ve 5 kadının da bulunduğu 20 Filistinliyi gözaltına aldı",
-        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da düzenlediği baskınlarda aralarında bir gazeteci ve beş kadının da bulunduğu 20 Filistinliyi gözaltına aldı. Filistin Esirler Cemiyeti'nin açıklamasına göre, bu son gözaltılarla birlikte Ekim 2023'ten bu yana tutuklanan Filistinlilerin toplam sayısı 24.000'i aştı. Cemiyet, özellikle kadınların ve gazetecilerin hedef alınma oranının giderek arttığını vurguladı. Bu operasyonlar, bölgedeki gerilimin devam ettiğini göstermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7773268/pexels-photo-7773268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T09:00:44.188Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-20-palestinians-including-journalist-5-women-in-west-bank-raids/3982909",
         "trendScore": 80,
         "isBreaking": false
     }
