@@ -1,5 +1,53 @@
 [
     {
+        "id": "1783108646937uxdf9",
+        "title": "Lübnan-İsrail Anlaşması İnsan Hakları Örgütlerinin Tepkisini Çekti",
+        "summary": "İnsan hakları ve medya özgürlüğü örgütleri, Lübnan ile İsrail arasında varılan anlaşmanın \"savaş suçu mağdurlarına ihanet\" anlamına geldiğini iddia etti. Örgütler, söz konusu anlaşmanın mağdurların uluslararası mahkemelere başvurma imkanını ortadan kaldırdığı uyarısında bulundu. Bu durum, bölgedeki adalet arayışları ve uluslararası hukuk prensipleri açısından endişelere yol açtı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6257078/pexels-photo-6257078.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-03T19:57:26.937Z",
+        "location": {
+            "lat": 33.8938,
+            "lng": 35.5018,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783108703939xi9tm",
+        "title": "Suudi Dışişleri Bakan Yardımcısı, Hamaney'in Cenaze Töreninde Taziye Ziyaretinde Bulundu",
+        "summary": "Suudi Arabistan Dışişleri Bakan Yardımcısı Walid al-Khuraiji, İran'da düzenlenen eski Yüksek Lider'in cenaze törenine katıldı. Bu katılım, Riyad ile Tahran arasındaki diplomatik ilişkilerin normalleşme sürecinde beklenmedik ve önemli bir gelişme olarak kaydedildi. İki ülke arasındaki uzun süreli gerilimin ardından son dönemde yaşanan yakınlaşma çabaları, bu üst düzey ziyaretle yeni bir boyut kazandı. Ziyaret, bölgesel diplomasi ve ikili ilişkiler açısından önemli bir mesaj olarak yorumlanıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-03T19:58:23.939Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1783108835462oltsv",
+        "title": "BM Kadın Birimi: Gazze'de 38 Binden Fazla Kadın ve Kız Çocuğu Hayatını Kaybetti",
+        "summary": "Birleşmiş Milletler Kadın Birimi (UN Women), Gazze Şeridi'ndeki çatışmalarda 38.000'den fazla kadın ve kız çocuğunun hayatını kaybettiğini bildirdi. Açıklamada, bölgedeki kadınların savaşın 1000 gününde dul kaldığı, yetim kaldığı, yerinden edildiği ve temel yaşam haklarından mahrum bırakıldığı vurgulandı. Bu durum, Gazze'deki insani krizin kadınlar ve kız çocukları üzerindeki yıkıcı etkisini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-03T20:00:35.462Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/1-000-days-of-israel-s-genocide-gaza-s-women-widowed-orphaned-displaced-and-deprived/3985644",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "17830976968480s8bh",
         "title": "Almanya'dan Merz, Trump'ın Eleştirilerine Karşı NATO Savunma Harcamalarını Savundu",
         "summary": "Almanya'dan Friedrich Merz, eski ABD Başkanı Donald Trump'ın NATO savunma harcamalarını 'saçma' olarak nitelendirmesinin ardından bu harcamaları güçlü bir şekilde savundu. Bu açıklamalar, NATO liderlerinin önümüzdeki hafta Ankara'da düzenlenecek kritik bir toplantı için bir araya gelmeye hazırlandığı bir döneme denk geldi. Toplantıda, ittifak üyeleri arasındaki savunma harcamalarının adil paylaşımı ve NATO'nun gelecekteki rolü gibi konuların masaya yatırılması bekleniyor. Merz'in savunması, özellikle Trump'ın eleştirileri ışığında, NATO içindeki yük paylaşımı tartışmalarının devam ettiğini gösteriyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-blocks-west-bank-town-cuts-all-access-roads/3983130",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178290823818557upu",
-        "title": "İsrailli muhalefet lideri, Netanyahu'yu İran'ın nükleer iddialarını kamuoyunu korkutmak için uydurmakla suçladı",
-        "summary": "İsrailli muhalefet lideri Gadi Eisenkot, Başbakan Binyamin Netanyahu'ya yönelik sert eleştirilerde bulundu. Eisenkot, Netanyahu'yu İran'ın nükleer silah programına ilişkin iddiaları İsrail kamuoyunu korkutmak amacıyla uydurmakla suçladı. Muhalefet lideri, \"Netanyahu iğrenç şeyler söyledi. İran'ın hiçbir nükleer bombası yoktu. İsrail halkını korkutmak için gerçeği çarpıtıyor\" ifadelerini kullandı. Bu açıklamalar, İsrail'in iç siyasetinde ve İran'ın nükleer programına yönelik uluslararası tartışmalarda yeni bir boyut kazandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28447274/pexels-photo-28447274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T12:17:18.185Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-accuses-netanyahu-of-fabricating-iran-nuclear-claims-to-frighten-public/3983119",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17828963721240z8ay",
-        "title": "Lübnan-İsrail Anlaşması: Yeni Bir Savaşın Habercisi mi?",
-        "summary": "Lübnan ile İsrail arasında imzalanan anlaşmanın, bölgede gelecekteki bir çatışmanın zeminini hazırladığı iddia edildi. Haberde, söz konusu anlaşmanın yeni bir savaşın önünü açabileceği ve bu olası çatışmada sorumluluğun Lübnan'a yükleneceği belirtiliyor. Bu durum, anlaşmanın uzun vadeli etkileri ve bölgedeki istikrara potansiyel tehditleri hakkında endişeleri artırıyor. Gözlemciler, anlaşmanın bölgedeki gerilimi azaltmak yerine artırabileceği yönünde yorumlar yapıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T08:59:32.124Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan-İsrail Sınırı"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782896402568okym6",
-        "title": "Hürmüz Boğazı'nda Bir Gemi İran'ın Belirlediği Rotadan Çıktıktan Sonra Karaya Oturdu",
-        "summary": "Hürmüz Boğazı'nda seyreden bir ticari gemi, İran tarafından belirlenen deniz rotasından ayrıldıktan sonra karaya oturduğu bildirildi. Bu olay, İran'ın Washington ile yapılan İslamabad Mutabakat Zaptı kapsamında ticari gemiler için uygulamaya koyduğu yeni navigasyon kurallarının ardından meydana geldi. Yeni düzenlemeler, güvenli geçiş için belirlenmiş rotaların kullanılmasını ve İranlı yetkililerle koordinasyonu zorunlu kılıyor. Yaşanan kaza, bölgedeki denizcilik güvenliği ve uluslararası sulardaki seyrüsefer özgürlüğü konularında tartışmaları yeniden alevlendirdi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/13102530/pexels-photo-13102530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T09:00:02.568Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/ship-runs-aground-in-hormuz-after-leaving-iran-designated-route-reports/3983028",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
