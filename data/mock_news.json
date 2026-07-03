@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783091901442kfcsx",
+        "title": "Türk Dışişleri Bakanı, Irak Kürt Bölgesel Yönetimi Başbakan Yardımcısı ile Görüştü",
+        "summary": "Türkiye Dışişleri Bakanı, Irak Kürt Bölgesel Yönetimi (IKBY) Başbakan Yardımcısı ile Ankara'da bir araya geldi. Türkiye'nin başkentinde gerçekleşen bu görüşmede, iki taraf arasındaki ilişkilerin ve bölgesel konuların ele alındığı tahmin ediliyor. Ancak Dışişleri Bakanlığı, yapılan görüşmelerin içeriğine dair herhangi bir detaylı bilgi paylaşmadı. Toplantının gündemine ilişkin resmi bir açıklama yapılmazken, diplomatik çevreler gelişmeleri yakından takip ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3862094/pexels-photo-3862094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-03T15:18:21.442Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/turkish-foreign-minister-meets-with-deputy-premier-of-iraqs-kurdish-regional-government/3985549",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783083433860dy3wh",
         "title": "BM, Sudan'ın el-Obeid kentindeki insan hakları felaketi için 'kırmızı alarm' verdi",
         "summary": "Birleşmiş Milletler (BM) İnsan Hakları Şefi Volker Türk, Sudan'ın el-Obeid kentindeki insan hakları durumu hakkında ciddi bir uyarı yayınladı. Türk, Hızlı Destek Kuvvetleri'nin (RSF) kente yönelik olası bir saldırısına dair artan endişeler nedeniyle bölgede bir 'kırmızı alarm' verildiğini belirtti. Bu durumun, siviller için büyük bir insani felakete yol açabileceği ve halihazırda kırılgan olan durumu daha da kötüleştirebileceği vurgulandı. BM yetkilisi, uluslararası toplumu Sudan'daki insan hakları ihlallerine karşı acil önlem almaya ve sivillerin korunmasını sağlamaya çağırdı. Uyarı, çatışmaların siviller üzerindeki yıkıcı etkisine dikkat çekiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-20-palestinians-including-journalist-5-women-in-west-bank-raids/3982909",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782882452854140uw",
-        "title": "Dünya Okyanusları Tarihinin En Sıcak Haziran Ayını Yaşadı, Bilim İnsanları Daha Fazla Isınma Bekliyor",
-        "summary": "Avrupa Birliği gözlemcileri tarafından yapılan açıklamaya göre, 2026 yılının ilk yarısı \"sürekli ve istisnai okyanus ısınması\" ile kayıtlara geçti. Bilim insanları, dünya okyanuslarının tarihindeki en sıcak Haziran ayını yaşadığını ve önümüzdeki dönemde daha fazla ısınmanın beklendiğini duyurdu. Bu durum, küresel iklim değişikliğinin okyanuslar üzerindeki derin etkilerini bir kez daha gözler önüne sermektedir. Deniz suyu sıcaklıklarındaki bu artışın, deniz ekosistemleri, kıyı şeridi bulunan bölgelerin iklim modelleri ve su kaynakları üzerinde önemli sonuçlar doğurması beklenmektedir. Özellikle Orta Doğu gibi geniş kıyı şeritlerine sahip bölgeler için bu ısınma, çevresel ve ekonomik riskler barındırmaktadır.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/4061283/pexels-photo-4061283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T05:07:32.854Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
