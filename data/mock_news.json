@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783188289412octug",
+        "title": "İran, Hamaney anma töreninde süreklilik ve intikam mesajı verdi",
+        "summary": "İran'da, Pazar ve Pazartesi günleri ülke genelinde resmi tatil ilan edildi. Bu kararın, ulusal anma törenlerine ve cenaze alaylarına daha geniş katılımı teşvik etmek amacıyla alındığı belirtildi. Ülke liderliği, bu etkinlikler sırasında \"süreklilik ve intikam\" mesajları veriyor. Bu mesajların, rejimin ideolojik duruşunu pekiştirmeyi ve geleceğe yönelik kararlılığını vurgulamayı amaçladığı ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35914289/pexels-photo-35914289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T18:04:49.412Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178318270395020oog",
         "title": "Gazze'de Son 48 Saatte İsrail Güçleri Tarafından En Az 7 Filistinli Öldürüldü",
         "summary": "Gazze'de son 48 saat içinde İsrail güçleri tarafından en az 7 Filistinlinin öldürüldüğü bildirildi. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, enkaz altından ayrıca dokuz ceset daha çıkarıldı. Bu durum, bölgedeki çatışmaların devam ettiğini ve can kayıplarının yaşandığını gösteriyor.",
@@ -780,22 +796,6 @@
             "name": "Orta Doğu"
         },
         "source": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1782990631399kah76",
-        "title": "Suudi Arabistan'da Helikopter Kazasında On Dört Kişi Hayatını Kaybetti",
-        "summary": "Suudi Arabistan'da meydana gelen bir helikopter kazasında on dört kişinin yaşamını yitirdiği bildirildi. Kazaya karışan hava aracı, ülkenin devlete ait petrol devi Aramco'ya aitti. Olayın ardından yetkililer tarafından geniş çaplı bir soruşturma başlatıldı. Kazanın nedeni henüz belirlenemezken, soruşturma devam ediyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/28552613/pexels-photo-28552613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T11:10:31.399Z",
-        "location": {
-            "lat": 23.8859,
-            "lng": 45.0792,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
     }
