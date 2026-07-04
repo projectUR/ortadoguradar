@@ -1,5 +1,69 @@
 [
     {
+        "id": "1783157834944gdp0q",
+        "title": "Suudi liderliğindeki koalisyon, Husilere karşı 'benzeri görülmemiş' güç taahhüdünde bulundu",
+        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husilerin tehditlerine karşı 'benzeri görülmemiş' bir güç kullanma sözü verdi. Bu açıklama, Husilerin Suudi savaş uçaklarını engellemesi ve bir İran uçağının on yıl sonra ilk kez Yemen'in başkenti Sana'a'ya inmesine izin vermesinin ardından geldi. Olay, bölgedeki gerilimi tırmandırarak çatışmanın yeni bir boyut kazandığını gösteriyor. Koalisyon, Husilerin eylemlerine karşı sert bir yanıt verileceğinin sinyalini verdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T09:37:14.944Z",
+        "location": {
+            "lat": 15.35,
+            "lng": 44.2,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17831578916446qsxp",
+        "title": "Dünya Kupası 23. Gününde Arjantin ve Mısır Turladı",
+        "summary": "Kuzey Amerika'da düzenlenen 2026 FIFA Dünya Kupası'nın 23. gününde oynanan karşılaşmalar büyük heyecana sahne oldu. Günün öne çıkan maçlarında Arjantin ve Mısır, rakiplerini geride bırakarak bir üst tura yükselmeyi başardı. Bu sonuçlarla birlikte turnuvada ilerleyen takımlar netleşmeye devam ediyor. Maç özetleri, tepkiler ve gelecek karşılaşmaların ön izlemeleri dünya genelinde futbolseverler tarafından yakından takip ediliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32285161/pexels-photo-32285161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T09:38:11.644Z",
+        "location": {
+            "lat": 27,
+            "lng": 30,
+            "name": "Mısır"
+        },
+        "source": "https://www.aljazeera.com/video/2026/7/4/video-world-cup-2026-highlights?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1783157919707r8x5u",
+        "title": "İran'da öldürülen dini lider Hamaney için cenaze törenleri başladı, binlerce kişi toplandı",
+        "summary": "İran'ın başkenti Tahran'da, öldürülen dini lider Hamaney için bir haftalık cenaze törenleri başladı. Binlerce kişi, liderlerine veda etmek üzere başkentte bir araya geldi. Törenler, milli marşın okunması ve Kur'an tilavetleriyle başladı. İran halkı, merhum liderleri için düzenlenen bu geniş katılımlı etkinliklerle yas tutuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7317709/pexels-photo-7317709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T09:38:39.707Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/thousands-gather-in-iran-as-week-long-funeral-rites-begin-for-slain-supreme-leader-khamenei/3985952",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1783157944781pnvz8",
+        "title": "İran, İngiltere-Fransa Hürmüz Boğazı Açıklamasını Reddederek Yabancı Askeri Varlığa Karşı Uyardı",
+        "summary": "İran Dışişleri Bakan Yardımcısı, Hürmüz Boğazı'nın bölge dışı güçlerin askeri güç gösterisi yapacağı bir sahne olmadığını vurguladı. Tahran yönetimi, İngiltere ve Fransa tarafından yapılan Hürmüz Boğazı'na ilişkin ortak açıklamayı reddettiğini bildirdi. İran, bölgedeki yabancı askeri varlığın gerilimi artırabileceği ve istikrarsızlığa yol açabileceği konusunda sert bir uyarıda bulundu. Bu diplomatik çıkış, stratejik su yolunun güvenliği ve uluslararası güçlerin bölgedeki rolü hakkındaki tartışmaları yeniden alevlendirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34693694/pexels-photo-34693694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T09:39:04.781Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-rejects-uk-france-hormuz-statement-warns-against-foreign-military-presence/3985942",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17831498078796ve4l",
         "title": "İsrailli Siyasilerden Gazze'de Yerleşim Birimi İnşa Etme Sinyali",
         "summary": "İsrailli önde gelen siyasetçiler, Gazze Şeridi'nde yaşanan savaş ve kıtlığın ardından bölgede yerleşim birimleri kurmaya hazır olduklarını belirtti. Bu açıklamalar, Gazze'nin geleceğine dair uluslararası tartışmaları yeniden alevlendirdi. Bölgedeki insani krizin devam ettiği bir dönemde, İsrailli yetkililerin bu yöndeki niyetleri dikkat çekiyor. Gazze'nin statüsü ve geleceği, İsrail-Filistin çatışmasının temel ve hassas konularından biri olmaya devam etmektedir.",
@@ -732,70 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-says-us-backed-framework-with-israel-sets-stage-for-negotiations-not-agreement/3983887",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782980180999ddq21",
-        "title": "Katar Emiri ve Suriye Devlet Başkanı ABD-İran Müzakerelerini Görüştü",
-        "summary": "Katar Emiri ile Suriye Devlet Başkanı arasında gerçekleşen telefon görüşmesinde, ABD-İran müzakereleri ele alındı. Liderler, bölgesel koordinasyonun ve diplomatik çabaların önemini vurguladı. Görüşmede, Doha'nın Pakistan ile ortak arabuluculuk girişimi kapsamında ABD-İran görüşmelerini desteklemeye devam ettiği belirtildi. Bu diplomatik temas, Orta Doğu'daki gerilimi azaltma ve bölgesel istikrarı sağlama çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7640793/pexels-photo-7640793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T08:16:20.999Z",
-        "location": {
-            "lat": 25.28,
-            "lng": 51.53,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatars-emir-syrian-president-discuss-us-iran-negotiations/3983868",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782980202766pnezh",
-        "title": "İsrail topçu ateşi Suriye'nin güneyindeki tarım arazilerini hedef aldı",
-        "summary": "Suriye'nin güneyindeki Daraa vilayetinin batısında yer alan Jamlah köyü yakınlarındaki tarım arazileri, İsrail tarafından gerçekleştirilen topçu ateşiyle hedef alındı. Saldırı, bölgede bir keşif insansız hava aracının uçuşu sırasında meydana geldi. Yerel kaynaklardan edinilen bilgilere göre, tarım arazilerine isabet eden mermiler maddi hasara yol açtı. Olayda herhangi bir can kaybı yaşanmadığı bildirildi. İsrail'in Suriye topraklarına yönelik bu tür saldırıları zaman zaman rapor edilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32888175/pexels-photo-32888175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T08:16:42.766Z",
-        "location": {
-            "lat": 32.86,
-            "lng": 35.8,
-            "name": "Daraa, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-shelling-targets-farmland-in-southern-syria/3983851",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1782951075490ilp1n",
-        "title": "ABD ve Tahran Arasındaki Dolaylı Görüşmeler Tamamlandı: 'Olumlu İlerleme' Kaydedildi",
-        "summary": "Amerika Birleşik Devletleri ve İran'ın başkenti Tahran arasında yürütülen dolaylı görüşmelerin sona erdiği ve 'olumlu ilerleme' kaydedildiği bildirildi. İran tarafından yapılan açıklamada, Mutabakat Zaptı (MoU) ihlallerini bildirmek ve tartışmak üzere bir 'iletişim kanalı' kurulacağı belirtildi. Bu gelişme, iki ülke arasındaki diplomatik çabaların devam ettiğini ve potansiyel anlaşmazlıkların diyalog yoluyla çözülmesine yönelik bir adım atıldığını gösteriyor. Kurulacak kanalın, gelecekteki olası sorunların ele alınmasında önemli bir rol oynaması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T00:11:15.490Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1782946086095sbrnv",
-        "title": "ABD, Batı Kudüs'te Kalıcı Büyükelçilik İçin İsrail ile Arazi Anlaşması İmzaladı",
-        "summary": "Amerika Birleşik Devletleri ve İsrail, Batı Kudüs'te kalıcı bir ABD büyükelçiliği inşa etmek üzere arazi tahsisini içeren bir anlaşmaya imza attı. Sembolik olarak 1 dolarlık kira bedeliyle yapılan bu sözleşme, ABD'nin Kudüs'teki diplomatik varlığını kalıcı hale getirme amacını taşıyor. Anlaşma, ABD'nin Kudüs'ü İsrail'in başkenti olarak tanıması ve büyükelçiliğini Tel Aviv'den buraya taşıması kararının ardından atılan önemli bir adım olarak değerlendiriliyor. Bu gelişme, Kudüs'ün statüsü konusundaki tartışmaları yeniden gündeme getirirken, bölgesel ve uluslararası alanda yankı uyandırması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18160262/pexels-photo-18160262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T22:48:06.095Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
