@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783123696903fa0m4",
+        "title": "İran'da Olası Savaş ve Hamaney'in Cenaze Senaryoları Gündemdeyken, Gazze'de Saldırılar Sürüyor",
+        "summary": "Orta Doğu'da gerilim devam ederken, İran'da olası bir savaş durumu ve dini lider Ali Hamaney'in cenazesi için Tahran'da milyonlarca kişinin beklendiği senaryoları gündemde yer alıyor. Bu gelişmelerin yanı sıra, bölgeden gelen son bilgilere göre İsrail'in Gazze Şeridi'ne yönelik saldırıları sürüyor. Sivil savunma kaynakları, düzenlenen bir insansız hava aracı saldırısında bir çocuğun hayatını kaybettiğini ve bir diğer çocuğun da yaralandığını bildirdi. Bu olay, Gazze'deki sivil kayıpların artmaya devam ettiğini ve bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8876113/pexels-photo-8876113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T00:08:16.903Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17831181418841cj5o",
         "title": "ABD Elçileri Doha'da Arabulucularla Görüşecek, İranlılarla Doğrudan Temas Yok",
         "summary": "Katar Dışişleri Bakanlığı sözcüsü, ABD elçilerinin Doha'da arabulucularla bir araya geleceğini bildirdi. Yapılan açıklamada, ABD ile İran arasında yüksek düzeyli veya doğrudan görüşmelerin planlanmadığı vurgulandı. Bu durum, ABD'nin bölgedeki diplomatik çabalarını ve İran ile ilişkilerindeki mevcut dolaylı iletişim kanallarını gösteriyor. Katar'ın bu süreçte arabulucu rolünü üstlendiği belirtilirken, görüşmelerin iki ülke arasındaki gerilimi azaltmaya yönelik dolaylı çabaların bir parçası olduğu değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/culture/tehran-typewriter-museum-preserves-century-of-writing-technology/3983245",
         "trendScore": 60,
-        "isBreaking": false
-    },
-    {
-        "id": "1782908193197hqx71",
-        "title": "Fransa'dan şirketlere yasa dışı İsrail yerleşimleri uyarısı",
-        "summary": "Fransa Dışişleri Bakanlığı, İsrail'in yasa dışı yerleşimlerinde faaliyet gösteren Fransız şirketlerini uluslararası hukuku ihlal etme riski taşıdıkları konusunda uyardı. Bakanlık, bu tür iş ilişkilerinin hukuki, ekonomik ve itibari risklerle karşı karşıya kalabileceğini belirtti. Yapılan açıklamada, şirketlerin insan haklarına saygı gösterme ve uluslararası yükümlülüklere uyma sorumluluğu hatırlatıldı. Bu uyarı, uluslararası toplumun İsrail yerleşimlerine yönelik eleştirilerini yansıtan önemli bir diplomatik adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34780003/pexels-photo-34780003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T12:16:33.197Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/europe/france-says-firms-risk-violating-international-law-through-business-in-illegal-israeli-settlements/3983160",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
