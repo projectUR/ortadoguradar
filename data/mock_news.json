@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783177678329enen2",
+        "title": "Beyin Göçü Yemen'in Sağlık Sektörünü Harap Etti, Milyonları Çaresiz Bıraktı",
+        "summary": "Yemen'de sağlık profesyonellerinin ülkeyi terk etmesi, sağlık sektörünü ciddi şekilde olumsuz etkilemektedir. Yüksek gelir ve daha güvenli çalışma ortamı arayışıyla gerçekleşen bu beyin göçü, ülkedeki sağlık hizmetlerinin çöküşüne yol açmaktadır. Mevcut durum, milyonlarca Yemenliyi temel sağlık hizmetlerinden mahrum bırakarak çaresiz bir duruma sokmaktadır. Uzmanlar, bu durumun Yemen'deki insani krizin derinleşmesine katkıda bulunduğunu belirtmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36152149/pexels-photo-36152149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T15:07:58.329Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17831724259594m2hm",
         "title": "Papa Leo, Lampedusa Ziyaretinde Göçmenlerin Korunması ve Entegrasyonu Çağrısı Yaptı",
         "summary": "Papa Leo, İtalya'nın göçmenler için önemli bir geçiş noktası olan Lampedusa adasına sembolik bir ziyaret gerçekleştirdi. Ziyaret sırasında Pontiff, Avrupa ve Amerika Birleşik Devletleri'ndeki halklara göçmenleri karşılama ve onlara yardım etme çağrısında bulundu. Papa, göçmenlerin korunması ve topluma entegrasyonunun önemini vurgulayarak, uluslararası dayanışmanın gerekliliğine dikkat çekti. Bu çağrı, Akdeniz'deki göçmen krizinin insani boyutuna odaklanırken, göçmenlerin karşılaştığı zorluklara ve haklarına yönelik farkındalığı artırmayı hedefliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/politics/syrian-foreign-minister-meets-lebanese-president-in-beirut/3983962",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "178298006024547kdy",
-        "title": "'Ölümünden iki hafta sonra arandım': Gazze'deki hastalar tahliye için acı verici gecikmelerle karşı karşıya",
-        "summary": "Gazze Şeridi'ndeki hastalar, yurt dışında tedavi görmek üzere tahliye edilmek için uzun ve acı verici gecikmelerle mücadele ediyor. Hamas kontrolündeki Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, ateşkesin başlamasından bu yana yurt dışında tedaviye sevk edilen yaklaşık 300 Filistinli, tahliye beklerken hayatını kaybetti. Bu durum, bölgedeki sağlık altyapısının yetersizliğini ve tıbbi tahliye süreçlerindeki ciddi aksaklıkları gözler önüne seriyor. Hasta yakınları, sevk onaylarının veya tahliye çağrılarının, hastalar vefat ettikten haftalar sonra kendilerine ulaştığını belirtiyor. Yaşanan bu gecikmeler, Gazze'deki insani krizin derinliğini ve sağlık hizmetlerine erişimdeki zorlukları bir kez daha ortaya koyuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T08:14:20.245Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
