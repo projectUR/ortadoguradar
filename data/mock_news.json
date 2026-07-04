@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783194285889pzkad",
+        "title": "Ukrayna Saldırıları Sonrası Rusya'da Yakıt Krizi ve Müzakere İhtimali",
+        "summary": "Ukrayna'nın Rusya'daki rafinerilere yönelik aralıksız saldırıları, ülkede ciddi bir yakıt krizine yol açtı. Bu durum, Rusya'nın enerji altyapısı üzerindeki baskıyı artırırken, küresel enerji piyasalarında da belirsizlik yaratıyor. Uluslararası gözlemciler, yaşanan bu ekonomik baskının Kremlin'i Ukrayna ile müzakereler masasına oturmaya itip itmeyeceğini yakından takip ediyor. Enerji arzındaki aksaklıklar ve artan maliyetler, Rusya'nın savaş çabalarını sürdürme kapasitesini doğrudan etkileyebilecek potansiyele sahip.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8266768/pexels-photo-8266768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T19:44:45.889Z",
+        "location": {
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "name": "Rusya"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17831943554398adqa",
+        "title": "Erdoğan: İsrail, ABD-İran Anlaşmasını 'Dinamitlememeli'",
+        "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, İsrail'i ABD ile İran arasındaki mutabakat zaptını baltalamaya çalışmakla suçladı. Erdoğan, İsrail'in bu anlaşmayı 'dinamitlemesine' izin verilmemesi gerektiğini vurguladı. Türk liderin daha önce de İsrail'e yönelik benzer suçlamalarda bulunduğu belirtildi. Bu açıklamalar, Orta Doğu'daki diplomatik gerilimleri ve bölgesel güç dengelerini yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T19:45:55.439Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783188289412octug",
         "title": "İran, Hamaney anma töreninde süreklilik ve intikam mesajı verdi",
         "summary": "İran'da, Pazar ve Pazartesi günleri ülke genelinde resmi tatil ilan edildi. Bu kararın, ulusal anma törenlerine ve cenaze alaylarına daha geniş katılımı teşvik etmek amacıyla alındığı belirtildi. Ülke liderliği, bu etkinlikler sırasında \"süreklilik ve intikam\" mesajları veriyor. Bu mesajların, rejimin ideolojik duruşunu pekiştirmeyi ve geleceğe yönelik kararlılığını vurgulamayı amaçladığı ifade ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1782990568454mv1hx",
-        "title": "Kafes İçinde Bir Filistin Evi",
-        "summary": "Filistinli bir ailenin yaşadığı evin, İsrail yerleşimi ile ayrım duvarı arasında izole bir konumda bulunduğu bildirildi. Haberlere göre, söz konusu ev, bölgedeki yerleşim politikaları ve güvenlik önlemleri nedeniyle adeta bir 'kafes' içinde kalmış durumda. Bu durum, Filistinli ailelerin günlük yaşamda karşılaştığı zorlukları ve hareket kısıtlamalarını gözler önüne seriyor. Olay, İsrail-Filistin çatışmasının insani boyutunu ve yerleşim bölgelerindeki gerilimi yansıtmaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/17702741/pexels-photo-17702741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T11:09:28.454Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782990608995zypw4",
-        "title": "ABD, İran ile karşılıklı saldırıların ardından 'gerilimi düşürme' konusunda anlaştığını bildirdi",
-        "summary": "Amerika Birleşik Devletleri, İran ile yaşanan karşılıklı saldırıların ardından gerilimi düşürme konusunda anlaştığını açıkladı. Hafta sonu boyunca gerçekleşen bir dizi saldırı, ABD ve İran'ın birbirlerini ateşkes anlaşmasını ihlal etmekle suçlamasına neden oldu. Washington yönetimi, taraflar arasında yaşanan çatışmaların ardından 'geri çekilme' kararı alındığını belirtti. Bu gelişme, bölgedeki tansiyonun düşürülmesi yönünde atılan bir adım olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T11:10:08.995Z",
-        "location": {
-            "lat": 33,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
     }
