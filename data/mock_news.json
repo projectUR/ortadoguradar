@@ -1,5 +1,21 @@
 [
     {
+        "id": "17831724259594m2hm",
+        "title": "Papa Leo, Lampedusa Ziyaretinde Göçmenlerin Korunması ve Entegrasyonu Çağrısı Yaptı",
+        "summary": "Papa Leo, İtalya'nın göçmenler için önemli bir geçiş noktası olan Lampedusa adasına sembolik bir ziyaret gerçekleştirdi. Ziyaret sırasında Pontiff, Avrupa ve Amerika Birleşik Devletleri'ndeki halklara göçmenleri karşılama ve onlara yardım etme çağrısında bulundu. Papa, göçmenlerin korunması ve topluma entegrasyonunun önemini vurgulayarak, uluslararası dayanışmanın gerekliliğine dikkat çekti. Bu çağrı, Akdeniz'deki göçmen krizinin insani boyutuna odaklanırken, göçmenlerin karşılaştığı zorluklara ve haklarına yönelik farkındalığı artırmayı hedefliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/31628104/pexels-photo-31628104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T13:40:25.959Z",
+        "location": {
+            "lat": 35.5011,
+            "lng": 12.6099,
+            "name": "Lampedusa, İtalya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1783164965989elfhs",
         "title": "Ayatullah Hamaney'in Cenaze Töreninin İlk Gününde Tahran'da Büyük Kalabalıklar Toplandı",
         "summary": "İran'ın dini lideri Ayetullah Ali Hamaney'in cenaze töreninin ilk gününde başkent Tahran'da büyük insan kalabalıkları bir araya geldi. Hamaney'in naaşı, Pazartesi gününe kadar Tahran'daki Büyük Musalla'da ziyarete açık kalacak. Törenlerin ardından naaşın İran ve Irak genelinde dolaştırılacağı bildirildi. Bu olay, bölge için önemli bir toplumsal ve siyasi gelişme olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782980090625vj7yz",
-        "title": "Suriye Devlet Başkanı, yeni parlamentoya son 70 milletvekilini atadı",
-        "summary": "Suriye Devlet Başkanı, ülkenin yeni parlamentosunda görev yapacak son 70 milletvekilinin atamasını tamamladı. Bu atamalarla birlikte, parlamentonun oluşumu resmen tamamlanmış oldu. Atanan milletvekilleri arasında 15 kadın yer alıyor. Geçtiğimiz Ekim ayında bölgesel seçim kurulları tarafından yalnızca altı kadın adayın seçildiği göz önüne alındığında, bu sayı kadın temsilinin artırılması açısından dikkat çekici bulundu.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/159412/budapest-parliament-danube-ship-passage-159412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T08:14:50.625Z",
-        "location": {
-            "lat": 33.51,
-            "lng": 36.28,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
