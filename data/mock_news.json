@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783138372330u21dw",
+        "title": "Eski BM yetkilisi uyardı: 'El Obeid krizi El Faşir'den daha kötü olabilir'",
+        "summary": "Birleşmiş Milletler'in eski Sudan İnsani Yardım Koordinatörü Mukesh Kapila, ülkedeki mevcut durumla ilgili ciddi bir uyarıda bulundu. Kapila, El Obeid kentinde yaşanan krizin, halihazırda çatışmaların yoğunlaştığı El Faşir'deki durumdan daha vahim boyutlara ulaşabileceğini belirtti. Bu açıklama, Sudan'da devam eden insani krizin derinleştiği ve yeni bölgelere yayıldığı endişelerini artırdı. Uluslararası toplum, özellikle El Obeid ve El Faşir gibi kritik bölgelerdeki sivillerin korunması ve insani yardımların ulaştırılması konusunda acil önlemler alınması çağrısında bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T04:12:52.330Z",
+        "location": {
+            "lat": 13.18,
+            "lng": 30.22,
+            "name": "El Obeid, Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1783123696903fa0m4",
         "title": "İran'da Olası Savaş ve Hamaney'in Cenaze Senaryoları Gündemdeyken, Gazze'de Saldırılar Sürüyor",
         "summary": "Orta Doğu'da gerilim devam ederken, İran'da olası bir savaş durumu ve dini lider Ali Hamaney'in cenazesi için Tahran'da milyonlarca kişinin beklendiği senaryoları gündemde yer alıyor. Bu gelişmelerin yanı sıra, bölgeden gelen son bilgilere göre İsrail'in Gazze Şeridi'ne yönelik saldırıları sürüyor. Sivil savunma kaynakları, düzenlenen bir insansız hava aracı saldırısında bir çocuğun hayatını kaybettiğini ve bir diğer çocuğun da yaralandığını bildirdi. Bu olay, Gazze'deki sivil kayıpların artmaya devam ettiğini ve bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne seriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/amnesty-accuses-sudans-rsf-of-crimes-against-humanity-ethnic-cleansing-in-el-fasher-region-/3983261",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1782908170374u0lps",
-        "title": "Tahran'da Daktilo Müzesi Yüzyıllık Yazı Teknolojisini Koruyor",
-        "summary": "İran'ın başkenti Tahran'da, daktilo teknolojisinin yüzyıllık gelişimini sergileyen özel bir müze kapılarını açtı. Müze, farklı dönemlere ait daktiloları bünyesinde barındırarak yazı makinelerinin tarihsel yolculuğunu ziyaretçilere sunuyor. Müze direktörü, sergilenen her daktilonun kendi döneminin sessiz bir tanığı olduğunu vurgulayarak, bu makinelerin kültürel ve teknolojik mirasın önemli bir parçası olduğunu ifade etti. Koleksiyon, yazı teknolojisinin evrimini gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/12220438/pexels-photo-12220438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-01T12:16:10.374Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/culture/tehran-typewriter-museum-preserves-century-of-writing-technology/3983245",
-        "trendScore": 60,
         "isBreaking": false
     }
 ]
