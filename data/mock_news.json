@@ -1,5 +1,37 @@
 [
     {
+        "id": "178318270395020oog",
+        "title": "Gazze'de Son 48 Saatte İsrail Güçleri Tarafından En Az 7 Filistinli Öldürüldü",
+        "summary": "Gazze'de son 48 saat içinde İsrail güçleri tarafından en az 7 Filistinlinin öldürüldüğü bildirildi. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, enkaz altından ayrıca dokuz ceset daha çıkarıldı. Bu durum, bölgedeki çatışmaların devam ettiğini ve can kayıplarının yaşandığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T16:31:43.950Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1783182740500wzdw3",
+        "title": "Rus Saldırıları Ukrayna'da Yıkım İzleri Bıraktı",
+        "summary": "Rusya'nın Ukrayna'ya yönelik saldırıları devam ediyor. Ülke genelinde birçok şehir ve bölgede yoğun çatışmalar yaşanıyor. Bu saldırılar sonucunda sivil altyapı, konutlar ve enerji tesisleri büyük zarar görüyor. Ukrayna makamları, Rus güçlerinin neden olduğu yıkımın boyutlarının her geçen gün arttığını belirtiyor. Uluslararası kuruluşlar da bölgedeki insani durumu yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-04T16:32:20.500Z",
+        "location": {
+            "lat": 50.45,
+            "lng": 30.52,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1783177678329enen2",
         "title": "Beyin Göçü Yemen'in Sağlık Sektörünü Harap Etti, Milyonları Çaresiz Bıraktı",
         "summary": "Yemen'de sağlık profesyonellerinin ülkeyi terk etmesi, sağlık sektörünü ciddi şekilde olumsuz etkilemektedir. Yüksek gelir ve daha güvenli çalışma ortamı arayışıyla gerçekleşen bu beyin göçü, ülkedeki sağlık hizmetlerinin çöküşüne yol açmaktadır. Mevcut durum, milyonlarca Yemenliyi temel sağlık hizmetlerinden mahrum bırakarak çaresiz bir duruma sokmaktadır. Uzmanlar, bu durumun Yemen'deki insani krizin derinleşmesine katkıda bulunduğunu belirtmektedir.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1782990686003baqv9",
-        "title": "Gazze hükümeti: İsrail, Gazze'nin %80'inden fazlasını kontrol ediyor; 'soykırım' 1000 güne ulaşırken 223.000 ton patlayıcı kullandı",
-        "summary": "Gazze hükümeti, İsrail'in Gazze Şeridi'nin %80'inden fazlasını kontrol ettiğini ve bölgeye 223.000 ton patlayıcı attığını iddia etti. Hükümetin medya ofisinden yapılan açıklamada, 'soykırım' olarak nitelendirilen çatışmaların 1000. gününe ulaştığı belirtildi. Açıklamaya göre, İsrail'in saldırılarında 73.000'den fazla Filistinli hayatını kaybettiği bildirildi. Hayatını kaybedenler arasında 21.500 çocuk ve 12.500 kadın bulunduğu ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T11:11:26.003Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-controls-over-80-of-gaza-dropped-223-000-tons-of-explosives-as-genocide-reaches-1-000-days-gaza-government/3984165",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "17829907213146g8nv",
-        "title": "Suriye Dışişleri Bakanı Lübnan Cumhurbaşkanı ile Beyrut'ta Görüştü",
-        "summary": "Suriye Dışişleri Bakanı, Lübnan Cumhurbaşkanı ile Beyrut'ta bir araya geldi. Görüşmede, iki ülke arasındaki ikili ilişkilerin güçlendirilmesi ana gündem maddesi oldu. Suriye Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, taraflar arasındaki müzakereler 'karşılıklı saygı ve iyi komşuluk temelinde' ilişkilerin geliştirilmesine odaklandı. Bu diplomatik buluşma, iki komşu ülke arasındaki mevcut ilişkilerin seyrini ve gelecekteki işbirliği alanlarını değerlendirme fırsatı sundu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-02T11:12:01.314Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/politics/syrian-foreign-minister-meets-lebanese-president-in-beirut/3983962",
-        "trendScore": 70,
-        "isBreaking": false
     }
 ]
