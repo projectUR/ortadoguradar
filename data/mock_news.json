@@ -1,5 +1,21 @@
 [
     {
+        "id": "17832230857733t3gj",
+        "title": "İran'ın Dini Lideri Hamaney ABD-İsrail Saldırısında Hayatını Kaybetti: Trump Gerilimi Düşürme Sözü Verdi",
+        "summary": "Şubat ayında gerçekleşen bir ABD-İsrail hava saldırısında İran'ın dini lideri Ali Hamaney ve ailesinin hayatını kaybettiği bildirildi. Bu gelişme üzerine İran'da büyük kalabalıkların Hamaney için yas tuttuğu gözlemlendi. Olayın ardından ABD Başkanı Trump'ın gerilimi tırmandırmama sözü verdiği belirtildi. Haber, bölgede olası bir çatışma riskine işaret ederken, uluslararası kamuoyunun gelişmeleri yakından takip ettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T03:44:45.773Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
         "id": "1783208106937ky4bs",
         "title": "İran'da Hamaney'in Cenaze Töreninin İkinci Gününde Yoğun Katılım",
         "summary": "İran'da hayatını kaybeden dini lider Ayetullah Ali Hamaney için düzenlenen cenaze törenlerinin ikinci günü tamamlandı. Ülke genelinde binlerce İranlı, aşırı sıcaklara rağmen cenaze törenlerine yoğun katılım gösterdi. Törenler, Hamaney'in vefatının ardından ilan edilen ulusal yas kapsamında geniş katılımla devam etti. Halkın dini lidere olan bağlılığı ve cenaze törenlerine gösterdiği ilgi dikkat çekti.",
@@ -780,22 +796,6 @@
             "name": "Basra, Irak; Akabe, Ürdün"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iraq-jordan-agree-to-accelerate-implementation-of-basra-aqaba-strategic-oil-pipeline-project/3984835",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783065014707qszwk",
-        "title": "Trump: İran Görüşmelerde 'İhtiyacımız Olan Hemen Her Şeyi' Kabul Etti",
-        "summary": "ABD Başkanı Donald Trump, İran ile yürütülen müzakerelere ilişkin önemli açıklamalarda bulundu. Trump, İran'ın görüşmelerde 'ihtiyaç duydukları hemen her şeyi' kabul ettiğini belirtti. ABD lideri, 'Müzakere ediyoruz... Sanırım ihtiyacımız olan hemen her şeyi kabul ettiler' ifadelerini kullandı. Bu açıklama, iki ülke arasındaki gerilimli ilişkilere rağmen diplomatik bir ilerleme sinyali olarak yorumlandı. Ancak görüşmelerin içeriği ve varılan mutabakatın detayları hakkında ek bilgi verilmedi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7736028/pexels-photo-7736028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T07:50:14.707Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-says-iran-has-agreed-to-just-about-everything-we-need-in-talks/3984808",
         "trendScore": 85,
         "isBreaking": false
     }
