@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783281127869g1nbi",
+        "title": "İran Lideri Ali Hamaney'in Cenazesinde Oğulları Hazır Bulundu, Mojtaba İse Yoktu",
+        "summary": "İran'ın başkenti Tahran'da, ülkenin dini lideri Ali Hamaney'in vefatının ardından büyük bir kalabalık anma töreni için toplandı. Törene Hamaney'in diğer oğulları katılırken, oğlu Mojtaba'nın cenazede bulunmaması dikkat çekti. Toplanan kitleler, ABD ve İsrail'e karşı intikam çağrıları içeren sloganlar attı. Bu durum, İran'daki iç siyasi dinamikler ve bölgesel gerilimler hakkında önemli sinyaller verdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8865091/pexels-photo-8865091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T19:52:07.869Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1783274752192oik0n",
         "title": "ABD Kongre Üyesi Röportajda Filistinlilerin Varlığını İnkar Etti",
         "summary": "Amerika Birleşik Devletleri Kongre Üyesi Randy Fine, katıldığı 'The Next Generation' adlı röportaj programında tartışma yaratan açıklamalarda bulundu. Fine, programda yaptığı konuşmada 'Filistinli diye bir şey yoktur' iddiasını dile getirdi. Bu açıklama, İsrail-Filistin çatışması ve bölgedeki siyasi dengeler açısından hassas bir dönemde geldi. Kongre üyesinin bu sözleri, uluslararası arenada ve özellikle Orta Doğu'da geniş yankı uyandırması bekleniyor. Söz konusu ifadeler, ABD'nin Orta Doğu politikaları ve Filistin halkının statüsü üzerine süregelen tartışmaları yeniden alevlendirebilir.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/3/saudi-deputy-foreign-minister-pays-respects-at-khamenei-funeral?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1783108835462oltsv",
-        "title": "BM Kadın Birimi: Gazze'de 38 Binden Fazla Kadın ve Kız Çocuğu Hayatını Kaybetti",
-        "summary": "Birleşmiş Milletler Kadın Birimi (UN Women), Gazze Şeridi'ndeki çatışmalarda 38.000'den fazla kadın ve kız çocuğunun hayatını kaybettiğini bildirdi. Açıklamada, bölgedeki kadınların savaşın 1000 gününde dul kaldığı, yetim kaldığı, yerinden edildiği ve temel yaşam haklarından mahrum bırakıldığı vurgulandı. Bu durum, Gazze'deki insani krizin kadınlar ve kız çocukları üzerindeki yıkıcı etkisini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T20:00:35.462Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/1-000-days-of-israel-s-genocide-gaza-s-women-widowed-orphaned-displaced-and-deprived/3985644",
         "trendScore": 90,
         "isBreaking": false
     }
