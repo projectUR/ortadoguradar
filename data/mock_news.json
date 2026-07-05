@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783264563766zcn2l",
+        "title": "Hodeidah'taki Çatışmalarda En Az 15 Yemen Hükümet Askeri Öldü",
+        "summary": "Yemen'in Hodeidah kentinde meydana gelen çatışmalarda en az 15 Yemen hükümet askeri yaşamını yitirdi. Yemenli bir bakanın açıklamasına göre, söz konusu çatışmalarda 50'den fazla Husi savaşçısı da öldürüldü. Bölgedeki gerilimin devam ettiği ve taraflar arasındaki mücadelenin sürdüğü bildirildi. Bu olay, Yemen'deki iç savaşın şiddetini ve insani maliyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T15:16:03.766Z",
+        "location": {
+            "lat": 14.8,
+            "lng": 42.95,
+            "name": "Hodeidah, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17832646654687ndnd",
+        "title": "İsrail Genelkurmay Başkanı'ndan Lübnan'a 'Hızlı Saldırı' Tehdidi",
+        "summary": "İsrail Genelkurmay Başkanı, Lübnan'ın güneyindeki Beaufort Kalesi'nde konuşlu İsrail güçlerini ziyaret etti. Bu ziyaret sırasında yaptığı açıklamada, Lübnan'a karşı 'hızlı bir saldırı' düzenleyebilecekleri yönünde açık bir tehditte bulundu. Genelkurmay Başkanı'nın bu sözleri, bölgedeki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor. Bu tür açıklamalar, iki ülke arasındaki hassas güvenlik durumunu ve potansiyel çatışma riskini bir kez daha gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8091794/pexels-photo-8091794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T15:17:45.468Z",
+        "location": {
+            "lat": 33.35,
+            "lng": 35.53,
+            "name": "Beaufort Kalesi, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-chief-threatens-lebanon-with-swift-offensive-from-occupied-beaufort-castle/3986722",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1783259182413r6xzi",
         "title": "Mali'de Yenilenen Koordineli Saldırılar Gerçekleşti",
         "summary": "Mali'de ordu mevzilerine yönelik yenilenen koordineli saldırılar gerçekleştiği bildirildi. Bu saldırıların sorumluluğunu ayrılıkçı Tuareg liderliğindeki bir grup ile bölgesel El Kaide bağlantılı bir örgüt üstlendi. Olaylar, ülkedeki güvenlik durumunun ciddiyetini ve militan grupların etkinliğini bir kez daha gözler önüne serdi. Yaşanan bu gelişmeler, Mali'nin kuzeyindeki istikrarsızlığın devam ettiğini ve güvenlik güçlerinin karşı karşıya olduğu zorlukları gösteriyor.",
@@ -764,38 +796,6 @@
             "name": "Ankara, Türkiye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/turkish-foreign-minister-meets-with-deputy-premier-of-iraqs-kurdish-regional-government/3985549",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783083433860dy3wh",
-        "title": "BM, Sudan'ın el-Obeid kentindeki insan hakları felaketi için 'kırmızı alarm' verdi",
-        "summary": "Birleşmiş Milletler (BM) İnsan Hakları Şefi Volker Türk, Sudan'ın el-Obeid kentindeki insan hakları durumu hakkında ciddi bir uyarı yayınladı. Türk, Hızlı Destek Kuvvetleri'nin (RSF) kente yönelik olası bir saldırısına dair artan endişeler nedeniyle bölgede bir 'kırmızı alarm' verildiğini belirtti. Bu durumun, siviller için büyük bir insani felakete yol açabileceği ve halihazırda kırılgan olan durumu daha da kötüleştirebileceği vurgulandı. BM yetkilisi, uluslararası toplumu Sudan'daki insan hakları ihlallerine karşı acil önlem almaya ve sivillerin korunmasını sağlamaya çağırdı. Uyarı, çatışmaların siviller üzerindeki yıkıcı etkisine dikkat çekiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T12:57:13.860Z",
-        "location": {
-            "lat": 13.178,
-            "lng": 30.224,
-            "name": "el-Obeid, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/3/un-sounds-red-alert-over-human-rights-catastrophe-in-sudans-el-obeid?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783083518264ljq7v",
-        "title": "İsrail Ordusu, Güney Lübnan'da Hizbullah Hedeflerini Vurduğunu Açıkladı",
-        "summary": "İsrail ordusu, Perşembe günü Lübnan'ın güneyinde Hizbullah'a ait altyapı hedeflerine yönelik hava saldırıları düzenlediğini duyurdu. Yapılan açıklamada, vurulan altyapının İsrail güçlerine yönelik saldırılarda kullanıldığı iddia edildi. Askeri kaynaklar, saldırılar sırasında silah taşıdığı belirtilen bir kamyonun da hedef alındığını bildirdi. Bu operasyonun, bölgedeki gerilimi tırmandıran son olaylardan biri olduğu belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11349036/pexels-photo-11349036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T12:58:38.264Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.4,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-claims-strikes-target-hezbollah-infrastructure-in-southern-lebanon/3985343",
         "trendScore": 85,
         "isBreaking": false
     }
