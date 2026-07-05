@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783274752192oik0n",
+        "title": "ABD Kongre Üyesi Röportajda Filistinlilerin Varlığını İnkar Etti",
+        "summary": "Amerika Birleşik Devletleri Kongre Üyesi Randy Fine, katıldığı 'The Next Generation' adlı röportaj programında tartışma yaratan açıklamalarda bulundu. Fine, programda yaptığı konuşmada 'Filistinli diye bir şey yoktur' iddiasını dile getirdi. Bu açıklama, İsrail-Filistin çatışması ve bölgedeki siyasi dengeler açısından hassas bir dönemde geldi. Kongre üyesinin bu sözleri, uluslararası arenada ve özellikle Orta Doğu'da geniş yankı uyandırması bekleniyor. Söz konusu ifadeler, ABD'nin Orta Doğu politikaları ve Filistin halkının statüsü üzerine süregelen tartışmaları yeniden alevlendirebilir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T18:05:52.192Z",
+        "location": {
+            "lat": 31.9039,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1783269409685x7doe",
         "title": "Netanyahu'dan Lübnan ve Gazze Açıklamaları",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, eski ABD Başkanı Donald Trump'ın İsrail'in Lübnan'daki askeri operasyonlarını kısıtladığı yönündeki iddiaları yalanladı. Netanyahu, bu tür kısıtlamaların söz konusu olmadığını vurguladı. Öte yandan, İsrail Başbakanı Gazze Şeridi'nin yeniden inşası konusunda da önemli bir şart koştu. Netanyahu, Gazze Şeridi silahsızlandırılmadan bölgede herhangi bir yeniden yapılanma çalışmasına izin verilmeyeceğini belirtti. Bu açıklamalar, bölgedeki güvenlik ve siyasi gerilimlerin devam ettiğini gösteriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/1-000-days-of-israel-s-genocide-gaza-s-women-widowed-orphaned-displaced-and-deprived/3985644",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17830976968480s8bh",
-        "title": "Almanya'dan Merz, Trump'ın Eleştirilerine Karşı NATO Savunma Harcamalarını Savundu",
-        "summary": "Almanya'dan Friedrich Merz, eski ABD Başkanı Donald Trump'ın NATO savunma harcamalarını 'saçma' olarak nitelendirmesinin ardından bu harcamaları güçlü bir şekilde savundu. Bu açıklamalar, NATO liderlerinin önümüzdeki hafta Ankara'da düzenlenecek kritik bir toplantı için bir araya gelmeye hazırlandığı bir döneme denk geldi. Toplantıda, ittifak üyeleri arasındaki savunma harcamalarının adil paylaşımı ve NATO'nun gelecekteki rolü gibi konuların masaya yatırılması bekleniyor. Merz'in savunması, özellikle Trump'ın eleştirileri ışığında, NATO içindeki yük paylaşımı tartışmalarının devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32797493/pexels-photo-32797493.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T16:54:56.848Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
