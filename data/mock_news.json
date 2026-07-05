@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783259182413r6xzi",
+        "title": "Mali'de Yenilenen Koordineli Saldırılar Gerçekleşti",
+        "summary": "Mali'de ordu mevzilerine yönelik yenilenen koordineli saldırılar gerçekleştiği bildirildi. Bu saldırıların sorumluluğunu ayrılıkçı Tuareg liderliğindeki bir grup ile bölgesel El Kaide bağlantılı bir örgüt üstlendi. Olaylar, ülkedeki güvenlik durumunun ciddiyetini ve militan grupların etkinliğini bir kez daha gözler önüne serdi. Yaşanan bu gelişmeler, Mali'nin kuzeyindeki istikrarsızlığın devam ettiğini ve güvenlik güçlerinin karşı karşıya olduğu zorlukları gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T13:46:22.413Z",
+        "location": {
+            "lat": 17,
+            "lng": -4,
+            "name": "Mali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "178325145044481g1g",
         "title": "Dr. Hussam Abu Safia Derhal Serbest Bırakılsın Çağrısı",
         "summary": "Dr. Hussam Abu Safia'nın derhal serbest bırakılması yönünde çağrılar yapıldı. Yapılan açıklamada, bölgedeki 'soykırım' olarak nitelendirilen olayların bin günü aştığı ve Dr. Abu Safia'nın 500 gündür gözaltında tutulduğu belirtildi. Bu durumun sona erdirilmesi için acil eyleme geçilmesi gerektiği vurgulandı. Çağrıda, uluslararası toplumun hem Dr. Abu Safia'nın serbest bırakılması hem de bölgedeki genel durumun iyileştirilmesi için harekete geçmesi talep edildi.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-claims-strikes-target-hezbollah-infrastructure-in-southern-lebanon/3985343",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783075152305g2y61",
-        "title": "ABD Polisi, Mısır Milli Takımı Oyuncularıyla Gerginlik Yaşadı",
-        "summary": "Dallas'ta bir otelde taraftarlarıyla fotoğraf çektiren Mısır milli futbol takımı oyuncuları ile ABD polisi arasında bir gerginlik yaşandığı bildirildi. Olayın, Mısır milli takımının ABD'deki kampı sırasında, oyuncuların hayranlarıyla bir araya geldiği sırada meydana geldiği belirtildi. Haberde gerginliğin nedenine dair detay verilmezken, olayın bir 'arbede' veya 'karşılaşma' olarak tanımlandığı ifade edildi. Bu tür olaylar, ulusal takımların yurt dışı ziyaretlerinde zaman zaman gündeme gelebilmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6046813/pexels-photo-6046813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T10:39:12.305Z",
-        "location": {
-            "lat": 32.7767,
-            "lng": -96.797,
-            "name": "Dallas, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/3/us-police-staff-spark-altercation-with-egyptian-players-posing-with-fans?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
