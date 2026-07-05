@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783269409685x7doe",
+        "title": "Netanyahu'dan Lübnan ve Gazze Açıklamaları",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, eski ABD Başkanı Donald Trump'ın İsrail'in Lübnan'daki askeri operasyonlarını kısıtladığı yönündeki iddiaları yalanladı. Netanyahu, bu tür kısıtlamaların söz konusu olmadığını vurguladı. Öte yandan, İsrail Başbakanı Gazze Şeridi'nin yeniden inşası konusunda da önemli bir şart koştu. Netanyahu, Gazze Şeridi silahsızlandırılmadan bölgede herhangi bir yeniden yapılanma çalışmasına izin verilmeyeceğini belirtti. Bu açıklamalar, bölgedeki güvenlik ve siyasi gerilimlerin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T16:36:49.685Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-denies-trump-restricted-israeli-strikes-in-lebanon/3986729",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783264563766zcn2l",
         "title": "Hodeidah'taki Çatışmalarda En Az 15 Yemen Hükümet Askeri Öldü",
         "summary": "Yemen'in Hodeidah kentinde meydana gelen çatışmalarda en az 15 Yemen hükümet askeri yaşamını yitirdi. Yemenli bir bakanın açıklamasına göre, söz konusu çatışmalarda 50'den fazla Husi savaşçısı da öldürüldü. Bölgedeki gerilimin devam ettiği ve taraflar arasındaki mücadelenin sürdüğü bildirildi. Bu olay, Yemen'deki iç savaşın şiddetini ve insani maliyetini bir kez daha gözler önüne serdi.",
@@ -780,22 +796,6 @@
             "name": "Ankara, Türkiye"
         },
         "source": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783091901442kfcsx",
-        "title": "Türk Dışişleri Bakanı, Irak Kürt Bölgesel Yönetimi Başbakan Yardımcısı ile Görüştü",
-        "summary": "Türkiye Dışişleri Bakanı, Irak Kürt Bölgesel Yönetimi (IKBY) Başbakan Yardımcısı ile Ankara'da bir araya geldi. Türkiye'nin başkentinde gerçekleşen bu görüşmede, iki taraf arasındaki ilişkilerin ve bölgesel konuların ele alındığı tahmin ediliyor. Ancak Dışişleri Bakanlığı, yapılan görüşmelerin içeriğine dair herhangi bir detaylı bilgi paylaşmadı. Toplantının gündemine ilişkin resmi bir açıklama yapılmazken, diplomatik çevreler gelişmeleri yakından takip ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3862094/pexels-photo-3862094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T15:18:21.442Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/turkish-foreign-minister-meets-with-deputy-premier-of-iraqs-kurdish-regional-government/3985549",
         "trendScore": 85,
         "isBreaking": false
     }
