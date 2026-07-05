@@ -1,5 +1,21 @@
 [
     {
+        "id": "178325145044481g1g",
+        "title": "Dr. Hussam Abu Safia Derhal Serbest Bırakılsın Çağrısı",
+        "summary": "Dr. Hussam Abu Safia'nın derhal serbest bırakılması yönünde çağrılar yapıldı. Yapılan açıklamada, bölgedeki 'soykırım' olarak nitelendirilen olayların bin günü aştığı ve Dr. Abu Safia'nın 500 gündür gözaltında tutulduğu belirtildi. Bu durumun sona erdirilmesi için acil eyleme geçilmesi gerektiği vurgulandı. Çağrıda, uluslararası toplumun hem Dr. Abu Safia'nın serbest bırakılması hem de bölgedeki genel durumun iyileştirilmesi için harekete geçmesi talep edildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10461508/pexels-photo-10461508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-05T11:37:30.444Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17832453433491faqh",
         "title": "Fas ve Fransa Dünya Kupası'nda Çeyrek Finale Yükseldi",
         "summary": "FIFA Dünya Kupası 2026'da heyecan dolu mücadeleler devam ediyor. Turnuvanın 24. gününde oynanan karşılaşmaların ardından Fransa ve Fas milli takımları, rakiplerini eleyerek çeyrek finale yükselme başarısı gösterdi. Özellikle Fas'ın bu tarihi başarısı, Kuzey Afrika ve Arap dünyasında büyük bir sevinç ve coşkuyla karşılandı. Kuzey Amerika'da düzenlenen turnuvadan gelen son maç özetleri, müsabakalara dair tepkiler ve gelecek karşılaşmaların ön izlemeleri spor gündemini meşgul etmeye devam ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/3/us-police-staff-spark-altercation-with-egyptian-players-posing-with-fans?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783075174728aqyve",
-        "title": "İsrail, işgal altındaki Batı Şeria'da 13 yeni yerleşim yeri kurma planını onayladı",
-        "summary": "İsrail hükümeti, işgal altındaki Batı Şeria'da 13 yeni yerleşim birimi kurulmasına yönelik bir planı onayladığını duyurdu. Bu karar, Filistinli yetkililer tarafından şiddetle kınandı. Filistinli yetkililer, söz konusu planın Doğu Kudüs'ü daha da izole edeceğini ve bölgedeki mevcut gerilimi tırmandıracağını ifade etti. Uluslararası toplumun büyük bir kısmı tarafından yasa dışı kabul edilen bu tür yerleşim faaliyetleri, İsrail-Filistin barış sürecine yönelik endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13190193/pexels-photo-13190193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-03T10:39:34.728Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/3/israel-approves-plan-to-establish-13-new-settlements-in-occupied-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
