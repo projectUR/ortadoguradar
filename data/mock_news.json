@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783355859378s05wl",
+        "title": "Lübnan'da İsrail Hava Saldırısında Bir Öğretmen Hayatını Kaybetti",
+        "summary": "Lübnan'dan gelen son haberlere göre, İsrail'in bölgeye yönelik hava saldırıları devam ediyor. Al Jazeera muhabiri Heidi Pett'in bildirdiğine göre, devam eden saldırılarda bir öğretmen hayatını kaybetti. Bu olay, daha önce ilan edilen 'ateşkes'e rağmen İsrail'in Lübnan topraklarına yönelik operasyonlarının sürdüğünü gösteriyor. Bölgedeki gerilim, sivil kayıplarla birlikte tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37411527/pexels-photo-37411527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T16:37:39.378Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1783355944121uf33p",
+        "title": "Türk ve Kuveyt Dışişleri Bakanları Ankara'da Bir Araya Geldi",
+        "summary": "Türk Dışişleri Bakanı Hakan Fidan ile Kuveyt Dışişleri Bakanı Şeyh Cerrah Cabir El-Ahmed El-Sabah, Türkiye'nin başkenti Ankara'da bir görüşme gerçekleştirdi. Diplomatik kaynaklardan edinilen bilgilere göre, iki bakan ikili ilişkileri ve bölgesel gelişmeleri ele aldı. Görüşmede, Türkiye ve Kuveyt arasındaki işbirliğinin çeşitli alanlarda daha da güçlendirilmesi konuları üzerinde duruldu. Ayrıca, Orta Doğu'daki güncel meseleler ve uluslararası arenadaki ortak çıkarlar da değerlendirildi. Bu tür üst düzey temasların, iki ülke arasındaki stratejik ortaklığı pekiştirmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T16:39:04.121Z",
+        "location": {
+            "lat": 39.93,
+            "lng": 32.86,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkish-kuwaiti-foreign-ministers-meet-in-ankara/3987692",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1783343106357e91u5",
         "title": "BM'den El-Obeid İçin 'Felaket' Uyarısı: RSF Kuşatması Altındaki Şehir Sudan'ın Yeni El-Fasher'ı mı Olacak?",
         "summary": "Birleşmiş Milletler, Sudan'daki El-Obeid şehrinde 'felaket' yaşanabileceği konusunda ciddi bir uyarıda bulundu. Bu uyarı, Hızlı Destek Kuvvetleri'nin (RSF) geçen yıl El-Fasher'da gerçekleştirdiği vahşetin ardından geldi. RSF'nin El-Obeid'i kuşatması, bölgedeki insani durumu daha da kötüleştirme potansiyeli taşıyor. Uluslararası toplum, sivillerin korunması ve insani yardımların ulaştırılması için acil önlem alınması çağrısında bulunuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178318270395020oog",
-        "title": "Gazze'de Son 48 Saatte İsrail Güçleri Tarafından En Az 7 Filistinli Öldürüldü",
-        "summary": "Gazze'de son 48 saat içinde İsrail güçleri tarafından en az 7 Filistinlinin öldürüldüğü bildirildi. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, enkaz altından ayrıca dokuz ceset daha çıkarıldı. Bu durum, bölgedeki çatışmaların devam ettiğini ve can kayıplarının yaşandığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T16:31:43.950Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1783182740500wzdw3",
-        "title": "Rus Saldırıları Ukrayna'da Yıkım İzleri Bıraktı",
-        "summary": "Rusya'nın Ukrayna'ya yönelik saldırıları devam ediyor. Ülke genelinde birçok şehir ve bölgede yoğun çatışmalar yaşanıyor. Bu saldırılar sonucunda sivil altyapı, konutlar ve enerji tesisleri büyük zarar görüyor. Ukrayna makamları, Rus güçlerinin neden olduğu yıkımın boyutlarının her geçen gün arttığını belirtiyor. Uluslararası kuruluşlar da bölgedeki insani durumu yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T16:32:20.500Z",
-        "location": {
-            "lat": 50.45,
-            "lng": 30.52,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
