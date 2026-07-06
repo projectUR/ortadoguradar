@@ -1,5 +1,133 @@
 [
     {
+        "id": "1783328530630j14i0",
+        "title": "İsrailli Askerin Filistinli Aracına Ses Bombası Attığı Görüntülendi",
+        "summary": "Güvenlik kamerası kayıtları, bir İsrail askerinin genç Filistinlilerin bulunduğu bir araca ses bombası attığını ortaya koydu. Görüntülerde, askerin araca doğru bir ses bombası fırlattığı ve ardından aracın içinden tepkilerin geldiği görülüyor. Bu olay, İsrail güçleri ile Filistinliler arasındaki gerilimin devam ettiğini bir kez daha gözler önüne serdi. Bölgedeki insan hakları örgütleri, bu tür eylemlerin siviller üzerindeki etkilerine dikkat çekiyor. Olayla ilgili resmi bir açıklama henüz yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163478/war-desert-guns-gunshow-163478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:02:10.630Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Batı Şeria, Filistin Toprakları"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783328587518qj1zz",
+        "title": "İran'ın Yeni Rejimi Öncekinden Çok Farklı",
+        "summary": "İran'da yaşanan siyasi değişimler, ülkenin yeni rejiminin önceki dönemden önemli farklılıklar taşıdığını gösteriyor. Ayetullah Hamaney'in cenaze töreni, bu dönüşümün ve yeni bir dönemin başlangıcının bir göstergesi olarak kabul ediliyor. Ülkenin yeni liderliğinin iç ve dış politikadaki hedefleri ve izleyeceği yol merak uyandırıyor. Bu gelişmelerin İran'ın bölgesel konumu ve uluslararası ilişkileri üzerindeki potansiyel etkileri yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/33137146/pexels-photo-33137146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:03:07.518Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783328607830h3my8",
+        "title": "Şam'da Bir Kafede Meydana Gelen Patlamada Dokuz Kişi Hayatını Kaybetti",
+        "summary": "Suriye devlet medyası tarafından bildirildiğine göre, başkent Şam'da bir kafede meydana gelen bombalı saldırıda dokuz kişi yaşamını yitirdi. Patlama, önemli bir hükümet binası olan Adalet Sarayı yakınlarındaki bir kafede gerçekleşti. Saldırının sorumluluğunu üstlenen henüz herhangi bir grup bulunmuyor. Olayla ilgili soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982146/pexels-photo-35982146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:03:27.830Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "178332863450131rir",
+        "title": "İsrail Savunma Bakanı'ndan İranlı Liderlere Sert Uyarı",
+        "summary": "İsrail Savunma Bakanı Israel Katz, İranlı liderlere yönelik sert bir uyarıda bulundu. Bakan Katz, İranlıların Hamaney'i anma törenleri sırasında yaptığı açıklamada, İsrail'i yok etme planlarını yeniden teşvik etmeye çalışan herhangi bir İranlı liderin engelleneceğini belirtti. Bu açıklama, İsrail ile İran arasındaki mevcut gerilimi bir kez daha gözler önüne serdi. Bölgedeki hassas dengeler göz önüne alındığında, bu tür tehditlerin tansiyonu daha da artırma potansiyeli bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6963061/pexels-photo-6963061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:03:54.501Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-defense-minister-threatens-iranian-leaders-as-iranians-mourn-khamenei/3987119",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783328657105v4ttw",
+        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimcilerin Saldırısında 6 Filistinli Yaralandı",
+        "summary": "Anadolu Ajansı'na konuşan yerleşim karşıtı bir aktivistin bildirdiğine göre, işgal altındaki Batı Şeria'da Filistinlilere yönelik bir saldırı gerçekleşti. Yaklaşık 30 silahlı İsrailli yerleşimci, İsrail askerlerinin koruması altında Umm al-Khair köyündeki Filistin evlerine saldırdı. Saldırı sonucunda altı Filistinlinin yaralandığı belirtildi. Olay, bölgedeki gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4707128/pexels-photo-4707128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:04:17.105Z",
+        "location": {
+            "lat": 31.42,
+            "lng": 35.12,
+            "name": "Umm al-Khair, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-injured-in-attack-by-israeli-occupiers-in-occupied-west-bank/3987094",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "1783328677780ym7ql",
+        "title": "Ateşkese Rağmen İsrail'in Gazze Saldırılarında 4 Filistinli Öldü, 22 Yaralandı",
+        "summary": "Ateşkese rağmen İsrail güçlerinin Gazze Şeridi'ne düzenlediği saldırılarda dört Filistinlinin hayatını kaybettiği, 22 kişinin ise yaralandığı bildirildi. Anadolu Ajansı'na konuşan tıbbi kaynaklar, İsrail güçlerinin hareket halindeki araçları ve evleri hedef aldığını belirtti. Bu olaylar, bölgedeki gerilimin devam ettiğini ve mevcut ateşkesin ihlal edildiğini gösteriyor. Saldırılar, Gazze'deki insani durumu daha da kötüleştirme potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33577012/pexels-photo-33577012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:04:37.780Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/4-more-palestinians-killed-22-injured-in-israeli-strikes-across-gaza-despite-ceasefire/3986987",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783328699275aprj4",
+        "title": "İsrail güçleri Suriye'nin Kuneytra kırsalına baskın düzenledi, kontrol noktası kurdu",
+        "summary": "Yerel medya kaynaklarının bildirdiğine göre, İsrail güçleri Suriye'nin Kuneytra kırsalında bulunan Saida el-Culan köyü çevresinde askeri hareketlilik gerçekleştirdi. Bölgedeki ana yolda bir askeri kontrol noktası kuran İsrail güçlerinin bu eylemi, bölgedeki güvenlik durumunu etkileyebilir. Olayın detaylarına ilişkin henüz resmi bir açıklama yapılmazken, bölge halkı gelişmeleri yakından takip ediyor. Bu tür sınır ötesi operasyonlar, İsrail ile Suriye arasındaki gerilimi zaman zaman tırmandırabiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/404995/pexels-photo-404995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:04:59.275Z",
+        "location": {
+            "lat": 33.1,
+            "lng": 35.8,
+            "name": "Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-syria-s-quneitra-countryside-set-up-checkpoint/3986959",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783328732880mebqn",
+        "title": "İran'ın Eski Yüce Lideri Hamaney'in Cenazesi Tahran'da Törenle Taşındı",
+        "summary": "İran'ın eski Yüce Lideri Ayetullah Ali Hamaney'in naaşı, başkent Tahran'da düzenlenen cenaze töreniyle taşındı. Çok sayıda kişinin katıldığı tören, Hamaney'in defnedilmesinden önce devam etmesi beklenen çok günlük ritüellerin bir parçası olarak gerçekleştirildi. Ülkenin dini ve siyasi liderinin vefatının ardından ulusal yas atmosferinde süren cenaze törenleri, büyük bir toplumsal ve siyasi öneme sahip. Bu tür etkinlikler, İran'da halkın liderlerine olan bağlılığını ve ulusal birliği simgeliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3648309/pexels-photo-3648309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T09:05:32.880Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/body-of-iran-s-former-supreme-leader-khamenei-carried-in-tehran-funeral-procession/3986938",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783290732671gfq3h",
         "title": "Filistinli Bebek, İsrail'in Acil Tıbbi Bakımı Engellemesi Sonrası Batı Şeria'da Hayatını Kaybetti",
         "summary": "Filistinli bir bebeğin, İsrail'in acil tıbbi bakımı engellediği iddiaları üzerine Batı Şeria'da hayatını kaybettiği bildirildi. Bölgedeki gerilimin tırmandığı bir dönemde yaşanan bu olay, geniş yankı uyandırdı. Ayrıca, İsrail güçlerinin işgal altındaki Batı Şeria'da 16 yaşındaki bir çocuğu vurarak öldürdüğü belirtildi. Gazze'de ise iki Filistinlinin daha hayatını kaybettiği açıklandı. Bu gelişmeler, Filistin topraklarındaki devam eden şiddet ve insani endişeleri bir kez daha gündeme getirdi.",
@@ -670,133 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-rejects-uk-france-hormuz-statement-warns-against-foreign-military-presence/3985942",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17831498078796ve4l",
-        "title": "İsrailli Siyasilerden Gazze'de Yerleşim Birimi İnşa Etme Sinyali",
-        "summary": "İsrailli önde gelen siyasetçiler, Gazze Şeridi'nde yaşanan savaş ve kıtlığın ardından bölgede yerleşim birimleri kurmaya hazır olduklarını belirtti. Bu açıklamalar, Gazze'nin geleceğine dair uluslararası tartışmaları yeniden alevlendirdi. Bölgedeki insani krizin devam ettiği bir dönemde, İsrailli yetkililerin bu yöndeki niyetleri dikkat çekiyor. Gazze'nin statüsü ve geleceği, İsrail-Filistin çatışmasının temel ve hassas konularından biri olmaya devam etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30565236/pexels-photo-30565236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T07:23:27.879Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783149871766asjve",
-        "title": "Mısır, tarihinde ilk kez Dünya Kupası Son 16 Turu'na yükselmesini kutluyor",
-        "summary": "Mısır Milli Futbol Takımı, Avustralya'yı mağlup ederek tarihinde ilk kez Dünya Kupası Son 16 Turu'na yükselme başarısı gösterdi. Bu tarihi başarı, ülke genelinde büyük bir coşkuyla karşılandı ve Mısırlılar sokaklara dökülerek kutlamalar yaptı. Anadolu Ajansı'na konuşan bir Mısırlı taraftar, \"Şimdi Messi'yi bekliyoruz\" ifadeleriyle bir sonraki turda Arjantin ile karşılaşacak olmalarına duyulan heyecanı dile getirdi. Mısır'ın bu başarısı, sadece spor camiasında değil, tüm ülkede milli gurur ve birlik duygusunu pekiştiren önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/11845544/pexels-photo-11845544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T07:24:31.766Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egypt-celebrates-historic-first-ever-world-cup-round-of-16-qualification/3985853",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783149892932yjuy5",
-        "title": "Trump: ABD, İran'a Merhum Liderin Cenazesi İçin 'Bir Hafta İzin Verdi'",
-        "summary": "ABD eski Başkanı Donald Trump, İran ile devam eden müzakereler bağlamında dikkat çekici açıklamalarda bulundu. Trump, ABD'nin, İran'ın merhum dini liderinin cenaze töreni nedeniyle ülkeye 'bir hafta izin verdiğini' belirtti. Açıklamalarında, İran'ın anlaşmaya varmak için 'çok istekli' olduğunu ve 'çözüm için can attığını' iddia etti. Bu ifadeler, ABD ile İran arasındaki nükleer müzakereler veya diğer diplomatik girişimlerin durma noktasına geldiği bir dönemde geldi. Trump'ın bu yorumları, iki ülke arasındaki gerilimli ilişkilere dair yeni bir boyut kazandırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T07:24:52.932Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-says-us-gave-iran-a-week-off-for-funeral-of-iran-late-supreme-leader-amid-stalled-talks/3985820",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17831499142573srnc",
-        "title": "Suudi liderliğindeki koalisyon, Husilere karşı 'benzeri görülmemiş' güç kullanma sözü verdi",
-        "summary": "Suudi Arabistan liderliğindeki koalisyon, Yemen'deki Husilerin oluşturduğu tehditlere karşı 'benzeri görülmemiş bir kararlılık ve güçle' yanıt vereceğini duyurdu. Koalisyon sözcüsü, Krallığı hedef alma girişimlerine karşı sert bir karşılık verileceğini belirtti. Bu açıklama, bölgedeki gerilimin tırmandığı bir dönemde geldi ve Yemen'deki çatışmanın seyrini etkileyebilecek nitelikte. Koalisyon, Husilerin sınır ötesi saldırılarını engelleme konusundaki kararlılığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T07:25:14.257Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6877,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-vows-unprecedented-force-against-houthi-threats/3985817",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783149941516gubsr",
-        "title": "Yabancı liderler ve heyetler, hayatını kaybeden İran Yüksek Lideri Hamaney'e saygı duruşunda bulunmak üzere Tahran'a gelmeye devam ediyor",
-        "summary": "Çeşitli ülkelerden üst düzey liderler ve resmi heyetler, hayatını kaybeden İran Yüksek Lideri Hamaney için düzenlenen anma törenlerine katılmak üzere Tahran'a ulaşmaya devam ediyor. Cenaze törenlerinin başlamasıyla birlikte, heyetler İmam Humeyni Musallası'nda düzenlenen saygı duruşu etkinliğinde hazır bulunuyor. Bu ziyaretler, İran'ın uluslararası alandaki diplomatik ilişkilerini ve liderinin vefatının ardından yaşanan dayanışmayı gözler önüne seriyor. Törenler, ülkenin yas sürecinde önemli bir yer tutarken, uluslararası katılım dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7317717/pexels-photo-7317717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T07:25:41.516Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/foreign-leaders-delegations-continue-arriving-in-tehran-to-pay-tribute-to-slain-iranian-supreme-leader-khamenei/3985796",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1783149962483wb7ni",
-        "title": "Fransız Uçak Gemisi Charles de Gaulle Orta Doğu Görevinden Döndü",
-        "summary": "Fransa'nın nükleer enerjiyle çalışan uçak gemisi Charles de Gaulle, Orta Doğu'daki görevini tamamlayarak Fransa'ya geri döndü. Fransa Cumhurbaşkanı Emmanuel Macron, geminin dönüşüne rağmen, mayın karşı tedbir varlıkları ve refakatçilerinin bölgede konuşlu kalmaya devam edeceğini açıkladı. Macron, bu varlıkların Fransa'nın ortaklarıyla birlikte operasyon yapmaya hazır olacağını vurguladı. Bu açıklama, Fransa'nın Orta Doğu'daki stratejik askeri varlığının ve işbirliğinin devam edeceğinin bir göstergesi olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37873932/pexels-photo-37873932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T07:26:02.483Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/europe/aircraft-carrier-charles-de-gaulle-returns-to-france-from-middle-east/3985784",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783138372330u21dw",
-        "title": "Eski BM yetkilisi uyardı: 'El Obeid krizi El Faşir'den daha kötü olabilir'",
-        "summary": "Birleşmiş Milletler'in eski Sudan İnsani Yardım Koordinatörü Mukesh Kapila, ülkedeki mevcut durumla ilgili ciddi bir uyarıda bulundu. Kapila, El Obeid kentinde yaşanan krizin, halihazırda çatışmaların yoğunlaştığı El Faşir'deki durumdan daha vahim boyutlara ulaşabileceğini belirtti. Bu açıklama, Sudan'da devam eden insani krizin derinleştiği ve yeni bölgelere yayıldığı endişelerini artırdı. Uluslararası toplum, özellikle El Obeid ve El Faşir gibi kritik bölgelerdeki sivillerin korunması ve insani yardımların ulaştırılması konusunda acil önlemler alınması çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T04:12:52.330Z",
-        "location": {
-            "lat": 13.18,
-            "lng": 30.22,
-            "name": "El Obeid, Sudan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783123696903fa0m4",
-        "title": "İran'da Olası Savaş ve Hamaney'in Cenaze Senaryoları Gündemdeyken, Gazze'de Saldırılar Sürüyor",
-        "summary": "Orta Doğu'da gerilim devam ederken, İran'da olası bir savaş durumu ve dini lider Ali Hamaney'in cenazesi için Tahran'da milyonlarca kişinin beklendiği senaryoları gündemde yer alıyor. Bu gelişmelerin yanı sıra, bölgeden gelen son bilgilere göre İsrail'in Gazze Şeridi'ne yönelik saldırıları sürüyor. Sivil savunma kaynakları, düzenlenen bir insansız hava aracı saldırısında bir çocuğun hayatını kaybettiğini ve bir diğer çocuğun da yaralandığını bildirdi. Bu olay, Gazze'deki sivil kayıpların artmaya devam ettiğini ve bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8876113/pexels-photo-8876113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T00:08:16.903Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
