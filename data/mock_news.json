@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783371339525zm5o7",
+        "title": "İspanya'daki Pamplona Boğa Koşusu'nda 'İsrail'i Yok Et' Pankartı Açıldı",
+        "summary": "İspanya'nın Pamplona kentinde düzenlenen geleneksel San Fermin boğa koşusu festivalinde dikkat çeken bir olay yaşandı. Binlerce kişinin katıldığı festival sırasında, 'İsrail'i Yok Et' yazılı dev bir pankart açıldı. Bu pankart, festivalin kalabalık atmosferinde sergilenerek uluslararası kamuoyunun dikkatini çekti. Olay, Orta Doğu'daki siyasi gerilimlerin ve İsrail-Filistin çatışmasının küresel çapta yankı bulduğunu bir kez daha gösterdi. Pankartın içeriği, İspanya'da gerçekleşmesine rağmen Orta Doğu siyasetine doğrudan bir gönderme içermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6054378/pexels-photo-6054378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T20:55:39.525Z",
+        "location": {
+            "lat": 42.81,
+            "lng": -1.64,
+            "name": "Pamplona, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/6/crowds-hold-destroy-israel-banner-at-spains-pamplona-bull-run?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1783364258846m2zuy",
         "title": "İran Yargı Erki Başkanı'ndan Yüksek Lider Hamaney ve Yabancı 'Saldırganlar' Hakkında Sert Açıklama",
         "summary": "İran Yargı Erki Başkanı, ülkenin Yüksek Lideri Ali Hamaney'in intikamının alınması gerektiğini vurgulayan sert bir açıklama yaptı. Başkan, bu açıklamasında ayrıca yabancı 'saldırganların' yargılanması çağrısında bulunarak, İran'ın ulusal güvenliğine yönelik tehditlere karşı kararlı bir duruş sergileneceğinin sinyalini verdi. Bu ifadeler, ülkenin dış politikası ve bölgesel ilişkilerinde gerilimi artırabilecek potansiyel bir sertleşmeye işaret ediyor. Yargı başkanının bu tutumu, İran'ın iç ve dış düşmanlarına karşı misilleme yapma niyetini açıkça ortaya koymaktadır.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783204274988279b3",
-        "title": "İran Cumhurbaşkanı, İsrail Eylemlerine Yönelik Uluslararası Sessizliği Eleştirdi",
-        "summary": "İran'ın yeni Cumhurbaşkanı Pezeshkian, İsrail'in eylemlerine karşı uluslararası toplumun sessizliğini sert bir dille eleştirdi. Pezeshkian, yeni liderliğin İslam dünyasının birliğini koruma konusunda ağır bir sorumluluk taşıdığını vurguladı. Bu açıklama, bölgesel gerilimlerin sürdüğü bir dönemde İran'ın dış politika duruşunu ve önceliklerini ortaya koydu. İran lideri, uluslararası aktörleri İsrail'in politikalarına karşı daha aktif bir tutum sergilemeye davet etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T22:31:14.988Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-president-criticizes-international-silence-over-israeli-actions/3986370",
         "trendScore": 80,
         "isBreaking": false
     }
