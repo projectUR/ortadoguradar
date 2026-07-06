@@ -1,5 +1,53 @@
 [
     {
+        "id": "1783364258846m2zuy",
+        "title": "İran Yargı Erki Başkanı'ndan Yüksek Lider Hamaney ve Yabancı 'Saldırganlar' Hakkında Sert Açıklama",
+        "summary": "İran Yargı Erki Başkanı, ülkenin Yüksek Lideri Ali Hamaney'in intikamının alınması gerektiğini vurgulayan sert bir açıklama yaptı. Başkan, bu açıklamasında ayrıca yabancı 'saldırganların' yargılanması çağrısında bulunarak, İran'ın ulusal güvenliğine yönelik tehditlere karşı kararlı bir duruş sergileneceğinin sinyalini verdi. Bu ifadeler, ülkenin dış politikası ve bölgesel ilişkilerinde gerilimi artırabilecek potansiyel bir sertleşmeye işaret ediyor. Yargı başkanının bu tutumu, İran'ın iç ve dış düşmanlarına karşı misilleme yapma niyetini açıkça ortaya koymaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10033378/pexels-photo-10033378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T18:57:38.846Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/6/iran-reappoints-a-familiar-face-to-powerful-post-during-khamenei-funeral?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783364325497c8k97",
+        "title": "NATO'nun Ankara Zirvesi Neden Büyük Önem Taşıyor?",
+        "summary": "Kuzey Atlantik Antlaşması Örgütü (NATO) zirvesi, Türkiye'nin başkenti Ankara'da düzenleniyor. Al Jazeera muhabiri James Bays, bu zirvenin neden yüksek riskler taşıdığını ve uluslararası arenada büyük önem arz ettiğini değerlendirdi. Zirvede, ittifakın geleceği, bölgesel güvenlik konuları ve üye ülkeler arasındaki stratejik işbirlikleri gibi kritik başlıkların ele alınması bekleniyor. Ankara zirvesinin, NATO'nun önümüzdeki dönemdeki politikalarına yön verecek kararlara sahne olabileceği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T18:58:45.497Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/6/what-makes-this-nato-summit-high-stakes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783364448656wydvx",
+        "title": "Lübnan'dan İsrail'e 'İşgal' Uyarısı: Ordunun Güneye Konuşlanması Engelleniyor",
+        "summary": "Lübnan Ordu Komutanı Joseph Aoun, İsrail'in Lübnan topraklarını işgalinin, Lübnan ordusunun ülkenin güneyine konuşlanmasını engellediğini belirtti. Aoun, İsrail'in işgal ettiği bölgelerden çekilmesi için uluslararası baskı yapılması gerektiğini vurguladı. Bu durumun, Lübnan'ın egemenliğini ve güvenliğini tehdit ettiğini ifade etti. Komutan, bölgedeki istikrarın sağlanması için İsrail'in işgaline son vermesinin kritik önem taşıdığını dile getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7985239/pexels-photo-7985239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-06T19:00:48.656Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Lübnan-İsrail Sınırı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-occupation-of-lebanese-territory-hinders-army-deployment-in-south-president-warns/3987800",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783355859378s05wl",
         "title": "Lübnan'da İsrail Hava Saldırısında Bir Öğretmen Hayatını Kaybetti",
         "summary": "Lübnan'dan gelen son haberlere göre, İsrail'in bölgeye yönelik hava saldırıları devam ediyor. Al Jazeera muhabiri Heidi Pett'in bildirdiğine göre, devam eden saldırılarda bir öğretmen hayatını kaybetti. Bu olay, daha önce ilan edilen 'ateşkes'e rağmen İsrail'in Lübnan topraklarına yönelik operasyonlarının sürdüğünü gösteriyor. Bölgedeki gerilim, sivil kayıplarla birlikte tırmanmaya devam ediyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iranian-president-criticizes-international-silence-over-israeli-actions/3986370",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783194285889pzkad",
-        "title": "Ukrayna Saldırıları Sonrası Rusya'da Yakıt Krizi ve Müzakere İhtimali",
-        "summary": "Ukrayna'nın Rusya'daki rafinerilere yönelik aralıksız saldırıları, ülkede ciddi bir yakıt krizine yol açtı. Bu durum, Rusya'nın enerji altyapısı üzerindeki baskıyı artırırken, küresel enerji piyasalarında da belirsizlik yaratıyor. Uluslararası gözlemciler, yaşanan bu ekonomik baskının Kremlin'i Ukrayna ile müzakereler masasına oturmaya itip itmeyeceğini yakından takip ediyor. Enerji arzındaki aksaklıklar ve artan maliyetler, Rusya'nın savaş çabalarını sürdürme kapasitesini doğrudan etkileyebilecek potansiyele sahip.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/8266768/pexels-photo-8266768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T19:44:45.889Z",
-        "location": {
-            "lat": 55.7558,
-            "lng": 37.6173,
-            "name": "Rusya"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17831943554398adqa",
-        "title": "Erdoğan: İsrail, ABD-İran Anlaşmasını 'Dinamitlememeli'",
-        "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, İsrail'i ABD ile İran arasındaki mutabakat zaptını baltalamaya çalışmakla suçladı. Erdoğan, İsrail'in bu anlaşmayı 'dinamitlemesine' izin verilmemesi gerektiğini vurguladı. Türk liderin daha önce de İsrail'e yönelik benzer suçlamalarda bulunduğu belirtildi. Bu açıklamalar, Orta Doğu'daki diplomatik gerilimleri ve bölgesel güç dengelerini yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T19:45:55.439Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783188289412octug",
-        "title": "İran, Hamaney anma töreninde süreklilik ve intikam mesajı verdi",
-        "summary": "İran'da, Pazar ve Pazartesi günleri ülke genelinde resmi tatil ilan edildi. Bu kararın, ulusal anma törenlerine ve cenaze alaylarına daha geniş katılımı teşvik etmek amacıyla alındığı belirtildi. Ülke liderliği, bu etkinlikler sırasında \"süreklilik ve intikam\" mesajları veriyor. Bu mesajların, rejimin ideolojik duruşunu pekiştirmeyi ve geleceğe yönelik kararlılığını vurgulamayı amaçladığı ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35914289/pexels-photo-35914289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T18:04:49.412Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
