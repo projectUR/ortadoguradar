@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783395722243pykgz",
+        "title": "Mısır Teknik Direktörü Hassan'dan Filistinliler İçin Duyarlılık Çağrısı",
+        "summary": "Mısır Milli Takımı Teknik Direktörü Hossam Hassan, bir FIFA Dünya Kupası basın toplantısında Filistinlilerin içinde bulunduğu duruma dikkat çekti. Hassan, \"Filistinliler için hissetmeyen insan değildir\" ifadelerini kullanarak Gazze'deki Filistinlilerin yaşadığı zorluklar hakkında farkındalık yaratma çağrısında bulundu. Bu açıklama, spor dünyasından gelen insani ve siyasi bir mesaj olarak öne çıktı ve uluslararası kamuoyunda yankı buldu.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3805146/pexels-photo-3805146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-07T03:42:02.243Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783381182446wy8mi",
         "title": "İsrail'in Lübnan'a Düzenlediği Saldırıda Dört Kişi Hayatını Kaybetti",
         "summary": "Lübnan'da, İsrail'in son ateşkesin ardından gerçekleştirdiği en ölümcül saldırıda bir okul müdürü dahil dört sivil yaşamını yitirdi. Lübnan devlet medyası tarafından aktarılan bilgilere göre, hayatını kaybeden üç kadın ve bir erkek, aile evlerini ziyaret ettikten sonra araçlarıyla seyahat ederken hedef alındı. Bu olay, bölgedeki gerilimi yeniden tırmandıran ve sivil kayıplara yol açan önemli bir gelişme olarak kaydedildi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783208128021prgt6",
-        "title": "Lübnan'ın Eski Cumhurbaşkanı Aoun'dan ABD'ye 'Daima Yanımızda Olun' Çağrısı",
-        "summary": "Lübnan'ın eski Cumhurbaşkanı Michel Aoun, ABD Bağımsızlık Günü dolayısıyla gönderdiği tebrik mesajında, Washington yönetimine ülkesinin 'her zaman yanında durması' çağrısında bulundu. Aoun, mesajında Lübnan'ın 'yeni bir umut sayfası açmasını' temenni ettiğini dile getirdi. Bu açıklama, Lübnan'ın içinde bulunduğu ekonomik ve siyasi krizler karşısında uluslararası destek arayışının bir göstergesi olarak değerlendirildi. Eski Cumhurbaşkanı'nın bu çağrısı, ülkesinin geleceği için ABD ile ilişkilerin önemine vurgu yapıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-04T23:35:28.021Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
