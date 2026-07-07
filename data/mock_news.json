@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783458434683r8phe",
+        "title": "Filistin Yanlısı AP Üyesi Rima Hassan 'Terörü Övme' Suçlamasıyla Yargılanıyor",
+        "summary": "Fransız Avrupa Parlamentosu (AP) üyesi Rima Hassan, Paris'te 'terörü övme' suçlamasıyla yargılanmak üzere mahkemeye çıktı. Filistin yanlısı duruşuyla tanınan Hassan, mahkemeye gelişi sırasında toplanan kalabalığa hitaben yaptığı konuşmada 'Artık kimse güvende değil' ifadelerini kullandı. Bu dava, İsrail-Filistin çatışması bağlamında Avrupa'daki ifade özgürlüğü ve siyasi aktivizm tartışmalarını yeniden gündeme getiriyor. Hassan'ın yargılanması, Avrupa'da Filistin'e destek veren siyasetçilere yönelik artan baskıların bir örneği olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38263046/pexels-photo-38263046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-07T21:07:14.683Z",
+        "location": {
+            "lat": 48.8566,
+            "lng": 2.3522,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1783458491725vc7gl",
+        "title": "Arjantin, Mısır'ı geçerek Dünya Kupası çeyrek finaline yükseldi",
+        "summary": "Dünya Kupası çeyrek final mücadelesinde Arjantin, Mısır karşısında zorlu bir galibiyet elde etti. ABD'nin Atlanta şehrinde oynanan karşılaşmada, son şampiyon Arjantin iki farklı geriye düşmesine rağmen maçı çevirmeyi başardı. Lionel Messi'nin uzatma dakikalarında attığı golle eşitliği yakalayan Arjantin, büyük bir sürprize engel oldu. Bu sonuçla Arjantin, turnuvada yoluna devam ederek adını çeyrek finale yazdırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32285166/pexels-photo-32285166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-07T21:08:11.725Z",
+        "location": {
+            "lat": 33.748995,
+            "lng": -84.387982,
+            "name": "Atlanta, ABD"
+        },
+        "source": "https://www.aa.com.tr/en/americas/argentina-rally-past-egypt-to-reach-world-cup-quarterfinals/3989721",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783451139321fmdud",
         "title": "Gözaltındaki Gazze'li Doktorun İsrail Hapishanesinde Şiddetli Şekilde Dövüldüğü İddiası",
         "summary": "Gazze'den gözaltına alınan Dr. Hussam Abu Safiya'nın avukatı, müvekkilinin İsrail hapishanesinde ağır şekilde dövüldüğünü iddia etti. BBC'ye konuşan avukat, geçen hafta yaptığı ziyaret sırasında müvekkilini şiddetli dayak nedeniyle tanıyamadığını belirtti. Bu iddia, İsrail'in Filistinli tutuklulara yönelik muamelesi konusunda endişeleri yeniden gündeme getirdi. Olay, bölgedeki insan hakları ihlalleri tartışmalarını alevlendirecek nitelikte.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-injured-in-attack-by-israeli-occupiers-in-occupied-west-bank/3987094",
         "trendScore": 80,
         "isBreaking": true
-    },
-    {
-        "id": "1783328677780ym7ql",
-        "title": "Ateşkese Rağmen İsrail'in Gazze Saldırılarında 4 Filistinli Öldü, 22 Yaralandı",
-        "summary": "Ateşkese rağmen İsrail güçlerinin Gazze Şeridi'ne düzenlediği saldırılarda dört Filistinlinin hayatını kaybettiği, 22 kişinin ise yaralandığı bildirildi. Anadolu Ajansı'na konuşan tıbbi kaynaklar, İsrail güçlerinin hareket halindeki araçları ve evleri hedef aldığını belirtti. Bu olaylar, bölgedeki gerilimin devam ettiğini ve mevcut ateşkesin ihlal edildiğini gösteriyor. Saldırılar, Gazze'deki insani durumu daha da kötüleştirme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33577012/pexels-photo-33577012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-06T09:04:37.780Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/4-more-palestinians-killed-22-injured-in-israeli-strikes-across-gaza-despite-ceasefire/3986987",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783328699275aprj4",
-        "title": "İsrail güçleri Suriye'nin Kuneytra kırsalına baskın düzenledi, kontrol noktası kurdu",
-        "summary": "Yerel medya kaynaklarının bildirdiğine göre, İsrail güçleri Suriye'nin Kuneytra kırsalında bulunan Saida el-Culan köyü çevresinde askeri hareketlilik gerçekleştirdi. Bölgedeki ana yolda bir askeri kontrol noktası kuran İsrail güçlerinin bu eylemi, bölgedeki güvenlik durumunu etkileyebilir. Olayın detaylarına ilişkin henüz resmi bir açıklama yapılmazken, bölge halkı gelişmeleri yakından takip ediyor. Bu tür sınır ötesi operasyonlar, İsrail ile Suriye arasındaki gerilimi zaman zaman tırmandırabiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/404995/pexels-photo-404995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-06T09:04:59.275Z",
-        "location": {
-            "lat": 33.1,
-            "lng": 35.8,
-            "name": "Kuneytra, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-syria-s-quneitra-countryside-set-up-checkpoint/3986959",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
