@@ -1,5 +1,21 @@
 [
     {
+        "id": "17834638856312mybv",
+        "title": "Mısır Teknik Direktörü Hassan: Dünya Kupası Maçında Haksızlığa Uğradık",
+        "summary": "Mısır Milli Takımı Teknik Direktörü Hassan, takımının Dünya Kupası'ndan elenmesinin ardından Arjantin'e karşı oynadıkları maçta haksızlığa uğradıklarını iddia etti. Hassan, elenmelerinin ardından yaptığı açıklamada, \"Belki de dünya şampiyonlarını turnuvada tutmak istediler\" ifadelerini kullanarak maçın sonucunun manipüle edilmiş olabileceği şüphesini dile getirdi. Bu açıklama, Mısır'ın turnuvadan elenmesinin ardından spor kamuoyunda geniş yankı buldu. Teknik direktörün bu sözleri, uluslararası futbol müsabakalarındaki hakem kararları ve olası dış etkenler üzerine yeni bir tartışma başlattı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32285227/pexels-photo-32285227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-07T22:38:05.631Z",
+        "location": {
+            "lat": 30,
+            "lng": 31,
+            "name": "Mısır"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1783458434683r8phe",
         "title": "Filistin Yanlısı AP Üyesi Rima Hassan 'Terörü Övme' Suçlamasıyla Yargılanıyor",
         "summary": "Fransız Avrupa Parlamentosu (AP) üyesi Rima Hassan, Paris'te 'terörü övme' suçlamasıyla yargılanmak üzere mahkemeye çıktı. Filistin yanlısı duruşuyla tanınan Hassan, mahkemeye gelişi sırasında toplanan kalabalığa hitaben yaptığı konuşmada 'Artık kimse güvende değil' ifadelerini kullandı. Bu dava, İsrail-Filistin çatışması bağlamında Avrupa'daki ifade özgürlüğü ve siyasi aktivizm tartışmalarını yeniden gündeme getiriyor. Hassan'ın yargılanması, Avrupa'da Filistin'e destek veren siyasetçilere yönelik artan baskıların bir örneği olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-defense-minister-threatens-iranian-leaders-as-iranians-mourn-khamenei/3987119",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783328657105v4ttw",
-        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimcilerin Saldırısında 6 Filistinli Yaralandı",
-        "summary": "Anadolu Ajansı'na konuşan yerleşim karşıtı bir aktivistin bildirdiğine göre, işgal altındaki Batı Şeria'da Filistinlilere yönelik bir saldırı gerçekleşti. Yaklaşık 30 silahlı İsrailli yerleşimci, İsrail askerlerinin koruması altında Umm al-Khair köyündeki Filistin evlerine saldırdı. Saldırı sonucunda altı Filistinlinin yaralandığı belirtildi. Olay, bölgedeki gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4707128/pexels-photo-4707128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-06T09:04:17.105Z",
-        "location": {
-            "lat": 31.42,
-            "lng": 35.12,
-            "name": "Umm al-Khair, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-injured-in-attack-by-israeli-occupiers-in-occupied-west-bank/3987094",
-        "trendScore": 80,
-        "isBreaking": true
     }
 ]
