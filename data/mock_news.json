@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783451139321fmdud",
+        "title": "Gözaltındaki Gazze'li Doktorun İsrail Hapishanesinde Şiddetli Şekilde Dövüldüğü İddiası",
+        "summary": "Gazze'den gözaltına alınan Dr. Hussam Abu Safiya'nın avukatı, müvekkilinin İsrail hapishanesinde ağır şekilde dövüldüğünü iddia etti. BBC'ye konuşan avukat, geçen hafta yaptığı ziyaret sırasında müvekkilini şiddetli dayak nedeniyle tanıyamadığını belirtti. Bu iddia, İsrail'in Filistinli tutuklulara yönelik muamelesi konusunda endişeleri yeniden gündeme getirdi. Olay, bölgedeki insan hakları ihlalleri tartışmalarını alevlendirecek nitelikte.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/24822794/pexels-photo-24822794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-07T19:05:39.321Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1783451164385q9vvv",
+        "title": "Katar, Hürmüz Yakınlarındaki Gemi Saldırısını Protesto İçin İran Maslahatgüzarını Çağırdı",
+        "summary": "Katar Dışişleri Bakanlığı, Hürmüz Boğazı yakınlarında bir gemiye düzenlenen saldırıyı protesto etmek amacıyla İran'ın maslahatgüzarını çağırdı. Doha yönetimi, Tahran'a resmi bir protesto notası ileterek saldırıyla ilgili acil ve kapsamlı bir açıklama talep etti. Bu diplomatik girişim, bölgedeki denizcilik güvenliğine yönelik endişeleri ve iki ülke arasındaki ilişkilerdeki hassasiyeti gözler önüne serdi. Katar, olayın tüm yönleriyle aydınlatılması ve benzer olayların tekrarlanmaması için İran'dan somut adımlar beklediğini vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/10114199/pexels-photo-10114199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-07T19:06:04.385Z",
+        "location": {
+            "lat": 25.28,
+            "lng": 51.53,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-summons-irans-deputy-ambassador-to-protest-attack-on-vessel-near-hormuz/3989606",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783442126700b0lqm",
         "title": "Suriye ve Fransa, 12 Yıllık Aranın Ardından Büyükelçi Değişimi Konusunda Anlaştı",
         "summary": "Suriye ve Fransa, 12 yıllık bir aranın ardından büyükelçi değişimi konusunda anlaşmaya vardı. Fransa, Mart 2012'de Şam'daki büyükelçiliğini kapatmıştı. Bu karar, Esad rejiminin Suriye ayaklanması sırasında protestoları şiddetle bastırması üzerine alınmıştı. Bu diplomatik gelişme, iki ülke arasındaki ilişkilerde potansiyel bir normalleşme adımı olarak değerlendiriliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-syria-s-quneitra-countryside-set-up-checkpoint/3986959",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783328732880mebqn",
-        "title": "İran'ın Eski Yüce Lideri Hamaney'in Cenazesi Tahran'da Törenle Taşındı",
-        "summary": "İran'ın eski Yüce Lideri Ayetullah Ali Hamaney'in naaşı, başkent Tahran'da düzenlenen cenaze töreniyle taşındı. Çok sayıda kişinin katıldığı tören, Hamaney'in defnedilmesinden önce devam etmesi beklenen çok günlük ritüellerin bir parçası olarak gerçekleştirildi. Ülkenin dini ve siyasi liderinin vefatının ardından ulusal yas atmosferinde süren cenaze törenleri, büyük bir toplumsal ve siyasi öneme sahip. Bu tür etkinlikler, İran'da halkın liderlerine olan bağlılığını ve ulusal birliği simgeliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/3648309/pexels-photo-3648309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-06T09:05:32.880Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/body-of-iran-s-former-supreme-leader-khamenei-carried-in-tehran-funeral-procession/3986938",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783290732671gfq3h",
-        "title": "Filistinli Bebek, İsrail'in Acil Tıbbi Bakımı Engellemesi Sonrası Batı Şeria'da Hayatını Kaybetti",
-        "summary": "Filistinli bir bebeğin, İsrail'in acil tıbbi bakımı engellediği iddiaları üzerine Batı Şeria'da hayatını kaybettiği bildirildi. Bölgedeki gerilimin tırmandığı bir dönemde yaşanan bu olay, geniş yankı uyandırdı. Ayrıca, İsrail güçlerinin işgal altındaki Batı Şeria'da 16 yaşındaki bir çocuğu vurarak öldürdüğü belirtildi. Gazze'de ise iki Filistinlinin daha hayatını kaybettiği açıklandı. Bu gelişmeler, Filistin topraklarındaki devam eden şiddet ve insani endişeleri bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-05T22:32:12.671Z",
-        "location": {
-            "lat": 32,
-            "lng": 35,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
