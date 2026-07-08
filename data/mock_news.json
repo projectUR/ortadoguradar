@@ -1,5 +1,37 @@
 [
     {
+        "id": "17834818016847b8ua",
+        "title": "VAR Kararı, Arjantin'in Mısır Karşısındaki Galibiyeti Dünya Kupası'nda Meşruiyet Sorularını Gündeme Getirdi",
+        "summary": "Dünya Kupası'nda Arjantin ile Mısır arasında oynanan maçta alınan VAR kararları tartışmalara yol açtı. Arjantin'in Mısır'ı mağlup etmesiyle Mısır'ın turnuvadan elenmesi, ülkede büyük üzüntüye neden oldu. Uzmanlar, maçın meşruiyetini sorgularken, Lionel Messi'nin takımı Arjantin'i Dünya Kupası'nda tutmak için siyasi etkilerin devrede olabileceği iddialarını dile getirdi. Bu durum, uluslararası futbol organizasyonlarının adil işleyişi ve şeffaflığı hakkında ciddi soru işaretleri oluşturdu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32285225/pexels-photo-32285225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-08T03:36:41.684Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/7/8/var-call-argentina-win-raise-questions-of-legitimacy-at-world-cup?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783481945884ryo32",
+        "title": "Kuveyt'te Elektrik Kesintileri Yaşandı",
+        "summary": "Kuveyt'in çeşitli bölgelerinde elektrik kesintileri meydana geldi. Kesintilerin, bir iletim hattında yaşanan arıza nedeniyle yaşandığı bildirildi. Acil durum ekipleri, etkilenen bazı bölgelere elektriği yeniden sağlarken, tüm bölgelere enerji tedarikini tamamen geri yüklemek için çalışmalarını sürdürüyor. Yetkililer, sorunun en kısa sürede giderilmesi için yoğun çaba harcadıklarını belirtti.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/34610704/pexels-photo-34610704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-08T03:39:05.884Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/power-outages-hit-several-areas-in-kuwait-after-transmission-line-failure/3989842",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "17834638856312mybv",
         "title": "Mısır Teknik Direktörü Hassan: Dünya Kupası Maçında Haksızlığa Uğradık",
         "summary": "Mısır Milli Takımı Teknik Direktörü Hassan, takımının Dünya Kupası'ndan elenmesinin ardından Arjantin'e karşı oynadıkları maçta haksızlığa uğradıklarını iddia etti. Hassan, elenmelerinin ardından yaptığı açıklamada, \"Belki de dünya şampiyonlarını turnuvada tutmak istediler\" ifadelerini kullanarak maçın sonucunun manipüle edilmiş olabileceği şüphesini dile getirdi. Bu açıklama, Mısır'ın turnuvadan elenmesinin ardından spor kamuoyunda geniş yankı buldu. Teknik direktörün bu sözleri, uluslararası futbol müsabakalarındaki hakem kararları ve olası dış etkenler üzerine yeni bir tartışma başlattı.",
@@ -764,38 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783328607830h3my8",
-        "title": "Şam'da Bir Kafede Meydana Gelen Patlamada Dokuz Kişi Hayatını Kaybetti",
-        "summary": "Suriye devlet medyası tarafından bildirildiğine göre, başkent Şam'da bir kafede meydana gelen bombalı saldırıda dokuz kişi yaşamını yitirdi. Patlama, önemli bir hükümet binası olan Adalet Sarayı yakınlarındaki bir kafede gerçekleşti. Saldırının sorumluluğunu üstlenen henüz herhangi bir grup bulunmuyor. Olayla ilgili soruşturma başlatıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982146/pexels-photo-35982146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-06T09:03:27.830Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "178332863450131rir",
-        "title": "İsrail Savunma Bakanı'ndan İranlı Liderlere Sert Uyarı",
-        "summary": "İsrail Savunma Bakanı Israel Katz, İranlı liderlere yönelik sert bir uyarıda bulundu. Bakan Katz, İranlıların Hamaney'i anma törenleri sırasında yaptığı açıklamada, İsrail'i yok etme planlarını yeniden teşvik etmeye çalışan herhangi bir İranlı liderin engelleneceğini belirtti. Bu açıklama, İsrail ile İran arasındaki mevcut gerilimi bir kez daha gözler önüne serdi. Bölgedeki hassas dengeler göz önüne alındığında, bu tür tehditlerin tansiyonu daha da artırma potansiyeli bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6963061/pexels-photo-6963061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-06T09:03:54.501Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-defense-minister-threatens-iranian-leaders-as-iranians-mourn-khamenei/3987119",
         "trendScore": 85,
         "isBreaking": false
     }
