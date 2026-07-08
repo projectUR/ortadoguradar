@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783550012952xxw8y",
+        "title": "ABD, Suriye'yi 'Teröre Destek Veren Ülkeler' Listesinden Çıkarma Adımı Attı",
+        "summary": "ABD Başkanı Trump, Suriye'yi 'teröre destek veren ülkeler' listesinden çıkarma yönünde bir adım atıldığını duyurdu. Bu kararın, Ahmed el-Şaraa'nın ülkeyi birleştirme çabaları gerekçe gösterilerek alındığı belirtildi. Bu gelişme, Suriye'nin uluslararası statüsü ve ABD ile ilişkileri açısından önemli bir diplomatik hamle olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-08T22:33:32.952Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783550067152mvgo8",
+        "title": "Gazze'de ölümcül saldırılar: 5 ölü, çocuklar yaralı",
+        "summary": "İsrail'in Gazze Şeridi'ndeki Han Yunus ve Gazze Şehri bölgelerine düzenlediği hava saldırılarında beş kişi hayatını kaybetti. Saldırılarda, aralarında çocukların da bulunduğu çok sayıda sivilin yaralandığı bildirildi. Bölgedeki kaynaklar, saldırıların ardından kurtarma ekiplerinin olay yerlerine sevk edildiğini belirtti. Bu son olay, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-08T22:34:27.152Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783545033515xxgyd",
         "title": "Sudan'da Barış İçin Yol Haritası Önerisi: Eski Asi Liderden Ulusal Diyalog Çağrısı",
         "summary": "Eski isyancı lider ve mevcut hükümet müttefiki Malik Agar Ayyir, Sudan'daki iç savaşı sona erdirmek ve ülkeyi demokratik sivil yönetime geçişe yönlendirmek amacıyla kapsamlı bir ulusal diyalog önerisinde bulundu. Ayyir'in bu girişimi, ülkedeki mevcut çatışmaları durdurmayı ve siyasi istikrarı sağlamayı hedefliyor. Öneri, Sudan'ın gelecekteki yönetim yapısını belirlemede kritik bir rol oynayabilir ve uluslararası toplum tarafından yakından takip ediliyor. Bu diyalog süreci, ülkenin uzun süredir devam eden siyasi krizine çözüm bulma potansiyeli taşıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-demolishes-6-palestinian-homes-shelter-tent-across-occupied-west-bank/3988735",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783422795128zje3f",
-        "title": "İsrail donanması, Gazze açıklarında 7 Filistinli balıkçıyı gözaltına aldı",
-        "summary": "İsrail donanması, Gazze Şeridi'nin orta kesimlerinde yedi Filistinli balıkçıyı gözaltına aldı. Filistinli balıkçılar örgütü tarafından yapılan açıklamaya göre, gözaltına alınan balıkçılardan beşi aynı aileye mensup. Olayın, İsrail'in Gazze'ye uyguladığı deniz ablukası ve balıkçılık kısıtlamaları bağlamında meydana geldiği belirtildi. Bu tür gözaltılar, bölgedeki balıkçıların geçim kaynaklarını ve hareket özgürlüklerini etkileyen sıkça yaşanan olaylar arasında yer alıyor. Gözaltına alınan balıkçıların durumu hakkında henüz detaylı bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14820673/pexels-photo-14820673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:13:15.128Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-navy-detains-7-palestinian-fishermen-off-central-gaza-coast/3988532",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783422817455m79q6",
-        "title": "Yemen'deki Kırılgan Ateşkes, Tırmanan Çatışmalarla En Büyük Sınavını Veriyor",
-        "summary": "Yemen'de 2022'den bu yana devam eden kırılgan ateşkes, hükümet güçleri ile Husi isyancılar arasında tırmanan çatışmalar nedeniyle en büyük sınavıyla karşı karşıya. Ülkenin çeşitli cephelerinde askeri yığınağın yayılmasıyla birlikte taraflar karşılıklı tehdit alışverişinde bulunuyor. Bu durum, Yemen'deki barış çabalarını tehlikeye atarken, bölgedeki gerilimi artırma potansiyeli taşıyor. Gelişmeler, insani krizin daha da derinleşebileceği endişelerini beraberinde getiriyor ve uluslararası toplumun dikkatini çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11097030/pexels-photo-11097030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:13:37.455Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-fragile-truce-faces-biggest-test-since-2022-amid-escalating-clashes/3988455",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
