@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783545033515xxgyd",
+        "title": "Sudan'da Barış İçin Yol Haritası Önerisi: Eski Asi Liderden Ulusal Diyalog Çağrısı",
+        "summary": "Eski isyancı lider ve mevcut hükümet müttefiki Malik Agar Ayyir, Sudan'daki iç savaşı sona erdirmek ve ülkeyi demokratik sivil yönetime geçişe yönlendirmek amacıyla kapsamlı bir ulusal diyalog önerisinde bulundu. Ayyir'in bu girişimi, ülkedeki mevcut çatışmaları durdurmayı ve siyasi istikrarı sağlamayı hedefliyor. Öneri, Sudan'ın gelecekteki yönetim yapısını belirlemede kritik bir rol oynayabilir ve uluslararası toplum tarafından yakından takip ediliyor. Bu diyalog süreci, ülkenin uzun süredir devam eden siyasi krizine çözüm bulma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/344738/pexels-photo-344738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-08T21:10:33.515Z",
+        "location": {
+            "lat": 15.6,
+            "lng": 32.5,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/8/former-rebel-turned-government-ally-proposes-a-path-to-peace-for-sudan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783545075083laj66",
+        "title": "Demokrat Rahm Emanuel'den İsrail'e Koşulsuz ABD Yardımı Beklentisini Bırakma Çağrısı",
+        "summary": "Demokrat Parti'nin 2028 başkanlık seçimleri için adı geçen önemli isimlerinden Rahm Emanuel, İsrail'in ABD'den koşulsuz yardım beklentisini artık bırakması gerektiğini belirtti. Eski Obama dönemi yetkilisinin bu açıklamaları, Demokrat Parti içinde ABD-İsrail ilişkilerine yönelik değişen hassasiyetleri yansıttığı şeklinde yorumlanıyor. Bu çağrı, ABD'nin Orta Doğu politikalarında potansiyel bir dönüşümün sinyallerini taşırken, gelecekteki ABD yönetimlerinin İsrail'e yönelik tutumunu etkileyebilir. Emanuel'in sözleri, özellikle parti tabanında İsrail'e verilen desteğin koşullandırılması yönündeki artan taleplerin bir göstergesi olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386445/pexels-photo-4386445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-08T21:11:15.083Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/8/democrat-rahm-emanuel-tells-israel-to-no-longer-expect-unconditional-us-aid?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783539413721m0c36",
         "title": "NATO Ankara Zirvesi'nden Beş Önemli Çıkarım",
         "summary": "Ankara'da gerçekleşen NATO zirvesi, ittifakın geleceği ve bölgesel güvenlik dinamikleri açısından kritik kararlara sahne oldu. Zirveye, dönemin ABD Başkanı Trump'ın Avrupa karşıtı ve İran'a yönelik sert söylemleri damga vurdu. Üye ülkeler, savunma bütçelerini artırma konusunda mutabakata vararak ortak savunma kapasitesini güçlendirme taahhüdünde bulundu. Ayrıca, Ukrayna'ya verilen desteğin sürdürüleceği ve genişletileceği vurgulandı. Bu gelişmeler, ittifakın stratejik yönelimleri ve uluslararası ilişkilerdeki duruşu hakkında önemli ipuçları verdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemen-s-fragile-truce-faces-biggest-test-since-2022-amid-escalating-clashes/3988455",
         "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "17834228396215039x",
-        "title": "İşgalci Saldırısında 8 Filistinli Yaralandı, İsrail Ordusu Yaşlı Bir Adamı Gözaltına Aldı",
-        "summary": "İşgal altındaki Batı Şeria'nın güneyindeki El Halil kentinde, İsrail güçlerinin müdahalesi sonucu 8 Filistinlinin yaralandığı bildirildi. Filistin Kızılayı'ndan yapılan açıklamaya göre, yaralananlar arasında çocukların da bulunduğu belirtildi. Olaylar sırasında İsrail ordusunun bir yaşlı adamı gözaltına aldığı kaydedildi. Bölgede gerilimin devam ettiği ve benzer olayların sıkça yaşandığı ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/139392/checkmate-chess-resignation-conflict-139392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:13:59.621Z",
-        "location": {
-            "lat": 31.53,
-            "lng": 35.1,
-            "name": "El Halil, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/8-palestinians-injured-in-occupier-attack-israeli-army-arrests-elderly-man/3988447",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783422862703dgz9s",
-        "title": "Fransa, Macron'un Şam'ı ziyareti sırasında 15 yıl sonra 23 Suriye eserini iade etti",
-        "summary": "Fransa, Suriye'ye ait 23 tarihi eseri 15 yıl aradan sonra iade etti. Bu iade, Fransa Cumhurbaşkanı Macron'un Şam'ı ziyareti sırasında gerçekleşti. İade edilen koleksiyon, tarih öncesi dönemlerden İslam dönemine kadar uzanan nadir parçaları içeriyor. Eserlerin iadesi, Suriye'deki iç savaş nedeniyle gecikmişti. Bu gelişme, iki ülke arasındaki kültürel ilişkilerde önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5865316/pexels-photo-5865316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:14:22.703Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/europe/france-returns-23-syrian-artifacts-after-15-years-as-macron-visits-damascus/3988413",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
