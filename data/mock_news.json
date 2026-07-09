@@ -1,5 +1,53 @@
 [
     {
+        "id": "17835560312066mt7e",
+        "title": "ABD'nin İran'a Yönelik Saldırılarında Bir Kişi Hayatını Kaybetti",
+        "summary": "ABD'nin İran'ın Bushehr, Chabahar, Bandar Abbas ve Jask şehirlerine düzenlediği saldırılarda bir kişinin yaşamını yitirdiği bildirildi. Saldırılar, özellikle Iranshahr kentinde can kaybına yol açarken, Chabahar'da geniş çaplı elektrik kesintilerine neden oldu. Olaylar, bölgedeki gerilimi artırırken, ABD ve İran arasındaki çatışma potansiyelini gözler önüne serdi. Saldırıların detayları ve etkileri hakkında henüz tam bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36756018/pexels-photo-36756018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T00:13:51.206Z",
+        "location": {
+            "lat": 27.2,
+            "lng": 60.68,
+            "name": "Iranshahr, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1783556102396qhnxw",
+        "title": "Justin Bieber, Dünya Kupası Finali Devre Arası Gösterisinde Sahne Alacak",
+        "summary": "Ünlü şarkıcı Justin Bieber'ın, Dünya Kupası finali devre arası gösterisinde sahne alacağı duyuruldu. Bieber, Madonna, Shakira ve BTS gibi dünya çapında tanınan diğer sanatçılarla birlikte performans sergileyecek. FIFA yetkilileri, 11 dakikalık bu özel gösteriyi milyarlarca kişinin izlemesini beklediklerini ifade etti. Bu performans, bir Dünya Kupası tarihinde ilk kez düzenlenecek devre arası şovu olma özelliğini taşıyor ve küresel çapta büyük ilgi görmesi bekleniyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/12442276/pexels-photo-12442276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T00:15:02.396Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1783556203912qsa4d",
+        "title": "İran'da Trump'ın tehdidinin ardından patlama sesleri duyuldu",
+        "summary": "İran medyasından gelen haberlere göre, ülkenin güneyindeki Bender Abbas kentinde hava savunma sistemleri \"düşmanca hedeflerle\" çatışmaya girdi. Olay, ABD eski Başkanı Trump'ın tehditlerinin ardından yaşandı. Bölgeden gelen ilk bilgiler, patlama seslerinin duyulduğunu ve hava savunmasının devreye girdiğini gösteriyor. İranlı yetkililer, durumla ilgili detaylı açıklama yapmazken, bölgedeki gerilimin arttığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982174/pexels-photo-35982174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T00:16:43.912Z",
+        "location": {
+            "lat": 27.19,
+            "lng": 56.28,
+            "name": "Bender Abbas, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iran-after-trump-s-threat/3992348",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783550012952xxw8y",
         "title": "ABD, Suriye'yi 'Teröre Destek Veren Ülkeler' Listesinden Çıkarma Adımı Attı",
         "summary": "ABD Başkanı Trump, Suriye'yi 'teröre destek veren ülkeler' listesinden çıkarma yönünde bir adım atıldığını duyurdu. Bu kararın, Ahmed el-Şaraa'nın ülkeyi birleştirme çabaları gerekçe gösterilerek alındığı belirtildi. Bu gelişme, Suriye'nin uluslararası statüsü ve ABD ile ilişkileri açısından önemli bir diplomatik hamle olarak değerlendiriliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783422710790l46vr",
-        "title": "Hamas, Gazze'deki Hükümetini Feshetti: Yeni Yönetim Yapılanması Ne Olacak?",
-        "summary": "Hamas, Gazze Şeridi'ndeki mevcut hükümetini feshettiğini duyurdu. Bu kararın ardından, sivil işler ve güvenlikten sorumlu olacak yeni bir yönetim yapısı olan Ulusal Sivil İşler ve Güvenlik Konseyi (NCAG) kurulacağı belirtildi. NCAG'nin, sağlık ve eğitim gibi temel sivil hizmetlerin yanı sıra bölgenin güvenlik meselelerini de denetleyeceği ifade edildi. Bu gelişme, Gazze'deki idari ve siyasi yapıda önemli bir değişikliğe işaret ederken, Hamas'ın bölgedeki yönetim anlayışında yeni bir dönemin başlangıcı olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28872506/pexels-photo-28872506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:11:50.790Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4667,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1783422748598aic9a",
-        "title": "Macron'un ziyareti sırasında Şam'da patlamalar 18 kişiyi yaraladı",
-        "summary": "Suriye'nin başkenti Şam'da meydana gelen patlamalarda 18 kişinin yaralandığı bildirildi. Olaylar, Fransa Cumhurbaşkanı Macron'un Suriye'ye gerçekleştirdiği ziyaret sırasında yaşandı. Patlamalara ilişkin haberler gelirken, devlet televizyonu Suriye Devlet Başkanı'nın Macron'u başkanlık sarayında ağırladığını duyurdu. Bu durum, ziyaretin güvenlik açısından hassas bir dönemde gerçekleştiğini ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9998072/pexels-photo-9998072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:12:28.598Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17834227737183bvns",
-        "title": "İsrail Ordusu Batı Şeria'da Filistinlilere Ait Evleri Yıktı",
-        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın çeşitli bölgelerinde Filistinlilere ait altı evi ve bir barınma çadırını yıktı. Yıkım operasyonları, Ramallah, Kalkilya, Nablus ve El Halil vilayetlerinde gerçekleştirildi. Bu eylemler, bölgedeki Filistinli topluluklar üzerinde doğrudan etki yaratırken, uluslararası insan hakları örgütleri tarafından sıklıkla eleştirilen uygulamalar arasında yer alıyor. Olay, İsrail-Filistin çatışmasının devam eden gerilimini yansıtan bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11461011/pexels-photo-11461011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:12:53.718Z",
-        "location": {
-            "lat": 31.9038,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-demolishes-6-palestinian-homes-shelter-tent-across-occupied-west-bank/3988735",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
