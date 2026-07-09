@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783631175671i2ao5",
+        "title": "Yeni Saldırıların Ardından Hürmüz Boğazı'nda Petrol, Gaz ve Kargo Gemisi Trafiğinde Büyük Düşüş",
+        "summary": "Veriler, bu hafta yaşanan saldırıların ardından ABD destekli Hürmüz Boğazı güzergahını kullanan gemi sayısında, özellikle petrol ve gaz taşıyanlarda, önemli bir düşüş yaşandığını gösteriyor. Küresel enerji tedariki için hayati önem taşıyan bu su yolu üzerindeki deniz trafiğinde gözle görülür bir azalma kaydedildi. Yaşanan olaylar, bölgedeki deniz güvenliğine ilişkin endişeleri artırırken, durumun uluslararası ticaret ve enerji piyasaları üzerinde potansiyel etkileri olabileceği belirtiliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/16382982/pexels-photo-16382982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T21:06:15.671Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783616501585rkxam",
         "title": "Fransa'da Aşırı Sağcı Ulusal Birlik Partisi'nin İktidar Şansı Tartışılıyor",
         "summary": "Fransa'da Yüksek Mahkeme'nin aldığı bir karar, aşırı sağcı Ulusal Birlik Partisi lideri Marine Le Pen'in gelecek yıl yapılacak cumhurbaşkanlığı seçimlerinde aday olmasının önünü açtı. Bu gelişme, partinin iktidara gelme şansının artıp artmadığına dair tartışmaları yoğunlaştırdı. Le Pen'in adaylığı, Fransa'nın iç siyasetinde önemli bir dönüm noktası olarak değerlendirilirken, ülkenin dış politikası ve uluslararası ilişkilerdeki duruşu üzerinde potansiyel etkileri olabileceği belirtiliyor. Özellikle Orta Doğu'ya yönelik politikalar ve göçmenlik konularındaki olası değişiklikler, uluslararası gözlemciler tarafından yakından izleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/8/world-cup-2026-quarterfinals-full-schedule-and-egypt-fifa-dispute?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783502857080z5pje",
-        "title": "İran'ın öldürülen Yüce Lideri Hamaney için cenaze törenleri Irak'ta düzenleniyor",
-        "summary": "İran'ın öldürülen Yüce Lideri Hamaney için Irak'ın Necef kentinde cenaze törenleri düzenleniyor. Hamaney'in tabutu, yoğun katılımla Necef sokaklarından geçirilerek Şii İslam'ın önemli kutsal mekanlarından biri olan İmam Ali Türbesi'ne ulaştırıldı. İmam Ali, Hz. Muhammed'in damadı ve Şii inancında büyük öneme sahip bir şahsiyettir. Bu törenler, bölgedeki Şii toplumu için derin bir dini ve kültürel anlam taşımaktadır. Cenaze etkinlikleri, İran ve Irak arasındaki güçlü dini ve toplumsal bağları da gözler önüne sermektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10484325/pexels-photo-10484325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T09:27:37.080Z",
-        "location": {
-            "lat": 32,
-            "lng": 44.3,
-            "name": "Necef, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
