@@ -1,5 +1,165 @@
 [
     {
+        "id": "17835965692247k6nn",
+        "title": "İran, suikaste uğrayan lider Hamaney'in defnine hazırlanıyor",
+        "summary": "İran, suikast sonucu hayatını kaybeden Yüksek Lider Ayetullah Ali Hamaney'in defni için hazırlıklarını sürdürüyor. Hamaney'in naaşı, ülkenin doğusundaki kutsal şehir Meşhed'deki memleketinde toprağa verilecek. Şii Müslümanlar için büyük öneme sahip olan Meşhed, aynı zamanda İmam Rıza Türbesi'ne ev sahipliği yapmaktadır. Ülke genelinde milyonlarca kişinin katıldığı geniş çaplı cenaze törenleri düzenlenmişti. Bu olay, ülkenin siyasi ve güvenlik ortamında önemli yankılar uyandırması beklenen bir dönüm noktası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3926749/pexels-photo-3926749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:29:29.224Z",
+        "location": {
+            "lat": 36.26,
+            "lng": 59.62,
+            "name": "Meşhed, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss",
+        "trendScore": 95,
+        "isBreaking": false
+    },
+    {
+        "id": "17835965916628u7j9",
+        "title": "ABD'den İran'a İkinci Gece Saldırısı: Barış Süreci Devam Ediyor mu?",
+        "summary": "Amerika Birleşik Devletleri'nin İran'a yönelik ikinci gece üst üste saldırılar düzenlediği bildirildi. Bu askeri gerilime rağmen, taraflardan hiçbiri mevcut geçici barış anlaşmasını resmi olarak feshetmedi. Yaşanan tırmanış, bölgedeki tansiyonu artırırken, diplomatik kanalların tamamen kapanmadığına işaret ediyor. Orta Doğu'daki güvenlik ve istikrar açısından gelişmeler yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15688701/pexels-photo-15688701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:29:51.662Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783596614331bfme6",
+        "title": "BM Soruşturması: Sudan'ın RSF Güçlerinin Eylemleri Soykırım Boyutunda",
+        "summary": "Birleşmiş Milletler (BM) tarafından yürütülen bir araştırma misyonu, Sudan'daki Hızlı Destek Kuvvetleri'nin (RSF) Darfur bölgesinde gerçekleştirdiği sistematik şiddet eylemlerinin soykırım boyutuna ulaştığını açıkladı. Misyonun bulgularına göre, RSF'nin toplu katliamlar ve toplu tecavüzler de dahil olmak üzere işlediği suçlar, uluslararası hukuka göre soykırım olarak nitelendiriliyor. Bu tespit, bölgedeki insani krizin ciddiyetini bir kez daha gözler önüne serdi. Uluslararası toplum, bu bulgular ışığında sorumluların hesap vermesi için adımlar atılması çağrısında bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/26633721/pexels-photo-26633721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:30:14.331Z",
+        "location": {
+            "lat": 13.63,
+            "lng": 25.33,
+            "name": "Darfur, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783596659789b5pc1",
+        "title": "ABD-İran Geriliminin Ardından Bahreyn ve Körfez Ülkelerinde Hava Saldırısı Sirenleri",
+        "summary": "ABD'nin İran'a yönelik gerçekleştirdiği hava saldırılarının ardından bölgede gerilim tırmandı. Gergin bir gecenin ardından Bahreyn'de ve diğer Körfez ülkelerinde hava saldırısı sirenleri çalmaya başladı. Bu durum, bölgedeki güvenlik endişelerini artırdı ve olası misilleme saldırılarına karşı teyakkuza geçildiğini gösterdi. Olaylar, ABD ile İran arasındaki mevcut gerilimin yeni bir boyut kazandığını ve Körfez bölgesinin doğrudan etkilendiğini ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37459554/pexels-photo-37459554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:30:59.789Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1783596682282jje8x",
+        "title": "Gazze'li Doktorun İsrail Hapishanesinde Ağır Şekilde Dövüldüğü İddia Edildi",
+        "summary": "Gazze'den Dr. Hussam Abu Safiya'nın avukatı, müvekkilinin İsrail hapishanesinde ağır şekilde darp edildiğini açıkladı. Avukat, geçen hafta yaptığı ziyaret sırasında müvekkilini o kadar kötü bir halde bulduğunu ve tanıyamadığını BBC'ye bildirdi. Bu durum, gözaltındaki Filistinlilerin muamelesine ilişkin endişeleri yeniden gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/26743059/pexels-photo-26743059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:31:22.282Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783596706763ufu07",
+        "title": "İsrail, İşgal Altındaki Batı Şeria'da Ev Yıkımıyla 3 Filistinli Aileyi Yerinden Etti",
+        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'nın güneyinde bir evi yıkarak üç Filistinli aileyi evsiz bıraktı. Yıkım sonucunda ev sahibi ailenin üç hanesi barınma hakkından mahrum kaldı. Ev sahibinin kardeşi, yaşanan duruma tepki göstererek, 'Şimdi nereye gideceğiz? Üç aile evsiz kaldı' ifadelerini kullandı. Bu olay, bölgedeki Filistinlilerin yaşam koşulları ve insan hakları üzerindeki baskıyı bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11461011/pexels-photo-11461011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:31:46.763Z",
+        "location": {
+            "lat": 31.5328,
+            "lng": 35.0957,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-displaces-3-palestinian-families-by-demolishing-home-in-southern-occupied-west-bank/3993090",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1783596731613nulq9",
+        "title": "Arabulucular, daha fazla askeri saldırıyı durdurmak için ABD ve İran ile yeni temaslar kurdu: Pakistan kaynakları",
+        "summary": "Pakistan kaynaklarına göre, arabulucular ABD ve İran ile daha fazla askeri saldırıyı durdurmak amacıyla yeni temaslar kurdu. Bu diplomatik çabaların, Orta Doğu'daki gerilimi azaltmayı hedeflediği belirtiliyor. Kaynaklar, İsrail'in güney Lübnan'daki düşmanca eylemlerinin, Islamabad Mutabakat Zaptı'nın uygulanmamasının temel faktörü olduğunu vurguladı. Bu durum, bölgedeki mevcut çatışmaların diplomatik çözüm arayışlarını doğrudan etkilediğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:32:11.613Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/mediators-make-fresh-contacts-with-us-iran-to-halt-further-military-strikes-pakistani-sources/3993074",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1783596751600qzfj7",
+        "title": "İran'ın Buşehr Kentinde Patlama Sesleri Duyuldu",
+        "summary": "İran'ın güneybatısında yer alan Buşehr kentinde çok sayıda patlama sesi duyulduğu bildirildi. Fars Haber Ajansı'nın aktardığı bilgilere göre, bu patlamalar Perşembe sabahı ABD güçlerinin Buşehr eyaletindeki bazı hemleri hedef almasının ardından meydana geldi. Olayın bölgedeki güvenlik durumu üzerindeki etkileri yakından takip ediliyor. Bölgedeki gerilimin artması endişelere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12356447/pexels-photo-12356447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:32:31.600Z",
+        "location": {
+            "lat": 28.92,
+            "lng": 50.83,
+            "name": "Buşehr, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/several-explosions-heard-in-irans-bushehr/3993061",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783596774188jfbwp",
+        "title": "Irak Başbakanı: ABD ile siyasi işbirliği ve ekonomik ortaklık duyuracağız",
+        "summary": "Irak Başbakanı Ali Falih al-Zaidi, ülkesinin ABD ile siyasi işbirliği ve ekonomik ortaklık kurma niyetinde olduğunu duyurdu. Zaidi, Bağdat'ın bu adımla Washington ile ilişkilerini derinleştirmeyi hedeflediğini belirtti. Ayrıca, Irak'ın komşusu Suudi Arabistan ile de ekonomik ortaklık arayışında olduğunu ifade etti. Bu girişimlerin, Irak'ın bölgesel ve uluslararası arenadaki konumunu güçlendirmesi ve ekonomik kalkınmasına ivme kazandırması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7736028/pexels-photo-7736028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:32:54.188Z",
+        "location": {
+            "lat": 33.34,
+            "lng": 44.39,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-to-announce-political-cooperation-economic-partnership-with-us-prime-minister/3993035",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783596797070iuv7l",
+        "title": "Halep'te Mayın Temizleme Operasyonunda Bir Suriye Askeri Hayatını Kaybetti, İki Asker Yaralandı",
+        "summary": "Suriye'nin Halep kentinde mayın temizleme operasyonu sırasında bir Suriye askeri hayatını kaybetti, iki asker ise yaralandı. Suriye resmi haber ajansı SANA'nın bildirdiğine göre, olay ülkenin çeşitli bölgelerindeki savaş kalıntılarının temizlenmesine yönelik devam eden çalışmalar sırasında meydana geldi. Bu tür operasyonlar, Suriye'deki çatışmaların ardından sivillerin güvenliğini sağlamak amacıyla kritik önem taşıyor. Yaralı askerlerin hastaneye kaldırılarak tedavi altına alındığı belirtildi. Ülke genelinde savaşın izlerini silme çabaları sürerken, bu tür trajik olaylar mayınların oluşturduğu tehlikenin boyutunu gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9953451/pexels-photo-9953451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T11:33:17.070Z",
+        "location": {
+            "lat": 36.2,
+            "lng": 37.2,
+            "name": "Halep, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syrian-soldier-killed-2-others-injured-during-mine-clearing-operation-in-aleppo/3993031",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "1783585836167atrfr",
         "title": "İsrail Saldırılarında Gazze'de Dokuz Kişi Hayatını Kaybetti",
         "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen hava saldırıları ve silahlı çatışmalarda dokuz Filistinlinin hayatını kaybettiği bildirildi. Sağlık kaynaklarından alınan bilgilere göre, hayatını kaybedenler arasında iki çocuk da bulunuyor. Olaylar, bölgede ilan edilen ateşkese rağmen yaşandı ve gerilimi yeniden tırmandırdı. Bu gelişmeler, İsrail-Filistin arasındaki hassas durumu bir kez daha gözler önüne serdi ve uluslararası toplumdan tepkilere neden oldu.",
@@ -637,166 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/death-toll-from-israeli-strike-on-gaza-vehicle-rises-to-4/3990441",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783502931184s1440",
-        "title": "AB Havacılık Ajansı, Havayollarına İran, Irak ve Lübnan Hava Sahasından Kaçınma Çağrısı Yaptı",
-        "summary": "Avrupa Havacılık Emniyeti Ajansı (EASA), ABD saldırılarının ardından havayolu şirketlerine İran, Irak ve Lübnan hava sahalarından kaçınmaları yönünde tavsiyede bulundu. Ajans, daha önce yayımladığı geniş Orta Doğu uyarısını ülkeye özgü danışma notlarıyla güncelledi. Bu güncelleme kapsamında, İran, Irak ve Lübnan için yüksek riskli uyarılar devam ettirildi. Bölgedeki artan güvenlik endişeleri nedeniyle alınan bu karar, sivil havacılık güvenliğini sağlamayı amaçlıyor. Havayolu şirketlerinin bu tavsiyelere uyması, yolcu ve mürettebat güvenliği açısından büyük önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31412729/pexels-photo-31412729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T09:28:51.184Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/economy/eu-aviation-agency-tells-airlines-to-avoid-iran-iraq-airspace-after-us-attacks/3990424",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783502953878f85hg",
-        "title": "İsrail, yeni müzakereler öncesi Güney Lübnan'ı vurdu",
-        "summary": "İsrail ordusu, yeni bir müzakere turu öncesinde Güney Lübnan'a hava saldırıları düzenledi. Bölgedeki kaynaklardan edinilen bilgilere göre, saldırılar ABD destekli bir ateşkes çerçevesinin varlığına rağmen Nabatiye ve Bint Cbeyl bölgelerini hedef aldı. Bu askeri eylem, halihazırda gergin olan bölgedeki durumu daha da tırmandırırken, taraflar arasında planlanan görüşmelerin geleceği hakkında soru işaretleri doğurdu. Uluslararası toplum, gelişmeleri yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T09:29:13.878Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.49,
-            "name": "Nabatiye, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-strikes-southern-lebanon-ahead-of-new-round-of-talks/3990359",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17835029747894t6bz",
-        "title": "Suriye Başkenti'ndeki Çifte Patlamaların Ardından Can Kaybı Yaşandı",
-        "summary": "Suriye'nin başkentinde meydana gelen çifte patlamaların ardından bir kişi hayatını kaybettiği bildirildi. Sağlık Bakanlığı'ndan yapılan açıklamaya göre, patlamalarda yaralanan 31 kişi hastanelerden taburcu edildi. Beş yaralının ise durumunun stabil olduğu belirtildi. Bu gelişme, bölgedeki güvenlik durumuna ilişkin endişeleri artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8079178/pexels-photo-8079178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T09:29:34.789Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/1-dies-day-after-twin-blasts-in-syrian-capital/3990355",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783502995066zayvv",
-        "title": "İran, ABD'yi Kıyı Gözetleme Tesislerini Vurmakla ve Ateşkesi İhlal Etmekle Suçladı",
-        "summary": "İran, ABD'nin ülkenin güney kıyılarında bulunan gözetleme ve izleme tesislerini hedef aldığını iddia etti. Tahran yönetimi, bu saldırıların Washington tarafından yapılan bir ateşkes ihlali olduğunu belirtti. İranlı yetkililer, saldırıların özellikle kıyı şeridindeki gözetim noktalarını vurduğunu ifade etti. Bu gelişme, iki ülke arasındaki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5323838/pexels-photo-5323838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T09:29:55.066Z",
-        "location": {
-            "lat": 27.1833,
-            "lng": 56.25,
-            "name": "Bandar Abbas, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-us-strikes-targeted-coastal-surveillance-sites-accuses-washington-of-violating-ceasefire/3990187",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1783492231321zu9c1",
-        "title": "İran Ekonomisi, Kırılgan Ateşkes Sürecinde Uzun Bir Toparlanma Yolculuğuyla Karşı Karşıya",
-        "summary": "Analistler, İran'ın sanayi tesislerinin son bir yıl içinde yaşadığı iki savaştan kaynaklanan ağır tahribatın giderilmesinin yıllar alabileceğini belirtiyor. Bu durum, ülkenin ekonomik toparlanma sürecini önemli ölçüde zorlaştırıyor ve kırılgan ateşkes ortamında ek sınamalar yaratıyor. Uzmanlar, sanayi altyapısındaki bu geniş çaplı hasarın onarılmasının yüksek maliyetler ve uzun bir zaman dilimi gerektireceğini vurguluyor. İran'ın ekonomik istikrarı ve kalkınma hedefleri, bu yıkımın etkileriyle mücadele etmek zorunda kalacak.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/34460798/pexels-photo-34460798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T06:30:31.321Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17834922530708cgwe",
-        "title": "Mısır taraftarları unutulmaz Dünya Kupası macerasının ardından duygusal vedaya tepki gösterdi",
-        "summary": "Al Jazeera, Mısır'ın FIFA Dünya Kupası Son 16 maçında Arjantin'e elenmesinin ardından Obour City'de toplanan Mısır taraftarlarıyla konuştu. Taraftarlar, milli takımlarının turnuvadaki performansından duydukları gururu dile getirirken, elenmenin yarattığı hüznü de paylaştı. Mısır'ın Dünya Kupası'ndaki yolculuğu, ülke genelinde büyük bir heyecan ve birliktelik ruhu yaratmıştı. Bu duygusal veda, futbolun Mısır toplumundaki birleştirici ve kültürel önemini bir kez daha gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32179312/pexels-photo-32179312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T06:30:53.070Z",
-        "location": {
-            "lat": 30.25,
-            "lng": 31.45,
-            "name": "Obour City, Egypt"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_egypt-fans-react-080726?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783492277458aue1t",
-        "title": "Fransa ve Fas, 2022 FIFA Dünya Kupası Çeyrek Finalinde Karşı Karşıya Geldi",
-        "summary": "2022 FIFA Dünya Kupası çeyrek finalinde Fransa ve Fas milli takımları mücadele etti. Kylian Mbappe'nin liderliğindeki Fransa, turnuvada güçlü bir performans sergilerken, Fas ise sürpriz bir şekilde çeyrek finale yükselerek tüm dikkatleri üzerine çekmişti. Bu karşılaşma, iki takımın daha önceki müsabakalarının ardından bir rövanş niteliği taşımış ve büyük bir heyecanla beklenmişti. Fas'ın bu tarihi başarısı, Kuzey Afrika ve Arap dünyasında geniş yankı uyandırarak toplumsal bir gurur kaynağı olmuştu.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285235/pexels-photo-32285235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T06:31:17.458Z",
-        "location": {
-            "lat": 25.6833,
-            "lng": 51.5,
-            "name": "Al Khor, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/7/8/france-vs-morocco-key-talking-points-mbappe-world-cup-quarterfinal-what-we-know?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17834818016847b8ua",
-        "title": "VAR Kararı, Arjantin'in Mısır Karşısındaki Galibiyeti Dünya Kupası'nda Meşruiyet Sorularını Gündeme Getirdi",
-        "summary": "Dünya Kupası'nda Arjantin ile Mısır arasında oynanan maçta alınan VAR kararları tartışmalara yol açtı. Arjantin'in Mısır'ı mağlup etmesiyle Mısır'ın turnuvadan elenmesi, ülkede büyük üzüntüye neden oldu. Uzmanlar, maçın meşruiyetini sorgularken, Lionel Messi'nin takımı Arjantin'i Dünya Kupası'nda tutmak için siyasi etkilerin devrede olabileceği iddialarını dile getirdi. Bu durum, uluslararası futbol organizasyonlarının adil işleyişi ve şeffaflığı hakkında ciddi soru işaretleri oluşturdu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32285225/pexels-photo-32285225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T03:36:41.684Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/7/8/var-call-argentina-win-raise-questions-of-legitimacy-at-world-cup?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783481945884ryo32",
-        "title": "Kuveyt'te Elektrik Kesintileri Yaşandı",
-        "summary": "Kuveyt'in çeşitli bölgelerinde elektrik kesintileri meydana geldi. Kesintilerin, bir iletim hattında yaşanan arıza nedeniyle yaşandığı bildirildi. Acil durum ekipleri, etkilenen bazı bölgelere elektriği yeniden sağlarken, tüm bölgelere enerji tedarikini tamamen geri yüklemek için çalışmalarını sürdürüyor. Yetkililer, sorunun en kısa sürede giderilmesi için yoğun çaba harcadıklarını belirtti.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/34610704/pexels-photo-34610704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T03:39:05.884Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/power-outages-hit-several-areas-in-kuwait-after-transmission-line-failure/3989842",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "17834638856312mybv",
-        "title": "Mısır Teknik Direktörü Hassan: Dünya Kupası Maçında Haksızlığa Uğradık",
-        "summary": "Mısır Milli Takımı Teknik Direktörü Hassan, takımının Dünya Kupası'ndan elenmesinin ardından Arjantin'e karşı oynadıkları maçta haksızlığa uğradıklarını iddia etti. Hassan, elenmelerinin ardından yaptığı açıklamada, \"Belki de dünya şampiyonlarını turnuvada tutmak istediler\" ifadelerini kullanarak maçın sonucunun manipüle edilmiş olabileceği şüphesini dile getirdi. Bu açıklama, Mısır'ın turnuvadan elenmesinin ardından spor kamuoyunda geniş yankı buldu. Teknik direktörün bu sözleri, uluslararası futbol müsabakalarındaki hakem kararları ve olası dış etkenler üzerine yeni bir tartışma başlattı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285227/pexels-photo-32285227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T22:38:05.631Z",
-        "location": {
-            "lat": 30,
-            "lng": 31,
-            "name": "Mısır"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
