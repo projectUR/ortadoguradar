@@ -1,5 +1,133 @@
 [
     {
+        "id": "1783585836167atrfr",
+        "title": "İsrail Saldırılarında Gazze'de Dokuz Kişi Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen hava saldırıları ve silahlı çatışmalarda dokuz Filistinlinin hayatını kaybettiği bildirildi. Sağlık kaynaklarından alınan bilgilere göre, hayatını kaybedenler arasında iki çocuk da bulunuyor. Olaylar, bölgede ilan edilen ateşkese rağmen yaşandı ve gerilimi yeniden tırmandırdı. Bu gelişmeler, İsrail-Filistin arasındaki hassas durumu bir kez daha gözler önüne serdi ve uluslararası toplumdan tepkilere neden oldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934185/pexels-photo-35934185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:30:36.167Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1783585909511r1hha",
+        "title": "Trump'tan İran'a Yeni Saldırı Tehdidi, Tahran'dan 'Korkusuz' Yanıt Uyarısı",
+        "summary": "ABD Başkanı Donald Trump, NATO zirvesinde yaptığı açıklamada, ABD'nin İran'a yönelik yeni saldırılar düzenleyebileceğini belirtti. Trump, ABD'nin 'muhtemelen' İran'ı tekrar vuracağını ancak 'her ne olursa olsun hızlıca biteceğini' sözlerine ekledi. Bu tehditlere karşılık İran, ABD'nin olası bir saldırısına 'korkusuz' bir yanıt vereceği uyarısında bulundu. Bu gelişmeler, ABD ile İran arasındaki gerilimin devam ettiğini ve bölgedeki tansiyonun yüksek seyrettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:31:49.511Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1783585934424ffcaw",
+        "title": "Hamaney'in tabutu Şii türbelerinden geçirildi, Irak'ta törenler düzenlendi",
+        "summary": "İran'ın merhum dini lideri Ayetullah Ali Hamaney'in cenaze törenleri beşinci gününde devam ediyor. Hamaney'in naaşı, Şii inancında kutsal sayılan Irak'taki Necef ve Kerbela şehirlerine taşındı. Bu şehirlerdeki Şii türbelerinde geniş katılımlı özel törenler düzenleniyor. Merhum lider için yapılan bu merasimler, bölgedeki Şii toplulukları için büyük dini ve toplumsal önem taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7317675/pexels-photo-7317675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:32:14.424Z",
+        "location": {
+            "lat": 31.999,
+            "lng": 44.333,
+            "name": "Necef, Irak"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1783585962135jjyof",
+        "title": "İsrail Parlamentosu, Filistin Yönetimi Fonlarını Dondurma Yasa Tasarısını İlerletti",
+        "summary": "İsrail parlamentosu, Filistin Yönetimi'ne aktarılan fonların dondurulmasını öngören bir yasa tasarısını onayladı. Tasarıya göre, dondurulacak miktar bir önceki yıl Gazze'ye yapılan transferlere eşit olacak. Bu adım, Ramallah merkezli Filistin Yönetimi üzerindeki mali baskıyı daha da artırmayı hedefliyor. Yasa tasarısı, İsrail'in Filistin Yönetimi'ne yönelik mali politikalarını sıkılaştırma çabasının bir parçası olarak değerlendiriliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/19453134/pexels-photo-19453134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:32:42.135Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-parliament-advances-bill-to-freeze-more-palestinian-authority-funds/3992857",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783585982088kmyea",
+        "title": "İran, İngiltere Büyükelçisi'ni 'asılsız suçlamalar' nedeniyle çağırdı",
+        "summary": "İran Dışişleri Bakanlığı, İngiltere'nin güvenlik tehditlerine ilişkin iddialarını reddederek, İngiltere Büyükelçisi'ni bakanlığa çağırdı. Tahran yönetimi, Londra'yı ABD ve İsrail ile işbirliği yapmakla suçladı. Bu diplomatik adım, iki ülke arasındaki gerilimi artırırken, İran'ın bölgesel ve uluslararası ilişkilerdeki duruşunu yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:33:02.088Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-summons-uk-ambassador-over-baseless-accusations-/3992807",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783586003156x1nk9",
+        "title": "Katar Başbakanı, İran Dışişleri Bakanı ile Görüşmesinde Diplomasiye Desteğini Yineledi",
+        "summary": "Katar Başbakanı, İran Dışişleri Bakanı ile gerçekleştirdiği telefon görüşmesinde diplomasiye olan güçlü desteğini yineledi. Görüşmede, Doha yönetimi ABD ile İran arasındaki mutabakata uyulması çağrısında bulundu. Katar ayrıca, stratejik Hürmüz Boğazı'nda ticari gemilere yönelik düzenlenen saldırıları kınadığını açıkça ifade etti. Bu adımlar, bölgesel istikrarın sağlanması ve denizcilik güvenliğinin korunması yönündeki çabalara işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8770999/pexels-photo-8770999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:33:23.156Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-premier-reaffirms-support-for-diplomacy-in-call-with-irans-foreign-minister/3992793",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783586025915vy1k4",
+        "title": "İran, ABD-İsrail Saldırısı Sonrası Tahran-Meşhed Demiryolu Seferlerini Askıya Aldı",
+        "summary": "İran Demiryolları yetkilileri, Tahran-Meşhed arasındaki yolcu treni seferlerinin durdurulduğunu açıkladı. Açıklamaya göre, demiryolu hattında meydana gelen bir saldırı sonucu oluşan hasar nedeniyle seferler askıya alındı. Hattın onarımı için çalışmalar başlatılırken, etkilenen yolcuların karayoluyla taşındığı belirtildi. Olayın, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen bir saldırının ardından yaşandığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:33:45.915Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-suspends-tehran-mashhad-rail-service-after-us-israeli-strike/3992696",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17835860496304zvsf",
+        "title": "Hürmüz Boğazı'nda Gemi Trafiği ABD-İran Gerilimi Nedeniyle Durma Noktasına Geldi",
+        "summary": "Hürmüz Boğazı'ndaki gemi trafiği, ABD ile İran arasındaki yenilenen saldırıların enerji taşımacılığını sarsmasıyla neredeyse durma noktasına geldi. Gemi takip verilerine göre, görünür hareketler İran'ın onayladığı kuzey rotasında yoğunlaşırken, ABD destekli Umman koridoru sessizliğini koruyor. Bu durum, bölgedeki artan gerilimin küresel enerji tedarik zincirleri üzerindeki potansiyel etkisini gözler önüne seriyor. Dünya petrol ticaretinin önemli bir geçiş noktası olan Boğaz'da yaşanan bu aksaklık, uluslararası piyasalarda endişeye yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32237794/pexels-photo-32237794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T08:34:09.630Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hormuz-traffic-nearly-halts-as-renewed-us-iran-strikes-rattle-energy-shipping/3992690",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1783571896379bmac5",
         "title": "Suriye, ABD'nin Terör Listesinden Çıkarma Hamlesini Memnuniyetle Karşıladı",
         "summary": "Suriye yönetimi, Amerika Birleşik Devletleri'nin kendisini terör listesinden çıkarma yönündeki adımını olumlu karşıladığını duyurdu. Şam'dan yapılan açıklamada, bu kararın iki ülke arasındaki ikili ilişkilerde diyalog ve karşılıklı saygıya dayalı 'önemli bir gelişme' olduğu vurgulandı. Suriye, bu hamlenin diplomatik ilişkilerde yeni bir dönemin başlangıcı olabileceğini belirtti. Kararın, Suriye'nin uluslararası arenadaki konumunu ve ABD ile ilişkilerini yeniden şekillendirme potansiyeli taşıdığı ifade edildi.",
@@ -669,134 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1783458434683r8phe",
-        "title": "Filistin Yanlısı AP Üyesi Rima Hassan 'Terörü Övme' Suçlamasıyla Yargılanıyor",
-        "summary": "Fransız Avrupa Parlamentosu (AP) üyesi Rima Hassan, Paris'te 'terörü övme' suçlamasıyla yargılanmak üzere mahkemeye çıktı. Filistin yanlısı duruşuyla tanınan Hassan, mahkemeye gelişi sırasında toplanan kalabalığa hitaben yaptığı konuşmada 'Artık kimse güvende değil' ifadelerini kullandı. Bu dava, İsrail-Filistin çatışması bağlamında Avrupa'daki ifade özgürlüğü ve siyasi aktivizm tartışmalarını yeniden gündeme getiriyor. Hassan'ın yargılanması, Avrupa'da Filistin'e destek veren siyasetçilere yönelik artan baskıların bir örneği olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38263046/pexels-photo-38263046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T21:07:14.683Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783458491725vc7gl",
-        "title": "Arjantin, Mısır'ı geçerek Dünya Kupası çeyrek finaline yükseldi",
-        "summary": "Dünya Kupası çeyrek final mücadelesinde Arjantin, Mısır karşısında zorlu bir galibiyet elde etti. ABD'nin Atlanta şehrinde oynanan karşılaşmada, son şampiyon Arjantin iki farklı geriye düşmesine rağmen maçı çevirmeyi başardı. Lionel Messi'nin uzatma dakikalarında attığı golle eşitliği yakalayan Arjantin, büyük bir sürprize engel oldu. Bu sonuçla Arjantin, turnuvada yoluna devam ederek adını çeyrek finale yazdırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285166/pexels-photo-32285166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T21:08:11.725Z",
-        "location": {
-            "lat": 33.748995,
-            "lng": -84.387982,
-            "name": "Atlanta, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/americas/argentina-rally-past-egypt-to-reach-world-cup-quarterfinals/3989721",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783451139321fmdud",
-        "title": "Gözaltındaki Gazze'li Doktorun İsrail Hapishanesinde Şiddetli Şekilde Dövüldüğü İddiası",
-        "summary": "Gazze'den gözaltına alınan Dr. Hussam Abu Safiya'nın avukatı, müvekkilinin İsrail hapishanesinde ağır şekilde dövüldüğünü iddia etti. BBC'ye konuşan avukat, geçen hafta yaptığı ziyaret sırasında müvekkilini şiddetli dayak nedeniyle tanıyamadığını belirtti. Bu iddia, İsrail'in Filistinli tutuklulara yönelik muamelesi konusunda endişeleri yeniden gündeme getirdi. Olay, bölgedeki insan hakları ihlalleri tartışmalarını alevlendirecek nitelikte.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/24822794/pexels-photo-24822794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T19:05:39.321Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783451164385q9vvv",
-        "title": "Katar, Hürmüz Yakınlarındaki Gemi Saldırısını Protesto İçin İran Maslahatgüzarını Çağırdı",
-        "summary": "Katar Dışişleri Bakanlığı, Hürmüz Boğazı yakınlarında bir gemiye düzenlenen saldırıyı protesto etmek amacıyla İran'ın maslahatgüzarını çağırdı. Doha yönetimi, Tahran'a resmi bir protesto notası ileterek saldırıyla ilgili acil ve kapsamlı bir açıklama talep etti. Bu diplomatik girişim, bölgedeki denizcilik güvenliğine yönelik endişeleri ve iki ülke arasındaki ilişkilerdeki hassasiyeti gözler önüne serdi. Katar, olayın tüm yönleriyle aydınlatılması ve benzer olayların tekrarlanmaması için İran'dan somut adımlar beklediğini vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10114199/pexels-photo-10114199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T19:06:04.385Z",
-        "location": {
-            "lat": 25.28,
-            "lng": 51.53,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-summons-irans-deputy-ambassador-to-protest-attack-on-vessel-near-hormuz/3989606",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783442126700b0lqm",
-        "title": "Suriye ve Fransa, 12 Yıllık Aranın Ardından Büyükelçi Değişimi Konusunda Anlaştı",
-        "summary": "Suriye ve Fransa, 12 yıllık bir aranın ardından büyükelçi değişimi konusunda anlaşmaya vardı. Fransa, Mart 2012'de Şam'daki büyükelçiliğini kapatmıştı. Bu karar, Esad rejiminin Suriye ayaklanması sırasında protestoları şiddetle bastırması üzerine alınmıştı. Bu diplomatik gelişme, iki ülke arasındaki ilişkilerde potansiyel bir normalleşme adımı olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T16:35:26.700Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-france-agree-to-exchange-ambassadors-after-12-year-hiatus/3989259",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178343132156823tus",
-        "title": "İki Filistinli Anne, Viral Gazze Tutuklu Fotoğrafındaki Kişinin Oğulları Olduğunu İddia Ediyor",
-        "summary": "Gazze'de çekildiği belirtilen ve sosyal medyada hızla yayılan bir tutuklu fotoğrafı, iki Filistinli anne arasında tartışmaya yol açtı. Her iki anne de, elleri bağlı ve gözleri kapalı görünen bu kişinin kayıp oğulları olduğunu kesin bir dille iddia ediyor. Bu durum, bölgedeki çatışmalar sırasında kaybolan veya gözaltına alınan kişilerin ailelerinin yaşadığı derin belirsizliği ve acıyı bir kez daha gözler önüne seriyor. Fotoğraftaki kişinin kimliği henüz resmi makamlarca doğrulanmazken, aileler çocuklarının akıbeti hakkında bilgi bekliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T13:35:21.568Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783431361667akemx",
-        "title": "Yerinden Edilmiş Gazze Çiftçileri Çadır Yakınlarındaki Toprağa Ekin Ekmeğe Başladı",
-        "summary": "Uzmanlar, İsrail'in Gazze'deki tarım arazilerinin yüzde 95'ini tahrip ettiğini ve bunun bölgede açlığa ve dış yardıma bağımlılığa yol açtığını belirtiyor. Bu durum karşısında, yerinden edilmiş Gazze çiftçileri, temel gıda ihtiyaçlarını karşılamak amacıyla çadırlarının yakınındaki boş arazilerde ekin yetiştirmeye çalışıyor. Haber, Gazze Şeridi'ndeki gıda güvenliği krizinin derinleştiğini ve tarım sektörünün çöküşünün insani durumu daha da kötüleştirdiğini vurguluyor. Bölgedeki bu gelişmelerin uzun vadeli etkileri olacağı tahmin ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38318002/pexels-photo-38318002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T13:36:01.667Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783431430339f82n8",
-        "title": "İsrail'in Gazze'ye Saldırılarında İki Filistinli Hayatını Kaybetti, Onlarca Kişi Yaralandı",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda iki Filistinli hayatını kaybederken, en az 10 kişi yaralandı. Ateşkesin devam etmesine rağmen gerçekleşen bu saldırılarda, yerinden edilmiş siviller ve yoldan geçenler insansız hava aracı saldırıları ve silahlı çatışmalarla hedef alındı. Haber kaynakları, İsrail'in günlük ateşkes ihlallerine devam ettiğini belirtiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934185/pexels-photo-35934185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T13:37:10.339Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-2-palestinians-injure-at-least-10-in-gaza-despite-ceasefire/3988926",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
