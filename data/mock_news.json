@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783637438725yills",
+        "title": "Suriye, Şam'daki 'terör saldırılarının' arkasındaki hücrenin yakalandığını duyurdu",
+        "summary": "Suriye, başkent Şam'da meydana gelen 'terör saldırılarının' arkasındaki bir hücrenin yakalandığını bildirdi. Bu saldırılar, Fransız Cumhurbaşkanı Emmanuel Macron'un şehri ziyaret ettiği Salı günü Şam'ı sarsan patlamalarla gerçekleşmişti. Suriye makamları, olayla ilgili soruşturma başlatıldığını ve saldırılardan sorumlu olduğu belirtilen grubun gözaltına alındığını açıkladı. Olay, uluslararası bir liderin ziyareti sırasında yaşanması nedeniyle bölgesel ve uluslararası güvenlik gündeminde yer buldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15656807/pexels-photo-15656807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T22:50:38.725Z",
+        "location": {
+            "lat": 33.513,
+            "lng": 36.291,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783631175671i2ao5",
         "title": "Yeni Saldırıların Ardından Hürmüz Boğazı'nda Petrol, Gaz ve Kargo Gemisi Trafiğinde Büyük Düşüş",
         "summary": "Veriler, bu hafta yaşanan saldırıların ardından ABD destekli Hürmüz Boğazı güzergahını kullanan gemi sayısında, özellikle petrol ve gaz taşıyanlarda, önemli bir düşüş yaşandığını gösteriyor. Küresel enerji tedariki için hayati önem taşıyan bu su yolu üzerindeki deniz trafiğinde gözle görülür bir azalma kaydedildi. Yaşanan olaylar, bölgedeki deniz güvenliğine ilişkin endişeleri artırırken, durumun uluslararası ticaret ve enerji piyasaları üzerinde potansiyel etkileri olabileceği belirtiliyor.",
@@ -780,22 +796,6 @@
             "name": "Bushehr, İran"
         },
         "source": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/7/8/aje-onl-aj_or_irn_football-080726?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17835028294091kpx8",
-        "title": "2026 Dünya Kupası Çeyrek Finalleri ve Mısır'ın FIFA Anlaşmazlığı",
-        "summary": "2026 Dünya Kupası çeyrek finalleri için takımlar belirlenirken, sekiz ekip bir üst tura yükseldi. Bu sportif gelişmelerin yanı sıra, Mısır'ın Uluslararası Futbol Federasyonları Birliği (FIFA) ile yaşadığı anlaşmazlık ve Video Yardımcı Hakem (VAR) kararları kamuoyunda geniş tartışmalara yol açtı. Mısır Futbol Federasyonu'nun FIFA ile olan ihtilafının detayları henüz tam olarak açıklanmazken, VAR uygulamalarının doğruluğu da sorgulanıyor. Bu durum, turnuvanın sportif rekabetinin yanı sıra idari ve hakemlik konularını da gündeme taşıdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/29920213/pexels-photo-29920213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T09:27:09.409Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/8/world-cup-2026-quarterfinals-full-schedule-and-egypt-fifa-dispute?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
