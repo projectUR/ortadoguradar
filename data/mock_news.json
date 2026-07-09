@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783571896379bmac5",
+        "title": "Suriye, ABD'nin Terör Listesinden Çıkarma Hamlesini Memnuniyetle Karşıladı",
+        "summary": "Suriye yönetimi, Amerika Birleşik Devletleri'nin kendisini terör listesinden çıkarma yönündeki adımını olumlu karşıladığını duyurdu. Şam'dan yapılan açıklamada, bu kararın iki ülke arasındaki ikili ilişkilerde diyalog ve karşılıklı saygıya dayalı 'önemli bir gelişme' olduğu vurgulandı. Suriye, bu hamlenin diplomatik ilişkilerde yeni bir dönemin başlangıcı olabileceğini belirtti. Kararın, Suriye'nin uluslararası arenadaki konumunu ve ABD ile ilişkilerini yeniden şekillendirme potansiyeli taşıdığı ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T04:38:16.379Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-welcomes-us-move-to-remove-it-from-terrorism-list/3992625",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783571948929ugbvx",
+        "title": "Bahreyn'de Olası Saldırı Tehdidi Nedeniyle Yeniden Uyarı Sirenleri Çaldı",
+        "summary": "Bahreyn'de, olası bir saldırı tehdidine karşı yeniden uyarı sirenleri çalmaya başladı. Ülke İçişleri Bakanlığı, vatandaşları ve bölge sakinlerini güvenlik amacıyla sığınaklara yönelmeleri konusunda uyardı. Bu gelişme, ABD'nin İran'a yönelik gerçekleştirdiği yeni saldırıların ardından Körfez ülkelerinde artan gerilimin ve yüksek alarm durumunun bir göstergesi olarak değerlendiriliyor. Bölgedeki güvenlik durumu hassasiyetini koruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9173231/pexels-photo-9173231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-09T04:39:08.929Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/warning-sirens-sound-in-bahrain-again-over-possible-attack/3992607",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17835560312066mt7e",
         "title": "ABD'nin İran'a Yönelik Saldırılarında Bir Kişi Hayatını Kaybetti",
         "summary": "ABD'nin İran'ın Bushehr, Chabahar, Bandar Abbas ve Jask şehirlerine düzenlediği saldırılarda bir kişinin yaşamını yitirdiği bildirildi. Saldırılar, özellikle Iranshahr kentinde can kaybına yol açarken, Chabahar'da geniş çaplı elektrik kesintilerine neden oldu. Olaylar, bölgedeki gerilimi artırırken, ABD ve İran arasındaki çatışma potansiyelini gözler önüne serdi. Saldırıların detayları ve etkileri hakkında henüz tam bir açıklama yapılmadı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-2-palestinians-injure-at-least-10-in-gaza-despite-ceasefire/3988926",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783422639840smvhr",
-        "title": "Koruma Sorumluluğu Doktrini Yeniden Canlandırılabilir",
-        "summary": "Uluslararası toplumda, \"Koruma Sorumluluğu\" (R2P) doktrininin yeniden canlandırılabileceği yönünde tartışmalar yaşanıyor. Birleşmiş Milletler üye devletleri tarafından 2005 yılında kabul edilen bu yasal norm, soykırım, savaş suçları, etnik temizlik ve insanlığa karşı suçları önlemeyi hedefliyor. Ancak doktrinin geçmişte manipülasyonlara uğradığı ve zamanla önemini yitirdiği belirtiliyor. Günümüzdeki küresel krizler ve insani felaketler göz önüne alındığında, bu normun uluslararası toplum tarafından her zamankinden daha fazla ihtiyaç duyulduğu vurgulanıyor. Bu durum, R2P'nin gelecekteki uluslararası müdahaleler ve insani krizlere yaklaşım açısından yeniden değerlendirilmesi gerektiğini ortaya koyuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15861729/pexels-photo-15861729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:10:39.840Z",
-        "location": {
-            "lat": 0,
-            "lng": 0,
-            "name": "Küresel"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/7/7/the-responsibility-to-protect-doctrine-can-be-resurrected?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783422688119a5zcx",
-        "title": "Ukrayna İHA'ları Rus Yakıt Tankerlerini Vurdu",
-        "summary": "Ukrayna Silahlı Kuvvetleri'ne ait insansız hava araçları (İHA'lar), Rusya Federasyonu topraklarındaki yakıt tankerlerini hedef aldı. Bu saldırılar, Rusya'nın enerji altyapısına yönelik devam eden operasyonların bir parçası olarak değerlendirilmektedir. Saldırıların, Rusya'nın yakıt tedarik zincirini etkileyerek küresel enerji piyasalarında potansiyel dalgalanmalara yol açabileceği belirtiliyor. Küresel enerji fiyatlarındaki bu tür dalgalanmalar, Orta Doğu ülkelerinin ekonomilerini ve enerji politikalarını doğrudan etkileyebilmektedir. Bu olay, Rusya-Ukrayna savaşının enerji güvenliği üzerindeki geniş kapsamlı etkilerini bir kez daha gözler önüne sermektedir.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/36563588/pexels-photo-36563588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-07T11:11:28.119Z",
-        "location": {
-            "lat": 55,
-            "lng": 40,
-            "name": "Rusya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
