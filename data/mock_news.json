@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783722853337xy9jh",
+        "title": "Lübnan Cumhurbaşkanı İsrail ile Müzakerelerden Vazgeçmeyecek",
+        "summary": "Lübnan Cumhurbaşkanı Joseph Aoun, İsrail ile yürütülen müzakerelerden geri adım atmayacağını açıkladı. Aoun, önerilen çerçeve anlaşmasının, İsrail'in ilgili hükümlere uyması ve anlaşmanın başarıyla uygulanması durumunda Lübnan'ın haklarını diplomatik yollarla geri kazandıracağını belirtti. Bu açıklama, iki ülke arasındaki anlaşmazlıkların diplomatik kanallar aracılığıyla çözülmesine yönelik devam eden çabaları vurguluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-10T22:34:13.337Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-president-will-not-back-down-from-negotiations-with-israel/3994723",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783717698436awyll",
         "title": "İsrail Saldırıları Lübnan'daki Tarihi Alanları Tahrip Etti",
         "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırıları, bölgede geniş çaplı yıkıma neden oldu. Saldırılar sonucunda çok sayıda tarihi simge yapının da ciddi şekilde zarar gördüğü bildirildi. Lübnan makamları, bu tahribatın ülkenin kültürel mirası açısından büyük kayıplara yol açtığını belirtti. Bölgedeki çatışmaların tarihi ve kültürel varlıklar üzerindeki olumsuz etkileri endişe yaratıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1783556203912qsa4d",
-        "title": "İran'da Trump'ın tehdidinin ardından patlama sesleri duyuldu",
-        "summary": "İran medyasından gelen haberlere göre, ülkenin güneyindeki Bender Abbas kentinde hava savunma sistemleri \"düşmanca hedeflerle\" çatışmaya girdi. Olay, ABD eski Başkanı Trump'ın tehditlerinin ardından yaşandı. Bölgeden gelen ilk bilgiler, patlama seslerinin duyulduğunu ve hava savunmasının devreye girdiğini gösteriyor. İranlı yetkililer, durumla ilgili detaylı açıklama yapmazken, bölgedeki gerilimin arttığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982174/pexels-photo-35982174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T00:16:43.912Z",
-        "location": {
-            "lat": 27.19,
-            "lng": 56.28,
-            "name": "Bender Abbas, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iran-after-trump-s-threat/3992348",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
