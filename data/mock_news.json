@@ -1,5 +1,21 @@
 [
     {
+        "id": "17836580985011tpgo",
+        "title": "Zelenskiy, Ukrayna'da Patriot Üretimi İçin Acil Çabalara Çağırıyor",
+        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinde Patriot hava savunma sistemlerinin üretimine başlanması için acil çabalar gösterilmesi çağrısında bulundu. Bu çağrı, ABD Başkanı Donald Trump'ın daha önce Ukrayna'nın bu füzeleri kendi topraklarında üretmesine onay vermesinin ardından geldi. Ukrayna'nın bu hamlesi, Rusya ile devam eden savaşta savunma kapasitesini artırmayı ve kritik askeri teçhizat tedarikinde dışa bağımlılığını azaltmayı amaçlıyor. ABD'nin bu onayı, küresel savunma sanayii tedarik zincirleri ve müttefikler arasındaki askeri işbirliğinin stratejik önemini bir kez daha gözler önüne seriyor. Bu gelişme, uluslararası güvenlik dinamikleri ve askeri teknoloji transferleri açısından da dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975873/pexels-photo-28975873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-10T04:34:58.501Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/10/zelenskyy-urges-urgent-efforts-in-ukraine-to-start-patriot-production?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783637438725yills",
         "title": "Suriye, Şam'daki 'terör saldırılarının' arkasındaki hücrenin yakalandığını duyurdu",
         "summary": "Suriye, başkent Şam'da meydana gelen 'terör saldırılarının' arkasındaki bir hücrenin yakalandığını bildirdi. Bu saldırılar, Fransız Cumhurbaşkanı Emmanuel Macron'un şehri ziyaret ettiği Salı günü Şam'ı sarsan patlamalarla gerçekleşmişti. Suriye makamları, olayla ilgili soruşturma başlatıldığını ve saldırılardan sorumlu olduğu belirtilen grubun gözaltına alındığını açıkladı. Olay, uluslararası bir liderin ziyareti sırasında yaşanması nedeniyle bölgesel ve uluslararası güvenlik gündeminde yer buldu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-syrias-daraa-countryside/3990689",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783502770314mxcek",
-        "title": "İranlı Futbolcu Mehdi Taremi'nin Kariyer Yolculuğu Al Jazeera Originals'ta",
-        "summary": "Al Jazeera Originals tarafından hazırlanan bir içerikte, İranlı milli futbolcu Mehdi Taremi'nin kariyer yolculuğu mercek altına alınıyor. İran'ın Bushehr şehrinden dünya futbol sahnesine uzanan bu serüvende Taremi, futbol kariyerini, karşılaştığı fedakarlıkları ve ülkesi İran'ı uluslararası alanda temsil etmenin kendisi için ne anlama geldiğini değerlendiriyor. Haber, bir sporcunun kişisel ve profesyonel gelişimini, aynı zamanda ulusal kimlik ve temsil kavramlarını ele alıyor. Taremi'nin hikayesi, İran sporunun uluslararası alandaki yerini ve bir sporcunun ülkesi için taşıdığı önemi gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32285163/pexels-photo-32285163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-08T09:26:10.314Z",
-        "location": {
-            "lat": 28.92,
-            "lng": 50.83,
-            "name": "Bushehr, İran"
-        },
-        "source": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/7/8/aje-onl-aj_or_irn_football-080726?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
