@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783794449453py0kn",
+        "title": "ABD'li milletvekili, Filistin gezisinde yerleşimciler tarafından alıkonulmasının ardından İsrail ordusunu eleştirdi",
+        "summary": "ABD'li bir milletvekili, Filistin topraklarına yaptığı bir gezi sırasında İsrailli yerleşimciler tarafından alıkonuldu. Milletvekili Khanna, olay sırasında İsrail askerlerini yerleşimcilere destek vermekle suçladı. Khanna, İsrail güçlerinin bu eyleminin 'büyük bir hata' olduğunu belirterek sert eleştirilerde bulundu. Bu olay, bölgedeki gerilimi ve İsrail güçlerinin Batı Şeria'daki tartışmalı rolünü bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17808296/pexels-photo-17808296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T18:27:29.453Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783789255911cnss0",
         "title": "İran-ABD Gerilimi Tırmanırken Hürmüz Boğazı'nda Deniz Taşımacılığı Odakta",
         "summary": "İran ile ABD arasındaki gerilimin artmasıyla birlikte, Hürmüz Boğazı'ndaki deniz taşımacılığı küresel gündemin merkezine oturdu. İki ülke arasındaki sözlü atışmalar ve tehditlerin yoğunlaşmasına rağmen, analistler diplomatik çözüm kapısının hala açık olduğunu belirtiyor. Bölgedeki güvenlik endişeleri, enerji tedarik zincirleri üzerinde potansiyel etkileri nedeniyle yakından izleniyor. Uluslararası toplum, tarafları tansiyonu düşürmeye ve diyalog kanallarını açık tutmaya çağırıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1783596682282jje8x",
-        "title": "Gazze'li Doktorun İsrail Hapishanesinde Ağır Şekilde Dövüldüğü İddia Edildi",
-        "summary": "Gazze'den Dr. Hussam Abu Safiya'nın avukatı, müvekkilinin İsrail hapishanesinde ağır şekilde darp edildiğini açıkladı. Avukat, geçen hafta yaptığı ziyaret sırasında müvekkilini o kadar kötü bir halde bulduğunu ve tanıyamadığını BBC'ye bildirdi. Bu durum, gözaltındaki Filistinlilerin muamelesine ilişkin endişeleri yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/26743059/pexels-photo-26743059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:31:22.282Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
