@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783806885602x2kte",
+        "title": "İran Dini Liderinin Oğlu, 'ABD-İsrail Savaşı'nda Yaşanan Cinayet İçin İntikam' Çağrısı Yaptı",
+        "summary": "İran Dini Lideri Ayetullah Ali Hamaney'in oğlu Mojtaba Khamenei, \"ABD-İsrail'in İran'a karşı savaşı\"nın ilk gününde gerçekleştiği belirtilen bir cinayet için intikamın \"kaçınılmaz\" olduğunu ifade etti. Bu açıklama, bölgedeki gerilimi tırmandırabilecek ve potansiyel çatışma senaryolarına işaret eden önemli bir gelişme olarak değerlendiriliyor. Khamenei'nin bu sözleri, İran'ın gelecekteki olası bir çatışmaya karşı duruşunu ve misilleme niyetini ortaya koyuyor. Bu tür üst düzey bir figürden gelen intikam çağrısı, bölgesel güvenlik dinamikleri açısından dikkatle takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11421241/pexels-photo-11421241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T21:54:45.602Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1783799113046pgtbs",
         "title": "ABD'li Demokrat Ro Khanna, silahlı İsrailli yerleşimciler tarafından alıkonulduğunu açıkladı",
         "summary": "ABD'li Demokrat Temsilciler Meclisi üyesi Ro Khanna, işgal altındaki Batı Şeria'yı ziyareti sırasında silahlı İsrailli yerleşimciler tarafından alıkonulduğunu duyurdu. Khanna'nın açıklamasına göre, 49 yaşındaki siyasetçi yaklaşık 90 dakika boyunca tutuldu. Olayın, Batı Şeria'daki gerilimli güvenlik durumunu ve yerleşimcilerin bölgedeki faaliyetlerini bir kez daha gündeme getirdiği belirtildi. Bu durum, uluslararası kamuoyunda İsrail-Filistin çatışması ve işgal altındaki topraklardaki insan hakları konularında yeni tartışmaları tetikleyebilir. Khanna'nın yaşadığı bu deneyim, bölgedeki siyasi ve insani duruma dikkat çekiyor.",
@@ -780,22 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783596614331bfme6",
-        "title": "BM Soruşturması: Sudan'ın RSF Güçlerinin Eylemleri Soykırım Boyutunda",
-        "summary": "Birleşmiş Milletler (BM) tarafından yürütülen bir araştırma misyonu, Sudan'daki Hızlı Destek Kuvvetleri'nin (RSF) Darfur bölgesinde gerçekleştirdiği sistematik şiddet eylemlerinin soykırım boyutuna ulaştığını açıkladı. Misyonun bulgularına göre, RSF'nin toplu katliamlar ve toplu tecavüzler de dahil olmak üzere işlediği suçlar, uluslararası hukuka göre soykırım olarak nitelendiriliyor. Bu tespit, bölgedeki insani krizin ciddiyetini bir kez daha gözler önüne serdi. Uluslararası toplum, bu bulgular ışığında sorumluların hesap vermesi için adımlar atılması çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/26633721/pexels-photo-26633721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:30:14.331Z",
-        "location": {
-            "lat": 13.63,
-            "lng": 25.33,
-            "name": "Darfur, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
