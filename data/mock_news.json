@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783742076209nxc0x",
+        "title": "İşgal Altındaki Batı Şeria'da İsrail Güçlerinin Saldırılarında 10 Filistinli Yaralandı",
+        "summary": "İşgal altındaki Batı Şeria'da İsrail ordusu ve yerleşimcilerin gerçekleştirdiği saldırılarda 10 Filistinlinin yaralandığı bildirildi. Haber kaynaklarına göre, Filistin topraklarında Ekim 2023'ten bu yana İsrail askeri operasyonları ve yerleşimci şiddeti önemli ölçüde artış gösterdi. Bu son olaylar, bölgedeki güvenlik durumunun kırılganlığını ve devam eden gerilimi bir kez daha gözler önüne serdi. Yaşanan bu tür saldırılar, sivil halkın günlük yaşamını olumsuz etkilemeye devam ediyor ve uluslararası toplumun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T03:54:36.209Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/10-palestinians-injured-in-israeli-occupier-army-attacks-in-occupied-west-bank/3994730",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783728217439gto01",
         "title": "Amnesty International: Lübnan'da Çocukların Ölümüne Neden Olan İsrail Saldırıları Savaş Suçu Olarak Soruşturulmalı",
         "summary": "Uluslararası insan hakları örgütü Amnesty International, Lübnan'ın güneyinde çocukların ölümüne yol açan İsrail saldırılarının savaş suçu olarak soruşturulması çağrısında bulundu. Örgüt, çatışmaların tırmandığı dönemde güney Lübnan'da ailelerin hayatını kaybettiği üç saldırıyı incelediğini duyurdu. Raporda, bu saldırıların uluslararası hukukun ihlali olabileceği ve sivillerin korunmasına yönelik yükümlülüklerin yerine getirilmediği belirtildi. Amnesty, İsrail'i bu olaylarla ilgili kapsamlı ve şeffaf bir soruşturma yürütmeye ve sorumluların hesap vermesini sağlamaya davet etti. Örgüt ayrıca, uluslararası toplumu da bu iddiaların araştırılması için harekete geçmeye çağırdı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/warning-sirens-sound-in-bahrain-again-over-possible-attack/3992607",
         "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17835560312066mt7e",
-        "title": "ABD'nin İran'a Yönelik Saldırılarında Bir Kişi Hayatını Kaybetti",
-        "summary": "ABD'nin İran'ın Bushehr, Chabahar, Bandar Abbas ve Jask şehirlerine düzenlediği saldırılarda bir kişinin yaşamını yitirdiği bildirildi. Saldırılar, özellikle Iranshahr kentinde can kaybına yol açarken, Chabahar'da geniş çaplı elektrik kesintilerine neden oldu. Olaylar, bölgedeki gerilimi artırırken, ABD ve İran arasındaki çatışma potansiyelini gözler önüne serdi. Saldırıların detayları ve etkileri hakkında henüz tam bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36756018/pexels-photo-36756018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T00:13:51.206Z",
-        "location": {
-            "lat": 27.2,
-            "lng": 60.68,
-            "name": "Iranshahr, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": true
     }
 ]
