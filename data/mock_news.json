@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783773065197z5ps2",
+        "title": "ABD'nin İran'a Yönelik Saldırılarında Can Kaybı 17'ye Yükseldi",
+        "summary": "ABD'nin İran'a yönelik gerçekleştirdiği saldırılarda hayatını kaybedenlerin sayısı 17'ye yükseldi. İran Sağlık Bakanlığı tarafından yapılan açıklamada, saldırılarda 115 kişinin yaralandığı belirtildi. Yaralılardan 102'sinin tedavilerinin ardından taburcu edildiği bilgisi paylaşıldı. Bu gelişmeler, bölgedeki gerilimin tırmanma potansiyelini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14728699/pexels-photo-14728699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T12:31:05.197Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/death-toll-from-us-strikes-on-iran-rises-to-17/3995012",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1783768463298ugtds",
         "title": "Dünya Kupası 30. Gün Özeti",
         "summary": "Katar'ın ev sahipliğinde düzenlenen 2022 FIFA Dünya Kupası'nın 30. günü tamamlandı. Turnuvanın son aşamalarına doğru ilerlerken, oynanan kritik karşılaşmalar futbolseverler tarafından büyük bir ilgiyle takip edildi. Orta Doğu coğrafyasında gerçekleşen bu büyük spor organizasyonu, bölgeye uluslararası dikkat çekmeye devam ediyor. Katar, Dünya Kupası'nın sorunsuz ve başarılı bir şekilde tamamlanması için yoğun çaba sarf ediyor. Bu küresel etkinlik, sporun yanı sıra diplomatik, ekonomik ve toplumsal birçok alanda da etkileşim yaratıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1783585909511r1hha",
-        "title": "Trump'tan İran'a Yeni Saldırı Tehdidi, Tahran'dan 'Korkusuz' Yanıt Uyarısı",
-        "summary": "ABD Başkanı Donald Trump, NATO zirvesinde yaptığı açıklamada, ABD'nin İran'a yönelik yeni saldırılar düzenleyebileceğini belirtti. Trump, ABD'nin 'muhtemelen' İran'ı tekrar vuracağını ancak 'her ne olursa olsun hızlıca biteceğini' sözlerine ekledi. Bu tehditlere karşılık İran, ABD'nin olası bir saldırısına 'korkusuz' bir yanıt vereceği uyarısında bulundu. Bu gelişmeler, ABD ile İran arasındaki gerilimin devam ettiğini ve bölgedeki tansiyonun yüksek seyrettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:31:49.511Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
         "isBreaking": true
     }
 ]
