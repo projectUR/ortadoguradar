@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783728217439gto01",
+        "title": "Amnesty International: Lübnan'da Çocukların Ölümüne Neden Olan İsrail Saldırıları Savaş Suçu Olarak Soruşturulmalı",
+        "summary": "Uluslararası insan hakları örgütü Amnesty International, Lübnan'ın güneyinde çocukların ölümüne yol açan İsrail saldırılarının savaş suçu olarak soruşturulması çağrısında bulundu. Örgüt, çatışmaların tırmandığı dönemde güney Lübnan'da ailelerin hayatını kaybettiği üç saldırıyı incelediğini duyurdu. Raporda, bu saldırıların uluslararası hukukun ihlali olabileceği ve sivillerin korunmasına yönelik yükümlülüklerin yerine getirilmediği belirtildi. Amnesty, İsrail'i bu olaylarla ilgili kapsamlı ve şeffaf bir soruşturma yürütmeye ve sorumluların hesap vermesini sağlamaya davet etti. Örgüt ayrıca, uluslararası toplumu da bu iddiaların araştırılması için harekete geçmeye çağırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9643191/pexels-photo-9643191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T00:03:37.439Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-that-killed-children-in-lebanon-must-be-investigated-as-war-crimes-amnesty-international/3994726",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1783722853337xy9jh",
         "title": "Lübnan Cumhurbaşkanı İsrail ile Müzakerelerden Vazgeçmeyecek",
         "summary": "Lübnan Cumhurbaşkanı Joseph Aoun, İsrail ile yürütülen müzakerelerden geri adım atmayacağını açıkladı. Aoun, önerilen çerçeve anlaşmasının, İsrail'in ilgili hükümlere uyması ve anlaşmanın başarıyla uygulanması durumunda Lübnan'ın haklarını diplomatik yollarla geri kazandıracağını belirtti. Bu açıklama, iki ülke arasındaki anlaşmazlıkların diplomatik kanallar aracılığıyla çözülmesine yönelik devam eden çabaları vurguluyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1783556102396qhnxw",
-        "title": "Justin Bieber, Dünya Kupası Finali Devre Arası Gösterisinde Sahne Alacak",
-        "summary": "Ünlü şarkıcı Justin Bieber'ın, Dünya Kupası finali devre arası gösterisinde sahne alacağı duyuruldu. Bieber, Madonna, Shakira ve BTS gibi dünya çapında tanınan diğer sanatçılarla birlikte performans sergileyecek. FIFA yetkilileri, 11 dakikalık bu özel gösteriyi milyarlarca kişinin izlemesini beklediklerini ifade etti. Bu performans, bir Dünya Kupası tarihinde ilk kez düzenlenecek devre arası şovu olma özelliğini taşıyor ve küresel çapta büyük ilgi görmesi bekleniyor.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/12442276/pexels-photo-12442276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T00:15:02.396Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/7/8/justin-bieber-joins-madonna-shakira-bts-in-world-cup-final-halftime-show?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
     }
 ]
