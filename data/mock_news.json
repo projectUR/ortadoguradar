@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783778633445geklz",
+        "title": "Gazze'deki Hastaneler Elektrik Kesintileri Nedeniyle Karanlıkta Kaldı",
+        "summary": "Gazze Şeridi'nde devam eden İsrail saldırıları, bölgedeki enerji krizini derinleştirerek hastanelerin işleyişini felç etti. Elektrik kesintileri nedeniyle sağlık tesisleri karanlığa gömülürken, jeneratörler için yakıt sıkıntısı tıbbi cihazların çalışmasını engelliyor. Bu durum, yaralıların ve kronik hastalığı olanların tedavisini ciddi şekilde aksatarak insani krizi daha da kötüleştiriyor. Uluslararası kuruluşlar, bölgeye acil yakıt ve tıbbi malzeme ulaştırılması çağrısında bulunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T14:03:53.445Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1783778653481p2zua",
+        "title": "Yemen'de Gerilim Tırmanıyor: Çatışma Yeniden Alevlenecek mi?",
+        "summary": "Yemen'de hem savaş alanında hem de siyasi arenada gerilim artışı gözlemleniyor. Ülkedeki taraflar arasındaki tansiyonun yükseldiği belirtilirken, bu durum uzun süredir devam eden çatışmanın yeniden şiddetlenme potansiyelini gündeme getiriyor. Bölgedeki gözlemciler, mevcut gelişmelerin barış sürecini olumsuz etkileyebileceği ve yeni bir çatışma döngüsünü tetikleyebileceği konusunda uyarıyor. Taraflar arasındaki müzakerelerin akıbeti ve sahadaki askeri hareketlilik yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T14:04:13.481Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783773065197z5ps2",
         "title": "ABD'nin İran'a Yönelik Saldırılarında Can Kaybı 17'ye Yükseldi",
         "summary": "ABD'nin İran'a yönelik gerçekleştirdiği saldırılarda hayatını kaybedenlerin sayısı 17'ye yükseldi. İran Sağlık Bakanlığı tarafından yapılan açıklamada, saldırılarda 115 kişinin yaralandığı belirtildi. Yaralılardan 102'sinin tedavilerinin ardından taburcu edildiği bilgisi paylaşıldı. Bu gelişmeler, bölgedeki gerilimin tırmanma potansiyelini gözler önüne seriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iraq-to-announce-political-cooperation-economic-partnership-with-us-prime-minister/3993035",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783596797070iuv7l",
-        "title": "Halep'te Mayın Temizleme Operasyonunda Bir Suriye Askeri Hayatını Kaybetti, İki Asker Yaralandı",
-        "summary": "Suriye'nin Halep kentinde mayın temizleme operasyonu sırasında bir Suriye askeri hayatını kaybetti, iki asker ise yaralandı. Suriye resmi haber ajansı SANA'nın bildirdiğine göre, olay ülkenin çeşitli bölgelerindeki savaş kalıntılarının temizlenmesine yönelik devam eden çalışmalar sırasında meydana geldi. Bu tür operasyonlar, Suriye'deki çatışmaların ardından sivillerin güvenliğini sağlamak amacıyla kritik önem taşıyor. Yaralı askerlerin hastaneye kaldırılarak tedavi altına alındığı belirtildi. Ülke genelinde savaşın izlerini silme çabaları sürerken, bu tür trajik olaylar mayınların oluşturduğu tehlikenin boyutunu gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9953451/pexels-photo-9953451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:33:17.070Z",
-        "location": {
-            "lat": 36.2,
-            "lng": 37.2,
-            "name": "Halep, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrian-soldier-killed-2-others-injured-during-mine-clearing-operation-in-aleppo/3993031",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1783585836167atrfr",
-        "title": "İsrail Saldırılarında Gazze'de Dokuz Kişi Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen hava saldırıları ve silahlı çatışmalarda dokuz Filistinlinin hayatını kaybettiği bildirildi. Sağlık kaynaklarından alınan bilgilere göre, hayatını kaybedenler arasında iki çocuk da bulunuyor. Olaylar, bölgede ilan edilen ateşkese rağmen yaşandı ve gerilimi yeniden tırmandırdı. Bu gelişmeler, İsrail-Filistin arasındaki hassas durumu bir kez daha gözler önüne serdi ve uluslararası toplumdan tepkilere neden oldu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934185/pexels-photo-35934185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:30:36.167Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
