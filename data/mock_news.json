@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783799113046pgtbs",
+        "title": "ABD'li Demokrat Ro Khanna, silahlı İsrailli yerleşimciler tarafından alıkonulduğunu açıkladı",
+        "summary": "ABD'li Demokrat Temsilciler Meclisi üyesi Ro Khanna, işgal altındaki Batı Şeria'yı ziyareti sırasında silahlı İsrailli yerleşimciler tarafından alıkonulduğunu duyurdu. Khanna'nın açıklamasına göre, 49 yaşındaki siyasetçi yaklaşık 90 dakika boyunca tutuldu. Olayın, Batı Şeria'daki gerilimli güvenlik durumunu ve yerleşimcilerin bölgedeki faaliyetlerini bir kez daha gündeme getirdiği belirtildi. Bu durum, uluslararası kamuoyunda İsrail-Filistin çatışması ve işgal altındaki topraklardaki insan hakları konularında yeni tartışmaları tetikleyebilir. Khanna'nın yaşadığı bu deneyim, bölgedeki siyasi ve insani duruma dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7835238/pexels-photo-7835238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T19:45:13.046Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1783794449453py0kn",
         "title": "ABD'li milletvekili, Filistin gezisinde yerleşimciler tarafından alıkonulmasının ardından İsrail ordusunu eleştirdi",
         "summary": "ABD'li bir milletvekili, Filistin topraklarına yaptığı bir gezi sırasında İsrailli yerleşimciler tarafından alıkonuldu. Milletvekili Khanna, olay sırasında İsrail askerlerini yerleşimcilere destek vermekle suçladı. Khanna, İsrail güçlerinin bu eyleminin 'büyük bir hata' olduğunu belirterek sert eleştirilerde bulundu. Bu olay, bölgedeki gerilimi ve İsrail güçlerinin Batı Şeria'daki tartışmalı rolünü bir kez daha gündeme getirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/7/9/un-probe-finds-mass-killings-gang-rapes-by-sudans-rsf-amount-to-genocide?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783596659789b5pc1",
-        "title": "ABD-İran Geriliminin Ardından Bahreyn ve Körfez Ülkelerinde Hava Saldırısı Sirenleri",
-        "summary": "ABD'nin İran'a yönelik gerçekleştirdiği hava saldırılarının ardından bölgede gerilim tırmandı. Gergin bir gecenin ardından Bahreyn'de ve diğer Körfez ülkelerinde hava saldırısı sirenleri çalmaya başladı. Bu durum, bölgedeki güvenlik endişelerini artırdı ve olası misilleme saldırılarına karşı teyakkuza geçildiğini gösterdi. Olaylar, ABD ile İran arasındaki mevcut gerilimin yeni bir boyut kazandığını ve Körfez bölgesinin doğrudan etkilendiğini ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37459554/pexels-photo-37459554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:30:59.789Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
