@@ -1,5 +1,21 @@
 [
     {
+        "id": "17838104460667c7s4",
+        "title": "İran, Savaş Sırasında İHA Üretimini Üç Katına Çıkardı",
+        "summary": "İran Savunma Bakan Vekili, ülkenin savaş döneminde insansız hava aracı (İHA) üretimini üç katına çıkardığını duyurdu. Bakan Vekili, ileri teknolojiye yapılan yatırımların İran'ın savunma kabiliyetlerini önemli ölçüde güçlendirdiğini ifade etti. Bu artışın, ülkenin ulusal güvenlik stratejileri doğrultusunda gerçekleştirildiği belirtildi. İran'ın bu hamlesi, bölgesel güç dengeleri ve uluslararası güvenlik çevreleri tarafından yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34182367/pexels-photo-34182367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T22:54:06.066Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-tripled-drone-production-during-war-defense-official/3995300",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783806885602x2kte",
         "title": "İran Dini Liderinin Oğlu, 'ABD-İsrail Savaşı'nda Yaşanan Cinayet İçin İntikam' Çağrısı Yaptı",
         "summary": "İran Dini Lideri Ayetullah Ali Hamaney'in oğlu Mojtaba Khamenei, \"ABD-İsrail'in İran'a karşı savaşı\"nın ilk gününde gerçekleştiği belirtilen bir cinayet için intikamın \"kaçınılmaz\" olduğunu ifade etti. Bu açıklama, bölgedeki gerilimi tırmandırabilecek ve potansiyel çatışma senaryolarına işaret eden önemli bir gelişme olarak değerlendiriliyor. Khamenei'nin bu sözleri, İran'ın gelecekteki olası bir çatışmaya karşı duruşunu ve misilleme niyetini ortaya koyuyor. Bu tür üst düzey bir figürden gelen intikam çağrısı, bölgesel güvenlik dinamikleri açısından dikkatle takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss",
         "trendScore": 95,
-        "isBreaking": false
-    },
-    {
-        "id": "17835965916628u7j9",
-        "title": "ABD'den İran'a İkinci Gece Saldırısı: Barış Süreci Devam Ediyor mu?",
-        "summary": "Amerika Birleşik Devletleri'nin İran'a yönelik ikinci gece üst üste saldırılar düzenlediği bildirildi. Bu askeri gerilime rağmen, taraflardan hiçbiri mevcut geçici barış anlaşmasını resmi olarak feshetmedi. Yaşanan tırmanış, bölgedeki tansiyonu artırırken, diplomatik kanalların tamamen kapanmadığına işaret ediyor. Orta Doğu'daki güvenlik ve istikrar açısından gelişmeler yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15688701/pexels-photo-15688701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:29:51.662Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
