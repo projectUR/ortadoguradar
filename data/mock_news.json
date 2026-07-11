@@ -1,5 +1,53 @@
 [
     {
+        "id": "1783768463298ugtds",
+        "title": "Dünya Kupası 30. Gün Özeti",
+        "summary": "Katar'ın ev sahipliğinde düzenlenen 2022 FIFA Dünya Kupası'nın 30. günü tamamlandı. Turnuvanın son aşamalarına doğru ilerlerken, oynanan kritik karşılaşmalar futbolseverler tarafından büyük bir ilgiyle takip edildi. Orta Doğu coğrafyasında gerçekleşen bu büyük spor organizasyonu, bölgeye uluslararası dikkat çekmeye devam ediyor. Katar, Dünya Kupası'nın sorunsuz ve başarılı bir şekilde tamamlanması için yoğun çaba sarf ediyor. Bu küresel etkinlik, sporun yanı sıra diplomatik, ekonomik ve toplumsal birçok alanda da etkileşim yaratıyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/58461/pexels-photo-58461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T11:14:23.298Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17837685443557vqok",
+        "title": "Batı Şeria'da İsrail Güçleri İşçilere Saldırdı, Çiftliği Tahrip Etti",
+        "summary": "İşgal altındaki Batı Şeria'da İsrail güçleri tarafından gerçekleştirilen saldırılar, bölgedeki bir elektrik projesinin durmasına neden oldu. Nablus, Ramallah ve Cenin kentlerinde tarım arazileri de ayrı saldırıların hedefi haline geldi. Belediye çalışanları, elektrik projesi üzerinde çalışırken saldırıya uğrayarak faaliyetlerini askıya almak zorunda kaldı. Bu olaylar, bölgedeki altyapı çalışmalarını ve yerel halkın geçim kaynaklarını olumsuz etkiledi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13748651/pexels-photo-13748651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T11:15:44.355Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2078,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-workers-destroy-farm-in-occupied-west-bank/3994998",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1783768564248j5pfy",
+        "title": "İsrail Ordusu Güneybatı Suriye'de İlerleme Kaydetti, Kontrol Noktası Kurdu",
+        "summary": "Suriye medyasının aktardığı bilgilere göre, İsrail güçleri Suriye'nin güneybatısındaki Kuneytra kırsalında geçici bir kontrol noktası oluşturdu. İsrail ordusunun bölgeye bir ilerleme başlattığı belirtildi. Kurulan bu kontrol noktasında yoldan geçenlerin denetlendiği ifade edildi. Bu gelişme, İsrail ile Suriye arasındaki sınır bölgesindeki gerilimi yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16722366/pexels-photo-16722366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T11:16:04.248Z",
+        "location": {
+            "lat": 33.1,
+            "lng": 35.8,
+            "name": "Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-incursion-sets-up-checkpoint-in-southwest-syria/3994981",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783758004444glzq4",
         "title": "Trump'tan İran'a Hamaney Cenazesi Sonrası Sert Tehdit",
         "summary": "ABD Başkanı Donald Trump, İran'da dini lider Hamaney'in cenazesi sırasında kendisine yönelik ölüm sloganlarının yükselmesi üzerine Tahran'ı hedef alan sert açıklamalarda bulundu. Başkan Trump, iddia edilen suikast planlarına atıfta bulunarak, ABD'nin İran'ı 'yok edeceğini' belirtti. Bu tehditkar söylem, Washington ile Tahran arasındaki mevcut gerilimi daha da tırmandırdı. Bölgesel arabulucular ise taraflar arasındaki bir mutabakat zaptını (MoU) kurtarmak ve tansiyonu düşürmek amacıyla diplomatik çabalarını sürdürüyor. Gelişmeler, Orta Doğu'daki güvenlik ve diplomatik dengeyi etkilemeye devam ediyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1783585934424ffcaw",
-        "title": "Hamaney'in tabutu Şii türbelerinden geçirildi, Irak'ta törenler düzenlendi",
-        "summary": "İran'ın merhum dini lideri Ayetullah Ali Hamaney'in cenaze törenleri beşinci gününde devam ediyor. Hamaney'in naaşı, Şii inancında kutsal sayılan Irak'taki Necef ve Kerbela şehirlerine taşındı. Bu şehirlerdeki Şii türbelerinde geniş katılımlı özel törenler düzenleniyor. Merhum lider için yapılan bu merasimler, bölgedeki Şii toplulukları için büyük dini ve toplumsal önem taşıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7317675/pexels-photo-7317675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:32:14.424Z",
-        "location": {
-            "lat": 31.999,
-            "lng": 44.333,
-            "name": "Necef, Irak"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cp9le3kjj8eo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1783585962135jjyof",
-        "title": "İsrail Parlamentosu, Filistin Yönetimi Fonlarını Dondurma Yasa Tasarısını İlerletti",
-        "summary": "İsrail parlamentosu, Filistin Yönetimi'ne aktarılan fonların dondurulmasını öngören bir yasa tasarısını onayladı. Tasarıya göre, dondurulacak miktar bir önceki yıl Gazze'ye yapılan transferlere eşit olacak. Bu adım, Ramallah merkezli Filistin Yönetimi üzerindeki mali baskıyı daha da artırmayı hedefliyor. Yasa tasarısı, İsrail'in Filistin Yönetimi'ne yönelik mali politikalarını sıkılaştırma çabasının bir parçası olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/19453134/pexels-photo-19453134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:32:42.135Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-parliament-advances-bill-to-freeze-more-palestinian-authority-funds/3992857",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783585982088kmyea",
-        "title": "İran, İngiltere Büyükelçisi'ni 'asılsız suçlamalar' nedeniyle çağırdı",
-        "summary": "İran Dışişleri Bakanlığı, İngiltere'nin güvenlik tehditlerine ilişkin iddialarını reddederek, İngiltere Büyükelçisi'ni bakanlığa çağırdı. Tahran yönetimi, Londra'yı ABD ve İsrail ile işbirliği yapmakla suçladı. Bu diplomatik adım, iki ülke arasındaki gerilimi artırırken, İran'ın bölgesel ve uluslararası ilişkilerdeki duruşunu yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:33:02.088Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-summons-uk-ambassador-over-baseless-accusations-/3992807",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
