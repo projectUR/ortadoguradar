@@ -1,5 +1,37 @@
 [
     {
+        "id": "178378397683861kib",
+        "title": "Katar'lı Yetkililer, Hürmüz Boğazı'nı Açmak İçin İran ve Umman ile Görüşmelerde",
+        "summary": "Katar'lı yetkililerin, Hürmüz Boğazı'nın tamamen açılması konusunda İran ve Umman ile görüşmeler yürüttüğü bildirildi. Habere göre, taraflar boğazdaki 'orta şeridin' tam olarak açılmasına yönelik potansiyel bir bildiri üzerinde müzakereler yapıyor. Bu diplomatik çabaların, bölgenin en stratejik deniz geçitlerinden biri olan Hürmüz Boğazı'nda seyrüsefer güvenliğini ve serbestliğini artırmayı hedeflediği belirtiliyor. Görüşmelerin, bölgesel işbirliğini güçlendirme potansiyeli taşıdığı ifade ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5505451/pexels-photo-5505451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T15:32:56.838Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatari-officials-in-talks-with-iran-oman-to-open-strait-of-hormuz-report/3995161",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17837840044765q6ic",
+        "title": "Suudi Arabistan'da Sanayi ve Maden Kaynakları Bakanlığı'nda Liderlik Değişikliği",
+        "summary": "Suudi Arabistan'da yayımlanan bir Kraliyet kararnamesiyle Sanayi ve Maden Kaynakları Bakanlığı ile askeri sanayilerdeki liderlik pozisyonlarında önemli değişiklikler yapıldı. Suudi Basın Ajansı (SPA) tarafından duyurulan karara göre, Sanayi ve Maden Kaynakları Bakanı Bandar Alkhorayef görevinden alındı. Bu karar, ülkenin ekonomik ve savunma sektörlerindeki üst düzey yönetim kademelerinde bir yeniden yapılanmayı gösteriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/34246946/pexels-photo-34246946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T15:33:24.476Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6069,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-royal-order-reshuffles-leadership-over-industry-and-mineral-resources-ministry-military-industries/3995151",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783778633445geklz",
         "title": "Gazze'deki Hastaneler Elektrik Kesintileri Nedeniyle Karanlıkta Kaldı",
         "summary": "Gazze Şeridi'nde devam eden İsrail saldırıları, bölgedeki enerji krizini derinleştirerek hastanelerin işleyişini felç etti. Elektrik kesintileri nedeniyle sağlık tesisleri karanlığa gömülürken, jeneratörler için yakıt sıkıntısı tıbbi cihazların çalışmasını engelliyor. Bu durum, yaralıların ve kronik hastalığı olanların tedavisini ciddi şekilde aksatarak insani krizi daha da kötüleştiriyor. Uluslararası kuruluşlar, bölgeye acil yakıt ve tıbbi malzeme ulaştırılması çağrısında bulunuyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/mediators-make-fresh-contacts-with-us-iran-to-halt-further-military-strikes-pakistani-sources/3993074",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1783596751600qzfj7",
-        "title": "İran'ın Buşehr Kentinde Patlama Sesleri Duyuldu",
-        "summary": "İran'ın güneybatısında yer alan Buşehr kentinde çok sayıda patlama sesi duyulduğu bildirildi. Fars Haber Ajansı'nın aktardığı bilgilere göre, bu patlamalar Perşembe sabahı ABD güçlerinin Buşehr eyaletindeki bazı hemleri hedef almasının ardından meydana geldi. Olayın bölgedeki güvenlik durumu üzerindeki etkileri yakından takip ediliyor. Bölgedeki gerilimin artması endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12356447/pexels-photo-12356447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:32:31.600Z",
-        "location": {
-            "lat": 28.92,
-            "lng": 50.83,
-            "name": "Buşehr, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/several-explosions-heard-in-irans-bushehr/3993061",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783596774188jfbwp",
-        "title": "Irak Başbakanı: ABD ile siyasi işbirliği ve ekonomik ortaklık duyuracağız",
-        "summary": "Irak Başbakanı Ali Falih al-Zaidi, ülkesinin ABD ile siyasi işbirliği ve ekonomik ortaklık kurma niyetinde olduğunu duyurdu. Zaidi, Bağdat'ın bu adımla Washington ile ilişkilerini derinleştirmeyi hedeflediğini belirtti. Ayrıca, Irak'ın komşusu Suudi Arabistan ile de ekonomik ortaklık arayışında olduğunu ifade etti. Bu girişimlerin, Irak'ın bölgesel ve uluslararası arenadaki konumunu güçlendirmesi ve ekonomik kalkınmasına ivme kazandırması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7736028/pexels-photo-7736028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:32:54.188Z",
-        "location": {
-            "lat": 33.34,
-            "lng": 44.39,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-to-announce-political-cooperation-economic-partnership-with-us-prime-minister/3993035",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
