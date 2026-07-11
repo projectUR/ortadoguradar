@@ -1,5 +1,21 @@
 [
     {
+        "id": "178375071973574ifd",
+        "title": "Suriye, Şam'daki bombalama hücresiyle bağlantılı sığınağa düzenlenen baskının ardından bombaların etkisiz hale getirildiğini duyurdu",
+        "summary": "Suriye İçişleri Bakanlığı, Şam'daki bombalama eylemleriyle bağlantılı bir hücreye ait sığınağa düzenlenen baskının ardından patlayıcıların etkisiz hale getirildiğini bildirdi. Bakanlık, operasyon sırasında bulunan bombaların güvenli bir şekilde imha edildiğini belirtti. Yetkililer, söz konusu hücreyle bağlantılı ek sığınakların tespit edilmesi için soruşturmaların devam ettiğini açıkladı. Bu gelişmeler, Suriye'nin başkentindeki güvenlik güçlerinin terörle mücadele çabalarını sürdürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6266446/pexels-photo-6266446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T06:18:39.735Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-says-bombs-defused-after-raid-on-hideout-linked-to-damascus-bombing-cell/3994731",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783742076209nxc0x",
         "title": "İşgal Altındaki Batı Şeria'da İsrail Güçlerinin Saldırılarında 10 Filistinli Yaralandı",
         "summary": "İşgal altındaki Batı Şeria'da İsrail ordusu ve yerleşimcilerin gerçekleştirdiği saldırılarda 10 Filistinlinin yaralandığı bildirildi. Haber kaynaklarına göre, Filistin topraklarında Ekim 2023'ten bu yana İsrail askeri operasyonları ve yerleşimci şiddeti önemli ölçüde artış gösterdi. Bu son olaylar, bölgedeki güvenlik durumunun kırılganlığını ve devam eden gerilimi bir kez daha gözler önüne serdi. Yaşanan bu tür saldırılar, sivil halkın günlük yaşamını olumsuz etkilemeye devam ediyor ve uluslararası toplumun dikkatini çekiyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/syria-welcomes-us-move-to-remove-it-from-terrorism-list/3992625",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783571948929ugbvx",
-        "title": "Bahreyn'de Olası Saldırı Tehdidi Nedeniyle Yeniden Uyarı Sirenleri Çaldı",
-        "summary": "Bahreyn'de, olası bir saldırı tehdidine karşı yeniden uyarı sirenleri çalmaya başladı. Ülke İçişleri Bakanlığı, vatandaşları ve bölge sakinlerini güvenlik amacıyla sığınaklara yönelmeleri konusunda uyardı. Bu gelişme, ABD'nin İran'a yönelik gerçekleştirdiği yeni saldırıların ardından Körfez ülkelerinde artan gerilimin ve yüksek alarm durumunun bir göstergesi olarak değerlendiriliyor. Bölgedeki güvenlik durumu hassasiyetini koruyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9173231/pexels-photo-9173231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T04:39:08.929Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/warning-sirens-sound-in-bahrain-again-over-possible-attack/3992607",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
