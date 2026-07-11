@@ -1,5 +1,69 @@
 [
     {
+        "id": "1783758004444glzq4",
+        "title": "Trump'tan İran'a Hamaney Cenazesi Sonrası Sert Tehdit",
+        "summary": "ABD Başkanı Donald Trump, İran'da dini lider Hamaney'in cenazesi sırasında kendisine yönelik ölüm sloganlarının yükselmesi üzerine Tahran'ı hedef alan sert açıklamalarda bulundu. Başkan Trump, iddia edilen suikast planlarına atıfta bulunarak, ABD'nin İran'ı 'yok edeceğini' belirtti. Bu tehditkar söylem, Washington ile Tahran arasındaki mevcut gerilimi daha da tırmandırdı. Bölgesel arabulucular ise taraflar arasındaki bir mutabakat zaptını (MoU) kurtarmak ve tansiyonu düşürmek amacıyla diplomatik çabalarını sürdürüyor. Gelişmeler, Orta Doğu'daki güvenlik ve diplomatik dengeyi etkilemeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14000470/pexels-photo-14000470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T08:20:04.444Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783758094999tgt07",
+        "title": "İran Dışişleri Bakanı Umman'da İkili ve Bölgesel Konuları Görüşüyor",
+        "summary": "İran Dışişleri Bakanı, ikili ilişkiler ve bölgesel meseleleri ele almak üzere Umman'a resmi bir ziyarette bulundu. İran devlet medyasına göre, Bakan Umman'a varışında Ummanlı yetkililer tarafından karşılandı. Bu ziyaretin, iki ülke arasındaki mevcut işbirliğini güçlendirmeyi ve Orta Doğu'daki güncel gelişmeleri değerlendirmeyi amaçladığı belirtildi. Görüşmelerde, bölgesel istikrarın sağlanması ve ortak çıkarların korunması konularının öncelikli gündem maddeleri arasında yer alması bekleniyor. Ziyaretin, diplomatik diyalog kanallarını açık tutma çabalarının bir parçası olduğu ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7643748/pexels-photo-7643748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T08:21:34.999Z",
+        "location": {
+            "lat": 23.59,
+            "lng": 58.41,
+            "name": "Muscat, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-foreign-minister-arrives-in-oman-to-discuss-bilateral-regional-issues/3994803",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17837581164406qr97",
+        "title": "ABD Askeri Ekibi Ateşkes Desteği İçin Lübnan'ı Ziyaret Edecek",
+        "summary": "ABD askeri ekibi, ateşkesin uygulanmasına destek olmak amacıyla Lübnan'ı ziyaret edecek. Financial Times'ın haberine göre, ABD Merkez Kuvvetler Komutanlığı (CENTCOM) heyeti, Roma'da yapılacak teknik görüşmeler öncesinde Beyrut'a ulaşacak. Bu ziyaretin, bölgedeki güvenlik ve istikrarın sağlanması yönündeki uluslararası çabalara katkıda bulunması bekleniyor. Gelişme, Lübnan'daki mevcut durumu ve uluslararası aktörlerin bölgedeki rolünü bir kez daha gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T08:21:56.440Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-military-team-to-visit-lebanon-to-support-ceasefire-implementation/3994760",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17837581475648f6pu",
+        "title": "Suudi Veliaht Prensi ve ABD Başkanı İran Görüşmelerini Ele Aldı",
+        "summary": "Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile ABD Başkanı Donald Trump arasında bir görüşme gerçekleşti. Görüşmede, İran ile ilgili müzakereler ana gündem maddelerinden biri olarak ele alındı. Liderler ayrıca iki ülke arasındaki işbirliği alanlarını gözden geçirdi. Bölgesel ve uluslararası meseleler de ele alınan önemli konular arasında yer aldı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T08:22:27.564Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/americas/saudi-crown-prince-us-president-discuss-iran-talks/3994754",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178375071973574ifd",
         "title": "Suriye, Şam'daki bombalama hücresiyle bağlantılı sığınağa düzenlenen baskının ardından bombaların etkisiz hale getirildiğini duyurdu",
         "summary": "Suriye İçişleri Bakanlığı, Şam'daki bombalama eylemleriyle bağlantılı bir hücreye ait sığınağa düzenlenen baskının ardından patlayıcıların etkisiz hale getirildiğini bildirdi. Bakanlık, operasyon sırasında bulunan bombaların güvenli bir şekilde imha edildiğini belirtti. Yetkililer, söz konusu hücreyle bağlantılı ek sığınakların tespit edilmesi için soruşturmaların devam ettiğini açıkladı. Bu gelişmeler, Suriye'nin başkentindeki güvenlik güçlerinin terörle mücadele çabalarını sürdürdüğünü gösteriyor.",
@@ -732,70 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-summons-uk-ambassador-over-baseless-accusations-/3992807",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783586003156x1nk9",
-        "title": "Katar Başbakanı, İran Dışişleri Bakanı ile Görüşmesinde Diplomasiye Desteğini Yineledi",
-        "summary": "Katar Başbakanı, İran Dışişleri Bakanı ile gerçekleştirdiği telefon görüşmesinde diplomasiye olan güçlü desteğini yineledi. Görüşmede, Doha yönetimi ABD ile İran arasındaki mutabakata uyulması çağrısında bulundu. Katar ayrıca, stratejik Hürmüz Boğazı'nda ticari gemilere yönelik düzenlenen saldırıları kınadığını açıkça ifade etti. Bu adımlar, bölgesel istikrarın sağlanması ve denizcilik güvenliğinin korunması yönündeki çabalara işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8770999/pexels-photo-8770999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:33:23.156Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-premier-reaffirms-support-for-diplomacy-in-call-with-irans-foreign-minister/3992793",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783586025915vy1k4",
-        "title": "İran, ABD-İsrail Saldırısı Sonrası Tahran-Meşhed Demiryolu Seferlerini Askıya Aldı",
-        "summary": "İran Demiryolları yetkilileri, Tahran-Meşhed arasındaki yolcu treni seferlerinin durdurulduğunu açıkladı. Açıklamaya göre, demiryolu hattında meydana gelen bir saldırı sonucu oluşan hasar nedeniyle seferler askıya alındı. Hattın onarımı için çalışmalar başlatılırken, etkilenen yolcuların karayoluyla taşındığı belirtildi. Olayın, ABD ve İsrail tarafından gerçekleştirildiği iddia edilen bir saldırının ardından yaşandığı bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7429616/pexels-photo-7429616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:33:45.915Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-suspends-tehran-mashhad-rail-service-after-us-israeli-strike/3992696",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17835860496304zvsf",
-        "title": "Hürmüz Boğazı'nda Gemi Trafiği ABD-İran Gerilimi Nedeniyle Durma Noktasına Geldi",
-        "summary": "Hürmüz Boğazı'ndaki gemi trafiği, ABD ile İran arasındaki yenilenen saldırıların enerji taşımacılığını sarsmasıyla neredeyse durma noktasına geldi. Gemi takip verilerine göre, görünür hareketler İran'ın onayladığı kuzey rotasında yoğunlaşırken, ABD destekli Umman koridoru sessizliğini koruyor. Bu durum, bölgedeki artan gerilimin küresel enerji tedarik zincirleri üzerindeki potansiyel etkisini gözler önüne seriyor. Dünya petrol ticaretinin önemli bir geçiş noktası olan Boğaz'da yaşanan bu aksaklık, uluslararası piyasalarda endişeye yol açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32237794/pexels-photo-32237794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T08:34:09.630Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hormuz-traffic-nearly-halts-as-renewed-us-iran-strikes-rattle-energy-shipping/3992690",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1783571896379bmac5",
-        "title": "Suriye, ABD'nin Terör Listesinden Çıkarma Hamlesini Memnuniyetle Karşıladı",
-        "summary": "Suriye yönetimi, Amerika Birleşik Devletleri'nin kendisini terör listesinden çıkarma yönündeki adımını olumlu karşıladığını duyurdu. Şam'dan yapılan açıklamada, bu kararın iki ülke arasındaki ikili ilişkilerde diyalog ve karşılıklı saygıya dayalı 'önemli bir gelişme' olduğu vurgulandı. Suriye, bu hamlenin diplomatik ilişkilerde yeni bir dönemin başlangıcı olabileceğini belirtti. Kararın, Suriye'nin uluslararası arenadaki konumunu ve ABD ile ilişkilerini yeniden şekillendirme potansiyeli taşıdığı ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T04:38:16.379Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-welcomes-us-move-to-remove-it-from-terrorism-list/3992625",
         "trendScore": 85,
         "isBreaking": false
     }
