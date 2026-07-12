@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783827959718v54l5",
+        "title": "BAE, İran Füze ve İHA'larını Engelledi; Katar ve Bahreyn Güvenlik Uyarısı Yaptı",
+        "summary": "Birleşik Arap Emirlikleri (BAE), hava savunma sistemlerinin İran'dan gelen füze ve insansız hava araçlarını başarıyla engellediğini bildirdi. Bu gelişmenin ardından bölgedeki gerilim tırmanırken, Katar güvenlik tehdit seviyesini yükseltme kararı aldı. Bahreyn'de ise hava saldırısı sirenleri çalmaya başladı. Olay, Körfez bölgesinde İran ile BAE arasında doğrudan bir askeri gerilimi ve bölgesel güvenlik endişelerini açıkça ortaya koymaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T03:45:59.718Z",
+        "location": {
+            "lat": 24.4667,
+            "lng": 54.3667,
+            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-intercepts-iranian-missiles-drones-as-qatar-bahrain-issue-shelter-warnings/3995338",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783827982379zieus",
+        "title": "İsrail, İşgal Altındaki Batı Şeria'da 500 Dönümden Fazla Araziyi Askeri Emirlerle Hedef Aldı",
+        "summary": "İsrail'in, işgal altındaki Batı Şeria'da 500 dönümden fazla araziyi askeri emirlerle hedef aldığı bildirildi. Filistinli bir komisyon tarafından yapılan açıklamaya göre, Ocak ayından bu yana çıkarılan 49 askeri emir, özel mülkiyete ait arazilerin kullanımına yönelik geniş kısıtlamalar getiriyor. Bu kararların, bölgedeki Filistinlilerin toprak üzerindeki haklarını daha da kısıtlaması bekleniyor. Söz konusu adımlar, İsrail'in Batı Şeria'daki yerleşim politikaları ve bölgedeki Filistin varlığı üzerindeki baskısını artırma çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5965203/pexels-photo-5965203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T03:46:22.379Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-targets-more-than-500-acres-in-occupied-west-bank-with-military-orders/3995336",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783814364729yxybq",
         "title": "İran Devrim Muhafızları Donanması Hürmüz Boğazı'nın ikinci bir emre kadar kapatıldığını duyurdu",
         "summary": "İran Devrim Muhafızları Donanması, Hürmüz Boğazı'nın ikinci bir emre kadar tüm gemi geçişlerine kapatıldığını bildirdi. Yapılan açıklamada, stratejik su yolundan hiçbir geminin geçişine izin verilmeyeceği belirtildi. Donanma, İran'ın yeni bir saldırıyla karşılaşması durumunda 'düşman' üslerine misilleme saldırıları düzenleneceği tehdidinde bulundu. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783616501585rkxam",
-        "title": "Fransa'da Aşırı Sağcı Ulusal Birlik Partisi'nin İktidar Şansı Tartışılıyor",
-        "summary": "Fransa'da Yüksek Mahkeme'nin aldığı bir karar, aşırı sağcı Ulusal Birlik Partisi lideri Marine Le Pen'in gelecek yıl yapılacak cumhurbaşkanlığı seçimlerinde aday olmasının önünü açtı. Bu gelişme, partinin iktidara gelme şansının artıp artmadığına dair tartışmaları yoğunlaştırdı. Le Pen'in adaylığı, Fransa'nın iç siyasetinde önemli bir dönüm noktası olarak değerlendirilirken, ülkenin dış politikası ve uluslararası ilişkilerdeki duruşu üzerinde potansiyel etkileri olabileceği belirtiliyor. Özellikle Orta Doğu'ya yönelik politikalar ve göçmenlik konularındaki olası değişiklikler, uluslararası gözlemciler tarafından yakından izleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8849340/pexels-photo-8849340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T17:01:41.585Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/7/9/is-this-frances-far-right-national-rallys-best-chance-to-take-power?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178361652489741j8b",
-        "title": "NATO, Hürmüz Boğazı'nın Güvenliğinde Rol Alacak mı?",
-        "summary": "NATO'nun Türkiye'de düzenlenecek zirvesi, İran ile olası bir savaşın gölgesinde toplanıyor. Zirvede, savunma ittifakının stratejik öneme sahip Hürmüz Boğazı'nın güvenliğinin sağlanmasında potansiyel bir rol üstlenip üstlenmeyeceği konusu ana gündem maddelerinden biri olacak. Bölgedeki artan gerilimler ve İran'a yönelik endişeler, ittifakın Orta Doğu'daki güvenlik dinamiklerine yönelik tutumunu belirlemede kritik bir öneme sahip. Bu durum, uluslararası kamuoyunda yakından takip ediliyor ve NATO'nun bölgedeki varlığına dair tartışmaları alevlendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20214691/pexels-photo-20214691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T17:02:04.897Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/7/9/will-nato-get-involved-in-securing-strait-of-hormuz?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
