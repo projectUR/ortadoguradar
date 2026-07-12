@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783896812445f1h8u",
+        "title": "İsrail, Lübnan'daki büyük patlamaların videosunu yayınladı",
+        "summary": "İsrail ordusu, Lübnan'ın güneyindeki köylerde meydana gelen büyük patlamaları ve infilakları gösteren bir video yayınladı. Yayınlanan görüntüler, bölgedeki askeri faaliyetlerin yoğunluğunu ve gerilimin devam ettiğini gözler önüne seriyor. Bu olaylar, İsrail ile Lübnan arasındaki sınır hattındaki hassas durumu bir kez daha vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31056170/pexels-photo-31056170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T22:53:32.445Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17838896579169dfmt",
         "title": "Katar'ın Eski Emiri 'Vizyon ve Cesaret Sahibi Bir Lider' Olarak Anıldı",
         "summary": "ABD'li diplomat Adam Ereli, Katar'ın eski emiri Şeyh'i anarak, onu 'vizyon ve cesaret sahibi bir lider' olarak tanımladı. Ereli, eski emiri kişisel olarak tanınan ve karizmatik bir şahsiyet olarak hatırladığını belirtti. Bu anma, Katar'ın bölgesel ve uluslararası alandaki gelişimine katkılarını vurgulamaktadır. Diplomatın açıklamaları, Katar'ın geçmiş dönem liderliğine ve uluslararası ilişkilerdeki rolüne dair bir perspektif sunuyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1783794449453py0kn",
-        "title": "ABD'li milletvekili, Filistin gezisinde yerleşimciler tarafından alıkonulmasının ardından İsrail ordusunu eleştirdi",
-        "summary": "ABD'li bir milletvekili, Filistin topraklarına yaptığı bir gezi sırasında İsrailli yerleşimciler tarafından alıkonuldu. Milletvekili Khanna, olay sırasında İsrail askerlerini yerleşimcilere destek vermekle suçladı. Khanna, İsrail güçlerinin bu eyleminin 'büyük bir hata' olduğunu belirterek sert eleştirilerde bulundu. Bu olay, bölgedeki gerilimi ve İsrail güçlerinin Batı Şeria'daki tartışmalı rolünü bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17808296/pexels-photo-17808296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T18:27:29.453Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
