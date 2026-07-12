@@ -1,5 +1,37 @@
 [
     {
+        "id": "17838577527774hrl4",
+        "title": "İran Devrim Muhafızları Ordusu Misilleme Füze Saldırılarının Görüntülerini Yayımladı",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), gerçekleştirdiği misilleme amaçlı füze saldırılarına ait görüntüleri kamuoyuyla paylaştı. Yayımlanan videoda, Devrim Muhafızları'nın hedeflere yönelik hassas vuruşları ve operasyonel kapasitesi sergilendi. Bu adım, İran'ın bölgesel güvenlik tehditlerine karşı askeri yanıt verme kabiliyetini vurgulama amacı taşıyor. Görüntülerin, bölgedeki gerilimi artırabilecek nitelikte olduğu ve İran'ın caydırıcılık mesajı olarak yorumlandığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27292151/pexels-photo-27292151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T12:02:32.777Z",
+        "location": {
+            "lat": 32.4,
+            "lng": 53.7,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783857821343ldhjo",
+        "title": "Bahreyn, saldırıların ardından İran'ı 'sistematik saldırganlıkla' suçladı",
+        "summary": "Bahreyn, Pazar günü hava savunma sistemlerinin 'birkaç hain İran hava saldırısını' önlediğini ve imha ettiğini duyurdu. Manama yönetimi, bu saldırıların ardından İran'ı 'sistematik saldırganlıkla' suçlayarak bölgedeki gerilimi tırmandırdı. Bahreynli yetkililer, bu eylemleri ülkenin egemenliğine yönelik doğrudan bir ihlal olarak nitelendirdi. İran'dan henüz resmi bir açıklama gelmezken, iki ülke arasındaki ilişkilerde yeni bir gerilim dönemi başladı. Bu olay, Körfez bölgesindeki güvenlik endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9862238/pexels-photo-9862238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T12:03:41.343Z",
+        "location": {
+            "lat": 26.2278,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-accuses-iran-of-systematic-aggression-after-attacks/3995681",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1783853663487cowpy",
         "title": "Hamaney'in Cenazesinin Görkemi ve Sembolizmi",
         "summary": "İran'ın dini lideri Ayetullah Ali Hamaney'in cenaze töreni, ülkenin iç dinamikleri ve dış algısı açısından önemli bir olay olarak değerlendirilmektedir. Haber, cenaze töreninin medya tarafından ele alınış biçiminin, İran hakkındaki yerleşik anlatıların sınırlarını nasıl ortaya koyduğunu incelemektedir. Bu durum, ülkenin siyasi ve toplumsal yapısına dair farklı yorumlara yol açmıştır. Törenin görkemi ve taşıdığı sembolik anlamlar, İran'ın geleceği ve bölgesel rolü üzerine tartışmaları beraberinde getirmiştir. Analiz, cenaze töreninin sadece bir veda değil, aynı zamanda İran'ın karmaşık gerçekliğini yansıtan bir ayna olduğunu vurgulamaktadır.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/10/what-happened-at-france-v-morocco?traffic_source=rss",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1783699096708z2912",
-        "title": "İsrail Güçlerinin Hastaneye Ulaşımı Engellemesi Sonucu Bebek Hayatını Kaybetti",
-        "summary": "Üç aylık Ahmad Zaid'in ailesi, İsrail güçlerinin hastaneye ulaşımı engellemesi nedeniyle bebeklerinin hayatını kaybetmesinin ardından büyük üzüntü yaşıyor. Aile, Ahmad'ın doğum ve ölüm belgelerini aynı gün almak zorunda kaldı. Olay, bölgedeki sağlık hizmetlerine erişim sorunlarını bir kez daha gündeme getirdi. Bebek Ahmad'ın ölümü, Filistin topraklarında yaşanan insani krizin bir yansıması olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7350885/pexels-photo-7350885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-10T15:58:16.708Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Filistin Toprakları"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1783699150520onlum",
-        "title": "BBC Editörü Bowen: Trump'ın İran ile Müzakereden Başka Seçeneği Yok",
-        "summary": "BBC Uluslararası Editörü Jeremy Bowen, ABD Başkanı Donald Trump'ın tüm sert söylemlerine rağmen İran ile müzakerelerden daha iyi bir seçeneği olmadığını belirtti. Bowen, müzakere sürecinin oldukça kırılgan olduğunu vurguladı. Yakın zamanda gerçekleşen ABD saldırılarının, taraflar arasında bir anlaşmaya varmanın ne denli zorlu bir süreç olacağını açıkça ortaya koyduğunu ifade etti. Bu durum, ABD-İran ilişkilerindeki gerilimin ve diplomatik çabaların karmaşıklığını gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14227138/pexels-photo-14227138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-10T15:59:10.520Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
