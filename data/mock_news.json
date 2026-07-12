@@ -1,5 +1,69 @@
 [
     {
+        "id": "1783885297642qhrx5",
+        "title": "İran-ABD Ateşkesi Neden Bozuluyor?",
+        "summary": "İran ile ABD arasındaki gerilimin yeniden tırmandığı ve daha önceki ateşkesin bozulma sürecine girdiği bildirildi. Analist Ali Vaez, iki ülkenin birbirini 'güvenilir müzakere ortağı' olarak görmemesinin çatışmaların yeniden başlamasına yol açtığını belirtti. Bu durum, taraflar arasındaki diplomatik ilişkilerin çıkmaza girdiğini ve karşılıklı güvensizliğin derinleştiğini gösteriyor. Bölgedeki siyasi ve güvenlik dengeleri açısından kritik öneme sahip olan bu gelişme, yeni gerilimlerin habercisi olabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699687/pexels-photo-5699687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T19:41:37.642Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1783885319585mjcq9",
+        "title": "Kuzey İrlanda'daki Şenlik Ateşinde Göçmen Karşıtı Gösteri Ateşe Verildi",
+        "summary": "Kuzey İrlanda'da düzenlenen bir şenlik ateşi etkinliğinde göçmen karşıtı bir gösteri gerçekleştirildi. Devasa bir şenlik ateşi kulesinin üzerine Filistin, Suriye, Sudan ve Somali bayrakları asıldı. Bu bayraklar, daha sonra kuleyle birlikte ateşe verildi. Olay, bölgedeki göçmen karşıtı duyguları yansıtan bir eylem olarak kayıtlara geçti ve uluslararası kamuoyunda tartışmalara yol açtı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11421274/pexels-photo-11421274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T19:41:59.585Z",
+        "location": {
+            "lat": 54.5973,
+            "lng": -5.9301,
+            "name": "Belfast, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/anti-migrant-display-set-alight-in-northern-ireland-bonfire?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "17838853769929nwm2",
+        "title": "Katar'ın Baba Emiri Şeyh Hamad'a Veda İçin Binlerce Kişi Toplandı",
+        "summary": "Katar'ın başkenti Doha'da, ülkenin Baba Emiri Şeyh Hamad bin Halife Al Sani'ye veda etmek üzere binlerce kişi bir araya geldi. Bu özel tören, eski emirin ülkeye yaptığı hizmetleri anmak ve kendisine saygılarını sunmak amacıyla düzenlendi. Şeyh Hamad, 1995'ten 2013'e kadar Katar'ı yönetmiş ve ülkenin modernleşmesinde, uluslararası alanda tanınmasında kilit bir rol oynamıştı. Katılımcılar, liderlerinin mirasına olan bağlılıklarını ve minnettarlıklarını dile getirdi. Etkinlik, Katar halkının eski liderlerine duyduğu saygıyı ve ulusal birliği gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38151921/pexels-photo-38151921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T19:42:56.992Z",
+        "location": {
+            "lat": 25.28,
+            "lng": 51.53,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17838854462027x6sg",
+        "title": "ABD ile gerilimin tırmandığı dönemde Güney İran'da çok sayıda patlama yaşandığı bildirildi",
+        "summary": "Güney İran'da ABD ile yaşanan gerilimin tırmanmasıyla birlikte çok sayıda patlama meydana geldiği bildirildi. Bölge valisi tarafından yapılan açıklamaya göre, Hürmüz Boğazı'ndaki Keşm Adası'na 10 ila 11 adet mermi isabet etti. Olayın detayları ve patlamaların kaynağı hakkında henüz net bir bilgi bulunmuyor. Bu gelişme, ABD ile İran arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor. Yetkililer, durumla ilgili incelemelerin sürdüğünü belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9065337/pexels-photo-9065337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T19:44:06.202Z",
+        "location": {
+            "lat": 26.8,
+            "lng": 56,
+            "name": "Keşm Adası, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/multiple-explosions-reported-in-southern-iran-amid-escalation-with-us/3995878",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17838809064942k1du",
         "title": "Katar'ın 'Baba Emir'i Şeyh Hamad İçin Doha'da Cenaze Namazı Kılındı",
         "summary": "Katar'ın 'Baba Emir'i olarak bilinen Şeyh Hamad bin Halife Al Sani için başkent Doha'da cenaze namazı kılındı. Şeyh Hamad, 1995 ile 2013 yılları arasında Katar'ı yönetmişti. Ülkenin modernleşme sürecinde önemli bir rol oynayan eski Emir, vefatının ardından anılıyor. Merhum Emir'in naaşı, kılınan cenaze namazının ardından Doha'daki Lusail Mezarlığı'nda toprağa verilecek.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/qatari-officials-in-talks-with-iran-oman-to-open-strait-of-hormuz-report/3995161",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17837840044765q6ic",
-        "title": "Suudi Arabistan'da Sanayi ve Maden Kaynakları Bakanlığı'nda Liderlik Değişikliği",
-        "summary": "Suudi Arabistan'da yayımlanan bir Kraliyet kararnamesiyle Sanayi ve Maden Kaynakları Bakanlığı ile askeri sanayilerdeki liderlik pozisyonlarında önemli değişiklikler yapıldı. Suudi Basın Ajansı (SPA) tarafından duyurulan karara göre, Sanayi ve Maden Kaynakları Bakanı Bandar Alkhorayef görevinden alındı. Bu karar, ülkenin ekonomik ve savunma sektörlerindeki üst düzey yönetim kademelerinde bir yeniden yapılanmayı gösteriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/34246946/pexels-photo-34246946.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T15:33:24.476Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6069,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-royal-order-reshuffles-leadership-over-industry-and-mineral-resources-ministry-military-industries/3995151",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783778633445geklz",
-        "title": "Gazze'deki Hastaneler Elektrik Kesintileri Nedeniyle Karanlıkta Kaldı",
-        "summary": "Gazze Şeridi'nde devam eden İsrail saldırıları, bölgedeki enerji krizini derinleştirerek hastanelerin işleyişini felç etti. Elektrik kesintileri nedeniyle sağlık tesisleri karanlığa gömülürken, jeneratörler için yakıt sıkıntısı tıbbi cihazların çalışmasını engelliyor. Bu durum, yaralıların ve kronik hastalığı olanların tedavisini ciddi şekilde aksatarak insani krizi daha da kötüleştiriyor. Uluslararası kuruluşlar, bölgeye acil yakıt ve tıbbi malzeme ulaştırılması çağrısında bulunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T14:03:53.445Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1783778653481p2zua",
-        "title": "Yemen'de Gerilim Tırmanıyor: Çatışma Yeniden Alevlenecek mi?",
-        "summary": "Yemen'de hem savaş alanında hem de siyasi arenada gerilim artışı gözlemleniyor. Ülkedeki taraflar arasındaki tansiyonun yükseldiği belirtilirken, bu durum uzun süredir devam eden çatışmanın yeniden şiddetlenme potansiyelini gündeme getiriyor. Bölgedeki gözlemciler, mevcut gelişmelerin barış sürecini olumsuz etkileyebileceği ve yeni bir çatışma döngüsünü tetikleyebileceği konusunda uyarıyor. Taraflar arasındaki müzakerelerin akıbeti ve sahadaki askeri hareketlilik yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T14:04:13.481Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783773065197z5ps2",
-        "title": "ABD'nin İran'a Yönelik Saldırılarında Can Kaybı 17'ye Yükseldi",
-        "summary": "ABD'nin İran'a yönelik gerçekleştirdiği saldırılarda hayatını kaybedenlerin sayısı 17'ye yükseldi. İran Sağlık Bakanlığı tarafından yapılan açıklamada, saldırılarda 115 kişinin yaralandığı belirtildi. Yaralılardan 102'sinin tedavilerinin ardından taburcu edildiği bilgisi paylaşıldı. Bu gelişmeler, bölgedeki gerilimin tırmanma potansiyelini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14728699/pexels-photo-14728699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T12:31:05.197Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/death-toll-from-us-strikes-on-iran-rises-to-17/3995012",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
