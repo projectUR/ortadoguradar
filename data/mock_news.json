@@ -1,5 +1,53 @@
 [
     {
+        "id": "17838756822248w1kd",
+        "title": "Şeyh Hamad Körfez Bölgesinde Sevgiyle Anılacak",
+        "summary": "Körfez bölgesinde önemli bir şahsiyet olan Şeyh Hamad'ın, bölge genelinde sevgiyle anılacağı belirtildi. Haberde, Şeyh Hamad'ın kimliği, vefat nedeni veya anılma gerekçeleri hakkında detaylı bilgiye yer verilmedi. Ancak bu ifadenin, bölgedeki liderlerin veya etkili kişilerin mirasına yönelik bir değerlendirme olduğu düşünülüyor. Bu tür açıklamalar genellikle vefat eden devlet adamları veya kraliyet üyeleri için yapılır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3861811/pexels-photo-3861811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T17:01:22.224Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss",
+        "trendScore": 65,
+        "isBreaking": false
+    },
+    {
+        "id": "17838757056413ca9k",
+        "title": "İran Savaşı: ABD İçin Stratejik Başarı mı, Diplomatik Başarısızlık mı?",
+        "summary": "ABD'li yorumcu Marc Lamont Hill, eski ABD diplomatı Heino Klinck ile İran'da potansiyel bir ABD-İsrail savaşı senaryosunu masaya yatırdı. Tartışmada, böyle bir çatışmanın Amerika Birleşik Devletleri açısından stratejik bir başarı mı yoksa diplomatik bir başarısızlık mı olacağı konusu değerlendirildi. Uzmanlar, Orta Doğu'daki mevcut gerilimlerin olası sonuçlarını ve uluslararası ilişkiler üzerindeki potansiyel etkilerini analiz etti. Bu tür bir askeri müdahalenin bölgedeki güç dengelerini nasıl etkileyebileceği ve küresel istikrara yansımaları üzerinde duruldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9643191/pexels-photo-9643191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T17:01:45.641Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783875776024jysrv",
+        "title": "İran'ın Bender Abbas ve Keşm Adası'nda Patlamalar Bildirildi",
+        "summary": "İran'ın güneyindeki Bender Abbas kenti ve Hürmüz Boğazı'nda yer alan Keşm Adası'nda çok sayıda patlama meydana geldiği bildirildi. İran resmi haber ajansı IRNA'nın Keşm Valisi'ne dayandırdığı haberine göre, Keşm Adası'na 10 ila 11 adet mermi isabet etti. Olayın detayları ve patlamaların kaynağı hakkında henüz net bir bilgi bulunmuyor. Bölgedeki güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8079178/pexels-photo-8079178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T17:02:56.024Z",
+        "location": {
+            "lat": 27.18,
+            "lng": 56.28,
+            "name": "Bender Abbas, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/multiple-explosions-reported-in-irans-bandar-abbas-qeshm-island/3995878",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1783870420738j4rwl",
         "title": "İsrail Güçleri Gazze'ye Yönelik Son Saldırılarda Beş Filistinliyi Öldürdü",
         "summary": "Gazze Şeridi'nde yaşanan son gelişmelerde, İsrail güçlerinin düzenlediği saldırılarda beş Filistinli yaşamını yitirdi. Bu olay, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Ekim ayında ABD arabuluculuğunda sağlanan ateşkesin yürürlüğe girmesinden bu yana, İsrail'in Gazze'ye yönelik saldırılarında hayatını kaybeden Filistinlilerin toplam sayısı en az 1.098'e yükseldi. Bölgedeki gerilim ve can kayıpları uluslararası kamuoyunun dikkatini çekmeye devam ediyor.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783758094999tgt07",
-        "title": "İran Dışişleri Bakanı Umman'da İkili ve Bölgesel Konuları Görüşüyor",
-        "summary": "İran Dışişleri Bakanı, ikili ilişkiler ve bölgesel meseleleri ele almak üzere Umman'a resmi bir ziyarette bulundu. İran devlet medyasına göre, Bakan Umman'a varışında Ummanlı yetkililer tarafından karşılandı. Bu ziyaretin, iki ülke arasındaki mevcut işbirliğini güçlendirmeyi ve Orta Doğu'daki güncel gelişmeleri değerlendirmeyi amaçladığı belirtildi. Görüşmelerde, bölgesel istikrarın sağlanması ve ortak çıkarların korunması konularının öncelikli gündem maddeleri arasında yer alması bekleniyor. Ziyaretin, diplomatik diyalog kanallarını açık tutma çabalarının bir parçası olduğu ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7643748/pexels-photo-7643748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T08:21:34.999Z",
-        "location": {
-            "lat": 23.59,
-            "lng": 58.41,
-            "name": "Muscat, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-foreign-minister-arrives-in-oman-to-discuss-bilateral-regional-issues/3994803",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17837581164406qr97",
-        "title": "ABD Askeri Ekibi Ateşkes Desteği İçin Lübnan'ı Ziyaret Edecek",
-        "summary": "ABD askeri ekibi, ateşkesin uygulanmasına destek olmak amacıyla Lübnan'ı ziyaret edecek. Financial Times'ın haberine göre, ABD Merkez Kuvvetler Komutanlığı (CENTCOM) heyeti, Roma'da yapılacak teknik görüşmeler öncesinde Beyrut'a ulaşacak. Bu ziyaretin, bölgedeki güvenlik ve istikrarın sağlanması yönündeki uluslararası çabalara katkıda bulunması bekleniyor. Gelişme, Lübnan'daki mevcut durumu ve uluslararası aktörlerin bölgedeki rolünü bir kez daha gündeme getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T08:21:56.440Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-military-team-to-visit-lebanon-to-support-ceasefire-implementation/3994760",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17837581475648f6pu",
-        "title": "Suudi Veliaht Prensi ve ABD Başkanı İran Görüşmelerini Ele Aldı",
-        "summary": "Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile ABD Başkanı Donald Trump arasında bir görüşme gerçekleşti. Görüşmede, İran ile ilgili müzakereler ana gündem maddelerinden biri olarak ele alındı. Liderler ayrıca iki ülke arasındaki işbirliği alanlarını gözden geçirdi. Bölgesel ve uluslararası meseleler de ele alınan önemli konular arasında yer aldı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T08:22:27.564Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/americas/saudi-crown-prince-us-president-discuss-iran-talks/3994754",
         "trendScore": 85,
         "isBreaking": false
     }
