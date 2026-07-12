@@ -1,5 +1,53 @@
 [
     {
+        "id": "17838381458335iu3j",
+        "title": "Katar'ın Eski Emiri Şeyh Hamad bin Halife Al Sani 74 Yaşında Hayatını Kaybetti",
+        "summary": "Katar'dan gelen son dakika haberine göre, ülkenin eski Emiri Şeyh Hamad bin Halife Al Sani 74 yaşında vefat etti. Haber ajansları, vefat haberini \"son dakika\" gelişmesi olarak duyurdu ve tüm dünyaya geçti. Şeyh Hamad, Katar'ın modern tarihinde önemli bir figür olarak kabul ediliyordu ve ülkenin gelişiminde kilit rol oynamıştı. Vefat haberi, bölgede ve uluslararası camiada yankı uyandırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37726618/pexels-photo-37726618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T06:35:45.833Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1783838167518oe0yy",
+        "title": "ABD güçleri İran'a yeni saldırılar düzenledi; Tahran Hürmüz Boğazı'nı kapattı",
+        "summary": "ABD güçleri, bir hafta içinde İran'a yönelik üçüncü saldırı dalgasını başlattı. Bu saldırılar, bölgedeki gerilimi tırmandırıyor. Gelişmeler üzerine Tahran yönetimi, küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'nı kapattığını duyurdu. Boğazın kapatılması, uluslararası kamuoyunda endişelere yol açarken, bölgedeki güvenlik durumu daha da kritik bir hal aldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T06:36:07.518Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1783838243628gzalr",
+        "title": "Katar'ın eski Emiri Şeyh Hamad bin Halife Al Sani 74 yaşında hayatını kaybetti",
+        "summary": "Katar Emirlik Divanı'ndan yapılan açıklamaya göre, ülkenin eski Emiri Şeyh Hamad bin Halife Al Sani pazar sabahı vefat etti. Şeyh Hamad, 1995-2013 yılları arasında Katar'ı yönetmiş ve ülkenin modernleşmesinde önemli rol oynamıştı. 74 yaşında hayatını kaybeden eski Emir, Katar'ın uluslararası arenadaki konumunun güçlenmesine katkıda bulunmuştu. Vefat haberi, Katar'da ve bölgede geniş yankı uyandırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5416862/pexels-photo-5416862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-12T06:37:23.628Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatars-former-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/3995388",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1783827959718v54l5",
         "title": "BAE, İran Füze ve İHA'larını Engelledi; Katar ve Bahreyn Güvenlik Uyarısı Yaptı",
         "summary": "Birleşik Arap Emirlikleri (BAE), hava savunma sistemlerinin İran'dan gelen füze ve insansız hava araçlarını başarıyla engellediğini bildirdi. Bu gelişmenin ardından bölgedeki gerilim tırmanırken, Katar güvenlik tehdit seviyesini yükseltme kararı aldı. Bahreyn'de ise hava saldırısı sirenleri çalmaya başladı. Olay, Körfez bölgesinde İran ile BAE arasında doğrudan bir askeri gerilimi ve bölgesel güvenlik endişelerini açıkça ortaya koymaktadır.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/israel-shares-intelligence-with-us-on-alleged-iranian-plot-to-kill-trump-report/3993787",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "17836580985011tpgo",
-        "title": "Zelenskiy, Ukrayna'da Patriot Üretimi İçin Acil Çabalara Çağırıyor",
-        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinde Patriot hava savunma sistemlerinin üretimine başlanması için acil çabalar gösterilmesi çağrısında bulundu. Bu çağrı, ABD Başkanı Donald Trump'ın daha önce Ukrayna'nın bu füzeleri kendi topraklarında üretmesine onay vermesinin ardından geldi. Ukrayna'nın bu hamlesi, Rusya ile devam eden savaşta savunma kapasitesini artırmayı ve kritik askeri teçhizat tedarikinde dışa bağımlılığını azaltmayı amaçlıyor. ABD'nin bu onayı, küresel savunma sanayii tedarik zincirleri ve müttefikler arasındaki askeri işbirliğinin stratejik önemini bir kez daha gözler önüne seriyor. Bu gelişme, uluslararası güvenlik dinamikleri ve askeri teknoloji transferleri açısından da dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975873/pexels-photo-28975873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-10T04:34:58.501Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/10/zelenskyy-urges-urgent-efforts-in-ukraine-to-start-patriot-production?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783637438725yills",
-        "title": "Suriye, Şam'daki 'terör saldırılarının' arkasındaki hücrenin yakalandığını duyurdu",
-        "summary": "Suriye, başkent Şam'da meydana gelen 'terör saldırılarının' arkasındaki bir hücrenin yakalandığını bildirdi. Bu saldırılar, Fransız Cumhurbaşkanı Emmanuel Macron'un şehri ziyaret ettiği Salı günü Şam'ı sarsan patlamalarla gerçekleşmişti. Suriye makamları, olayla ilgili soruşturma başlatıldığını ve saldırılardan sorumlu olduğu belirtilen grubun gözaltına alındığını açıkladı. Olay, uluslararası bir liderin ziyareti sırasında yaşanması nedeniyle bölgesel ve uluslararası güvenlik gündeminde yer buldu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15656807/pexels-photo-15656807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T22:50:38.725Z",
-        "location": {
-            "lat": 33.513,
-            "lng": 36.291,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783631175671i2ao5",
-        "title": "Yeni Saldırıların Ardından Hürmüz Boğazı'nda Petrol, Gaz ve Kargo Gemisi Trafiğinde Büyük Düşüş",
-        "summary": "Veriler, bu hafta yaşanan saldırıların ardından ABD destekli Hürmüz Boğazı güzergahını kullanan gemi sayısında, özellikle petrol ve gaz taşıyanlarda, önemli bir düşüş yaşandığını gösteriyor. Küresel enerji tedariki için hayati önem taşıyan bu su yolu üzerindeki deniz trafiğinde gözle görülür bir azalma kaydedildi. Yaşanan olaylar, bölgedeki deniz güvenliğine ilişkin endişeleri artırırken, durumun uluslararası ticaret ve enerji piyasaları üzerinde potansiyel etkileri olabileceği belirtiliyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/16382982/pexels-photo-16382982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T21:06:15.671Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
