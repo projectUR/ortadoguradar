@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783814364729yxybq",
+        "title": "İran Devrim Muhafızları Donanması Hürmüz Boğazı'nın ikinci bir emre kadar kapatıldığını duyurdu",
+        "summary": "İran Devrim Muhafızları Donanması, Hürmüz Boğazı'nın ikinci bir emre kadar tüm gemi geçişlerine kapatıldığını bildirdi. Yapılan açıklamada, stratejik su yolundan hiçbir geminin geçişine izin verilmeyeceği belirtildi. Donanma, İran'ın yeni bir saldırıyla karşılaşması durumunda 'düşman' üslerine misilleme saldırıları düzenleneceği tehdidinde bulundu. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/259888/pexels-photo-259888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-11T23:59:24.729Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran/Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-navy-announces-closure-of-strait-of-hormuz-until-further-notice/3995307",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17838104460667c7s4",
         "title": "İran, Savaş Sırasında İHA Üretimini Üç Katına Çıkardı",
         "summary": "İran Savunma Bakan Vekili, ülkenin savaş döneminde insansız hava aracı (İHA) üretimini üç katına çıkardığını duyurdu. Bakan Vekili, ileri teknolojiye yapılan yatırımların İran'ın savunma kabiliyetlerini önemli ölçüde güçlendirdiğini ifade etti. Bu artışın, ülkenin ulusal güvenlik stratejileri doğrultusunda gerçekleştirildiği belirtildi. İran'ın bu hamlesi, bölgesel güç dengeleri ve uluslararası güvenlik çevreleri tarafından yakından izleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/inside-story/2026/7/9/will-nato-get-involved-in-securing-strait-of-hormuz?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17835965692247k6nn",
-        "title": "İran, suikaste uğrayan lider Hamaney'in defnine hazırlanıyor",
-        "summary": "İran, suikast sonucu hayatını kaybeden Yüksek Lider Ayetullah Ali Hamaney'in defni için hazırlıklarını sürdürüyor. Hamaney'in naaşı, ülkenin doğusundaki kutsal şehir Meşhed'deki memleketinde toprağa verilecek. Şii Müslümanlar için büyük öneme sahip olan Meşhed, aynı zamanda İmam Rıza Türbesi'ne ev sahipliği yapmaktadır. Ülke genelinde milyonlarca kişinin katıldığı geniş çaplı cenaze törenleri düzenlenmişti. Bu olay, ülkenin siyasi ve güvenlik ortamında önemli yankılar uyandırması beklenen bir dönüm noktası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3926749/pexels-photo-3926749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-09T11:29:29.224Z",
-        "location": {
-            "lat": 36.26,
-            "lng": 59.62,
-            "name": "Meşhed, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss",
-        "trendScore": 95,
         "isBreaking": false
     }
 ]
