@@ -1,5 +1,21 @@
 [
     {
+        "id": "1783972773415lg74p",
+        "title": "Birleşik Krallık, İran Devrim Muhafızları Ordusu'nu terör örgütü ilan etti",
+        "summary": "Birleşik Krallık hükümeti, İran Devrim Muhafızları Ordusu'nu (IRGC) yeni yetkiler kapsamında terör örgütü olarak tanımladı. Bu karar, Londra ile Tahran arasındaki diplomatik ilişkilerde gerilime yol açması bekleniyor. İran'ın hem iç hem de dış politikasında önemli bir rol oynayan IRGC'nin bu şekilde sınıflandırılması, Birleşik Krallık'ta örgüte üye olmayı veya desteklemeyi suç haline getiriyor. Kararın, IRGC'nin Birleşik Krallık topraklarındaki iddia edilen faaliyetleri ve İran'daki protestoları bastırmadaki rolü hakkındaki artan endişelerin ardından geldiği belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30911676/pexels-photo-30911676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T19:59:33.415Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783966624999j2hz1",
         "title": "Birleşik Krallık, İran Devrim Muhafızları Ordusu'nu 'Terör Tehdidi' Olarak Tanımlayacak",
         "summary": "Birleşik Krallık hükümeti, İran Devrim Muhafızları Ordusu'nu (IRGC) bir 'terör' tehdidi olarak listeleyeceğini duyurdu. Londra, bu kararı, İranlı grubun antisemitik saldırılar düzenlediği yönündeki suçlamaların ardından, devlet destekli vekil güçleri hedef alan yeni yetkilerini ilk kez kullanarak aldı. Bu adım, Birleşik Krallık ile İran arasındaki diplomatik ilişkilerde önemli bir gerilime yol açabilir. Karar, İran'ın uluslararası arenadaki konumunu ve vekil güçler aracılığıyla yürüttüğü faaliyetleri yeniden gündeme getiriyor.",
@@ -780,22 +796,6 @@
             "name": "Deyrizor, Suriye"
         },
         "source": "https://www.aa.com.tr/en/turkiye/turkiye-expresses-condolences-over-deadly-ferry-accident-in-syria/3995814",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783870542782wg2px",
-        "title": "Suriye Parlamentosu Yeni Başkanını Seçti",
-        "summary": "Suriye'nin yeni parlamentosu, Abdul Hamid el-Awak'ı meclis başkanı olarak seçti. Anadolu muhabirinin bildirdiğine göre, el-Awak sayılan 205 oydan 99'unu alarak bu göreve getirildi. Bu seçim, Suriye'nin iç siyasetindeki güncel gelişmeleri yansıtmaktadır ve ülkenin yasama organının yeni dönemdeki liderliğini belirlemiştir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15454945/pexels-photo-15454945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T15:35:42.782Z",
-        "location": {
-            "lat": 33.513,
-            "lng": 36.291,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrias-new-parliament-elects-abdul-hamid-al-awak-speaker/3995804",
         "trendScore": 80,
         "isBreaking": false
     }
