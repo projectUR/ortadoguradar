@@ -1,5 +1,53 @@
 [
     {
+        "id": "1783958683402wkxgr",
+        "title": "Irak Başbakanı, güvenlik ve ekonomi arasında denge arayışıyla ABD'ye gidiyor",
+        "summary": "Irak Başbakanı Ali el-Zaidi, ülkesinin güvenlik ve ekonomik çıkarları arasında denge kurma hedefiyle ABD'ye resmi bir ziyarette bulunuyor. Ziyaret kapsamında Başbakan Zaidi'nin ABD Başkanı Trump ile önemli görüşmeler yapması bekleniyor. Görüşmelerin ana gündem maddeleri arasında enerji yatırımları ve Irak'taki İran yanlısı grupların rolü yer alacak. Bu ziyaretin, Irak'ın bölgesel konumunu güçlendirme ve ekonomik kalkınmasını destekleme amacı taşıdığı belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T16:04:43.402Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783958708524snfhd",
+        "title": "Irak'ta Yolsuzluk Operasyonunda 375 Kilogram Altın Ele Geçirildi",
+        "summary": "Irak makamları, ülke genelinde yürütülen geniş çaplı yolsuzlukla mücadele operasyonları kapsamında önemli bir başarıya imza attı. Yüksek profilli bir davayla bağlantılı olduğu tespit edilen 375 kilogram altın ele geçirildi. Bu operasyonun, Irak'ta yolsuzlukla mücadele çabalarının kararlılıkla sürdürüldüğünü gösterdiği belirtildi. Ele geçirilen altının değeri ve ilgili kişiler hakkında detaylı soruşturmanın devam ettiği bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31679223/pexels-photo-31679223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T16:05:08.524Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/13/iraq-seizes-375kg-of-gold-in-sweeping-anti-corruption-crackdown?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783958777167ewuxj",
+        "title": "ABD ve İran Arasında Hürmüz Boğazı Gerilimi Tırmanırken Karşılıklı Saldırılar Yaşandı",
+        "summary": "ABD ve İran arasında Hürmüz Boğazı üzerindeki gerilimin artmasıyla karşılıklı saldırılar meydana geldi. İran, son ABD saldırılarının ardından Kuveyt, Ürdün, Bahreyn ve Umman'daki ABD askeri varlıklarını hedef aldığını duyurdu. Bu gelişmeler, iki ülke arasındaki tansiyonun bölgede tehlikeli bir seviyeye ulaştığını gösteriyor. Hürmüz Boğazı, küresel enerji ticareti için stratejik öneme sahip bir geçiş noktasıdır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T16:06:17.167Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Kuveyt, Ürdün, Bahreyn, Umman, Orta Doğu"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "17839492052115fusm",
         "title": "Merhum Şeyh Hamad bin Halife Al Sani'nin Kadın Reformlarındaki Mirası",
         "summary": "Katar'ın merhum Emiri Şeyh Hamad bin Halife Al Sani'nin 18 yıllık iktidarı, ülkede kadınların güçlendirilmesi yönünde önemli değişikliklere yol açmıştır. Bu dönemde kadınların eğitim, sağlık ve işgücüne katılımı gibi alanlarda kayda değer ilerlemeler kaydedilmiştir. Al Sani'nin liderliği, Katar toplumunda kadınların rolünün yeniden tanımlanmasına ve toplumsal hayatta daha aktif yer almalarına zemin hazırlamıştır. Yapılan reformlar, kadınların siyasi ve ekonomik hayattaki temsilini artırma hedefini taşımıştır. Bu miras, Katar'ın modernleşme sürecinde kadın hakları ve toplumsal cinsiyet eşitliği konularındaki adımlarının temelini oluşturmuştur.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/5-more-gazans-killed-by-israeli-fire-despite-ceasefire/3995737",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17838577527774hrl4",
-        "title": "İran Devrim Muhafızları Ordusu Misilleme Füze Saldırılarının Görüntülerini Yayımladı",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), gerçekleştirdiği misilleme amaçlı füze saldırılarına ait görüntüleri kamuoyuyla paylaştı. Yayımlanan videoda, Devrim Muhafızları'nın hedeflere yönelik hassas vuruşları ve operasyonel kapasitesi sergilendi. Bu adım, İran'ın bölgesel güvenlik tehditlerine karşı askeri yanıt verme kabiliyetini vurgulama amacı taşıyor. Görüntülerin, bölgedeki gerilimi artırabilecek nitelikte olduğu ve İran'ın caydırıcılık mesajı olarak yorumlandığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27292151/pexels-photo-27292151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T12:02:32.777Z",
-        "location": {
-            "lat": 32.4,
-            "lng": 53.7,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783857821343ldhjo",
-        "title": "Bahreyn, saldırıların ardından İran'ı 'sistematik saldırganlıkla' suçladı",
-        "summary": "Bahreyn, Pazar günü hava savunma sistemlerinin 'birkaç hain İran hava saldırısını' önlediğini ve imha ettiğini duyurdu. Manama yönetimi, bu saldırıların ardından İran'ı 'sistematik saldırganlıkla' suçlayarak bölgedeki gerilimi tırmandırdı. Bahreynli yetkililer, bu eylemleri ülkenin egemenliğine yönelik doğrudan bir ihlal olarak nitelendirdi. İran'dan henüz resmi bir açıklama gelmezken, iki ülke arasındaki ilişkilerde yeni bir gerilim dönemi başladı. Bu olay, Körfez bölgesindeki güvenlik endişelerini artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9862238/pexels-photo-9862238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T12:03:41.343Z",
-        "location": {
-            "lat": 26.2278,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-accuses-iran-of-systematic-aggression-after-attacks/3995681",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1783853663487cowpy",
-        "title": "Hamaney'in Cenazesinin Görkemi ve Sembolizmi",
-        "summary": "İran'ın dini lideri Ayetullah Ali Hamaney'in cenaze töreni, ülkenin iç dinamikleri ve dış algısı açısından önemli bir olay olarak değerlendirilmektedir. Haber, cenaze töreninin medya tarafından ele alınış biçiminin, İran hakkındaki yerleşik anlatıların sınırlarını nasıl ortaya koyduğunu incelemektedir. Bu durum, ülkenin siyasi ve toplumsal yapısına dair farklı yorumlara yol açmıştır. Törenin görkemi ve taşıdığı sembolik anlamlar, İran'ın geleceği ve bölgesel rolü üzerine tartışmaları beraberinde getirmiştir. Analiz, cenaze töreninin sadece bir veda değil, aynı zamanda İran'ın karmaşık gerçekliğini yansıtan bir ayna olduğunu vurgulamaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34351051/pexels-photo-34351051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T10:54:23.487Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/the-listening-post/2026/7/12/the-spectacle-and-symbolism-of-khameneis-funeral?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
