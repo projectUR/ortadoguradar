@@ -1,5 +1,213 @@
 [
     {
+        "id": "1783938765064j59c0",
+        "title": "Suriye'de Elektrik Tedarikinde İyileşme, Maliyetler Şikayet Konusu",
+        "summary": "Suriye'nin başkenti Şam'da elektrik tedarikinde son dönemde belirgin bir iyileşme kaydedildiği bildirildi. Şehir sakinleri, devlet tarafından sağlanan elektriğin kesinti sürelerinin azaldığını ve erişimin arttığını belirtiyor. Ancak bu olumlu gelişmeye rağmen, enerji maliyetlerinin yüksekliği vatandaşlar arasında önemli bir şikayet konusu olmaya devam ediyor. Elektrik faturalarının hane bütçeleri üzerindeki yükü, iyileşmenin getirdiği memnuniyeti gölgelemekte ve ülkedeki enerji altyapısının durumu ile maliyetlendirme politikaları hakkındaki tartışmaları sürdürmektedir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/216578/pexels-photo-216578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:32:45.064Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783938791714rqa6x",
+        "title": "Ukrayna'nın Rusya'ya Yönelik Saldırıları Sonrası Patlamalar ve Büyük Yangınlar",
+        "summary": "Ukrayna'nın Rusya topraklarına düzenlediği saldırıların ardından Rusya'da patlamalar ve büyük çaplı yangınlar meydana geldiği bildirildi. Saldırıların hedefi ve yol açtığı hasarın boyutu hakkında detaylı bilgi verilmezken, olayların bölgede gerilimi artırdığı belirtiliyor. Bu tür saldırılar, Rusya-Ukrayna savaşının cephe hattının ötesine taşındığını gösteriyor. Yaşanan gelişmeler, küresel enerji ve gıda piyasaları üzerindeki belirsizliği artırarak Orta Doğu dahil birçok bölgeyi dolaylı yoldan etkileme potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8079185/pexels-photo-8079185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:33:11.714Z",
+        "location": {
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "name": "Rusya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783938814889790tv",
+        "title": "İran'dan Körfez'e Yeni Saldırılar: ABD ile Gerilim Tırmanıyor",
+        "summary": "İran'ın Körfez komşularını hedef alan yeni saldırılar düzenlediği bildirildi. Bu eylemler, ABD ile bir hafta içinde yaşanan misilleme saldırılarının üçüncü turunu teşkil ediyor. Bölgedeki gerilimin tırmandığına işaret eden bu gelişmeler, Orta Doğu'da güvenlik endişelerini artırıyor. ABD'nin de bölgedeki askeri varlığını ve faaliyetlerini sürdürdüğü belirtiliyor. Durum, bölgesel istikrarsızlık riskini yükseltirken, uluslararası toplumun dikkatini çekmeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:33:34.889Z",
+        "location": {
+            "lat": 27,
+            "lng": 51,
+            "name": "Basra Körfezi, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1783938838402s2sp0",
+        "title": "ABD, İran ile Karşılıklı Saldırılar Yaşanırken Hürmüz Boğazı'nın Açık Olduğunda Israr Ediyor",
+        "summary": "Amerika Birleşik Devletleri, Hürmüz Boğazı'nın uluslararası deniz trafiğine açık olduğu konusunda ısrarını sürdürdü. Bu açıklama, İran güçlerinin daha önce boğazı kapattığını duyurması ve bölgedeki ABD müttefikleri ile üslerine yönelik geniş çaplı saldırılar düzenlemesinin ardından geldi. Washington, Tahran ile karşılıklı saldırıların yaşandığı bir dönemde stratejik su yolunun serbest geçiş için kritik önem taşıdığını belirtti. Bölgedeki gerilim, iki ülke arasındaki çatışmanın boyutunu gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:33:58.402Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1783938861452wl1f2",
+        "title": "Katar'ın Eski Emiri Şeyh Hamad bin Halife Al Sani 74 Yaşında Hayatını Kaybetti",
+        "summary": "Katar'ın eski Emiri Şeyh Hamad bin Halife Al Sani'nin 74 yaşında vefat ettiği bildirildi. Al Sani, 1996 yılında babasına karşı gerçekleştirdiği kansız bir darbe ile iktidara gelmişti. Görev süresi boyunca ülkesini önemli ölçüde dönüştürerek, günümüzdeki doğal gaz zengini ve bölgesel güç konumuna ulaşmasında kilit rol oynadı. Vefatı, Katar ve bölge siyasetinde önemli bir figürün kaybı olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/38192389/pexels-photo-38192389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:34:21.452Z",
+        "location": {
+            "lat": 25.3,
+            "lng": 51.5,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1783938883353qyov3",
+        "title": "ABD'li Demokrat Ro Khanna, silahlı İsrailli yerleşimciler tarafından alıkonulduğunu açıkladı",
+        "summary": "ABD'li Demokrat Temsilciler Meclisi üyesi Ro Khanna, işgal altındaki Batı Şeria'yı ziyareti sırasında silahlı İsrailli yerleşimciler tarafından alıkonulduğunu açıkladı. Khanna, 49 yaşında, yaklaşık 90 dakika boyunca tutulduğunu belirtti. Bu olay, İsrail-Filistin çatışmasının hassas bölgelerinden biri olan Batı Şeria'da yerleşimcilerin faaliyetleri ve bölgedeki güvenlik durumu hakkındaki endişeleri yeniden gündeme getirdi. ABD'li bir yetkilinin bu tür bir deneyim yaşaması, uluslararası kamuoyunda bölgedeki gerilimin boyutunu gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27855614/pexels-photo-27855614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:34:43.353Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178393891024865ywn",
+        "title": "ABD'li Yetkililer: İran, Hürmüz Boğazı'nda Gemilere Saldırıları Durdurma Sözü Vermeli",
+        "summary": "ABD'li yetkililer, İran'ın Hürmüz Boğazı'nda gemilere yönelik saldırıları durdurma taahhüdünde bulunması gerektiğini açıkladı. ABD medyasına yansıyan haberlere göre, İran bu hafta başında boğazdan geçen gemilere yapılan saldırının \"bir hata\" olduğunu ABD'li yetkililere iletti. Bu durum, bölgedeki deniz güvenliği endişelerini artırırken, uluslararası denizcilik rotalarının korunması çağrılarını beraberinde getirdi. Küresel petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı, stratejik konumu nedeniyle sık sık gerilimlere sahne oluyor. Olay, ABD ile İran arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12762765/pexels-photo-12762765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:35:10.248Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783938934835yxuxe",
+        "title": "ABD ve İran Arasında Karşılıklı Saldırılar: İran'da Can Kaybı",
+        "summary": "ABD ile İran arasında son dönemde karşılıklı saldırılar yaşandı. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), son operasyonlarda İran'a ait 90 hedefi vurduğunu duyurdu. İran Sağlık Bakanlığı'ndan yapılan açıklamaya göre ise Salı gününden bu yana devam eden bu saldırılarda 14 kişi hayatını kaybetti. Bu gelişmeler, iki ülke arasındaki gerilimin tırmandığını ve bölgedeki güvenlik durumunu olumsuz etkilediğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:35:34.835Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "178393896025592nwm",
+        "title": "İsrail saldırılarında 8 Gazalı daha hayatını kaybetti, ölü sayısı 73.200'ü aştı: Sağlık Bakanlığı",
+        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in son saldırılarında 8 Gazalı daha yaşamını yitirdi. Bu son kayıplarla birlikte, bölgedeki toplam ölü sayısı 73.200'ü geçtiği bildirildi. Bakanlık ayrıca, 10 Ekim 2025'teki ateşkesin ardından İsrail saldırılarında 1.108 kişinin öldüğünü ve 3.578 kişinin yaralandığını belirtti. Bu veriler, Gazze Şeridi'ndeki insani krizin ve çatışmaların devam ettiğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:36:00.255Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-8-more-gazans-death-toll-tops-73-200-health-ministry/3996321",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "178393898168365rd3",
+        "title": "İsrail Ordusu, Çerçeve Anlaşmaya Rağmen Güney Lübnan'da Evleri Yıktı ve Yaktı",
+        "summary": "Lübnan resmi haber ajansının bildirdiğine göre, İsrail güçleri, ABD destekli bir geri çekilme çerçeve anlaşması ve yürürlükteki ateşkese rağmen Güney Lübnan'daki operasyonlarını sürdürüyor. Bu operasyonlar kapsamında İsrail ordusunun bölgedeki evleri yıktığı ve yaktığı belirtildi. Yaşanan bu gelişmeler, mevcut anlaşmalara rağmen bölgedeki gerilimin devam ettiğini ve istikrarsızlığın sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:36:21.683Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-demolishes-burns-homes-in-southern-lebanon-despite-framework-deal/3996238",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17839390021402g5uf",
+        "title": "İran, ABD Taahhütlerini İhlal Ettiği Sürece Mutabakat Yükümlülüklerini Yerine Getirmeyeceğini Açıkladı",
+        "summary": "İran Dışişleri Bakanlığı sözcüsü, ülkesinin ABD'nin taahhütlerini ihlal etmeye devam etmesi halinde herhangi bir mutabakatın yükümlülüklerini yerine getirmeyeceğini duyurdu. Sözcü, anlaşmanın uygulanmasının \"taahhüde karşılık taahhüt\" ilkesine dayandığını ve bu durumun sürdürülebilirliğinin karşı tarafın adımlarına bağlı olduğunu belirtti. Yapılan açıklamada, ilgili anlaşmanın \"kriz aşamasına\" girdiği uyarısı yapılarak mevcut durumun ciddiyetine dikkat çekildi. Bu gelişme, özellikle nükleer anlaşma (JCPOA) bağlamında ABD ile İran arasındaki gerilimin ve karşılıklı yükümlülükler konusundaki anlaşmazlığın devam ettiğini gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5505451/pexels-photo-5505451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:36:42.140Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-won-t-honor-memorandum-obligations-as-long-as-us-breaches-commitments/3996234",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783939026224hapva",
+        "title": "Kudüs Yakınlarında İsrail Güçleri Tarafından Bir Filistinli Öldürüldü",
+        "summary": "Kızılay'dan yapılan açıklamaya göre, İsrail güçleri Kudüs yakınlarında genç bir Filistinliyi öldürdü. Yerel kaynaklar, İsrail güçlerinin Kudüs'ün kuzeybatısındaki ayrım duvarı yakınlarında 19 yaşındaki bir genci vurarak öldürdüğünü bildirdi. Olayın detaylarına ilişkin henüz ek bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17314914/pexels-photo-17314914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:37:06.224Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-kill-young-palestinian-near-jerusalem-red-crescent/3996171",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783939050043g8vzd",
+        "title": "İran, Bahreyn ve Umman'daki ABD Askeri Tesislerini Vurduğunu İddia Etti",
+        "summary": "İran, Bahreyn'deki ABD askeri tesislerini ve Umman'daki radar sistemlerini hedef aldığını öne sürdü. İran Devrim Muhafızları Ordusu'ndan yapılan açıklamada, ABD'nin bölgedeki askeri müdahalesine son vermemesi halinde Hürmüz Boğazı'nın kapalı kalacağı uyarısında bulunuldu. Bu iddia ve uyarı, Orta Doğu'da ABD ile İran arasındaki gerilimin tırmandığını gösteriyor. Açıklama, uluslararası denizcilik ve enerji güvenliği açısından kritik öneme sahip Hürmüz Boğazı'nın geleceği hakkında endişeleri artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T10:37:30.043Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-struck-us-military-facilities-in-bahrain-radar-systems-in-oman/3996097",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1783925860523ll7m1",
         "title": "İran, Bahreyn, Kuveyt ve Ürdün'deki ABD Askeri Üslerini Hedef Aldı",
         "summary": "İran'ın, Körfez ülkelerinde bulunan ABD askeri üslerine yönelik saldırılar düzenlediği bildirildi. Bahreyn, Kuveyt ve Ürdün'deki ABD askeri varlıklarının bu saldırıların hedefi olduğu belirtildi. Bu gelişmeler, Orta Doğu'daki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor. Uluslararası kamuoyu, bölgedeki güvenlik durumunu yakından takip ediyor ve olası sonuçları değerlendiriyor.",
@@ -590,213 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/uae-says-sunday-s-missile-threats-were-outside-countrys-borders/3995589",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783853868460hnp5m",
-        "title": "Katar, ABD-İran Gerilimi Nedeniyle Tüm Denizcilik Faaliyetlerini Askıya Aldı",
-        "summary": "Katar Ulaştırma Bakanlığı, ABD ile İran arasındaki gerilimin tırmanması üzerine ülkedeki tüm denizcilik faaliyetlerini geçici olarak durdurduğunu açıkladı. Bakanlık, deniz taşımacılığı da dahil olmak üzere her türlü denizcilik aktivitesinin ikinci bir duyuruya kadar askıya alındığını bildirdi. Bu karar, Basra Körfezi'ndeki artan güvenlik endişeleri ve bölgesel istikrarsızlık bağlamında alındı. Uygulamanın, bölgedeki deniz trafiği ve ticaret üzerinde etkili olması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18801042/pexels-photo-18801042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T10:57:48.460Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-temporarily-suspends-all-maritime-activities-amid-us-iran-escalation/3995626",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1783847076224d3lg8",
-        "title": "ABD CENTCOM, İran'a Yönelik Üçüncü Saldırı Turunu Tamamladı",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik üçüncü saldırı turunu tamamladığını duyurdu. Bu gelişme, bölgedeki gerilimin devam ettiğini ve askeri faaliyetlerin sürdüğünü gösteriyor. CENTCOM'un sorumluluk alanı Orta Doğu'yu kapsadığından, bu saldırılar bölgesel güvenlik dinamikleri açısından önem taşıyor. İran'a yönelik bu tür askeri eylemler, uluslararası ilişkilerde ve bölgesel istikrarda yankı uyandırıyor. Olayın detaylarına ilişkin ek bilgi verilmezken, durum yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12584013/pexels-photo-12584013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:04:36.224Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783847098283hgswx",
-        "title": "ABD'nin İran'a yönelik saldırılarının ardından Körfez ülkelerine füze ve insansız hava aracı saldırıları düzenlendi",
-        "summary": "ABD'nin İran'a yönelik gerçekleştirdiği hava saldırılarının ardından, Körfez ülkelerine füze ve insansız hava aracı saldırıları düzenlendiği bildirildi. Katar'da düşen şarapnel parçaları nedeniyle üç kişinin yaralandığı açıklandı. Saldırıların Birleşik Arap Emirlikleri, Kuveyt, Bahreyn, Umman ve Ürdün'de de rapor edildiği belirtildi. Bu gelişmeler, bölgedeki gerilimin tırmandığını ve güvenlik endişelerini artırdığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15296866/pexels-photo-15296866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:04:58.283Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1783847139274rfjz7",
-        "title": "İran Devrim Muhafızları'ndan ABD'ye 'Ezici Yanıt' Tehdidi",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Amerika Birleşik Devletleri'nin (ABD) gelecekteki olası saldırılarına karşı sert bir yanıt vereceğini duyurdu. IRGC, ABD'nin herhangi bir yeni müdahalesine 'ezici bir karşılık' verileceği uyarısında bulundu. Bu açıklama, bölgedeki gerilimin tırmanabileceğine işaret ediyor. İranlı yetkililer, ulusal güvenliklerini tehdit eden her türlü eyleme karşı kararlı duruşlarını yineledi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:05:39.274Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17838471638130wzqz",
-        "title": "Hürmüz Boğazı'nda Saldırılar Sonrası Gemi Trafiğinde Büyük Düşüş",
-        "summary": "Hürmüz Boğazı'nda son dönemde yaşanan saldırıların ardından, ABD destekli güzergahı kullanan petrol, gaz ve kargo gemilerinin sayısında önemli bir düşüş yaşandığı bildirildi. Elde edilen veriler, bu hafta meydana gelen saldırıların ardından küresel enerji tedariki için kritik öneme sahip olan su yolundan geçen gemi trafiğinde belirgin bir azalma olduğunu gösteriyor. Özellikle petrol ve gaz taşıyan gemilerin geçişlerindeki düşüş dikkat çekiyor. Bölgedeki güvenlik endişelerini artıran bu gelişmelerin, uluslararası denizcilik ve enerji piyasaları üzerinde potansiyel etkileri olabileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16382982/pexels-photo-16382982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:06:03.813Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1783847190297tf6d6",
-        "title": "Kuveyt, İran saldırılarını 'tehlikeli tırmanış' ve egemenliğin 'ağır ihlali' olarak kınadı",
-        "summary": "Kuveyt, İran tarafından gerçekleştirilen saldırıları 'tehlikeli bir tırmanış' ve egemenliğinin 'ağır bir ihlali' olarak nitelendirerek sert bir dille kınadığını duyurdu. Kuveyt Dışişleri Bakanlığı'ndan yapılan açıklamada, ülkenin kendi güvenliğini korumak için 'her türlü önlemi alma' hakkını saklı tuttuğu belirtildi. Bu açıklama, bölgesel güvenlik endişelerini artırırken, iki Orta Doğu ülkesi arasındaki ilişkilerde gerilimin yükseldiğine işaret ediyor. Kuveyt, uluslararası hukuka uygun olarak egemenlik haklarını savunma kararlılığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36095552/pexels-photo-36095552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:06:30.297Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/kuwait-condemns-iranian-attacks-as-dangerous-escalation-grave-violation-of-sovereignty/3995561",
-        "trendScore": 80,
-        "isBreaking": true
-    },
-    {
-        "id": "1783847217635s6403",
-        "title": "PROFİL - Merhum Emir Hamad bin Halife Al Sani: Katar'ın Dönüşümüne Öncülük Eden Tarihi Yolculuk",
-        "summary": "Merhum Emir Hamad bin Halife Al Sani'nin hayatına ve icraatlarına odaklanan bir profil haberi yayımlandı. Haberde, Al Sani'nin 1995-2013 yılları arasında süren 18 yıllık iktidarı döneminde modern Katar'ın temellerini attığı belirtiliyor. Resmi kaynaklara göre, bu süreçte ülkesinde kapsamlı ekonomik ve sosyal reformlara öncülük etti. Bu dönem, Katar'ın dönüşümüne liderlik eden tarihi bir yolculuk olarak tanımlanmaktadır.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/31732873/pexels-photo-31732873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:06:57.635Z",
-        "location": {
-            "lat": 25.3,
-            "lng": 51.5,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/profile-late-emir-hamad-bin-khalifa-al-thani-historic-journey-that-led-qatars-transformation/3995504",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783847240840hg7ld",
-        "title": "ABD'nin İran'daki İletişim Kulesi ve Askeri Tesisleri Vurduğu Bildirildi",
-        "summary": "ABD'nin İran'da iletişim kulesi ve askeri tesisleri hedef aldığı bildirildi. İranlı yetkililer, ülkenin Kerman ve Lorestan eyaletlerinde saldırıların gerçekleştiğini doğruladı. Washington'ın yeni bir saldırı dalgası başlattığı belirtilirken, saldırıların detayları hakkında henüz tam bilgi verilmedi. Bu gelişme, ABD ile İran arasındaki gerilimi daha da tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8091794/pexels-photo-8091794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:07:20.840Z",
-        "location": {
-            "lat": 33,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-strikes-hit-communication-tower-military-sites-in-iran-officials-say/3995490",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1783847260843msvs9",
-        "title": "Dronlar Umman'ın Musandam Valiliği'ndeki Tesisleri Vurdu",
-        "summary": "Umman'ın Musandam Valiliği'nde insansız hava araçları (dronlar) tarafından tesislerin vurulduğu bildirildi. Umman devlet haber ajansı ONA, bir güvenlik kaynağına dayandırdığı haberinde, Muskat yönetiminin durumu ele almak ve ülkenin güvenliğini sağlamak için gerekli tüm önlemleri aldığını duyurdu. Saldırının detayları veya hedef alınan tesislerin niteliği hakkında henüz ek bilgi verilmedi. Bu olay, bölgedeki güvenlik dinamikleri ve potansiyel gerilimler açısından yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:07:40.843Z",
-        "location": {
-            "lat": 26,
-            "lng": 56,
-            "name": "Musandam Valiliği, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drones-hit-sites-in-oman-s-musandam-governorate/3995462",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1783847282019wx5f5",
-        "title": "Ürdün: Topraklarımıza Üç İran Füzesi Düştü, Can Kaybı Yok",
-        "summary": "Ürdün, topraklarına üç İran füzesinin düştüğünü duyurdu. Ürdün devlet haber ajansının aktardığı bilgilere göre, olayda herhangi bir can kaybı yaşanmadı. Düşen füzelerin yol açtığı hasarın yalnızca küçük çaplı maddi kayıplarla sınırlı kaldığı belirtildi. Bu olay, bölgedeki güvenlik dinamikleri ve ülkeler arası ilişkiler açısından dikkat çekici bir gelişme olarak kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13359076/pexels-photo-13359076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T09:08:02.019Z",
-        "location": {
-            "lat": 32,
-            "lng": 36,
-            "name": "Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-says-3-iranian-missiles-fell-on-its-territory-no-casualties/3995460",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17838381458335iu3j",
-        "title": "Katar'ın Eski Emiri Şeyh Hamad bin Halife Al Sani 74 Yaşında Hayatını Kaybetti",
-        "summary": "Katar'dan gelen son dakika haberine göre, ülkenin eski Emiri Şeyh Hamad bin Halife Al Sani 74 yaşında vefat etti. Haber ajansları, vefat haberini \"son dakika\" gelişmesi olarak duyurdu ve tüm dünyaya geçti. Şeyh Hamad, Katar'ın modern tarihinde önemli bir figür olarak kabul ediliyordu ve ülkenin gelişiminde kilit rol oynamıştı. Vefat haberi, bölgede ve uluslararası camiada yankı uyandırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/37726618/pexels-photo-37726618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T06:35:45.833Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1783838167518oe0yy",
-        "title": "ABD güçleri İran'a yeni saldırılar düzenledi; Tahran Hürmüz Boğazı'nı kapattı",
-        "summary": "ABD güçleri, bir hafta içinde İran'a yönelik üçüncü saldırı dalgasını başlattı. Bu saldırılar, bölgedeki gerilimi tırmandırıyor. Gelişmeler üzerine Tahran yönetimi, küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'nı kapattığını duyurdu. Boğazın kapatılması, uluslararası kamuoyunda endişelere yol açarken, bölgedeki güvenlik durumu daha da kritik bir hal aldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T06:36:07.518Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1783838243628gzalr",
-        "title": "Katar'ın eski Emiri Şeyh Hamad bin Halife Al Sani 74 yaşında hayatını kaybetti",
-        "summary": "Katar Emirlik Divanı'ndan yapılan açıklamaya göre, ülkenin eski Emiri Şeyh Hamad bin Halife Al Sani pazar sabahı vefat etti. Şeyh Hamad, 1995-2013 yılları arasında Katar'ı yönetmiş ve ülkenin modernleşmesinde önemli rol oynamıştı. 74 yaşında hayatını kaybeden eski Emir, Katar'ın uluslararası arenadaki konumunun güçlenmesine katkıda bulunmuştu. Vefat haberi, Katar'da ve bölgede geniş yankı uyandırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5416862/pexels-photo-5416862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T06:37:23.628Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatars-former-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/3995388",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
