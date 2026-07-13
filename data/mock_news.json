@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783914444451j1j0z",
+        "title": "ABD ve İran'ın Hürmüz Boğazı gerilimi petrol fiyatlarını yükseltti",
+        "summary": "Uluslararası piyasalarda petrol fiyatları, ABD ile İran arasında Hürmüz Boğazı üzerindeki gerilimin artmasıyla önemli bir yükseliş kaydetti. Brent ham petrolün varil fiyatı yüzde 4'ten fazla artış gösterdi. Washington ve Tahran'ın bu kritik su yolunun kontrolü konusunda karşılıklı açıklamaları ve eylemleri piyasalarda endişeye neden oldu. Hürmüz Boğazı, küresel petrol ticaretinin önemli bir geçiş noktası olması nedeniyle bölgedeki her türlü gerilim dünya ekonomisini doğrudan etkiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T03:47:24.451Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1783914465444adhnk",
+        "title": "İsrail, Lübnan'daki Beaufort Kalesi Altındaki Gizli Tünellerin Görüntülerini Yayımladı",
+        "summary": "İsrail ordusu, Lübnan'ın tarihi Beaufort Kalesi'nin altında gizli tüneller bulunduğunu iddia ettiği görüntüleri kamuoyuyla paylaştı. Yayımlanan videoda, kalenin altındaki yapıların detayları gösteriliyor. İsrail makamları, bu tünellerin stratejik öneme sahip olduğunu ve güvenlik endişeleri taşıdığını belirtiyor. Lübnan tarafından konuya ilişkin henüz resmi bir açıklama yapılmadı. Bu gelişme, bölgedeki güvenlik dinamikleri açısından dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10016029/pexels-photo-10016029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T03:47:45.444Z",
+        "location": {
+            "lat": 33.4,
+            "lng": 35.4,
+            "name": "Beaufort Kalesi, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783900726491lpyve",
         "title": "İsrail'in Gazze'ye Yönelik Saldırıları Can Kaybına Yol Açtı",
         "summary": "İsrail ordusu, Gazze Şeridi genelinde çeşitli noktalara hava saldırıları düzenledi. Bu saldırıların can kaybına yol açtığı bildirildi. Bölgedeki durumun yakından takip edildiği ve gerilimin tırmandığı belirtildi.",
@@ -764,38 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-targets-more-than-500-acres-in-occupied-west-bank-with-military-orders/3995336",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783814364729yxybq",
-        "title": "İran Devrim Muhafızları Donanması Hürmüz Boğazı'nın ikinci bir emre kadar kapatıldığını duyurdu",
-        "summary": "İran Devrim Muhafızları Donanması, Hürmüz Boğazı'nın ikinci bir emre kadar tüm gemi geçişlerine kapatıldığını bildirdi. Yapılan açıklamada, stratejik su yolundan hiçbir geminin geçişine izin verilmeyeceği belirtildi. Donanma, İran'ın yeni bir saldırıyla karşılaşması durumunda 'düşman' üslerine misilleme saldırıları düzenleneceği tehdidinde bulundu. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/259888/pexels-photo-259888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T23:59:24.729Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran/Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-navy-announces-closure-of-strait-of-hormuz-until-further-notice/3995307",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17838104460667c7s4",
-        "title": "İran, Savaş Sırasında İHA Üretimini Üç Katına Çıkardı",
-        "summary": "İran Savunma Bakan Vekili, ülkenin savaş döneminde insansız hava aracı (İHA) üretimini üç katına çıkardığını duyurdu. Bakan Vekili, ileri teknolojiye yapılan yatırımların İran'ın savunma kabiliyetlerini önemli ölçüde güçlendirdiğini ifade etti. Bu artışın, ülkenin ulusal güvenlik stratejileri doğrultusunda gerçekleştirildiği belirtildi. İran'ın bu hamlesi, bölgesel güç dengeleri ve uluslararası güvenlik çevreleri tarafından yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34182367/pexels-photo-34182367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-11T22:54:06.066Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-tripled-drone-production-during-war-defense-official/3995300",
         "trendScore": 85,
         "isBreaking": false
     }
