@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783925860523ll7m1",
+        "title": "İran, Bahreyn, Kuveyt ve Ürdün'deki ABD Askeri Üslerini Hedef Aldı",
+        "summary": "İran'ın, Körfez ülkelerinde bulunan ABD askeri üslerine yönelik saldırılar düzenlediği bildirildi. Bahreyn, Kuveyt ve Ürdün'deki ABD askeri varlıklarının bu saldırıların hedefi olduğu belirtildi. Bu gelişmeler, Orta Doğu'daki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor. Uluslararası kamuoyu, bölgedeki güvenlik durumunu yakından takip ediyor ve olası sonuçları değerlendiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18903556/pexels-photo-18903556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T06:57:40.523Z",
+        "location": {
+            "lat": 28.7,
+            "lng": 44.6,
+            "name": "Bahreyn, Kuveyt, Ürdün"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17839259760348dxs7",
+        "title": "İran, Bahreyn'deki Şeyh İsa Hava Üssü'ne Saldırı Düzenlediğini İddia Etti",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Bahreyn'de bulunan Şeyh İsa Hava Üssü'ne yönelik bir saldırı gerçekleştirdiğini duyurdu. IRGC'den yapılan açıklamada, bu eylemin ABD'nin bölgedeki devam eden askeri faaliyetlerine bir misilleme olarak düzenlendiği belirtildi. Hedef alınan noktalar arasında helikopter tesisleri, bir P-8 uçağı hangarı ve bir ABD insansız hava aracı (İHA) komuta merkezinin bulunduğu ifade edildi. Bu iddia, Orta Doğu'daki gerilimi tırmandırma potansiyeli taşırken, ABD'nin bölgedeki askeri varlığına yönelik bir meydan okuma olarak yorumlanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7429779/pexels-photo-7429779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T06:59:36.034Z",
+        "location": {
+            "lat": 26.06,
+            "lng": 50.59,
+            "name": "Isa Town, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-claims-strike-on-bahrains-sheikh-isa-air-base/3996029",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1783914444451j1j0z",
         "title": "ABD ve İran'ın Hürmüz Boğazı gerilimi petrol fiyatlarını yükseltti",
         "summary": "Uluslararası piyasalarda petrol fiyatları, ABD ile İran arasında Hürmüz Boğazı üzerindeki gerilimin artmasıyla önemli bir yükseliş kaydetti. Brent ham petrolün varil fiyatı yüzde 4'ten fazla artış gösterdi. Washington ve Tahran'ın bu kritik su yolunun kontrolü konusunda karşılıklı açıklamaları ve eylemleri piyasalarda endişeye neden oldu. Hürmüz Boğazı, küresel petrol ticaretinin önemli bir geçiş noktası olması nedeniyle bölgedeki her türlü gerilim dünya ekonomisini doğrudan etkiliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/qatars-former-emir-sheikh-hamad-bin-khalifa-al-thani-dies-at-74/3995388",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1783827959718v54l5",
-        "title": "BAE, İran Füze ve İHA'larını Engelledi; Katar ve Bahreyn Güvenlik Uyarısı Yaptı",
-        "summary": "Birleşik Arap Emirlikleri (BAE), hava savunma sistemlerinin İran'dan gelen füze ve insansız hava araçlarını başarıyla engellediğini bildirdi. Bu gelişmenin ardından bölgedeki gerilim tırmanırken, Katar güvenlik tehdit seviyesini yükseltme kararı aldı. Bahreyn'de ise hava saldırısı sirenleri çalmaya başladı. Olay, Körfez bölgesinde İran ile BAE arasında doğrudan bir askeri gerilimi ve bölgesel güvenlik endişelerini açıkça ortaya koymaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T03:45:59.718Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dhabi, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-intercepts-iranian-missiles-drones-as-qatar-bahrain-issue-shelter-warnings/3995338",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783827982379zieus",
-        "title": "İsrail, İşgal Altındaki Batı Şeria'da 500 Dönümden Fazla Araziyi Askeri Emirlerle Hedef Aldı",
-        "summary": "İsrail'in, işgal altındaki Batı Şeria'da 500 dönümden fazla araziyi askeri emirlerle hedef aldığı bildirildi. Filistinli bir komisyon tarafından yapılan açıklamaya göre, Ocak ayından bu yana çıkarılan 49 askeri emir, özel mülkiyete ait arazilerin kullanımına yönelik geniş kısıtlamalar getiriyor. Bu kararların, bölgedeki Filistinlilerin toprak üzerindeki haklarını daha da kısıtlaması bekleniyor. Söz konusu adımlar, İsrail'in Batı Şeria'daki yerleşim politikaları ve bölgedeki Filistin varlığı üzerindeki baskısını artırma çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5965203/pexels-photo-5965203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T03:46:22.379Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-targets-more-than-500-acres-in-occupied-west-bank-with-military-orders/3995336",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
