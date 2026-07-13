@@ -1,5 +1,37 @@
 [
     {
+        "id": "1783976855640lfj8f",
+        "title": "ABD, İran Gemi Tesisine İnsansız Yüzey Araçlarıyla Saldırı Düzenledi",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a ait bir gemi tesisine insansız yüzey araçlarıyla düzenlenen bir saldırıya ait olduğu iddia edilen bir video yayınladı. Yayınlanan görüntülerde, üç adet Corsair insansız yüzey aracının İran'a ait tesisi hedef aldığı görülüyor. Bu olayın, türünün ilk örneği olan bir saldırı olduğu belirtiliyor. Saldırının detayları ve İran tarafından henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18903556/pexels-photo-18903556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T21:07:35.640Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17839769081472brre",
+        "title": "Sanatçı, İsrail'in Gazze'de Öldürdüğü Çocukların İsimlerini Elbiseye İşledi",
+        "summary": "Gallerli sanatçı Diana Williams, İsrail'in Gazze'ye yönelik saldırılarında hayatını kaybeden çocukları anmak amacıyla anlamlı bir çalışma gerçekleştirdi. Sanatçı, Gazze'deki çatışmalarda öldürüldüğü belirtilen 300 bebeğin ismini özenle özel bir elbiseye işledi. Bu sanat eseri, bölgedeki insani krize ve özellikle çocuk ölümlerine dikkat çekmeyi hedefliyor. Williams'ın bu eylemi, Gazze'deki olaylara karşı bir protesto ve uluslararası toplumda farkındalık yaratma çabası olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/37239350/pexels-photo-37239350.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-13T21:08:28.147Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1783972773415lg74p",
         "title": "Birleşik Krallık, İran Devrim Muhafızları Ordusu'nu terör örgütü ilan etti",
         "summary": "Birleşik Krallık hükümeti, İran Devrim Muhafızları Ordusu'nu (IRGC) yeni yetkiler kapsamında terör örgütü olarak tanımladı. Bu karar, Londra ile Tahran arasındaki diplomatik ilişkilerde gerilime yol açması bekleniyor. İran'ın hem iç hem de dış politikasında önemli bir rol oynayan IRGC'nin bu şekilde sınıflandırılması, Birleşik Krallık'ta örgüte üye olmayı veya desteklemeyi suç haline getiriyor. Kararın, IRGC'nin Birleşik Krallık topraklarındaki iddia edilen faaliyetleri ve İran'daki protestoları bastırmadaki rolü hakkındaki artan endişelerin ardından geldiği belirtildi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1783870495092f2397",
-        "title": "Umutsuzluğun İttiği Yemenliler Tehlikeli Enerji Alternatiflerine Yöneliyor",
-        "summary": "Yemen'de devam eden enerji krizi, halkı elektrik erişimi için tehlikeli alternatiflere yöneltmektedir. Ülke genelinde yaşanan elektrik kesintileri ve yakıt kıtlığı, Yemenlileri umutsuzluğa sürüklemektedir. Güneş enerjisi sistemleri, bu krizde önemli bir çözüm sunsa da, kurulum ve kullanım süreçlerinde bazı gizli tehlikeler barındırmaktadır. Bu durum, Yemen halkının temel enerji ihtiyaçlarını karşılarken karşılaştığı zorlukları ve riskleri gözler önüne sermektedir.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/25751713/pexels-photo-25751713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T15:34:55.092Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1783870522710k61uk",
-        "title": "Türkiye, Suriye'deki ölümcül feribot kazası nedeniyle taziye dileklerini iletti",
-        "summary": "Türkiye, Suriye'nin doğusundaki Deyrizor kentinde Fırat Nehri üzerinde meydana gelen ve çok sayıda kişinin hayatını kaybettiği feribot kazası nedeniyle taziye mesajı yayımladı. Ankara'dan yapılan açıklamada, kazada yaşamını yitirenler için derin üzüntü duyulduğu belirtildi. Türkiye'nin, bölgedeki arama kurtarma çalışmalarına destek vermeye hazır olduğu ve insani yardımlara katkıda bulunacağı ifade edildi. Bu trajik olayın ardından Suriye halkına başsağlığı dilendi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8130575/pexels-photo-8130575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T15:35:22.710Z",
-        "location": {
-            "lat": 35.33,
-            "lng": 40.15,
-            "name": "Deyrizor, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkiye-expresses-condolences-over-deadly-ferry-accident-in-syria/3995814",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
