@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784069922083s26pi",
+        "title": "Faslı Rapçi Mehdi El Youbi Kazablanka'da Tutuklandı",
+        "summary": "Faslı rapçi Mehdi El Youbi, Kazablanka'da gözaltına alındı. El Youbi, sosyal medyada yaptığı eleştirel paylaşımlarla tanınıyor ve bu tutuklama, ülkede ifade özgürlüğü üzerindeki endişeleri yeniden gündeme getirdi. Aktivistler, Fas makamlarının eleştirel seslere ve Z kuşağı protesto hareketine yönelik baskıyı yoğunlaştırdığını iddia ediyor. Bu durum, insan hakları örgütleri tarafından yakından takip ediliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7785092/pexels-photo-7785092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T22:58:42.083Z",
+        "location": {
+            "lat": 33.57,
+            "lng": -7.59,
+            "name": "Kazablanka, Fas"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1784064722916e1ipp",
         "title": "İran, Bahreyn'deki ABD Deniz Üssünü Hedef Aldı; Sirenler Çaldı",
         "summary": "İran devlet medyası tarafından yapılan açıklamalara göre, Tahran Bahreyn'in başkentinde bulunan bir ABD deniz destek üssünü hedef aldı. Bu saldırının füze ve insansız hava araçlarıyla gerçekleştirildiği belirtildi. Olayın ardından Bahreyn genelinde sirenlerin çaldığı bildirildi. İran'ın bu eylemi, bölgedeki gerilimi artırabilecek önemli bir gelişme olarak değerlendiriliyor. Hedef alınan üs, ABD'nin Orta Doğu'daki askeri varlığının kritik noktalarından biri konumunda.",
@@ -780,22 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aljazeera.com/features/2026/7/13/its-expensive-syrias-electricity-has-improved-but-challenges-remain?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783938791714rqa6x",
-        "title": "Ukrayna'nın Rusya'ya Yönelik Saldırıları Sonrası Patlamalar ve Büyük Yangınlar",
-        "summary": "Ukrayna'nın Rusya topraklarına düzenlediği saldırıların ardından Rusya'da patlamalar ve büyük çaplı yangınlar meydana geldiği bildirildi. Saldırıların hedefi ve yol açtığı hasarın boyutu hakkında detaylı bilgi verilmezken, olayların bölgede gerilimi artırdığı belirtiliyor. Bu tür saldırılar, Rusya-Ukrayna savaşının cephe hattının ötesine taşındığını gösteriyor. Yaşanan gelişmeler, küresel enerji ve gıda piyasaları üzerindeki belirsizliği artırarak Orta Doğu dahil birçok bölgeyi dolaylı yoldan etkileme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8079185/pexels-photo-8079185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T10:33:11.714Z",
-        "location": {
-            "lat": 55.7558,
-            "lng": 37.6173,
-            "name": "Rusya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
