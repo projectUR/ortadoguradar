@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784001563666b9s6r",
+        "title": "ABD-İran Gerilimi Hürmüz Boğazı Görünümünü Belirsizleştirirken Petrol 1 Ayın Zirvesine Çıktı",
+        "summary": "Petrol fiyatları, ABD ile İran arasındaki gerilimin yeniden tırmanmasıyla son bir ayın en yüksek seviyesine ulaştı. Brent ham petrolün varil fiyatı 85 dolara yaklaşırken, piyasalarda endişe hakim oldu. Washington ve Tahran arasındaki düşmanca tutumların artması, küresel enerji arzı için kritik öneme sahip Hürmüz Boğazı'nın geleceğine ilişkin belirsizliği artırdı. Bu durum, petrol piyasalarında yukarı yönlü bir baskı oluşturdu ve küresel enerji güvenliği endişelerini beraberinde getirdi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/433626/pexels-photo-433626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T03:59:23.666Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17839905194084e8pd",
         "title": "ABD'den İran'a Yeni Saldırılar: İran Medyası Patlamalar Bildirdi, BAE Tanker Saldırısında Can Kaybı Açıkladı",
         "summary": "ABD'nin İran'a yönelik saldırıları devam ederken, İran medyası Kiş, Keşm ve Bender Abbas bölgelerinde patlamalar yaşandığını duyurdu. Bu gelişmeler, bölgedeki gerilimin tırmandığına işaret ediyor. Birleşik Arap Emirlikleri (BAE) ise bir tanker saldırısında bir kişinin hayatını kaybettiğini açıkladı. Söz konusu saldırıların ve patlamaların detayları henüz netleşmezken, bölgedeki güvenlik durumu yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/un-chief-urges-halt-to-gulf-attacks-immediate-return-to-diplomacy/3995905",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17838756822248w1kd",
-        "title": "Şeyh Hamad Körfez Bölgesinde Sevgiyle Anılacak",
-        "summary": "Körfez bölgesinde önemli bir şahsiyet olan Şeyh Hamad'ın, bölge genelinde sevgiyle anılacağı belirtildi. Haberde, Şeyh Hamad'ın kimliği, vefat nedeni veya anılma gerekçeleri hakkında detaylı bilgiye yer verilmedi. Ancak bu ifadenin, bölgedeki liderlerin veya etkili kişilerin mirasına yönelik bir değerlendirme olduğu düşünülüyor. Bu tür açıklamalar genellikle vefat eden devlet adamları veya kraliyet üyeleri için yapılır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/3861811/pexels-photo-3861811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-12T17:01:22.224Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss",
-        "trendScore": 65,
         "isBreaking": false
     }
 ]
