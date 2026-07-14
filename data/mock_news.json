@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784049790429j1yok",
+        "title": "ABD'de Tüketici Fiyatları Haziran Ayında Enerji Maliyetlerinin Düşmesiyle Geriledi",
+        "summary": "ABD'de tüketici fiyatları Haziran ayında enerji maliyetlerindeki düşüşün etkisiyle gerileme kaydetti. Ülkede enflasyon, özellikle enerji fiyatlarındaki düşüşle birlikte hafifledi. Ancak ekonomik uzmanlar, bu rahatlamanın kalıcı olmayabileceği konusunda uyarıda bulunuyor. Uzmanlar, ABD ile İran arasındaki gerilimin yeniden tırmanmasının, gelecekte fiyat artışlarının tekrar hız kazanmasına neden olabileceğini belirtiyor. Bu durum, küresel enerji piyasaları ve dolayısıyla enflasyon üzerinde potansiyel bir baskı oluşturabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7796455/pexels-photo-7796455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T17:23:10.429Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784049827083jj8nv",
+        "title": "Dünya Liderleri Katar'da Emire Taziye İçin Bir Araya Geldi",
+        "summary": "Dünya genelinden çok sayıda lider, Katar'a resmi bir ziyaret gerçekleştirdi. Ziyaretlerin ana gündemi, Katar Emiri Şeyh Tamim'e taziye dileklerini iletmek oldu. Liderler, 'Baba Emir' olarak anılan önceki Emiri onurlandırmak amacıyla bir araya geldi. Bu diplomatik buluşma, Katar'ın uluslararası arenadaki konumunu ve küresel ilişkilerini bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T17:23:47.083Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/14/world-leaders-travel-to-qatar-to-honour-father-emir?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1784049881624hwg02",
+        "title": "G7 Dışişleri Bakanları Sudan'ın El-Obeid Kentindeki Şiddetin Derhal Durdurulması Çağrısı Yaptı",
+        "summary": "G7 dışişleri bakanları, Sudan'ın El-Obeid kentinde devam eden şiddetin derhal sona erdirilmesi çağrısında bulundu. Yapılan açıklamada, çatışan taraflara güvenli gönüllü geçişi garanti etmeleri ve El-Obeid çevresine ve ülke geneline hızlı ve engelsiz insani erişimi kolaylaştırmaları yönünde çağrıda bulunuldu. Bu çağrı, bölgedeki insani krizin derinleştiği bir dönemde geldi ve uluslararası toplumun Sudan'daki duruma yönelik endişelerini yansıttı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T17:24:41.624Z",
+        "location": {
+            "lat": 13.1833,
+            "lng": 30.225,
+            "name": "El-Obeid, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/world/g7-foreign-ministers-urge-an-immediate-halt-to-violence-in-sudans-el-obeid/3998120",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784044701957skrxm",
         "title": "Önde Gelen Husiden Yemen Havalimanı Saldırısı Sonrası Suudi Arabistan'a 'Kuşatma' Tehdidi",
         "summary": "Yemen'deki önde gelen Husi liderlerinden Muhammed el-Buhayti, El Cezire'ye yaptığı açıklamada Suudi Arabistan'a yönelik saldırılar düzenleyebilecekleri konusunda uyarıda bulundu. Bu tehdit, Yemen'deki bir havalimanına düzenlenen saldırının ardından geldiği belirtildi. Buhayti, Suudi Arabistan'a karşı 'kuşatma' başlatma potansiyelinden bahsederek bölgedeki gerilimi artırdı. Açıklamalar, Yemen'deki çatışmanın Suudi Arabistan topraklarına yayılma riskini bir kez daha gündeme getirdi.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "178393896025592nwm",
-        "title": "İsrail saldırılarında 8 Gazalı daha hayatını kaybetti, ölü sayısı 73.200'ü aştı: Sağlık Bakanlığı",
-        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in son saldırılarında 8 Gazalı daha yaşamını yitirdi. Bu son kayıplarla birlikte, bölgedeki toplam ölü sayısı 73.200'ü geçtiği bildirildi. Bakanlık ayrıca, 10 Ekim 2025'teki ateşkesin ardından İsrail saldırılarında 1.108 kişinin öldüğünü ve 3.578 kişinin yaralandığını belirtti. Bu veriler, Gazze Şeridi'ndeki insani krizin ve çatışmaların devam ettiğini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T10:36:00.255Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-8-more-gazans-death-toll-tops-73-200-health-ministry/3996321",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "178393898168365rd3",
-        "title": "İsrail Ordusu, Çerçeve Anlaşmaya Rağmen Güney Lübnan'da Evleri Yıktı ve Yaktı",
-        "summary": "Lübnan resmi haber ajansının bildirdiğine göre, İsrail güçleri, ABD destekli bir geri çekilme çerçeve anlaşması ve yürürlükteki ateşkese rağmen Güney Lübnan'daki operasyonlarını sürdürüyor. Bu operasyonlar kapsamında İsrail ordusunun bölgedeki evleri yıktığı ve yaktığı belirtildi. Yaşanan bu gelişmeler, mevcut anlaşmalara rağmen bölgedeki gerilimin devam ettiğini ve istikrarsızlığın sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T10:36:21.683Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-demolishes-burns-homes-in-southern-lebanon-despite-framework-deal/3996238",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17839390021402g5uf",
-        "title": "İran, ABD Taahhütlerini İhlal Ettiği Sürece Mutabakat Yükümlülüklerini Yerine Getirmeyeceğini Açıkladı",
-        "summary": "İran Dışişleri Bakanlığı sözcüsü, ülkesinin ABD'nin taahhütlerini ihlal etmeye devam etmesi halinde herhangi bir mutabakatın yükümlülüklerini yerine getirmeyeceğini duyurdu. Sözcü, anlaşmanın uygulanmasının \"taahhüde karşılık taahhüt\" ilkesine dayandığını ve bu durumun sürdürülebilirliğinin karşı tarafın adımlarına bağlı olduğunu belirtti. Yapılan açıklamada, ilgili anlaşmanın \"kriz aşamasına\" girdiği uyarısı yapılarak mevcut durumun ciddiyetine dikkat çekildi. Bu gelişme, özellikle nükleer anlaşma (JCPOA) bağlamında ABD ile İran arasındaki gerilimin ve karşılıklı yükümlülükler konusundaki anlaşmazlığın devam ettiğini gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5505451/pexels-photo-5505451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T10:36:42.140Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-won-t-honor-memorandum-obligations-as-long-as-us-breaches-commitments/3996234",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
