@@ -1,5 +1,37 @@
 [
     {
+        "id": "17840314056504p7b0",
+        "title": "Yemen'deki Yeni Gerilimler Küresel Enerji Krizini Nasıl Karmaşıklaştırabilir?",
+        "summary": "Yemen'deki mevcut gerilimlerin tırmanması, küresel enerji piyasalarında yeni bir şok dalgası yaratma potansiyeli taşıyor. Habere göre, ülkedeki çatışmaların genişlemesi ve Husilerin stratejik Bab el-Mendeb Boğazı'nı kapatma girişimleri, dünya ekonomisi için ciddi sonuçlar doğurabilir. Bu deniz yolu, özellikle petrol ve gaz sevkiyatı açısından hayati önem taşımakta olup, kapanması küresel enerji arz güvenliğini tehdit edecektir. Böyle bir gelişme, mevcut küresel enerji krizini daha da derinleştirerek uluslararası piyasalarda istikrarsızlığa yol açabilir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/14927297/pexels-photo-14927297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T12:16:45.650Z",
+        "location": {
+            "lat": 15.37,
+            "lng": 44.19,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1784031442728oveux",
+        "title": "Lübnan ve İsrail, Çerçeve Anlaşmasının Uygulanması İçin Roma'da Görüşmeler Yaptı",
+        "summary": "Lübnan ve İsrail temsilcileri, iki ülke arasındaki bir çerçeve anlaşmasının uygulanmasına yönelik görüşmelerde bulunmak üzere Roma'da bir araya geldi. Beyrut yönetimi, bu müzakerelerden İsrail'in Güney Lübnan'dan çekilmesi konusunda ilerleme kaydedilmesini umuyor. Görüşmeler, bölgedeki uzun süreli sınır anlaşmazlıklarının ve güvenlik meselelerinin diplomatik yollarla çözülmesine yönelik çabaların bir parçası olarak değerlendiriliyor. Taraflar, anlaşmanın detayları ve uygulama takvimi üzerinde durdu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T12:17:22.728Z",
+        "location": {
+            "lat": 41.9028,
+            "lng": 12.4964,
+            "name": "Roma, İtalya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1784026194415znwbt",
         "title": "Schumer, Trump'ı İran Savaşı Konusunda Eleştirdi",
         "summary": "ABD Senatosu Çoğunluk Lideri Chuck Schumer'ın, eski Başkan Donald Trump'ı İran'a yönelik politikaları ve olası bir savaş konusundaki tutumu nedeniyle eleştirdiği bildirildi. Schumer'ın açıklamaları, ABD'nin Orta Doğu'daki stratejileri ve İran ile ilişkileri üzerine devam eden tartışmaların bir parçası olarak değerlendiriliyor. Bu eleştiri, Washington'daki siyasi çevrelerde İran'a yönelik dış politika yaklaşımlarının ne denli farklılaştığını gözler önüne seriyor. ABD'li yetkililer arasında İran'la ilgili gerilimlerin ve diplomatik çabaların geleceği konusundaki görüş ayrılıkları devam ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-struck-us-military-facilities-in-bahrain-radar-systems-in-oman/3996097",
         "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1783925860523ll7m1",
-        "title": "İran, Bahreyn, Kuveyt ve Ürdün'deki ABD Askeri Üslerini Hedef Aldı",
-        "summary": "İran'ın, Körfez ülkelerinde bulunan ABD askeri üslerine yönelik saldırılar düzenlediği bildirildi. Bahreyn, Kuveyt ve Ürdün'deki ABD askeri varlıklarının bu saldırıların hedefi olduğu belirtildi. Bu gelişmeler, Orta Doğu'daki mevcut gerilimi daha da tırmandırma potansiyeli taşıyor. Uluslararası kamuoyu, bölgedeki güvenlik durumunu yakından takip ediyor ve olası sonuçları değerlendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18903556/pexels-photo-18903556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T06:57:40.523Z",
-        "location": {
-            "lat": 28.7,
-            "lng": 44.6,
-            "name": "Bahreyn, Kuveyt, Ürdün"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17839259760348dxs7",
-        "title": "İran, Bahreyn'deki Şeyh İsa Hava Üssü'ne Saldırı Düzenlediğini İddia Etti",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Bahreyn'de bulunan Şeyh İsa Hava Üssü'ne yönelik bir saldırı gerçekleştirdiğini duyurdu. IRGC'den yapılan açıklamada, bu eylemin ABD'nin bölgedeki devam eden askeri faaliyetlerine bir misilleme olarak düzenlendiği belirtildi. Hedef alınan noktalar arasında helikopter tesisleri, bir P-8 uçağı hangarı ve bir ABD insansız hava aracı (İHA) komuta merkezinin bulunduğu ifade edildi. Bu iddia, Orta Doğu'daki gerilimi tırmandırma potansiyeli taşırken, ABD'nin bölgedeki askeri varlığına yönelik bir meydan okuma olarak yorumlanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7429779/pexels-photo-7429779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T06:59:36.034Z",
-        "location": {
-            "lat": 26.06,
-            "lng": 50.59,
-            "name": "Isa Town, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-claims-strike-on-bahrains-sheikh-isa-air-base/3996029",
-        "trendScore": 90,
         "isBreaking": true
     }
 ]
