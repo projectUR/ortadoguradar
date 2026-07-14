@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784044701957skrxm",
+        "title": "Önde Gelen Husiden Yemen Havalimanı Saldırısı Sonrası Suudi Arabistan'a 'Kuşatma' Tehdidi",
+        "summary": "Yemen'deki önde gelen Husi liderlerinden Muhammed el-Buhayti, El Cezire'ye yaptığı açıklamada Suudi Arabistan'a yönelik saldırılar düzenleyebilecekleri konusunda uyarıda bulundu. Bu tehdit, Yemen'deki bir havalimanına düzenlenen saldırının ardından geldiği belirtildi. Buhayti, Suudi Arabistan'a karşı 'kuşatma' başlatma potansiyelinden bahsederek bölgedeki gerilimi artırdı. Açıklamalar, Yemen'deki çatışmanın Suudi Arabistan topraklarına yayılma riskini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4833556/pexels-photo-4833556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T15:58:21.957Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.6,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784039187972vw4oe",
         "title": "İsrail'in Kuzey Gazze'deki Polis Noktasına Düzenlediği Saldırıda Yedi Kişi Hayatını Kaybetti",
         "summary": "Kuzey Gazze Şeridi'nde bir polis noktasına İsrail tarafından düzenlenen hava saldırısında yedi kişinin yaşamını yitirdiği bildirildi. Yetkililer, hayatını kaybedenler arasında Hamas kontrolündeki polis gücünden üst düzey bir subayın da bulunduğunu belirtti. İsrail ordusu ise saldırının \"teröristleri\" hedef aldığını açıkladı. Bu olay, bölgedeki güvenlik durumunu ve gerilimi artıran son gelişmelerden biri olarak kaydedildi.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-won-t-honor-memorandum-obligations-as-long-as-us-breaches-commitments/3996234",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783939026224hapva",
-        "title": "Kudüs Yakınlarında İsrail Güçleri Tarafından Bir Filistinli Öldürüldü",
-        "summary": "Kızılay'dan yapılan açıklamaya göre, İsrail güçleri Kudüs yakınlarında genç bir Filistinliyi öldürdü. Yerel kaynaklar, İsrail güçlerinin Kudüs'ün kuzeybatısındaki ayrım duvarı yakınlarında 19 yaşındaki bir genci vurarak öldürdüğünü bildirdi. Olayın detaylarına ilişkin henüz ek bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17314914/pexels-photo-17314914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T10:37:06.224Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-kill-young-palestinian-near-jerusalem-red-crescent/3996171",
         "trendScore": 85,
         "isBreaking": false
     }
