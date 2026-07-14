@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784064722916e1ipp",
+        "title": "İran, Bahreyn'deki ABD Deniz Üssünü Hedef Aldı; Sirenler Çaldı",
+        "summary": "İran devlet medyası tarafından yapılan açıklamalara göre, Tahran Bahreyn'in başkentinde bulunan bir ABD deniz destek üssünü hedef aldı. Bu saldırının füze ve insansız hava araçlarıyla gerçekleştirildiği belirtildi. Olayın ardından Bahreyn genelinde sirenlerin çaldığı bildirildi. İran'ın bu eylemi, bölgedeki gerilimi artırabilecek önemli bir gelişme olarak değerlendiriliyor. Hedef alınan üs, ABD'nin Orta Doğu'daki askeri varlığının kritik noktalarından biri konumunda.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T21:32:02.916Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784060097427vunf8",
         "title": "ABD İran'da Yeni Hedefleri Vururken, Tahran Körfez Ülkelerini ve Hürmüz Boğazı'ndaki Gemileri Hedef Aldı",
         "summary": "ABD'nin İran'da yeni hedeflere yönelik saldırılar düzenlediği bildirildi. Bu gelişmelerin ardından Tahran'ın Körfez ülkelerini ve Hürmüz Boğazı'ndaki deniz trafiğini hedef aldığı belirtildi. İran Dışişleri Bakan Yardımcısı, ABD'yi geçici barış anlaşmasını yok etmekle suçladı. Bu durum, bölgedeki gerilimin tırmandığına işaret ediyor ve Orta Doğu'daki güvenlik endişelerini artırıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/13/explosions-and-large-fires-following-ukrainian-attacks-on-russia?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783938814889790tv",
-        "title": "İran'dan Körfez'e Yeni Saldırılar: ABD ile Gerilim Tırmanıyor",
-        "summary": "İran'ın Körfez komşularını hedef alan yeni saldırılar düzenlediği bildirildi. Bu eylemler, ABD ile bir hafta içinde yaşanan misilleme saldırılarının üçüncü turunu teşkil ediyor. Bölgedeki gerilimin tırmandığına işaret eden bu gelişmeler, Orta Doğu'da güvenlik endişelerini artırıyor. ABD'nin de bölgedeki askeri varlığını ve faaliyetlerini sürdürdüğü belirtiliyor. Durum, bölgesel istikrarsızlık riskini yükseltirken, uluslararası toplumun dikkatini çekmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T10:33:34.889Z",
-        "location": {
-            "lat": 27,
-            "lng": 51,
-            "name": "Basra Körfezi, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
