@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784039187972vw4oe",
+        "title": "İsrail'in Kuzey Gazze'deki Polis Noktasına Düzenlediği Saldırıda Yedi Kişi Hayatını Kaybetti",
+        "summary": "Kuzey Gazze Şeridi'nde bir polis noktasına İsrail tarafından düzenlenen hava saldırısında yedi kişinin yaşamını yitirdiği bildirildi. Yetkililer, hayatını kaybedenler arasında Hamas kontrolündeki polis gücünden üst düzey bir subayın da bulunduğunu belirtti. İsrail ordusu ise saldırının \"teröristleri\" hedef aldığını açıkladı. Bu olay, bölgedeki güvenlik durumunu ve gerilimi artıran son gelişmelerden biri olarak kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-14T14:26:27.972Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17840314056504p7b0",
         "title": "Yemen'deki Yeni Gerilimler Küresel Enerji Krizini Nasıl Karmaşıklaştırabilir?",
         "summary": "Yemen'deki mevcut gerilimlerin tırmanması, küresel enerji piyasalarında yeni bir şok dalgası yaratma potansiyeli taşıyor. Habere göre, ülkedeki çatışmaların genişlemesi ve Husilerin stratejik Bab el-Mendeb Boğazı'nı kapatma girişimleri, dünya ekonomisi için ciddi sonuçlar doğurabilir. Bu deniz yolu, özellikle petrol ve gaz sevkiyatı açısından hayati önem taşımakta olup, kapanması küresel enerji arz güvenliğini tehdit edecektir. Böyle bir gelişme, mevcut küresel enerji krizini daha da derinleştirerek uluslararası piyasalarda istikrarsızlığa yol açabilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-kill-young-palestinian-near-jerusalem-red-crescent/3996171",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1783939050043g8vzd",
-        "title": "İran, Bahreyn ve Umman'daki ABD Askeri Tesislerini Vurduğunu İddia Etti",
-        "summary": "İran, Bahreyn'deki ABD askeri tesislerini ve Umman'daki radar sistemlerini hedef aldığını öne sürdü. İran Devrim Muhafızları Ordusu'ndan yapılan açıklamada, ABD'nin bölgedeki askeri müdahalesine son vermemesi halinde Hürmüz Boğazı'nın kapalı kalacağı uyarısında bulunuldu. Bu iddia ve uyarı, Orta Doğu'da ABD ile İran arasındaki gerilimin tırmandığını gösteriyor. Açıklama, uluslararası denizcilik ve enerji güvenliği açısından kritik öneme sahip Hürmüz Boğazı'nın geleceği hakkında endişeleri artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T10:37:30.043Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-it-struck-us-military-facilities-in-bahrain-radar-systems-in-oman/3996097",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
