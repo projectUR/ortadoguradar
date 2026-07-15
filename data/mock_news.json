@@ -1,5 +1,53 @@
 [
     {
+        "id": "17840948188847yp7a",
+        "title": "ABD'den İran'a Sivil Altyapı Bombardımanı Tehdidi",
+        "summary": "Eski ABD Başkanı Donald Trump, gelecek haftaya kadar bir anlaşmaya varılmaması durumunda ABD'nin İran'ın sivil altyapısını bombalayacağını açıkladı. Bu açıklama, ABD ile İran arasındaki mevcut gerilimi tırmandıran ciddi bir tehdit olarak değerlendiriliyor. Potansiyel askeri eylem, İran'ın kritik sivil altyapısını hedef alarak bölgede geniş çaplı insani ve stratejik sonuçlar doğurabilir. Söz konusu tehdit, Orta Doğu'da istikrarsızlık endişelerini artırırken, uluslararası toplumda diplomatik çözüm çağrılarını güçlendirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36798300/pexels-photo-36798300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-15T05:53:38.884Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1784094923041obufy",
+        "title": "CENTCOM Yetkilileri, İsrail'in Ek ABD Yakıt İkmal Uçaklarına Kısıtlamalarını Protesto Etti",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) yetkililerinin, İsrail'in bölgedeki ek ABD yakıt ikmal uçaklarına uyguladığı kısıtlamaları protesto ettiği bildirildi. Rapora göre, ABD'li yetkililer bu kısıtlamaların operasyonel ihtiyaçları zayıflattığı konusunda uyarıda bulundu. Söz konusu durumun, İran ile bölgede artan gerilimin ortasında yaşandığı belirtildi. Bu kısıtlamaların, ABD'nin Orta Doğu'daki askeri operasyonlarını ve hazırlık durumunu olumsuz etkileyebileceği ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/87057/aircraft-delta-wing-stealth-bomber-radar-87057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-15T05:55:23.041Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.7,
+            "name": "İsrail, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/centcom-officials-protest-israeli-restrictions-on-additional-us-refueling-aircraft-report/3998423",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784094965442pl0w7",
+        "title": "Irak Savunma Bakanlığı'ndan 3 Üst Düzey Subay Yolsuzlukla Mücadele Kapsamında Gözaltına Alındı",
+        "summary": "Irak'ta yolsuzlukla mücadele kapsamında önemli bir operasyon düzenlendi. Operasyonda, Irak Savunma Bakanlığı'ndan üç üst düzey subay gözaltına alındı. Ayrıca, 70 milyon dolarlık bir askeri hastane sözleşmesiyle ilgili olarak beş mühendis de tutuklandı. Bu gözaltılar, ülkedeki yolsuzlukla mücadele çabalarının bir parçası olarak değerlendiriliyor ve devlet kurumlarındaki şeffaflık ve hesap verebilirlik arayışını yansıtıyor. Yetkililer, soruşturmanın devam ettiğini bildirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19835552/pexels-photo-19835552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-15T05:56:05.442Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/3-senior-iraqi-defense-ministry-officers-detained-in-anti-corruption-campaign/3998414",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784085810151qa6q3",
         "title": "Trump, Irak Başbakanı'nı Beyaz Saray'da ağırladı, 'çok sayıda anlaşma' sözü verdi",
         "summary": "ABD Başkanı Donald Trump, Irak Başbakanı Ali el-Zaidi'yi Beyaz Saray'da kabul etti. Görüşmede iki lider, ülkeler arasındaki ekonomik bağları derinleştirme taahhüdünde bulundu. Zirvede, ticari ilişkilerin geliştirilmesi ve yatırım fırsatlarının artırılması konuları ele alındı. Trump, Irak ile \"çok sayıda anlaşma\" yapılacağını belirtirken, el-Zaidi de işbirliğinin önemine vurgu yaptı. Bu görüşme, iki ülke arasındaki stratejik ortaklığın güçlendirilmesi açısından önemli bir adım olarak değerlendiriliyor.",
@@ -748,54 +796,6 @@
             "name": "Orta Doğu, Bölgesel"
         },
         "source": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783949272524hjp6x",
-        "title": "Birleşik Krallık, İran Devrim Muhafızları Ordusu'na desteği yasakladı",
-        "summary": "Birleşik Krallık hükümeti, İran Devrim Muhafızları Ordusu'na (IRGC) yönelik desteği yasaklama kararı aldı. Hükümet yetkilisi Shabana Mahmood'un yeni yetkilerini kullanarak hayata geçirdiği bu yasak, Devrim Muhafızları'nın İngiliz topraklarında ölüm tehditleri ve yıldırma eylemleriyle ilişkilendirilmesinin ardından geldi. Karar, Birleşik Krallık'ın ulusal güvenliğini koruma ve yabancı devlet aktörlerinin ülkedeki faaliyetlerine karşı önlem alma çabalarının bir parçası olarak değerlendiriliyor. Bu adım, Londra ile Tahran arasındaki ilişkilerde yeni bir gerilime yol açabilir ve bölgesel güvenlik dinamiklerini etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38196766/pexels-photo-38196766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T13:27:52.524Z",
-        "location": {
-            "lat": 51.5,
-            "lng": -0.1,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1783949356971fj0sb",
-        "title": "İran, Hürmüz Boğazı'nda seyrüsefer yönetimi konusunda Umman ile görüşmelere devam edeceğini bildirdi",
-        "summary": "İran Dışişleri Bakanlığı, Hürmüz Boğazı'nda seyrüseferin yönetimi konusunda Umman ile müzakerelerin süreceğini açıkladı. Bakanlık yetkilileri, iki kıyı devleti arasında siyasi, hukuki ve teknik istişarelerin devam edeceğini belirtti. Bu görüşmelerin, stratejik öneme sahip Hürmüz Boğazı'ndaki deniz trafiğinin düzenlenmesi ve güvenliğinin sağlanması hedeflendiği ifade edildi. İran ve Umman, boğazın güvenliği ve uluslararası denizcilik kurallarına uygun geçişlerin sağlanması konusunda işbirliğini sürdürüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36152058/pexels-photo-36152058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T13:29:16.971Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-to-continue-talks-with-oman-on-managing-hormuz-navigation/3996495",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1783949378152d1488",
-        "title": "Katar Emiri, Şeyh Hamad bin Khalifa'nın Vefatının Ardından Taziyeleri Kabul Ediyor",
-        "summary": "Katar Emiri Şeyh Tamim bin Hamad Al Thani, Şeyh Hamad bin Khalifa'nın vefatı dolayısıyla taziye ziyaretlerini kabul etmeye başladı. Lusail Sarayı'nda düzenlenen törenlerde, bölgeden ve uluslararası arenadan çok sayıda lider, Emirlik Divanı'na gelerek başsağlığı dileklerini iletti. Bu ziyaretler, Katar'ın diplomatik ilişkilerinin ve bölgesel konumunun bir yansıması olarak değerlendiriliyor. Liderlerin katılımı, vefat eden kişinin bölgedeki önemini ve Katar'ın uluslararası arenadaki yerini bir kez daha gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7317681/pexels-photo-7317681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-13T13:29:38.152Z",
-        "location": {
-            "lat": 25.4,
-            "lng": 51.4833,
-            "name": "Lusail, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-s-emir-receives-mourners-following-death-of-sheikh-hamad-bin-khalifa/3996458",
         "trendScore": 85,
         "isBreaking": false
     }
