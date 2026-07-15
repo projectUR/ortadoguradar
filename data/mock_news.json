@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784142965749er3as",
+        "title": "İsrail Askeri Kısıtlamaları Filistin Evlerini Mühürledi",
+        "summary": "İsrail ordusu tarafından uygulanan yeni kısıtlamalar, Filistinli ailelerin evlerinin bazı bölümlerine erişimini engelledi. Bu askeri emir, yerleşimcilerin gerçekleştirdiği bir dizi saldırının ardından yürürlüğe konuldu. Uygulanan kısıtlamalar nedeniyle, Filistinli aileler kendi konutlarının belirli kısımlarından mahrum bırakıldı. Bu durum, bölgedeki gerilimi artırabilecek yeni bir gelişme olarak değerlendiriliyor ve insan hakları örgütleri tarafından endişeyle karşılanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18772972/pexels-photo-18772972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-15T19:16:05.749Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784131474794mlobi",
         "title": "İran, ABD saldırılarını 'saldırganlık' olarak kınadı, misilleme sözü verdi",
         "summary": "İran Dışişleri Bakanlığı sözcüsü, ülkenin güneyine yönelik ABD saldırılarını sert bir dille kınadı. Sözcü, bu eylemleri 'İran topraklarına yönelik bir saldırganlık' olarak nitelendirerek tamamen yasa dışı olduğunu belirtti. Tahran yönetimi, ABD'nin bu adımlarına karşı misilleme yapma tehdidinde bulundu. Bu açıklama, iki ülke arasındaki mevcut gerilimin daha da tırmandığına işaret ediyor. Olay, bölgesel güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aa.com.tr/en/middle-east/gulf-countries-condemn-iranian-attacks-on-emirati-oil-tankers-in-hormuz/3997288",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178401833561087oi0",
-        "title": "İran Eski Cumhurbaşkanı Ahmedinejad, Mossad Temasları İddialarını Reddetti",
-        "summary": "İran'ın eski Cumhurbaşkanı Mahmud Ahmedinejad'ın ofisi, İsrail istihbarat servisi Mossad ile temas kurduğuna dair çıkan haberleri kesin bir dille yalanladı. Ahmedinejad'ın ofisinden yapılan açıklamada, The New York Times gazetesi tarafından ortaya atılan bu iddiaların 'tamamen yanlış ve asılsız' olduğu belirtildi. Açıklamada, söz konusu haberlerin gerçeği yansıtmadığı ve karalama amacı taşıdığı vurgulandı. Bu yalanlama, Orta Doğu'da uzun süredir gergin ilişkileri bulunan İran ve İsrail arasındaki hassas siyasi dengeler bağlamında önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1382230/pexels-photo-1382230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T08:38:55.610Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/former-iranian-president-ahmadinejad-denies-report-alleging-mossad-contacts/3997226",
         "trendScore": 85,
         "isBreaking": false
     }
