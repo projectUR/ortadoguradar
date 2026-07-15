@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784131474794mlobi",
+        "title": "İran, ABD saldırılarını 'saldırganlık' olarak kınadı, misilleme sözü verdi",
+        "summary": "İran Dışişleri Bakanlığı sözcüsü, ülkenin güneyine yönelik ABD saldırılarını sert bir dille kınadı. Sözcü, bu eylemleri 'İran topraklarına yönelik bir saldırganlık' olarak nitelendirerek tamamen yasa dışı olduğunu belirtti. Tahran yönetimi, ABD'nin bu adımlarına karşı misilleme yapma tehdidinde bulundu. Bu açıklama, iki ülke arasındaki mevcut gerilimin daha da tırmandığına işaret ediyor. Olay, bölgesel güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-15T16:04:34.794Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-condemns-us-attacks-as-aggression-vows-retaliation/3999284",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784125210338bfjt8",
         "title": "ABD Hükümeti'nin Dış Yardımları Kısan Projesi Sona Erdi: Küresel İnsani Maliyet İnceleniyor",
         "summary": "Amerika Birleşik Devletleri hükümetinin dış yardımları önemli ölçüde azaltan projesi 4 Temmuz tarihinde sona erdi. AJLabs tarafından yapılan bir inceleme, söz konusu projenin dünya genelinde yol açtığı insan kaybı maliyetini mercek altına alıyor. Bu proje, özellikle Orta Doğu ve Afrika gibi bölgelerde kalkınma ve insani yardım çabalarını olumsuz etkileyerek ciddi sosyal ve ekonomik sonuçlar doğurmuştu. Projenin sona ermesi, uluslararası yardım kuruluşları ve etkilenen ülkeler için yeni bir dönemin başlangıcı olarak değerlendiriliyor. Geçmişteki etkileri ve küresel çapta yarattığı insani maliyet ise hala tartışma konusu olmaya devam ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/former-iranian-president-ahmadinejad-denies-report-alleging-mossad-contacts/3997226",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784018357256dmhyw",
-        "title": "İran'ın Keşm Adası açıklarında dökme yük gemisi çarpışması sonrası 23 denizci kurtarıldı",
-        "summary": "İran'ın güneyindeki Keşm Adası açıklarında bir dökme yük gemisinin karıştığı çarpışma sonucu 23 denizci güvenli bir şekilde kurtarıldı. Yerel medya kaynaklarına göre, olay Keşm Adası'nın kuzeyinde meydana geldi. Çarpışmanın ardından geminin gövdesinde ciddi hasar oluştuğu bildirildi. Mürettebatın gemiden tahliye edildiği ve can kaybı yaşanmadığı belirtildi. Yetkililer, olayın nedenine ilişkin soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9328777/pexels-photo-9328777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T08:39:17.256Z",
-        "location": {
-            "lat": 26.95,
-            "lng": 56.25,
-            "name": "Keşm Adası, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/23-sailors-rescued-after-bulk-carrier-collision-off-irans-qeshm-island/3997192",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
