@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784147655726c4gv0",
+        "title": "Rusya, Ukrayna'yı Füze ve İHA Saldırılarıyla Vurdu",
+        "summary": "Rusya, Ukrayna genelinde füze ve insansız hava aracı saldırılarını yoğunlaştırdı. Ülkenin çeşitli bölgelerindeki sivil altyapı ve yerleşim yerleri hedef alındı. Yayınlanan görüntülerde, saldırılar sonrası çıkan büyük yangınlara itfaiye ekiplerinin müdahale ettiği ve hasarın boyutunun büyük olduğu görüldü. Ukraynalı yetkililer, saldırıların can kaybına ve geniş çaplı yıkıma yol açtığını bildirdi. Bu son saldırılar, Rusya-Ukrayna savaşındaki gerilimi ve çatışmanın şiddetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4833556/pexels-photo-4833556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-15T20:34:15.726Z",
+        "location": {
+            "lat": 50.45,
+            "lng": 30.52,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1784147738687j4sc5",
+        "title": "İran'dan ABD'nin Yeni Saldırılarına Karşılık Ticaret Yollarını Kapatma Tehdidi",
+        "summary": "ABD Başkanı Donald Trump, İran'ın müzakerelere geri dönmemesi halinde gelecek hafta ülkenin köprüleri ve enerji santrallerini hedef alacağını duyurdu. Bu açıklama, ABD'nin İran'a yönelik yeni saldırılar başlatmasının ardından geldi. İran ise bu gelişmelere misilleme olarak daha fazla ticaret yolunu kapatma tehdidinde bulundu. Bölgedeki gerilim artarken, iki ülke arasındaki ilişkilerde tansiyon yükselmeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-15T20:35:38.687Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784142965749er3as",
         "title": "İsrail Askeri Kısıtlamaları Filistin Evlerini Mühürledi",
         "summary": "İsrail ordusu tarafından uygulanan yeni kısıtlamalar, Filistinli ailelerin evlerinin bazı bölümlerine erişimini engelledi. Bu askeri emir, yerleşimcilerin gerçekleştirdiği bir dizi saldırının ardından yürürlüğe konuldu. Uygulanan kısıtlamalar nedeniyle, Filistinli aileler kendi konutlarının belirli kısımlarından mahrum bırakıldı. Bu durum, bölgedeki gerilimi artırabilecek yeni bir gelişme olarak değerlendiriliyor ve insan hakları örgütleri tarafından endişeyle karşılanıyor.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784018285258p46n4",
-        "title": "BAE, ABD'nin yeni saldırılar başlatması üzerine İran'ın tankerlere yönelik 'küstah' saldırısını kınadı",
-        "summary": "Birleşik Arap Emirlikleri (BAE), İran'ın tankerlere yönelik gerçekleştirdiği saldırıyı 'küstahça' olarak nitelendirerek kınadı. Bu kınama, ABD'nin İran'a yönelik üçüncü gecedeki hava saldırılarını düzenlediği bir döneme denk geldi. ABD Başkanı Trump, Hürmüz Boğazı'nda yeni bir ablukanın parçası olarak %20'lik bir ücret uygulanacağını duyurdu. Bu gelişmeler, bölgedeki gerilimin tırmandığını ve uluslararası denizcilik güvenliği ile enerji tedarik zincirleri üzerindeki endişeleri artırdığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T08:38:05.258Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17840183120250y3za",
-        "title": "Körfez Ülkelerinden İran'ın Hürmüz'deki Tanker Saldırılarına Kınama",
-        "summary": "Körfez ülkeleri, Hürmüz Boğazı'nda Birleşik Arap Emirlikleri'ne ait petrol tankerlerine yönelik İran saldırılarını kınadı. Bahreyn, Kuveyt ve Körfez İşbirliği Konseyi (KİK) tarafından yapılan açıklamalarda, söz konusu saldırıların bölgesel istikrarı, seyrüsefer serbestisini ve küresel enerji güvenliğini tehdit ettiği belirtildi. Bu durumun bölgedeki gerilimi artırabileceği ve uluslararası ticareti olumsuz etkileyebileceği vurgulandı. Ülkeler, uluslararası hukuka saygı gösterilmesi ve gerilimin düşürülmesi çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38407786/pexels-photo-38407786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T08:38:32.025Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gulf-countries-condemn-iranian-attacks-on-emirati-oil-tankers-in-hormuz/3997288",
         "trendScore": 85,
         "isBreaking": false
     }
