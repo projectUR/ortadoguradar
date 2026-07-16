@@ -1,5 +1,37 @@
 [
     {
+        "id": "17842224339726lwz0",
+        "title": "Cezayir'deki Yetimhane Yangınında On Bir Kişi Hayatını Kaybetti",
+        "summary": "Cezayir'in başkenti Cezayir'de bulunan bir yetimhanede çıkan yangın büyük bir trajediye yol açtı. Olayda ilk belirlemelere göre on bir kişi hayatını kaybederken, on dokuz kişi de yaralandı. Yangının yetimhanenin büyük bir bölümünü sardığı ve can kaybının bu nedenle yüksek olduğu belirtildi. Yetkililer, yangının çıkış nedenini belirlemek üzere geniş çaplı bir soruşturma başlattı. Yaralılar çevredeki hastanelere sevk edilerek tedavi altına alındı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35160053/pexels-photo-35160053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T17:20:33.972Z",
+        "location": {
+            "lat": 36.737232,
+            "lng": 3.086472,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1784222551033rwm7d",
+        "title": "Suriye ve Almanya Hava Ulaştırma Anlaşması İmzaladı, Ortak Komite Kurdu",
+        "summary": "Suriye ve Almanya, ikili işbirliğini ilerletmek amacıyla bir hava ulaştırma anlaşması imzaladıklarını duyurdu. Anlaşma kapsamında, iki ülke arasında ekonomik iyileşme, yeniden yapılanma, yatırım ve mülteci konularında işbirliğini geliştirmek üzere ortak bir komite kuruldu. Bu komitenin, Suriye'nin savaş sonrası toparlanma sürecine ve Almanya ile ilişkilerine katkıda bulunması hedefleniyor. Görüşmelerin, iki ülke arasındaki diplomatik ve ekonomik bağları güçlendirmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T17:22:31.033Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-germany-sign-air-transport-agreement-launch-joint-committee-to-advance-bilateral-cooperation/4000632",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1784202161521dnr8l",
         "title": "Cezayir'deki Yetimhanede Çıkan Yangında 11 Kişi Hayatını Kaybetti",
         "summary": "Cezayir'in başkenti Cezayir'in doğusunda bulunan devlete ait bir çocuk refah evinde çıkan yangın büyük bir trajediye yol açtı. Olayda aralarında çocukların da bulunduğu 11 kişi yaşamını yitirdi. Yangın sonucunda 19 kişi de yaralanarak hastaneye kaldırıldı. Yetkililer, yangının çıkış nedenini belirlemek üzere soruşturma başlattı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/3-senior-iraqi-defense-ministry-officers-detained-in-anti-corruption-campaign/3998414",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784085810151qa6q3",
-        "title": "Trump, Irak Başbakanı'nı Beyaz Saray'da ağırladı, 'çok sayıda anlaşma' sözü verdi",
-        "summary": "ABD Başkanı Donald Trump, Irak Başbakanı Ali el-Zaidi'yi Beyaz Saray'da kabul etti. Görüşmede iki lider, ülkeler arasındaki ekonomik bağları derinleştirme taahhüdünde bulundu. Zirvede, ticari ilişkilerin geliştirilmesi ve yatırım fırsatlarının artırılması konuları ele alındı. Trump, Irak ile \"çok sayıda anlaşma\" yapılacağını belirtirken, el-Zaidi de işbirliğinin önemine vurgu yaptı. Bu görüşme, iki ülke arasındaki stratejik ortaklığın güçlendirilmesi açısından önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433847/pexels-photo-7433847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T03:23:30.151Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784069922083s26pi",
-        "title": "Faslı Rapçi Mehdi El Youbi Kazablanka'da Tutuklandı",
-        "summary": "Faslı rapçi Mehdi El Youbi, Kazablanka'da gözaltına alındı. El Youbi, sosyal medyada yaptığı eleştirel paylaşımlarla tanınıyor ve bu tutuklama, ülkede ifade özgürlüğü üzerindeki endişeleri yeniden gündeme getirdi. Aktivistler, Fas makamlarının eleştirel seslere ve Z kuşağı protesto hareketine yönelik baskıyı yoğunlaştırdığını iddia ediyor. Bu durum, insan hakları örgütleri tarafından yakından takip ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7785092/pexels-photo-7785092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T22:58:42.083Z",
-        "location": {
-            "lat": 33.57,
-            "lng": -7.59,
-            "name": "Kazablanka, Fas"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
