@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784176881801ovjg9",
+        "title": "İran, başkent yakınlarında patlamalar bildirilmesi üzerine Tahran genelinde hava savunmasını aktifleştirdi",
+        "summary": "İran'ın başkenti Tahran'da hava savunma sistemlerinin devreye girdiği bildirildi. Ülkenin doğu ve batı bölgelerinde hava savunma sistemlerinin aktifleştiği belirtildi. Yerel bir yetkili, Tahran yakınlarındaki Pakdaşt'ta patlamaların meydana geldiğini doğruladı. Olayın nedeni veya hedefi hakkında henüz detay verilmezken, bölgedeki güvenlik durumu dikkatle takip ediliyor. Bu gelişme, bölgesel gerilimlerin arttığı bir dönemde yaşandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17854374/pexels-photo-17854374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T04:41:21.801Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-activates-air-defenses-across-tehran-as-explosions-reported-near-capital/3999710",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1784163806679kou39",
         "title": "RSF, Sudan'ın Kuzeyinde Elektrik Santralini Hedef Aldı",
         "summary": "Sudan'ın kuzeyinde yer alan bir elektrik santrali, Hızlı Destek Kuvvetleri (RSF) tarafından düzenlenen insansız hava aracı (İHA) saldırısının hedefi oldu. Yetkililer, saldırı sonucunda santralde yangın çıktığını ve bir güvenlik görevlisinin yaralandığını açıkladı. Olay nedeniyle bölgedeki elektrik tedarikinde ciddi kesintiler yaşandığı bildirildi. Bu saldırı, Sudan'da devam eden çatışmaların sivil altyapı ve enerji kaynakları üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-reports-new-explosions-in-bandar-abbas/3997497",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1784026356142pyilr",
-        "title": "Hürmüz Boğazı'nın Kontrolü ve Güvenliği Yeniden Gündemde",
-        "summary": "ABD ile İran arasındaki gerilimin yeniden tırmanması, dünyanın en önemli deniz geçiş noktalarından biri olan Hürmüz Boğazı'nın kontrolü ve güvenliği konusundaki soruları tekrar gündeme getirdi. Basra Körfezi'ni Umman Denizi'ne bağlayan bu stratejik boğaz, küresel petrol ticaretinin önemli bir kısmının geçişini sağlıyor. Yeniden canlanan tartışmalar, boğazın statüsü, uluslararası gemilerin geçiş hakkı ve ülkelerin koruma ücreti talep edip edemeyeceği gibi konuları içeriyor. Hürmüz Boğazı'nın güvenliği, bölgedeki jeopolitik dengeler ve enerji piyasaları açısından kritik önem taşımaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9550526/pexels-photo-9550526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T10:52:36.142Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/explainer-who-controls-the-strait-of-hormuz-and-can-countries-charge-ships-for-protection/3997488",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
