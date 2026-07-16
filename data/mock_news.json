@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784232224505d0u9m",
+        "title": "Irak, eski petrol bakanıyla bağlantılı saklanma yerlerinde 19 milyon dolar bulunduğunu açıkladı",
+        "summary": "Irak makamları, eski bir petrol bakanıyla bağlantılı olduğu iddia edilen saklanma yerlerinde büyük miktarda nakit para ve altın mücevher ele geçirdiğini açıkladı. Yapılan duyuruya göre, ele geçirilen nakit paranın toplam değeri 19 milyon dolara ulaşıyor. Ayrıca, operasyon sırasında birkaç kilogram altın mücevher de bulundu. Bu operasyonun, ülkedeki yolsuzlukla mücadele kapsamında yürütüldüğü belirtildi. Yetkililer, konuyla ilgili soruşturmanın devam ettiğini bildirdi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/31916807/pexels-photo-31916807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T20:03:44.505Z",
+        "location": {
+            "lat": 33.3441,
+            "lng": 44.3615,
+            "name": "Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178423232866477pts",
+        "title": "Irak'ta Yolsuzluk Soruşturmasında 19.3 Milyon Dolar ve Altın Ele Geçirildi",
+        "summary": "Irak'ta devam eden geniş çaplı bir yolsuzluk soruşturması kapsamında önemli miktarda nakit para ve altın ele geçirildi. Ülke genelinde yürütülen operasyonlarda toplam 19.3 milyon dolar nakit ve değerli madenler bulundu. Soruşturma, eski Rafineri İşlerinden Sorumlu Petrol Bakan Yardımcısı Adnan el-Cumeyli'nin tutuklanmasıyla bağlantılı olarak ilerliyor. Bu operasyonlar, Irak hükümetinin yolsuzlukla mücadeledeki kararlılığını ve kamu kaynaklarının kötüye kullanımına karşı yürüttüğü çabaları yansıtıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/31679223/pexels-photo-31679223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T20:05:28.664Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-seizes-193m-gold-in-corruption-probe/4000785",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784232351322rb0i6",
+        "title": "Türkiye, Irak'taki Araçlı Saldırı Olayı İçin Taziye Mesajı Yayımladı",
+        "summary": "Türkiye, Irak'ta meydana gelen ve can kaybına yol açan araçlı saldırı olayı nedeniyle taziye mesajı yayımladı. Dışişleri Bakanlığı tarafından yapılan açıklamada, olaydan dolayı derin üzüntü duyulduğu belirtildi. Bakanlık, hayatını kaybedenlere Allah'tan rahmet, yaralılara ise acil şifalar diledi. Bu diplomatik jest, Türkiye'nin Irak ile olan dayanışmasını ve komşuluk ilişkilerine verdiği önemi bir kez daha gösterdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9739635/pexels-photo-9739635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T20:05:51.322Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/turkiye-offers-condolences-over-deadly-vehicle-ramming-incident-in-iraq/4000780",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17842272960748atmg",
         "title": "Suriye'nin Jobar Bölgesinde Halk Yıkılan Evlerini Yeniden İnşa Etmekte Zorlanıyor",
         "summary": "Suriye'nin Jobar bölgesinde yerel halk, 13 yıldır süren savaşta yıkılan evlerini yeniden inşa etme mücadelesi veriyor. Bölge, Suriye iç savaşının büyük bir bölümünde isyancıların kontrolünde kalmış, ancak hükümet güçlerinin tekrarlanan saldırıları sonucu büyük ölçüde tahrip olmuştur. Yıkımın boyutları, bölge sakinlerinin normal yaşama dönme çabalarını ve temel ihtiyaçlara erişimlerini zorlaştırmaktadır. Yeniden yapılanma sürecindeki bu zorluklar, savaşın bölge üzerindeki kalıcı etkilerini ve insani durumu gözler önüne sermektedir.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/jordan-says-its-air-defenses-downed-3-missiles-from-iran/3998449",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1784103766160cxz9n",
-        "title": "Kuveyt, 'düşmanca' İHA saldırılarına yanıt verdiğini bildirdi",
-        "summary": "Kuveyt, hava savunma sistemlerinin 'düşmanca' insansız hava aracı (İHA) saldırılarına karşı harekete geçtiğini duyurdu. Bu gelişmelerin ardından Bahreyn de hava saldırısı sirenlerini çaldı. Körfez genelinde askeri gerilimin tırmandığı belirtilirken, bölgedeki güvenlik endişeleri arttı. Olaylar, Orta Doğu'daki mevcut istikrarsızlığın bir göstergesi olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6493443/pexels-photo-6493443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T08:22:46.160Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-its-air-defenses-responding-to-hostile-drone-attacks/3998420",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17840948188847yp7a",
-        "title": "ABD'den İran'a Sivil Altyapı Bombardımanı Tehdidi",
-        "summary": "Eski ABD Başkanı Donald Trump, gelecek haftaya kadar bir anlaşmaya varılmaması durumunda ABD'nin İran'ın sivil altyapısını bombalayacağını açıkladı. Bu açıklama, ABD ile İran arasındaki mevcut gerilimi tırmandıran ciddi bir tehdit olarak değerlendiriliyor. Potansiyel askeri eylem, İran'ın kritik sivil altyapısını hedef alarak bölgede geniş çaplı insani ve stratejik sonuçlar doğurabilir. Söz konusu tehdit, Orta Doğu'da istikrarsızlık endişelerini artırırken, uluslararası toplumda diplomatik çözüm çağrılarını güçlendirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36798300/pexels-photo-36798300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T05:53:38.884Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784094923041obufy",
-        "title": "CENTCOM Yetkilileri, İsrail'in Ek ABD Yakıt İkmal Uçaklarına Kısıtlamalarını Protesto Etti",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) yetkililerinin, İsrail'in bölgedeki ek ABD yakıt ikmal uçaklarına uyguladığı kısıtlamaları protesto ettiği bildirildi. Rapora göre, ABD'li yetkililer bu kısıtlamaların operasyonel ihtiyaçları zayıflattığı konusunda uyarıda bulundu. Söz konusu durumun, İran ile bölgede artan gerilimin ortasında yaşandığı belirtildi. Bu kısıtlamaların, ABD'nin Orta Doğu'daki askeri operasyonlarını ve hazırlık durumunu olumsuz etkileyebileceği ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/87057/aircraft-delta-wing-stealth-bomber-radar-87057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T05:55:23.041Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.7,
-            "name": "İsrail, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/centcom-officials-protest-israeli-restrictions-on-additional-us-refueling-aircraft-report/3998423",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
