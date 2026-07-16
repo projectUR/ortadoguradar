@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784202161521dnr8l",
+        "title": "Cezayir'deki Yetimhanede Çıkan Yangında 11 Kişi Hayatını Kaybetti",
+        "summary": "Cezayir'in başkenti Cezayir'in doğusunda bulunan devlete ait bir çocuk refah evinde çıkan yangın büyük bir trajediye yol açtı. Olayda aralarında çocukların da bulunduğu 11 kişi yaşamını yitirdi. Yangın sonucunda 19 kişi de yaralanarak hastaneye kaldırıldı. Yetkililer, yangının çıkış nedenini belirlemek üzere soruşturma başlattı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10252687/pexels-photo-10252687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T11:42:41.521Z",
+        "location": {
+            "lat": 36.737232,
+            "lng": 3.086497,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1784202184647hlkn4",
+        "title": "İklim Finansmanı: Geçişin Maliyetini Kim Karşılayacak?",
+        "summary": "Gelişmiş ülkeler iklim finansmanı taahhütlerini azaltırken, gelişmekte olan ülkelerin iklim değişikliğine uyum sağlamak için milyarlarca dolarlık fonlara ihtiyaç duyduğu belirtiliyor. Bu durum, küresel iklim eyleminin finansal yükünün adil dağılımı konusunda uluslararası tartışmaları alevlendiriyor. Özellikle iklim değişikliğinin olumsuz etkilerine karşı daha savunmasız olan gelişmekte olan ülkeler, sera gazı emisyonlarının büyük bir kısmından sorumlu olmayan ülkelerin, iklim kriziyle mücadele için gerekli kaynaklara erişimini talep ediyor. Finansman açığı, küresel ısınmayı sınırlama hedeflerine ulaşılmasını zorlaştırırken, iklim adaletinin sağlanması için acil çözümler aranıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/5849561/pexels-photo-5849561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T11:43:04.647Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Cairo, Egypt"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784202260536ildlq",
+        "title": "İsrail, işgal altındaki Batı Şeria'daki yasa dışı yerleşimleri birbirine bağlayacak yollar için 334 milyon dolar onayladı",
+        "summary": "İsrail hükümeti, işgal altındaki Batı Şeria'da bulunan yasa dışı yerleşim birimlerini birbirine bağlayacak yolların inşası için 334 milyon dolarlık bir bütçeyi onayladı. Maliye bakanı, bu planı \"tarihi\" olarak nitelendirdi. Onaylanan bütçenin, bölgedeki mevcut yasa dışı yerleşimleri birleştirmeyi hedeflediği belirtildi. Ayrıca, bu kararın işgal altındaki topraklarda onlarca yeni yasa dışı yerleşimin kurulmasını kolaylaştıracağı ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6497232/pexels-photo-6497232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T11:44:20.536Z",
+        "location": {
+            "lat": 31.9039,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-approves-334m-for-roads-linking-illegal-settlements-in-occupied-west-bank/4000281",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784194542702g1ntf",
         "title": "Vance: Epstein'ın ABD ve İsrail İstihbaratıyla Bağlantıları Vardı",
         "summary": "ABD Başkan Yardımcısı Vance, Jeffrey Epstein'ın ABD ve İsrail istihbaratıyla bağlantıları bulunduğunu öne sürdü. Vance'ın açıklamalarına göre, Epstein'ın 'İsrail derin devleti' unsurlarıyla ilişkili olduğu izlenimi edinildi. Bu iddialar, Epstein'ın faaliyetlerinin uluslararası güvenlik ve istihbarat çevreleriyle olası bağlantılarını yeniden gündeme taşıdı. Söz konusu açıklamalar, Epstein davasının uluslararası boyutlarına dair yeni tartışmaları beraberinde getirdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/14/outspoken-moroccan-rapper-mehdi-el-youbi-arrested-in-casablanca?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784064722916e1ipp",
-        "title": "İran, Bahreyn'deki ABD Deniz Üssünü Hedef Aldı; Sirenler Çaldı",
-        "summary": "İran devlet medyası tarafından yapılan açıklamalara göre, Tahran Bahreyn'in başkentinde bulunan bir ABD deniz destek üssünü hedef aldı. Bu saldırının füze ve insansız hava araçlarıyla gerçekleştirildiği belirtildi. Olayın ardından Bahreyn genelinde sirenlerin çaldığı bildirildi. İran'ın bu eylemi, bölgedeki gerilimi artırabilecek önemli bir gelişme olarak değerlendiriliyor. Hedef alınan üs, ABD'nin Orta Doğu'daki askeri varlığının kritik noktalarından biri konumunda.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T21:32:02.916Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784060097427vunf8",
-        "title": "ABD İran'da Yeni Hedefleri Vururken, Tahran Körfez Ülkelerini ve Hürmüz Boğazı'ndaki Gemileri Hedef Aldı",
-        "summary": "ABD'nin İran'da yeni hedeflere yönelik saldırılar düzenlediği bildirildi. Bu gelişmelerin ardından Tahran'ın Körfez ülkelerini ve Hürmüz Boğazı'ndaki deniz trafiğini hedef aldığı belirtildi. İran Dışişleri Bakan Yardımcısı, ABD'yi geçici barış anlaşmasını yok etmekle suçladı. Bu durum, bölgedeki gerilimin tırmandığına işaret ediyor ve Orta Doğu'daki güvenlik endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T20:14:57.427Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1784060117758lygso",
-        "title": "ABD Başkanı Trump, Irak Başbakanı Ali el-Zaidi ile Beyaz Saray'da Bir Araya Geldi",
-        "summary": "ABD Başkanı Donald Trump, Irak Başbakanı Ali el-Zaidi'yi Beyaz Saray'da kabul etti. Görüşmede, iki ülke arasındaki ikili ilişkiler ve bölgesel konuların ele alındığı bildirildi. Zirvenin, ABD ile Irak arasındaki stratejik ortaklığın güçlendirilmesi hedefine yönelik olduğu belirtildi. Liderlerin, güvenlik ve ekonomik işbirliğini artırma yollarını görüştüğü kaydedildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T20:15:17.758Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-president-trump-meets-with-fan-of-america-iraqi-pm-ali-al-zaidi?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
