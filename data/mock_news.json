@@ -1,5 +1,21 @@
 [
     {
+        "id": "17842272960748atmg",
+        "title": "Suriye'nin Jobar Bölgesinde Halk Yıkılan Evlerini Yeniden İnşa Etmekte Zorlanıyor",
+        "summary": "Suriye'nin Jobar bölgesinde yerel halk, 13 yıldır süren savaşta yıkılan evlerini yeniden inşa etme mücadelesi veriyor. Bölge, Suriye iç savaşının büyük bir bölümünde isyancıların kontrolünde kalmış, ancak hükümet güçlerinin tekrarlanan saldırıları sonucu büyük ölçüde tahrip olmuştur. Yıkımın boyutları, bölge sakinlerinin normal yaşama dönme çabalarını ve temel ihtiyaçlara erişimlerini zorlaştırmaktadır. Yeniden yapılanma sürecindeki bu zorluklar, savaşın bölge üzerindeki kalıcı etkilerini ve insani durumu gözler önüne sermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849379/pexels-photo-11849379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T18:41:36.074Z",
+        "location": {
+            "lat": 33.5333,
+            "lng": 36.35,
+            "name": "Jobar, Suriye"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17842224339726lwz0",
         "title": "Cezayir'deki Yetimhane Yangınında On Bir Kişi Hayatını Kaybetti",
         "summary": "Cezayir'in başkenti Cezayir'de bulunan bir yetimhanede çıkan yangın büyük bir trajediye yol açtı. Olayda ilk belirlemelere göre on bir kişi hayatını kaybederken, on dokuz kişi de yaralandı. Yangının yetimhanenin büyük bir bölümünü sardığı ve can kaybının bu nedenle yüksek olduğu belirtildi. Yetkililer, yangının çıkış nedenini belirlemek üzere geniş çaplı bir soruşturma başlattı. Yaralılar çevredeki hastanelere sevk edilerek tedavi altına alındı.",
@@ -780,22 +796,6 @@
             "name": "İsrail, Orta Doğu"
         },
         "source": "https://www.aa.com.tr/en/middle-east/centcom-officials-protest-israeli-restrictions-on-additional-us-refueling-aircraft-report/3998423",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784094965442pl0w7",
-        "title": "Irak Savunma Bakanlığı'ndan 3 Üst Düzey Subay Yolsuzlukla Mücadele Kapsamında Gözaltına Alındı",
-        "summary": "Irak'ta yolsuzlukla mücadele kapsamında önemli bir operasyon düzenlendi. Operasyonda, Irak Savunma Bakanlığı'ndan üç üst düzey subay gözaltına alındı. Ayrıca, 70 milyon dolarlık bir askeri hastane sözleşmesiyle ilgili olarak beş mühendis de tutuklandı. Bu gözaltılar, ülkedeki yolsuzlukla mücadele çabalarının bir parçası olarak değerlendiriliyor ve devlet kurumlarındaki şeffaflık ve hesap verebilirlik arayışını yansıtıyor. Yetkililer, soruşturmanın devam ettiğini bildirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19835552/pexels-photo-19835552.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T05:56:05.442Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-senior-iraqi-defense-ministry-officers-detained-in-anti-corruption-campaign/3998414",
         "trendScore": 85,
         "isBreaking": false
     }
