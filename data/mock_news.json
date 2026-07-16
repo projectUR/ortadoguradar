@@ -1,5 +1,101 @@
 [
     {
+        "id": "1784186664579i4hm3",
+        "title": "Eski ABD Büyükelçisi: İran, Trump'ın Kararlılığını Yanlış Hesapladı",
+        "summary": "Eski bir ABD Büyükelçisi, İran'ın dönemin ABD Başkanı Donald Trump'ın kararlılığını yanlış değerlendirdiğini ifade etti. Bu açıklama, ABD ile İran arasındaki gerilimin tırmandığı bir döneme ışık tutuyor. İki ülke arasında yaşanan karşılıklı saldırılar, Mutabakat Zaptı (MOU) anlaşmasının imzalanmasından bu yana en yoğun seviyeye ulaştı. Bu durum, Orta Doğu'daki güvenlik dinamikleri üzerinde önemli etkiler yaratmaya devam ediyor ve bölgedeki tansiyonun yüksek seyrini koruduğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T07:24:24.579Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1784186704172f3yz7",
+        "title": "İran'dan ABD'ye Bölgesel Altyapıyı Hedef Alma Uyarısı",
+        "summary": "İran, ABD'nin kendi altyapısını hedef alması halinde bölgedeki altyapıyı yok etme tehdidinde bulundu. İran askeri sözcüsü, Hürmüz Boğazı'na yönelik herhangi bir müdahalenin Tahran için \"kırılamaz kırmızı çizgi\" olduğunu vurguladı. Bu açıklama, ABD ile İran arasındaki mevcut gerilimin tırmanma potansiyelini gözler önüne seriyor. Bölgesel istikrarı tehdit eden bu tür karşılıklı uyarılar, uluslararası kamuoyunda endişeyle karşılanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T07:25:04.172Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-warns-it-will-destroy-regional-infrastructure-if-us-targets-its-infrastructure/3999815",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784186725886s23zw",
+        "title": "Batı İran'da Saldırı: Can Kaybı Yok",
+        "summary": "Batı İran'da bulunan bazı bölgelerin saldırıya uğradığı bildirildi. Yerel kaynaklardan edinilen bilgilere göre, saldırılar ABD'nin bölgedeki gerilimi tırmandırdığı bir dönemde meydana geldi. Hamedan eyaletine bağlı Kabudarahang ilçesinde gerçekleşen bu saldırılarda herhangi bir can kaybı yaşanmadığı, eyalet yetkilileri tarafından açıklandı. Olayın ardından bölgedeki acil durum birimlerinin teyakkuza geçirildiği ve durumun yakından takip edildiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T07:25:25.886Z",
+        "location": {
+            "lat": 35.25,
+            "lng": 48.45,
+            "name": "Kabudarahang, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sites-in-western-iran-come-under-attack-amid-us-escalation-no-casualties-reported/3999768",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784186749529i4qkn",
+        "title": "İran, Kuveyt ve Bahreyn'deki ABD Askeri Sistemlerini Hedef Aldığını İddia Etti",
+        "summary": "İran, Kuveyt ve Bahreyn'deki ABD askeri radar ve savunma sistemlerini hedef aldığını iddia etti. İran askeri kaynakları tarafından yapılan açıklamada, Kuveyt'teki Ali Al Salem Hava Üssü'nde konuşlu ABD kuvvetlerine ait radar sistemleri, Patriot hava savunma bataryaları ve yakıt depolama tanklarının vurulduğu belirtildi. Bu iddia, Orta Doğu'daki bölgesel gerilimi artırma potansiyeli taşıyor. ABD tarafından henüz iddialara ilişkin resmi bir doğrulama veya yalanlama gelmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163490/war-desert-guns-gunshow-163490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T07:25:49.529Z",
+        "location": {
+            "lat": 29.35,
+            "lng": 47.5,
+            "name": "Ali Al Salem Hava Üssü, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-targeted-us-military-radar-and-defense-systems-in-kuwait-bahrain/3999745",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17841867698663pyv9",
+        "title": "Irak, Erbil'deki insansız hava aracı saldırısını kınadı",
+        "summary": "Irak Başbakanı Ali el-Zaidi, Erbil'de meydana gelen insansız hava aracı saldırısını şiddetle kınadığını açıkladı. Başbakan Zaidi, halkın istikrarını baltalamayı amaçlayan 'kötü niyetli girişimlere' müsamaha göstermeyeceklerini vurguladı. Bu açıklama, ülkenin iç güvenliğine yönelik tehditlere karşı hükümetin kararlı duruşunu yansıtıyor. Saldırının detayları ve sorumluları hakkında henüz ek bilgi paylaşılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18903556/pexels-photo-18903556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T07:26:09.866Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 43.99,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-condemns-drone-attack-in-erbil/3999736",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17841867903131dgjc",
+        "title": "Ürdün, 8 İran füzesini engellediğini duyurdu",
+        "summary": "Ürdün askeri yetkilileri, ülke hava sahasına giren sekiz İran füzesinin başarıyla engellendiğini açıkladı. Yapılan bilgilendirmede, bu müdahale sonucunda herhangi bir can kaybı veya maddi hasar meydana gelmediği belirtildi. Olayın detayları hakkında ek bilgi paylaşılmazken, bölgedeki mevcut gerilim ortamında bu gelişme dikkat çekiyor. Ürdün'ün bu eylemi, bölgesel güvenlik dinamikleri açısından önem arz etmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T07:26:30.313Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.91,
+            "name": "Amman, Ürdün"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/jordan-says-it-intercepted-8-iranian-missiles/3999730",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1784176881801ovjg9",
         "title": "İran, başkent yakınlarında patlamalar bildirilmesi üzerine Tahran genelinde hava savunmasını aktifleştirdi",
         "summary": "İran'ın başkenti Tahran'da hava savunma sistemlerinin devreye girdiği bildirildi. Ülkenin doğu ve batı bölgelerinde hava savunma sistemlerinin aktifleştiği belirtildi. Yerel bir yetkili, Tahran yakınlarındaki Pakdaşt'ta patlamaların meydana geldiğini doğruladı. Olayın nedeni veya hedefi hakkında henüz detay verilmezken, bölgedeki güvenlik durumu dikkatle takip ediliyor. Bu gelişme, bölgesel gerilimlerin arttığı bir dönemde yaşandı.",
@@ -702,101 +798,5 @@
         "source": "https://www.aljazeera.com/economy/2026/7/14/how-new-yemen-tensions-could-complicate-the-global-energy-crisis?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1784031442728oveux",
-        "title": "Lübnan ve İsrail, Çerçeve Anlaşmasının Uygulanması İçin Roma'da Görüşmeler Yaptı",
-        "summary": "Lübnan ve İsrail temsilcileri, iki ülke arasındaki bir çerçeve anlaşmasının uygulanmasına yönelik görüşmelerde bulunmak üzere Roma'da bir araya geldi. Beyrut yönetimi, bu müzakerelerden İsrail'in Güney Lübnan'dan çekilmesi konusunda ilerleme kaydedilmesini umuyor. Görüşmeler, bölgedeki uzun süreli sınır anlaşmazlıklarının ve güvenlik meselelerinin diplomatik yollarla çözülmesine yönelik çabaların bir parçası olarak değerlendiriliyor. Taraflar, anlaşmanın detayları ve uygulama takvimi üzerinde durdu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T12:17:22.728Z",
-        "location": {
-            "lat": 41.9028,
-            "lng": 12.4964,
-            "name": "Roma, İtalya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784026194415znwbt",
-        "title": "Schumer, Trump'ı İran Savaşı Konusunda Eleştirdi",
-        "summary": "ABD Senatosu Çoğunluk Lideri Chuck Schumer'ın, eski Başkan Donald Trump'ı İran'a yönelik politikaları ve olası bir savaş konusundaki tutumu nedeniyle eleştirdiği bildirildi. Schumer'ın açıklamaları, ABD'nin Orta Doğu'daki stratejileri ve İran ile ilişkileri üzerine devam eden tartışmaların bir parçası olarak değerlendiriliyor. Bu eleştiri, Washington'daki siyasi çevrelerde İran'a yönelik dış politika yaklaşımlarının ne denli farklılaştığını gözler önüne seriyor. ABD'li yetkililer arasında İran'la ilgili gerilimlerin ve diplomatik çabaların geleceği konusundaki görüş ayrılıkları devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35710201/pexels-photo-35710201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T10:49:54.415Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/14/schumer-slams-trump-over-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784026232357voaoo",
-        "title": "ABD Başkanı'ndan İran'ın Nükleer Tesisine Saldırı Tehdidi",
-        "summary": "ABD Başkanı'nın İran'ın başkent Tahran'ın güneyindeki güçlendirilmiş nükleer tesisini hedef alma tehdidiyle bölgedeki gerilim tırmanıyor. Haber başlığı, ABD Başkanı'nın saldırı uyarısı yaptığı \"Pickaxe Mountain\" olarak bilinen gizemli sitenin ne olduğunu sorguluyor. Bu tehdit, iki ülke arasındaki mevcut gerilimi daha da artırarak Orta Doğu'da güvenlik endişelerini yükseltiyor ve uluslararası kamuoyunun dikkatini çekiyor. Gelişmeler, bölgesel istikrar açısından kritik önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4185120/pexels-photo-4185120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T10:50:32.357Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784026288989g811q",
-        "title": "Yemen'deki Husiler, Sanaa Havalimanı'na düzenlenen saldırıların ardından Suudi Arabistan'a füze fırlattı",
-        "summary": "Yemen'deki İran destekli Husiler, başkent Sanaa Havalimanı'na yönelik saldırılardan Suudi Arabistan'ı sorumlu tuttu. Grup, bu saldırılara misilleme olarak Suudi Arabistan'ın Abha Havalimanı'nı hedef aldıklarını açıkladı. Bu gelişme, Yemen'deki çatışmaların ve bölgesel gerilimin devam ettiğini gösteriyor. Taraflar arasındaki karşılıklı saldırılar, bölgedeki güvenlik durumunu olumsuz etkilemeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13128611/pexels-photo-13128611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T10:51:28.989Z",
-        "location": {
-            "lat": 18.22,
-            "lng": 42.5,
-            "name": "Abha, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1784026313763yl0x9",
-        "title": "İran Ordusu: Hürmüz Boğazı, İran'ın Hakları Gözetildiğinde Açılacak",
-        "summary": "İran ordusu sözcüsü, Hürmüz Boğazı'nın ancak İran halkının haklarına saygı gösterilmesi durumunda yeniden açılacağını duyurdu. Sözcü, bu stratejik su yolundan geçişin eski haline getirilmesinin tek yolunun İran'ın haklarının gözetilmesi olduğunu belirtti. Dünya petrol ticaretinin önemli bir kısmının geçtiği Hürmüz Boğazı, küresel enerji güvenliği açısından kritik bir öneme sahip. İran'dan gelen bu açıklama, bölgedeki gerilimleri artırma potansiyeli taşıyor ve uluslararası arenada dikkatle izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13820316/pexels-photo-13820316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T10:51:53.763Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/strait-of-hormuz-will-reopen-only-when-irans-rights-are-respected-says-army-/3997530",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784026334342s5ine",
-        "title": "İran'da Bandar Abbas Kentinde Yeni Patlamalar Bildirildi",
-        "summary": "İran'ın güneyindeki önemli liman kenti Bandar Abbas'ta yeni patlamaların meydana geldiği bildirildi. Bu gelişmeler, ABD ordusunun İran genelinde gerçekleştirdiği yeni bir dizi hava saldırısını tamamladığını duyurmasının hemen ardından yaşandı. Patlamaların kaynağı ve olası hedefleri hakkında henüz resmi bir açıklama yapılmazken, bölgede artan gerilim dikkat çekiyor. İranlı yetkililer, olayla ilgili detaylı bir soruşturma başlattıklarını duyurdu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9998072/pexels-photo-9998072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T10:52:14.342Z",
-        "location": {
-            "lat": 27.18,
-            "lng": 56.28,
-            "name": "Bandar Abbas, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-reports-new-explosions-in-bandar-abbas/3997497",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
