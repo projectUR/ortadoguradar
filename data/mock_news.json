@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784163806679kou39",
+        "title": "RSF, Sudan'ın Kuzeyinde Elektrik Santralini Hedef Aldı",
+        "summary": "Sudan'ın kuzeyinde yer alan bir elektrik santrali, Hızlı Destek Kuvvetleri (RSF) tarafından düzenlenen insansız hava aracı (İHA) saldırısının hedefi oldu. Yetkililer, saldırı sonucunda santralde yangın çıktığını ve bir güvenlik görevlisinin yaralandığını açıkladı. Olay nedeniyle bölgedeki elektrik tedarikinde ciddi kesintiler yaşandığı bildirildi. Bu saldırı, Sudan'da devam eden çatışmaların sivil altyapı ve enerji kaynakları üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4903654/pexels-photo-4903654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-16T01:03:26.679Z",
+        "location": {
+            "lat": 18,
+            "lng": 32,
+            "name": "Kuzey Sudan, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/africa/rsf-drone-strike-targets-power-station-in-northern-sudan/3999702",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17841530419598j3zp",
         "title": "İran, ABD saldırılarının ardından barış anlaşmasının geçersiz olduğunu ve 'varoluşsal bir savaş' verdiğini açıkladı",
         "summary": "ABD, Çarşamba gecesi İran'a yönelik yeni bir saldırı dalgası başlattığını duyurdu. Bu duyuru, İran'ın Bandar Abbas, Çabahar ve Ahvaz şehirlerinde patlamaların yaşandığı haberleriyle eş zamanlı geldi. İran yönetimi, ABD saldırılarının ardından barış anlaşmasının geçersiz hale geldiğini ve ülkenin 'varoluşsal bir savaş' verdiğini belirtti. Bu gelişmeler, iki ülke arasındaki gerilimin tırmandığını gösteriyor ve bölgedeki güvenlik endişelerini artırıyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı, Orta Doğu"
         },
         "source": "https://www.aa.com.tr/en/middle-east/explainer-who-controls-the-strait-of-hormuz-and-can-countries-charge-ships-for-protection/3997488",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784026379239j8b5j",
-        "title": "İsrail Ordusu, Askeri Tatbikat Gerekçesiyle Mescid-i Aksa Kapılarını Kapattı",
-        "summary": "Filistin resmi haber ajansı WAFA'nın bildirdiğine göre, İsrail ordusu askeri tatbikatlar gerekçesiyle Kudüs'teki Mescid-i Aksa'nın tüm kapılarını kapattı. Ajans, İsrail güçlerinin kutsal alanın girişlerini kapatarak ibadet edenlerin ve ziyaretçilerin içeri girmesini engellediğini belirtti. Bu durum, bölgedeki gerilimi artırma potansiyeli taşıyor. Müslümanlar için üçüncü en kutsal yer olan Mescid-i Aksa, sık sık İsrail-Filistin çatışmalarının merkezinde yer almaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20336423/pexels-photo-20336423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-14T10:52:59.239Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-closes-al-aqsa-mosque-gates-under-pretext-of-military-drills-report/3997446",
         "trendScore": 85,
         "isBreaking": false
     }
