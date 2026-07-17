@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784297554764z8an3",
+        "title": "Birleşik Krallık'ta İşçi Partisi Lideri Burnham Başbakanlık Yolunda Onaylandı",
+        "summary": "Birleşik Krallık'ta İşçi Partisi'nin lideri Andy Burnham, partinin başına geçerek ülkenin bir sonraki başbakanı olma yolunda onaylandı. Burnham'ın başbakanlık görevine gelmesi durumunda, kendisini bekleyen önemli zorluklar arasında yaşam maliyeti krizi ve devam eden iki savaş bulunuyor. Yeni liderin bu küresel ve iç sorunlara yönelik politikaları merakla bekleniyor. Bu gelişmeler, Birleşik Krallık'ın hem iç hem de dış politikasında yeni bir dönemin habercisi olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/29883062/pexels-photo-29883062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T14:12:34.764Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": -0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178429760739255kwp",
+        "title": "İran'ın Buşehr Nükleer Santrali'nde Uydu Görüntüleriyle Hasar Tespit Edildi",
+        "summary": "Uydu görüntüleri, İran'ın en büyük nükleer enerji santrali olan Buşehr Nükleer Santrali'nde hasar oluştuğunu gösterdi. Görüntüler, 7 ila 12 Temmuz tarihleri arasında santralde meydana gelen olayların ardından oluşan tahribatı gözler önüne serdi. Bu durum, İran'ın nükleer altyapısının güvenliği hakkında soru işaretleri yaratırken, bölgesel güvenlik dinamikleri açısından da potansiyel etkiler taşıyor. Olayın nedeni ve sorumluları hakkında henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28447274/pexels-photo-28447274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T14:13:27.392Z",
+        "location": {
+            "lat": 28.9667,
+            "lng": 50.8333,
+            "name": "Buşehr, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17842902872607du9s",
         "title": "İngiltere Kilisesi Filistin Konusunda Önemli Bir Adım Attı",
         "summary": "İngiltere Kilisesi'nin karar alma organı olan Sinod, Filistinli Hristiyanları dinleme kararı alarak, Filistin konusundaki tarihsel sorumluluklarıyla yüzleşmeye başladığını gösterdi. Bu adım, Kilise'nin Filistin'deki Hristiyan topluluklarının endişelerini ve bakış açılarını ele alma yönünde önemli bir gelişme olarak değerlendiriliyor. Karar, İngiltere Kilisesi'nin Orta Doğu'daki karmaşık siyasi ve sosyal meselelerle etkileşiminde potansiyel bir değişime işaret ediyor. Bu gelişme, uluslararası dini kurumların bölgesel çatışmalardaki rolü açısından da dikkat çekiyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/jordan-says-it-intercepted-8-iranian-missiles/3999730",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1784176881801ovjg9",
-        "title": "İran, başkent yakınlarında patlamalar bildirilmesi üzerine Tahran genelinde hava savunmasını aktifleştirdi",
-        "summary": "İran'ın başkenti Tahran'da hava savunma sistemlerinin devreye girdiği bildirildi. Ülkenin doğu ve batı bölgelerinde hava savunma sistemlerinin aktifleştiği belirtildi. Yerel bir yetkili, Tahran yakınlarındaki Pakdaşt'ta patlamaların meydana geldiğini doğruladı. Olayın nedeni veya hedefi hakkında henüz detay verilmezken, bölgedeki güvenlik durumu dikkatle takip ediliyor. Bu gelişme, bölgesel gerilimlerin arttığı bir dönemde yaşandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17854374/pexels-photo-17854374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T04:41:21.801Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-activates-air-defenses-across-tehran-as-explosions-reported-near-capital/3999710",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784163806679kou39",
-        "title": "RSF, Sudan'ın Kuzeyinde Elektrik Santralini Hedef Aldı",
-        "summary": "Sudan'ın kuzeyinde yer alan bir elektrik santrali, Hızlı Destek Kuvvetleri (RSF) tarafından düzenlenen insansız hava aracı (İHA) saldırısının hedefi oldu. Yetkililer, saldırı sonucunda santralde yangın çıktığını ve bir güvenlik görevlisinin yaralandığını açıkladı. Olay nedeniyle bölgedeki elektrik tedarikinde ciddi kesintiler yaşandığı bildirildi. Bu saldırı, Sudan'da devam eden çatışmaların sivil altyapı ve enerji kaynakları üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4903654/pexels-photo-4903654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T01:03:26.679Z",
-        "location": {
-            "lat": 18,
-            "lng": 32,
-            "name": "Kuzey Sudan, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/africa/rsf-drone-strike-targets-power-station-in-northern-sudan/3999702",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
