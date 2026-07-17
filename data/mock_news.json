@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784313258731j13gf",
+        "title": "Amputasyon Sonrası Yaşam: Gazze'li Kadınlar Futbolla İyileşiyor",
+        "summary": "Gazze Şeridi'nde yaşayan Filistinli kadınlar, bölgedeki çatışmalarda uzuvlarını kaybetmelerinin ardından futbolu bir iyileşme aracı olarak kullanıyor. Bu girişim, fiziksel ve psikolojik travmalarla başa çıkmalarına yardımcı olmayı hedefliyor. Kadınlar, futbol sahasında bir araya gelerek hem spor yapıyor hem de dayanışma içinde birbirlerine destek oluyor. Bu faaliyet, savaşın getirdiği zorluklara rağmen hayata tutunma ve toplumsal entegrasyon çabalarının bir parçası olarak öne çıkıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/16651538/pexels-photo-16651538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T18:34:18.731Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1784313348125ojh23",
+        "title": "Yemen açıklarında petrol tankeri Somali korsanları tarafından kaçırıldı",
+        "summary": "Yemen Sahil Güvenliği'nden yapılan açıklamaya göre, ASANA adlı bir petrol tankeri, Yemen'in Hadramut kıyılarının yaklaşık 26 deniz mili açığında kaçırıldı. Sahil Güvenlik, geminin Somali'ye doğru ilerlediğini ve deniz birimleri ile gözetleme uçakları tarafından takip edildiğini bildirdi. Bu olay, bölgedeki deniz güvenliği endişelerini yeniden gündeme getirdi. Yetkililer, tankerin kurtarılması için çalışmaların sürdüğünü belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9951077/pexels-photo-9951077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T18:35:48.125Z",
+        "location": {
+            "lat": 14.5,
+            "lng": 49,
+            "name": "Hadramut, Yemen (Açıkları)"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/somali-pirates-seize-oil-tanker-off-yemens-hadramout-coast-guard/4001589",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1784313384700t04ia",
+        "title": "WFP, Sudan'ın El Obeid kentinde yerinden edilmiş nüfusun artmasıyla yardımın yetersiz kaldığı konusunda uyarıyor",
+        "summary": "Dünya Gıda Programı (WFP), Sudan'ın El Obeid kentinde yerinden edilmiş kişilerin sayısının hızla artmasıyla insani yardımın yetersiz kaldığı konusunda ciddi bir uyarıda bulundu. Yetkililer, şehre yönelik artan göçmen akınını desteklemekte zorlanıldığını belirtiyor. Kentte gıda, su ve yakıt kıtlığının giderek kötüleştiği ifade ediliyor. Bu durum, bölgedeki insani krizin derinleştiğini ve acil müdahale ihtiyacını gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17067103/pexels-photo-17067103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T18:36:24.700Z",
+        "location": {
+            "lat": 13.178,
+            "lng": 30.224,
+            "name": "El Obeid, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/wfp-warns-aid-falls-short-as-displaced-population-swells-in-sudans-el-obeid/4001465",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784308619484fm0rr",
         "title": "İran Güçleri: Körfez Ülkelerindeki ABD Hedeflerine Füze ve İHA Ateşlendi",
         "summary": "İran güçleri, Körfez ülkelerinde konuşlu ABD hedeflerine yönelik füze ve insansız hava araçları saldırısı gerçekleştirdiğini açıkladı. İranlı yetkililer tarafından yapılan bu duyuru, bölgedeki ABD askeri varlıklarının hedef alındığını ortaya koydu. Saldırının detayları hakkında henüz ek bilgi paylaşılmazken, bu gelişme Orta Doğu'daki güvenlik dinamikleri açısından önem taşıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/syrian-foils-attempt-to-smuggle-weapons-missiles-to-hezbollah/4000093",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784194700611ylcqs",
-        "title": "İsrail güçleri Gazze Şehri'nin doğusunda kontrolü genişletirken 4 Filistinli hayatını kaybetti",
-        "summary": "İsrail güçlerinin Gazze Şehri'nin doğusundaki kontrolünü genişletme operasyonları sırasında 4 Filistinli hayatını kaybettiği bildirildi. Anadolu Ajansı'na konuşan görgü tanıkları, İsrail askeri araçlarının Dawla Kavşağı yakınlarındaki Sarı Hat'ın ötesine geçtiğini belirtti. Bölgede yoğun topçu ateşi ve silah sesleri duyulurken, bu ilerlemenin ateşkes ihlali anlamına geldiği ifade edildi. Çatışmalar nedeniyle çok sayıda ailenin evlerini terk etmek zorunda kaldığı aktarıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193757/pexels-photo-36193757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T09:38:20.611Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/4-palestinians-killed-as-israeli-forces-expand-control-in-eastern-gaza-city/4000089",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17841947217138ywvq",
-        "title": "İsrail ordusu Batı Şeria'da Filistinli genci vurdu, 32 kişiyi gözaltına aldı",
-        "summary": "İsrail ordusu tarafından işgal altındaki Batı Şeria'da düzenlenen baskınlarda bir Filistinli genç vuruldu. Filistin Kızılayı'ndan yapılan açıklamaya göre, 16 yaşındaki genç, El Halil'in doğusuna düzenlenen bir baskın sırasında göğsünden vurularak yaralandı. Aynı operasyonlar kapsamında İsrail güçleri 32 Filistinliyi gözaltına aldı. Olay, bölgedeki gerilimi artıran son gelişmelerden biri olarak kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35285849/pexels-photo-35285849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T09:38:41.713Z",
-        "location": {
-            "lat": 31.5333,
-            "lng": 35.1,
-            "name": "El Halil, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-shoots-palestinian-teen-arrests-32-in-occupied-west-bank-raids/4000087",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784186664579i4hm3",
-        "title": "Eski ABD Büyükelçisi: İran, Trump'ın Kararlılığını Yanlış Hesapladı",
-        "summary": "Eski bir ABD Büyükelçisi, İran'ın dönemin ABD Başkanı Donald Trump'ın kararlılığını yanlış değerlendirdiğini ifade etti. Bu açıklama, ABD ile İran arasındaki gerilimin tırmandığı bir döneme ışık tutuyor. İki ülke arasında yaşanan karşılıklı saldırılar, Mutabakat Zaptı (MOU) anlaşmasının imzalanmasından bu yana en yoğun seviyeye ulaştı. Bu durum, Orta Doğu'daki güvenlik dinamikleri üzerinde önemli etkiler yaratmaya devam ediyor ve bölgedeki tansiyonun yüksek seyrini koruduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T07:24:24.579Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
