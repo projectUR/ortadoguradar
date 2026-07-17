@@ -1,5 +1,37 @@
 [
     {
+        "id": "17843233123001rnhj",
+        "title": "İsrail, Gazze ve ABD Gücünün Geleceği",
+        "summary": "Haber, ABD'li Kongre Üyesi Ro Khanna'nın Sreenivasan Jain ile yaptığı bir söyleşiyi konu almaktadır. Söyleşinin ana gündem maddesi, İsrail-Gazze çatışmasının bölgesel ve küresel etkileri üzerine odaklanmaktadır. Özellikle, bu çatışmanın ABD'nin Orta Doğu'daki ve genel olarak küresel arenadaki gücünün geleceği üzerindeki potansiyel yansımaları ele alınmaktadır. Khanna'nın bu konudaki görüşleri ve ABD'nin bölgedeki rolüne dair değerlendirmeleri aktarılmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30550489/pexels-photo-30550489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T21:21:52.300Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17843234145391vjie",
+        "title": "Katar, İran'ın devam eden saldırılarının bölgesel güvenlik ve istikrar çabalarını baltaladığını uyardı",
+        "summary": "Katar Dışişleri Bakanlığı, İran'ın bölgedeki devam eden saldırılarının bölgesel güvenlik ve istikrarı baltaladığını belirten sert bir uyarı yayınladı. Bakanlık, bu tür eylemlerin bölgedeki gerilimi artırdığını ve barışçıl çözüm çabalarını sekteye uğrattığını vurguladı. Yapılan açıklamada, Katar'ın uluslararası hukuk ve Birleşmiş Milletler Şartı'nın 51. maddesi uyarınca \"yanıt verme hakkını\" saklı tuttuğu ifade edildi. Bu gelişme, Körfez bölgesindeki güvenlik dinamikleri ve ülkeler arası ilişkiler açısından önemli bir diplomatik adım olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11775345/pexels-photo-11775345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T21:23:34.539Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-warns-continued-iranian-attacks-undermine-regional-security-stability-efforts/4001783",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17843189304357vbzk",
         "title": "Kuveyt, güneyinde İran saldırılarıyla çıkan 2 yangının kontrol altına alındığını bildirdi",
         "summary": "Kuveyt, ülkenin güneyinde meydana gelen ve İran saldırıları sonucu çıktığı belirtilen iki yangının kontrol altına alındığını açıkladı. Kuveyt İtfaiye Gücü sözcüsü tarafından yapılan açıklamada, saldırılarda herhangi bir can kaybının yaşanmadığı bildirildi. Olayın detaylarına ilişkin henüz ek bilgi verilmezken, yangınların çıkış nedeni ve sorumlular hakkında soruşturma başlatılması bekleniyor. Bu gelişme, bölgedeki güvenlik durumuna dair endişeleri artırdı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784194609271y2qsc",
-        "title": "İran, ABD'nin Hava Saldırıları Başlatmasının Ardından Askeri Üsleri Hedef Aldı",
-        "summary": "ABD'nin bölgede bir dizi hava saldırısı başlatmasının ardından İran'ın askeri üsleri hedef aldığı bildirildi. Gece boyunca İran genelinde şiddetli patlama sesleri duyulduğu aktarıldı. Bu patlamalar, komşu Körfez ülkelerinin kendi bölgelerinde saldırı haberleri vermeye başlamasından kısa bir süre sonra meydana geldi. Gelişmeler, ABD ile İran arasındaki gerilimin tırmandığına işaret ediyor ve bölgesel güvenliğe dair endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5781287/pexels-photo-5781287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T09:36:49.271Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1784194634296f238q",
-        "title": "Azerbaycan Cumhurbaşkanı Aliyev: Filistin Devleti'ni Doğu Kudüs Başkent Olacak Şekilde Destekliyoruz",
-        "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, Filistin devletinin Doğu Kudüs'ün başkent olmasıyla kurulmasını desteklediklerini açıkladı. Cumhurbaşkanlığı tarafından yapılan açıklamaya göre, Aliyev bu beyanı Filistin Başbakanı'nın Azerbaycan'a gerçekleştirdiği ziyaret sırasında dile getirdi. Aliyev, söz konusu ziyaretin iki ülke arasındaki ilişkileri daha da güçlendireceğine olan inancını ifade etti. Bu açıklama, Azerbaycan'ın Filistin meselesine yönelik diplomatik duruşunu bir kez daha teyit ederken, uluslararası arenada Filistin'e verilen desteğin bir parçası olarak öne çıkıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T09:37:14.296Z",
-        "location": {
-            "lat": 40.41,
-            "lng": 49.87,
-            "name": "Bakü, Azerbaycan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/azerbaijan-supports-establishment-of-palestinian-state-with-east-jerusalem-as-capital-president/4000131",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
