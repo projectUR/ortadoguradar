@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784260164807pzxra",
+        "title": "100'den Fazla Orman Yangını Cezayir'i Sivil Koruma Personelini Acilen Geri Çağırmaya Sevk Etti",
+        "summary": "Cezayir'de 100'den fazla orman yangını çıktı. Bu durum üzerine ülke, sivil koruma personelini acilen göreve geri çağırdı. Yangınların, bölgede etkili olan aşırı sıcak hava dalgası nedeniyle çıktığı belirtiliyor. Meteoroloji yetkilileri, Pazar gününe kadar bazı bölgelerde sıcaklıkların 48 santigrat dereceye veya üzerine çıkmasının beklendiğini duyurdu. Ülke genelinde yangınlarla mücadele çalışmaları yoğun bir şekilde sürdürülüyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/4621457/pexels-photo-4621457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T03:49:24.807Z",
+        "location": {
+            "lat": 36.737232,
+            "lng": 3.086497,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/over-100-wildfires-prompt-algeria-to-urgently-recall-civil-protection-personnel/4000881",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784246841409wj0av",
         "title": "Vietnamlı Aktivist Gazze'nin Acılarına Nadir Bir Ulusal Dikkat Çekti",
         "summary": "Vietnam'da aktivist Bao Ngoc, ülkesinde protestoların sıkı kontrol altında olduğu bir ortamda Gazze'deki Filistinlilerin yaşadığı zorluklara dikkat çekti. Bu eylem, Vietnam'da Gazze'deki insani duruma yönelik nadir bir ulusal ilgi odağı oluşturdu. Ngoc'un çabaları, Filistin halkının acılarına ve uluslararası kamuoyunun bu konudaki duyarlılığına vurgu yapmayı amaçlıyor. Haber, Orta Doğu'daki çatışmaların ve insani krizlerin küresel çapta yankı bulduğunu ve farklı coğrafyalardaki bireyler tarafından da gündeme getirildiğini gösteriyor. Bu durum, insan hakları ihlallerine karşı uluslararası dayanışmanın önemini bir kez daha ortaya koyuyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/3-palestinians-injured-in-occupier-attacks-israeli-army-arrests-6-in-occupied-west-bank/3998787",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1784103535233z3eqz",
-        "title": "ABD, İran'a Saldırırken, Devrim Muhafızları Körfez'deki ABD Askeri Tesislerini Vurduğunu İddia Etti",
-        "summary": "ABD'nin İran limanlarına yönelik ablukayı yenilemesi ve bir dizi hava saldırısı düzenlemesiyle bölgedeki gerilim tırmandı. Bu gelişmelerin ardından petrol fiyatlarında artış yaşandı. İran Devrim Muhafızları, Basra Körfezi'ndeki ABD askeri tesislerine yönelik saldırılar düzenlediğini iddia etti. ABD ile İran arasındaki bu doğrudan çatışma, Orta Doğu'da güvenlik endişelerini derinleştirirken, küresel enerji piyasalarında da belirsizliğe yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T08:18:55.233Z",
-        "location": {
-            "lat": 27,
-            "lng": 50,
-            "name": "Basra Körfezi, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
