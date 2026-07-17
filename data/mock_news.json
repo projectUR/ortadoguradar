@@ -1,5 +1,37 @@
 [
     {
+        "id": "17843189304357vbzk",
+        "title": "Kuveyt, güneyinde İran saldırılarıyla çıkan 2 yangının kontrol altına alındığını bildirdi",
+        "summary": "Kuveyt, ülkenin güneyinde meydana gelen ve İran saldırıları sonucu çıktığı belirtilen iki yangının kontrol altına alındığını açıkladı. Kuveyt İtfaiye Gücü sözcüsü tarafından yapılan açıklamada, saldırılarda herhangi bir can kaybının yaşanmadığı bildirildi. Olayın detaylarına ilişkin henüz ek bilgi verilmezken, yangınların çıkış nedeni ve sorumlular hakkında soruşturma başlatılması bekleniyor. Bu gelişme, bölgedeki güvenlik durumuna dair endişeleri artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7777508/pexels-photo-7777508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T20:08:50.435Z",
+        "location": {
+            "lat": 29.5,
+            "lng": 47.7,
+            "name": "Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-it-controlled-2-fires-sparked-by-iranian-strikes-in-country-s-south/4001799",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178431898206403xfs",
+        "title": "Irak ve Suriye, Washington'da Ham Petrol Boru Hattını Canlandırma Anlaşması İmzaladı",
+        "summary": "Irak ve Suriye, ABD'nin başkenti Washington'da, iki ülke arasındaki önemli bir ham petrol boru hattını yeniden faaliyete geçirmek üzere bir anlaşma imzaladı. ABD Dışişleri Bakanlığı, bu anlaşmayı memnuniyetle karşıladığını bildirdi. Bakanlık, söz konusu boru hattının hem ikili hem de bölgesel stratejik öneme sahip öncelikli bir altyapı projesi olduğunu vurguladı. Bu gelişme, Orta Doğu'da enerji işbirliğini güçlendirmeyi ve bölgesel enerji güvenliğine katkıda bulunmayı hedefliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/18784617/pexels-photo-18784617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T20:09:42.064Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-syria-sign-deal-in-washington-to-revive-crude-oil-pipeline/4001780",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784313258731j13gf",
         "title": "Amputasyon Sonrası Yaşam: Gazze'li Kadınlar Futbolla İyileşiyor",
         "summary": "Gazze Şeridi'nde yaşayan Filistinli kadınlar, bölgedeki çatışmalarda uzuvlarını kaybetmelerinin ardından futbolu bir iyileşme aracı olarak kullanıyor. Bu girişim, fiziksel ve psikolojik travmalarla başa çıkmalarına yardımcı olmayı hedefliyor. Kadınlar, futbol sahasında bir araya gelerek hem spor yapıyor hem de dayanışma içinde birbirlerine destek oluyor. Bu faaliyet, savaşın getirdiği zorluklara rağmen hayata tutunma ve toplumsal entegrasyon çabalarının bir parçası olarak öne çıkıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/azerbaijan-supports-establishment-of-palestinian-state-with-east-jerusalem-as-capital-president/4000131",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1784194656684rn34o",
-        "title": "Irak'ın Basra kentinde araçla çarpma olayında en az 9 kişi hayatını kaybetti, 12 kişi yaralandı",
-        "summary": "Irak'ın Basra kentinde meydana gelen trajik bir olayda, dini bir töreni anmak için yürüyen bir grup hacıya bir aracın çarpması sonucu en az 9 kişi yaşamını yitirdi, 12 kişi ise yaralandı. Sağlık Bakanlığı, olayın ardından acil durum müdahale ekiplerini hızla seferber etti. Yaralılar çevredeki hastanelere kaldırılarak tedavi altına alınırken, güvenlik güçleri olayın tüm detaylarını aydınlatmak için soruşturma başlattı. Olay, bölgede büyük üzüntüye neden oldu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11734701/pexels-photo-11734701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T09:37:36.684Z",
-        "location": {
-            "lat": 30.5,
-            "lng": 47.8,
-            "name": "Basra, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/at-least-9-killed-12-injured-in-vehicle-ramming-incident-in-basra-iraq/4000130",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1784194679747bmc9u",
-        "title": "Suriye, Hizbullah'a yönelik silah ve füze kaçakçılığı girişimini engelledi",
-        "summary": "Suriye İçişleri Bakanlığı, Irak sınırında önemli bir silah ve füze sevkiyatının engellendiğini duyurdu. Bakanlık yetkilileri, ele geçirilen mühimmatın Suriye üzerinden Lübnan'daki Hizbullah grubuna ulaştırılmak üzere olduğunu belirtti. Bu operasyon, Suriye'nin bölgesel güvenlik ve istikrarı tehdit eden yasa dışı kaçakçılık faaliyetleriyle mücadelesinin bir parçası olarak değerlendirildi. Olay, Orta Doğu'daki silah kaçakçılığı rotaları ve bölgesel aktörler arasındaki gerilimleri bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3678428/pexels-photo-3678428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T09:37:59.747Z",
-        "location": {
-            "lat": 34.5,
-            "lng": 40.5,
-            "name": "Suriye-Irak Sınırı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrian-foils-attempt-to-smuggle-weapons-missiles-to-hezbollah/4000093",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
