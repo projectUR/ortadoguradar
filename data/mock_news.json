@@ -1,5 +1,69 @@
 [
     {
+        "id": "1784285391654zqvw2",
+        "title": "İsrail'de Knesset Feshedildi: Ülke 2026 Genel Seçimlerine Gidiyor",
+        "summary": "İsrail parlamentosu Knesset, 1988'den bu yana ilk kez tam bir dönemi tamamlamasının ardından feshedildi. Bu gelişmeyle birlikte İsrail, 27 Ekim 2026 tarihinde yapılması planlanan kritik genel seçimlere doğru ilerliyor. Ülke siyasetinde yeni bir dönemin kapılarını aralayan bu süreç, iç ve dış politikada önemli değişikliklere yol açabilir. Siyasi partiler ve liderler, önümüzdeki dönemde yoğun bir seçim kampanyası sürecine girecek.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1550336/pexels-photo-1550336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T10:49:51.654Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1784285431277xfh4y",
+        "title": "Çin ekonomisindeki yavaşlama, Pekin için sorunlara yol açabilir",
+        "summary": "Çin ekonomisinde gözlemlenen yavaşlama, uzmanlar tarafından Pekin yönetimi için potansiyel sorunlar yaratacağı şeklinde değerlendiriliyor. Ülkenin \"ihracat motoru oldukça güçlü çalışmaya devam etse de\", istihdam yaratma konusunda geride kalındığı belirtiliyor. Bu durum, Çin'deki harcamaları kısıtlayarak iç talebi olumsuz etkiliyor. Ekonomik büyümedeki bu ivme kaybı, küresel piyasaları ve özellikle Çin ile yoğun ticari ilişkilere sahip Orta Doğu ülkelerini dolaylı yoldan etkileyebilir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/30839695/pexels-photo-30839695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T10:50:31.277Z",
+        "location": {
+            "lat": 39.9042,
+            "lng": 116.4074,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784285456973xdqza",
+        "title": "Haaretz: İsrail, Gazze'de çocukları 'rutin bir mesele' olarak öldürmeye devam ediyor",
+        "summary": "İsrail gazetesi Haaretz'in haberine göre, İsrail'in Gazze'de çocukları öldürmesi 'rutin bir mesele' haline geldi. Gazete, 10 Ekim'de yürürlüğe giren ateşkesin ardından her gün ortalama bir çocuğun öldürüldüğünü belirtti. Bu durum, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini ve özellikle çocuk ölümlerinin devam ettiğini gözler önüne seriyor. Rapor, uluslararası toplumda insan hakları ihlalleri ve sivil kayıplar konusundaki endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T10:50:56.973Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-continues-killing-gaza-children-as-matter-of-routine-haaretz/4001286",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1784285477330s1n89",
+        "title": "Ramallah Yakınlarındaki Bir Kasabaya 100'den Fazla İsrailli Yerleşimci Saldırdı",
+        "summary": "Ramallah yakınlarındaki bir kasabanın belediye başkanı, 100'den fazla İsrailli yerleşimcinin bölgeye saldırı düzenlediğini bildirdi. Belediye başkanı, saldırganların bölge sakinleri ve aktivistlere ateş açtığını ve tarım arazilerini ateşe verdiğini belirtti. Olayın Ramallah'ın kuzeyinde meydana geldiği kaydedildi. Saldırı, bölgedeki gerilimi artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2514316/pexels-photo-2514316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T10:51:17.330Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/over-100-israeli-occupiers-attack-town-near-ramallah-mayor/4001255",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17842773177347e4p7",
         "title": "Körfez Ülkeleri İran'ın Hedefinde: ABD Saldırıları Yoğunlaşıyor",
         "summary": "ABD'nin İran'a yönelik saldırılarının yoğunlaşmasıyla birlikte, Tahran'ın bölgedeki birçok ülkeyi hedef aldığı bildirildi. Körfez ülkeleri, İran'dan gelen misilleme niteliğindeki saldırıların hedefi haline geldi. Bu durum, ABD'nin İran'a yönelik eylemlerine karşı bölgesel bir gerilimin tırmandığını gösteriyor. Haberlere göre, İran'ın bu adımları, bölgedeki güvenlik dinamiklerini daha da karmaşık hale getiriyor ve yeni bir çatışma riskini artırıyor.",
@@ -732,70 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanon-receives-remains-of-soldier-withheld-by-israel/3999621",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784147655726c4gv0",
-        "title": "Rusya, Ukrayna'yı Füze ve İHA Saldırılarıyla Vurdu",
-        "summary": "Rusya, Ukrayna genelinde füze ve insansız hava aracı saldırılarını yoğunlaştırdı. Ülkenin çeşitli bölgelerindeki sivil altyapı ve yerleşim yerleri hedef alındı. Yayınlanan görüntülerde, saldırılar sonrası çıkan büyük yangınlara itfaiye ekiplerinin müdahale ettiği ve hasarın boyutunun büyük olduğu görüldü. Ukraynalı yetkililer, saldırıların can kaybına ve geniş çaplı yıkıma yol açtığını bildirdi. Bu son saldırılar, Rusya-Ukrayna savaşındaki gerilimi ve çatışmanın şiddetini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4833556/pexels-photo-4833556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T20:34:15.726Z",
-        "location": {
-            "lat": 50.45,
-            "lng": 30.52,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784147738687j4sc5",
-        "title": "İran'dan ABD'nin Yeni Saldırılarına Karşılık Ticaret Yollarını Kapatma Tehdidi",
-        "summary": "ABD Başkanı Donald Trump, İran'ın müzakerelere geri dönmemesi halinde gelecek hafta ülkenin köprüleri ve enerji santrallerini hedef alacağını duyurdu. Bu açıklama, ABD'nin İran'a yönelik yeni saldırılar başlatmasının ardından geldi. İran ise bu gelişmelere misilleme olarak daha fazla ticaret yolunu kapatma tehdidinde bulundu. Bölgedeki gerilim artarken, iki ülke arasındaki ilişkilerde tansiyon yükselmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T20:35:38.687Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784142965749er3as",
-        "title": "İsrail Askeri Kısıtlamaları Filistin Evlerini Mühürledi",
-        "summary": "İsrail ordusu tarafından uygulanan yeni kısıtlamalar, Filistinli ailelerin evlerinin bazı bölümlerine erişimini engelledi. Bu askeri emir, yerleşimcilerin gerçekleştirdiği bir dizi saldırının ardından yürürlüğe konuldu. Uygulanan kısıtlamalar nedeniyle, Filistinli aileler kendi konutlarının belirli kısımlarından mahrum bırakıldı. Bu durum, bölgedeki gerilimi artırabilecek yeni bir gelişme olarak değerlendiriliyor ve insan hakları örgütleri tarafından endişeyle karşılanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18772972/pexels-photo-18772972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T19:16:05.749Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784131474794mlobi",
-        "title": "İran, ABD saldırılarını 'saldırganlık' olarak kınadı, misilleme sözü verdi",
-        "summary": "İran Dışişleri Bakanlığı sözcüsü, ülkenin güneyine yönelik ABD saldırılarını sert bir dille kınadı. Sözcü, bu eylemleri 'İran topraklarına yönelik bir saldırganlık' olarak nitelendirerek tamamen yasa dışı olduğunu belirtti. Tahran yönetimi, ABD'nin bu adımlarına karşı misilleme yapma tehdidinde bulundu. Bu açıklama, iki ülke arasındaki mevcut gerilimin daha da tırmandığına işaret ediyor. Olay, bölgesel güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T16:04:34.794Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-condemns-us-attacks-as-aggression-vows-retaliation/3999284",
         "trendScore": 85,
         "isBreaking": false
     }
