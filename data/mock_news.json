@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784246841409wj0av",
+        "title": "Vietnamlı Aktivist Gazze'nin Acılarına Nadir Bir Ulusal Dikkat Çekti",
+        "summary": "Vietnam'da aktivist Bao Ngoc, ülkesinde protestoların sıkı kontrol altında olduğu bir ortamda Gazze'deki Filistinlilerin yaşadığı zorluklara dikkat çekti. Bu eylem, Vietnam'da Gazze'deki insani duruma yönelik nadir bir ulusal ilgi odağı oluşturdu. Ngoc'un çabaları, Filistin halkının acılarına ve uluslararası kamuoyunun bu konudaki duyarlılığına vurgu yapmayı amaçlıyor. Haber, Orta Doğu'daki çatışmaların ve insani krizlerin küresel çapta yankı bulduğunu ve farklı coğrafyalardaki bireyler tarafından da gündeme getirildiğini gösteriyor. Bu durum, insan hakları ihlallerine karşı uluslararası dayanışmanın önemini bir kez daha ortaya koyuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T00:07:21.409Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gaza, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784242773655w29n4",
         "title": "ABD'li Vekil Ilhan Omar, ABD'nin Uluslararası Ceza Mahkemesi'ne Katılımı İçin Yeniden Harekete Geçti",
         "summary": "ABD Temsilciler Meclisi Üyesi Ilhan Omar, ülkesinin Uluslararası Ceza Mahkemesi'ne (UCM) katılması yönündeki çabalarını yeniden başlattı. Bu girişim, ABD Dışişleri Bakanı Marco Rubio'nun UCM'yi 'dağıtma' sözü vermesinden sadece günler sonra geldi. Omar'ın bu hamlesi, Trump yönetiminin UCM'ye yönelik artan baskısı ve eleştirileri karşısında ABD'nin uluslararası hukuk kurumlarıyla ilişkilerini yeniden değerlendirme çağrısı olarak yorumlanıyor. UCM'nin özellikle Filistin topraklarındaki olası savaş suçları soruşturmaları nedeniyle Orta Doğu'daki gelişmelerle doğrudan ilgisi bulunuyor.",
@@ -780,22 +796,6 @@
             "name": "Basra Körfezi, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784103630808v5qvo",
-        "title": "Trump'tan İran'a Müzakere Çağrısı ve Bombalama Tehdidi",
-        "summary": "ABD Başkanı Donald Trump, İran'ın müzakerelere geri dönmemesi durumunda ülkedeki köprüleri ve enerji santrallerini bombalama tehdidinde bulundu. Bu açıklamalar, ABD ile İran arasında dördüncü gündür devam eden karşılıklı çatışmaların ve ABD'nin İran limanlarına yönelik ablukayı yeniden başlatmasının ardından geldi. Bölgedeki gerilim, bu gelişmelerle birlikte daha da tırmanmış durumda. Uluslararası toplum, iki ülke arasındaki tansiyonun düşürülmesi çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-15T08:20:30.808Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
     }
