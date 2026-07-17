@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784308619484fm0rr",
+        "title": "İran Güçleri: Körfez Ülkelerindeki ABD Hedeflerine Füze ve İHA Ateşlendi",
+        "summary": "İran güçleri, Körfez ülkelerinde konuşlu ABD hedeflerine yönelik füze ve insansız hava araçları saldırısı gerçekleştirdiğini açıkladı. İranlı yetkililer tarafından yapılan bu duyuru, bölgedeki ABD askeri varlıklarının hedef alındığını ortaya koydu. Saldırının detayları hakkında henüz ek bilgi paylaşılmazken, bu gelişme Orta Doğu'daki güvenlik dinamikleri açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-17T17:16:59.484Z",
+        "location": {
+            "lat": 25,
+            "lng": 50,
+            "name": "Körfez Ülkeleri"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178430377164858yfj",
         "title": "'Tuvaletimizi aldılar': Bir yerleşimin Filistin köyünü nasıl sıkıştırdığı",
         "summary": "Batı Şeria'daki Umm al-Khair köyünün bitişiğine yasa dışı bir İsrail yerleşimi kuruldu. Bu yerleşim, köy sakinlerini topraklarından anında ayırarak yaşam alanlarını daralttı. Haber başlığı, yerleşimin Filistinli köylülerin günlük yaşamlarına ve temel ihtiyaçlarına yönelik doğrudan etkilerini vurguluyor. Bölgedeki Filistin köylerinin, İsrail yerleşimleri nedeniyle karşılaştığı zorlukları ve toprak kayıplarını gözler önüne seriyor. Bu durum, bölgedeki gerilimi artıran önemli bir faktör olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1784186704172f3yz7",
-        "title": "İran'dan ABD'ye Bölgesel Altyapıyı Hedef Alma Uyarısı",
-        "summary": "İran, ABD'nin kendi altyapısını hedef alması halinde bölgedeki altyapıyı yok etme tehdidinde bulundu. İran askeri sözcüsü, Hürmüz Boğazı'na yönelik herhangi bir müdahalenin Tahran için \"kırılamaz kırmızı çizgi\" olduğunu vurguladı. Bu açıklama, ABD ile İran arasındaki mevcut gerilimin tırmanma potansiyelini gözler önüne seriyor. Bölgesel istikrarı tehdit eden bu tür karşılıklı uyarılar, uluslararası kamuoyunda endişeyle karşılanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T07:25:04.172Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-warns-it-will-destroy-regional-infrastructure-if-us-targets-its-infrastructure/3999815",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
