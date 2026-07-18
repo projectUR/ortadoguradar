@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784387097304r0nwg",
+        "title": "Irak, Başbakanın Washington Ziyaretinde ABD Şirketleriyle 48 Anlaşma İmzaladı",
+        "summary": "Irak Başbakanı'nın Washington'a gerçekleştirdiği ziyaret sırasında ABD şirketleriyle toplam 48 anlaşmaya imza atıldı. Bu anlaşmalar arasında, uzun süredir faaliyette olmayan Irak-Suriye ham petrol boru hattının yeniden inşası projesi de yer alıyor. Söz konusu boru hattının yeniden faaliyete geçmesiyle, Irak'ın petrol sevkiyatında Hürmüz Boğazı'nı bypass etme potansiyeli doğacağı belirtiliyor. Bu durum, Irak'ın enerji ihracat rotalarında çeşitlilik yaratma ve bölgesel enerji güvenliğine katkıda bulunma açısından önem taşıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/18784617/pexels-photo-18784617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T15:04:57.304Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784383156502uvag7",
         "title": "İran, savaş yoğunlaşırken ABD'yi kritik altyapıyı vurmakla suçladı",
         "summary": "İran, ABD'yi ülkedeki kritik altyapı tesislerini hedef almakla suçladığını duyurdu. Bu suçlama, bölgedeki çatışmanın giderek yoğunlaştığı bir döneme denk geliyor. Haber içeriğine göre, gerilim ABD Başkanı Donald Trump'ın on gün önce İran ile yapılan barış anlaşmasının sona erdiğini açıklamasıyla tırmanışa geçti. Bu durum, iki ülke arasındaki ilişkilerde yeni bir gerilim dalgasına işaret ederken, bölgedeki gelişmeler uluslararası kamuoyu tarafından yakından takip ediliyor.",
@@ -780,22 +796,6 @@
             "name": "Kuveyt"
         },
         "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-it-detected-32-drones-fired-by-iran-on-thursday/4000800",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784232224505d0u9m",
-        "title": "Irak, eski petrol bakanıyla bağlantılı saklanma yerlerinde 19 milyon dolar bulunduğunu açıkladı",
-        "summary": "Irak makamları, eski bir petrol bakanıyla bağlantılı olduğu iddia edilen saklanma yerlerinde büyük miktarda nakit para ve altın mücevher ele geçirdiğini açıkladı. Yapılan duyuruya göre, ele geçirilen nakit paranın toplam değeri 19 milyon dolara ulaşıyor. Ayrıca, operasyon sırasında birkaç kilogram altın mücevher de bulundu. Bu operasyonun, ülkedeki yolsuzlukla mücadele kapsamında yürütüldüğü belirtildi. Yetkililer, konuyla ilgili soruşturmanın devam ettiğini bildirdi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/31916807/pexels-photo-31916807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T20:03:44.505Z",
-        "location": {
-            "lat": 33.3441,
-            "lng": 44.3615,
-            "name": "Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
