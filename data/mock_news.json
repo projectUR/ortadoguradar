@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784395980348ngtxs",
+        "title": "ABD'nin İran Limanlarına Yönelik Deniz Ablukasını Yeniden Uygulamaya Koyması Bekleniyor",
+        "summary": "Amerika Birleşik Devletleri'nin İran limanlarına yönelik deniz ablukasını yeniden uygulamaya koyması bekleniyor. Bu adımın, İran halkı üzerinde ekonomik ve sosyal baskıyı önemli ölçüde artıracağı öngörülüyor. Ayrıca, küresel enerji piyasalarında da belirgin dalgalanmalara yol açabileceği belirtiliyor. Söz konusu ablukanın, bölgedeki jeopolitik gerilimi tırmandırma potansiyeli taşıdığı ve uluslararası ticaret yollarını etkileyebileceği ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20432165/pexels-photo-20432165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T17:33:00.348Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784396045779q082v",
+        "title": "İran saldırılarının ardından Kuveyt üzerinde dumanlar yükseldi",
+        "summary": "Kuveyt üzerinde, İran tarafından gerçekleştirilen saldırıların ardından yoğun dumanlar yükseldi. İran güçlerinin Kuveyt'in Mangaf bölgesindeki birden fazla noktayı hedef aldığı bildirildi. Saldırılar sonucunda bölgede büyük çaplı duman sütunları oluştuğu gözlemlendi. Olayın ardından bölgedeki güvenlik durumu yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525965/pexels-photo-16525965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T17:34:05.779Z",
+        "location": {
+            "lat": 29.1,
+            "lng": 48.1,
+            "name": "Mangaf, Kuveyt"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1784387097304r0nwg",
         "title": "Irak, Başbakanın Washington Ziyaretinde ABD Şirketleriyle 48 Anlaşma İmzaladı",
         "summary": "Irak Başbakanı'nın Washington'a gerçekleştirdiği ziyaret sırasında ABD şirketleriyle toplam 48 anlaşmaya imza atıldı. Bu anlaşmalar arasında, uzun süredir faaliyette olmayan Irak-Suriye ham petrol boru hattının yeniden inşası projesi de yer alıyor. Söz konusu boru hattının yeniden faaliyete geçmesiyle, Irak'ın petrol sevkiyatında Hürmüz Boğazı'nı bypass etme potansiyeli doğacağı belirtiliyor. Bu durum, Irak'ın enerji ihracat rotalarında çeşitlilik yaratma ve bölgesel enerji güvenliğine katkıda bulunma açısından önem taşıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1784237625434btbvu",
-        "title": "Batı Şeria'da İsrailli Yerleşimci Saldırılarında Filistinliler Yaralandı",
-        "summary": "Batı Şeria'da İsrailli yerleşimcilerin düzenlediği saldırılarda çok sayıda Filistinlinin yaralandığı bildirildi. İşgal altındaki topraklarda 30'dan fazla kişinin gözaltına alındığı belirtildi. İsrail'in bölgedeki kuşatmayı yoğunlaştırdığı kaydedildi. Bu gelişmeler, bölgedeki güvenlik durumunu ve gerilimi artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553345/pexels-photo-8553345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T21:33:45.434Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784237708519svalb",
-        "title": "Kuveyt, Perşembe Günü İran Tarafından Fırlatılan 32 İnsansız Hava Aracını Tespit Ettiğini Duyurdu",
-        "summary": "Kuveyt Savunma Bakanlığı, Perşembe günü İran tarafından fırlatılan 32 insansız hava aracının tespit edildiğini bildirdi. Bakanlık açıklamasında, bu insansız hava araçlarının engellenmesi sırasında maddi hasar meydana geldiği ancak herhangi bir can kaybı yaşanmadığı belirtildi. Olayın bölgedeki güvenlik dinamikleri açısından önem taşıdığı ifade edildi. Kuveyt, gelişmeleri yakından takip ettiğini ve gerekli önlemleri aldığını duyurdu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17057672/pexels-photo-17057672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T21:35:08.519Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-it-detected-32-drones-fired-by-iran-on-thursday/4000800",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
