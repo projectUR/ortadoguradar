@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784347587375jgm37",
+        "title": "ABD, artan bölgesel gerilimler nedeniyle Orta Doğu seyahat uyarısını yineledi",
+        "summary": "Amerika Birleşik Devletleri Dışişleri Bakanlığı, Orta Doğu'daki güvenlik ortamının karmaşık yapısını gerekçe göstererek Amerikan vatandaşlarına bölgede dikkatli olmaları çağrısında bulundu. Bakanlık, artan bölgesel gerilimler ışığında daha önce yayımlanan seyahat uyarısını yeniden yürürlüğe koydu. Bu uyarı, bölgedeki mevcut güvenlik risklerine karşı Amerikalıların tedbirli davranmasını hedefliyor. Dışişleri Bakanlığı, vatandaşlarından seyahat planlarını gözden geçirmelerini ve yerel koşulları yakından takip etmelerini istedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12110999/pexels-photo-12110999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T04:06:27.375Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-reissues-middle-east-travel-warning-amid-heightened-regional-tensions/4001910",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "178433625910972zu3",
         "title": "ABD ve İran Arasında Art Arda Yedinci Gece Saldırı Alışverişi Yaşandı",
         "summary": "ABD ve İran arasında art arda yedinci gece de saldırı alışverişi yaşandığı bildirildi. Bölgedeki gerilimin tırmandığı gözlemlenirken, çatışmaların şiddetlendiği belirtildi. ABD'nin gerçekleştirdiği saldırıların İran'ın iç kesimlerine doğru genişlediği kaydedildi. Bu durum, iki ülke arasındaki tansiyonun kritik seviyelere ulaştığını gösteriyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-approves-334m-for-roads-linking-illegal-settlements-in-occupied-west-bank/4000281",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784194542702g1ntf",
-        "title": "Vance: Epstein'ın ABD ve İsrail İstihbaratıyla Bağlantıları Vardı",
-        "summary": "ABD Başkan Yardımcısı Vance, Jeffrey Epstein'ın ABD ve İsrail istihbaratıyla bağlantıları bulunduğunu öne sürdü. Vance'ın açıklamalarına göre, Epstein'ın 'İsrail derin devleti' unsurlarıyla ilişkili olduğu izlenimi edinildi. Bu iddialar, Epstein'ın faaliyetlerinin uluslararası güvenlik ve istihbarat çevreleriyle olası bağlantılarını yeniden gündeme taşıdı. Söz konusu açıklamalar, Epstein davasının uluslararası boyutlarına dair yeni tartışmaları beraberinde getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8294654/pexels-photo-8294654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T09:35:42.702Z",
-        "location": {
-            "lat": 31,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
