@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784406065509f82rp",
+        "title": "Gazze'deki 'ateşkes' İsrail saldırılarını neden durduramadı?",
+        "summary": "Gazze'de ilan edilen 'ateşkes'e rağmen İsrail'in Filistinlilere yönelik saldırılarının devam ettiği belirtiliyor. Haber, 'soykırım savaşı' olarak nitelendirilen sürece maruz kalan Filistinlilerin hala hedef alındığını vurguluyor. Bu durum, bölgedeki insani krizin sürdüğünü ve çatışmaların tam olarak sona ermediğini gösteriyor. Devam eden saldırılar, mevcut ateşkes anlaşmalarının etkinliği ve uygulanabilirliği hakkında soru işaretleri yaratıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T20:21:05.509Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1784406115301ldye2",
+        "title": "İsrail'in Gazze'deki yerleşim bölgelerine saldırılarında sekiz kişi hayatını kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail güçlerinin yerleşim bölgelerine düzenlediği saldırılarda sekiz kişi hayatını kaybetti. Olay, bölgedeki gerilimi yeniden tırmandırdı. Saldırıların, İsrail güçlerinin ateşkes kapsamında tutması gereken hattın çok ötesindeki Gazze Şehri mahallelerini hedef aldığı belirtildi. Bu durum, mevcut ateşkes anlaşmasının ihlal edildiği yönündeki endişeleri artırdı. Uluslararası toplumdan olaya ilişkin henüz resmi bir açıklama gelmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T20:21:55.301Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gaza City, Palestine"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "178440613792154psc",
+        "title": "Ürdün'deki Saldırıda İki ABD Askeri Hayatını Kaybetti, Biri Kayıp",
+        "summary": "Ürdün'de ABD askerlerinin konuşlandığı bir üsse düzenlenen saldırıda iki ABD askeri hayatını kaybederken, bir asker kayboldu. Saldırının İran destekli gruplar tarafından gerçekleştirildiği belirtiliyor. Bu olay, İran ile ABD arasındaki gerilimi daha da artırdı. Hafta boyunca karşılıklı saldırılar yaşanırken, Tahran'ın Körfez bölgesindeki ABD askeri tesislerini hedef aldığı bildirildi. Bölgedeki güvenlik durumu endişe verici seviyeye ulaştı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5095300/pexels-photo-5095300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T20:22:17.921Z",
+        "location": {
+            "lat": 31,
+            "lng": 36,
+            "name": "Ürdün"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1784401754770g0frt",
         "title": "İran lideri, ABD saldırılarının devam etmesi halinde 'unutulmaz dersler' verileceği uyarısında bulundu",
         "summary": "İran'ın dini lideri Ayetullah Ali Hamaney'in oğlu Mojtaba Hamaney, ABD'nin olası saldırılarına karşı sert bir uyarıda bulundu. Hamaney, ABD'nin bölgedeki eylemlerinin devam etmesi durumunda 'unutulmaz dersler' verileceğini belirtti. Ayrıca, eski ABD Başkanı Donald Trump'ın imzasının 'değersiz' olduğunu ve 'zorbalığın' ABD dış politikasının temel bir unsuru olduğunu ifade etti. Bu açıklamalar, ABD ile İran arasındaki gerilimin devam ettiğini ve Tahran'ın Washington'a karşı sert bir duruş sergilediğini gösteriyor.",
@@ -748,54 +796,6 @@
             "name": "Kuveyt"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-s-irgc-says-it-targeted-us-base-in-kuwait-in-retaliatory-strike/4000936",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784260164807pzxra",
-        "title": "100'den Fazla Orman Yangını Cezayir'i Sivil Koruma Personelini Acilen Geri Çağırmaya Sevk Etti",
-        "summary": "Cezayir'de 100'den fazla orman yangını çıktı. Bu durum üzerine ülke, sivil koruma personelini acilen göreve geri çağırdı. Yangınların, bölgede etkili olan aşırı sıcak hava dalgası nedeniyle çıktığı belirtiliyor. Meteoroloji yetkilileri, Pazar gününe kadar bazı bölgelerde sıcaklıkların 48 santigrat dereceye veya üzerine çıkmasının beklendiğini duyurdu. Ülke genelinde yangınlarla mücadele çalışmaları yoğun bir şekilde sürdürülüyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/4621457/pexels-photo-4621457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T03:49:24.807Z",
-        "location": {
-            "lat": 36.737232,
-            "lng": 3.086497,
-            "name": "Cezayir, Cezayir"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/over-100-wildfires-prompt-algeria-to-urgently-recall-civil-protection-personnel/4000881",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784246841409wj0av",
-        "title": "Vietnamlı Aktivist Gazze'nin Acılarına Nadir Bir Ulusal Dikkat Çekti",
-        "summary": "Vietnam'da aktivist Bao Ngoc, ülkesinde protestoların sıkı kontrol altında olduğu bir ortamda Gazze'deki Filistinlilerin yaşadığı zorluklara dikkat çekti. Bu eylem, Vietnam'da Gazze'deki insani duruma yönelik nadir bir ulusal ilgi odağı oluşturdu. Ngoc'un çabaları, Filistin halkının acılarına ve uluslararası kamuoyunun bu konudaki duyarlılığına vurgu yapmayı amaçlıyor. Haber, Orta Doğu'daki çatışmaların ve insani krizlerin küresel çapta yankı bulduğunu ve farklı coğrafyalardaki bireyler tarafından da gündeme getirildiğini gösteriyor. Bu durum, insan hakları ihlallerine karşı uluslararası dayanışmanın önemini bir kez daha ortaya koyuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T00:07:21.409Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784242773655w29n4",
-        "title": "ABD'li Vekil Ilhan Omar, ABD'nin Uluslararası Ceza Mahkemesi'ne Katılımı İçin Yeniden Harekete Geçti",
-        "summary": "ABD Temsilciler Meclisi Üyesi Ilhan Omar, ülkesinin Uluslararası Ceza Mahkemesi'ne (UCM) katılması yönündeki çabalarını yeniden başlattı. Bu girişim, ABD Dışişleri Bakanı Marco Rubio'nun UCM'yi 'dağıtma' sözü vermesinden sadece günler sonra geldi. Omar'ın bu hamlesi, Trump yönetiminin UCM'ye yönelik artan baskısı ve eleştirileri karşısında ABD'nin uluslararası hukuk kurumlarıyla ilişkilerini yeniden değerlendirme çağrısı olarak yorumlanıyor. UCM'nin özellikle Filistin topraklarındaki olası savaş suçları soruşturmaları nedeniyle Orta Doğu'daki gelişmelerle doğrudan ilgisi bulunuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10883217/pexels-photo-10883217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T22:59:33.655Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
