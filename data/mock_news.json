@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784413549401af39z",
+        "title": "Libya, Çin'in ödeme sistemine katılarak ABD dolarına bağımlılığı azaltıyor",
+        "summary": "Libya, Çin'in Sınır Ötesi Bankalararası Ödeme Sistemi'ne (CIPS) katıldığını duyurdu. Bu entegrasyon sayesinde Libyalı bankalar, Çin yuanı cinsinden doğrudan ödeme gönderip alabilecek. Söz konusu adımın, Libya'nın uluslararası finansal işlemlerde ABD dolarına olan bağımlılığını azaltmayı hedeflediği belirtiliyor. Bu gelişme, Libya'nın finansal stratejisinde önemli bir değişiklik olarak yorumlanırken, Çin ile ekonomik ilişkilerini derinleştirme potansiyeli taşıyor ve küresel finansal sistemdeki çok kutupluluğu destekliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/5239818/pexels-photo-5239818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T22:25:49.401Z",
+        "location": {
+            "lat": 32.8872,
+            "lng": 13.1913,
+            "name": "Trablus, Libya"
+        },
+        "source": "https://www.aa.com.tr/en/economy/libya-joins-china-s-payment-system-reducing-reliance-on-us-dollar/4002530",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1784406065509f82rp",
         "title": "Gazze'deki 'ateşkes' İsrail saldırılarını neden durduramadı?",
         "summary": "Gazze'de ilan edilen 'ateşkes'e rağmen İsrail'in Filistinlilere yönelik saldırılarının devam ettiği belirtiliyor. Haber, 'soykırım savaşı' olarak nitelendirilen sürece maruz kalan Filistinlilerin hala hedef alındığını vurguluyor. Bu durum, bölgedeki insani krizin sürdüğünü ve çatışmaların tam olarak sona ermediğini gösteriyor. Devam eden saldırılar, mevcut ateşkes anlaşmalarının etkinliği ve uygulanabilirliği hakkında soru işaretleri yaratıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-s-irgc-says-it-targeted-radar-sites-in-oman/4000997",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1784277587101onvve",
-        "title": "İran Devrim Muhafızları, Kuveyt'teki ABD Üssünü Misilleme Saldırısında Hedef Aldığını Duyurdu",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Kuveyt'te bulunan bir ABD üssüne misilleme saldırısı düzenlediğini açıkladı. Yarı resmi Mehr haber ajansına göre, IRGC bu saldırıda füze savunma radarı, silah depoları ve HIMARS platformlarını hedef aldığını belirtti. Bu eylem, bölgedeki gerilimin arttığı bir dönemde gerçekleşti. Saldırının detayları ve olası sonuçları yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15688701/pexels-photo-15688701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T08:39:47.101Z",
-        "location": {
-            "lat": 29.3117,
-            "lng": 47.4818,
-            "name": "Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-irgc-says-it-targeted-us-base-in-kuwait-in-retaliatory-strike/4000936",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
