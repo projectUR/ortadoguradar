@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784356157461ideew",
+        "title": "ABD, İran'a Yönelik Saldırılarını Yedinci Gecede de Sürdürdü",
+        "summary": "ABD Merkez Komutanlığı (CENTCOM), İran'ın silahlı kuvvetlerini zayıflatmak amacıyla yeni saldırılar düzenlediğini açıkladı. Bu saldırılar, İran'ın stratejik öneme sahip Hürmüz Boğazı yakınlarında patlamalar meydana geldiğini bildirmesiyle eş zamanlı olarak gerçekleşti. ABD'nin bu operasyonları, bölgedeki gerilimi artırırken, İran'ın askeri kapasitesine yönelik doğrudan bir müdahale olarak değerlendiriliyor. Bölgedeki güvenlik durumu, bu gelişmelerle birlikte daha da hassas bir hal almıştır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14413072/pexels-photo-14413072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T06:29:17.461Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1784356178698xulyj",
+        "title": "Yemen açıklarında üç ay içinde ikinci tanker şüpheli Somalili korsanlar tarafından kaçırıldı",
+        "summary": "Yemen açıklarında, şüpheli Somalili korsanlar tarafından üç ay içinde ikinci bir tankerin kaçırıldığı bildirildi. Bu olay, bölgede korsanlık faaliyetlerinin yeniden artışa geçtiği endişelerini beraberinde getirdi. Aynı bölgede daha önce de birçok başarısız saldırı girişiminin yaşandığı belirtildi. Bu durum, Orta Doğu'ya yakın stratejik deniz yollarındaki deniz güvenliği için yeni bir tehdit oluşturuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11063292/pexels-photo-11063292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-18T06:29:38.698Z",
+        "location": {
+            "lat": 12.5,
+            "lng": 45,
+            "name": "Yemen açıklarında"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1784347587375jgm37",
         "title": "ABD, artan bölgesel gerilimler nedeniyle Orta Doğu seyahat uyarısını yineledi",
         "summary": "Amerika Birleşik Devletleri Dışişleri Bakanlığı, Orta Doğu'daki güvenlik ortamının karmaşık yapısını gerekçe göstererek Amerikan vatandaşlarına bölgede dikkatli olmaları çağrısında bulundu. Bakanlık, artan bölgesel gerilimler ışığında daha önce yayımlanan seyahat uyarısını yeniden yürürlüğe koydu. Bu uyarı, bölgedeki mevcut güvenlik risklerine karşı Amerikalıların tedbirli davranmasını hedefliyor. Dışişleri Bakanlığı, vatandaşlarından seyahat planlarını gözden geçirmelerini ve yerel koşulları yakından takip etmelerini istedi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784202184647hlkn4",
-        "title": "İklim Finansmanı: Geçişin Maliyetini Kim Karşılayacak?",
-        "summary": "Gelişmiş ülkeler iklim finansmanı taahhütlerini azaltırken, gelişmekte olan ülkelerin iklim değişikliğine uyum sağlamak için milyarlarca dolarlık fonlara ihtiyaç duyduğu belirtiliyor. Bu durum, küresel iklim eyleminin finansal yükünün adil dağılımı konusunda uluslararası tartışmaları alevlendiriyor. Özellikle iklim değişikliğinin olumsuz etkilerine karşı daha savunmasız olan gelişmekte olan ülkeler, sera gazı emisyonlarının büyük bir kısmından sorumlu olmayan ülkelerin, iklim kriziyle mücadele için gerekli kaynaklara erişimini talep ediyor. Finansman açığı, küresel ısınmayı sınırlama hedeflerine ulaşılmasını zorlaştırırken, iklim adaletinin sağlanması için acil çözümler aranıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/5849561/pexels-photo-5849561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T11:43:04.647Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Cairo, Egypt"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784202260536ildlq",
-        "title": "İsrail, işgal altındaki Batı Şeria'daki yasa dışı yerleşimleri birbirine bağlayacak yollar için 334 milyon dolar onayladı",
-        "summary": "İsrail hükümeti, işgal altındaki Batı Şeria'da bulunan yasa dışı yerleşim birimlerini birbirine bağlayacak yolların inşası için 334 milyon dolarlık bir bütçeyi onayladı. Maliye bakanı, bu planı \"tarihi\" olarak nitelendirdi. Onaylanan bütçenin, bölgedeki mevcut yasa dışı yerleşimleri birleştirmeyi hedeflediği belirtildi. Ayrıca, bu kararın işgal altındaki topraklarda onlarca yeni yasa dışı yerleşimin kurulmasını kolaylaştıracağı ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6497232/pexels-photo-6497232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-16T11:44:20.536Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-approves-334m-for-roads-linking-illegal-settlements-in-occupied-west-bank/4000281",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
