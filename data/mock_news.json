@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784436555184w4c2p",
+        "title": "Rus balistik füzeleri Kiev'i vurdu: En az bir kişi hayatını kaybetti",
+        "summary": "Pazar sabahı erken saatlerde Rusya'ya ait balistik füzeler Ukrayna'nın başkenti Kiev ve çevresindeki bölgeleri hedef aldı. Ukraynalı yetkililerden yapılan açıklamalara göre, saldırılar sonucunda en az bir kişi yaşamını yitirirken, dokuz kişi de yaralandı. Füzelerin sivil altyapıya ve yerleşim yerlerine isabet ettiği belirtildi. Bölgede hasar tespit ve arama kurtarma çalışmaları sürdürülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975879/pexels-photo-28975879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T04:49:15.184Z",
+        "location": {
+            "lat": 50.45,
+            "lng": 30.52,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1784436576190zvdfa",
+        "title": "ABD, İran'ı Sekizinci Gece Üst Üste Vurdu; İran Körfez'deki Üslere Karşılık Verdi",
+        "summary": "ABD, İran'ın Hürmüzgan eyaletindeki Sirik ve Hacıabad bölgelerine sekizinci gece üst üste hava saldırıları düzenledi. Washington yönetimi, bu saldırıların iki ABD askerinin öldürülmesine misilleme olarak yapıldığını açıkladı. İran ise bu saldırılara karşılık olarak Körfez'deki üslere ateş açtığını duyurdu. Bölgedeki gerilim, karşılıklı misillemelerle birlikte tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34072473/pexels-photo-34072473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T04:49:36.190Z",
+        "location": {
+            "lat": 27.19,
+            "lng": 56.29,
+            "name": "Hürmüzgan, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1784436598216ur9qg",
+        "title": "Somali, Radio Mogadishu'nun Solan Arşivini Kurtarmak İçin Yarışıyor",
+        "summary": "Somali'nin başkenti Mogadişu'da bulunan Radio Mogadishu'nun onlarca yıllık tarihi arşivini kurtarmak için kapsamlı bir çalışma başlatıldı. Ülkenin ana kamu radyo istasyonunda görevli küçük bir ekip, Somali tarihinin önemli bir bölümünü oluşturan bu kayıtları dijital ortama aktarmak için yoğun çaba sarf ediyor. Bu girişim, ülkenin zengin kültürel mirasının zamanla yıpranarak kaybolmasını önlemeyi ve gelecek nesillere aktarılmasını sağlamayı hedefliyor. Arşivin fiziksel koşullar nedeniyle bozulma riski taşıması, dijitalleştirme projesinin aciliyetini artırıyor. Proje, Somali'nin geçmişini koruma ve erişilebilir kılma açısından büyük önem taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6549379/pexels-photo-6549379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T04:49:58.216Z",
+        "location": {
+            "lat": 2.05,
+            "lng": 45.32,
+            "name": "Mogadişu, Somali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+        "trendScore": 60,
+        "isBreaking": false
+    },
+    {
         "id": "1784423123169qyttn",
         "title": "Ramallah'ta İsrail ordusunun ambulansı geciktirmesi sonucu Filistinli kadın hayatını kaybetti",
         "summary": "Filistin'in Ramallah kentinde, İsrail ordusunun bir ambulansı askeri geçiş noktasında 30 dakikadan fazla bekletmesi sonucu iki çocuk annesi Filistinli Sujoud Fuqaha hayatını kaybetti. Sinjil Belediye Başkanı'nın açıklamasına göre, hastaneye götürülen Fuqaha'yı taşıyan ambulans, geçiş izni verilmeden önce uzun süre bekletildi. Bu gecikmenin ardından geçişe izin verilse de, kadın yaşamını yitirdi. Olay, bölgedeki sağlık hizmetlerine erişim ve askeri kısıtlamalarla ilgili endişeleri bir kez daha gündeme getirdi.",
@@ -748,54 +796,6 @@
             "name": "Hürmüz Boğazı, Orta Doğu"
         },
         "source": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784277493951zn5gq",
-        "title": "ABD saldırısı İran'ın güneydoğusunda deniz kontrol kulesini imha etti",
-        "summary": "İran devlet medyası, ABD'nin ülkenin güneydoğusunda gerçekleştirdiği bir saldırıda bir deniz kontrol kulesinin imha edildiğini duyurdu. Devlet haber ajansı IRNA'nın aktardığına göre, Şehit Kalantari Limanı'nda bulunan kule, Cuma günü düzenlenen üçüncü ABD saldırısının ardından tamamen çöktü. Bu olay, ABD'nin İran topraklarındaki altyapıya yönelik doğrudan bir askeri müdahalesini temsil etmektedir. Söz konusu saldırı, bölgedeki mevcut gerilimi daha da artırma potansiyeli taşımaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952951/pexels-photo-5952951.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T08:38:13.951Z",
-        "location": {
-            "lat": 25.29,
-            "lng": 60.64,
-            "name": "Çabahar, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-strike-destroys-maritime-control-tower-in-southeastern-iran-reports-iranian-state-media/4001061",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784277519801avfw2",
-        "title": "İran, ABD Saldırılarında Can Kaybının Arttığını Duyurdu",
-        "summary": "İran Sağlık Bakanlığı, ABD'nin bu ay içinde İran'a yönelik gerçekleştirdiği saldırılarda hayatını kaybedenlerin sayısının 38'e yükseldiğini ve 400'den fazla kişinin yaralandığını açıkladı. İranlı yetkililer, son olarak gece saatlerinde altyapı tesislerine düzenlenen saldırılarda 8 kişinin öldüğünü ve 20 kişinin yaralandığını bildirdi. Saldırıların altyapı hedeflerini vurduğu belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37732817/pexels-photo-37732817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T08:38:39.801Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-8-killed-20-injured-in-overnight-us-attacks-on-infrastructure/4001046",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784277541033q0ox9",
-        "title": "Umman açıklarında tankere kimliği belirsiz bir cisim isabet etti: İngiliz denizcilik ajansı",
-        "summary": "İngiliz denizcilik ajansı UK Maritime Trade Operations (UKMTO), Umman açıklarında bir tankere kimliği belirsiz bir cismin isabet ettiğini duyurdu. Olayın Umman'ın Khasab kentinin doğusunda meydana geldiği belirtildi. Açıklamada, tankerin hafif hasar aldığı ancak mürettebatın tamamının güvende olduğu ifade edildi. Bölgedeki deniz güvenliği endişeleri artarken, olayın nedeni ve sorumluları hakkında henüz bir bilgi verilmedi. UKMTO, gemilere bölgede dikkatli olmaları çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4062506/pexels-photo-4062506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T08:39:01.033Z",
-        "location": {
-            "lat": 26.17,
-            "lng": 56.25,
-            "name": "Khasab, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/unknown-projectile-hits-tanker-off-oman-says-uk-maritime-agency/4001020",
         "trendScore": 85,
         "isBreaking": false
     }
