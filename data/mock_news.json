@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784462519115xsesz",
+        "title": "İran'da Savaş ve Sıcak Hava Dalgası Ortamında Elektrik Kesintileri Yaşanıyor",
+        "summary": "İran'da yaşanan yaygın elektrik kesintileri, ülkenin enerji altyapısının askeri saldırılar ve kronik yetersiz yatırımlar nedeniyle çökmesiyle birlikte halkı olumsuz etkiliyor. Savaş koşulları ve etkili olan sıcak hava dalgası, elektrik şebekesi üzerindeki baskıyı artırıyor. Bu durum, İranlıların karanlıkta ve aşırı sıcaklarda kalmasına neden olarak günlük yaşamlarını zorlaştırıyor. Enerji tedarikindeki aksaklıklar, ülkenin genel istikrarı ve halk sağlığı üzerinde ciddi endişeler yaratıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/24913603/pexels-photo-24913603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T12:01:59.115Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784458579303tca4p",
         "title": "Gazze'de Dünya Kupası Finalinde İspanya'ya Destek: Filistin Dayanışması Vurgusu",
         "summary": "Gazze Şeridi'ndeki futbol taraftarları, yaklaşan Dünya Kupası finalinde İspanya'ya güçlü desteklerini ifade etti. Taraftarlar, bu desteklerinin temel nedeni olarak İspanya'nın Filistin halkıyla gösterdiği dayanışmayı gösterdi. Arjantin ile oynanacak final öncesinde Gazze'deki bu coşku, sporun ötesinde siyasi bir anlam taşıyor. Bu durum, spor etkinliklerinin bölgesel siyasi duygular ve toplumsal dayanışma ile nasıl iç içe geçebileceğini gözler önüne seriyor.",
@@ -780,22 +796,6 @@
             "name": "Doha, Katar"
         },
         "source": "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784303878111vgrhw",
-        "title": "ABD'den İran'a Yeni Saldırılar: Trump'tan Tahran'a 'Davranış' Uyarısı",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik yeni saldırıların başlatıldığını duyurdu. Trump, Tahran yönetimini \"daha iyi davranması\" konusunda sert bir dille uyardı. Başkan Trump, İran'ı \"bitirip bitirmeme\" konusunda henüz bir karar vermediğini belirtti. Bu açıklamalar, iki ülke arasındaki gerilimin tırmandığı bir döneme denk geliyor. Bölgedeki tansiyonun artmaya devam ettiği gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T15:57:58.111Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
