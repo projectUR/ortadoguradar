@@ -1,5 +1,21 @@
 [
     {
+        "id": "17844751460102yrhw",
+        "title": "İran'dan Körfez Ülkelerine Füze ve İHA Saldırıları: Kuveyt'te Santral Yangını",
+        "summary": "İran'ın ABD'nin Körfez'deki müttefiklerine yönelik gerçekleştirdiği füze ve insansız hava aracı (İHA) saldırıları, bölgede gerilimi tırmandırdı. Kuveyt'te bir elektrik santralinde yangın çıkmasına neden olan saldırıların ardından, Kuveyt ve Bahreyn İran'dan gelen çok sayıda saldırı turu rapor etti. Olaylar sırasında Ürdün'de de siren seslerinin duyulduğu belirtildi. Bu gelişmeler, Orta Doğu'da güvenlik endişelerini artırarak bölgesel istikrara yönelik tehditleri gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15296866/pexels-photo-15296866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T15:32:26.010Z",
+        "location": {
+            "lat": 29.4,
+            "lng": 48,
+            "name": "Kuveyt, Bahreyn, Ürdün"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1784462519115xsesz",
         "title": "İran'da Savaş ve Sıcak Hava Dalgası Ortamında Elektrik Kesintileri Yaşanıyor",
         "summary": "İran'da yaşanan yaygın elektrik kesintileri, ülkenin enerji altyapısının askeri saldırılar ve kronik yetersiz yatırımlar nedeniyle çökmesiyle birlikte halkı olumsuz etkiliyor. Savaş koşulları ve etkili olan sıcak hava dalgası, elektrik şebekesi üzerindeki baskıyı artırıyor. Bu durum, İranlıların karanlıkta ve aşırı sıcaklarda kalmasına neden olarak günlük yaşamlarını zorlaştırıyor. Enerji tedarikindeki aksaklıklar, ülkenin genel istikrarı ve halk sağlığı üzerinde ciddi endişeler yaratıyor.",
@@ -780,22 +796,6 @@
             "name": "Mykolaiv, Ukrayna"
         },
         "source": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784303840650higns",
-        "title": "Fransa ve İngiltere Dünya Kupası Üçüncülük Maçında Karşı Karşıya",
-        "summary": "Dünya Kupası yarı finalinde elenen Fransa ve İngiltere, turnuvanın üçüncülük madalyası için mücadele edecek. Büyük finalden bir gün önce oynanacak bu karşılaşma, iki güçlü Avrupa ekibinin turnuvayı podyumda tamamlama şansı bulacağı son maç olacak. Maçın, Orta Doğu ülkesi Katar'da düzenlenen 2022 FIFA Dünya Kupası kapsamında oynanması bekleniyor. Bu tür uluslararası spor etkinlikleri, ev sahibi ülkeler için diplomatik görünürlük ve ekonomik hareketlilik sağlaması açısından önem taşımaktadır.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/28355100/pexels-photo-28355100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T15:57:20.650Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
