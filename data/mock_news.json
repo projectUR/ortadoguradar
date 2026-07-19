@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784423123169qyttn",
+        "title": "Ramallah'ta İsrail ordusunun ambulansı geciktirmesi sonucu Filistinli kadın hayatını kaybetti",
+        "summary": "Filistin'in Ramallah kentinde, İsrail ordusunun bir ambulansı askeri geçiş noktasında 30 dakikadan fazla bekletmesi sonucu iki çocuk annesi Filistinli Sujoud Fuqaha hayatını kaybetti. Sinjil Belediye Başkanı'nın açıklamasına göre, hastaneye götürülen Fuqaha'yı taşıyan ambulans, geçiş izni verilmeden önce uzun süre bekletildi. Bu gecikmenin ardından geçişe izin verilse de, kadın yaşamını yitirdi. Olay, bölgedeki sağlık hizmetlerine erişim ve askeri kısıtlamalarla ilgili endişeleri bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/20246396/pexels-photo-20246396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T01:05:23.169Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-woman-dies-after-israeli-army-delays-ambulance-for-more-than-30-minutes-in-ramallah/4002560",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784413549401af39z",
         "title": "Libya, Çin'in ödeme sistemine katılarak ABD dolarına bağımlılığı azaltıyor",
         "summary": "Libya, Çin'in Sınır Ötesi Bankalararası Ödeme Sistemi'ne (CIPS) katıldığını duyurdu. Bu entegrasyon sayesinde Libyalı bankalar, Çin yuanı cinsinden doğrudan ödeme gönderip alabilecek. Söz konusu adımın, Libya'nın uluslararası finansal işlemlerde ABD dolarına olan bağımlılığını azaltmayı hedeflediği belirtiliyor. Bu gelişme, Libya'nın finansal stratejisinde önemli bir değişiklik olarak yorumlanırken, Çin ile ekonomik ilişkilerini derinleştirme potansiyeli taşıyor ve küresel finansal sistemdeki çok kutupluluğu destekliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/unknown-projectile-hits-tanker-off-oman-says-uk-maritime-agency/4001020",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1784277563494rx64b",
-        "title": "İran Devrim Muhafızları, Umman'daki radar sitelerini hedef aldığını açıkladı",
-        "summary": "İran resmi haber ajansı ISNA'nın aktardığına göre, İran Devrim Muhafızları (IRGC), Umman'da bulunan radar sitelerini hedef aldığını iddia etti. Yapılan açıklamada, Salameh kayalıklarında bir deniz kontrol radarının ve Umman'ın Ghanem bölgesinde bir ABD hava kontrol radarının imha edildiği belirtildi. Bu iddia, bölgedeki askeri gerilimi artırma potansiyeli taşıyor ve ABD'nin bölgedeki varlığını doğrudan ilgilendiriyor. Umman veya ABD tarafından henüz iddialara ilişkin resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849395/pexels-photo-11849395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T08:39:23.494Z",
-        "location": {
-            "lat": 23.5859,
-            "lng": 58.408,
-            "name": "Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-irgc-says-it-targeted-radar-sites-in-oman/4000997",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
