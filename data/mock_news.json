@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784494475414808eb",
+        "title": "Birleşik Krallık 10 Yılda Yedinci Başbakanını Göreve Getirdi",
+        "summary": "Birleşik Krallık'ta göreve gelen yeni Başbakan Andy Burnham'ın, dış politika alanında acil zorluklarla yüzleşmesi bekleniyor. Bu zorluklar arasında Ukrayna ve İran'daki mevcut çatışmalar öne çıkıyor. Burnham'ın liderliğindeki hükümetin, bu bölgesel ve küresel krizlere yönelik stratejiler geliştirmesi gerekecek. Yeni başbakanın İran politikası, Orta Doğu'daki dengeler açısından yakından takip edilecek.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4610271/pexels-photo-4610271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T20:54:35.414Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "178449025934113mdp",
         "title": "Trump'ın ziyareti Dünya Kupası finalinde lojistik gecikmelere neden oldu",
         "summary": "Katar'da düzenlenen Dünya Kupası finali sırasında eski ABD Başkanı Trump'ın ziyareti, güvenlik önlemlerinin artırılmasına yol açtı. Bu durum, stadyuma girişlerde ciddi lojistik gecikmeler yaşanmasına neden oldu. Sahadaki Al Jazeera muhabirleri, sıkılaştırılmış güvenlik kontrolleri nedeniyle stadyuma girmek için uzun kuyruklarla karşılaştı. Yaşanan bu aksaklıklar, medya mensuplarının görevlerini yerine getirmekte zorluk çekmesine neden oldu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iraq-syria-sign-deal-in-washington-to-revive-crude-oil-pipeline/4001780",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784313258731j13gf",
-        "title": "Amputasyon Sonrası Yaşam: Gazze'li Kadınlar Futbolla İyileşiyor",
-        "summary": "Gazze Şeridi'nde yaşayan Filistinli kadınlar, bölgedeki çatışmalarda uzuvlarını kaybetmelerinin ardından futbolu bir iyileşme aracı olarak kullanıyor. Bu girişim, fiziksel ve psikolojik travmalarla başa çıkmalarına yardımcı olmayı hedefliyor. Kadınlar, futbol sahasında bir araya gelerek hem spor yapıyor hem de dayanışma içinde birbirlerine destek oluyor. Bu faaliyet, savaşın getirdiği zorluklara rağmen hayata tutunma ve toplumsal entegrasyon çabalarının bir parçası olarak öne çıkıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/16651538/pexels-photo-16651538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T18:34:18.731Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
