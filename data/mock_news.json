@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784458579303tca4p",
+        "title": "Gazze'de Dünya Kupası Finalinde İspanya'ya Destek: Filistin Dayanışması Vurgusu",
+        "summary": "Gazze Şeridi'ndeki futbol taraftarları, yaklaşan Dünya Kupası finalinde İspanya'ya güçlü desteklerini ifade etti. Taraftarlar, bu desteklerinin temel nedeni olarak İspanya'nın Filistin halkıyla gösterdiği dayanışmayı gösterdi. Arjantin ile oynanacak final öncesinde Gazze'deki bu coşku, sporun ötesinde siyasi bir anlam taşıyor. Bu durum, spor etkinliklerinin bölgesel siyasi duygular ve toplumsal dayanışma ile nasıl iç içe geçebileceğini gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36038715/pexels-photo-36038715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T10:56:19.303Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "17844533329932qckx",
         "title": "ABD, iki askerinin öldürülmesinin ardından İran'a yönelik yeni saldırılar başlattı",
         "summary": "ABD, Ürdün'de iki askerinin hayatını kaybetmesinin ardından İran Devrim Muhafızları'nı (IRGC) hedef alan hava saldırıları düzenledi. Bu saldırılar, bölgedeki gerilimi tırmandıran son gelişmelerden biri olarak kaydedildi. Haberde ayrıca, Tahran'ın Kuveyt ve Bahreyn'e yönelik saldırılar gerçekleştirdiği belirtildi. Bu durum, Orta Doğu'da güvenlik ve istikrar endişelerini artırarak bölgesel çatışma riskini yükseltiyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784297554764z8an3",
-        "title": "Birleşik Krallık'ta İşçi Partisi Lideri Burnham Başbakanlık Yolunda Onaylandı",
-        "summary": "Birleşik Krallık'ta İşçi Partisi'nin lideri Andy Burnham, partinin başına geçerek ülkenin bir sonraki başbakanı olma yolunda onaylandı. Burnham'ın başbakanlık görevine gelmesi durumunda, kendisini bekleyen önemli zorluklar arasında yaşam maliyeti krizi ve devam eden iki savaş bulunuyor. Yeni liderin bu küresel ve iç sorunlara yönelik politikaları merakla bekleniyor. Bu gelişmeler, Birleşik Krallık'ın hem iç hem de dış politikasında yeni bir dönemin habercisi olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/29883062/pexels-photo-29883062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T14:12:34.764Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": -0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
