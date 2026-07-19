@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784485684181xfkc5",
+        "title": "Yahudi Solu ve Anti-Siyonizm Tartışmaları",
+        "summary": "Marc Lamont Hill ve Molly Crabapple, 'Yahudi solu'nun tarihsel ve güncel durumunu ele alan bir söyleşi gerçekleştirdi. Bu kapsamlı görüşmede, Yahudi İşçi Birliği (Jewish Labour Bund) gibi geçmişteki önemli hareketler incelendi. Söyleşinin odak noktalarından biri, günümüzdeki Yahudi solu içindeki anti-Siyonizm tartışmaları oldu. Bu tartışma, Yahudi siyasi kimliğinin evrimini ve İsrail devletiyle olan ilişkisini derinlemesine analiz ederek Orta Doğu'daki siyasi ve ideolojik dinamiklere ışık tuttu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2989070/pexels-photo-2989070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T18:28:04.181Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/upfront/2026/7/19/what-happened-to-the-jewish-left?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784480432219npz0b",
         "title": "İsrailli Yerleşimciler Masafer Yatta'da Evleri ve Camiyi Ateşe Verdi",
         "summary": "Batı Şeria'nın güneyindeki Hebron yakınlarında bulunan Masafer Yatta bölgesinde gerilim tırmanıyor. Edinilen bilgilere göre, İsrailli yerleşimciler Filistin köyü al Tuwani'ye saldırı düzenledi. Yayınlanan videolarda, yerleşimcilerin köydeki evleri ve bir camiyi ateşe verdiği görülüyor. Bu olay, bölgedeki Filistinliler ile İsrailli yerleşimciler arasındaki süregelen çatışmaların son örneği olarak kayıtlara geçti. Saldırının ardından bölgede güvenlik durumunun gergin olduğu belirtiliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178430377164858yfj",
-        "title": "'Tuvaletimizi aldılar': Bir yerleşimin Filistin köyünü nasıl sıkıştırdığı",
-        "summary": "Batı Şeria'daki Umm al-Khair köyünün bitişiğine yasa dışı bir İsrail yerleşimi kuruldu. Bu yerleşim, köy sakinlerini topraklarından anında ayırarak yaşam alanlarını daralttı. Haber başlığı, yerleşimin Filistinli köylülerin günlük yaşamlarına ve temel ihtiyaçlarına yönelik doğrudan etkilerini vurguluyor. Bölgedeki Filistin köylerinin, İsrail yerleşimleri nedeniyle karşılaştığı zorlukları ve toprak kayıplarını gözler önüne seriyor. Bu durum, bölgedeki gerilimi artıran önemli bir faktör olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5308510/pexels-photo-5308510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T15:56:11.648Z",
-        "location": {
-            "lat": 31.4,
-            "lng": 35.1,
-            "name": "Umm al-Khair, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
