@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784480432219npz0b",
+        "title": "İsrailli Yerleşimciler Masafer Yatta'da Evleri ve Camiyi Ateşe Verdi",
+        "summary": "Batı Şeria'nın güneyindeki Hebron yakınlarında bulunan Masafer Yatta bölgesinde gerilim tırmanıyor. Edinilen bilgilere göre, İsrailli yerleşimciler Filistin köyü al Tuwani'ye saldırı düzenledi. Yayınlanan videolarda, yerleşimcilerin köydeki evleri ve bir camiyi ateşe verdiği görülüyor. Bu olay, bölgedeki Filistinliler ile İsrailli yerleşimciler arasındaki süregelen çatışmaların son örneği olarak kayıtlara geçti. Saldırının ardından bölgede güvenlik durumunun gergin olduğu belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5340877/pexels-photo-5340877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-19T17:00:32.219Z",
+        "location": {
+            "lat": 31.5333,
+            "lng": 35.0917,
+            "name": "Hebron, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17844751460102yrhw",
         "title": "İran'dan Körfez Ülkelerine Füze ve İHA Saldırıları: Kuveyt'te Santral Yangını",
         "summary": "İran'ın ABD'nin Körfez'deki müttefiklerine yönelik gerçekleştirdiği füze ve insansız hava aracı (İHA) saldırıları, bölgede gerilimi tırmandırdı. Kuveyt'te bir elektrik santralinde yangın çıkmasına neden olan saldırıların ardından, Kuveyt ve Bahreyn İran'dan gelen çok sayıda saldırı turu rapor etti. Olaylar sırasında Ürdün'de de siren seslerinin duyulduğu belirtildi. Bu gelişmeler, Orta Doğu'da güvenlik endişelerini artırarak bölgesel istikrara yönelik tehditleri gündeme getirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17843038121499u1o5",
-        "title": "Ukrayna Limanları Saldırı Altında: Mykolaiv, Herson ve Odesa'da Can Kayıpları Yaşandı",
-        "summary": "Rusya'nın Ukrayna limanlarına yönelik saldırıları devam etmektedir. Mykolaiv'de yabancı bir gemide bulunan iki Ukraynalının hayatını kaybettiği bildirilmiştir. Ayrıca Herson ve Odesa şehirlerinde de iki kişinin daha saldırılarda yaşamını yitirdiği belirtilmiştir. Bu saldırılar, Ukrayna'nın savunma yapısındaki değişikliklere karşı süregelen protestoların gölgesinde yaşanmaktadır. Limanlara yönelik bu tür saldırılar, Karadeniz üzerinden yapılan tahıl sevkiyatları başta olmak üzere küresel tedarik zincirleri üzerinde önemli dolaylı etkilere yol açmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37708070/pexels-photo-37708070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T15:56:52.149Z",
-        "location": {
-            "lat": 46.97,
-            "lng": 31.99,
-            "name": "Mykolaiv, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
