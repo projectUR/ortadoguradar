@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784580514333tecsy",
+        "title": "İran, ABD'nin sivil altyapıya yönelik saldırılarını kınadı",
+        "summary": "İran, ABD'nin sivil altyapıya yönelik saldırılarını kınadığını duyurdu. Tahran yönetimi, bu saldırıların bölgedeki gerilimi artırdığını belirtti. İranlı yetkililer, çeşitli taraflardan arabuluculuk teklifleri aldıklarını ve diplomatik çabaların aktif olarak sürdüğünü ifade etti. Ülke, mevcut krizin diplomatik yollarla çözülmesi gerektiği konusunda ısrarcı olduğunu vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T20:48:34.333Z",
+        "location": {
+            "lat": 35.7,
+            "lng": null,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784580552137xms6m",
+        "title": "Yemenli Kadınlar Ekonomik Kriz Derinleşirken Girişimcilikle Ailelerini Destekliyor",
+        "summary": "Yemen, derinleşen ekonomik krizle mücadele etmektedir. Ülkede erkekler için istihdam olanakları giderek zorlaşırken, Yemenli kadınlar ailelerinin geçimini sağlamak amacıyla aktif rol üstlenmektedir. Kadınlar, küçük işletmeler kurarak, el sanatları üreterek veya çeşitli hizmetler sunarak hanehalkı gelirine önemli katkılarda bulunmaktadır. Bu girişimcilik faaliyetleri, zorlu ekonomik koşullar altında ailelerin ayakta kalmasına yardımcı olmakta ve kadınların toplumsal ve ekonomik hayattaki yerini güçlendirmektedir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/37605913/pexels-photo-37605913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T20:49:12.137Z",
+        "location": {
+            "lat": 15.4,
+            "lng": 44.2,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1784574808419dxtoa",
         "title": "Faslı Adamın Gözaltında Ölümü İtalya'da Protestolara Yol Açtı",
         "summary": "İtalya'da Faslı bir adamın gözaltına alındığı sırada hayatını kaybetmesi üzerine ülke genelinde protestolar başladı. Bologna'da yaşanan bu olay, İtalya'nın siyasi yelpazesinde geniş çaplı bir infiale yol açtı ve 2020'de George Floyd'un öldürülmesiyle kıyaslandı. Olayın ardından adalet talebiyle gösteriler düzenlenirken, yetkililer kapsamlı bir soruşturma başlattı. Bu durum, göçmen toplulukların hakları ve polis şiddeti konularında tartışmaları alevlendirdi.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1784446119965rgpki",
-        "title": "ABD ve İran, Ürdün'deki saldırı sonrası karşılıklı misilleme yaptı",
-        "summary": "Ürdün'de iki ABD askerinin hayatını kaybetmesinin ardından ABD ve İran arasında karşılıklı askeri saldırılar gerçekleşti. ABD güçleri, İran'a ait hedefleri art arda sekizinci gecede de vurmaya devam etti. Buna karşılık İran, Kuveyt'teki ABD askeri varlıklarına insansız hava araçlarıyla saldırı düzenlediğini açıkladı. Bu gelişmeler, Orta Doğu'da tırmanan gerilimi ve bölgesel istikrarsızlık riskini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11349036/pexels-photo-11349036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T07:28:39.965Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.91,
-            "name": "Amman, Ürdün"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784446144111pte3b",
-        "title": "ABD, İran'a Yönelik Sekizinci Gece Saldırılarını Tamamladığını Duyurdu",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik sekizinci gece üst üste hava saldırılarını tamamladığını bildirdi. Yapılan açıklamada, askeri hedeflerin kıyı gözetleme, hava savunma tesisleri, denizcilik kabiliyetleri ve füze/drone depolama alanları olduğu belirtildi. Bu saldırılar, bölgedeki gerilimin tırmanışını ve ABD'nin İran'la ilgili misilleme eylemlerini yansıtmaktadır. Olaylar, Orta Doğu'da güvenlik endişelerini artırırken, uluslararası toplum tarafından yakından takip edilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7132571/pexels-photo-7132571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T07:29:04.111Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-says-it-completed-8th-consecutive-night-of-strikes-against-iran/4002573",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
