@@ -1,5 +1,149 @@
 [
     {
+        "id": "1784533275084r93sa",
+        "title": "İspanya'nın Dünya Kupası Zaferi Kutlamalarında Gazze Gündemi",
+        "summary": "İspanya'nın Dünya Kupası'nda elde ettiği zafer, dünya genelinde milyonlarca kişi tarafından coşkuyla kutlandı. Ancak bu kutlamalar sırasında, birçok kişinin zihninde Gazze'deki durumun olduğu belirtildi. Küresel bir spor etkinliğinin sevinci yaşanırken, Orta Doğu'daki çatışma ve insani durumun farkındalığı ön planda tutuldu. Bu durum, sporun birleştirici gücüne rağmen, dünya kamuoyunun Gazze'deki gelişmelere olan duyarlılığını gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:41:15.084Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1784533313576as1ax",
+        "title": "Trump: İran'a yönelik son saldırılar, öldürülen ABD askeri personelinin 'onuruna' yapıldı",
+        "summary": "ABD Başkanı Donald Trump, İran'a yönelik son saldırıların, öldürülen ABD askeri personelinin 'onuruna' gerçekleştirildiğini açıkladı. Trump'ın bu ifadesi, ABD ile İran arasındaki gerilimin yüksek olduğu bir dönemde geldi. Saldırıların, bölgedeki ABD çıkarlarına yönelik tehditlere bir yanıt olduğu düşünülüyor. Bu gelişmeler, Orta Doğu'da güvenlik ve istikrar konularındaki endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:41:53.576Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178453333386587xvz",
+        "title": "ABD, İran'a Yönelik Dokuzuncu Gece Üst Üste Düzenlenen Saldırıların Görüntülerini Yayımladı",
+        "summary": "ABD ordusu, İran'a yönelik art arda dokuzuncu gecede de saldırılar düzenlediğini duyurdu. Amerikan askeri yetkilileri, bu operasyonlara ait görüntüleri kamuoyuyla paylaştı. Söz konusu askeri eylemler, bölgedeki gerilimin devam ettiğini ve ABD'nin İran'a yönelik askeri faaliyetlerinin sürdüğünü gösteriyor. Bu durum, iki ülke arasındaki ilişkilerdeki hassasiyeti ve bölgesel güvenlik dinamiklerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17885542/pexels-photo-17885542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:42:13.865Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178453335491116h8j",
+        "title": "Trump: ABD Saldırıları Ölen Amerikan Askerlerinin 'Onuruna' İran'ı Vurdu",
+        "summary": "Eski ABD Başkanı Donald Trump, Amerikan askerlerinin ölümü üzerine ABD'nin İran'a yönelik saldırılar düzenlediğini belirtti. Bu saldırılara karşılık olarak İran'ın Suriye ve Ürdün'de misilleme saldırıları gerçekleştirdiği bildirildi. Aynı dönemde, Hürmüz Boğazı'nda iki geminin patladığına dair haberler de gündeme geldi. Bu gelişmeler, bölgedeki gerilimin ciddi şekilde tırmandığını ve potansiyel bir çatışma riskini işaret etmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:42:34.911Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "178453337905941t1h",
+        "title": "ABD'nin İran'ın Tebriz Kentine Saldırısı: Bir Ölü, Çok Sayıda Yaralı",
+        "summary": "ABD'nin İran'ın kuzeybatısındaki Tebriz kentine düzenlediği saldırıda bir kişinin hayatını kaybettiği, çok sayıda kişinin ise yaralandığı bildirildi. Gelen ilk bilgilere göre, saldırı kentin güneybatısında bulunan askeri bir bölgeyi hedef aldı. Olayın ardından bölgede güvenlik endişeleri artarken, saldırının detaylarına ilişkin araştırmalar sürüyor. Yetkililerden henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5616855/pexels-photo-5616855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:42:59.059Z",
+        "location": {
+            "lat": 38.08,
+            "lng": 46.29,
+            "name": "Tebriz, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/1-killed-several-injured-in-us-attack-on-iranian-northwestern-tabriz-city/4003340",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1784533399000syj42",
+        "title": "İran'ın Buşehr kentinde çeşitli noktalara saldırı düzenlendi, İsfahan'da patlama sesi duyuldu",
+        "summary": "İran'ın Buşehr kentinde birden fazla noktaya saldırı düzenlendiği bildirildi. Buşehr Valisi, saldırıların kapsamının araştırıldığını açıkladı. Aynı zamanda, ülkenin İsfahan kentinde bir patlama sesi duyulduğu ancak bu patlamanın nedeninin henüz belirlenemediği kaydedildi. Olaylarla ilgili soruşturmalar devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982140/pexels-photo-35982140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:43:19.000Z",
+        "location": {
+            "lat": 28.9667,
+            "lng": 50.8333,
+            "name": "Bushehr, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/several-sites-attacked-in-iran-s-bushehr-city-explosion-heard-in-isfahan/4003329",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784533421079afjjg",
+        "title": "İran'ın batısındaki Kirmanşah eyaletini vuran depremlerde 3 kişi yaralandı",
+        "summary": "İran'ın batısındaki Kirmanşah eyaletinde meydana gelen depremlerde üç kişi yaralandı. Mehr Haber Ajansı'nın bildirdiğine göre, Kozran bölgesini beş dakika arayla iki deprem vurdu. Depremlerden birinin büyüklüğü 5.7 olarak kaydedildi. Bölgede can ve mal kaybına yol açan sarsıntılar sonrası yetkililer durumu yakından takip ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/15861615/pexels-photo-15861615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:43:41.079Z",
+        "location": {
+            "lat": 34.33,
+            "lng": 47.07,
+            "name": "Kermanshah, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/3-injured-as-earthquakes-hit-iran-s-western-kermanshah-province/4003291",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17845334423963cg8m",
+        "title": "Bahreyn'de Alarmlar Aktive Edildi, Halk Güvenli Bölgelere Çağrıldı",
+        "summary": "Bahreyn İçişleri Bakanlığı, ülke genelinde alarmların aktif edildiğini duyurarak halkı güvenli bölgelere geçmeye çağırdı. Bakanlık, vatandaşların sakin kalmasını ve gelişmeleri resmi kanallar aracılığıyla takip etmesini istedi. Bu çağrı, ülkedeki potansiyel bir güvenlik durumuna veya acil bir tehdide karşı alınan önlemleri gösteriyor. Yetkililer, halkın panik yapmaması ve sadece resmi kaynaklardan gelen bilgilere itibar etmesi gerektiğini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38485134/pexels-photo-38485134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:44:02.396Z",
+        "location": {
+            "lat": 26.23,
+            "lng": 50.59,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-activates-alarms-urges-public-to-move-to-safe-areas/4003267",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1784533462898x6nxc",
+        "title": "Kuveyt, hava savunma sistemlerinin insansız hava aracı tehditlerine yanıt verdiğini açıkladı",
+        "summary": "Kuveyt ordusu, ülkenin hava savunma sistemlerinin 'düşmanca' insansız hava araçlarını engellediğini duyurdu. Yapılan açıklamada, duyulan patlama seslerinin bu engelleme faaliyetleri sonucunda meydana geldiği belirtildi. Olayın detaylarına ilişkin ek bilgi verilmezken, bölgedeki güvenlik endişeleri artıyor. Bu gelişme, Körfez bölgesindeki hava sahası güvenliğine yönelik potansiyel tehditleri bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34182367/pexels-photo-34182367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T07:44:22.898Z",
+        "location": {
+            "lat": 29.4,
+            "lng": 48,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-air-defenses-responding-to-drone-threats/4003239",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1784521398361iwzzr",
         "title": "Filistinliler, İspanya'nın Dünya Kupası Zaferini Kutladı",
         "summary": "Gazze Şeridi ve işgal altındaki Batı Şeria'da yaşayan Filistinliler, İspanya Kadın Milli Futbol Takımı'nın Dünya Kupası'nı kazanmasını büyük bir coşkuyla karşıladı. Bölgenin farklı noktalarında toplanan Filistinliler, İspanya'nın zaferini sevinç gösterileri ve kutlamalarla kutladı. Bu kutlamalar, Filistin toplumunun uluslararası spor etkinliklerine olan ilgisini ve ortak sevinç anlarını yansıttı. Olay, bölgedeki günlük yaşamın sosyal bir parçası olarak dikkat çekti.",
@@ -652,150 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784362956471put6b",
-        "title": "Filistinli Futbol Taraftarları Mısırlı Teknik Direktör Hossam Hassan'ı Onurlandırdı",
-        "summary": "Filistinli futbol taraftarları, Mısırlı tanınmış teknik direktör Hossam Hassan'a özel bir onurlandırma töreni düzenledi. Bu etkinlik, sporun birleştirici gücünü ve iki ülke arasındaki kültürel bağları pekiştirdi. Hassan'ın futbol kariyeri ve Mısır futboluna katkıları, Filistin'deki spor camiası tarafından takdirle karşılandı. Söz konusu onurlandırma, bölgesel spor ilişkilerinin gelişimine olumlu bir örnek teşkil etti. Bu tür etkileşimler, halklar arası dayanışmayı ve karşılıklı saygıyı artırma potansiyeli taşımaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/28355100/pexels-photo-28355100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T08:22:36.471Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/18/palestine-football-fans-honour-egyptian-coach-hossam-hassan?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1784363031170372zk",
-        "title": "İsrail'in 'Kızıl İplik' Askeri Bariyeri Batı Şeria'da Filistin Topluluklarını Topraklarından Ayırıyor",
-        "summary": "Batı Şeria'nın Ürdün Vadisi'nde İsrail tarafından inşa edilen 'Kızıl İplik' adı verilen yeni bir askeri bariyerin, bölgedeki Filistin topluluklarını topraklarından kopardığı bildirildi. Söz konusu bariyerin, Filistinlilerin tarım arazilerine ve diğer kaynaklara erişimini engellediği belirtiliyor. Bu durumun, bölgedeki Filistinlilerin günlük yaşamlarını ve geçim kaynaklarını olumsuz etkilediği ifade ediliyor. Bariyerin inşası, İsrail-Filistin arasındaki toprak anlaşmazlıkları ve güvenlik endişeleri bağlamında yeni bir gerilim kaynağı olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9119932/pexels-photo-9119932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T08:23:51.170Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17843630560704lo5r",
-        "title": "İran'dan Suudi Arabistan'daki ABD Üssüne Balistik Füze Saldırısı İddiası",
-        "summary": "Haberlere göre, İran, Suudi Arabistan'da bulunan bir ABD üssüne balistik füze saldırısı düzenledi. Bu olay, Tahran yönetiminin Suudi Arabistan'a yönelik yaklaşık dört aydır gerçekleştirdiği ilk doğrudan saldırı olarak kayıtlara geçti. Saldırının hedefi ve yol açtığı olası hasar hakkında detaylı bilgi henüz verilmedi. Bölgedeki gerilimi artırma potansiyeli taşıyan bu gelişme, uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13128611/pexels-photo-13128611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T08:24:16.070Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-fires-ballistic-missile-at-us-base-in-saudi-arabia-report/4001895",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784363082306073gg",
-        "title": "Filistin ajansı, Batı Şeria'da 1.000'den fazla yeni yasa dışı yerleşim birimi planları hakkında uyarıda bulundu",
-        "summary": "Filistinli bir ajans, İsrail'in Batı Şeria'da 1.000'den fazla yeni yasa dışı yerleşim birimi inşa etme planları hakkında uyarıda bulundu. Filistin Sömürgecilik ve Duvar Direniş Komisyonu'ndan yapılan açıklamaya göre, söz konusu planlar 1.264,2 dönümden fazla işgal altındaki Filistin toprağını hedef alıyor. Bu durum, bölgedeki İsrail yerleşimlerinin genişlemesi konusunda endişeleri artırıyor. Ajans, uluslararası toplumu bu planlara karşı harekete geçmeye çağırdı ve uluslararası hukukun ihlali olarak nitelendirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5308510/pexels-photo-5308510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T08:24:42.306Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-agency-warns-about-israeli-plans-for-more-than-1-000-new-illegal-settlement-units-in-west-bank/4001893",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784363103190fthd2",
-        "title": "Lübnan, İsrail ordusunun ülkenin güneyinde 3 okulu tamamen yıktığını açıkladı",
-        "summary": "Lübnan Eğitim Bakanı, İsrail ordusunun ülkenin güneyinde bulunan üç okulu tamamen yıktığını duyurdu. Bakanlığın açıklamasına göre, Khiam'da iki devlet okulu ve Bint Jbeil'de bir okul patlayıcılarla yerle bir edildi. Bu olay, bölgedeki devam eden çatışmaların eğitim altyapısı üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Lübnan hükümeti, uluslararası toplumu bu tür eylemlere karşı harekete geçmeye ve eğitim kurumlarının korunması için çağrıda bulundu. Yıkılan okulların ardından bölgedeki eğitim faaliyetlerinin aksayacağı ve öğrencilerin mağdur olacağı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10082712/pexels-photo-10082712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T08:25:03.190Z",
-        "location": {
-            "lat": 33.07,
-            "lng": 35.47,
-            "name": "Bint Jbeil, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanon-says-israeli-army-completely-destroyed-3-schools-in-country-s-south/4001798",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784356157461ideew",
-        "title": "ABD, İran'a Yönelik Saldırılarını Yedinci Gecede de Sürdürdü",
-        "summary": "ABD Merkez Komutanlığı (CENTCOM), İran'ın silahlı kuvvetlerini zayıflatmak amacıyla yeni saldırılar düzenlediğini açıkladı. Bu saldırılar, İran'ın stratejik öneme sahip Hürmüz Boğazı yakınlarında patlamalar meydana geldiğini bildirmesiyle eş zamanlı olarak gerçekleşti. ABD'nin bu operasyonları, bölgedeki gerilimi artırırken, İran'ın askeri kapasitesine yönelik doğrudan bir müdahale olarak değerlendiriliyor. Bölgedeki güvenlik durumu, bu gelişmelerle birlikte daha da hassas bir hal almıştır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14413072/pexels-photo-14413072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T06:29:17.461Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1784356178698xulyj",
-        "title": "Yemen açıklarında üç ay içinde ikinci tanker şüpheli Somalili korsanlar tarafından kaçırıldı",
-        "summary": "Yemen açıklarında, şüpheli Somalili korsanlar tarafından üç ay içinde ikinci bir tankerin kaçırıldığı bildirildi. Bu olay, bölgede korsanlık faaliyetlerinin yeniden artışa geçtiği endişelerini beraberinde getirdi. Aynı bölgede daha önce de birçok başarısız saldırı girişiminin yaşandığı belirtildi. Bu durum, Orta Doğu'ya yakın stratejik deniz yollarındaki deniz güvenliği için yeni bir tehdit oluşturuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11063292/pexels-photo-11063292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T06:29:38.698Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 45,
-            "name": "Yemen açıklarında"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1784347587375jgm37",
-        "title": "ABD, artan bölgesel gerilimler nedeniyle Orta Doğu seyahat uyarısını yineledi",
-        "summary": "Amerika Birleşik Devletleri Dışişleri Bakanlığı, Orta Doğu'daki güvenlik ortamının karmaşık yapısını gerekçe göstererek Amerikan vatandaşlarına bölgede dikkatli olmaları çağrısında bulundu. Bakanlık, artan bölgesel gerilimler ışığında daha önce yayımlanan seyahat uyarısını yeniden yürürlüğe koydu. Bu uyarı, bölgedeki mevcut güvenlik risklerine karşı Amerikalıların tedbirli davranmasını hedefliyor. Dışişleri Bakanlığı, vatandaşlarından seyahat planlarını gözden geçirmelerini ve yerel koşulları yakından takip etmelerini istedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12110999/pexels-photo-12110999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T04:06:27.375Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-reissues-middle-east-travel-warning-amid-heightened-regional-tensions/4001910",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "178433625910972zu3",
-        "title": "ABD ve İran Arasında Art Arda Yedinci Gece Saldırı Alışverişi Yaşandı",
-        "summary": "ABD ve İran arasında art arda yedinci gece de saldırı alışverişi yaşandığı bildirildi. Bölgedeki gerilimin tırmandığı gözlemlenirken, çatışmaların şiddetlendiği belirtildi. ABD'nin gerçekleştirdiği saldırıların İran'ın iç kesimlerine doğru genişlediği kaydedildi. Bu durum, iki ülke arasındaki tansiyonun kritik seviyelere ulaştığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6471683/pexels-photo-6471683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-18T00:57:39.109Z",
-        "location": {
-            "lat": 33,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
