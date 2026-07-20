@@ -1,5 +1,21 @@
 [
     {
+        "id": "17845058455897okei",
+        "title": "ABD'den İran'a Yeni Saldırılar: Trump Tahran'ı 'Uslu Durması' Konusunda Uyardı",
+        "summary": "ABD Başkanı Donald Trump, İran'a yönelik yeni saldırıların başlatıldığını açıkladı. Trump, Tahran yönetimini \"daha iyi davranması\" konusunda sert bir dille uyardı. ABD Başkanı, İran'ı \"bitirip bitirmeme\" konusunda henüz bir karar vermediğini ifade etti. Bu açıklamalar, iki ülke arasındaki gerilimin yüksek seyrini koruduğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T00:04:05.589Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784498169500yjy96",
         "title": "İsrailli Bakanlar, Yerleşim Yerlerinin Gazze'ye Dönüşü Talebiyle Yürüyüşe Katıldı",
         "summary": "İsrailli bakanlar, 2005 yılında boşaltılan yerleşim yerlerinin Gazze Şeridi'ne geri dönüşünü talep eden bir yürüyüşe katıldı. Yüzlerce kişi, bu çağrıya destek vermek amacıyla Gazze sınırı yakınında toplandı. Koalisyon hükümetinden önemli isimler, İsrail'in tek taraflı çekilme planı kapsamında tahliye edilen toplulukların yeniden inşası yönünde siyasi baskı uyguluyor. Bu eylem, İsrail'in Gazze Şeridi'ndeki gelecekteki varlığı ve yerleşim politikaları hakkındaki tartışmaları yeniden gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17843233123001rnhj",
-        "title": "İsrail, Gazze ve ABD Gücünün Geleceği",
-        "summary": "Haber, ABD'li Kongre Üyesi Ro Khanna'nın Sreenivasan Jain ile yaptığı bir söyleşiyi konu almaktadır. Söyleşinin ana gündem maddesi, İsrail-Gazze çatışmasının bölgesel ve küresel etkileri üzerine odaklanmaktadır. Özellikle, bu çatışmanın ABD'nin Orta Doğu'daki ve genel olarak küresel arenadaki gücünün geleceği üzerindeki potansiyel yansımaları ele alınmaktadır. Khanna'nın bu konudaki görüşleri ve ABD'nin bölgedeki rolüne dair değerlendirmeleri aktarılmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30550489/pexels-photo-30550489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T21:21:52.300Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
