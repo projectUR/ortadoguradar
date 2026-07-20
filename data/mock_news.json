@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784521398361iwzzr",
+        "title": "Filistinliler, İspanya'nın Dünya Kupası Zaferini Kutladı",
+        "summary": "Gazze Şeridi ve işgal altındaki Batı Şeria'da yaşayan Filistinliler, İspanya Kadın Milli Futbol Takımı'nın Dünya Kupası'nı kazanmasını büyük bir coşkuyla karşıladı. Bölgenin farklı noktalarında toplanan Filistinliler, İspanya'nın zaferini sevinç gösterileri ve kutlamalarla kutladı. Bu kutlamalar, Filistin toplumunun uluslararası spor etkinliklerine olan ilgisini ve ortak sevinç anlarını yansıttı. Olay, bölgedeki günlük yaşamın sosyal bir parçası olarak dikkat çekti.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/22361403/pexels-photo-22361403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T04:23:18.361Z",
+        "location": {
+            "lat": 31.7,
+            "lng": 35,
+            "name": "Filistin Toprakları"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17845058455897okei",
         "title": "ABD'den İran'a Yeni Saldırılar: Trump Tahran'ı 'Uslu Durması' Konusunda Uyardı",
         "summary": "ABD Başkanı Donald Trump, İran'a yönelik yeni saldırıların başlatıldığını açıkladı. Trump, Tahran yönetimini \"daha iyi davranması\" konusunda sert bir dille uyardı. ABD Başkanı, İran'ı \"bitirip bitirmeme\" konusunda henüz bir karar vermediğini ifade etti. Bu açıklamalar, iki ülke arasındaki gerilimin yüksek seyrini koruduğunu gösteriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784330721150bf29w",
-        "title": "Irak'tan Batılı Petrol Firmalarıyla Anlaşmalar: Suriye Boru Hattı Yeniden Canlandırılacak",
-        "summary": "Irak, Batılı petrol firmalarıyla önemli anlaşmalara imza attı. Bu anlaşmalar arasında, ülkenin petrol zengini Kerkük bölgesinden Suriye'nin Baniyas kentine uzanan ham petrol boru hattının yeniden inşası da bulunuyor. Özellikle Chevron ile yapılan anlaşma, söz konusu boru hattının canlandırılmasını hedefliyor. Bu adımın, bölgedeki enerji akışını ve Irak'ın petrol ihracat kapasitesini artırması bekleniyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/31587338/pexels-photo-31587338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-17T23:25:21.150Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
