@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784574808419dxtoa",
+        "title": "Faslı Adamın Gözaltında Ölümü İtalya'da Protestolara Yol Açtı",
+        "summary": "İtalya'da Faslı bir adamın gözaltına alındığı sırada hayatını kaybetmesi üzerine ülke genelinde protestolar başladı. Bologna'da yaşanan bu olay, İtalya'nın siyasi yelpazesinde geniş çaplı bir infiale yol açtı ve 2020'de George Floyd'un öldürülmesiyle kıyaslandı. Olayın ardından adalet talebiyle gösteriler düzenlenirken, yetkililer kapsamlı bir soruşturma başlattı. Bu durum, göçmen toplulukların hakları ve polis şiddeti konularında tartışmaları alevlendirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/4685550/pexels-photo-4685550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T19:13:28.419Z",
+        "location": {
+            "lat": 44.4949,
+            "lng": 11.3426,
+            "name": "Bologna, İtalya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784574845028wp6aj",
+        "title": "Trump, ABD askerlerinin öldürülmesi sonrası İran'ın 'bedel ödeyeceğini' belirtti",
+        "summary": "ABD eski Başkanı Donald Trump, Amerikan askerlerinin bölgede hayatını kaybetmesinin ardından İran'ın 'bedel ödeyeceği' yönünde sert bir açıklama yaptı. Bu açıklama, ABD'nin bölgedeki Amerikan askerlerinin ölümü sonrası İran'a yönelik hava saldırılarını artırdığı ve kritik hedefleri vurduğu bir döneme denk geldi. Washington, bölgedeki ABD güçlerine yönelik saldırılardan İran'ı sorumlu tutarak misilleme adımları atıyor. Gerilim, ABD'nin İran'ı hedef alan askeri operasyonlarıyla tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12356447/pexels-photo-12356447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T19:14:05.028Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17845749370334z25a",
+        "title": "İsrail Ordusunun Suriye'nin Güneyinde Açtığı Ateşte İki Çocuk Yaralandı",
+        "summary": "Suriye'nin güneyindeki Deraa kırsalının batısında yer alan Jamla köyünde İsrail ordusunun açtığı ateş sonucu iki çocuk yaralandı. İsrail güçleri, köy sakinlerinden oluşan bir gruba doğru ateş açtı. Olayda yaralanan çocukların sağlık durumuna ilişkin detaylı bilgi verilmedi. Bölge, İsrail ile Suriye arasında sık sık askeri gerilimlerin ve sınır olaylarının yaşandığı bir hat üzerinde bulunuyor. Bu tür olaylar, bölgedeki hassas güvenlik durumunu bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36798300/pexels-photo-36798300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T19:15:37.033Z",
+        "location": {
+            "lat": 32.85,
+            "lng": 35.85,
+            "name": "Jamla, Deraa, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-children-injured-by-israeli-army-fire-in-southern-syria/4004025",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178456697726232fqj",
         "title": "İsrail'in Gazze Şehri'ne Hava Saldırısı: 14 Yaralı",
         "summary": "Gazze Sağlık Bakanlığı yetkilileri, İsrail'in Gazze Şehri'ne düzenlediği hava saldırısında en az 14 kişinin yaralandığını bildirdi. Saldırı, bölgedeki gerilimi yeniden tırmandırırken, yaralıların hastanelere sevk edildiği ve bazılarının durumunun ciddi olduğu belirtildi. Olayın ardından uluslararası toplumdan tepkiler gelmesi bekleniyor. İsrail ordusundan ise henüz resmi bir açıklama yapılmadı.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/us-says-it-completed-8th-consecutive-night-of-strikes-against-iran/4002573",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17844461654574ogol",
-        "title": "Suriye: İsrail Güçleri Kuneytra Bölgesine Girdi",
-        "summary": "Suriye resmi haber ajansı SANA, İsrail'e ait altı askeri aracın ülkenin güneyindeki Kuneytra bölgesine girdiğini duyurdu. Açıklamada, bu incursion'ın İsrail'in Suriye egemenliğini sürekli ve tekrarlanan ihlallerinin bir parçası olduğu belirtildi. Suriye, İsrail'in bu tür eylemlerinin uluslararası hukuka aykırı olduğunu ve bölgesel gerilimi artırdığını vurguladı. Olayın, iki ülke arasındaki gerginliğin devam ettiği bir dönemde yaşandığı kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34693641/pexels-photo-34693641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T07:29:25.457Z",
-        "location": {
-            "lat": 33.12,
-            "lng": 35.79,
-            "name": "Kuneytra, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-force-of-6-military-vehicles-incurs-into-quneitra-syria-/4002566",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1784446187317vi8ja",
-        "title": "Mısır, Tanzanya'da Arazi Islah Projelerine Odaklanıyor",
-        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, Tanzanyalı mevkidaşı Samia Suluhu Hassan ile Darüsselam ziyaretinin kulisinde bir basın toplantısı düzenledi. Toplantıda, Mısır'ın Tanzanya'da arazi ıslah projelerine yönelik ilgisi dile getirildi. Bu girişim, iki ülke arasındaki işbirliğini ve ekonomik ilişkileri güçlendirmeyi hedefliyor. Mısır'ın Afrika kıtasındaki stratejik ortaklıklarını genişletme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T07:29:47.317Z",
-        "location": {
-            "lat": -6.8,
-            "lng": 39.2,
-            "name": "Darüsselam, Tanzanya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egypt-eyes-land-reclamation-projects-in-tanzania-/4002565",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17844462082635t0wa",
-        "title": "İran'ın Keşm Adası'na Yeni ABD Saldırıları Ortasında En Az 6 Füze İsabet Etti",
-        "summary": "İran'ın güneyindeki stratejik Keşm Adası'na en az altı füzenin isabet ettiği bildirildi. Bu saldırıların, bölgede devam eden yeni ABD operasyonları ve gerilimlerin ortasında gerçekleştiği belirtildi. İranlı yetkililer, füze saldırılarının yol açtığı hasarın boyutu veya herhangi bir can kaybı hakkında henüz resmi bir açıklama yapmadı. Olayın ardından bölgedeki durum ve gelişmeler yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19893301/pexels-photo-19893301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T07:30:08.263Z",
-        "location": {
-            "lat": 26.9583,
-            "lng": 56.2667,
-            "name": "Keşm Adası, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/at-least-6-missiles-hit-irans-qeshm-island-amid-new-us-strikes/4002561",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
