@@ -1,5 +1,21 @@
 [
     {
+        "id": "178456697726232fqj",
+        "title": "İsrail'in Gazze Şehri'ne Hava Saldırısı: 14 Yaralı",
+        "summary": "Gazze Sağlık Bakanlığı yetkilileri, İsrail'in Gazze Şehri'ne düzenlediği hava saldırısında en az 14 kişinin yaralandığını bildirdi. Saldırı, bölgedeki gerilimi yeniden tırmandırırken, yaralıların hastanelere sevk edildiği ve bazılarının durumunun ciddi olduğu belirtildi. Olayın ardından uluslararası toplumdan tepkiler gelmesi bekleniyor. İsrail ordusundan ise henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37852341/pexels-photo-37852341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-20T17:02:57.262Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784561343483c5uwg",
         "title": "Andy Burnham, Birleşik Krallık Başbakanı Oldu ve Siyasi İstikrarsızlığa Son Verme Sözü Verdi",
         "summary": "Birleşik Krallık'ta son on yılda göreve gelen yedinci başbakan olan Andy Burnham, ülkedeki siyasi istikrarsızlığa son verme ve yükselişte olan popülist güçleri engelleme amacıyla önemli değişiklikler yapma taahhüdünde bulundu. Göreve başlamasının ardından yaptığı açıklamada Burnham, Birleşik Krallık'ın karşı karşıya olduğu zorlukların üstesinden gelmek için kararlı bir liderlik sergileyeceğini vurguladı. Bu liderlik değişimi, ülkenin iç siyasetinde istikrar arayışını yansıtırken, Birleşik Krallık'ın uluslararası arenadaki duruşu ve dış politikaları üzerinde potansiyel etkiler yaratabilir. Birleşmiş Milletler Güvenlik Konseyi'nin daimi üyesi ve önemli bir küresel aktör olarak Birleşik Krallık'taki bu değişim, Orta Doğu dahil olmak üzere çeşitli bölgelerle ilişkilerinde dolaylı yansımalar doğurabilir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/at-least-6-missiles-hit-irans-qeshm-island-amid-new-us-strikes/4002561",
         "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1784436555184w4c2p",
-        "title": "Rus balistik füzeleri Kiev'i vurdu: En az bir kişi hayatını kaybetti",
-        "summary": "Pazar sabahı erken saatlerde Rusya'ya ait balistik füzeler Ukrayna'nın başkenti Kiev ve çevresindeki bölgeleri hedef aldı. Ukraynalı yetkililerden yapılan açıklamalara göre, saldırılar sonucunda en az bir kişi yaşamını yitirirken, dokuz kişi de yaralandı. Füzelerin sivil altyapıya ve yerleşim yerlerine isabet ettiği belirtildi. Bölgede hasar tespit ve arama kurtarma çalışmaları sürdürülüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975879/pexels-photo-28975879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T04:49:15.184Z",
-        "location": {
-            "lat": 50.45,
-            "lng": 30.52,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": true
     }
 ]
