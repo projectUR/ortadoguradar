@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784652918195hirhf",
+        "title": "BM: Rusya-Ukrayna Savaşı'nda Sivil Kayıplarda Büyük Artış",
+        "summary": "Birleşmiş Milletler (BM), Rusya-Ukrayna Savaşı'nda sivil kayıpların sayısında önemli bir artış yaşandığını duyurdu. BM raporuna göre, cephe hattından uzak hedeflere yönelik uzun menzilli füzelerin ve insansız hava araçlarının kullanımının artması, sivil can kayıplarını kötüleştiriyor. Bu durum, savaşın siviller üzerindeki yıkıcı etkisinin derinleştiğini gösteriyor. Uluslararası toplum, sivillerin korunması konusunda endişelerini dile getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10395785/pexels-photo-10395785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T16:55:18.195Z",
+        "location": {
+            "lat": 49,
+            "lng": 32,
+            "name": "Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/21/steep-rise-in-civilian-casualties-in-russia-ukraine-war-un-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17846529582865smhw",
+        "title": "ABD, Mevcut Ticaret Vergileri Sona Ererken Yeni Tarifeler Uygulama Sinyali Verdi",
+        "summary": "ABD Ticaret Temsilcisi Jamieson Greer, eski Başkan Trump döneminde uygulanan geçici ticaret vergilerinin Cuma günü sona ermesiyle birlikte, 60 ticaret ortağına yönelik yeni tarifeler uygulanabileceğine dair sinyaller verdi. Bu potansiyel adım, küresel ticaret ilişkilerinde önemli bir değişime işaret ediyor. ABD'nin bu hamlesi, uluslararası piyasalarda belirsizliğe yol açarken, birçok ülkenin ekonomisini doğrudan veya dolaylı olarak etkileyebilir. Özellikle ABD ile yoğun ticari ilişkileri bulunan Orta Doğu ülkeleri için bu durumun ekonomik yansımaları yakından takip edilecek ve bölge ekonomileri üzerindeki potansiyel etkileri değerlendirilecektir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/29278108/pexels-photo-29278108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T16:55:58.286Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/21/us-eyes-new-tariffs-as-existing-trade-duties-near-expiration?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784653042567rolwl",
+        "title": "Trump: ABD'nin Husilerle Askeri Müdahale Sonrası Sorunu Yok",
+        "summary": "ABD Başkanı Donald Trump, ABD'nin askeri müdahalesi sonrasında Yemen'deki Husi grubuyla \"bir sorunu olmadığını\" belirtti. Trump, Washington'ın, grubun Kızıldeniz'i abluka altına alması durumunda \"işi halledeceği\" uyarısında bulundu. Bu açıklama, Husilerin Kızıldeniz'deki gemi trafiğine yönelik tehditlerinin ardından geldi. Kızıldeniz, küresel ticaret için stratejik öneme sahip bir deniz yolu olup, bölgedeki istikrar açısından kritik bir rol oynamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10230991/pexels-photo-10230991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T16:57:22.567Z",
+        "location": {
+            "lat": 15.55,
+            "lng": 48.51,
+            "name": "Yemen, Kızıldeniz"
+        },
+        "source": "https://www.aa.com.tr/en/americas/trump-says-us-has-no-problem-with-houthis-since-us-military-action/4005010",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784646326823l3lnh",
         "title": "Suudi Arabistan, Husilerin Deniz Ablukasını Kınadı",
         "summary": "Suudi Arabistan, Yemen'deki Husi grubunun uyguladığı deniz ablukasını şiddetle kınadığını duyurdu. Yapılan açıklamada, bu ablukanın Suudi petrolünün uluslararası alıcılara akışını olumsuz etkileyebileceği belirtildi. Suudi Arabistan, bu tür eylemlerin küresel enerji piyasaları üzerindeki potansiyel etkileri konusunda endişelerini dile getirdi. Ablukanın devam etmesi durumunda, petrol tedarik zincirlerinde aksaklıklar yaşanabileceği ve bunun dünya ekonomisi üzerinde geniş çaplı sonuçlar doğurabileceği vurgulandı.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-air-defenses-responding-to-drone-threats/4003239",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1784521398361iwzzr",
-        "title": "Filistinliler, İspanya'nın Dünya Kupası Zaferini Kutladı",
-        "summary": "Gazze Şeridi ve işgal altındaki Batı Şeria'da yaşayan Filistinliler, İspanya Kadın Milli Futbol Takımı'nın Dünya Kupası'nı kazanmasını büyük bir coşkuyla karşıladı. Bölgenin farklı noktalarında toplanan Filistinliler, İspanya'nın zaferini sevinç gösterileri ve kutlamalarla kutladı. Bu kutlamalar, Filistin toplumunun uluslararası spor etkinliklerine olan ilgisini ve ortak sevinç anlarını yansıttı. Olay, bölgedeki günlük yaşamın sosyal bir parçası olarak dikkat çekti.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/22361403/pexels-photo-22361403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T04:23:18.361Z",
-        "location": {
-            "lat": 31.7,
-            "lng": 35,
-            "name": "Filistin Toprakları"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17845058455897okei",
-        "title": "ABD'den İran'a Yeni Saldırılar: Trump Tahran'ı 'Uslu Durması' Konusunda Uyardı",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik yeni saldırıların başlatıldığını açıkladı. Trump, Tahran yönetimini \"daha iyi davranması\" konusunda sert bir dille uyardı. ABD Başkanı, İran'ı \"bitirip bitirmeme\" konusunda henüz bir karar vermediğini ifade etti. Bu açıklamalar, iki ülke arasındaki gerilimin yüksek seyrini koruduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T00:04:05.589Z",
-        "location": {
-            "lat": 35.69,
-            "lng": 51.39,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784498169500yjy96",
-        "title": "İsrailli Bakanlar, Yerleşim Yerlerinin Gazze'ye Dönüşü Talebiyle Yürüyüşe Katıldı",
-        "summary": "İsrailli bakanlar, 2005 yılında boşaltılan yerleşim yerlerinin Gazze Şeridi'ne geri dönüşünü talep eden bir yürüyüşe katıldı. Yüzlerce kişi, bu çağrıya destek vermek amacıyla Gazze sınırı yakınında toplandı. Koalisyon hükümetinden önemli isimler, İsrail'in tek taraflı çekilme planı kapsamında tahliye edilen toplulukların yeniden inşası yönünde siyasi baskı uyguluyor. Bu eylem, İsrail'in Gazze Şeridi'ndeki gelecekteki varlığı ve yerleşim politikaları hakkındaki tartışmaları yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5308510/pexels-photo-5308510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T21:56:09.500Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
