@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784646326823l3lnh",
+        "title": "Suudi Arabistan, Husilerin Deniz Ablukasını Kınadı",
+        "summary": "Suudi Arabistan, Yemen'deki Husi grubunun uyguladığı deniz ablukasını şiddetle kınadığını duyurdu. Yapılan açıklamada, bu ablukanın Suudi petrolünün uluslararası alıcılara akışını olumsuz etkileyebileceği belirtildi. Suudi Arabistan, bu tür eylemlerin küresel enerji piyasaları üzerindeki potansiyel etkileri konusunda endişelerini dile getirdi. Ablukanın devam etmesi durumunda, petrol tedarik zincirlerinde aksaklıklar yaşanabileceği ve bunun dünya ekonomisi üzerinde geniş çaplı sonuçlar doğurabileceği vurgulandı.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/38407786/pexels-photo-38407786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T15:05:26.823Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 47.5,
+            "name": "Yemen, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784646425542b7j3q",
+        "title": "İran'ın Hürmüz Boğazı Üzerindeki Riskli Adımları ve ABD Gerilimi",
+        "summary": "İran'ın Hürmüz Boğazı'ndaki stratejik hamleleri ve ABD ile süregelen gerilim, Tahran yönetiminin karşı karşıya olduğu zorlu seçenekleri gözler önüne seriyor. Habere göre, İranlı liderlerin önündeki hiçbir kararın net bir zafere giden yolu işaret etmediği belirtiliyor. Bu durum, bölgedeki jeopolitik tansiyonun yüksekliğini ve İran'ın stratejik çıkmazını vurguluyor. Küresel enerji ticareti için hayati önem taşıyan Hürmüz Boğazı'ndaki bu gerilimler, uluslararası kamuoyunun dikkatini çekmeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699687/pexels-photo-5699687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T15:07:05.542Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178463850084782d15",
         "title": "Uzmanlar: İran Savaşı'nın Ekonomik Etkilerini Anlamak İçin Hisse Senetlerinin Ötesine Bakılmalı",
         "summary": "Uzmanlar, İran savaşı olarak adlandırılan dönemin başlangıcından bu yana ABD ekonomisinin durumunu anlamak için hisse senetlerinin ötesine bakılması gerektiğini belirtiyor. Enflasyonun önemli bir göstergesi olan 10 yıllık ABD Hazine tahvillerinin getirileri, bu süreçte 60 baz puan artış gösterdi. Bu artış, piyasalardaki belirsizliğin ve potansiyel ekonomik baskıların bir işareti olarak değerlendiriliyor. Analistler, küresel jeopolitik gelişmelerin ABD ekonomisi üzerindeki etkilerini yakından takip ediyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "178449827965651oo7",
-        "title": "ABD, İran'a Yönelik Deniz Ablukasını Sıkılaştırıyor: Ticari Gemiler Yönlendirildi",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) tarafından yapılan açıklamaya göre, ABD donanması İran'a yönelik deniz ablukasını sürdürüyor ve bu kapsamda operasyonlarını sıkılaştırıyor. CENTCOM, ABD güçlerinin altı ticari gemiyi yönlendirdiğini ve bir gemiyi etkisiz hale getirdiğini bildirdi. Güdümlü füze destroyeri USS John Finn'deki ABD Donanması denizcilerinin bölgede odaklanmış ve teyakkuzda olduğu belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19065484/pexels-photo-19065484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T21:57:59.656Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-reports-redirecting-6-commercial-ships-and-disabling-1-as-it-tightens-naval-blockade-on-iran/4003148",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784498316643uyy7m",
-        "title": "İran Dışişleri Bakanı: Savaşın Önlenmesi İçin Müzakereler Değerliydi",
-        "summary": "İran Dışişleri Bakanı, ülkesinin müzakereleri sürdürmesinin nedenlerini açıkladı. Bakan, savaşın önlenmesi için yüzde 10'luk bir ihtimal bile olsa, bu ihtimalin araştırılmaya değer olduğunu belirtti. Müzakerelerin çeşitli hedefleri olduğunu ifade eden Bakan, bu hedeflerden birinin taleplerine müzakereler yoluyla ulaşmak olduğunu vurguladı. Bu açıklamalar, İran'ın uluslararası arenadaki diplomatik çabalarına ve bölgesel gerilimleri azaltma arayışına ışık tutuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6918529/pexels-photo-6918529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T21:58:36.643Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-pursued-talks-because-even-10-chance-of-avoiding-war-was-worth-exploring-foreign-minister/4003131",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
