@@ -1,5 +1,21 @@
 [
     {
+        "id": "17846748563008x1pc",
+        "title": "İsrail'in Gazze'ye Düzenlediği Saldırılarda 12 Kişi Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail'in düzenlediği hava saldırılarında aralarında altı kişilik bir ailenin de bulunduğu 12 kişi hayatını kaybetti. Sağlık kaynaklarından alınan bilgiye göre, saldırılardan birinde Firas el-Masri, eşi ve dört çocuğu yaşamını yitirdi. İsrail ordusu, söz konusu saldırının bir Hamas militanını hedef aldığını açıkladı. Bu olay, bölgedeki güvenlik durumunu ve sivil kayıplar konusundaki endişeleri bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38317996/pexels-photo-38317996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T23:00:56.300Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1784670006129uehu9",
         "title": "ABD Savunma Bakanı Hegseth: İran Savaşı Maliyeti Şu Ana Kadar 37,5 Milyar Dolar",
         "summary": "ABD Savunma Bakanı Hegseth, İran savaşı maliyetinin şu ana kadar 37,5 milyar dolar olduğunu açıkladı. Bu açıklama, Hegseth ve Genelkurmay Başkanı Caine'in, İran savaşı için 70 milyar dolar dahil olmak üzere toplam 1,5 trilyon dolarlık bir bütçe talep ettiği dönemde geldi. Talep edilen bütçe, ABD'nin savunma harcamalarının önemli bir bölümünü oluşturuyor. Bu maliyetler, bölgedeki askeri operasyonlar ve hazırlıklar için ayrılan fonları kapsıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/1-killed-several-injured-in-us-attack-on-iranian-northwestern-tabriz-city/4003340",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1784533399000syj42",
-        "title": "İran'ın Buşehr kentinde çeşitli noktalara saldırı düzenlendi, İsfahan'da patlama sesi duyuldu",
-        "summary": "İran'ın Buşehr kentinde birden fazla noktaya saldırı düzenlendiği bildirildi. Buşehr Valisi, saldırıların kapsamının araştırıldığını açıkladı. Aynı zamanda, ülkenin İsfahan kentinde bir patlama sesi duyulduğu ancak bu patlamanın nedeninin henüz belirlenemediği kaydedildi. Olaylarla ilgili soruşturmalar devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982140/pexels-photo-35982140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T07:43:19.000Z",
-        "location": {
-            "lat": 28.9667,
-            "lng": 50.8333,
-            "name": "Bushehr, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/several-sites-attacked-in-iran-s-bushehr-city-explosion-heard-in-isfahan/4003329",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
