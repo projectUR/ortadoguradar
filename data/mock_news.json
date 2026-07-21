@@ -1,5 +1,21 @@
 [
     {
+        "id": "178463850084782d15",
+        "title": "Uzmanlar: İran Savaşı'nın Ekonomik Etkilerini Anlamak İçin Hisse Senetlerinin Ötesine Bakılmalı",
+        "summary": "Uzmanlar, İran savaşı olarak adlandırılan dönemin başlangıcından bu yana ABD ekonomisinin durumunu anlamak için hisse senetlerinin ötesine bakılması gerektiğini belirtiyor. Enflasyonun önemli bir göstergesi olan 10 yıllık ABD Hazine tahvillerinin getirileri, bu süreçte 60 baz puan artış gösterdi. Bu artış, piyasalardaki belirsizliğin ve potansiyel ekonomik baskıların bir işareti olarak değerlendiriliyor. Analistler, küresel jeopolitik gelişmelerin ABD ekonomisi üzerindeki etkilerini yakından takip ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T12:55:00.847Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784632236329z3w8a",
         "title": "Arizona Ön Seçimlerinde Gazze Tartışmaları Etkili Olabilir",
         "summary": "Arizona'da Salı günü yapılacak ön seçimler, eyaletin geleceğini şekillendirecek önemli yarışlara sahne oluyor. Vali adaylığı mücadelesinden, Demokrat Parti içindeki Gazze konusundaki ayrılıklara kadar birçok faktör, seçim sonuçlarını etkileyebilir. Özellikle Gazze meselesi üzerindeki görüş ayrılıkları, ABD iç siyasetinde Orta Doğu'ya yönelik politikaların ve seçmen tercihlerinin belirlenmesinde kritik bir rol oynuyor. Bu seçimler, hem eyalet düzeyindeki liderliği hem de ulusal çapta partilerin dış politika duruşlarını yansıtması açısından dikkatle izleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-pursued-talks-because-even-10-chance-of-avoiding-war-was-worth-exploring-foreign-minister/4003131",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784494475414808eb",
-        "title": "Birleşik Krallık 10 Yılda Yedinci Başbakanını Göreve Getirdi",
-        "summary": "Birleşik Krallık'ta göreve gelen yeni Başbakan Andy Burnham'ın, dış politika alanında acil zorluklarla yüzleşmesi bekleniyor. Bu zorluklar arasında Ukrayna ve İran'daki mevcut çatışmalar öne çıkıyor. Burnham'ın liderliğindeki hükümetin, bu bölgesel ve küresel krizlere yönelik stratejiler geliştirmesi gerekecek. Yeni başbakanın İran politikası, Orta Doğu'daki dengeler açısından yakından takip edilecek.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4610271/pexels-photo-4610271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T20:54:35.414Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
