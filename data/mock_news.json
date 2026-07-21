@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784657807721kjfms",
+        "title": "Suudi Arabistan'ın Husilere Yönelik Stratejik Sabrının Sınırları Yakında Ortaya Çıkabilir",
+        "summary": "Suudi Arabistan, bölgesel istikrarı koruma amacıyla Yemen'deki Husilerin provokasyonlarını bugüne kadar göz ardı etti. Ancak, Riyad'ın bu tutumu değişebilir ve yakın zamanda harekete geçmek zorunda kalabilir. Bu durum, Yemen'deki çatışmanın seyrini ve Orta Doğu'daki bölgesel dinamikleri etkileyebilir. Gelişmeler, bölgedeki güvenlik dengeleri açısından kritik öneme sahip.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T18:16:47.721Z",
+        "location": {
+            "lat": 15.37,
+            "lng": 44.19,
+            "name": "Yemen, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784652918195hirhf",
         "title": "BM: Rusya-Ukrayna Savaşı'nda Sivil Kayıplarda Büyük Artış",
         "summary": "Birleşmiş Milletler (BM), Rusya-Ukrayna Savaşı'nda sivil kayıpların sayısında önemli bir artış yaşandığını duyurdu. BM raporuna göre, cephe hattından uzak hedeflere yönelik uzun menzilli füzelerin ve insansız hava araçlarının kullanımının artması, sivil can kayıplarını kötüleştiriyor. Bu durum, savaşın siviller üzerindeki yıkıcı etkisinin derinleştiğini gösteriyor. Uluslararası toplum, sivillerin korunması konusunda endişelerini dile getiriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/bahrain-activates-alarms-urges-public-to-move-to-safe-areas/4003267",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1784533462898x6nxc",
-        "title": "Kuveyt, hava savunma sistemlerinin insansız hava aracı tehditlerine yanıt verdiğini açıkladı",
-        "summary": "Kuveyt ordusu, ülkenin hava savunma sistemlerinin 'düşmanca' insansız hava araçlarını engellediğini duyurdu. Yapılan açıklamada, duyulan patlama seslerinin bu engelleme faaliyetleri sonucunda meydana geldiği belirtildi. Olayın detaylarına ilişkin ek bilgi verilmezken, bölgedeki güvenlik endişeleri artıyor. Bu gelişme, Körfez bölgesindeki hava sahası güvenliğine yönelik potansiyel tehditleri bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34182367/pexels-photo-34182367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T07:44:22.898Z",
-        "location": {
-            "lat": 29.4,
-            "lng": 48,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/kuwait-says-air-defenses-responding-to-drone-threats/4003239",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
