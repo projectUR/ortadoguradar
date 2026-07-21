@@ -1,5 +1,21 @@
 [
     {
+        "id": "178466416302922qdb",
+        "title": "Irak'ın Erbil Kentinde Patlamalar: Hava Savunması İHA'ları Engelledi, Muhalif Grup Füze Saldırısına Uğradığını Açıkladı",
+        "summary": "Irak'ın Erbil kentinde patlama sesleri duyulduğu ve hava savunma sistemlerinin üç intihar insansız hava aracını başarıyla engellediği bildirildi. Olayın ardından, bir Kürt İran muhalif grubu, kamplarından birinin iki füzeyle vurulduğunu açıkladı. Bu durum, saldırıların hedefinin söz konusu muhalif grup olabileceği ihtimalini güçlendiriyor. Bölgedeki gerilimin artmasına neden olan bu saldırıların kim tarafından düzenlendiği henüz netlik kazanmadı ve soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5941989/pexels-photo-5941989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T20:02:43.029Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 44,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/us-israel-iran-war/explosions-heard-in-iraq-s-erbil-as-air-defenses-intercept-3-suicide-drones/4005130",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784657807721kjfms",
         "title": "Suudi Arabistan'ın Husilere Yönelik Stratejik Sabrının Sınırları Yakında Ortaya Çıkabilir",
         "summary": "Suudi Arabistan, bölgesel istikrarı koruma amacıyla Yemen'deki Husilerin provokasyonlarını bugüne kadar göz ardı etti. Ancak, Riyad'ın bu tutumu değişebilir ve yakın zamanda harekete geçmek zorunda kalabilir. Bu durum, Yemen'deki çatışmanın seyrini ve Orta Doğu'daki bölgesel dinamikleri etkileyebilir. Gelişmeler, bölgedeki güvenlik dengeleri açısından kritik öneme sahip.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/3-injured-as-earthquakes-hit-iran-s-western-kermanshah-province/4003291",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "17845334423963cg8m",
-        "title": "Bahreyn'de Alarmlar Aktive Edildi, Halk Güvenli Bölgelere Çağrıldı",
-        "summary": "Bahreyn İçişleri Bakanlığı, ülke genelinde alarmların aktif edildiğini duyurarak halkı güvenli bölgelere geçmeye çağırdı. Bakanlık, vatandaşların sakin kalmasını ve gelişmeleri resmi kanallar aracılığıyla takip etmesini istedi. Bu çağrı, ülkedeki potansiyel bir güvenlik durumuna veya acil bir tehdide karşı alınan önlemleri gösteriyor. Yetkililer, halkın panik yapmaması ve sadece resmi kaynaklardan gelen bilgilere itibar etmesi gerektiğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38485134/pexels-photo-38485134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T07:44:02.396Z",
-        "location": {
-            "lat": 26.23,
-            "lng": 50.59,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-activates-alarms-urges-public-to-move-to-safe-areas/4003267",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
