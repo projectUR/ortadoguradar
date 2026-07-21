@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784613285355tlh5z",
+        "title": "Lübnanlılar, İsrail'in İşgal Etmediğini İddia Ettikleri 'Pilot Bölge' Köylerine Dönüyor",
+        "summary": "ABD arabuluculuğunda varılan bir plan çerçevesinde, İsrail'in Lübnan'da işgal ettiği bazı bölgelerin kontrolünü Lübnan hükümetine devretmesi bekleniyor. Bu gelişme, Lübnanlıların İsrail'in hiçbir zaman işgal etmediğini savundukları 'pilot bölge' olarak adlandırılan köylere geri dönüşünü sağlayacak. Söz konusu bölgelerin devri, iki ülke arasındaki sınır anlaşmazlıklarının çözümüne yönelik önemli bir adım olarak değerlendiriliyor. Anlaşma, bölgedeki gerilimi azaltma ve istikrarı artırma potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/27667206/pexels-photo-27667206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T05:54:45.355Z",
+        "location": {
+            "lat": 33.25,
+            "lng": 35.58,
+            "name": "Güney Lübnan Sınır Bölgesi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784602580246twp7n",
         "title": "ABD askeri Irak'ta İran saldırısında öldürüldü, bir asker yaralandı",
         "summary": "ABD ordusu, Irak'ta düzenlenen ve İran'a atfedilen bir saldırıda bir askerinin hayatını kaybettiğini, bir diğerinin ise yaralandığını bildirdi. Bu olay, ABD'nin Ürdün'de iki askerini kaybetmesinden sadece bir gün sonra gerçekleşti. Bölgedeki gerilimin tırmandığına işaret eden bu gelişmeler, ABD güçleri ile İran destekli gruplar arasındaki çatışmaların devam ettiğini gösteriyor.",
@@ -780,22 +796,6 @@
             "name": "Gazze Şehri, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-artillery-shelling-kills-at-least-2-palestinians-in-gaza-despite-ceasefire/4002693",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784446074634tbxau",
-        "title": "ABD, Ürdün'deki Asker Kayıplarının Ardından İran'a Yönelik Hava Saldırılarını Sürdürüyor",
-        "summary": "Amerika Birleşik Devletleri, Ürdün'de iki Amerikan askerinin İran kaynaklı saldırılarda hayatını kaybetmesinin ardından İran'a yönelik yeni bir hava saldırısı dalgası başlattı. Bu saldırılar, ABD'nin İran'a karşı sekizinci gece üst üste düzenlediği operasyonlar olarak kaydedildi. Washington, bölgedeki gerilimi tırmandıran bu tür eylemlere misilleme olarak İran hedeflerini vurduğunu belirtiyor. Olay, Orta Doğu'da artan tansiyonu ve bölgesel çatışma riskini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-19T07:27:54.634Z",
-        "location": {
-            "lat": 33,
-            "lng": 45,
-            "name": "İran, Ürdün"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
