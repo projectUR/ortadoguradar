@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784670006129uehu9",
+        "title": "ABD Savunma Bakanı Hegseth: İran Savaşı Maliyeti Şu Ana Kadar 37,5 Milyar Dolar",
+        "summary": "ABD Savunma Bakanı Hegseth, İran savaşı maliyetinin şu ana kadar 37,5 milyar dolar olduğunu açıkladı. Bu açıklama, Hegseth ve Genelkurmay Başkanı Caine'in, İran savaşı için 70 milyar dolar dahil olmak üzere toplam 1,5 trilyon dolarlık bir bütçe talep ettiği dönemde geldi. Talep edilen bütçe, ABD'nin savunma harcamalarının önemli bir bölümünü oluşturuyor. Bu maliyetler, bölgedeki askeri operasyonlar ve hazırlıklar için ayrılan fonları kapsıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38247295/pexels-photo-38247295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-21T21:40:06.129Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178466416302922qdb",
         "title": "Irak'ın Erbil Kentinde Patlamalar: Hava Savunması İHA'ları Engelledi, Muhalif Grup Füze Saldırısına Uğradığını Açıkladı",
         "summary": "Irak'ın Erbil kentinde patlama sesleri duyulduğu ve hava savunma sistemlerinin üç intihar insansız hava aracını başarıyla engellediği bildirildi. Olayın ardından, bir Kürt İran muhalif grubu, kamplarından birinin iki füzeyle vurulduğunu açıkladı. Bu durum, saldırıların hedefinin söz konusu muhalif grup olabileceği ihtimalini güçlendiriyor. Bölgedeki gerilimin artmasına neden olan bu saldırıların kim tarafından düzenlendiği henüz netlik kazanmadı ve soruşturma başlatıldı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/several-sites-attacked-in-iran-s-bushehr-city-explosion-heard-in-isfahan/4003329",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784533421079afjjg",
-        "title": "İran'ın batısındaki Kirmanşah eyaletini vuran depremlerde 3 kişi yaralandı",
-        "summary": "İran'ın batısındaki Kirmanşah eyaletinde meydana gelen depremlerde üç kişi yaralandı. Mehr Haber Ajansı'nın bildirdiğine göre, Kozran bölgesini beş dakika arayla iki deprem vurdu. Depremlerden birinin büyüklüğü 5.7 olarak kaydedildi. Bölgede can ve mal kaybına yol açan sarsıntılar sonrası yetkililer durumu yakından takip ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/15861615/pexels-photo-15861615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T07:43:41.079Z",
-        "location": {
-            "lat": 34.33,
-            "lng": 47.07,
-            "name": "Kermanshah, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-injured-as-earthquakes-hit-iran-s-western-kermanshah-province/4003291",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
