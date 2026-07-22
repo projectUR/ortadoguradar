@@ -1,5 +1,21 @@
 [
     {
+        "id": "17847596335573lgbf",
+        "title": "İran füzeleri, ABD-İran geriliminin tırmanmasıyla ölümcül hassasiyetini gösterdi",
+        "summary": "Ürdün'deki bir üste üç ABD askerinin hayatını kaybetmesi, İran'ın devam eden çatışmada ölümcül kayıplar verdirebilme yeteneğini koruduğunu ortaya koydu. Bu olay, ABD ile İran arasındaki gerilimin tırmandığı bir dönemde meydana geldi. İran füzelerinin sergilediği hassasiyet, bölgedeki mevcut çatışmanın ciddiyetini bir kez daha gözler önüne serdi. Yaşanan bu gelişme, iki ülke arasındaki gerilimin daha da artabileceği endişelerini beraberinde getirdi ve İran'ın bölgesel askeri kapasitesine dair tartışmaları yeniden alevlendirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T22:33:53.557Z",
+        "location": {
+            "lat": 32,
+            "lng": 37,
+            "name": "Ürdün"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1784755080051u0lf9",
         "title": "ABD ve Suudi Arabistan Sivil Nükleer İşbirliği Anlaşması İmzaladı",
         "summary": "ABD ve Suudi Arabistan arasında sivil nükleer işbirliği anlaşması imzalandı. Anlaşma, Suudi Arabistan'ın nükleer enerji programı için yasal bir çerçeve oluşturmayı hedefliyor. Bu işbirliği, ülkenin enerji ihtiyaçlarını karşılamak amacıyla nükleer teknolojilerin geliştirilmesini ve kullanılmasını kapsıyor. Söz konusu anlaşmanın yürürlüğe girmesi için ABD Kongresi'nin incelemesi ve onayına sunulacağı belirtildi. Bu adım, iki ülke arasındaki stratejik ilişkileri güçlendirirken, bölgesel enerji politikaları açısından da önemli bir gelişme olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17846228961702xxxc",
-        "title": "Gazze'deki Filistinliler Hamas Seçimlerine Tepki Gösterdi: \"Sadece Yaşamak İstiyoruz\"",
-        "summary": "Gazze Şeridi'nde, Hamas'ın yeni lideri olarak Halil el-Hayya'nın seçilmesi üzerine bölge halkından karışık tepkiler geldi. Filistinliler, bu liderlik değişikliğini bölgedeki siyasi ve güvenlik durumu üzerindeki potansiyel etkileri açısından değerlendiriyor. Halk, \"Sadece yaşamak istiyoruz\" gibi ifadelerle temel yaşam beklentilerini dile getirirken, bölgedeki mevcut zorlu koşullara dikkat çekti. Bu gelişme, Gazze'deki karmaşık çatışma ve güvenlik dinamiklerinin yanı sıra halkın günlük yaşamındaki zorlukları da bir kez daha gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32304409/pexels-photo-32304409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T08:34:56.170Z",
-        "location": {
-            "lat": 31.4,
-            "lng": 34.3,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
