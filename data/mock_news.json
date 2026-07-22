@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784749980895ileho",
+        "title": "Halil el-Hayya'nın Hamas Lideri Olarak İlk Konuşmasından Önemli Çıkarımlar",
+        "summary": "Hamas'ın yeni lideri Halil el-Hayya, göreve gelmesinin ardından ilk konuşmasını gerçekleştirdi. Konuşmasında, örgütün Gazze halkına yardım etme çabalarını sürdüreceğini vurguladı. Ayrıca, birleşik bir Filistin devleti kurma hedefine ulaşmak için çalışacaklarını belirtti. Bu açıklama, Hayya'nın liderliğindeki Hamas'ın önceliklerini ve siyasi vizyonunu ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7152836/pexels-photo-7152836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T19:53:00.895Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1784750097389w3chn",
+        "title": "BM Uzmanları: İsrail'in Lübnan'daki Eylemleri Savaş Suçu Teşkil Edebilir",
+        "summary": "Birleşmiş Milletler (BM) uzmanları, İsrail'in Lübnan'da gerçekleştirdiği eylemlerin savaş suçu ve insanlığa karşı suç teşkil edebileceği yönünde endişelerini dile getirdi. Uzmanlar, zorla yerinden etme, sivillere yönelik saldırılar ve sağlık tesislerinin yıkımını uluslararası hukukun ihlali olarak değerlendirdi. Bu eylemlerin, uluslararası insancıl hukuk ve insan hakları hukuku çerçevesinde ciddi ihlaller olabileceği vurgulandı. BM uzmanları, uluslararası toplumu bu iddiaları araştırmaya ve sorumluların hesap vermesini sağlamaya çağırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11421076/pexels-photo-11421076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T19:54:57.389Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-experts-say-israel-s-actions-in-lebanon-may-amount-to-war-crimes-and-crimes-against-humanity/4006132",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784743888649a9994",
         "title": "Trump'ın Suriye'nin Hizbullah'a Müdahalesi İçin Baskısı 'Kısa Görüşlü' Olarak Değerlendirildi",
         "summary": "Analistler, ABD Başkanı Donald Trump'ın Suriye'ye, Lübnan'daki Hizbullah'a karşı müdahale etmesi yönündeki baskısını değerlendirdi. Uzmanlar, bu tür bir hamlenin 'kısa görüşlü' olduğunu belirtiyor. Washington'ın Şam üzerindeki bu baskısının, Suriye'nin kendi iç güvenliğini tehlikeye atabileceği uyarısında bulunuluyor. Bu durumun bölgedeki istikrarsızlığı artırabileceği ve beklenmedik sonuçlar doğurabileceği ifade ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Dibba, Birleşik Arap Emirlikleri"
         },
         "source": "https://www.aa.com.tr/en/middle-east/vessel-struck-by-unknown-projectile-off-uae-coast-steering-gear-damaged-ukmto/4004421",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784622999903c10yw",
-        "title": "Gazze Şehri'nde İsrail Saldırısında Ateşkes'e Rağmen Bir Kadın ve Üç Çocuk Hayatını Kaybetti",
-        "summary": "Gazze Şehri'nde bir eve düzenlenen İsrail saldırısında bir kadın ve üç çocuk hayatını kaybetti. Olay, bölgede 10 Ekim 2025 tarihinden bu yana yürürlükte olan ateşkesin ihlallerinin devam ettiği bir dönemde meydana geldi. Saldırının detaylarına ilişkin henüz resmi bir açıklama yapılmazken, bölgedeki gerilimin sürdüğü belirtiliyor. Uluslararası toplumdan ateşkesin korunması yönünde çağrılar yapılıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T08:36:39.903Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/woman-3-children-killed-in-israeli-strike-on-gaza-city-home-despite-ceasefire/4004303",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784623038124eg6nr",
-        "title": "İran Devrim Muhafızları, Bahreyn'deki Amazon Veri Altyapısına Füze Saldırısı Düzenlediğini İddia Etti",
-        "summary": "İran Devrim Muhafızları (IRGC), Bahreyn'de bulunan Amazon'a ait veri altyapısını hedef aldığını ve imha ettiğini iddia etti. Bu açıklama, bölgesel gerilimlerin tırmanabileceği yönündeki endişeleri artırdı. IRGC'nin hedef alınan altyapının tamamen yok edildiğini öne sürmesi, siber güvenlik ve kritik altyapıların korunması konularını yeniden gündeme getirdi. Bahreyn veya Amazon'dan konuya ilişkin henüz resmi bir doğrulama ya da açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31351508/pexels-photo-31351508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T08:37:18.124Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-irgc-claims-missile-strike-on-amazon-data-infrastructure-in-bahrain/4004268",
         "trendScore": 85,
         "isBreaking": false
     }
