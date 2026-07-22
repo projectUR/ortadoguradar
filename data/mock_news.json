@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784733655315k6874",
+        "title": "Birleşik Krallık Siyasetçilerinin Dış Politika ve Savunma Geçmişleri Mercek Altında",
+        "summary": "Birleşik Krallık'ın önde gelen siyasetçileri Miliband ve Streeting'in dış politika ve savunma kayıtları detaylı bir şekilde inceleniyor. Haberde, Miliband'ın eski ABD Başkanı Trump'ı eleştiren ve bir dönem Suriye'ye yönelik askeri müdahaleye karşı çıkan bir isim olduğu belirtiliyor. Öte yandan, Streeting'in savunma konularında yeni bir isim olduğu ve İsrail'e yönelik görüşlerinin zamanla değiştiği vurgulanıyor. Bu analiz, her iki siyasetçinin uluslararası ilişkiler ve güvenlik konularındaki duruşlarını ve geçmiş performanslarını değerlendiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T15:20:55.315Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784725403782r7ido",
         "title": "Husilerin Bab el-Mendeb'i Kapatması Sonrası Süveyş Kanalı Asya Petrol Tüketicilerini Kurtarabilir mi?",
         "summary": "Yemen'deki Husilerin Bab el-Mendeb Boğazı'nı kapatma eylemleri, Asya'ya yönelik petrol sevkiyatını ciddi şekilde tehdit ediyor. Uzmanlar, bu boğazdan günde yaklaşık 6 milyon varil ham petrolün geçtiğini ve mevcut durumun bu tedariki riske attığını belirtiyor. Bu gelişmelerin ardından, Süveyş Kanalı'nın Asyalı petrol tüketicileri için alternatif bir rota olup olamayacağı ve küresel enerji arz güvenliğini nasıl etkileyeceği tartışılıyor. Bölgedeki gerilimler, uluslararası deniz ticaretini ve enerji piyasalarını yakından ilgilendiriyor.",
@@ -780,22 +796,6 @@
             "name": "İran"
         },
         "source": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17845749370334z25a",
-        "title": "İsrail Ordusunun Suriye'nin Güneyinde Açtığı Ateşte İki Çocuk Yaralandı",
-        "summary": "Suriye'nin güneyindeki Deraa kırsalının batısında yer alan Jamla köyünde İsrail ordusunun açtığı ateş sonucu iki çocuk yaralandı. İsrail güçleri, köy sakinlerinden oluşan bir gruba doğru ateş açtı. Olayda yaralanan çocukların sağlık durumuna ilişkin detaylı bilgi verilmedi. Bölge, İsrail ile Suriye arasında sık sık askeri gerilimlerin ve sınır olaylarının yaşandığı bir hat üzerinde bulunuyor. Bu tür olaylar, bölgedeki hassas güvenlik durumunu bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36798300/pexels-photo-36798300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T19:15:37.033Z",
-        "location": {
-            "lat": 32.85,
-            "lng": 35.85,
-            "name": "Jamla, Deraa, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-children-injured-by-israeli-army-fire-in-southern-syria/4004025",
         "trendScore": 85,
         "isBreaking": false
     }
