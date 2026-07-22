@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784739356676zqip2",
+        "title": "İran, ABD Saldırıları Karşısında Hava Savunma Sistemlerini Aktif Etti",
+        "summary": "ABD'nin İran'a yönelik saldırılarının on birinci gecesinde, İran'ın başkenti Tahran genelinde hava savunma sistemleri devreye sokuldu. Bu gelişme, bölgedeki gerilimin tırmandığını ve askeri hareketliliğin arttığını gösteriyor. Haberin başlığında ise, bir yetkili olan Hegseth'in 'İran'a karşı savaşı sürdürmek için ek 70 milyar dolar talep ettiği' belirtiliyor. Bu talep, ABD'nin İran politikasına yönelik tartışmaları ve potansiyel askeri harcamaları gündeme getirirken, Orta Doğu'daki güvenlik dinamikleri açısından kritik önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T16:55:56.676Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1784739381383d64gy",
+        "title": "ABD-Suudi Arabistan Nükleer Enerji Anlaşması Teklifi Gündemde",
+        "summary": "ABD ile Suudi Arabistan arasında nükleer enerji alanında potansiyel bir anlaşma gündemde. Haberlere göre, Trump yönetimi Suudi Arabistan'ın uranyum zenginleştirmesine izin verecek bir anlaşmayı destekliyor. Bu anlaşma, iki ülke arasındaki stratejik işbirliğini derinleştirmeyi ve Suudi Arabistan'ın sivil nükleer enerji programını geliştirmesini amaçlıyor. Ancak, uranyum zenginleştirme yetkisinin verilmesi, bölgesel ve uluslararası arenada nükleer yayılma endişeleri nedeniyle önemli tartışmaları beraberinde getiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16705852/pexels-photo-16705852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T16:56:21.383Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784739470513sa9nm",
+        "title": "Libya'daki taraflar birleşik kurumlar ile başkanlık ve parlamento seçimleri çağrısı yaptı",
+        "summary": "Libya'daki siyasi taraflar, ülkenin bölünmüşlüğüne son vermek ve istikrarı sağlamak amacıyla birleşik kurumların oluşturulması ile başkanlık ve parlamento seçimlerinin yapılması yönünde çağrıda bulundu. Bu önemli çağrı, Libya partilerinin Sirte şehrinde düzenlenen ilk konferansında dile getirildi. Birleşmiş Milletler'in (BM) Libya'da siyasi bir çözüme ulaşma çabaları devam ederken, bu konferansın uzlaşma sürecine katkı sağlaması bekleniyor. Ülkedeki farklı gruplar arasında siyasi bir mutabakatın sağlanması ve meşru bir hükümetin kurulması hedefleniyor. Yapılacak seçimlerin, Libya'nın geleceği için kritik bir adım olacağı vurgulandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5926351/pexels-photo-5926351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T16:57:50.513Z",
+        "location": {
+            "lat": 31.21,
+            "lng": 16.59,
+            "name": "Sirte, Libya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/libyan-parties-call-for-unified-institutions-presidential-and-parliamentary-elections/4006064",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784733655315k6874",
         "title": "Birleşik Krallık Siyasetçilerinin Dış Politika ve Savunma Geçmişleri Mercek Altında",
         "summary": "Birleşik Krallık'ın önde gelen siyasetçileri Miliband ve Streeting'in dış politika ve savunma kayıtları detaylı bir şekilde inceleniyor. Haberde, Miliband'ın eski ABD Başkanı Trump'ı eleştiren ve bir dönem Suriye'ye yönelik askeri müdahaleye karşı çıkan bir isim olduğu belirtiliyor. Öte yandan, Streeting'in savunma konularında yeni bir isim olduğu ve İsrail'e yönelik görüşlerinin zamanla değiştiği vurgulanıyor. Bu analiz, her iki siyasetçinin uluslararası ilişkiler ve güvenlik konularındaki duruşlarını ve geçmiş performanslarını değerlendiriyor.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784580552137xms6m",
-        "title": "Yemenli Kadınlar Ekonomik Kriz Derinleşirken Girişimcilikle Ailelerini Destekliyor",
-        "summary": "Yemen, derinleşen ekonomik krizle mücadele etmektedir. Ülkede erkekler için istihdam olanakları giderek zorlaşırken, Yemenli kadınlar ailelerinin geçimini sağlamak amacıyla aktif rol üstlenmektedir. Kadınlar, küçük işletmeler kurarak, el sanatları üreterek veya çeşitli hizmetler sunarak hanehalkı gelirine önemli katkılarda bulunmaktadır. Bu girişimcilik faaliyetleri, zorlu ekonomik koşullar altında ailelerin ayakta kalmasına yardımcı olmakta ve kadınların toplumsal ve ekonomik hayattaki yerini güçlendirmektedir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/37605913/pexels-photo-37605913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T20:49:12.137Z",
-        "location": {
-            "lat": 15.4,
-            "lng": 44.2,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/7/20/yemeni-women-support-families-through-enterprise-as-economic-crisis-bites?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784574808419dxtoa",
-        "title": "Faslı Adamın Gözaltında Ölümü İtalya'da Protestolara Yol Açtı",
-        "summary": "İtalya'da Faslı bir adamın gözaltına alındığı sırada hayatını kaybetmesi üzerine ülke genelinde protestolar başladı. Bologna'da yaşanan bu olay, İtalya'nın siyasi yelpazesinde geniş çaplı bir infiale yol açtı ve 2020'de George Floyd'un öldürülmesiyle kıyaslandı. Olayın ardından adalet talebiyle gösteriler düzenlenirken, yetkililer kapsamlı bir soruşturma başlattı. Bu durum, göçmen toplulukların hakları ve polis şiddeti konularında tartışmaları alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4685550/pexels-photo-4685550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T19:13:28.419Z",
-        "location": {
-            "lat": 44.4949,
-            "lng": 11.3426,
-            "name": "Bologna, İtalya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784574845028wp6aj",
-        "title": "Trump, ABD askerlerinin öldürülmesi sonrası İran'ın 'bedel ödeyeceğini' belirtti",
-        "summary": "ABD eski Başkanı Donald Trump, Amerikan askerlerinin bölgede hayatını kaybetmesinin ardından İran'ın 'bedel ödeyeceği' yönünde sert bir açıklama yaptı. Bu açıklama, ABD'nin bölgedeki Amerikan askerlerinin ölümü sonrası İran'a yönelik hava saldırılarını artırdığı ve kritik hedefleri vurduğu bir döneme denk geldi. Washington, bölgedeki ABD güçlerine yönelik saldırılardan İran'ı sorumlu tutarak misilleme adımları atıyor. Gerilim, ABD'nin İran'ı hedef alan askeri operasyonlarıyla tırmanmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12356447/pexels-photo-12356447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T19:14:05.028Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
