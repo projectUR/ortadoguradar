@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784702376178kwg3p",
+        "title": "İran, Kuveyt'teki ABD askeri üssünü insansız hava aracı saldırısıyla hedef aldığını açıkladı",
+        "summary": "İran, Kuveyt'te bulunan bir ABD askeri üssüne insansız hava aracı (İHA) saldırısı düzenlediğini duyurdu. İran tarafından yapılan açıklamada, saldırıların mühimmat depolarını ve \"kara kuvvetleri komuta merkezinin lojistik ekipmanlarını\" hedef aldığı belirtildi. Bu iddia, bölgedeki güvenlik gerilimlerini artırma potansiyeli taşıyor. ABD veya Kuveyt'ten konuya ilişkin henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T06:39:36.178Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-targeted-us-military-base-in-kuwait-with-drone-attack/4005303",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1784702395922125d9",
+        "title": "İran'dan ABD'ye Nükleer Tesis Saldırısı Uyarısı: Bölgesel Misilleme Tehdidi",
+        "summary": "İran, ABD'nin nükleer tesislerine yönelik olası bir saldırının, bölgedeki Amerikan çıkarlarına karşı güçlü bir misillemeyi tetikleyeceğini açıkladı. İran askeri yetkilileri, Washington'ın yanı sıra müttefikleri ve destekçilerinin de bu tür bir saldırı durumunda sert bir karşılıkla karşılaşacağını belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek potansiyel bir çatışma senaryosuna işaret ediyor. Tahran'dan yapılan bu uyarı, Orta Doğu'daki güvenlik dinamiklerini yakından ilgilendiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16033963/pexels-photo-16033963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T06:39:55.922Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-us-attack-on-nuclear-sites-would-trigger-regional-strikes-on-american-interests/4005261",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1784692642813ygpma",
         "title": "İsrail, seçimler öncesinde saldırılarını yoğunlaştırdı",
         "summary": "Gazze Şeridi'nde İsrail tarafından gerçekleştirilen saldırılar sonucunda onlarca kişi yaşamını yitirdi. Hayatını kaybedenler arasında çocuklar ve yerinden edilmiş aileler de bulunuyor. Bölgede saldırıların ardından yas ilan edilirken, hayatını kaybedenler defnedildi. Bu gelişmeler, İsrail'deki seçimler öncesinde bölgedeki gerilimin arttığı bir döneme işaret ediyor. Uluslararası kamuoyu, bölgedeki durumu yakından izliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784533313576as1ax",
-        "title": "Trump: İran'a yönelik son saldırılar, öldürülen ABD askeri personelinin 'onuruna' yapıldı",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik son saldırıların, öldürülen ABD askeri personelinin 'onuruna' gerçekleştirildiğini açıkladı. Trump'ın bu ifadesi, ABD ile İran arasındaki gerilimin yüksek olduğu bir dönemde geldi. Saldırıların, bölgedeki ABD çıkarlarına yönelik tehditlere bir yanıt olduğu düşünülüyor. Bu gelişmeler, Orta Doğu'da güvenlik ve istikrar konularındaki endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1094323/pexels-photo-1094323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T07:41:53.576Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178453333386587xvz",
-        "title": "ABD, İran'a Yönelik Dokuzuncu Gece Üst Üste Düzenlenen Saldırıların Görüntülerini Yayımladı",
-        "summary": "ABD ordusu, İran'a yönelik art arda dokuzuncu gecede de saldırılar düzenlediğini duyurdu. Amerikan askeri yetkilileri, bu operasyonlara ait görüntüleri kamuoyuyla paylaştı. Söz konusu askeri eylemler, bölgedeki gerilimin devam ettiğini ve ABD'nin İran'a yönelik askeri faaliyetlerinin sürdüğünü gösteriyor. Bu durum, iki ülke arasındaki ilişkilerdeki hassasiyeti ve bölgesel güvenlik dinamiklerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17885542/pexels-photo-17885542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-20T07:42:13.865Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
