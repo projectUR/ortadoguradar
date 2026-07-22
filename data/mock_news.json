@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784755080051u0lf9",
+        "title": "ABD ve Suudi Arabistan Sivil Nükleer İşbirliği Anlaşması İmzaladı",
+        "summary": "ABD ve Suudi Arabistan arasında sivil nükleer işbirliği anlaşması imzalandı. Anlaşma, Suudi Arabistan'ın nükleer enerji programı için yasal bir çerçeve oluşturmayı hedefliyor. Bu işbirliği, ülkenin enerji ihtiyaçlarını karşılamak amacıyla nükleer teknolojilerin geliştirilmesini ve kullanılmasını kapsıyor. Söz konusu anlaşmanın yürürlüğe girmesi için ABD Kongresi'nin incelemesi ve onayına sunulacağı belirtildi. Bu adım, iki ülke arasındaki stratejik ilişkileri güçlendirirken, bölgesel enerji politikaları açısından da önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/12276056/pexels-photo-12276056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T21:18:00.051Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-saudi-arabia-sign-civil-nuclear-cooperation-agreement/4006332",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17847551316206exg5",
+        "title": "Cezayir'de Orman Yangınlarıyla İlgili 4 Kişi Tutuklandı",
+        "summary": "Cezayir'de yaşanan ölümcül orman yangınlarıyla ilgili olarak dört şüpheli gözaltına alındı. Yetkililer, bu kişilerin yangınları kasten çıkardığını ve eylemlerinin sabotaj suçu kapsamına girdiğini belirtti. Cezayir yasalarına göre sabotaj suçunun ölüm cezasıyla sonuçlanabileceği ifade edildi. Ülke genelinde büyük yıkıma yol açan yangınlar, kamuoyunda geniş yankı uyandırmıştı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/50700/styggkarret-reserve-burning-fire-50700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-22T21:18:51.620Z",
+        "location": {
+            "lat": 28,
+            "lng": 1.6,
+            "name": "Cezayir"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/algeria-arrests-4-people-over-deadly-wave-of-forest-fires/4006217",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1784749980895ileho",
         "title": "Halil el-Hayya'nın Hamas Lideri Olarak İlk Konuşmasından Önemli Çıkarımlar",
         "summary": "Hamas'ın yeni lideri Halil el-Hayya, göreve gelmesinin ardından ilk konuşmasını gerçekleştirdi. Konuşmasında, örgütün Gazze halkına yardım etme çabalarını sürdüreceğini vurguladı. Ayrıca, birleşik bir Filistin devleti kurma hedefine ulaşmak için çalışacaklarını belirtti. Bu açıklama, Hayya'nın liderliğindeki Hamas'ın önceliklerini ve siyasi vizyonunu ortaya koydu.",
@@ -764,38 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17846229203006peyh",
-        "title": "ABD, İran'a Yeni Saldırılar Düzenledi, Trump Asker Ölümleri İçin Misilleme Uyarısı Yaptı",
-        "summary": "ABD, İran'a yönelik yeni saldırılar düzenlediğini açıklarken, Başkan Trump asker ölümleri nedeniyle misilleme yapılacağı uyarısında bulundu. İran ise Hürmüz Boğazı'nda iki gemiyi vurduğunu iddia etti. Ayrıca, Bahreyn ve Ürdün'deki hedeflere de saldırılar düzenlediğini belirtti. Bu karşılıklı eylemler, Orta Doğu'da tansiyonun hızla yükseldiğini ve bölgesel bir çatışma riskinin arttığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T08:35:20.300Z",
-        "location": {
-            "lat": 26,
-            "lng": 56,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784622961961vly19",
-        "title": "BAE açıklarında bir gemi bilinmeyen bir cisimle vuruldu, dümen donanımı hasar gördü: UKMTO",
-        "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), Birleşik Arap Emirlikleri (BAE) açıklarında bir geminin bilinmeyen bir cisimle vurulduğunu duyurdu. Olay, BAE'nin doğu kıyısındaki Dibba kentinin 17 deniz mili doğusunda meydana geldi. Saldırı sonucunda geminin dümen donanımında hasar oluştuğu belirtildi. İngiliz denizcilik ajansı, gemi mürettebatının güvende olduğunu ve herhangi bir can kaybı yaşanmadığını bildirdi. Bu olay, bölgedeki deniz güvenliği endişelerini yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/942542/pexels-photo-942542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T08:36:01.961Z",
-        "location": {
-            "lat": 25.93,
-            "lng": 56.27,
-            "name": "Dibba, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/vessel-struck-by-unknown-projectile-off-uae-coast-steering-gear-damaged-ukmto/4004421",
         "trendScore": 85,
         "isBreaking": false
     }
