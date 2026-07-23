@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784811799342xj2s5",
+        "title": "ABD-İran Geriliminde Yeni Dönem: Tahran Baskıya Dayanabilecek mi?",
+        "summary": "ABD ile İran arasındaki ilişkilerde yeni bir gerilim döneminin başladığı belirtiliyor. Daha önce varılan bir ateşkesin ardından ABD'nin İran'a yönelik 'savaşa geri döndüğü' ifade ediliyor. Analist Alex Gatopoulos, mevcut durumun önceki gerilimlerden ne gibi farklılıklar gösterdiğini inceliyor. Haber, İran'ın ABD'den gelen yeni baskılara ne kadar dayanabileceği sorusuna odaklanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36557286/pexels-photo-36557286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T13:03:19.342Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17848059564146ublh",
         "title": "Rubio: İran, ABD ile Anlaşma İçin 'Yalvarıyor' Ancak Hazır Değil",
         "summary": "ABD Senatörü Marco Rubio, İran'ın Amerika Birleşik Devletleri ile bir anlaşma yapmak için 'yalvardığını' ancak bu anlaşmayı yapmaya henüz hazır olmadığını belirtti. Öte yandan, ABD Dışişleri Bakanı, ülkesinin 'göze göz' politikası izlediğini ifade etti. Bu açıklamalar, İran'a yönelik saldırıların üst üste on ikinci gece de devam ettiği bir dönemde geldi. Bölgedeki gerilim, diplomatik çabalar ve askeri eylemler arasında gidip gelen karmaşık bir tablo çiziyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/jordan-says-it-intercepts-4-iranian-missiles-after-explosions-heard-in-aqaba/4005577",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784702376178kwg3p",
-        "title": "İran, Kuveyt'teki ABD askeri üssünü insansız hava aracı saldırısıyla hedef aldığını açıkladı",
-        "summary": "İran, Kuveyt'te bulunan bir ABD askeri üssüne insansız hava aracı (İHA) saldırısı düzenlediğini duyurdu. İran tarafından yapılan açıklamada, saldırıların mühimmat depolarını ve \"kara kuvvetleri komuta merkezinin lojistik ekipmanlarını\" hedef aldığı belirtildi. Bu iddia, bölgedeki güvenlik gerilimlerini artırma potansiyeli taşıyor. ABD veya Kuveyt'ten konuya ilişkin henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T06:39:36.178Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-targeted-us-military-base-in-kuwait-with-drone-attack/4005303",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
