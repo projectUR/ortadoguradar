@@ -1,5 +1,69 @@
 [
     {
+        "id": "1784847534783njesn",
+        "title": "İtalya'da Fas Asıllı Bir Kişinin Polis Gözaltısında Ölümü Protestolara Neden Oldu",
+        "summary": "İtalya'nın Bologna kentinde Fas asıllı Abderrahim Fakir'in polis tarafından gözaltına alındıktan sonra hayatını kaybetmesi ülke genelinde geniş çaplı protestolara yol açtı. Olay, kamuoyunda \"İtalya'nın George Floyd anı\" olarak nitelendirilirken, polis şiddeti ve ırkçılık tartışmalarını yeniden alevlendirdi. Protestocular, Fakir'in ölümünün şeffaf bir şekilde soruşturulmasını ve sorumluların adalet önüne çıkarılmasını talep ediyor. Bu durum, İtalya'daki göçmen toplulukları ve insan hakları örgütleri arasında derin endişelere neden oldu.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/4685550/pexels-photo-4685550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T22:58:54.783Z",
+        "location": {
+            "lat": 44.4942,
+            "lng": 11.3426,
+            "name": "Bologna, İtalya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17848475572316mu84",
+        "title": "ABD'nin İran Savaşı: 110 Milyar Dolarlık Maliyet",
+        "summary": "Amerika Birleşik Devletleri'nin İran'a yönelik olası bir savaşının ABD'ye yaklaşık 110 milyar dolara mal olduğu ifade edildi. Bu maliyetin, ülkenin savunma bütçesi üzerindeki yükünü artırdığı belirtiliyor. Habere göre, eski Trump yönetiminin bu operasyonlar için ek 67 milyar dolar daha talep ettiği kaydedildi. Bu durum, ABD'nin Orta Doğu'daki askeri harcamalarının boyutunu gözler önüne seriyor ve gelecekteki savunma bütçesi tartışmalarında önemli bir yer tutması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T22:59:17.231Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784847578985esgl2",
+        "title": "Trump, İran'a Yönelik En Büyük Saldırılar Konusunda Uyardı",
+        "summary": "ABD Başkanı Donald Trump, İran'ın Bahreyn, Kuveyt ve Ürdün'e yönelik saldırılarının ardından Tahran'a karşı şimdiye kadarki en büyük saldırıları düzenleyebileceği konusunda uyarıda bulundu. Bu tehdit, bölgedeki gerilimin tırmandığı bir dönemde geldi ve İran'ın Körfez genelindeki eylemlerine bir yanıt olarak değerlendirildi. Washington ve Tahran arasındaki ilişkiler, son dönemde karşılıklı açıklamalar ve askeri hareketlilikle daha da gerilmişti. ABD'nin müttefiklerine yönelik saldırılar, bölgedeki güvenlik endişelerini artırırken, uluslararası toplum gelişmeleri yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T22:59:38.985Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784847680857f12zu",
+        "title": "İsrail güçleri Doğu Kudüs'te mülteci kampı kontrol noktası yakınında Filistinliye ateş açtı",
+        "summary": "Doğu Kudüs'te İsrail güçleri tarafından bir Filistinliye ateş açıldığı bildirildi. Olay, bir mülteci kampı kontrol noktası yakınında meydana geldi. Ateş açılan Filistinlinin kimliği ve sağlık durumu hakkında henüz bilgi edinilemedi. Bölgedeki gerilimin devam ettiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14585531/pexels-photo-14585531.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T23:01:20.857Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-open-fire-on-palestinian-near-refugee-camp-checkpoint-in-east-jerusalem/4007627",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1784842628872gad5c",
         "title": "Husilerin Saldırıları Orta Doğu'da Çatışma ve Küresel Ekonomik Hasar Endişelerini Yükseltiyor",
         "summary": "Yemen'deki İran destekli Husiler, önemli bir denizcilik rotasında Suudi Arabistan gemilerini hedef alma tehdidinde bulundu. Bu tehditler, Orta Doğu'da çatışmaların daha geniş bir alana yayılabileceği endişelerini artırıyor. Ayrıca, küresel ekonomiye yönelik potansiyel zararlar konusunda da kaygılar dile getiriliyor. Bölgedeki gerilimin tırmanması, uluslararası ticaret ve enerji güvenliği üzerinde olumsuz etkiler yaratabilir.",
@@ -732,70 +796,6 @@
             "name": "Bab el-Mendeb Boğazı, Yemen"
         },
         "source": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784725491253e4ent",
-        "title": "ABD'nin Suudi Arabistan'a Nükleer Program İzni Verecek Anlaşmayı Duyurması Bekleniyor",
-        "summary": "ABD'nin, Suudi Arabistan'a nükleer program başlatma izni verecek bir anlaşmayı yakında duyurmaya hazırlandığı bildirildi. Bu anlaşmanın, Suudi Arabistan'ın uzun süredir devam eden nükleer enerji hedefine ulaşmasını sağlayacağı belirtiliyor. Ancak söz konusu gelişmenin, bölgedeki güvenlik dengeleri açısından İsrail'de ve ABD Kongresi'ndeki bazı milletvekilleri arasında ciddi endişelere yol açabileceği ifade ediliyor. Anlaşmanın detayları ve Orta Doğu'daki olası etkileri uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/73909/nuclear-weapons-test-nuclear-weapon-weapons-test-explosion-73909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T13:04:51.253Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1784719583117yz51z",
-        "title": "ABD Dışişleri Bakanı: İran 'Büyük Sıkıntı İçinde'",
-        "summary": "ABD Dışişleri Bakanı, yaptığı açıklamada İran'ın 'büyük sıkıntı içinde' olduğunu belirtti. Bakanın bu ifadeleri, iki ülke arasındaki mevcut gerilimi bir kez daha gözler önüne serdi. Açıklamanın içeriği ve detaylarına dair ek bilgi verilmezken, bu tür üst düzey beyanlar genellikle diplomatik ilişkilerde önemli yankı uyandırmaktadır. Söz konusu açıklama, İran'ın bölgesel ve uluslararası arenadaki konumuyla ilgili tartışmaları yeniden alevlendirebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T11:26:23.117Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784719644588n35y1",
-        "title": "Lübnan Ordusu 'Pilot Bölgeye' Konuşlandı, Aileler Evlerine Dönmeyi Bekliyor",
-        "summary": "Lübnan ordusu, yerinden edilmiş ailelerin evlerine güvenli bir şekilde dönmesini sağlamak amacıyla belirlenen 'pilot bölgeye' konuşlanma gerçekleştirdi. Bu adım, bölgedeki güvenlik ve istikrarın yeniden tesis edilmesi çabalarının bir parçası olarak değerlendiriliyor. Ailelerin geri dönüş süreci için hazırlıkların yapıldığı ve gerekli güvenlik önlemlerinin alındığı belirtildi. Operasyonun, ülkedeki iç göç sorununa çözüm bulma ve normalleşmeyi sağlama hedefine yönelik olduğu ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7468215/pexels-photo-7468215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T11:27:24.588Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/22/lebanese-army-deployed-in-pilot-zone-as-families-wait-to-return-home?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1784719684891hayap",
-        "title": "Irak Başbakanı Gaz ve Bölgesel Gelişmeler İçin İran'ı Ziyaret Edecek",
-        "summary": "Irak Başbakanı'nın, enerji işbirliği ve bölgesel gelişmeler konularını görüşmek üzere İran'ı ziyaret edeceği bildirildi. Irak hükümeti tarafından yapılan açıklamada, Bağdat'ın Tahran ile enerji işbirliği ve diplomasi meselelerini ele alacağı belirtildi. Görüşmelerde ayrıca, silahlanma konusunun Irak'ın bir iç meselesi olduğu vurgulanacak. Bu ziyaretin, iki komşu ülke arasındaki ilişkilerin güçlendirilmesi ve bölgesel istikrarın sağlanması açısından önem taşıdığı ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T11:28:04.891Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraqi-premier-to-visit-iran-for-talks-on-gas-regional-developments/4005752",
         "trendScore": 85,
         "isBreaking": false
     }
