@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784820715467gfmg6",
+        "title": "Trump: Suudi Nükleer Anlaşması İbrahim Anlaşmaları'na Katılıma Bağlı",
+        "summary": "Eski ABD Başkanı Donald Trump'ın açıklamalarına göre, Suudi Arabistan ile ABD arasında planlanan sivil nükleer işbirliği anlaşması, Suudi Arabistan'ın İbrahim Anlaşmaları'na katılması şartına bağlanmış durumda. Bu açıklama, ABD destekli sivil nükleer programının Suudi Arabistan'da hayata geçirilmesi yönündeki müzakereler ve anlaşmanın geleceği hakkında yeni bir belirsizlik yaratmıştır. Anlaşmanın akıbeti ve Suudi Arabistan'ın bölgesel diplomatik adımları arasındaki bağlantı, konuyu daha karmaşık hale getirmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T15:31:55.467Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784820740501ohvj2",
+        "title": "Kuveyt-Irak Sınır Kapısı İnsansız Hava Aracı Saldırısına Uğradı",
+        "summary": "Kuveyt Savunma Bakanlığı, Irak ile olan Abdali sınır kapısının insansız hava aracı saldırısına uğradığını bildirdi. Bakanlıktan yapılan açıklamada, saldırının sınır kapısında maddi hasara yol açtığı belirtildi. Ancak olayda herhangi bir can kaybının yaşanmadığı ifade edildi. Saldırının kim tarafından gerçekleştirildiğine dair detay verilmezken, bölgedeki güvenlik durumuyla ilgili gelişmelerin takip edildiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28861949/pexels-photo-28861949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T15:32:20.501Z",
+        "location": {
+            "lat": 30.06,
+            "lng": 47.76,
+            "name": "Abdali, Kuveyt"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1784820764110ccb19",
+        "title": "Hürmüz ve Babülmendep Boğazları'ndaki Kapanmalar Denizcilik Sigorta Oranlarını Yükseltti",
+        "summary": "Hürmüz ve Babülmendep boğazlarındaki deniz trafiğindeki aksaklıklar ve kapanmalar, denizcilik sigorta oranlarında önemli artışlara yol açtı. Edinilen bilgilere göre, Hürmüz Boğazı üzerinden yapılan sevkiyatlar için uygulanan sigorta primleri, son beş yılın ortalamasının dört katına çıkarak rekor seviyelere ulaştı. Bu durum, bölgedeki jeopolitik gerilimlerin küresel ticaret ve tedarik zincirleri üzerindeki doğrudan ekonomik etkisini gözler önüne seriyor. Deniz taşımacılığı maliyetlerindeki bu yükselişin, enerji ve diğer emtia fiyatlarına yansıması bekleniyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/3277769/pexels-photo-3277769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T15:32:44.110Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784811799342xj2s5",
         "title": "ABD-İran Geriliminde Yeni Dönem: Tahran Baskıya Dayanabilecek mi?",
         "summary": "ABD ile İran arasındaki ilişkilerde yeni bir gerilim döneminin başladığı belirtiliyor. Daha önce varılan bir ateşkesin ardından ABD'nin İran'a yönelik 'savaşa geri döndüğü' ifade ediliyor. Analist Alex Gatopoulos, mevcut durumun önceki gerilimlerden ne gibi farklılıklar gösterdiğini inceliyor. Haber, İran'ın ABD'den gelen yeni baskılara ne kadar dayanabileceği sorusuna odaklanıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/12-palestinians-killed-in-israeli-attacks-on-gaza-over-past-24-hours-health-ministry/4005608",
         "trendScore": 90,
         "isBreaking": false
-    },
-    {
-        "id": "1784712637512gaa4k",
-        "title": "İsrail ordusu, Gazze içinde 'sarı çizginin' ötesine bariyer inşa ediyor: Haaretz",
-        "summary": "Uydu görüntülerinin, İsrail ordusunun Gazze Şeridi içinde, Hamas kontrolündeki bölgelere yüzlerce metre uzanan bir bariyer inşa ettiğini gösterdiği bildirildi. Haaretz gazetesinin haberine göre, bu inşaat İsrail'in kontrolündeki bölgeyi Gazze'nin %65'ine çıkarıyor. Bariyerin, daha önce belirlenen 'sarı çizginin' ötesine geçtiği belirtiliyor. Bu durum, bölgedeki mevcut sınırların ve kontrol alanlarının değiştiğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T09:30:37.512Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-building-barrier-inside-gaza-beyond-yellow-line-haaretz/4005597",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784712662420ta5eq",
-        "title": "Bab el-Mandeb Boğazı'nda Artan Gerilim Deniz Ticaretini Tehdit Ediyor",
-        "summary": "Yemen'deki Husiler, Suudi Arabistan'a yönelik bir abluka uyguladıklarını duyurdu. Bu gelişme, ABD ile İran arasındaki gerilimin tırmandığı bir döneme denk geliyor. Uzmanlar, Bab el-Mandeb Boğazı'ndaki artan gerilimin küresel deniz ticaretini olumsuz etkileyebileceği uyarısında bulunuyor. Suudi Arabistan'ın alternatif bir ihracat merkezi olarak Yanbu Limanı'nı daha fazla kullanmaya başlaması ise petrol piyasaları üzerinde baskı oluşturuyor. Bölgedeki bu gelişmeler, enerji güvenliği ve uluslararası ticaret yolları açısından kritik önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18887144/pexels-photo-18887144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T09:31:02.420Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 43.3,
-            "name": "Bab el-Mandeb Boğazı, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/mounting-tensions-in-bab-el-mandeb-strait-threaten-maritime-trade/4005589",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784712682891y4w7q",
-        "title": "Ürdün, Akabe'de Patlamaların Ardından 4 İran Füzesini Engellediğini Açıkladı",
-        "summary": "Ürdün askeri kaynakları, Akabe kenti yakınlarında patlama seslerinin duyulmasının ardından İran'dan fırlatılan altı füzenin tespit edildiğini duyurdu. Hava savunma sistemleri bu füzelerden dördünü başarıyla imha etti. Geri kalan iki füzenin ise uzak bölgelere düşerek herhangi bir hasara yol açmadığı belirtildi. Ürdün ordusu, olayın ardından bölgede güvenlik önlemlerini artırdı. Bu gelişme, bölgesel gerilimlerin arttığı bir dönemde dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16660293/pexels-photo-16660293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T09:31:22.891Z",
-        "location": {
-            "lat": 29.53,
-            "lng": 35,
-            "name": "Akabe, Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-says-it-intercepts-4-iranian-missiles-after-explosions-heard-in-aqaba/4005577",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
