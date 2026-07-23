@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784765028989p22w2",
+        "title": "Irak'ın Erbil Kentinde Patlama Sesleri Duyuldu, Hava Savunması 5 İHA'yı Engelledi",
+        "summary": "Irak'ın kuzeyindeki Erbil kentinde patlama sesleri duyulduğu bildirildi. Yerel kaynaklar ve Irak medyası, hava savunma sistemlerinin bölge üzerinde uçan beş insansız hava aracını (İHA) engellediğini ve düşürdüğünü aktardı. Olayın ardından can kaybı veya maddi hasara ilişkin henüz bir bilgi paylaşılmadı. Saldırının kim tarafından gerçekleştirildiği veya hedefinin ne olduğuna dair detaylar ise belirsizliğini koruyor. Bu gelişme, bölgedeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28861948/pexels-photo-28861948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T00:03:48.989Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 44,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iraq-s-erbil-as-air-defenses-intercept-5-drones/4006264",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17847596335573lgbf",
         "title": "İran füzeleri, ABD-İran geriliminin tırmanmasıyla ölümcül hassasiyetini gösterdi",
         "summary": "Ürdün'deki bir üste üç ABD askerinin hayatını kaybetmesi, İran'ın devam eden çatışmada ölümcül kayıplar verdirebilme yeteneğini koruduğunu ortaya koydu. Bu olay, ABD ile İran arasındaki gerilimin tırmandığı bir dönemde meydana geldi. İran füzelerinin sergilediği hassasiyet, bölgedeki mevcut çatışmanın ciddiyetini bir kez daha gözler önüne serdi. Yaşanan bu gelişme, iki ülke arasındaki gerilimin daha da artabileceği endişelerini beraberinde getirdi ve İran'ın bölgesel askeri kapasitesine dair tartışmaları yeniden alevlendirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/21/moment-terrifying-floodwaters-sweep-through-afghan-village?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "178462283318596ffv",
-        "title": "Gazze'de İsrail Saldırısı Sonrası Çıkan Yangında Beş Filistinli Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde İsrail'in düzenlediği bir hava saldırısı, bir apartmanda yangına yol açtı. Gazze Şehri'nde meydana gelen olayda, ilk belirlemelere göre beş Filistinli yaşamını yitirdi. İsrail güçlerinin hedef aldığı apartmanda çıkan yangın, can kayıplarına neden oldu. Bölgedeki gerilimin arttığı bir dönemde yaşanan bu olay, uluslararası kamuoyunun dikkatini çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T08:33:53.185Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
