@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784788334792341d7",
+        "title": "Umut ve Korku Arasında: Yemenliler Husilerin Suudi Arabistan Ablukasına Tepki Gösteriyor",
+        "summary": "Husilerin Suudi Arabistan'a yönelik deniz ablukası girişimi, Yemen'de büyük endişelere yol açtı. Yemenliler, bu ablukanın ülkedeki savaşı yeniden alevlendirebileceğinden korkuyor. Ayrıca, ablukanın temel ihtiyaç maddelerindeki kıtlığı daha da derinleştirerek insani krizi kötüleştireceği ve açlığı artıracağı belirtiliyor. Bölgedeki gerilimi tırmandırma potansiyeli taşıyan bu gelişme, Yemen halkının zaten zorlu olan yaşam koşullarını daha da ağırlaştırabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38343713/pexels-photo-38343713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T06:32:14.792Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784788358113876ft",
+        "title": "ABD-İran Çatışması ASEAN Toplantısını Gölgede Bıraktı",
+        "summary": "Amerika Birleşik Devletleri ile İran arasındaki çatışmaların yeniden şiddetlenmesi, Filipinler'in başkenti Manila'da düzenlenen Güneydoğu Asya Ülkeleri Birliği (ASEAN) toplantısını gölgede bıraktı. Bölgesel sorunların ele alınması beklenen zirvede, ABD-İran gerilimi ana gündem maddelerinden biri haline geldi. Bu durumun, ASEAN'ın kendi bölgesel meselelerine odaklanma ve çözüm bulma çabalarını nasıl etkileyeceği konusunda endişeler dile getiriliyor. Gelişmeler, uluslararası diplomasi ve bölgesel işbirliği üzerinde önemli etkiler yaratma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6044616/pexels-photo-6044616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T06:32:38.113Z",
+        "location": {
+            "lat": 14.5995,
+            "lng": 120.9842,
+            "name": "Manila, Filipinler"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178477888542435mpt",
         "title": "Gazze'de Gözünü ve Kızını Kaybeden Bir Kadın İçin Uzun Bir İyileşme Yolu",
         "summary": "Gazze'de yaşanan bir olayda, İsrail hava saldırısında kızını kaybeden Najwa adlı bir kadın, hem fiziksel hem de psikolojik olarak derin yaralar aldı. Saldırıda gözünü de kaybeden Najwa'nın iyileşme süreci oldukça zorlu geçiyor. Yaşadığı travma nedeniyle psikolojik sorunlarla mücadele eden kadın, aynı zamanda fiziksel yaralarının tedavisi için de uzun bir yola girmiş durumda. Bu olay, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkilerini bir kez daha gözler önüne serdi.",
@@ -764,38 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784632367304sqmy7",
-        "title": "Yemen'deki Husiler Suudi Arabistan'a 'Deniz Ambargosu' İlan Etti",
-        "summary": "Yemen'deki Husiler, Suudi Arabistan'a karşı derhal başlayacak bir deniz ambargosu ilan ettiklerini duyurdu. Husiler, bu kararın Suudi Arabistan'ın Yemen limanları ve havalimanlarına uyguladığı ablukaya bir yanıt olduğunu belirtti. Bu ambargonun, Suudi Arabistan'a ait gemileri veya Suudi Arabistan'a giden/gelen gemileri hedef alması bekleniyor. Bölgedeki gerilimi daha da artırma potansiyeli taşıyan bu gelişme, uluslararası deniz ticaretini de etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31096617/pexels-photo-31096617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T11:12:47.304Z",
-        "location": {
-            "lat": 15.552727,
-            "lng": 48.516388,
-            "name": "Yemen"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17846323912259xxlm",
-        "title": "İsrail Güçleri Batı Şeria'da 3 Filistinliyi Yaraladı, Ev Yıktı",
-        "summary": "İsrail güçlerinin Batı Şeria'da gerçekleştirdiği bir operasyonda 3 Filistinlinin yaralandığı bildirildi. El Halil'in doğusundaki Sa'ir kasabasında ise İsrail güçleri iki katlı bir evi yıktı. Bu yıkım sonucunda 7 kişilik bir Filistinli aile evsiz kaldı ve yerinden edildi. Olaylar bölgedeki gerilimi artırdı ve uluslararası toplumdan tepki çekebileceği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11461003/pexels-photo-11461003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-21T11:13:11.225Z",
-        "location": {
-            "lat": 31.6,
-            "lng": 35.15,
-            "name": "Sa'ir, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-injure-3-palestinians-in-west-bank-attack/4004576",
         "trendScore": 85,
         "isBreaking": false
     }
