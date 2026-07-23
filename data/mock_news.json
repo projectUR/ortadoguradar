@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784832385690p914t",
+        "title": "Irak Başbakanı, ilişkileri derinleştirmek amacıyla İran'a ilk resmi ziyaretini gerçekleştirdi",
+        "summary": "Irak Başbakanı Ali al-Zaidi, iki ülke arasındaki ilişkileri güçlendirmek amacıyla İran'a ilk resmi ziyaretini gerçekleştirdi. Ziyaret kapsamında Başbakan Zaidi, üst düzey İranlı yetkililerle bir araya gelecek. Görüşmelerde iki ülke arasındaki işbirliği alanları, ortak çıkarlar ve bölgesel güvenlik konularının ele alınması bekleniyor. Bu ziyaretin, Bağdat ile Tahran arasındaki diplomatik ve stratejik ilişkilerin geliştirilmesine katkı sağlaması hedefleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433850/pexels-photo-7433850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T18:46:25.690Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784832439852pt356",
+        "title": "ABD-Suudi Arabistan Nükleer Anlaşmasının Orta Doğu Güvenliğine Etkileri Tartışılıyor",
+        "summary": "ABD ile Suudi Arabistan arasında potansiyel bir nükleer anlaşmanın güvenlik sonuçları hakkında endişeler artıyor. Bu anlaşmanın Orta Doğu'da nükleer bir silahlanma yarışını tetikleyebileceği yönündeki kaygılar dile getiriliyor. Bölgesel ve uluslararası gözlemciler, böyle bir gelişmenin Orta Doğu'nun istikrarını olumsuz etkileyebileceği konusunda uyarıyor. Bu durum, bölgedeki güç dengeleri ve güvenlik dinamikleri açısından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18335700/pexels-photo-18335700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-23T18:47:19.852Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784827499022p5ix8",
         "title": "Petrol Fiyatları Orta Doğu Çatışmalarıyla Mayıs Ayından Bu Yana İlk Kez 100 Doları Aştı",
         "summary": "Küresel petrol fiyatları, Orta Doğu'daki çatışmaların şiddetlenmesiyle Mayıs ayından bu yana ilk kez varil başına 100 dolar seviyesini geçti. Bu yükseliş, Yemen'deki Husilerin Kızıldeniz'de Suudi Arabistan'a ait petrol tankerlerini hedef aldıklarını duyurmasının ardından beşinci gününe girdi. Bölgedeki artan gerilimler, küresel enerji piyasalarında arz güvenliği endişelerini tetikleyerek fiyatlar üzerinde yukarı yönlü baskı oluşturuyor. Husilerin bu tür eylemleri, Kızıldeniz gibi stratejik deniz yollarındaki denizcilik güvenliğini tehdit etmeye devam ediyor. Petrol fiyatlarındaki bu artış, küresel ekonomiler için enflasyonist baskılar ve potansiyel büyüme riskleri barındırıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/3-explosions-heard-near-sirik-in-southern-iran-report/4005717",
         "trendScore": 75,
         "isBreaking": true
-    },
-    {
-        "id": "1784719752266c3yym",
-        "title": "ABD'den İran ile Diplomatik Uzlaşma Mesajı",
-        "summary": "ABD'li yetkililer, İran ile diplomatik bir uzlaşmaya varma arzusunu dile getirdi. Yapılan açıklamada, İran tarafının terörizme desteğini sonlandırması ve nükleer silah edinme çabalarından vazgeçmesi halinde bir anlaşmanın mümkün olabileceği belirtildi. Bu koşulların sağlanması durumunda iki ülke arasında diplomatik çözüm yollarının açılabileceği vurgulandı. Açıklama, ABD'nin İran politikasına yönelik temel beklentilerini bir kez daha ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T11:29:12.266Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/rubio-says-us-would-love-to-reach-a-diplomatic-settlement-with-iran/4005710",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17847125484081kqsg",
-        "title": "Fas, İtalya'da Gözaltında Ölen Vatandaşının Ardından Yanıt Talep Ediyor",
-        "summary": "Fas hükümeti, İtalya'nın Bologna kentinde gözaltına alındığı sırada hayatını kaybeden Fas vatandaşı Abderrahim Fakir'in ölümüyle ilgili İtalyan makamlarından kapsamlı bir açıklama talep etti. Olay, Fas'ın başkenti Rabat'ın dikkatini çekerken, İtalya Başbakanı Meloni de konuya ilişkin açıklama yaparak gerçeğin sonuna kadar araştırılması gerektiğini vurguladı. Bu diplomatik girişim, iki ülke arasındaki ilişkilerde önemli bir gündem maddesi oluştururken, Fakir'in ölümüne yol açan koşulların aydınlatılması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10476380/pexels-photo-10476380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T09:29:08.408Z",
-        "location": {
-            "lat": 44.5,
-            "lng": 11.3,
-            "name": "Bologna, İtalya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/22/rabat-demands-answers-after-moroccan-man-dies-during-arrest-in-italy?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
