@@ -1,5 +1,101 @@
 [
     {
+        "id": "1784891911277ojmgk",
+        "title": "İsrail'in Yasa Dışı Yerleşimleri Avrupa'nın Güvenilirlik Sınavı",
+        "summary": "Avrupa Birliği (AB), İsrail'in yasa dışı yerleşim faaliyetlerinin ve ilhak girişimlerinin hızlandığını belgeledi. Bu durumun, AB'nin uluslararası hukuka bağlılığı ve politik tutarlılığı açısından bir güvenilirlik sınavı teşkil ettiği belirtiliyor. Haberde, AB'nin bu gelişmelere karşı kolektif gücünü kullanarak harekete geçmesi gerektiği vurgulanıyor. AB'nin, uluslararası hukukun ihlali olarak görülen bu eylemlere karşı daha etkin bir duruş sergilemesi gerektiği ifade ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34780003/pexels-photo-34780003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T11:18:31.277Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin/İsrail"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1784891932369jp6e4",
+        "title": "İsrailli yerleşimcilerin Batı Şeria kasabasına düzenlediği baskında dört Filistinli öldürüldü",
+        "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimcilerin bir kasabaya düzenlediği baskında dört Filistinli hayatını kaybetti. Olay, Nablus yakınlarındaki Tal kasabası civarında meydana geldi. İsrail'in Magen David Adom kurtarma servisinden yapılan açıklamaya göre, aynı olayda bir İsrailli de yaşamını yitirdi. Bölgedeki gerilimin yüksek olduğu bu dönemde, benzer çatışmaların yaşanmaya devam ettiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T11:18:52.369Z",
+        "location": {
+            "lat": 32.2209,
+            "lng": 35.2544,
+            "name": "Nablus, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784891955022p017c",
+        "title": "WFP, Gazze'de Gıda Güvensizliğinin Kötüleşeceği Uyarısında Bulundu",
+        "summary": "Birleşmiş Milletler Dünya Gıda Programı (WFP), Gazze Şeridi'nde gıda güvensizliği durumunun, ek finansman ve insani yardım sağlanmaması halinde kötüleşeceği uyarısında bulundu. Ajans, bölgede son dönemde kaydedilen iyileşmelerin kalıcı bir toparlanmadan ziyade mevcut insani yardımların bir sonucu olduğunu vurguladı. WFP, mevcut kazanımları 'kırılgan' olarak nitelendirerek, yardım akışında önemli kesintilerin Ekim ayına kadar başlayabileceği riskine dikkat çekti. Bu durumun, bölgedeki insani krizi daha da derinleştirebileceği belirtildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38318009/pexels-photo-38318009.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T11:19:15.022Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/wfp-warns-food-insecurity-in-gaza-will-deteriorate-without-more-funding-aid-calls-recent-gains-fragile/4008100",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17848919749010j73o",
+        "title": "Irak'ın Erbil Kentinde Patlama Sesleri Duyuldu",
+        "summary": "Irak'ın kuzeyindeki Erbil kentinde bir dizi patlama sesi duyulduğu bildirildi. Kent üzerinde hava savunma sistemlerinin devreye girdiği ve beş intihar insansız hava aracını düşürdüğü belirtildi. Düşürülen dronlar nedeniyle Erbil genelinde şiddetli patlama sesleri meydana geldi. Olayın ardından bölgede güvenlik önlemleri artırıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5014709/pexels-photo-5014709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T11:19:34.901Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 44,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/series-of-explosions-heard-in-iraqs-erbil/4008063",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "17848919975071cdw4",
+        "title": "İsrailli aşırı sağcı bakan, işgal altındaki Batı Şeria'da 'Gazze tarzı yıkım' çağrısı yaptı",
+        "summary": "İsrailli aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, işgal altındaki Batı Şeria'daki şehir ve köylerde 'Gazze tarzı yıkım' yapılması çağrısında bulundu. Bakan Ben-Gvir, ordunun sözde saldırganların ve destekçilerinin evlerini yıkmakla görevlendirilmesi gerektiğini belirtti. Bu açıklama, bölgedeki gerilimi tırmandırma potansiyeli taşıyor ve uluslararası alanda tepkilere yol açması bekleniyor. Çağrı, İsrail'in Batı Şeria'daki politikalarına ilişkin endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4953234/pexels-photo-4953234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T11:19:57.507Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-far-right-minister-calls-for-gaza-style-destruction-in-occupied-west-bank-cities-villages/4008052",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1784892017790j5j0p",
+        "title": "İran, aylarca süren hava saldırılarına rağmen füze sahalarını ve kritik altyapısını hızla yeniden inşa ediyor: Rapor",
+        "summary": "Uydu görüntülerine dayanan bir rapora göre, İran'ın aylarca süren hava saldırılarına rağmen füze sahalarını ve kritik altyapısını hızla yeniden inşa ettiği belirtildi. İsrailli bir askeri yetkili, 'İran her şeyi yeniden inşa ediyor' açıklamasında bulundu. Raporda, yeraltı füze üsleri, köprüler, limanlar ve üretim tesislerinin hızlı bir şekilde onarıldığına dair kanıtlar sunuldu. Bu durum, bölgedeki gerilimin devam ettiğini ve İran'ın stratejik kapasitesini koruma çabalarını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13359076/pexels-photo-13359076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T11:20:17.790Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-rapidly-rebuilds-missile-sites-key-infrastructure-despite-months-of-airstrikes-report/4008046",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784883916416463zz",
         "title": "UCM Başsavcısı Karim Khan Hakkında Görevden Alma Oylaması Yapılacak",
         "summary": "Uluslararası Ceza Mahkemesi (UCM) Başsavcısı Karim Khan'ın geleceği, cinsel taciz iddiaları nedeniyle Cuma günü yapılacak gizli oylamayla belirlenecek. UCM'ye üye 125 devlet, Khan'ın görevden alınıp alınmayacağına karar vermek üzere sandık başına gidecek. Bu oylama, Başsavcı Khan'ın görevdeki pozisyonunu doğrudan etkileyecek ve mahkemenin uluslararası alandaki soruşturmalarının seyrini değiştirebilecek nitelikte. Özellikle Filistin gibi Orta Doğu'daki hassas bölgelerdeki soruşturmaların devamlılığı açısından bu gelişme yakından takip ediliyor. Oylamanın sonucu, UCM'nin gelecekteki operasyonları ve güvenilirliği üzerinde önemli etkiler yaratabilir.",
@@ -700,102 +796,6 @@
             "name": "Al-Mawasi, Gazze Şeridi"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-fire-injures-4-palestinians-including-2-children-in-southern-gaza-despite-ongoing-ceasefire/4006564",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17847989938896i7sv",
-        "title": "ABD Kongre Üyesi Khanna, İsrail Tarafından Gözaltına Alınan Filistin Asıllı Amerikalı Gencin 'Korkunç' Hikayesini Aktardı",
-        "summary": "ABD Kongre Üyesi Ro Khanna, İsrail güçleri tarafından gözaltına alınan Filistin asıllı Amerikalı bir gencin yaşadığı \"korkunç\" deneyimi kamuoyuyla paylaştı. Khanna, 15 yaşındaki Mohammed Ibrahim'in Şubat 2025'te İsrail güçleri tarafından tutuklandığını ve gözaltı sürecinde insan hakları ihlallerine maruz kaldığını iddia etti. Bu açıklama, İsrail'in Filistin topraklarındaki uygulamalarına yönelik uluslararası eleştirileri ve ABD'nin bölgedeki diplomatik tutumunu yeniden gündeme getirdi. Olay, hem ABD'deki Filistin diasporası hem de insan hakları örgütleri arasında derin endişelere yol açarken, Washington'ın İsrail'e yönelik politikaları üzerindeki baskıyı artırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T09:29:53.889Z",
-        "location": {
-            "lat": 31.9038,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-congressman-khanna-narrates-horrific-tale-of-palestinian-us-teen-detained-by-israel/4006470",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784799020761ss8y5",
-        "title": "Doğu Kudüs'teki Mescid-i Aksa Külliyesi'ne İsrailli Gruplar Girdi",
-        "summary": "İşgal altındaki Doğu Kudüs'te bulunan Mescid-i Aksa Külliyesi'ne yaklaşık 1.300 İsrailli grubun girdiği bildirildi. Kudüs Valiliği'nden yapılan açıklamaya göre, İsrail polisi Filistinli ibadet edenlere yönelik sıkı kısıtlamalar uyguladı. Bu girişler, İsrailliler tarafından 'Tapınağın yıkılışı' olarak adlandırılan yıl dönümünün anılması sırasında gerçekleşti. Olaylar, bölgedeki hassasiyeti ve gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11696783/pexels-photo-11696783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T09:30:20.761Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.22,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/americas/around-1-300-israeli-occupiers-storm-al-aqsa-mosque-compound-in-occupied-east-jerusalem/4006456",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1784788334792341d7",
-        "title": "Umut ve Korku Arasında: Yemenliler Husilerin Suudi Arabistan Ablukasına Tepki Gösteriyor",
-        "summary": "Husilerin Suudi Arabistan'a yönelik deniz ablukası girişimi, Yemen'de büyük endişelere yol açtı. Yemenliler, bu ablukanın ülkedeki savaşı yeniden alevlendirebileceğinden korkuyor. Ayrıca, ablukanın temel ihtiyaç maddelerindeki kıtlığı daha da derinleştirerek insani krizi kötüleştireceği ve açlığı artıracağı belirtiliyor. Bölgedeki gerilimi tırmandırma potansiyeli taşıyan bu gelişme, Yemen halkının zaten zorlu olan yaşam koşullarını daha da ağırlaştırabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38343713/pexels-photo-38343713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T06:32:14.792Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784788358113876ft",
-        "title": "ABD-İran Çatışması ASEAN Toplantısını Gölgede Bıraktı",
-        "summary": "Amerika Birleşik Devletleri ile İran arasındaki çatışmaların yeniden şiddetlenmesi, Filipinler'in başkenti Manila'da düzenlenen Güneydoğu Asya Ülkeleri Birliği (ASEAN) toplantısını gölgede bıraktı. Bölgesel sorunların ele alınması beklenen zirvede, ABD-İran gerilimi ana gündem maddelerinden biri haline geldi. Bu durumun, ASEAN'ın kendi bölgesel meselelerine odaklanma ve çözüm bulma çabalarını nasıl etkileyeceği konusunda endişeler dile getiriliyor. Gelişmeler, uluslararası diplomasi ve bölgesel işbirliği üzerinde önemli etkiler yaratma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6044616/pexels-photo-6044616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T06:32:38.113Z",
-        "location": {
-            "lat": 14.5995,
-            "lng": 120.9842,
-            "name": "Manila, Filipinler"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178477888542435mpt",
-        "title": "Gazze'de Gözünü ve Kızını Kaybeden Bir Kadın İçin Uzun Bir İyileşme Yolu",
-        "summary": "Gazze'de yaşanan bir olayda, İsrail hava saldırısında kızını kaybeden Najwa adlı bir kadın, hem fiziksel hem de psikolojik olarak derin yaralar aldı. Saldırıda gözünü de kaybeden Najwa'nın iyileşme süreci oldukça zorlu geçiyor. Yaşadığı travma nedeniyle psikolojik sorunlarla mücadele eden kadın, aynı zamanda fiziksel yaralarının tedavisi için de uzun bir yola girmiş durumda. Bu olay, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkilerini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T03:54:45.424Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784778956748v3jt9",
-        "title": "İsrail'in Gazze Saldırılarında Can Kaybı Arttı",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda ilk belirlemelere göre üç Filistinli hayatını kaybetti, çok sayıda kişi yaralandı. Bölgeden gelen son bilgilere göre, daha önceki bir İsrail saldırısında yaralanan dördüncü bir Filistinli de aldığı yaralar nedeniyle yaşamını yitirdi. Bu saldırılar, bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Artan can kayıpları, uluslararası toplumda endişelere yol açarken, bölgedeki gerilimin tırmanma potansiyeli devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T03:55:56.748Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-palestinians-killed-several-injured-in-israeli-attacks-across-gaza/4006393",
         "trendScore": 85,
         "isBreaking": false
     }
