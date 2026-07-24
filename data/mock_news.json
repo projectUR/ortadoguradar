@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784905405399befhh",
+        "title": "İşgal Altındaki Batı Şeria'da İsrailli Yerleşimcilerin Saldırısı Sonrası Beş Kişi Öldü",
+        "summary": "İşgal altındaki Batı Şeria'da gerilim tırmanmaya devam ediyor. Till köyünde meydana gelen bir olayda beş kişi hayatını kaybetti. Olayda dört Filistinli ve bir İsrailli yaşamını yitirdi. Haberlere göre, bu can kayıpları, İsrailli yerleşimcilerin gerçekleştirdiği bir saldırının ardından çıkan çatışmada yaşandı. Bölgedeki güvenlik durumu ve sivil kayıplar uluslararası endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30831931/pexels-photo-30831931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T15:03:25.399Z",
+        "location": {
+            "lat": 32.208,
+            "lng": 35.207,
+            "name": "Till Köyü, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1784891911277ojmgk",
         "title": "İsrail'in Yasa Dışı Yerleşimleri Avrupa'nın Güvenilirlik Sınavı",
         "summary": "Avrupa Birliği (AB), İsrail'in yasa dışı yerleşim faaliyetlerinin ve ilhak girişimlerinin hızlandığını belgeledi. Bu durumun, AB'nin uluslararası hukuka bağlılığı ve politik tutarlılığı açısından bir güvenilirlik sınavı teşkil ettiği belirtiliyor. Haberde, AB'nin bu gelişmelere karşı kolektif gücünü kullanarak harekete geçmesi gerektiği vurgulanıyor. AB'nin, uluslararası hukukun ihlali olarak görülen bu eylemlere karşı daha etkin bir duruş sergilemesi gerektiği ifade ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/rubio-says-saudi-nuclear-deal-will-go-through-congress-approval/4006666",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1784798966359l2z4f",
-        "title": "İsrail ateşi, devam eden ateşkese rağmen güney Gazze'de 2'si çocuk 4 Filistinliyi yaraladı",
-        "summary": "Güney Gazze'de meydana gelen bir olayda, İsrail güçlerinin açtığı ateş sonucu 2'si çocuk olmak üzere 4 Filistinli yaralandı. Olay, devam eden ateşkese rağmen gerçekleşti. İsrail askeri araçları, Gazze Şeridi'nin güneyindeki Al-Mawasi bölgesinde yerinden edilmiş Filistinlilerin çadırlarını hedef aldı. Yaralananlar arasında 1 yaşında bir kız bebeğin de bulunduğu bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T09:29:26.359Z",
-        "location": {
-            "lat": 31.35,
-            "lng": 34.3,
-            "name": "Al-Mawasi, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-fire-injures-4-palestinians-including-2-children-in-southern-gaza-despite-ongoing-ceasefire/4006564",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
