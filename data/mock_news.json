@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784936056287kww6a",
+        "title": "İran Dışişleri Bakanı Araghchi: \"Kimseden Korkmuyoruz\"",
+        "summary": "İran Dışişleri Bakanı Abbas Araghchi, ülkesinin tehditlerden korkmadığını ve baskılara boyun eğmeyeceğini açıkladı. Bakan Araghchi, İran'ın uluslararası arenadaki duruşunu ve dış politikadaki kararlılığını vurgulayan bu ifadeleri kullandı. Bu tür açıklamalar, genellikle İran'a yönelik uluslararası yaptırımlar, nükleer müzakereler veya bölgesel gerilimler gibi konuların gündemde olduğu dönemlerde dile getiriliyor. İranlı yetkililer, ulusal çıkarlarını koruma ve egemenliklerini savunma konusundaki kararlılıklarını sıkça dile getirmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T23:34:16.287Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784925398586yulpa",
         "title": "UCM Savcısı Khan'ın Görevden Alınması, Netanyahu Hakkındaki Tutuklama Emri Girişimine Bağlandı",
         "summary": "Uluslararası Ceza Mahkemesi (UCM) Başsavcısı Karim Khan'ın, 'siyasallaştırılmış' cinsel taciz iddiaları nedeniyle görevden alındığı bildirildi. Kaynaklar, Khan'ın ekibinin bu durumun, İsrail Başbakanı Binyamin Netanyahu hakkında tutuklama emri çıkarma girişimine bir tepki olduğunu öne sürdüğünü belirtti. Khan, Netanyahu'nun Gazze'deki eylemleri nedeniyle savaş suçları ve insanlığa karşı suçlardan soruşturulmasını talep etmişti. Bu gelişme, UCM'nin İsrail-Filistin çatışmasındaki rolüne ilişkin tartışmaları yeniden alevlendirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss",
         "trendScore": 95,
         "isBreaking": true
-    },
-    {
-        "id": "1784798878176990ck",
-        "title": "Husiler Petrol Tankerlerine Saldırı İddia Ederken ABD İran'a Yeni Saldırılar Başlattı",
-        "summary": "İran destekli Husiler, Kızıldeniz'de petrol tankerlerine saldırı düzenlediğini iddia etti. Bu saldırılar, grubun Suudi Arabistan'a karşı \"deniz ambargosu\" ilan etmesinden bu yana Kızıldeniz'deki ilk eylemleri olma özelliğini taşıyor. Aynı zamanda, ABD'nin İran'a yönelik yeni saldırılar başlattığı bildirildi. Bu gelişmeler, bölgedeki gerilimin tırmandığını ve denizcilik güvenliğinin tehdit altında olduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33804689/pexels-photo-33804689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T09:27:58.176Z",
-        "location": {
-            "lat": 20,
-            "lng": 38,
-            "name": "Kızıldeniz"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
