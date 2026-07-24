@@ -1,5 +1,53 @@
 [
     {
+        "id": "1784865226576f80dq",
+        "title": "Petrol Fiyatları Yükselirken Uzmanlar, Husilerin Kızıldeniz Ablukası Hakkında Netlik İçin Tankerleri İzliyor",
+        "summary": "Petrol fiyatları yükselişini sürdürürken, analistler Husilerin Kızıldeniz'deki saldırılarının Suudi Arabistan ham petrolünün küresel pazarlara ulaşımını tamamen engellemediğini, ancak taşıyıcı firmaları ve rotaları etkilediğini belirtiyor. Uzmanlar, bu durumun ham petrol akışının devamlılığına dair bir belirsizlik yaratmadığını, ancak denizcilik şirketlerinin güvenlik endişeleri nedeniyle farklı stratejiler geliştirmesine yol açtığını ifade ediyor. Kızıldeniz'deki bu gerilim, küresel enerji tedarik zincirleri ve denizcilik güvenliği üzerindeki etkileri nedeniyle yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33284879/pexels-photo-33284879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T03:53:46.576Z",
+        "location": {
+            "lat": 15,
+            "lng": 42,
+            "name": "Kızıldeniz, Yemen"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/24/as-oil-soars-experts-watch-red-sea-tankers-for-clarity-on-houthi-blockade?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784865254670mazfq",
+        "title": "İbrahim Anlaşmaları Nedir?",
+        "summary": "ABD Başkanı Donald Trump'ın Suudi Arabistan ile planlanan bir nükleer anlaşmadan geri adım attığı bildirildi. Bu gelişme, iki ülke arasındaki stratejik işbirliği ve enerji politikaları bağlamında önemli bir değişiklik olarak değerlendiriliyor. Daha önce gündeme gelen nükleer işbirliği planları, Orta Doğu'daki güç dengeleri ve nükleer yayılma endişeleri nedeniyle uluslararası kamuoyunda yakından takip ediliyordu. Trump yönetiminin bu konudaki tutum değişikliği, bölgedeki diplomatik ilişkiler üzerinde çeşitli etkiler yaratabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T03:54:14.670Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "1784865275529va1bl",
+        "title": "ABD, İran'ın Körfez'de Gerilimi Artırma Uyarısı Arasında 13. Gece Saldırılarını Gerçekleştirdi",
+        "summary": "Amerika Birleşik Devletleri, Orta Doğu'da üst üste 13. gecesini tamamlayan hava saldırılarını gerçekleştirdi. Bu askeri eylemler, İran'ın Körfez bölgesinde gerilimin daha da tırmanabileceği yönündeki uyarılarının ardından geldi. Al Jazeera muhabiri Tohid Asadi, bölgedeki gelişmeleri İran'ın başkenti Tahran'dan bildirdi. Söz konusu saldırılar ve İran'ın uyarıları, bölgedeki güvenlik durumunun hassasiyetini ve taraflar arasındaki tansiyonun yüksekliğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952949/pexels-photo-5952949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-24T03:54:35.529Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784847534783njesn",
         "title": "İtalya'da Fas Asıllı Bir Kişinin Polis Gözaltısında Ölümü Protestolara Neden Oldu",
         "summary": "İtalya'nın Bologna kentinde Fas asıllı Abderrahim Fakir'in polis tarafından gözaltına alındıktan sonra hayatını kaybetmesi ülke genelinde geniş çaplı protestolara yol açtı. Olay, kamuoyunda \"İtalya'nın George Floyd anı\" olarak nitelendirilirken, polis şiddeti ve ırkçılık tartışmalarını yeniden alevlendirdi. Protestocular, Fakir'in ölümünün şeffaf bir şekilde soruşturulmasını ve sorumluların adalet önüne çıkarılmasını talep ediyor. Bu durum, İtalya'daki göçmen toplulukları ve insan hakları örgütleri arasında derin endişelere neden oldu.",
@@ -748,54 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784739470513sa9nm",
-        "title": "Libya'daki taraflar birleşik kurumlar ile başkanlık ve parlamento seçimleri çağrısı yaptı",
-        "summary": "Libya'daki siyasi taraflar, ülkenin bölünmüşlüğüne son vermek ve istikrarı sağlamak amacıyla birleşik kurumların oluşturulması ile başkanlık ve parlamento seçimlerinin yapılması yönünde çağrıda bulundu. Bu önemli çağrı, Libya partilerinin Sirte şehrinde düzenlenen ilk konferansında dile getirildi. Birleşmiş Milletler'in (BM) Libya'da siyasi bir çözüme ulaşma çabaları devam ederken, bu konferansın uzlaşma sürecine katkı sağlaması bekleniyor. Ülkedeki farklı gruplar arasında siyasi bir mutabakatın sağlanması ve meşru bir hükümetin kurulması hedefleniyor. Yapılacak seçimlerin, Libya'nın geleceği için kritik bir adım olacağı vurgulandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5926351/pexels-photo-5926351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T16:57:50.513Z",
-        "location": {
-            "lat": 31.21,
-            "lng": 16.59,
-            "name": "Sirte, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/libyan-parties-call-for-unified-institutions-presidential-and-parliamentary-elections/4006064",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784733655315k6874",
-        "title": "Birleşik Krallık Siyasetçilerinin Dış Politika ve Savunma Geçmişleri Mercek Altında",
-        "summary": "Birleşik Krallık'ın önde gelen siyasetçileri Miliband ve Streeting'in dış politika ve savunma kayıtları detaylı bir şekilde inceleniyor. Haberde, Miliband'ın eski ABD Başkanı Trump'ı eleştiren ve bir dönem Suriye'ye yönelik askeri müdahaleye karşı çıkan bir isim olduğu belirtiliyor. Öte yandan, Streeting'in savunma konularında yeni bir isim olduğu ve İsrail'e yönelik görüşlerinin zamanla değiştiği vurgulanıyor. Bu analiz, her iki siyasetçinin uluslararası ilişkiler ve güvenlik konularındaki duruşlarını ve geçmiş performanslarını değerlendiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T15:20:55.315Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784725403782r7ido",
-        "title": "Husilerin Bab el-Mendeb'i Kapatması Sonrası Süveyş Kanalı Asya Petrol Tüketicilerini Kurtarabilir mi?",
-        "summary": "Yemen'deki Husilerin Bab el-Mendeb Boğazı'nı kapatma eylemleri, Asya'ya yönelik petrol sevkiyatını ciddi şekilde tehdit ediyor. Uzmanlar, bu boğazdan günde yaklaşık 6 milyon varil ham petrolün geçtiğini ve mevcut durumun bu tedariki riske attığını belirtiyor. Bu gelişmelerin ardından, Süveyş Kanalı'nın Asyalı petrol tüketicileri için alternatif bir rota olup olamayacağı ve küresel enerji arz güvenliğini nasıl etkileyeceği tartışılıyor. Bölgedeki gerilimler, uluslararası deniz ticaretini ve enerji piyasalarını yakından ilgilendiriyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/38602132/pexels-photo-38602132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-22T13:03:23.782Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 43.3,
-            "name": "Bab el-Mendeb Boğazı, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/22/can-the-suez-save-asian-oil-consumers-after-houthis-shut-bab-al-mandeb?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
