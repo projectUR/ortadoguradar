@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785014854027z5rhm",
+        "title": "Suriye'nin Doğusunda İki Otobüs Çarpıştı: En Az 35 Ölü",
+        "summary": "Suriye'nin doğu kesiminde meydana gelen feci trafik kazasında en az 35 kişi hayatını kaybetti. İlk belirlemelere göre, iki otobüsün çarpışması sonucu gerçekleşen olayda çok sayıda kişi de yaralandı. Kaza bölgesine hızla acil durum ve kurtarma ekipleri sevk edildi. Yaralılar, çevredeki hastanelere kaldırılarak tedavi altına alınırken, can kaybının artmasından endişe ediliyor. Yetkililer, kazanın nedenine ilişkin kapsamlı bir soruşturma başlattı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8942690/pexels-photo-8942690.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T21:27:34.027Z",
+        "location": {
+            "lat": 35.33,
+            "lng": 40.15,
+            "name": "Deyrizor, Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1785011229463pbwxm",
         "title": "İsrail Saldırısında Kuzey Gazze'deki Hamas Yönetimindeki Polisin Başı Öldürüldü",
         "summary": "Kuzey Gazze'de Hamas yönetimine bağlı polisin başı, İsrail'in düzenlediği bir saldırıda hayatını kaybetti. Bölgedeki gerilim devam ederken, İsrail hava saldırıları sonucunda dört Filistinli daha yaşamını yitirdi. Ayrıca, geçen hafta yaralanan bir polis memuru da aldığı yaralar nedeniyle hayatını kaybetti. Bu olaylar, Gazze Şeridi'ndeki güvenlik durumunun ciddiyetini bir kez daha gözler önüne serdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/-us-strikes-kill-4-injure-7-near-iran-s-ahvaz-khorramabad-iranian-media/4007664",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784874512901fg8lm",
-        "title": "Trilyon Dolarlık ABD Savunma Yasa Tasarısı İsrail ile Askeri Bağları Derinleştirecek",
-        "summary": "ABD Temsilciler Meclisi'nden geçen 1,15 trilyon dolarlık savunma yasa tasarısı, İsrail ile askeri işbirliğini genişletme planlarını içeriyor. Tasarı, iki ülke arasındaki mevcut savunma ilişkilerini daha da güçlendirmeyi hedefliyor. Bu adımın, bölgesel güvenlik dinamikleri üzerinde etkileri olabileceği belirtiliyor. ABD'nin İsrail'e yönelik askeri desteğinin artırılması, Orta Doğu'daki stratejik dengeler açısından önem taşıyor. Yasa tasarısının Senato'dan geçmesi ve yasalaşması halinde, İsrail'in savunma kapasitesine katkı sağlaması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34693694/pexels-photo-34693694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-24T06:28:32.901Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
