@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784996812339tudth",
+        "title": "Mescid-i Aksa Üzerindeki Gerilim",
+        "summary": "İsrail polisinin koruması altında binlerce İsraillinin Mescid-i Aksa yerleşkesine girmesiyle bölgede gerilim yaşandı. Bu olay, Kudüs'teki hassas statükonun ihlali olarak değerlendirildi ve Filistinliler ile uluslararası toplumdan tepkilere neden oldu. Mescid-i Aksa, hem Müslümanlar hem de Yahudiler için kutsal bir mekan olup, sık sık çatışmalara sahne olmaktadır. Bu tür gelişmeler, İsrail-Filistin arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1659293/pexels-photo-1659293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T16:26:52.339Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "178499192576542yzq",
         "title": "Küresel Güney, alacaklıları çocuklara tercih etmek zorunda kalıyor",
         "summary": "Mevcut küresel finansal düzen nedeniyle milyonlarca çocuğun eğitimi tehlike altında. Küresel Güney ülkeleri, borç yükümlülükleri nedeniyle eğitim gibi temel hizmetlere yeterli yatırım yapamıyor. Bu durum, çocukların geleceğini doğrudan etkileyerek uzun vadeli sosyal ve ekonomik sorunlara yol açıyor. Uluslararası toplumun, bu ülkelerin borç sorunlarına sürdürülebilir çözümler bulması ve eğitim finansmanına destek olması gerektiği vurgulanıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1784847534783njesn",
-        "title": "İtalya'da Fas Asıllı Bir Kişinin Polis Gözaltısında Ölümü Protestolara Neden Oldu",
-        "summary": "İtalya'nın Bologna kentinde Fas asıllı Abderrahim Fakir'in polis tarafından gözaltına alındıktan sonra hayatını kaybetmesi ülke genelinde geniş çaplı protestolara yol açtı. Olay, kamuoyunda \"İtalya'nın George Floyd anı\" olarak nitelendirilirken, polis şiddeti ve ırkçılık tartışmalarını yeniden alevlendirdi. Protestocular, Fakir'in ölümünün şeffaf bir şekilde soruşturulmasını ve sorumluların adalet önüne çıkarılmasını talep ediyor. Bu durum, İtalya'daki göçmen toplulukları ve insan hakları örgütleri arasında derin endişelere neden oldu.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4685550/pexels-photo-4685550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T22:58:54.783Z",
-        "location": {
-            "lat": 44.4942,
-            "lng": 11.3426,
-            "name": "Bologna, İtalya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/23/is-this-italys-george-floyd?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
