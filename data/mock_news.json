@@ -1,5 +1,21 @@
 [
     {
+        "id": "17850007251568eqo9",
+        "title": "İran Hükümeti ile Devlet Televizyonu Arasında Gerilim; ABD ile Müzakereler İçin Arabuluculuk Çabaları Sürüyor",
+        "summary": "İran hükümeti, devlet televizyonu IRIB'i Cumhurbaşkanı'nın konuşmasının bazı bölümlerini yayınlamayarak \"sansür uygulamakla\" suçladı. IRIB ise bu iddiaları reddederek \"uygunsuz atıflar\" olarak nitelendirdi. Bu iç gerilim, arabulucuların İran ile ABD arasındaki görüşmeleri ilerletme çabalarını sürdürdüğü bir dönemde yaşanıyor. Hükümet ile devlet televizyonu arasındaki bu anlaşmazlık, ülkenin iç siyasetindeki güç dinamiklerini ve medya üzerindeki kontrol mücadelesini gözler önüne seriyor. Aynı zamanda, dış ilişkilerdeki hassas diplomatik süreçlerin iç politikadaki yansımalarını da gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8847045/pexels-photo-8847045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T17:32:05.156Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784996812339tudth",
         "title": "Mescid-i Aksa Üzerindeki Gerilim",
         "summary": "İsrail polisinin koruması altında binlerce İsraillinin Mescid-i Aksa yerleşkesine girmesiyle bölgede gerilim yaşandı. Bu olay, Kudüs'teki hassas statükonun ihlali olarak değerlendirildi ve Filistinliler ile uluslararası toplumdan tepkilere neden oldu. Mescid-i Aksa, hem Müslümanlar hem de Yahudiler için kutsal bir mekan olup, sık sık çatışmalara sahne olmaktadır. Bu tür gelişmeler, İsrail-Filistin arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşımaktadır.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/what-are-the-abraham-accords-3?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": true
-    },
-    {
-        "id": "1784865275529va1bl",
-        "title": "ABD, İran'ın Körfez'de Gerilimi Artırma Uyarısı Arasında 13. Gece Saldırılarını Gerçekleştirdi",
-        "summary": "Amerika Birleşik Devletleri, Orta Doğu'da üst üste 13. gecesini tamamlayan hava saldırılarını gerçekleştirdi. Bu askeri eylemler, İran'ın Körfez bölgesinde gerilimin daha da tırmanabileceği yönündeki uyarılarının ardından geldi. Al Jazeera muhabiri Tohid Asadi, bölgedeki gelişmeleri İran'ın başkenti Tahran'dan bildirdi. Söz konusu saldırılar ve İran'ın uyarıları, bölgedeki güvenlik durumunun hassasiyetini ve taraflar arasındaki tansiyonun yüksekliğini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952949/pexels-photo-5952949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-24T03:54:35.529Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
