@@ -1,5 +1,133 @@
 [
     {
+        "id": "1784967005168zop8h",
+        "title": "Gazze'de Prematüre Bebekler Hayatta Kalma Mücadelesi Veriyor",
+        "summary": "Gazze Şeridi'nde devam eden çatışmalar, bölgedeki insani durumu ağırlaştırmaya devam ediyor. Son raporlar, çatışmaların etkisiyle prematüre doğum oranlarında önemli bir artış yaşandığını gösteriyor. Sağlık altyapısının ciddi şekilde zarar görmesi ve annelerin yaşadığı stres, bu artışın temel nedenleri arasında yer alıyor. Erken doğan bebekler, yetersiz tıbbi imkanlar ve kaynaklar nedeniyle hayatta kalma mücadelesi veriyor. Bu durum, hem annelerin hem de prematüre bebeklerin sağlığını ve yaşamını ciddi şekilde tehdit ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/15961870/pexels-photo-15961870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:10:05.168Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1784967026559zejp0",
+        "title": "BM Genel Sekreteri Guterres, 17 yıl sonra Suriye'ye ilk resmi ziyaretini gerçekleştirdi",
+        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, 17 yıl aradan sonra bir BM Genel Sekreteri tarafından gerçekleştirilen ilk resmi ziyaret kapsamında Suriye'ye ulaştı. Guterres'in ziyareti, ülkedeki insani durum ve siyasi gelişmelerin ele alınması açısından büyük önem taşıyor. Ziyaret sırasında BM Genel Sekreteri, Suriye Devlet Başkanı Ahmed el-Şaraa ile bir araya gelecek. El-Şaraa'nın, geçen yıla kadar Birleşmiş Milletler Güvenlik Konseyi yaptırımları altında olduğu biliniyor. Bu görüşmenin, Suriye'nin uluslararası toplumla ilişkileri ve ülkenin geleceği açısından kritik mesajlar içermesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:10:26.559Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1784967082703ti65f",
+        "title": "'Suçları neydi?': BBC, İran'da 120 çocuğun öldüğü okulu ziyaret etti",
+        "summary": "BBC, İran'ın Minab kentinde 120 çocuğun hayatını kaybettiği bir okulu ziyaret etti. Haberde, saldırının üzerinden yaklaşık beş ay geçmesine rağmen, bir öğretmen ve bir annenin yaşadığı derin acı ve olayın dehşeti aktarıldı. Ziyaret sırasında, kurbanların yakınlarının hissettiği taze yas ve olayın toplumsal etkileri vurgulandı. Bu trajik olay, bölgedeki çocukların güvenliği ve insani durumla ilgili endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14136477/pexels-photo-14136477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:11:22.703Z",
+        "location": {
+            "lat": 27.15,
+            "lng": 57.08,
+            "name": "Minab, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784967106260djbxc",
+        "title": "Yemen Hükümeti, Suudi Liderliğindeki Koalisyonla İşbirliği Sözü Verdi",
+        "summary": "Yemen hükümeti, Husilerin neden olduğu gerilimin ortasında, su yollarını korumak ve tehditleri caydırmak amacıyla Suudi liderliğindeki koalisyonla işbirliği yapma sözü verdi. Başkanlık Liderlik Konseyi başkanı, Husileri gerilimi azaltma fırsatlarını baltalamakla suçladı. Konsey başkanı ayrıca, Husilerin \"ülkeyi İran rejiminin gündemine hizmet etmek için ardışık krizlere sürüklediğini\" belirtti. Bu açıklama, bölgedeki deniz güvenliğinin ve istikrarın sağlanması yönündeki ortak çabaların önemini vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14927253/pexels-photo-14927253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:11:46.260Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemen-gov-t-vows-cooperation-with-saudi-led-coalition-to-protect-waterways-deter-threats-amid-houthi-tension/4008886",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1784967129873r8zpe",
+        "title": "Mısır Dışişleri Bakanı, İranlı ve Ummanlı Mevkidaşlarıyla Bölgesel Gerilimi Azaltma ve Deniz Güvenliğini Görüştü",
+        "summary": "Mısır Dışişleri Bakanı Badr Abdelatty, İranlı ve Ummanlı mevkidaşlarıyla bir araya gelerek Orta Doğu'daki bölgesel gerilimin azaltılması ve deniz güvenliği konularını ele aldı. Görüşmelerde, askeri tırmanışın derhal durdurulması gerektiği vurgulandı. Bakan Abdelatty, özellikle Hürmüz Boğazı ve Kızıldeniz'deki seyrüseferin korunmasının hayati önem taşıdığını belirtti. Taraflar, bölgedeki istikrarın sağlanması ve ortak çıkarların korunması için diplomatik çabaların sürdürülmesi konusunda mutabık kaldı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:12:09.873Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu Bölgesi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egyptian-foreign-minister-discusses-regional-de-escalation-maritime-security-with-iranian-omani-counterparts/4008880",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17849671519420sg9y",
+        "title": "İsrail ordusu Batı Şeria genelinde en az 48 Filistinliyi gözaltına aldı, işgalcilerin saldırısında 8 kişi yaralandı",
+        "summary": "İsrail güçleri, Batı Şeria'da düzenlediği operasyonlarda en az 48 Filistinliyi gözaltına aldı. Operasyonlar kapsamında Nablus yakınlarındaki Tell bölgesinde 40'tan fazla Filistinli, Cenin vilayetinde 5 ve Beytüllahim'de 3 Filistinli gözaltına alındı. Haber kaynakları, işgalcilerin saldırıları sonucunda 8 kişinin de yaralandığını bildirdi. Bu gözaltı ve saldırılar, bölgedeki gerilimi artırmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10475178/pexels-photo-10475178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:12:31.942Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-at-least-48-palestinians-across-west-bank-8-injured-in-attack-by-occupiers/4008820",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1784967172330vdwe4",
+        "title": "BM Genel Sekreteri Guterres, 2009'dan Bu Yana İlk Kez Şam'a Ulaştı",
+        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, 2009 yılından bu yana bir BM Genel Sekreteri tarafından gerçekleştirilen ilk ziyaret kapsamında Suriye'nin başkenti Şam'a vardı. Guterres, Şam Uluslararası Havalimanı'nda Suriye Dışişleri Bakanı Asaad el-Şaibani tarafından karşılandı. Bu ziyaretin, Suriye'deki mevcut insani durum ve siyasi çözüm çabaları açısından büyük önem taşıdığı belirtiliyor. BM Genel Sekreteri'nin, Suriye Devlet Başkanı Ahmad Al-Şaraa ile bir araya gelmesi bekleniyor. Ziyaretin, ülkedeki krizin uluslararası gündemdeki yerini yeniden güçlendirmesi hedefleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:12:52.330Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-chief-guterres-arrives-in-damascus-on-first-visit-by-secretary-general-since-2009/4008810",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17849671960085s54v",
+        "title": "ABD kamuoyu İsrail'e karşı giderek olumsuzlaşıyor, anketler gösteriyor",
+        "summary": "ABD'de yapılan son anketler, kamuoyunun İsrail'e yönelik tutumunda belirgin bir olumsuzlaşma olduğunu ortaya koydu. Araştırmalar, bu eleştirel yaklaşımın siyasi parti ayrımı gözetmeksizin geniş bir yelpazede arttığını gösteriyor. Özellikle genç Cumhuriyetçiler arasında İsrail'e verilen desteğin azaldığı dikkat çekiyor. Bu durum, ABD'nin Orta Doğu politikaları ve İsrail ile ilişkileri üzerinde potansiyel etkiler yaratabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7103126/pexels-photo-7103126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T08:13:16.008Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-public-opinion-increasingly-negative-toward-israel-polls-show/4008793",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1784958311710uzs0f",
         "title": "Batı Şeria'da Öldürülen Dört Filistinli İçin Cenaze Törenleri Düzenlendi",
         "summary": "Batı Şeria'da meydana gelen ölümcül bir silahlı saldırıda hayatını kaybeden dört Filistinli için cenaze törenleri düzenlendi. Nablus yakınlarında yaşanan olayda yaşamını yitiren Filistinliler, gece saatlerinde toprağa verildi. Bölgedeki gerilimin yüksek olduğu bir dönemde gerçekleşen bu cenazeler, yerel halk arasında derin bir üzüntüye yol açtı. Olayın ardından bölgede güvenlik önlemleri artırılırken, Filistinli yetkililer uluslararası toplumu duruma müdahale etmeye çağırdı.",
@@ -668,134 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784811799342xj2s5",
-        "title": "ABD-İran Geriliminde Yeni Dönem: Tahran Baskıya Dayanabilecek mi?",
-        "summary": "ABD ile İran arasındaki ilişkilerde yeni bir gerilim döneminin başladığı belirtiliyor. Daha önce varılan bir ateşkesin ardından ABD'nin İran'a yönelik 'savaşa geri döndüğü' ifade ediliyor. Analist Alex Gatopoulos, mevcut durumun önceki gerilimlerden ne gibi farklılıklar gösterdiğini inceliyor. Haber, İran'ın ABD'den gelen yeni baskılara ne kadar dayanabileceği sorusuna odaklanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36557286/pexels-photo-36557286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T13:03:19.342Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17848059564146ublh",
-        "title": "Rubio: İran, ABD ile Anlaşma İçin 'Yalvarıyor' Ancak Hazır Değil",
-        "summary": "ABD Senatörü Marco Rubio, İran'ın Amerika Birleşik Devletleri ile bir anlaşma yapmak için 'yalvardığını' ancak bu anlaşmayı yapmaya henüz hazır olmadığını belirtti. Öte yandan, ABD Dışişleri Bakanı, ülkesinin 'göze göz' politikası izlediğini ifade etti. Bu açıklamalar, İran'a yönelik saldırıların üst üste on ikinci gece de devam ettiği bir dönemde geldi. Bölgedeki gerilim, diplomatik çabalar ve askeri eylemler arasında gidip gelen karmaşık bir tablo çiziyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T11:25:56.414Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17848059827802g3s5",
-        "title": "Hürmüz'de Hasar Gören Kargo Gemisinin Taylandlı Mürettebatı Sahiplerini Dava Etti",
-        "summary": "Hürmüz Boğazı'nda bir olaya karışarak hasar gören kargo gemisinin Taylandlı mürettebatı, gemi sahiplerine dava açtı. Olayın detayları henüz netleşmezken, mürettebatın geminin uğradığı hasar ve bu durumun kendileri üzerindeki etkileri nedeniyle yasal yollara başvurduğu bildirildi. Bu gelişme, stratejik Hürmüz Boğazı'ndaki deniz güvenliği ve denizcilik sektöründeki sorumluluk konularını yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35608743/pexels-photo-35608743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T11:26:22.780Z",
-        "location": {
-            "lat": 26.25,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784806007059myc8s",
-        "title": "İran ve Husiler Tankerleri Hedef Alırken ABD Bombardımanı Sürüyor",
-        "summary": "Yemen'deki Husilerin deniz ablukası ve İran'ın tanker saldırılarıyla ilişkilendirilmesi, Babülmendep ve Hürmüz boğazlarında deniz taşımacılığında ciddi aksaklıklara yol açmaktadır. ABD'nin bölgedeki bombardımanları devam ederken, bu durum küresel ticaret yolları üzerindeki gerilimi artırmaktadır. Bölgedeki çatışmaların tırmanması, uluslararası deniz güvenliği için endişe yaratmaktadır. Bu gelişmeler, Orta Doğu'daki istikrarsızlığın deniz ticaretine doğrudan etkilerini gözler önüne sermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T11:26:47.059Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784806051760ctdfi",
-        "title": "Filistin Seçim Komisyonu, 28 Kasım'daki yasama seçimi için takvimi duyurdu",
-        "summary": "Filistin Seçim Komisyonu, 28 Kasım'da yapılması planlanan yasama seçimleri için resmi takvimi açıkladı. Başkanlık kararnamesi doğrultusunda, seçmen kayıtları 15 Ağustos tarihinde başlayacak. Aday adaylığı başvuruları ise 26 Eylül'de açılacak. Bu duyuru, Filistin'deki demokratik sürecin işleyişi açısından önemli bir adım olarak değerlendiriliyor ve bölgedeki siyasi gelişmeleri yakından ilgilendiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8849340/pexels-photo-8849340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T11:27:31.760Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-election-commission-announces-timetable-for-nov-28-legislative-vote/4006814",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1784806073112k0ta4",
-        "title": "İsrail Enerji Bakanı: İran ile her türlü senaryoya karşı 'yüksek alarm'dayız",
-        "summary": "İsrail Enerji Bakanı Eli Cohen, Washington ile Tahran arasındaki artan gerilimin ortasında, İsrail'in İran ile yaşanabilecek her türlü senaryoya karşı \"yüksek alarm\" durumunda olduğunu açıkladı. Bakan Cohen, Orta Doğu'yu istikrarsızlaştıran tek bir ülke olduğunu belirterek, İran'ı işaret etti. Cohen, Tahran'ın herhangi bir yanlış adım atması halinde İsrail'in güçlü bir şekilde karşılık vereceği uyarısında bulundu. Bu açıklamalar, bölgedeki mevcut hassas durumu ve İsrail'in İran'a yönelik sert duruşunu bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7927243/pexels-photo-7927243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T11:27:53.112Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-on-high-alert-for-any-scenario-with-iran-amid-washington-tehran-tension-energy-minister/4006792",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784806094621road0",
-        "title": "İsrail, ABD Anlaşmasına Rağmen Güney Lübnan'da İşçiyi Yaraladı, Evleri Yıktı",
-        "summary": "İsrail ordusu, Lübnan'ın güneyindeki Ibl al-Saqi bölgesini hedef alarak bir işçiyi yaraladı ve bazı evleri yıktı. Bu olay, ABD arabuluculuğunda varılan çerçeve anlaşmaya rağmen gerçekleşti. Aynı zamanda, Lübnan ordusunun Zawtar al-Gharbiyeh bölgesindeki konuşlanmasının üçüncü gününe girdiği bildirildi. Bölgedeki gerilim, iki ülke arasındaki sınır hattında devam eden askeri hareketliliği gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T11:28:14.621Z",
-        "location": {
-            "lat": 33.4,
-            "lng": 35.5,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-injures-worker-destroys-homes-in-southern-lebanon-despite-us-brokered-framework-deal/4006786",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784806118818dfpqq",
-        "title": "Umman, Kızıldeniz Gerilimi Ortasında Yemen Yol Haritasını Yeniden Başlatmak İçin Çalışıyor",
-        "summary": "Umman, Suudi Arabistan ve Birleşmiş Milletler (BM) elçisi ile birlikte Yemen barış yol haritasını yeniden başlatmak için çalıştığını duyurdu. Bu açıklama, Yemen'deki Husi grubunun Kızıldeniz'de iki Suudi petrol tankerini balistik füzeler, seyir füzeleri ve insansız hava araçlarıyla hedef alan bir askeri operasyon gerçekleştirdiğini iddia etmesinden kısa bir süre sonra geldi. Bölgedeki artan gerilimler ve Husi saldırıları, Yemen'deki çatışmanın çözümüne yönelik diplomatik çabaların önemini bir kez daha ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14927249/pexels-photo-14927249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T11:28:38.818Z",
-        "location": {
-            "lat": 15,
-            "lng": 48,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-says-working-with-saudi-arabia-un-envoy-to-resume-yemen-road-map-amid-red-sea-tensions/4006778",
         "trendScore": 85,
         "isBreaking": false
     }
