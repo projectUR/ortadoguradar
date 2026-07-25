@@ -1,5 +1,21 @@
 [
     {
+        "id": "17849868607779oeqw",
+        "title": "UCM Başsavcısı Karim Khan Hakkındaki Soruşturmanın Arkasında Ne Var?",
+        "summary": "Uluslararası Ceza Mahkemesi (UCM) Başsavcısı Karim Khan hakkında başlatılan soruşturmanın nedenleri tartışılıyor. Khan'ın avukatları, müvekkillerinin siyasi bir cadı avının kurbanı olduğunu iddia ederek, soruşturmanın siyasi saiklerle yürütüldüğünü belirtti. Bu durum, UCM'nin özellikle Orta Doğu'daki faaliyetleri ve Başsavcı'nın bölgedeki davalara yönelik tutumu göz önüne alındığında uluslararası alanda dikkatle takip ediliyor. Soruşturmanın, Khan'ın görevini ve UCM'nin bağımsızlığını etkileyebileceği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8369521/pexels-photo-8369521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T13:41:00.777Z",
+        "location": {
+            "lat": 52.0787,
+            "lng": 4.2887,
+            "name": "Lahey, Hollanda"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1784979910235w06un",
         "title": "Suriye'de iki otobüs çarpıştı: En az 35 kişi hayatını kaybetti",
         "summary": "Suriye'den gelen son dakika haberlerine göre, ülkenin belirli bir bölgesinde iki otobüsün karıştığı ciddi bir trafik kazası meydana geldi. İlk belirlemelere göre, çarpışma sonucunda en az 35 kişi yaşamını yitirdi. Olay yerine çok sayıda ilk yardım ve kurtarma ekibi sevk edildiği bildirildi. Kazanın nedenine ilişkin henüz resmi bir açıklama yapılmazken, yetkililerin soruşturma başlattığı belirtildi. Yaralıların durumu ve ölü sayısının artıp artmayacağı henüz netlik kazanmadı.",
@@ -780,22 +796,6 @@
             "name": "Yemen"
         },
         "source": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784842686873rstpe",
-        "title": "Almanya'dan Kızıldeniz'deki Husi Saldırılarına Kınama",
-        "summary": "Almanya, Kızıldeniz'de Suudi gemilerine yönelik Husilerin gerçekleştirdiği saldırıları şiddetle kınadığını duyurdu. Alman Şansölyesi Merz, bu pervasız eylemlerin uluslararası seyrüsefer özgürlüğünü ciddi şekilde tehlikeye attığını belirtti. Merz, ayrıca saldırıların bölgedeki mevcut istikrarsızlığı daha da derinleştirme potansiyeli taşıdığı konusunda uyarılarda bulundu. Almanya, uluslararası hukuka saygı ve denizcilik güvenliğinin korunmasının hayati önem taşıdığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380608/pexels-photo-5380608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T21:38:06.873Z",
-        "location": {
-            "lat": 21.48,
-            "lng": 39.19,
-            "name": "Cidde, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/europe/germany-condemns-houthi-attacks-on-saudi-ships-in-red-sea/4007603",
         "trendScore": 85,
         "isBreaking": false
     }
