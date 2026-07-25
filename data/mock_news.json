@@ -1,5 +1,37 @@
 [
     {
+        "id": "1784958311710uzs0f",
+        "title": "Batı Şeria'da Öldürülen Dört Filistinli İçin Cenaze Törenleri Düzenlendi",
+        "summary": "Batı Şeria'da meydana gelen ölümcül bir silahlı saldırıda hayatını kaybeden dört Filistinli için cenaze törenleri düzenlendi. Nablus yakınlarında yaşanan olayda yaşamını yitiren Filistinliler, gece saatlerinde toprağa verildi. Bölgedeki gerilimin yüksek olduğu bir dönemde gerçekleşen bu cenazeler, yerel halk arasında derin bir üzüntüye yol açtı. Olayın ardından bölgede güvenlik önlemleri artırılırken, Filistinli yetkililer uluslararası toplumu duruma müdahale etmeye çağırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10484325/pexels-photo-10484325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T05:45:11.710Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1784958395261pp94c",
+        "title": "Batı Şeria'da Silahlı Saldırıda Dört Filistinli ve İki İsrailli Hayatını Kaybetti",
+        "summary": "Batı Şeria'da meydana gelen silahlı bir olayda dört Filistinli ve iki İsrailli hayatını kaybetti. Olayın nasıl gerçekleştiğine dair taraflardan çelişkili açıklamalar geldi. Filistinli kaynaklar, köylülerin İsrailli yerleşimciler tarafından saldırıya uğradığını öne sürdü. Buna karşılık, İsrail ordusu ise bir Filistinlinin bir silahı ele geçirerek bölgedeki yürüyüşçülere ateş açtığını bildirdi. Bölgede tansiyonun yüksek olduğu bir dönemde yaşanan bu olay, yeni gerilimlere yol açabileceği endişesini taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6090781/pexels-photo-6090781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T05:46:35.261Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1784947997715sbquy",
         "title": "Suudi liderliğindeki koalisyon Husi kontrolündeki Hudeyde'yi vurdu",
         "summary": "Suudi Arabistan liderliğindeki koalisyon güçleri, Yemen'deki Husi kontrolündeki Hudeyde vilayetine hava saldırıları düzenledi. Saldırıların hedefinde, stratejik öneme sahip bu liman kentindeki Husi mevzileri olduğu belirtildi. Hudeyde, Yemen'deki insani yardımların ana giriş noktalarından biri olması nedeniyle uluslararası kamuoyunun yakından takip ettiği bir bölgedir. Bölgedeki çatışmalar, Yemen'deki iç savaşın seyrini etkileyen önemli gelişmeler arasında yer almaktadır.",
@@ -764,38 +796,6 @@
             "name": "Yemen"
         },
         "source": "https://www.aa.com.tr/en/middle-east/oman-says-working-with-saudi-arabia-un-envoy-to-resume-yemen-road-map-amid-red-sea-tensions/4006778",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17847987677691kat1",
-        "title": "Gazze'deki 9.500 Kayıp Kişi İçin Süregelen Acı: 'Ölümden Dönüş' Vakaları Umutları Yeşertiyor",
-        "summary": "Gazze Şeridi'nde yaşanan çatışmaların ardından kayıp olarak bildirilen binlerce kişinin durumu, bölgedeki insani dramı gözler önüne seriyor. Yakın zamanda, ailesi tarafından cenaze töreni düzenlenen bir Filistinlinin sağ olarak geri dönmesi, kayıp yakınlarını bekleyen diğer ailelerin yaşadığı acıyı ve belirsizliği bir kez daha gündeme getirdi. Resmi verilere göre Gazze'de yaklaşık 9.500 kişinin akıbeti hala bilinmiyor ve bu durum, aileler için büyük bir ızdırap kaynağı olmaya devam ediyor. Bu olay, çatışma bölgelerinde kaybolan sivillerin bulunması ve ailelerinin sorularına yanıt verilmesi yönündeki çağrıların önemini vurguluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T09:26:07.769Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178479881245671631",
-        "title": "Gazze'de Barınma Krizi Derinleşiyor",
-        "summary": "Gazze Şeridi'nde, İsrail'in devam eden saldırıları nedeniyle ciddi bir barınma krizi yaşanıyor. Bölgedeki konutların yüzde 92'sinden fazlasının hasar gördüğü veya tamamen yıkıldığı bildirildi. Bu durum, yüz binlerce Gazzelinin evsiz kalmasına veya güvenli olmayan barınaklarda yaşamak zorunda kalmasına yol açıyor. Uluslararası kuruluşlar, insani durumun giderek kötüleştiğini ve acil yardım çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T09:26:52.456Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
