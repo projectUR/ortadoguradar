@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785011229463pbwxm",
+        "title": "İsrail Saldırısında Kuzey Gazze'deki Hamas Yönetimindeki Polisin Başı Öldürüldü",
+        "summary": "Kuzey Gazze'de Hamas yönetimine bağlı polisin başı, İsrail'in düzenlediği bir saldırıda hayatını kaybetti. Bölgedeki gerilim devam ederken, İsrail hava saldırıları sonucunda dört Filistinli daha yaşamını yitirdi. Ayrıca, geçen hafta yaralanan bir polis memuru da aldığı yaralar nedeniyle hayatını kaybetti. Bu olaylar, Gazze Şeridi'ndeki güvenlik durumunun ciddiyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T20:27:09.463Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Kuzey Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17850066933014g1lg",
         "title": "Netanyahu hükümetinin medya reformları İsrail basınında yanlılık riskini artırıyor",
         "summary": "İsrail'de Başbakan Binyamin Netanyahu hükümetinin medya reformları eleştirilere neden oluyor. Eleştirmenler, bu kapsamlı reformların basın özgürlüğünü daha da kısıtlama riski taşıdığını belirtiyor. Ayrıca, reformların İsrail basınındaki mevcut yanlılığı derinleştirebileceği ve seçim bütünlüğünü olumsuz etkileyebileceği konusunda uyarılar yapılıyor. Uzmanlar, söz konusu düzenlemelerin ülkedeki demokratik süreçler üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_us-defence-bill-deepen-military-ties-with-israel-240726?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17848746585049rfbu",
-        "title": "ABD Ordusu İran'a Yönelik Saldırılarını 13. Gece Üst Üste Tamamladı",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) tarafından yapılan açıklamaya göre, ABD ordusu İran'a yönelik 13. gece üst üste hava saldırılarını tamamladı. CENTCOM, bu saldırıların İran'ın askeri komuta merkezlerini, insansız hava aracı (İHA) depolama tesislerini, iletişim ağlarını ve denizcilik kabiliyetlerini hedef aldığını bildirdi. Bu operasyonlar, bölgedeki güvenlik dinamiklerini doğrudan etkileyen ve ABD'nin İran'a karşı askeri baskısını sürdürdüğünü gösteren önemli gelişmeler olarak kaydedildi. Söz konusu eylemler, Orta Doğu'daki gerilimin devam ettiğini ve taraflar arasındaki askeri faaliyetlerin yoğunlaştığını ortaya koyuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12357477/pexels-photo-12357477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-24T06:30:58.504Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/world/us-military-completes-13th-consecutive-night-of-strikes-on-iran-centcom/4007656",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
