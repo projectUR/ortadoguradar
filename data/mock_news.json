@@ -1,5 +1,21 @@
 [
     {
+        "id": "1784947997715sbquy",
+        "title": "Suudi liderliğindeki koalisyon Husi kontrolündeki Hudeyde'yi vurdu",
+        "summary": "Suudi Arabistan liderliğindeki koalisyon güçleri, Yemen'deki Husi kontrolündeki Hudeyde vilayetine hava saldırıları düzenledi. Saldırıların hedefinde, stratejik öneme sahip bu liman kentindeki Husi mevzileri olduğu belirtildi. Hudeyde, Yemen'deki insani yardımların ana giriş noktalarından biri olması nedeniyle uluslararası kamuoyunun yakından takip ettiği bir bölgedir. Bölgedeki çatışmalar, Yemen'deki iç savaşın seyrini etkileyen önemli gelişmeler arasında yer almaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38042564/pexels-photo-38042564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T02:53:17.715Z",
+        "location": {
+            "lat": 14.8,
+            "lng": 42.95,
+            "name": "Hudeyde, Yemen"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1784936056287kww6a",
         "title": "İran Dışişleri Bakanı Araghchi: \"Kimseden Korkmuyoruz\"",
         "summary": "İran Dışişleri Bakanı Abbas Araghchi, ülkesinin tehditlerden korkmadığını ve baskılara boyun eğmeyeceğini açıkladı. Bakan Araghchi, İran'ın uluslararası arenadaki duruşunu ve dış politikadaki kararlılığını vurgulayan bu ifadeleri kullandı. Bu tür açıklamalar, genellikle İran'a yönelik uluslararası yaptırımlar, nükleer müzakereler veya bölgesel gerilimler gibi konuların gündemde olduğu dönemlerde dile getiriliyor. İranlı yetkililer, ulusal çıkarlarını koruma ve egemenliklerini savunma konusundaki kararlılıklarını sıkça dile getirmektedir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17847988361244a8d8",
-        "title": "ABD'nin İran-Irak Sınır Kapısına Saldırısı Paniğe Yol Açtı",
-        "summary": "ABD'nin İran-Irak sınır kapısına düzenlediği saldırı, bölgedeki yolcular arasında büyük paniğe neden oldu. Olayın detayları henüz netleşmezken, saldırının sınır geçiş noktasında gerçekleştiği bildirildi. Bölgedeki güvenlik durumu endişe yaratırken, uluslararası toplumdan gelişmeleri yakından takip etme çağrıları yapılıyor. Saldırının bölgedeki gerilimi artırabileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35122735/pexels-photo-35122735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-23T09:27:16.124Z",
-        "location": {
-            "lat": 33,
-            "lng": 46,
-            "name": "İran-Irak Sınırı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss",
-        "trendScore": 95,
-        "isBreaking": true
     }
 ]
