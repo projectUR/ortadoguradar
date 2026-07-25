@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785022485226lsefl",
+        "title": "İran, Ukrayna'yı Hazar Denizi'ndeki Ticari Gemiye Saldırmakla Suçladı",
+        "summary": "İran, Ukrayna'yı Hazar Denizi'nde seyreden ticari bir gemiye ölümcül bir saldırı düzenlemekle itham etti. Tahran yönetimi tarafından yapılan açıklamada, söz konusu saldırı sonucunda bir denizcinin hayatını kaybettiği, bir diğerinin ise yaralandığı belirtildi. İran, bu eylemi 'suç teşkil eden bir fiil' olarak nitelendirerek kınadı. Olayın, Hazar Denizi'ndeki denizcilik güvenliği ve bölgesel ilişkiler üzerinde potansiyel etkileri olabileceği ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38065140/pexels-photo-38065140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-25T23:34:45.226Z",
+        "location": {
+            "lat": 36.5,
+            "lng": 50,
+            "name": "Hazar Denizi, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17850186699965pm76",
         "title": "İran, Hazar Denizi'ndeki Gemisine Ukrayna Saldırısı İddia Etti",
         "summary": "İran, Hazar Denizi'ndeki bir gemisine Ukrayna tarafından saldırı düzenlendiğini iddia etti. Tahran yönetimi, söz konusu saldırıda bir denizcinin hayatını kaybettiğini, bir diğerinin ise yaralandığını açıkladı. İran, bu olayı 'saldırganlık eylemi' olarak nitelendirerek kınadı ve çıkarlarını savunma konusunda uyarıda bulundu.",
@@ -780,22 +796,6 @@
             "name": "Manila, Filipinler"
         },
         "source": "https://www.aa.com.tr/en/asia-pacific/chinese-asean-foreign-ministers-call-for-immediate-end-to-mideast-conflict-amid-us-iran-war/4007672",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784884114196e59qt",
-        "title": "İran, ABD'nin Dondurulmuş Varlıkları Kullanma Planının Tehlikeli Bir Emsal Teşkil Edeceği Konusunda Uyardı",
-        "summary": "İran, ABD'nin dondurulmuş varlıklarını Hürmüz Boğazı'ndaki gemi hasarlarını karşılamak için kullanma planına karşı sert bir uyarıda bulundu. Dışişleri Bakanı Abbas Araghchi, bu tür bir adımın uluslararası hukukta tehlikeli bir emsal oluşturacağını belirtti. Araghchi, hiçbir ülkenin fonlarının güvende olmayacağını vurgulayarak, bu durumun uluslararası sistemde 'kaosa' yol açabileceği konusunda uyardı. İranlı yetkili, ABD'nin bu planının küresel finansal güvenliği ve devletlerin egemenliğini tehdit ettiğini ifade etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9156149/pexels-photo-9156149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-24T09:08:34.196Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-warns-trumps-plan-to-use-frozen-assets-to-cover-damage-to-ships-in-hormuz-sets-dangerous-precedent/4007668",
         "trendScore": 85,
         "isBreaking": false
     }
