@@ -1,5 +1,53 @@
 [
     {
+        "id": "17850854912470txnr",
+        "title": "Lübnan Ordusu: İsrail, Güney Lübnan'daki Pilot Bölgelerin Kontrolünü Engelliyor",
+        "summary": "Lübnan ordusu, İsrail'in ülkenin güneyindeki 'pilot köyleri' bombalayarak mevcut anlaşmaları ihlal ettiğini iddia etti. Yapılan açıklamada, İsrail'in bu eylemleriyle Lübnan'ın güneyindeki pilot bölgelerin kontrolünün ele geçirilmesini engellediği belirtildi. Lübnan askeri yetkilileri, İsrail'in bu tür ihlallerinin bölgedeki gerilimi artırdığını ve uluslararası hukuka aykırı olduğunu vurguladı. Bu durum, iki ülke arasındaki hassas sınır bölgesindeki mevcut anlaşmazlıkları yeniden gündeme getirdi ve bölgedeki istikrarsızlık endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849395/pexels-photo-11849395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T17:04:51.247Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17850855157367sb7m",
+        "title": "Kuzey Afrika'da Aşırı Sıcaklar Büyük Orman Yangınlarını Tetikliyor",
+        "summary": "Kuzey Afrika genelinde etkili olan aşırı sıcak hava dalgası, Tunus, Cezayir ve Fas başta olmak üzere bölgenin birçok yerinde büyük orman yangınlarını tetikledi. Yüksek sıcaklıklar ve kuru hava koşulları, yangınların hızla yayılmasına neden oluyor. Yerel yetkililer ve itfaiye ekipleri, alevleri kontrol altına almak için yoğun çaba sarf ederken, yangınlar yerleşim yerlerini ve doğal yaşam alanlarını tehdit ediyor. Bölge, yaz aylarında sıkça benzer felaketlerle karşı karşıya kalmakta olup, iklim değişikliğinin etkileri bu tür olayların şiddetini artırıyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/18047430/pexels-photo-18047430.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T17:05:15.736Z",
+        "location": {
+            "lat": 30,
+            "lng": 5,
+            "name": "Kuzey Afrika"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/26/heatwave-drives-major-wildfires-across-north-africa?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1785085536229xhzkg",
+        "title": "Darfur: Kimliğin Silah Haline Getirilmesi",
+        "summary": "Sudan'ın Darfur bölgesinde yaşanan çatışmaların temelinde kimliğin bir silah olarak kullanılması yatıyor. Haber, bölgedeki arazi anlaşmazlıkları, devletin ihmali ve ırkçı ideolojilerin, Darfur'u iddia edilen bir soykırımın eşiğine getiren ana faktörler olduğunu belirtiyor. Bu unsurların birleşimi, bölgedeki şiddeti tırmandırarak ciddi bir insani krize yol açmış durumda. Analiz, bu dinamiklerin çatışmaları nasıl körüklediğini ve uzun süredir devam eden istikrarsızlığa nasıl katkıda bulunduğunu inceliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12823548/pexels-photo-12823548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T17:05:36.229Z",
+        "location": {
+            "lat": 13.6333,
+            "lng": 25.3333,
+            "name": "Darfur, Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785080420490vm7dm",
         "title": "Tunus, Said'in iktidarı ele geçirmesinden bu yana beş yıllık krizle mücadele ediyor",
         "summary": "Tunus'ta, Cumhurbaşkanı Kays Said'in iktidara gelmesinin beşinci yıl dönümünde ülke genelinde protestolar düzenlendi. Göstericiler, Said'in yönetimini derinleşen ekonomik kriz ve artan siyasi tutuklamalar nedeniyle sert bir dille eleştirdi. Ülke, Said'in iktidarı ele geçirmesinden bu yana siyasi istikrarsızlık ve ekonomik zorluklarla mücadele ediyor. Bu durum, Tunus toplumunda geniş çaplı memnuniyetsizliğe ve insan hakları endişelerine yol açıyor.",
@@ -748,54 +796,6 @@
             "name": "Taiz, Yemen"
         },
         "source": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784974213576mspbe",
-        "title": "BM Genel Sekreteri Guterres, Şam Ziyaretinde Suriye Devlet Başkanı ile Görüştü",
-        "summary": "Birleşmiş Milletler Genel Sekreteri António Guterres, Suriye'nin başkenti Şam'a önemli bir ziyaret gerçekleştirdi. Bu ziyaret sırasında Guterres, Suriye Devlet Başkanı ile bir araya geldi. Söz konusu görüşme, bir BM Genel Sekreteri'nin 2009 yılından bu yana Suriye'ye yaptığı ilk ziyaret olarak kayıtlara geçti. Bu tarihi ziyaretin, Suriye'deki mevcut durum ve uluslararası toplumun bölgeye yaklaşımı açısından diplomatik öneme sahip olduğu belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T10:10:13.576Z",
-        "location": {
-            "lat": 33.5132,
-            "lng": 36.2916,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/politics/un-chief-guterres-meets-syrian-president-during-landmark-damascus-visit/4008949",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784974237406tsybu",
-        "title": "BM raportörü, işgal altındaki Batı Şeria'daki İsrail saldırılarını 'pogrom' olarak nitelendirdi",
-        "summary": "Birleşmiş Milletler raportörü Francesca Albanese, işgal altındaki Batı Şeria'da sivillere yönelik İsrail saldırılarını 'pogrom' olarak tanımladı. Albanese, İsrailli siviller ve ordunun bu saldırılarda 'güçlerini birleştirdiğini' iddia etti. Raportör, uluslararası topluma acil bir silah ambargosu uygulama ve İsrail ile ticari ilişkileri durdurma çağrısında bulundu. Bu açıklamalar, bölgedeki gerilimi ve uluslararası kamuoyunun dikkatini yeniden İsrail-Filistin çatışmasına çekti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9818608/pexels-photo-9818608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T10:10:37.406Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-rapporteur-calls-israeli-attacks-in-occupied-west-bank-civilians-pogroms-/4008948",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784974257881b9m3c",
-        "title": "İsrail ordusu Batı Şeria genelinde en az 70 Filistinliyi gözaltına aldı",
-        "summary": "İsrail ordusu, Batı Şeria genelinde düzenlediği operasyonlarda en az 70 Filistinliyi gözaltına aldı. Operasyonlar sırasında işgalcilerin saldırılarında 8 kişinin yaralandığı bildirildi. İsrail güçleri, Nablus yakınlarındaki Tell kasabasında 40'tan fazla Filistinliyi gözaltına alırken, Cenin'de 6, Beytüllahim'de 3, El Halil'de 8 ve Ramallah ile El Bireh'te 13 Filistinliyi daha tutukladı. Bu gözaltılar, bölgedeki gerilimi artırmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7773268/pexels-photo-7773268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T10:10:57.881Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.21,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-at-least-70-palestinians-across-west-bank-8-injured-in-attack-by-occupiers/4008820",
         "trendScore": 85,
         "isBreaking": false
     }
