@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785080420490vm7dm",
+        "title": "Tunus, Said'in iktidarı ele geçirmesinden bu yana beş yıllık krizle mücadele ediyor",
+        "summary": "Tunus'ta, Cumhurbaşkanı Kays Said'in iktidara gelmesinin beşinci yıl dönümünde ülke genelinde protestolar düzenlendi. Göstericiler, Said'in yönetimini derinleşen ekonomik kriz ve artan siyasi tutuklamalar nedeniyle sert bir dille eleştirdi. Ülke, Said'in iktidarı ele geçirmesinden bu yana siyasi istikrarsızlık ve ekonomik zorluklarla mücadele ediyor. Bu durum, Tunus toplumunda geniş çaplı memnuniyetsizliğe ve insan hakları endişelerine yol açıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11421274/pexels-photo-11421274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T15:40:20.490Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785080456555uy2ha",
+        "title": "Batı Şeria'da Silahlı Saldırıda Dört Filistinli ve İki İsrailli Hayatını Kaybetti",
+        "summary": "Batı Şeria'da meydana gelen silahlı saldırıda dört Filistinli ve iki İsrailli yaşamını yitirdi. Olayla ilgili çelişkili açıklamalar yapıldı. Filistinli kaynaklar, köylülerin yerleşimciler tarafından saldırıya uğradığını belirtirken, İsrail ordusu ise bir Filistinlinin silah çalarak yürüyüşçülere ateş açtığını iddia etti. Bölgede gerilimin yükseldiği gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34303423/pexels-photo-34303423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T15:40:56.555Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin/İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785074930888snpny",
         "title": "Yemen'de Sağlık Çalışanları Ölümcül Dang Humması Salgınıyla Mücadele Ediyor",
         "summary": "Yemen'de sağlık çalışanları, ülkeyi etkisi altına alan ölümcül dang humması salgınıyla mücadele ediyor. Sivrisinek kaynaklı bu hastalığın yayılmasını durdurmak için yoğun çaba sarf ediliyor. Artan enfeksiyon vakaları endişe yaratırken, sağlık sisteminin kırılganlığı salgının kontrol altına alınmasını zorlaştırıyor. Ülke genelinde hastalığın yayılımını engellemek ve halk sağlığını korumak amacıyla acil önlemler alınmaya çalışılıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-at-least-70-palestinians-across-west-bank-8-injured-in-attack-by-occupiers/4008820",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784967005168zop8h",
-        "title": "Gazze'de Prematüre Bebekler Hayatta Kalma Mücadelesi Veriyor",
-        "summary": "Gazze Şeridi'nde devam eden çatışmalar, bölgedeki insani durumu ağırlaştırmaya devam ediyor. Son raporlar, çatışmaların etkisiyle prematüre doğum oranlarında önemli bir artış yaşandığını gösteriyor. Sağlık altyapısının ciddi şekilde zarar görmesi ve annelerin yaşadığı stres, bu artışın temel nedenleri arasında yer alıyor. Erken doğan bebekler, yetersiz tıbbi imkanlar ve kaynaklar nedeniyle hayatta kalma mücadelesi veriyor. Bu durum, hem annelerin hem de prematüre bebeklerin sağlığını ve yaşamını ciddi şekilde tehdit ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/15961870/pexels-photo-15961870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:10:05.168Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784967026559zejp0",
-        "title": "BM Genel Sekreteri Guterres, 17 yıl sonra Suriye'ye ilk resmi ziyaretini gerçekleştirdi",
-        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, 17 yıl aradan sonra bir BM Genel Sekreteri tarafından gerçekleştirilen ilk resmi ziyaret kapsamında Suriye'ye ulaştı. Guterres'in ziyareti, ülkedeki insani durum ve siyasi gelişmelerin ele alınması açısından büyük önem taşıyor. Ziyaret sırasında BM Genel Sekreteri, Suriye Devlet Başkanı Ahmed el-Şaraa ile bir araya gelecek. El-Şaraa'nın, geçen yıla kadar Birleşmiş Milletler Güvenlik Konseyi yaptırımları altında olduğu biliniyor. Bu görüşmenin, Suriye'nin uluslararası toplumla ilişkileri ve ülkenin geleceği açısından kritik mesajlar içermesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:10:26.559Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
