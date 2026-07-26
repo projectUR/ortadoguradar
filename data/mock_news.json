@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785096652546t07zi",
+        "title": "ABD'nin Savaş Kapsamının Hürmüz Ötesine Genişlemesiyle İran Ekonomisinin Geleceği",
+        "summary": "ABD'nin savaş kapsamının Hürmüz Boğazı'nın ötesine genişlemesiyle İran ekonomisinin geleceğine dair endişeler artıyor. Bölgedeki gerilimin yükselmesi, uluslararası su yollarında yeni aksaklık risklerini beraberinde getiriyor. Bu durum, İran ekonomisi üzerinde ciddi baskı oluşturarak belirsizliği artırıyor. Diplomatik arabuluculuk çabaları devam etse de, mevcut riskler nedeniyle geleceğe yönelik kaygılar sürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T20:10:52.546Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785096674969mpmmb",
+        "title": "Suriye, İsrail ile Güvenlik Anlaşması İçin Çalıştığını Açıkladı",
+        "summary": "Suriye Devlet Başkanı Ahmed el-Şaraa, Şam yönetiminin İsrail ile bir güvenlik anlaşması üzerinde çalıştığını duyurdu. Şaraa, bu girişimin Suriye'nin İsrail ve Lübnan ile olan ilişkilerinde benimsediği güvenlik odaklı yaklaşımın bir parçası olduğunu belirtti. Suriye lideri, bölgedeki istikrarın sağlanması ve gerilimlerin azaltılması açısından bu tür bir anlaşmanın önemini vurguladı. Açıklama, Orta Doğu'daki güvenlik dinamiklerine dair yeni bir gelişme olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T20:11:14.969Z",
+        "location": {
+            "lat": 33.51,
+            "lng": 36.29,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178509677633192eay",
+        "title": "Suriye Dışişleri Bakanı: Ülke, BM Genel Sekreteri'nin ziyaretine 'kritik toparlanma ve istikrar aşamasında' değer veriyor",
+        "summary": "Suriye Dışişleri Bakanı, ülkesinin Birleşmiş Milletler (BM) Genel Sekreteri'nin ziyaretine büyük önem verdiğini belirtti. Bakan, Suriye'nin toparlanma ve istikrar yolunda \"kritik bir aşamadan\" geçtiğini vurguladı. Asaad al-Shaibani'nin açıklamasına göre, bir zamanlar kriz bölgesi olarak görülen Suriye, bugün BM içinde aktif ve sorumlu bir ortak olarak konumunu yeniden kazanıyor. Bu durum, ülkenin uluslararası arenadaki rolünü güçlendirme çabalarının bir göstergesi olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T20:12:56.331Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-values-un-chief-s-visit-amid-pivotal-phase-of-recovery-stability-foreign-minister/4009995",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17850907476080san8",
         "title": "El Şaraa, Trump'ın Suriye'yi terör listesinden çıkarma kararını övdü",
         "summary": "Suriye'den bir yetkili olan El Şaraa, eski ABD Başkanı Donald Trump'ın Suriye'yi terör listesinden çıkarma kararını olumlu karşıladığını belirtti. Bu tür bir kararın, Suriye üzerindeki uluslararası yaptırımların hafiflemesine ve ülkenin küresel arenadaki konumunun iyileşmesine yol açacağı düşünülmektedir. Terör listesinden çıkarılma, Suriye'nin ekonomik toparlanması ve diplomatik ilişkilerinin normalleşmesi açısından kritik bir adım olarak görülmektedir. Karar, ABD'nin Suriye politikalarında önemli bir değişiklik anlamına gelmekle birlikte, Şam yönetimi tarafından memnuniyetle karşılanmıştır.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/any-violation-of-syrias-territorial-integrity-unacceptable-un-chief/4009148",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17849868607779oeqw",
-        "title": "UCM Başsavcısı Karim Khan Hakkındaki Soruşturmanın Arkasında Ne Var?",
-        "summary": "Uluslararası Ceza Mahkemesi (UCM) Başsavcısı Karim Khan hakkında başlatılan soruşturmanın nedenleri tartışılıyor. Khan'ın avukatları, müvekkillerinin siyasi bir cadı avının kurbanı olduğunu iddia ederek, soruşturmanın siyasi saiklerle yürütüldüğünü belirtti. Bu durum, UCM'nin özellikle Orta Doğu'daki faaliyetleri ve Başsavcı'nın bölgedeki davalara yönelik tutumu göz önüne alındığında uluslararası alanda dikkatle takip ediliyor. Soruşturmanın, Khan'ın görevini ve UCM'nin bağımsızlığını etkileyebileceği belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8369521/pexels-photo-8369521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T13:41:00.777Z",
-        "location": {
-            "lat": 52.0787,
-            "lng": 4.2887,
-            "name": "Lahey, Hollanda"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784979910235w06un",
-        "title": "Suriye'de iki otobüs çarpıştı: En az 35 kişi hayatını kaybetti",
-        "summary": "Suriye'den gelen son dakika haberlerine göre, ülkenin belirli bir bölgesinde iki otobüsün karıştığı ciddi bir trafik kazası meydana geldi. İlk belirlemelere göre, çarpışma sonucunda en az 35 kişi yaşamını yitirdi. Olay yerine çok sayıda ilk yardım ve kurtarma ekibi sevk edildiği bildirildi. Kazanın nedenine ilişkin henüz resmi bir açıklama yapılmazken, yetkililerin soruşturma başlattığı belirtildi. Yaralıların durumu ve ölü sayısının artıp artmayacağı henüz netlik kazanmadı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/48125/firefighter-extinguish-fire-extinction-48125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T11:45:10.235Z",
-        "location": {
-            "lat": 34,
-            "lng": 38,
-            "name": "Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1784979985240g4pib",
-        "title": "BM Genel Sekreteri Guterres: 'BM bu kritik anda Suriye'nin yanındadır'",
-        "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, örgütün \"bu kritik anda Suriye'nin yanında olduğunu\" belirtti. Guterres, uluslararası topluma Suriye halkını desteklemek için \"hiçbir çabadan kaçınmama\" çağrısında bulundu. Bu açıklama, Suriye'deki mevcut insani ve siyasi zorluklara dikkat çekiyor. BM'nin, ülkedeki durumu iyileştirmeye yönelik uluslararası iş birliğinin önemini vurguladığı kaydedildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15393153/pexels-photo-15393153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T11:46:25.240Z",
-        "location": {
-            "lat": 34.8,
-            "lng": 38,
-            "name": "Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/world/un-stands-with-syria-at-this-pivotal-moment-says-chief-guterres/4009021",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
