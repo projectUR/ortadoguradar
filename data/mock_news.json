@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785074930888snpny",
+        "title": "Yemen'de Sağlık Çalışanları Ölümcül Dang Humması Salgınıyla Mücadele Ediyor",
+        "summary": "Yemen'de sağlık çalışanları, ülkeyi etkisi altına alan ölümcül dang humması salgınıyla mücadele ediyor. Sivrisinek kaynaklı bu hastalığın yayılmasını durdurmak için yoğun çaba sarf ediliyor. Artan enfeksiyon vakaları endişe yaratırken, sağlık sisteminin kırılganlığı salgının kontrol altına alınmasını zorlaştırıyor. Ülke genelinde hastalığın yayılımını engellemek ve halk sağlığını korumak amacıyla acil önlemler alınmaya çalışılıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33221123/pexels-photo-33221123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T14:08:50.888Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17850749679605uupa",
+        "title": "İsrailli Yerleşimciler İşgal Altındaki Batı Şeria'da Camileri Ateşe Verdi",
+        "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimcilerin Filistin topraklarında iki camiyi ateşe verdiği bildirildi. Bu saldırılar, bölgedeki gerilimi tırmandırırken, İsrail Başbakanı Binyamin Netanyahu'dan \"daha geniş çaplı eylem\" tehdidi geldi. Olaylar, yerleşimcilerin bölgedeki eylemlerinin şiddetini artırdığını gösteriyor. Filistinliler, bu tür saldırıların uluslararası hukuka aykırı olduğunu belirtirken, İsrail hükümetinin yerleşimcileri durdurmak için yeterli önlemi almadığını savunuyor. Bölgedeki güvenlik durumu endişe verici seviyeye ulaştı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33364331/pexels-photo-33364331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T14:09:27.960Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785075082296iafng",
+        "title": "BM Genel Sekreteri: Suriye'nin 'refah dolu bir gelecek inşa etme fırsatı' var, Sednaya Esad rejiminin vahşetini gösteriyor",
+        "summary": "Birleşmiş Milletler Genel Sekreteri, Suriye'nin 'refah dolu bir gelecek inşa etme fırsatına' sahip olduğunu ifade etti. Genel Sekreter, Sednaya askeri cezaevini ziyaret ederek, 'Sednaya askeri cezaevi, önceki Suriye rejimi dönemindeki baskının ne kadar korkunç olduğunu gösteriyor' açıklamasında bulundu. Bu ziyaret ve açıklamalar, Suriye'deki insan hakları durumu ve ülkenin geleceği üzerine uluslararası toplumun dikkatini çekiyor. BM Genel Sekreteri'nin bu sözleri, Esad rejiminin geçmişteki uygulamalarına dair eleştirileri yeniden gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38558944/pexels-photo-38558944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T14:11:22.296Z",
+        "location": {
+            "lat": 33.68,
+            "lng": 36.38,
+            "name": "Sednaya, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-has-moment-of-opportunity-to-build-prosperous-future-sednaya-shows-brutality-of-assad-s-regime-un-chief/4009731",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785067508925izrmz",
         "title": "İran Ordusu, Netanyahu'nun ABD Ziyareti Öncesi Uyarı Yayımladı",
         "summary": "İran ordusu, İsrail Başbakanı Binyamin Netanyahu'nun ABD'ye yapacağı ziyaret öncesinde önemli bir açıklama yaptı. Tahran yönetimi, Basra Körfezi'ndeki misilleme operasyonlarını durdurduğunu bildirdi. Ancak İran, ABD'nin bölgedeki saldırılarının devam etmesi halinde savaşın genişleyebileceği konusunda sert bir uyarıda bulundu. Bu açıklama, Orta Doğu'daki mevcut gerilimin potansiyel tırmanışına dikkat çekiyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1784967082703ti65f",
-        "title": "'Suçları neydi?': BBC, İran'da 120 çocuğun öldüğü okulu ziyaret etti",
-        "summary": "BBC, İran'ın Minab kentinde 120 çocuğun hayatını kaybettiği bir okulu ziyaret etti. Haberde, saldırının üzerinden yaklaşık beş ay geçmesine rağmen, bir öğretmen ve bir annenin yaşadığı derin acı ve olayın dehşeti aktarıldı. Ziyaret sırasında, kurbanların yakınlarının hissettiği taze yas ve olayın toplumsal etkileri vurgulandı. Bu trajik olay, bölgedeki çocukların güvenliği ve insani durumla ilgili endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14136477/pexels-photo-14136477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:11:22.703Z",
-        "location": {
-            "lat": 27.15,
-            "lng": 57.08,
-            "name": "Minab, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784967106260djbxc",
-        "title": "Yemen Hükümeti, Suudi Liderliğindeki Koalisyonla İşbirliği Sözü Verdi",
-        "summary": "Yemen hükümeti, Husilerin neden olduğu gerilimin ortasında, su yollarını korumak ve tehditleri caydırmak amacıyla Suudi liderliğindeki koalisyonla işbirliği yapma sözü verdi. Başkanlık Liderlik Konseyi başkanı, Husileri gerilimi azaltma fırsatlarını baltalamakla suçladı. Konsey başkanı ayrıca, Husilerin \"ülkeyi İran rejiminin gündemine hizmet etmek için ardışık krizlere sürüklediğini\" belirtti. Bu açıklama, bölgedeki deniz güvenliğinin ve istikrarın sağlanması yönündeki ortak çabaların önemini vurgulamaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14927253/pexels-photo-14927253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:11:46.260Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-gov-t-vows-cooperation-with-saudi-led-coalition-to-protect-waterways-deter-threats-amid-houthi-tension/4008886",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784967129873r8zpe",
-        "title": "Mısır Dışişleri Bakanı, İranlı ve Ummanlı Mevkidaşlarıyla Bölgesel Gerilimi Azaltma ve Deniz Güvenliğini Görüştü",
-        "summary": "Mısır Dışişleri Bakanı Badr Abdelatty, İranlı ve Ummanlı mevkidaşlarıyla bir araya gelerek Orta Doğu'daki bölgesel gerilimin azaltılması ve deniz güvenliği konularını ele aldı. Görüşmelerde, askeri tırmanışın derhal durdurulması gerektiği vurgulandı. Bakan Abdelatty, özellikle Hürmüz Boğazı ve Kızıldeniz'deki seyrüseferin korunmasının hayati önem taşıdığını belirtti. Taraflar, bölgedeki istikrarın sağlanması ve ortak çıkarların korunması için diplomatik çabaların sürdürülmesi konusunda mutabık kaldı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:12:09.873Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu Bölgesi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egyptian-foreign-minister-discusses-regional-de-escalation-maritime-security-with-iranian-omani-counterparts/4008880",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
