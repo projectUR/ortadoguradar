@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785067508925izrmz",
+        "title": "İran Ordusu, Netanyahu'nun ABD Ziyareti Öncesi Uyarı Yayımladı",
+        "summary": "İran ordusu, İsrail Başbakanı Binyamin Netanyahu'nun ABD'ye yapacağı ziyaret öncesinde önemli bir açıklama yaptı. Tahran yönetimi, Basra Körfezi'ndeki misilleme operasyonlarını durdurduğunu bildirdi. Ancak İran, ABD'nin bölgedeki saldırılarının devam etmesi halinde savaşın genişleyebileceği konusunda sert bir uyarıda bulundu. Bu açıklama, Orta Doğu'daki mevcut gerilimin potansiyel tırmanışına dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849395/pexels-photo-11849395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T12:05:08.925Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178506753232995m7w",
+        "title": "Filistinlilere Karşı Yerleşimci Savaş Suçlarına Hesap Sorulmaması",
+        "summary": "Başlık, İsrailli yerleşimcilerin Filistinlilere karşı işlediği iddia edilen savaş suçlarına ilişkin hesap verilebilirlik eksikliğini vurgulamaktadır. Bu durum, İsrail-Filistin çatışmasının önemli bir boyutunu oluşturmakta ve uluslararası insan hakları örgütleri tarafından sıkça eleştirilmektedir. Haber, bu tür eylemlerin cezasız kalmasının bölgedeki gerilimi artırdığına ve adaletin sağlanamadığına dikkat çekmektedir. Hesap verilebilirliğin olmaması, bölgede kalıcı barış ve adaletin tesis edilmesi çabalarını baltalayan önemli bir sorun olarak görülmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12634980/pexels-photo-12634980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T12:05:32.329Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785067556972gb3ef",
+        "title": "Orta Doğu Gerilimi Nedeniyle Ertelenen Bahreyn Grand Prix, Malezya'da Yapılacak",
+        "summary": "Bahreyn Grand Prix Formula 1 yarışı, ABD-İsrail'in İran'a karşı savaşı nedeniyle Nisan ayında ertelenmişti. Yarışın Ekim ayında Malezya'da düzenleneceği açıklandı. Orta Doğu'daki artan gerilim ve güvenlik endişeleri, Bahreyn'de yapılması planlanan bu uluslararası etkinliğin yerinin değiştirilmesine yol açtı. Bu karar, bölgesel istikrarsızlığın küresel spor organizasyonları üzerindeki etkilerini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T12:05:56.972Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "178506293508906az5",
         "title": "İsrailli Protestocular Ölümcül Yerleşimci Şiddetini Kınadı",
         "summary": "Tel Aviv'de onlarca İsrailli aktivist, işgal altındaki Batı Şeria'da yaşanan yerleşimci şiddetini protesto etmek amacıyla bir araya geldi. Göstericiler, yerleşimcilerin Filistinlilere yönelik artan ve ölümcül boyutlara ulaşan şiddet eylemlerini kınadı. Aktivistler, İsrail hükümetine bu tür olaylara karşı daha sert önlemler alması ve sorumluları adalete teslim etmesi çağrısında bulundu. Protesto, bölgedeki gerilimin tırmandığı ve uluslararası toplumun endişelerini dile getirdiği bir dönemde gerçekleşti.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/egyptian-foreign-minister-discusses-regional-de-escalation-maritime-security-with-iranian-omani-counterparts/4008880",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17849671519420sg9y",
-        "title": "İsrail ordusu Batı Şeria genelinde en az 48 Filistinliyi gözaltına aldı, işgalcilerin saldırısında 8 kişi yaralandı",
-        "summary": "İsrail güçleri, Batı Şeria'da düzenlediği operasyonlarda en az 48 Filistinliyi gözaltına aldı. Operasyonlar kapsamında Nablus yakınlarındaki Tell bölgesinde 40'tan fazla Filistinli, Cenin vilayetinde 5 ve Beytüllahim'de 3 Filistinli gözaltına alındı. Haber kaynakları, işgalcilerin saldırıları sonucunda 8 kişinin de yaralandığını bildirdi. Bu gözaltı ve saldırılar, bölgedeki gerilimi artırmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10475178/pexels-photo-10475178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:12:31.942Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-detains-at-least-48-palestinians-across-west-bank-8-injured-in-attack-by-occupiers/4008820",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1784967172330vdwe4",
-        "title": "BM Genel Sekreteri Guterres, 2009'dan Bu Yana İlk Kez Şam'a Ulaştı",
-        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, 2009 yılından bu yana bir BM Genel Sekreteri tarafından gerçekleştirilen ilk ziyaret kapsamında Suriye'nin başkenti Şam'a vardı. Guterres, Şam Uluslararası Havalimanı'nda Suriye Dışişleri Bakanı Asaad el-Şaibani tarafından karşılandı. Bu ziyaretin, Suriye'deki mevcut insani durum ve siyasi çözüm çabaları açısından büyük önem taşıdığı belirtiliyor. BM Genel Sekreteri'nin, Suriye Devlet Başkanı Ahmad Al-Şaraa ile bir araya gelmesi bekleniyor. Ziyaretin, ülkedeki krizin uluslararası gündemdeki yerini yeniden güçlendirmesi hedefleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:12:52.330Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-chief-guterres-arrives-in-damascus-on-first-visit-by-secretary-general-since-2009/4008810",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17849671960085s54v",
-        "title": "ABD kamuoyu İsrail'e karşı giderek olumsuzlaşıyor, anketler gösteriyor",
-        "summary": "ABD'de yapılan son anketler, kamuoyunun İsrail'e yönelik tutumunda belirgin bir olumsuzlaşma olduğunu ortaya koydu. Araştırmalar, bu eleştirel yaklaşımın siyasi parti ayrımı gözetmeksizin geniş bir yelpazede arttığını gösteriyor. Özellikle genç Cumhuriyetçiler arasında İsrail'e verilen desteğin azaldığı dikkat çekiyor. Bu durum, ABD'nin Orta Doğu politikaları ve İsrail ile ilişkileri üzerinde potansiyel etkiler yaratabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7103126/pexels-photo-7103126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T08:13:16.008Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-public-opinion-increasingly-negative-toward-israel-polls-show/4008793",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
