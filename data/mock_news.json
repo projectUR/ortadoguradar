@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785035874192yrufw",
+        "title": "Tel Aviv'de Batı Şeria Yerleşimci Şiddetine Karşı Protestoda Dokuz Kişi Gözaltına Alındı",
+        "summary": "İsrail'in Tel Aviv kentinde, Batı Şeria'daki yerleşimci şiddetini protesto eden göstericilere polis müdahale etti. Protesto grubunun açıklamasına göre, Batı Şeria'da yaşanan büyük bir şiddet tırmanışının ertesi günü İsrail'in başkentinde en az 200 kişi gösteri düzenledi. Gösteriler sırasında dokuz kişinin gözaltına alındığı bildirildi. Olaylar, bölgedeki gerilimin arttığı bir dönemde yaşandı ve yerleşimci şiddetine karşı toplumsal tepkileri yansıttı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11421274/pexels-photo-11421274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T03:17:54.192Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785035960076opom6",
+        "title": "İsrail, işgal altındaki Batı Şeria'da 763 yeni yerleşim birimi ve Eli yerleşiminin üç kat genişletilmesini planlıyor",
+        "summary": "İsrail'in, işgal altındaki Batı Şeria'da 763 yeni yerleşim birimi inşa etmeyi planladığı bildirildi. Maliye Bakanı Bezalel Smotrich, Nablus'un güneyinde bulunan Eli yerleşiminin önümüzdeki yıllarda üç katına çıkarılacağını açıkladı. Bu proje ile Eli yerleşiminin mevcut büyüklüğünün önemli ölçüde artırılması ve yerleşimci sayısının artırılması hedefleniyor. Söz konusu plan, uluslararası toplum tarafından yasa dışı kabul edilen yerleşim faaliyetlerinin devamı niteliğinde olup bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14185798/pexels-photo-14185798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T03:19:20.076Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-plans-763-new-settlement-units-threefold-expansion-of-eli-settlement-in-occupied-west-bank/4009444",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785036000783ay812",
+        "title": "İran ve AB Arasında Ukrayna Gemi Saldırısı ve Hürmüz Gerilimi Görüşüldü",
+        "summary": "İran Dışişleri Bakanı Abbas Araghchi, Avrupa Birliği'nin (AB) üst düzey diplomatıyla bir araya geldi. Görüşmede, Ukrayna'nın bir İran ticari gemisine yönelik saldırısı ve Hürmüz Boğazı'ndaki mevcut gerilimler ele alındı. Bakan Araghchi, AB ve Birleşmiş Milletler Güvenlik Konseyi'ni Ukrayna'nın İran gemisine yönelik saldırısına karşı harekete geçmeye çağırdı. Yetkililer, Körfez bölgesindeki gerilimi düşürmek amacıyla diplomatik çabaların önemini vurguladı. Bu görüşmeler, bölgesel istikrarın sağlanması adına kritik bir adım olarak değerlendirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16795074/pexels-photo-16795074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-26T03:20:00.783Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-foreign-minister-eus-top-diplomat-discuss-ukraine-vessel-attack-hormuz-tensions/4009435",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785022485226lsefl",
         "title": "İran, Ukrayna'yı Hazar Denizi'ndeki Ticari Gemiye Saldırmakla Suçladı",
         "summary": "İran, Ukrayna'yı Hazar Denizi'nde seyreden ticari bir gemiye ölümcül bir saldırı düzenlemekle itham etti. Tahran yönetimi tarafından yapılan açıklamada, söz konusu saldırı sonucunda bir denizcinin hayatını kaybettiği, bir diğerinin ise yaralandığı belirtildi. İran, bu eylemi 'suç teşkil eden bir fiil' olarak nitelendirerek kınadı. Olayın, Hazar Denizi'ndeki denizcilik güvenliği ve bölgesel ilişkiler üzerinde potansiyel etkileri olabileceği ifade ediliyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17848840480810ngm1",
-        "title": "Batı Şeria'da Nablus Yakınlarında Silahlı Saldırı: 1 İsrailli Öldü, 3 Yaralı",
-        "summary": "İşgal altındaki Batı Şeria'da, Nablus yakınlarındaki yasa dışı Havat Gilad yerleşim biriminde silahlı bir saldırı meydana geldi. İsrail medyasına yansıyan haberlere göre, Filistinliler bir güvenlik görevlisinin silahını ele geçirerek yerleşimcilere ateş açtı. Saldırıda bir İsrailli hayatını kaybederken, üç İsrailli de yaralandı. Olay, bölgedeki güvenlik durumunu yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6091867/pexels-photo-6091867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-24T09:07:28.081Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/1-israeli-occupier-killed-3-injured-in-shooting-near-nablus-west-bank/4007754",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "178488406923398sj3",
-        "title": "Batı Şeria'da İsrail Ordusu ve Yerleşimcilerin Saldırısında 4 Filistinli Hayatını Kaybetti",
-        "summary": "Batı Şeria'nın Nablus kenti yakınlarında İsrail ordusu ve yerleşimcilerin düzenlediği saldırıda 4 Filistinli hayatını kaybetti. Filistin Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail güçleri ve yerleşimcilerin Tell kasabasına yönelik saldırısında 4 kişi de yaralandı. Olayın, bölgedeki gerilimi tırmandıran son gelişmelerden biri olduğu belirtildi. Saldırının detaylarına ilişkin soruşturma başlatıldığı bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5941981/pexels-photo-5941981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-24T09:07:49.233Z",
-        "location": {
-            "lat": 32.2,
-            "lng": 35.3,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/4-palestinians-killed-in-israeli-army-occupiers-attack-near-west-bank-s-nablus/4007742",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17848840929446w6n8",
-        "title": "Çin ve ASEAN Dışişleri Bakanlarından Orta Doğu Çatışmasına Son Verme Çağrısı",
-        "summary": "Çin ve Güneydoğu Asya Ülkeleri Birliği (ASEAN) dışişleri bakanları, Manila'da düzenlenen zirvede ortak bir bildiri yayımladı. Bildiride, Orta Doğu'daki çatışmalara derhal son verilmesi gerektiği vurgulandı. Ayrıca, ABD ile İran arasındaki çatışmaların barışçıl yollarla çözülmesi ve mevcut ateşkesin tam ve etkili bir şekilde uygulanması çağrısında bulunuldu. Bu diplomatik girişim, bölgedeki gerilimin azaltılmasına yönelik uluslararası çabaların bir parçası olarak öne çıkıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-24T09:08:12.944Z",
-        "location": {
-            "lat": 14.5995,
-            "lng": 120.9842,
-            "name": "Manila, Filipinler"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/chinese-asean-foreign-ministers-call-for-immediate-end-to-mideast-conflict-amid-us-iran-war/4007672",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
