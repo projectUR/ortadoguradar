@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785163298018uquq2",
+        "title": "İsrail'in ABD ve İran'ı Çatışmaya İtme Stratejisi İddiası",
+        "summary": "İsrail'in ardışık hükümetlerinin, ABD ile İran'ı karşı karşıya getirmek amacıyla beş on yıldır gizli bir strateji izlediği belirtiliyor. Bu stratejinin, Washington ile Tahran arasındaki diplomatik girişimleri baltalamayı ve gerilimi tırmandırmayı hedeflediği ifade ediliyor. Söz konusu stratejinin, iki ülke arasındaki ilişkilerde önemli bir rol oynadığı ve bölgedeki dinamikleri etkilediği vurgulanıyor. Bu durum, Orta Doğu'daki güç dengeleri ve uluslararası ilişkiler açısından dikkat çekici bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-27T14:41:38.018Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17851633255040ozsd",
+        "title": "Saied'in iktidarı ele geçirmesinin üzerinden beş yıl geçti: Tunusluların durumu düzelmedi",
+        "summary": "Tunus'ta Cumhurbaşkanı Kays Said'in iktidarı konsolide etmesinin üzerinden beş yıl geçti. Bu süreçte ülkenin ekonomik durumunda herhangi bir iyileşme gözlemlenmediği belirtiliyor. Aksine, vatandaşların özgürlüklerinin kısıtlandığı ifade ediliyor. Ülke, Said'in iktidarı ele geçirmesi olarak nitelendirilen adımların ardından hem ekonomik hem de demokratik açıdan zorlu bir dönemden geçiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/20190784/pexels-photo-20190784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-27T14:42:05.504Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1785153190104smyae",
         "title": "ABD'nin İran'a Yönelik Saldırıları Neden Durdu?",
         "summary": "Orta Doğu'da ABD ile İran arasındaki karşılıklı saldırıların durduğu bildirildi. Bu duraksamanın temel nedeni olarak, ABD'nin bölgedeki silah stoklarının azaldığına dair raporlar gösteriliyor. Gerginliğin tırmandığı bir dönemde yaşanan bu gelişme, bölgedeki güç dengeleri ve gelecekteki askeri operasyonlar hakkında soru işaretleri yaratıyor. ABD'nin stratejik mühimmat tedarikindeki olası sorunlar, bölgedeki askeri angajmanlarını etkileyebilir ve çatışma dinamiklerini yeniden şekillendirebilir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-shell-quneitra-countryside-in-southeastern-syria/4009565",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785056389835qzz4i",
-        "title": "Arabulucular, Trump'ın saldırılara 'ara verme' emrinin ardından ABD-İran diplomasisini yoğunlaştırdı",
-        "summary": "ABD ve İran'ın, Pakistan ve Katar tarafından sunulan ortak bir barış önerisine yanıtlarını ilettiği bildirildi. Pakistan hükümet kaynaklarının Anadolu Ajansı'na verdiği bilgiye göre, bu öneri ABD ile İran arasındaki gerilimi ve potansiyel çatışmayı sona erdirmeyi hedefliyor. Eski ABD Başkanı Donald Trump'ın olası askeri operasyonlara 'ara verme' talimatının ardından arabulucuların ABD-İran arasındaki diplomatik çabaları yoğunlaştırdığı belirtiliyor. Bu gelişmeler, Orta Doğu'daki tansiyonu düşürme ve diplomatik çözüm arayışlarının bir parçası olarak öne çıkıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T08:59:49.835Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/mediators-intensify-us-iran-diplomacy-after-trump-orders-pause-in-strikes-sources/4009557",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785056412333vgqw6",
-        "title": "Katar, 2 Haftalık Aranın Ardından Denizcilik Faaliyetlerine Tamamen Yeniden Başladı",
-        "summary": "Katar, Hürmüz Boğazı'ndaki artan güvenlik gerilimleri nedeniyle iki hafta önce askıya aldığı tüm denizcilik faaliyetlerini tamamen yeniden başlattığını duyurdu. Ülke yetkilileri, bu kararın ardından her türlü geminin operasyonlarına devam edebileceğini belirtti. Denizcilik faaliyetlerinin durdurulması, bölgedeki güvenlik endişelerinin yükseldiği bir dönemde uluslararası deniz ticaretini etkilemişti. Katar'ın bu adımı, Hürmüz Boğazı'nın stratejik önemini bir kez daha vurgularken, bölgedeki deniz trafiğinin normalleşmesine katkıda bulunması bekleniyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/11555089/pexels-photo-11555089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T09:00:12.333Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-fully-resumes-maritime-navigation-activities-after-2-week-pause/4009508",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
