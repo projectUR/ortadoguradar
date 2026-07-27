@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785188558769yd2g5",
+        "title": "Guterres, Suriye'nin Yeniden İnşası İçin 'Gerçek Bir Fırsat' Görüyor",
+        "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, Suriye'nin yeniden inşası için 'gerçek bir fırsat' olduğunu belirtti. Guterres, BM'nin bu süreçte Suriye'nin 'istikrarlı bir ortağı' olacağını vurguladı. Uzun süredir devam eden çatışmaların ardından ülkenin toparlanma çabalarına destek mesajı veren Genel Sekreter, bu dönemi Suriye'nin geleceği için kritik bir aşama olarak değerlendirdi. BM'nin Suriye'ye olan taahhüdünün devam edeceği ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34341532/pexels-photo-34341532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-27T21:42:38.769Z",
+        "location": {
+            "lat": 34.802075,
+            "lng": 38.996815,
+            "name": "Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/world/guterres-sees-real-opportunity-to-rebuild-syria-pledges-steadfast-un-partnership/4010919",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1785183858044q8xgz",
         "title": "BM, İsrail'in Lübnan'daki Potansiyel Savaş Suçlarını İnceliyor",
         "summary": "Birleşmiş Milletler Yüksek Komiseri Turk, Lübnan'da yaşanan yerinden edilme ve travma konularına dikkat çekti. Komiser, İsrail'in uluslararası hukuku ihlal ettiğini belirtti. Bu açıklamalar, İsrail'in Lübnan'daki eylemlerine ilişkin potansiyel savaş suçları iddialarını gündeme getirdi. BM'nin bu konudaki incelemeleri, bölgedeki çatışmaların insani boyutunu ve uluslararası hukukun uygulanabilirliğini vurgulamaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/syria-has-moment-of-opportunity-to-build-prosperous-future-sednaya-shows-brutality-of-assad-s-regime-un-chief/4009731",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785067508925izrmz",
-        "title": "İran Ordusu, Netanyahu'nun ABD Ziyareti Öncesi Uyarı Yayımladı",
-        "summary": "İran ordusu, İsrail Başbakanı Binyamin Netanyahu'nun ABD'ye yapacağı ziyaret öncesinde önemli bir açıklama yaptı. Tahran yönetimi, Basra Körfezi'ndeki misilleme operasyonlarını durdurduğunu bildirdi. Ancak İran, ABD'nin bölgedeki saldırılarının devam etmesi halinde savaşın genişleyebileceği konusunda sert bir uyarıda bulundu. Bu açıklama, Orta Doğu'daki mevcut gerilimin potansiyel tırmanışına dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849395/pexels-photo-11849395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T12:05:08.925Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
