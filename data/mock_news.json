@@ -1,5 +1,53 @@
 [
     {
+        "id": "178511054262080af2",
+        "title": "Hamaney, ABD-İran barış anlaşmasını İsrail'in Lübnan'a saldırılarını durdurmasına bağladı",
+        "summary": "İran'ın dini lideri Ayetullah Ali Hamaney, ABD ile İran arasında olası bir barış anlaşmasının, İsrail'in Lübnan'a yönelik saldırılarını sonlandırmasına bağlı olduğunu açıkladı. Hamaney'in bu müdahalesi, ABD ve İran arasında diplomatik temasların yeniden başladığına dair haberlerin ve bölgedeki saldırıların durduğuna yönelik raporların ortasında geldi. Bu açıklama, Orta Doğu'daki gerilimin düşürülmesi ve bölgesel istikrarın sağlanması için önemli bir koşul olarak değerlendiriliyor. İran liderinin bu tutumu, iki ülke arasındaki ilişkilerin geleceği ve bölgesel çatışmaların çözümü konusunda yeni bir boyut kazandırıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-27T00:02:22.620Z",
+        "location": {
+            "lat": 33.8938,
+            "lng": 35.5018,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1785110637706pnufi",
+        "title": "Suriye Devlet Başkanı Lübnan'a Askeri Müdahaleyi Reddetti",
+        "summary": "Suriye Devlet Başkanı, Lübnan'a yönelik olası bir askeri müdahaleyi kesin bir dille reddettiğini açıkladı. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde geldi. Öte yandan, Ahmad al-Sharaa adlı bir figür, İsrail ile başarılı bir güvenlik anlaşmasının, Suriye'nin işgal altındaki Golan Tepeleri üzerindeki vazgeçilmez hakkından feragat etmeksizin kapsamlı bir barışın yolunu açabileceğini belirtti. Al-Sharaa'nın bu yorumları, Suriye'deki farklı aktörlerin bölgesel barış ve güvenlik konularına ilişkin farklı yaklaşımlarını gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38701975/pexels-photo-38701975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-27T00:03:57.706Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-rules-out-military-intervention-in-lebanon/4010025",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785110660478hziw3",
+        "title": "Ahmad al-Sharaa, Erdoğan'ın Suriye Yaptırımlarının Kaldırılmasındaki Rolünü Övdü",
+        "summary": "Ahmad al-Sharaa, ABD'nin Suriye'ye uyguladığı yaptırımların kaldırılmasında Türkiye Cumhurbaşkanı'nın oynadığı rolü takdirle karşıladığını ifade etti. Sharaa, geçen yıl Cumhurbaşkanı Erdoğan ve Suudi Arabistan'ın, dönemin ABD Başkanı Donald Trump ile Suriye'ye yönelik yaptırımların kaldırılması için arabuluculuk yaptığını belirtti. Bu açıklama, bölgesel aktörlerin Suriye'deki siyasi ve ekonomik durumu etkileme çabalarını gözler önüne serdi. Söz konusu arabuluculuk girişiminin, Suriye üzerindeki uluslararası baskının hafifletilmesi yönünde atılan adımlardan biri olduğu kaydedildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8850749/pexels-photo-8850749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-27T00:04:20.478Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/sharaa-hails-turkish-president-s-role-in-lifting-us-sanctions-on-syria/4010012",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17851012399102ndg7",
         "title": "İsrail hükümeti, Gazze'de uluslararası istikrar gücüne onay verdi",
         "summary": "İsrail hükümeti, Gazze Şeridi'nde uluslararası bir istikrar gücünün konuşlandırılmasına prensipte onay verdiğini bildirdi. 'Dost ülkelerden' personel tarafından oluşturulacak olan bu gücün, İsrail'in askeri kontrolü dışındaki bölgelerde faaliyet göstermesi planlanıyor. Uluslararası İstikrar Gücü (ISF) olarak adlandırılan bu oluşumun, bölgedeki güvenlik ve düzenin sağlanmasına katkıda bulunması hedefleniyor. Gücün tam yapısı, görev tanımı ve konuşlanma takvimine ilişkin detayların önümüzdeki dönemde netleşmesi bekleniyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "17850067468131rce2",
-        "title": "Trump: Suudi Arabistan Nükleer Anlaşma İçin İsrail'i Tanımalı",
-        "summary": "Eski ABD Başkanı Donald Trump, Suudi Arabistan'ın nükleer enerji geliştirme konusunda ABD ile yapmayı planladığı anlaşmanın, Riyad'ın İsrail'i tanımasına ve İbrahim Anlaşmaları'na katılmasına bağlı olduğunu ifade etti. Trump'ın açıklamalarına göre, bu tarihi anlaşma Suudi Arabistan'ın bölgesel konumunu güçlendirecek ancak İsrail ile normalleşme adımları atması şart koşuluyor. Bu durum, Orta Doğu'daki diplomatik ilişkilerin geleceği ve nükleer enerji programlarının bölgesel güvenlik üzerindeki etkileri açısından önemli bir gelişme olarak değerlendirilmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18335700/pexels-photo-18335700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T19:12:26.813Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17850007251568eqo9",
-        "title": "İran Hükümeti ile Devlet Televizyonu Arasında Gerilim; ABD ile Müzakereler İçin Arabuluculuk Çabaları Sürüyor",
-        "summary": "İran hükümeti, devlet televizyonu IRIB'i Cumhurbaşkanı'nın konuşmasının bazı bölümlerini yayınlamayarak \"sansür uygulamakla\" suçladı. IRIB ise bu iddiaları reddederek \"uygunsuz atıflar\" olarak nitelendirdi. Bu iç gerilim, arabulucuların İran ile ABD arasındaki görüşmeleri ilerletme çabalarını sürdürdüğü bir dönemde yaşanıyor. Hükümet ile devlet televizyonu arasındaki bu anlaşmazlık, ülkenin iç siyasetindeki güç dinamiklerini ve medya üzerindeki kontrol mücadelesini gözler önüne seriyor. Aynı zamanda, dış ilişkilerdeki hassas diplomatik süreçlerin iç politikadaki yansımalarını da gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8847045/pexels-photo-8847045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T17:32:05.156Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1784996812339tudth",
-        "title": "Mescid-i Aksa Üzerindeki Gerilim",
-        "summary": "İsrail polisinin koruması altında binlerce İsraillinin Mescid-i Aksa yerleşkesine girmesiyle bölgede gerilim yaşandı. Bu olay, Kudüs'teki hassas statükonun ihlali olarak değerlendirildi ve Filistinliler ile uluslararası toplumdan tepkilere neden oldu. Mescid-i Aksa, hem Müslümanlar hem de Yahudiler için kutsal bir mekan olup, sık sık çatışmalara sahne olmaktadır. Bu tür gelişmeler, İsrail-Filistin arasındaki mevcut gerilimi daha da tırmandırma potansiyeli taşımaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1659293/pexels-photo-1659293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T16:26:52.339Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/25/the-battle-over-al-aqsa?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
