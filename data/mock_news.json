@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785126223994gc7nc",
+        "title": "Mali'nin kuzeyindeki çatışma neden tehlikeli yeni bir aşamaya girdi?",
+        "summary": "Mali'nin kuzeyindeki çatışmalar, bölgedeki güç dengesini değiştiren yeni ve tehlikeli bir evreye girdi. Ayrılıkçı gruplar ile El Kaide bağlantılı unsurlar arasında bir ittifak kurulduğu belirtiliyor. Bu ittifakın, kuzey Mali'deki mevcut güç dengesini önemli ölçüde etkilediği ifade ediliyor. Yaşanan bu gelişme, bölgedeki savaşı sona erdirme yönündeki uluslararası çabaları daha da karmaşık hale getirdi. Uluslararası toplum, bu yeni durumun bölgesel istikrara olası etkilerini yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17676147/pexels-photo-17676147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-27T04:23:43.994Z",
+        "location": {
+            "lat": 17.57,
+            "lng": -3.99,
+            "name": "Mali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178511054262080af2",
         "title": "Hamaney, ABD-İran barış anlaşmasını İsrail'in Lübnan'a saldırılarını durdurmasına bağladı",
         "summary": "İran'ın dini lideri Ayetullah Ali Hamaney, ABD ile İran arasında olası bir barış anlaşmasının, İsrail'in Lübnan'a yönelik saldırılarını sonlandırmasına bağlı olduğunu açıkladı. Hamaney'in bu müdahalesi, ABD ve İran arasında diplomatik temasların yeniden başladığına dair haberlerin ve bölgedeki saldırıların durduğuna yönelik raporların ortasında geldi. Bu açıklama, Orta Doğu'daki gerilimin düşürülmesi ve bölgesel istikrarın sağlanması için önemli bir koşul olarak değerlendiriliyor. İran liderinin bu tutumu, iki ülke arasındaki ilişkilerin geleceği ve bölgesel çatışmaların çözümü konusunda yeni bir boyut kazandırıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17850066933014g1lg",
-        "title": "Netanyahu hükümetinin medya reformları İsrail basınında yanlılık riskini artırıyor",
-        "summary": "İsrail'de Başbakan Binyamin Netanyahu hükümetinin medya reformları eleştirilere neden oluyor. Eleştirmenler, bu kapsamlı reformların basın özgürlüğünü daha da kısıtlama riski taşıdığını belirtiyor. Ayrıca, reformların İsrail basınındaki mevcut yanlılığı derinleştirebileceği ve seçim bütünlüğünü olumsuz etkileyebileceği konusunda uyarılar yapılıyor. Uzmanlar, söz konusu düzenlemelerin ülkedeki demokratik süreçler üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5361087/pexels-photo-5361087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-25T19:11:33.301Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
