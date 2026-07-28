@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785257214816zjxyw",
+        "title": "Netanyahu'nun ABD Nüfuzu Sorgulanıyor",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun Washington üzerindeki eşsiz nüfuz iddiası, ABD ile ilişkilerin gerilmesiyle birlikte artan bir inceleme altına alındı. Bu durum, Netanyahu'nun İsrail iç siyasetindeki önemli bir kozu olarak görülen bu gücünün sorgulanmasına yol açıyor. ABD ile İsrail arasındaki bağların zayıflaması, Netanyahu'nun dış politika yetenekleri ve ülkesinin uluslararası konumlanması üzerindeki etkisini tartışmaya açtı. Bu gelişmeler, İsrail siyasetinde ve ABD-İsrail ilişkilerinde yeni bir dönemin habercisi olabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T16:46:54.816Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178525090548885ugr",
         "title": "İsrailli yerleşimciler Batı Şeria'nın kuzeyinde yeni bir yerleşim karakolu kurdu",
         "summary": "Batı Şeria'nın kuzeyinde yeni bir İsrail yerleşim karakolu kurulduğu bildirildi. Filistinli bir yetkiliye göre, bu, Salfit vilayetinde son iki gün içinde kurulan üçüncü yerleşim karakolu oldu. Bu tür yerleşim faaliyetleri, uluslararası hukuka göre yasa dışı kabul edilmekte ve bölgedeki gerilimi artırmaktadır. Filistinliler, bu karakolların topraklarına el konulması ve iki devletli çözümün önünde engel teşkil ettiğini belirtiyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "178511054262080af2",
-        "title": "Hamaney, ABD-İran barış anlaşmasını İsrail'in Lübnan'a saldırılarını durdurmasına bağladı",
-        "summary": "İran'ın dini lideri Ayetullah Ali Hamaney, ABD ile İran arasında olası bir barış anlaşmasının, İsrail'in Lübnan'a yönelik saldırılarını sonlandırmasına bağlı olduğunu açıkladı. Hamaney'in bu müdahalesi, ABD ve İran arasında diplomatik temasların yeniden başladığına dair haberlerin ve bölgedeki saldırıların durduğuna yönelik raporların ortasında geldi. Bu açıklama, Orta Doğu'daki gerilimin düşürülmesi ve bölgesel istikrarın sağlanması için önemli bir koşul olarak değerlendiriliyor. İran liderinin bu tutumu, iki ülke arasındaki ilişkilerin geleceği ve bölgesel çatışmaların çözümü konusunda yeni bir boyut kazandırıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T00:02:22.620Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
