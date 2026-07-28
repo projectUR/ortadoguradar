@@ -1,5 +1,21 @@
 [
     {
+        "id": "178525090548885ugr",
+        "title": "İsrailli yerleşimciler Batı Şeria'nın kuzeyinde yeni bir yerleşim karakolu kurdu",
+        "summary": "Batı Şeria'nın kuzeyinde yeni bir İsrail yerleşim karakolu kurulduğu bildirildi. Filistinli bir yetkiliye göre, bu, Salfit vilayetinde son iki gün içinde kurulan üçüncü yerleşim karakolu oldu. Bu tür yerleşim faaliyetleri, uluslararası hukuka göre yasa dışı kabul edilmekte ve bölgedeki gerilimi artırmaktadır. Filistinliler, bu karakolların topraklarına el konulması ve iki devletli çözümün önünde engel teşkil ettiğini belirtiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33271073/pexels-photo-33271073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T15:01:45.488Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 35.18,
+            "name": "Salfit, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-establish-new-settlement-outpost-in-northern-west-bank/4011655",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17852333104770693g",
         "title": "İsrail Başbakanı Netanyahu Beyaz Saray'da",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD'ye resmi bir ziyaret gerçekleştirerek Beyaz Saray'da önemli görüşmelerde bulunuyor. Bu ziyaret, İsrail güçlerinin işgal altındaki Batı Şeria'da düzenlediği operasyonların yoğunlaştığı bir döneme denk geliyor. Ayrıca, İsrail'de 27 Ekim'de yapılması planlanan seçimler öncesinde gerçekleşmesi, ziyaretin siyasi önemini artırıyor. Görüşmelerde, ABD-İsrail ilişkileri, bölgesel güvenlik meseleleri ve Filistin sorunu gibi konuların ele alınması bekleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1785110637706pnufi",
-        "title": "Suriye Devlet Başkanı Lübnan'a Askeri Müdahaleyi Reddetti",
-        "summary": "Suriye Devlet Başkanı, Lübnan'a yönelik olası bir askeri müdahaleyi kesin bir dille reddettiğini açıkladı. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde geldi. Öte yandan, Ahmad al-Sharaa adlı bir figür, İsrail ile başarılı bir güvenlik anlaşmasının, Suriye'nin işgal altındaki Golan Tepeleri üzerindeki vazgeçilmez hakkından feragat etmeksizin kapsamlı bir barışın yolunu açabileceğini belirtti. Al-Sharaa'nın bu yorumları, Suriye'deki farklı aktörlerin bölgesel barış ve güvenlik konularına ilişkin farklı yaklaşımlarını gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38701975/pexels-photo-38701975.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T00:03:57.706Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-rules-out-military-intervention-in-lebanon/4010025",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
