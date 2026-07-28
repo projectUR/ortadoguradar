@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785268897665z36wq",
+        "title": "Sudan'daki Çatışmayı Durdurmak İçin Ne Gerekiyor?",
+        "summary": "Sudan'da devam eden çatışmalara ilişkin olarak, ordu başkent Hartum'u El-Ubeyd'e bağlayan stratejik bir otoyolu geri aldığını duyurdu. Bu gelişme, ülkedeki askeri operasyonların seyrini etkileyebilecek önemli bir ilerleme olarak kaydedildi. Hartum ve El-Ubeyd arasındaki bu ana yolun kontrolü, lojistik ve ikmal açısından kritik bir öneme sahip olup, çatışmanın gidişatını etkileyebilir. Bölgedeki taraflar arasındaki gerilim devam ederken, uluslararası toplum çatışmanın durdurulması için çağrılarını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T20:01:37.665Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.5,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17852689204165kmn9",
+        "title": "Batı Şeria'daki Taş Ocağı Sahibi, Yerleşimci Baskını Sonrası Trump'a Çağrıda Bulundu",
+        "summary": "Batı Şeria'da bir taş ocağı sahibi, tesisine İsrailli yerleşimciler tarafından düzenlenen bir baskının ardından eski ABD Başkanı Donald Trump'a çağrıda bulundu. Bu olay, bölgedeki İsrail yerleşimcileri ile Filistinliler arasındaki mülkiyet ve güvenlik gerilimlerini bir kez daha gündeme getirdi. Taş ocağı sahibinin bu uluslararası çağrısı, yaşanan hak ihlallerine dikkat çekme ve uluslararası destek arayışı olarak değerlendiriliyor. Bölgedeki Filistinlilere ait mülkler üzerindeki yerleşimci eylemleri, uzun süredir devam eden çatışmanın önemli bir boyutunu oluşturmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9268903/pexels-photo-9268903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T20:02:00.416Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785268944796lvs9c",
+        "title": "Gazze'de Savaşın Travmasıyla Düşük Oranları Yükseliyor",
+        "summary": "Gazze Şeridi'nde devam eden savaşın yol açtığı travma ve zorlu yaşam koşulları, hamile kadınlar arasında düşük oranlarının artmasına neden oluyor. Bölgedeki sağlık kuruluşlarından al-Awda Hastanesi'ndeki doktorlar, gözlemledikleri gebelik kayıplarının yaklaşık yüzde 70'inin İsrail'in saldırıları ve uyguladığı abluka ile bağlantılı olduğunu belirtiyor. Sağlık uzmanları, savaşın getirdiği stres, yetersiz beslenme ve tıbbi hizmetlere erişimdeki kısıtlamaların bu artışta önemli rol oynadığını vurguluyor. Bu durum, Gazze'deki insani krizin kadın sağlığı üzerindeki yıkıcı etkilerini bir kez daha gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36038715/pexels-photo-36038715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T20:02:24.796Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1785262625871do7qh",
         "title": "Sudan'da Hızlı Destek Kuvvetleri'nin İhlallerini Belgeleme Mücadelesi",
         "summary": "Sudan'da devam eden çatışmalarda, insan hakları ağları sessizce faaliyet göstererek Hızlı Destek Kuvvetleri (RSF) tarafından işlenen zulümleri belgelemek için zamana karşı yarışıyor. Bu ağlar, kanıtların yok edilmeden önce toplanmasını ve korunmasını amaçlıyor. Çalışmalar, çatışma bölgelerindeki insan hakları ihlallerinin uluslararası kamuoyuna duyurulması ve sorumluların hesap vermesi için kritik önem taşıyor. Bu gizli mücadele, Sudan'daki insan hakları durumuna ışık tutmayı hedefliyor.",
@@ -748,54 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17851395283535rsff",
-        "title": "Netanyahu, Trump ile görüşmek üzere Washington'a gitti",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump ile görüşmeler yapmak üzere Washington'a hareket etti. İsrail'in X platformundaki resmi Arapça hesabından yapılan açıklamaya göre, görüşmelerde İsrail ile ABD arasındaki karşılıklı ilgi alanları ele alınacak. Bu ziyaretin, iki ülke arasındaki stratejik ilişkilerin ve bölgesel konuların masaya yatırılması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T08:05:28.353Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-departs-for-washington-for-talks-with-trump/4010178",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17851395661882ea3v",
-        "title": "İsrail Güçleri Güney Suriye'de Evlere Baskın Düzenleyerek Bir Kişiyi Gözaltına Aldı",
-        "summary": "Suriye devlet televizyonu Alikhbariah'ın bildirdiğine göre, İsrail güçleri Suriye'nin güneyindeki Daraa kentinde evlere baskın düzenledi. Aynı zamanda, Kuneytra bölgesinde ayrı bir operasyonla bir kişi gözaltına alındı. Bu olaylar, İsrail'in Suriye topraklarındaki askeri faaliyetlerinin devam ettiğini gösteriyor. Daraa ve Kuneytra, İsrail sınırına yakın stratejik bölgeler olarak biliniyor. Bölgedeki gerilimin sürdüğüne işaret eden bu tür operasyonlar, iki ülke arasındaki güvenlik durumunu etkilemektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35407368/pexels-photo-35407368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T08:06:06.188Z",
-        "location": {
-            "lat": 32.6167,
-            "lng": 36.1,
-            "name": "Daraa, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-homes-detain-man-in-southern-syria-report/4010071",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785139587303tg4c5",
-        "title": "İran: 6 gemi Hürmüz Boğazı'ndan 'yasa dışı, güvensiz' geçiş denemesi yaptı",
-        "summary": "İran, altı geminin Hürmüz Boğazı'ndan \"yasa dışı ve güvensiz\" bir geçiş denemesinde bulunduğunu açıkladı. Tahran yönetimi, söz konusu gemilerin navigasyon sistemlerini kapattığını belirtti. Açıklamaya göre, gemilerden biri belirtilmeyen bir olayla karşılaşmasının ardından, diğer beş gemi Basra Körfezi'ne yönlendirildi. Bu olay, bölgedeki denizcilik güvenliği ve uluslararası seyrüsefer kurallarına uyum konularında endişeleri artırdı. İran, boğazdaki deniz trafiğini ve güvenliği yakından takip ettiğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18801042/pexels-photo-18801042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T08:06:27.303Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-6-ships-attempted-illegal-unsafe-passage-through-strait-of-hormuz/4010051",
         "trendScore": 85,
         "isBreaking": false
     }
