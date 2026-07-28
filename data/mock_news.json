@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785211968562f4cba",
+        "title": "Ukrayna Devlet Başkanı Zelenskiy, İran ve Ukrayna Savaşları Yakınlaşırken Trump ile Görüşmeye Hazırlanıyor",
+        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin eski ABD Başkanı Donald Trump ile bir araya gelmeye hazırlandığı bildirildi. Bu görüşme, İran ve Ukrayna'daki çatışmaların jeopolitik olarak birbirine yaklaştığı bir dönemde gerçekleşecek. Gelişmeler, ABD Senatosu'nun Rusya'ya yönelik yeni yaptırımları oylayacağı günlere denk geliyor. Ayrıca, Ukrayna'nın Hazar Denizi'nde bir İran gemisine saldırmasının ardından bu gelişmelerin yaşanması dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T04:12:48.562Z",
+        "location": {
+            "lat": 35.68,
+            "lng": 51.38,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17852119993865gmsf",
+        "title": "ABD, yüzlerce Boeing jetinin koltuk güvenliği denetimi gerektirebileceği konusunda uyardı",
+        "summary": "ABD'li havacılık düzenleyicisi, Boeing 737 MAX tipi uçakların koltuk güvenliği konusunda endişelerini dile getirdi. Kurum, ABD tescilli 453 jetin koltuk bileşenlerinde potansiyel güvenlik sorunları nedeniyle denetlenmesi çağrısında bulundu. Bu uyarı, dünya genelindeki havacılık otoriteleri ve havayolu şirketleri için emsal teşkil edebilir. Orta Doğu'daki birçok havayolu şirketinin Boeing 737 MAX uçaklarını kullanması nedeniyle, bu denetimler bölgedeki operatörleri dolaylı olarak etkileyebilir. Olası denetim maliyetleri ve uçuş aksaklıkları, havacılık sektöründe ekonomik sonuçlar doğurma potansiyeli taşımaktadır.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/3736488/pexels-photo-3736488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T04:13:19.386Z",
+        "location": {
+            "lat": 39.8283,
+            "lng": -98.5795,
+            "name": "ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1785212021306tnn9k",
+        "title": "Trump, ABD askeri saldırılarına verilen arada İran ile görüşmelerin sürdüğünü söyledi",
+        "summary": "ABD Başkanı Donald Trump, ülkesinin İran'a yönelik askeri saldırılarına ara verildiği bir dönemde Tahran ile görüşmelerin devam ettiğini açıkladı. Trump'ın bu açıklaması, iki ülke arasındaki gerilimin yüksek olduğu bir süreçte diplomatik kanalların açık kaldığına işaret ediyor. ABD'nin askeri eylemlerini durdurması ve eş zamanlı olarak görüşmelerin sürdüğünü belirtmesi, krizin çözümüne yönelik çabaların devam ettiğini gösteriyor. Bu durum, Orta Doğu'daki bölgesel istikrar açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T04:13:41.306Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785200153339owopp",
         "title": "İran Savaşı Gelişmeleri: Trump 'Dostane Görüşmeler' Vurgusu Yaparken Netanyahu ABD'ye Ulaştı",
         "summary": "İran ile ABD arasındaki beş aydır devam eden çatışmaların sona erdirilmesi konusunda ABD'nin zorluk yaşadığı İran tarafından ifade edildi. Bu gelişmelerin ortasında, İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump ile görüşmeler gerçekleştirmek üzere Washington, DC'ye geldi. Başkan Trump'ın bu görüşmeleri \"dostane\" olarak nitelendirdiği belirtildi.",
@@ -748,54 +796,6 @@
             "name": "Darfur, Sudan"
         },
         "source": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785080420490vm7dm",
-        "title": "Tunus, Said'in iktidarı ele geçirmesinden bu yana beş yıllık krizle mücadele ediyor",
-        "summary": "Tunus'ta, Cumhurbaşkanı Kays Said'in iktidara gelmesinin beşinci yıl dönümünde ülke genelinde protestolar düzenlendi. Göstericiler, Said'in yönetimini derinleşen ekonomik kriz ve artan siyasi tutuklamalar nedeniyle sert bir dille eleştirdi. Ülke, Said'in iktidarı ele geçirmesinden bu yana siyasi istikrarsızlık ve ekonomik zorluklarla mücadele ediyor. Bu durum, Tunus toplumunda geniş çaplı memnuniyetsizliğe ve insan hakları endişelerine yol açıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11421274/pexels-photo-11421274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T15:40:20.490Z",
-        "location": {
-            "lat": 36.8,
-            "lng": 10.2,
-            "name": "Tunus, Tunus"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785080456555uy2ha",
-        "title": "Batı Şeria'da Silahlı Saldırıda Dört Filistinli ve İki İsrailli Hayatını Kaybetti",
-        "summary": "Batı Şeria'da meydana gelen silahlı saldırıda dört Filistinli ve iki İsrailli yaşamını yitirdi. Olayla ilgili çelişkili açıklamalar yapıldı. Filistinli kaynaklar, köylülerin yerleşimciler tarafından saldırıya uğradığını belirtirken, İsrail ordusu ise bir Filistinlinin silah çalarak yürüyüşçülere ateş açtığını iddia etti. Bölgede gerilimin yükseldiği gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34303423/pexels-photo-34303423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T15:40:56.555Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin/İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785074930888snpny",
-        "title": "Yemen'de Sağlık Çalışanları Ölümcül Dang Humması Salgınıyla Mücadele Ediyor",
-        "summary": "Yemen'de sağlık çalışanları, ülkeyi etkisi altına alan ölümcül dang humması salgınıyla mücadele ediyor. Sivrisinek kaynaklı bu hastalığın yayılmasını durdurmak için yoğun çaba sarf ediliyor. Artan enfeksiyon vakaları endişe yaratırken, sağlık sisteminin kırılganlığı salgının kontrol altına alınmasını zorlaştırıyor. Ülke genelinde hastalığın yayılımını engellemek ve halk sağlığını korumak amacıyla acil önlemler alınmaya çalışılıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/33221123/pexels-photo-33221123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T14:08:50.888Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/26/yemens-health-workers-race-to-halt-latest-outbreak-of-deadly-dengue-fever?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
