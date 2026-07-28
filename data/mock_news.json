@@ -1,5 +1,69 @@
 [
     {
+        "id": "17852333104770693g",
+        "title": "İsrail Başbakanı Netanyahu Beyaz Saray'da",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD'ye resmi bir ziyaret gerçekleştirerek Beyaz Saray'da önemli görüşmelerde bulunuyor. Bu ziyaret, İsrail güçlerinin işgal altındaki Batı Şeria'da düzenlediği operasyonların yoğunlaştığı bir döneme denk geliyor. Ayrıca, İsrail'de 27 Ekim'de yapılması planlanan seçimler öncesinde gerçekleşmesi, ziyaretin siyasi önemini artırıyor. Görüşmelerde, ABD-İsrail ilişkileri, bölgesel güvenlik meseleleri ve Filistin sorunu gibi konuların ele alınması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T10:08:30.477Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785233349604ap98p",
+        "title": "İsrail Tarafından Gözaltına Alınan Altmış Filistinli Gazze'ye Döndü, İstismarları Anlattı",
+        "summary": "İsrail tarafından gözaltına alındıktan sonra serbest bırakılan altmış Filistinli, Gazze Şeridi'ne geri döndü. Serbest kalanlar arasında tekerlekli sandalyede olanların da bulunduğu belirtildi. Bu kişiler, İsrail'in gözaltı merkezlerinde maruz kaldıkları korkunç istismarları ve kötü muameleleri detaylı bir şekilde anlattılar. Olay, İsrail-Filistin çatışmasının insani boyutunu ve insan hakları ihlalleri iddialarını bir kez daha uluslararası gündeme taşıdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/37632503/pexels-photo-37632503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T10:09:09.604Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785233377042mn6l2",
+        "title": "Kolombiya'nın Seçilmiş Başkanı Filistin Büyükelçiliğini Askıya Alacak",
+        "summary": "Kolombiya'nın aşırı sağcı olarak tanımlanan seçilmiş devlet başkanı, Filistin büyükelçiliğini kapatma veya askıya alma kararı aldığını duyurdu. Yapılan açıklamada, seçilmiş başkanın sadece Filistin değil, \"bu ülkelerdeki\" büyükelçilikleri de kapatma veya askıya alma niyetinde olduğu belirtildi. Bu karar, Kolombiya'nın dış politikasında önemli bir yön değişikliği olarak yorumlanıyor. Söz konusu diplomatik hamlenin, Orta Doğu'daki ilişkiler ve Filistin'in uluslararası temsiliyeti üzerinde etkileri olabileceği öngörülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T10:09:37.042Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17852334052296fcmo",
+        "title": "Irak Başbakanı, Türkiye Ziyaretinde Yatırım, Su ve Güvenlik Konularını Görüşeceğini Açıkladı",
+        "summary": "Irak Başbakanı Ali Al-Zaidi, Türkiye'ye gerçekleştireceği ilk resmi ziyaretinde önemli gündem maddelerini ele alacağını duyurdu. Ziyaret kapsamında, iki ülke arasındaki yatırım hacminin artırılması hedefleniyor. Ayrıca, su işbirliği ve altyapı projeleri gibi kritik konuların da görüşmelerde yer alacağı belirtildi. Bölgesel istikrarın sağlanması ve daha geniş ekonomik ve güvenlik bağlarının güçlendirilmesi de ele alınacak başlıklar arasında bulunuyor. Bu ziyaretin, iki komşu ülke arasındaki ilişkileri çeşitli alanlarda derinleştirmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T10:10:05.229Z",
+        "location": {
+            "lat": 39.9,
+            "lng": 32.9,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/iraqi-premier-says-he-will-discuss-investment-water-security-during-his-1st-official-visit-to-turkiye/4011220",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785222913574pcqus",
         "title": "Batı Şeria'da Tal Cinayetlerinin Ardından Şiddet Olayları Tırmandı",
         "summary": "Batı Şeria'da Nablus yakınlarında meydana gelen ölümcül bir yerleşimci saldırısı, bölgede günlerce süren baskınlara, kundaklamalara, kapatmalara ve toplu tutuklamalara yol açtı. Olaylar, Batı Şeria'da Filistinliler ve İsrailli yerleşimciler arasındaki gerilimi önemli ölçüde artırdı. Güvenlik güçleri bölgede geniş çaplı operasyonlar düzenlerken, şiddet olayları günlük yaşamı olumsuz etkiledi. Bu gelişmeler, Orta Doğu'daki hassas durumu daha da karmaşık hale getirdi.",
@@ -732,70 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/syrian-president-rules-out-military-intervention-in-lebanon/4010025",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785110660478hziw3",
-        "title": "Ahmad al-Sharaa, Erdoğan'ın Suriye Yaptırımlarının Kaldırılmasındaki Rolünü Övdü",
-        "summary": "Ahmad al-Sharaa, ABD'nin Suriye'ye uyguladığı yaptırımların kaldırılmasında Türkiye Cumhurbaşkanı'nın oynadığı rolü takdirle karşıladığını ifade etti. Sharaa, geçen yıl Cumhurbaşkanı Erdoğan ve Suudi Arabistan'ın, dönemin ABD Başkanı Donald Trump ile Suriye'ye yönelik yaptırımların kaldırılması için arabuluculuk yaptığını belirtti. Bu açıklama, bölgesel aktörlerin Suriye'deki siyasi ve ekonomik durumu etkileme çabalarını gözler önüne serdi. Söz konusu arabuluculuk girişiminin, Suriye üzerindeki uluslararası baskının hafifletilmesi yönünde atılan adımlardan biri olduğu kaydedildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8850749/pexels-photo-8850749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T00:04:20.478Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/sharaa-hails-turkish-president-s-role-in-lifting-us-sanctions-on-syria/4010012",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17851012399102ndg7",
-        "title": "İsrail hükümeti, Gazze'de uluslararası istikrar gücüne onay verdi",
-        "summary": "İsrail hükümeti, Gazze Şeridi'nde uluslararası bir istikrar gücünün konuşlandırılmasına prensipte onay verdiğini bildirdi. 'Dost ülkelerden' personel tarafından oluşturulacak olan bu gücün, İsrail'in askeri kontrolü dışındaki bölgelerde faaliyet göstermesi planlanıyor. Uluslararası İstikrar Gücü (ISF) olarak adlandırılan bu oluşumun, bölgedeki güvenlik ve düzenin sağlanmasına katkıda bulunması hedefleniyor. Gücün tam yapısı, görev tanımı ve konuşlanma takvimine ilişkin detayların önümüzdeki dönemde netleşmesi bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11234307/pexels-photo-11234307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T21:27:19.910Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785101261529hbjhh",
-        "title": "Filistinliler, Uluslararası Barış Gücünün Gazze'yi Yeniden İnşa Etmesini Umuyor",
-        "summary": "Gazze Şeridi'ndeki Filistinliler, İsrail'in bölgeye uluslararası bir istikrar gücünün konuşlandırılmasına yönelik onayını temkinli bir iyimserlikle karşıladı. Bölge halkı, bu gücün çatışmaların ardından Gazze'nin yeniden inşası ve güvenliğin sağlanması konusunda önemli bir rol oynamasını bekliyor. Uluslararası toplumun desteğiyle kurulacak bu gücün, uzun süredir devam eden insani krizin hafifletilmesine ve kalıcı bir barış ortamının tesis edilmesine katkı sağlayacağı düşünülüyor. Filistinliler, bu gelişmeyi geleceğe yönelik bir umut ışığı olarak değerlendirirken, sürecin nasıl işleyeceği konusunda ihtiyatlı duruşlarını koruyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38545736/pexels-photo-38545736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T21:27:41.529Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1785101328450e4pw5",
-        "title": "'Suçları neydi?': BBC, İran'da 120 çocuğun öldüğü okulu ziyaret etti",
-        "summary": "BBC, İran'ın Minab kentinde yaklaşık beş ay önce meydana gelen ve 120 çocuğun hayatını kaybettiği bir saldırının ardından bölgeyi ziyaret etti. Haberde, saldırının dehşeti ve kurbanların yakınlarının yaşadığı derin üzüntüye dikkat çekiliyor. Saldırının üzerinden uzun bir süre geçmesine rağmen, bir öğretmen ve bir annenin anlattıklarıyla acıların hala taze olduğu belirtildi. Ziyaret sırasında, saldırıda hayatını kaybeden çocukların anısı ve ailelerin yaşadığı travma gözler önüne serildi. Bu olay, bölgedeki güvenlik endişelerini ve sivil kayıpların trajedisini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10082710/pexels-photo-10082710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-26T21:28:48.450Z",
-        "location": {
-            "lat": 27.14,
-            "lng": 57.08,
-            "name": "Minab, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
