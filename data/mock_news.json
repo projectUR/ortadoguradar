@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785274787011nrqm8",
+        "title": "İran ve Umman, Hürmüz Boğazı'nın Yönetimi İçin Teklifleri Değiş tokuş Etti",
+        "summary": "İran ve Umman, stratejik Hürmüz Boğazı'nın yönetimine ilişkin karşılıklı teklifleri değerlendiriyor. Umman tarafından sunulan teklif, boğazı kullanan gemilerden gönüllü ücretler alınmasını öngören Malakka Boğazı modelini temel alıyor. Bu görüşmeler, küresel enerji tedarik zinciri için hayati önem taşıyan bu su yolunun güvenli ve etkin bir şekilde işletilmesini amaçlıyor. İki ülke arasındaki bu diplomatik adım, bölgesel denizcilik güvenliği ve uluslararası ticaretin sürdürülebilirliği açısından önem arz ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15196714/pexels-photo-15196714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-28T21:39:47.011Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785268897665z36wq",
         "title": "Sudan'daki Çatışmayı Durdurmak İçin Ne Gerekiyor?",
         "summary": "Sudan'da devam eden çatışmalara ilişkin olarak, ordu başkent Hartum'u El-Ubeyd'e bağlayan stratejik bir otoyolu geri aldığını duyurdu. Bu gelişme, ülkedeki askeri operasyonların seyrini etkileyebilecek önemli bir ilerleme olarak kaydedildi. Hartum ve El-Ubeyd arasındaki bu ana yolun kontrolü, lojistik ve ikmal açısından kritik bir öneme sahip olup, çatışmanın gidişatını etkileyebilir. Bölgedeki taraflar arasındaki gerilim devam ederken, uluslararası toplum çatışmanın durdurulması için çağrılarını sürdürüyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785139503762l8snq",
-        "title": "Orta Doğu'da Gerilim Tırmanıyor: Husiler Suudi Arabistan'a Saldırı İddia Ederken, ABD İran Tankerini Durdurdu",
-        "summary": "Orta Doğu'da bölgesel gerilimleri artıran iki ayrı gelişme yaşandı. İran destekli Husiler, Suudi Arabistan'a yönelik bir füze saldırısı düzenlediklerini iddia etti. Öte yandan, ABD ordusu, İran limanlarına uygulanan Amerikan ablukasını aşmaya çalışan bir tankeri etkisiz hale getirdiğini duyurdu. Bu olaylar, bölgedeki çatışma ve güvenlik dinamiklerinin farklı cephelerde devam ettiğini gözler önüne seriyor. Özellikle İran'ın bölgedeki rolü ve uluslararası yaptırımların etkileri gündemdeki yerini koruyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T08:05:03.762Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
