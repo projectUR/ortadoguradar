@@ -1,5 +1,37 @@
 [
     {
+        "id": "17853281642216lrd1",
+        "title": "FIFA'nın Dünya Kupası Planı Amerika ve Asya Konfederasyonlarını Şaşırttı",
+        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) tarafından hazırlanan Dünya Kupası ve özel yatırım planları, Amerika ve Asya kıtalarındaki futbol konfederasyonlarını hazırlıksız yakaladı. Amerika kıtası futbol yönetim organı, FIFA'nın özel yatırım planında usul eksikliği nedeniyle \"derin endişe\" duyduğunu belirtirken, Asya Futbol Konfederasyonu (AFC) da bu durumdan \"hayal kırıklığına uğradığını\" açıkladı. Bu gelişme, FIFA'nın küresel futbol organizasyonları ile kıtasal yönetimler arasındaki ilişkilerde gerginliğe işaret ediyor. Planların detayları ve konfederasyonların itirazları, uluslararası futbol yönetiminde önemli bir tartışma konusu haline geldi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/38104078/pexels-photo-38104078.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T12:29:24.221Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17853282198540762c",
+        "title": "İran'dan ABD Varlıklarının İsrail'de Yığılmasına Karşılık Saldırılar",
+        "summary": "Haberlere göre, İran'ın mevcut saldırıları, ABD'nin İsrail'deki askeri varlıklarını artırmasına bir yanıt olarak gerçekleşiyor. Bu durum, İran'ın ABD'nin bölgedeki askeri konuşlanmalarına doğrudan bir mesaj gönderme amacı taşıdığını gösteriyor. Bölgedeki gerilimin yükseldiğini işaret eden bu gelişmeler, stratejik mesajlaşma ve güç dengeleri açısından önem arz ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T12:30:19.854Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17853197691016ao99",
         "title": "Gazze'de Kadınlar İçin Güvenli Alanlar: Savaş Ortasında Destek ve İyileşme",
         "summary": "Gazze Şeridi'nde kadınlara yönelik güvenli alanlar girişimi başlatıldı. Bu inisiyatif, savaşın getirdiği zorluklarla mücadele eden kadınlara psikolojik destek sağlamayı hedefliyor. Ayrıca, kadınların farkındalıklarını artırmaya yönelik oturumlar düzenleniyor. Bu alanlar, kadınların deneyimlerini paylaşabilecekleri ve iyileşme süreçlerine katkıda bulunabilecekleri bir ortam sunuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1785212021306tnn9k",
-        "title": "Trump, ABD askeri saldırılarına verilen arada İran ile görüşmelerin sürdüğünü söyledi",
-        "summary": "ABD Başkanı Donald Trump, ülkesinin İran'a yönelik askeri saldırılarına ara verildiği bir dönemde Tahran ile görüşmelerin devam ettiğini açıkladı. Trump'ın bu açıklaması, iki ülke arasındaki gerilimin yüksek olduğu bir süreçte diplomatik kanalların açık kaldığına işaret ediyor. ABD'nin askeri eylemlerini durdurması ve eş zamanlı olarak görüşmelerin sürdüğünü belirtmesi, krizin çözümüne yönelik çabaların devam ettiğini gösteriyor. Bu durum, Orta Doğu'daki bölgesel istikrar açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T04:13:41.306Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785200153339owopp",
-        "title": "İran Savaşı Gelişmeleri: Trump 'Dostane Görüşmeler' Vurgusu Yaparken Netanyahu ABD'ye Ulaştı",
-        "summary": "İran ile ABD arasındaki beş aydır devam eden çatışmaların sona erdirilmesi konusunda ABD'nin zorluk yaşadığı İran tarafından ifade edildi. Bu gelişmelerin ortasında, İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump ile görüşmeler gerçekleştirmek üzere Washington, DC'ye geldi. Başkan Trump'ın bu görüşmeleri \"dostane\" olarak nitelendirdiği belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T00:55:53.339Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, DC, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
