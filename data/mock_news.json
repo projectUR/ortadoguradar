@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785298790377n2q6e",
+        "title": "İsrail Gazze'de Filistinliyi Öldürdü, Camiyi Yıktı",
+        "summary": "Gazze Şeridi'nde İsrail güçleri bir Filistinliyi öldürdü ve bir camiyi yıktı. Bu olay, bölgedeki gerilimi artıran son gelişmelerden biri olarak kaydedildi. Öte yandan, işgal altındaki Batı Şeria'da, Beytüllahim kentinde İsrailli yerleşimciler Filistinli bir aileye saldırdı. Bu saldırı, yerleşimcilerin Filistinlilere yönelik şiddet eylemlerinin devam ettiğini gösteriyor. Her iki olay da İsrail-Filistin çatışmasının farklı boyutlarını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T04:19:50.377Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1785298844960mjb8p",
+        "title": "Suudi Arabistan, petrol tesislerini hedef alan insansız hava araçlarını engellediğini duyurdu, Irak'taki İran destekli milisleri suçladı",
+        "summary": "Suudi Arabistan Savunma Bakanlığı sözcüsü, ülkenin doğu eyaletindeki petrol tesislerini hedef alan çok sayıda insansız hava aracının hava savunma sistemleri tarafından imha edildiğini açıkladı. Sözcü, saldırılardan Irak'taki İran destekli milisleri sorumlu tuttu. Riyad yönetimi, bu tür saldırılara karşılık verme hakkını saklı tuttuğunu belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T04:20:44.960Z",
+        "location": {
+            "lat": 26.39,
+            "lng": 50.19,
+            "name": "Doğu Eyaleti, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-it-intercepted-drones-targeting-oil-facilities-blames-iran-backed-militias-in-iraq/4011974",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17852867093030lflp",
         "title": "ABD, İran Devrim Muhafızları'nı Balistik Füze Saldırılarıyla Suçladı",
         "summary": "Amerika Birleşik Devletleri, İran Devrim Muhafızları Kolordusu'nu (IRGC) 'sürpriz' balistik füze saldırıları düzenlemekle suçladı. Bu iddia, Suudi Arabistan'ın insansız hava araçlarını (İHA) engellediği bir döneme denk geldi. İran ise Hürmüz Boğazı üzerindeki kontrolünü sürdürmek için 'her türlü eylemi' yapacağı uyarısında bulundu. Bölgedeki gerilimlerin arttığı gözlemleniyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/7/27/five-years-after-saieds-power-grab-tunisians-are-no-better-off?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1785153190104smyae",
-        "title": "ABD'nin İran'a Yönelik Saldırıları Neden Durdu?",
-        "summary": "Orta Doğu'da ABD ile İran arasındaki karşılıklı saldırıların durduğu bildirildi. Bu duraksamanın temel nedeni olarak, ABD'nin bölgedeki silah stoklarının azaldığına dair raporlar gösteriliyor. Gerginliğin tırmandığı bir dönemde yaşanan bu gelişme, bölgedeki güç dengeleri ve gelecekteki askeri operasyonlar hakkında soru işaretleri yaratıyor. ABD'nin stratejik mühimmat tedarikindeki olası sorunlar, bölgedeki askeri angajmanlarını etkileyebilir ve çatışma dinamiklerini yeniden şekillendirebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11596918/pexels-photo-11596918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T11:53:10.104Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17851532156617sqmf",
-        "title": "Petrol Fiyatları, ABD ve İran'ın Saldırıları Durdurmasıyla Düştü",
-        "summary": "ABD, İran'a yönelik saldırıların 'görüşmelere alan açmak' amacıyla durdurulduğunu açıkladı. Bu gelişme, iki ülke arasındaki çatışmanın diplomatik yollarla çözüme kavuşabileceği yönündeki umutları artırdı. Uluslararası piyasalarda petrol fiyatları, bu olumlu haberin ardından düşüş kaydetti. Söz konusu adım, Orta Doğu'daki gerilimin azaltılması ve bölgesel istikrarın sağlanması açısından kritik bir gelişme olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6883810/pexels-photo-6883810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T11:53:35.661Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
