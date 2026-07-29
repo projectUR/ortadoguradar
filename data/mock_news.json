@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785347342376hkiw2",
+        "title": "İran Savaşı Nedeniyle Yakıt Fiyatları Fırladı, Yemenli İşçiler İşsiz Kaldı",
+        "summary": "Yemen'de yakıt fiyatlarındaki artış, inşaat sektöründe ciddi aksaklıklara yol açtı. İran'daki savaşın etkisiyle yükselen yakıt maliyetleri, inşaat malzemelerinin fiyatlarını da tetikleyerek bir domino etkisi yarattı. Bu durum, ülkedeki birçok inşaat projesinin durmasına neden oldu. Sonuç olarak, Yemenli işçiler işsiz kalarak geçim sıkıntısı yaşamaya başladı.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11903027/pexels-photo-11903027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T17:49:02.376Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785347473267m8r58",
+        "title": "Filistinli Kadın Tutuklu, İsrailli Sorgucuyu Cinsel Tacizle Suçladı",
+        "summary": "Filistinli bir kadın tutuklu, İsrailli bir sorgucu tarafından cinsel tacize uğradığını iddia etti. Filistin Esirler İşleri Komisyonu'ndan bir avukatın cezaevi ziyareti sırasında tutuklunun ifadesini belgelediği bildirildi. Bu iddialar, İsrail cezaevlerindeki Filistinli tutukluların durumu ve insan hakları ihlalleri konusundaki endişeleri yeniden gündeme getirdi. Olayla ilgili detaylı bir soruşturma başlatılması bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9246497/pexels-photo-9246497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T17:51:13.267Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin/İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-female-detainee-accuses-israeli-interrogator-of-sexual-harassment/4012900",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785342226187pqwg5",
         "title": "Trump, üslerin yeniden hedef alınmasının ardından ABD'nin İran'a 'darbe indireceğini' söyledi",
         "summary": "ABD Başkanı Donald Trump, üslerin yeniden hedef alınmasının ardından ABD'nin İran'a 'darbe indireceğini' belirtti. Bu açıklama, İran'ın yeni saldırılar düzenlemesi ve Trump'ın İsrail Başbakanı Binyamin Netanyahu ile Beyaz Saray'da bir araya gelmesinin ertesi günü geldi. Trump, yaşanan gelişmelerin ardından bölgede büyük bir tırmanışın yaşanacağı sözünü verdi. ABD'nin İran'a yönelik bu sert tutumu, Orta Doğu'daki gerilimi daha da artırma potansiyeli taşıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/jordan-shoots-down-drone-after-airspace-breach/4011005",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1785223102524fyh8w",
-        "title": "İran, Hürmüz Boğazı'nda İstikrar İçin Bölgesel İş Birliği Çağrısı Yaptı",
-        "summary": "İran Dışişleri Bakanı, Hürmüz Boğazı'nda istikrarın yeniden sağlanması için bölgesel iş birliği çağrısında bulundu. Bakan, Suudi ve Ummanlı mevkidaşlarıyla yaptığı telefon görüşmelerinde, bu kritik deniz yolu üzerindeki gerilimlerin kaynağı olarak 'ABD saldırganlığını' gösterdi. Tahran'dan gelen bu açıklama, bölgedeki denizcilik güvenliğinin sağlanması ve gerilimlerin düşürülmesi yönünde atılan diplomatik adımların bir parçası olarak değerlendiriliyor. İran, bölge ülkelerinin ortak çabalarıyla boğazdaki güvenliğin tesis edilebileceğini vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36152058/pexels-photo-36152058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T07:18:22.524Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-urges-regional-cooperation-to-restore-stability-in-strait-of-hormuz/4010998",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "17852231240314ngwr",
-        "title": "Türk sanatçının Filistinli ulusal şairden esinlenen sergisi Ramallah'ta açıldı",
-        "summary": "Türk bir sanatçının Filistin'in ulusal şairinden ilham alan sergisi Ramallah'ta ziyarete açıldı. 'Sürgündeki Zeytin Ağacına Afişler' başlıklı sergi, Filistinli şair Mahmud Derviş'in anısına ithaf edildi. Sergi, Ramallah'taki Mahmud Derviş Müzesi'nde sanatseverlerle buluşuyor. Ziyaretçiler, sergiyi 2 Ağustos'a kadar gezebilecekler.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11489991/pexels-photo-11489991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T07:18:44.031Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2035,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/turkish-artists-exhibition-inspired-by-palestines-national-poet-opens-in-ramallah/4010956",
-        "trendScore": 60,
         "isBreaking": false
     }
 ]
