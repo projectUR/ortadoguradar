@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785336862796k7lzt",
+        "title": "ABD ve İsrail Liderlerinin İran'a Yönelik Savaş Beklentileri Ortaya Çıktı",
+        "summary": "Ortaya çıkan yeni detaylara göre, ABD ve İsrailli yetkililerin İran'a karşı olası bir savaşın basit ve kısa süreli olacağına inandığı belirtildi. Bu beklentinin, iki ülkenin liderleri arasında yapılan stratejik değerlendirmelerde dile getirildiği ifade edildi. Haber, geçmişteki askeri planlamalara ve öngörülere ışık tutarak, yetkililerin İran'a yönelik bir müdahalenin kolayca başarıya ulaşacağı yönündeki düşüncelerini gözler önüne seriyor. Bu bilgiler, bölgedeki potansiyel çatışma senaryolarına ilişkin daha önceki algıları yeniden gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T14:54:22.796Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785336886571em13t",
+        "title": "Gazze'deki Filistinliler, Yeni İsrail Saldırılarının Ardından 'Ateşkes Yok' Dedi",
+        "summary": "Gazze Şeridi'ndeki Filistinliler, bölgeye yönelik yeni İsrail saldırılarının ardından herhangi bir ateşkesin yürürlükte olmadığını açıkladı. Bu açıklamalar, İsrail'in Gazze'ye yönelik operasyonlarının devam ettiği bir dönemde geldi. Filistinli kaynaklar, devam eden saldırıların ve can kayıplarının ateşkes iddialarıyla çeliştiğini belirtti. Bölgedeki durum, çatışmaların sürdüğünü ve gerilimin yüksek seviyede kaldığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T14:54:46.571Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17853281642216lrd1",
         "title": "FIFA'nın Dünya Kupası Planı Amerika ve Asya Konfederasyonlarını Şaşırttı",
         "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) tarafından hazırlanan Dünya Kupası ve özel yatırım planları, Amerika ve Asya kıtalarındaki futbol konfederasyonlarını hazırlıksız yakaladı. Amerika kıtası futbol yönetim organı, FIFA'nın özel yatırım planında usul eksikliği nedeniyle \"derin endişe\" duyduğunu belirtirken, Asya Futbol Konfederasyonu (AFC) da bu durumdan \"hayal kırıklığına uğradığını\" açıkladı. Bu gelişme, FIFA'nın küresel futbol organizasyonları ile kıtasal yönetimler arasındaki ilişkilerde gerginliğe işaret ediyor. Planların detayları ve konfederasyonların itirazları, uluslararası futbol yönetiminde önemli bir tartışma konusu haline geldi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-injure-palestinians-near-jerusalem-seize-west-bank-home/4010949",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1785211968562f4cba",
-        "title": "Ukrayna Devlet Başkanı Zelenskiy, İran ve Ukrayna Savaşları Yakınlaşırken Trump ile Görüşmeye Hazırlanıyor",
-        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin eski ABD Başkanı Donald Trump ile bir araya gelmeye hazırlandığı bildirildi. Bu görüşme, İran ve Ukrayna'daki çatışmaların jeopolitik olarak birbirine yaklaştığı bir dönemde gerçekleşecek. Gelişmeler, ABD Senatosu'nun Rusya'ya yönelik yeni yaptırımları oylayacağı günlere denk geliyor. Ayrıca, Ukrayna'nın Hazar Denizi'nde bir İran gemisine saldırmasının ardından bu gelişmelerin yaşanması dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T04:12:48.562Z",
-        "location": {
-            "lat": 35.68,
-            "lng": 51.38,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17852119993865gmsf",
-        "title": "ABD, yüzlerce Boeing jetinin koltuk güvenliği denetimi gerektirebileceği konusunda uyardı",
-        "summary": "ABD'li havacılık düzenleyicisi, Boeing 737 MAX tipi uçakların koltuk güvenliği konusunda endişelerini dile getirdi. Kurum, ABD tescilli 453 jetin koltuk bileşenlerinde potansiyel güvenlik sorunları nedeniyle denetlenmesi çağrısında bulundu. Bu uyarı, dünya genelindeki havacılık otoriteleri ve havayolu şirketleri için emsal teşkil edebilir. Orta Doğu'daki birçok havayolu şirketinin Boeing 737 MAX uçaklarını kullanması nedeniyle, bu denetimler bölgedeki operatörleri dolaylı olarak etkileyebilir. Olası denetim maliyetleri ve uçuş aksaklıkları, havacılık sektöründe ekonomik sonuçlar doğurma potansiyeli taşımaktadır.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/3736488/pexels-photo-3736488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T04:13:19.386Z",
-        "location": {
-            "lat": 39.8283,
-            "lng": -98.5795,
-            "name": "ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
