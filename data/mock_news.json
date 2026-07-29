@@ -1,5 +1,37 @@
 [
     {
+        "id": "17852867093030lflp",
+        "title": "ABD, İran Devrim Muhafızları'nı Balistik Füze Saldırılarıyla Suçladı",
+        "summary": "Amerika Birleşik Devletleri, İran Devrim Muhafızları Kolordusu'nu (IRGC) 'sürpriz' balistik füze saldırıları düzenlemekle suçladı. Bu iddia, Suudi Arabistan'ın insansız hava araçlarını (İHA) engellediği bir döneme denk geldi. İran ise Hürmüz Boğazı üzerindeki kontrolünü sürdürmek için 'her türlü eylemi' yapacağı uyarısında bulundu. Bölgedeki gerilimlerin arttığı gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975879/pexels-photo-28975879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T00:58:29.303Z",
+        "location": {
+            "lat": 26,
+            "lng": 51,
+            "name": "Basra Körfezi Bölgesi"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785286733356a0fsl",
+        "title": "Yemen'deki Husiler, Suudi Arabistan Petrol Tankerine Füze Saldırısı Düzenlediğini İddia Etti",
+        "summary": "Yemen'deki Husi güçleri, Kızıldeniz'de Suudi Arabistan'a ait bir petrol tankerine füze saldırısı düzenlediklerini iddia etti. Bu saldırı, Husilerin Suudi Arabistan'a karşı Kızıldeniz'de ilan ettiği deniz ablukası kapsamında gerçekleşti. Grup, bölgedeki çeşitli tankerleri hedef alacağını belirtmişti. Söz konusu eylemler, bölgedeki deniz güvenliği ve enerji tedarik zincirleri üzerinde potansiyel etkiler yaratıyor. Gelişmeler, Yemen'deki çatışmanın bölgesel yansımalarını bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20097614/pexels-photo-20097614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T00:58:53.356Z",
+        "location": {
+            "lat": 13.5,
+            "lng": 43,
+            "name": "Kızıldeniz, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17852797518412fl6n",
         "title": "İsrail Hava Saldırısı Gazze Şehri'ndeki Camiyi Vurdu",
         "summary": "İsrail'in Gazze Şeridi'ne yönelik hava saldırıları devam ederken, Gazze Şehri'nde bulunan El-Muttaqin Camii hedef alındı. Yarmouk Stadyumu'nun yakınında ve yerinden edilmiş kişilerin kampının bitişiğinde yer alan cami, saldırı sonucunda yıkıldı. Olay anına ait video görüntüleri, hava saldırısının camiyi doğrudan vurduğunu ortaya koydu. Bölgedeki çatışmalar ve sivil altyapıya yönelik saldırılar endişe yaratmaya devam ediyor.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17851532403066zocw",
-        "title": "Batı Şeria'da İsrailli Yerleşimciler Camileri ve Tarım Arazilerini Ateşe Verdi",
-        "summary": "Filistinli yetkililer, işgal altındaki Batı Şeria'da İsrailli yerleşimcilerin saldırılar düzenlediğini bildirdi. Açıklamalara göre, yerleşimciler iki cami, çok sayıda araç ve geniş tarım arazisini ateşe verdi. BBC'nin haberine göre, saldırılardan doğrudan etkilenen Filistinliler yaşadıkları mağduriyeti anlattı. Bu olaylar, bölgedeki gerilimi daha da artırarak İsrail-Filistin çatışmasındaki hassasiyeti bir kez daha gözler önüne serdi. Uluslararası toplum, bu tür şiddet eylemlerinin durdurulması çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11716850/pexels-photo-11716850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T11:54:00.306Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785153283675y5pu3",
-        "title": "Lübnan Başbakanı BM İnsan Hakları Şefi ile görüştü, savaş suçları kanıtlarının toplanmasını destekledi",
-        "summary": "Lübnan Başbakanı Nawaf Salam, Birleşmiş Milletler İnsan Hakları Şefi ile bir araya geldi. Görüşmede Başbakan Salam, BM ekibinin Ekim 2023'ten bu yana uluslararası insancıl hukukun ihlallerini belgelemeye yönelik çalışmalarına tam destek verdiğini ifade etti. Bu destek, özellikle bölgedeki çatışmalar ve savaş suçları iddiaları bağlamında kanıt toplama çabalarının önemini vurguluyor. Lübnan'ın bu konudaki duruşu, uluslararası hukukun üstünlüğüne ve hesap verebilirliğe olan bağlılığını gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-27T11:54:43.675Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-meets-un-rights-chief-backs-collection-of-evidence-on-war-crimes/4010425",
         "trendScore": 85,
         "isBreaking": false
     }
