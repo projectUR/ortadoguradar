@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785367874941kacr1",
+        "title": "İsrail, Kanada'nın Batı Şeria Yerleşim Genişlemesine Karşı Çıkan Açıklamasını Kınadı",
+        "summary": "İsrail, Kanada'nın Batı Şeria'daki yerleşim birimlerinin genişletilmesine karşı çıkan açıklamasını sert bir dille kınadı. Kanada, işgal altındaki Filistin topraklarındaki yasa dışı yerleşimlerin \"barış, güvenlik ve istikrarı\" baltaladığını belirtmişti. Bu açıklama, iki ülke arasındaki diplomatik ilişkilerde gerilime yol açtı. Uluslararası toplumun büyük bir kısmı Batı Şeria'daki İsrail yerleşimlerini yasa dışı kabul ederken, İsrail bu görüşe karşı çıkıyor. Söz konusu durum, Orta Doğu barış sürecindeki temel anlaşmazlık konularından biri olarak öne çıkıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36879250/pexels-photo-36879250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T23:31:14.941Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785362666141t3gwa",
         "title": "Netanyahu ve Lindsey Graham'ın Uluslararası Mahkemeyi Zayıflatmak İçin Gizlice Koordine Olduğu İddia Edildi",
         "summary": "Bir rapora göre, İsrail Başbakanı Binyamin Netanyahu ve eski ABD Senatörü Lindsey Graham'ın uluslararası bir mahkemeyi zayıflatmak amacıyla özel olarak koordine oldukları iddia edildi. Ortaya çıkan kayıtlarda, merhum ABD senatörünün savaş suçları soruşturmasını kınamak için Demokratları bir araya getirdiği belirtiliyor. Bu koordinasyonun, İsrail'in eylemlerine yönelik olası uluslararası hukuki süreçleri etkilemeyi amaçladığı ve Orta Doğu'daki gerilimi artırabileceği ifade ediliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17852334052296fcmo",
-        "title": "Irak Başbakanı, Türkiye Ziyaretinde Yatırım, Su ve Güvenlik Konularını Görüşeceğini Açıkladı",
-        "summary": "Irak Başbakanı Ali Al-Zaidi, Türkiye'ye gerçekleştireceği ilk resmi ziyaretinde önemli gündem maddelerini ele alacağını duyurdu. Ziyaret kapsamında, iki ülke arasındaki yatırım hacminin artırılması hedefleniyor. Ayrıca, su işbirliği ve altyapı projeleri gibi kritik konuların da görüşmelerde yer alacağı belirtildi. Bölgesel istikrarın sağlanması ve daha geniş ekonomik ve güvenlik bağlarının güçlendirilmesi de ele alınacak başlıklar arasında bulunuyor. Bu ziyaretin, iki komşu ülke arasındaki ilişkileri çeşitli alanlarda derinleştirmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T10:10:05.229Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 32.9,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/iraqi-premier-says-he-will-discuss-investment-water-security-during-his-1st-official-visit-to-turkiye/4011220",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
