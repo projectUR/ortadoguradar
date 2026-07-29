@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785342226187pqwg5",
+        "title": "Trump, üslerin yeniden hedef alınmasının ardından ABD'nin İran'a 'darbe indireceğini' söyledi",
+        "summary": "ABD Başkanı Donald Trump, üslerin yeniden hedef alınmasının ardından ABD'nin İran'a 'darbe indireceğini' belirtti. Bu açıklama, İran'ın yeni saldırılar düzenlemesi ve Trump'ın İsrail Başbakanı Binyamin Netanyahu ile Beyaz Saray'da bir araya gelmesinin ertesi günü geldi. Trump, yaşanan gelişmelerin ardından bölgede büyük bir tırmanışın yaşanacağı sözünü verdi. ABD'nin İran'a yönelik bu sert tutumu, Orta Doğu'daki gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T16:23:46.187Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785342298652g1b0a",
+        "title": "Almanya'dan Suriye'ye Direkt Uçuşlar 14 Yıl Sonra Yeniden Başladı",
+        "summary": "Almanya ile Suriye arasındaki direkt uçuşlar, 14 yıl aradan sonra yeniden başladı. Köln merkezli Leav havayolu şirketi tarafından gerçekleştirilen ilk uçuş, Çarşamba sabahı Düsseldorf'tan Suriye'nin başkenti Şam'a doğru Airbus A320-200 tipi bir uçakla hareket etti. Bu gelişme, iki ülke arasındaki ulaşım bağlantılarının yeniden kurulması açısından önemli bir adım olarak değerlendiriliyor. Uçuşların başlaması, bölgedeki seyahat ve potansiyel olarak ticari ilişkilerde yeni bir dönemin başlangıcına işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1311074/pexels-photo-1311074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-29T16:24:58.652Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/europe/direct-flights-from-germany-to-syria-resume-after-14-years/4012857",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785336862796k7lzt",
         "title": "ABD ve İsrail Liderlerinin İran'a Yönelik Savaş Beklentileri Ortaya Çıktı",
         "summary": "Ortaya çıkan yeni detaylara göre, ABD ve İsrailli yetkililerin İran'a karşı olası bir savaşın basit ve kısa süreli olacağına inandığı belirtildi. Bu beklentinin, iki ülkenin liderleri arasında yapılan stratejik değerlendirmelerde dile getirildiği ifade edildi. Haber, geçmişteki askeri planlamalara ve öngörülere ışık tutarak, yetkililerin İran'a yönelik bir müdahalenin kolayca başarıya ulaşacağı yönündeki düşüncelerini gözler önüne seriyor. Bu bilgiler, bölgedeki potansiyel çatışma senaryolarına ilişkin daha önceki algıları yeniden gündeme getiriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/turkish-artists-exhibition-inspired-by-palestines-national-poet-opens-in-ramallah/4010956",
         "trendScore": 60,
-        "isBreaking": false
-    },
-    {
-        "id": "17852231489849750t",
-        "title": "Libya, 117 Binden Fazla Düzensiz Göçmeni Sınır Dışı Etti",
-        "summary": "Libya makamları, ülkedeki 117 binden fazla düzensiz göçmenin sınır dışı edildiğini duyurdu. Bu gelişme, Libya'nın düzensiz göçle mücadele çabalarının bir parçası olarak değerlendirilmektedir. Açıklamada ayrıca, 100 binden fazla Sudanlı göçmenin gönüllü geri dönüş programına kaydolduğu bilgisi paylaşıldı. Bu durum, Kuzey Afrika ve Orta Doğu bölgesindeki göçmen hareketliliğinin ve uluslararası işbirliğiyle yürütülen geri dönüş programlarının önemini bir kez daha vurgulamaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30665906/pexels-photo-30665906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T07:19:08.984Z",
-        "location": {
-            "lat": 32.88,
-            "lng": 13.19,
-            "name": "Trablus, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/libya-deports-over-117-000-irregular-migrants/4010952",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785223169410fvseh",
-        "title": "İsrailli Güçler Kudüs Yakınlarında Filistinlileri Yaraladı, Batı Şeria'da Eve El Koydu",
-        "summary": "Kudüs yakınlarında yaşanan olaylarda İsrailli güçlerin Filistinlileri yaraladığı bildirildi. Batı Şeria'da bir eve el konulurken, Ramallah'ta ise hayvan çalma girişiminde bulunulduğu belirtildi. Nablus yakınlarında ateş açıldığı bilgisi de aktarıldı. Ayrıca, İsrail güçleri tarafından Kudüs valisinin oğlunun gözaltına alındığı kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37960411/pexels-photo-37960411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T07:19:29.410Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-injure-palestinians-near-jerusalem-seize-west-bank-home/4010949",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
