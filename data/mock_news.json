@@ -1,5 +1,37 @@
 [
     {
+        "id": "17854402436185753f",
+        "title": "İspanya'nın Ceuta kenti göçmen akını nedeniyle acil durum ilan etti",
+        "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta, son bir hafta içinde deniz yoluyla 1.500'den fazla göçmenin ulaşması üzerine acil durum ilan etti. Yetkililer, bu ani ve büyük göçmen akını karşısında kaynakların yetersiz kaldığını ve insani yardım kapasitelerinin zorlandığını belirtti. Göçmenlerin çoğunlukla Sahra Altı Afrika ülkelerinden geldiği ve Avrupa'ya ulaşma umuduyla bu tehlikeli yolculuğa çıktığı kaydedildi. Bu durum, İspanya ve Avrupa Birliği için düzensiz göç yönetimi konusunda yeni bir sınama teşkil ederken, bölgedeki güvenlik ve insani endişeleri artırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3195757/pexels-photo-3195757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T19:37:23.618Z",
+        "location": {
+            "lat": 35.89,
+            "lng": -5.32,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1785440278992dg1l0",
+        "title": "Mısır, Akdeniz Limanı'nda Gaz Gemilerine Drone Saldırısı Sonucu Yangın Çıktığını Duyurdu",
+        "summary": "Mısır makamları, Akdeniz kıyısındaki Damietta Limanı'nda gaz gemilerine yönelik bir insansız hava aracı (drone) saldırısı meydana geldiğini ve saldırı sonucunda yangın çıktığını bildirdi. Çarşamba günü gerçekleşen olayda, bir ABD'ye ait yeniden gazlaştırma gemisi ile Yunanistan'a ait bir tankerin hedef alındığı belirtildi. Saldırı, limandaki operasyonları etkilerken, bölgedeki enerji güvenliği ve denizcilik faaliyetleri üzerindeki potansiyel tehditleri gündeme getirdi. Yetkililer, saldırının faillerini ve motivasyonunu belirlemek üzere kapsamlı bir soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28861949/pexels-photo-28861949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T19:37:58.992Z",
+        "location": {
+            "lat": 31.42,
+            "lng": 31.82,
+            "name": "Damietta, Mısır"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17854331791921r39d",
         "title": "Filistin Futbol Federasyonu, İsrail'in Gazze'de hayatını kaybeden futbol figürleri hakkındaki iddialarına karşı şikayette bulundu",
         "summary": "Filistin Futbol Federasyonu (PFA), İsrail'in Gazze'de hayatını kaybeden 12 Filistinli futbol figürü hakkında ortaya attığı iddialara karşı şikayette bulundu. PFA, İsrail'in bu suçlamalarının \"gerçekliği yeniden yazma ve sorumluluktan kaçma girişimi\" olduğunu belirtti. Federasyon, hayatını kaybeden sporcuların sivil statüsünü vurgulayarak, İsrail'in bu kişileri hedef göstermesinin uluslararası hukuka aykırı olduğunu savunuyor. Bu şikayetlerin uluslararası spor ve insan hakları kuruluşlarına iletildiği bildirildi.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17853096591592ys8k",
-        "title": "İran, Orta Doğu'daki ABD Üslerine Saldırdı; Hürmüz Boğazı'nda Gerilim Yükseldi",
-        "summary": "İran'ın Orta Doğu'daki ABD üslerine saldırılar düzenlediği bildirildi. Bu gelişmeler, ABD Başkanı Trump'ın İsrail Başbakanı Netanyahu ile bir araya geldiği döneme denk geldi. Ayrıca, İran'ın Hürmüz Boğazı'nda üç gemiye saldırdığı ve Umman'ın su yolunun yönetimine ilişkin önerisini reddettiği belirtildi. Bu olaylar, bölgedeki gerilimin tırmandığına işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T07:20:59.159Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785309713018bzp5o",
-        "title": "İsrail Başbakanı Netanyahu Washington DC'de Protesto Edildi",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD'nin başkenti Washington DC'de akşam yemeği yediği bir otelde protestocuların hedefi oldu. Aktivistler, Netanyahu'nun otelde bulunduğu sırada gösteri düzenleyerek İsrail liderini protesto etti. Olay, Washington'daki bir otelde gerçekleşirken, protestocuların Netanyahu'ya yönelik tepkilerini dile getirdiği belirtildi. Bu protesto, İsrail'in politikalarına yönelik uluslararası tepkilerin bir yansıması olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11622838/pexels-photo-11622838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T07:21:53.018Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/protesters-storm-hotel-heckle-netanyahu-in-washington-dc?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
