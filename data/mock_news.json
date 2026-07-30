@@ -1,5 +1,21 @@
 [
     {
+        "id": "17854168371724rw7b",
+        "title": "Lübnan'daki Güvenli Bölge Qana Üç Kez Nasıl Hedef Haline Geldi?",
+        "summary": "Lübnan'ın güneyindeki Qana köyü, son otuz yıl içinde İsrail ordusu tarafından üç kez hedef alındı. Köydeki sığınaklar, sivillerin güvenli bölge olarak kullandığı yerler olmasına rağmen bombalamalara maruz kaldı. AJLabs tarafından yapılan bir inceleme, İsrail'in bu köyü tekrar tekrar hedef almasını mercek altına alıyor. Bu durum, bölgedeki çatışmaların sivil halk üzerindeki etkilerini ve uluslararası hukukun ihlallerini gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5465086/pexels-photo-5465086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T13:07:17.172Z",
+        "location": {
+            "lat": 33.19,
+            "lng": 35.32,
+            "name": "Qana, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785409754287zw5fe",
         "title": "AFC Başkanı, FIFA'nın Dünya Kupası Hisseleri Satış Planına Karşı Çıktı",
         "summary": "Asya Futbol Konfederasyonu (AFC) Başkanı, Uluslararası Futbol Federasyonları Birliği (FIFA) tarafından Dünya Kupası hisselerinin satılması planına sert tepki gösterdi. Başkan, bu planı 'kabul edilemez' olarak nitelendirdi. AFC lideri, söz konusu satış planının sporun kıtasal yapısını zayıflatacağını ve mevcut düzeni bozacağını belirtti. Bu durum, FIFA ile kıtasal federasyonlar arasındaki yetki ve gelir paylaşımı konusunda yeni bir gerilime işaret ediyor ve Asya futbolunun gelecekteki finansal yapısını etkileyebilir.",
@@ -780,22 +796,6 @@
             "name": "Washington D.C., ABD"
         },
         "source": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785309807934ya080",
-        "title": "Irak Başbakanı, Suudi Arabistan-ABD Hava Saldırıları Sonrası Acil Güvenlik Toplantısı Emri Verdi",
-        "summary": "Irak Başbakanı Ali el-Zaidi, ülkedeki İran destekli gruplara yönelik gece düzenlenen hava saldırılarının ardından acil Ulusal Güvenlik Konseyi toplantısı çağrısında bulundu. Söz konusu saldırılar, Suudi Arabistan ve ABD güçleri tarafından gerçekleştirildi. Toplantının ardından detaylı bir açıklama yapılması bekleniyor. Bu gelişmeler, Irak'ın iç güvenliği ve bölgesel dinamikler açısından kritik bir döneme işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37732817/pexels-photo-37732817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T07:23:27.934Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraqi-premier-orders-emergency-security-meeting-after-saudi-us-airstrikes/4012165",
         "trendScore": 85,
         "isBreaking": false
     }
