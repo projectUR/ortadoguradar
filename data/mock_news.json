@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785390214348uzkpg",
+        "title": "Savaş ve Kıtlıklar Gazze Hastanelerini Çöküş Noktasına Getiriyor",
+        "summary": "Gazze'deki sağlık sistemi, bölgedeki savaş ve kaynak sıkıntılarının etkisiyle kritik bir çöküş noktasına ulaşmıştır. Hastaneler, diyaliz hastaları, uzuvları kesilmiş kişiler ve travma mağdurları gibi hayati bakıma muhtaç binlerce kişiye yeterli hizmeti sunamamaktadır. Bu durum, söz konusu hastaların yaşamlarını doğrudan tehdit etmekte ve insani krizi derinleştirmektedir. Uluslararası kuruluşlar, Gazze'deki sağlık altyapısının yetersizliği ve artan ihtiyaçlar konusunda endişelerini dile getirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193759/pexels-photo-36193759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T05:43:34.348Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178539023524323qaj",
+        "title": "ABD, Ürdün Saldırısı Sonrası İran'a Güçlü Hava Saldırıları Düzenledi",
+        "summary": "ABD Merkez Komutanlığı (CENTCOM), Ürdün'deki bir saldırıya misilleme olarak İran'ın güneyindeki çeşitli şehirlere yönelik \"güçlü bir saldırı dalgası\" gerçekleştirdiğini açıkladı. Yapılan açıklamada, hava saldırılarının İran'ın güneyindeki birden fazla hedefi vurduğu belirtildi. Bu operasyon, bölgedeki gerilimi tırmandırma potansiyeli taşıyor ve ABD'nin bölgedeki askeri varlığına yönelik tehditlere karşı bir yanıt olarak değerlendiriliyor. Saldırıların ardından bölgedeki güvenlik durumu yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/26731374/pexels-photo-26731374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T05:43:55.243Z",
+        "location": {
+            "lat": 29,
+            "lng": 56,
+            "name": "Güney İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1785390301457gimq8",
+        "title": "ABD, Amerikan askerlerine yönelik saldırı girişiminin ardından İran'a 'ağır' saldırılar düzenledi",
+        "summary": "ABD ordusu, Amerikan kuvvetlerine yönelik İran'ın balistik füze saldırısı girişimine misilleme olarak İran'a \"ağır\" bir saldırı düzenlediğini açıkladı. Bu misilleme, bölgedeki gerilimi daha da artırma potansiyeli taşıyor. ABD'nin Orta Doğu'daki askeri varlığına yönelik saldırılar ve bunlara verilen yanıtlar, bölgenin güvenlik gündeminin önemli bir parçasını oluşturuyor. Olayın detayları ve uzun vadeli etkileri yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36675779/pexels-photo-36675779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T05:45:01.457Z",
+        "location": {
+            "lat": 32,
+            "lng": 53,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1785379009723qmred",
         "title": "Asya, Hürmüz arz sıkıntısı yaşarken Japonya Kanada petrolüne yöneliyor",
         "summary": "Hürmüz Boğazı üzerinden ham petrol tedarikindeki belirsizlikler, Asya ülkelerini Kanada'nın TMX ham petrolüne yöneltiyor. Japonya gibi Asya ülkeleri, Orta Doğu'dan gelen petrol arzında yaşanabilecek aksaklıklara karşı alternatif kaynak arayışına girdi. Bu durum, küresel enerji piyasasında arz güvenliği endişelerinin arttığını ve ülkelerin tedarik zincirlerini çeşitlendirme çabalarını gösteriyor. Hürmüz Boğazı, Orta Doğu petrolünün dünya pazarlarına ulaşmasında kritik bir geçiş noktası olup, buradaki herhangi bir gerilim veya belirsizlik küresel enerji güvenliğini doğrudan etkilemektedir. Kanada'nın TMX petrolü, Asya'nın enerji talebini karşılamak üzere yeni bir seçenek olarak öne çıkıyor.",
@@ -748,54 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aa.com.tr/en/politics/iraq-says-it-can-supply-turkiye-with-1m-barrels-of-oil-per-day/4011885",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785257214816zjxyw",
-        "title": "Netanyahu'nun ABD Nüfuzu Sorgulanıyor",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun Washington üzerindeki eşsiz nüfuz iddiası, ABD ile ilişkilerin gerilmesiyle birlikte artan bir inceleme altına alındı. Bu durum, Netanyahu'nun İsrail iç siyasetindeki önemli bir kozu olarak görülen bu gücünün sorgulanmasına yol açıyor. ABD ile İsrail arasındaki bağların zayıflaması, Netanyahu'nun dış politika yetenekleri ve ülkesinin uluslararası konumlanması üzerindeki etkisini tartışmaya açtı. Bu gelişmeler, İsrail siyasetinde ve ABD-İsrail ilişkilerinde yeni bir dönemin habercisi olabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T16:46:54.816Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178525090548885ugr",
-        "title": "İsrailli yerleşimciler Batı Şeria'nın kuzeyinde yeni bir yerleşim karakolu kurdu",
-        "summary": "Batı Şeria'nın kuzeyinde yeni bir İsrail yerleşim karakolu kurulduğu bildirildi. Filistinli bir yetkiliye göre, bu, Salfit vilayetinde son iki gün içinde kurulan üçüncü yerleşim karakolu oldu. Bu tür yerleşim faaliyetleri, uluslararası hukuka göre yasa dışı kabul edilmekte ve bölgedeki gerilimi artırmaktadır. Filistinliler, bu karakolların topraklarına el konulması ve iki devletli çözümün önünde engel teşkil ettiğini belirtiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33271073/pexels-photo-33271073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T15:01:45.488Z",
-        "location": {
-            "lat": 32.08,
-            "lng": 35.18,
-            "name": "Salfit, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-establish-new-settlement-outpost-in-northern-west-bank/4011655",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17852333104770693g",
-        "title": "İsrail Başbakanı Netanyahu Beyaz Saray'da",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD'ye resmi bir ziyaret gerçekleştirerek Beyaz Saray'da önemli görüşmelerde bulunuyor. Bu ziyaret, İsrail güçlerinin işgal altındaki Batı Şeria'da düzenlediği operasyonların yoğunlaştığı bir döneme denk geliyor. Ayrıca, İsrail'de 27 Ekim'de yapılması planlanan seçimler öncesinde gerçekleşmesi, ziyaretin siyasi önemini artırıyor. Görüşmelerde, ABD-İsrail ilişkileri, bölgesel güvenlik meseleleri ve Filistin sorunu gibi konuların ele alınması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T10:08:30.477Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
