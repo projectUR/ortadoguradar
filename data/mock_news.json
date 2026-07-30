@@ -1,5 +1,85 @@
 [
     {
+        "id": "1785400295483xjubt",
+        "title": "ABD saldırıları İran'ın Keşm Adası'nda geniş çaplı hasara yol açtı",
+        "summary": "İran'ın Keşm Adası'ndan gelen görüntüler, ABD saldırılarının ardından adada geniş çaplı hasar oluştuğunu ortaya koydu. Yayımlanan videolarda, saldırıların yol açtığı yıkımın boyutları net bir şekilde görüldü. Olay, bölgedeki güvenlik durumunu ve ABD ile İran arasındaki mevcut gerilimi bir kez daha gündeme getirdi. Yetkililerden saldırılara ilişkin henüz detaylı bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12180146/pexels-photo-12180146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T08:31:35.483Z",
+        "location": {
+            "lat": 26.8,
+            "lng": 56,
+            "name": "Keşm Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1785400401102ryy1n",
+        "title": "Kuveyt'teki Çin Şirketi Binasına Yönelik İran Saldırısında Bir İşçi Öldü",
+        "summary": "Kuveyt askeri yetkilileri, ülkenin kuzeyinde bulunan bir Çin şirketine ait binaya düzenlenen saldırıda bir işçinin hayatını kaybettiğini duyurdu. Yapılan açıklamada, saldırının binada geniş çaplı hasara neden olduğu belirtildi. Kuveytli makamlar, olayın ardından acil durum müdahalesi başlattı. Saldırının İran tarafından gerçekleştirildiği ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38729655/pexels-photo-38729655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T08:33:21.102Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-attack-kills-worker-at-chinese-company-building-in-kuwait/4013488",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1785400428439igbk9",
+        "title": "Mısır, Dimyat Limanı'nda İki Gemiye İHA Saldırısı Nedeniyle Yangın Çıktığını Doğruladı",
+        "summary": "Mısır hükümeti, Dimyat Limanı'nda demirli iki gemide çıkan yangına bir insansız hava aracının neden olduğunu doğruladı. Kabine tarafından yapılan açıklamada, Akdeniz kıyısındaki limanda meydana gelen olayın sorumluluğunu henüz hiçbir tarafın üstlenmediği belirtildi. Yetkililer, olayın detaylarını ve insansız hava aracının kaynağını belirlemek üzere kapsamlı bir soruşturma yürütüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12925560/pexels-photo-12925560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T08:33:48.439Z",
+        "location": {
+            "lat": 31.4167,
+            "lng": 31.8167,
+            "name": "Dimyat, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egypt-confirms-drone-caused-fire-aboard-2-vessels-at-damietta-port/4013461",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785400466763lniti",
+        "title": "İran Devrim Muhafızları'ndan Hürmüz Boğazı Açıklaması: ABD Tehditleri Sürdükçe Açılmaz",
+        "summary": "İran Devrim Muhafızları, ABD'nin bölgedeki 'tehditleri' devam ettiği sürece Hürmüz Boğazı'nın yeniden açılamayacağını bildirdi. Yapılan açıklamada, iki petrol tankerinin Hürmüz'ün güneyindeki 'güvenli olmayan bir rotadan' geçiş girişimini terk ettiği belirtildi. Tankerlerden birinin çıkan yangın nedeniyle geçişi durdurmak zorunda kaldığı ifade edildi. Bu durum, bölgedeki gerilimi ve denizcilik güvenliği endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5640138/pexels-photo-5640138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T08:34:26.763Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-strait-of-hormuz-cannot-reopen-while-us-threats-continue/4013306",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785400487589yrfow",
+        "title": "ABD'nin Güney İran'a Düzenlediği Saldırıda 3 Aile Üyesi Hayatını Kaybetti, 2 Çocuk Yaralandı: IRNA",
+        "summary": "İran resmi haber ajansı IRNA'nın bildirdiğine göre, ABD'nin güney İran'a düzenlediği bir saldırıda üç aile üyesi hayatını kaybederken, iki çocuk yaralandı. İranlı bir yetkili, saldırının Hürmüz Boğazı'nda bulunan Keşm Adası'ndaki bir yerleşim binasını hedef aldığını belirtti. Öte yandan, ABD ordusu yaptığı açıklamada, saldırıların İran'ı hedef aldığını doğruladı. ABD, bu saldırıların Orta Doğu'daki Amerikan güçlerine yönelik füze saldırısı girişimlerine bir yanıt olduğunu ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4192/sport-alley-ball-game.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T08:34:47.589Z",
+        "location": {
+            "lat": 26.85,
+            "lng": 55.9,
+            "name": "Keşm Adası, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/3-family-members-killed-2-children-injured-in-us-strike-on-southern-iran-irna/4013295",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1785390214348uzkpg",
         "title": "Savaş ve Kıtlıklar Gazze Hastanelerini Çöküş Noktasına Getiriyor",
         "summary": "Gazze'deki sağlık sistemi, bölgedeki savaş ve kaynak sıkıntılarının etkisiyle kritik bir çöküş noktasına ulaşmıştır. Hastaneler, diyaliz hastaları, uzuvları kesilmiş kişiler ve travma mağdurları gibi hayati bakıma muhtaç binlerce kişiye yeterli hizmeti sunamamaktadır. Bu durum, söz konusu hastaların yaşamlarını doğrudan tehdit etmekte ve insani krizi derinleştirmektedir. Uluslararası kuruluşlar, Gazze'deki sağlık altyapısının yetersizliği ve artan ihtiyaçlar konusunda endişelerini dile getirmektedir.",
@@ -716,86 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785268897665z36wq",
-        "title": "Sudan'daki Çatışmayı Durdurmak İçin Ne Gerekiyor?",
-        "summary": "Sudan'da devam eden çatışmalara ilişkin olarak, ordu başkent Hartum'u El-Ubeyd'e bağlayan stratejik bir otoyolu geri aldığını duyurdu. Bu gelişme, ülkedeki askeri operasyonların seyrini etkileyebilecek önemli bir ilerleme olarak kaydedildi. Hartum ve El-Ubeyd arasındaki bu ana yolun kontrolü, lojistik ve ikmal açısından kritik bir öneme sahip olup, çatışmanın gidişatını etkileyebilir. Bölgedeki taraflar arasındaki gerilim devam ederken, uluslararası toplum çatışmanın durdurulması için çağrılarını sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T20:01:37.665Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.5,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17852689204165kmn9",
-        "title": "Batı Şeria'daki Taş Ocağı Sahibi, Yerleşimci Baskını Sonrası Trump'a Çağrıda Bulundu",
-        "summary": "Batı Şeria'da bir taş ocağı sahibi, tesisine İsrailli yerleşimciler tarafından düzenlenen bir baskının ardından eski ABD Başkanı Donald Trump'a çağrıda bulundu. Bu olay, bölgedeki İsrail yerleşimcileri ile Filistinliler arasındaki mülkiyet ve güvenlik gerilimlerini bir kez daha gündeme getirdi. Taş ocağı sahibinin bu uluslararası çağrısı, yaşanan hak ihlallerine dikkat çekme ve uluslararası destek arayışı olarak değerlendiriliyor. Bölgedeki Filistinlilere ait mülkler üzerindeki yerleşimci eylemleri, uzun süredir devam eden çatışmanın önemli bir boyutunu oluşturmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9268903/pexels-photo-9268903.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T20:02:00.416Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785268944796lvs9c",
-        "title": "Gazze'de Savaşın Travmasıyla Düşük Oranları Yükseliyor",
-        "summary": "Gazze Şeridi'nde devam eden savaşın yol açtığı travma ve zorlu yaşam koşulları, hamile kadınlar arasında düşük oranlarının artmasına neden oluyor. Bölgedeki sağlık kuruluşlarından al-Awda Hastanesi'ndeki doktorlar, gözlemledikleri gebelik kayıplarının yaklaşık yüzde 70'inin İsrail'in saldırıları ve uyguladığı abluka ile bağlantılı olduğunu belirtiyor. Sağlık uzmanları, savaşın getirdiği stres, yetersiz beslenme ve tıbbi hizmetlere erişimdeki kısıtlamaların bu artışta önemli rol oynadığını vurguluyor. Bu durum, Gazze'deki insani krizin kadın sağlığı üzerindeki yıkıcı etkilerini bir kez daha gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36038715/pexels-photo-36038715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T20:02:24.796Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1785262625871do7qh",
-        "title": "Sudan'da Hızlı Destek Kuvvetleri'nin İhlallerini Belgeleme Mücadelesi",
-        "summary": "Sudan'da devam eden çatışmalarda, insan hakları ağları sessizce faaliyet göstererek Hızlı Destek Kuvvetleri (RSF) tarafından işlenen zulümleri belgelemek için zamana karşı yarışıyor. Bu ağlar, kanıtların yok edilmeden önce toplanmasını ve korunmasını amaçlıyor. Çalışmalar, çatışma bölgelerindeki insan hakları ihlallerinin uluslararası kamuoyuna duyurulması ve sorumluların hesap vermesi için kritik önem taşıyor. Bu gizli mücadele, Sudan'daki insan hakları durumuna ışık tutmayı hedefliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/34222337/pexels-photo-34222337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T18:17:05.871Z",
-        "location": {
-            "lat": 15,
-            "lng": 30,
-            "name": "Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/28/inside-the-secret-battle-to-document-rsf-abuses-in-sudan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785262698233usta2",
-        "title": "Irak, Türkiye'ye günde 1 milyon varil petrol tedarik edebileceğini açıkladı",
-        "summary": "Irak Başbakanı Ali el-Zaidi, Cumhurbaşkanı Recep Tayyip Erdoğan ile gerçekleştirdiği görüşmelerin ardından ülkesinin Türkiye'ye günde 1 milyon varil petrol tedarik edebileceğini doğruladı. Bu açıklama, iki komşu ülkenin enerji ve ekonomik işbirliğini daha da güçlendirme arayışında olduğu bir dönemde geldi. Söz konusu tedarik kapasitesi, bölgesel enerji güvenliği ve iki ülke arasındaki ekonomik ilişkilerin derinleşmesi açısından önemli bir adım olarak değerlendiriliyor. Görüşmelerin, enerji alanındaki mevcut işbirliklerini artırma ve yeni fırsatlar yaratma potansiyeli taşıdığı belirtildi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/7796455/pexels-photo-7796455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-28T18:18:18.233Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/politics/iraq-says-it-can-supply-turkiye-with-1m-barrels-of-oil-per-day/4011885",
         "trendScore": 85,
         "isBreaking": false
     }
