@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785425549527lwmpl",
+        "title": "ABD, İran'a Yönelik Bombardımanı Yeniden Başlattı",
+        "summary": "Amerika Birleşik Devletleri'nin İran'a yönelik bombardıman operasyonlarına yeniden başladığı bildirildi. \"İran Savaşı: İkinci Aşama: 19. Gün\" başlığı altında duyurulan gelişmede, İran'ın Keşm Adası'nda düzenlenen saldırılarda üç kişilik bir ailenin hayatını kaybettiği belirtildi. Bu olay, bölgedeki çatışmaların şiddetlendiğini ve sivil kayıpların yaşandığını gözler önüne serdi. ABD'nin bu adımı, Orta Doğu'daki gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1214270/pexels-photo-1214270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T15:32:29.527Z",
+        "location": {
+            "lat": 26.85,
+            "lng": 56.17,
+            "name": "Keşm Adası, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
+        "id": "1785425571581c0is6",
+        "title": "Londra'da Filistin Eylemi'ni Destekleyen Mitingde Düzinelerce Kişi Gözaltına Alındı",
+        "summary": "Londra'da Filistin yanlısı bir grubun düzenlediği mitingde polis onlarca kişiyi gözaltına aldı. Söz konusu eylem, 'Palestine Action' adlı yasaklı grubu desteklemek amacıyla gerçekleştirildi. Bu protesto, Andy Burnham'ın başbakanlık görevine gelmesinden bu yana yasaklı grubu destekleyen ilk gösteri olma özelliğini taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19544047/pexels-photo-19544047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T15:32:51.581Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": -0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17854168371724rw7b",
         "title": "Lübnan'daki Güvenli Bölge Qana Üç Kez Nasıl Hedef Haline Geldi?",
         "summary": "Lübnan'ın güneyindeki Qana köyü, son otuz yıl içinde İsrail ordusu tarafından üç kez hedef alındı. Köydeki sığınaklar, sivillerin güvenli bölge olarak kullandığı yerler olmasına rağmen bombalamalara maruz kaldı. AJLabs tarafından yapılan bir inceleme, İsrail'in bu köyü tekrar tekrar hedef almasını mercek altına alıyor. Bu durum, bölgedeki çatışmaların sivil halk üzerindeki etkilerini ve uluslararası hukukun ihlallerini gündeme getiriyor.",
@@ -764,38 +796,6 @@
             "name": "al-Mughayyir, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785309758529t8vso",
-        "title": "Suudi Arabistan, ABD ile İran Destekli Milislere Karşı Operasyonlara Katıldı",
-        "summary": "ABD Merkez Komutanlığı'nın yaptığı açıklamaya göre, İran destekli milis gruplar ABD üslerine ve Suudi Arabistan'ın enerji altyapısına yönelik saldırılar düzenledi. Bu saldırılara yanıt olarak, Suudi Arabistan, ABD ile birlikte söz konusu milis gruplara karşı düzenlenen operasyonlara katıldı. Ortak operasyonların, bölgedeki güvenlik ve istikrarı tehdit eden unsurlara karşı bir misilleme olduğu belirtildi. Bu gelişme, Orta Doğu'daki gerilimin yeni bir boyut kazandığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15688701/pexels-photo-15688701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T07:22:38.529Z",
-        "location": {
-            "lat": 25,
-            "lng": 45,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785309783091zyz2y",
-        "title": "Zelenski ve Netanyahu, Trump ile Beyaz Saray'da Görüştü",
-        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski ve İsrail Başbakanı Binyamin Netanyahu'nun eski ABD Başkanı Donald Trump ile Beyaz Saray'da ayrı ayrı ikili görüşmeler gerçekleştirdiği bildirildi. Görüşmelerin ardından her iki liderin de olumlu bir izlenim edindiği belirtildi. Bu buluşmaların, Ukrayna'daki savaş ve İran'daki gerilimin devam ettiği bir dönemde gerçekleşmesi dikkat çekti. Toplantılarda bölgesel ve küresel güvenlik konularının ele alındığı tahmin ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T07:23:03.091Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
