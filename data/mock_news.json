@@ -1,5 +1,37 @@
 [
     {
+        "id": "178545098113560lha",
+        "title": "ABD GSYİH Büyümesi Neden Yavaşlıyor ve Bu Durum Nasıl Tersine Çevrilebilir?",
+        "summary": "Amerika Birleşik Devletleri ekonomisi, 2026 yılının ikinci çeyreğinde Gayri Safi Yurtiçi Hasıla (GSYİH) büyümesinde belirgin bir yavaşlama kaydetti. Bu ekonomik durgunluğun ana nedenleri arasında uygulanan gümrük vergileri ve küresel petrol fiyatlarındaki artışlar gösteriliyor. Söz konusu faktörler, tedarik zincirlerinde bir şok etkisi yaratarak genel ekonomik aktiviteyi olumsuz etkiledi. Uzmanlar, bu durumun ABD ekonomisi üzerindeki uzun vadeli etkilerini ve olası çözüm yollarını değerlendiriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/34240091/pexels-photo-34240091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T22:36:21.135Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785451053293ww55b",
+        "title": "Yemen'de Husilerle Çatışmalarda 2 Asker Hayatını Kaybetti",
+        "summary": "Yemen'de hükümet yanlısı güçler ile Husiler arasında devam eden çatışmalarda iki askerin hayatını kaybettiği bildirildi. Hükümet yanlısı kaynaklar, çatışmaların yeniden tırmandığı bir dönemde bu kayıpların yaşandığını doğruladı. Bölgedeki gerilimin artarak devam ettiği belirtiliyor. Yemen'deki iç savaşın tarafları arasındaki mücadele sürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7132571/pexels-photo-7132571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-30T22:37:33.293Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-yemeni-soldiers-killed-in-clashes-with-houthis/4014372",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1785445988824tr61w",
         "title": "Irak'ta ABD-Suudi Saldırıları Sonrası Gerilim Tırmandı: İran Bağlantılı Gruplar Hedef Alındı",
         "summary": "ABD ve Suudi Arabistan'ın Irak'ta İran ile bağlantılı paramiliter bir grubu hedef alan ortak saldırıları, ülkede büyük bir öfkeye neden oldu. Bu saldırılar, Irak'taki siyasi ve güvenlik ortamında gerilimi artırırken, bölgedeki güç dengelerini yeniden tartışmaya açtı. Tahran'a yakınlığıyla bilinen gruplara yönelik bu operasyonlar, Suudi Arabistan'ın bölgedeki çatışmalara daha fazla çekilip çekilmeyeceği sorusunu gündeme getirdi. Olay, Orta Doğu'da devam eden vekalet savaşlarının ve bölgesel aktörler arasındaki gerilimin yeni bir boyut kazandığını gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/ousted-syrian-ruler-s-cousin-appears-in-4th-trial-over-assad-era-crimes/4012364",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785319899001r20d2",
-        "title": "İsrail Güçleri Nablus Yakınlarındaki Köyü Bastı, Batı Şeria Genelinde 15 Filistinliyi Gözaltına Aldı",
-        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da askeri operasyonların tırmanmasıyla birlikte gece baskınlarına devam ediyor. Bu kapsamda, Nablus yakınlarındaki Al-Lubban al-Sharqiya köyünde 50'den fazla İsrail askeri onlarca evi aradı. Operasyonlar sırasında işgal altındaki Batı Şeria genelinde toplam 15 Filistinli gözaltına alındı. Bölgedeki gerilimin arttığı belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2582931/pexels-photo-2582931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T10:11:39.001Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-village-near-nablus-detain-15-palestinians-across-occupied-west-bank/4012292",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785319922406qziuy",
-        "title": "İsrail'in Gazze Savaşı Hakkındaki Yapay Zeka Yanıtlarını Etkileme Kampanyası Yürüttüğü İddia Edildi",
-        "summary": "Bir rapora göre, İsrail'in Gazze Savaşı'na ilişkin yapay zeka (YZ) sohbet robotlarının yanıtlarını etkilemek amacıyla 46,5 milyon dolarlık bir kampanya yürüttüğü öne sürüldü. \"Drop Site\" adlı kuruluşun raporuna göre, bu kampanya kapsamında İsrail yanlısı web sitelerinden oluşan bir ağ oluşturuldu. Bu ağın, arama motoru indeksleme ve YZ eğitim verileri aracılığıyla büyük YZ sohbet robotları tarafından üretilen yanıtları şekillendirmeyi hedeflediği belirtildi. Kampanyanın amacının, Gazze'deki çatışmaya dair anlatıyı İsrail lehine yönlendirmek olduğu ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8439093/pexels-photo-8439093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T10:12:02.406Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-funded-465m-campaign-to-influence-ai-responses-on-gaza-war-report/4012265",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
