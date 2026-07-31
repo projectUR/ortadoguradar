@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785522126687xzbr2",
+        "title": "İsrail neden yasa dışı yerleşimcileri silahlandırıyor?",
+        "summary": "İsrail hükümetinin, yerleşimci saldırılarının rekor seviyelere ulaştığı bir dönemde İsraillilere 100.000'den fazla saldırı tüfeği dağıttığı bildirildi. Bu gelişme, özellikle Batı Şeria'daki Filistinliler ile İsrailli yerleşimciler arasındaki gerilimi artırma potansiyeli taşıyor. Uluslararası kamuoyunda, yasa dışı yerleşimcilerin silahlandırılmasının bölgedeki çatışmaları tırmandırabileceği yönünde endişeler dile getiriliyor. Hükümetin bu adımı, güvenlik gerekçeleriyle açıklansa da, insan hakları örgütleri tarafından eleştiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34632463/pexels-photo-34632463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T18:22:06.687Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785522275898sfw7o",
+        "title": "Mısır, Gazze ateşkesinin uygulanması için arabulucular toplantısına ev sahipliği yapacak",
+        "summary": "Mısır'ın, Gazze'deki ateşkesin uygulanması amacıyla arabulucular toplantısına ev sahipliği yapacağı bildirildi. Kaynaklara göre, Hamas ve diğer Filistinli gruplar, ateşkesin ikinci aşamasına yönelik yol haritasını arabuluculara onayladıklarını iletti. Bu toplantının, bölgedeki gerilimi düşürme ve kalıcı bir çözüm bulma çabalarının bir parçası olduğu ifade edildi. Gelişmeler, Gazze'deki insani durumun iyileştirilmesi ve çatışmaların sona erdirilmesi açısından kritik önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36850177/pexels-photo-36850177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T18:24:35.898Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egypt-to-host-mediators-meeting-on-gaza-ceasefire-implementation-report/4015218",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785516690037b2yp4",
         "title": "Gazze'de Hamas'ın Silahsızlandırılması İçin Üç Yıllık Yol Haritası Önerildi",
         "summary": "ABD destekli bir öneri kapsamında, Gazze Şeridi'nde Hamas'ın silahsızlandırılmasına yönelik üç yıllık bir yol haritası sunuldu. Bu plan, bölgedeki siyasi geçiş sürecini düzenlemeyi hedefliyor. Öneriye göre, Hamas ve İsrail'in Gazze'nin gelecekteki yönetimini ve siyasi yapısını kesinleştirmek için 14 günlük bir süreleri olacak. Bu girişim, Orta Doğu'da kalıcı barış ve istikrar arayışlarının bir parçası olarak değerlendiriliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1785400401102ryy1n",
-        "title": "Kuveyt'teki Çin Şirketi Binasına Yönelik İran Saldırısında Bir İşçi Öldü",
-        "summary": "Kuveyt askeri yetkilileri, ülkenin kuzeyinde bulunan bir Çin şirketine ait binaya düzenlenen saldırıda bir işçinin hayatını kaybettiğini duyurdu. Yapılan açıklamada, saldırının binada geniş çaplı hasara neden olduğu belirtildi. Kuveytli makamlar, olayın ardından acil durum müdahalesi başlattı. Saldırının İran tarafından gerçekleştirildiği ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38729655/pexels-photo-38729655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T08:33:21.102Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-attack-kills-worker-at-chinese-company-building-in-kuwait/4013488",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1785400428439igbk9",
-        "title": "Mısır, Dimyat Limanı'nda İki Gemiye İHA Saldırısı Nedeniyle Yangın Çıktığını Doğruladı",
-        "summary": "Mısır hükümeti, Dimyat Limanı'nda demirli iki gemide çıkan yangına bir insansız hava aracının neden olduğunu doğruladı. Kabine tarafından yapılan açıklamada, Akdeniz kıyısındaki limanda meydana gelen olayın sorumluluğunu henüz hiçbir tarafın üstlenmediği belirtildi. Yetkililer, olayın detaylarını ve insansız hava aracının kaynağını belirlemek üzere kapsamlı bir soruşturma yürütüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12925560/pexels-photo-12925560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T08:33:48.439Z",
-        "location": {
-            "lat": 31.4167,
-            "lng": 31.8167,
-            "name": "Dimyat, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egypt-confirms-drone-caused-fire-aboard-2-vessels-at-damietta-port/4013461",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
