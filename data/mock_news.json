@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785528186031nif3c",
+        "title": "Trump: ABD'nin İsrail ile Hamas'ın Silahsızlandırılması Konusunda 'Anlayışı' Var",
+        "summary": "Eski ABD Başkanı Donald Trump, Amerika Birleşik Devletleri'nin İsrail ile Hamas'ın silahsızlandırılmasına yönelik bir anlaşma konusunda 'anlayışa' sahip olduğunu belirtti. Bu potansiyel anlaşma, Hamas'ın silahlarını bırakması karşılığında İsrail'in Gazze'den tamamen çekilmesini öngörüyor. Ancak, İsrail'in söz konusu plana henüz onay vermediği bildirildi. Bu durum, planın uygulanması için henüz tam bir mutabakat sağlanamadığını ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36856916/pexels-photo-36856916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T20:03:06.031Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin/İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785528229365q68oi",
+        "title": "Trump: Hamas'ın Silahsızlandırılması Anlaşması Karmaşık Olacak",
+        "summary": "Eski ABD Başkanı Donald Trump, Filistinli grup Hamas'ın tamamen silahsızlandırılmasına yönelik bir anlaşmanın hayata geçirilmesinin karmaşık bir süreç olacağını ifade etti. Trump, İsrail'in bu tür bir mutabakatı güçlü bir şekilde desteklediğini belirtti. Bu açıklama, İsrail-Hamas çatışmasının geleceği ve bölgedeki güvenlik dinamikleri açısından önemli bir potansiyel gelişmeye işaret ediyor. Ancak, böyle bir anlaşmanın detayları ve uygulanabilirliği konusunda önemli zorluklar bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/28354036/pexels-photo-28354036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T20:03:49.365Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785522126687xzbr2",
         "title": "İsrail neden yasa dışı yerleşimcileri silahlandırıyor?",
         "summary": "İsrail hükümetinin, yerleşimci saldırılarının rekor seviyelere ulaştığı bir dönemde İsraillilere 100.000'den fazla saldırı tüfeği dağıttığı bildirildi. Bu gelişme, özellikle Batı Şeria'daki Filistinliler ile İsrailli yerleşimciler arasındaki gerilimi artırma potansiyeli taşıyor. Uluslararası kamuoyunda, yasa dışı yerleşimcilerin silahlandırılmasının bölgedeki çatışmaları tırmandırabileceği yönünde endişeler dile getiriliyor. Hükümetin bu adımı, güvenlik gerekçeleriyle açıklansa da, insan hakları örgütleri tarafından eleştiriliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iraq-anti-corruption-body-dismantles-network-at-southern-diwaniyah-municipality/4013764",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "17854099806082slb1",
-        "title": "Irak, Suudi Arabistan'a Yönelik Saldırıların Kendi Topraklarından Kaynaklandığına Dair Kanıt Olmadığını Açıkladı",
-        "summary": "Irak hükümeti, Suudi Arabistan'a yönelik saldırıların kendi topraklarından kaynaklandığına dair herhangi bir kanıt bulunmadığını duyurdu. Bağdat, bu tür saldırıların kökenine dair kanıt sunulması çağrısında bulundu. Irak yönetimi ayrıca, ülkesinin topraklarından izinsiz saldırıların önlenmesi için gerekli tüm tedbirleri alacağını taahhüt etti. Bu açıklama, bölgedeki güvenlik endişeleri ve potansiyel gerilimler bağlamında önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27658186/pexels-photo-27658186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T11:13:00.608Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-says-no-evidence-attacks-on-saudi-arabia-originated-from-its-territory/4013750",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785400295483xjubt",
-        "title": "ABD saldırıları İran'ın Keşm Adası'nda geniş çaplı hasara yol açtı",
-        "summary": "İran'ın Keşm Adası'ndan gelen görüntüler, ABD saldırılarının ardından adada geniş çaplı hasar oluştuğunu ortaya koydu. Yayımlanan videolarda, saldırıların yol açtığı yıkımın boyutları net bir şekilde görüldü. Olay, bölgedeki güvenlik durumunu ve ABD ile İran arasındaki mevcut gerilimi bir kez daha gündeme getirdi. Yetkililerden saldırılara ilişkin henüz detaylı bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12180146/pexels-photo-12180146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T08:31:35.483Z",
-        "location": {
-            "lat": 26.8,
-            "lng": 56,
-            "name": "Keşm Adası, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
