@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785500816077ogy6y",
+        "title": "İspanya-Fas Sınırında Kitlesel Göçmen Akını Ortasında Çatışmalar İkinci Gününde",
+        "summary": "İspanya ile Fas arasındaki sınırda kitlesel göçmen akını nedeniyle yaşanan çatışmalar ikinci gününe girdi. Bölgede artan göçmen geçişleri, sınır güvenlik güçleri arasında gerilime yol açtı. İki ülke arasındaki sınır hattında yaşanan bu olaylar, göçmenlerin Avrupa'ya ulaşma çabaları sırasında meydana geldi. Durumun bölgedeki güvenlik ve insani koşullar üzerindeki etkisi yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37197253/pexels-photo-37197253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T12:26:56.077Z",
+        "location": {
+            "lat": 35.89,
+            "lng": -5.32,
+            "name": "Ceuta, İspanya / Fas Sınırı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17855009465318hsga",
+        "title": "Kuveyt, Hayati ve Askeri Tesislerine Yönelik Saldırı Sonrası İran İHA'larını İmha Ettiğini Duyurdu",
+        "summary": "Kuveyt, ülkenin hayati ve askeri tesislerine yönelik bir saldırının ardından İran'a ait insansız hava araçlarını (İHA) imha ettiğini açıkladı. Kuveyt ordusundan yapılan açıklamada, saldırı sonrası düşen İHA enkazlarından dolayı maddi hasar meydana geldiği bildirildi. Ancak olayda herhangi bir can kaybı yaşanmadığı özellikle vurgulandı. Bu gelişme, Körfez bölgesindeki güvenlik dinamikleri ve İran ile komşu ülkeler arasındaki ilişkiler açısından dikkat çekici bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T12:29:06.531Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aa.com.tr/en/americas/kuwait-says-it-destroyed-iranian-drones-after-attack-on-vital-military-facilities/4014875",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785492350481d7ujq",
         "title": "Nablus yakınlarında İsrail baskınlarında çocuklar dahil en az 11 kişi yaralandı",
         "summary": "İsrail güçleri ve yerleşimciler, işgal altındaki Batı Şeria'da bulunan Nablus kenti yakınlarındaki bölgelere baskın düzenledi. Tal kasabasında artan şiddet olaylarının ardından gerçekleştirilen operasyonlarda çocuklar da dahil olmak üzere en az 11 Filistinli yaralandı. Bölgedeki gerilimin tırmanmasıyla birlikte bazı kişilerin gözaltına alındığı bildirildi. Olaylar, Batı Şeria'daki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi.",
@@ -764,38 +796,6 @@
             "name": "Keşm Adası, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/3-family-members-killed-2-children-injured-in-us-strike-on-southern-iran-irna/4013295",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1785390214348uzkpg",
-        "title": "Savaş ve Kıtlıklar Gazze Hastanelerini Çöküş Noktasına Getiriyor",
-        "summary": "Gazze'deki sağlık sistemi, bölgedeki savaş ve kaynak sıkıntılarının etkisiyle kritik bir çöküş noktasına ulaşmıştır. Hastaneler, diyaliz hastaları, uzuvları kesilmiş kişiler ve travma mağdurları gibi hayati bakıma muhtaç binlerce kişiye yeterli hizmeti sunamamaktadır. Bu durum, söz konusu hastaların yaşamlarını doğrudan tehdit etmekte ve insani krizi derinleştirmektedir. Uluslararası kuruluşlar, Gazze'deki sağlık altyapısının yetersizliği ve artan ihtiyaçlar konusunda endişelerini dile getirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193759/pexels-photo-36193759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T05:43:34.348Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178539023524323qaj",
-        "title": "ABD, Ürdün Saldırısı Sonrası İran'a Güçlü Hava Saldırıları Düzenledi",
-        "summary": "ABD Merkez Komutanlığı (CENTCOM), Ürdün'deki bir saldırıya misilleme olarak İran'ın güneyindeki çeşitli şehirlere yönelik \"güçlü bir saldırı dalgası\" gerçekleştirdiğini açıkladı. Yapılan açıklamada, hava saldırılarının İran'ın güneyindeki birden fazla hedefi vurduğu belirtildi. Bu operasyon, bölgedeki gerilimi tırmandırma potansiyeli taşıyor ve ABD'nin bölgedeki askeri varlığına yönelik tehditlere karşı bir yanıt olarak değerlendiriliyor. Saldırıların ardından bölgedeki güvenlik durumu yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/26731374/pexels-photo-26731374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T05:43:55.243Z",
-        "location": {
-            "lat": 29,
-            "lng": 56,
-            "name": "Güney İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
     }
