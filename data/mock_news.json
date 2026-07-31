@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785456266712qdcvy",
+        "title": "Trump, Hamas'ın silahsızlanacağını ve İsrail'in Gazze'den çekilmesinin önünü açacağını duyurdu",
+        "summary": "ABD Başkanı Donald Trump, sosyal medya platformu TruthSocial üzerinden yaptığı açıklamada, Filistinli grup Hamas'ın tamamen silahsızlanması konusunda bir anlaşmaya varıldığını duyurdu. Trump, bu anlaşmanın İsrail'in Gazze Şeridi'nden çekilmesinin önünü açacağını belirtti. Bu iddia, bölgedeki mevcut çatışmalar ve siyasi dinamikler göz önüne alındığında önemli bir gelişme olarak öne çıkıyor. Ancak, anlaşmanın içeriği ve Hamas'ın bu konudaki resmi beyanları hakkında henüz detaylı bilgi paylaşılmadı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4058266/pexels-photo-4058266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T00:04:26.712Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "178545635687472n4o",
+        "title": "İran, Mısır'ın Dimyat Limanı'ndaki İHA Saldırısı Sonrası İsrail'in 'Sahte Bayrak Operasyonları' Konusunda Uyardı",
+        "summary": "İran, Mısır'ın Dimyat Limanı'na düzenlenen insansız hava aracı (İHA) saldırısının ardından İsrail'in 'sahte bayrak operasyonları' düzenleyebileceği konusunda uyarıda bulundu. İran Dışişleri Bakanı Abbas Araghchi, Mısır'ın güvenliğinin Tahran için 'son derece önemli' olduğunu vurguladı. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde geldi ve İran'ın İsrail'e yönelik potansiyel eylemlerine dair endişelerini yansıttı. Tahran, Kahire'nin istikrarına verdiği önemi yineleyerek, bölgesel güvenlik dinamiklerine dikkat çekti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T00:05:56.874Z",
+        "location": {
+            "lat": 31.47,
+            "lng": 31.83,
+            "name": "Dimyat, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-warns-of-israeli-false-flag-operations-after-drone-attack-at-egypt-s-damietta-port/4014378",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1785456394739nyptz",
+        "title": "Sudan, Mısır'dan 1.200 Kişiyi Geri Gönderme Uçuşlarına Yeniden Başladı",
+        "summary": "Sudan, Mısır'dan vatandaşlarının geri dönüşünü sağlayan uçuşlara yeniden başladığını duyurdu. Bu kapsamda, Mısır'da bulunan 1.200 Sudan vatandaşı ülkesine geri gönderildi. Geri dönen kişiler, 24 araçlık bir konvoyla seyahat etti. Bu gelişme, iki ülke arasındaki insani işbirliği ve vatandaşların güvenli dönüşü açısından önem taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T00:06:34.739Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sudan-resumes-repatriation-flights-returns-1-200-people-from-egypt/4014337",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "178545098113560lha",
         "title": "ABD GSYİH Büyümesi Neden Yavaşlıyor ve Bu Durum Nasıl Tersine Çevrilebilir?",
         "summary": "Amerika Birleşik Devletleri ekonomisi, 2026 yılının ikinci çeyreğinde Gayri Safi Yurtiçi Hasıla (GSYİH) büyümesinde belirgin bir yavaşlama kaydetti. Bu ekonomik durgunluğun ana nedenleri arasında uygulanan gümrük vergileri ve küresel petrol fiyatlarındaki artışlar gösteriliyor. Söz konusu faktörler, tedarik zincirlerinde bir şok etkisi yaratarak genel ekonomik aktiviteyi olumsuz etkiledi. Uzmanlar, bu durumun ABD ekonomisi üzerindeki uzun vadeli etkilerini ve olası çözüm yollarını değerlendiriyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1785319829035ykhgs",
-        "title": "İran ve Umman'dan Hürmüz Boğazı Yönetimi İçin Teklif Değişimi",
-        "summary": "İran ve Umman'ın Hürmüz Boğazı'nın yönetimine ilişkin teklifleri karşılıklı olarak değerlendirdiği bildirildi. İran'ın sunduğu teklifin, boğazın yönetiminde Umman'a kıyasla önemli ölçüde daha fazla kontrol sahibi olmasını öngördüğü belirtildi. Bu stratejik su yolunun yönetimi, bölgesel denizcilik ve enerji güvenliği açısından büyük önem taşıyor. Tekliflerin detayları ve müzakerelerin seyri yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5640138/pexels-photo-5640138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T10:10:29.035Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785319854215fdgqa",
-        "title": "İran, Irak'tan Suudi Arabistan'a Yönelik Fırlatılan Mühimmatla İlgisini Reddetti",
-        "summary": "İranlı bir askeri yetkili, Irak topraklarından Suudi Arabistan'a doğru fırlatılan mühimmatla ilgili Suudi Arabistan'ın suçlamalarını kesin bir dille reddetti. Bu açıklama, ABD ve Suudi Arabistan'ın Irak'taki İran destekli hedeflere yönelik düzenlediği hava saldırılarının ve Suudi Arabistan hava sahasında bir insansız hava aracının engellenmesinin ardından geldi. Olaylar, bölgedeki gerilimi artırırken, İran'ın bölgedeki vekil güçlerle ilişkileri yeniden gündeme taşıdı. Suudi Arabistan, saldırılardan İran'ı sorumlu tutarken, Tahran yönetimi iddiaları asılsız bulduğunu ve herhangi bir dahlinin olmadığını belirtti. Bölgedeki güvenlik durumu ve taraflar arasındaki karşılıklı suçlamalar devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13128611/pexels-photo-13128611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T10:10:54.216Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-denies-involvement-in-projectiles-launched-from-iraq-toward-saudi-arabia/4012388",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785319877688yum25",
-        "title": "Devrik Suriye liderinin kuzeni, Esad dönemi suçlarından 4. kez yargılanıyor",
-        "summary": "Devrik Suriye liderinin kuzeni Wassim el-Esad, Esad dönemi suçlamalarıyla dördüncü kez mahkemeye çıktı. El-Esad'ın, eski rejim döneminde işlenen uyuşturucu kaçakçılığı ve diğer suçlardan yargılandığı belirtildi. Savcıların, sanık hakkında idam cezası talep ettiği bildirildi. Bu dava, Suriye'deki eski yönetimle bağlantılı suçların hesaplaşması bağlamında önem taşıyor ve bölgedeki adalet arayışlarını yansıtıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/14846268/pexels-photo-14846268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T10:11:17.688Z",
-        "location": {
-            "lat": 33.51,
-            "lng": 36.28,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/ousted-syrian-ruler-s-cousin-appears-in-4th-trial-over-assad-era-crimes/4012364",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
