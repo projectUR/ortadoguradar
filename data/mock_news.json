@@ -1,5 +1,53 @@
 [
     {
+        "id": "17855390303435dkmc",
+        "title": "İsrailli yerleşimciler Batı Şeria'daki Filistin mezarlığını tahrip etti",
+        "summary": "Batı Şeria'da İsrailli yerleşimciler tarafından bir Filistin mezarlığının tahrip edildiği bildirildi. Olay, bölgedeki gerilimi artıran yeni bir gelişme olarak kaydedildi. Mezarlıkta bulunan bazı mezar taşlarının kırıldığı ve mezarların zarar gördüğü belirtildi. Filistinli yetkililer, bu tür eylemlerin uluslararası hukuka aykırı olduğunu ve bölgedeki barış çabalarını baltaladığını vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13754407/pexels-photo-13754407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T23:03:50.343Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785539140096jclj0",
+        "title": "ABD, Amerikan Birliklerine Yönelik Saldırı Girişimi Sonrası İran'a Ağır Misilleme Saldırıları Düzenledi",
+        "summary": "ABD, Amerikan askerlerine yönelik bir saldırı girişiminin ardından İran'a karşı \"ağır\" misilleme saldırıları başlattığını duyurdu. Pentagon'dan yapılan açıklamaya göre, bu saldırılar bölgedeki Amerikan çıkarlarını koruma amacı taşıyor. Kısa süreli bir göreceli sakinliğin ve düşmanlıkların duraklatıldığı bir dönemin ardından, hem ABD hem de İran'ın füze saldırılarına yeniden başladığı belirtildi. Bu gelişmeler, Orta Doğu'da zaten yüksek olan gerilimin daha da tırmanmasına neden oluyor ve bölgesel istikrarı tehdit ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952899/pexels-photo-5952899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T23:05:40.096Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785539199234vlt3d",
+        "title": "Doğu Kudüs'te İsrailli Yetkililer Bedevi Topluluklarının Ana Su Hattını Kesti",
+        "summary": "Doğu Kudüs'te, İsrailli yetkililerin Bedevi topluluklarına su sağlayan ana boru hattını kestiği bildirildi. Bu kesinti sonucunda, bölgedeki birçok Bedevi topluluğunun içme ve sulama suyundan mahrum kaldığı belirtildi. Olayın, bölgedeki su kaynaklarına erişim konusundaki mevcut gerilimleri artırdığı ve insani endişelere yol açtığı ifade edildi. Bölgedeki su altyapısına yönelik bu tür müdahaleler, yerel halkın yaşam koşulları üzerinde doğrudan etki yaratmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/23878948/pexels-photo-23878948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T23:06:39.234Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin/İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-cut-main-water-pipeline-serving-bedouin-communities-in-east-jerusalem/4015363",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17855339530511mv9d",
         "title": "BM: Güçlü El Nino, 'Zaten Yanan Bir Gezegende' Isıyı Yoğunlaştıracak; Yeni Fosil Yakıtlara Son Verilmesi Çağrısı",
         "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, güçlü El Nino hava olayının dünya genelinde sıcak hava dalgaları, seller ve kuraklık gibi aşırı hava olaylarını tetikleyerek gezegendeki ısıyı daha da artıracağı konusunda uyardı. Guterres, iklim krizinin derinleştiğini belirterek, 'gezegenin zaten yanmakta olduğunu' ifade etti. Bu bağlamda, yeni fosil yakıt projelerinin derhal durdurulması çağrısında bulundu. BM yetkilisi, dünya liderlerini iklim değişikliğiyle mücadele için acil ve kararlı adımlar atmaya davet etti. Bu çağrı, özellikle fosil yakıt üreticisi ülkelerin enerji politikalarını doğrudan etkileyecek nitelikte.",
@@ -748,54 +796,6 @@
             "name": "Hangu, Pakistan"
         },
         "source": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17854098297263epv2",
-        "title": "Gazze'de İsrail Saldırılarında Çok Sayıda Çocuk Öldü ve Yaralandı",
-        "summary": "Gazze Şeridi'nde gece boyunca İsrail güçleri tarafından düzenlenen saldırılarda çok sayıda çocuğun hayatını kaybettiği ve yaralandığı bildirildi. Saldırılar, Gazze'nin çeşitli bölgelerini hedef alırken, özellikle El-Mevasi'deki yerinden edilmiş ailelerin sığındığı çadır kampları da vuruldu. Bölgedeki kaynaklar, saldırıların sivillerin yoğun olarak bulunduğu alanlarda gerçekleştiğini ve can kaybının artmasından endişe edildiğini belirtti. Uluslararası kuruluşlar, sivillerin ve özellikle çocukların korunması çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13212567/pexels-photo-13212567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T11:10:29.726Z",
-        "location": {
-            "lat": 31.4,
-            "lng": 34.3,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785409851429e69j9",
-        "title": "Suudi Arabistan Kızıldeniz'i Korumak İçin Neden Koalisyon Kuruyor?",
-        "summary": "Suudi Arabistan, Kızıldeniz'deki deniz taşımacılığını Yemen'deki İran destekli Husilerin saldırılarından korumak amacıyla bir koalisyon kurma girişiminde bulunuyor. Bu ittifak, küresel ticaret için hayati önem taşıyan bu su yolunun güvenliğini sağlamayı hedefliyor. Bölgedeki istikrarsızlık ve gemilere yönelik artan tehditler, Suudi Arabistan'ı bu savunma mekanizmasını oluşturmaya itiyor. Koalisyonun, denizcilik güvenliğini artırarak ticari rotaların kesintisiz devamlılığını sağlaması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28494110/pexels-photo-28494110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T11:10:51.429Z",
-        "location": {
-            "lat": 20,
-            "lng": 39,
-            "name": "Kızıldeniz Bölgesi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785409873636i4jw9",
-        "title": "İsrail, Gazze'de Yeni Kara Bariyerleri İnşa Ediyor ve Aileleri Yerinden Ediyor",
-        "summary": "BBC'ye konuşan uzmanlar, İsrail'in Gazze Şeridi'nde yeni kara bariyerleri inşa ettiğini ve bu durumun bölgedeki ailelerin yerinden edilmesine yol açtığını bildirdi. Uzmanlar, yapılan hafriyat çalışmalarının İsrail'in Gazze içinde uzun vadeli bir iç sınır oluşturmayı planladığına işaret ettiğini belirtti. Bu inşaat faaliyetlerinin, bölgedeki insani durumu ve demografik yapıyı etkileyebileceği öngörülüyor. Gelişmeler, İsrail-Filistin çatışmasının geleceği ve Gazze'nin statüsü üzerine yeni tartışmaları beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T11:11:13.636Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
