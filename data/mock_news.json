@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785470437306o09v0",
+        "title": "İsrail ablukaları işgal altındaki Batı Şeria'da bir köyün girişlerini kapattı",
+        "summary": "Al Jazeera'nın haberine göre, işgal altındaki Batı Şeria'da yer alan Sinjil köyü, İsrail güçleri tarafından uygulanan yol kapatmaları nedeniyle tüm ana girişleri abluka altına alındı. Bu durum, köy sakinlerinin günlük yaşamını ve hareket özgürlüğünü kısıtlıyor. İsrail'in bölgedeki güvenlik önlemleri kapsamında gerçekleştirildiği belirtilen bu uygulamalar, uluslararası kamuoyunda tartışmalara yol açıyor. Bölgedeki gerilimin artmasına neden olabilecek bu tür adımlar yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7152836/pexels-photo-7152836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T04:00:37.306Z",
+        "location": {
+            "lat": 32.02,
+            "lng": 35.22,
+            "name": "Sinjil, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1785470539522hlwu8",
+        "title": "Hamas: İsrail Gazze'den Çekilmeden Silahsızlanma Olmaz",
+        "summary": "Hamas, İsrail'in Gazze Şeridi'nden tamamen çekilmesi ve bölgeye ilişkin anlaşmalardaki yükümlülüklerini yerine getirmesi öncesinde silahsızlanmayı reddettiğini açıkladı. Örgütün üst düzey bir müzakerecisi tarafından yapılan açıklamada, silahsızlanma konusunun İsrail'in Gazze'den çekilmesine ve anlaşma şartlarına bağlı olduğu vurgulandı. Bu açıklama, İsrail ile Hamas arasındaki gelecekteki müzakerelerin seyrini etkileyebilecek önemli bir gelişme olarak değerlendiriliyor. Bölgedeki gerilimin devam ettiği bir dönemde gelen bu açıklama, kalıcı bir çözüm arayışlarını daha da karmaşık hale getirebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T04:02:19.522Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gaza, Palestine"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hamas-says-no-disarmament-before-israeli-withdrawal-from-gaza/4014465",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1785470596137e2h6g",
+        "title": "Suriye Devlet Başkanı ve Suudi Veliaht Prensi Bölgesel Gerilimi ve İkili İlişkileri Görüştü",
+        "summary": "Suriye Devlet Başkanı ve Suudi Arabistan Veliaht Prensi, Orta Doğu'daki bölgesel gerilimin azaltılması ve iki ülke arasındaki ikili ilişkilerin geliştirilmesi konularını ele aldı. Görüşmede Suriye lideri, Suudi Arabistan'ın petrol tesislerine yönelik gerçekleştirilen saldırı girişimini kınadığını ifade etti. Ayrıca, Suriye'nin Suudi Arabistan'ın güvenliğine tam destek verdiğini yineledi. Bu diplomatik temaslar, bölgedeki normalleşme çabaları açısından önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7643748/pexels-photo-7643748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T04:03:16.137Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-saudi-crown-prince-discuss-regional-de-escalation-bilateral-relations/4014453",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785456266712qdcvy",
         "title": "Trump, Hamas'ın silahsızlanacağını ve İsrail'in Gazze'den çekilmesinin önünü açacağını duyurdu",
         "summary": "ABD Başkanı Donald Trump, sosyal medya platformu TruthSocial üzerinden yaptığı açıklamada, Filistinli grup Hamas'ın tamamen silahsızlanması konusunda bir anlaşmaya varıldığını duyurdu. Trump, bu anlaşmanın İsrail'in Gazze Şeridi'nden çekilmesinin önünü açacağını belirtti. Bu iddia, bölgedeki mevcut çatışmalar ve siyasi dinamikler göz önüne alındığında önemli bir gelişme olarak öne çıkıyor. Ancak, anlaşmanın içeriği ve Hamas'ın bu konudaki resmi beyanları hakkında henüz detaylı bilgi paylaşılmadı.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17853282198540762c",
-        "title": "İran'dan ABD Varlıklarının İsrail'de Yığılmasına Karşılık Saldırılar",
-        "summary": "Haberlere göre, İran'ın mevcut saldırıları, ABD'nin İsrail'deki askeri varlıklarını artırmasına bir yanıt olarak gerçekleşiyor. Bu durum, İran'ın ABD'nin bölgedeki askeri konuşlanmalarına doğrudan bir mesaj gönderme amacı taşıdığını gösteriyor. Bölgedeki gerilimin yükseldiğini işaret eden bu gelişmeler, stratejik mesajlaşma ve güç dengeleri açısından önem arz ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T12:30:19.854Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17853197691016ao99",
-        "title": "Gazze'de Kadınlar İçin Güvenli Alanlar: Savaş Ortasında Destek ve İyileşme",
-        "summary": "Gazze Şeridi'nde kadınlara yönelik güvenli alanlar girişimi başlatıldı. Bu inisiyatif, savaşın getirdiği zorluklarla mücadele eden kadınlara psikolojik destek sağlamayı hedefliyor. Ayrıca, kadınların farkındalıklarını artırmaya yönelik oturumlar düzenleniyor. Bu alanlar, kadınların deneyimlerini paylaşabilecekleri ve iyileşme süreçlerine katkıda bulunabilecekleri bir ortam sunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4834133/pexels-photo-4834133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T10:09:29.101Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785319790806nwzby",
-        "title": "ABD ve Suudi Arabistan, Irak'taki 'İran Destekli' Grupları Vurdu",
-        "summary": "Amerika Birleşik Devletleri ve Suudi Arabistan, Irak topraklarında ortak hava saldırıları düzenledi. Saldırıların hedefinde 'İran destekli' olarak tanımlanan gruplar yer aldı. Bu operasyon, bölgedeki gerilimi artırma potansiyeli taşıyor ve ABD ile Suudi Arabistan'ın İran'ın bölgesel nüfuzuna karşı ortak bir duruş sergilediğini gösteriyor. Irak'ta gerçekleşen bu eylem, bölgesel güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5147810/pexels-photo-5147810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T10:09:50.806Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
