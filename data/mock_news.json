@@ -1,5 +1,117 @@
 [
     {
+        "id": "1785492350481d7ujq",
+        "title": "Nablus yakınlarında İsrail baskınlarında çocuklar dahil en az 11 kişi yaralandı",
+        "summary": "İsrail güçleri ve yerleşimciler, işgal altındaki Batı Şeria'da bulunan Nablus kenti yakınlarındaki bölgelere baskın düzenledi. Tal kasabasında artan şiddet olaylarının ardından gerçekleştirilen operasyonlarda çocuklar da dahil olmak üzere en az 11 Filistinli yaralandı. Bölgedeki gerilimin tırmanmasıyla birlikte bazı kişilerin gözaltına alındığı bildirildi. Olaylar, Batı Şeria'daki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5484804/pexels-photo-5484804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T10:05:50.481Z",
+        "location": {
+            "lat": 32.2,
+            "lng": 35.3,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1785492374663c6vwm",
+        "title": "Gazze'deki Soykırım Ortasında Bir Telefonun Yaşam Hattı Oluşu",
+        "summary": "Dünya genelinde sosyal medya kullanımının tartışıldığı bir dönemde, Eman Lulu'nun telefonu Gazze'de yaşanan olayları milyonlarca kişiye ulaştıran bir yaşam hattı ve bilgi penceresi haline geldi. Haberde, Lulu'nun annesinin başlangıçta telefon kullanımına karşı çıkmasına rağmen, Gazze'deki 'soykırım' olarak nitelendirilen süreçte bu cihazın kritik bir rol oynadığı belirtiliyor. Lulu'nun deneyimi, çatışma bölgelerinde bireysel iletişimin ve tanıklıkların küresel kamuoyuna ulaşmasındaki önemini gözler önüne seriyor. Bu durum, kriz anlarında teknolojinin hem kişisel güvenlik hem de bilgi akışı açısından taşıdığı değeri vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T10:06:14.663Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785492413284wxvfs",
+        "title": "Hamas'tan Gazze'de Aşamalı Silahsızlanma Kararı",
+        "summary": "Hamas'ın, ABD eski Başkanı Donald Trump tarafından sunulan 20 maddelik barış planı çerçevesinde Gazze Şeridi'nde kademeli olarak silahsızlanmayı kabul ettiği bildirildi. Bu karar, İsrail-Filistin çatışmasının çözümüne yönelik önemli bir gelişme olarak değerlendiriliyor. Anlaşmanın detayları ve uygulama takvimi hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki tarafların bu karara nasıl tepki vereceği merak konusu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11421241/pexels-photo-11421241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T10:06:53.284Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1785492453969bvqgy",
+        "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda 2 tankeri vurduk, 4'ünü geri çevirdik",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı'nda iki tankeri hedef aldığını ve dört ticari gemiyi geri çevirdiğini iddia etti. Bu açıklama, ABD Merkez Kuvvetler Komutanlığı'nın (CENTCOM) ticari gemilerin yönünün değiştirildiğine dair yaptığı açıklamanın ardından geldi. Bölgede seyrüsefer uyarılarının tartışmalı olduğu belirtilirken, Hürmüz Boğazı dünya petrol ticaretinin önemli bir geçiş noktası konumunda. Olay, bölgedeki deniz güvenliği ve gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10816311/pexels-photo-10816311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T10:07:33.969Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-it-hit-2-tankers-forced-4-others-to-turn-back-in-strait-of-hormuz/4014805",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785492478566ulfga",
+        "title": "Gazze yönetim komitesi, ateşkes ilerlemesinin ardından bölgeyi yönetmeye hazır olduğunu açıkladı",
+        "summary": "Gazze yönetim komitesi, ateşkes görüşmelerindeki ilerlemenin ardından bölgeyi yönetmeye hazır olduğunu duyurdu. Komite, kamu hizmetlerini yeniden tesis etmek, insani yardımların ulaştırılmasını kolaylaştırmak ve yeniden yapılanma çalışmalarına liderlik etmek için hazırlıklarını tamamladığını belirtti. Bu açıklama, Gazze'deki ateşkesin ikinci aşamasına yönelik yol haritasının ilerlemesiyle eş zamanlı olarak geldi. Komitenin bu adımı, bölgedeki istikrarın sağlanması ve yaşamın normale dönmesi çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/14518441/pexels-photo-14518441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T10:07:58.566Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gaza-administration-committee-says-it-is-ready-to-govern-enclave-after-ceasefire-progress/4014802",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785492499122vq67m",
+        "title": "Eski İsrailli Elçi: Tel Aviv'in Washington Üzerindeki Etkisi Trump Döneminde Azaldı",
+        "summary": "Eski İsrail elçisi Mike Herzog, İsrail'in ABD karar alma süreçleri üzerindeki etkisinin Trump yönetimi altında önemli ölçüde azaldığını belirtti. Herzog, ayrıca İsrail'in Amerikan kamuoyu nezdindeki konumunun uzun vadede aşındığını ifade etti. Bu durum, iki ülke arasındaki diplomatik ilişkilerde ve İsrail'in ABD dış politikasındaki yerinde yaşanan değişimleri gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T10:08:19.122Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/former-israeli-envoy-says-tel-aviv-s-influence-in-washington-has-diminished-sharply-under-trump/4014792",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785492520114fwair",
+        "title": "Filistin kaynakları, Gazze ateşkes anlaşmasının ikinci aşaması için yol haritasını açıkladı",
+        "summary": "Filistinli kaynaklar, Gazze'deki ateşkes anlaşmasının ikinci aşamasına ilişkin bir yol haritasını duyurdu. Anadolu Ajansı'na konuşan kaynaklara göre, anlaşmanın ikinci aşamasının uygulanması, ilgili tüm tarafların onayının alınmasından sonraki 14 gün içinde başlayacak. Bu gelişme, bölgedeki gerilimi azaltma ve insani durumu iyileştirme çabaları kapsamında önemli bir adım olarak değerlendiriliyor. Yol haritasının detayları hakkında henüz tam bilgi verilmezken, taraflar arasında devam eden müzakerelerin bir parçası olduğu belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35141118/pexels-photo-35141118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-07-31T10:08:40.115Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-sources-reveal-roadmap-for-2nd-phase-of-gaza-ceasefire-agreement/4014754",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785482533582bbjwl",
         "title": "ABD Senatosu'nun Rusya Yaptırımları Hindistan ve Çin İçin Yüzde 100 Tarife Anlamına Gelebilir",
         "summary": "ABD Senatosu'nda, merhum Senatör Lindsey Graham'ın adını taşıyan bir yasa tasarısı kapsamında Rus enerji ihracatına yönelik kapsamlı tarifeler uygulama olasılığı tartışılıyor. Bu tasarı, Rusya'dan gelen enerji ürünlerine yüzde 100'e varan gümrük vergileri getirme potansiyeli taşıyor. Özellikle Rus enerjisine bağımlı olan Hindistan ve Çin gibi ülkeler için ciddi ekonomik sonuçlar doğurabilecek bu yaptırımlar, küresel enerji piyasalarında önemli dalgalanmalara yol açabilir. Küresel enerji arz-talep dengesi ve fiyatları üzerindeki potansiyel etkisi nedeniyle, Orta Doğu'daki enerji üreticisi ve ihracatçısı ülkelerin bu durumdan dolaylı olarak etkileneceği öngörülüyor.",
@@ -686,117 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1785390301457gimq8",
-        "title": "ABD, Amerikan askerlerine yönelik saldırı girişiminin ardından İran'a 'ağır' saldırılar düzenledi",
-        "summary": "ABD ordusu, Amerikan kuvvetlerine yönelik İran'ın balistik füze saldırısı girişimine misilleme olarak İran'a \"ağır\" bir saldırı düzenlediğini açıkladı. Bu misilleme, bölgedeki gerilimi daha da artırma potansiyeli taşıyor. ABD'nin Orta Doğu'daki askeri varlığına yönelik saldırılar ve bunlara verilen yanıtlar, bölgenin güvenlik gündeminin önemli bir parçasını oluşturuyor. Olayın detayları ve uzun vadeli etkileri yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36675779/pexels-photo-36675779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T05:45:01.457Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1785379009723qmred",
-        "title": "Asya, Hürmüz arz sıkıntısı yaşarken Japonya Kanada petrolüne yöneliyor",
-        "summary": "Hürmüz Boğazı üzerinden ham petrol tedarikindeki belirsizlikler, Asya ülkelerini Kanada'nın TMX ham petrolüne yöneltiyor. Japonya gibi Asya ülkeleri, Orta Doğu'dan gelen petrol arzında yaşanabilecek aksaklıklara karşı alternatif kaynak arayışına girdi. Bu durum, küresel enerji piyasasında arz güvenliği endişelerinin arttığını ve ülkelerin tedarik zincirlerini çeşitlendirme çabalarını gösteriyor. Hürmüz Boğazı, Orta Doğu petrolünün dünya pazarlarına ulaşmasında kritik bir geçiş noktası olup, buradaki herhangi bir gerilim veya belirsizlik küresel enerji güvenliğini doğrudan etkilemektedir. Kanada'nın TMX petrolü, Asya'nın enerji talebini karşılamak üzere yeni bir seçenek olarak öne çıkıyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/10819537/pexels-photo-10819537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T02:36:49.723Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Umman/İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785379103079qi95w",
-        "title": "İsrail muhalefeti liderliğini koruyor, şimdi seçim yapılsa hükümeti kurmaya hazır: Anket",
-        "summary": "Anket sonuçlarına göre İsrail'de muhalefet partileri, olası bir erken seçimde hükümeti kurabilecek çoğunluğu elde etme potansiyelini sürdürüyor. Son kamuoyu yoklamaları, eski Genelkurmay Başkanı Gadi Eisenkot'un liderliğindeki Yashar Partisi'nin, iktidardaki Likud Partisi ile başa baş bir konumda olduğunu gösteriyor. Ayrıca, Eisenkot'un başbakanlık tercihi anketlerinde mevcut başbakana karşı liderliğini genişlettiği belirtiliyor. Bu durum, İsrail siyasetindeki mevcut dengeleri ve gelecekteki olası hükümet senaryolarını yansıtıyor.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/7103157/pexels-photo-7103157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-30T02:38:23.079Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israels-opposition-maintains-lead-on-track-to-form-government-if-election-held-now-poll/4013252",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1785367874941kacr1",
-        "title": "İsrail, Kanada'nın Batı Şeria Yerleşim Genişlemesine Karşı Çıkan Açıklamasını Kınadı",
-        "summary": "İsrail, Kanada'nın Batı Şeria'daki yerleşim birimlerinin genişletilmesine karşı çıkan açıklamasını sert bir dille kınadı. Kanada, işgal altındaki Filistin topraklarındaki yasa dışı yerleşimlerin \"barış, güvenlik ve istikrarı\" baltaladığını belirtmişti. Bu açıklama, iki ülke arasındaki diplomatik ilişkilerde gerilime yol açtı. Uluslararası toplumun büyük bir kısmı Batı Şeria'daki İsrail yerleşimlerini yasa dışı kabul ederken, İsrail bu görüşe karşı çıkıyor. Söz konusu durum, Orta Doğu barış sürecindeki temel anlaşmazlık konularından biri olarak öne çıkıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36879250/pexels-photo-36879250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T23:31:14.941Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785362666141t3gwa",
-        "title": "Netanyahu ve Lindsey Graham'ın Uluslararası Mahkemeyi Zayıflatmak İçin Gizlice Koordine Olduğu İddia Edildi",
-        "summary": "Bir rapora göre, İsrail Başbakanı Binyamin Netanyahu ve eski ABD Senatörü Lindsey Graham'ın uluslararası bir mahkemeyi zayıflatmak amacıyla özel olarak koordine oldukları iddia edildi. Ortaya çıkan kayıtlarda, merhum ABD senatörünün savaş suçları soruşturmasını kınamak için Demokratları bir araya getirdiği belirtiliyor. Bu koordinasyonun, İsrail'in eylemlerine yönelik olası uluslararası hukuki süreçleri etkilemeyi amaçladığı ve Orta Doğu'daki gerilimi artırabileceği ifade ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18014021/pexels-photo-18014021.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T22:04:26.141Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-lindsey-graham-coordinated-privately-to-undermine-international-court-report/4013214",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785362702565r2sh6",
-        "title": "Türk Dışişleri Bakanı, Hamas Siyasi Büro'nun yeni başkanıyla görüştü",
-        "summary": "Türk Dışişleri Bakanı Hakan Fidan, Hamas Siyasi Büro'nun yeni başkanı Halil el-Hayya ile bir araya geldi. Görüşmede Bakan Fidan, Türkiye'nin Filistin halkına olan desteğini bir kez daha vurguladı. Taraflar, Gazze Şeridi ve işgal altındaki Batı Şeria'daki mevcut durumu kapsamlı bir şekilde ele aldı. Bu diplomatik temas, bölgedeki gelişmeler ve Filistin meselesine yönelik uluslararası çabalar açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T22:05:02.565Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza City, Palestine"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-meets-new-hamas-political-bureau-chief/4013201",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785357057226xwqkn",
-        "title": "Cezayir'de İlk Kadın Meclis Başkanı Seçildi",
-        "summary": "Cezayir'de Ulusal Kurtuluş Cephesi'nden Khalida Boufedeche, ülkenin parlamentosunun ilk kadın başkanı olarak tarihe geçti. Bu gelişme, Cezayir siyasetinde kadınların temsilinde önemli bir dönüm noktasını işaret ediyor. Boufedeche'nin seçilmesi, Kuzey Afrika ülkesinde toplumsal cinsiyet eşitliği ve siyasi katılım konularında kaydedilen ilerlemeyi gözler önüne seriyor. Yeni başkanın göreve başlamasıyla birlikte, Cezayir'in yasama süreçlerinde yeni bir dönemin başladığı belirtiliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30314243/pexels-photo-30314243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-29T20:30:57.226Z",
-        "location": {
-            "lat": 36.737232,
-            "lng": 3.086497,
-            "name": "Cezayir"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
