@@ -1,5 +1,69 @@
 [
     {
+        "id": "1785583114042vt2y9",
+        "title": "Ummanlı Efsane ve ABD'li Dağcı: Pakistan, Broad Peak'ten Cesetleri Çıkardı",
+        "summary": "Pakistan'da bulunan dünyanın en yüksek 12. zirvesi Broad Peak'te meydana gelen çığ felaketinin ardından kayıp dağcıları arama çalışmaları devam ediyor. Kurtarma ekipleri, çığda kaybolan bazı dağcıların cansız bedenlerine ulaştı. Hayatını kaybedenler arasında \"Ummanlı efsane\" olarak anılan bir dağcı ile ABD'li bir dağcının bulunduğu belirtildi. Ekipler, çığ altında kalan diğer kayıp dağcıları bulmak için çalışmalarını sürdürüyor. Olay, uluslararası dağcılık camiasında büyük üzüntüye neden oldu.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36538602/pexels-photo-36538602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T11:18:34.042Z",
+        "location": {
+            "lat": 35.8,
+            "lng": 76.57,
+            "name": "Broad Peak, Pakistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1785583135138ntbt0",
+        "title": "İran: Bir Savaşın Doğuşu",
+        "summary": "Haber, İran'ı merkeze alarak, bir darbeden günümüzdeki çatışmalara uzanan süreçte, onlarca yıllık rekabet ve yanlış hesaplamaların bölgedeki en tehlikeli savaşlardan birini nasıl şekillendirdiğini inceliyor. Analiz, mevcut çatışmaların kökenlerini ve gelişimini tarihsel bir perspektifle ele alarak, İran'ın içinde bulunduğu jeopolitik durumu ve bölgesel dinamikleri aydınlatmayı hedefliyor. Bu çalışma, İran'ın siyasi ve askeri evrimini anlamak için kritik bir çerçeve sunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T11:18:55.138Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17855831896999c931",
+        "title": "Tunus'un sessizliğinin altında halkın öfkesi kaynıyor",
+        "summary": "Kuzey Afrika ülkesi Tunus'ta, zoraki bir sakinliğin ardında halk arasında artan bir öfke gözlemleniyor. Ülke genelinde baskı politikaları, kötüleşen ekonomik koşullar ve kamu hizmetlerindeki çöküş, bu memnuniyetsizliğin temel nedenlerini oluşturuyor. Vatandaşlar, yaşam standartlarındaki düşüş ve temel hizmetlere erişimdeki zorluklar nedeniyle hükümete karşı tepkilerini dile getiriyor. Bu durum, Tunus'un iç istikrarı açısından potansiyel riskler barındırırken, yetkililerin bu sorunlara çözüm bulma baskısı artıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11421039/pexels-photo-11421039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T11:19:49.699Z",
+        "location": {
+            "lat": 36.8065,
+            "lng": 10.1815,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785583244446xi7df",
+        "title": "ABD'nin Ürdün Büyükelçiliği Vatandaşlarına Orta Doğu'dan Ayrılma Çağrısı Yaptı",
+        "summary": "ABD'nin Ürdün Büyükelçiliği, bölgedeki güvenlik endişeleri nedeniyle Amerikan vatandaşlarına Orta Doğu'dan ayrılmayı düşünmeleri yönünde bir çağrıda bulundu. Büyükelçilik, vatandaşlarını Ürdün'deki askeri üslerden uzak durmaları konusunda uyarırken, olası uçuş iptalleri ve hava sahası kapanışlarına karşı hazırlıklı olmaya davet etti. Bu uyarı, bölgedeki mevcut gerilimin ve güvenlik risklerinin arttığına işaret ediyor. Vatandaşların seyahat planlarını gözden geçirmeleri ve güncel gelişmeleri yakından takip etmeleri önemle belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36729962/pexels-photo-36729962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T11:20:44.446Z",
+        "location": {
+            "lat": 31.963158,
+            "lng": 35.930359,
+            "name": "Amman, Ürdün"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-embassy-in-jordan-urges-citizens-to-consider-leaving-middle-east/4015664",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "178557677434746ibx",
         "title": "Sri Lanka, Paskalya Saldırılarını Durdurmadıkları Gerekçesiyle İki Yetkiliyi İdama Mahkum Etti",
         "summary": "Sri Lanka'da 2019 Paskalya saldırılarını önlemede ihmalleri olduğu gerekçesiyle iki üst düzey yetkili idama mahkum edildi. Yüksek Mahkeme, eski Savunma Bakanlığı Sekreteri Hemasiri Fernando ve eski Ulusal Polis Şefi Pujith Jayasundara'yı, saldırılar öncesindeki istihbarat uyarılarına rağmen gerekli önlemleri almamakla suçlu buldu. Ülke tarihindeki en ölümcül terör saldırılarından biri olan bu olaylarda 270'ten fazla kişi hayatını kaybetmişti. Karar, saldırıların sorumlularının hesap vermesi yönündeki kamuoyu baskısının bir sonucu olarak değerlendirilirken, saldırıların arkasında DEAŞ'tan (IŞİD) ilham alan yerel İslamcı grupların olduğu belirtilmişti.",
@@ -732,70 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/islamic-jihad-says-reported-deal-between-palestinian-factions-israel-inaccurate-/4014546",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785482724718w4tc7",
-        "title": "İran ordusu, Kuveyt'teki ABD tesislerine insansız hava aracı saldırısı düzenlediğini iddia etti",
-        "summary": "İran ordusu, Kuveyt'te bulunan ABD tesislerine yönelik bir insansız hava aracı (İHA) saldırısı gerçekleştirdiğini iddia etti. Ordu tarafından yapılan açıklamada, saldırıda savaş uçağı hangarları, uydu iletişim sistemleri ve ekipman depolarının hedef alındığı belirtildi. Bu hedeflere patlayıcı yüklü İHA'lar kullanılarak saldırıldığı ifade edildi. Bu iddia, bölgedeki gerilimi artırma potansiyeli taşıyor ve ABD ile İran arasındaki mevcut tansiyonu yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4903654/pexels-photo-4903654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T07:25:24.718Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/irans-army-claims-drone-attack-on-us-facilities-at-kuwait-air-base/4014480",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785482745608gu2eq",
-        "title": "Mısır Cumhurbaşkanı Sisi, Gaz Gemisi Saldırısının Soruşturulduğunu Açıkladı ve Bölgesel Gerilimin Azaltılması Çağrısı Yaptı",
-        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, İspanya Başbakanı Pedro Sanchez ile gerçekleştirdiği telefon görüşmesinde, bir gaz gemisine yönelik saldırının soruşturulduğunu duyurdu. Görüşmede Sisi, uluslararası topluma bölgesel gerilimleri kontrol altına almak ve azaltmak için çabalarını artırma çağrısında bulundu. Mısır lideri, bölgedeki istikrarın sağlanmasının ve tansiyonun düşürülmesinin kritik önem taşıdığını vurguladı. Bu açıklama, Orta Doğu'daki mevcut güvenlik endişeleri ve deniz taşımacılığına yönelik potansiyel tehditler bağlamında değerlendirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T07:25:45.608Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egyptian-president-says-gas-vessel-attack-being-probed-urges-regional-de-escalation/4014470",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17854827671978rx92",
-        "title": "Hamas: İsrail Gazze'den Çekilmeden Silahsızlanma Olmayacak",
-        "summary": "Hamas'tan üst düzey bir müzakereci, grubun silahsızlanmasının İsrail'in Gazze Şeridi'nden tamamen çekilmesine bağlı olduğunu açıkladı. Yapılan açıklamada, İsrail'in Gazze anlaşması kapsamındaki yükümlülüklerini yerine getirmesinin de silahsızlanma için bir ön koşul olduğu vurgulandı. Bu tutum, bölgedeki mevcut gerilimi ve gelecekteki olası barış görüşmelerini etkileyecek önemli bir gelişme olarak değerlendiriliyor. Hamas, İsrail'in çekilmesi ve anlaşma şartlarına uyması halinde silahsızlanma konusunu değerlendirebileceğinin sinyalini verdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T07:26:07.197Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/world/hamas-says-no-disarmament-before-israeli-withdrawal-from-gaza/4014465",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178548279079171nan",
-        "title": "Saldırıların enerji üretimini durdurması sonrası Kuzey Irak'ta yakıt krizi yaşanıyor",
-        "summary": "Kuzey Irak'ta enerji firmaları, bölgeye yönelik saldırılar nedeniyle üretimi durdurmak zorunda kaldı. Bu durum, Irak Kürt Bölgesi genelinde ciddi yakıt kıtlığına yol açtı. Bölgede uzun süreli elektrik kesintileri yaşanırken, yemeklik gaz fiyatlarında da önemli artışlar gözlemlendi. Yaşanan kriz, günlük yaşamı ve ekonomik faaliyetleri olumsuz etkiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12377481/pexels-photo-12377481.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T07:26:30.791Z",
-        "location": {
-            "lat": 36.2,
-            "lng": 44,
-            "name": "Kuzey Irak, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/fuel-crisis-grips-northern-iraq-after-attacks-halt-energy-production/4014457",
         "trendScore": 85,
         "isBreaking": false
     }
