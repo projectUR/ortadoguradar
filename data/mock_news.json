@@ -1,5 +1,37 @@
 [
     {
+        "id": "17855949196460am6f",
+        "title": "İsrail saldırısı Gazze'deki hastane deposunu imha etti",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği bir saldırıda, Gazze'deki El-Aksa Şehitleri Hastanesi'ne ait tıbbi malzeme deposu hedef alındı. Hastane personelinin açıklamalarına göre, saldırı sonucunda depo tamamen yıkıldı. Depoda bulunan tıbbi malzemelerin de kullanılamaz hale geldiği belirtildi. Bu durumun, bölgedeki sağlık hizmetleri üzerinde ciddi olumsuz etkiler yaratması bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6129681/pexels-photo-6129681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T14:35:19.646Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1785594943285iey10",
+        "title": "Infantino'nun FIFA Krizi: Dünya Kupası Yatırımından Geri Adım Atılmasına Tepkiler Ne Yönde?",
+        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino liderliğindeki FIFA'nın Dünya Kupaları ve diğer etkinlikler için özel yatırım planı büyük tepki çekmişti. Bu planın geri çekilmesiyle birlikte futbol dünyasında yankılar devam ediyor. FIFA'nın finansal stratejilerindeki bu ani değişiklik, gelecekteki büyük turnuvaların organizasyonunu ve ev sahipliği süreçlerini etkileyebilir. Özellikle Dünya Kupası gibi küresel çapta ilgi gören etkinliklerin finansman modellerindeki belirsizlikler, üye federasyonlar ve potansiyel ev sahibi ülkeler arasında endişeye yol açıyor. Futbol camiası, FIFA'nın bu karardan doğan sonuçları ve gelecekteki adımlarını yakından takip ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/38104078/pexels-photo-38104078.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T14:35:43.285Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785587599513vrtjf",
         "title": "FIFA Dünya Kupası krizi: Infantino'nun yerine kim geçebilir?",
         "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino'nun Dünya Kupası yatırım planı krizi sonrası görevinden ayrılma ihtimali ve yerine geçebilecek potansiyel adaylar gündeme geldi. Bu kriz, FIFA'nın gelecekteki yönetimini ve küresel futbol organizasyonlarının finansal yapısını derinden etkileyebilir. Özellikle 2022'de Katar'da düzenlenen Dünya Kupası'nın ardından ortaya çıkan bu durum, uluslararası futbol camiasında önemli tartışmalara yol açmaktadır. FIFA'nın liderlik pozisyonundaki olası bir değişim, örgütün gelecekteki stratejileri ve uluslararası futbol ilişkileri üzerinde belirleyici bir rol oynayacaktır. Potansiyel adaylar ve FIFA'nın bu süreçteki yol haritası yakından takip edilmektedir.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1785482655967dalgd",
-        "title": "Hamas'ın silahsızlanma planı, Gazze savaşını sona erdirmede ilk güvenilir adım olabilir",
-        "summary": "Gazze'deki çatışmaları sona erdirmeye yönelik potansiyel bir gelişme olarak, Hamas'ın silahsızlanma planının uygulanabilirliği gündemde. Söz konusu planın başarılı olması durumunda, bölgedeki barış sürecinin önündeki en önemli engellerden birinin ortadan kalkabileceği belirtiliyor. Özellikle ABD'nin eski başkanı Trump tarafından desteklenen barış girişiminin ilerlemesi için bu adımın kritik öneme sahip olduğu vurgulanıyor. Bu gelişme, Gazze'deki uzun süreli gerilimi dindirme ve kalıcı bir çözüm bulma çabalarına yeni bir ivme kazandırabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T07:24:15.967Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785482677350ifmjr",
-        "title": "İran için ABD ile sınırlı bir çatışmanın barıştan daha uygun olabileceği değerlendirmesi",
-        "summary": "İran'ın, ABD ile sınırlı bir çatışma stratejisinin barıştan daha faydalı olabileceği yönünde bir değerlendirme yaptığı belirtiliyor. Analizlere göre, Tahran yönetimi, ABD üzerindeki baskıyı sürdürmek amacıyla çatışmayı dikkatli bir şekilde kontrol altında tutabileceğine inanıyor. Bu yaklaşımın, topyekûn bir savaşı tetiklemeden hedeflerine ulaşma potansiyeli taşıdığı düşünülüyor. İran'ın bu stratejiyle bölgesel ve uluslararası arenadaki konumunu güçlendirmeyi hedeflediği yorumları yapılıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T07:24:37.350Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
