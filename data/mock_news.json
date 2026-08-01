@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785605504842x6wvj",
+        "title": "Türkiye ve Irak, küresel değişimler ortasında bir yıllık petrol boru hattı anlaşması imzaladı",
+        "summary": "Türkiye ve Irak, petrol boru hattı üzerinden ham petrol akışını düzenleyen bir yıllık yeni bir anlaşmaya imza attı. Yetkililer tarafından doğrulanan anlaşma, Irak-Türkiye boru hattı aracılığıyla günlük 750.000 varil ham petrol akışını garanti altına alıyor. Bu anlaşma, küresel enerji piyasalarındaki değişimlerin yaşandığı bir dönemde iki ülke arasındaki enerji işbirliğinin devamlılığını sağlamayı hedefliyor. Yenilenen mutabakat, bölgesel enerji güvenliği açısından önem taşıyor ve uluslararası piyasalara petrol tedarikinde istikrarı destekliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/8709582/pexels-photo-8709582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T17:31:44.842Z",
+        "location": {
+            "lat": 37,
+            "lng": 42,
+            "name": "Kuzey Irak - Güneydoğu Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785605539207l4gnz",
+        "title": "İsrail Saldırıları Gazze'de Dört Can Aldı, Tıbbi Malzeme Deposunu İmha Etti",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda dört kişi hayatını kaybetti. Saldırılar sırasında bir tıbbi malzeme deposu da hedef alınarak imha edildi. Gazze Sağlık Bakanlığı, ilaç depolarına yönelik bu 'menfur' saldırıyı şiddetle kınadığını açıkladı. Bu olaylar, bölgede silahsızlanma anlaşmasının yapılmasından sadece günler sonra meydana geldi ve gerilimi yeniden tırmandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T17:32:19.207Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1785605609096u8sym",
+        "title": "Irak Başbakanı, Türkiye ile Boru Hattı Anlaşmasını Stratejik Bir Dönüm Noktası Olarak Nitelendirdi",
+        "summary": "Irak Başbakanı, Türkiye ile yapılan boru hattı anlaşmasını petrol ihracatı için stratejik bir dönüm noktası olarak değerlendirdi. Başbakan Al-Zaydi, Bağdat ve Ankara'nın petrol, elektrik ve su kaynakları konusunda daha geniş bir işbirliği çerçevesi oluşturmayı hedeflediğini açıkladı. Bu anlaşma, iki ülke arasındaki enerji ve doğal kaynaklar alanındaki ilişkileri güçlendirmeyi amaçlıyor. Anlaşmanın bölgesel enerji güvenliği ve ekonomik işbirliği açısından önemli bir adım olduğu belirtildi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/18784617/pexels-photo-18784617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T17:33:29.096Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.3,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/iraqi-premier-hails-pipeline-deal-with-turkiye-as-strategic-milestone-for-oil-exports/4015964",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785600243745t7adi",
         "title": "ABD ile sınırlı bir savaş neden İran'a barıştan daha uygun olabilir?",
         "summary": "Analizlere göre, İran'ın ABD ile olan gerilimini topyekûn bir savaşa dönüşmeden dikkatlice kontrol edebileceğine inandığı belirtiliyor. Tahran yönetimi, bu stratejiyle ABD üzerindeki baskıyı sürdürmeyi ve kendi çıkarlarını korumayı hedefliyor olabilir. Bu yaklaşım, İran'ın barış yerine sınırlı bir çatışmayı tercih etme potansiyelini ortaya koyuyor. İran'ın bu stratejisi, bölgedeki güç dengelerini etkileyebilecek önemli bir faktör olarak değerlendiriliyor.",
@@ -748,54 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/gaza-administration-committee-says-it-is-ready-to-govern-enclave-after-ceasefire-progress/4014802",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785492499122vq67m",
-        "title": "Eski İsrailli Elçi: Tel Aviv'in Washington Üzerindeki Etkisi Trump Döneminde Azaldı",
-        "summary": "Eski İsrail elçisi Mike Herzog, İsrail'in ABD karar alma süreçleri üzerindeki etkisinin Trump yönetimi altında önemli ölçüde azaldığını belirtti. Herzog, ayrıca İsrail'in Amerikan kamuoyu nezdindeki konumunun uzun vadede aşındığını ifade etti. Bu durum, iki ülke arasındaki diplomatik ilişkilerde ve İsrail'in ABD dış politikasındaki yerinde yaşanan değişimleri gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T10:08:19.122Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/former-israeli-envoy-says-tel-aviv-s-influence-in-washington-has-diminished-sharply-under-trump/4014792",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785492520114fwair",
-        "title": "Filistin kaynakları, Gazze ateşkes anlaşmasının ikinci aşaması için yol haritasını açıkladı",
-        "summary": "Filistinli kaynaklar, Gazze'deki ateşkes anlaşmasının ikinci aşamasına ilişkin bir yol haritasını duyurdu. Anadolu Ajansı'na konuşan kaynaklara göre, anlaşmanın ikinci aşamasının uygulanması, ilgili tüm tarafların onayının alınmasından sonraki 14 gün içinde başlayacak. Bu gelişme, bölgedeki gerilimi azaltma ve insani durumu iyileştirme çabaları kapsamında önemli bir adım olarak değerlendiriliyor. Yol haritasının detayları hakkında henüz tam bilgi verilmezken, taraflar arasında devam eden müzakerelerin bir parçası olduğu belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35141118/pexels-photo-35141118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T10:08:40.115Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-sources-reveal-roadmap-for-2nd-phase-of-gaza-ceasefire-agreement/4014754",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785482533582bbjwl",
-        "title": "ABD Senatosu'nun Rusya Yaptırımları Hindistan ve Çin İçin Yüzde 100 Tarife Anlamına Gelebilir",
-        "summary": "ABD Senatosu'nda, merhum Senatör Lindsey Graham'ın adını taşıyan bir yasa tasarısı kapsamında Rus enerji ihracatına yönelik kapsamlı tarifeler uygulama olasılığı tartışılıyor. Bu tasarı, Rusya'dan gelen enerji ürünlerine yüzde 100'e varan gümrük vergileri getirme potansiyeli taşıyor. Özellikle Rus enerjisine bağımlı olan Hindistan ve Çin gibi ülkeler için ciddi ekonomik sonuçlar doğurabilecek bu yaptırımlar, küresel enerji piyasalarında önemli dalgalanmalara yol açabilir. Küresel enerji arz-talep dengesi ve fiyatları üzerindeki potansiyel etkisi nedeniyle, Orta Doğu'daki enerji üreticisi ve ihracatçısı ülkelerin bu durumdan dolaylı olarak etkileneceği öngörülüyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/34358895/pexels-photo-34358895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T07:22:13.582Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
