@@ -1,5 +1,21 @@
 [
     {
+        "id": "17856115675071gpfj",
+        "title": "Gazze'deki Yetim Çocuklar ve İnsani Kriz 'Maraton' Filmiyle Gündeme Geldi",
+        "summary": "İsrail'in Gazze'ye yönelik operasyonları sonucunda 58.000'den fazla çocuğun bir veya iki ebeveynini kaybettiği bildirildi. Bu durum, bölgedeki acil insani zorlukları ve çocukların yaşadığı travmayı gözler önüne seriyor. Uluslararası kuruluşlar, Gazze'deki yetim çocukların sayısındaki artışa dikkat çekerek, bu çocukların korunması ve desteklenmesi için çağrıda bulunuyor. Bölgedeki insani yardım ihtiyacının giderek arttığı ve çocukların geleceğinin belirsizliğini koruduğu belirtiliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7142503/pexels-photo-7142503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T19:12:47.507Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1785605504842x6wvj",
         "title": "Türkiye ve Irak, küresel değişimler ortasında bir yıllık petrol boru hattı anlaşması imzaladı",
         "summary": "Türkiye ve Irak, petrol boru hattı üzerinden ham petrol akışını düzenleyen bir yıllık yeni bir anlaşmaya imza attı. Yetkililer tarafından doğrulanan anlaşma, Irak-Türkiye boru hattı aracılığıyla günlük 750.000 varil ham petrol akışını garanti altına alıyor. Bu anlaşma, küresel enerji piyasalarındaki değişimlerin yaşandığı bir dönemde iki ülke arasındaki enerji işbirliğinin devamlılığını sağlamayı hedefliyor. Yenilenen mutabakat, bölgesel enerji güvenliği açısından önem taşıyor ve uluslararası piyasalara petrol tedarikinde istikrarı destekliyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-it-hit-2-tankers-forced-4-others-to-turn-back-in-strait-of-hormuz/4014805",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785492478566ulfga",
-        "title": "Gazze yönetim komitesi, ateşkes ilerlemesinin ardından bölgeyi yönetmeye hazır olduğunu açıkladı",
-        "summary": "Gazze yönetim komitesi, ateşkes görüşmelerindeki ilerlemenin ardından bölgeyi yönetmeye hazır olduğunu duyurdu. Komite, kamu hizmetlerini yeniden tesis etmek, insani yardımların ulaştırılmasını kolaylaştırmak ve yeniden yapılanma çalışmalarına liderlik etmek için hazırlıklarını tamamladığını belirtti. Bu açıklama, Gazze'deki ateşkesin ikinci aşamasına yönelik yol haritasının ilerlemesiyle eş zamanlı olarak geldi. Komitenin bu adımı, bölgedeki istikrarın sağlanması ve yaşamın normale dönmesi çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/14518441/pexels-photo-14518441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T10:07:58.566Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-administration-committee-says-it-is-ready-to-govern-enclave-after-ceasefire-progress/4014802",
         "trendScore": 85,
         "isBreaking": false
     }
