@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785619608076wkc32",
+        "title": "Etiyopya ve TPLF birbirini suçlarken Batı Tigray'da çatışmalar yeniden başladı",
+        "summary": "Etiyopya'nın Batı Tigray bölgesinde, hükümet güçleri ile Tigray Halk Kurtuluş Cephesi (TPLF) arasında yeni çatışmaların çıktığı bildirildi. Sheraro yakınlarında meydana gelen bu çatışmaların, 2022 yılında imzalanan kırılgan Pretoria barış anlaşmasına yönelik en ciddi tehditlerden biri olduğu belirtiliyor. Taraflar, çatışmaların başlamasından birbirlerini sorumlu tutarken, bölgedeki gerilimin tırmandığı gözlemleniyor. Bu durum, iki yıl önce varılan barış sürecinin geleceği hakkında endişeleri artırıyor ve bölgedeki istikrarsızlığı derinleştirme potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T21:26:48.076Z",
+        "location": {
+            "lat": 14.38,
+            "lng": 37.88,
+            "name": "Sheraro, Etiyopya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
         "id": "17856115675071gpfj",
         "title": "Gazze'deki Yetim Çocuklar ve İnsani Kriz 'Maraton' Filmiyle Gündeme Geldi",
         "summary": "İsrail'in Gazze'ye yönelik operasyonları sonucunda 58.000'den fazla çocuğun bir veya iki ebeveynini kaybettiği bildirildi. Bu durum, bölgedeki acil insani zorlukları ve çocukların yaşadığı travmayı gözler önüne seriyor. Uluslararası kuruluşlar, Gazze'deki yetim çocukların sayısındaki artışa dikkat çekerek, bu çocukların korunması ve desteklenmesi için çağrıda bulunuyor. Bölgedeki insani yardım ihtiyacının giderek arttığı ve çocukların geleceğinin belirsizliğini koruduğu belirtiliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1785492453969bvqgy",
-        "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda 2 tankeri vurduk, 4'ünü geri çevirdik",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı'nda iki tankeri hedef aldığını ve dört ticari gemiyi geri çevirdiğini iddia etti. Bu açıklama, ABD Merkez Kuvvetler Komutanlığı'nın (CENTCOM) ticari gemilerin yönünün değiştirildiğine dair yaptığı açıklamanın ardından geldi. Bölgede seyrüsefer uyarılarının tartışmalı olduğu belirtilirken, Hürmüz Boğazı dünya petrol ticaretinin önemli bir geçiş noktası konumunda. Olay, bölgedeki deniz güvenliği ve gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10816311/pexels-photo-10816311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T10:07:33.969Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-it-hit-2-tankers-forced-4-others-to-turn-back-in-strait-of-hormuz/4014805",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
