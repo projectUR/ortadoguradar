@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785627127263ktmql",
+        "title": "Michigan ve Minnesota'da Siber Saldırılar Bildirildi, FBI Soruşturuyor",
+        "summary": "ABD'nin Michigan eyaleti, Minnesota'da yaşanan benzer olayların ardından siber saldırılara maruz kaldığını bildirdi. Federal Soruşturma Bürosu (FBI), her iki eyaletteki saldırıları soruşturmak üzere harekete geçti. Şu ana kadar saldırıların sorumluluğunu üstlenen veya faili tespit edilen bir grup bulunmuyor. Ancak bu siber saldırılar, ABD yetkililerinin daha önce olası bir İran komplosu hakkında uyarıda bulunmasının ardından gerçekleşti. Soruşturma devam ederken, saldırıların arkasındaki motivasyon ve faillerin kimliği belirsizliğini koruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2882671/pexels-photo-2882671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T23:32:07.263Z",
+        "location": {
+            "lat": 38,
+            "lng": -97,
+            "name": "ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785627211226iok3g",
+        "title": "Irak Başbakanı Komşu Ülkelere Yönelik Saldırıları Önlemek İçin Tedbir Talimatı Verdi",
+        "summary": "Irak Başbakanı, komşu ülkelere yönelik saldırıları önlemek amacıyla acil güvenlik tedbirleri alınması talimatını verdi. Gerçekleştirilen acil güvenlik toplantısında, ortak bir güvenlik komitesi kurulması kararlaştırıldı. Toplantıda ayrıca, Irak topraklarının herhangi bir saldırı için fırlatma rampası olarak kullanılmasına kesinlikle izin verilmeyeceği taahhüdü yinelendi. Bu adımlar, Irak'ın bölgesel istikrara olan bağlılığını ve komşularıyla iyi ilişkiler sürdürme çabasını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11783119/pexels-photo-11783119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-01T23:33:31.226Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraqi-premier-orders-measures-to-prevent-attacks-on-neighboring-countries/4016046",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785623319701ux53o",
         "title": "Ceuta'daki göçmen kaosu, zaten gergin olan İsrail-İspanya ilişkilerini neden daha da soğuttu?",
         "summary": "İspanya'nın Kuzey Afrika'daki Ceuta yerleşimine 50.000'den fazla göçmenin akın etmesiyle yaşanan kriz, uluslararası gündemde geniş yer buldu. Bu olay, İspanya ile İsrail arasındaki zaten gergin olan diplomatik ilişkileri daha da olumsuz etkiledi. Haber, göçmen akınının temel nedenlerini ve İsrail'in bu süreçte herhangi bir rolü olup olmadığını sorguluyor. İki ülke arasındaki mevcut anlaşmazlıkların, bu göçmen krizi üzerinden nasıl derinleştiği ve ilişkilerin geleceğine dair potansiyel etkileri analiz ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785500816077ogy6y",
-        "title": "İspanya-Fas Sınırında Kitlesel Göçmen Akını Ortasında Çatışmalar İkinci Gününde",
-        "summary": "İspanya ile Fas arasındaki sınırda kitlesel göçmen akını nedeniyle yaşanan çatışmalar ikinci gününe girdi. Bölgede artan göçmen geçişleri, sınır güvenlik güçleri arasında gerilime yol açtı. İki ülke arasındaki sınır hattında yaşanan bu olaylar, göçmenlerin Avrupa'ya ulaşma çabaları sırasında meydana geldi. Durumun bölgedeki güvenlik ve insani koşullar üzerindeki etkisi yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37197253/pexels-photo-37197253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T12:26:56.077Z",
-        "location": {
-            "lat": 35.89,
-            "lng": -5.32,
-            "name": "Ceuta, İspanya / Fas Sınırı"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17855009465318hsga",
-        "title": "Kuveyt, Hayati ve Askeri Tesislerine Yönelik Saldırı Sonrası İran İHA'larını İmha Ettiğini Duyurdu",
-        "summary": "Kuveyt, ülkenin hayati ve askeri tesislerine yönelik bir saldırının ardından İran'a ait insansız hava araçlarını (İHA) imha ettiğini açıkladı. Kuveyt ordusundan yapılan açıklamada, saldırı sonrası düşen İHA enkazlarından dolayı maddi hasar meydana geldiği bildirildi. Ancak olayda herhangi bir can kaybı yaşanmadığı özellikle vurgulandı. Bu gelişme, Körfez bölgesindeki güvenlik dinamikleri ve İran ile komşu ülkeler arasındaki ilişkiler açısından dikkat çekici bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T12:29:06.531Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/americas/kuwait-says-it-destroyed-iranian-drones-after-attack-on-vital-military-facilities/4014875",
         "trendScore": 85,
         "isBreaking": false
     }
