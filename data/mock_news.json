@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785701468014p1ke7",
+        "title": "İsrailliler Kudüs'ün Eski Şehri'ndeki Ermeni Manastırı'na Saldırdı",
+        "summary": "Kudüs'ün Eski Şehri'nde yer alan Aziz James Manastırı'nın girişine altı Yahudi İsraillinin tükürdüğü anlar görüntülendi. Bu olay, bölgedeki dini mekanlara yönelik hassasiyetleri ve farklı topluluklar arasındaki gerilimleri yeniden gündeme getirdi. Ermeni cemaati, bu tür eylemlerin artmasından duyduğu endişeyi dile getirdi. Manastır, Kudüs'teki önemli Hristiyan ibadethanelerinden biri olarak biliniyor ve şehrin çok kültürlü yapısının bir parçası.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3009354/pexels-photo-3009354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T20:11:08.014Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1785701529656big9s",
+        "title": "İran, Umman ile Hürmüz Boğazı Müzakerelerinin Son Aşamada Olduğunu Duyurdu",
+        "summary": "İran, Umman ile Hürmüz Boğazı'nın statüsü ve güvenliği üzerine yürütülen müzakerelerin son aşamaya geldiğini açıkladı. Tahran'dan yapılan bu duyuru, eski ABD Başkanı Trump'ın İran'a yönelik yeni bir saldırıyı, hızlı bir anlaşma umuduyla erteleyeceğini belirtmesinin ardından geldi. Basra Körfezi'ni Umman Denizi'ne bağlayan Hürmüz Boğazı, küresel petrol ticareti için hayati önem taşıyan stratejik bir su yoludur. Bu müzakereler, bölgedeki denizcilik güvenliği ve uluslararası enerji tedarik zincirleri açısından büyük önem taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7763500/pexels-photo-7763500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T20:12:09.656Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785695440392xaknv",
         "title": "Gazze'ye düzenlenen İsrail saldırısının enkazında cenin bulundu",
         "summary": "Batı Gazze Şehri'nde, İsrail'in düzenlediği bir saldırının ardından enkaz kaldırma çalışmaları sırasında trajik bir keşif yapıldı. Bölge sakinleri, yıkılan binaların kalıntıları arasında arama yaparken, doğmamış bir bebeğin cansız bedenine ulaştı. Bu olay, devam eden çatışmaların siviller üzerindeki yıkıcı etkisini ve insani dramı bir kez daha gözler önüne serdi. Ceninin bulunması, Gazze'deki çatışmaların masum canlara mal olduğunu gösteren acı bir kanıt olarak kayıtlara geçti.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/egypt-says-investigation-into-attack-on-2-vessels-at-port-ongoing/4015607",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785576959720h5b3l",
-        "title": "İsrail hava saldırısı Gazze'nin merkezinde hastane yakınındaki tıbbi depoyu imha etti",
-        "summary": "Gazze Şeridi'nin orta kesiminde, İsrail'e ait savaş uçaklarının düzenlediği bir hava saldırısında tıbbi malzeme deposunun hedef alındığı bildirildi. Saldırının, bölgede ilaç ve tıbbi malzeme sıkıntısının had safhada olduğu bir dönemde gerçekleştiği belirtildi. Görgü tanıklarının Anadolu Ajansı'na verdiği bilgilere göre, saldırı Deir al-Balah kentindeki El-Aksa Şehitleri Hastanesi'nin hemen yanındaki depoyu vurdu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982144/pexels-photo-35982144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T09:35:59.720Z",
-        "location": {
-            "lat": 31.41,
-            "lng": 34.33,
-            "name": "Deir al-Balah, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-destroys-medical-warehouse-near-hospital-in-central-gaza/4015544",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1785569379682gqfzz",
-        "title": "Netanyahu, Gazze'den Çekilme Planı Nedeniyle Siyasi Çalkantıyla Karşı Karşıya",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, Gazze Şeridi'nden olası bir çekilme ile ilişkilendirilen silahsızlandırma planı nedeniyle siyasi bir krizle karşı karşıya olduğu belirtildi. Bu planın, İsrail'in Gazze'deki geleceği ve bölgedeki güvenlik düzenlemeleri hakkında önemli tartışmaları tetiklediği ifade ediliyor. Netanyahu hükümeti içindeki ve dışındaki muhalifler, planın uygulanabilirliği ve İsrail'in ulusal güvenlik çıkarları üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor. Gazze'den çekilme konusu, İsrail siyasetinde uzun süredir hassas bir mesele olup, mevcut gelişmeler Başbakan'ın liderliğini zorlu bir sınava tabi tutuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T07:29:39.682Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
