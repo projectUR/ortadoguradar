@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785685246342k6hcf",
+        "title": "Son 24 Saatte İsrail Ateşiyle 7 Gazalı Daha Öldürüldü, Can Kaybı 73.350'yi Aştı: Sağlık Bakanlığı",
+        "summary": "Gazze Şeridi'nde yaşanan çatışmalarda son 24 saat içinde İsrail ateşi sonucu yedi Gazalı'nın daha hayatını kaybettiği bildirildi. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, bölgedeki toplam can kaybı 73.350'yi aşmış durumda. Bakanlık ayrıca, ateşkesin başlamasından bu yana İsrail ordusu tarafından en az 1.230 Filistinlinin öldürüldüğünü ve 4.000'den fazla kişinin yaralandığını belirtti. Bu gelişmeler, bölgedeki insani krizin ve güvenlik durumunun ciddiyetini koruduğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934185/pexels-photo-35934185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T15:40:46.342Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-7-more-gazans-killed-by-israeli-fire-in-past-24-hours-death-toll-surpasses-73-350-health-ministry/4016326",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1785679758343dgkvx",
         "title": "Yemen'de Yolların Bozukluğu Taiz Köylüleri İçin Suya Erişimi Zorlaştırıyor",
         "summary": "Yemen'in Taiz vilayetinde kötü yol altyapısı, ülkedeki su krizini derinleştirerek binlerce kişinin yaşamını olumsuz etkiliyor. Bölgedeki çökmüş yollar, köylülerin su kaynaklarına ulaşımını son derece zorlu bir hale getiriyor. Bu durum, özellikle su kaynaklarına erişimde büyük güçlükler yaşayan Taiz halkı için günlük yaşamı çekilmez kılıyor ve temel ihtiyaçların karşılanmasını engelliyor. Altyapı eksiklikleri, insani yardımların ve diğer temel ihtiyaç maddelerinin dağıtımını da ciddi şekilde sekteye uğratıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/iran-warns-continued-us-maritime-blockade-could-shut-strait-of-hormuz-other-waterways/4015491",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1785569472089h06jz",
-        "title": "ABD ve İsrail, İran'ın enerji altyapısına büyük saldırılar hazırlığında: Raporlar",
-        "summary": "ABD ve İsrail'in, İran'ın enerji altyapısına yönelik büyük saldırılar hazırlığında olduğu yönünde raporlar ortaya çıktı. Çeşitli kaynaklara dayandırılan bu iddialar, bölgedeki gerilimin tırmanabileceğine işaret ediyor. Olası bir askeri müdahalenin, İran'ın kritik enerji tesislerini hedef alabileceği belirtiliyor. Bu durum, Orta Doğu'daki güvenlik dengeleri ve uluslararası ilişkiler üzerinde ciddi sonuçlar doğurma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34532194/pexels-photo-34532194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T07:31:12.089Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/live-blog/us-israel-preparing-major-strikes-on-irans-energy-infrastructure-reports/6156",
-        "trendScore": 95,
-        "isBreaking": true
     }
 ]
