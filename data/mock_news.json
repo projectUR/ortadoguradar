@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785709698349gonra",
+        "title": "Lübnan'da Yıkılan Hristiyan Manastırı Yerel Gönüllüler Tarafından Yeniden İnşa Ediliyor",
+        "summary": "Lübnan'ın Zawtar al-Gharbiyeh bölgesinde, savaşta hasar görmüş bir Katolik manastırı, dinler arası gönüllülerin ortak çabalarıyla yeniden inşa ediliyor. Bu proje, farklı inanç gruplarından gelen yerel halkı bir araya getirerek kültürel mirasın korunmasına ve toplumsal dayanışmanın güçlendirilmesine odaklanıyor. Manastırın restorasyonu, bölgedeki savaşın yol açtığı tahribatın izlerini silmeyi ve dini yapıyı eski ihtişamına kavuşturmayı hedefliyor. Bu tür girişimler, Lübnan'ın çok kültürlü yapısını ve topluluklar arası uyumu pekiştirme potansiyeli taşıyor. Yeniden inşa çalışmaları, bölge halkı için umut ve birliğin sembolü olarak görülüyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6335626/pexels-photo-6335626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T22:28:18.349Z",
+        "location": {
+            "lat": 33.43,
+            "lng": 35.48,
+            "name": "Zawtar al-Gharbiyeh, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785706030457iy2h3",
         "title": "İsrailli Yetkili: Gazze'den Çekilme İçin Hamas'ın Gerçek Silahsızlanması Şart",
         "summary": "İsrailli bir yetkili, İsrail birliklerinin Gazze Şeridi'nden çekilmesinin, Hamas'ın 'gerçek' bir silahsızlanma gerçekleştirmesine bağlı olduğunu ifade etti. Eski ABD Başkanı Donald Trump ise, Filistinli grubun silahlarını bırakması karşılığında İsrail'in çekilmesini öngören bir tekliften İsrail'in 'çok memnun' olduğunu ileri sürdü. Bu açıklamalar, Gazze'nin geleceği ve İsrail'in olası askeri geri çekilme koşulları üzerine devam eden tartışmaları ve farklı beklentileri gözler önüne seriyor. Bölgedeki gerilimin ana unsurlarından biri olan silahsızlanma ve çekilme konuları, çözüm arayışlarında kritik bir yer tutuyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17855768949824yp3v",
-        "title": "İsrailli Bakan, Filistinli Mahkumu Cezaevi Koşulları Üzerinden Taciz Etti",
-        "summary": "İsrail'in aşırı sağcı bakanı Itamar Ben-Gvir'in, bir Filistinli mahkumu cezaevindeki zorlu koşullar nedeniyle taciz ettiği bildirildi. İsrail hapishanesinde tutulan Filistinli kadın mahkum, Ben-Gvir'e depresyon yaşadığını, yeterli yiyecek ve temiz suya erişimi olmadığını aktardı. Bu olay, İsrail cezaevlerindeki Filistinli mahkumların durumu ve insan hakları ihlalleri iddialarını yeniden gündeme getirdi. Bakanın bu tutumu, uluslararası kamuoyunda ve insan hakları örgütleri arasında tepkilere neden olabilir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10475166/pexels-photo-10475166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T09:34:54.982Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-far-right-minister-taunts-palestinian-prisoner-over-harsh-jail-conditions/4015651",
         "trendScore": 85,
         "isBreaking": false
     }
