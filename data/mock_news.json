@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785690185955txc5x",
+        "title": "Suudi Arabistan Veliaht Prensi MBS, Trump'ı ABD-İran Geriliminde 'Diyaloğa Öncelik Vermeye' Çağırdı",
+        "summary": "Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın, ABD Başkanı Donald Trump'ı ABD-İran arasındaki gerilimde diyaloğa öncelik vermeye çağırdığı bildirildi. Bu çağrı, ABD Başkanı'nın daha önce İran'ı eşi benzeri görülmemiş bir güçle tehdit etmesinin ardından hava saldırılarını durdurma kararı almasıyla eş zamanlı gerçekleşti. Veliaht Prens'in bu tutumu, bölgedeki tansiyonun düşürülmesi ve olası bir çatışmanın önlenmesi yönündeki diplomatik çabalara destek olarak yorumlandı. Riyad'dan gelen bu açıklama, Orta Doğu'daki gerilimin azaltılmasına yönelik uluslararası arayışların bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T17:03:05.955Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1785685246342k6hcf",
         "title": "Son 24 Saatte İsrail Ateşiyle 7 Gazalı Daha Öldürüldü, Can Kaybı 73.350'yi Aştı: Sağlık Bakanlığı",
         "summary": "Gazze Şeridi'nde yaşanan çatışmalarda son 24 saat içinde İsrail ateşi sonucu yedi Gazalı'nın daha hayatını kaybettiği bildirildi. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, bölgedeki toplam can kaybı 73.350'yi aşmış durumda. Bakanlık ayrıca, ateşkesin başlamasından bu yana İsrail ordusu tarafından en az 1.230 Filistinlinin öldürüldüğünü ve 4.000'den fazla kişinin yaralandığını belirtti. Bu gelişmeler, bölgedeki insani krizin ve güvenlik durumunun ciddiyetini koruduğunu gösteriyor.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanese-president-says-armys-role-growing-as-full-deployment-needed-along-southern-border/4015496",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785569449849wszaw",
-        "title": "İran, ABD'yi Hürmüz Boğazı'nı Kapatma Konusunda Uyardı",
-        "summary": "İran, ABD'nin deniz ablukasını sürdürmesi halinde Hürmüz Boğazı ve diğer su yollarının kapanabileceği uyarısında bulundu. Yüksek Ulusal Güvenlik Konseyi sekreteri, Washington'ın gerilimi tırmandırmasının küresel ekonomi, enerji piyasaları ve Amerikalı seçmenler pahasına olacağını belirtti. Bu durumun, dünya genelindeki enerji tedarik zincirlerini ciddi şekilde etkileyeceği ve ekonomik istikrarsızlığa yol açabileceği vurgulandı. İranlı yetkililer, ABD'nin bölgedeki adımlarının sonuçlarını iyi değerlendirmesi gerektiğini ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13102530/pexels-photo-13102530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T07:30:49.849Z",
-        "location": {
-            "lat": 27.18,
-            "lng": 56.28,
-            "name": "Bandar Abbas, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/iran-warns-continued-us-maritime-blockade-could-shut-strait-of-hormuz-other-waterways/4015491",
         "trendScore": 85,
         "isBreaking": false
     }
