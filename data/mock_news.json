@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785713506473qbwqf",
+        "title": "Birleşik Krallık Başbakanı Burnham: Manş Denizi Göçmen Geçişlerinde 'Acımasız' Olacağız",
+        "summary": "Birleşik Krallık Başbakanı Andy Burnham, hükümetinin Manş Denizi üzerinden küçük teknelerle yapılan göçmen geçişleriyle mücadelede \"acımasız\" bir tutum sergileyeceğini açıkladı. Burnham, bu geçişlerin durdurulması için kararlı adımlar atılacağını ve mevcut politikaların daha da sıkılaştırılacağını vurguladı. Hükümetin, insan kaçakçılığı şebekelerini çökertmek ve yasa dışı göçü engellemek amacıyla tüm imkanlarını kullanacağı belirtildi. Bu açıklama, Birleşik Krallık'ın sınır güvenliği konusundaki kararlılığını bir kez daha ortaya koyarken, Manş Denizi'ndeki göçmen akışının devam etmesiyle ilgili endişeleri de yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/23881985/pexels-photo-23881985.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T23:31:46.473Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785709698349gonra",
         "title": "Lübnan'da Yıkılan Hristiyan Manastırı Yerel Gönüllüler Tarafından Yeniden İnşa Ediliyor",
         "summary": "Lübnan'ın Zawtar al-Gharbiyeh bölgesinde, savaşta hasar görmüş bir Katolik manastırı, dinler arası gönüllülerin ortak çabalarıyla yeniden inşa ediliyor. Bu proje, farklı inanç gruplarından gelen yerel halkı bir araya getirerek kültürel mirasın korunmasına ve toplumsal dayanışmanın güçlendirilmesine odaklanıyor. Manastırın restorasyonu, bölgedeki savaşın yol açtığı tahribatın izlerini silmeyi ve dini yapıyı eski ihtişamına kavuşturmayı hedefliyor. Bu tür girişimler, Lübnan'ın çok kültürlü yapısını ve topluluklar arası uyumu pekiştirme potansiyeli taşıyor. Yeniden inşa çalışmaları, bölge halkı için umut ve birliğin sembolü olarak görülüyor.",
@@ -780,22 +796,6 @@
             "name": "Doha, Katar"
         },
         "source": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17855768707950fnsu",
-        "title": "İsrailli Yerleşimci, Batı Şeria'daki Filistinlilere Yönelik Saldırıları 'İntikam' Olarak Savundu",
-        "summary": "Batı Şeria'da Filistinlilere yönelik yerleşimci şiddeti artış gösteriyor. Bölgedeki İsrail yerleşimleri ve karakolları genişlemeye devam ederken, bu tür olaylar da sıklaşıyor. Bir İsrailli yerleşimci, BBC'ye verdiği demeçte, Filistinlilere yönelik saldırıların intikam amacıyla haklı olduğunu belirtti. Bu durum, bölgedeki gerilimi daha da tırmandırıyor ve uluslararası toplumun dikkatini çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12545526/pexels-photo-12545526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T09:34:30.795Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
