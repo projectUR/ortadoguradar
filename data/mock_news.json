@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785640710981y9l6e",
+        "title": "İran, ABD Saldırısı Halinde Körfez ve İsrail'deki Enerji Tesislerini Misilleme Hedefi Olarak Belirledi",
+        "summary": "İran'ın yarı resmi Fars Haber Ajansı'nın yayımladığı bir rapora göre, İran, ABD'nin bölgede olası yeni saldırılar başlatması durumunda misilleme olarak hedef alınabilecek Körfez ve İsrail'deki önemli enerji tesislerini belirledi. Haberde, bu tesislerin İran'ın potansiyel misilleme hedefleri listesinde yer aldığı ifade edildi. Bu gelişme, Orta Doğu'da bölgesel gerilimin tırmanabileceği yönündeki endişeleri artırıyor. İran'ın bu adımı, olası bir çatışma senaryosunda stratejik yanıt verme kapasitesini vurgulama amacı taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8709582/pexels-photo-8709582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T03:18:30.981Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-identifies-gulf-israeli-energy-facilities-for-possible-retaliation-targets-in-event-of-us-attack-report/4016059",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1785627127263ktmql",
         "title": "Michigan ve Minnesota'da Siber Saldırılar Bildirildi, FBI Soruşturuyor",
         "summary": "ABD'nin Michigan eyaleti, Minnesota'da yaşanan benzer olayların ardından siber saldırılara maruz kaldığını bildirdi. Federal Soruşturma Bürosu (FBI), her iki eyaletteki saldırıları soruşturmak üzere harekete geçti. Şu ana kadar saldırıların sorumluluğunu üstlenen veya faili tespit edilen bir grup bulunmuyor. Ancak bu siber saldırılar, ABD yetkililerinin daha önce olası bir İran komplosu hakkında uyarıda bulunmasının ardından gerçekleşti. Soruşturma devam ederken, saldırıların arkasındaki motivasyon ve faillerin kimliği belirsizliğini koruyor.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785516782290n9lcm",
-        "title": "Bowen: Hamas'ın Silahsızlanma Planı Büyük Engellerle Karşı Karşıya, Ancak Gazze İçin Nadir Bir Umut Sunuyor",
-        "summary": "Gazze'de Hamas'ın silahsızlanmasına yönelik bir planın büyük engellerle karşı karşıya olduğu belirtildi. Ancak bu planın, bölge için nadir bir umut sunduğu ifade ediliyor. Siyasetin karmaşıklığı, devam eden savaş hali, taraflar arasındaki sıfır güven ortamı, binlerce kişinin hayatını kaybetmesi ve Gazze'deki yıkımın boyutları, herhangi bir anlaşmaya varılmasını son derece zorlaştırıyor. Uzmanlar, tüm bu zorluklara rağmen, silahsızlanma girişiminin bölgedeki gerilimi azaltma potansiyeli taşıdığını vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11337755/pexels-photo-11337755.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-07-31T16:53:02.290Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
