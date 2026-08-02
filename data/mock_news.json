@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785679758343dgkvx",
+        "title": "Yemen'de Yolların Bozukluğu Taiz Köylüleri İçin Suya Erişimi Zorlaştırıyor",
+        "summary": "Yemen'in Taiz vilayetinde kötü yol altyapısı, ülkedeki su krizini derinleştirerek binlerce kişinin yaşamını olumsuz etkiliyor. Bölgedeki çökmüş yollar, köylülerin su kaynaklarına ulaşımını son derece zorlu bir hale getiriyor. Bu durum, özellikle su kaynaklarına erişimde büyük güçlükler yaşayan Taiz halkı için günlük yaşamı çekilmez kılıyor ve temel ihtiyaçların karşılanmasını engelliyor. Altyapı eksiklikleri, insani yardımların ve diğer temel ihtiyaç maddelerinin dağıtımını da ciddi şekilde sekteye uğratıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/2059645/pexels-photo-2059645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-02T14:09:18.343Z",
+        "location": {
+            "lat": 13.57,
+            "lng": 44.02,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aljazeera.com/features/2026/8/2/yemens-crumbling-roads-means-an-arduous-quest-for-water-for-taiz-villagers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785672288772bfg1u",
         "title": "Ben-Gvir, Filistinli Tutuklunun Cezaevi Koşullarıyla Alay Etti",
         "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in, bir Filistinli tutuklunun cezaevi koşullarıyla ilgili olarak alaycı bir tavır sergilediği bildirildi. Bu olay, İsrail cezaevlerindeki Filistinli mahkumların durumu ve insan hakları örgütlerinin bu konudaki uzun süredir devam eden endişelerini yeniden gündeme getirdi. Aşırı sağcı görüşleriyle bilinen Ben-Gvir'in bu tür açıklamaları, İsrail-Filistin arasındaki gerilimi daha da artırma potansiyeli taşımaktadır. Filistinli tutukluların hakları ve cezaevi koşulları, bölgedeki siyasi ve insani tartışmaların merkezinde yer alan hassas konulardan biridir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/live-blog/us-israel-preparing-major-strikes-on-irans-energy-infrastructure-reports/6156",
         "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "17855694949057hbkp",
-        "title": "Umman açıklarında bir tankere kimliği belirsiz bir cisim çarptı, makine dairesi hasar gördü: İngiliz denizcilik ajansı",
-        "summary": "İngiliz denizcilik ajansı UKMTO, Umman açıklarında bir tankere kimliği belirsiz bir cismin çarptığını bildirdi. Ajansın açıklamasına göre, olay Lima'nın 11 deniz mili kuzeydoğusunda meydana geldi. Çarpma sonucunda tankerin makine dairesinde hasar oluştuğu ve geminin komuta dışı kaldığı belirtildi. Olayda herhangi bir can kaybı yaşanmadığı ifade edildi. Bölgedeki deniz güvenliği endişeleri artarken, olayın sorumlularına ilişkin henüz bir bilgi bulunmuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27275198/pexels-photo-27275198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T07:31:34.905Z",
-        "location": {
-            "lat": 25,
-            "lng": 58,
-            "name": "Umman Körfezi, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/world/tanker-struck-by-unknown-projectile-off-oman-engine-room-damaged-uk-maritime-agency/4015459",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
