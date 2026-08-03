@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785787940216l66n1",
+        "title": "Trump: İran ile müzakereler anlaşma için 'son şans'",
+        "summary": "ABD Başkanı Donald Trump, İran ile nükleer bir anlaşmaya varılması için 'son şans' olduğunu ifade etti. Trump'ın bu açıklamaları, iki ülke arasındaki gerilimin sürdüğü ve uluslararası toplumun İran'ın nükleer programına ilişkin endişelerinin devam ettiği bir dönemde geldi. Daha önce ABD, İran ile imzalanan Kapsamlı Ortak Eylem Planı'ndan (JCPOA) çekilmiş ve İran'a yönelik yaptırımları yeniden uygulamaya başlamıştı. Bu durum, Tahran'ın da anlaşmadaki taahhütlerini kademeli olarak azaltmasına yol açmıştı. Trump'ın 'son şans' vurgusu, gelecekteki müzakerelerin kritik önemini ve olası bir anlaşmanın aciliyetini ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5849578/pexels-photo-5849578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T20:12:20.216Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785781139266byzke",
         "title": "Rusya'da Plaja İHA Saldırısı: En Az 7 Kişi Hayatını Kaybetti",
         "summary": "Rusya'nın Karadeniz kıyısındaki Gelendzhik tatil beldesi yakınlarında kalabalık bir plaja insansız hava aracı (İHA) çarptı. Olayda ilk belirlemelere göre en az 7 kişi yaşamını yitirdi. Güvenlik kameralarına yansıyan görüntülerde, İHA'nın plajdaki vatandaşların arasına düşerek patladığı anlar yer aldı. Rus yetkililer, saldırının ardından geniş çaplı bir soruşturma başlatırken, olayın Rusya-Ukrayna savaşının sivil hedeflere yönelik etkilerini bir kez daha gündeme getirdiği belirtildi.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/americas/cautious-optimism-on-resumption-soon-of-stalled-us-iran-talks-after-trump-scrapped-planned-strikes-sources/4016180",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17856610354420fku1",
-        "title": "Suudi Veliaht Prensi Trump'a Bölgesel Çatışmayı Önleme Çabalarının Önemini Vurguladı",
-        "summary": "Suudi Arabistan Veliaht Prensi Muhammed bin Selman, ABD Başkanı ile yaptığı telefon görüşmesinde, bölgede daha geniş çaplı bir çatışmayı önlemek için tüm çabaların gösterilmesi gerektiğini vurguladı. Veliaht Prens, görüşmede diyalog ve gerilimi azaltma çağrısında bulundu. Bin Selman, bölgesel istikrarın korunmasında diplomatik çözümlerin anahtar rol oynadığını ifade etti. Bu görüşme, Orta Doğu'daki mevcut gerilimlerin azaltılmasına yönelik uluslararası çabaların bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T08:57:15.442Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/americas/saudi-crown-prince-stresses-to-trump-need-for-all-efforts-to-avert-wider-regional-conflict/4016148",
         "trendScore": 85,
         "isBreaking": false
     }
