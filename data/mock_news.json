@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785739461656cu3v6",
+        "title": "Kayıp Kardeşler İçin Umut ve Acı Arasında Sıkışan Gazze Ailesi",
+        "summary": "Gazze'de yaşayan Abdel Aal ailesi, geçen yıl kaybolan iki oğullarının akıbeti hakkında belirsizlikle mücadele ediyor. Ailenin hayatı, çocuklarının bulunması umuduyla süren bitmek bilmeyen bir arayışa dönüşmüş durumda. Bu durum, bölgedeki insani dramın ve kayıp vakalarının aileler üzerindeki derin etkisini gözler önüne seriyor. Abdel Aal ailesi, yetkililerden ve ilgili taraflardan çocuklarının nerede olduğuna dair bilgi bekliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36038704/pexels-photo-36038704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T06:44:21.656Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785727173341tfhdb",
         "title": "İsrail'in Gazze'ye Düzenlediği Saldırılarda En Az 13 Kişi Hayatını Kaybetti",
         "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarında en az 13 kişinin yaşamını yitirdiği bildirildi. Saldırılar, Hamas'ın silahsızlanma anlaşmasını kabul etmesinin ardından gerçekleşti. İsrail ordusu, Gazze Şehri, Han Yunus ve Deyr el-Balah bölgelerindeki askeri hedefleri vurduğunu duyurdu. Yetkililer, operasyonların askeri unsurları hedef aldığını belirtti.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1785583244446xi7df",
-        "title": "ABD'nin Ürdün Büyükelçiliği Vatandaşlarına Orta Doğu'dan Ayrılma Çağrısı Yaptı",
-        "summary": "ABD'nin Ürdün Büyükelçiliği, bölgedeki güvenlik endişeleri nedeniyle Amerikan vatandaşlarına Orta Doğu'dan ayrılmayı düşünmeleri yönünde bir çağrıda bulundu. Büyükelçilik, vatandaşlarını Ürdün'deki askeri üslerden uzak durmaları konusunda uyarırken, olası uçuş iptalleri ve hava sahası kapanışlarına karşı hazırlıklı olmaya davet etti. Bu uyarı, bölgedeki mevcut gerilimin ve güvenlik risklerinin arttığına işaret ediyor. Vatandaşların seyahat planlarını gözden geçirmeleri ve güncel gelişmeleri yakından takip etmeleri önemle belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36729962/pexels-photo-36729962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T11:20:44.446Z",
-        "location": {
-            "lat": 31.963158,
-            "lng": 35.930359,
-            "name": "Amman, Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-embassy-in-jordan-urges-citizens-to-consider-leaving-middle-east/4015664",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
