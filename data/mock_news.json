@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785798249204iv9ww",
+        "title": "ABD'li Araplar Filistin Meselesini Amerikan Siyasetinde Merkeze Taşıyor",
+        "summary": "ABD'deki Arap Amerikalılar, Filistin meselesini Amerikan siyasetinde merkezi bir konuma taşıyor. Michigan eyaletindeki Arap Amerikalı seçmenler, 2024 seçimlerinde Kamala Harris'e desteklerini çekmelerinin ardından, İsrail yanlısı adayları desteklemeyeceklerini açıkça belirtti. Bu durum, ABD'deki Arap toplumunun dış politika konularında artan siyasi etkisini ve Filistin davasına olan bağlılığını gösteriyor. Seçmenler, adayların Orta Doğu politikalarına yönelik tutumlarını, oy verme kararlarında belirleyici bir faktör olarak öne çıkarıyor. Bu gelişme, ABD iç siyasetinde Orta Doğu'daki gelişmelerin yansımalarını gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19453133/pexels-photo-19453133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T23:04:09.204Z",
+        "location": {
+            "lat": 31.7,
+            "lng": 35.2,
+            "name": "Michigan, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1785798339782rdetr",
+        "title": "İsrail askeri, Güney Lübnan'da 'operasyonel olayda' yaralandı: Ordu",
+        "summary": "İsrail ordusu, Güney Lübnan'da meydana gelen bir 'operasyonel olayda' bir İsrail askerinin yaralandığını bildirdi. Ordu tarafından yapılan açıklamada, yaralanan askerin yedek asker olduğu ve hafif derecede yara aldığı belirtildi. Olayın tam koşulları ve nasıl meydana geldiği hakkında ise henüz detaylı bilgi verilmedi. Bu tür sınır olayları, bölgedeki güvenlik durumunu yakından ilgilendirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2858530/pexels-photo-2858530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T23:05:39.782Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-injured-in-operational-incident-in-southern-lebanon-army/4017557",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1785798392414bhdsw",
+        "title": "İsrailli Bakanlardan Netanyahu'ya Gazze'ye İstikrar Gücü Konuşlandırılmasını Engelleme Çağrısı",
+        "summary": "İki İsrailli bakan, Başbakan Binyamin Netanyahu'ya Gazze Şeridi'ne bir istikrar gücünün konuşlandırılmasını önlemesi yönünde çağrıda bulundu. Maliye ve yerleşim birimleri bakanları, İsrail Güvenlik Güçleri'nin (ISF) Gazze'ye konuşlandırılmasına izin verme kararının \"yanlış bilgilere\" dayandığını öne sürdü. Bu açıklama, Gazze'nin savaş sonrası geleceği ve güvenlik düzenlemeleri konusundaki İsrail içindeki derin görüş ayrılıklarını gözler önüne seriyor. Bakanlar, söz konusu gücün bölgedeki İsrail çıkarları açısından olumsuz sonuçlar doğurabileceği endişesini dile getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9995973/pexels-photo-9995973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T23:06:32.414Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-israeli-ministers-urge-netanyahu-to-prevent-deployment-of-gaza-stabilization-force/4017518",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17857932610367e3xz",
         "title": "Göçmenler Ceuta'da Açlık ve Susuzluk İçinde Sığınma Bekliyor",
         "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'da, sığınma talebinde bulunmak üzere günlerdir bir sahilde bekleyen göçmenler, su ve içecek almak için yoğun çaba sarf etti. Bölgedeki göçmenlerin açlık ve susuzlukla mücadele ettiği bildirildi. Bu durum, Avrupa'ya ulaşmaya çalışan göçmenlerin karşılaştığı zorlu koşulları bir kez daha gözler önüne serdi. Yetkililer, göçmenlerin temel ihtiyaçlarını karşılamak için çalışmalarını sürdürüyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/former-israeli-premier-says-trump-ignores-netanyahu-gaza-framework-sidelines-israel/4016269",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785667371370vr2nq",
-        "title": "İspanya'nın Ceuta kentinde sakinler aşırı sağın göçmen karşıtı mitingini engelledi",
-        "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'da yüzlerce yerel sakin, aşırı sağcı bir grubun düzenlemeyi planladığı göçmen karşıtı mitinge karşı bir araya geldi. Şehir sakinleri, aşırı sağın göçmen karşıtı söylemlerine tepki göstererek, hoşgörü ve bir arada yaşama mesajları verdi. Bu karşıt gösteri, aşırı sağcı grubun planladığı etkinliğin iptal edilmesine yol açtı. Avrupa'ya ulaşmak isteyen göçmenler için önemli bir geçiş noktası olan Ceuta'da yaşanan bu olay, kıta genelinde yükselen göçmen karşıtı hareketlere karşı sivil toplumun tepkisini yansıtıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11960989/pexels-photo-11960989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T10:42:51.370Z",
-        "location": {
-            "lat": 35.89,
-            "lng": -5.32,
-            "name": "Ceuta, İspanya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17856674098815hj2c",
-        "title": "Trump İran Saldırılarını Neden Durdurdu ve İma Ettiği Anlaşma Ne?",
-        "summary": "Eski ABD Başkanı Donald Trump, İran'a yönelik olası saldırıları durdurduğunu ve 'bir anlaşmanın ana hatları üzerinde mutabık kalındığını' iddia etti. Bu açıklama, uluslararası kamuoyunda Trump'ın iddialarının gerçeklik payını ve olası bir anlaşmanın detaylarını sorgulatıyor. Haber, Trump'ın bu kararı almasındaki motivasyonları ve İran ile ABD arasındaki gerilimin seyrini ele alıyor. Analistler, Trump'ın bu tür bir anlaşma iddiasının arkasında yatan diplomatik veya siyasi stratejileri değerlendiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7693159/pexels-photo-7693159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T10:43:29.881Z",
-        "location": {
-            "lat": 35,
-            "lng": 51,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "17856674342343ku49",
-        "title": "Ahmet Davutoğlu Parti Siyasetinden Çekildi",
-        "summary": "Türkiye'nin eski başbakanlarından Ahmet Davutoğlu'nun siyasi kariyeriyle ilgili bir gelişme yaşandı. Habere göre, bir dönem Türkiye'nin başbakanlık görevini üstlenen Davutoğlu, aktif parti siyasetinden çekildi. Bu durum, Türk siyasetinde önemli bir figürün siyasi sahneden uzaklaşmasını ifade ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8850862/pexels-photo-8850862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T10:43:54.234Z",
-        "location": {
-            "lat": 39.93,
-            "lng": 32.86,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
