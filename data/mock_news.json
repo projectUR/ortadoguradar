@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785727173341tfhdb",
+        "title": "İsrail'in Gazze'ye Düzenlediği Saldırılarda En Az 13 Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarında en az 13 kişinin yaşamını yitirdiği bildirildi. Saldırılar, Hamas'ın silahsızlanma anlaşmasını kabul etmesinin ardından gerçekleşti. İsrail ordusu, Gazze Şehri, Han Yunus ve Deyr el-Balah bölgelerindeki askeri hedefleri vurduğunu duyurdu. Yetkililer, operasyonların askeri unsurları hedef aldığını belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19237317/pexels-photo-19237317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T03:19:33.341Z",
+        "location": {
+            "lat": 31.45,
+            "lng": 34.4,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17857271948296hy4t",
+        "title": "Uganda, İsrail Başbakanı'nın Entebbe Kurtarma Misyonunda Hayatını Kaybeden Kardeşinin Heykelini Açtı",
+        "summary": "Uganda'da, 1976'daki Entebbe rehine kurtarma operasyonunda hayatını kaybeden İsrail Başbakanı Binyamin Netanyahu'nun kardeşi Yonatan Netanyahu anısına bir heykel açılışı gerçekleştirildi. Yonatan Netanyahu, Uganda'daki Entebbe Havalimanı'nda kaçırılan 100'den fazla rehineyi kurtarma misyonuna liderlik ederken ölen tek İsrail askeri olarak tarihe geçmişti. Bu anıt, İsrail'in terörle mücadeledeki kararlılığının ve Entebbe Operasyonu'nun uluslararası öneminin bir sembolü olarak değerlendiriliyor. Heykelin açılışı, Uganda ile İsrail arasındaki tarihi bağları ve diplomatik ilişkileri yeniden gündeme getirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14962289/pexels-photo-14962289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T03:19:54.829Z",
+        "location": {
+            "lat": 0.05,
+            "lng": 32.4667,
+            "name": "Entebbe, Uganda"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785713506473qbwqf",
         "title": "Birleşik Krallık Başbakanı Burnham: Manş Denizi Göçmen Geçişlerinde 'Acımasız' Olacağız",
         "summary": "Birleşik Krallık Başbakanı Andy Burnham, hükümetinin Manş Denizi üzerinden küçük teknelerle yapılan göçmen geçişleriyle mücadelede \"acımasız\" bir tutum sergileyeceğini açıkladı. Burnham, bu geçişlerin durdurulması için kararlı adımlar atılacağını ve mevcut politikaların daha da sıkılaştırılacağını vurguladı. Hükümetin, insan kaçakçılığı şebekelerini çökertmek ve yasa dışı göçü engellemek amacıyla tüm imkanlarını kullanacağı belirtildi. Bu açıklama, Birleşik Krallık'ın sınır güvenliği konusundaki kararlılığını bir kez daha ortaya koyarken, Manş Denizi'ndeki göçmen akışının devam etmesiyle ilgili endişeleri de yansıtıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/americas/us-embassy-in-jordan-urges-citizens-to-consider-leaving-middle-east/4015664",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "178557677434746ibx",
-        "title": "Sri Lanka, Paskalya Saldırılarını Durdurmadıkları Gerekçesiyle İki Yetkiliyi İdama Mahkum Etti",
-        "summary": "Sri Lanka'da 2019 Paskalya saldırılarını önlemede ihmalleri olduğu gerekçesiyle iki üst düzey yetkili idama mahkum edildi. Yüksek Mahkeme, eski Savunma Bakanlığı Sekreteri Hemasiri Fernando ve eski Ulusal Polis Şefi Pujith Jayasundara'yı, saldırılar öncesindeki istihbarat uyarılarına rağmen gerekli önlemleri almamakla suçlu buldu. Ülke tarihindeki en ölümcül terör saldırılarından biri olan bu olaylarda 270'ten fazla kişi hayatını kaybetmişti. Karar, saldırıların sorumlularının hesap vermesi yönündeki kamuoyu baskısının bir sonucu olarak değerlendirilirken, saldırıların arkasında DEAŞ'tan (IŞİD) ilham alan yerel İslamcı grupların olduğu belirtilmişti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10461525/pexels-photo-10461525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T09:32:54.347Z",
-        "location": {
-            "lat": 6.9271,
-            "lng": 79.8612,
-            "name": "Colombo, Sri Lanka"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17855767986910bpo4",
-        "title": "FIFA Dünya Kupası Planı Tartışması: AFC, Infantino'nun Yatırım Hamlesini İptal Etmesine Tepki Gösterdi",
-        "summary": "FIFA Dünya Kupası planıyla ilgili yaşanan gelişmelerin ardından Asya Futbol Konfederasyonu (AFC) bir açıklama yaptı. AFC, FIFA'nın geleceğinin \"uygun istişareler yoluyla şekillendirilmesi\" gerektiğini vurguladı. Bu açıklama, FIFA Başkanı Gianni Infantino'nun daha önce duyurulan bir yatırım hamlesini iptal etmesi üzerine geldi. Konfederasyon, futbolun küresel yönetiminde şeffaflık ve ortak karar alma süreçlerinin önemine dikkat çekti. Bu durum, FIFA'nın gelecekteki turnuva formatları ve finansal stratejileri üzerindeki tartışmaları derinleştirebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32179310/pexels-photo-32179310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-01T09:33:18.691Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
