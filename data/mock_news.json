@@ -1,5 +1,53 @@
 [
     {
+        "id": "17857932610367e3xz",
+        "title": "Göçmenler Ceuta'da Açlık ve Susuzluk İçinde Sığınma Bekliyor",
+        "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'da, sığınma talebinde bulunmak üzere günlerdir bir sahilde bekleyen göçmenler, su ve içecek almak için yoğun çaba sarf etti. Bölgedeki göçmenlerin açlık ve susuzlukla mücadele ettiği bildirildi. Bu durum, Avrupa'ya ulaşmaya çalışan göçmenlerin karşılaştığı zorlu koşulları bir kez daha gözler önüne serdi. Yetkililer, göçmenlerin temel ihtiyaçlarını karşılamak için çalışmalarını sürdürüyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17778607/pexels-photo-17778607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T21:41:01.036Z",
+        "location": {
+            "lat": 35.8917,
+            "lng": -5.3167,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785793283600i2e72",
+        "title": "İsrail, Hamas Silahsızlanırsa Gazze'den Çekilecek mi?",
+        "summary": "İsrail'in, Hamas'ın silahsızlanması halinde Gazze Şeridi'nden çekilip çekilmeyeceği konusu gündemde. İsrail, Filistinli grubun silahlarını bırakma olasılığına dair şüphelerini dile getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T21:41:23.600Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gaza Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17857934139386m9nl",
+        "title": "Hamas, Gazze Ateşkesinin İkinci Aşaması İçin Yanıt Bekliyor",
+        "summary": "Hamas, Gazze'deki ateşkes anlaşmasının ikinci aşamasının uygulanmasına ilişkin olarak 'Barış Kurulu'ndan net ve resmi bir yanıt beklediğini açıkladı. Grup, Filistinli grupların ateşkesin ikinci aşamasının hayata geçirilmesi konusunda varılan mutabakatlara bağlı kalmaya devam ettiğini vurguladı. Bu açıklama, bölgedeki gerilimi azaltma ve kalıcı bir barışa ulaşma çabalarının devam ettiğini gösteriyor. Ateşkes görüşmelerinin geleceği ve ikinci aşamanın akıbeti, bölgedeki siyasi dinamikler açısından kritik önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-03T21:43:33.938Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hamas-says-awaiting-clear-official-response-from-board-of-peace-on-implementation-of-gaza-ceasefire-s-2nd-phase/4017506",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785787940216l66n1",
         "title": "Trump: İran ile müzakereler anlaşma için 'son şans'",
         "summary": "ABD Başkanı Donald Trump, İran ile nükleer bir anlaşmaya varılması için 'son şans' olduğunu ifade etti. Trump'ın bu açıklamaları, iki ülke arasındaki gerilimin sürdüğü ve uluslararası toplumun İran'ın nükleer programına ilişkin endişelerinin devam ettiği bir dönemde geldi. Daha önce ABD, İran ile imzalanan Kapsamlı Ortak Eylem Planı'ndan (JCPOA) çekilmiş ve İran'a yönelik yaptırımları yeniden uygulamaya başlamıştı. Bu durum, Tahran'ın da anlaşmadaki taahhütlerini kademeli olarak azaltmasına yol açmıştı. Trump'ın 'son şans' vurgusu, gelecekteki müzakerelerin kritik önemini ve olası bir anlaşmanın aciliyetini ortaya koyuyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1785660899288t7hra",
-        "title": "Trump, İran'a Yönelik Saldırıyı İptal Ettiğini Duyurdu: Anlaşma Yakın",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik planlanan bir saldırıyı iptal ettiğini açıkladı. Trump, bu kararın, iki ülke arasında bir anlaşmanın \"çerçevesinin\" belirlenmesi üzerine alındığını ifade etti. Bu gelişme, ABD ile İran arasındaki uzun süredir devam eden gerilimin düşürülmesi yönünde önemli bir adım olarak değerlendiriliyor. Uluslararası kamuoyu, bu diplomatik ilerlemeyi yakından takip ediyor ve bölgedeki tansiyonun azalması umudunu taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T08:54:59.288Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tehran, Iran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1785660989255i4drt",
-        "title": "Trump, İran'a Yönelik Saldırıları Anlaşma Şartıyla İptal Ettiğini Açıkladı",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik planlanan askeri saldırıları, hızlı bir anlaşma yapılması koşuluyla iptal ettiğini duyurdu. Trump, İran ve diğer Orta Doğu ülkelerinin Washington'dan saldırıları durdurmasını talep ettiğini ve bir anlaşmanın \"çerçevesinin\" belirlendiğini iddia etti. Bu açıklama, ABD ile İran arasındaki gerilimin tırmandığı bir dönemde geldi. Gelişme, bölgedeki tansiyonu düşürme ve diplomatik çözüm arayışlarını hızlandırma potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T08:56:29.255Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178566101520598zoo",
-        "title": "Trump'ın Saldırıları İptal Etmesinin Ardından Duraksayan ABD-İran Görüşmelerinin Yakında Yeniden Başlaması İçin 'Temkinli İyimserlik'",
-        "summary": "ABD ile İran arasındaki duraksayan görüşmelerin yakında yeniden başlayabileceği yönünde 'temkinli bir iyimserlik' oluştuğu bildirildi. Eski ABD Başkanı Donald Trump'ın planlı saldırıları iptal etmesinin ardından taraflar arasındaki diyaloğun canlanabileceği belirtiliyor. Pakistan hükümet kaynakları Anadolu Ajansı'na yaptığı açıklamada, bu hafta sonuna kadar görüşmelerin yeniden başlaması konusunda 'olumlu gelişmeler' beklendiğini ifade etti. Bu durum, Orta Doğu'daki gerilimin azaltılması potansiyeli taşıyor ve bölgesel diplomasi açısından önem arz ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T08:56:55.205Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/cautious-optimism-on-resumption-soon-of-stalled-us-iran-talks-after-trump-scrapped-planned-strikes-sources/4016180",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
