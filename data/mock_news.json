@@ -1,5 +1,21 @@
 [
     {
+        "id": "17858557816313r5ln",
+        "title": "Beyrut Liman Patlamasının Yıl Dönümü, Yeni Bir Yıkım Dalgasıyla Gölgelendi",
+        "summary": "Beyrut Limanı'ndaki yıkıcı patlamanın yıl dönümü yaklaşırken, Lübnan yeni bir yıkım dalgasıyla karşı karşıya bulunuyor. Ülkenin güney bölgeleri, İsrail'in düzenlediği saldırılar sonucunda büyük ölçüde harabeye dönmüş durumda. Bu durum, bölge sakinlerinin yaşamlarını yeniden kurma çabalarını bir kez daha sekteye uğratıyor. Halk, hem geçmişin yaralarını sarmaya çalışırken hem de mevcut çatışmaların getirdiği zorluklarla mücadele ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36398088/pexels-photo-36398088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T15:03:01.631Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785846411704jtob5",
         "title": "İsrail Ekonomisi Çok Cepheli Savaşta Nasıl Ayakta Kaldı?",
         "summary": "İsrail ekonomisinin çok cepheli bir savaş ortamında nasıl ayakta kaldığı ve çöküş yaşamadığı merak konusu oldu. Haber, İsrail ekonomisinin savaşın olumsuz etkilerine rağmen nasıl direndiğini ve bu duruma nasıl meydan okuduğunu inceliyor. Ülke ekonomisinin bu zorlu koşullara rağmen gösterdiği direncin altında yatan faktörler araştırılıyor. Bu durum, bölgedeki çatışmaların ekonomik yansımaları açısından önemli bir örnek teşkil ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-court-freezes-ben-gvirs-plan-to-place-crocodiles-around-prison-holding-palestinians/4016864",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1785739461656cu3v6",
-        "title": "Kayıp Kardeşler İçin Umut ve Acı Arasında Sıkışan Gazze Ailesi",
-        "summary": "Gazze'de yaşayan Abdel Aal ailesi, geçen yıl kaybolan iki oğullarının akıbeti hakkında belirsizlikle mücadele ediyor. Ailenin hayatı, çocuklarının bulunması umuduyla süren bitmek bilmeyen bir arayışa dönüşmüş durumda. Bu durum, bölgedeki insani dramın ve kayıp vakalarının aileler üzerindeki derin etkisini gözler önüne seriyor. Abdel Aal ailesi, yetkililerden ve ilgili taraflardan çocuklarının nerede olduğuna dair bilgi bekliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36038704/pexels-photo-36038704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T06:44:21.656Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
