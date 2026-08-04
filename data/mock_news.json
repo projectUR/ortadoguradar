@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785863583665d3kj2",
+        "title": "Gazze, İsrail'in 2023 Sabra saldırısında hayatını kaybeden 112 kişi için toplu cenaze töreni düzenledi",
+        "summary": "Gazze Şeridi'nde, İsrail'in 2023'teki Sabra saldırısında yaşamını yitiren 112 kişi için toplu cenaze töreni gerçekleştirildi. Söz konusu kişilerin kalıntıları, İsrail'in bölgedeki çatışmalar sırasında yıkılan evlerin enkazından çıkarıldı. Binlerce Filistinli, cenaze törenine katılarak hayatını kaybedenleri son yolculuklarına uğurladı. Bu olay, bölgedeki çatışmaların yol açtığı insani dramı ve kayıpları bir kez daha gözler önüne serdi. Cenaze töreni, Gazze'deki halkın yaşadığı acıları ve direnişi simgeliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T17:13:03.665Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17858637640191i8z4",
+        "title": "İsrail, Roma Görüşmelerine Rağmen Lübnan'da 6 Kez Ateşkesi İhlal Etti",
+        "summary": "İsrail ordusunun, Roma'da devam eden müzakerelere rağmen Lübnan'da altı kez ateşkesi ihlal ettiği bildirildi. Haberlere göre, İsrail güçleri Lübnan'ın güney, doğu ve orta bölgelerinde askeri ilerlemeler kaydetti. Ayrıca, bu bölgelerde topçu ateşi ve hava faaliyetleri gerçekleştirdiği belirtildi. Bu gelişmeler, bölgedeki gerilimi artırma potansiyeli taşırken, uluslararası toplumun tarafları ateşkese uymaya çağırdığı kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T17:16:04.019Z",
+        "location": {
+            "lat": 33.85,
+            "lng": 35.86,
+            "name": "Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-commits-6-ceasefire-violations-in-lebanon-despite-rome-talks/4018334",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17858557816313r5ln",
         "title": "Beyrut Liman Patlamasının Yıl Dönümü, Yeni Bir Yıkım Dalgasıyla Gölgelendi",
         "summary": "Beyrut Limanı'ndaki yıkıcı patlamanın yıl dönümü yaklaşırken, Lübnan yeni bir yıkım dalgasıyla karşı karşıya bulunuyor. Ülkenin güney bölgeleri, İsrail'in düzenlediği saldırılar sonucunda büyük ölçüde harabeye dönmüş durumda. Bu durum, bölge sakinlerinin yaşamlarını yeniden kurma çabalarını bir kez daha sekteye uğratıyor. Halk, hem geçmişin yaralarını sarmaya çalışırken hem de mevcut çatışmaların getirdiği zorluklarla mücadele ediyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iraqi-kurdish-regional-leader-meets-syrian-president-on-1st-visit-to-damascus/4016950",
         "trendScore": 95,
         "isBreaking": true
-    },
-    {
-        "id": "178575408044502y5t",
-        "title": "Lübnan Cumhurbaşkanı'ndan Beyrut Limanı Patlaması Soruşturmasında İddianame Çağrısı",
-        "summary": "Lübnan Cumhurbaşkanı Joseph Aoun, Beyrut Limanı'nda meydana gelen ve büyük yıkıma yol açan patlamanın 6. yıl dönümünde yargıya önemli bir çağrıda bulundu. Aoun, uzun süredir beklenen iddianamenin bir an önce çıkarılması gerektiğini vurguladı. Cumhurbaşkanı, gerçeğin ortaya çıkarılması ve felaketten sorumlu olanların hesap vermesi için bu adımın hayati önem taşıdığını belirtti. Bu çağrı, patlamanın kurbanları ve aileleri için adalet arayışının devam ettiğini gösteriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35982175/pexels-photo-35982175.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T10:48:00.445Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-president-calls-on-judiciary-to-issue-indictment-in-beirut-port-blast-probe/4016884",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785754104749647fg",
-        "title": "İsrail Mahkemesi, Ben-Gvir'in Cezaevi Çevresine Timsah Yerleştirme Planını Dondurdu",
-        "summary": "İsrail'de bir mahkeme, Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in, Filistinli mahkumların tutulduğu Ketziot Cezaevi çevresine timsah yerleştirme planını durdurma kararı aldı. Negev Çölü'ndeki cezaevinin etrafındaki hendeklere timsah konulmasını öngören bu tartışmalı planın uygulanması, yargıç kararıyla engellendi. Bakan Ben-Gvir'in daha önce de benzer radikal güvenlik önerileriyle gündeme geldiği biliniyor. Mahkemenin bu kararı, cezaevlerindeki güvenlik önlemleri ve mahkum hakları konusundaki tartışmaları yeniden alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6069340/pexels-photo-6069340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T10:48:24.749Z",
-        "location": {
-            "lat": 31.25,
-            "lng": 34.75,
-            "name": "Beerşeba, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-court-freezes-ben-gvirs-plan-to-place-crocodiles-around-prison-holding-palestinians/4016864",
-        "trendScore": 70,
-        "isBreaking": false
     }
 ]
