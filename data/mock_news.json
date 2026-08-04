@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785886418815g0zn4",
+        "title": "Aşırı Sağ Ceuta Krizini Nasıl Silah Haline Getirdi?",
+        "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'ya ulaşmaya çalışan 72'den fazla göçmen hayatını kaybetti. Bu trajik olay, yaşanmasından saatler sonra siyasi bir gerilim noktasına dönüştü. Aşırı sağcı gruplar, göçmen krizini kendi siyasi ajandaları doğrultusunda kullanarak, Avrupa'da göç karşıtı söylemlerin güçlenmesine zemin hazırladı. Olay, göç politikaları, sınır güvenliği ve insan hakları konularında uluslararası tartışmaları alevlendirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3195762/pexels-photo-3195762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T23:33:38.815Z",
+        "location": {
+            "lat": 35.89,
+            "lng": -5.31,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785881704234gsxti",
         "title": "ABD'nin İran'ın Keşm Adası'na Düzenlediği Saldırıda Hayatını Kaybeden Aile İçin Cenaze Töreni Düzenlendi",
         "summary": "ABD'nin İran'ın Keşm Adası'na düzenlediği saldırıda hayatını kaybeden bir aile için cenaze töreni gerçekleştirildi. Olayda bir çift ve küçük çocukları yaşamını yitirmişti. Bu saldırı, ABD ile İran arasındaki gerilimi tırmandırırken, bölgedeki güvenlik endişelerini de artırdı. Sivil kayıpların yaşanması, uluslararası toplumda geniş yankı uyandırdı ve insan hakları örgütlerinin tepkisine neden oldu.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785753965827sfgak",
-        "title": "İran, Trump'ın Pazartesi günü yeni görüşmelerin başlayacağı iddiasını yalanladı",
-        "summary": "İran, ABD Başkanı Donald Trump'ın Pazartesi günü iki ülke arasında yeni görüşmelerin başlayacağı yönündeki iddiasını yalanladı. Tahran yönetimi, Washington ile herhangi bir müzakerenin söz konusu olmadığını belirtti. Ancak, İran'ın aynı zamanda kritik Hürmüz Boğazı'na erişim konusunda Umman ile görüşmeler yürüttüğü kaydedildi. Bu diplomatik temaslar, bölgedeki gerilimin sürdüğü bir dönemde, stratejik su yolunun güvenliği ve kullanımı üzerindeki hassasiyeti ortaya koyuyor. Hürmüz Boğazı, küresel enerji tedarik zinciri için hayati öneme sahip bir geçiş noktasıdır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5922542/pexels-photo-5922542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T10:46:05.827Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
