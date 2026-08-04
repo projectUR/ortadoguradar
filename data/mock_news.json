@@ -1,5 +1,53 @@
 [
     {
+        "id": "178580520807868xkq",
+        "title": "ABD Başkanı Trump'tan İran'a 'Son Şans' Uyarısı: Tahran Görüşmeleri Reddetti",
+        "summary": "ABD Başkanı Donald Trump, İran ile müzakerelerin devam ettiğini ancak bu görüşmelerin Tahran için bir anlaşma sağlamanın 'son şansı' olduğunu belirtti. Trump'ın açıklamalarına rağmen, İran yönetimi ABD ile herhangi bir görüşme yapıldığı iddialarını kesin bir dille yalanladı. Bu durum, iki ülke arasındaki gerilimin yüksek seyrini ve diplomatik çabaların kritik bir aşamada olduğunu gözler önüne seriyor. Taraflar arasındaki bu çelişkili açıklamalar, bölgedeki siyasi belirsizliği artırıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T01:00:08.078Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17858053077921h063",
+        "title": "Katar, ABD-İran mutabakat zaptının uygulanması için Körfez koordinasyonunu teşvik ediyor",
+        "summary": "Katar Başbakanı, Körfez ülkeleri dışişleri bakanlarıyla bölgesel gerilimin azaltılması konularını ele aldı. Görüşmelerde, ABD ile İran arasında varılan mutabakat zaptının uygulanması için Körfez ülkeleri arasında koordinasyonun sağlanmasının önemi vurgulandı. Katar, bölgede diplomasi ve kalıcı barışın desteklenmesi yönündeki taahhüdünü yineledi. Bu girişim, Orta Doğu'da istikrarın pekiştirilmesi ve mevcut gerilimlerin düşürülmesi hedefini taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T01:01:47.792Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-urges-gulf-coordination-to-implement-us-iran-memorandum-of-understanding/4017573",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785805358761zhgrz",
+        "title": "İsrail güçleri ve yerleşimcilerin Batı Şeria operasyonlarını yoğunlaştırmasıyla 4 Filistinli yaralandı",
+        "summary": "Batı Şeria'da İsrail güçleri ve yerleşimcilerin operasyonlarını yoğunlaştırması sonucu dört Filistinli yaralandı. Bölgedeki olaylarda İsrail güçleri bir Filistinliyi vurarak yaralarken, iki kardeşi de gözaltına aldı. Ayrıca, yerleşimcilerin yaşlı bir Filistinliye saldırdığı ve tarım arazilerini ateşe verdiği bildirildi. Bu gelişmeler, Batı Şeria'daki gerilimin arttığını gösteriyor ve bölgedeki güvenlik durumu endişe yaratmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T01:02:38.761Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/4-palestinians-injured-as-israeli-forces-and-occupiers-intensify-west-bank-operations/4017569",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1785798249204iv9ww",
         "title": "ABD'li Araplar Filistin Meselesini Amerikan Siyasetinde Merkeze Taşıyor",
         "summary": "ABD'deki Arap Amerikalılar, Filistin meselesini Amerikan siyasetinde merkezi bir konuma taşıyor. Michigan eyaletindeki Arap Amerikalı seçmenler, 2024 seçimlerinde Kamala Harris'e desteklerini çekmelerinin ardından, İsrail yanlısı adayları desteklemeyeceklerini açıkça belirtti. Bu durum, ABD'deki Arap toplumunun dış politika konularında artan siyasi etkisini ve Filistin davasına olan bağlılığını gösteriyor. Seçmenler, adayların Orta Doğu politikalarına yönelik tutumlarını, oy verme kararlarında belirleyici bir faktör olarak öne çıkarıyor. Bu gelişme, ABD iç siyasetinde Orta Doğu'daki gelişmelerin yansımalarını gözler önüne seriyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1785672376080ou310",
-        "title": "Lübnan Ordusu: İsrail Saldırısında 5 Lübnan Askeri Yaralandı",
-        "summary": "Lübnan ordusu, ülkenin güneyinde meydana gelen bir olayda beş Lübnan askerinin yaralandığını duyurdu. Ordu tarafından yapılan açıklamada, askerlerin Bint Cbeyl bölgesinde sivillere eşlik ettikleri sırada İsrail güçlerinin saldırısına uğradığı belirtildi. Saldırının detaylarına ilişkin ek bilgi verilmezken, yaralı askerlerin durumunun stabil olduğu öğrenildi. Bu olay, Lübnan-İsrail sınırındaki gerilimi yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34693693/pexels-photo-34693693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T12:06:16.080Z",
-        "location": {
-            "lat": 33.08,
-            "lng": 35.43,
-            "name": "Bint Cbeyl, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-5-lebanese-soldiers-injured-in-israeli-attack-in-south-military-says/4016304",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1785672397726qo2e9",
-        "title": "Alman Mahkemesi: İsrail'i Nazi Rejimiyle Kıyaslamak Suç Değil",
-        "summary": "Almanya'da yüksek bir mahkeme, bir Instagram kullanıcısının İsrail'in eylemlerini Nazi rejiminin yöntemleriyle kıyaslamasının cezai bir suç olmadığına hükmetti. Mahkeme, kullanıcının ifade özgürlüğü hakkını vurgulayarak beraat kararı verdi. Bu karar, Almanya'da İsrail'e yönelik eleştirilerin yasal sınırları ve ifade özgürlüğü kapsamı üzerine süregelen tartışmaları yeniden gündeme getirdi. Olay, antisemitizm suçlamaları ile bireylerin eleştiri hakkı arasındaki hassas dengeyi bir kez daha ortaya koydu.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30619254/pexels-photo-30619254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T12:06:37.726Z",
-        "location": {
-            "lat": 51,
-            "lng": 10,
-            "name": "Almanya"
-        },
-        "source": "https://www.aa.com.tr/en/europe/comparing-israel-to-nazi-regime-is-not-a-criminal-offense-german-court-rules/4016284",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17856724197229g75m",
-        "title": "Eski İsrail Başbakanı Barak: Trump, Netanyahu'yu Göz Ardı Ediyor, Gazze Çerçevesi İsrail'i Dışlıyor",
-        "summary": "Eski İsrail Başbakanı Ehud Barak, ABD Başkanı Donald Trump'ın İsrail Başbakanı Binyamin Netanyahu'yu göz ardı ettiğini öne sürdü. Barak, Gazze'ye yönelik mevcut ateşkes çerçevesinin İsrail'in taleplerini yeterince dikkate almadığını belirtti. Bu durumun, Netanyahu'nun ABD başkanı üzerindeki siyasi etkisinin önemli ölçüde azaldığını gösterdiğini ifade etti. Açıklamalar, İsrail'in bölgesel diplomatik konumuna ve ABD ile olan ilişkilerine dair endişeleri gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30284224/pexels-photo-30284224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-02T12:06:59.722Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/americas/former-israeli-premier-says-trump-ignores-netanyahu-gaza-framework-sidelines-israel/4016269",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
