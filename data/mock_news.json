@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785870526398kjnov",
+        "title": "İran, ABD ile Ateşkes Sırasında Askeri Gücünü Artırdı",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC) sözcüsü Hossein Mohebbi, geçtiğimiz ay yaptığı açıklamada, ABD ile yaşanan ateşkes döneminde İran'ın füze üretim hızının önemli ölçüde arttığını duyurdu. Mohebbi, bu sürecin ülkenin askeri kapasitesini \"maksimum düzeyde\" kullanma fırsatı olarak değerlendirildiğini belirtti. Bu gelişme, İran'ın savunma sanayii faaliyetlerine hız kesmeden devam ettiğini ve bölgesel güç dengeleri üzerindeki etkilerini ortaya koyuyor. Açıklama, Orta Doğu'daki güvenlik dinamikleri ve uluslararası ilişkiler açısından dikkat çekici bir gelişme olarak yorumlanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T19:08:46.398Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785863583665d3kj2",
         "title": "Gazze, İsrail'in 2023 Sabra saldırısında hayatını kaybeden 112 kişi için toplu cenaze töreni düzenledi",
         "summary": "Gazze Şeridi'nde, İsrail'in 2023'teki Sabra saldırısında yaşamını yitiren 112 kişi için toplu cenaze töreni gerçekleştirildi. Söz konusu kişilerin kalıntıları, İsrail'in bölgedeki çatışmalar sırasında yıkılan evlerin enkazından çıkarıldı. Binlerce Filistinli, cenaze törenine katılarak hayatını kaybedenleri son yolculuklarına uğurladı. Bu olay, bölgedeki çatışmaların yol açtığı insani dramı ve kayıpları bir kez daha gözler önüne serdi. Cenaze töreni, Gazze'deki halkın yaşadığı acıları ve direnişi simgeliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-fire-kills-19-gazans-in-past-24-hours-death-toll-nears-73-400-health-ministry/4016959",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1785754058867xwi18",
-        "title": "Irak Kürt Bölgesel Yönetimi lideri, Şam'a ilk ziyaretinde Suriye Devlet Başkanı ile görüştü",
-        "summary": "Irak Kürt Bölgesel Yönetimi (IKBY) lideri Neçirvan Barzani, Suriye'nin başkenti Şam'a gerçekleştirdiği ilk ziyarette Suriye Devlet Başkanı Ahmed el-Şaraa ile bir araya geldi. Görüşme, Esad rejiminin düşüşünden bu yana IKBY ile Suriye arasındaki ilk üst düzey temas olarak kayıtlara geçti. Barzani'nin ziyareti, Suriye'deki son siyasi gelişmelerin ardından bölgedeki yeni dengeleri ve ilişkileri şekillendirme çabalarının bir parçası olarak değerlendiriliyor. Taraflar arasındaki görüşmelerde bölgesel istikrar, güvenlik ve iki tarafı ilgilendiren konuların ele alındığı belirtildi. Bu diplomatik adım, Orta Doğu'da değişen güç dinamiklerinin önemli bir göstergesi olarak yorumlanıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T10:47:38.867Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraqi-kurdish-regional-leader-meets-syrian-president-on-1st-visit-to-damascus/4016950",
-        "trendScore": 95,
-        "isBreaking": true
     }
 ]
