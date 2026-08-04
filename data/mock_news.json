@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785846411704jtob5",
+        "title": "İsrail Ekonomisi Çok Cepheli Savaşta Nasıl Ayakta Kaldı?",
+        "summary": "İsrail ekonomisinin çok cepheli bir savaş ortamında nasıl ayakta kaldığı ve çöküş yaşamadığı merak konusu oldu. Haber, İsrail ekonomisinin savaşın olumsuz etkilerine rağmen nasıl direndiğini ve bu duruma nasıl meydan okuduğunu inceliyor. Ülke ekonomisinin bu zorlu koşullara rağmen gösterdiği direncin altında yatan faktörler araştırılıyor. Bu durum, bölgedeki çatışmaların ekonomik yansımaları açısından önemli bir örnek teşkil ediyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/20101883/pexels-photo-20101883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-04T12:26:51.704Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/money-works/2026/8/4/why-israels-economy-hasnt-collapsed-during-a-multi-front-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785838305602o649c",
         "title": "İşgal Altındaki Batı Şeria'da Yerleşimci Saldırısında Araçlar Yakıldı",
         "summary": "İşgal altındaki Batı Şeria'da meydana gelen bir olayda araçların ateşe verildiği bildirildi. Haber kaynaklarına göre, bu olayın yerleşimciler tarafından gerçekleştirilen bir saldırı olduğu iddia ediliyor. Bölgedeki gerilimin arttığı bir dönemde yaşanan bu tür olaylar, güvenlik endişelerini beraberinde getiriyor. Olayla ilgili detaylı soruşturma başlatıldığı belirtildi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785727173341tfhdb",
-        "title": "İsrail'in Gazze'ye Düzenlediği Saldırılarda En Az 13 Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarında en az 13 kişinin yaşamını yitirdiği bildirildi. Saldırılar, Hamas'ın silahsızlanma anlaşmasını kabul etmesinin ardından gerçekleşti. İsrail ordusu, Gazze Şehri, Han Yunus ve Deyr el-Balah bölgelerindeki askeri hedefleri vurduğunu duyurdu. Yetkililer, operasyonların askeri unsurları hedef aldığını belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19237317/pexels-photo-19237317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T03:19:33.341Z",
-        "location": {
-            "lat": 31.45,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
