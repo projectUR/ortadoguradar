@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785964412982k5im8",
+        "title": "İran: Umman ile Hürmüz Boğazı görüşmeleri 'nihai' aşamada, güzergah onaylandı",
+        "summary": "İran, Umman ile Hürmüz Boğazı'ndaki deniz yolu güzergahına ilişkin görüşmelerin 'nihai' aşamada olduğunu duyurdu. Tahran'dan yapılan açıklamaya göre, su yolundaki güzergahın coğrafi koordinatları Umman ile kararlaştırıldı. Bu gelişme, iki ülke arasındaki denizcilik işbirliğinde önemli bir ilerlemeye işaret ediyor. Petrol ve gaz taşımacılığı için kritik bir uluslararası geçiş noktası olan Hürmüz Boğazı'nda güzergah koordinatları üzerindeki anlaşmanın, bu hayati su yolunda seyrüsefer güvenliğini ve kolaylığını artırması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36263106/pexels-photo-36263106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T21:13:32.982Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785958773148vj2cy",
         "title": "Rusya-Ukrayna Çatışması Derinleşiyor mu?",
         "summary": "Rusya ile Ukrayna arasındaki çatışmanın derinleştiği yönündeki endişeler artıyor. Savaşın tarafları, karşılıklı saldırılarını yoğunlaştırmış durumda. Cephe hattında yaşanan bu tırmanışa rağmen, diplomatik arenada kayda değer bir ilerleme sağlanamıyor. Bu durum, küresel enerji ve gıda piyasaları üzerinde dolaylı etkiler yaratırken, Orta Doğu'daki jeopolitik dengeleri de etkileme potansiyeli taşıyor. Bölgedeki ülkeler, çatışmanın dolaylı sonuçlarını yakından takip ediyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17858053077921h063",
-        "title": "Katar, ABD-İran mutabakat zaptının uygulanması için Körfez koordinasyonunu teşvik ediyor",
-        "summary": "Katar Başbakanı, Körfez ülkeleri dışişleri bakanlarıyla bölgesel gerilimin azaltılması konularını ele aldı. Görüşmelerde, ABD ile İran arasında varılan mutabakat zaptının uygulanması için Körfez ülkeleri arasında koordinasyonun sağlanmasının önemi vurgulandı. Katar, bölgede diplomasi ve kalıcı barışın desteklenmesi yönündeki taahhüdünü yineledi. Bu girişim, Orta Doğu'da istikrarın pekiştirilmesi ve mevcut gerilimlerin düşürülmesi hedefini taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-04T01:01:47.792Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-urges-gulf-coordination-to-implement-us-iran-memorandum-of-understanding/4017573",
         "trendScore": 85,
         "isBreaking": false
     }
