@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785944318869fvg6f",
+        "title": "ABD-İran Anlaşması Yakınlaşıyor",
+        "summary": "ABD'li yetkililer tarafından yapılan açıklamalara göre, Amerika Birleşik Devletleri ile İran arasında kritik bir anlaşmanın önümüzdeki 48 saat içinde imzalanabileceği belirtildi. Bu potansiyel anlaşma, iki ülke arasındaki uzun süreli gerilimli ilişkilerde önemli bir dönüm noktası teşkil edebilir. Anlaşmanın içeriği ve detaylarına ilişkin henüz resmi bir açıklama yapılmazken, taraflar arasındaki müzakerelerin son aşamaya ulaştığı ifade ediliyor. Söz konusu gelişme, Orta Doğu'daki siyasi dengeler ve uluslararası ilişkiler açısından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7693159/pexels-photo-7693159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T15:38:38.869Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785944371593laes1",
+        "title": "Gazze'de Bir Baba, İsrail Saldırıları Ortasında Çocuklara Oyun Merkezi Açtı",
+        "summary": "Gazze'de Filistinli bir baba, bölgedeki çocuklara İsrail saldırılarının gölgesinde ücretsiz bir kaçış ve neşe alanı sunan bir oyun merkezi kurdu. Merkez, neredeyse her gün yaşanan saldırıların çocukların psikolojisi üzerindeki olumsuz etkilerini azaltmayı hedefliyor. Bu girişim, savaşın ortasında çocukların normal bir çocukluk yaşama hakkını desteklemeyi amaçlıyor. Baba, merkezin çocuklara eğlence ve sosyalleşme imkanı sunarak travmatik deneyimlerden uzaklaşmalarına yardımcı olacağını belirtti. Bu adım, Gazze'deki toplumun zorlu koşullara rağmen direncini ve çocuklara yönelik hassasiyetini gösteriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T15:39:31.593Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785944456693pzi6i",
+        "title": "BM İnsan Hakları Şefi İran'daki İnfaz ve Ölüm Cezalarındaki Artıştan Endişe Duyduğunu Açıkladı",
+        "summary": "Birleşmiş Milletler İnsan Hakları Yüksek Komiseri Volker Türk, İran'da infaz ve ölüm cezalarının sayısında endişe verici bir artış yaşandığını duyurdu. Türk, Tahran yönetimine infazları derhal durdurma ve ölüm cezasının tamamen kaldırılması yönünde adımlar atma çağrısında bulundu. Yüksek Komiser, bu kararların adil yargılanma süreçlerine ilişkin ciddi endişeler taşıdığını ve uluslararası standartlara aykırı olduğunu belirtti. BM yetkilisi, İran'daki insan hakları durumunun kötüleştiğine dikkat çekerek, uluslararası toplumu bu konuya duyarlı olmaya davet etti.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7643870/pexels-photo-7643870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T15:40:56.693Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-rights-chief-alarmed-by-rise-in-executions-death-sentences-in-iran/4019275",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1785935474090tbfdv",
         "title": "BM İnsan Hakları Şefi: İran Mart Ayından Bu Yana En Az 56 Kişiyi İdam Etti",
         "summary": "Birleşmiş Milletler İnsan Hakları Yüksek Komiseri Volker Türk, İran'da Mart ayından bu yana en az 56 kişinin idam edildiğini duyurdu. Türk, Ocak ayındaki ayaklanmanın ardından muhalif sesleri bastırmak amacıyla ülkede idamların sayısında ciddi bir artış yaşandığı konusunda uyarıda bulundu. Bu durum, İran'daki insan hakları durumuyla ilgili uluslararası endişeleri artırıyor ve rejimin muhalefeti sindirme çabalarını gözler önüne seriyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/2-israeli-ministers-urge-netanyahu-to-prevent-deployment-of-gaza-stabilization-force/4017518",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17857932610367e3xz",
-        "title": "Göçmenler Ceuta'da Açlık ve Susuzluk İçinde Sığınma Bekliyor",
-        "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'da, sığınma talebinde bulunmak üzere günlerdir bir sahilde bekleyen göçmenler, su ve içecek almak için yoğun çaba sarf etti. Bölgedeki göçmenlerin açlık ve susuzlukla mücadele ettiği bildirildi. Bu durum, Avrupa'ya ulaşmaya çalışan göçmenlerin karşılaştığı zorlu koşulları bir kez daha gözler önüne serdi. Yetkililer, göçmenlerin temel ihtiyaçlarını karşılamak için çalışmalarını sürdürüyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/17778607/pexels-photo-17778607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T21:41:01.036Z",
-        "location": {
-            "lat": 35.8917,
-            "lng": -5.3167,
-            "name": "Ceuta, İspanya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785793283600i2e72",
-        "title": "İsrail, Hamas Silahsızlanırsa Gazze'den Çekilecek mi?",
-        "summary": "İsrail'in, Hamas'ın silahsızlanması halinde Gazze Şeridi'nden çekilip çekilmeyeceği konusu gündemde. İsrail, Filistinli grubun silahlarını bırakma olasılığına dair şüphelerini dile getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T21:41:23.600Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17857934139386m9nl",
-        "title": "Hamas, Gazze Ateşkesinin İkinci Aşaması İçin Yanıt Bekliyor",
-        "summary": "Hamas, Gazze'deki ateşkes anlaşmasının ikinci aşamasının uygulanmasına ilişkin olarak 'Barış Kurulu'ndan net ve resmi bir yanıt beklediğini açıkladı. Grup, Filistinli grupların ateşkesin ikinci aşamasının hayata geçirilmesi konusunda varılan mutabakatlara bağlı kalmaya devam ettiğini vurguladı. Bu açıklama, bölgedeki gerilimi azaltma ve kalıcı bir barışa ulaşma çabalarının devam ettiğini gösteriyor. Ateşkes görüşmelerinin geleceği ve ikinci aşamanın akıbeti, bölgedeki siyasi dinamikler açısından kritik önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T21:43:33.938Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hamas-says-awaiting-clear-official-response-from-board-of-peace-on-implementation-of-gaza-ceasefire-s-2nd-phase/4017506",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
