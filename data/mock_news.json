@@ -1,5 +1,21 @@
 [
     {
+        "id": "1785897877956aobul",
+        "title": "ABD Borsası, Hürmüz Boğazı'nın Yeniden Açılması Umutlarıyla Rekor Kırdı",
+        "summary": "Küresel enerji piyasaları ve finans dünyası, Hürmüz Boğazı'nın yeniden açılmasına yönelik müzakerelerdeki ilerleme haberleriyle hareketlendi. ABD'li yetkililerin, dünya petrol ticaretinin kritik geçiş noktası olan bu su yolunun yeniden faaliyete geçirilmesi konusunda kaydedilen gelişmeleri duyurması üzerine petrol fiyatlarında belirgin bir düşüş yaşandı. Bu olumlu gelişmeler, yatırımcı güvenini artırarak ABD borsasında rekor seviyelerin görülmesine katkıda bulundu. Hürmüz Boğazı'nın güvenli ve kesintisiz işleyişi, küresel enerji arzı ve ekonomisi için hayati önem taşımaktadır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/32237794/pexels-photo-32237794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T02:44:37.956Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785886418815g0zn4",
         "title": "Aşırı Sağ Ceuta Krizini Nasıl Silah Haline Getirdi?",
         "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'ya ulaşmaya çalışan 72'den fazla göçmen hayatını kaybetti. Bu trajik olay, yaşanmasından saatler sonra siyasi bir gerilim noktasına dönüştü. Aşırı sağcı gruplar, göçmen krizini kendi siyasi ajandaları doğrultusunda kullanarak, Avrupa'da göç karşıtı söylemlerin güçlenmesine zemin hazırladı. Olay, göç politikaları, sınır güvenliği ve insan hakları konularında uluslararası tartışmaları alevlendirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/3/first-moments-of-egypt-earthquake-caught-during-livestream?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1785753925402kqqa0",
-        "title": "Trump, İran ile Yeni Müzakerelerin Başladığını Söyledi: Bildiklerimiz",
-        "summary": "ABD eski Başkanı Donald Trump'ın İran ile yeni müzakerelerin başladığına dair açıklamaları uluslararası gündemde yer aldı. Haber içeriğine göre, analistler Hürmüz Boğazı konusunda bir anlaşmaya varılmasının mümkün olabileceğini değerlendiriyor. Ancak aynı analistler, bölgede kalıcı bir barış anlaşmasına ulaşılmasının henüz çok uzak bir ihtimal olduğunu belirtiyor. Bu durum, İran'ın nükleer programı ve bölgesel politikaları etrafındaki diplomatik çabaların devam ettiğini, ancak taraflar arasındaki derin anlaşmazlıkların sürdüğünü gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7736028/pexels-photo-7736028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T10:45:25.402Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
