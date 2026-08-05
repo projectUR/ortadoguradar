@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785951701159am4dg",
+        "title": "Güney Lübnan'da Şiddet: Bir Lübnanlı ve İki İsrailli Asker Hayatını Kaybetti",
+        "summary": "Güney Lübnan'da meydana gelen şiddet olaylarında en az bir Lübnanlı sivil ve iki İsrailli asker yaşamını yitirdi. Bu olaylar, Lübnan ile İsrail arasında devam eden müzakerelerin ortasında gerçekleşti. Beyrut yönetimi, İsrail güçlerinin bölgeden aşamalı olarak çekilmesi yönündeki taleplerini sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T17:41:41.159Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785951819102ucw6p",
+        "title": "Irak ve Suudi Arabistan, ABD saldırılarının ardından güvenlik heyeti ziyaretini görüştü",
+        "summary": "Irak ve Suudi Arabistan dışişleri bakanları, iki ülke arasındaki güvenlik heyeti ziyaretinin hazırlıklarını gözden geçirdi. Bu görüşme, ABD'nin Irak'taki İran destekli gruplara yönelik saldırılarının ardından bölgedeki gerilimin yüksek seyrettiği bir dönemde gerçekleşti. Taraflar, güvenlik işbirliğini artırma ve ortak tehditlere karşı koordinasyonu güçlendirme yollarını değerlendirdi. Ziyaretin, bölgesel güvenlik konularını ele alması ve mevcut tansiyonu düşürmeye yönelik adımları içermesi bekleniyor. Bölgedeki istikrarın sağlanması için diplomatik çabaların sürdürüleceği belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T17:43:39.102Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-saudi-arabia-discuss-security-delegation-visit-week-after-us-saudi-strikes/4019458",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785944318869fvg6f",
         "title": "ABD-İran Anlaşması Yakınlaşıyor",
         "summary": "ABD'li yetkililer tarafından yapılan açıklamalara göre, Amerika Birleşik Devletleri ile İran arasında kritik bir anlaşmanın önümüzdeki 48 saat içinde imzalanabileceği belirtildi. Bu potansiyel anlaşma, iki ülke arasındaki uzun süreli gerilimli ilişkilerde önemli bir dönüm noktası teşkil edebilir. Anlaşmanın içeriği ve detaylarına ilişkin henüz resmi bir açıklama yapılmazken, taraflar arasındaki müzakerelerin son aşamaya ulaştığı ifade ediliyor. Söz konusu gelişme, Orta Doğu'daki siyasi dengeler ve uluslararası ilişkiler açısından yakından takip ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Michigan, ABD"
         },
         "source": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785798339782rdetr",
-        "title": "İsrail askeri, Güney Lübnan'da 'operasyonel olayda' yaralandı: Ordu",
-        "summary": "İsrail ordusu, Güney Lübnan'da meydana gelen bir 'operasyonel olayda' bir İsrail askerinin yaralandığını bildirdi. Ordu tarafından yapılan açıklamada, yaralanan askerin yedek asker olduğu ve hafif derecede yara aldığı belirtildi. Olayın tam koşulları ve nasıl meydana geldiği hakkında ise henüz detaylı bilgi verilmedi. Bu tür sınır olayları, bölgedeki güvenlik durumunu yakından ilgilendirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2858530/pexels-photo-2858530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T23:05:39.782Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-soldier-injured-in-operational-incident-in-southern-lebanon-army/4017557",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1785798392414bhdsw",
-        "title": "İsrailli Bakanlardan Netanyahu'ya Gazze'ye İstikrar Gücü Konuşlandırılmasını Engelleme Çağrısı",
-        "summary": "İki İsrailli bakan, Başbakan Binyamin Netanyahu'ya Gazze Şeridi'ne bir istikrar gücünün konuşlandırılmasını önlemesi yönünde çağrıda bulundu. Maliye ve yerleşim birimleri bakanları, İsrail Güvenlik Güçleri'nin (ISF) Gazze'ye konuşlandırılmasına izin verme kararının \"yanlış bilgilere\" dayandığını öne sürdü. Bu açıklama, Gazze'nin savaş sonrası geleceği ve güvenlik düzenlemeleri konusundaki İsrail içindeki derin görüş ayrılıklarını gözler önüne seriyor. Bakanlar, söz konusu gücün bölgedeki İsrail çıkarları açısından olumsuz sonuçlar doğurabileceği endişesini dile getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9995973/pexels-photo-9995973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-03T23:06:32.414Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-israeli-ministers-urge-netanyahu-to-prevent-deployment-of-gaza-stabilization-force/4017518",
         "trendScore": 80,
         "isBreaking": false
     }
