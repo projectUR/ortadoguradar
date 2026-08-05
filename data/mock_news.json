@@ -1,5 +1,37 @@
 [
     {
+        "id": "1785969291841ogfoa",
+        "title": "İsrail İşgali Güney Suriye'de Tarım Arazilerini ve Yaşamları Yok Ediyor",
+        "summary": "Güney Suriye'de İsrail işgali altında olduğu belirtilen bölgelerde tarım arazilerinin ve sivil yaşamların zarar gördüğü bildirildi. Haber kaynakları, İsrail'in bölgedeki faaliyetlerinin yerel halkın geçim kaynaklarını ve yaşam koşullarını olumsuz etkilediğini iddia ediyor. Bu durumun, bölgedeki insani durumu daha da kötüleştirdiği belirtiliyor. Olayların, Suriye'nin güneyindeki gerilimi artırdığı ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5649571/pexels-photo-5649571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T22:34:51.841Z",
+        "location": {
+            "lat": 32.61,
+            "lng": 36.1,
+            "name": "Dera, Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785969314149p64nh",
+        "title": "ABD'li Yetkililer Mühimmat Tedariklerinin Tehlikeli Derecede Düşük Olduğu İddialarını Reddediyor",
+        "summary": "ABD'li yetkililer, ülkenin mühimmat tedariklerinin tehlikeli derecede düşük olduğu yönündeki raporları reddetti. Ancak uzmanlar, İran'a karşı yürütülen savaş nedeniyle hava savunma önleyicilerinin stoklarının azalmasının ABD'yi savunmasız hale getirdiği konusunda uyarıyor. Bu durum, ABD'nin Orta Doğu'daki potansiyel çatışmalara müdahale etme ve müttefiklerini koruma kapasitesi hakkında soru işaretleri yaratıyor. Mühimmat seviyelerindeki bu tartışma, bölgesel güvenlik dinamikleri açısından kritik bir öneme sahip.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18206461/pexels-photo-18206461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-05T22:35:14.149Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1785964412982k5im8",
         "title": "İran: Umman ile Hürmüz Boğazı görüşmeleri 'nihai' aşamada, güzergah onaylandı",
         "summary": "İran, Umman ile Hürmüz Boğazı'ndaki deniz yolu güzergahına ilişkin görüşmelerin 'nihai' aşamada olduğunu duyurdu. Tahran'dan yapılan açıklamaya göre, su yolundaki güzergahın coğrafi koordinatları Umman ile kararlaştırıldı. Bu gelişme, iki ülke arasındaki denizcilik işbirliğinde önemli bir ilerlemeye işaret ediyor. Petrol ve gaz taşımacılığı için kritik bir uluslararası geçiş noktası olan Hürmüz Boğazı'nda güzergah koordinatları üzerindeki anlaşmanın, bu hayati su yolunda seyrüsefer güvenliğini ve kolaylığını artırması bekleniyor.",
@@ -764,38 +796,6 @@
             "name": "Sana'a, Yemen"
         },
         "source": "https://www.aa.com.tr/en/middle-east/vaccine-shortage-threatens-5-million-children-in-yemen-s-houthi-controlled-areas/4017572",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785827899961r3v9m",
-        "title": "Umman Açıklarında Kargo Gemisine Kimliği Belirsiz Bir Cisimle Saldırıldı",
-        "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman açıklarında seyreden bir kargo gemisinin kimliği belirsiz bir cisimle vurulduğunu duyurdu. Geminin VHF Kanal 16 üzerinden tehlike çağrısı yapmasının ardından bölgedeki yetkililer olayı soruşturmaya başladı. Saldırının detayları ve sorumluları hakkında henüz net bir bilgi bulunmazken, olayın bölgedeki deniz güvenliği endişelerini artırdığı belirtiliyor. Bu tür olaylar, Orta Doğu'daki kritik deniz ticaret yollarının güvenliği açısından yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/23913923/pexels-photo-23913923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-04T07:18:19.961Z",
-        "location": {
-            "lat": 25,
-            "lng": 58,
-            "name": "Umman Körfezi, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/cargo-vessel-hit-by-unknown-projectile-off-oman-ukmto/4017571",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178580520807868xkq",
-        "title": "ABD Başkanı Trump'tan İran'a 'Son Şans' Uyarısı: Tahran Görüşmeleri Reddetti",
-        "summary": "ABD Başkanı Donald Trump, İran ile müzakerelerin devam ettiğini ancak bu görüşmelerin Tahran için bir anlaşma sağlamanın 'son şansı' olduğunu belirtti. Trump'ın açıklamalarına rağmen, İran yönetimi ABD ile herhangi bir görüşme yapıldığı iddialarını kesin bir dille yalanladı. Bu durum, iki ülke arasındaki gerilimin yüksek seyrini ve diplomatik çabaların kritik bir aşamada olduğunu gözler önüne seriyor. Taraflar arasındaki bu çelişkili açıklamalar, bölgedeki siyasi belirsizliği artırıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-04T01:00:08.078Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
