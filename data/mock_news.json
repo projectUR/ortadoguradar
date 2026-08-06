@@ -1,5 +1,53 @@
 [
     {
+        "id": "1785998038764jqacg",
+        "title": "FIFA, Fas'taki Acil Toplantıda Başkan Infantino'ya Destek Verdi",
+        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino, Fas'ta düzenlenen acil durum toplantısında yönetim kurulu üyelerinden tam destek aldı. Bu toplantı, başkanın liderliğine yönelik olası tartışmaların veya eleştirilerin ortasında gerçekleşti ve Infantino'nun pozisyonunu güçlendirme amacı taşıdı. Fas'ın ev sahipliği yaptığı bu önemli toplantı, FIFA'nın gelecekteki yönü ve yönetim kararları açısından kritik bir dönemeç olarak değerlendiriliyor. Toplantıda alınan bu kararın, uluslararası futbol camiasında yankı uyandırması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/38612669/pexels-photo-38612669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-06T06:33:58.764Z",
+        "location": {
+            "lat": 34.02,
+            "lng": -6.84,
+            "name": "Rabat, Fas"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1785998105443nryqc",
+        "title": "İran, Umman ile Hürmüz Boğazı Anlaşmasının Son Aşamada Olduğunu Duyurdu",
+        "summary": "İran, Umman ile Hürmüz Boğazı'na ilişkin bir anlaşmanın son aşamalarında olduğunu açıkladı. Küresel petrol ticareti için hayati öneme sahip stratejik bir su yolu olan Hürmüz Boğazı'ndaki bu potansiyel anlaşmanın detayları henüz kamuoyuna açıklanmadı. ABD ve Umman'dan ise söz konusu anlaşma teklifi hakkında henüz bir yorum gelmedi. Bu gelişme, bölgedeki denizcilik güvenliği ve enerji rotaları açısından potansiyel etkiler taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30124729/pexels-photo-30124729.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-06T06:35:05.443Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1785998176552axlgq",
+        "title": "Batı Şeria'da İsrail Güçlerinin Operasyonlarında Evler Ateşe Verildi, Filistinliler Yaralandı ve Gözaltına Alındı",
+        "summary": "Batı Şeria'da devam eden operasyonlarda İsrail güçleri ile Filistinliler arasında gerilim yaşandı. Bölgedeki baskınlar sırasında bazı evlerin ateşe verildiği ve altı Filistinlinin yaralandığı bildirildi. Ayrıca, İsrail güçlerinin üç evi ele geçirdiği ve Filistinlileri gözaltına aldığı belirtildi. Olaylar, işgal altındaki topraklardaki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20358001/pexels-photo-20358001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-06T06:36:16.552Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-torch-homes-injure-6-palestinians-in-west-bank/4019626",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1785974562041t26pd",
         "title": "BM İnsan Hakları Şefi İran'daki İnfaz Artışından Endişeli",
         "summary": "Birleşmiş Milletler İnsan Hakları Yüksek Komiseri Volker Türk, İran'da Mart ayından bu yana infazlarda yaşanan artıştan derin endişe duyduğunu açıkladı. Türk'ün bildirdiğine göre, ulusal güvenlikle ilgili suçlamalarla toplam 56 kişi idam edildi. Bu infazların 27'sinin Ocak ayındaki protestolarla bağlantılı davalar kapsamında gerçekleştirildiği belirtildi. Bu durum, İran'daki insan hakları durumu ve yargı süreçleri hakkında uluslararası toplumun kaygılarını artırıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1785827758700noo49",
-        "title": "Gazze'de Teknoloji Çalışanları: 'Dijital Cankurtaran Halatı' Olası Bir Geleceğin İşareti",
-        "summary": "Gazze Şeridi'nde binlerce genç, bölgenin genel ekonomik toparlanmasının durma noktasına gelmesiyle dijital ekonomide kariyer fırsatları aramaktadır. Bu durum, bölgedeki genç nüfus için yeni bir umut kaynağı olarak görülmektedir. Teknoloji sektöründeki bu yönelim, Gazze'nin zorlu koşullarına rağmen gençlerin geleceğe yönelik alternatifler geliştirmeye çalıştığını göstermektedir. Dijitalleşme, bölgedeki ekonomik sıkıntılara karşı bir 'cankurtaran halatı' işlevi görebilir ve gençlere yeni istihdam olanakları sunabilir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38318000/pexels-photo-38318000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-04T07:15:58.700Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785827782977fqz81",
-        "title": "Orta Doğu'da Petrol Tankerlerine Yönelik Tehdit, İran Savaşı'ndan Bu Yana En Yüksek Seviyede",
-        "summary": "Analistler, Orta Doğu'da petrol tankerlerine yönelik tehdidin, İran-Irak Savaşı'nın başlangıcından bu yana en kötü seviyeye ulaştığını belirtiyor. Bölgedeki alternatif denizcilik rotalarına yapılan yeni saldırılar, tankerlerin giderek daha karmaşık bir güvenlik durumuyla karşı karşıya kalmasına neden oldu. Bu durum, küresel enerji tedarik zincirleri ve deniz ticareti için ciddi riskler oluşturuyor. Uzmanlar, artan gerilimin bölgedeki istikrarı olumsuz etkileyebileceği ve uluslararası toplumun dikkatini çekmesi gerektiği konusunda uyarıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19217421/pexels-photo-19217421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-04T07:16:22.977Z",
-        "location": {
-            "lat": 26,
-            "lng": 56,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785827805791s6f29",
-        "title": "Trump, 'hızla' anlaşma yapılması şartıyla İran saldırılarını iptal etti",
-        "summary": "ABD Başkanı Donald Trump, İran'a yönelik planlanan saldırıları, 'hızla' bir anlaşmaya varılması şartıyla iptal ettiğini duyurdu. Trump, bu kararın, İran ve diğer Orta Doğu ülkelerinin Washington'dan herhangi bir saldırıyı durdurmasını talep etmesi üzerine alındığını iddia etti. Başkan, söz konusu talebin, bir anlaşmanın 'çerçevesinin' zaten belirlenmiş olması nedeniyle geldiğini belirtti. Bu gelişme, bölgedeki potansiyel bir askeri gerilimin diplomatik yollarla çözülme çabalarını işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-04T07:16:45.791Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
