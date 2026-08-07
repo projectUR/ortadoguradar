@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786113146136gbzfc",
+        "title": "Yemen hükümeti: Husilerin Marib'e düzenlediği saldırıda iki sivil hayatını kaybetti",
+        "summary": "Yemen hükümeti, Husilerin Marib kentine düzenlediği saldırıda iki sivilin hayatını kaybettiğini duyurdu. Yemen Sağlık Bakanı Qassem Bahaibah, saldırıda 14 kişinin de yaralandığını bildirdi. Bakan Bahaibah, Husileri yerleşim bölgelerini ve yerinden edilmiş kişilerin kamplarını hedef almakla suçladı. Bu saldırı, Yemen'deki devam eden çatışmaların bir parçası olarak kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952942/pexels-photo-5952942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T14:32:26.136Z",
+        "location": {
+            "lat": 15.4667,
+            "lng": 45.3333,
+            "name": "Marib, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786108167960a8e4j",
         "title": "Suudi Arabistan, Türkiye ve Pakistan Ortak Savunma Anlaşması İmzaladı",
         "summary": "Suudi Arabistan, Türkiye ve Pakistan arasında ortak bir savunma anlaşması imzalandı. Anlaşma, Suudi Arabistan Veliaht Prensi, Türkiye Cumhurbaşkanı ve Pakistan Başbakanı tarafından Mekke'de düzenlenen törenle yürürlüğe girdi. Bu gelişme, üç ülke arasındaki güvenlik ve askeri işbirliğinin artırılmasına yönelik önemli bir adım olarak değerlendiriliyor. Söz konusu paktın bölgesel dengeler üzerinde etkileri olabileceği belirtiliyor.",
@@ -780,22 +796,6 @@
             "name": "Ukrayna"
         },
         "source": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17859588578601vdzw",
-        "title": "ABD ordusu, İran ablukasını uygularken 48 gemiyi yönlendirdiğini açıkladı",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik ablukayı uygulama faaliyetleri kapsamında ticari gemilere müdahalelerde bulunduğunu bildirdi. Komutanlık tarafından yapılan açıklamaya göre, 5 Ağustos tarihi itibarıyla CENTCOM güçleri 48 ticari geminin rotasını değiştirdi. Operasyonlar sırasında iki geminin seyrinin engellendiği ve iki gemiye de bizzat çıkarak denetim yapıldığı belirtildi. Bu eylemlerin, bölgedeki deniz güvenliğini sağlamak ve uluslararası yaptırımların uygulanmasını temin etmek amacıyla gerçekleştirildiği vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17530306/pexels-photo-17530306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T19:40:57.860Z",
-        "location": {
-            "lat": 27,
-            "lng": 52,
-            "name": "Basra Körfezi, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-military-says-it-redirected-48-vessels-while-enforcing-iran-blockade/4019496",
         "trendScore": 85,
         "isBreaking": false
     }
