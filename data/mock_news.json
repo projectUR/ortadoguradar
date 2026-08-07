@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786100133737y24gu",
+        "title": "ABD'nin Hürmüz Boğazı'nda deniz misyonu talebine Avrupa'dan tereddüt: 'Gerilimi azaltma' vurgusu",
+        "summary": "Amerika Birleşik Devletleri'nin Hürmüz Boğazı'nda bir deniz misyonu oluşturma yönündeki baskılarına karşın, Avrupa ülkeleri tereddütlü bir yaklaşım sergiliyor. Analistler, İngiltere ve Fransa'nın İran ile doğrudan bir çatışma arayışında olmadığını belirtiyor. Avrupa'nın büyük ölçüde reddettiği ABD-İsrail eksenindeki bölgesel gerilimler bağlamında, bu ülkeler gerilimi azaltma politikalarını önceliklendiriyor. Bu durum, bölgedeki mevcut hassas dengelerin korunması ve olası bir tırmanışın önüne geçilmesi hedefini yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17623243/pexels-photo-17623243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T10:55:33.737Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786095183978gwrae",
         "title": "Afrika, FIFA Başkanı Infantino'ya Oybirliğiyle Destek Verdi",
         "summary": "Afrika Futbol Konfederasyonu (CAF), FIFA Başkanı Gianni Infantino'ya oybirliğiyle destek verdiğini duyurdu. CAF Başkanı Patrice Motsepe, iyi yönetişim çağrısında bulunarak, Afrika'nın FIFA başkanının arkasında durduğunu vurguladı. Bu karar, Infantino'nun uluslararası futbol arenasındaki konumunu güçlendirirken, Kuzey Afrika ülkeleri de dahil olmak üzere kıtadaki tüm federasyonların desteğini almasıyla dikkat çekti. Bu gelişme, FIFA'nın gelecekteki politikaları ve Afrika futbolunun uluslararası arenadaki temsiliyeti açısından önem taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785944456693pzi6i",
-        "title": "BM İnsan Hakları Şefi İran'daki İnfaz ve Ölüm Cezalarındaki Artıştan Endişe Duyduğunu Açıkladı",
-        "summary": "Birleşmiş Milletler İnsan Hakları Yüksek Komiseri Volker Türk, İran'da infaz ve ölüm cezalarının sayısında endişe verici bir artış yaşandığını duyurdu. Türk, Tahran yönetimine infazları derhal durdurma ve ölüm cezasının tamamen kaldırılması yönünde adımlar atma çağrısında bulundu. Yüksek Komiser, bu kararların adil yargılanma süreçlerine ilişkin ciddi endişeler taşıdığını ve uluslararası standartlara aykırı olduğunu belirtti. BM yetkilisi, İran'daki insan hakları durumunun kötüleştiğine dikkat çekerek, uluslararası toplumu bu konuya duyarlı olmaya davet etti.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7643870/pexels-photo-7643870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T15:40:56.693Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-rights-chief-alarmed-by-rise-in-executions-death-sentences-in-iran/4019275",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
