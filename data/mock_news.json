@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786079871499gjhm5",
+        "title": "Cumhurbaşkanı Erdoğan Suudi Arabistan'ı Ziyaret Ediyor: Beklentiler Neler?",
+        "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan'a resmi bir ziyaret gerçekleştiriyor. Ziyaret kapsamında Cumhurbaşkanı Erdoğan'ın, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir araya gelmesi bekleniyor. Görüşmelerde ikili ilişkilerin yanı sıra bölgesel ve uluslararası konuların ele alınacağı tahmin ediliyor. Ayrıca, Erdoğan'ın Pakistan Başbakanı Şahbaz Şerif ile de görüşme yapacağı ofisinden yapılan açıklamayla duyuruldu. Bu ziyaretin, Türkiye ile Suudi Arabistan arasındaki ilişkilerin güçlendirilmesine katkı sağlaması hedefleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T05:17:51.499Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786073468051t2cww",
         "title": "İsrail, Oscar Ödüllü Batı Şeria Filminde Yer Alan Filistinlinin Öldürülmesiyle İlgili Bir Yerleşimciye Suçlama Yöneltti",
         "summary": "İsrail, Batı Şeria'da Oscar ödüllü bir filmde rol alan Filistinli Odeh Hathaleen'in öldürülmesiyle ilgili olarak bir İsrailli yerleşimciye suçlama yöneltti. Yinon Levy adlı yerleşimci, Hathaleen'in Temmuz 2025'te vurularak öldürülmesi olayında taksirle adam öldürme suçlamasıyla karşı karşıya. Olay, İsrail ile Filistinliler arasındaki gerilimin yüksek olduğu Batı Şeria'da gerçekleşti. Bu gelişme, bölgedeki güvenlik ve hukuk süreçleri açısından dikkat çekiyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/world/yemen-s-houthis-claim-ballistic-missile-strike-on-saudi-oil-tanker-in-red-sea/4018721",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1785919407164u913o",
-        "title": "ABD, Hürmüz Boğazı Anlaşmasına Yaklaşıyor, Çarşamba Günü Duyuru Hedefleniyor: Rapor",
-        "summary": "ABD'nin Hürmüz Boğazı'na ilişkin bir anlaşmaya varmak üzere olduğu bildirildi. Axios'un haberine göre, görüşülen anlaşma, stratejik su yolunda Umman ile İran arasında 60 günlük geçici bir düzenleme öngörüyor. Bu anlaşmanın Çarşamba günü duyurulması hedefleniyor. Hürmüz Boğazı, küresel enerji ticareti için hayati öneme sahip bir geçiş noktası olarak biliniyor ve bu tür düzenlemeler bölgesel istikrar açısından büyük önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15196714/pexels-photo-15196714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T08:43:27.164Z",
-        "location": {
-            "lat": 27.18,
-            "lng": 56.28,
-            "name": "Bandar Abbas, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-nears-strait-of-hormuz-deal-aiming-for-wednesday-announcement-report/4018586",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
