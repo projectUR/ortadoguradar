@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786073468051t2cww",
+        "title": "İsrail, Oscar Ödüllü Batı Şeria Filminde Yer Alan Filistinlinin Öldürülmesiyle İlgili Bir Yerleşimciye Suçlama Yöneltti",
+        "summary": "İsrail, Batı Şeria'da Oscar ödüllü bir filmde rol alan Filistinli Odeh Hathaleen'in öldürülmesiyle ilgili olarak bir İsrailli yerleşimciye suçlama yöneltti. Yinon Levy adlı yerleşimci, Hathaleen'in Temmuz 2025'te vurularak öldürülmesi olayında taksirle adam öldürme suçlamasıyla karşı karşıya. Olay, İsrail ile Filistinliler arasındaki gerilimin yüksek olduğu Batı Şeria'da gerçekleşti. Bu gelişme, bölgedeki güvenlik ve hukuk süreçleri açısından dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T03:31:08.051Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786062330088hajik",
         "title": "'Kırmızı Çizgi Yok': İsrail Saldırılarına Yeniden Başlarken Güney Lübnan Sakinleri Öfkeli",
         "summary": "İsrail'in Güney Lübnan'a yönelik saldırılarını yeniden başlatması, bölge halkında büyük tepkiye neden oldu. Saldırılarla birlikte verilen tahliye emirleri, bölge sakinlerinin endişelerini artırdı ve yaşamlarını olumsuz etkiledi. Güney Lübnan'da yaşayanlar, hükümetlerinin bu duruma karşı izlediği politikayı ve yaklaşımını sorguluyor. Halk, İsrail'in eylemlerine karşı yeterli bir yanıt verilmediğini ve kendilerinin savunmasız bırakıldığını ifade ediyor. Bölgedeki gerilim, sivil halkın güvenliğini ve istikrarını tehdit etmeye devam ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/us-nears-strait-of-hormuz-deal-aiming-for-wednesday-announcement-report/4018586",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17859194296374wbtu",
-        "title": "İsrailli Yetkililer, Trump Yönetiminin İran Anlaşması Çabalarını Sorguluyor: \"Washington Her Ne Pahasına Olursa Olsun Anlaşma İstiyor\"",
-        "summary": "İsrailli yetkililer, ABD'nin İran ile olası bir nükleer anlaşmaya varma çabalarını eleştirdi. İsrailli kaynaklar, Washington'ın \"her ne pahasına olursa olsun\" bir anlaşma peşinde olduğunu belirtiyor. İsrail'in, ABD ile İran arasındaki müzakereler hakkında doğrudan bilgi almadığı bildirildi. Ülkenin, bu görüşmelerle ilgili bilgilere dolaylı kanallar aracılığıyla ulaştığı ifade edildi. Bu bilgiler, İsrail'in Channel 12 televizyonu tarafından aktarıldı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T08:43:49.637Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-officials-question-trumps-push-for-iran-deal-say-washington-seeks-agreement-at-any-cost/4018585",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
