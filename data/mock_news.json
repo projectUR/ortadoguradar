@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786103313795xox6y",
+        "title": "Kuzey Etiyopya'da Değişen İttifaklar",
+        "summary": "Kuzey Etiyopya'da Tigray Halk Kurtuluş Cephesi (TPLF), Fano milisleri ve Eritre güçleri arasında yeni ittifaklar kurulduğu ve çatışma hatlarının yeniden çizildiği bildirildi. Bölgedeki güç dengelerinin değiştiği ve bu durumun Etiyopya'nın kuzeyindeki istikrarsızlığı artırabileceği belirtiliyor. Gelişmeler, bölgedeki güvenlik dinamiklerini yakından takip eden uluslararası aktörler tarafından dikkatle izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19960366/pexels-photo-19960366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T11:48:33.795Z",
+        "location": {
+            "lat": 9,
+            "lng": 38.75,
+            "name": "Addis Ababa, Etiyopya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786100133737y24gu",
         "title": "ABD'nin Hürmüz Boğazı'nda deniz misyonu talebine Avrupa'dan tereddüt: 'Gerilimi azaltma' vurgusu",
         "summary": "Amerika Birleşik Devletleri'nin Hürmüz Boğazı'nda bir deniz misyonu oluşturma yönündeki baskılarına karşın, Avrupa ülkeleri tereddütlü bir yaklaşım sergiliyor. Analistler, İngiltere ve Fransa'nın İran ile doğrudan bir çatışma arayışında olmadığını belirtiyor. Avrupa'nın büyük ölçüde reddettiği ABD-İsrail eksenindeki bölgesel gerilimler bağlamında, bu ülkeler gerilimi azaltma politikalarını önceliklendiriyor. Bu durum, bölgedeki mevcut hassas dengelerin korunması ve olası bir tırmanışın önüne geçilmesi hedefini yansıtıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785944371593laes1",
-        "title": "Gazze'de Bir Baba, İsrail Saldırıları Ortasında Çocuklara Oyun Merkezi Açtı",
-        "summary": "Gazze'de Filistinli bir baba, bölgedeki çocuklara İsrail saldırılarının gölgesinde ücretsiz bir kaçış ve neşe alanı sunan bir oyun merkezi kurdu. Merkez, neredeyse her gün yaşanan saldırıların çocukların psikolojisi üzerindeki olumsuz etkilerini azaltmayı hedefliyor. Bu girişim, savaşın ortasında çocukların normal bir çocukluk yaşama hakkını desteklemeyi amaçlıyor. Baba, merkezin çocuklara eğlence ve sosyalleşme imkanı sunarak travmatik deneyimlerden uzaklaşmalarına yardımcı olacağını belirtti. Bu adım, Gazze'deki toplumun zorlu koşullara rağmen direncini ve çocuklara yönelik hassasiyetini gösteriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T15:39:31.593Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
