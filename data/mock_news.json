@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786122129612fl61x",
+        "title": "İtalya, İspanya'nın Karşı Tedbir Tehditlerine Rağmen Sınır Kontrollerini Sürdürme Sözü Verdi",
+        "summary": "İtalya, İspanya'nın Ceuta göçmen krizi sonrası uygulanan sınır kontrollerini kaldırmaması halinde \"orantılı tedbirler\" alma tehdidine rağmen bu kontrolleri sürdürmekte kararlı olduğunu açıkladı. Madrid yönetimi, Roma'nın bu tutumuna son vermemesi durumunda karşılık vereceğini belirtirken, İtalya hükümeti sınır güvenliğini öncelik olarak gördüğünü vurguladı. Bu gelişme, Avrupa Birliği içinde göçmen politikaları ve üye devletler arasındaki sınır güvenliği uygulamaları konusundaki derin anlaşmazlıkları bir kez daha ortaya koydu. İki ülke arasındaki gerilim, Akdeniz üzerinden Avrupa'ya ulaşmaya çalışan göçmen akınlarının yarattığı baskıyı ve AB'nin ortak bir göçmen stratejisi oluşturma zorluğunu gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/31628104/pexels-photo-31628104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T17:02:09.612Z",
+        "location": {
+            "lat": 35.8889,
+            "lng": -5.3162,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786118357127oyead",
         "title": "Türkiye, Suudi Arabistan ve Pakistan Ortak Savunma Anlaşması İmzaladı: İçeriği Ne?",
         "summary": "Türkiye, Suudi Arabistan ve Pakistan arasında ortak bir savunma anlaşması imzalandığı bildirildi. Uzmanlar, bu paktın bölgenin güvenlik mimarisini yeniden şekillendireceğini belirtiyor. Anlaşmanın, üç ülke arasındaki savunma işbirliğini derinleştirmeyi hedeflediği ifade ediliyor. Söz konusu anlaşmanın detayları henüz tam olarak açıklanmazken, bölgesel istikrar ve ittifaklar üzerinde önemli etkileri olması bekleniyor.",
@@ -780,22 +796,6 @@
             "name": "Dera, Suriye"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785969314149p64nh",
-        "title": "ABD'li Yetkililer Mühimmat Tedariklerinin Tehlikeli Derecede Düşük Olduğu İddialarını Reddediyor",
-        "summary": "ABD'li yetkililer, ülkenin mühimmat tedariklerinin tehlikeli derecede düşük olduğu yönündeki raporları reddetti. Ancak uzmanlar, İran'a karşı yürütülen savaş nedeniyle hava savunma önleyicilerinin stoklarının azalmasının ABD'yi savunmasız hale getirdiği konusunda uyarıyor. Bu durum, ABD'nin Orta Doğu'daki potansiyel çatışmalara müdahale etme ve müttefiklerini koruma kapasitesi hakkında soru işaretleri yaratıyor. Mühimmat seviyelerindeki bu tartışma, bölgesel güvenlik dinamikleri açısından kritik bir öneme sahip.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18206461/pexels-photo-18206461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T22:35:14.149Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
