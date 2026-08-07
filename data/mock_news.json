@@ -1,5 +1,53 @@
 [
     {
+        "id": "1786108167960a8e4j",
+        "title": "Suudi Arabistan, Türkiye ve Pakistan Ortak Savunma Anlaşması İmzaladı",
+        "summary": "Suudi Arabistan, Türkiye ve Pakistan arasında ortak bir savunma anlaşması imzalandı. Anlaşma, Suudi Arabistan Veliaht Prensi, Türkiye Cumhurbaşkanı ve Pakistan Başbakanı tarafından Mekke'de düzenlenen törenle yürürlüğe girdi. Bu gelişme, üç ülke arasındaki güvenlik ve askeri işbirliğinin artırılmasına yönelik önemli bir adım olarak değerlendiriliyor. Söz konusu paktın bölgesel dengeler üzerinde etkileri olabileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/289831/pexels-photo-289831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T13:09:27.960Z",
+        "location": {
+            "lat": 21.4225,
+            "lng": 39.8262,
+            "name": "Mekke, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17861082233080dhs5",
+        "title": "Arjantin ve Meksika, FIFA Başkanı Infantino'ya Destek Veren Afrika Ülkelerine Katıldı",
+        "summary": "FIFA başkanlığına ilişkin son gelişmelerde, Norveç'in mevcut başkan Gianni Infantino'nun istifasını talep ettiği bildirildi. Ancak, Arjantin ve Meksika'nın, Infantino'ya destek veren Afrika ülkeleri safına katıldığı belirtildi. Bu durum, küresel futbol yönetimindeki güç dengelerini ve Infantino'nun liderliğine yönelik farklı yaklaşımları gözler önüne seriyor. Infantino'nun başkanlığı döneminde, özellikle Katar'da düzenlenen Dünya Kupası ile Orta Doğu'daki futbol federasyonları ve bölge için önemli gelişmeler yaşanmıştı. Bu uluslararası destekler, Infantino'nun FIFA içindeki konumunu güçlendirme potansiyeli taşımaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/38862934/pexels-photo-38862934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T13:10:23.308Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1786108295035uoz87",
+        "title": "İspanya'nın Ceuta Enklavına Paraşütle Girmeye Çalışan Göçmen Hayatını Kaybetti",
+        "summary": "İspanya'nın Kuzey Afrika'daki Ceuta enklavına Fas tarafından paraşütle girmeye çalışan genç bir göçmen denize düşerek hayatını kaybetti. Olay, Fas sınırı yakınlarında meydana geldi ve görgü tanıklarının ifadelerine göre, genç adam paraşütün kontrolünü kaybettikten sonra denize düştü. Bu trajik olay, Avrupa'ya ulaşmak isteyen göçmenlerin karşılaştığı tehlikeleri ve başvurdukları riskli yöntemleri bir kez daha gözler önüne serdi. Ceuta ve Melilla gibi İspanyol enklavları, Afrika'dan Avrupa'ya geçiş için önemli ve zorlu güzergahlardan biri olarak biliniyor. Bölgede düzensiz göç girişimleri sıklıkla yaşanmaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13348495/pexels-photo-13348495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T13:11:35.035Z",
+        "location": {
+            "lat": 35.89,
+            "lng": -5.31,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/migrant-dies-in-paraglider-attempt-to-enter-spain-s-ceuta/4021120",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786103313795xox6y",
         "title": "Kuzey Etiyopya'da Değişen İttifaklar",
         "summary": "Kuzey Etiyopya'da Tigray Halk Kurtuluş Cephesi (TPLF), Fano milisleri ve Eritre güçleri arasında yeni ittifaklar kurulduğu ve çatışma hatlarının yeniden çizildiği bildirildi. Bölgedeki güç dengelerinin değiştiği ve bu durumun Etiyopya'nın kuzeyindeki istikrarsızlığı artırabileceği belirtiliyor. Gelişmeler, bölgedeki güvenlik dinamiklerini yakından takip eden uluslararası aktörler tarafından dikkatle izleniyor.",
@@ -748,54 +796,6 @@
             "name": "Basra Körfezi, Orta Doğu"
         },
         "source": "https://www.aa.com.tr/en/middle-east/us-military-says-it-redirected-48-vessels-while-enforcing-iran-blockade/4019496",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785951701159am4dg",
-        "title": "Güney Lübnan'da Şiddet: Bir Lübnanlı ve İki İsrailli Asker Hayatını Kaybetti",
-        "summary": "Güney Lübnan'da meydana gelen şiddet olaylarında en az bir Lübnanlı sivil ve iki İsrailli asker yaşamını yitirdi. Bu olaylar, Lübnan ile İsrail arasında devam eden müzakerelerin ortasında gerçekleşti. Beyrut yönetimi, İsrail güçlerinin bölgeden aşamalı olarak çekilmesi yönündeki taleplerini sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T17:41:41.159Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785951819102ucw6p",
-        "title": "Irak ve Suudi Arabistan, ABD saldırılarının ardından güvenlik heyeti ziyaretini görüştü",
-        "summary": "Irak ve Suudi Arabistan dışişleri bakanları, iki ülke arasındaki güvenlik heyeti ziyaretinin hazırlıklarını gözden geçirdi. Bu görüşme, ABD'nin Irak'taki İran destekli gruplara yönelik saldırılarının ardından bölgedeki gerilimin yüksek seyrettiği bir dönemde gerçekleşti. Taraflar, güvenlik işbirliğini artırma ve ortak tehditlere karşı koordinasyonu güçlendirme yollarını değerlendirdi. Ziyaretin, bölgesel güvenlik konularını ele alması ve mevcut tansiyonu düşürmeye yönelik adımları içermesi bekleniyor. Bölgedeki istikrarın sağlanması için diplomatik çabaların sürdürüleceği belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T17:43:39.102Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-saudi-arabia-discuss-security-delegation-visit-week-after-us-saudi-strikes/4019458",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785944318869fvg6f",
-        "title": "ABD-İran Anlaşması Yakınlaşıyor",
-        "summary": "ABD'li yetkililer tarafından yapılan açıklamalara göre, Amerika Birleşik Devletleri ile İran arasında kritik bir anlaşmanın önümüzdeki 48 saat içinde imzalanabileceği belirtildi. Bu potansiyel anlaşma, iki ülke arasındaki uzun süreli gerilimli ilişkilerde önemli bir dönüm noktası teşkil edebilir. Anlaşmanın içeriği ve detaylarına ilişkin henüz resmi bir açıklama yapılmazken, taraflar arasındaki müzakerelerin son aşamaya ulaştığı ifade ediliyor. Söz konusu gelişme, Orta Doğu'daki siyasi dengeler ve uluslararası ilişkiler açısından yakından takip ediliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7693159/pexels-photo-7693159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T15:38:38.869Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
