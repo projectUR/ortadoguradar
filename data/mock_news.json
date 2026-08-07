@@ -1,5 +1,21 @@
 [
     {
+        "id": "17861441106018u6k4",
+        "title": "Yemenli Güç, Marib'de Husilere Kayıplar Verdirildiğini Açıkladı",
+        "summary": "Yemen'deki Şebve Savunma Güçleri, Marib vilayetinde Husilere karşı bir misilleme operasyonu düzenlediğini duyurdu. Yapılan açıklamada, operasyonun iki savaşçılarının insansız hava aracı saldırısında hayatını kaybetmesinin ardından başlatıldığı belirtildi. Güçler, bu operasyon sonucunda Husilere önemli kayıplar verdirildiğini iddia etti. Bu gelişme, Yemen'de devam eden çatışmaların ve taraflar arasındaki gerilimin sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T23:08:30.601Z",
+        "location": {
+            "lat": 15.46,
+            "lng": 45.33,
+            "name": "Marib, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-force-says-retaliatory-operation-inflicted-losses-on-houthis-in-marib/4021501",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786137084184hi460",
         "title": "Lübnan, İsrail Görüşmelerinde Sınırlar ve Esirler Konusunda 'Olumlu İlerleme' Kaydedildiğini Belirtti",
         "summary": "Lübnan, İsrail ile yürütülen görüşmelerin yedinci turunun ardından, sınırlar ve esirler konularında \"olumlu ilerleme\" kaydedildiğini açıkladı. Beyrut'tan gelen bu iyimser açıklamalar, güney Lübnan'da yeni İsrail saldırılarının rapor edildiği bir dönemde geldi. İki ülke arasındaki müzakereler, bölgedeki uzun süreli anlaşmazlıkları çözme ve gerilimi azaltma çabalarının bir parçası olarak devam ediyor. Taraflar arasındaki diyaloğun sürdüğü belirtilirken, görüşmelerin gelecekteki adımları ve detayları hakkında henüz net bir bilgi verilmedi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/israeli-army-continues-attacks-on-qalandia-camp-for-2nd-day-injuring-palestinians/4019708",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785998038764jqacg",
-        "title": "FIFA, Fas'taki Acil Toplantıda Başkan Infantino'ya Destek Verdi",
-        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino, Fas'ta düzenlenen acil durum toplantısında yönetim kurulu üyelerinden tam destek aldı. Bu toplantı, başkanın liderliğine yönelik olası tartışmaların veya eleştirilerin ortasında gerçekleşti ve Infantino'nun pozisyonunu güçlendirme amacı taşıdı. Fas'ın ev sahipliği yaptığı bu önemli toplantı, FIFA'nın gelecekteki yönü ve yönetim kararları açısından kritik bir dönemeç olarak değerlendiriliyor. Toplantıda alınan bu kararın, uluslararası futbol camiasında yankı uyandırması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38612669/pexels-photo-38612669.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T06:33:58.764Z",
-        "location": {
-            "lat": 34.02,
-            "lng": -6.84,
-            "name": "Rabat, Fas"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
