@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786131028136b1l8q",
+        "title": "Ukrayna'ya yönelik saldırılarda çok sayıda kişi hayatını kaybederken, Kiev Rus e-ticaret devini vurdu",
+        "summary": "Ukrayna'ya yönelik saldırılarda çok sayıda kişinin hayatını kaybettiği bildirildi. Bu gelişmelerin yanı sıra, Ukrayna güçleri Rus e-ticaret devi Wildberries'e ait depo ve lojistik merkezlerini hedef almaya devam ediyor. Kiev, söz konusu tesislerin Moskova'nın savaş çabalarına destek sağladığını iddia ediyor. Bu saldırılar, Ukrayna'nın Rusya'nın savaş ekonomisini hedef alma stratejisinin bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T19:30:28.136Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kyiv, Ukraine"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786126376442q5e34",
         "title": "Akdeniz'de Göçmen Kaçakçılığı Ağı Çökertildi: 78 Gözaltı",
         "summary": "İspanya liderliğindeki uluslararası bir operasyonla Batı Akdeniz'deki en büyük göçmen kaçakçılığı şebekelerinden birinin çökertildiği duyuruldu. Yetkililer, bu geniş çaplı operasyon kapsamında 78 kişinin gözaltına alındığını bildirdi. Çökertilen ağın, binlerce göçmeni Avrupa'ya yasa dışı yollarla taşıdığı ve bu faaliyetlerden büyük gelirler elde ettiği belirtildi. Operasyonun, Akdeniz'deki düzensiz göçle mücadelede önemli bir başarı olduğu ve bölgedeki insan kaçakçılığı faaliyetlerine darbe vurduğu ifade edildi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-torch-homes-injure-6-palestinians-in-west-bank/4019626",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1785974562041t26pd",
-        "title": "BM İnsan Hakları Şefi İran'daki İnfaz Artışından Endişeli",
-        "summary": "Birleşmiş Milletler İnsan Hakları Yüksek Komiseri Volker Türk, İran'da Mart ayından bu yana infazlarda yaşanan artıştan derin endişe duyduğunu açıkladı. Türk'ün bildirdiğine göre, ulusal güvenlikle ilgili suçlamalarla toplam 56 kişi idam edildi. Bu infazların 27'sinin Ocak ayındaki protestolarla bağlantılı davalar kapsamında gerçekleştirildiği belirtildi. Bu durum, İran'daki insan hakları durumu ve yargı süreçleri hakkında uluslararası toplumun kaygılarını artırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/33077887/pexels-photo-33077887.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T00:02:42.041Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": false
     }
 ]
