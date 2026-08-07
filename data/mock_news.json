@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786062330088hajik",
+        "title": "'Kırmızı Çizgi Yok': İsrail Saldırılarına Yeniden Başlarken Güney Lübnan Sakinleri Öfkeli",
+        "summary": "İsrail'in Güney Lübnan'a yönelik saldırılarını yeniden başlatması, bölge halkında büyük tepkiye neden oldu. Saldırılarla birlikte verilen tahliye emirleri, bölge sakinlerinin endişelerini artırdı ve yaşamlarını olumsuz etkiledi. Güney Lübnan'da yaşayanlar, hükümetlerinin bu duruma karşı izlediği politikayı ve yaklaşımını sorguluyor. Halk, İsrail'in eylemlerine karşı yeterli bir yanıt verilmediğini ve kendilerinin savunmasız bırakıldığını ifade ediyor. Bölgedeki gerilim, sivil halkın güvenliğini ve istikrarını tehdit etmeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T00:25:30.088Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786062367960ie7ea",
+        "title": "Husiler'in Yemen'deki Saldırılarında En Az 30 Hükümet Gücü Mensubu Hayatını Kaybetti",
+        "summary": "Yemen'in orta kesimlerindeki Marib ve Hadramawt vilayetlerinde Husiler tarafından düzenlenen saldırılarda en az 30 Yemen hükümet gücü mensubunun yaşamını yitirdiği bildirildi. Yerel kaynaklardan alınan bilgilere göre, saldırılar yoğun çatışmalara sahne oldu. Husiler, söz konusu saldırılarda Suudi askeri yığınaklarını hedef aldıklarını ve füze ile insansız hava araçları kullandıklarını duyurdu. Bu olay, Yemen'deki çatışmaların devam ettiğini ve bölgedeki gerilimin sürdüğünü bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-07T00:26:07.960Z",
+        "location": {
+            "lat": 15.4667,
+            "lng": 45.3333,
+            "name": "Marib, Yemen"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17860280399988t82n",
         "title": "UEFA, Infantino'nun Dünya Kupası Satışından Geri Adım Atmasına Rağmen FIFA Boykotunun Sürdüğünü Açıkladı",
         "summary": "Avrupa futbolunun yönetim organı UEFA, küresel oyuna dönüşleri için FIFA'nın belirlediği koşulları henüz karşılamadığını duyurdu. Bu açıklama, FIFA Başkanı Gianni Infantino'nun Dünya Kupası'nın ticari haklarının satışı konusunda geri adım atmasına rağmen geldi. UEFA, FIFA ile olan anlaşmazlıkların devam ettiğini ve bu nedenle FIFA etkinliklerine yönelik boykot kararının yürürlükte kaldığını belirtti. Bu durum, iki büyük futbol kurumu arasındaki gerilimin sürdüğünü ve küresel futbol yönetiminde belirsizliklerin devam ettiğini gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-officials-question-trumps-push-for-iran-deal-say-washington-seeks-agreement-at-any-cost/4018585",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178591945502793lpu",
-        "title": "Ürdün Futbol Federasyonu Başkanı, Infantino'yu FIFA yardımını seçim desteğine bağlamakla suçladı",
-        "summary": "Ürdün Futbol Federasyonu Başkanı Prens Ali bin Hüseyin, FIFA Başkanı Gianni Infantino'yu şantaj yapmakla itham etti. Prens Ali, Infantino'nun FIFA yardımlarını siyasi destek karşılığında kullandığını iddia etti. Bu durumun şantaj anlamına geldiğini ve buna boyun eğmeyeceklerini belirten Prens Ali, Infantino'nun uluslararası futbol yönetimindeki etik dışı uygulamalarına dikkat çekti. Bu iddialar, FIFA'nın yönetim şeffaflığı ve seçim süreçleri üzerindeki tartışmaları yeniden alevlendirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38546953/pexels-photo-38546953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T08:44:15.027Z",
-        "location": {
-            "lat": 32,
-            "lng": 36,
-            "name": "Amman, Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-football-association-chief-alleges-infantino-linked-fifa-assistance-to-election-support/4018564",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1785897877956aobul",
-        "title": "ABD Borsası, Hürmüz Boğazı'nın Yeniden Açılması Umutlarıyla Rekor Kırdı",
-        "summary": "Küresel enerji piyasaları ve finans dünyası, Hürmüz Boğazı'nın yeniden açılmasına yönelik müzakerelerdeki ilerleme haberleriyle hareketlendi. ABD'li yetkililerin, dünya petrol ticaretinin kritik geçiş noktası olan bu su yolunun yeniden faaliyete geçirilmesi konusunda kaydedilen gelişmeleri duyurması üzerine petrol fiyatlarında belirgin bir düşüş yaşandı. Bu olumlu gelişmeler, yatırımcı güvenini artırarak ABD borsasında rekor seviyelerin görülmesine katkıda bulundu. Hürmüz Boğazı'nın güvenli ve kesintisiz işleyişi, küresel enerji arzı ve ekonomisi için hayati önem taşımaktadır.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/32237794/pexels-photo-32237794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-05T02:44:37.956Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
