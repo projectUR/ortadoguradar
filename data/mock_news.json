@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786214524124dfah1",
+        "title": "Sırbistan ve Ukrayna Ekonomik İlişkileri Geliştirme ve Serbest Ticaret Anlaşması Hedefliyor",
+        "summary": "Sırbistan ve Ukrayna, ekonomik bağlarını güçlendirme ve serbest ticaret anlaşması imzalama konusunda taahhütte bulundu. Bu işbirliği kapsamında Sırbistan, Ukrayna'nın şehirlerinin yeniden inşasına destek olacağını ve insani yardım sağlayacağını belirtti. İki ülke arasındaki ilişkilerin derinleştirilmesi, karşılıklı ekonomik faydalar ve Ukrayna'nın savaş sonrası toparlanmasına katkı sağlamayı amaçlıyor. Anlaşma, ticaret hacmini artırmanın yanı sıra, yatırım ve diğer ekonomik alanlarda da işbirliğini teşvik etmeyi hedefliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/38905596/pexels-photo-38905596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T18:42:04.124Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17862070318554l0th",
         "title": "Lübnan, eski Esad dönemi generalini 'gözaltına aldı', Suriye'ye teslim etmeyi değerlendiriyor",
         "summary": "Lübnan'da, eski Suriye Devlet Başkanı Beşar Esad döneminden bir generalin gözaltına alındığı bildirildi. Adli ve güvenlik kaynaklarından edinilen bilgilere göre, aranan eski general, Beyrut'taki rutin bir büyükelçilik ziyareti sırasında tutuklandı. Generalin Beyrut'ta bir cezaevine konulduğu belirtildi. Lübnanlı yetkililerin, gözaltına alınan generali Suriye'ye teslim etme olasılığını değerlendirdiği ifade edildi. Bu gelişme, iki komşu ülke arasındaki ilişkilerde yeni bir boyut kazandırdı.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786062330088hajik",
-        "title": "'Kırmızı Çizgi Yok': İsrail Saldırılarına Yeniden Başlarken Güney Lübnan Sakinleri Öfkeli",
-        "summary": "İsrail'in Güney Lübnan'a yönelik saldırılarını yeniden başlatması, bölge halkında büyük tepkiye neden oldu. Saldırılarla birlikte verilen tahliye emirleri, bölge sakinlerinin endişelerini artırdı ve yaşamlarını olumsuz etkiledi. Güney Lübnan'da yaşayanlar, hükümetlerinin bu duruma karşı izlediği politikayı ve yaklaşımını sorguluyor. Halk, İsrail'in eylemlerine karşı yeterli bir yanıt verilmediğini ve kendilerinin savunmasız bırakıldığını ifade ediyor. Bölgedeki gerilim, sivil halkın güvenliğini ve istikrarını tehdit etmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T00:25:30.088Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 35.5,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
