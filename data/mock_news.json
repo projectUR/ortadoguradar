@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786178784204sapha",
+        "title": "İsrail, iki askerinin patlamada ölmesinin ardından Güney Lübnan'ı vurdu",
+        "summary": "İsrail ordusu, iki askerinin bir patlamada hayatını kaybetmesinin ardından Güney Lübnan'a hava saldırıları düzenledi. Lübnan makamları, İsrail'in düzenlediği bu saldırılarda bir kişinin yaşamını yitirdiğini bildirdi. Bu olay, bir aydan uzun bir süredir Lübnan'da ilk kez İsrail askeri kaybının yaşanmasıyla dikkat çekti. Bölgedeki gerilim, son gelişmelerle birlikte yeniden tırmanışa geçti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T08:46:24.204Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.4,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1786175663498z2fy2",
         "title": "Şiddet, Filistinli Hristiyanları Kutsal Topraklarından Göçe Zorluyor",
         "summary": "Filistinli Hristiyanlar, Gazze, Kudüs ve işgal altındaki Batı Şeria genelinde şiddet ve yerinden edilme sorunlarıyla karşı karşıya kalıyor. Kutsal Topraklar'daki bu topluluk, artan şiddet olayları nedeniyle yaşadıkları bölgeleri terk etmek zorunda kalıyor. Bu durum, Filistinli Hristiyanların bölgedeki varlığının tehdit altında olduğunu ve demografik yapıyı değiştirebileceğini gösteriyor. Haber, bu topluluğun karşılaştığı zorluklara dikkat çekiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/qatar-airways-to-resume-flights-to-kuwait-bahrain-erbil-starting-from-aug-8/4020046",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17860180007205zu8o",
-        "title": "Pakistan, Hürmüz gerilimleri konusunda diplomatik çabalarını sürdürdüğünü bildirdi",
-        "summary": "Pakistan Dışişleri Bakanlığı, İslamabad'ın Hürmüz gerilimleri konusunda diplomatik çabalarını sürdürdüğünü açıkladı. Bakanlık, ülkenin Körfez krizi için gerilimi azaltma ve kalıcı bir çözüm bulma amacıyla bölgesel ortaklarla birlikte çalıştığını belirtti. Bu çabaların, bölgedeki istikrarın sağlanması ve tırmanışın önlenmesi hedeflendiği vurgulandı. Pakistan, diplomatik kanalları kullanarak taraflar arasında uzlaşma zemini oluşturmaya devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T12:06:40.720Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-says-it-remains-engaged-in-diplomatic-efforts-over-hormuz-tensions/4020043",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
