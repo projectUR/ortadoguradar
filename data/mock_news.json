@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786193692913t4ilb",
+        "title": "İran dini liderinin danışmanı: 'Yabancı güçler bölgeden ayrılmalı'",
+        "summary": "İran dini lideri Ayetullah Ali Hamaney'in danışmanı Ali Ekber Velayeti, bölgedeki yabancı güçlerin varlığının sona ermesi gerektiğini belirtti. Velayeti, bölge ülkeleri arasındaki artan işbirliğinin kendi güvenliklerini sağlayabileceğini vurguladı. Bu açıklama, Orta Doğu'da bölgesel güvenlik ve dış müdahale konularındaki tartışmaları yeniden gündeme getirdi. İranlı yetkili, bölge devletlerinin kendi aralarındaki dayanışma ile dışarıdan bir güce ihtiyaç duymadan istikrarı tesis edebileceği mesajını verdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14136477/pexels-photo-14136477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T12:54:52.913Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/adviser-to-iran-s-supreme-leader-says-foreign-forces-must-leave-region/4021802",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786188670954c803e",
         "title": "Yemen'in Çöken Sağlık Sistemi Hastaları Alternatif Tıbba Yöneltiyor",
         "summary": "Yemen'de sağlık hizmetlerine erişimde yaşanan zorluklar ve maliyetler, hastaları alternatif tıp yöntemlerine başvurmaya itiyor. Ülkedeki sağlık altyapısının çöküşü, temel tedavi imkanlarına ulaşımı engelliyor. Bu durum, özellikle kronik rahatsızlığı olan veya acil tıbbi müdahaleye ihtiyaç duyan bireyler için ciddi riskler oluşturuyor. Hastalar, geleneksel yöntemler veya bitkisel tedaviler gibi alternatif çözümlerde çare arıyor.",
@@ -780,22 +796,6 @@
             "name": "Rome, Italy"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanon-israel-conclude-7th-round-of-talks-in-rome-lebanese-official/4020288",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786017923752n5swt",
-        "title": "Suriye Dışişleri Bakanı: Birleşik ve Terörden Arındırılmış Suriye, Türkiye Sınır Güvenliğinin En Güçlü Garantisi",
-        "summary": "Suriye Dışişleri Bakanı, Türkiye ile sınır güvenliği için birleşik ve terörden arındırılmış bir Suriye'nin en güçlü garanti olduğunu belirtti. Ankara'da düzenlenen ortak basın toplantısında konuşan Suriye Dışişleri Bakanı Şaibani, ülkesinin birliğinin önemine dikkat çekti. Toplantıda Türk Dışişleri Bakanı Fidan ise İsrail'in Suriye'ye yönelik saldırılarının ülkenin istikrarını tehdit ettiğini vurguladı. Bu açıklamalar, iki ülke arasındaki ilişkilerin yanı sıra bölgesel güvenlik ve istikrar konularını da ele aldı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T12:05:23.752Z",
-        "location": {
-            "lat": 39.9,
-            "lng": 32.9,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrian-fm-says-united-terror-free-syria-strongest-guarantee-for-border-security-with-turkiye/4020093",
         "trendScore": 85,
         "isBreaking": false
     }
