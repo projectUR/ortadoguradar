@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786182101142su5yt",
+        "title": "Yemen Hükümet Güçleri Aden'in Batısında Düşman İHA ile Çatıştı",
+        "summary": "Yemen hükümet güçleri, ülkenin güneyindeki Aden şehrinin batı bölgesinde 'düşman' olarak tanımlanan bir insansız hava aracı (İHA) ile karşı karşıya geldi. Bu gelişme, Yemen silahlı kuvvetlerinin Husilere karşı bir operasyon başlatmasının hemen ardından yaşandı. Çatışmanın detayları ve İHA'nın akıbeti hakkında henüz resmi bir açıklama yapılmadı. Olay, Yemen'deki devam eden çatışmaların ve güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Bölgedeki gerilimin artmaya devam ettiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5014710/pexels-photo-5014710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T09:41:41.142Z",
+        "location": {
+            "lat": 12.78,
+            "lng": 45.04,
+            "name": "Aden, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-engage-hostile-drone-west-of-aden/4021704",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786178784204sapha",
         "title": "İsrail, iki askerinin patlamada ölmesinin ardından Güney Lübnan'ı vurdu",
         "summary": "İsrail ordusu, iki askerinin bir patlamada hayatını kaybetmesinin ardından Güney Lübnan'a hava saldırıları düzenledi. Lübnan makamları, İsrail'in düzenlediği bu saldırılarda bir kişinin yaşamını yitirdiğini bildirdi. Bu olay, bir aydan uzun bir süredir Lübnan'da ilk kez İsrail askeri kaybının yaşanmasıyla dikkat çekti. Bölgedeki gerilim, son gelişmelerle birlikte yeniden tırmanışa geçti.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/turkiye/israeli-attacks-threaten-syrias-stability-turkish-foreign-minister/4020052",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786017970342emi13",
-        "title": "Qatar Airways, Kuveyt, Bahreyn ve Erbil Uçuşlarına 8 Ağustos'tan İtibaren Yeniden Başlayacak",
-        "summary": "Katar Havayolları, Kuveyt, Bahreyn ve Irak'ın Erbil kentine yönelik uçuşlarını 8 Ağustos tarihinden itibaren yeniden başlatma kararı aldı. Havayolu şirketinden yapılan açıklamaya göre, bu uçuşlar 7 Ağustos'a kadar devam eden geçici bir askıya alma döneminin ardından yeniden faaliyete geçecek. Söz konusu güzergahlardaki uçuşların yeniden başlaması, bölgedeki hava trafiği ve bağlantı açısından önemli bir gelişme olarak değerlendiriliyor. Bu adım, yolcular için seyahat seçeneklerini artırırken, ilgili ülkeler arasındaki ekonomik ve ticari ilişkilerin canlanmasına katkıda bulunabilir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/37265692/pexels-photo-37265692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T12:06:10.342Z",
-        "location": {
-            "lat": 30.59,
-            "lng": 47.51,
-            "name": "Kuveyt, Bahreyn, Erbil"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-airways-to-resume-flights-to-kuwait-bahrain-erbil-starting-from-aug-8/4020046",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
