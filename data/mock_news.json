@@ -1,5 +1,21 @@
 [
     {
+        "id": "178622117161019zh2",
+        "title": "Lübnan Askerleri, İsrail Birliklerinin Güney Kasabasına Girmesi Sırasında Yaralandı",
+        "summary": "Lübnan'ın güneyindeki Zawtar el-Garbiye kasabası yakınlarında İsrail birliklerinin varlığı sırasında Lübnan askerleri yaralandı. Yaralanan askerler, bölgede bulunan patlamamış mühimmatı etkisiz hale getirme görevi yürütüyordu. Olay, İsrail güçlerinin aynı bölgede bir toprak bariyer inşa ettiği yönündeki raporların ardından meydana geldi. Bu gelişme, Lübnan-İsrail sınırındaki gerilimi ve askeri hareketliliği bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/669290/pexels-photo-669290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T20:32:51.610Z",
+        "location": {
+            "lat": 33.4,
+            "lng": 35.45,
+            "name": "Zawtar el-Garbiye, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786217658629o8ynu",
         "title": "Sudan Ordusu, Batı Darfur'da Hızlı Destek Kuvvetleri Saldırısını Püskürttü",
         "summary": "Batı Darfur Valisi tarafından yapılan açıklamaya göre, Sudan ordusu ve müttefik güçler, Hızlı Destek Kuvvetleri'nin (HDK) Batı Darfur'daki stratejik Bir Sleiba bölgesine düzenlediği büyük bir saldırıyı başarıyla püskürttü. Vali, ordunun bölgedeki kontrolünü koruma çabalarının devam ettiğini ve HDK'nin ilerleme girişimlerinin engellendiğini belirtti. Bu olay, Sudan'da ordu ile HDK arasında aylardır süren çatışmaların son halkasını oluşturuyor. Bölgedeki güvenlik durumu gerginliğini korurken, taraflar arasındaki mücadele stratejik noktalar üzerinde yoğunlaşıyor.",
@@ -780,22 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aa.com.tr/en/world/iraqs-badr-chief-urges-factions-to-postpone-attacks-on-saudi-arabia/4020725",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786079871499gjhm5",
-        "title": "Cumhurbaşkanı Erdoğan Suudi Arabistan'ı Ziyaret Ediyor: Beklentiler Neler?",
-        "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan'a resmi bir ziyaret gerçekleştiriyor. Ziyaret kapsamında Cumhurbaşkanı Erdoğan'ın, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir araya gelmesi bekleniyor. Görüşmelerde ikili ilişkilerin yanı sıra bölgesel ve uluslararası konuların ele alınacağı tahmin ediliyor. Ayrıca, Erdoğan'ın Pakistan Başbakanı Şahbaz Şerif ile de görüşme yapacağı ofisinden yapılan açıklamayla duyuruldu. Bu ziyaretin, Türkiye ile Suudi Arabistan arasındaki ilişkilerin güçlendirilmesine katkı sağlaması hedefleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T05:17:51.499Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
