@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786155115876nhur1",
+        "title": "Mekke savunma paktı, ABD'nin Orta Doğu'daki rolü için ne anlama gelebilir?",
+        "summary": "Analistler, Orta Doğu'daki bölgesel ortakların güvenliklerini desteklemek amacıyla yeni alternatifler arayışında olduğunu belirtiyor. Bu arayışın, mevcut ABD desteğini tamamen dışlamadan gerçekleştiği ifade ediliyor. Mekke savunma paktı gibi girişimler, bölge ülkelerinin kendi aralarında veya diğer güçlerle yeni güvenlik işbirlikleri kurma çabalarını yansıtabilir. Bu durum, ABD'nin Orta Doğu'daki geleneksel güvenlik rolünün geleceği hakkında tartışmaları beraberinde getiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9487229/pexels-photo-9487229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T02:11:55.876Z",
+        "location": {
+            "lat": 21.42,
+            "lng": 39.83,
+            "name": "Mekke, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786155247658oxxxi",
+        "title": "Batı Şeria'da İsrail Saldırılarında 6 Filistinli Yaralandı",
+        "summary": "Batı Şeria'da İsrail güçlerinin düzenlediği saldırılarda ikisi sağlık görevlisi olmak üzere altı Filistinli yaralandı. Olaylar, Beit Furik'te bir Filistinlinin İsrail güçleri tarafından darp edilerek gözaltına alınmasıyla başladı. Ayrıca, Nablus ve Beytüllahim bölgelerinde Yahudi yerleşimcilerin sivillere ve ambulans ekiplerine saldırdığı bildirildi. Bu gelişmeler, bölgedeki gerilimin arttığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10179363/pexels-photo-10179363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T02:14:07.658Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-including-2-medics-injured-in-israeli-attacks-in-west-bank/4021510",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17861441106018u6k4",
         "title": "Yemenli Güç, Marib'de Husilere Kayıplar Verdirildiğini Açıkladı",
         "summary": "Yemen'deki Şebve Savunma Güçleri, Marib vilayetinde Husilere karşı bir misilleme operasyonu düzenlediğini duyurdu. Yapılan açıklamada, operasyonun iki savaşçılarının insansız hava aracı saldırısında hayatını kaybetmesinin ardından başlatıldığı belirtildi. Güçler, bu operasyon sonucunda Husilere önemli kayıplar verdirildiğini iddia etti. Bu gelişme, Yemen'de devam eden çatışmaların ve taraflar arasındaki gerilimin sürdüğünü gösteriyor.",
@@ -764,38 +796,6 @@
             "name": "Hürmüz Boğazı"
         },
         "source": "https://www.aa.com.tr/en/middle-east/shipping-groups-urge-un-to-oppose-tolls-in-strait-of-hormuz/4019750",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786009480071vum35",
-        "title": "Güney Lübnan'da Patlayıcı Cihaz Patlamasında 2 İsrail Askeri Hayatını Kaybetti",
-        "summary": "İsrail medyasının bildirdiğine göre, Güney Lübnan'da meydana gelen bir patlayıcı cihaz patlamasında iki İsrail askeri hayatını kaybetti. Olayda dört asker de yaralandı. Bu gelişme, bölgede ilan edilen ateşkese rağmen İsrail'in Lübnan'a yönelik devam eden operasyonları sırasında yaşandı. Patlamanın detayları ve sorumluları hakkında henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982144/pexels-photo-35982144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T09:44:40.071Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-israeli-soldiers-killed-in-explosive-device-blast-in-southern-lebanon/4019715",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1786009501185z805n",
-        "title": "İsrail ordusu Qalandia kampına yönelik saldırılarını 2. günde de sürdürdü, Filistinliler yaralandı",
-        "summary": "İsrail ordusu, Qalandia mülteci kampına yönelik operasyonlarını ikinci gününde de devam ettirdi. Filistinli yetkililerin açıklamasına göre, bölgedeki gerilimin tırmandığı olaylarda çok sayıda Filistinli yaralandı. Üç kişinin ağır yaralandığı belirtilirken, 60 kişinin ise göz yaşartıcı gazdan etkilenerek boğulma tehlikesi geçirdiği bildirildi. Bu gelişmeler, İsrail-Filistin arasındaki çatışma ve güvenlik sorunlarını bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560383/pexels-photo-8560383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T09:45:01.185Z",
-        "location": {
-            "lat": 31.86,
-            "lng": 35.21,
-            "name": "Qalandia, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/world/israeli-army-continues-attacks-on-qalandia-camp-for-2nd-day-injuring-palestinians/4019708",
         "trendScore": 85,
         "isBreaking": false
     }
