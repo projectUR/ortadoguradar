@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786203151672kx4fe",
+        "title": "BAE, İran'ı Hürmüz Boğazı'nda Tanker Saldırısıyla Suçladı",
+        "summary": "Birleşik Arap Emirlikleri (BAE), İran'ı stratejik Hürmüz Boğazı'nda bir ADNOC tankerini hedef almakla suçladı. BAE yetkilileri, saldırıda herhangi bir can kaybı yaşanmadığını bildirdi. Olayın ardından Körfez ve diğer Arap hükümetleri, İran'ın bu eylemini şiddetle kınayan açıklamalar yaptı. Bu gelişme, bölgedeki denizcilik güvenliği ve siyasi gerilimler konusunda endişeleri artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38222995/pexels-photo-38222995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T15:32:31.672Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786203284552l2e4c",
+        "title": "FKÖ: İsrailli Hukuk Grubu Honenu, Batı Şeria'da Şiddetle Suçlanan Yerleşimcileri Finanse Ediyor ve Savunuyor",
+        "summary": "Filistin Kurtuluş Örgütü (FKÖ) ve Filistinli yetkililer, İsrailli sağcı hukuk grubu Honenu'yu işgal altındaki Batı Şeria'da Filistinlilere yönelik saldırılarla suçlanan veya bu saldırılardan hüküm giyen İsrailli yerleşimcilere hukuki ve mali destek sağlamakla itham etti. Yapılan açıklamalarda, Honenu'nun bu eylemlerinin bölgedeki gerilimi artırdığı ve adaletin tecellisini engellediği belirtildi. Filistinli yetkililer, uluslararası toplumu bu tür faaliyetlere karşı harekete geçmeye çağırdı. Bu durum, İsrail-Filistin çatışmasındaki gerilimi ve yerleşimci şiddeti konusundaki endişeleri bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9739636/pexels-photo-9739636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-08T15:34:44.552Z",
+        "location": {
+            "lat": 31.9039,
+            "lng": 35.2035,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-legal-group-honenu-funds-defends-occupiers-accused-of-violence-in-west-bank-plo/4021902",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786197000975cj73a",
         "title": "Yemen Ordusu: Husiler Kızıldeniz'e Füze Fırlattı",
         "summary": "Yemen ordusu, Husilerin Kızıldeniz yönüne füzeler fırlattığını bildirdi. Yapılan açıklamaya göre, söz konusu füzeler ülkenin güneybatısındaki Taiz şehrinin doğusunda bulunan Al-Hawban bölgesindeki Uman Dağı'ndan ateşlendi. Bu gelişme, Yemen'deki çatışmaların ve bölgedeki deniz güvenliğine yönelik potansiyel tehditlerin devam ettiğini gösteriyor.",
@@ -764,38 +796,6 @@
             "name": "Marib, Yemen"
         },
         "source": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17860280399988t82n",
-        "title": "UEFA, Infantino'nun Dünya Kupası Satışından Geri Adım Atmasına Rağmen FIFA Boykotunun Sürdüğünü Açıkladı",
-        "summary": "Avrupa futbolunun yönetim organı UEFA, küresel oyuna dönüşleri için FIFA'nın belirlediği koşulları henüz karşılamadığını duyurdu. Bu açıklama, FIFA Başkanı Gianni Infantino'nun Dünya Kupası'nın ticari haklarının satışı konusunda geri adım atmasına rağmen geldi. UEFA, FIFA ile olan anlaşmazlıkların devam ettiğini ve bu nedenle FIFA etkinliklerine yönelik boykot kararının yürürlükte kaldığını belirtti. Bu durum, iki büyük futbol kurumu arasındaki gerilimin sürdüğünü ve küresel futbol yönetiminde belirsizliklerin devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11964417/pexels-photo-11964417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T14:53:59.998Z",
-        "location": {
-            "lat": 46.38,
-            "lng": 6.23,
-            "name": "Nyon, İsviçre"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/6/uefa-say-fifa-boycott-remains-after-infantino-world-cup-plan-fallout?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786028076051acmcp",
-        "title": "Yapay Zeka Devi Palantir'in Düşük Vergi Oranı ve İsrail Ordusu Bağlantısı Gündemde",
-        "summary": "Yapay zeka teknolojileri şirketi Palantir'in, raporlara göre sadece yüzde 1.4 oranında vergi ödediği ortaya çıktı. 370 milyar dolarlık değere sahip şirketin bu düşük vergi oranı, finansal yapısıyla ilgili tartışmaları beraberinde getirdi. Haberde, Palantir'in geliştirdiği teknolojilerin, İsrail ordusu ve eski ABD Başkanı Trump yönetimi dönemindeki Göçmenlik ve Gümrük Muhafaza (ICE) birimi tarafından kullanıldığı belirtiliyor. Bu durum, şirketin küresel operasyonlarının ve vergi uygulamalarının uluslararası kamuoyunda mercek altına alınmasına yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849395/pexels-photo-11849395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-06T14:54:36.051Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
