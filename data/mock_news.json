@@ -1,5 +1,69 @@
 [
     {
+        "id": "17862896427495midc",
+        "title": "İsrail'de Yaklaşan Ekim Seçimlerinin Bütünlüğüne Yönelik Endişeler Artıyor",
+        "summary": "İsrail'de yaklaşan Ekim seçimlerinin dürüstlüğüne yönelik kamuoyundaki endişeler yükselişe geçti. Yapılan bir anket, İsrailli Yahudilerin yüzde 70'inin seçim bütünlüğüne ilişkin risklerden kaygı duyduğunu ortaya koydu. Bu durum, Başbakan Netanyahu hükümetinin artan eleştirilerle karşı karşıya olduğu bir dönemde yaşanıyor. Kamuoyundaki bu yaygın endişeler, ülkenin siyasi istikrarı ve demokratik süreçlerinin geleceği hakkında önemli soru işaretleri yaratıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5926416/pexels-photo-5926416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T15:34:02.749Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786289680028ikfo6",
+        "title": "İsrail, Trump'ın Gazze Planını Reddetti: Şimdi Ne Olacak?",
+        "summary": "İsrail'in, eski ABD Başkanı Donald Trump tarafından hazırlanan Gazze'ye yönelik 15 maddelik planı reddetmesi bölgedeki durumu yeniden gündeme getirdi. İsrail Başbakanı Binyamin Netanyahu, Gazze Şeridi'nden olası bir çekilmeyi değerlendirmeden önce Hamas'ın 'gerçek' bir şekilde silahsızlandırılmasını şart koştu. Bu gelişme, Gazze'nin geleceği ve bölgedeki siyasi dinamikler üzerinde önemli soruları beraberinde getiriyor. Uluslararası toplumun ve ilgili tarafların atacağı adımlar merakla bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T15:34:40.028Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786289754419uka3b",
+        "title": "Hamas, Trump'ın Gazze planının ikinci aşamasını tamamlama taahhüdünü yineledi",
+        "summary": "Hamas, ABD eski Başkanı Trump'ın Gazze planının ikinci aşamasını tamamlama taahhüdünü yineledi. Bu açıklama, İsrail Başbakanı Netanyahu'nun Trump'ın Barış Kurulu tarafından onaylanan planı reddetmesinin ardından geldi. Netanyahu, İsrail güçlerinin Hamas silahsızlandırılana kadar Gazze'den çekilmeyeceği konusunda ısrar etti. Hamas'ın bu duruşu, İsrail'in güvenlik talepleri ile Filistin tarafının beklentileri arasındaki derin anlaşmazlığı bir kez daha ortaya koydu. Bölgedeki barış çabaları ve siyasi çözüm arayışları bu farklı yaklaşımlar nedeniyle karmaşıklığını koruyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36038715/pexels-photo-36038715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T15:35:54.419Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hamas-reaffirms-commitment-to-completing-2nd-phase-of-trump-s-gaza-plan/4022538",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786289789390oatnv",
+        "title": "Yemen Ordusu, Liman Kenti Saldırısı Sonrası Taiz'deki Husi Mevzilerini Vurdu",
+        "summary": "Yemen ordusu, bir liman kentine düzenlenen saldırının ardından Taiz vilayetindeki Husi mevzilerine topçu ateşi açtı. Hükümete bağlı Saba haber ajansı, eyalette Husilerle çeşitli cephelerde çatışmaların yaşandığını bildirdi. Bu gelişme, bölgedeki askeri gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6670897/pexels-photo-6670897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T15:36:29.390Z",
+        "location": {
+            "lat": 13.57,
+            "lng": 44.02,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-shells-houthi-positions-in-taiz-after-attack-on-port-city/4022488",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786286226931d09aj",
         "title": "Gazalı Mühendis Boş Kutulardan Hayvan Barınakları İnşa Ediyor",
         "summary": "Gazze'de bir mühendis, bölgedeki sokak hayvanları için boş kutuları kullanarak barınaklar inşa etme projesi başlattı. Bu yaratıcı girişim, sınırlı kaynaklara sahip bir bölgede hayvan refahına yönelik önemli bir adım olarak öne çıkıyor. Mühendis, atık malzemeleri değerlendirerek hem çevreye katkıda bulunuyor hem de zorlu koşullarda yaşayan hayvanlara sığınacak bir yer sağlıyor. Proje, yerel halk arasında farkındalık yaratmayı ve benzer sürdürülebilir çözümleri teşvik etmeyi hedefliyor.",
@@ -732,70 +796,6 @@
             "name": "Yemen"
         },
         "source": "https://www.aa.com.tr/en/middle-east/un-envoy-warns-yemen-faces-greater-risk-of-renewed-large-scale-conflict-since-2022-truce/4021553",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786161043102n53a5",
-        "title": "ABD Senatosu'ndan Rusya'ya Yaptırım Kararı: Hindistan ve Çin Etkilenebilir",
-        "summary": "ABD Senatosu, Rusya'ya yönelik yeni ve güçlü yaptırımları onayladı. Trump yönetimi döneminde Rusya'ya karşı atılan en sert adımlardan biri olarak görülen bu yaptırımların, Rusya'nın enerji, finans ve savunma sektörlerini hedef alması bekleniyor. Kararın, Rusya ile yoğun ticari ilişkileri bulunan Hindistan ve Çin gibi ülkelerin ekonomilerini de olumsuz etkileyebileceği belirtiliyor. Bu durumun, küresel enerji piyasaları ve uluslararası ticaret üzerinde dolaylı etkileri olabileceği, Orta Doğu'daki enerji üreticilerini ve Rusya'nın bölgedeki diplomatik ve askeri faaliyetlerini de etkileyebileceği öngörülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11505601/pexels-photo-11505601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T03:50:43.102Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17861611517533bgqe",
-        "title": "Birleşmiş Milletler, Gazze'ye Giren Yardım Malzemelerinde Artış Bildirdi Ancak Kısıtlamalar Sürüyor",
-        "summary": "Birleşmiş Milletler (BM), Gazze Şeridi'ne giren insani yardım malzemelerinde %33'lük bir artış yaşandığını duyurdu. Ancak, BM yetkilileri ve insani yardım ortakları, Gazze'ye girişine izin verilen malzeme türleri üzerindeki önemli kısıtlamaların devam ettiği konusunda uyarıyor. Bu durum, bölgedeki insani ihtiyaçların karşılanmasında ciddi zorluklara yol açmaya devam ediyor ve yardım kuruluşlarının tam kapasiteyle çalışmasını engelliyor. BM, kısıtlamaların kaldırılması ve daha fazla yardımın bölgeye ulaştırılması çağrısını yineledi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38535518/pexels-photo-38535518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T03:52:31.753Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-reports-33-increase-in-aid-supplies-entering-gaza-but-major-restrictions-remain/4021514",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1786155115876nhur1",
-        "title": "Mekke savunma paktı, ABD'nin Orta Doğu'daki rolü için ne anlama gelebilir?",
-        "summary": "Analistler, Orta Doğu'daki bölgesel ortakların güvenliklerini desteklemek amacıyla yeni alternatifler arayışında olduğunu belirtiyor. Bu arayışın, mevcut ABD desteğini tamamen dışlamadan gerçekleştiği ifade ediliyor. Mekke savunma paktı gibi girişimler, bölge ülkelerinin kendi aralarında veya diğer güçlerle yeni güvenlik işbirlikleri kurma çabalarını yansıtabilir. Bu durum, ABD'nin Orta Doğu'daki geleneksel güvenlik rolünün geleceği hakkında tartışmaları beraberinde getiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9487229/pexels-photo-9487229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T02:11:55.876Z",
-        "location": {
-            "lat": 21.42,
-            "lng": 39.83,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786155247658oxxxi",
-        "title": "Batı Şeria'da İsrail Saldırılarında 6 Filistinli Yaralandı",
-        "summary": "Batı Şeria'da İsrail güçlerinin düzenlediği saldırılarda ikisi sağlık görevlisi olmak üzere altı Filistinli yaralandı. Olaylar, Beit Furik'te bir Filistinlinin İsrail güçleri tarafından darp edilerek gözaltına alınmasıyla başladı. Ayrıca, Nablus ve Beytüllahim bölgelerinde Yahudi yerleşimcilerin sivillere ve ambulans ekiplerine saldırdığı bildirildi. Bu gelişmeler, bölgedeki gerilimin arttığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10179363/pexels-photo-10179363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T02:14:07.658Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-including-2-medics-injured-in-israeli-attacks-in-west-bank/4021510",
         "trendScore": 85,
         "isBreaking": false
     }
