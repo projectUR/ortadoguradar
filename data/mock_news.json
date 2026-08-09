@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786247314731np5j6",
+        "title": "İsrail, Gazze'den kısmi çekilmeyi ve çok uluslu güç konuşlandırmayı değerlendiriyor: Rapor",
+        "summary": "Kanal 12'nin haberine göre, İsrail güvenlik yetkilileri, Gazze Şeridi'nin belirli bölgelerinden İsrail askerlerinin kısmen çekilmesini ve yerlerine 'Uluslararası İstikrar Gücü' konuşlandırılmasını içeren bir planı değerlendiriyor. Bu planın, Gazze'deki mevcut askeri varlığın yeniden yapılandırılmasına yönelik bir adım olduğu belirtiliyor. Görüşmelerin, bölgedeki güvenlik durumunu istikrara kavuşturma ve gelecekteki yönetişim yapısı üzerine odaklandığı ifade ediliyor. Henüz planlama aşamasında olan bu önerinin, uluslararası toplumun da katılımıyla hayata geçirilmesi hedefleniyor. Nihai bir kararın henüz alınmadığı vurgulanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T03:48:34.731Z",
+        "location": {
+            "lat": 31.4,
+            "lng": 34.3,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-considers-partial-gaza-withdrawal-multinational-force-deployment-report/4022212",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786240569183g33a3",
         "title": "Batı Şeria'da İsrailli Yerleşimci Saldırıları Artarken Filistinliler Toprak Kaybediyor",
         "summary": "Batı Şeria genelinde İsrailli yerleşimciler tarafından gerçekleştirilen saldırıların arttığı bildiriliyor. Beytüllahim yakınlarında yaşayan Filistinliler, bölgede yükselen şiddetle birlikte günlük saldırılara maruz kaldıklarını ifade ediyor. Bu saldırılar sonucunda Filistinlilerin toprak kayıpları yaşadığı belirtilirken, bölgedeki gerilimin tırmandığına dikkat çekiliyor. Durum, Batı Şeria'daki güvenlik ve insan hakları endişelerini artırıyor.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786090637496dx6ny",
-        "title": "Türkiye, Suudi Arabistan ve Pakistan Arasında Üçlü Savunma Anlaşması İmzalanacak",
-        "summary": "Türkiye, Suudi Arabistan ve Pakistan arasında üçlü bir savunma anlaşması imzalanacağı bildirildi. Güvenlik kaynaklarından edinilen bilgilere göre, söz konusu anlaşma Türkiye Cumhurbaşkanı Erdoğan'ın Suudi Arabistan'a gerçekleştireceği çalışma ziyareti kapsamında Cidde'de resmiyet kazanacak. Bu anlaşmanın, üç ülke arasındaki savunma ve güvenlik işbirliğini pekiştirmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11296102/pexels-photo-11296102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T08:17:17.496Z",
-        "location": {
-            "lat": 21.5,
-            "lng": 39.2,
-            "name": "Cidde, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-pakistan-to-sign-trilateral-defense-agreement/4020757",
         "trendScore": 85,
         "isBreaking": false
     }
