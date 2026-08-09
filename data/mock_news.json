@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786286226931d09aj",
+        "title": "Gazalı Mühendis Boş Kutulardan Hayvan Barınakları İnşa Ediyor",
+        "summary": "Gazze'de bir mühendis, bölgedeki sokak hayvanları için boş kutuları kullanarak barınaklar inşa etme projesi başlattı. Bu yaratıcı girişim, sınırlı kaynaklara sahip bir bölgede hayvan refahına yönelik önemli bir adım olarak öne çıkıyor. Mühendis, atık malzemeleri değerlendirerek hem çevreye katkıda bulunuyor hem de zorlu koşullarda yaşayan hayvanlara sığınacak bir yer sağlıyor. Proje, yerel halk arasında farkındalık yaratmayı ve benzer sürdürülebilir çözümleri teşvik etmeyi hedefliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10804575/pexels-photo-10804575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T14:37:06.931Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "178628627980633jbm",
+        "title": "Suriye, Rus üslerinin geleceği konusunda Moskova ile anlaşmaya vardığını duyurdu",
+        "summary": "Suriye, Rusya ile ülkesindeki Rus askeri üslerinin geleceğine dair bir anlaşmaya varıldığını açıkladı. Yapılan duyuruya göre, Hmeymim Hava Üssü ve Tartus Deniz Üssü, yeni anlaşma kapsamında ortak eğitim ve kapasite geliştirme merkezleri olarak faaliyet gösterecek. Bu gelişme, iki ülke arasındaki askeri işbirliğinde yeni bir dönemi işaret ediyor. Anlaşma, Rusya'nın Suriye'deki stratejik varlığının devamlılığını ve bölgesel güvenlik dinamikleri üzerindeki potansiyel etkilerini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11608634/pexels-photo-11608634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T14:37:59.806Z",
+        "location": {
+            "lat": 35.5167,
+            "lng": 35.7833,
+            "name": "Latakia, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786283517701be6m5",
         "title": "İran, kendisini fethetmeye çalışan imparatorlukları neden mağlup ediyor?",
         "summary": "\"Deja Vu\" adlı programın ikinci bölümünde, İran'ın tarihi boyunca kendisini fethetmeye çalışan imparatorlukları neden mağlup ettiği inceleniyor. Program, İran'ı şekillendirmeye çalışan büyük güçlerle olan ilişkilerine odaklanıyor. Bu analiz, ülkenin jeopolitik konumunu ve kültürel direncini ele alarak, dış müdahalelere karşı gösterdiği mukavemeti tarihsel bir perspektiften değerlendiriyor. Haber, İran'ın bölgesel ve küresel güçlerle olan etkileşimlerinin derinlemesine bir incelemesini sunuyor.",
@@ -764,38 +796,6 @@
             "name": "Nablus, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-including-2-medics-injured-in-israeli-attacks-in-west-bank/4021510",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17861441106018u6k4",
-        "title": "Yemenli Güç, Marib'de Husilere Kayıplar Verdirildiğini Açıkladı",
-        "summary": "Yemen'deki Şebve Savunma Güçleri, Marib vilayetinde Husilere karşı bir misilleme operasyonu düzenlediğini duyurdu. Yapılan açıklamada, operasyonun iki savaşçılarının insansız hava aracı saldırısında hayatını kaybetmesinin ardından başlatıldığı belirtildi. Güçler, bu operasyon sonucunda Husilere önemli kayıplar verdirildiğini iddia etti. Bu gelişme, Yemen'de devam eden çatışmaların ve taraflar arasındaki gerilimin sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T23:08:30.601Z",
-        "location": {
-            "lat": 15.46,
-            "lng": 45.33,
-            "name": "Marib, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-force-says-retaliatory-operation-inflicted-losses-on-houthis-in-marib/4021501",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786137084184hi460",
-        "title": "Lübnan, İsrail Görüşmelerinde Sınırlar ve Esirler Konusunda 'Olumlu İlerleme' Kaydedildiğini Belirtti",
-        "summary": "Lübnan, İsrail ile yürütülen görüşmelerin yedinci turunun ardından, sınırlar ve esirler konularında \"olumlu ilerleme\" kaydedildiğini açıkladı. Beyrut'tan gelen bu iyimser açıklamalar, güney Lübnan'da yeni İsrail saldırılarının rapor edildiği bir dönemde geldi. İki ülke arasındaki müzakereler, bölgedeki uzun süreli anlaşmazlıkları çözme ve gerilimi azaltma çabalarının bir parçası olarak devam ediyor. Taraflar arasındaki diyaloğun sürdüğü belirtilirken, görüşmelerin gelecekteki adımları ve detayları hakkında henüz net bir bilgi verilmedi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6598770/pexels-photo-6598770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T21:11:24.184Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
