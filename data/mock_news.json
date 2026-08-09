@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786318412413gowj7",
+        "title": "Filistinli Gazeteciler Sendikası: Temmuz Ayında 108 Gazeteciye Saldırı Düzenlendi",
+        "summary": "Filistinli Gazeteciler Sendikası (PJS), Temmuz ayında Filistinli gazetecilere yönelik 108 saldırı kaydedildiğini bildirdi. Sendika, bölgedeki gazetecilere yönelik tehditlerin giderek arttığına dikkat çekti. Raporda ayrıca, Ekim 2023'ten bu yana Gazze Şeridi'nde 270'ten fazla gazetecinin hayatını kaybettiği belirtildi. Bu durum, gazetecilik mesleğinin icrası sırasında karşılaşılan ciddi güvenlik risklerini ve insan hakları ihlallerini gözler önüne seriyor. Sendika, uluslararası toplumu gazetecilerin korunması için acil önlem almaya çağırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10464476/pexels-photo-10464476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T23:33:32.413Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786318466970ycn8t",
+        "title": "The Elders: İsrail, 'Filistin'i yok etmeye çalışıyor'",
+        "summary": "The Elders adlı küresel liderler grubunun bir üyesi olan eski İrlanda Cumhurbaşkanı Mary Robinson, İsrail'in Filistin'i \"fiziksel, ekonomik, kültürel ve siyasi olarak ortadan kaldırmaya çalıştığını\" iddia etti. Robinson'ın bu açıklamaları, İsrail'in Filistin topraklarındaki eylemlerine yönelik uluslararası eleştirileri ve endişeleri yansıtmaktadır. Bağımsız liderlerden oluşan The Elders grubu, küresel barış ve insan hakları konularında çalışmalar yürütmektedir. Bu tür açıklamalar, İsrail-Filistin çatışmasının uluslararası arenadaki tartışmalarını ve diplomatik baskıları artırma potansiyeli taşımaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8660631/pexels-photo-8660631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T23:34:26.970Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786307728883bvfpj",
         "title": "Filistinliler, Netanyahu'nun Kararlarının Barışa 'Açık Bir Yol Bırakmadığını' Belirtiyor",
         "summary": "Filistinli yetkililer, İsrail Başbakanı Binyamin Netanyahu'nun aldığı kararların bölgedeki barış sürecini olumsuz etkilediğini açıkladı. Yapılan değerlendirmelerde, bu kararların barışa ulaşmak için 'açık bir yol bırakmadığı' ve mevcut durumun 'geriye doğru gittiği' belirtildi. Bu gelişmelerin, İsrail-Filistin arasındaki çözüm arayışlarını ve müzakereleri daha da karmaşık hale getirdiği ifade ediliyor. Filistin tarafı, atılan adımların bölgedeki gerilimi artırdığını ve uzun vadeli bir barış anlaşmasına ulaşma umutlarını azalttığını vurguladı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-engage-hostile-drone-west-of-aden/4021704",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786178784204sapha",
-        "title": "İsrail, iki askerinin patlamada ölmesinin ardından Güney Lübnan'ı vurdu",
-        "summary": "İsrail ordusu, iki askerinin bir patlamada hayatını kaybetmesinin ardından Güney Lübnan'a hava saldırıları düzenledi. Lübnan makamları, İsrail'in düzenlediği bu saldırılarda bir kişinin yaşamını yitirdiğini bildirdi. Bu olay, bir aydan uzun bir süredir Lübnan'da ilk kez İsrail askeri kaybının yaşanmasıyla dikkat çekti. Bölgedeki gerilim, son gelişmelerle birlikte yeniden tırmanışa geçti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T08:46:24.204Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.4,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1786175663498z2fy2",
-        "title": "Şiddet, Filistinli Hristiyanları Kutsal Topraklarından Göçe Zorluyor",
-        "summary": "Filistinli Hristiyanlar, Gazze, Kudüs ve işgal altındaki Batı Şeria genelinde şiddet ve yerinden edilme sorunlarıyla karşı karşıya kalıyor. Kutsal Topraklar'daki bu topluluk, artan şiddet olayları nedeniyle yaşadıkları bölgeleri terk etmek zorunda kalıyor. Bu durum, Filistinli Hristiyanların bölgedeki varlığının tehdit altında olduğunu ve demografik yapıyı değiştirebileceğini gösteriyor. Haber, bu topluluğun karşılaştığı zorluklara dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38431289/pexels-photo-38431289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T07:54:23.498Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
