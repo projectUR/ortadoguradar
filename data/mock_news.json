@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786296969817lkmcc",
+        "title": "Suriye ve Rusya, Hmeymim ve Tartus Üslerindeki Askeri Varlığı Yeniden Düzenleme Konusunda Anlaştı",
+        "summary": "Suriye Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Suriye ve Rusya, Rusya'nın Suriye'deki Hmeymim ve Tartus üslerindeki askeri varlığını yeniden düzenlemek üzere bir anlaşmaya vardı. Anlaşma uyarınca, Hmeymim Havalimanı ve Tartus Limanı'nın bir kısmının sivil yönetim altına alınması öngörülüyor. Ayrıca, askeri tesislerin üç ay içinde ortak eğitim merkezlerine dönüştürüleceği belirtildi. Bu düzenleme, iki ülke arasındaki askeri işbirliğinin niteliğinde önemli bir değişikliği ve bölgesel güvenlik dinamiklerinde yeni bir aşamayı temsil ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8730908/pexels-photo-8730908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T17:36:09.817Z",
+        "location": {
+            "lat": 35.5167,
+            "lng": 35.7833,
+            "name": "Latakia, Syria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-russia-reach-deal-to-reorganize-russian-military-presence-at-hmeimim-tartus-bases/4022490",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17862896427495midc",
         "title": "İsrail'de Yaklaşan Ekim Seçimlerinin Bütünlüğüne Yönelik Endişeler Artıyor",
         "summary": "İsrail'de yaklaşan Ekim seçimlerinin dürüstlüğüne yönelik kamuoyundaki endişeler yükselişe geçti. Yapılan bir anket, İsrailli Yahudilerin yüzde 70'inin seçim bütünlüğüne ilişkin risklerden kaygı duyduğunu ortaya koydu. Bu durum, Başbakan Netanyahu hükümetinin artan eleştirilerle karşı karşıya olduğu bir dönemde yaşanıyor. Kamuoyundaki bu yaygın endişeler, ülkenin siyasi istikrarı ve demokratik süreçlerinin geleceği hakkında önemli soru işaretleri yaratıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/un-security-council-condemns-houthi-missile-attacks-unauthorized-yemen-flights/4021572",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786175785031449gd",
-        "title": "BM Temsilcisi Yemen'de Yeniden Büyük Çaplı Çatışma Riskine Karşı Uyardı",
-        "summary": "Birleşmiş Milletler Yemen Özel Temsilcisi Hans Grundberg, ülkede 2022'deki ateşkes anlaşmasından bu yana en büyük çaplı çatışmanın yeniden başlama riskinin bulunduğunu belirtti. Grundberg, taraflara azami itidal göstermeleri ve askeri misillemeyi teşvik eden eylemlerden kaçınmaları çağrısında bulundu. Bu uyarı, Yemen'deki kırılgan barış sürecinin ciddi tehdit altında olduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T07:56:25.031Z",
-        "location": {
-            "lat": 15.55,
-            "lng": 48.51,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-envoy-warns-yemen-faces-greater-risk-of-renewed-large-scale-conflict-since-2022-truce/4021553",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
