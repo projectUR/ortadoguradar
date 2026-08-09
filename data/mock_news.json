@@ -1,5 +1,53 @@
 [
     {
+        "id": "17862651814614wv5o",
+        "title": "Suudi Arabistan, Cizan'daki Aramco tesisinde çıkan yangının söndürüldüğünü açıkladı",
+        "summary": "Suudi Arabistan Enerji Bakanlığı, ülkenin güneybatısındaki Cizan şehrinde bulunan devlete ait petrol şirketi Aramco'ya ait bir tesiste yangın çıktığını duyurdu. Pazar sabahı erken saatlerde başlayan yangının kontrol altına alınarak söndürüldüğü belirtildi. Bakanlık tarafından yapılan açıklamada, olayda herhangi bir can kaybının yaşanmadığı bilgisi verildi. Bu olay, bölgedeki enerji altyapısının güvenliği ve operasyonel sürekliliği açısından önem taşıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/6692312/pexels-photo-6692312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T08:46:21.461Z",
+        "location": {
+            "lat": 16.89,
+            "lng": 42.56,
+            "name": "Cizan, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1786265204943xaz8k",
+        "title": "Nagasaki Belediye Başkanı: 'İnsanlık ve Nükleer Silahlar Bir Arada Var Olamaz'",
+        "summary": "Japonya, ABD'nin atom bombası saldırısının yıl dönümünü anarken, Nagasaki Belediye Başkanı yaptığı açıklamada \"insanlık ve nükleer silahların bir arada var olamayacağını\" vurguladı. Belediye Başkanı, nükleer silahsız bir dünya çağrısını yineleyerek, bu tür silahların insanlık için oluşturduğu tehdide dikkat çekti. İkinci Dünya Savaşı'nda yaşanan trajik olayın anma törenleri kapsamında yapılan bu açıklama, küresel nükleer silahsızlanma çabalarına verilen desteği pekiştirdi. Bu mesaj, nükleer silahların yayılmasının endişe kaynağı olduğu bölgelerde de yankı bulmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T08:46:44.943Z",
+        "location": {
+            "lat": 32.75,
+            "lng": 129.8667,
+            "name": "Nagasaki, Japonya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786265261667ebsi6",
+        "title": "Yemen hükümet güçleri güneyde Husilere ait mevzileri vurduğunu açıkladı",
+        "summary": "Yemen hükümet güçleri, ülkenin güneyindeki Ad Dali vilayetinde Husilere ait mevzilere ve askeri teçhizata yönelik insansız hava aracı (İHA) saldırıları düzenlediğini bildirdi. Güney güçleri tarafından yapılan açıklamada, saldırıların Ad Dali vilayetindeki çeşitli cephe hatları boyunca gerçekleştirildiği belirtildi. Bu saldırıların, bölgedeki çatışmaların devam ettiğini ve gerilimin sürdüğünü gösterdiği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T08:47:41.667Z",
+        "location": {
+            "lat": 13.78,
+            "lng": 44.73,
+            "name": "Ad Dali, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-struck-houthi-positions-in-south/4022293",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
         "id": "1786260820160akqmo",
         "title": "İsrail, işgal altındaki Batı Şeria'da 627 yeni yerleşim birimi için ihale açtığını duyurdu",
         "summary": "İsrail, işgal altındaki Batı Şeria'da 627 yeni yerleşim birimi inşa etmek üzere ihale açtığını bildirdi. Bu adım, uluslararası hukuka göre yasa dışı kabul edilen yerleşim faaliyetlerinin devamı niteliğindedir. Filistinli yetkililer, yeni yerleşim ihalesinin İsrail'in Filistinlilerin Kudüs ile bağlarını koparma çabalarını derinleştirdiği uyarısında bulundu. Söz konusu yerleşim birimlerinin inşası, bölgedeki gerilimi artırma ve iki devletli çözüm umutlarını zayıflatma potansiyeli taşıyor.",
@@ -748,54 +796,6 @@
             "name": "Mekke, Suudi Arabistan"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17861082233080dhs5",
-        "title": "Arjantin ve Meksika, FIFA Başkanı Infantino'ya Destek Veren Afrika Ülkelerine Katıldı",
-        "summary": "FIFA başkanlığına ilişkin son gelişmelerde, Norveç'in mevcut başkan Gianni Infantino'nun istifasını talep ettiği bildirildi. Ancak, Arjantin ve Meksika'nın, Infantino'ya destek veren Afrika ülkeleri safına katıldığı belirtildi. Bu durum, küresel futbol yönetimindeki güç dengelerini ve Infantino'nun liderliğine yönelik farklı yaklaşımları gözler önüne seriyor. Infantino'nun başkanlığı döneminde, özellikle Katar'da düzenlenen Dünya Kupası ile Orta Doğu'daki futbol federasyonları ve bölge için önemli gelişmeler yaşanmıştı. Bu uluslararası destekler, Infantino'nun FIFA içindeki konumunu güçlendirme potansiyeli taşımaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38862934/pexels-photo-38862934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T13:10:23.308Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/7/fifas-infantino-backed-by-argentina-and-mexico-deepening-world-cup-divide?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786108295035uoz87",
-        "title": "İspanya'nın Ceuta Enklavına Paraşütle Girmeye Çalışan Göçmen Hayatını Kaybetti",
-        "summary": "İspanya'nın Kuzey Afrika'daki Ceuta enklavına Fas tarafından paraşütle girmeye çalışan genç bir göçmen denize düşerek hayatını kaybetti. Olay, Fas sınırı yakınlarında meydana geldi ve görgü tanıklarının ifadelerine göre, genç adam paraşütün kontrolünü kaybettikten sonra denize düştü. Bu trajik olay, Avrupa'ya ulaşmak isteyen göçmenlerin karşılaştığı tehlikeleri ve başvurdukları riskli yöntemleri bir kez daha gözler önüne serdi. Ceuta ve Melilla gibi İspanyol enklavları, Afrika'dan Avrupa'ya geçiş için önemli ve zorlu güzergahlardan biri olarak biliniyor. Bölgede düzensiz göç girişimleri sıklıkla yaşanmaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/13348495/pexels-photo-13348495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T13:11:35.035Z",
-        "location": {
-            "lat": 35.89,
-            "lng": -5.31,
-            "name": "Ceuta, İspanya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/migrant-dies-in-paraglider-attempt-to-enter-spain-s-ceuta/4021120",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786103313795xox6y",
-        "title": "Kuzey Etiyopya'da Değişen İttifaklar",
-        "summary": "Kuzey Etiyopya'da Tigray Halk Kurtuluş Cephesi (TPLF), Fano milisleri ve Eritre güçleri arasında yeni ittifaklar kurulduğu ve çatışma hatlarının yeniden çizildiği bildirildi. Bölgedeki güç dengelerinin değiştiği ve bu durumun Etiyopya'nın kuzeyindeki istikrarsızlığı artırabileceği belirtiliyor. Gelişmeler, bölgedeki güvenlik dinamiklerini yakından takip eden uluslararası aktörler tarafından dikkatle izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19960366/pexels-photo-19960366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T11:48:33.795Z",
-        "location": {
-            "lat": 9,
-            "lng": 38.75,
-            "name": "Addis Ababa, Etiyopya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
