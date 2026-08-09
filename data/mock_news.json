@@ -1,5 +1,53 @@
 [
     {
+        "id": "1786240569183g33a3",
+        "title": "Batı Şeria'da İsrailli Yerleşimci Saldırıları Artarken Filistinliler Toprak Kaybediyor",
+        "summary": "Batı Şeria genelinde İsrailli yerleşimciler tarafından gerçekleştirilen saldırıların arttığı bildiriliyor. Beytüllahim yakınlarında yaşayan Filistinliler, bölgede yükselen şiddetle birlikte günlük saldırılara maruz kaldıklarını ifade ediyor. Bu saldırılar sonucunda Filistinlilerin toprak kayıpları yaşadığı belirtilirken, bölgedeki gerilimin tırmandığına dikkat çekiliyor. Durum, Batı Şeria'daki güvenlik ve insan hakları endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/334201/pexels-photo-334201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T01:56:09.183Z",
+        "location": {
+            "lat": 31.705,
+            "lng": 35.2,
+            "name": "Beytüllahim, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786240608895uj5yn",
+        "title": "Tahran, Hürmüz Boğazı'nın Yeniden Açılması İçin ABD Ablukasının Sona Ermesini İstiyor",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı'nın yeniden açılması için belirli şartlar öne sürdü. Bu gelişme, ABD'nin boğazdaki gemilere yönelik saldırıların sona erdirilmesi konusunda taahhütler aradığı bir dönemde yaşandı. Tahran yönetimi, boğazın tam olarak işlevsel hale gelmesi için ABD tarafından uygulanan ablukanın kaldırılmasını talep ediyor. Bölgedeki denizcilik güvenliği ve uluslararası ticaret yolları üzerindeki gerilimler, bu karşılıklı taleplerle birlikte artış gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T01:56:48.895Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17862406940585elrx",
+        "title": "Suudi Arabistan'ın Jubail Kentinde Gaz Tesislerinde Patlama ve Yangın Bildirildi",
+        "summary": "Suudi Arabistan'ın doğusundaki sanayi kenti Jubail'de gaz tesislerinde şiddetli bir patlama meydana geldiği ve ardından yangın çıktığı bildirildi. Arap kaynaklarına dayandırılan haberlere göre, tesislerin hedef alındığı ve patlamanın ardından alevlerin yükseldiği belirtildi. İran'ın Tasnim Haber Ajansı da bu bilgiyi teyit etti. Olayın nedeni ve olası can veya mal kaybına ilişkin henüz resmi bir açıklama yapılmazken, yetkililerin inceleme başlattığı öğrenildi. Bölgedeki durum yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9065337/pexels-photo-9065337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T01:58:14.058Z",
+        "location": {
+            "lat": 27,
+            "lng": 49.67,
+            "name": "Jubail, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/world/explosion-heard-in-saudi-arabias-jubail-as-fire-reported-at-gas-facilities-sources/4022196",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1786231952412kf27j",
         "title": "Suudi Arabistan'dan Türkiye ve Pakistan ile Savunma Yakınlaşması",
         "summary": "Suudi Arabistan'ın savunma alanında Türkiye ve Pakistan ile ilişkilerini güçlendirme arayışına girmesi, ülkenin ABD'ye olan geleneksel bağımlılığına dair soruları gündeme getirdi. Bu stratejik yönelim değişikliği, Riyad'ın dış politika ve güvenlik yaklaşımlarında potansiyel bir dönüşüme işaret ediyor. Bölgesel güç dengelerini etkileyebilecek bu gelişme, aynı zamanda \"Mekke anlaşması\"nın karşılaştığı zorluklar bağlamında da değerlendiriliyor. Suudi Arabistan'ın bu adımı, Orta Doğu'daki ittifak yapıları ve uluslararası ilişkiler üzerinde önemli sonuçlar doğurabilir.",
@@ -748,54 +796,6 @@
             "name": "Cidde, Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-pakistan-to-sign-trilateral-defense-agreement/4020757",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786090657487pr8jy",
-        "title": "Cumhurbaşkanı Erdoğan, Suudi Arabistan'da Prens Selman ve Pakistan Başbakanı ile görüşecek",
-        "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan'a tek günlük bir çalışma ziyareti gerçekleştirmek üzere yola çıktı. Ziyaret kapsamında Cumhurbaşkanı Erdoğan'ın, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir araya gelmesi bekleniyor. Görüşmelere Pakistan Başbakanı Şahbaz Şerif'in de katılması planlanıyor. Bu önemli zirvede, üç ülke arasındaki ikili ilişkiler, bölgesel konular ve işbirliği fırsatlarının ele alınacağı tahmin ediliyor. Ziyaretin, bölgedeki diplomatik ilişkileri güçlendirmesi hedefleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T08:17:37.487Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.6,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkish-president-departs-for-saudi-arabia-for-talks-with-saudi-crown-prince-pakistani-premier/4020687",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17860906783078ui3f",
-        "title": "Pakistan Başbakanı Suudi Arabistan Ziyaretinde Erdoğan ve MBS ile Görüşecek",
-        "summary": "Pakistan Başbakanı Şehbaz Şerif, Suudi Arabistan'a resmi bir ziyaret gerçekleştirmeye başladı. Ziyaret kapsamında Şerif'in, Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan ile bir araya gelmesi bekleniyor. Ayrıca, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile de görüşmeler yapacağı belirtildi. Bu üst düzey görüşmelerin bölgesel işbirliği, ikili ilişkiler ve ortak çıkarlar üzerine odaklanması öngörülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T08:17:58.307Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-premier-kicks-off-saudi-arabia-visit/4020678",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17860907004722xtoq",
-        "title": "İsrail ordusu, baskında 51 Filistinliyi yaralamasının ardından Kalandiya mülteci kampından çekildi",
-        "summary": "İsrail ordusu, yaklaşık iki gün süren askeri operasyonun ardından Kalandiya mülteci kampından çekildi. İşgal altındaki Doğu Kudüs'ün kuzeyinde gerçekleşen baskında 51 Filistinli yaralandı. Operasyon sırasında 60'tan fazla Filistinli gözaltına alındı veya sorgulandı. Bu olay, bölgedeki gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T08:18:20.472Z",
-        "location": {
-            "lat": 31.85,
-            "lng": 35.21,
-            "name": "Kalandiya, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-withdraws-from-qalandia-refugee-camp-after-raid-injures-51-palestinians/4020658",
         "trendScore": 85,
         "isBreaking": false
     }
