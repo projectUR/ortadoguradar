@@ -1,5 +1,21 @@
 [
     {
+        "id": "17862751261902aqbq",
+        "title": "Yemen ordusu, saldırıların gerilimi tırmandırması sonrası Husileri uyardı",
+        "summary": "Yemen ordusu, ülkedeki Husilere yönelik bir uyarı yayınladı. Bu uyarı, son dönemde artan saldırıların bölgedeki gerilimi tırmandırma riskini artırmasının ardından geldi. Ordu, Husilerin eylemlerinin çatışmayı daha da derinleştirebileceği konusunda ikazda bulunarak, bölgedeki güvenlik durumunun bu gelişmelerle birlikte daha da hassas bir hal aldığını belirtti. Taraflar arasındaki gerilimin tırmanması, Yemen'deki insani krizi ve siyasi istikrarsızlığı daha da kötüleştirebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T11:32:06.190Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 44.5,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786271842822l4stb",
         "title": "Fas ve Cezayir WAFCON Yarı Finallerine Yükseldi ve FIFA Dünya Kupası'na Katılmaya Hak Kazandı",
         "summary": "Kuzey Afrika ülkeleri Fas ve Cezayir, Afrika Kadınlar Uluslar Kupası (WAFCON) yarı finallerine yükselerek önemli bir başarıya imza attı. Bu iki ülke, gelecek yıl Brezilya'da düzenlenecek olan FIFA Dünya Kupası'na kıtadan katılmaya hak kazanan ilk takımlar oldu. Bu tarihi başarı, her iki ülkenin kadın futbolu için bir dönüm noktası olarak kabul ediliyor ve ulusal çapta büyük sevinçle karşılandı.",
@@ -780,22 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786126456794sum30",
-        "title": "İran Cumhurbaşkanı: ABD Mutabakat Zaptı Eleştirmenleri İsrail'in Söylemini Yankılıyor",
-        "summary": "İran Cumhurbaşkanı Pezeshkian, ABD ile yapılan bir mutabakat zaptını eleştirenlerin İsrail'in söylemini tekrarladığını belirtti. Pezeshkian, istifa spekülasyonlarını reddederek, söz konusu mutabakat zaptını kararlılıkla savunacağını vurguladı. Bu açıklamalar, İran'ın uluslararası ilişkilerindeki hassas dengeyi ve iç siyasi tartışmaları gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4427544/pexels-photo-4427544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T18:14:16.794Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-president-says-critics-of-memorandum-with-us-echo-israel-s-narrative/4021470",
         "trendScore": 85,
         "isBreaking": false
     }
