@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786280185003snum4",
+        "title": "ABD ve İran Dolaylı Müzakerelerde Anlaşmazlık Yaşıyor",
+        "summary": "ABD ve İran arasında yürütülen dolaylı müzakerelerde tarafların birbirini anlamakta zorlandığı belirtildi. Yetkililer, görüşmelerde tarafların 'birbirinin yanından geçtiğini' ve ortak bir zemin bulmakta güçlük çektiğini ifade etti. Bu durum, iki ülke arasındaki derin anlaşmazlıkların devam ettiğini ve diplomatik çabaların ilerlemesini engellediğini gösteriyor. Müzakerelerin genellikle nükleer program, yaptırımlar ve bölgesel güvenlik konularına odaklandığı biliniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6918529/pexels-photo-6918529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T12:56:25.003Z",
+        "location": {
+            "lat": 25.3,
+            "lng": 51.5,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17862751261902aqbq",
         "title": "Yemen ordusu, saldırıların gerilimi tırmandırması sonrası Husileri uyardı",
         "summary": "Yemen ordusu, ülkedeki Husilere yönelik bir uyarı yayınladı. Bu uyarı, son dönemde artan saldırıların bölgedeki gerilimi tırmandırma riskini artırmasının ardından geldi. Ordu, Husilerin eylemlerinin çatışmayı daha da derinleştirebileceği konusunda ikazda bulunarak, bölgedeki güvenlik durumunun bu gelişmelerle birlikte daha da hassas bir hal aldığını belirtti. Taraflar arasındaki gerilimin tırmanması, Yemen'deki insani krizi ve siyasi istikrarsızlığı daha da kötüleştirebilir.",
@@ -780,22 +796,6 @@
             "name": "İspanya"
         },
         "source": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786126432779spe2o",
-        "title": "Suudi Arabistan, Türkiye ve Pakistan Savunma Anlaşması İmzaladı",
-        "summary": "Suudi Arabistan, Türkiye ve Pakistan arasında önemli bir savunma anlaşması imzalandığı duyuruldu. Pakistan tarafından yapılan açıklamada, bu üç ülkeden herhangi birine yönelik bir saldırının, tüm müttefiklere karşı yapılmış bir saldırı olarak değerlendirileceği vurgulandı. Anlaşmanın, Orta Doğu'da devam eden çatışmaların ortasında gerçekleşmesi dikkat çekti. Bu paktın, bölgesel güvenlik dinamiklerini etkilemesi ve yeni bir işbirliği platformu oluşturması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12357501/pexels-photo-12357501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T18:13:52.779Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6061,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
