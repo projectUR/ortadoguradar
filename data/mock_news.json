@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786307728883bvfpj",
+        "title": "Filistinliler, Netanyahu'nun Kararlarının Barışa 'Açık Bir Yol Bırakmadığını' Belirtiyor",
+        "summary": "Filistinli yetkililer, İsrail Başbakanı Binyamin Netanyahu'nun aldığı kararların bölgedeki barış sürecini olumsuz etkilediğini açıkladı. Yapılan değerlendirmelerde, bu kararların barışa ulaşmak için 'açık bir yol bırakmadığı' ve mevcut durumun 'geriye doğru gittiği' belirtildi. Bu gelişmelerin, İsrail-Filistin arasındaki çözüm arayışlarını ve müzakereleri daha da karmaşık hale getirdiği ifade ediliyor. Filistin tarafı, atılan adımların bölgedeki gerilimi artırdığını ve uzun vadeli bir barış anlaşmasına ulaşma umutlarını azalttığını vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/886616/pexels-photo-886616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T20:35:28.883Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786304220330hj7s5",
         "title": "BM Göç Ajansı: Sudan'ın Batı Darfur Bölgesi'nde Artan Güvensizlik 5.000'den Fazla Kişiyi Yerinden Etti",
         "summary": "Birleşmiş Milletler Göç Ajansı (IOM), Sudan'ın Batı Darfur eyaletinde kötüleşen güvenlik durumu nedeniyle 5.000'den fazla kişinin yerinden edildiğini bildirdi. Ajans tarafından yapılan açıklamada, yerinden edilen hanelerin büyük çoğunluğunun komşu Çad'a sığınmak zorunda kaldığı belirtildi. Bölgedeki çatışmalar ve şiddet olayları, sivillerin yaşamını doğrudan etkileyerek geniş çaplı insani krizlere yol açmaya devam ediyor. Bu durum, Darfur'daki istikrarsızlığın bölgesel etkilerini ve insani yardım ihtiyacının aciliyetini bir kez daha gözler önüne seriyor. Uluslararası toplum, bölgedeki insani durumu yakından takip ediyor ve yardım çabalarını sürdürüyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17861757039899aluz",
-        "title": "İİT'den Türkiye-Suudi Arabistan-Pakistan Ortak Savunma Anlaşması'na 'Tarihi' Destek",
-        "summary": "İslam İşbirliği Teşkilatı (İİT), Türkiye, Suudi Arabistan ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nı 'tarihi' bir gelişme olarak memnuniyetle karşıladığını duyurdu. Cuma günü imzalanan bu pakt, üç ülke arasındaki savunma işbirliğini ve bölgesel güvenliği artırmayı amaçlıyor. Anlaşmanın, katılımcı ülkelerin askeri kapasitelerini güçlendirerek stratejik ortaklıklarını derinleştirmesi bekleniyor. İİT yetkilileri, bu işbirliğinin İslam dünyasının dayanışmasına ve istikrarına önemli katkılar sağlayacağını belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19189926/pexels-photo-19189926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T07:55:03.989Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oic-welcomes-historic-turkish-saudi-pakistani-joint-defense-pact/4021613",
         "trendScore": 85,
         "isBreaking": false
     }
