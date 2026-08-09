@@ -1,5 +1,21 @@
 [
     {
+        "id": "17862521929277ex4q",
+        "title": "Ürdün ve Bahreyn Dışişleri Bakanları Bölgesel Gerilimleri ve İlişkileri Ele Aldı",
+        "summary": "Ürdün Dışişleri Bakanı Ayman Safadi ve Bahreyn Dışişleri Bakanı Abdullatif Al Zayani, bölgesel gerilimleri ve ikili ilişkileri görüşmek üzere bir araya geldi. Görüşmede, Orta Doğu'da sükunetin yeniden tesis edilmesi ve güvenliğin güçlendirilmesi konularındaki ortak çabalar ele alındı. Bakanlar ayrıca, stratejik öneme sahip Hürmüz Boğazı'nda seyrüsefer serbestisinin sağlanmasının önemini vurguladı. Bu diplomatik temas, bölgedeki istikrar arayışları ve işbirliğini artırma hedefleri çerçevesinde gerçekleşti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T05:09:52.927Z",
+        "location": {
+            "lat": 25,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/jordan-bahrain-foreign-ministers-discuss-regional-tensions-ties/4022211",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1786247314731np5j6",
         "title": "İsrail, Gazze'den kısmi çekilmeyi ve çok uluslu güç konuşlandırmayı değerlendiriyor: Rapor",
         "summary": "Kanal 12'nin haberine göre, İsrail güvenlik yetkilileri, Gazze Şeridi'nin belirli bölgelerinden İsrail askerlerinin kısmen çekilmesini ve yerlerine 'Uluslararası İstikrar Gücü' konuşlandırılmasını içeren bir planı değerlendiriyor. Bu planın, Gazze'deki mevcut askeri varlığın yeniden yapılandırılmasına yönelik bir adım olduğu belirtiliyor. Görüşmelerin, bölgedeki güvenlik durumunu istikrara kavuşturma ve gelecekteki yönetişim yapısı üzerine odaklandığı ifade ediliyor. Henüz planlama aşamasında olan bu önerinin, uluslararası toplumun da katılımıyla hayata geçirilmesi hedefleniyor. Nihai bir kararın henüz alınmadığı vurgulanıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/world/turkiye-saudi-arabia-pakistan-to-sign-trilateral-defense-agreement/4020757",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786090612736addhs",
-        "title": "Hak Grupları, Lübnanlı Gazeteciyi Öldüren İsrail Saldırısını Savaş Suçu Olarak Niteledi",
-        "summary": "Uluslararası hak grupları, Nisan ayında Lübnanlı gazeteci Amal Khalil'in hayatını kaybettiği ve meslektaşı Zeinab Faraj'ın yaralandığı İsrail saldırısını 'bariz bir savaş suçu' olarak değerlendirdi. Olayda gazetecilerin hedef alındığı iddiaları gündeme gelirken, İsrail ise bu iddiaları reddetti. Hak grupları, saldırının uluslararası hukuka aykırı olduğunu ve soruşturulması gerektiğini vurguladı. Bu gelişme, çatışma bölgelerinde görev yapan gazetecilerin güvenliği konusundaki endişeleri bir kez daha artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11219740/pexels-photo-11219740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T08:16:52.736Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
