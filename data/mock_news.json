@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786268528171e0uaw",
+        "title": "Uluslararası Ceza Mahkemesi'ni (UCM) Trump Değil, Destekçileri Bitirebilir",
+        "summary": "Uluslararası Ceza Mahkemesi'nin (UCM) geleceği, kurumun varlığını tehdit eden önemli bir tartışma konusu haline geldi. Haber, UCM'nin sonunun, eski ABD Başkanı Donald Trump gibi geleneksel muhaliflerinden değil, aksine mahkemeyi savunmak için harekete geçmeyi reddeden sözde destekçilerinden gelebileceğini öne sürüyor. Bu durum, uluslararası adalet mekanizmalarının etkinliği ve sürdürülebilirliği konusunda ciddi endişeler yaratıyor. Özellikle Orta Doğu gibi UCM'nin aktif soruşturmalar yürüttüğü veya potansiyel yetki alanına giren bölgelerde, mahkemenin zayıflaması hesap verebilirliği olumsuz etkileyebilir. UCM'nin destekçilerinin eylemsizliği, uluslararası hukukun üstünlüğü ve savaş suçları ile insanlığa karşı işlenen suçların cezasız kalmaması ilkesi açısından kritik sonuçlar doğurabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11421325/pexels-photo-11421325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T09:42:08.171Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17862651814614wv5o",
         "title": "Suudi Arabistan, Cizan'daki Aramco tesisinde çıkan yangının söndürüldüğünü açıkladı",
         "summary": "Suudi Arabistan Enerji Bakanlığı, ülkenin güneybatısındaki Cizan şehrinde bulunan devlete ait petrol şirketi Aramco'ya ait bir tesiste yangın çıktığını duyurdu. Pazar sabahı erken saatlerde başlayan yangının kontrol altına alınarak söndürüldüğü belirtildi. Bakanlık tarafından yapılan açıklamada, olayda herhangi bir can kaybının yaşanmadığı bilgisi verildi. Bu olay, bölgedeki enerji altyapısının güvenliği ve operasyonel sürekliliği açısından önem taşıyor.",
@@ -780,22 +796,6 @@
             "name": "Marib, Yemen"
         },
         "source": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786108167960a8e4j",
-        "title": "Suudi Arabistan, Türkiye ve Pakistan Ortak Savunma Anlaşması İmzaladı",
-        "summary": "Suudi Arabistan, Türkiye ve Pakistan arasında ortak bir savunma anlaşması imzalandı. Anlaşma, Suudi Arabistan Veliaht Prensi, Türkiye Cumhurbaşkanı ve Pakistan Başbakanı tarafından Mekke'de düzenlenen törenle yürürlüğe girdi. Bu gelişme, üç ülke arasındaki güvenlik ve askeri işbirliğinin artırılmasına yönelik önemli bir adım olarak değerlendiriliyor. Söz konusu paktın bölgesel dengeler üzerinde etkileri olabileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/289831/pexels-photo-289831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-07T13:09:27.960Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
