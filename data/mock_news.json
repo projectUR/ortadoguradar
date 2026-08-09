@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786301092655mljcy",
+        "title": "Eski Irak Vilayet Valisi Yolsuzluk Soruşturması Kapsamında Tutuklandı",
+        "summary": "Irak'ta yolsuzlukla mücadele operasyonları kapsamında önemli bir gelişme yaşandı. Saladin vilayetinin eski valisi Ahmed el-Cuburi ve yakın bir ortağı tutuklandı. Tutuklamaların, sözleşme fonlarının kötüye kullanılması iddialarıyla ilgili olduğu bildirildi. Bu olay, Irak genelinde devam eden yolsuzlukla mücadele çabalarının bir parçası olarak öne çıkıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/15556066/pexels-photo-15556066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T18:44:52.655Z",
+        "location": {
+            "lat": 34.6,
+            "lng": 43.7,
+            "name": "Selahaddin, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17863012103721ngqm",
+        "title": "İran'ın dini lideri, Mohsen Rezaee'yi üst düzey güvenlik organına temsilci olarak atadı",
+        "summary": "İran'ın dini lideri Ayetullah Ali Hamaney, eski Devrim Muhafızları Komutanı Mohsen Rezaee'yi ülkenin üst düzey güvenlik organına temsilci olarak atadı. Bu atama, İran'ın iç siyasetinde önemli bir gelişme olarak değerlendiriliyor. Rezaee, 1981'den 1997'ye kadar İslam Devrim Muhafızları Ordusu'nun komutanlığını yapmış deneyimli bir isimdir. Yeni göreviyle birlikte, İran'ın ulusal güvenlik politikalarının belirlenmesinde ve uygulanmasında aktif rol oynaması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11583243/pexels-photo-11583243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-09T18:46:50.372Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-supreme-leader-appoints-mohsen-rezaee-as-representative-to-top-security-body/4022621",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786296969817lkmcc",
         "title": "Suriye ve Rusya, Hmeymim ve Tartus Üslerindeki Askeri Varlığı Yeniden Düzenleme Konusunda Anlaştı",
         "summary": "Suriye Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Suriye ve Rusya, Rusya'nın Suriye'deki Hmeymim ve Tartus üslerindeki askeri varlığını yeniden düzenlemek üzere bir anlaşmaya vardı. Anlaşma uyarınca, Hmeymim Havalimanı ve Tartus Limanı'nın bir kısmının sivil yönetim altına alınması öngörülüyor. Ayrıca, askeri tesislerin üç ay içinde ortak eğitim merkezlerine dönüştürüleceği belirtildi. Bu düzenleme, iki ülke arasındaki askeri işbirliğinin niteliğinde önemli bir değişikliği ve bölgesel güvenlik dinamiklerinde yeni bir aşamayı temsil ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/syrian-security-forces-neutralize-2-isis-terrorists-near-damascus/4021611",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17861757448136g2db",
-        "title": "Yemen Silahlı Kuvvetleri Husilere Karşı Operasyon Başlattı",
-        "summary": "Yemen Silahlı Kuvvetleri, ülkenin Marib ve Hadramevt bölgelerindeki askeri kamplara yönelik Husilerin gerçekleştirdiği saldırılara misilleme olarak yeni bir operasyon başlattığını duyurdu. Silahlı kuvvetler sözcüsü tarafından yapılan açıklamada, bu operasyonun Husilerin son dönemdeki saldırılarına doğrudan bir yanıt olduğu belirtildi. Operasyonun detaylarına ilişkin henüz ek bilgi verilmezken, bölgedeki gerilimin tırmandığı gözlemleniyor. Bu gelişme, Yemen'deki uzun süreli çatışmanın yeni bir aşamaya girdiğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11097030/pexels-photo-11097030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T07:55:44.813Z",
-        "location": {
-            "lat": 15.46,
-            "lng": 45.34,
-            "name": "Marib, Hadramevt, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemens-armed-forces-launch-operation-against-houthis/4021593",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178617576547675459",
-        "title": "BM Güvenlik Konseyi, Husilerin füze saldırılarını ve Yemen'e izinsiz uçuşları kınadı",
-        "summary": "Birleşmiş Milletler Güvenlik Konseyi, Yemen'deki Husiler tarafından gerçekleştirilen füze saldırılarını ve ülkeye yapılan izinsiz uçuşları kınadığını duyurdu. Konsey, Yemen'in egemenliğini yeniden teyit ettiğini vurguladı. Yapılan açıklamada, barışı güvence altına alma çabalarını baltalayabilecek her türlü eyleme karşı sert bir uyarıda bulunuldu. Bu karar, Yemen'deki devam eden çatışmaların uluslararası toplum nezdindeki önemini ve bölgedeki istikrarsızlık endişelerini yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11635860/pexels-photo-11635860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T07:56:05.476Z",
-        "location": {
-            "lat": 15.4,
-            "lng": 44.2,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-security-council-condemns-houthi-missile-attacks-unauthorized-yemen-flights/4021572",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
