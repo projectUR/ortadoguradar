@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786386260039erzxd",
+        "title": "Umman, hasarlı tankerdeki büyük petrol sızıntısını kontrol altına almaya çalışıyor",
+        "summary": "Umman açıklarında 'Caroline Bezengi' adlı bir tankerde meydana gelen büyük petrol sızıntısı yetkilileri harekete geçirdi. Umman, çevreye yayılan petrolü kontrol altına almak için yoğun çaba sarf ediyor. Söz konusu tankerin, Rusya'nın Batı yaptırımlarını aşmak için kullandığı 'gölge filo'nun bir parçası olduğuna inanılıyor. Bu durum, sızıntının çevresel etkilerinin yanı sıra uluslararası boyutunu da gündeme getiriyor. Yetkililer, deniz ekosistemine verilen zararı en aza indirmek ve sızıntının yayılmasını önlemek için çalışmalarını sürdürüyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/7696509/pexels-photo-7696509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T18:24:20.039Z",
+        "location": {
+            "lat": 21,
+            "lng": 57,
+            "name": "Umman"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1786382778564bdcdg",
         "title": "İran Cumhurbaşkanı Pezeshkian'dan Yüce Lider Hamenei'nin 'Birlik ve Beraberlik' Mesajı Açıklaması",
         "summary": "İran Cumhurbaşkanı Masoud Pezeshkian, Yüce Lider Ayetullah Mojtaba Hamenei'nin önemli bir mesaj ilettiğini duyurdu. Cumhurbaşkanı Pezeshkian'ın açıklamasına göre, Hamenei'nin mesajı 'birlik ve beraberlik' vurgusu taşıyor. Bu açıklama, İran'ın iç siyasetindeki mevcut durumu ve liderlik kademesinden gelen beklentileri yansıtıyor. Yeni cumhurbaşkanının bu tür bir mesajı kamuoyuna duyurması, ülkedeki siyasi ve toplumsal atmosferin bir göstergesi olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Nabatiye, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-shell-southern-lebanese-villages-after-rome-talks/4022392",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786271956004a3kvo",
-        "title": "İsrailli Asker Hakkında Vietnam'da Savaş Suçları Şikayeti",
-        "summary": "Hind Rajab Vakfı, Vietnam'da İsrailli yedek asker Matan Jerafi hakkında savaş suçları iddiasıyla suç duyurusunda bulundu. Vakıf, Jerafi'yi Gazze ve güney Lübnan'da sivil mülklerin yıkımına katılmakla suçluyor. Ayrıca, İsrailli askerin Filistinlilerin yerinden edilmesini açıkça savunduğu belirtiliyor. Bu şikayet, uluslararası hukuk çerçevesinde savaş suçları iddialarını gündeme getiriyor ve Orta Doğu'daki çatışmaların uluslararası alandaki hukuki yansımalarını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38247295/pexels-photo-38247295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T10:39:16.004Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/rights-group-files-criminal-complaint-in-vietnam-against-israeli-soldier-over-war-crimes-in-gaza-lebanon/4022379",
         "trendScore": 85,
         "isBreaking": false
     }
