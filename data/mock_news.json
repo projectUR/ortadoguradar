@@ -1,5 +1,53 @@
 [
     {
+        "id": "1786327254648lbt0s",
+        "title": "Fas Futbol Federasyonu Başkanı Lekjaa'nın Siyasi Hamlesi Başbakanlık Spekülasyonlarını Artırdı",
+        "summary": "Fas Futbol Federasyonu Başkanı Fouzi Lekjaa'nın bir siyasi partiye katılması, ülkenin bir sonraki başbakanı olabileceği yönündeki spekülasyonları güçlendirdi. Lekjaa'nın bu kararı, Fas siyasetinde önemli bir gelişme olarak değerlendiriliyor ve siyasi kariyerine yönelik beklentileri yükseltiyor. Ülke içinde bu durum, Fas'ın gelecekteki liderlik yapısı hakkında tartışmaları alevlendirmiş durumda. Lekjaa'nın siyasi arenadaki potansiyel rolü, hem spor hem de siyaset çevrelerinde yakından takip ediliyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/7102982/pexels-photo-7102982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T02:00:54.648Z",
+        "location": {
+            "lat": 34,
+            "lng": -6.8,
+            "name": "Rabat, Fas"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786327275428ubsnl",
+        "title": "Husiler, Yemen'in Makha Limanı'na Füze ve İHA Saldırılarını Yeniledi",
+        "summary": "Yemen'deki Husiler, ülkenin Kızıldeniz kıyısındaki stratejik Makha (Mocha) limanına yönelik füze ve insansız hava aracı saldırılarını yeniledi. Bu son saldırılar, limana ve ticari tesislerine düzenlenen önceki saldırıların üzerinden 24 saat geçmeden gerçekleşti. Bölgedeki çatışmaların bir parçası olarak görülen bu eylemler, liman çevresindeki güvenlik durumunu daha da gerginleştirdi. Uluslararası toplum, Yemen'deki insani krizin derinleşmesinden endişe duyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T02:01:15.428Z",
+        "location": {
+            "lat": 13.31,
+            "lng": 43.25,
+            "name": "Makha, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1786327374464ae5mp",
+        "title": "İsrail Ateşi Gazze'de 7 Filistinliyi Yaraladı",
+        "summary": "Gazze Şeridi'nde İsrail güçlerinin açtığı ateş sonucu yedi Filistinli yaralandı. Yaralılar arasında bir kadın ve bir çocuk da bulunuyor. İsrail tankları ve insansız hava araçlarının Gazze genelinde ateş açmasıyla meydana gelen olaylar, bölgedeki ateşkesin ihlal edildiği iddialarını gündeme getirdi. Bu gelişmeler, Orta Doğu'daki hassas durumu ve güvenlik endişelerini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T02:02:54.464Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-fire-injures-7-palestinians-across-gaza-amid-ceasefire-violations/4022691",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786318412413gowj7",
         "title": "Filistinli Gazeteciler Sendikası: Temmuz Ayında 108 Gazeteciye Saldırı Düzenlendi",
         "summary": "Filistinli Gazeteciler Sendikası (PJS), Temmuz ayında Filistinli gazetecilere yönelik 108 saldırı kaydedildiğini bildirdi. Sendika, bölgedeki gazetecilere yönelik tehditlerin giderek arttığına dikkat çekti. Raporda ayrıca, Ekim 2023'ten bu yana Gazze Şeridi'nde 270'ten fazla gazetecinin hayatını kaybettiği belirtildi. Bu durum, gazetecilik mesleğinin icrası sırasında karşılaşılan ciddi güvenlik risklerini ve insan hakları ihlallerini gözler önüne seriyor. Sendika, uluslararası toplumu gazetecilerin korunması için acil önlem almaya çağırdı.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-houthis-fired-missiles-toward-red-sea/4021775",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786193692913t4ilb",
-        "title": "İran dini liderinin danışmanı: 'Yabancı güçler bölgeden ayrılmalı'",
-        "summary": "İran dini lideri Ayetullah Ali Hamaney'in danışmanı Ali Ekber Velayeti, bölgedeki yabancı güçlerin varlığının sona ermesi gerektiğini belirtti. Velayeti, bölge ülkeleri arasındaki artan işbirliğinin kendi güvenliklerini sağlayabileceğini vurguladı. Bu açıklama, Orta Doğu'da bölgesel güvenlik ve dış müdahale konularındaki tartışmaları yeniden gündeme getirdi. İranlı yetkili, bölge devletlerinin kendi aralarındaki dayanışma ile dışarıdan bir güce ihtiyaç duymadan istikrarı tesis edebileceği mesajını verdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14136477/pexels-photo-14136477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T12:54:52.913Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/adviser-to-iran-s-supreme-leader-says-foreign-forces-must-leave-region/4021802",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786188670954c803e",
-        "title": "Yemen'in Çöken Sağlık Sistemi Hastaları Alternatif Tıbba Yöneltiyor",
-        "summary": "Yemen'de sağlık hizmetlerine erişimde yaşanan zorluklar ve maliyetler, hastaları alternatif tıp yöntemlerine başvurmaya itiyor. Ülkedeki sağlık altyapısının çöküşü, temel tedavi imkanlarına ulaşımı engelliyor. Bu durum, özellikle kronik rahatsızlığı olan veya acil tıbbi müdahaleye ihtiyaç duyan bireyler için ciddi riskler oluşturuyor. Hastalar, geleneksel yöntemler veya bitkisel tedaviler gibi alternatif çözümlerde çare arıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/48604/pexels-photo-48604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T11:31:10.954Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786182101142su5yt",
-        "title": "Yemen Hükümet Güçleri Aden'in Batısında Düşman İHA ile Çatıştı",
-        "summary": "Yemen hükümet güçleri, ülkenin güneyindeki Aden şehrinin batı bölgesinde 'düşman' olarak tanımlanan bir insansız hava aracı (İHA) ile karşı karşıya geldi. Bu gelişme, Yemen silahlı kuvvetlerinin Husilere karşı bir operasyon başlatmasının hemen ardından yaşandı. Çatışmanın detayları ve İHA'nın akıbeti hakkında henüz resmi bir açıklama yapılmadı. Olay, Yemen'deki devam eden çatışmaların ve güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi. Bölgedeki gerilimin artmaya devam ettiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5014710/pexels-photo-5014710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T09:41:41.142Z",
-        "location": {
-            "lat": 12.78,
-            "lng": 45.04,
-            "name": "Aden, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-engage-hostile-drone-west-of-aden/4021704",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
