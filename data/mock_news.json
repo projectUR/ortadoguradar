@@ -1,5 +1,69 @@
 [
     {
+        "id": "1786348124334btfq3",
+        "title": "Suudi Arabistan, Türkiye ve Pakistan Savunma Paktı İmzaladı",
+        "summary": "Suudi Arabistan, Türkiye ve Pakistan arasında bir savunma paktı imzalandığı bildirildi. Pakistan'dan yapılan açıklamada, üç ülkeden herhangi birine yönelik bir saldırının, tümüne yapılmış sayılacağı belirtildi. Bu anlaşma, Orta Doğu'daki mevcut çatışmaların ortasında gerçekleşti. Paktın detayları ve bölgesel güvenlik üzerindeki potansiyel etkileri merak konusu oldu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18232029/pexels-photo-18232029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T07:48:44.334Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1786348155853fh32x",
+        "title": "Petrol Fiyatları, İran'ın Hürmüz Boğazı İçin Şartlar Belirlemesiyle Yükseldi",
+        "summary": "Petrol fiyatları, İran'ın Hürmüz Boğazı'nın yeniden açılması için koşullar öne sürmesiyle yükselişe geçti. Brent ham petrolünün fiyatı yüzde 1'den fazla artış gösterdi. Tahran yönetimi, bu stratejik su yolunu uluslararası deniz trafiğine yeniden açmadan önce, kendisine uygulanan yaptırımların kaldırılmasını ve savaş tazminatı ödenmesini talep ediyor. Bu durum, küresel enerji piyasalarında belirsizliğe yol açarken, Orta Doğu'daki jeopolitik gerilimi de artırıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/932577/pexels-photo-932577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T07:49:15.853Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oil-prices-rise-as-iran-sets-conditions-for-reopening-strait-of-hormuz/4022703",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786348176526vwt6p",
+        "title": "Suudi Arabistan'da Kanepe Fabrikası Yangınında 16 Bangladeşli Hayatını Kaybetti",
+        "summary": "Suudi Arabistan'da bir kanepe fabrikasında çıkan yangında 16 Bangladeşli işçi yaşamını yitirdi. Bu trajik olay, ülkedeki göçmen işçilerin çalışma koşulları ve güvenliği konusundaki endişeleri yeniden gündeme getirdi. Suudi Arabistan, tahmini 3,5 milyon Bangladeşli göçmen işçiye ev sahipliği yaparak Bangladeş için en büyük işgücü destinasyonu konumundadır. Yaşanan bu facia, bölgedeki göçmen işçilerin karşılaştığı riskleri ve yaşam koşullarını bir kez daha gözler önüne sermiştir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/22589125/pexels-photo-22589125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T07:49:36.526Z",
+        "location": {
+            "lat": 23.8859,
+            "lng": 45.0792,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/16-bangladeshis-killed-in-saudi-sofa-factory-fire/4022702",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1786348200932exvwx",
+        "title": "ABD, Yemen'e desteğini yineledi, Husilerle çatışmalar yeniden alevlendi",
+        "summary": "ABD, Yemen'deki çatışmaların yeniden şiddetlenmesi üzerine ülkeye desteğini bir kez daha teyit etti. Washington yönetimi, ABD elçisinin Yemen Başkanlık Konseyi başkanıyla yaptığı görüşmede deniz güvenliği ve terörle mücadele konularına vurgu yaptı. Görüşmede, Yemen'deki insani kriz ve bölgesel istikrarın önemi de ele alındı. ABD'nin bu adımı, Husilerle yaşanan son çatışmaların ardından geldi ve bölgedeki gerilimi düşürme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6389193/pexels-photo-6389193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T07:50:00.932Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/world/us-reaffirms-support-for-yemen-amid-renewed-clashes-with-houthis/4022692",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17863414009324objo",
         "title": "İsrail, Batı Şeria'daki antik alanlarda arkeolojiyi silah olarak kullanmakla suçlanıyor",
         "summary": "Haber ajanslarına göre, İsrail'in Batı Şeria'daki tarihi Filistin bölgelerinde büyük ölçekli toprak kamulaştırmaları planladığı iddia edildi. Bu planların, bölgedeki antik alanlarda arkeolojinin bir araç olarak kullanılmasıyla ilişkilendirildiği belirtiliyor. İddialar, İsrail'in bölgedeki varlığını pekiştirmek ve Filistinlilerin toprak üzerindeki haklarını zayıflatmak amacıyla arkeolojik sit alanlarını kullandığı yönünde yoğunlaşıyor. Bu durum, uluslararası toplumda endişelere yol açarken, İsrail-Filistin çatışmasındaki gerilimi daha da artırma potansiyeli taşıyor.",
@@ -732,70 +796,6 @@
             "name": "Marib, Yemen"
         },
         "source": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178622117161019zh2",
-        "title": "Lübnan Askerleri, İsrail Birliklerinin Güney Kasabasına Girmesi Sırasında Yaralandı",
-        "summary": "Lübnan'ın güneyindeki Zawtar el-Garbiye kasabası yakınlarında İsrail birliklerinin varlığı sırasında Lübnan askerleri yaralandı. Yaralanan askerler, bölgede bulunan patlamamış mühimmatı etkisiz hale getirme görevi yürütüyordu. Olay, İsrail güçlerinin aynı bölgede bir toprak bariyer inşa ettiği yönündeki raporların ardından meydana geldi. Bu gelişme, Lübnan-İsrail sınırındaki gerilimi ve askeri hareketliliği bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/669290/pexels-photo-669290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T20:32:51.610Z",
-        "location": {
-            "lat": 33.4,
-            "lng": 35.45,
-            "name": "Zawtar el-Garbiye, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786217658629o8ynu",
-        "title": "Sudan Ordusu, Batı Darfur'da Hızlı Destek Kuvvetleri Saldırısını Püskürttü",
-        "summary": "Batı Darfur Valisi tarafından yapılan açıklamaya göre, Sudan ordusu ve müttefik güçler, Hızlı Destek Kuvvetleri'nin (HDK) Batı Darfur'daki stratejik Bir Sleiba bölgesine düzenlediği büyük bir saldırıyı başarıyla püskürttü. Vali, ordunun bölgedeki kontrolünü koruma çabalarının devam ettiğini ve HDK'nin ilerleme girişimlerinin engellendiğini belirtti. Bu olay, Sudan'da ordu ile HDK arasında aylardır süren çatışmaların son halkasını oluşturuyor. Bölgedeki güvenlik durumu gerginliğini korurken, taraflar arasındaki mücadele stratejik noktalar üzerinde yoğunlaşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T19:34:18.629Z",
-        "location": {
-            "lat": 13.45,
-            "lng": 22.45,
-            "name": "El Geneina, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-repels-rsf-attack-in-west-darfur-says-governor/4021929",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1786214524124dfah1",
-        "title": "Sırbistan ve Ukrayna Ekonomik İlişkileri Geliştirme ve Serbest Ticaret Anlaşması Hedefliyor",
-        "summary": "Sırbistan ve Ukrayna, ekonomik bağlarını güçlendirme ve serbest ticaret anlaşması imzalama konusunda taahhütte bulundu. Bu işbirliği kapsamında Sırbistan, Ukrayna'nın şehirlerinin yeniden inşasına destek olacağını ve insani yardım sağlayacağını belirtti. İki ülke arasındaki ilişkilerin derinleştirilmesi, karşılıklı ekonomik faydalar ve Ukrayna'nın savaş sonrası toparlanmasına katkı sağlamayı amaçlıyor. Anlaşma, ticaret hacmini artırmanın yanı sıra, yatırım ve diğer ekonomik alanlarda da işbirliğini teşvik etmeyi hedefliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/38905596/pexels-photo-38905596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T18:42:04.124Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17862070318554l0th",
-        "title": "Lübnan, eski Esad dönemi generalini 'gözaltına aldı', Suriye'ye teslim etmeyi değerlendiriyor",
-        "summary": "Lübnan'da, eski Suriye Devlet Başkanı Beşar Esad döneminden bir generalin gözaltına alındığı bildirildi. Adli ve güvenlik kaynaklarından edinilen bilgilere göre, aranan eski general, Beyrut'taki rutin bir büyükelçilik ziyareti sırasında tutuklandı. Generalin Beyrut'ta bir cezaevine konulduğu belirtildi. Lübnanlı yetkililerin, gözaltına alınan generali Suriye'ye teslim etme olasılığını değerlendirdiği ifade edildi. Bu gelişme, iki komşu ülke arasındaki ilişkilerde yeni bir boyut kazandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34503228/pexels-photo-34503228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T16:37:11.855Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
