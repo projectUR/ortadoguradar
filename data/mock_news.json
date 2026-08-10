@@ -1,5 +1,37 @@
 [
     {
+        "id": "178633523559986zk7",
+        "title": "İran'ın Hürmüz Boğazı Talepleri Petrol Fiyatlarını Yükseltti",
+        "summary": "Brent petrol fiyatları, İran'ın Hürmüz Boğazı'nın ABD'den önemli tavizler alınmadan yeniden açılmayacağını belirtmesi üzerine artış gösterdi. Tahran yönetiminin bu açıklaması, küresel enerji piyasalarında belirsizliği artırarak petrol fiyatları üzerinde yukarı yönlü baskı oluşturdu. Kritik su yolunun geleceğine dair endişeler, dünya petrol arzı güvenliği ve dolayısıyla küresel ekonomi için potansiyel riskler taşıyor. Bu durum, ABD ile İran arasındaki jeopolitik gerilimin enerji piyasaları üzerindeki doğrudan ekonomik etkilerini vurgulamaktadır.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8709582/pexels-photo-8709582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T04:13:55.599Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786335337536kdwkr",
+        "title": "ABD Senatörü Murphy: Trump İran Savaşını Kaybetti",
+        "summary": "ABD Senatörü Chris Murphy, eski Başkan Donald Trump'ın İran'a yönelik politikalarını değerlendirdi. Murphy, devam eden mücadelenin ABD'yi zayıflattığını, İran'ı güçlendirdiğini ve küresel fiyatları artırdığını belirtti. Senatör, bu durumun ABD'nin ulusal çıkarlarına zarar verdiğini ve bölgedeki gerilimi tırmandırdığını ifade etti. Açıklama, Washington'ın İran'a karşı izlediği stratejiler üzerine süregelen tartışmaları yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T04:15:37.536Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-senator-says-trump-has-lost-iran-war/4022698",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786327254648lbt0s",
         "title": "Fas Futbol Federasyonu Başkanı Lekjaa'nın Siyasi Hamlesi Başbakanlık Spekülasyonlarını Artırdı",
         "summary": "Fas Futbol Federasyonu Başkanı Fouzi Lekjaa'nın bir siyasi partiye katılması, ülkenin bir sonraki başbakanı olabileceği yönündeki spekülasyonları güçlendirdi. Lekjaa'nın bu kararı, Fas siyasetinde önemli bir gelişme olarak değerlendiriliyor ve siyasi kariyerine yönelik beklentileri yükseltiyor. Ülke içinde bu durum, Fas'ın gelecekteki liderlik yapısı hakkında tartışmaları alevlendirmiş durumda. Lekjaa'nın siyasi arenadaki potansiyel rolü, hem spor hem de siyaset çevrelerinde yakından takip ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Hürmüz Boğazı, Orta Doğu"
         },
         "source": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786203284552l2e4c",
-        "title": "FKÖ: İsrailli Hukuk Grubu Honenu, Batı Şeria'da Şiddetle Suçlanan Yerleşimcileri Finanse Ediyor ve Savunuyor",
-        "summary": "Filistin Kurtuluş Örgütü (FKÖ) ve Filistinli yetkililer, İsrailli sağcı hukuk grubu Honenu'yu işgal altındaki Batı Şeria'da Filistinlilere yönelik saldırılarla suçlanan veya bu saldırılardan hüküm giyen İsrailli yerleşimcilere hukuki ve mali destek sağlamakla itham etti. Yapılan açıklamalarda, Honenu'nun bu eylemlerinin bölgedeki gerilimi artırdığı ve adaletin tecellisini engellediği belirtildi. Filistinli yetkililer, uluslararası toplumu bu tür faaliyetlere karşı harekete geçmeye çağırdı. Bu durum, İsrail-Filistin çatışmasındaki gerilimi ve yerleşimci şiddeti konusundaki endişeleri bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9739636/pexels-photo-9739636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T15:34:44.552Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2035,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-legal-group-honenu-funds-defends-occupiers-accused-of-violence-in-west-bank-plo/4021902",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786197000975cj73a",
-        "title": "Yemen Ordusu: Husiler Kızıldeniz'e Füze Fırlattı",
-        "summary": "Yemen ordusu, Husilerin Kızıldeniz yönüne füzeler fırlattığını bildirdi. Yapılan açıklamaya göre, söz konusu füzeler ülkenin güneybatısındaki Taiz şehrinin doğusunda bulunan Al-Hawban bölgesindeki Uman Dağı'ndan ateşlendi. Bu gelişme, Yemen'deki çatışmaların ve bölgedeki deniz güvenliğine yönelik potansiyel tehditlerin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27292151/pexels-photo-27292151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T13:50:00.975Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-houthis-fired-missiles-toward-red-sea/4021775",
         "trendScore": 85,
         "isBreaking": false
     }
