@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786401649846ir49d",
+        "title": "Trump, Netanyahu'nun Gazze Barış Planını Reddetmesine Rağmen İlişkilerin İyi Olduğunu Söyledi",
+        "summary": "ABD Başkanı Donald Trump, İsrail Başbakanı Binyamin Netanyahu ile olan ilişkilerinin iyi durumda olduğunu ifade etti. Bu açıklama, Netanyahu'nun Gazze'ye yönelik bir barış planını reddetmesinin ardından geldi. Trump, iki lider arasındaki kişisel bağların güçlü kaldığını ve işbirliğinin devam ettiğini vurguladı. Netanyahu'nun Gazze planına karşı çıkmasına rağmen, Washington'ın İsrail ile stratejik ortaklığına verdiği önemin değişmediği belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T22:40:49.846Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1786398262199eqy04",
         "title": "Türkiye, binlerce PKK savaşçısı için af benzeri yasa tasarısını onayladı",
         "summary": "Türkiye Büyük Millet Meclisi, binlerce Kürdistan İşçi Partisi (PKK) savaşçısının sivil hayata dönüşünü öngören af benzeri bir yasa tasarısını onayladı. Tasarı, silahlarını bırakan ve şiddet eylemlerinden vazgeçen PKK üyelerinin yasal süreçler çerçevesinde topluma yeniden entegre olmalarını hedefliyor. Bu adım, Türkiye'nin uzun süredir devam eden PKK çatışmasına yönelik çözüm arayışlarının bir parçası olarak değerlendiriliyor. Yasa tasarısının detayları ve uygulanma şekli, önümüzdeki dönemde kamuoyunun gündeminde önemli bir yer tutacak.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1786280185003snum4",
-        "title": "ABD ve İran Dolaylı Müzakerelerde Anlaşmazlık Yaşıyor",
-        "summary": "ABD ve İran arasında yürütülen dolaylı müzakerelerde tarafların birbirini anlamakta zorlandığı belirtildi. Yetkililer, görüşmelerde tarafların 'birbirinin yanından geçtiğini' ve ortak bir zemin bulmakta güçlük çektiğini ifade etti. Bu durum, iki ülke arasındaki derin anlaşmazlıkların devam ettiğini ve diplomatik çabaların ilerlemesini engellediğini gösteriyor. Müzakerelerin genellikle nükleer program, yaptırımlar ve bölgesel güvenlik konularına odaklandığı biliniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6918529/pexels-photo-6918529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T12:56:25.003Z",
-        "location": {
-            "lat": 25.3,
-            "lng": 51.5,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
