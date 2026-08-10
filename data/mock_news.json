@@ -1,5 +1,21 @@
 [
     {
+        "id": "17863414009324objo",
+        "title": "İsrail, Batı Şeria'daki antik alanlarda arkeolojiyi silah olarak kullanmakla suçlanıyor",
+        "summary": "Haber ajanslarına göre, İsrail'in Batı Şeria'daki tarihi Filistin bölgelerinde büyük ölçekli toprak kamulaştırmaları planladığı iddia edildi. Bu planların, bölgedeki antik alanlarda arkeolojinin bir araç olarak kullanılmasıyla ilişkilendirildiği belirtiliyor. İddialar, İsrail'in bölgedeki varlığını pekiştirmek ve Filistinlilerin toprak üzerindeki haklarını zayıflatmak amacıyla arkeolojik sit alanlarını kullandığı yönünde yoğunlaşıyor. Bu durum, uluslararası toplumda endişelere yol açarken, İsrail-Filistin çatışmasındaki gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18917741/pexels-photo-18917741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T05:56:40.932Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178633523559986zk7",
         "title": "İran'ın Hürmüz Boğazı Talepleri Petrol Fiyatlarını Yükseltti",
         "summary": "Brent petrol fiyatları, İran'ın Hürmüz Boğazı'nın ABD'den önemli tavizler alınmadan yeniden açılmayacağını belirtmesi üzerine artış gösterdi. Tahran yönetiminin bu açıklaması, küresel enerji piyasalarında belirsizliği artırarak petrol fiyatları üzerinde yukarı yönlü baskı oluşturdu. Kritik su yolunun geleceğine dair endişeler, dünya petrol arzı güvenliği ve dolayısıyla küresel ekonomi için potansiyel riskler taşıyor. Bu durum, ABD ile İran arasındaki jeopolitik gerilimin enerji piyasaları üzerindeki doğrudan ekonomik etkilerini vurgulamaktadır.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786203151672kx4fe",
-        "title": "BAE, İran'ı Hürmüz Boğazı'nda Tanker Saldırısıyla Suçladı",
-        "summary": "Birleşik Arap Emirlikleri (BAE), İran'ı stratejik Hürmüz Boğazı'nda bir ADNOC tankerini hedef almakla suçladı. BAE yetkilileri, saldırıda herhangi bir can kaybı yaşanmadığını bildirdi. Olayın ardından Körfez ve diğer Arap hükümetleri, İran'ın bu eylemini şiddetle kınayan açıklamalar yaptı. Bu gelişme, bölgedeki denizcilik güvenliği ve siyasi gerilimler konusunda endişeleri artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38222995/pexels-photo-38222995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T15:32:31.672Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
