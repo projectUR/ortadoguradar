@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786367668705wi19q",
+        "title": "Sudan Ordusu, Batı Sudan'da RSF Saldırılarını Püskürttü",
+        "summary": "Sudan ordusu, ülkenin batısındaki stratejik öneme sahip bir bölgede Hızlı Destek Kuvvetleri (RSF) paramiliter güçlerinin düzenlediği bir dizi saldırıyı başarıyla püskürttü. Bu gelişmeler, ordunun Batı Sudan üzerindeki kontrolünü yeniden tesis etme çabaları açısından kritik bir dönüm noktası olarak değerlendiriliyor. Bölgedeki çatışmaların yoğunluğu, Sudan'daki genel güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Ordu kaynakları, RSF'nin bölgedeki ilerleyişini durdurarak önemli bir başarı elde edildiğini belirtirken, çatışmaların devam edebileceği uyarısında bulundu. Bu durum, ülkedeki iç savaşın seyrini etkileyebilecek önemli bir gelişme olarak kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T13:14:28.705Z",
+        "location": {
+            "lat": 13,
+            "lng": 25,
+            "name": "Batı Sudan, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786367757252cpspz",
+        "title": "İsrail'in Gazze'deki kuşatması ulaşım sistemini felç etti, kıtlık riski artıyor: İnsan hakları gözlemcisi",
+        "summary": "Bir insan hakları gözlemcisi, İsrail'in Gazze'ye yönelik uyguladığı kuşatmanın bölgedeki ulaşım sistemini felç ettiğini ve kıtlık riskini yeniden gündeme getirdiğini bildirdi. Rapora göre, İsrail malların ve insani yardımların geçiş noktalarından girişinden nüfusa ulaşmasına kadar tüm tedarik zincirini aksatan kapsamlı bir politika izliyor. Bu durum, Gazze Şeridi'ndeki insani durumu daha da kötüleştirerek temel ihtiyaçlara erişimi ciddi şekilde engelliyor ve bölge halkının yaşam koşullarını olumsuz etkiliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/334068/pexels-photo-334068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T13:15:57.252Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-siege-cripples-transport-system-in-gaza-risking-return-to-famine-in-gaza-rights-monitor/4023221",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786362563331u82qp",
         "title": "UEFA Süper Kupa: PSG ve Aston Villa Karşı Karşıya",
         "summary": "UEFA Şampiyonlar Ligi ve Avrupa Ligi şampiyonlarını bir araya getiren UEFA Süper Kupa maçı, Paris Saint-Germain (PSG) ile Aston Villa arasında oynanacak. Haber, maçın tahmini, başlama saati ve izleme yöntemleri gibi detayları içeriyor. PSG'nin Katarlı sahipliği, bu karşılaşmaya Orta Doğu coğrafyasıyla dolaylı bir bağlantı katmaktadır. Maçın oynanacağı yer ve tarihi bilgiler de haberde yer alacak.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786260901846p4ztp",
-        "title": "İsrail, Oscar ödüllü Batı Şeria filminde yer alan Filistinlinin öldürülmesiyle ilgili yerleşimciye suçlama yöneltti",
-        "summary": "İsrail savcılığı, Batı Şeria'da bir Filistinlinin öldürülmesiyle ilgili olarak bir İsrailli yerleşimciye karşı dava açtı. Yinon Levy adlı yerleşimci, Temmuz 2025'te Odeh Hathaleen'in vurularak öldürülmesi olayında \"dikkatsizce adam öldürme\" suçlamasıyla karşı karşıya. Hathaleen'in, Oscar ödüllü bir Batı Şeria filminde yer aldığı belirtildi. Bu gelişme, İsrail-Filistin çatışmasının yaşandığı bölgede gerilimi artırabilecek nitelikte.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29116291/pexels-photo-29116291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T07:35:01.846Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786260923876gfsqa",
-        "title": "İnsan Hakları Grupları, Lübnanlı Gazeteciyi Öldüren İsrail Saldırısını Savaş Suçu Olarak Nitelendirdi",
-        "summary": "Nisan ayında meydana gelen bir olayda, Lübnanlı gazeteci Amal Khalil'in bir İsrail saldırısında hayatını kaybettiği, meslektaşı Zeinab Faraj'ın ise yaralandığı bildirildi. Uluslararası insan hakları grupları, bu saldırıyı \"bariz bir savaş suçu\" olarak nitelendirerek olayın soruşturulması çağrısında bulundu. İsrail makamları ise gazetecileri hedef aldığı iddialarını kesin bir dille reddetti. Bu gelişme, bölgedeki çatışmaların medya mensupları üzerindeki etkisini ve uluslararası hukukun ihlali iddialarını yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37326453/pexels-photo-37326453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T07:35:23.876Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Tyre, Lübnan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
