@@ -1,5 +1,21 @@
 [
     {
+        "id": "178639477327571qv8",
+        "title": "Netanyahu'dan Trump'ın Gazze Planına Ret: Nihai Karar Olmayabilir",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, eski ABD Başkanı Donald Trump yönetiminin Gazze için hazırladığı 15 maddelik planı reddettiği bildirildi. Trump yönetiminin bu ret kararını önemsemediği ve kararı İsrail'deki genel seçimler öncesi bir kampanya söylemi olarak değerlendirdiği belirtildi. Bu nedenle Netanyahu'nun ret kararının nihai bir söz olmayabileceği ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T20:46:13.275Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786390351009r7j5o",
         "title": "İran hiyerarşisinde konsolidasyon: Devrim Muhafızları gazisi kilit güvenlik rolüne atandı",
         "summary": "İran'da dini liderin ofisi tarafından üst düzey güvenlik atamaları yapıldığı bildirildi. Açıklamaya göre, ülkenin yeni güvenlik şefi belirlenirken, deneyimli savaş komutanları da etkili pozisyonlara getirildi. Bu atamaların, İran hiyerarşisinde bir konsolidasyon sürecini yansıttığı ve Devrim Muhafızları (IRGC) kökenli isimlerin kilit rollerde görevlendirildiği belirtiliyor. Söz konusu değişikliklerin, ülkenin iç güvenlik ve dış politika yaklaşımlarında askeri tecrübeye verilen önemi artırabileceği değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786271842822l4stb",
-        "title": "Fas ve Cezayir WAFCON Yarı Finallerine Yükseldi ve FIFA Dünya Kupası'na Katılmaya Hak Kazandı",
-        "summary": "Kuzey Afrika ülkeleri Fas ve Cezayir, Afrika Kadınlar Uluslar Kupası (WAFCON) yarı finallerine yükselerek önemli bir başarıya imza attı. Bu iki ülke, gelecek yıl Brezilya'da düzenlenecek olan FIFA Dünya Kupası'na kıtadan katılmaya hak kazanan ilk takımlar oldu. Bu tarihi başarı, her iki ülkenin kadın futbolu için bir dönüm noktası olarak kabul ediliyor ve ulusal çapta büyük sevinçle karşılandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32179310/pexels-photo-32179310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T10:37:22.822Z",
-        "location": {
-            "lat": 34.020882,
-            "lng": -6.84165,
-            "name": "Rabat, Fas"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
