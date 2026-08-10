@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786354016282z3ft1",
+        "title": "Yasa Dışı İsrail Yerleşim Birimlerinden Avrupa Pazarlarına Ürün Akışı Açıklandı",
+        "summary": "İşgal altındaki Filistin topraklarında bulunan yasa dışı İsrail yerleşim birimlerinde üretilen ürünlerin Avrupa pazarlarına nasıl ulaştığına dair bir açıklama yapıldı. Bu açıklama, söz konusu ürünlerin gerçek menşe yerlerini gizleyen karmaşık sistemler aracılığıyla Avrupa ülkelerine giriş yaptığını ortaya koyuyor. Uluslararası hukuka aykırı kabul edilen bu yerleşim birimlerinden gelen malların ticareti, uluslararası toplumda tartışmalara yol açıyor. Bu durum, hem uluslararası ticarette şeffaflık sorunlarını gündeme getiriyor hem de yerleşim birimleri ürünlerinin takibini zorlaştırıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6128987/pexels-photo-6128987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T09:26:56.282Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explainer-how-products-from-illegal-israeli-settlements-reach-european-markets/4022842",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17863540357017f338",
+        "title": "İsrail ordusu ateşkese rağmen Lübnan'da yeni saldırılar başlattı",
+        "summary": "Lübnan devlet medyası tarafından aktarılan bilgilere göre, İsrail güçleri ateşkese rağmen Lübnan topraklarında yeni saldırılar düzenledi. İsrail ordusu, Wadi al-Salouq bölgesine makineli tüfeklerle ateş açtı. Ayrıca, Mansouri kasabasını topçu ateşiyle hedef aldı. Bu olaylar, bölgedeki gerilimin devam ettiğini ve mevcut ateşkesin ihlal edildiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T09:27:15.701Z",
+        "location": {
+            "lat": 33.16,
+            "lng": 35.2,
+            "name": "Mansouri, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-new-attacks-in-lebanon-despite-truce/4022830",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1786348124334btfq3",
         "title": "Suudi Arabistan, Türkiye ve Pakistan Savunma Paktı İmzaladı",
         "summary": "Suudi Arabistan, Türkiye ve Pakistan arasında bir savunma paktı imzalandığı bildirildi. Pakistan'dan yapılan açıklamada, üç ülkeden herhangi birine yönelik bir saldırının, tümüne yapılmış sayılacağı belirtildi. Bu anlaşma, Orta Doğu'daki mevcut çatışmaların ortasında gerçekleşti. Paktın detayları ve bölgesel güvenlik üzerindeki potansiyel etkileri merak konusu oldu.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/world/explosion-heard-in-saudi-arabias-jubail-as-fire-reported-at-gas-facilities-sources/4022196",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786231952412kf27j",
-        "title": "Suudi Arabistan'dan Türkiye ve Pakistan ile Savunma Yakınlaşması",
-        "summary": "Suudi Arabistan'ın savunma alanında Türkiye ve Pakistan ile ilişkilerini güçlendirme arayışına girmesi, ülkenin ABD'ye olan geleneksel bağımlılığına dair soruları gündeme getirdi. Bu stratejik yönelim değişikliği, Riyad'ın dış politika ve güvenlik yaklaşımlarında potansiyel bir dönüşüme işaret ediyor. Bölgesel güç dengelerini etkileyebilecek bu gelişme, aynı zamanda \"Mekke anlaşması\"nın karşılaştığı zorluklar bağlamında da değerlendiriliyor. Suudi Arabistan'ın bu adımı, Orta Doğu'daki ittifak yapıları ve uluslararası ilişkiler üzerinde önemli sonuçlar doğurabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10074704/pexels-photo-10074704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T23:32:32.412Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8261,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786231973468c01ar",
-        "title": "Husilerin saldırılarında en az 30 Yemen hükümet gücünün öldüğü bildirildi",
-        "summary": "Yemen'de Husiler tarafından gerçekleştirilen saldırılarda en az 30 Yemen hükümet gücünün hayatını kaybettiği bildirildi. Husiler, Marib ve Hadramawt vilayetlerinde bulunan \"Suudi askeri yığınaklarını\" hedef aldıklarını ve bu bölgelere füze ve insansız hava araçlarıyla saldırılar düzenlediklerini duyurdu. Saldırıların, Yemen'deki çatışmaların devam eden şiddetini gözler önüne serdiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-08T23:32:53.468Z",
-        "location": {
-            "lat": 15.4667,
-            "lng": 45.3333,
-            "name": "Marib, Yemen"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
