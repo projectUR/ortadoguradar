@@ -1,5 +1,21 @@
 [
     {
+        "id": "17863777406353ddr7",
+        "title": "Suriye Devlet Başkanı ve BM Mülteciler Yüksek Komiseri, erken iyileşme projeleri ve mültecilerin güvenli dönüşünü görüştü",
+        "summary": "Suriye Devlet Başkanı Ahmad al-Sharaa, Birleşmiş Milletler Mülteciler Yüksek Komiseri Barham Salih ile Şam'daki Halk Sarayı'nda bir araya geldi. Görüşmede, ülkedeki erken iyileşme projeleri ve Suriyeli mültecilerin güvenli bir şekilde evlerine dönüşü konuları ele alındı. Bu toplantı, Suriye'nin savaş sonrası toparlanma sürecinde uluslararası toplumla işbirliği arayışını ve mülteci krizine çözüm bulma çabalarını yansıtmaktadır. Mültecilerin durumu, Orta Doğu'da devam eden önemli insani ve siyasi meselelerden biri olmaya devam etmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T16:02:20.635Z",
+        "location": {
+            "lat": 33.51,
+            "lng": 36.28,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syrian-president-un-refugee-chief-discuss-early-recovery-projects-safe-return-of-refugees/4023427",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178637260739865eaj",
         "title": "Ben-Gvir'den Seçimler Öncesi Yapay Zeka Destekli Aç Filistinli Videosu Paylaşımı",
         "summary": "İsrailli aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in, yaklaşan seçimler öncesinde yapay zeka (AI) teknolojisiyle oluşturulmuş, açlık çeken bir Filistinliyi gösteren bir video paylaştığı bildirildi. Bu paylaşım, İsrail'deki siyasi kampanyalar sırasında Filistinlilerin insani durumunun ve çatışmanın propaganda aracı olarak kullanılmasını gündeme getirdi. Söz konusu video, bölgedeki hassas siyasi ve insani durumu bir kez daha gözler önüne sererken, seçim atmosferinde gerilimi artırabilecek bir adım olarak değerlendiriliyor. Ben-Gvir'in bu tür paylaşımları, genellikle tartışmalara yol açarak kamuoyunda geniş yankı uyandırıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1786265204943xaz8k",
-        "title": "Nagasaki Belediye Başkanı: 'İnsanlık ve Nükleer Silahlar Bir Arada Var Olamaz'",
-        "summary": "Japonya, ABD'nin atom bombası saldırısının yıl dönümünü anarken, Nagasaki Belediye Başkanı yaptığı açıklamada \"insanlık ve nükleer silahların bir arada var olamayacağını\" vurguladı. Belediye Başkanı, nükleer silahsız bir dünya çağrısını yineleyerek, bu tür silahların insanlık için oluşturduğu tehdide dikkat çekti. İkinci Dünya Savaşı'nda yaşanan trajik olayın anma törenleri kapsamında yapılan bu açıklama, küresel nükleer silahsızlanma çabalarına verilen desteği pekiştirdi. Bu mesaj, nükleer silahların yayılmasının endişe kaynağı olduğu bölgelerde de yankı bulmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T08:46:44.943Z",
-        "location": {
-            "lat": 32.75,
-            "lng": 129.8667,
-            "name": "Nagasaki, Japonya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
