@@ -1,5 +1,53 @@
 [
     {
+        "id": "178637260739865eaj",
+        "title": "Ben-Gvir'den Seçimler Öncesi Yapay Zeka Destekli Aç Filistinli Videosu Paylaşımı",
+        "summary": "İsrailli aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in, yaklaşan seçimler öncesinde yapay zeka (AI) teknolojisiyle oluşturulmuş, açlık çeken bir Filistinliyi gösteren bir video paylaştığı bildirildi. Bu paylaşım, İsrail'deki siyasi kampanyalar sırasında Filistinlilerin insani durumunun ve çatışmanın propaganda aracı olarak kullanılmasını gündeme getirdi. Söz konusu video, bölgedeki hassas siyasi ve insani durumu bir kez daha gözler önüne sererken, seçim atmosferinde gerilimi artırabilecek bir adım olarak değerlendiriliyor. Ben-Gvir'in bu tür paylaşımları, genellikle tartışmalara yol açarak kamuoyunda geniş yankı uyandırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3671145/pexels-photo-3671145.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T14:36:47.398Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17863726471860i5ez",
+        "title": "ABD'den İran İlişkilerine Yönelik 'Yarı Müzakere' Açıklaması",
+        "summary": "Eski ABD Başkanı Donald Trump, Amerika Birleşik Devletleri'nin İran ile yalnızca 'yarı müzakere' halinde olduğunu ifade etti. Bu açıklama, iki ülke arasındaki ilişkilerin mevcut durumunu yansıtırken, tam kapsamlı bir diplomatik sürecin henüz başlamadığını gösteriyor. ABD ve İran arasındaki gerilim, nükleer program ve bölgesel politikalar gibi konularda uzun süredir devam ediyor. Trump'ın bu sözleri, diplomatik çabaların sınırlı kaldığı ve ilişkilerdeki belirsizliğin sürdüğü bir döneme işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T14:37:27.186Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786372702820rmb7z",
+        "title": "İsrail, Oscar Ödüllü Filmde Yer Alan Filistinlinin Öldürülmesiyle İlgili Yerleşimciye Suçlama Yöneltti",
+        "summary": "İsrail makamları, Batı Şeria'da Oscar ödüllü bir filmde yer alan Filistinli Odeh Hathaleen'in öldürülmesiyle ilgili olarak bir İsrailli yerleşimciye suçlama yöneltti. Yinon Levy adlı yerleşimci, Temmuz 2025'te Hathaleen'i silahla vurarak taksirle adam öldürmekle suçlanıyor. Bu olay, İsrail-Filistin çatışmasının yaşandığı bölgede sivillerin güvenliği ve hukuki süreçlerin işleyişi hakkında endişeleri artırdı. Hathaleen'in ölümü ve ardından gelen bu suçlama, bölgedeki gerilimi ve adalet arayışını bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5222282/pexels-photo-5222282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T14:38:22.820Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786367668705wi19q",
         "title": "Sudan Ordusu, Batı Sudan'da RSF Saldırılarını Püskürttü",
         "summary": "Sudan ordusu, ülkenin batısındaki stratejik öneme sahip bir bölgede Hızlı Destek Kuvvetleri (RSF) paramiliter güçlerinin düzenlediği bir dizi saldırıyı başarıyla püskürttü. Bu gelişmeler, ordunun Batı Sudan üzerindeki kontrolünü yeniden tesis etme çabaları açısından kritik bir dönüm noktası olarak değerlendiriliyor. Bölgedeki çatışmaların yoğunluğu, Sudan'daki genel güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi. Ordu kaynakları, RSF'nin bölgedeki ilerleyişini durdurarak önemli bir başarı elde edildiğini belirtirken, çatışmaların devam edebileceği uyarısında bulundu. Bu durum, ülkedeki iç savaşın seyrini etkileyebilecek önemli bir gelişme olarak kaydedildi.",
@@ -748,54 +796,6 @@
             "name": "Nagasaki, Japonya"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786265261667ebsi6",
-        "title": "Yemen hükümet güçleri güneyde Husilere ait mevzileri vurduğunu açıkladı",
-        "summary": "Yemen hükümet güçleri, ülkenin güneyindeki Ad Dali vilayetinde Husilere ait mevzilere ve askeri teçhizata yönelik insansız hava aracı (İHA) saldırıları düzenlediğini bildirdi. Güney güçleri tarafından yapılan açıklamada, saldırıların Ad Dali vilayetindeki çeşitli cephe hatları boyunca gerçekleştirildiği belirtildi. Bu saldırıların, bölgedeki çatışmaların devam ettiğini ve gerilimin sürdüğünü gösterdiği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T08:47:41.667Z",
-        "location": {
-            "lat": 13.78,
-            "lng": 44.73,
-            "name": "Ad Dali, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-they-struck-houthi-positions-in-south/4022293",
-        "trendScore": 80,
-        "isBreaking": true
-    },
-    {
-        "id": "1786260820160akqmo",
-        "title": "İsrail, işgal altındaki Batı Şeria'da 627 yeni yerleşim birimi için ihale açtığını duyurdu",
-        "summary": "İsrail, işgal altındaki Batı Şeria'da 627 yeni yerleşim birimi inşa etmek üzere ihale açtığını bildirdi. Bu adım, uluslararası hukuka göre yasa dışı kabul edilen yerleşim faaliyetlerinin devamı niteliğindedir. Filistinli yetkililer, yeni yerleşim ihalesinin İsrail'in Filistinlilerin Kudüs ile bağlarını koparma çabalarını derinleştirdiği uyarısında bulundu. Söz konusu yerleşim birimlerinin inşası, bölgedeki gerilimi artırma ve iki devletli çözüm umutlarını zayıflatma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9754753/pexels-photo-9754753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T07:33:40.160Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17862608767192y92k",
-        "title": "İran'dan Yeni Talepler: Pezeşkian Anlaşma Arayışında",
-        "summary": "Üst düzey bir İranlı güvenlik yetkilisi, Hürmüz Boğazı'nın yeniden açılması için daha kapsamlı koşullar öne sürdü. Bu açıklama, İran'ın stratejik öneme sahip su yolu üzerindeki tutumunu güçlendirdiğini gösteriyor. Ülke içinde Pezeşkian'ın bir anlaşma arayışında olduğu bir döneme denk gelen bu yeni talepler, bölgesel ve uluslararası diplomasi çevrelerinde dikkatle izleniyor. Küresel petrol ticaretinin ana arterlerinden biri olan Hürmüz Boğazı'nın statüsüyle ilgili İran'dan gelen bu adımlar, enerji piyasaları ve uluslararası ilişkiler üzerinde potansiyel etkiler yaratabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4345477/pexels-photo-4345477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T07:34:36.719Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
