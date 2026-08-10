@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786398262199eqy04",
+        "title": "Türkiye, binlerce PKK savaşçısı için af benzeri yasa tasarısını onayladı",
+        "summary": "Türkiye Büyük Millet Meclisi, binlerce Kürdistan İşçi Partisi (PKK) savaşçısının sivil hayata dönüşünü öngören af benzeri bir yasa tasarısını onayladı. Tasarı, silahlarını bırakan ve şiddet eylemlerinden vazgeçen PKK üyelerinin yasal süreçler çerçevesinde topluma yeniden entegre olmalarını hedefliyor. Bu adım, Türkiye'nin uzun süredir devam eden PKK çatışmasına yönelik çözüm arayışlarının bir parçası olarak değerlendiriliyor. Yasa tasarısının detayları ve uygulanma şekli, önümüzdeki dönemde kamuoyunun gündeminde önemli bir yer tutacak.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5616794/pexels-photo-5616794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T21:44:22.199Z",
+        "location": {
+            "lat": 39,
+            "lng": 35,
+            "name": "Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178639477327571qv8",
         "title": "Netanyahu'dan Trump'ın Gazze Planına Ret: Nihai Karar Olmayabilir",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, eski ABD Başkanı Donald Trump yönetiminin Gazze için hazırladığı 15 maddelik planı reddettiği bildirildi. Trump yönetiminin bu ret kararını önemsemediği ve kararı İsrail'deki genel seçimler öncesi bir kampanya söylemi olarak değerlendirdiği belirtildi. Bu nedenle Netanyahu'nun ret kararının nihai bir söz olmayabileceği ifade edildi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17862751261902aqbq",
-        "title": "Yemen ordusu, saldırıların gerilimi tırmandırması sonrası Husileri uyardı",
-        "summary": "Yemen ordusu, ülkedeki Husilere yönelik bir uyarı yayınladı. Bu uyarı, son dönemde artan saldırıların bölgedeki gerilimi tırmandırma riskini artırmasının ardından geldi. Ordu, Husilerin eylemlerinin çatışmayı daha da derinleştirebileceği konusunda ikazda bulunarak, bölgedeki güvenlik durumunun bu gelişmelerle birlikte daha da hassas bir hal aldığını belirtti. Taraflar arasındaki gerilimin tırmanması, Yemen'deki insani krizi ve siyasi istikrarsızlığı daha da kötüleştirebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T11:32:06.190Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 44.5,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
