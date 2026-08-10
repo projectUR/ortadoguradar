@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786390351009r7j5o",
+        "title": "İran hiyerarşisinde konsolidasyon: Devrim Muhafızları gazisi kilit güvenlik rolüne atandı",
+        "summary": "İran'da dini liderin ofisi tarafından üst düzey güvenlik atamaları yapıldığı bildirildi. Açıklamaya göre, ülkenin yeni güvenlik şefi belirlenirken, deneyimli savaş komutanları da etkili pozisyonlara getirildi. Bu atamaların, İran hiyerarşisinde bir konsolidasyon sürecini yansıttığı ve Devrim Muhafızları (IRGC) kökenli isimlerin kilit rollerde görevlendirildiği belirtiliyor. Söz konusu değişikliklerin, ülkenin iç güvenlik ve dış politika yaklaşımlarında askeri tecrübeye verilen önemi artırabileceği değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14227138/pexels-photo-14227138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T19:32:31.009Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17863903894236rkgh",
+        "title": "Yemen Ordusu, Marib Vilayetinde Husileri İnsansız Hava Araçlarıyla Hedef Aldı",
+        "summary": "Yemen ordusu, ülkenin orta kesimindeki Marib vilayetinde Husi savaşçılarına yönelik insansız hava aracı saldırıları düzenledi. Silahlı Kuvvetler Medya Merkezi tarafından yapılan açıklamaya göre, Husilere ait mevziler, araçlar ve havan topu sistemleri çeşitli cephelerde başarıyla vuruldu. Bu operasyonlar, Yemen'deki iç savaşın devam eden çatışmalarını yansıtmaktadır. Marib vilayeti, Yemen'deki çatışmaların kilit noktalarından biri olarak stratejik öneme sahiptir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803717/pexels-photo-15803717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-10T19:33:09.423Z",
+        "location": {
+            "lat": 15.4667,
+            "lng": 45.3333,
+            "name": "Marib, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemens-army-targets-houthi-fighters-with-drones-in-central-marib-province/4023531",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786386260039erzxd",
         "title": "Umman, hasarlı tankerdeki büyük petrol sızıntısını kontrol altına almaya çalışıyor",
         "summary": "Umman açıklarında 'Caroline Bezengi' adlı bir tankerde meydana gelen büyük petrol sızıntısı yetkilileri harekete geçirdi. Umman, çevreye yayılan petrolü kontrol altına almak için yoğun çaba sarf ediyor. Söz konusu tankerin, Rusya'nın Batı yaptırımlarını aşmak için kullandığı 'gölge filo'nun bir parçası olduğuna inanılıyor. Bu durum, sızıntının çevresel etkilerinin yanı sıra uluslararası boyutunu da gündeme getiriyor. Yetkililer, deniz ekosistemine verilen zararı en aza indirmek ve sızıntının yayılmasını önlemek için çalışmalarını sürdürüyor.",
@@ -764,38 +796,6 @@
             "name": "Rabat, Fas"
         },
         "source": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786271863593hursh",
-        "title": "İran Cumhurbaşkanı Pezeshkian'dan 'ne savaş ne barış' durumuna son verme çağrısı",
-        "summary": "İran Cumhurbaşkanı Mesud Pezeshkian, ülkesinin 'ne savaş ne barış' olarak tanımlanan mevcut durumuna son verilmesi gerektiğini belirtti. Pezeshkian, ABD ile yaşanan çıkmazın sona erdirilmesi çağrısında bulunarak, kalıcı bir anlaşma için doğru zamanın geldiğini ifade etti. Bu açıklama, İran'ın dış politikasında ve uluslararası ilişkilerinde yeni bir dönemin sinyallerini taşıyor. Cumhurbaşkanı, ülkesinin ABD ile uzun süredir devam eden gerilimi sona erdirme arayışında olduğunu vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T10:37:43.593Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786271918608dp2k3",
-        "title": "İsrail Güçleri Roma Görüşmeleri Sonrası Güney Lübnan Köylerini Hedef Aldı",
-        "summary": "İsrail güçleri, Roma'da yapılan görüşmelerin ardından Güney Lübnan'daki köylere topçu ateşi açtı. Lübnan medyasına dayandırılan haberlere göre, Nabatiye vilayetine bağlı dört köy hedef alındı. Bu gelişme, bölgedeki güvenlik durumunu yeniden gündeme getirdi. Saldırının ardından can kaybı veya hasara ilişkin henüz resmi bir açıklama yapılmadı. Olay, İsrail-Lübnan sınırındaki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19867687/pexels-photo-19867687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T10:38:38.608Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.48,
-            "name": "Nabatiye, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-shell-southern-lebanese-villages-after-rome-talks/4022392",
         "trendScore": 85,
         "isBreaking": false
     }
