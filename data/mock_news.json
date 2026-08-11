@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786469361519wnnxg",
+        "title": "PSG - Aston Villa: UEFA Süper Kupa Maçı",
+        "summary": "Avrupa futbol sezonunun geleneksel açılış maçı olan UEFA Süper Kupa'da Paris Saint-Germain ve Aston Villa karşı karşıya gelecek. Bu karşılaşma, Avrupa futbolunun önde gelen iki kulübünü bir araya getiriyor. Katar'a ait Paris Saint-Germain ve Mısırlı bir iş insanının ortak sahibi olduğu Aston Villa arasındaki bu mücadele, Orta Doğu'dan gelen önemli yatırımların Avrupa futbolundaki etkisini de gözler önüne seriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/38083557/pexels-photo-38083557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-11T17:29:21.519Z",
+        "location": {
+            "lat": 0,
+            "lng": 0,
+            "name": "Belirtilmemiş"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786464438589i330h",
         "title": "Lübnan Parlamentosu İdam Cezasının Kaldırılmasına Oy Verdi, Orta Doğu'da Bir İlk",
         "summary": "Lübnan parlamentosu, tarihi bir kararla idam cezasının kaldırılması yönünde oy kullandı. Bu karar, Lübnan'ı Orta Doğu'da idam cezasını kaldıran ilk ülke konumuna getirdi. Alınan karara göre, idam cezaları ağırlaştırılmış müebbet hapis cezasına dönüştürülecek. Bu yasal değişiklik, ülkenin hukuk sisteminde önemli bir reformu temsil ediyor ve insan hakları savunucuları tarafından memnuniyetle karşılanması bekleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786358668943oyx2e",
-        "title": "UEFA, AFC ve CONCACAF'tan Infantino'nun Dünya Kupası Özelleştirme Planına Tepki",
-        "summary": "Üç büyük futbol konfederasyonu olan UEFA, AFC ve CONCACAF, FIFA Başkanı Gianni Infantino'nun Dünya Kupası'ndaki hisselerin satılmasına yönelik önerisine karşı ortak bir mektup yayımladı. Konfederasyonlar, Infantino'nun bu özelleştirme planını eleştirerek, FIFA'nın en değerli varlığı olan Dünya Kupası'nın geleceği hakkında endişelerini dile getirdi. Bu adım, küresel futbol yönetiminde önemli bir anlaşmazlığın sinyallerini veriyor. Mektupta, planın şeffaflık eksikliği ve potansiyel olumsuz etkileri vurgulandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38083557/pexels-photo-38083557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-10T10:44:28.943Z",
-        "location": {
-            "lat": 47.3769,
-            "lng": 8.5417,
-            "name": "Zurich, Switzerland"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
