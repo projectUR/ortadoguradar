@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786425092291oss1s",
+        "title": "Libya'nın Zaviye Rafinerisi'nde İHA Saldırısı Sonrası Büyük Yangın Çıktı",
+        "summary": "Libya'nın Zaviye kentindeki rafinerisinde, bir insansız hava aracı (İHA) saldırısının ardından büyük bir yangın çıktı. Ülkenin ulusal petrol şirketi, bu saldırılar nedeniyle önemli bir uyarıda bulundu. Şirket, İHA saldırılarının devam etmesi halinde ülkenin en büyük faal rafinerisi olan Zaviye tesisindeki operasyonları durdurmak zorunda kalabileceğini açıkladı. Bu durum, Libya'nın enerji üretimi ve ihracatı üzerinde ciddi etkiler yaratma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5884386/pexels-photo-5884386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-11T05:11:32.291Z",
+        "location": {
+            "lat": 32.75,
+            "lng": 12.73,
+            "name": "Zaviye, Libya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1786420132827owwyc",
         "title": "ABD'nin Silah Stokları Tükenirken Savunma Harcamaları Sorgulanıyor: İran Savaşı Etkisi",
         "summary": "Amerika Birleşik Devletleri'nin silah stoklarında yaşanan azalmalar gündeme geldi. Bu durumun, 'İran'a karşı savaş' senaryosuyla birlikte daha belirgin hale geldiği ve yıllardır süren savunma harcamalarının etkinliği hakkında soruları beraberinde getirdiği belirtiliyor. ABD'nin askeri envanterindeki bu eksiklikler, özellikle Orta Doğu'da İran gibi büyük bir ülkeyle olası bir çatışmada operasyonel sürdürülebilirlik açısından zorluklar yaratabileceği endişesini doğuruyor. Gelişme, ABD'nin askeri hazırlık durumu ve stratejik planlamasının yeniden değerlendirilmesi gerektiği yönündeki tartışmaları alevlendiriyor.",
@@ -780,22 +796,6 @@
             "name": "İsrail"
         },
         "source": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786289680028ikfo6",
-        "title": "İsrail, Trump'ın Gazze Planını Reddetti: Şimdi Ne Olacak?",
-        "summary": "İsrail'in, eski ABD Başkanı Donald Trump tarafından hazırlanan Gazze'ye yönelik 15 maddelik planı reddetmesi bölgedeki durumu yeniden gündeme getirdi. İsrail Başbakanı Binyamin Netanyahu, Gazze Şeridi'nden olası bir çekilmeyi değerlendirmeden önce Hamas'ın 'gerçek' bir şekilde silahsızlandırılmasını şart koştu. Bu gelişme, Gazze'nin geleceği ve bölgedeki siyasi dinamikler üzerinde önemli soruları beraberinde getiriyor. Uluslararası toplumun ve ilgili tarafların atacağı adımlar merakla bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-09T15:34:40.028Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
