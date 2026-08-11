@@ -1,5 +1,53 @@
 [
     {
+        "id": "1786442849688rqmj0",
+        "title": "Küresel Güney'in Dijital Geleceği Bezos ve Musk'a Ait Olmamalı",
+        "summary": "Küresel Güney ülkelerinin dijital geleceği ve uydu internet erişimi konusunda önemli bir uyarı yapıldı. Haber, uydu internetinin dijital uçurumu kapatma potansiyeline sahip olduğunu belirtirken, Küresel Güney'in bu erişimi yabancı firmalara bağımlılık karşılığında takas etmemesi gerektiğini vurguluyor. Özellikle Amazon'dan Jeff Bezos ve SpaceX'ten Elon Musk gibi teknoloji devlerinin kontrolündeki sistemlere bağımlılığın, bu ülkeler için yeni bir sömürü biçimi yaratabileceği ifade ediliyor. Uzmanlar, Küresel Güney'in kendi dijital egemenliğini koruyarak kapsayıcı ve sürdürülebilir bir dijital gelecek inşa etmesi gerektiğinin altını çiziyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/14599189/pexels-photo-14599189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-11T10:07:29.688Z",
+        "location": {
+            "lat": 30,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786442873883ljpf9",
+        "title": "Irak'ın yarı özerk Kürt bölgesi, ABD-İran savaşının uzamasıyla zarar görüyor",
+        "summary": "Irak'ın yarı özerk Kürdistan Bölgesi, ABD ile İran arasındaki gerilimin devam etmesi nedeniyle ekonomik olarak olumsuz etkileniyor. Kürdistan Bölgesel Yönetimi (KBY) tarafından yapılan açıklamaya göre, bölgenin ticaret hacminin yüzde 70 oranında azaldığı bildirildi. Bu düşüşün, bölgesel çatışmalar ve artan istikrarsızlıklar sonucunda meydana geldiği belirtiliyor. ABD-İran arasındaki gerilimin uzaması, bölgedeki ticaret yollarını ve ekonomik faaliyetleri sekteye uğratarak Kürdistan Bölgesi'nin ekonomisine önemli bir darbe vurdu. KBY yetkilileri, bu durumun bölge halkının yaşam koşulları üzerindeki olumsuz etkileri konusunda endişelerini dile getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-11T10:07:53.883Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 44.01,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1786442962459meqw1",
+        "title": "İsrail İHA'sı, ABD Anlaşmasına Rağmen Güney Lübnan'da Ambulans Ekiplerini Hedef Aldı",
+        "summary": "Lübnan medyasına göre, İsrail'e ait bir insansız hava aracı (İHA) güney Lübnan'da ambulans ekiplerini hedef aldı. Nabatiye bölgesinde gerçekleşen saldırıda çok sayıda ambulansın hasar gördüğü bildirildi. Olayın, ABD'nin arabuluculuğunda yapılan bir anlaşmaya rağmen meydana geldiği belirtildi. Bu saldırı, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası insancıl hukuk ihlali iddialarını gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-11T10:09:22.459Z",
+        "location": {
+            "lat": 33.57,
+            "lng": 35.48,
+            "name": "Nabatiye, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-shells-ambulance-teams-in-southern-lebanon-despite-us-deal/4023980",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786438821864cpcn8",
         "title": "Beşar Esad ve Atıf Necip'e Tarihi Suriye Davasında İdam Cezası Verildi",
         "summary": "Suriye'de tarihi bir davada Devlet Başkanı Beşar Esad ve Atıf Necip hakkında idam cezası verildiği bildirildi. Bu karar, Suriye iç savaşının başlangıcından bu yana yaşanan olaylarla ilgili önemli bir gelişme olarak değerlendirilmektedir. Haber ajansları, kararın detayları ve hangi mahkeme tarafından verildiği konusunda henüz tam bilgiye ulaşamadıklarını belirtmektedir. Bu gelişmenin bölgedeki siyasi dengeler üzerinde potansiyel etkileri olabileceği vurgulanırken, dünya kamuoyuna son dakika gelişmesi olarak duyurulmuştur.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786348155853fh32x",
-        "title": "Petrol Fiyatları, İran'ın Hürmüz Boğazı İçin Şartlar Belirlemesiyle Yükseldi",
-        "summary": "Petrol fiyatları, İran'ın Hürmüz Boğazı'nın yeniden açılması için koşullar öne sürmesiyle yükselişe geçti. Brent ham petrolünün fiyatı yüzde 1'den fazla artış gösterdi. Tahran yönetimi, bu stratejik su yolunu uluslararası deniz trafiğine yeniden açmadan önce, kendisine uygulanan yaptırımların kaldırılmasını ve savaş tazminatı ödenmesini talep ediyor. Bu durum, küresel enerji piyasalarında belirsizliğe yol açarken, Orta Doğu'daki jeopolitik gerilimi de artırıyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/932577/pexels-photo-932577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-10T07:49:15.853Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oil-prices-rise-as-iran-sets-conditions-for-reopening-strait-of-hormuz/4022703",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786348176526vwt6p",
-        "title": "Suudi Arabistan'da Kanepe Fabrikası Yangınında 16 Bangladeşli Hayatını Kaybetti",
-        "summary": "Suudi Arabistan'da bir kanepe fabrikasında çıkan yangında 16 Bangladeşli işçi yaşamını yitirdi. Bu trajik olay, ülkedeki göçmen işçilerin çalışma koşulları ve güvenliği konusundaki endişeleri yeniden gündeme getirdi. Suudi Arabistan, tahmini 3,5 milyon Bangladeşli göçmen işçiye ev sahipliği yaparak Bangladeş için en büyük işgücü destinasyonu konumundadır. Yaşanan bu facia, bölgedeki göçmen işçilerin karşılaştığı riskleri ve yaşam koşullarını bir kez daha gözler önüne sermiştir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/22589125/pexels-photo-22589125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-10T07:49:36.526Z",
-        "location": {
-            "lat": 23.8859,
-            "lng": 45.0792,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/16-bangladeshis-killed-in-saudi-sofa-factory-fire/4022702",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1786348200932exvwx",
-        "title": "ABD, Yemen'e desteğini yineledi, Husilerle çatışmalar yeniden alevlendi",
-        "summary": "ABD, Yemen'deki çatışmaların yeniden şiddetlenmesi üzerine ülkeye desteğini bir kez daha teyit etti. Washington yönetimi, ABD elçisinin Yemen Başkanlık Konseyi başkanıyla yaptığı görüşmede deniz güvenliği ve terörle mücadele konularına vurgu yaptı. Görüşmede, Yemen'deki insani kriz ve bölgesel istikrarın önemi de ele alındı. ABD'nin bu adımı, Husilerle yaşanan son çatışmaların ardından geldi ve bölgedeki gerilimi düşürme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6389193/pexels-photo-6389193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-10T07:50:00.932Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/world/us-reaffirms-support-for-yemen-amid-renewed-clashes-with-houthis/4022692",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
