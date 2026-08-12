@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786563720668ubalz",
+        "title": "Somali'de Kuraklık Nedeniyle Binlerce Kişi Yerinden Oldu, Yardım Azalıyor",
+        "summary": "Somali'de uzun süredir devam eden kuraklık, binlerce ailenin geçim kaynaklarını yok etti. Açlık çeken aileler, hayvanlarını ve tarım arazilerini kaybetmenin eşiğinde. Ülke genelinde yaşanan bu insani kriz, yerinden edilmelere yol açarken, uluslararası yardımların keskin bir şekilde azalması durumu daha da kötüleştiriyor. Birleşmiş Milletler ve insani yardım kuruluşları, bölgedeki acil ihtiyaçlara dikkat çekerek, gıda ve su kıtlığının derinleştiği konusunda uyarıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5417348/pexels-photo-5417348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T19:42:00.668Z",
+        "location": {
+            "lat": 5,
+            "lng": 46,
+            "name": "Somali"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786559464103iwf84",
         "title": "Umman'da Karaya Oturan Tankerden Petrol Sızıntısı: Sahiller Etkilendi",
         "summary": "Umman Çevre Otoritesi, karaya oturan bir tankerde meydana gelen petrol sızıntısının ülkenin Ras Madrakah bölgesindeki sahilleri etkilediğini duyurdu. Yapılan açıklamada, sızıntıdan kaynaklanan kirliliğin yaklaşık 25 millik (yaklaşık 40 kilometre) bir kıyı şeridine yayılabileceği uyarısı yapıldı. Yetkililer, durumun çevresel etkilerini değerlendirirken, sızıntının kontrol altına alınması ve temizlik çalışmalarının başlatılması için adımlar atıldığını bildirdi. Olayın, bölgedeki deniz ekosistemi ve kıyı turizmi üzerinde olumsuz etkiler yaratmasından endişe ediliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1786438930325w78oj",
-        "title": "Suriye mahkemesi, Beşar Esad'ı gıyabında idama mahkum etti",
-        "summary": "Şam'da bir mahkeme, Suriye Devlet Başkanı Beşar Esad'ı gıyabında idama mahkum etti. Mahkeme, Esad'ı cinayet, işkence, keyfi gözaltı ve insanlığa karşı suçlardan suçlu buldu. Bu karar, Esad'ın yokluğunda alındı ve Suriye'deki iç savaş sürecinde işlenen suçlara yönelik önemli bir hukuki gelişme olarak kaydedildi. Kararın uluslararası yankıları olması bekleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9932165/pexels-photo-9932165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T09:02:10.325Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrian-court-sentences-ex-president-bashar-al-assad-to-death-in-absentia/4023949",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
