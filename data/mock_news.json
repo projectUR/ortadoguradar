@@ -1,5 +1,21 @@
 [
     {
+        "id": "17865677745210irbm",
+        "title": "İsrail, Lübnan, Gazze ve Suriye'den Asker Çekmeyeceğini Duyurdu",
+        "summary": "İsrail Savunma Bakanı Israel Katz, ülkesinin Lübnan, Gazze ve Suriye'deki askeri varlığını sürdüreceğini açıkladı. Bakan Katz, İsrail'in bu bölgelerden askerlerini \"hiçbir koşulda\" çekmeyeceğini kesin bir dille ifade etti. Bu açıklama, İsrail'in bölgesel güvenlik politikalarına ilişkin kararlı duruşunu ortaya koymaktadır. Söz konusu bölgeler, İsrail'in stratejik çıkarları ve güvenlik endişeleri açısından kritik öneme sahip olarak biliniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/669290/pexels-photo-669290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T20:49:34.521Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786563720668ubalz",
         "title": "Somali'de Kuraklık Nedeniyle Binlerce Kişi Yerinden Oldu, Yardım Azalıyor",
         "summary": "Somali'de uzun süredir devam eden kuraklık, binlerce ailenin geçim kaynaklarını yok etti. Açlık çeken aileler, hayvanlarını ve tarım arazilerini kaybetmenin eşiğinde. Ülke genelinde yaşanan bu insani kriz, yerinden edilmelere yol açarken, uluslararası yardımların keskin bir şekilde azalması durumu daha da kötüleştiriyor. Birleşmiş Milletler ve insani yardım kuruluşları, bölgedeki acil ihtiyaçlara dikkat çekerek, gıda ve su kıtlığının derinleştiği konusunda uyarıyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17864388647703jjvd",
-        "title": "İran Tehdidi, Trump'ın Türkiye'den Gizli Uçuşuna Yol Açtı İddiası",
-        "summary": "Eski ABD Başkanı Donald Trump'ın, İran'dan gelen bir tehdit nedeniyle Türkiye'den gizli bir uçuş gerçekleştirdiği iddia edildi. Raporlara göre, Trump bu uçuş sırasında basın ekibi ve bazı Beyaz Saray personelinin bilgisi dışında, uçak değiştirmek için bir ikram arabası kullandı. Bu gizli operasyonun, dönemin ABD yönetiminin İran'a yönelik politikaları ve bölgedeki güvenlik endişeleri bağlamında gerçekleştiği belirtiliyor. Olay, ABD'nin bölgedeki diplomatik ve güvenlik stratejileri hakkında yeni tartışmaları beraberinde getirebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/943922/pexels-photo-943922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T09:01:04.770Z",
-        "location": {
-            "lat": 39,
-            "lng": 35,
-            "name": "Türkiye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
