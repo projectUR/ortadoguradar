@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786555817823ohegs",
+        "title": "PSG - Aston Villa UEFA Süper Kupa 2026 Karşılaşması",
+        "summary": "UEFA Süper Kupa 2026'da Paris Saint-Germain (PSG) ile Aston Villa karşı karşıya gelecek. Bu karşılaşma, Avrupa futbolunun iki önemli kulübünü bir araya getirerek büyük bir ilgi odağı olacak. PSG'nin Katarlı sahipliği ve Aston Villa'nın Mısırlı ortak sahipliği, bu maçın Orta Doğu'nun spor yatırımları ve yumuşak güç stratejileri açısından dolaylı bir ilgi taşımasına neden olmaktadır. Maçın canlı yayın ve metin güncellemeleri taraftarlara anlık bilgi sağlayacak olup, PSG'nin yıldız oyuncuları Dembele, Doue ve Barcola'nın sahada olması bekleniyor. Her iki takım da bu prestijli kupayı kazanarak koleksiyonlarına yeni bir başarı eklemeyi hedefliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/12239377/pexels-photo-12239377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T17:30:17.823Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786550467214nb205",
         "title": "Rusya Ekonomisi Orta Doğu'daki Savaşa Rağmen Zorlanıyor mu?",
         "summary": "Rusya ekonomisi, artan bütçe açığı ve Ukrayna saldırıları nedeniyle ciddi baskı altında. Ülke ekonomisi bu zorluklarla mücadele ederken, Orta Doğu'daki savaşın küresel petrol fiyatlarını yükseltmesi Rusya'nın petrol gelirlerini artırıyor. Bu durum, Rus ekonomisi üzerindeki bazı olumsuz etkileri hafifletse de, genel ekonomik zorluklar devam ediyor. Haber, Rusya'nın hem iç hem de dış faktörlerin etkisi altında bir ekonomik denge arayışında olduğunu gösteriyor.",
@@ -780,22 +796,6 @@
             "name": "Zawiya, Libya"
         },
         "source": "https://www.aa.com.tr/en/middle-east/libya-s-national-oil-corporation-warns-of-force-majeure-at-zawiya-complex-after-drone-attacks/4023946",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786438976204w6ko5",
-        "title": "Bab el-Mendeb'de Ticari Gemiye Husi Saldırısı: 3 Mürettebat Hayatını Kaybetti",
-        "summary": "Bab el-Mendeb Boğazı'nda seyreden bir ticari gemiye Husiler tarafından düzenlenen saldırıda üç mürettebat hayatını kaybetti. Saldırıda yaşamını yitirenlerin iki Pakistanlı ve bir Endonezyalı olduğu bildirildi. Olayla ilgili olarak Husilerden henüz resmi bir açıklama gelmezken, bu gelişme bölgedeki denizcilik güvenliğine yönelik endişeleri artırdı. Bölge, küresel ticaret için stratejik öneme sahip bir geçiş noktasıdır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7777508/pexels-photo-7777508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T09:02:56.204Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 43.3,
-            "name": "Bab el-Mendeb Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-crew-members-killed-after-houthi-attack-on-commercial-vessel-in-bab-al-mandeb/4023888",
         "trendScore": 85,
         "isBreaking": false
     }
