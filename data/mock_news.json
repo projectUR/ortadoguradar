@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786500662556hk9j1",
+        "title": "İran Parlamentosu, Hürmüz Boğazı'nda 'Düşman' Gemilere Kısıtlama Getiren Yasa Tasarısı Hazırlıyor",
+        "summary": "İran parlamentosu, Hürmüz Boğazı üzerindeki yetkisini ve kontrolünü güçlendirmeyi hedefleyen yeni bir yasa tasarısı üzerinde çalışıyor. Tasarıya göre, 'düşman' olarak nitelendirilen ülkelerin askeri ve ticari gemilerinin Basra Körfezi'ne girişi için İran'dan önceden izin alması gerekecek. Bu düzenleme, İran'ın stratejik su yolu üzerindeki egemenliğini pekiştirmeyi amaçlıyor. Söz konusu yasa tasarısının uluslararası denizcilik ve bölgesel ilişkiler üzerinde önemli etkileri olabileceği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T02:11:02.556Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-parliament-prepares-hormuz-bill-to-restrict-hostile-vessels-in-gulf/4024667",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786488429501d19id",
         "title": "Irak Başbakanı, silahların devlet kontrolüne alınması için yasa tasarısı talimatı verdi",
         "summary": "Irak Başbakanı, ülkedeki tüm silahların devlet kontrolü altına alınmasını sağlayacak bir yasa tasarısı hazırlanması talimatı verdi. Devlet medyası tarafından aktarılan bilgilere göre, Başbakan istikrarı artırmak ve hükümetin kalkınma planlarını desteklemek amacıyla yürütme ve yasama organları arasında daha yakın koordinasyon çağrısında bulundu. Bu adımın, ülkedeki güvenlik durumunu iyileştirmeyi ve yasa dışı silahlanmanın önüne geçmeyi hedeflediği belirtiliyor. Söz konusu yasa tasarısının, Irak'ın iç güvenliği ve siyasi istikrarı açısından kritik öneme sahip olduğu vurgulanıyor. Bu gelişme, ülkenin uzun süredir devam eden güvenlik sorunlarına kalıcı çözümler bulma çabalarının bir parçası olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786382778564bdcdg",
-        "title": "İran Cumhurbaşkanı Pezeshkian'dan Yüce Lider Hamenei'nin 'Birlik ve Beraberlik' Mesajı Açıklaması",
-        "summary": "İran Cumhurbaşkanı Masoud Pezeshkian, Yüce Lider Ayetullah Mojtaba Hamenei'nin önemli bir mesaj ilettiğini duyurdu. Cumhurbaşkanı Pezeshkian'ın açıklamasına göre, Hamenei'nin mesajı 'birlik ve beraberlik' vurgusu taşıyor. Bu açıklama, İran'ın iç siyasetindeki mevcut durumu ve liderlik kademesinden gelen beklentileri yansıtıyor. Yeni cumhurbaşkanının bu tür bir mesajı kamuoyuna duyurması, ülkedeki siyasi ve toplumsal atmosferin bir göstergesi olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7147498/pexels-photo-7147498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-10T17:26:18.564Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
     }
 ]
