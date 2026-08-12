@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786571416856gkstf",
+        "title": "Gazze'de 11 Yaşındaki Çocuk İsrail Güçleri Tarafından Vuruldu",
+        "summary": "Gazze Şeridi'nin Han Yunus kentinde 11 yaşındaki bir çocuğun İsrail güçleri tarafından vurulduğu bildirildi. Çocuğun babası, oğlunun başından ve bacağından isabet aldığını ifade etti. Olayın ardından çocuğun hastaneye kaldırıldığı ve tedavi altına alındığı belirtildi. İsrail makamlarından konuya ilişkin henüz bir açıklama yapılmazken, bölgedeki gerilimin devam ettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8336958/pexels-photo-8336958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T21:50:16.856Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Han Yunus, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786571468476erqzi",
+        "title": "İsrailli yerleşimciler Batı Şeria köyünde Filistinli aileleri kuşatıyor",
+        "summary": "Batı Şeria'da İsrailli yerleşimcilerin Filistinli aileleri kuşattığı bildirildi. Pazar gününden bu yana iki ailenin kuşatma altında olduğu belirtilirken, bölgedeki İsrail güvenlik güçlerinin olay yerinden çekildiği kaydedildi. Yaklaşık bir düzine yerleşimcinin ise kuşatmanın devam ettiği alanda kaldığı ifade edildi. Bu gelişme, İsrail-Filistin çatışmasının yaşandığı Batı Şeria'daki gerilimi artırabilecek nitelikte.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6402844/pexels-photo-6402844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T21:51:08.476Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17865677745210irbm",
         "title": "İsrail, Lübnan, Gazze ve Suriye'den Asker Çekmeyeceğini Duyurdu",
         "summary": "İsrail Savunma Bakanı Israel Katz, ülkesinin Lübnan, Gazze ve Suriye'deki askeri varlığını sürdüreceğini açıkladı. Bakan Katz, İsrail'in bu bölgelerden askerlerini \"hiçbir koşulda\" çekmeyeceğini kesin bir dille ifade etti. Bu açıklama, İsrail'in bölgesel güvenlik politikalarına ilişkin kararlı duruşunu ortaya koymaktadır. Söz konusu bölgeler, İsrail'in stratejik çıkarları ve güvenlik endişeleri açısından kritik öneme sahip olarak biliniyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-shells-ambulance-teams-in-southern-lebanon-despite-us-deal/4023980",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786438821864cpcn8",
-        "title": "Beşar Esad ve Atıf Necip'e Tarihi Suriye Davasında İdam Cezası Verildi",
-        "summary": "Suriye'de tarihi bir davada Devlet Başkanı Beşar Esad ve Atıf Necip hakkında idam cezası verildiği bildirildi. Bu karar, Suriye iç savaşının başlangıcından bu yana yaşanan olaylarla ilgili önemli bir gelişme olarak değerlendirilmektedir. Haber ajansları, kararın detayları ve hangi mahkeme tarafından verildiği konusunda henüz tam bilgiye ulaşamadıklarını belirtmektedir. Bu gelişmenin bölgedeki siyasi dengeler üzerinde potansiyel etkileri olabileceği vurgulanırken, dünya kamuoyuna son dakika gelişmesi olarak duyurulmuştur.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7051772/pexels-photo-7051772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T09:00:21.864Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/11/bashar-al-assad-atef-najib-sentenced-to-death-in-landmark-syria-trial?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1786438843002x6zfo",
-        "title": "Trump'tan İran Stratejisi Hakkında Çelişkili Sinyaller",
-        "summary": "ABD Başkanı Trump'ın İran'a yönelik stratejisi konusunda çelişkili sinyaller verdiği belirtiliyor. Bu durum, Washington'ın Tahran'a karşı izleyeceği politikanın belirsizliğini artırıyor. Uluslararası gözlemciler, bu çelişkili mesajların bölgedeki gerilimi etkileyebileceğini ve diplomatik arenada farklı yorumlara yol açabileceğini ifade ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T09:00:43.002Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
