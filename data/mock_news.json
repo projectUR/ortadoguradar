@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786550467214nb205",
+        "title": "Rusya Ekonomisi Orta Doğu'daki Savaşa Rağmen Zorlanıyor mu?",
+        "summary": "Rusya ekonomisi, artan bütçe açığı ve Ukrayna saldırıları nedeniyle ciddi baskı altında. Ülke ekonomisi bu zorluklarla mücadele ederken, Orta Doğu'daki savaşın küresel petrol fiyatlarını yükseltmesi Rusya'nın petrol gelirlerini artırıyor. Bu durum, Rus ekonomisi üzerindeki bazı olumsuz etkileri hafifletse de, genel ekonomik zorluklar devam ediyor. Haber, Rusya'nın hem iç hem de dış faktörlerin etkisi altında bir ekonomik denge arayışında olduğunu gösteriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/932577/pexels-photo-932577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T16:01:07.214Z",
+        "location": {
+            "lat": 55.75,
+            "lng": 37.61,
+            "name": "Moskova, Rusya"
+        },
+        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17865453777439tuhl",
         "title": "Lübnan, Ölüm Cezasının Kaldırılmasından Bir Gün Sonra Uzun Süredir Beklenen Af Yasasını Kabul Etti",
         "summary": "Lübnan Parlamentosu, uzun süredir beklenen bir af yasasını onayladı. Bu yasa, ülkedeki ölüm cezasının kaldırılmasından sadece bir gün sonra kabul edildi. Lübnan Meclis Başkanı'nın açıklamasına göre, yeni mevzuat belirli hapis cezalarını \"istisnai olarak\" azaltacak. Bu adım, ülkenin ceza infaz sisteminde önemli bir reform olarak değerlendiriliyor ve mahkumların durumunu etkileyecek.",
@@ -780,22 +796,6 @@
             "name": "Bab el-Mendeb Boğazı"
         },
         "source": "https://www.aa.com.tr/en/middle-east/3-crew-members-killed-after-houthi-attack-on-commercial-vessel-in-bab-al-mandeb/4023888",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786434473498dbw39",
-        "title": "Donald Trump, Gianni Infantino'nun FIFA Başkanlığından Ayrılmasının 'Korkunç Bir Hata' Olacağını Söyledi",
-        "summary": "Eski ABD Başkanı Donald Trump, FIFA Başkanı Gianni Infantino'nun görevden alınmasının 'korkunç bir hata' olacağını ifade etti. Trump'ın bu yorumları, 28 Temmuz'da FFE planlarının sızdırılmasından bu yana FIFA başkanını ilk kez savunması olarak kayıtlara geçti. Küresel futbol yönetimindeki liderlik tartışmalarına ilişkin önemli bir siyasi figürden gelen bu destek, Infantino'nun özellikle 2022 Dünya Kupası'nın Katar'da düzenlenmesindeki rolü ve Orta Doğu ile olan güçlü bağları nedeniyle bölge için dolaylı bir önem taşıyabilir. Bu açıklama, küresel spor diplomasisi ve uluslararası ilişkiler bağlamında değerlendirilmektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38862934/pexels-photo-38862934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T07:47:53.498Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
