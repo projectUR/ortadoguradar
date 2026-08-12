@@ -1,5 +1,53 @@
 [
     {
+        "id": "17865405400462av5g",
+        "title": "Mısırlı Öğrenci Kaçırılmasını Canlı Yayınladı",
+        "summary": "Mısır'da bir öğrenci, kaçırılma anlarını sosyal medya üzerinden canlı yayınlayarak kamuoyunun dikkatini çekti. Olay, ülkenin güvenlik güçlerini harekete geçirirken, canlı yayın görüntüleri hızla yayıldı. Yetkililer, öğrencinin bulunması ve faillerin yakalanması için geniş çaplı bir soruşturma başlattı. Bu olay, sosyal medya üzerinden yaşanan suçların görünürlüğünü ve güvenlik endişelerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7785074/pexels-photo-7785074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T13:15:40.046Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Mısır"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17865405635490rxll",
+        "title": "Üst Düzey İranlı Komutan Silahsızlanma Planı İçin Irak'ı Ziyaret Etti",
+        "summary": "Bir kaynağa göre, üst düzey bir İranlı komutanın Irak'ı ziyaret ettiği bildirildi. Ziyaretin ana gündem maddesi, Irak hükümetinin ülkedeki silahlı grupları silahsızlandırma ve tüm silahları devlet kontrolü altına alma planı oldu. İran Devrim Muhafızları Kudüs Gücü Komutanı İsmail Kaani'nin, bu plan çerçevesinde Iraklı yetkililerle görüşmeler yaptığı belirtildi. Görüşmelerde, Irak'ın iç güvenliği ve bölgesel istikrarın sağlanması konularının ele alındığı tahmin ediliyor. Bu ziyaret, Irak'ın egemenliğini güçlendirme çabaları ve bölgesel aktörlerin bu sürece olası etkileri açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11421284/pexels-photo-11421284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T13:16:03.549Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17865406200704cpvl",
+        "title": "Suriye'de Eski Rejim Figürlerine İdam Cezaları",
+        "summary": "Suriye'de, 2011'deki Deraa olayları ve ülkedeki iç savaş sırasında işlenen ihlalleri inceleyen önemli bir davada, eski hükümetten sekiz isim hakkında idam cezası verildi. Bu karar, Beşar Esad ve eski rejim figürlerine karşı açılan davalar kapsamında değerlendiriliyor. Mahkeme süreci, Suriye'deki çatışmalar sırasında meydana gelen insan hakları ihlallerine yönelik hesap verebilirliğin sağlanması açısından kritik bir adım olarak görülüyor. Verilen cezalar, ülkenin yakın geçmişindeki olaylarla yüzleşme ve adalet arayışının bir göstergesi olarak yorumlanmaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6077503/pexels-photo-6077503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T13:17:00.070Z",
+        "location": {
+            "lat": 32.6167,
+            "lng": 36.1,
+            "name": "Daraa, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/in-5-questions-syria-s-death-sentences-against-assad-and-former-regime-figures/4025313",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1786535345937slnel",
         "title": "Putin'den Avrupa'ya Rus Gemilerine El Konulması Halinde Misilleme Uyarısı",
         "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ülkelerinin Rus kargosu taşıyan gemilere el koyması durumunda Moskova'nın misilleme yapacağı uyarısında bulundu. Putin, Rusya'nın 'gerektiği her yerde' benzer şekilde karşılık vereceğini belirtti. Bu açıklama, Rusya ile Batı arasındaki gerilimin denizcilik ve ticaret alanına yayılabileceğine işaret ediyor. Söz konusu misilleme tehdidi, uluslararası denizcilik ve ticaret hukukunda yeni bir tartışma başlatma potansiyeli taşıyor ve küresel enerji ve ticaret akışlarını etkileyebilir.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17864345579636cerf",
-        "title": "İsrail ordusu, Filistinli bir adamın evini ölümünden haftalar sonra yıktı",
-        "summary": "İsrail ordusu, Tal bölgesinde 'işgalci saldırısı' sırasında hayatını kaybeden Filistinli Farouk Ramadan'ın evini yıktı. Olay, Ramadan'ın ölümünden haftalar sonra gerçekleşti. Bu yıkım, İsrail-Filistin çatışması bağlamında gerilimi artıran bir gelişme olarak kaydedildi. Bölgedeki güvenlik durumu ve insan hakları ihlalleri tartışmalarını yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11461003/pexels-photo-11461003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T07:49:17.963Z",
-        "location": {
-            "lat": 32.17,
-            "lng": 35.2,
-            "name": "Tal, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-blows-up-palestinian-mans-home-weeks-after-his-killing/4023800",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786434582417kdsoq",
-        "title": "Tunus'taki Ennahda Hareketi'nin tutuklu lideri açlık grevini sonlandırdı",
-        "summary": "Tunus'taki Ennahda Hareketi'nin tutuklu lideri Raşid Gannuşi'nin açlık grevine son verdiği bildirildi. Gannuşi'nin savunma ekibi tarafından yapılan açıklamada, liderin açlık grevini sağlık personelinin talebi üzerine bitirdiği belirtildi. Savunma ekibi, Gannuşi'nin 'tecrit' durumuna son verilmesi yönündeki taleplerini de yineledi. Tunus siyasetinin önemli figürlerinden biri olan Gannuşi'nin tutukluluğu ve sağlık durumu, ülke gündeminde yakından takip ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7103113/pexels-photo-7103113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T07:49:42.417Z",
-        "location": {
-            "lat": 36.8065,
-            "lng": 10.1815,
-            "name": "Tunus, Tunus"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jailed-leader-of-tunisia-s-ennahda-movement-ends-hunger-strike/4023709",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17864346047397lujp",
-        "title": "İsrail, Kudüs'te Yaklaşık 650 Konutluk Yeni Yerleşim Planını İlerletiyor",
-        "summary": "İsrail'in Kudüs Valiliği tarafından yapılan açıklamaya göre, yaklaşık 650 konutluk yeni bir yerleşim birimi projesi ilerletiliyor. Söz konusu proje, Kudüs'ün güneyinde, Filistinlilere ait evlere bitişik araziler üzerinde inşa edilmeyi planlıyor. Bu adım, uluslararası hukuka göre yasa dışı kabul edilen yerleşim faaliyetlerinin devamı niteliğinde olup, bölgedeki gerilimi artırma potansiyeli taşıyor. Filistinli yetkililer ve uluslararası toplum, bu tür yerleşim genişletmelerinin iki devletli çözüm çabalarını baltaladığını belirtiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16049973/pexels-photo-16049973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T07:50:04.739Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-advances-illegal-settlement-plan-for-around-650-housing-units-jerusalem-governorate/4023707",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
