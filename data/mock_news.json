@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786514191254gi35b",
+        "title": "Trump ve Netanyahu Arasında Gazze Barış Planı Gerilimi",
+        "summary": "Eski ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında, Netanyahu'nun Trump'ın Gazze barış planını reddetmesi üzerine gerilim yaşandığı bildirildi. Bu ret kararı, iki lider arasındaki mevcut anlaşmazlıkları gün yüzüne çıkardı ve Trump'ın Netanyahu'ya karşı duyduğu 'rahatsızlığı' ne ölçüde kontrol altında tutabileceği sorusunu gündeme getirdi. Gelişme, Orta Doğu'daki barış süreçleri ve ABD-İsrail ilişkileri açısından önemli bir dönüm noktası olarak değerlendiriliyor. Bu durum, bölgedeki diplomatik dengeleri etkileyebilecek potansiyele sahip.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8847167/pexels-photo-8847167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T05:56:31.254Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786514212175vs1yr",
+        "title": "İsrail baskınları ve yıkımları sürerken BM Batı Şeria için 'kırılma noktası' uyarısı yaptı",
+        "summary": "İsrail güçleri, Batı Şeria'daki operasyonlarına devam ediyor. Son gelişmelerde, 23 Filistinli gözaltına alındı. Ayrıca, Temmuz ayında İsrailli yerleşimcilerle çıkan çatışmada hayatını kaybeden bir kişinin evi yıkıldı. Birleşmiş Milletler, bölgedeki gerilimin artmasıyla Batı Şeria'nın bir 'kırılma noktasına' ulaştığı konusunda uyarıda bulundu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T05:56:52.175Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786508544990h0ybz",
         "title": "Yemen Hükümeti: Husilerin Bab el-Mendeb'deki Gemi Saldırısında Altı Kişi Öldü",
         "summary": "Yemen hükümeti, Bab el-Mendeb Boğazı'nda bir gemiye düzenlenen Husi saldırısında altı kişinin yaşamını yitirdiğini bildirdi. Mısır'a ait \"Tihamah\" adlı gemide meydana gelen bu can kayıpları, bölgedeki çatışmaların tırmanmasından bu yana Husilerle ilişkilendirilen ilk denizcilik ölümleri olarak kayıtlara geçti. Saldırı, Kızıldeniz ve çevresindeki kritik deniz ticaret yollarının güvenliğine yönelik tehditleri bir kez daha gündeme getirdi. Olay, küresel denizcilik sektöründe endişelere yol açarken, bölgesel gerilimlerin deniz trafiği üzerindeki olumsuz etkilerini sürdürdüğünü gösteriyor.",
@@ -764,38 +796,6 @@
             "name": "Türkiye"
         },
         "source": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178639477327571qv8",
-        "title": "Netanyahu'dan Trump'ın Gazze Planına Ret: Nihai Karar Olmayabilir",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, eski ABD Başkanı Donald Trump yönetiminin Gazze için hazırladığı 15 maddelik planı reddettiği bildirildi. Trump yönetiminin bu ret kararını önemsemediği ve kararı İsrail'deki genel seçimler öncesi bir kampanya söylemi olarak değerlendirdiği belirtildi. Bu nedenle Netanyahu'nun ret kararının nihai bir söz olmayabileceği ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-10T20:46:13.275Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786390351009r7j5o",
-        "title": "İran hiyerarşisinde konsolidasyon: Devrim Muhafızları gazisi kilit güvenlik rolüne atandı",
-        "summary": "İran'da dini liderin ofisi tarafından üst düzey güvenlik atamaları yapıldığı bildirildi. Açıklamaya göre, ülkenin yeni güvenlik şefi belirlenirken, deneyimli savaş komutanları da etkili pozisyonlara getirildi. Bu atamaların, İran hiyerarşisinde bir konsolidasyon sürecini yansıttığı ve Devrim Muhafızları (IRGC) kökenli isimlerin kilit rollerde görevlendirildiği belirtiliyor. Söz konusu değişikliklerin, ülkenin iç güvenlik ve dış politika yaklaşımlarında askeri tecrübeye verilen önemi artırabileceği değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14227138/pexels-photo-14227138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-10T19:32:31.009Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
