@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786559464103iwf84",
+        "title": "Umman'da Karaya Oturan Tankerden Petrol Sızıntısı: Sahiller Etkilendi",
+        "summary": "Umman Çevre Otoritesi, karaya oturan bir tankerde meydana gelen petrol sızıntısının ülkenin Ras Madrakah bölgesindeki sahilleri etkilediğini duyurdu. Yapılan açıklamada, sızıntıdan kaynaklanan kirliliğin yaklaşık 25 millik (yaklaşık 40 kilometre) bir kıyı şeridine yayılabileceği uyarısı yapıldı. Yetkililer, durumun çevresel etkilerini değerlendirirken, sızıntının kontrol altına alınması ve temizlik çalışmalarının başlatılması için adımlar atıldığını bildirdi. Olayın, bölgedeki deniz ekosistemi ve kıyı turizmi üzerinde olumsuz etkiler yaratmasından endişe ediliyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/5499581/pexels-photo-5499581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-12T18:31:04.103Z",
+        "location": {
+            "lat": 19,
+            "lng": 57.8,
+            "name": "Ras Madrakah, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oman-says-oil-leak-from-grounded-tanker-affects-beaches-in-ras-madrakah/4025710",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1786555817823ohegs",
         "title": "PSG - Aston Villa UEFA Süper Kupa 2026 Karşılaşması",
         "summary": "UEFA Süper Kupa 2026'da Paris Saint-Germain (PSG) ile Aston Villa karşı karşıya gelecek. Bu karşılaşma, Avrupa futbolunun iki önemli kulübünü bir araya getirerek büyük bir ilgi odağı olacak. PSG'nin Katarlı sahipliği ve Aston Villa'nın Mısırlı ortak sahipliği, bu maçın Orta Doğu'nun spor yatırımları ve yumuşak güç stratejileri açısından dolaylı bir ilgi taşımasına neden olmaktadır. Maçın canlı yayın ve metin güncellemeleri taraftarlara anlık bilgi sağlayacak olup, PSG'nin yıldız oyuncuları Dembele, Doue ve Barcola'nın sahada olması bekleniyor. Her iki takım da bu prestijli kupayı kazanarak koleksiyonlarına yeni bir başarı eklemeyi hedefliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/syrian-court-sentences-ex-president-bashar-al-assad-to-death-in-absentia/4023949",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786438954476jomdb",
-        "title": "Libya Ulusal Petrol Şirketi, Zawiya Kompleksi'nde Drone Saldırıları Sonrası Mücbir Sebep Uyarısı Yaptı",
-        "summary": "Libya Ulusal Petrol Şirketi (NOC), ülkenin batısındaki Zawiya petrol kompleksine yönelik tekrarlanan drone saldırılarının ardından mücbir sebep ilan etme olasılığına karşı uyarıda bulundu. Şirket, tesislerine yapılan bu saldırıların rafinerinin tamamen kapanmasına yol açabileceğini belirtti. NOC, bu durumun Libya'nın petrol üretimi ve ihracatı üzerinde ciddi olumsuz etkileri olabileceğini vurguladı. Güvenlik endişeleri nedeniyle operasyonların aksaması, ülkenin enerji sektöründeki kırılganlığını bir kez daha gözler önüne serdi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/4061116/pexels-photo-4061116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T09:02:34.476Z",
-        "location": {
-            "lat": 32.75,
-            "lng": 12.73,
-            "name": "Zawiya, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/libya-s-national-oil-corporation-warns-of-force-majeure-at-zawiya-complex-after-drone-attacks/4023946",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
