@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786664811911jomsl",
+        "title": "Suriye ve Irak, DEAŞ'lı Teröristlerin Davalarını İncelemek Üzere Komiteler Kurma Konusunda Anlaştı",
+        "summary": "Suriye ve Irak, terör örgütü DEAŞ mensuplarının davalarını incelemek üzere ortak komiteler kurma konusunda mutabakata vardı. Anlaşma, Irak Yüksek Yargı Konseyi Başkanı'nın Suriye'ye gerçekleştirdiği ziyaret sırasında sağlandı. Bu adım, iki ülkenin DEAŞ ile mücadele ve yargı süreçlerinde iş birliğini artırma çabasını yansıtıyor. Söz konusu komiteler, teröristlerin yargılanması ve ilgili hukuki süreçlerin hızlandırılmasına yönelik çalışmalar yürütecek.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14357129/pexels-photo-14357129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T23:46:51.911Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-iraq-agree-to-form-committees-to-review-cases-of-isis-terrorists/4026891",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786657848026us795",
         "title": "Suudi Arabistan: 15 Ülke Deniz Savunma Koalisyonu Kurma Bildirisini İmzaladı",
         "summary": "Suudi Arabistan, 15 ülkenin bir deniz savunma koalisyonu kurma bildirisini imzaladığını açıkladı. Savunma Bakanlığı'ndan yapılan duyuruya göre, bu ülkelerden 13'ü koalisyonun kurulması için gerekli ulusal prosedürlerini tamamlamış durumda. Bu girişim, bölgesel deniz güvenliğini artırmayı ve stratejik su yollarının korunmasını amaçlıyor. Koalisyonun faaliyete geçmesiyle birlikte, bölgedeki denizcilik faaliyetlerinin güvenliğinin güçlendirilmesi hedefleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-say-dozens-killed-wounded-in-strikes-on-marib-and-mokha/4024708",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786520601054bnmud",
-        "title": "Libya'daki Zaviye enerji santraline insansız hava aracı saldırısı: Yangın çıktı",
-        "summary": "Libya'nın batısındaki Zaviye kentinde bulunan bir enerji santrali, insansız hava aracı saldırısının hedefi oldu. Saldırı sonucunda tesiste yangın çıktığı bildirildi. Libya medyası tarafından yayınlanan görüntülerde, santralde alevlerin yükseldiği görüldü. Bu olay, ülkedeki kritik altyapı tesislerine yönelik son dönemdeki saldırıların bir devamı niteliğinde.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6930907/pexels-photo-6930907.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T07:43:21.054Z",
-        "location": {
-            "lat": 32.75,
-            "lng": 12.73,
-            "name": "Zaviye, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/drone-strike-rocks-zawiya-power-station-in-libya-igniting-fire/4024707",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
