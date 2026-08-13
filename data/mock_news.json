@@ -1,5 +1,21 @@
 [
     {
+        "id": "178659527151833wnw",
+        "title": "Hamas, Filistin Seçimlerine Katılacağını Duyurdu",
+        "summary": "Filistinli grup Hamas, Filistin seçimlerine en geniş koalisyon altında katılacağını açıkladı. Bir Hamas yetkilisi, katılım için öne sürülen \"siyasi koşulları\" reddettiğini belirtti. Yetkili, seçimleri \"20 yıllık tek taraflı karar alma sürecini sona erdirme\" fırsatı olarak değerlendirdiklerini ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7103091/pexels-photo-7103091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T04:27:51.518Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hamas-says-it-will-take-part-in-palestinian-elections-under-broadest-possible-coalition/4025785",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786578292523jopcf",
         "title": "Pentagon raporuna göre ABD'nin Yemen'deki saldırılarında 2025'te 153 sivil hayatını kaybetti",
         "summary": "Pentagon tarafından yayımlanan gizliliği kaldırılmış bir rapor, ABD'nin Yemen'deki Husilere yönelik operasyonlarında sivil kayıplara ilişkin yeni bilgiler ortaya koydu. Rapora göre, ABD'nin Yemen'de gerçekleştirdiği saldırılar sonucunda 2025 yılında 153 sivil yaşamını yitirdi. Bu inceleme, ABD'nin bölgedeki askeri faaliyetlerinin insani etkilerini gözler önüne seriyor. Rapor, sivil kayıpların boyutunu detaylandırarak, uluslararası kamuoyunun dikkatini Yemen'deki çatışmalara çekiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786442873883ljpf9",
-        "title": "Irak'ın yarı özerk Kürt bölgesi, ABD-İran savaşının uzamasıyla zarar görüyor",
-        "summary": "Irak'ın yarı özerk Kürdistan Bölgesi, ABD ile İran arasındaki gerilimin devam etmesi nedeniyle ekonomik olarak olumsuz etkileniyor. Kürdistan Bölgesel Yönetimi (KBY) tarafından yapılan açıklamaya göre, bölgenin ticaret hacminin yüzde 70 oranında azaldığı bildirildi. Bu düşüşün, bölgesel çatışmalar ve artan istikrarsızlıklar sonucunda meydana geldiği belirtiliyor. ABD-İran arasındaki gerilimin uzaması, bölgedeki ticaret yollarını ve ekonomik faaliyetleri sekteye uğratarak Kürdistan Bölgesi'nin ekonomisine önemli bir darbe vurdu. KBY yetkilileri, bu durumun bölge halkının yaşam koşulları üzerindeki olumsuz etkileri konusunda endişelerini dile getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T10:07:53.883Z",
-        "location": {
-            "lat": 36.19,
-            "lng": 44.01,
-            "name": "Erbil, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
