@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786642213349af1lv",
+        "title": "Husiler, Kızıldeniz'de Suudi Askeri Teçhizatı Taşıyan Gemiye Saldırdı: Altı Kişi Hayatını Kaybetti",
+        "summary": "Yemen'deki Husiler, Kızıldeniz'de Suudi askeri teçhizatı taşıyan bir gemiye saldırı düzenlediğini duyurdu. Saldırıda altı kişinin hayatını kaybettiği bildirildi. Bu olay, ABD ile İran arasındaki gerilimin yüksek seyrettiği bir dönemde, Husilerin \"İran savaşı\" başlangıcından bu yana gerçekleştirdiği ilk ölümcül saldırı olarak kayıtlara geçti. İran'ın vekili olarak bilinen Husiler, Kızıldeniz'deki bu eylemleriyle bölgedeki tansiyonu daha da artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19203211/pexels-photo-19203211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T17:30:13.349Z",
+        "location": {
+            "lat": 15,
+            "lng": 40,
+            "name": "Kızıldeniz"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786636849053agbv6",
         "title": "Husilerin Saldırıları Artırmasıyla Yemen'de Topyekun Savaş Yeniden Mi Başlayacak?",
         "summary": "Husilerin saldırılarını artırmasıyla Yemen'de topyekun bir savaşın yeniden başlayabileceği endişesi dile getiriliyor. Analistler, bu gelişmeler ışığında Suudi Arabistan'ın bölgesel müttefikleriyle olan ilişkilerini ve konumunu güçlendirme çabası içinde olduğunu belirtiyor. Yemen'deki çatışmaların tırmanma potansiyeli, bölgedeki güvenlik dinamiklerini derinden etkileyebilir. Bu durum, bölgedeki istikrarsızlığı artırarak yeni gerilimlere yol açabilir.",
@@ -780,22 +796,6 @@
             "name": "Bab el-Mendeb Boğazı, Yemen"
         },
         "source": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786508631000jteqf",
-        "title": "ABD'nin Yemen'deki Saldırılarında Geçen Yıl 153 Sivil Hayatını Kaybetti: Rapor",
-        "summary": "Pentagon'un Kongre'ye sunduğu bir rapora göre, ABD'nin geçen yıl Yemen'de düzenlediği hava saldırılarında toplam 153 sivil hayatını kaybetti. Raporda, özellikle Nisan ayında gerçekleştirilen üç ayrı saldırının bu sivil kayıplarına yol açtığı belirtildi. Bu durum, ABD'nin bölgedeki askeri operasyonlarının sivil halk üzerindeki etkilerini bir kez daha gündeme getirdi. Söz konusu rapor, askeri müdahalelerin insani sonuçlarına dair önemli veriler sunuyor ve uluslararası kamuoyunda tartışmalara neden olması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33701806/pexels-photo-33701806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T04:23:51.000Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-strikes-in-yemen-killed-153-civilians-last-year-report/4024701",
         "trendScore": 85,
         "isBreaking": false
     }
