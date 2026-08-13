@@ -1,5 +1,21 @@
 [
     {
+        "id": "17866499577167ihl9",
+        "title": "İran liderinin danışmanı, Tahran'ın koşulları karşılanmazsa savaşın saldırıya dönüşebileceği uyarısında bulundu",
+        "summary": "İran liderinin üst düzey danışmanı, Tahran'ın koşullarının karşılanmaması durumunda mevcut çatışmanın saldırı niteliği kazanabileceği uyarısında bulundu. Danışman, bölgedeki güvenlik durumuna ilişkin önemli açıklamalarda bulunarak, önerilen Hürmüz mekanizmasının bölgesel güvenliği sağlamak için bir yol sunduğunu belirtti. Bu mekanizmanın, ABD'nin garantilerinden bağımsız olarak işleyeceği vurgulandı. Açıklamalar, bölgedeki gerilimin potansiyel seyrine dair Tahran'ın duruşunu yansıtıyor ve bölgesel güvenlik dinamiklerine dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T19:39:17.716Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-leader-s-adviser-warns-war-may-turn-offensive-if-tehran-s-conditions-unmet/4026884",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786645792087xah3q",
         "title": "Gazze'de 'Özgür Filistin' Sloganı Nedeniyle İşten Çıkarılan Çalışana Duvar Resmi Desteği",
         "summary": "Gazze'deki sanatçılar, \"Özgür Filistin\" sloganı attığı gerekçesiyle işine son verilen eski Burger King çalışanı Arianna Hamilton anısına bir duvar resmi tamamladı. Söz konusu duvar resmi, Gazze Şeridi'nde Filistin davasına destek amacıyla gerçekleştirilen sanatsal bir eylem olarak öne çıktı. Hamilton'ın işten çıkarılması, uluslararası alanda ifade özgürlüğü ve Filistin'e destek konularında çeşitli tartışmaları beraberinde getirmişti. Bu sanatsal çalışma, yaşanan bu gelişmelerin bir yansıması olarak yorumlanıyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786514212175vs1yr",
-        "title": "İsrail baskınları ve yıkımları sürerken BM Batı Şeria için 'kırılma noktası' uyarısı yaptı",
-        "summary": "İsrail güçleri, Batı Şeria'daki operasyonlarına devam ediyor. Son gelişmelerde, 23 Filistinli gözaltına alındı. Ayrıca, Temmuz ayında İsrailli yerleşimcilerle çıkan çatışmada hayatını kaybeden bir kişinin evi yıkıldı. Birleşmiş Milletler, bölgedeki gerilimin artmasıyla Batı Şeria'nın bir 'kırılma noktasına' ulaştığı konusunda uyarıda bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T05:56:52.175Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
