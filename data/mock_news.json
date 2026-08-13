@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786645792087xah3q",
+        "title": "Gazze'de 'Özgür Filistin' Sloganı Nedeniyle İşten Çıkarılan Çalışana Duvar Resmi Desteği",
+        "summary": "Gazze'deki sanatçılar, \"Özgür Filistin\" sloganı attığı gerekçesiyle işine son verilen eski Burger King çalışanı Arianna Hamilton anısına bir duvar resmi tamamladı. Söz konusu duvar resmi, Gazze Şeridi'nde Filistin davasına destek amacıyla gerçekleştirilen sanatsal bir eylem olarak öne çıktı. Hamilton'ın işten çıkarılması, uluslararası alanda ifade özgürlüğü ve Filistin'e destek konularında çeşitli tartışmaları beraberinde getirmişti. Bu sanatsal çalışma, yaşanan bu gelişmelerin bir yansıması olarak yorumlanıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38317998/pexels-photo-38317998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T18:29:52.087Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786642213349af1lv",
         "title": "Husiler, Kızıldeniz'de Suudi Askeri Teçhizatı Taşıyan Gemiye Saldırdı: Altı Kişi Hayatını Kaybetti",
         "summary": "Yemen'deki Husiler, Kızıldeniz'de Suudi askeri teçhizatı taşıyan bir gemiye saldırı düzenlediğini duyurdu. Saldırıda altı kişinin hayatını kaybettiği bildirildi. Bu olay, ABD ile İran arasındaki gerilimin yüksek seyrettiği bir dönemde, Husilerin \"İran savaşı\" başlangıcından bu yana gerçekleştirdiği ilk ölümcül saldırı olarak kayıtlara geçti. İran'ın vekili olarak bilinen Husiler, Kızıldeniz'deki bu eylemleriyle bölgedeki tansiyonu daha da artırdı.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786508544990h0ybz",
-        "title": "Yemen Hükümeti: Husilerin Bab el-Mendeb'deki Gemi Saldırısında Altı Kişi Öldü",
-        "summary": "Yemen hükümeti, Bab el-Mendeb Boğazı'nda bir gemiye düzenlenen Husi saldırısında altı kişinin yaşamını yitirdiğini bildirdi. Mısır'a ait \"Tihamah\" adlı gemide meydana gelen bu can kayıpları, bölgedeki çatışmaların tırmanmasından bu yana Husilerle ilişkilendirilen ilk denizcilik ölümleri olarak kayıtlara geçti. Saldırı, Kızıldeniz ve çevresindeki kritik deniz ticaret yollarının güvenliğine yönelik tehditleri bir kez daha gündeme getirdi. Olay, küresel denizcilik sektöründe endişelere yol açarken, bölgesel gerilimlerin deniz trafiği üzerindeki olumsuz etkilerini sürdürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18998105/pexels-photo-18998105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T04:22:24.990Z",
-        "location": {
-            "lat": 12.58,
-            "lng": 43.33,
-            "name": "Bab el-Mendeb Boğazı, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
