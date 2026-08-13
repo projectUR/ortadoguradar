@@ -1,5 +1,37 @@
 [
     {
+        "id": "17866540375560x24g",
+        "title": "Sudan ordusu, Hızlı Destek Kuvvetleri'nin Etiyopya sınırındaki önemli bir kasabaya ilerlediğini duyurdu",
+        "summary": "Sudan'da devam eden çatışmalarda yeni bir gelişme yaşandı. Sudan ordusu, paramiliter Hızlı Destek Kuvvetleri (HDK) ve müttefiklerinin Etiyopya sınırında yer alan önemli Kurmuk kasabasına doğru ilerlediğini bildirdi. Askeri ve hükümet kaynaklarından edinilen bilgilere göre, HDK güçleri Mavi Nil eyaletindeki Kurmuk kasabasına yönelik bir harekat başlattı. Bu ilerleyişin, bölgedeki çatışmaların seyrini etkileyebileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T20:47:17.556Z",
+        "location": {
+            "lat": 10.55,
+            "lng": 34.15,
+            "name": "Kurmuk, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "178665414246625cci",
+        "title": "Trump'ın uçuş değişikliği sonrası İsrail istihbaratına şüpheler artıyor",
+        "summary": "Eski ABD Başkanı Trump'ın uçuş güzergahındaki bir değişikliğin ardından İsrail istihbaratının güvenilirliği konusunda şüpheler artıyor. Eski bir terörle mücadele şefi, yabancı müttefiklerin ABD'li politika yapıcıları sadece bilgilendirmek yerine etkilemek amacıyla istihbarat paylaştığını belirtti. Bu durum, ABD'nin önemli bir Orta Doğu müttefiki olan İsrail ile istihbarat paylaşımının doğası ve ABD dış politikası üzerindeki potansiyel etkileri hakkında endişeleri gündeme getiriyor. Haber, ABD-İsrail ilişkilerindeki istihbarat boyutunu ve karşılıklı güveni sorguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8294791/pexels-photo-8294791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T20:49:02.466Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/skepticism-mounts-over-israeli-intelligence-after-trump-flight-switch/4026885",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17866499577167ihl9",
         "title": "İran liderinin danışmanı, Tahran'ın koşulları karşılanmazsa savaşın saldırıya dönüşebileceği uyarısında bulundu",
         "summary": "İran liderinin üst düzey danışmanı, Tahran'ın koşullarının karşılanmaması durumunda mevcut çatışmanın saldırı niteliği kazanabileceği uyarısında bulundu. Danışman, bölgedeki güvenlik durumuna ilişkin önemli açıklamalarda bulunarak, önerilen Hürmüz mekanizmasının bölgesel güvenliği sağlamak için bir yol sunduğunu belirtti. Bu mekanizmanın, ABD'nin garantilerinden bağımsız olarak işleyeceği vurgulandı. Açıklamalar, bölgedeki gerilimin potansiyel seyrine dair Tahran'ın duruşunu yansıtıyor ve bölgesel güvenlik dinamiklerine dikkat çekiyor.",
@@ -764,38 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/palestinian-prime-minister-discusses-israeli-violations-in-west-bank-with-uk-foreign-secretary/4024694",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786520646839gjqxk",
-        "title": "Gazze'de Savaşın İlk Günlerinde Yıkılan Evin Enkazından Cesetler Çıkarılmaya Başlandı",
-        "summary": "Gazze Şeridi'nde, savaşın ilk günlerinde yıkılan bir evin enkazından cesetlerin çıkarılmasına başlandığı bildirildi. Kurtarma ekipleri, yıkılan konutun kalıntıları arasında yapılan çalışmalarda üç kurbanın cansız bedenine ulaştı. Hayatını kaybedenler arasında kadınlar, çocuklar ve yaşlıların bulunduğu belirtildi. Bu olay, bölgedeki çatışmaların sivil halk üzerindeki yıkıcı etkilerini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T07:44:06.839Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-rescuers-begin-recovering-bodies-from-rubble-of-home-destroyed-in-early-days-of-war/4024692",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786514191254gi35b",
-        "title": "Trump ve Netanyahu Arasında Gazze Barış Planı Gerilimi",
-        "summary": "Eski ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında, Netanyahu'nun Trump'ın Gazze barış planını reddetmesi üzerine gerilim yaşandığı bildirildi. Bu ret kararı, iki lider arasındaki mevcut anlaşmazlıkları gün yüzüne çıkardı ve Trump'ın Netanyahu'ya karşı duyduğu 'rahatsızlığı' ne ölçüde kontrol altında tutabileceği sorusunu gündeme getirdi. Gelişme, Orta Doğu'daki barış süreçleri ve ABD-İsrail ilişkileri açısından önemli bir dönüm noktası olarak değerlendiriliyor. Bu durum, bölgedeki diplomatik dengeleri etkileyebilecek potansiyele sahip.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8847167/pexels-photo-8847167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T05:56:31.254Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
