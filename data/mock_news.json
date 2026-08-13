@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786621865654y1he7",
+        "title": "Sudan'da Hastaneye Paramiliter İHA Saldırısı: 2 Ölü",
+        "summary": "Sudan'da paramiliter güçler tarafından bir hastaneye düzenlenen insansız hava aracı (İHA) saldırısında iki kişinin hayatını kaybettiği bildirildi. Doktorlar grubundan yapılan açıklamaya göre, Kuzey Kordofan eyaletine bağlı El Obeid kentindeki bir hastanenin acil servisine şarapnel isabet etti. Tıbbi ağ, sivil tesislere yönelik saldırıların durdurulması çağrısında bulundu. Olayla ilgili detaylı soruşturma başlatıldığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T11:51:05.654Z",
+        "location": {
+            "lat": 13.18,
+            "lng": 30.22,
+            "name": "El Obeid, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-killed-in-paramilitary-drone-attack-on-hospital-in-sudan-doctors-group/4026342",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786617438709c4huo",
         "title": "Güney Lübnan'da İlk Müdahale Görevlisi Olmanın Zorlukları ve Kayıpları",
         "summary": "Al Jazeera tarafından hazırlanan yeni bir belgesel film, Lübnan'ın güneyindeki en büyük şehir olan Sur'daki Sivil Savunma teşkilatının başkanının deneyimlerini konu alıyor. Film, bölgede ilk müdahale görevlisi olmanın getirdiği zorlukları, karşılaşılan kayıpları ve günlük yaşam mücadelelerini gözler önüne seriyor. Belgesel, Sur'da görev yapan sivil savunma ekiplerinin hayat kurtarma çabalarını ve insani yardım faaliyetlerini mercek altına alıyor. Bu yapım, Lübnan'ın güneyindeki sivil savunma personelinin karşılaştığı riskleri ve fedakarlıkları izleyiciye aktarıyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17864814385335lkzj",
-        "title": "Husiler, Kızıldeniz'de Suudi Askeri Teçhizatı Taşıyan Gemiye Saldırarak Altı Kişiyi Öldürdü",
-        "summary": "İran destekli Husiler, Kızıldeniz'de Suudi Arabistan'a ait askeri teçhizat taşıyan bir gemiye saldırı düzenlediğini duyurdu. Saldırıda altı kişinin hayatını kaybettiği bildirildi. Bu olay, ABD-İran geriliminin yüksek seyrettiği bir dönemde gerçekleşti. Husiler, saldırının İran savaşının başlangıcından bu yana gerçekleştirdikleri ilk ölümcül eylem olduğunu belirtti. Bölgedeki tansiyonun artmasına neden olan bu saldırı, uluslararası kamuoyunda endişeyle karşılandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3631109/pexels-photo-3631109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T20:50:38.533Z",
-        "location": {
-            "lat": 14,
-            "lng": 42,
-            "name": "Kızıldeniz, Yemen"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
