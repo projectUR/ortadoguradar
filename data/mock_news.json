@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786600782667j24xx",
+        "title": "Ukrayna Limanına Rus Saldırısı Sonrası Zelenskiy Füze Savunma Sistemleri İstiyor: Patriot Kıtlığı ABD-İran Savaşına Bağlandı",
+        "summary": "Rusya'nın Ukrayna'daki bir limana düzenlediği saldırı sonucu yangın çıktı. Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinin hava savunma kapasitesini güçlendirmek amacıyla daha fazla füze savunma sistemi talep etti. Ukrayna, özellikle Patriot füze savunma sistemlerinde ciddi bir kıtlık yaşandığını bildirdi. Bu kıtlığın, ABD'nin Şubat ayında İran ile savaşa girmesinden bu yana ortaya çıktığı belirtiliyor. Bu durum, Orta Doğu'daki çatışmaların Ukrayna'ya sağlanan askeri yardımları dolaylı yoldan etkilediğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12672895/pexels-photo-12672895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-13T05:59:42.667Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178659527151833wnw",
         "title": "Hamas, Filistin Seçimlerine Katılacağını Duyurdu",
         "summary": "Filistinli grup Hamas, Filistin seçimlerine en geniş koalisyon altında katılacağını açıkladı. Bir Hamas yetkilisi, katılım için öne sürülen \"siyasi koşulları\" reddettiğini belirtti. Yetkili, seçimleri \"20 yıllık tek taraflı karar alma sürecini sona erdirme\" fırsatı olarak değerlendirdiklerini ifade etti.",
@@ -780,22 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786442849688rqmj0",
-        "title": "Küresel Güney'in Dijital Geleceği Bezos ve Musk'a Ait Olmamalı",
-        "summary": "Küresel Güney ülkelerinin dijital geleceği ve uydu internet erişimi konusunda önemli bir uyarı yapıldı. Haber, uydu internetinin dijital uçurumu kapatma potansiyeline sahip olduğunu belirtirken, Küresel Güney'in bu erişimi yabancı firmalara bağımlılık karşılığında takas etmemesi gerektiğini vurguluyor. Özellikle Amazon'dan Jeff Bezos ve SpaceX'ten Elon Musk gibi teknoloji devlerinin kontrolündeki sistemlere bağımlılığın, bu ülkeler için yeni bir sömürü biçimi yaratabileceği ifade ediliyor. Uzmanlar, Küresel Güney'in kendi dijital egemenliğini koruyarak kapsayıcı ve sürdürülebilir bir dijital gelecek inşa etmesi gerektiğinin altını çiziyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/14599189/pexels-photo-14599189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-11T10:07:29.688Z",
-        "location": {
-            "lat": 30,
-            "lng": 45,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
