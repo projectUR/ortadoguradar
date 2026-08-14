@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786726628158iaum0",
+        "title": "Katar, FIFA Başkanı Infantino'ya Yönelik Açık Mektup Konusunda AFC'ye Meydan Okudu",
+        "summary": "Katar Futbol Federasyonu (FA) Başkanı Hamad bin Khalifa Al-Thani, Asya Futbol Konfederasyonu (AFC) tarafından FIFA Başkanı Gianni Infantino'ya yönelik kaleme alınan açık mektuba ilişkin istişare eksikliğinden duyduğu rahatsızlığı dile getirdi. Katar, AFC'nin bu tür önemli bir konuda kendilerine danışmadan hareket etmesini eleştiriyor. Bu durum, Asya futbolu içindeki yönetimsel süreçler ve iletişim eksiklikleri hakkında soruları gündeme getiriyor ve bölgesel futbol diplomasisinde yeni bir gerilime işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T16:57:08.158Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17867178636878hxqz",
         "title": "Türkiye, Pakistan ve Suudi Arabistan'dan Karşılıklı Savunma Paktı",
         "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında yeni bir karşılıklı savunma paktı kurulduğu bildirildi. Anlaşmaya göre, üç ülkeden herhangi birine yönelik silahlı bir saldırı, tüm ülkelere yapılmış bir saldırı olarak kabul edilecek. Bu pakt, adı geçen ülkeler arasındaki güvenlik ve stratejik işbirliğinin derinleştiğini gösteriyor. Haber başlığı, bu anlaşmadan önce var olan ittifaklara da atıfta bulunarak, bölgedeki güvenlik dinamiklerinin gelişimine işaret ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786559464103iwf84",
-        "title": "Umman'da Karaya Oturan Tankerden Petrol Sızıntısı: Sahiller Etkilendi",
-        "summary": "Umman Çevre Otoritesi, karaya oturan bir tankerde meydana gelen petrol sızıntısının ülkenin Ras Madrakah bölgesindeki sahilleri etkilediğini duyurdu. Yapılan açıklamada, sızıntıdan kaynaklanan kirliliğin yaklaşık 25 millik (yaklaşık 40 kilometre) bir kıyı şeridine yayılabileceği uyarısı yapıldı. Yetkililer, durumun çevresel etkilerini değerlendirirken, sızıntının kontrol altına alınması ve temizlik çalışmalarının başlatılması için adımlar atıldığını bildirdi. Olayın, bölgedeki deniz ekosistemi ve kıyı turizmi üzerinde olumsuz etkiler yaratmasından endişe ediliyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/5499581/pexels-photo-5499581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T18:31:04.103Z",
-        "location": {
-            "lat": 19,
-            "lng": 57.8,
-            "name": "Ras Madrakah, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-says-oil-leak-from-grounded-tanker-affects-beaches-in-ras-madrakah/4025710",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
