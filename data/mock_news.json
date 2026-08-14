@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786707937164b3mj4",
+        "title": "Manchester City, Rodri Transfer Söylentileri Hakkında Sessizliğini Koruyor",
+        "summary": "İngiltere Premier Lig ekiplerinden Manchester City'nin teknik direktörü Enzo Maresca, takımın önemli orta saha oyuncusu Rodri'nin geleceği hakkında çıkan transfer iddialarına ilişkin yorum yapmaktan kaçındı. İspanyol futbolcunun adı, İspanya'nın dev kulüpleri Barcelona ve Real Madrid ile anılırken, bu gelişmeler Arsenal ile oynanacak Community Shield maçı öncesinde gündeme geldi. Manchester City'nin Abu Dabi merkezli bir yatırım grubu tarafından sahiplenilmesi, kulübün finansal ve stratejik kararlarını dolaylı yoldan Orta Doğu'daki ekonomik aktörlerle ilişkilendirmektedir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/32285244/pexels-photo-32285244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T11:45:37.164Z",
+        "location": {
+            "lat": 53.4808,
+            "lng": -2.2426,
+            "name": "Manchester, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1786703653761yscdg",
         "title": "Rusya, Ukrayna'daki Demiryolu ve Liman Tesislerini Vurduğunu Açıkladı",
         "summary": "Rusya Savunma Bakanlığı, Ukrayna'daki demiryolu ve liman tesislerine yönelik yeni saldırılar düzenlediğini duyurdu. Açıklamaya göre, Rus güçleri bu stratejik altyapı noktalarını hedef aldı. Öte yandan, Ukrayna'nın başkenti Kiev'den yapılan açıklamada, Rusya'nın Baltık Denizi kıyısındaki bir petrol tesisini ve Moskova yakınlarındaki bir depoyu insansız hava araçlarıyla hedef aldığı belirtildi. Bu karşılıklı saldırılar, Rusya-Ukrayna savaşındaki çatışmaların yoğunlaşarak devam ettiğini gösteriyor.",
@@ -780,22 +796,6 @@
             "name": "Doha, Katar"
         },
         "source": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786550467214nb205",
-        "title": "Rusya Ekonomisi Orta Doğu'daki Savaşa Rağmen Zorlanıyor mu?",
-        "summary": "Rusya ekonomisi, artan bütçe açığı ve Ukrayna saldırıları nedeniyle ciddi baskı altında. Ülke ekonomisi bu zorluklarla mücadele ederken, Orta Doğu'daki savaşın küresel petrol fiyatlarını yükseltmesi Rusya'nın petrol gelirlerini artırıyor. Bu durum, Rus ekonomisi üzerindeki bazı olumsuz etkileri hafifletse de, genel ekonomik zorluklar devam ediyor. Haber, Rusya'nın hem iç hem de dış faktörlerin etkisi altında bir ekonomik denge arayışında olduğunu gösteriyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/932577/pexels-photo-932577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T16:01:07.214Z",
-        "location": {
-            "lat": 55.75,
-            "lng": 37.61,
-            "name": "Moskova, Rusya"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
