@@ -1,5 +1,37 @@
 [
     {
+        "id": "17866813605629vij0",
+        "title": "Mali, silahlı gruplarca esir alınan 82 askerinin serbest bırakıldığını duyurdu",
+        "summary": "Mali ordusu, ülkenin kuzey bölgelerinde silahlı gruplar tarafından esir tutulan 82 askerinin serbest bırakıldığını duyurdu. Yapılan açıklamada, askerlerin Tuareg ve El Kaide bağlantılı gruplarca rehin alındığı belirtildi. Mali'nin kuzeyi, uzun süredir cihatçı grupların ve ayrılıkçı hareketlerin faaliyet gösterdiği, güvenlik sorunlarının yoğun yaşandığı bir bölge olarak biliniyor. Bu gelişme, ülkedeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirirken, bölgedeki istikrarsızlığın devam ettiğini gösteriyor. Serbest bırakılan askerlerin sağlık durumlarına ilişkin detay verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31704104/pexels-photo-31704104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T04:22:40.562Z",
+        "location": {
+            "lat": 17,
+            "lng": -4,
+            "name": "Mali"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17866814122462ihnk",
+        "title": "BM ve Filistin Bakanlığı, Batı Şeria'daki evlere İsrailli yerleşimci kuşatmasını kınadı",
+        "summary": "Birleşmiş Milletler İnsan Hakları Ofisi ve Filistin Dışişleri Bakanlığı, Batı Şeria'nın Qusra köyünde İsrailli yerleşimciler tarafından günlerdir süren kuşatmayı sert bir dille kınadı. Yapılan açıklamalarda, yerleşimcilerin evlere yönelik eylemleri 'suç teşkil eden' ve 'insanlık dışı' olarak nitelendirildi. Bu kuşatma, bölgedeki gerilimi artırırken, uluslararası toplumdan da tepki çekti. Olay, İsrail-Filistin çatışmasının hassas bölgelerinden biri olan Batı Şeria'da güvenlik ve insan hakları ihlalleri endişelerini yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7132577/pexels-photo-7132577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T04:23:32.246Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786673368055vtcvm",
         "title": "Norveç Dışişleri Bakanı: ABD'nin İran Savaşı 'Akıllıca Değildi'",
         "summary": "Norveç Dışişleri Bakanı Espen Barth Eide, Al Jazeera'ya yaptığı açıklamada, ABD'nin İran'a yönelik savaşının başlangıçtaki hedeflerine ulaşamadığını belirtti. Bakan Eide, bu müdahalenin Tahran'daki muhafazakar kanadı güçlendirdiğini ifade etti. Açıklama, bölgedeki geçmiş müdahalelerin sonuçlarına dair uluslararası bir değerlendirme niteliği taşıyor ve İran'ın iç siyasetine etkilerine dikkat çekiyor.",
@@ -764,38 +796,6 @@
             "name": "Portekiz"
         },
         "source": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786520507471ab5xa",
-        "title": "Ukrayna'dan ABD'ye Rusya ile Savaşı Bitirme Önerileri",
-        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya ile devam eden savaşı sona erdirmek amacıyla ABD'ye barış önerileri sunduklarını açıkladı. Zelenskiy, bu önerilerin savaşın sonlandırılmasına yönelik diplomatik çabaların bir parçası olduğunu belirtti. Ayrıca, Rusya'nın önümüzdeki ay yapılacak seçimleri yeni bir seferberlik ilan etmek için bahane olarak kullanacağını iddia etti. Ukrayna lideri, Rusya'nın bu adımla askeri gücünü artırmayı hedefleyeceğini öne sürdü.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8079185/pexels-photo-8079185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T07:41:47.471Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17865205573459nwtc",
-        "title": "Netanyahu'nun Trump'ın 15 Maddelik Gazze Planını Reddetmesi Son Söz Olmayabilir",
-        "summary": "İsrail Başbakanı Netanyahu'nun, dönemin ABD Başkanı Trump tarafından hazırlanan 15 maddelik Gazze planını reddettiği bildirildi. Ancak, Trump yönetiminin bu ret kararından rahatsızlık duymadığı belirtildi. ABD'li yetkililer, Netanyahu'nun bu çıkışını İsrail'de yaklaşan genel seçimler öncesi bir kampanya söylemi olarak değerlendirdi. Bu durum, söz konusu planın geleceği ve İsrail-Filistin meselesindeki diplomatik çabaların seyri açısından önemli bir gelişme olarak yorumlandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T07:42:37.345Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gaza City, Palestine"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
