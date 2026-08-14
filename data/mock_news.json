@@ -1,5 +1,53 @@
 [
     {
+        "id": "1786698687951e6s93",
+        "title": "İsrail Ordusu Güney Lübnan'a Saldırı Düzenledi, Binaları Yıktı",
+        "summary": "İsrail ordusu, güney Lübnan'a yönelik bir saldırı gerçekleştirdi. Haberlere göre, İsrail savaş uçakları El-Mansuri yakınlarındaki bir bölgeyi hedef alırken, tanklar da ilerleyiş kaydetti. Bölgeden patlama sesleri geldiği bildirildi. Bu saldırılar, daha önce varılan bir çekilme çerçeve anlaşmasına rağmen meydana geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7777508/pexels-photo-7777508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T09:11:27.951Z",
+        "location": {
+            "lat": 33.15,
+            "lng": 35.18,
+            "name": "El-Mansuri, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-attacks-southern-lebanon-demolishes-buildings-despite-framework-deal/4027238",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786698709925ve8g8",
+        "title": "Hürmüz Boğazı'ndan Çıkarken Tankere İnsansız Hava Aracı Saldırısı",
+        "summary": "Birleşik Krallık denizcilik ajansı, Hürmüz Boğazı'ndan çıkmakta olan bir tankere insansız hava aracı (İHA) saldırısı düzenlendiğini duyurdu. Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO) tarafından yapılan açıklamada, geminin hafif hasar gördüğü ve mürettebatın güvende olduğu belirtildi. Bu olay, bölgedeki deniz güvenliği endişelerini yeniden gündeme getirdi ve uluslararası sulardaki seyrüsefer güvenliğinin önemini bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T09:11:49.925Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/tanker-hit-by-drone-while-exiting-strait-of-hormuz-uk-maritime-agency/4027202",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17866987310360scqa",
+        "title": "Ateşkese Rağmen Gazze Açıklarında İsrail Donanması Ateşiyle 3 Filistinli Balıkçı Yaralandı",
+        "summary": "Gazze Şeridi açıklarında yaşanan bir olayda, İsrail donanması tarafından açılan ateş sonucu üç Filistinli balıkçının yaralandığı bildirildi. Olayın, bölgede ilan edilen ateşkese rağmen gerçekleştiği vurgulanmaktadır. Haber, Gazze'deki balıkçılara yönelik kısıtlamaların devam ettiğini ve ateşkes ihlallerinin sürdüğünü belirtmektedir. Bu durum, bölgedeki gerilimin ve güvenlik endişelerinin devam ettiğini göstermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38622697/pexels-photo-38622697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T09:12:11.036Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/3-palestinian-fishermen-injured-by-israeli-naval-fire-off-gaza-city-despite-ceasefire/4027178",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17866933306101vgzu",
         "title": "Trump Danışmanı ve Barış Kurulu Elçisi, ABD'nin Gazze Planı İçin İsrail'i Ziyaret Edecek",
         "summary": "Eski ABD Başkanı Donald Trump'ın danışmanlarından ve Barış Kurulu'ndan bir elçi, ABD'nin Gazze'ye yönelik planını görüşmek üzere İsrail'i ziyaret etmeye hazırlanıyor. Axios'un haberine göre, bu ziyaretin temel amacı, planın bir sonraki aşamasının uygulanmasını İsrail'deki olası seçimlerin engellemesini önlemek. Beyaz Saray, planın ilerleyişinin iç siyasi gelişmelerden etkilenmemesini istiyor. Görüşmelerde, ABD'nin bölgedeki barış çabaları ve Gazze'deki durumun ele alınması bekleniyor.",
@@ -748,54 +796,6 @@
             "name": "Mısır"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17865405635490rxll",
-        "title": "Üst Düzey İranlı Komutan Silahsızlanma Planı İçin Irak'ı Ziyaret Etti",
-        "summary": "Bir kaynağa göre, üst düzey bir İranlı komutanın Irak'ı ziyaret ettiği bildirildi. Ziyaretin ana gündem maddesi, Irak hükümetinin ülkedeki silahlı grupları silahsızlandırma ve tüm silahları devlet kontrolü altına alma planı oldu. İran Devrim Muhafızları Kudüs Gücü Komutanı İsmail Kaani'nin, bu plan çerçevesinde Iraklı yetkililerle görüşmeler yaptığı belirtildi. Görüşmelerde, Irak'ın iç güvenliği ve bölgesel istikrarın sağlanması konularının ele alındığı tahmin ediliyor. Bu ziyaret, Irak'ın egemenliğini güçlendirme çabaları ve bölgesel aktörlerin bu sürece olası etkileri açısından önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11421284/pexels-photo-11421284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T13:16:03.549Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 44.4,
-            "name": "Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17865406200704cpvl",
-        "title": "Suriye'de Eski Rejim Figürlerine İdam Cezaları",
-        "summary": "Suriye'de, 2011'deki Deraa olayları ve ülkedeki iç savaş sırasında işlenen ihlalleri inceleyen önemli bir davada, eski hükümetten sekiz isim hakkında idam cezası verildi. Bu karar, Beşar Esad ve eski rejim figürlerine karşı açılan davalar kapsamında değerlendiriliyor. Mahkeme süreci, Suriye'deki çatışmalar sırasında meydana gelen insan hakları ihlallerine yönelik hesap verebilirliğin sağlanması açısından kritik bir adım olarak görülüyor. Verilen cezalar, ülkenin yakın geçmişindeki olaylarla yüzleşme ve adalet arayışının bir göstergesi olarak yorumlanmaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6077503/pexels-photo-6077503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T13:17:00.070Z",
-        "location": {
-            "lat": 32.6167,
-            "lng": 36.1,
-            "name": "Daraa, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/in-5-questions-syria-s-death-sentences-against-assad-and-former-regime-figures/4025313",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1786535345937slnel",
-        "title": "Putin'den Avrupa'ya Rus Gemilerine El Konulması Halinde Misilleme Uyarısı",
-        "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ülkelerinin Rus kargosu taşıyan gemilere el koyması durumunda Moskova'nın misilleme yapacağı uyarısında bulundu. Putin, Rusya'nın 'gerektiği her yerde' benzer şekilde karşılık vereceğini belirtti. Bu açıklama, Rusya ile Batı arasındaki gerilimin denizcilik ve ticaret alanına yayılabileceğine işaret ediyor. Söz konusu misilleme tehdidi, uluslararası denizcilik ve ticaret hukukunda yeni bir tartışma başlatma potansiyeli taşıyor ve küresel enerji ve ticaret akışlarını etkileyebilir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/35608743/pexels-photo-35608743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T11:49:05.937Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Ortadoğu Bölgesi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
