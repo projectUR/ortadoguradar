@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786687001936yttxp",
+        "title": "Batı Şeria'nın Son Hristiyan Kasabası Taybeh'te Korku ve Saldırılar Yaşanıyor",
+        "summary": "İşgal altındaki Batı Şeria'da bulunan tarihi Filistin Hristiyan kasabası Taybeh, yerleşimcilerin hedefi haline geldi. Kasaba sakinleri, koordineli saldırılar nedeniyle büyük korku ve endişe yaşıyor. Batı Şeria'daki son Hristiyan yerleşim yeri olma özelliğini taşıyan Taybeh, son dönemde artan şiddet olaylarıyla gündeme geliyor. Bu saldırılar, bölgedeki gerilimi daha da tırmandırıyor ve kasabanın geleceği hakkında endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8553678/pexels-photo-8553678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T05:56:41.936Z",
+        "location": {
+            "lat": 31.97,
+            "lng": 35.33,
+            "name": "Taybeh, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17866813605629vij0",
         "title": "Mali, silahlı gruplarca esir alınan 82 askerinin serbest bırakıldığını duyurdu",
         "summary": "Mali ordusu, ülkenin kuzey bölgelerinde silahlı gruplar tarafından esir tutulan 82 askerinin serbest bırakıldığını duyurdu. Yapılan açıklamada, askerlerin Tuareg ve El Kaide bağlantılı gruplarca rehin alındığı belirtildi. Mali'nin kuzeyi, uzun süredir cihatçı grupların ve ayrılıkçı hareketlerin faaliyet gösterdiği, güvenlik sorunlarının yoğun yaşandığı bir bölge olarak biliniyor. Bu gelişme, ülkedeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirirken, bölgedeki istikrarsızlığın devam ettiğini gösteriyor. Serbest bırakılan askerlerin sağlık durumlarına ilişkin detay verilmedi.",
@@ -780,22 +796,6 @@
             "name": "Golan Tepeleri, Suriye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/oman-condemns-colombia-s-recognition-of-israeli-sovereignty-over-syria-s-occupied-golan-heights/4024813",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786520434598b3pm1",
-        "title": "Cristiano Ronaldo ve Georgina Rodriguez Portekiz'de Evlendi",
-        "summary": "Dünyaca ünlü futbolcu Cristiano Ronaldo, uzun süredir birlikte olduğu partneri Georgina Rodriguez ile Portekiz'de dünya evine girdi. On yıldır süren ilişkilerini resmiyete döken çiftin evliliği, spor ve magazin dünyasında geniş yankı uyandırdı. Halihazırda Suudi Arabistan'ın Al Nassr takımında forma giyen Ronaldo'nun bu özel günü, Orta Doğu'daki hayranları tarafından da yakından takip edildi. Çiftin düğününe dair detaylar henüz açıklanmazken, kutlamaların Portekiz'de gerçekleştiği belirtildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38708859/pexels-photo-38708859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T07:40:34.598Z",
-        "location": {
-            "lat": 39.3999,
-            "lng": -8.2245,
-            "name": "Portekiz"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
