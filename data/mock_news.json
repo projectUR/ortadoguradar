@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786673368055vtcvm",
+        "title": "Norveç Dışişleri Bakanı: ABD'nin İran Savaşı 'Akıllıca Değildi'",
+        "summary": "Norveç Dışişleri Bakanı Espen Barth Eide, Al Jazeera'ya yaptığı açıklamada, ABD'nin İran'a yönelik savaşının başlangıçtaki hedeflerine ulaşamadığını belirtti. Bakan Eide, bu müdahalenin Tahran'daki muhafazakar kanadı güçlendirdiğini ifade etti. Açıklama, bölgedeki geçmiş müdahalelerin sonuçlarına dair uluslararası bir değerlendirme niteliği taşıyor ve İran'ın iç siyasetine etkilerine dikkat çekiyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T02:09:28.055Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786664811911jomsl",
         "title": "Suriye ve Irak, DEAŞ'lı Teröristlerin Davalarını İncelemek Üzere Komiteler Kurma Konusunda Anlaştı",
         "summary": "Suriye ve Irak, terör örgütü DEAŞ mensuplarının davalarını incelemek üzere ortak komiteler kurma konusunda mutabakata vardı. Anlaşma, Irak Yüksek Yargı Konseyi Başkanı'nın Suriye'ye gerçekleştirdiği ziyaret sırasında sağlandı. Bu adım, iki ülkenin DEAŞ ile mücadele ve yargı süreçlerinde iş birliğini artırma çabasını yansıtıyor. Söz konusu komiteler, teröristlerin yargılanması ve ilgili hukuki süreçlerin hızlandırılmasına yönelik çalışmalar yürütecek.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1786520580762kv5qh",
-        "title": "Yemen'deki Husiler, Marib ve Mokha'ya düzenlenen saldırılarda onlarca kişinin öldüğünü ve yaralandığını bildirdi",
-        "summary": "Yemen'deki Husi grubu, Marib ve Mokha bölgelerine düzenlenen saldırılarda onlarca kişinin hayatını kaybettiğini ve yaralandığını açıkladı. Grubun yaptığı açıklamaya göre, söz konusu saldırılar askeri konuşlanmaları, silah depolarını ve komuta merkezlerini hedef aldı. Saldırıların detaylarına ilişkin henüz bağımsız bir doğrulama yapılmadı. Bölgedeki çatışmaların devam ettiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14927297/pexels-photo-14927297.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T07:43:00.762Z",
-        "location": {
-            "lat": 15.4667,
-            "lng": 45.3333,
-            "name": "Marib, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-say-dozens-killed-wounded-in-strikes-on-marib-and-mokha/4024708",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
