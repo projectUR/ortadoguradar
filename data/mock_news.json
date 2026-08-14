@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786739679062f458u",
+        "title": "Sanat, genç Gazze'li hayatta kalanlara teselli ve savaşın yıkımından kaçış sunuyor",
+        "summary": "Gazze Şeridi'nde yaşanan çatışmalardan etkilenen genç hayatta kalanlar için sanatın iyileştirici gücü öne çıkıyor. Bölgedeki çocuklar, savaşın yol açtığı travmaları atlatmak ve yeniden neşe bulmak amacıyla güvenli alanlarda sanatsal faaliyetlere katılıyor. Bu programlar, gençlerin duygusal yüklerini ifade etmelerine ve psikolojik destek almalarına yardımcı oluyor. Sanat atölyeleri, çocuklara normalleşme hissi vererek ve yaratıcılıklarını teşvik ederek zorlu koşullara rağmen umut aşılamayı hedefliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T20:34:39.062Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786730213277ddgzw",
         "title": "Netanyahu'nun Trump'ın Gazze Planını Reddi Son Söz Olmayabilir",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, ABD'nin eski başkanı Donald Trump yönetiminin Gazze için hazırladığı 15 maddelik planı reddettiği bildirildi. Ancak Trump yönetimi, bu ret kararını önemsemediğini belirtti. ABD tarafı, Netanyahu'nun bu çıkışını İsrail'deki genel seçimler öncesinde yapılan bir kampanya söylemi olarak değerlendiriyor. Bu durum, söz konusu Gazze planının geleceği hakkında henüz kesin bir kararın verilmediği yorumlarına yol açtı.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17865677745210irbm",
-        "title": "İsrail, Lübnan, Gazze ve Suriye'den Asker Çekmeyeceğini Duyurdu",
-        "summary": "İsrail Savunma Bakanı Israel Katz, ülkesinin Lübnan, Gazze ve Suriye'deki askeri varlığını sürdüreceğini açıkladı. Bakan Katz, İsrail'in bu bölgelerden askerlerini \"hiçbir koşulda\" çekmeyeceğini kesin bir dille ifade etti. Bu açıklama, İsrail'in bölgesel güvenlik politikalarına ilişkin kararlı duruşunu ortaya koymaktadır. Söz konusu bölgeler, İsrail'in stratejik çıkarları ve güvenlik endişeleri açısından kritik öneme sahip olarak biliniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/669290/pexels-photo-669290.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T20:49:34.521Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
