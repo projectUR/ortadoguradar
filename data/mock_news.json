@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786703653761yscdg",
+        "title": "Rusya, Ukrayna'daki Demiryolu ve Liman Tesislerini Vurduğunu Açıkladı",
+        "summary": "Rusya Savunma Bakanlığı, Ukrayna'daki demiryolu ve liman tesislerine yönelik yeni saldırılar düzenlediğini duyurdu. Açıklamaya göre, Rus güçleri bu stratejik altyapı noktalarını hedef aldı. Öte yandan, Ukrayna'nın başkenti Kiev'den yapılan açıklamada, Rusya'nın Baltık Denizi kıyısındaki bir petrol tesisini ve Moskova yakınlarındaki bir depoyu insansız hava araçlarıyla hedef aldığı belirtildi. Bu karşılıklı saldırılar, Rusya-Ukrayna savaşındaki çatışmaların yoğunlaşarak devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T10:34:13.761Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17867037424884lj9t",
+        "title": "Batı Şeria'da Filistinliler, Yabancı ve İsrailli Aktivistler Kuşatma Altındaki Evler İçin Protesto Düzenledi",
+        "summary": "Batı Şeria'daki Qusra kasabasının Ras al-Ain bölgesinde Filistinliler, yabancı ve İsrailli aktivistler bir araya gelerek protesto gösterisi düzenledi. Göstericiler, İsrailli işgalciler tarafından kuşatma altında tutulan evlere doğru ilerledi. Anadolu Ajansı'na konuşan görgü tanıkları, İsrailli işgalcilerin bölgedeki evleri beşinci gündür kuşatma altında tuttuğunu ve sakinlerin hareket özgürlüğünü kısıtladığını belirtti. Bu durum, bölgedeki gerilimi artırmaya devam ediyor ve uluslararası kamuoyunun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11816765/pexels-photo-11816765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T10:35:42.488Z",
+        "location": {
+            "lat": 32.0833,
+            "lng": 35.3,
+            "name": "Qusra, Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinians-foreign-and-israeli-activists-protest-in-west-bank-town-head-to-besieged-homes-by-israeli-occupiers/4027167",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786698687951e6s93",
         "title": "İsrail Ordusu Güney Lübnan'a Saldırı Düzenledi, Binaları Yıktı",
         "summary": "İsrail ordusu, güney Lübnan'a yönelik bir saldırı gerçekleştirdi. Haberlere göre, İsrail savaş uçakları El-Mansuri yakınlarındaki bir bölgeyi hedef alırken, tanklar da ilerleyiş kaydetti. Bölgeden patlama sesleri geldiği bildirildi. Bu saldırılar, daha önce varılan bir çekilme çerçeve anlaşmasına rağmen meydana geldi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17865453777439tuhl",
-        "title": "Lübnan, Ölüm Cezasının Kaldırılmasından Bir Gün Sonra Uzun Süredir Beklenen Af Yasasını Kabul Etti",
-        "summary": "Lübnan Parlamentosu, uzun süredir beklenen bir af yasasını onayladı. Bu yasa, ülkedeki ölüm cezasının kaldırılmasından sadece bir gün sonra kabul edildi. Lübnan Meclis Başkanı'nın açıklamasına göre, yeni mevzuat belirli hapis cezalarını \"istisnai olarak\" azaltacak. Bu adım, ülkenin ceza infaz sisteminde önemli bir reform olarak değerlendiriliyor ve mahkumların durumunu etkileyecek.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6257831/pexels-photo-6257831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T14:36:17.743Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17865405400462av5g",
-        "title": "Mısırlı Öğrenci Kaçırılmasını Canlı Yayınladı",
-        "summary": "Mısır'da bir öğrenci, kaçırılma anlarını sosyal medya üzerinden canlı yayınlayarak kamuoyunun dikkatini çekti. Olay, ülkenin güvenlik güçlerini harekete geçirirken, canlı yayın görüntüleri hızla yayıldı. Yetkililer, öğrencinin bulunması ve faillerin yakalanması için geniş çaplı bir soruşturma başlattı. Bu olay, sosyal medya üzerinden yaşanan suçların görünürlüğünü ve güvenlik endişelerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7785074/pexels-photo-7785074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T13:15:40.046Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Mısır"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
