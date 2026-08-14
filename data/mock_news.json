@@ -1,5 +1,21 @@
 [
     {
+        "id": "17867178636878hxqz",
+        "title": "Türkiye, Pakistan ve Suudi Arabistan'dan Karşılıklı Savunma Paktı",
+        "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında yeni bir karşılıklı savunma paktı kurulduğu bildirildi. Anlaşmaya göre, üç ülkeden herhangi birine yönelik silahlı bir saldırı, tüm ülkelere yapılmış bir saldırı olarak kabul edilecek. Bu pakt, adı geçen ülkeler arasındaki güvenlik ve stratejik işbirliğinin derinleştiğini gösteriyor. Haber başlığı, bu anlaşmadan önce var olan ittifaklara da atıfta bulunarak, bölgedeki güvenlik dinamiklerinin gelişimine işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38776673/pexels-photo-38776673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T14:31:03.687Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786707937164b3mj4",
         "title": "Manchester City, Rodri Transfer Söylentileri Hakkında Sessizliğini Koruyor",
         "summary": "İngiltere Premier Lig ekiplerinden Manchester City'nin teknik direktörü Enzo Maresca, takımın önemli orta saha oyuncusu Rodri'nin geleceği hakkında çıkan transfer iddialarına ilişkin yorum yapmaktan kaçındı. İspanyol futbolcunun adı, İspanya'nın dev kulüpleri Barcelona ve Real Madrid ile anılırken, bu gelişmeler Arsenal ile oynanacak Community Shield maçı öncesinde gündeme geldi. Manchester City'nin Abu Dabi merkezli bir yatırım grubu tarafından sahiplenilmesi, kulübün finansal ve stratejik kararlarını dolaylı yoldan Orta Doğu'daki ekonomik aktörlerle ilişkilendirmektedir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/oman-says-oil-leak-from-grounded-tanker-affects-beaches-in-ras-madrakah/4025710",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1786555817823ohegs",
-        "title": "PSG - Aston Villa UEFA Süper Kupa 2026 Karşılaşması",
-        "summary": "UEFA Süper Kupa 2026'da Paris Saint-Germain (PSG) ile Aston Villa karşı karşıya gelecek. Bu karşılaşma, Avrupa futbolunun iki önemli kulübünü bir araya getirerek büyük bir ilgi odağı olacak. PSG'nin Katarlı sahipliği ve Aston Villa'nın Mısırlı ortak sahipliği, bu maçın Orta Doğu'nun spor yatırımları ve yumuşak güç stratejileri açısından dolaylı bir ilgi taşımasına neden olmaktadır. Maçın canlı yayın ve metin güncellemeleri taraftarlara anlık bilgi sağlayacak olup, PSG'nin yıldız oyuncuları Dembele, Doue ve Barcola'nın sahada olması bekleniyor. Her iki takım da bu prestijli kupayı kazanarak koleksiyonlarına yeni bir başarı eklemeyi hedefliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/12239377/pexels-photo-12239377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T17:30:17.823Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
