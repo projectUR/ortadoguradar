@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786747941348flcbv",
+        "title": "Sudan'da İnsan Hakları Grubu: Kuzey Kordofan'da Hızlı Destek Kuvvetleri Saldırısında 14'ten Fazla Sivil Öldü",
+        "summary": "Sudan'da faaliyet gösteren Acil Durum Avukatları adlı insan hakları grubu, ülkenin Kuzey Kordofan eyaletindeki Umm Arda bölgesine Hızlı Destek Kuvvetleri (HDK) tarafından düzenlenen bir saldırıda 14'ten fazla sivilin hayatını kaybettiğini bildirdi. Grup tarafından yapılan açıklamada, saldırıda onlarca sivilin yaralandığı ve çok sayıda kişinin evlerini terk etmek zorunda kaldığı belirtildi. Olayın ardından bölgede insani durumun kötüleştiği ifade edildi. Sudan'da ordu ile HDK arasındaki çatışmalar, Nisan 2023'ten bu yana devam ederek ülke genelinde siviller üzerinde yıkıcı etkiler yaratıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1214270/pexels-photo-1214270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T22:52:21.348Z",
+        "location": {
+            "lat": 13.18,
+            "lng": 30.22,
+            "name": "El Obeid, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sudanese-rights-group-says-rsf-attack-killed-over-14-civilians-in-north-kordofan/4027860",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17867443274466x2vg",
         "title": "Trump, USS Lincoln Uçak Gemisindeki Akıl Sağlığı Endişelerini Reddetti",
         "summary": "ABD Kongresi üyeleri, USS Lincoln uçak gemisinde denizcilerin gemiden atlama girişiminde bulunduğuna dair raporlar üzerine gemideki koşulların soruşturulması çağrısında bulundu. Eski ABD Başkanı Donald Trump ise söz konusu akıl sağlığı endişelerini reddetti. Bu gelişmeler, ABD'nin Orta Doğu'daki stratejik askeri varlığının önemli bir unsuru olan bir savaş gemisindeki personel refahı ve operasyonel hazırlık konularını gündeme getirdi. USS Lincoln, Trump yönetimi sırasında özellikle İran'a karşı caydırıcılık amacıyla bölgeye konuşlandırılmış ve ABD'nin bölgedeki güç projeksiyonunda kilit rol oynamıştı.",
@@ -780,22 +796,6 @@
             "name": "Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/hamas-says-it-will-take-part-in-palestinian-elections-under-broadest-possible-coalition/4025785",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786578292523jopcf",
-        "title": "Pentagon raporuna göre ABD'nin Yemen'deki saldırılarında 2025'te 153 sivil hayatını kaybetti",
-        "summary": "Pentagon tarafından yayımlanan gizliliği kaldırılmış bir rapor, ABD'nin Yemen'deki Husilere yönelik operasyonlarında sivil kayıplara ilişkin yeni bilgiler ortaya koydu. Rapora göre, ABD'nin Yemen'de gerçekleştirdiği saldırılar sonucunda 2025 yılında 153 sivil yaşamını yitirdi. Bu inceleme, ABD'nin bölgedeki askeri faaliyetlerinin insani etkilerini gözler önüne seriyor. Rapor, sivil kayıpların boyutunu detaylandırarak, uluslararası kamuoyunun dikkatini Yemen'deki çatışmalara çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7132571/pexels-photo-7132571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T23:44:52.523Z",
-        "location": {
-            "lat": 15,
-            "lng": 47,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
