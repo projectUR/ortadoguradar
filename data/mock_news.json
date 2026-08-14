@@ -1,5 +1,37 @@
 [
     {
+        "id": "17867498786626s0hu",
+        "title": "Trump, İran Savaşı Ortasında Hürmüz Boğazı'nı ABD 'Toprağı' İlan Edeceğini Söyledi",
+        "summary": "ABD eski Başkanı Donald Trump, İran ile yaşanan gerilimler ve olası bir savaş ortamında Hürmüz Boğazı'nı ABD toprağı ilan edeceğini belirtti. Bu açıklama, stratejik öneme sahip boğazın kontrolü konusunda ABD ve İran arasında devam eden ateşkes müzakerelerinde bir anlaşmazlık noktası olmaya devam ettiğini gösteriyor. Hürmüz Boğazı, küresel petrol ticareti için hayati bir geçiş noktası olup, bölgedeki jeopolitik dengeler açısından kritik bir rol oynamaktadır. Trump'ın bu çıkışı, iki ülke arasındaki ilişkilerde yeni bir gerilim potansiyeli yaratmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36099563/pexels-photo-36099563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T23:24:38.662Z",
+        "location": {
+            "lat": 26.25,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1786749914180sct6j",
+        "title": "İsrailli askerler Qusra'daki 'terörist' yerleşimcileri desteklemekle suçlanıyor",
+        "summary": "Batı Şeria'daki Qusra köyünde İsrailli askerlerin, 'terörist' olarak nitelendirilen İsrailli yerleşimcileri desteklediği iddia edildi. Bu iddialar, bölgedeki Filistinliler ile İsrailli yerleşimciler ve güvenlik güçleri arasındaki gerilimi bir kez daha gündeme getirdi. Olayın, bölgedeki çatışma dinamiklerini ve uluslararası hukukun ihlali iddialarını yansıttığı belirtiliyor. Suçlamaların detayları ve olaya karışan tarafların açıklamaları bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T23:25:14.180Z",
+        "location": {
+            "lat": 32.07,
+            "lng": 35.28,
+            "name": "Qusra, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786747941348flcbv",
         "title": "Sudan'da İnsan Hakları Grubu: Kuzey Kordofan'da Hızlı Destek Kuvvetleri Saldırısında 14'ten Fazla Sivil Öldü",
         "summary": "Sudan'da faaliyet gösteren Acil Durum Avukatları adlı insan hakları grubu, ülkenin Kuzey Kordofan eyaletindeki Umm Arda bölgesine Hızlı Destek Kuvvetleri (HDK) tarafından düzenlenen bir saldırıda 14'ten fazla sivilin hayatını kaybettiğini bildirdi. Grup tarafından yapılan açıklamada, saldırıda onlarca sivilin yaralandığı ve çok sayıda kişinin evlerini terk etmek zorunda kaldığı belirtildi. Olayın ardından bölgede insani durumun kötüleştiği ifade edildi. Sudan'da ordu ile HDK arasındaki çatışmalar, Nisan 2023'ten bu yana devam ederek ülke genelinde siviller üzerinde yıkıcı etkiler yaratıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-injure-several-in-lebanon-as-israel-katz-vows-no-withdrawal-from-occupied-areas-in-lebanon-syria-gaza/4025824",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786600782667j24xx",
-        "title": "Ukrayna Limanına Rus Saldırısı Sonrası Zelenskiy Füze Savunma Sistemleri İstiyor: Patriot Kıtlığı ABD-İran Savaşına Bağlandı",
-        "summary": "Rusya'nın Ukrayna'daki bir limana düzenlediği saldırı sonucu yangın çıktı. Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesinin hava savunma kapasitesini güçlendirmek amacıyla daha fazla füze savunma sistemi talep etti. Ukrayna, özellikle Patriot füze savunma sistemlerinde ciddi bir kıtlık yaşandığını bildirdi. Bu kıtlığın, ABD'nin Şubat ayında İran ile savaşa girmesinden bu yana ortaya çıktığı belirtiliyor. Bu durum, Orta Doğu'daki çatışmaların Ukrayna'ya sağlanan askeri yardımları dolaylı yoldan etkilediğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12672895/pexels-photo-12672895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T05:59:42.667Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178659527151833wnw",
-        "title": "Hamas, Filistin Seçimlerine Katılacağını Duyurdu",
-        "summary": "Filistinli grup Hamas, Filistin seçimlerine en geniş koalisyon altında katılacağını açıkladı. Bir Hamas yetkilisi, katılım için öne sürülen \"siyasi koşulları\" reddettiğini belirtti. Yetkili, seçimleri \"20 yıllık tek taraflı karar alma sürecini sona erdirme\" fırsatı olarak değerlendirdiklerini ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7103091/pexels-photo-7103091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T04:27:51.518Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hamas-says-it-will-take-part-in-palestinian-elections-under-broadest-possible-coalition/4025785",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
