@@ -1,5 +1,21 @@
 [
     {
+        "id": "17867443274466x2vg",
+        "title": "Trump, USS Lincoln Uçak Gemisindeki Akıl Sağlığı Endişelerini Reddetti",
+        "summary": "ABD Kongresi üyeleri, USS Lincoln uçak gemisinde denizcilerin gemiden atlama girişiminde bulunduğuna dair raporlar üzerine gemideki koşulların soruşturulması çağrısında bulundu. Eski ABD Başkanı Donald Trump ise söz konusu akıl sağlığı endişelerini reddetti. Bu gelişmeler, ABD'nin Orta Doğu'daki stratejik askeri varlığının önemli bir unsuru olan bir savaş gemisindeki personel refahı ve operasyonel hazırlık konularını gündeme getirdi. USS Lincoln, Trump yönetimi sırasında özellikle İran'a karşı caydırıcılık amacıyla bölgeye konuşlandırılmış ve ABD'nin bölgedeki güç projeksiyonunda kilit rol oynamıştı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37873932/pexels-photo-37873932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T21:52:07.446Z",
+        "location": {
+            "lat": 25,
+            "lng": 58,
+            "name": "Umman Denizi, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17867429502267ab5l",
         "title": "Trump, Hürmüz Boğazı'nı ABD Toprağı İlan Edeceğini Söyledi",
         "summary": "ABD Başkanı Donald Trump, İran'ı mağlup ettikten sonra Hürmüz Boğazı'nı ABD toprağı ilan edeceğini duyurdu. Bu açıklama, küresel petrol ticaretinin ana geçiş noktalarından biri olan ve İran ile Umman arasında yer alan stratejik boğazın gelecekteki statüsü hakkında önemli bir tartışma başlattı. Dünya enerji arzı için hayati öneme sahip olan bu su yolu, uluslararası denizcilik hukuku açısından hassas bir bölge olarak kabul edilmektedir. Trump'ın bu sözleri, Orta Doğu'daki jeopolitik gerilimi artırma potansiyeli taşımakta ve uluslararası toplumda geniş yankı uyandırabilir.",
@@ -780,22 +796,6 @@
             "name": "Yemen"
         },
         "source": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786571416856gkstf",
-        "title": "Gazze'de 11 Yaşındaki Çocuk İsrail Güçleri Tarafından Vuruldu",
-        "summary": "Gazze Şeridi'nin Han Yunus kentinde 11 yaşındaki bir çocuğun İsrail güçleri tarafından vurulduğu bildirildi. Çocuğun babası, oğlunun başından ve bacağından isabet aldığını ifade etti. Olayın ardından çocuğun hastaneye kaldırıldığı ve tedavi altına alındığı belirtildi. İsrail makamlarından konuya ilişkin henüz bir açıklama yapılmazken, bölgedeki gerilimin devam ettiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8336958/pexels-photo-8336958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T21:50:16.856Z",
-        "location": {
-            "lat": 31.35,
-            "lng": 34.3,
-            "name": "Han Yunus, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
