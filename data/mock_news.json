@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786751414341nicwv",
+        "title": "BM: Batı Şeria'da Yardımlara Erişim 900'den Fazla Engelle Kısıtlanıyor",
+        "summary": "Birleşmiş Milletler (BM), Batı Şeria'da insani yardımlara erişimin 900'den fazla engelle karşılaştığını bildirdi. Bir BM yetkilisi, meslektaşlarının Filistinlileri koruma çabalarının etkisiz kaldığı konusunda uyardığını belirtti. Bu durum, bölgedeki insani yardım operasyonlarının karşılaştığı zorlukları gözler önüne seriyor. Engellerin, yardımların ihtiyaç sahiplerine ulaşmasını ciddi şekilde aksattığı ve koruma mekanizmalarının işlevselliğini azalttığı ifade edildi. BM, bu engellerin kaldırılması ve insani yardımın kesintisiz ulaştırılması için çağrıda bulunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6646867/pexels-photo-6646867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T23:50:14.341Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/aid-access-hampered-by-more-than-900-obstacles-in-west-bank-un/4027821",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17867498786626s0hu",
         "title": "Trump, İran Savaşı Ortasında Hürmüz Boğazı'nı ABD 'Toprağı' İlan Edeceğini Söyledi",
         "summary": "ABD eski Başkanı Donald Trump, İran ile yaşanan gerilimler ve olası bir savaş ortamında Hürmüz Boğazı'nı ABD toprağı ilan edeceğini belirtti. Bu açıklama, stratejik öneme sahip boğazın kontrolü konusunda ABD ve İran arasında devam eden ateşkes müzakerelerinde bir anlaşmazlık noktası olmaya devam ettiğini gösteriyor. Hürmüz Boğazı, küresel petrol ticareti için hayati bir geçiş noktası olup, bölgedeki jeopolitik dengeler açısından kritik bir rol oynamaktadır. Trump'ın bu çıkışı, iki ülke arasındaki ilişkilerde yeni bir gerilim potansiyeli yaratmaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-offensive-continues-in-southern-lebanon-unabated-with-airstrikes-burning-homes/4025919",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1786607442039gu4gd",
-        "title": "İsrail, Lübnan'daki saldırılarda yaralılara neden olurken, Savunma Bakanı Katz işgal altındaki bölgelerden çekilmeyeceklerini taahhüt etti",
-        "summary": "İsrail'in Lübnan'a düzenlediği saldırılarda çok sayıda kişinin yaralandığı bildirildi. İsrail Savunma Bakanı Israel Katz, Lübnan, Suriye ve Gazze'deki işgal altındaki bölgelerden çekilmeyeceklerini açıkladı. Bakan Katz, kademeli bir çekilmeyi öngören anlaşmalara rağmen İsrail güçlerinin 'güvenlik bölgelerinde' kalmaya devam edeceğini vurguladı. Bu gelişmeler, bölgedeki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699687/pexels-photo-5699687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T07:50:42.039Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strikes-injure-several-in-lebanon-as-israel-katz-vows-no-withdrawal-from-occupied-areas-in-lebanon-syria-gaza/4025824",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
