@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786730213277ddgzw",
+        "title": "Netanyahu'nun Trump'ın Gazze Planını Reddi Son Söz Olmayabilir",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, ABD'nin eski başkanı Donald Trump yönetiminin Gazze için hazırladığı 15 maddelik planı reddettiği bildirildi. Ancak Trump yönetimi, bu ret kararını önemsemediğini belirtti. ABD tarafı, Netanyahu'nun bu çıkışını İsrail'deki genel seçimler öncesinde yapılan bir kampanya söylemi olarak değerlendiriyor. Bu durum, söz konusu Gazze planının geleceği hakkında henüz kesin bir kararın verilmediği yorumlarına yol açtı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11022635/pexels-photo-11022635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-14T17:56:53.277Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786726628158iaum0",
         "title": "Katar, FIFA Başkanı Infantino'ya Yönelik Açık Mektup Konusunda AFC'ye Meydan Okudu",
         "summary": "Katar Futbol Federasyonu (FA) Başkanı Hamad bin Khalifa Al-Thani, Asya Futbol Konfederasyonu (AFC) tarafından FIFA Başkanı Gianni Infantino'ya yönelik kaleme alınan açık mektuba ilişkin istişare eksikliğinden duyduğu rahatsızlığı dile getirdi. Katar, AFC'nin bu tür önemli bir konuda kendilerine danışmadan hareket etmesini eleştiriyor. Bu durum, Asya futbolu içindeki yönetimsel süreçler ve iletişim eksiklikleri hakkında soruları gündeme getiriyor ve bölgesel futbol diplomasisinde yeni bir gerilime işaret ediyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786563720668ubalz",
-        "title": "Somali'de Kuraklık Nedeniyle Binlerce Kişi Yerinden Oldu, Yardım Azalıyor",
-        "summary": "Somali'de uzun süredir devam eden kuraklık, binlerce ailenin geçim kaynaklarını yok etti. Açlık çeken aileler, hayvanlarını ve tarım arazilerini kaybetmenin eşiğinde. Ülke genelinde yaşanan bu insani kriz, yerinden edilmelere yol açarken, uluslararası yardımların keskin bir şekilde azalması durumu daha da kötüleştiriyor. Birleşmiş Milletler ve insani yardım kuruluşları, bölgedeki acil ihtiyaçlara dikkat çekerek, gıda ve su kıtlığının derinleştiği konusunda uyarıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5417348/pexels-photo-5417348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-12T19:42:00.668Z",
-        "location": {
-            "lat": 5,
-            "lng": 46,
-            "name": "Somali"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
