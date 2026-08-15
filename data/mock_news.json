@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786825496715bz8vb",
+        "title": "Fas Polisi, Ceuta Enklavına Yönelen Göçmenleri Engelledi",
+        "summary": "Fas güvenlik güçleri, Ceuta enklavına geçmeye çalışan göçmenleri engellemek amacıyla operasyonlarını artırdı. Fnideq bölgesinde yoğunlaşan bu operasyonlar, düzensiz göç akışını kontrol altına almayı hedefliyor. İspanya'ya ait bir Kuzey Afrika enklavı olan Ceuta, Avrupa'ya ulaşmak isteyen göçmenler için stratejik bir geçiş noktası konumunda. Fas makamları, sınır güvenliğini güçlendirerek bu tür geçişleri önlemeye yönelik tedbirlerini sürdürüyor. Bu gelişmeler, bölgedeki göçmen sorunlarının ve sınır güvenliği meselelerinin önemini bir kez daha ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30665906/pexels-photo-30665906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T20:24:56.715Z",
+        "location": {
+            "lat": 35.85,
+            "lng": -5.35,
+            "name": "Fnideq, Fas"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1786823220200ychjh",
         "title": "Gazze'de 21 Filistinlinin Cesedine Ulaşıldı, 40 Kişi İçin Arama Çalışmaları Başlatıldı",
         "summary": "Gazze'deki Sivil Savunma ekipleri, İsrail saldırılarında yıkılan iki evden 21 Filistinlinin cansız bedenine ulaştı. Ekipler, Gazze Şehri'nde bulunan üçüncü bir evin enkazı altında kayıp olduğu düşünülen 40 kişi için arama çalışmalarına başladı. Bu çalışmalar, bölgedeki çatışmaların ardından ortaya çıkan insani durumu gözler önüne seriyor. Kurtarma ekipleri, yıkımın boyutları nedeniyle zorlu koşullar altında görev yapıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/3-palestinian-fishermen-injured-by-israeli-naval-fire-off-gaza-city-despite-ceasefire/4027178",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17866933306101vgzu",
-        "title": "Trump Danışmanı ve Barış Kurulu Elçisi, ABD'nin Gazze Planı İçin İsrail'i Ziyaret Edecek",
-        "summary": "Eski ABD Başkanı Donald Trump'ın danışmanlarından ve Barış Kurulu'ndan bir elçi, ABD'nin Gazze'ye yönelik planını görüşmek üzere İsrail'i ziyaret etmeye hazırlanıyor. Axios'un haberine göre, bu ziyaretin temel amacı, planın bir sonraki aşamasının uygulanmasını İsrail'deki olası seçimlerin engellemesini önlemek. Beyaz Saray, planın ilerleyişinin iç siyasi gelişmelerden etkilenmemesini istiyor. Görüşmelerde, ABD'nin bölgedeki barış çabaları ve Gazze'deki durumun ele alınması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8190804/pexels-photo-8190804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T07:42:10.610Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-adviser-board-of-peace-envoy-to-visit-israel-for-talks-on-us-gaza-plan-report/4027106",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
