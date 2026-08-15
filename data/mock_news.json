@@ -1,5 +1,21 @@
 [
     {
+        "id": "17868362276546gg1m",
+        "title": "Yetkililer: İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda On Bir Kişi Hayatını Kaybetti",
+        "summary": "İsrail ordusu, güney Lübnan'a yönelik saldırılar düzenlediğini duyurdu. Yetkililer, bu saldırılarda on bir kişinin hayatını kaybettiğini bildirdi. İsrail askeri kaynakları, saldırıların 'Hizbullah terör altyapısını' hedef aldığını belirtti. Açıklamada, bu eylemin İsrail askerlerine yönelik daha önceki bir saldırıya misilleme olarak gerçekleştirildiği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952996/pexels-photo-5952996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T23:23:47.654Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "178683427285949cxb",
         "title": "Libya'nın Zaviye Santrali Yakınlarında Patlama Elektrik Üretimini Aksattı",
         "summary": "Libya'nın Zaviye kentindeki elektrik santrali yakınlarında bir patlama meydana geldi. Olay sonucunda santraldeki elektrik üretimi kesintiye uğradı. Devlet elektrik şirketi, teknik ekiplerin patlamanın nedenini araştırdığını ve elektrik tedarikini yeniden sağlamak için çalışmaların devam ettiğini bildirdi.",
@@ -780,22 +796,6 @@
             "name": "El-Mansuri, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-attacks-southern-lebanon-demolishes-buildings-despite-framework-deal/4027238",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786698709925ve8g8",
-        "title": "Hürmüz Boğazı'ndan Çıkarken Tankere İnsansız Hava Aracı Saldırısı",
-        "summary": "Birleşik Krallık denizcilik ajansı, Hürmüz Boğazı'ndan çıkmakta olan bir tankere insansız hava aracı (İHA) saldırısı düzenlendiğini duyurdu. Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO) tarafından yapılan açıklamada, geminin hafif hasar gördüğü ve mürettebatın güvende olduğu belirtildi. Bu olay, bölgedeki deniz güvenliği endişelerini yeniden gündeme getirdi ve uluslararası sulardaki seyrüsefer güvenliğinin önemini bir kez daha ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T09:11:49.925Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/tanker-hit-by-drone-while-exiting-strait-of-hormuz-uk-maritime-agency/4027202",
         "trendScore": 85,
         "isBreaking": false
     }
