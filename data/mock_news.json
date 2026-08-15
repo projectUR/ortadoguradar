@@ -1,5 +1,21 @@
 [
     {
+        "id": "178683427285949cxb",
+        "title": "Libya'nın Zaviye Santrali Yakınlarında Patlama Elektrik Üretimini Aksattı",
+        "summary": "Libya'nın Zaviye kentindeki elektrik santrali yakınlarında bir patlama meydana geldi. Olay sonucunda santraldeki elektrik üretimi kesintiye uğradı. Devlet elektrik şirketi, teknik ekiplerin patlamanın nedenini araştırdığını ve elektrik tedarikini yeniden sağlamak için çalışmaların devam ettiğini bildirdi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/35982145/pexels-photo-35982145.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T22:51:12.859Z",
+        "location": {
+            "lat": 32.75,
+            "lng": 12.73,
+            "name": "Zaviye, Libya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosion-near-libya-s-zawiya-power-plant-disrupts-electricity-production/4028503",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1786825496715bz8vb",
         "title": "Fas Polisi, Ceuta Enklavına Yönelen Göçmenleri Engelledi",
         "summary": "Fas güvenlik güçleri, Ceuta enklavına geçmeye çalışan göçmenleri engellemek amacıyla operasyonlarını artırdı. Fnideq bölgesinde yoğunlaşan bu operasyonlar, düzensiz göç akışını kontrol altına almayı hedefliyor. İspanya'ya ait bir Kuzey Afrika enklavı olan Ceuta, Avrupa'ya ulaşmak isteyen göçmenler için stratejik bir geçiş noktası konumunda. Fas makamları, sınır güvenliğini güçlendirerek bu tür geçişleri önlemeye yönelik tedbirlerini sürdürüyor. Bu gelişmeler, bölgedeki göçmen sorunlarının ve sınır güvenliği meselelerinin önemini bir kez daha ortaya koyuyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/tanker-hit-by-drone-while-exiting-strait-of-hormuz-uk-maritime-agency/4027202",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17866987310360scqa",
-        "title": "Ateşkese Rağmen Gazze Açıklarında İsrail Donanması Ateşiyle 3 Filistinli Balıkçı Yaralandı",
-        "summary": "Gazze Şeridi açıklarında yaşanan bir olayda, İsrail donanması tarafından açılan ateş sonucu üç Filistinli balıkçının yaralandığı bildirildi. Olayın, bölgede ilan edilen ateşkese rağmen gerçekleştiği vurgulanmaktadır. Haber, Gazze'deki balıkçılara yönelik kısıtlamaların devam ettiğini ve ateşkes ihlallerinin sürdüğünü belirtmektedir. Bu durum, bölgedeki gerilimin ve güvenlik endişelerinin devam ettiğini göstermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38622697/pexels-photo-38622697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T09:12:11.036Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-palestinian-fishermen-injured-by-israeli-naval-fire-off-gaza-city-despite-ceasefire/4027178",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
