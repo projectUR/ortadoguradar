@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786823220200ychjh",
+        "title": "Gazze'de 21 Filistinlinin Cesedine Ulaşıldı, 40 Kişi İçin Arama Çalışmaları Başlatıldı",
+        "summary": "Gazze'deki Sivil Savunma ekipleri, İsrail saldırılarında yıkılan iki evden 21 Filistinlinin cansız bedenine ulaştı. Ekipler, Gazze Şehri'nde bulunan üçüncü bir evin enkazı altında kayıp olduğu düşünülen 40 kişi için arama çalışmalarına başladı. Bu çalışmalar, bölgedeki çatışmaların ardından ortaya çıkan insani durumu gözler önüne seriyor. Kurtarma ekipleri, yıkımın boyutları nedeniyle zorlu koşullar altında görev yapıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36798316/pexels-photo-36798316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T19:47:00.200Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/remains-of-21-palestinians-recovered-in-gaza-search-begins-for-40-more/4028357",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786818799717m41jl",
         "title": "Rus petrol sızıntısı Umman kıyılarına ulaştı, temizlik çalışmaları sürüyor",
         "summary": "Umman kıyı şeridinde, karaya oturmuş bir tankerde meydana gelen petrol sızıntısı nedeniyle temizlik çalışmaları başlatıldı. Sızıntının Umman'ın 12 kilometrelik kıyı şeridini etkilediği bildirildi. Bölgeye sevk edilen temizlik ekipleri, çevresel zararı en aza indirmek için yoğun çaba sarf ediyor. Olayın, Rusya'ya ait olduğu belirtilen bir tankerin karaya oturması sonucu meydana geldiği öğrenildi. Yetkililer, sızıntının nedenlerini araştırırken, deniz ekosistemi üzerindeki potansiyel etkileri değerlendiriyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/americas/trump-adviser-board-of-peace-envoy-to-visit-israel-for-talks-on-us-gaza-plan-report/4027106",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786693353669p2d1n",
-        "title": "Suudi Veliaht Prensi ve ABD CENTCOM Komutanı Bölgesel Gerilimi Azaltma Çabalarını Görüştü",
-        "summary": "Suudi Arabistan Veliaht Prensi Muhammed bin Salman, ABD Merkez Kuvvetler Komutanı (CENTCOM) Oramiral Brad Cooper ile bir araya geldi. Görüşmede, bölgedeki gerilimi azaltma çabaları ana gündem maddelerinden biri oldu. Taraflar ayrıca Suudi Arabistan ile ABD arasındaki savunma işbirliğini ve bölgesel gelişmeleri ele aldı. Bu yüksek düzeyli toplantı, iki ülke arasındaki stratejik ilişkilerin ve Orta Doğu'daki güvenlik konularının önemini bir kez daha vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433850/pexels-photo-7433850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T07:42:33.669Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/americas/saudi-crown-prince-us-centcom-chief-discuss-regional-de-escalation-efforts/4027025",
         "trendScore": 85,
         "isBreaking": false
     }
