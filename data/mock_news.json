@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786773232896ah0m4",
+        "title": "İran, ABD ile Müzakerelere Dönüş Konusunda Henüz Karar Verilmediğini Açıkladı",
+        "summary": "İran Dışişleri Bakanı Abbas Araghchi, ABD ile olası müzakerelere geri dönüş konusunda henüz bir karar alınmadığını duyurdu. Bakan Araghchi, İran'ın Umman ile çeşitli diplomatik güzergahlar üzerinde çalışmalar yürüttüğünü belirtti. Ancak Hürmüz Boğazı'ndaki deniz taşımacılığının güvenliğinin ve akışının, ABD'nin belirli koşulları yerine getirmesine bağlı olduğunu vurguladı. Bu açıklama, bölgedeki gerilimin ve diplomatik çabaların devam ettiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T05:53:52.896Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786771652191py8qp",
         "title": "Sudanlı Bir Mülteci, Çad Kampında Nasıl Okul Müdürü Oldu?",
         "summary": "Sudan'daki savaş nedeniyle yerinden edilen Sahra adlı bir mülteci, Çad'daki bir kampta okul müdürü olarak görev yapmaya başladı. Sahra, çatışmaların yol açtığı zorluklara rağmen, mülteci çocuklara eğitim yoluyla güvenlik ve umut aşılamayı hedefliyor. Bu girişim, savaşın etkilediği bölgelerde eğitimin önemini ve mültecilerin topluma katkı potansiyelini gözler önüne seriyor. Kamp okulu, çocukların travmatik deneyimlerinden uzaklaşarak geleceğe dair umut beslemeleri için kritik bir rol oynuyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786612524325ocq4c",
-        "title": "ABD'li Diplomat, Batı Şeria'daki Yerleşimci Kuşatmasını 'Terör Eylemi' Olarak Nitelendirdi",
-        "summary": "ABD'li bir diplomat, Batı Şeria'da İsrailli yerleşimcilerin Filistinli ailelerin evlerini kuşatmasını 'terör eylemi' olarak tanımladı. Qusra köyünde üç Filistinli ailenin evlerinin İsrailli yerleşimciler tarafından abluka altına alındığı bildirildi. Bu abluka sonucunda ailelerin gıda ve temel ihtiyaç malzemelerine erişiminin engellendiği belirtildi. Olay, bölgedeki gerilimi artırırken, ABD'nin bu konudaki tutumunu da ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18417015/pexels-photo-18417015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T09:15:24.325Z",
-        "location": {
-            "lat": 32.06,
-            "lng": 35.29,
-            "name": "Qusra, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
