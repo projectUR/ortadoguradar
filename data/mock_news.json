@@ -1,5 +1,21 @@
 [
     {
+        "id": "178680552490269r82",
+        "title": "İran: Katar, ABD ve İsrail ile Savaş Sırasında Düşen Savaş Uçaklarının 3 Pilotunu Yakaladı",
+        "summary": "İran Silahlı Kuvvetleri, Mart ayındaki saldırılar sırasında ABD ve İsrail ile yaşanan çatışmalarda Su-24 tipi savaş uçaklarının düşmesinin ardından üç İranlı pilotun Katar güçleri tarafından sağ olarak ele geçirildiğini açıkladı. İran'dan yapılan bu duyuru, pilotların Katar tarafından yakalandığını belirtirken, olayın tam tarihi ve detaylarına ilişkin ek bilgi sunulmadı. Bu açıklama, bölgedeki geçmiş askeri olaylara dair iddiaları yeniden gündeme getirerek, İran ile Katar arasındaki ilişkilerde yeni bir tartışma konusu oluşturdu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6977698/pexels-photo-6977698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T14:52:04.903Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-qatar-captured-3-pilots-after-fighter-jets-crashed-during-war-with-us-israel/4028212",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786803920547p2nvq",
         "title": "Afganlar Taliban Yönetiminin Beşinci Yılını Anıyor",
         "summary": "Afganistan'da, Taliban'ın iktidara gelişinin beşinci yıl dönümü dolayısıyla başkent Kabil'de halk bir araya geldi. 2021 yılında ülkenin kontrolünü ele geçiren Taliban, o tarihten bu yana Afganistan'ın siyasi ve sosyal yapısında önemli değişikliklere neden oldu. Bu anma, hem geçmiş beş yılın değerlendirilmesi hem de ülkenin geleceğine dair tartışmaların bir parçası olarak görülüyor. Etkinlikler, Taliban yönetiminin ülkedeki etkisini ve uluslararası toplumla ilişkilerini yeniden gündeme getiriyor.",
@@ -780,22 +796,6 @@
             "name": "Nablus, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786673368055vtcvm",
-        "title": "Norveç Dışişleri Bakanı: ABD'nin İran Savaşı 'Akıllıca Değildi'",
-        "summary": "Norveç Dışişleri Bakanı Espen Barth Eide, Al Jazeera'ya yaptığı açıklamada, ABD'nin İran'a yönelik savaşının başlangıçtaki hedeflerine ulaşamadığını belirtti. Bakan Eide, bu müdahalenin Tahran'daki muhafazakar kanadı güçlendirdiğini ifade etti. Açıklama, bölgedeki geçmiş müdahalelerin sonuçlarına dair uluslararası bir değerlendirme niteliği taşıyor ve İran'ın iç siyasetine etkilerine dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T02:09:28.055Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
