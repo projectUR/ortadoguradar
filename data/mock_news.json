@@ -1,5 +1,21 @@
 [
     {
+        "id": "178679092396510lve",
+        "title": "İsrail'in Lübnan'ın Güneyindeki Bir Eve Düzenlediği Saldırıda Yedi Kişi Hayatını Kaybetti",
+        "summary": "Lübnan'ın güneyindeki Ansar kasabasında bir aile evine İsrail tarafından gece saatlerinde hava saldırısı düzenlendi. Saldırıda ilk belirlemelere göre en az yedi kişi hayatını kaybetti. Yerel kaynaklar, saldırının hedef aldığı evin tamamen yıkıldığını ve enkaz altında kalanların olabileceğini bildirdi. Bölgede arama kurtarma çalışmalarının devam ettiği ve can kaybının artmasından endişe edildiği belirtildi. İsrail ordusundan konuya ilişkin henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5952899/pexels-photo-5952899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T10:48:43.965Z",
+        "location": {
+            "lat": 33.37,
+            "lng": 35.45,
+            "name": "Ansar, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1786787621153wz2gz",
         "title": "Filistin'de 20 Yıl Sonraki İlk Yasama Seçimleri İçin Seçmen Kayıtları Başladı",
         "summary": "Filistin'de, 20 yıl aradan sonra yapılacak ilk yasama seçimleri için seçmen kayıtları resmen başladı. Merkezi Seçim Komisyonu tarafından yapılan açıklamaya göre, seçimler Batı Şeria, Gazze Şeridi ve Kudüs dahil olmak üzere Filistin topraklarında gerçekleştirilecek. 17 yaş ve üzeri Filistinliler, bu tarihi seçimlerde oy kullanabilmek için kayıt yaptırma hakkına sahip olacaklar. Bu gelişme, Filistin siyasi yaşamında önemli bir dönüm noktası olarak değerlendiriliyor ve bölgedeki siyasi dinamikler açısından yakından takip ediliyor.",
@@ -780,22 +796,6 @@
             "name": "Tel Aviv, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/skepticism-mounts-over-israeli-intelligence-after-trump-flight-switch/4026885",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17866499577167ihl9",
-        "title": "İran liderinin danışmanı, Tahran'ın koşulları karşılanmazsa savaşın saldırıya dönüşebileceği uyarısında bulundu",
-        "summary": "İran liderinin üst düzey danışmanı, Tahran'ın koşullarının karşılanmaması durumunda mevcut çatışmanın saldırı niteliği kazanabileceği uyarısında bulundu. Danışman, bölgedeki güvenlik durumuna ilişkin önemli açıklamalarda bulunarak, önerilen Hürmüz mekanizmasının bölgesel güvenliği sağlamak için bir yol sunduğunu belirtti. Bu mekanizmanın, ABD'nin garantilerinden bağımsız olarak işleyeceği vurgulandı. Açıklamalar, bölgedeki gerilimin potansiyel seyrine dair Tahran'ın duruşunu yansıtıyor ve bölgesel güvenlik dinamiklerine dikkat çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T19:39:17.716Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-leader-s-adviser-warns-war-may-turn-offensive-if-tehran-s-conditions-unmet/4026884",
         "trendScore": 85,
         "isBreaking": false
     }
