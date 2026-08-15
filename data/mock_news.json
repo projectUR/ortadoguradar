@@ -1,5 +1,53 @@
 [
     {
+        "id": "1786768427791czp98",
+        "title": "ABD, İran'ın Balistik Füze Kabiliyetini Gerçekten Yok Etti mi?",
+        "summary": "ABD, İran'ın füze kabiliyetini yok ettiğini iddia ederken, eski bir Beyaz Saray danışmanı bu iddiayı 'boş bir hayal' olarak nitelendirdi. Bu durum, Washington'ın Tahran'ın askeri gücüne yönelik eylemlerinin etkinliği konusunda farklı görüşlerin olduğunu ortaya koyuyor. İran'ın balistik füze programı, bölgesel ve uluslararası güvenlik açısından kritik bir konu olmaya devam ediyor. ABD'nin bu konudaki açıklamaları, İran'ın savunma kapasitesine ilişkin tartışmaları yeniden alevlendirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T04:33:47.791Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17867684940416vdwz",
+        "title": "İsrailli Yerleşimciler Tarafından Kuşatılan Filistinlilere Yardım Ulaştırma Girişimi",
+        "summary": "İşgal altındaki Batı Şeria'da, İsrailli yerleşimciler tarafından kuşatılan evlerinde mahsur kalan iki Filistinli aileye yardım ulaştırma girişiminde bulunuldu. Aktivistler, birkaç gündür evlerinde kapalı kalan bu ailelere insani yardım götürmeye çalıştı. Olay, bölgedeki Filistinliler ve İsrailli yerleşimciler arasındaki gerilimin devam ettiğini gözler önüne serdi. Bu tür kuşatmalar, Batı Şeria'da sıkça yaşanan insan hakları ihlalleri ve güvenlik sorunlarının bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33924943/pexels-photo-33924943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T04:34:54.041Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786768521052qg5q8",
+        "title": "Yemen Liman Kenti El-Mokha'ya Husi Saldırılarında 1 Ölü, 8 Sivil Yaralı",
+        "summary": "Yemen'in El-Mokha liman kentine yönelik Husi saldırılarında bir kişinin hayatını kaybettiği, sekiz sivilin ise yaralandığı bildirildi. Devlet televizyonu Saba TV'nin aktardığına göre, Husiler El-Mokha'yı birkaç gün boyunca hedef aldı. Saldırılarda 40 balistik füze, 46 insansız hava aracı ve bomba yüklü tekneler kullanıldı. Bu olaylar, Yemen'deki çatışmaların devam ettiğini ve sivil kayıplara yol açtığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38610895/pexels-photo-38610895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T04:35:21.052Z",
+        "location": {
+            "lat": 13.31,
+            "lng": 43.25,
+            "name": "El-Mokha, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/1-killed-8-civilians-injured-in-houthi-attacks-on-yemeni-port-city-report/4027897",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786765297290je8qq",
         "title": "ABD Başkanı Trump'tan Hürmüz Boğazı'nı ABD Toprağı İlan Etme Açıklaması",
         "summary": "ABD Başkanı Donald Trump, stratejik öneme sahip Hürmüz Boğazı'nı \"yakında\" ABD toprağı ilan edeceğini duyurdu. Basına yaptığı açıklamada bu niyetini dile getiren Trump'ın sözleri, uluslararası arenada geniş yankı uyandırdı. İran ile Umman ve Birleşik Arap Emirlikleri arasında yer alan Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği hayati bir deniz geçididir. Bu tür bir deklarasyonun, bölgedeki jeopolitik dengeleri ve uluslararası hukuku derinden etkileyeceği öngörülüyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1786612631171q0eaj",
-        "title": "BM: Sudan'ın güneydoğusundaki çatışmalarda 20'den fazla sivil öldü, çok sayıda kişi yaralandı",
-        "summary": "Birleşmiş Milletler'den yapılan açıklamaya göre, Sudan'ın güneydoğu bölgesinde meydana gelen çatışmalarda 20'den fazla sivil hayatını kaybetti ve çok sayıda kişi yaralandı. BM İnsani İşler Koordinasyon Ofisi (OCHA), şiddetin tırmanması sonucu Geisan şehrinden yaklaşık 2.500 kişinin yerinden edildiğini duyurdu. Bölgedeki güvenlik durumunun kötüleştiği ve insani krizin derinleştiği belirtildi. Uluslararası kuruluşlar, sivillerin korunması ve bölgeye acil insani yardım ulaştırılması çağrısında bulunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16013478/pexels-photo-16013478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T09:17:11.171Z",
-        "location": {
-            "lat": 11.5,
-            "lng": 34.5,
-            "name": "Geisan, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/over-20-civilians-killed-many-injured-in-clashes-in-southeastern-sudan-un/4026020",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1786612669675cd4rd",
-        "title": "İsrail Ordusu Batı Şeria'daki Qusra Kasabasında Sokağa Çıkma Yasağı İlan Etti",
-        "summary": "Batı Şeria'da gerilim tırmanıyor. İsrail ordusu, Nablus'un güneyinde yer alan Qusra kasabasına geniş çaplı bir askeri operasyon başlattı. Anadolu Ajansı'na konuşan görgü tanıkları, piyade birlikleri ve onlarca askeri aracın kasabanın sokaklarına konuşlandığını bildirdi. Operasyon kapsamında kasabada sokağa çıkma yasağı ilan edildiği belirtilirken, bu durumun Filistinli ailelerin kuşatma altında olduğu iddialarının ardından geldiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T09:17:49.675Z",
-        "location": {
-            "lat": 32.08,
-            "lng": 35.28,
-            "name": "Qusra, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-enforces-curfew-on-west-bank-town-amid-occupiers-siege-of-palestinian-families/4025917",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1786607181441v6jby",
-        "title": "İsrail'in Güney Lübnan'daki Saldırıları 'Uluslararası Hukukun İhlali': Başbakan",
-        "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in Güney Lübnan'da gerçekleştirdiği saldırılara ilişkin açıklamalarda bulundu. Başbakan Salam, İsrail'in yıkıma uğrayan köylerin askeri alanlar olduğu yönündeki iddialarını reddettiğini belirtti. Salam, bu saldırıların uluslararası hukukun açık bir ihlali olduğunu vurguladı. Açıklama, bölgedeki gerilimin devam ettiğini ve taraflar arasındaki anlaşmazlığın sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17885542/pexels-photo-17885542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T07:46:21.441Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
