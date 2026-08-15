@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786811335646hebgc",
+        "title": "İran, iki Fransız diplomatın yabancı müdahale iddiasıyla gözaltına alındığını duyurdu",
+        "summary": "İran, iki Fransız diplomatın yabancı müdahale iddiasıyla gözaltına alındığını açıkladı. İran İstihbarat Bakanlığı'ndan yapılan açıklamada, soruşturma sırasında ele geçirilen materyallerin ülkede nüfuz oluşturmaya yönelik daha geniş bir çabanın parçası olduğunu gösterdiği iddia edildi. Bu gelişme, Tahran ile Batılı ülkeler arasındaki diplomatik gerilimi daha da artırma potansiyeli taşıyor. Diplomatların gözaltına alınması, uluslararası hukuk ve ilişkiler açısından hassas bir konu olarak değerlendiriliyor ve Fransa'dan tepki gelmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/27541592/pexels-photo-27541592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T16:28:55.646Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.aa.com.tr/en/europe/iran-says-2-french-diplomats-detained-over-alleged-foreign-interference/4028354",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786807463806l867i",
         "title": "Husiler, Kızıldeniz'de Suudi Askeri Ekipmanı Taşıyan Gemiyi Vurdu: Altı Kişi Hayatını Kaybetti",
         "summary": "Husiler, Kızıldeniz'de Suudi askeri ekipmanı taşıyan bir gemiyi hedef aldıklarını ve saldırıda altı kişinin hayatını kaybettiğini bildirdi. İran'ın vekili olduğu belirtilen grup, ABD-İran geriliminin yüksek olduğu bir dönemde bu eylemi gerçekleştirdiğini duyurdu. Olay, İran savaşı başladığından bu yana Husilerin gerçekleştirdiği ilk ölümcül saldırı olarak kayıtlara geçti. Bölgedeki gerilimin tırmanmasına neden olan saldırı, uluslararası kamuoyunda endişeyle karşılandı.",
@@ -780,22 +796,6 @@
             "name": "Taybeh, Batı Şeria"
         },
         "source": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17866813605629vij0",
-        "title": "Mali, silahlı gruplarca esir alınan 82 askerinin serbest bırakıldığını duyurdu",
-        "summary": "Mali ordusu, ülkenin kuzey bölgelerinde silahlı gruplar tarafından esir tutulan 82 askerinin serbest bırakıldığını duyurdu. Yapılan açıklamada, askerlerin Tuareg ve El Kaide bağlantılı gruplarca rehin alındığı belirtildi. Mali'nin kuzeyi, uzun süredir cihatçı grupların ve ayrılıkçı hareketlerin faaliyet gösterdiği, güvenlik sorunlarının yoğun yaşandığı bir bölge olarak biliniyor. Bu gelişme, ülkedeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirirken, bölgedeki istikrarsızlığın devam ettiğini gösteriyor. Serbest bırakılan askerlerin sağlık durumlarına ilişkin detay verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31704104/pexels-photo-31704104.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T04:22:40.562Z",
-        "location": {
-            "lat": 17,
-            "lng": -4,
-            "name": "Mali"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
