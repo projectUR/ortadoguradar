@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786786183131xq24z",
+        "title": "İsrail'in Batı Şeria köyüne düzenlediği baskında Filistinliler arasında çocuklar da gazdan etkilendi",
+        "summary": "Filistin haber ajansı Wafa'nın bildirdiğine göre, İsrail güçleri Ramallah'ın kuzeydoğusundaki Al-Mughayyir köyünün kuzeybatısında bulunan Shaab al-Lawz mahallesine bir baskın düzenledi. Baskın sırasında Filistinliler arasında gazdan etkilenenler olduğu ve bu kişilerin arasında çocukların da bulunduğu aktarıldı. Olayın, Batı Şeria'da devam eden gerilim ve çatışmaların bir parçası olduğu belirtiliyor. Bölgede zaman zaman benzer operasyonlar düzenlenmekte ve bu durum sivil halk üzerinde olumsuz etkiler yaratmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13409533/pexels-photo-13409533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T09:29:43.131Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/children-among-palestinians-suffering-from-gas-inhalation-in-israeli-raid-on-west-bank-village/4028066",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
+        "id": "1786786204625ji6rg",
+        "title": "Gazze'de 22 Oksijen İstasyonu İsrail Ablukası Nedeniyle Hizmet Dışı Kaldı",
+        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, bölgedeki 30 oksijen tüpü doldurma cihazından yalnızca dördü faal durumda. İsrail ablukası nedeniyle 22 oksijen istasyonunun hizmet dışı kaldığı belirtildi. Bu durum, Gazze'deki sağlık hizmetlerinin ciddi şekilde aksamasına yol açarken, hastaların oksijen ihtiyacının karşılanmasında büyük zorluklar yaşanıyor. Bakanlık, ablukanın sağlık altyapısı üzerindeki olumsuz etkilerine dikkat çekerek uluslararası toplumu duruma müdahale etmeye çağırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T09:30:04.625Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/22-oxygen-stations-out-of-service-in-gaza-amid-israeli-blockade-health-ministry/4028034",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786782739812alnlo",
         "title": "FIFA Başkanı Infantino'ya Dünya Kupası Satış Tartışmalarında Giuliani'den Destek",
         "summary": "Eski New York Belediye Başkanı Rudy Giuliani'nin oğlu Andrew Giuliani, FIFA Başkanı Gianni Infantino'ya yönelik eleştirilere yanıt verdi. Giuliani, Infantino'nun Dünya Kupası ile ilgili ticari anlaşmalar ve satışlar konusundaki eleştirilerin 'sadece siyaset' olduğunu belirtti. Bu açıklama, FIFA'nın son Dünya Kupası'nın ev sahipliği ve ticari hakları etrafındaki tartışmaların devam ettiğini gösteriyor. Özellikle Katar'da düzenlenen son Dünya Kupası'nın ardından FIFA'nın kararları ve finansal süreçleri uluslararası kamuoyunda yakından takip ediliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786642213349af1lv",
-        "title": "Husiler, Kızıldeniz'de Suudi Askeri Teçhizatı Taşıyan Gemiye Saldırdı: Altı Kişi Hayatını Kaybetti",
-        "summary": "Yemen'deki Husiler, Kızıldeniz'de Suudi askeri teçhizatı taşıyan bir gemiye saldırı düzenlediğini duyurdu. Saldırıda altı kişinin hayatını kaybettiği bildirildi. Bu olay, ABD ile İran arasındaki gerilimin yüksek seyrettiği bir dönemde, Husilerin \"İran savaşı\" başlangıcından bu yana gerçekleştirdiği ilk ölümcül saldırı olarak kayıtlara geçti. İran'ın vekili olarak bilinen Husiler, Kızıldeniz'deki bu eylemleriyle bölgedeki tansiyonu daha da artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19203211/pexels-photo-19203211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T17:30:13.349Z",
-        "location": {
-            "lat": 15,
-            "lng": 40,
-            "name": "Kızıldeniz"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786636849053agbv6",
-        "title": "Husilerin Saldırıları Artırmasıyla Yemen'de Topyekun Savaş Yeniden Mi Başlayacak?",
-        "summary": "Husilerin saldırılarını artırmasıyla Yemen'de topyekun bir savaşın yeniden başlayabileceği endişesi dile getiriliyor. Analistler, bu gelişmeler ışığında Suudi Arabistan'ın bölgesel müttefikleriyle olan ilişkilerini ve konumunu güçlendirme çabası içinde olduğunu belirtiyor. Yemen'deki çatışmaların tırmanma potansiyeli, bölgedeki güvenlik dinamiklerini derinden etkileyebilir. Bu durum, bölgedeki istikrarsızlığı artırarak yeni gerilimlere yol açabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T16:00:49.053Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
