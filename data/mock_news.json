@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786797698499qttem",
+        "title": "Afgan Mülteciler Avrupa'da Belirsiz Bir Gelecekle Karşı Karşıya",
+        "summary": "Kabil'deki eski hükümetin düşmesinin ardından binlerce Afgan, ülkelerini terk ederek Avrupa'ya sığınmak zorunda kaldı. Avrupa genelinde sağ siyasetin yükselişi, bu mültecilerin geleceğine dair endişeleri artırıyor. Mülteci kabul politikaları ve entegrasyon süreçleri, Avrupa ülkeleri arasında farklılık gösterirken, bu durumun insani boyutları ve siyasi yansımaları uluslararası gündemde yerini koruyor. Afganistan'dan gelen bu göç dalgası, hem kaynak ülkeler hem de transit ve hedef ülkeler için önemli zorluklar teşkil ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/19264369/pexels-photo-19264369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T12:41:38.499Z",
+        "location": {
+            "lat": 34.5228,
+            "lng": 69.1761,
+            "name": "Kabil, Afganistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1786794434080s08ln",
         "title": "Arsenal ve Manchester City, Community Shield Kupası İçin Karşı Karşıya Geliyor",
         "summary": "İngiltere Premier Lig'in son şampiyonu Arsenal ile FA Kupası'nın sahibi Manchester City, yeni futbol sezonu öncesinde Community Shield kupası için karşı karşıya gelmeye hazırlanıyor. İngiliz futbolunun iki devi arasındaki bu mücadele, sezonun ilk önemli karşılaşması olma özelliğini taşıyor. Maç, taraftarlar tarafından büyük bir heyecanla bekleniyor ve yeni sezonun ilk işaretlerini verecek.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-15-countries-sign-statement-to-establish-maritime-defense-coalition/4026923",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17866540375560x24g",
-        "title": "Sudan ordusu, Hızlı Destek Kuvvetleri'nin Etiyopya sınırındaki önemli bir kasabaya ilerlediğini duyurdu",
-        "summary": "Sudan'da devam eden çatışmalarda yeni bir gelişme yaşandı. Sudan ordusu, paramiliter Hızlı Destek Kuvvetleri (HDK) ve müttefiklerinin Etiyopya sınırında yer alan önemli Kurmuk kasabasına doğru ilerlediğini bildirdi. Askeri ve hükümet kaynaklarından edinilen bilgilere göre, HDK güçleri Mavi Nil eyaletindeki Kurmuk kasabasına yönelik bir harekat başlattı. Bu ilerleyişin, bölgedeki çatışmaların seyrini etkileyebileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T20:47:17.556Z",
-        "location": {
-            "lat": 10.55,
-            "lng": 34.15,
-            "name": "Kurmuk, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
