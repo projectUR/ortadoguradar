@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786803920547p2nvq",
+        "title": "Afganlar Taliban Yönetiminin Beşinci Yılını Anıyor",
+        "summary": "Afganistan'da, Taliban'ın iktidara gelişinin beşinci yıl dönümü dolayısıyla başkent Kabil'de halk bir araya geldi. 2021 yılında ülkenin kontrolünü ele geçiren Taliban, o tarihten bu yana Afganistan'ın siyasi ve sosyal yapısında önemli değişikliklere neden oldu. Bu anma, hem geçmiş beş yılın değerlendirilmesi hem de ülkenin geleceğine dair tartışmaların bir parçası olarak görülüyor. Etkinlikler, Taliban yönetiminin ülkedeki etkisini ve uluslararası toplumla ilişkilerini yeniden gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20737944/pexels-photo-20737944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T14:25:20.547Z",
+        "location": {
+            "lat": 34.52,
+            "lng": 69.18,
+            "name": "Kabil, Afganistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1786804083620xax65",
+        "title": "Türk Elçi: Suriye Sınırı Boyunca Önemli Güvenlik Tehditleri Ortadan Kalktı",
+        "summary": "Türk büyükelçi Yılmaz, Suriye sınırı boyunca yaşanan önemli güvenlik tehditlerinin ortadan kalktığını açıkladı. Büyükelçi, Suriye'deki yeni yönetimin göreve gelmesinden bu yana kaçakçılık, uyuşturucu ticareti, kontrolsüz göç ve terör gibi sorunların sona erdiğini belirtti. Bu açıklama, Türkiye'nin Suriye ile olan sınır güvenliği konusundaki endişelerinde potansiyel bir azalmaya işaret ediyor. Gelişmeler, bölgedeki güvenlik dinamiklerinde önemli bir değişime işaret edebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/104592/pexels-photo-104592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T14:28:03.620Z",
+        "location": {
+            "lat": 36.5,
+            "lng": 38.5,
+            "name": "Suriye Sınırı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/key-security-threats-along-syria-border-have-disappeared-turkish-envoy/4028181",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786797698499qttem",
         "title": "Afgan Mülteciler Avrupa'da Belirsiz Bir Gelecekle Karşı Karşıya",
         "summary": "Kabil'deki eski hükümetin düşmesinin ardından binlerce Afgan, ülkelerini terk ederek Avrupa'ya sığınmak zorunda kaldı. Avrupa genelinde sağ siyasetin yükselişi, bu mültecilerin geleceğine dair endişeleri artırıyor. Mülteci kabul politikaları ve entegrasyon süreçleri, Avrupa ülkeleri arasında farklılık gösterirken, bu durumun insani boyutları ve siyasi yansımaları uluslararası gündemde yerini koruyor. Afganistan'dan gelen bu göç dalgası, hem kaynak ülkeler hem de transit ve hedef ülkeler için önemli zorluklar teşkil ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786664811911jomsl",
-        "title": "Suriye ve Irak, DEAŞ'lı Teröristlerin Davalarını İncelemek Üzere Komiteler Kurma Konusunda Anlaştı",
-        "summary": "Suriye ve Irak, terör örgütü DEAŞ mensuplarının davalarını incelemek üzere ortak komiteler kurma konusunda mutabakata vardı. Anlaşma, Irak Yüksek Yargı Konseyi Başkanı'nın Suriye'ye gerçekleştirdiği ziyaret sırasında sağlandı. Bu adım, iki ülkenin DEAŞ ile mücadele ve yargı süreçlerinde iş birliğini artırma çabasını yansıtıyor. Söz konusu komiteler, teröristlerin yargılanması ve ilgili hukuki süreçlerin hızlandırılmasına yönelik çalışmalar yürütecek.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14357129/pexels-photo-14357129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T23:46:51.911Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-iraq-agree-to-form-committees-to-review-cases-of-isis-terrorists/4026891",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786657848026us795",
-        "title": "Suudi Arabistan: 15 Ülke Deniz Savunma Koalisyonu Kurma Bildirisini İmzaladı",
-        "summary": "Suudi Arabistan, 15 ülkenin bir deniz savunma koalisyonu kurma bildirisini imzaladığını açıkladı. Savunma Bakanlığı'ndan yapılan duyuruya göre, bu ülkelerden 13'ü koalisyonun kurulması için gerekli ulusal prosedürlerini tamamlamış durumda. Bu girişim, bölgesel deniz güvenliğini artırmayı ve stratejik su yollarının korunmasını amaçlıyor. Koalisyonun faaliyete geçmesiyle birlikte, bölgedeki denizcilik faaliyetlerinin güvenliğinin güçlendirilmesi hedefleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/35608730/pexels-photo-35608730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T21:50:48.026Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-15-countries-sign-statement-to-establish-maritime-defense-coalition/4026923",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
