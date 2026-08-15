@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786771652191py8qp",
+        "title": "Sudanlı Bir Mülteci, Çad Kampında Nasıl Okul Müdürü Oldu?",
+        "summary": "Sudan'daki savaş nedeniyle yerinden edilen Sahra adlı bir mülteci, Çad'daki bir kampta okul müdürü olarak görev yapmaya başladı. Sahra, çatışmaların yol açtığı zorluklara rağmen, mülteci çocuklara eğitim yoluyla güvenlik ve umut aşılamayı hedefliyor. Bu girişim, savaşın etkilediği bölgelerde eğitimin önemini ve mültecilerin topluma katkı potansiyelini gözler önüne seriyor. Kamp okulu, çocukların travmatik deneyimlerinden uzaklaşarak geleceğe dair umut beslemeleri için kritik bir rol oynuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/15861728/pexels-photo-15861728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T05:27:32.191Z",
+        "location": {
+            "lat": 13.8294,
+            "lng": 20.8359,
+            "name": "Abéché, Çad"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1786771674230rvvxn",
+        "title": "Fas, Ceuta Sınırında Güvenliği Artırdı",
+        "summary": "Fas, İspanya'nın Kuzey Afrika'daki Ceuta yerleşim bölgesi yakınlarındaki güvenlik önlemlerini güçlendirdi. Bu adım, çevrimiçi platformlarda yeni bir toplu göçmen geçişi çağrısının ardından atıldı. Faslı yetkililer, potansiyel yasa dışı geçişleri engellemek amacıyla bölgeye dikenli tel bariyerler ekledi ve polis gücünü artırdı. Bu önlemler, sınır güvenliğini sağlamayı ve düzensiz göç akışını kontrol altında tutmayı hedefliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/104592/pexels-photo-104592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T05:27:54.230Z",
+        "location": {
+            "lat": 35.89,
+            "lng": -5.316,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786768427791czp98",
         "title": "ABD, İran'ın Balistik Füze Kabiliyetini Gerçekten Yok Etti mi?",
         "summary": "ABD, İran'ın füze kabiliyetini yok ettiğini iddia ederken, eski bir Beyaz Saray danışmanı bu iddiayı 'boş bir hayal' olarak nitelendirdi. Bu durum, Washington'ın Tahran'ın askeri gücüne yönelik eylemlerinin etkinliği konusunda farklı görüşlerin olduğunu ortaya koyuyor. İran'ın balistik füze programı, bölgesel ve uluslararası güvenlik açısından kritik bir konu olmaya devam ediyor. ABD'nin bu konudaki açıklamaları, İran'ın savunma kapasitesine ilişkin tartışmaları yeniden alevlendirdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17866125824476egwq",
-        "title": "Batı Şeria'daki Kuşatılmış Köye Ek Asker Sevk Edilecek",
-        "summary": "Batı Şeria'da bulunan Qusra köyünde, İsrailli yerleşimciler tarafından kuşatıldığı belirtilen bir bölgeye ek asker sevk edileceği bildirildi. Köydeki iki Filistinli aile, Pazar gününden bu yana evlerinde mahsur kaldıklarını, su ve elektriklerinin kesildiğini ifade etti. Bu durum, bölgedeki güvenlik endişelerini artırırken, Filistinli ailelerin temel hizmetlere erişiminin engellenmesi insan hakları ihlali olarak değerlendiriliyor. Olaylar, İsrail-Filistin çatışmasının hassas noktalarından biri olan Batı Şeria'daki gerilimi bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T09:16:22.447Z",
-        "location": {
-            "lat": 32.07,
-            "lng": 35.3,
-            "name": "Qusra, Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786612606890dp78y",
-        "title": "Görevden Uzaklaştırılan Suriye Diktatörü Beşar Esad Gıyabında İdam Cezasına Çarptırıldı",
-        "summary": "Eski Suriye Devlet Başkanı Beşar Esad, ülkedeki iç savaş sırasında işlediği savaş suçları ve insanlığa karşı suçlar nedeniyle gıyabında idama mahkum edildi. Bu karar, Esad'ın Suriye'deki çatışmalardaki rolüne ilişkin uluslararası hukuki süreçlerin devam ettiğini gösteriyor. Mahkeme, Esad'ı savaşın yol açtığı yıkım ve insan hakları ihlallerinden sorumlu tuttu. Karar, Esad'ın yokluğunda alındı ve sembolik bir nitelik taşıyor olsa da, mağdurlar için adalet arayışının bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36533585/pexels-photo-36533585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T09:16:46.890Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
