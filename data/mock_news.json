@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786794434080s08ln",
+        "title": "Arsenal ve Manchester City, Community Shield Kupası İçin Karşı Karşıya Geliyor",
+        "summary": "İngiltere Premier Lig'in son şampiyonu Arsenal ile FA Kupası'nın sahibi Manchester City, yeni futbol sezonu öncesinde Community Shield kupası için karşı karşıya gelmeye hazırlanıyor. İngiliz futbolunun iki devi arasındaki bu mücadele, sezonun ilk önemli karşılaşması olma özelliğini taşıyor. Maç, taraftarlar tarafından büyük bir heyecanla bekleniyor ve yeni sezonun ilk işaretlerini verecek.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/12239377/pexels-photo-12239377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T11:47:14.080Z",
+        "location": {
+            "lat": 51.556,
+            "lng": -0.2797,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178679092396510lve",
         "title": "İsrail'in Lübnan'ın Güneyindeki Bir Eve Düzenlediği Saldırıda Yedi Kişi Hayatını Kaybetti",
         "summary": "Lübnan'ın güneyindeki Ansar kasabasında bir aile evine İsrail tarafından gece saatlerinde hava saldırısı düzenlendi. Saldırıda ilk belirlemelere göre en az yedi kişi hayatını kaybetti. Yerel kaynaklar, saldırının hedef aldığı evin tamamen yıkıldığını ve enkaz altında kalanların olabileceğini bildirdi. Bölgede arama kurtarma çalışmalarının devam ettiği ve can kaybının artmasından endişe edildiği belirtildi. İsrail ordusundan konuya ilişkin henüz resmi bir açıklama yapılmadı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "178665414246625cci",
-        "title": "Trump'ın uçuş değişikliği sonrası İsrail istihbaratına şüpheler artıyor",
-        "summary": "Eski ABD Başkanı Trump'ın uçuş güzergahındaki bir değişikliğin ardından İsrail istihbaratının güvenilirliği konusunda şüpheler artıyor. Eski bir terörle mücadele şefi, yabancı müttefiklerin ABD'li politika yapıcıları sadece bilgilendirmek yerine etkilemek amacıyla istihbarat paylaştığını belirtti. Bu durum, ABD'nin önemli bir Orta Doğu müttefiki olan İsrail ile istihbarat paylaşımının doğası ve ABD dış politikası üzerindeki potansiyel etkileri hakkında endişeleri gündeme getiriyor. Haber, ABD-İsrail ilişkilerindeki istihbarat boyutunu ve karşılıklı güveni sorguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8294791/pexels-photo-8294791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T20:49:02.466Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/skepticism-mounts-over-israeli-intelligence-after-trump-flight-switch/4026885",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
