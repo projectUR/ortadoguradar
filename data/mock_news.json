@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786807463806l867i",
+        "title": "Husiler, Kızıldeniz'de Suudi Askeri Ekipmanı Taşıyan Gemiyi Vurdu: Altı Kişi Hayatını Kaybetti",
+        "summary": "Husiler, Kızıldeniz'de Suudi askeri ekipmanı taşıyan bir gemiyi hedef aldıklarını ve saldırıda altı kişinin hayatını kaybettiğini bildirdi. İran'ın vekili olduğu belirtilen grup, ABD-İran geriliminin yüksek olduğu bir dönemde bu eylemi gerçekleştirdiğini duyurdu. Olay, İran savaşı başladığından bu yana Husilerin gerçekleştirdiği ilk ölümcül saldırı olarak kayıtlara geçti. Bölgedeki gerilimin tırmanmasına neden olan saldırı, uluslararası kamuoyunda endişeyle karşılandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5030527/pexels-photo-5030527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T15:24:23.806Z",
+        "location": {
+            "lat": 14,
+            "lng": 42,
+            "name": "Kızıldeniz"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178680552490269r82",
         "title": "İran: Katar, ABD ve İsrail ile Savaş Sırasında Düşen Savaş Uçaklarının 3 Pilotunu Yakaladı",
         "summary": "İran Silahlı Kuvvetleri, Mart ayındaki saldırılar sırasında ABD ve İsrail ile yaşanan çatışmalarda Su-24 tipi savaş uçaklarının düşmesinin ardından üç İranlı pilotun Katar güçleri tarafından sağ olarak ele geçirildiğini açıkladı. İran'dan yapılan bu duyuru, pilotların Katar tarafından yakalandığını belirtirken, olayın tam tarihi ve detaylarına ilişkin ek bilgi sunulmadı. Bu açıklama, bölgedeki geçmiş askeri olaylara dair iddiaları yeniden gündeme getirerek, İran ile Katar arasındaki ilişkilerde yeni bir tartışma konusu oluşturdu.",
@@ -780,22 +796,6 @@
             "name": "Mali"
         },
         "source": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17866814122462ihnk",
-        "title": "BM ve Filistin Bakanlığı, Batı Şeria'daki evlere İsrailli yerleşimci kuşatmasını kınadı",
-        "summary": "Birleşmiş Milletler İnsan Hakları Ofisi ve Filistin Dışişleri Bakanlığı, Batı Şeria'nın Qusra köyünde İsrailli yerleşimciler tarafından günlerdir süren kuşatmayı sert bir dille kınadı. Yapılan açıklamalarda, yerleşimcilerin evlere yönelik eylemleri 'suç teşkil eden' ve 'insanlık dışı' olarak nitelendirildi. Bu kuşatma, bölgedeki gerilimi artırırken, uluslararası toplumdan da tepki çekti. Olay, İsrail-Filistin çatışmasının hassas bölgelerinden biri olan Batı Şeria'da güvenlik ve insan hakları ihlalleri endişelerini yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7132577/pexels-photo-7132577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T04:23:32.246Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.25,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
