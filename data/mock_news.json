@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786765297290je8qq",
+        "title": "ABD Başkanı Trump'tan Hürmüz Boğazı'nı ABD Toprağı İlan Etme Açıklaması",
+        "summary": "ABD Başkanı Donald Trump, stratejik öneme sahip Hürmüz Boğazı'nı \"yakında\" ABD toprağı ilan edeceğini duyurdu. Basına yaptığı açıklamada bu niyetini dile getiren Trump'ın sözleri, uluslararası arenada geniş yankı uyandırdı. İran ile Umman ve Birleşik Arap Emirlikleri arasında yer alan Hürmüz Boğazı, dünya petrol ticaretinin önemli bir kısmının geçtiği hayati bir deniz geçididir. Bu tür bir deklarasyonun, bölgedeki jeopolitik dengeleri ve uluslararası hukuku derinden etkileyeceği öngörülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16382982/pexels-photo-16382982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T03:41:37.290Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
         "id": "1786756962216k62g1",
         "title": "BM, Taliban Yönetimindeki Afgan Kadınlara Yönelik Yardımın Desteklenmesi Çağrısı Yaptı",
         "summary": "Birleşmiş Milletler (BM), Taliban'ın iktidara gelmesinin üzerinden beş yıl geçmesinin ardından Afganistan'daki kadınlara yönelik insani yardımın devam etmesi ve desteklenmesi çağrısında bulundu. BM Kadın Birimi (UN Women), ülkedeki kadın örgütlerinin yarısından fazlasının önümüzdeki yıl içinde faaliyetlerini durdurma riskiyle karşı karşıya olduğunu belirtti. Bu durum, Afganistan'daki kadınların temel hizmetlere ve desteğe erişiminde ciddi aksaklıklar yaşanabileceğine işaret ediyor. Çağrı, kadınların haklarının ve yaşam koşullarının iyileştirilmesi için uluslararası toplumun acil müdahalesinin önemini vurguluyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17866072033129v9ol",
-        "title": "Gazze'deki Filistinli Kadınlar Boşanma Süreçlerinde Hukuki Zorluklarla Karşı Karşıya",
-        "summary": "Gazze Şeridi'nde yaşayan Filistinli kadınlar, boşanma davalarında ciddi hukuki engellerle mücadele ediyor. Uzun süren mahkeme süreçlerinden kaçınmak amacıyla, birçok kadın yasal haklarından feragat ederek daha hızlı boşanma yollarını tercih etmek zorunda kalıyor. Bu durum, kadınların adalet erişimini kısıtlamakta ve hak kayıplarına yol açmaktadır. Hukuki sistemdeki aksaklıklar ve bürokratik engeller, boşanma davalarının uzamasına ve kadınlar üzerinde ek bir yük oluşturmasına neden olmaktadır. Kadın hakları savunucuları, bu durumun Gazze'deki kadınların yasal güvencelerini zayıflattığını belirtiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6669879/pexels-photo-6669879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-13T07:46:43.312Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/8/13/palestinian-women-in-gaza-face-legal-hurdles-in-divorce-struggles?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
