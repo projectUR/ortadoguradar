@@ -1,5 +1,69 @@
 [
     {
+        "id": "1786818799717m41jl",
+        "title": "Rus petrol sızıntısı Umman kıyılarına ulaştı, temizlik çalışmaları sürüyor",
+        "summary": "Umman kıyı şeridinde, karaya oturmuş bir tankerde meydana gelen petrol sızıntısı nedeniyle temizlik çalışmaları başlatıldı. Sızıntının Umman'ın 12 kilometrelik kıyı şeridini etkilediği bildirildi. Bölgeye sevk edilen temizlik ekipleri, çevresel zararı en aza indirmek için yoğun çaba sarf ediyor. Olayın, Rusya'ya ait olduğu belirtilen bir tankerin karaya oturması sonucu meydana geldiği öğrenildi. Yetkililer, sızıntının nedenlerini araştırırken, deniz ekosistemi üzerindeki potansiyel etkileri değerlendiriyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/13081617/pexels-photo-13081617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T18:33:19.717Z",
+        "location": {
+            "lat": 23,
+            "lng": 58,
+            "name": "Umman"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "178681882092756lyj",
+        "title": "ABD Uçak Gemisi USS Washington'ın Orta Doğu'ya Konuşlandırılması Bekleniyor",
+        "summary": "ABD Donanması'na ait USS Washington uçak gemisinin, Orta Doğu'da görev yapan USS Lincoln uçak gemisinin yerini alması bekleniyor. Bu konuşlandırma, USS Lincoln'da devam eden İran savaşı nedeniyle zorlu koşulların yaşandığına dair raporların ardından gerçekleşiyor. ABD'nin bölgedeki askeri varlığının devamlılığını sağlamak amacıyla yapılan bu değişim, Orta Doğu'daki stratejik dengeler açısından önem taşıyor. Yeni geminin bölgeye intikaliyle birlikte, ABD'nin deniz gücü kapasitesinin sürdürülmesi ve bölgesel güvenlik operasyonlarına devam edilmesi hedefleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38485162/pexels-photo-38485162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T18:33:40.927Z",
+        "location": {
+            "lat": 28,
+            "lng": 48,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786818891658srd81",
+        "title": "Netanyahu'nun Ofisi: Hizbullah Saldırısında 3 İsrail Askeri Yaralandı",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun ofisi, İsrail-Lübnan sınırında Hizbullah tarafından gerçekleştirilen bir saldırıda üç İsrail askerinin yaralandığını bildirdi. Bu açıklama, İsrail'in Haziran ayındaki çerçeve anlaşmasından bu yana güney Lübnan'a yönelik en ölümcül saldırılarını düzenlediği bir döneme denk geldi. Olay, iki ülke arasındaki gerilimin tırmandığını gösterirken, bölgedeki güvenlik durumu yakından takip ediliyor. Taraflar arasındaki çatışmaların devam ettiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T18:34:51.658Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.5,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahus-office-claims-3-israeli-soldiers-wounded-in-hezbollah-attack-near-border/4028403",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1786818914569ipp2q",
+        "title": "Hizbullah, İsrail'in Güney Lübnan'daki tırmanışına 'uygun' yanıt vereceğini açıkladı",
+        "summary": "Lübnan merkezli Hizbullah örgütü, İsrail'in Güney Lübnan'daki son saldırılarına 'uygun' bir yanıt vereceğini duyurdu. Grup tarafından yapılan açıklamada, İsrail'in bu eylemlerinin Başbakan Binyamin Netanyahu'nun iç siyasi ve seçim amaçları doğrultusunda çatışmayı tırmandırma arzusunu yansıttığı iddia edildi. Bu açıklama, Lübnan-İsrail sınırında devam eden gerilimi ve bölgedeki güvenlik endişelerini bir kez daha artırdı. Taraflar arasındaki karşılıklı tehditler, bölgedeki istikrarsızlık potansiyelini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-15T18:35:14.569Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-vows-appropriate-response-to-israeli-escalation-in-southern-lebanon/4028398",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786811335646hebgc",
         "title": "İran, iki Fransız diplomatın yabancı müdahale iddiasıyla gözaltına alındığını duyurdu",
         "summary": "İran, iki Fransız diplomatın yabancı müdahale iddiasıyla gözaltına alındığını açıkladı. İran İstihbarat Bakanlığı'ndan yapılan açıklamada, soruşturma sırasında ele geçirilen materyallerin ülkede nüfuz oluşturmaya yönelik daha geniş bir çabanın parçası olduğunu gösterdiği iddia edildi. Bu gelişme, Tahran ile Batılı ülkeler arasındaki diplomatik gerilimi daha da artırma potansiyeli taşıyor. Diplomatların gözaltına alınması, uluslararası hukuk ve ilişkiler açısından hassas bir konu olarak değerlendiriliyor ve Fransa'dan tepki gelmesi bekleniyor.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/saudi-crown-prince-us-centcom-chief-discuss-regional-de-escalation-efforts/4027025",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786693373816eenvy",
-        "title": "İsrail ordusu, Suriye'nin güneyindeki Deraa'da sivil bölgelere ateş açtı: Devlet Televizyonu",
-        "summary": "Suriye devlet televizyonu SANA'nın bildirdiğine göre, İsrail ordusu Suriye'nin güneyindeki Deraa vilayetinde sivil bölgelere ateş açtı. Olay, Deraa'ya bağlı Maariya köyünde meydana geldi. Açılan ateş sonucu köy sakinlerinden bazılarının evlerini terk etmek zorunda kaldığı belirtildi. Bu gelişme, bölgedeki gerilimi artırabilecek nitelikte olup, sivil güvenliğine yönelik endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7051776/pexels-photo-7051776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T07:42:53.816Z",
-        "location": {
-            "lat": 32.6167,
-            "lng": 36.1,
-            "name": "Deraa, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-opens-fire-on-civilian-areas-in-daraa-southern-syria-state-tv/4027005",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786693395556uh1xm",
-        "title": "Lübnan Başbakanı, İsrail Eleştirisini Yineledi: Hacker Saldırısı Sonrası Paylaşım Silindi",
-        "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in güney Lübnan'daki eylemlerini kınayan sosyal medya paylaşımının bir hacker tarafından silinmesinin ardından İsrail'e yönelik eleştirilerini yineledi. Başbakan Salam, kişisel sosyal medya hesabına yetkisiz erişim sağlandığını ve İsrail'in bölgedeki saldırılarını ve yol açtığı yıkımı eleştiren gönderinin kaldırıldığını belirtti. Bu siber saldırının ardından Salam, İsrail'in güney Lübnan'daki faaliyetlerine ilişkin eleştirel duruşunu bir kez daha kamuoyuyla paylaştı. Olay, Lübnan ve İsrail arasındaki mevcut gerilimi ve siber güvenlik boyutunu gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T07:43:15.556Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-premier-reiterates-criticism-of-israel-after-hacker-deletes-his-post-condemning-israeli-actions/4026998",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786693417230529wp",
-        "title": "İsrail Güçleri İşgal Altındaki Batı Şeria'da 3 Filistinliyi Yaraladı, Yıkım Tebligatları Yayımladı",
-        "summary": "İşgal altındaki Batı Şeria'da İsrail güçleri tarafından düzenlenen olaylarda aralarında bir çocuğun da bulunduğu üç Filistinli yaralandı. Aynı zamanda, bölgedeki Filistinlilere yönelik ev yıkım tebligatları da verildiği bildirildi. Bu son olayların, İsrail güçlerinin Filistinlilere yönelik şiddet ve onları evlerinden etme girişimlerinin uzun süredir devam eden bir parçası olduğu belirtildi. Bölgedeki gerilimin devam ettiği ve insan hakları örgütlerinin bu tür uygulamalara dikkat çektiği vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12102734/pexels-photo-12102734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T07:43:37.230Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-injure-3-palestinians-in-occupied-west-bank-including-a-child-and-issue-demolition-notices/4026995",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786687001936yttxp",
-        "title": "Batı Şeria'nın Son Hristiyan Kasabası Taybeh'te Korku ve Saldırılar Yaşanıyor",
-        "summary": "İşgal altındaki Batı Şeria'da bulunan tarihi Filistin Hristiyan kasabası Taybeh, yerleşimcilerin hedefi haline geldi. Kasaba sakinleri, koordineli saldırılar nedeniyle büyük korku ve endişe yaşıyor. Batı Şeria'daki son Hristiyan yerleşim yeri olma özelliğini taşıyan Taybeh, son dönemde artan şiddet olaylarıyla gündeme geliyor. Bu saldırılar, bölgedeki gerilimi daha da tırmandırıyor ve kasabanın geleceği hakkında endişeleri artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8553678/pexels-photo-8553678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T05:56:41.936Z",
-        "location": {
-            "lat": 31.97,
-            "lng": 35.33,
-            "name": "Taybeh, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
