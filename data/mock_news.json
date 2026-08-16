@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786913340260f2n4k",
+        "title": "ABD-İran Mutabakat Zaptı Süresi Doluyor",
+        "summary": "ABD ile İran arasında imzalanan mutabakat zaptının süresinin dolmak üzere olduğu açıklandı. Haziran ayında imzalanan bu anlaşmanın ardından her iki taraf da birbirini anlaşma hükümlerini ihlal etmekle suçlamıştı. Söz konusu mutabakat zaptının sona ermesi, Washington ile Tahran arasındaki zaten gergin olan ilişkilerde yeni bir belirsizlik dönemini başlatabilir. Anlaşmanın geleceği ve tarafların bu duruma nasıl bir tepki vereceği uluslararası kamuoyu tarafından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/955392/pexels-photo-955392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T20:49:00.260Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786902380856veje0",
         "title": "İsrailli Yerleşimciler ve Askerler Qusra'yı Kuşattı: Su ve Yardımlar Engellendi",
         "summary": "Batı Şeria'da bulunan Qusra köyü sakinleri, sekiz gündür İsrailli yerleşimciler ve askerler tarafından kuşatma altında tutuluyor. Bölgedeki ailelerin suya ve insani yardımlara erişimi engellenmiş durumda. Kuşatma nedeniyle köyde yaşayanların temel ihtiyaçlarını karşılamakta zorlandığı belirtiliyor. Bu durum, mahsur kalan sakinlerin insani koşulları hakkında endişeleri artırıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1786779245907gd293",
-        "title": "Görevden Uzaklaştırılan Suriye Diktatörü Beşar Esad Gıyabında İdam Cezasına Çarptırıldı",
-        "summary": "Haberde, görevden uzaklaştırıldığı belirtilen Suriye lideri Beşar Esad'ın gıyabında idam cezasına çarptırıldığı ifade edildi. Eski devlet başkanının, ülkedeki iç savaş sırasında işlediği savaş suçları ve insanlığa karşı suçlardan mahkum edildiği kaydedildi. Bu kararın, Esad'ın yokluğunda verildiği ve Suriye'deki uzun süreli çatışmalarla doğrudan ilgili olduğu belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520968/pexels-photo-36520968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T07:34:05.907Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
