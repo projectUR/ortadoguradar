@@ -1,5 +1,21 @@
 [
     {
+        "id": "17868793495413axpl",
+        "title": "Arsenal ve Manchester City FA Community Shield Karşılaşması Canlı Takip Ediliyor",
+        "summary": "İngiltere'nin önde gelen futbol kulüpleri Arsenal ve Manchester City, FA Community Shield mücadelesinde karşı karşıya geliyor. Bu önemli karşılaşma, maç öncesi hazırlıklar, detaylı analizler ve canlı metin anlatımıyla anbean takip ediliyor. Manchester City'nin Birleşik Arap Emirlikleri merkezli Abu Dhabi United Group'a ait olması, bu tür yüksek profilli spor etkinliklerini Orta Doğu'nun küresel spor yatırımları ve yumuşak güç stratejileriyle ilişkilendirmektedir. Bu karşılaşma, Orta Doğu sermayesinin uluslararası futboldaki etkisini ve bölgesel aktörlerin küresel arenadaki görünürlüğünü artırma çabalarını yansıtmaktadır. Maçın sonucu, sportif başarının yanı sıra, kulüp sahiplerinin uluslararası imajı açısından da dolaylı bir önem taşımaktadır.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/38615732/pexels-photo-38615732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T11:22:29.541Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1786875959348c8mdl",
         "title": "Mohamed Salah'ın Trabzonspor Formasıyla İlk Maçı Beraberlikle Sonuçlandı",
         "summary": "Mısırlı yıldız futbolcu Mohamed Salah, bedelsiz transferle katıldığı Türk kulübü Trabzonspor ile ilk maçına çıktı. Salah, Kasımpaşa ile oynanan karşılaşmanın ikinci yarısının başlarında yedek kulübesinden oyuna dahil oldu. Büyük bir merakla beklenen bu ilk maç, Trabzonspor'un Kasımpaşa ile berabere kalmasıyla beraberlikle sonuçlandı. Mısırlı forvetin performansı ve takıma adaptasyonu önümüzdeki dönemde yakından takip edilecek.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786768521052qg5q8",
-        "title": "Yemen Liman Kenti El-Mokha'ya Husi Saldırılarında 1 Ölü, 8 Sivil Yaralı",
-        "summary": "Yemen'in El-Mokha liman kentine yönelik Husi saldırılarında bir kişinin hayatını kaybettiği, sekiz sivilin ise yaralandığı bildirildi. Devlet televizyonu Saba TV'nin aktardığına göre, Husiler El-Mokha'yı birkaç gün boyunca hedef aldı. Saldırılarda 40 balistik füze, 46 insansız hava aracı ve bomba yüklü tekneler kullanıldı. Bu olaylar, Yemen'deki çatışmaların devam ettiğini ve sivil kayıplara yol açtığını gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38610895/pexels-photo-38610895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T04:35:21.052Z",
-        "location": {
-            "lat": 13.31,
-            "lng": 43.25,
-            "name": "El-Mokha, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/1-killed-8-civilians-injured-in-houthi-attacks-on-yemeni-port-city-report/4027897",
         "trendScore": 85,
         "isBreaking": false
     }
