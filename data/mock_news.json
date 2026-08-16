@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786923940243wakqk",
+        "title": "İşgal Altındaki Batı Şeria'da Yerleşimci Şiddeti Tırmanıyor",
+        "summary": "İşgal altındaki Batı Şeria'da Filistinlilere yönelik İsrailli yerleşimci saldırılarında belirgin bir artış yaşanmaktadır. İsrail'in aşırı sağcı Netanyahu hükümeti döneminde bu şiddet olayları daha da yoğunlaşmıştır. Haber, bölgedeki gerilimi ele alarak, bu tür saldırıların nasıl durdurulabileceği sorusunu gündeme getirmektedir. Bölgede devam eden çatışma ve güvenlik endişeleri uluslararası kamuoyunun dikkatini çekmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8553327/pexels-photo-8553327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T23:45:40.243Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786923964156mw5x8",
+        "title": "Ceuta Sınırı Yakınlarında Yüzlerce Göçmen Gözaltına Alındı",
+        "summary": "İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta sınırı yakınlarında geniş çaplı bir göçmen operasyonu düzenlendi. Son operasyonda, toplu bir göç girişimi sırasında yaklaşık 300 göçmen ve 61 iddia edilen kolaylaştırıcı gözaltına alındı. Bu olay, bölgedeki düzensiz göç akışına karşı yürütülen mücadelelerin bir parçası olarak değerlendiriliyor. Gözaltına alınanların kimlikleri ve uyrukları hakkında detaylı bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3195757/pexels-photo-3195757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T23:46:04.156Z",
+        "location": {
+            "lat": 35.89,
+            "lng": -5.31,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
         "id": "17869168535322ein5",
         "title": "Görevden Uzaklaştırılan Suriye Diktatörü Beşar Esad Gıyabında İdam Cezasına Çarptırıldı",
         "summary": "Suriye'nin eski devlet başkanı Beşar Esad, ülkedeki iç savaş sırasında işlediği savaş suçları ve insanlığa karşı suçlar nedeniyle gıyabında idama mahkum edildi. Bu karar, Esad'ın Suriye'deki iktidarı döneminde yaşanan olaylara ilişkin uluslararası yargı süreçlerinin bir parçası olarak değerlendiriliyor. İç savaş boyunca milyonlarca insanın yerinden edildiği ve yüz binlerce kişinin hayatını kaybettiği Suriye'de, Esad rejimi çeşitli insan hakları ihlalleriyle suçlanmıştı. Kararın, Esad'ın mevcut statüsü ve uluslararası arenadaki konumu üzerindeki etkileri merak konusu oldu. Ancak, bu tür gıyabi kararların uygulanabilirliği ve siyasi sonuçları genellikle karmaşık bir süreç gerektirmektedir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786779161807myvus",
-        "title": "İsrail Saldırısı Güney Lübnan'da Yedi Kişinin Ölümüne Neden Oldu, Saldırılar Yoğunlaştı",
-        "summary": "İsrail'in güney Lübnan'a düzenlediği bir saldırıda yedi kişi hayatını kaybetti. Bu saldırı, Haziran ayında düşmanlıkları önemli ölçüde azaltan anlaşmalardan bu yana Lübnan'da gerçekleşen en ölümcül İsrail saldırısı olarak kayıtlara geçti. Bölgedeki saldırıların yoğunlaştığı belirtiliyor. Olay, iki ülke arasındaki gerilimin yeniden tırmandığına işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T07:32:41.807Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1786779182903vgi0r",
-        "title": "İsrail güçleri işgal altındaki Batı Şeria'da düğün salonuna baskın düzenledi",
-        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'nın El-Eizariya kasabasında bir düğün salonuna baskın düzenledi. Görgü tanıklarının ifadelerine göre, baskın sırasında düğün salonunda bulunan Filistinli katılımcılarla İsrail güçleri arasında gerginlik yaşandı. İsrail askerlerinin Filistinli davetlilere müdahale ederek bazı kişileri darp ettiği belirtildi. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda tartışmalara yol açıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35285849/pexels-photo-35285849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T07:33:02.903Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.26,
-            "name": "El-Eizariya, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
