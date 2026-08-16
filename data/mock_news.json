@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786893978728xrjzf",
+        "title": "BM Göç Ajansı: Sudan'ın Kuzey Kordofan Eyaletinde 2 Günde 4.000'den Fazla Kişi Güvensizlik Nedeniyle Yerinden Edildi",
+        "summary": "Birleşmiş Milletler Göç Ajansı (IOM), Sudan'ın Kuzey Kordofan eyaletinde artan güvensizlik koşulları nedeniyle son iki günde 4.250 kişinin yerinden edildiğini bildirdi. Ajansın açıklamasına göre, Shikan bölgesindeki Um Arda, Tamid ve Al-Khor Al-Abyad köylerinden kaçmak zorunda kalan siviller, bölgedeki güvenlik durumunun kötüleşmesiyle karşı karşıya kaldı. Bu durum, çatışmaların ve istikrarsızlığın bölge halkı üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Yerinden edilen kişilerin acil insani yardıma ihtiyaç duyduğu belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6918513/pexels-photo-6918513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T15:26:18.728Z",
+        "location": {
+            "lat": 13.1833,
+            "lng": 30.2167,
+            "name": "Kuzey Kordofan, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/insecurity-displaces-over-4-000-people-in-sudans-north-kordofan-in-2-days-un-migration-agency-says/4028830",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1786887263929g09pz",
         "title": "İsrail, Batı Şeria'daki Yönetimi Sivil Polise Devretti",
         "summary": "İsrail'in Batı Şeria'daki polislik yetkilerini sivil güçlere devretmesi, bölgenin fiili ilhakını pekiştiren bir adım olarak değerlendiriliyor. Bu kararın, yerleşimci milisleri güçlendireceği ve bölgedeki gerilimi artırabileceği belirtiliyor. Uluslararası hukuk açısından tartışmalı olan bu değişiklik, İsrail'in Batı Şeria üzerindeki kontrolünü derinleştirdiği ve iki devletli çözüm umutlarını zayıflattığı eleştirilerine yol açtı. Gelişme, bölgedeki siyasi ve güvenlik dinamikleri üzerinde önemli etkilere sahip olabilir.",
@@ -780,22 +796,6 @@
             "name": "Ceuta, İspanya"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786768427791czp98",
-        "title": "ABD, İran'ın Balistik Füze Kabiliyetini Gerçekten Yok Etti mi?",
-        "summary": "ABD, İran'ın füze kabiliyetini yok ettiğini iddia ederken, eski bir Beyaz Saray danışmanı bu iddiayı 'boş bir hayal' olarak nitelendirdi. Bu durum, Washington'ın Tahran'ın askeri gücüne yönelik eylemlerinin etkinliği konusunda farklı görüşlerin olduğunu ortaya koyuyor. İran'ın balistik füze programı, bölgesel ve uluslararası güvenlik açısından kritik bir konu olmaya devam ediyor. ABD'nin bu konudaki açıklamaları, İran'ın savunma kapasitesine ilişkin tartışmaları yeniden alevlendirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T04:33:47.791Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
