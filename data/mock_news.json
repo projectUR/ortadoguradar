@@ -1,5 +1,21 @@
 [
     {
+        "id": "17869168535322ein5",
+        "title": "Görevden Uzaklaştırılan Suriye Diktatörü Beşar Esad Gıyabında İdam Cezasına Çarptırıldı",
+        "summary": "Suriye'nin eski devlet başkanı Beşar Esad, ülkedeki iç savaş sırasında işlediği savaş suçları ve insanlığa karşı suçlar nedeniyle gıyabında idama mahkum edildi. Bu karar, Esad'ın Suriye'deki iktidarı döneminde yaşanan olaylara ilişkin uluslararası yargı süreçlerinin bir parçası olarak değerlendiriliyor. İç savaş boyunca milyonlarca insanın yerinden edildiği ve yüz binlerce kişinin hayatını kaybettiği Suriye'de, Esad rejimi çeşitli insan hakları ihlalleriyle suçlanmıştı. Kararın, Esad'ın mevcut statüsü ve uluslararası arenadaki konumu üzerindeki etkileri merak konusu oldu. Ancak, bu tür gıyabi kararların uygulanabilirliği ve siyasi sonuçları genellikle karmaşık bir süreç gerektirmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28555739/pexels-photo-28555739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T21:47:33.532Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786913340260f2n4k",
         "title": "ABD-İran Mutabakat Zaptı Süresi Doluyor",
         "summary": "ABD ile İran arasında imzalanan mutabakat zaptının süresinin dolmak üzere olduğu açıklandı. Haziran ayında imzalanan bu anlaşmanın ardından her iki taraf da birbirini anlaşma hükümlerini ihlal etmekle suçlamıştı. Söz konusu mutabakat zaptının sona ermesi, Washington ile Tahran arasındaki zaten gergin olan ilişkilerde yeni bir belirsizlik dönemini başlatabilir. Anlaşmanın geleceği ve tarafların bu duruma nasıl bir tepki vereceği uluslararası kamuoyu tarafından yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786779221675ts585",
-        "title": "Küçük ölçekli projeler Gazze'deki çiftçilere hayatlarını yeniden kurma umudu sunuyor",
-        "summary": "Gazze'deki çiftçiler, bölgedeki yaygın yıkıma rağmen tarımsal faaliyetlerini sürdürmek için küçük ölçekli projelere yöneliyor. Bu projeler arasında seralar ve kiralanan araziler, çiftçiler için hayati bir geçim kaynağı oluşturuyor. Bölgedeki tahribatın büyüklüğüne rağmen, bu tür girişimler çiftçilerin mahsul yetiştirmeye devam etmelerini sağlıyor. Söz konusu projeler, Gazze'deki tarım sektörünün yeniden yapılanması ve çiftçilerin yaşamlarını yeniden inşa etmeleri için umut vadediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38318001/pexels-photo-38318001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T07:33:41.675Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
