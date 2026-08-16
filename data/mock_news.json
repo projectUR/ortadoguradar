@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786852217620ggyav",
+        "title": "İsrail Güçleri Suriye'nin Kuneytra Kırsalına Girerek Evlere Baskın Düzenledi",
+        "summary": "İsrail güçleri, Suriye'nin güneyindeki Kuneytra kırsalına girerek bölgedeki evlere baskın düzenlediği bildirildi. Bu gelişme, Suriye'nin güneyinde İsrail tarafından gerçekleştirilen tekrarlanan askeri operasyonlar ve saldırıların bir devamı niteliğinde. Bölge, uzun süredir İsrail'in sınır ötesi faaliyetlerine sahne oluyor ve bu tür olaylar güvenlik durumunun kırılganlığını artırıyor. Söz konusu baskınların detaylarına ilişkin henüz resmi bir açıklama yapılmazken, bölgedeki gerilimin tırmanabileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32923533/pexels-photo-32923533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T03:50:17.620Z",
+        "location": {
+            "lat": 33.11,
+            "lng": 35.78,
+            "name": "Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-enter-syria-s-quneitra-countryside-raid-homes/4028524",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786852240397imhw0",
+        "title": "Arap Birliği: İsrail'in güney Lübnan'daki tırmanışı uzlaşma çabalarını raydan çıkarmakla tehdit ediyor",
+        "summary": "Arap Birliği, İsrail'in güney Lübnan'daki eylemlerinin bölgedeki uzlaşma çabalarını tehlikeye attığını belirtti. Örgüt, İsrail'in politikaları ve uygulamalarının, çatışmaları uzatma ve müzakereleri engelleme niyetini açıkça ortaya koyduğunu ifade etti. Bu durumun, bölgedeki istikrar arayışlarına zarar verdiği vurgulandı. Arap Birliği, uluslararası toplumu İsrail'in bu adımlarına karşı harekete geçmeye çağırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T03:50:40.397Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-escalation-in-southern-lebanon-threatens-to-derail-settlement-efforts-arab-league/4028523",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786848313281gy4ud",
         "title": "Al Jazeera Gazetecisinden Gazze'de Sahil Kafe Girişimi",
         "summary": "Filistinli gazeteci Hind Khoudary, savaşın yıprattığı Gazze'de bir sahil kafesi açtı. Khoudary, bu girişimle bölgede hayatın sevilen bir parçasını yeniden canlandırmayı ve toplumsal yaşamı desteklemeyi hedefliyor. Kafe, zorlu koşullara rağmen Gazze halkının direncini ve normalleşme arayışını simgeliyor. Bu adım, çatışmaların gölgesinde dahi sosyal bağların ve günlük yaşamın önemini vurguluyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17867429502267ab5l",
-        "title": "Trump, Hürmüz Boğazı'nı ABD Toprağı İlan Edeceğini Söyledi",
-        "summary": "ABD Başkanı Donald Trump, İran'ı mağlup ettikten sonra Hürmüz Boğazı'nı ABD toprağı ilan edeceğini duyurdu. Bu açıklama, küresel petrol ticaretinin ana geçiş noktalarından biri olan ve İran ile Umman arasında yer alan stratejik boğazın gelecekteki statüsü hakkında önemli bir tartışma başlattı. Dünya enerji arzı için hayati öneme sahip olan bu su yolu, uluslararası denizcilik hukuku açısından hassas bir bölge olarak kabul edilmektedir. Trump'ın bu sözleri, Orta Doğu'daki jeopolitik gerilimi artırma potansiyeli taşımakta ve uluslararası toplumda geniş yankı uyandırabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9550528/pexels-photo-9550528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T21:29:10.226Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-says-he-will-declare-strait-of-hormuz-us-territory/4027859",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1786739679062f458u",
-        "title": "Sanat, genç Gazze'li hayatta kalanlara teselli ve savaşın yıkımından kaçış sunuyor",
-        "summary": "Gazze Şeridi'nde yaşanan çatışmalardan etkilenen genç hayatta kalanlar için sanatın iyileştirici gücü öne çıkıyor. Bölgedeki çocuklar, savaşın yol açtığı travmaları atlatmak ve yeniden neşe bulmak amacıyla güvenli alanlarda sanatsal faaliyetlere katılıyor. Bu programlar, gençlerin duygusal yüklerini ifade etmelerine ve psikolojik destek almalarına yardımcı oluyor. Sanat atölyeleri, çocuklara normalleşme hissi vererek ve yaratıcılıklarını teşvik ederek zorlu koşullara rağmen umut aşılamayı hedefliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T20:34:39.062Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
