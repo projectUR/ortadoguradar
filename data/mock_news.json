@@ -1,5 +1,37 @@
 [
     {
+        "id": "17868976986410e96e",
+        "title": "Faslı Göçmenler Ceuta'da Oturma Eylemi Düzenliyor",
+        "summary": "İki hafta önce yaşanan büyük göçmen akınının ardından, Faslı göçmenler İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'da protesto gösterileri düzenliyor. Binlerce göçmen hala Ceuta'da mahsur kalmış durumda ve sığınma talebinde bulunuyor. Göçmenler, Avrupa'ya geçiş umuduyla bölgede bekleyişlerini sürdürürken, yetkililer insani krizi yönetmekte zorlanıyor. Bu durum, Fas ve İspanya arasındaki diplomatik ilişkilerde de gerilime neden oluyor ve bölgesel göç sorununu bir kez daha gündeme getiriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/17559644/pexels-photo-17559644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T16:28:18.641Z",
+        "location": {
+            "lat": 35.9,
+            "lng": -5.3,
+            "name": "Ceuta, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178689784749013ke8",
+        "title": "Türkiye ve Suudi Arabistan yenilenebilir enerji projelerini genişletiyor",
+        "summary": "Türkiye ve Suudi Arabistan, yenilenebilir enerji projelerini genişletme konusunda anlaşmaya vardı. İki ülke, mevcut işbirliğine ek olarak 3.000 megavatlık yeni bir anlaşma yapmayı planlıyor. Ankara'nın aynı zamanda yeni bölgesel petrol ve gaz rotalarını değerlendirmesi, enerji alanındaki stratejik adımların bir parçası olarak görülüyor. Bu gelişmeler, iki ülke arasındaki enerji işbirliğinin derinleştiğini ve bölgesel enerji dinamiklerinde önemli rol oynayabileceğini gösteriyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/167253/pexels-photo-167253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T16:30:47.490Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkiye-saudi-arabia-to-expand-renewable-energy-projects/4028828",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786893978728xrjzf",
         "title": "BM Göç Ajansı: Sudan'ın Kuzey Kordofan Eyaletinde 2 Günde 4.000'den Fazla Kişi Güvensizlik Nedeniyle Yerinden Edildi",
         "summary": "Birleşmiş Milletler Göç Ajansı (IOM), Sudan'ın Kuzey Kordofan eyaletinde artan güvensizlik koşulları nedeniyle son iki günde 4.250 kişinin yerinden edildiğini bildirdi. Ajansın açıklamasına göre, Shikan bölgesindeki Um Arda, Tamid ve Al-Khor Al-Abyad köylerinden kaçmak zorunda kalan siviller, bölgedeki güvenlik durumunun kötüleşmesiyle karşı karşıya kaldı. Bu durum, çatışmaların ve istikrarsızlığın bölge halkı üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi. Yerinden edilen kişilerin acil insani yardıma ihtiyaç duyduğu belirtiliyor.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786771652191py8qp",
-        "title": "Sudanlı Bir Mülteci, Çad Kampında Nasıl Okul Müdürü Oldu?",
-        "summary": "Sudan'daki savaş nedeniyle yerinden edilen Sahra adlı bir mülteci, Çad'daki bir kampta okul müdürü olarak görev yapmaya başladı. Sahra, çatışmaların yol açtığı zorluklara rağmen, mülteci çocuklara eğitim yoluyla güvenlik ve umut aşılamayı hedefliyor. Bu girişim, savaşın etkilediği bölgelerde eğitimin önemini ve mültecilerin topluma katkı potansiyelini gözler önüne seriyor. Kamp okulu, çocukların travmatik deneyimlerinden uzaklaşarak geleceğe dair umut beslemeleri için kritik bir rol oynuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/15861728/pexels-photo-15861728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T05:27:32.191Z",
-        "location": {
-            "lat": 13.8294,
-            "lng": 20.8359,
-            "name": "Abéché, Çad"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1786771674230rvvxn",
-        "title": "Fas, Ceuta Sınırında Güvenliği Artırdı",
-        "summary": "Fas, İspanya'nın Kuzey Afrika'daki Ceuta yerleşim bölgesi yakınlarındaki güvenlik önlemlerini güçlendirdi. Bu adım, çevrimiçi platformlarda yeni bir toplu göçmen geçişi çağrısının ardından atıldı. Faslı yetkililer, potansiyel yasa dışı geçişleri engellemek amacıyla bölgeye dikenli tel bariyerler ekledi ve polis gücünü artırdı. Bu önlemler, sınır güvenliğini sağlamayı ve düzensiz göç akışını kontrol altında tutmayı hedefliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/104592/pexels-photo-104592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T05:27:54.230Z",
-        "location": {
-            "lat": 35.89,
-            "lng": -5.316,
-            "name": "Ceuta, İspanya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
