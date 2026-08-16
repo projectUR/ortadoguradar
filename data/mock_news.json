@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786872620806wivl1",
+        "title": "Taliban'ın Kabil'deki İktidar Yıldönümü Kutlandı",
+        "summary": "Kabil'de, Taliban'ın iktidara gelişinin beşinci yıldönümü coşkulu törenlerle kutlandı. Afganistan'ın başkentinde toplanan kalabalıklar, vatansever müzikler eşliğinde bayraklarla karnaval benzeri bir atmosfer oluşturdu. Bu kutlamalar, Taliban yönetiminin ülkedeki beş yıllık dönemini işaret ederken, uluslararası toplumun Afganistan'daki gelişmeleri yakından takip ettiği biliniyor. Yıldönümü törenleri, ülkenin mevcut durumu ve geleceği hakkında çeşitli tartışmaları da beraberinde getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31093762/pexels-photo-31093762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T09:30:20.806Z",
+        "location": {
+            "lat": 34.52,
+            "lng": 69.18,
+            "name": "Kabil, Afganistan"
+        },
+        "source": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1786872663742itcdf",
+        "title": "Husiler Yemen'de artan gerilim ortasında Mocha ve Marib'e yeni saldırılar düzenledi",
+        "summary": "Yemen'de Husiler tarafından Mocha ve Marib bölgelerine yeni saldırılar düzenlendiği bildirildi. Yerel yetkililerden alınan bilgilere göre, insansız hava aracı ve füze saldırıları sonucunda dört kişi yaralandı. Saldırılar ayrıca bölgede maddi hasara yol açtı. Bu gelişmeler, Yemen'deki çatışmalarda tırmanan gerilimi gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14927249/pexels-photo-14927249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T09:31:03.742Z",
+        "location": {
+            "lat": 15.4,
+            "lng": 45.3,
+            "name": "Mocha, Marib, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/houthis-launch-new-attacks-in-mocha-marib-amid-mounting-escalation-in-yemen/4028652",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
         "id": "17868656421988k966",
         "title": "İran parlamentosu, dış etki ve Hürmüz Boğazı denetimi yasa tasarılarını görüşecek",
         "summary": "İran parlamentosunun, dış etki ve Hürmüz Boğazı'nın denetimine ilişkin yasa tasarılarını görüşeceği bildirildi. Devlet medyasına göre, parlamento Ulusal Güvenlik Komitesi üyeleri, Hürmüz Boğazı için 'Akıllı Yönetim Planı'nı inceleyecek. Bu adım, İran'ın stratejik öneme sahip bu su yolundaki kontrolünü veya düzenlemelerini artırma çabalarını yansıtmaktadır. Görüşmelerin bölgesel güvenlik ve uluslararası denizcilik üzerinde potansiyel etkileri olabileceği belirtiliyor.",
@@ -764,38 +796,6 @@
             "name": "Kabil, Afganistan"
         },
         "source": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786757000412j0ge4",
-        "title": "Trump'tan Hürmüz Boğazı Hakkında Çarpıcı Açıklama: 'ABD Toprağı Olacak'",
-        "summary": "ABD Başkanı Donald Trump, İran'ın yenilgiye uğratılması durumunda Hürmüz Boğazı'nı \"yakında\" ABD toprağı ilan edeceğini belirtti. Bu açıklama, bölgedeki mevcut gerilimi daha da artırabilecek potansiyel bir söylem olarak değerlendirildi. Hürmüz Boğazı, Basra Körfezi ile Umman Denizi'ni birbirine bağlayan stratejik bir su yolu olup, dünya petrol ticaretinin önemli bir kısmının geçiş güzergahıdır. İran, boğazın kontrolü ve güvenliği konusunda uzun süredir uluslararası aktörlerle anlaşmazlıklar yaşamaktadır. Trump'ın bu sözleri, ABD ile İran arasındaki ilişkilerin geleceğine dair endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6489763/pexels-photo-6489763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T01:23:20.412Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786751414341nicwv",
-        "title": "BM: Batı Şeria'da Yardımlara Erişim 900'den Fazla Engelle Kısıtlanıyor",
-        "summary": "Birleşmiş Milletler (BM), Batı Şeria'da insani yardımlara erişimin 900'den fazla engelle karşılaştığını bildirdi. Bir BM yetkilisi, meslektaşlarının Filistinlileri koruma çabalarının etkisiz kaldığı konusunda uyardığını belirtti. Bu durum, bölgedeki insani yardım operasyonlarının karşılaştığı zorlukları gözler önüne seriyor. Engellerin, yardımların ihtiyaç sahiplerine ulaşmasını ciddi şekilde aksattığı ve koruma mekanizmalarının işlevselliğini azalttığı ifade edildi. BM, bu engellerin kaldırılması ve insani yardımın kesintisiz ulaştırılması için çağrıda bulunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6646867/pexels-photo-6646867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T23:50:14.341Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/aid-access-hampered-by-more-than-900-obstacles-in-west-bank-un/4027821",
         "trendScore": 85,
         "isBreaking": false
     }
