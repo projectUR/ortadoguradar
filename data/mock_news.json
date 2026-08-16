@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786887263929g09pz",
+        "title": "İsrail, Batı Şeria'daki Yönetimi Sivil Polise Devretti",
+        "summary": "İsrail'in Batı Şeria'daki polislik yetkilerini sivil güçlere devretmesi, bölgenin fiili ilhakını pekiştiren bir adım olarak değerlendiriliyor. Bu kararın, yerleşimci milisleri güçlendireceği ve bölgedeki gerilimi artırabileceği belirtiliyor. Uluslararası hukuk açısından tartışmalı olan bu değişiklik, İsrail'in Batı Şeria üzerindeki kontrolünü derinleştirdiği ve iki devletli çözüm umutlarını zayıflattığı eleştirilerine yol açtı. Gelişme, bölgedeki siyasi ve güvenlik dinamikleri üzerinde önemli etkilere sahip olabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15441237/pexels-photo-15441237.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T13:34:23.930Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17868793495413axpl",
         "title": "Arsenal ve Manchester City FA Community Shield Karşılaşması Canlı Takip Ediliyor",
         "summary": "İngiltere'nin önde gelen futbol kulüpleri Arsenal ve Manchester City, FA Community Shield mücadelesinde karşı karşıya geliyor. Bu önemli karşılaşma, maç öncesi hazırlıklar, detaylı analizler ve canlı metin anlatımıyla anbean takip ediliyor. Manchester City'nin Birleşik Arap Emirlikleri merkezli Abu Dhabi United Group'a ait olması, bu tür yüksek profilli spor etkinliklerini Orta Doğu'nun küresel spor yatırımları ve yumuşak güç stratejileriyle ilişkilendirmektedir. Bu karşılaşma, Orta Doğu sermayesinin uluslararası futboldaki etkisini ve bölgesel aktörlerin küresel arenadaki görünürlüğünü artırma çabalarını yansıtmaktadır. Maçın sonucu, sportif başarının yanı sıra, kulüp sahiplerinin uluslararası imajı açısından da dolaylı bir önem taşımaktadır.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17867684940416vdwz",
-        "title": "İsrailli Yerleşimciler Tarafından Kuşatılan Filistinlilere Yardım Ulaştırma Girişimi",
-        "summary": "İşgal altındaki Batı Şeria'da, İsrailli yerleşimciler tarafından kuşatılan evlerinde mahsur kalan iki Filistinli aileye yardım ulaştırma girişiminde bulunuldu. Aktivistler, birkaç gündür evlerinde kapalı kalan bu ailelere insani yardım götürmeye çalıştı. Olay, bölgedeki Filistinliler ve İsrailli yerleşimciler arasındaki gerilimin devam ettiğini gözler önüne serdi. Bu tür kuşatmalar, Batı Şeria'da sıkça yaşanan insan hakları ihlalleri ve güvenlik sorunlarının bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33924943/pexels-photo-33924943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T04:34:54.041Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
