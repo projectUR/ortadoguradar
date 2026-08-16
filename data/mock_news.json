@@ -1,5 +1,53 @@
 [
     {
+        "id": "1786843691043jgcqi",
+        "title": "Suriye Ordusu'ndan Şam'daki Festivalde Halkın Üzerine Gül Atma Eylemi",
+        "summary": "Suriye ordusuna ait helikopterler, başkent Şam'daki tarihi Şam Kalesi'nde düzenlenen Yaz Suriye festivalinde toplanan kalabalığın üzerine güller bıraktı. Bu eylem, ülkenin uzun süredir devam eden çatışma ortamından farklı bir görüntü sergiledi. Ordu kaynakları, bu etkinliğin halkla dayanışmayı ve barış mesajını vurgulamayı amaçladığını belirtti. Festival, savaşın yıpratıcı etkilerine rağmen toplumsal yaşamın ve kültürel etkinliklerin devam ettiğini göstermeyi hedefliyor. Güllerin atılması, ordunun halkla ilişkilerini güçlendirme ve normalleşme sürecine katkıda bulunma çabası olarak değerlendirildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/16013061/pexels-photo-16013061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T01:28:11.043Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+        "trendScore": 60,
+        "isBreaking": false
+    },
+    {
+        "id": "1786843728370mmrfl",
+        "title": "İsrail'in Lübnan'a Saldırılarında 11 Kişi Hayatını Kaybetti; Hürmüz Boğazı Görüşmeleri Sürüyor",
+        "summary": "İsrail, Lübnan'a düzenlediği saldırılarda 11 kişiyi öldürdü. Bu saldırılar, Haziran ayında sağlanan ateşkesin ardından Lübnan'a yönelik en ölümcül saldırılar olarak kayıtlara geçti. Bölgede tansiyon yükselirken, İran ve Umman arasında Hürmüz Boğazı'na ilişkin görüşmelerin devam ettiği bildirildi. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçit olarak biliniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T01:28:48.370Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17868437982346254n",
+        "title": "Hamas Heyeti Ateşkes Görüşmeleri İçin Kahire'ye Gitti",
+        "summary": "Hamas'tan üst düzey bir heyet, Gazze'de devam eden çatışmalara ilişkin ateşkes anlaşmasını görüşmek üzere Mısır'ın başkenti Kahire'ye ulaştı. Halil el-Hayya liderliğindeki heyet, Mısırlı yetkililerle bir araya gelerek Filistin meselesini ve ateşkesin sağlamlaştırılmasına yönelik çabaları ele alacak. Görüşmelerin, bölgedeki gerilimi azaltma ve insani durumu iyileştirme amacı taşıdığı belirtiliyor. Bu ziyaret, Gazze'deki krizin diplomatik yollarla çözümü için önemli bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T01:29:58.234Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hamas-delegation-led-by-al-hayya-heads-to-cairo-to-discuss-gaza-ceasefire-agreement/4028525",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17868362276546gg1m",
         "title": "Yetkililer: İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda On Bir Kişi Hayatını Kaybetti",
         "summary": "İsrail ordusu, güney Lübnan'a yönelik saldırılar düzenlediğini duyurdu. Yetkililer, bu saldırılarda on bir kişinin hayatını kaybettiğini bildirdi. İsrail askeri kaynakları, saldırıların 'Hizbullah terör altyapısını' hedef aldığını belirtti. Açıklamada, bu eylemin İsrail askerlerine yönelik daha önceki bir saldırıya misilleme olarak gerçekleştirildiği ifade edildi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1786703653761yscdg",
-        "title": "Rusya, Ukrayna'daki Demiryolu ve Liman Tesislerini Vurduğunu Açıkladı",
-        "summary": "Rusya Savunma Bakanlığı, Ukrayna'daki demiryolu ve liman tesislerine yönelik yeni saldırılar düzenlediğini duyurdu. Açıklamaya göre, Rus güçleri bu stratejik altyapı noktalarını hedef aldı. Öte yandan, Ukrayna'nın başkenti Kiev'den yapılan açıklamada, Rusya'nın Baltık Denizi kıyısındaki bir petrol tesisini ve Moskova yakınlarındaki bir depoyu insansız hava araçlarıyla hedef aldığı belirtildi. Bu karşılıklı saldırılar, Rusya-Ukrayna savaşındaki çatışmaların yoğunlaşarak devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T10:34:13.761Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17867037424884lj9t",
-        "title": "Batı Şeria'da Filistinliler, Yabancı ve İsrailli Aktivistler Kuşatma Altındaki Evler İçin Protesto Düzenledi",
-        "summary": "Batı Şeria'daki Qusra kasabasının Ras al-Ain bölgesinde Filistinliler, yabancı ve İsrailli aktivistler bir araya gelerek protesto gösterisi düzenledi. Göstericiler, İsrailli işgalciler tarafından kuşatma altında tutulan evlere doğru ilerledi. Anadolu Ajansı'na konuşan görgü tanıkları, İsrailli işgalcilerin bölgedeki evleri beşinci gündür kuşatma altında tuttuğunu ve sakinlerin hareket özgürlüğünü kısıtladığını belirtti. Bu durum, bölgedeki gerilimi artırmaya devam ediyor ve uluslararası kamuoyunun dikkatini çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11816765/pexels-photo-11816765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T10:35:42.488Z",
-        "location": {
-            "lat": 32.0833,
-            "lng": 35.3,
-            "name": "Qusra, Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinians-foreign-and-israeli-activists-protest-in-west-bank-town-head-to-besieged-homes-by-israeli-occupiers/4027167",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786698687951e6s93",
-        "title": "İsrail Ordusu Güney Lübnan'a Saldırı Düzenledi, Binaları Yıktı",
-        "summary": "İsrail ordusu, güney Lübnan'a yönelik bir saldırı gerçekleştirdi. Haberlere göre, İsrail savaş uçakları El-Mansuri yakınlarındaki bir bölgeyi hedef alırken, tanklar da ilerleyiş kaydetti. Bölgeden patlama sesleri geldiği bildirildi. Bu saldırılar, daha önce varılan bir çekilme çerçeve anlaşmasına rağmen meydana geldi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7777508/pexels-photo-7777508.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T09:11:27.951Z",
-        "location": {
-            "lat": 33.15,
-            "lng": 35.18,
-            "name": "El-Mansuri, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-attacks-southern-lebanon-demolishes-buildings-despite-framework-deal/4027238",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
