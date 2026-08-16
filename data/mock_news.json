@@ -1,5 +1,69 @@
 [
     {
+        "id": "1786848313281gy4ud",
+        "title": "Al Jazeera Gazetecisinden Gazze'de Sahil Kafe Girişimi",
+        "summary": "Filistinli gazeteci Hind Khoudary, savaşın yıprattığı Gazze'de bir sahil kafesi açtı. Khoudary, bu girişimle bölgede hayatın sevilen bir parçasını yeniden canlandırmayı ve toplumsal yaşamı desteklemeyi hedefliyor. Kafe, zorlu koşullara rağmen Gazze halkının direncini ve normalleşme arayışını simgeliyor. Bu adım, çatışmaların gölgesinde dahi sosyal bağların ve günlük yaşamın önemini vurguluyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33569450/pexels-photo-33569450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T02:45:13.281Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1786848337786e2kct",
+        "title": "Nijerya'da Petrol Fiyatları Yükselirken Elektrikli Bisikletlere Talep Artıyor",
+        "summary": "Nijerya'da artan petrol fiyatları, elektrikli bisikletlere olan talebi önemli ölçüde artırdı. Ülke genelinde sürücüler, geleneksel benzinli motosikletlerden elektrikli modellere geçiş yaparak yakıt ve bakım masraflarından tasarruf ettiklerini ifade ediyor. Bu durum, hem bireysel kullanıcıların bütçelerine katkı sağlıyor hem de ülkenin enerji tüketim alışkanlıklarında potansiyel bir değişime işaret ediyor. Elektrikli bisikletlerin yaygınlaşması, yüksek akaryakıt maliyetlerine karşı pratik bir çözüm olarak öne çıkıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/19411371/pexels-photo-19411371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T02:45:37.786Z",
+        "location": {
+            "lat": 9,
+            "lng": 8,
+            "name": "Nijerya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786848360272qbgt1",
+        "title": "Hamas Lideri, Kushner Ziyareti Öncesi Gazze Görüşmeleri İçin Kahire'ye Gidiyor",
+        "summary": "Hamas lideri Halil el-Hayya'nın, devam eden Gazze gerilimi ortasında Mısır istihbarat şefi Hasan Raşad ile görüşmek üzere Kahire'ye gittiği bildirildi. Bu görüşmelerin, ABD'li yetkili Jared Kushner'in bölgeye yapacağı ziyaret öncesinde gerçekleşmesi dikkat çekiyor. Görüşmelerin, Gazze Şeridi'ndeki mevcut durumu ve bölgedeki tansiyonu düşürme çabalarını ele alması bekleniyor. Mısır, İsrail ile Filistinli gruplar arasındaki arabuluculuk rolünü sürdürüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433847/pexels-photo-7433847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T02:46:00.272Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786848381345i2oj6",
+        "title": "Katar, İranlı pilotları yakaladığı iddialarını reddetti",
+        "summary": "İran, ABD-İran savaşının başlangıcında Katar'ın iki savaş uçağını düşürmesinin ardından üç İranlı pilotu alıkoyduğunu iddia etti. Bu iddialara Katar'dan resmi bir yanıt geldi. Katar, söz konusu İranlı pilotları yakaladığına dair iddiaları kesin bir dille yalanladığını bildirdi. Bu gelişme, Orta Doğu'daki bölgesel gerilimlerin bir yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27080761/pexels-photo-27080761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T02:46:21.345Z",
+        "location": {
+            "lat": 25.28,
+            "lng": 51.53,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786843691043jgcqi",
         "title": "Suriye Ordusu'ndan Şam'daki Festivalde Halkın Üzerine Gül Atma Eylemi",
         "summary": "Suriye ordusuna ait helikopterler, başkent Şam'daki tarihi Şam Kalesi'nde düzenlenen Yaz Suriye festivalinde toplanan kalabalığın üzerine güller bıraktı. Bu eylem, ülkenin uzun süredir devam eden çatışma ortamından farklı bir görüntü sergiledi. Ordu kaynakları, bu etkinliğin halkla dayanışmayı ve barış mesajını vurgulamayı amaçladığını belirtti. Festival, savaşın yıpratıcı etkilerine rağmen toplumsal yaşamın ve kültürel etkinliklerin devam ettiğini göstermeyi hedefliyor. Güllerin atılması, ordunun halkla ilişkilerini güçlendirme ve normalleşme sürecine katkıda bulunma çabası olarak değerlendirildi.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786730213277ddgzw",
-        "title": "Netanyahu'nun Trump'ın Gazze Planını Reddi Son Söz Olmayabilir",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, ABD'nin eski başkanı Donald Trump yönetiminin Gazze için hazırladığı 15 maddelik planı reddettiği bildirildi. Ancak Trump yönetimi, bu ret kararını önemsemediğini belirtti. ABD tarafı, Netanyahu'nun bu çıkışını İsrail'deki genel seçimler öncesinde yapılan bir kampanya söylemi olarak değerlendiriyor. Bu durum, söz konusu Gazze planının geleceği hakkında henüz kesin bir kararın verilmediği yorumlarına yol açtı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11022635/pexels-photo-11022635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T17:56:53.277Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786726628158iaum0",
-        "title": "Katar, FIFA Başkanı Infantino'ya Yönelik Açık Mektup Konusunda AFC'ye Meydan Okudu",
-        "summary": "Katar Futbol Federasyonu (FA) Başkanı Hamad bin Khalifa Al-Thani, Asya Futbol Konfederasyonu (AFC) tarafından FIFA Başkanı Gianni Infantino'ya yönelik kaleme alınan açık mektuba ilişkin istişare eksikliğinden duyduğu rahatsızlığı dile getirdi. Katar, AFC'nin bu tür önemli bir konuda kendilerine danışmadan hareket etmesini eleştiriyor. Bu durum, Asya futbolu içindeki yönetimsel süreçler ve iletişim eksiklikleri hakkında soruları gündeme getiriyor ve bölgesel futbol diplomasisinde yeni bir gerilime işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T16:57:08.158Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17867178636878hxqz",
-        "title": "Türkiye, Pakistan ve Suudi Arabistan'dan Karşılıklı Savunma Paktı",
-        "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında yeni bir karşılıklı savunma paktı kurulduğu bildirildi. Anlaşmaya göre, üç ülkeden herhangi birine yönelik silahlı bir saldırı, tüm ülkelere yapılmış bir saldırı olarak kabul edilecek. Bu pakt, adı geçen ülkeler arasındaki güvenlik ve stratejik işbirliğinin derinleştiğini gösteriyor. Haber başlığı, bu anlaşmadan önce var olan ittifaklara da atıfta bulunarak, bölgedeki güvenlik dinamiklerinin gelişimine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38776673/pexels-photo-38776673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T14:31:03.687Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786707937164b3mj4",
-        "title": "Manchester City, Rodri Transfer Söylentileri Hakkında Sessizliğini Koruyor",
-        "summary": "İngiltere Premier Lig ekiplerinden Manchester City'nin teknik direktörü Enzo Maresca, takımın önemli orta saha oyuncusu Rodri'nin geleceği hakkında çıkan transfer iddialarına ilişkin yorum yapmaktan kaçındı. İspanyol futbolcunun adı, İspanya'nın dev kulüpleri Barcelona ve Real Madrid ile anılırken, bu gelişmeler Arsenal ile oynanacak Community Shield maçı öncesinde gündeme geldi. Manchester City'nin Abu Dabi merkezli bir yatırım grubu tarafından sahiplenilmesi, kulübün finansal ve stratejik kararlarını dolaylı yoldan Orta Doğu'daki ekonomik aktörlerle ilişkilendirmektedir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/32285244/pexels-photo-32285244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-14T11:45:37.164Z",
-        "location": {
-            "lat": 53.4808,
-            "lng": -2.2426,
-            "name": "Manchester, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
