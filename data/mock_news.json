@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786902380856veje0",
+        "title": "İsrailli Yerleşimciler ve Askerler Qusra'yı Kuşattı: Su ve Yardımlar Engellendi",
+        "summary": "Batı Şeria'da bulunan Qusra köyü sakinleri, sekiz gündür İsrailli yerleşimciler ve askerler tarafından kuşatma altında tutuluyor. Bölgedeki ailelerin suya ve insani yardımlara erişimi engellenmiş durumda. Kuşatma nedeniyle köyde yaşayanların temel ihtiyaçlarını karşılamakta zorlandığı belirtiliyor. Bu durum, mahsur kalan sakinlerin insani koşulları hakkında endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8139599/pexels-photo-8139599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T17:46:20.856Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 35.28,
+            "name": "Qusra, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1786902449721jmpo8",
+        "title": "İşgal Altındaki Batı Şeria'da Kuşatılan Filistinli Ailelere Yardım Ulaştırma Girişimi",
+        "summary": "İşgal altındaki Batı Şeria'da, İsrailli yerleşimciler tarafından kuşatılan evlerinde mahsur kalan Filistinli ailelere yardım ulaştırma girişiminde bulunuldu. Edinilen bilgilere göre, iki Filistinli aile birkaç gündür evlerinde kapalı durumda ve dışarıdan yardım almaları engelleniyor. Aktivistler, bu ailelere insani yardım ulaştırmak amacıyla bölgeye hareket etti. Ancak yerleşimcilerin engellemeleri nedeniyle yardımın ulaştırılmasında zorluklar yaşandığı belirtildi. Olay, bölgedeki gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38535521/pexels-photo-38535521.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-16T17:47:29.721Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17868976986410e96e",
         "title": "Faslı Göçmenler Ceuta'da Oturma Eylemi Düzenliyor",
         "summary": "İki hafta önce yaşanan büyük göçmen akınının ardından, Faslı göçmenler İspanya'nın Kuzey Afrika'daki özerk şehri Ceuta'da protesto gösterileri düzenliyor. Binlerce göçmen hala Ceuta'da mahsur kalmış durumda ve sığınma talebinde bulunuyor. Göçmenler, Avrupa'ya geçiş umuduyla bölgede bekleyişlerini sürdürürken, yetkililer insani krizi yönetmekte zorlanıyor. Bu durum, Fas ve İspanya arasındaki diplomatik ilişkilerde de gerilime neden oluyor ve bölgesel göç sorununu bir kez daha gündeme getiriyor.",
@@ -764,38 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17867792690451npqy",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Hava Saldırısında 7 Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in güney Lübnan'a düzenlediği hava saldırısında 7 kişinin hayatını kaybettiği, 3 kişinin ise yaralandığı bildirildi. Lübnan Ulusal Haber Ajansı'nın aktardığına göre, saldırı Nabatiye bölgesindeki Ansar kasabasında bir evi hedef aldı. Olayın, bölgede ilan edilen ateşkese rağmen gerçekleştiği belirtildi. Bu gelişme, bölgedeki güvenlik durumunu yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19237302/pexels-photo-19237302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T07:34:29.045Z",
-        "location": {
-            "lat": 33.36,
-            "lng": 35.44,
-            "name": "Ansar, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-kills-7-injures-3-in-southern-lebanon-despite-ceasefire/4027922",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1786773232896ah0m4",
-        "title": "İran, ABD ile Müzakerelere Dönüş Konusunda Henüz Karar Verilmediğini Açıkladı",
-        "summary": "İran Dışişleri Bakanı Abbas Araghchi, ABD ile olası müzakerelere geri dönüş konusunda henüz bir karar alınmadığını duyurdu. Bakan Araghchi, İran'ın Umman ile çeşitli diplomatik güzergahlar üzerinde çalışmalar yürüttüğünü belirtti. Ancak Hürmüz Boğazı'ndaki deniz taşımacılığının güvenliğinin ve akışının, ABD'nin belirli koşulları yerine getirmesine bağlı olduğunu vurguladı. Bu açıklama, bölgedeki gerilimin ve diplomatik çabaların devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T05:53:52.896Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
