@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786966371408nisnd",
+        "title": "USS Abraham Lincoln Krizi: Uzun Süreli Görevlerin Mürettebat Morali ve Operasyonel Hazırlık Üzerindeki Etkisi",
+        "summary": "ABD Donanması'na ait uçak gemisi USS Abraham Lincoln'ün yaşadığı kriz, uzun süreli deniz görevlerinin mürettebatın morali ve operasyonel hazırlık üzerindeki olumsuz etkilerini gözler önüne serdi. Bu durum, gemi personelinin yıpranma düzeyini ve görev kabiliyetini doğrudan etkileyen önemli bir sorun olarak değerlendiriliyor. Geçmişteki uçak gemisi konuşlandırmalarıyla karşılaştırıldığında, mevcut durumun mürettebat üzerindeki baskının arttığına işaret ettiği belirtiliyor. Krizin, ABD'nin küresel askeri varlığı ve deniz gücünün sürdürülebilirliği açısından stratejik sonuçları olabileceği ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37873932/pexels-photo-37873932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T11:32:51.408Z",
+        "location": {
+            "lat": 26,
+            "lng": 52,
+            "name": "Basra Körfezi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786966391200ooacs",
+        "title": "Irak Kürt Bölgesel Yönetimi Başbakanı Barzani'nin Ofisi Drone Saldırısına Uğradı",
+        "summary": "Irak Kürt Bölgesel Yönetimi (IKBY) Başbakanı Mesrur Barzani'nin ofisi ve güvenlik şefinin konutu, patlayıcı yüklü insansız hava araçlarıyla hedef alındı. Yerel kaynaklardan edinilen bilgilere göre, saldırıda herhangi bir can kaybı veya yaralanma yaşanmadı. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının sorumluluğunu henüz üstlenen olmadı. Bu gelişme, Irak'ın kuzeyindeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/724921/pexels-photo-724921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T11:33:11.200Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 44,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1786957851603nnae7",
         "title": "Husiler, Kızıldeniz'deki Mocha'ya 2 hipersonik balistik füze fırlattı: Yemen ordusu",
         "summary": "Yemen ordusu tarafından yapılan açıklamaya göre, Husi güçleri Kızıldeniz kıyısındaki stratejik Mocha kentine doğru iki adet hipersonik balistik füze fırlattı. Bu füze saldırıları, Yemen'in uluslararası tanınmış hükümeti ile Husi grubu arasında süregelen askeri gerilimin bir parçası olarak kaydedildi. Mocha, Yemen'in batısında yer alan ve Kızıldeniz'deki deniz trafiği açısından önemli bir konumda bulunan bir liman şehridir. Olay, bölgedeki çatışmaların devam ettiğini ve deniz güvenliğine yönelik tehditlerin sürdüğünü bir kez daha gözler önüne serdi.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/remains-of-21-palestinians-recovered-in-gaza-search-begins-for-40-more/4028357",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786818799717m41jl",
-        "title": "Rus petrol sızıntısı Umman kıyılarına ulaştı, temizlik çalışmaları sürüyor",
-        "summary": "Umman kıyı şeridinde, karaya oturmuş bir tankerde meydana gelen petrol sızıntısı nedeniyle temizlik çalışmaları başlatıldı. Sızıntının Umman'ın 12 kilometrelik kıyı şeridini etkilediği bildirildi. Bölgeye sevk edilen temizlik ekipleri, çevresel zararı en aza indirmek için yoğun çaba sarf ediyor. Olayın, Rusya'ya ait olduğu belirtilen bir tankerin karaya oturması sonucu meydana geldiği öğrenildi. Yetkililer, sızıntının nedenlerini araştırırken, deniz ekosistemi üzerindeki potansiyel etkileri değerlendiriyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/13081617/pexels-photo-13081617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T18:33:19.717Z",
-        "location": {
-            "lat": 23,
-            "lng": 58,
-            "name": "Umman"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178681882092756lyj",
-        "title": "ABD Uçak Gemisi USS Washington'ın Orta Doğu'ya Konuşlandırılması Bekleniyor",
-        "summary": "ABD Donanması'na ait USS Washington uçak gemisinin, Orta Doğu'da görev yapan USS Lincoln uçak gemisinin yerini alması bekleniyor. Bu konuşlandırma, USS Lincoln'da devam eden İran savaşı nedeniyle zorlu koşulların yaşandığına dair raporların ardından gerçekleşiyor. ABD'nin bölgedeki askeri varlığının devamlılığını sağlamak amacıyla yapılan bu değişim, Orta Doğu'daki stratejik dengeler açısından önem taşıyor. Yeni geminin bölgeye intikaliyle birlikte, ABD'nin deniz gücü kapasitesinin sürdürülmesi ve bölgesel güvenlik operasyonlarına devam edilmesi hedefleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38485162/pexels-photo-38485162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T18:33:40.927Z",
-        "location": {
-            "lat": 28,
-            "lng": 48,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
