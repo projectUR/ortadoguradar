@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786992773559ldqxs",
+        "title": "Irak, Kürt Bölgesel Başbakanı'nın konutuna yönelik insansız hava aracı saldırısı hakkında İran'dan açıklama talep ediyor",
+        "summary": "Irak Dışişleri Bakanlığı, Kürt Bölgesel Başbakanı'nın konutuna yönelik insansız hava aracı saldırısıyla ilgili olarak İran'dan açıklama talep ettiğini bildirdi. Irak Dışişleri Bakanı Hüseyin, bu konuyu İranlı mevkidaşı Araghchi ile yaptığı telefon görüşmesinde ele aldı. Görüşmede, söz konusu saldırının detayları ve sorumluluğu hakkında bilgi alışverişinde bulunuldu. Bağdat, bu olayın aydınlatılması ve benzer olayların önlenmesi konusunda Tahran'dan net bir yanıt beklediğini ifade etti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433850/pexels-photo-7433850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T18:52:53.559Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 44,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-seeks-iranian-clarification-over-drone-attack-on-residence-of-kurdish-regional-premier/4029845",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17869877189396vulr",
         "title": "ABD Elçisi Kushner'in Bölge Ziyaretinde Gazze Planına Şüpheyle Yaklaşılıyor",
         "summary": "ABD Başkanı Donald Trump'ın özel elçisi Jared Kushner, Gazze Şeridi'ne yönelik 15 maddelik bir yol haritasını görüşmek üzere Orta Doğu'da temaslarda bulundu. Kushner, bu kapsamda Mısır'da Hamas liderleriyle bir araya gelirken, İsrail Başbakanı Binyamin Netanyahu ile de görüşmeler gerçekleştirdi. Ancak hem Filistinli yetkililer hem de İsrailli taraflar, sunulan Gazze planına ilişkin şüphelerini dile getirdi. Diplomatik çabalar sürerken, bölgedeki aktörlerin planın uygulanabilirliği konusunda farklı görüşlere sahip olduğu belirtiliyor.",
@@ -780,22 +796,6 @@
             "name": "Nijerya"
         },
         "source": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786848360272qbgt1",
-        "title": "Hamas Lideri, Kushner Ziyareti Öncesi Gazze Görüşmeleri İçin Kahire'ye Gidiyor",
-        "summary": "Hamas lideri Halil el-Hayya'nın, devam eden Gazze gerilimi ortasında Mısır istihbarat şefi Hasan Raşad ile görüşmek üzere Kahire'ye gittiği bildirildi. Bu görüşmelerin, ABD'li yetkili Jared Kushner'in bölgeye yapacağı ziyaret öncesinde gerçekleşmesi dikkat çekiyor. Görüşmelerin, Gazze Şeridi'ndeki mevcut durumu ve bölgedeki tansiyonu düşürme çabalarını ele alması bekleniyor. Mısır, İsrail ile Filistinli gruplar arasındaki arabuluculuk rolünü sürdürüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433847/pexels-photo-7433847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T02:46:00.272Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
