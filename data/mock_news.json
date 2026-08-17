@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786984359895ex1t0",
+        "title": "Yemen'deki Husiler Suudi donanma gemilerini ve silah deposunu vurdu",
+        "summary": "Yemen'deki Husiler, Suudi Arabistan'a yönelik yeni bir saldırı gerçekleştirdiğini duyurdu. Husilerin askeri sözcüsü Yahya Saree, Suudi donanmasına ait bir amfibi nakliye gemisi ile ona eşlik eden diğer gemilerin hedef alındığını belirtti. Saree'nin açıklamasına göre, saldırı insansız hava araçları ve füzelerin birleşik kullanımıyla başarıyla icra edildi. Ayrıca, Suudi Arabistan'da bulunan bir silah deposunun da vurulduğu iddia edildi. Bu olay, Yemen'deki çatışmanın ve bölgesel gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975873/pexels-photo-28975873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T16:32:39.895Z",
+        "location": {
+            "lat": 23,
+            "lng": 38,
+            "name": "Kızıldeniz, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemens-houthis-strike-saudi-naval-vessels-arms-depot-spokesman/4029666",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1786981903875mtac3",
         "title": "Hak Grubu, FIFA'yı Infantino'nun Yeniden Adaylığını Engellemeye Çağırdı",
         "summary": "Bir insan hakları grubu olan FairSquare, Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino'nun yeniden seçilme adaylığının engellenmesi çağrısında bulundu. Grup, FIFA tüzüğüne göre Infantino'nun görev süresi sınırlamaları nedeniyle tekrar aday olmaması gerektiğini savundu. FairSquare, FIFA'nın kendi kurallarına uyması ve başkanın görev süresi kısıtlamalarını ihlal etmemesi gerektiğini vurguladı. Bu çağrı, FIFA'nın yönetim şeffaflığı ve hesap verebilirliği konusunda tartışmaları yeniden alevlendirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
         "trendScore": 60,
         "isBreaking": false
-    },
-    {
-        "id": "1786843728370mmrfl",
-        "title": "İsrail'in Lübnan'a Saldırılarında 11 Kişi Hayatını Kaybetti; Hürmüz Boğazı Görüşmeleri Sürüyor",
-        "summary": "İsrail, Lübnan'a düzenlediği saldırılarda 11 kişiyi öldürdü. Bu saldırılar, Haziran ayında sağlanan ateşkesin ardından Lübnan'a yönelik en ölümcül saldırılar olarak kayıtlara geçti. Bölgede tansiyon yükselirken, İran ve Umman arasında Hürmüz Boğazı'na ilişkin görüşmelerin devam ettiği bildirildi. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçit olarak biliniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T01:28:48.370Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
