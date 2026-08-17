@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786996456814cv4mg",
+        "title": "Gazze filosu, İsrail ablukasını kırmak için İngiltere'den yola çıktı",
+        "summary": "İngiltere'nin Bristol kentinden bir gemi, İsrail'in Gazze'ye uyguladığı ablukayı kırmayı ve bölgeye insani yardım ulaştırmayı hedefleyen geniş çaplı bir kampanyanın parçası olarak yola çıktı. Bu girişim, Gazze Şeridi'ndeki zorlu insani koşullara dikkat çekmeyi ve uluslararası toplumu ablukanın kaldırılması yönünde harekete geçirmeyi amaçlıyor. Filo, daha önce de benzer misyonlarla Gazze'ye ulaşmaya çalışmış ve bazı durumlarda İsrail donanmasıyla karşı karşıya gelmişti. Bu son hareketin, bölgedeki gerilimi artırma potansiyeli bulunurken, uluslararası kamuoyunun da yakından takip ettiği bir gelişme olarak öne çıkıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11651607/pexels-photo-11651607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T19:54:16.814Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786996572249sa7jw",
+        "title": "İsrail Güçleri Batı Şeria'nın Güneyinde Hastaneye Baskın Düzenledi",
+        "summary": "İsrail güçleri, Batı Şeria'nın güneyinde bulunan bir hastaneye baskın düzenleyerek hastalara saldırdı. Filistin Sağlık Bakanlığı, bu olayın ardından uluslararası topluma acil müdahale çağrısında bulundu. Bakanlık, hastanelere ve sağlık çalışanlarına yönelik saldırıların derhal durdurulması için küresel kuruluşlar, Dünya Sağlık Örgütü (DSÖ) ve Uluslararası Kızılhaç Komitesi'ne (ICRC) çağrı yaptı. Bu durum, bölgedeki insani durumu ve sağlık hizmetlerinin güvenliğini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T19:56:12.249Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 35.1,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-raid-hospital-premises-assault-patients-in-southern-west-bank/4029930",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786992773559ldqxs",
         "title": "Irak, Kürt Bölgesel Başbakanı'nın konutuna yönelik insansız hava aracı saldırısı hakkında İran'dan açıklama talep ediyor",
         "summary": "Irak Dışişleri Bakanlığı, Kürt Bölgesel Başbakanı'nın konutuna yönelik insansız hava aracı saldırısıyla ilgili olarak İran'dan açıklama talep ettiğini bildirdi. Irak Dışişleri Bakanı Hüseyin, bu konuyu İranlı mevkidaşı Araghchi ile yaptığı telefon görüşmesinde ele aldı. Görüşmede, söz konusu saldırının detayları ve sorumluluğu hakkında bilgi alışverişinde bulunuldu. Bağdat, bu olayın aydınlatılması ve benzer olayların önlenmesi konusunda Tahran'dan net bir yanıt beklediğini ifade etti.",
@@ -764,38 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-s-escalation-in-southern-lebanon-threatens-to-derail-settlement-efforts-arab-league/4028523",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786848313281gy4ud",
-        "title": "Al Jazeera Gazetecisinden Gazze'de Sahil Kafe Girişimi",
-        "summary": "Filistinli gazeteci Hind Khoudary, savaşın yıprattığı Gazze'de bir sahil kafesi açtı. Khoudary, bu girişimle bölgede hayatın sevilen bir parçasını yeniden canlandırmayı ve toplumsal yaşamı desteklemeyi hedefliyor. Kafe, zorlu koşullara rağmen Gazze halkının direncini ve normalleşme arayışını simgeliyor. Bu adım, çatışmaların gölgesinde dahi sosyal bağların ve günlük yaşamın önemini vurguluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/33569450/pexels-photo-33569450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T02:45:13.281Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1786848337786e2kct",
-        "title": "Nijerya'da Petrol Fiyatları Yükselirken Elektrikli Bisikletlere Talep Artıyor",
-        "summary": "Nijerya'da artan petrol fiyatları, elektrikli bisikletlere olan talebi önemli ölçüde artırdı. Ülke genelinde sürücüler, geleneksel benzinli motosikletlerden elektrikli modellere geçiş yaparak yakıt ve bakım masraflarından tasarruf ettiklerini ifade ediyor. Bu durum, hem bireysel kullanıcıların bütçelerine katkı sağlıyor hem de ülkenin enerji tüketim alışkanlıklarında potansiyel bir değişime işaret ediyor. Elektrikli bisikletlerin yaygınlaşması, yüksek akaryakıt maliyetlerine karşı pratik bir çözüm olarak öne çıkıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/19411371/pexels-photo-19411371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T02:45:37.786Z",
-        "location": {
-            "lat": 9,
-            "lng": 8,
-            "name": "Nijerya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
