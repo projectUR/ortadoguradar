@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786938726899bqnaw",
+        "title": "Filistinli-Amerikalı, İsrailli Yerleşimciler Tarafından Kuşatılan Batı Şeria'daki Evine Dönüyor",
+        "summary": "Filistinli-Amerikalı Loui Ridi, ailesinin İsrailli yerleşimciler tarafından kuşatılan Batı Şeria'daki Qusra kasabasındaki evine gitmek üzere ABD'den yola çıktı. Ridi'nin bu yolculuğu, bölgedeki Filistinliler ile İsrailli yerleşimciler arasındaki mülkiyet ve toprak anlaşmazlıklarını bir kez daha gündeme getiriyor. Olay, Batı Şeria'daki yerleşimci faaliyetlerinin yarattığı gerilimi ve Filistinlilerin yaşam alanlarına yönelik baskıları gözler önüne seriyor. Bu durum, uluslararası toplumun dikkatini bölgedeki insan hakları ve mülkiyet ihlallerine çekme potansiyeli taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/14200875/pexels-photo-14200875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T03:52:06.899Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 35.3,
+            "name": "Qusra, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786934582321bd84d",
         "title": "İsrailli Yerleşimciler İşgal Altındaki Batı Şeria'da Yeni Yasadışı Karakol İçin Çadır Kurdu",
         "summary": "İsrailli yerleşimciler, uluslararası hukuka göre işgal altında bulunan Batı Şeria'da yeni bir yasadışı yerleşim birimi kurmak amacıyla çadırlar kurdu. Birleşmiş Milletler Özel Raportörü Francesca Albanese, bu tür eylemlerin İsrail'in Batı Şeria'da 'etnik temizliği ilerletmek için yerleşimcileri kullandığı' yönündeki endişeleri artırdığını belirtti. Bu adım, bölgedeki gerilimi tırmandırma potansiyeli taşırken, Filistinlilerin toprakları üzerindeki haklarının ihlali olarak değerlendiriliyor. Uluslararası toplum, İsrail'in yerleşim faaliyetlerini durdurması çağrısında bulunmaya devam ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/children-among-palestinians-suffering-from-gas-inhalation-in-israeli-raid-on-west-bank-village/4028066",
         "trendScore": 75,
         "isBreaking": true
-    },
-    {
-        "id": "1786786204625ji6rg",
-        "title": "Gazze'de 22 Oksijen İstasyonu İsrail Ablukası Nedeniyle Hizmet Dışı Kaldı",
-        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, bölgedeki 30 oksijen tüpü doldurma cihazından yalnızca dördü faal durumda. İsrail ablukası nedeniyle 22 oksijen istasyonunun hizmet dışı kaldığı belirtildi. Bu durum, Gazze'deki sağlık hizmetlerinin ciddi şekilde aksamasına yol açarken, hastaların oksijen ihtiyacının karşılanmasında büyük zorluklar yaşanıyor. Bakanlık, ablukanın sağlık altyapısı üzerindeki olumsuz etkilerine dikkat çekerek uluslararası toplumu duruma müdahale etmeye çağırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T09:30:04.625Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/22-oxygen-stations-out-of-service-in-gaza-amid-israeli-blockade-health-ministry/4028034",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
