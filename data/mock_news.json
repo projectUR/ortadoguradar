@@ -1,5 +1,37 @@
 [
     {
+        "id": "17869877189396vulr",
+        "title": "ABD Elçisi Kushner'in Bölge Ziyaretinde Gazze Planına Şüpheyle Yaklaşılıyor",
+        "summary": "ABD Başkanı Donald Trump'ın özel elçisi Jared Kushner, Gazze Şeridi'ne yönelik 15 maddelik bir yol haritasını görüşmek üzere Orta Doğu'da temaslarda bulundu. Kushner, bu kapsamda Mısır'da Hamas liderleriyle bir araya gelirken, İsrail Başbakanı Binyamin Netanyahu ile de görüşmeler gerçekleştirdi. Ancak hem Filistinli yetkililer hem de İsrailli taraflar, sunulan Gazze planına ilişkin şüphelerini dile getirdi. Diplomatik çabalar sürerken, bölgedeki aktörlerin planın uygulanabilirliği konusunda farklı görüşlere sahip olduğu belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T17:28:38.939Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1786987758506op4hg",
+        "title": "İran'dan ABD Askerleri İçin Ödül Teklifi",
+        "summary": "“İran'a Savaş: İkinci Aşama, 37. Gün” başlığıyla verilen haberde, İran'ın ele geçirilen veya öldürülen ABD askerleri için 30.000 dolar ödül teklif ettiği bildirildi. Bu gelişme, ABD ile İran arasındaki mevcut gerilimi ve potansiyel çatışma riskini önemli ölçüde artırıyor. İran'ın bu tür bir teklifi, bölgedeki güvenlik dinamiklerini doğrudan etkileyecek ve iki ülke arasındaki düşmanlığı derinleştirme potansiyeli taşıyor. Söz konusu ödül teklifi, uluslararası arenada da geniş yankı uyandırabilecek nitelikte bir adım olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T17:29:18.506Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1786984359895ex1t0",
         "title": "Yemen'deki Husiler Suudi donanma gemilerini ve silah deposunu vurdu",
         "summary": "Yemen'deki Husiler, Suudi Arabistan'a yönelik yeni bir saldırı gerçekleştirdiğini duyurdu. Husilerin askeri sözcüsü Yahya Saree, Suudi donanmasına ait bir amfibi nakliye gemisi ile ona eşlik eden diğer gemilerin hedef alındığını belirtti. Saree'nin açıklamasına göre, saldırı insansız hava araçları ve füzelerin birleşik kullanımıyla başarıyla icra edildi. Ayrıca, Suudi Arabistan'da bulunan bir silah deposunun da vurulduğu iddia edildi. Bu olay, Yemen'deki çatışmanın ve bölgesel gerilimin devam ettiğini gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786848381345i2oj6",
-        "title": "Katar, İranlı pilotları yakaladığı iddialarını reddetti",
-        "summary": "İran, ABD-İran savaşının başlangıcında Katar'ın iki savaş uçağını düşürmesinin ardından üç İranlı pilotu alıkoyduğunu iddia etti. Bu iddialara Katar'dan resmi bir yanıt geldi. Katar, söz konusu İranlı pilotları yakaladığına dair iddiaları kesin bir dille yalanladığını bildirdi. Bu gelişme, Orta Doğu'daki bölgesel gerilimlerin bir yansıması olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27080761/pexels-photo-27080761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T02:46:21.345Z",
-        "location": {
-            "lat": 25.28,
-            "lng": 51.53,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786843691043jgcqi",
-        "title": "Suriye Ordusu'ndan Şam'daki Festivalde Halkın Üzerine Gül Atma Eylemi",
-        "summary": "Suriye ordusuna ait helikopterler, başkent Şam'daki tarihi Şam Kalesi'nde düzenlenen Yaz Suriye festivalinde toplanan kalabalığın üzerine güller bıraktı. Bu eylem, ülkenin uzun süredir devam eden çatışma ortamından farklı bir görüntü sergiledi. Ordu kaynakları, bu etkinliğin halkla dayanışmayı ve barış mesajını vurgulamayı amaçladığını belirtti. Festival, savaşın yıpratıcı etkilerine rağmen toplumsal yaşamın ve kültürel etkinliklerin devam ettiğini göstermeyi hedefliyor. Güllerin atılması, ordunun halkla ilişkilerini güçlendirme ve normalleşme sürecine katkıda bulunma çabası olarak değerlendirildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/16013061/pexels-photo-16013061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T01:28:11.043Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-        "trendScore": 60,
         "isBreaking": false
     }
 ]
