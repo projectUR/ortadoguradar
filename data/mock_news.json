@@ -1,5 +1,21 @@
 [
     {
+        "id": "17870071658915vob8",
+        "title": "Filistinli Amerikalı, Batı Şeria'da Kuşatma Altındaki Ailesiyle Yeniden Bir Araya Geldi",
+        "summary": "Filistin asıllı Amerikalı Loui Ridi, Batı Şeria'daki Qusra köyünde kuşatma altında yaşayan ailesiyle uzun bir aradan sonra buluştu. Görüntüler, Ridi'nin evine ulaştığı ve aile üyeleriyle duygusal anlar yaşadığı ilk anları kaydetti. Bu buluşma, bölgedeki gerilimli koşullar altında ailelerin yaşadığı zorlukları ve ayrılıkları bir kez daha gözler önüne serdi. Olay, Filistin topraklarındaki günlük yaşamın ve insan hikayelerinin bir yansıması olarak değerlendirildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33337402/pexels-photo-33337402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T22:52:45.891Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 35.28,
+            "name": "Qusra, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786998628747lflox",
         "title": "Rus siyasetçi, Ukrayna'daki savaşa karşı çıktığı için 11 yıl hapse mahkum edildi",
         "summary": "Rusya'da muhalif Yabloko partisinin önde gelen üyelerinden Lev Shlosberg, Ukrayna'daki savaşa karşı çıktığı gerekçesiyle 11 yıl bir ay hapis cezasına çarptırıldı. Pazartesi günü verilen bu karar, Rusya'da çatışmaya yönelik muhalif seslere karşı uygulanan baskının devam ettiğini gösteriyor. Shlosberg'in mahkumiyeti, hükümetin 'özel askeri operasyon' anlatısına meydan okuyan kişilerin karşılaştığı ağır cezaları bir kez daha gözler önüne serdi. Bu tür iç siyasi gelişmeler, Rusya'nın dış politikasını ve Orta Doğu gibi bölgelerdeki rolünü dolaylı olarak etkileyebilir.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786862607910pfaqi",
-        "title": "Bölünmüş bir ulus: İsrailliler Ekim seçimlerinde ne istiyor?",
-        "summary": "İsrail'de Ekim ayında gerçekleştirilecek genel seçimler öncesinde ülkenin siyasi gündemi mercek altına alındı. Analistler, yaşanan soykırım iddiaları ve birden fazla savaşa rağmen, seçmenlerin önceliklerinin daha çok iç meselelere odaklandığını belirtiyor. Bu durum, dış politikadaki yoğun gerilimlere rağmen iç siyasetin ve toplumsal taleplerin seçim sonuçları üzerinde belirleyici olacağına işaret ediyor. Haber, İsrail toplumunun bölünmüşlüğünü ve seçmenlerin beklentilerini ele alıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8849340/pexels-photo-8849340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T06:43:27.910Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
