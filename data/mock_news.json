@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786934582321bd84d",
+        "title": "İsrailli Yerleşimciler İşgal Altındaki Batı Şeria'da Yeni Yasadışı Karakol İçin Çadır Kurdu",
+        "summary": "İsrailli yerleşimciler, uluslararası hukuka göre işgal altında bulunan Batı Şeria'da yeni bir yasadışı yerleşim birimi kurmak amacıyla çadırlar kurdu. Birleşmiş Milletler Özel Raportörü Francesca Albanese, bu tür eylemlerin İsrail'in Batı Şeria'da 'etnik temizliği ilerletmek için yerleşimcileri kullandığı' yönündeki endişeleri artırdığını belirtti. Bu adım, bölgedeki gerilimi tırmandırma potansiyeli taşırken, Filistinlilerin toprakları üzerindeki haklarının ihlali olarak değerlendiriliyor. Uluslararası toplum, İsrail'in yerleşim faaliyetlerini durdurması çağrısında bulunmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38125834/pexels-photo-38125834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T02:43:02.321Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786929877253iaysu",
         "title": "Afrika Birliği'nin Sudan Misyonu Başarılı Olabilir mi?",
         "summary": "Afrika Birliği (AB), Sudan'daki mevcut misyonu aracılığıyla ülkede ilerleme kaydetmeyi hedefliyor. Ancak, Sudan'daki derin çatışmalar ve diplomatik anlaşmazlıklar bu çabaların önünde önemli engeller oluşturuyor. AB, sahadaki askeri gerilimleri azaltmak ve taraflar arasında siyasi bir uzlaşı sağlamak için diplomatik girişimlerini sürdürüyor. Misyonun başarısı, ülkedeki istikrarsızlığın giderilmesi ve kalıcı bir barış sürecinin tesis edilmesi açısından kritik önem taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/22-oxygen-stations-out-of-service-in-gaza-amid-israeli-blockade-health-ministry/4028034",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786782739812alnlo",
-        "title": "FIFA Başkanı Infantino'ya Dünya Kupası Satış Tartışmalarında Giuliani'den Destek",
-        "summary": "Eski New York Belediye Başkanı Rudy Giuliani'nin oğlu Andrew Giuliani, FIFA Başkanı Gianni Infantino'ya yönelik eleştirilere yanıt verdi. Giuliani, Infantino'nun Dünya Kupası ile ilgili ticari anlaşmalar ve satışlar konusundaki eleştirilerin 'sadece siyaset' olduğunu belirtti. Bu açıklama, FIFA'nın son Dünya Kupası'nın ev sahipliği ve ticari hakları etrafındaki tartışmaların devam ettiğini gösteriyor. Özellikle Katar'da düzenlenen son Dünya Kupası'nın ardından FIFA'nın kararları ve finansal süreçleri uluslararası kamuoyunda yakından takip ediliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/35832019/pexels-photo-35832019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T08:32:19.812Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
