@@ -1,5 +1,37 @@
 [
     {
+        "id": "1786957851603nnae7",
+        "title": "Husiler, Kızıldeniz'deki Mocha'ya 2 hipersonik balistik füze fırlattı: Yemen ordusu",
+        "summary": "Yemen ordusu tarafından yapılan açıklamaya göre, Husi güçleri Kızıldeniz kıyısındaki stratejik Mocha kentine doğru iki adet hipersonik balistik füze fırlattı. Bu füze saldırıları, Yemen'in uluslararası tanınmış hükümeti ile Husi grubu arasında süregelen askeri gerilimin bir parçası olarak kaydedildi. Mocha, Yemen'in batısında yer alan ve Kızıldeniz'deki deniz trafiği açısından önemli bir konumda bulunan bir liman şehridir. Olay, bölgedeki çatışmaların devam ettiğini ve deniz güvenliğine yönelik tehditlerin sürdüğünü bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T09:10:51.603Z",
+        "location": {
+            "lat": 13.3167,
+            "lng": 43.25,
+            "name": "Mocha, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/houthis-fire-2-hypersonic-ballistic-missiles-toward-mocha-red-sea-yemeni-army/4029299",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17869578732569v8e4",
+        "title": "İsrail Ordusu Batı Şeria'da Baskın Düzenledi, Filistinliler Yerinden Edildi",
+        "summary": "İsrail ordusu güçleri Batı Şeria'da bir kasabaya baskın düzenledi. İşgal altındaki Doğu Kudüs'ün kuzeybatısında yer alan bir bölgede, İsrail güçleri tarafından bir evin yıkıldığı bildirildi. Bu yıkım sonucunda 15 Filistinli yerinden edildi. Olay, bölgedeki İsrail-Filistin gerilimini ve yerleşim politikalarının insani etkilerini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17727622/pexels-photo-17727622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T09:11:13.256Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.23,
+            "name": "Doğu Kudüs, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-forces-raid-west-bank-town-displace-palestinians/4029289",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1786954084987w8sjy",
         "title": "İsrail güçleri Suriye'nin Dera kentindeki baskında gençleri kaçırdı",
         "summary": "İsrail güçleri, Suriye'nin güneyindeki Dera kentine düzenlediği operasyonda gençleri kaçırdı. Bölgeden gelen haberlere göre, bu olay İsrail'in Suriye'nin güneyine yönelik neredeyse her gün gerçekleştirdiği baskın, arama ve tutuklama eylemlerinin bir parçası. Bu tür askeri müdahaleler, Suriye topraklarındaki gerilimi artırırken, uluslararası hukuka aykırı olduğu yönünde eleştirilere neden oluyor. Kaçırılan gençlerin akıbeti hakkında henüz resmi bir açıklama yapılmazken, bölgedeki insan hakları örgütleri durumu yakından takip ediyor.",
@@ -764,38 +796,6 @@
             "name": "Orta Doğu"
         },
         "source": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786818891658srd81",
-        "title": "Netanyahu'nun Ofisi: Hizbullah Saldırısında 3 İsrail Askeri Yaralandı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun ofisi, İsrail-Lübnan sınırında Hizbullah tarafından gerçekleştirilen bir saldırıda üç İsrail askerinin yaralandığını bildirdi. Bu açıklama, İsrail'in Haziran ayındaki çerçeve anlaşmasından bu yana güney Lübnan'a yönelik en ölümcül saldırılarını düzenlediği bir döneme denk geldi. Olay, iki ülke arasındaki gerilimin tırmandığını gösterirken, bölgedeki güvenlik durumu yakından takip ediliyor. Taraflar arasındaki çatışmaların devam ettiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T18:34:51.658Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.5,
-            "name": "İsrail-Lübnan Sınırı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahus-office-claims-3-israeli-soldiers-wounded-in-hezbollah-attack-near-border/4028403",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1786818914569ipp2q",
-        "title": "Hizbullah, İsrail'in Güney Lübnan'daki tırmanışına 'uygun' yanıt vereceğini açıkladı",
-        "summary": "Lübnan merkezli Hizbullah örgütü, İsrail'in Güney Lübnan'daki son saldırılarına 'uygun' bir yanıt vereceğini duyurdu. Grup tarafından yapılan açıklamada, İsrail'in bu eylemlerinin Başbakan Binyamin Netanyahu'nun iç siyasi ve seçim amaçları doğrultusunda çatışmayı tırmandırma arzusunu yansıttığı iddia edildi. Bu açıklama, Lübnan-İsrail sınırında devam eden gerilimi ve bölgedeki güvenlik endişelerini bir kez daha artırdı. Taraflar arasındaki karşılıklı tehditler, bölgedeki istikrarsızlık potansiyelini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T18:35:14.569Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hezbollah-vows-appropriate-response-to-israeli-escalation-in-southern-lebanon/4028398",
         "trendScore": 85,
         "isBreaking": false
     }
