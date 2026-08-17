@@ -1,5 +1,21 @@
 [
     {
+        "id": "17869770838321ifek",
+        "title": "İsrailli yerleşimcilerin Filistinlilere yönelik şiddetine küresel kınama",
+        "summary": "Uluslararası toplum, İsrailli yerleşimcilerin Filistinlilere yönelik artan şiddet eylemlerini kınadı. Çeşitli ülkeler ve uluslararası kuruluşlar, Batı Şeria'da yaşanan olaylardan derin endişe duyduklarını belirtti. Yapılan açıklamalarda, sivillerin korunması ve şiddetin derhal durdurulması çağrısı yapıldı. Ayrıca, İsrail hükümetine yerleşimci şiddetini önleme ve sorumluları adalete teslim etme yükümlülüğü hatırlatıldı. Bu gelişmeler, bölgedeki gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T14:31:23.832Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17869740585975cex6",
         "title": "ABD'nin Gazze Yol Haritası ve Kushner'ın Görüşmeleri",
         "summary": "ABD Başkanı Donald Trump'ın damadı ve danışmanı Jared Kushner'ın, İsrail'in Trump yönetiminin sunduğu 15 maddelik Gazze yol haritasını reddetmesinin ardından İsrail Başbakanı Binyamin Netanyahu ile bir araya geleceği bildirildi. Kushner'ın daha önce Hamas liderleriyle de görüştüğü belirtilirken, bu diplomatik temasların Trump'ın Orta Doğu barış planının Gazze ayağı üzerindeki etkileri yakından takip ediliyor. Görüşmelerin, bölgedeki siyasi dinamikleri ve barış sürecinin geleceğini şekillendirmesi bekleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/hamas-delegation-led-by-al-hayya-heads-to-cairo-to-discuss-gaza-ceasefire-agreement/4028525",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17868362276546gg1m",
-        "title": "Yetkililer: İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda On Bir Kişi Hayatını Kaybetti",
-        "summary": "İsrail ordusu, güney Lübnan'a yönelik saldırılar düzenlediğini duyurdu. Yetkililer, bu saldırılarda on bir kişinin hayatını kaybettiğini bildirdi. İsrail askeri kaynakları, saldırıların 'Hizbullah terör altyapısını' hedef aldığını belirtti. Açıklamada, bu eylemin İsrail askerlerine yönelik daha önceki bir saldırıya misilleme olarak gerçekleştirildiği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952996/pexels-photo-5952996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T23:23:47.654Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
