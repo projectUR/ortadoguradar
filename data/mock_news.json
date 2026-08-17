@@ -1,5 +1,21 @@
 [
     {
+        "id": "17869740585975cex6",
+        "title": "ABD'nin Gazze Yol Haritası ve Kushner'ın Görüşmeleri",
+        "summary": "ABD Başkanı Donald Trump'ın damadı ve danışmanı Jared Kushner'ın, İsrail'in Trump yönetiminin sunduğu 15 maddelik Gazze yol haritasını reddetmesinin ardından İsrail Başbakanı Binyamin Netanyahu ile bir araya geleceği bildirildi. Kushner'ın daha önce Hamas liderleriyle de görüştüğü belirtilirken, bu diplomatik temasların Trump'ın Orta Doğu barış planının Gazze ayağı üzerindeki etkileri yakından takip ediliyor. Görüşmelerin, bölgedeki siyasi dinamikleri ve barış sürecinin geleceğini şekillendirmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T13:40:58.597Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17869709522023afge",
         "title": "Trump, Güney Kore ile Ortak Askeri Tatbikatları Azalttı",
         "summary": "ABD Başkanı Donald Trump'ın Güney Kore ile yapılan ortak askeri tatbikatların kapsamını daralttığı bildirildi. Bu kararın temel gerekçeleri arasında, Seul yönetiminin ABD'nin İran'a karşı olası bir savaşına destek verme konusundaki isteksizliği gösterildi. Ayrıca, Başkan Trump'ın Kuzey Kore lideriyle kurduğu sıcak ilişkilerin de bu adımda etkili olduğu belirtildi. Kararın, ABD'nin Asya ve Orta Doğu politikaları üzerindeki yansımaları merak ediliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "178683427285949cxb",
-        "title": "Libya'nın Zaviye Santrali Yakınlarında Patlama Elektrik Üretimini Aksattı",
-        "summary": "Libya'nın Zaviye kentindeki elektrik santrali yakınlarında bir patlama meydana geldi. Olay sonucunda santraldeki elektrik üretimi kesintiye uğradı. Devlet elektrik şirketi, teknik ekiplerin patlamanın nedenini araştırdığını ve elektrik tedarikini yeniden sağlamak için çalışmaların devam ettiğini bildirdi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/35982145/pexels-photo-35982145.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-15T22:51:12.859Z",
-        "location": {
-            "lat": 32.75,
-            "lng": 12.73,
-            "name": "Zaviye, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/explosion-near-libya-s-zawiya-power-plant-disrupts-electricity-production/4028503",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
