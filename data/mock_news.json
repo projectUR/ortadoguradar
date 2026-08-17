@@ -1,5 +1,21 @@
 [
     {
+        "id": "1786981903875mtac3",
+        "title": "Hak Grubu, FIFA'yı Infantino'nun Yeniden Adaylığını Engellemeye Çağırdı",
+        "summary": "Bir insan hakları grubu olan FairSquare, Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino'nun yeniden seçilme adaylığının engellenmesi çağrısında bulundu. Grup, FIFA tüzüğüne göre Infantino'nun görev süresi sınırlamaları nedeniyle tekrar aday olmaması gerektiğini savundu. FairSquare, FIFA'nın kendi kurallarına uyması ve başkanın görev süresi kısıtlamalarını ihlal etmemesi gerektiğini vurguladı. Bu çağrı, FIFA'nın yönetim şeffaflığı ve hesap verebilirliği konusunda tartışmaları yeniden alevlendirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/29920213/pexels-photo-29920213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-17T15:51:43.875Z",
+        "location": {
+            "lat": 47.3769,
+            "lng": 8.5417,
+            "name": "Zürih, İsviçre"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17869770838321ifek",
         "title": "İsrailli yerleşimcilerin Filistinlilere yönelik şiddetine küresel kınama",
         "summary": "Uluslararası toplum, İsrailli yerleşimcilerin Filistinlilere yönelik artan şiddet eylemlerini kınadı. Çeşitli ülkeler ve uluslararası kuruluşlar, Batı Şeria'da yaşanan olaylardan derin endişe duyduklarını belirtti. Yapılan açıklamalarda, sivillerin korunması ve şiddetin derhal durdurulması çağrısı yapıldı. Ayrıca, İsrail hükümetine yerleşimci şiddetini önleme ve sorumluları adalete teslim etme yükümlülüğü hatırlatıldı. Bu gelişmeler, bölgedeki gerilimi daha da artırma potansiyeli taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17868437982346254n",
-        "title": "Hamas Heyeti Ateşkes Görüşmeleri İçin Kahire'ye Gitti",
-        "summary": "Hamas'tan üst düzey bir heyet, Gazze'de devam eden çatışmalara ilişkin ateşkes anlaşmasını görüşmek üzere Mısır'ın başkenti Kahire'ye ulaştı. Halil el-Hayya liderliğindeki heyet, Mısırlı yetkililerle bir araya gelerek Filistin meselesini ve ateşkesin sağlamlaştırılmasına yönelik çabaları ele alacak. Görüşmelerin, bölgedeki gerilimi azaltma ve insani durumu iyileştirme amacı taşıdığı belirtiliyor. Bu ziyaret, Gazze'deki krizin diplomatik yollarla çözümü için önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T01:29:58.234Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/hamas-delegation-led-by-al-hayya-heads-to-cairo-to-discuss-gaza-ceasefire-agreement/4028525",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
