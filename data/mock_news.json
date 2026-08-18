@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787063764660gxj0s",
+        "title": "Gazze Çalışma Grupları ve Yetki Alanları Hakkında Bilinmesi Gerekenler",
+        "summary": "Gazze Şeridi'nde yeni çalışma gruplarının oluşturulduğu ve bu grupların yetki alanlarının belirlendiği bildirildi. Söz konusu çalışma gruplarının, Gazze'nin yeniden inşasını acil silahsızlanma şartına bağladığı belirtiliyor. Bu durum, bölgedeki güvenlik ve istikrar arayışlarında yeni bir yaklaşımı işaret ediyor. Grupların görevi, Gazze'nin geleceğine yönelik diplomatik çabaların bir parçası olarak değerlendiriliyor ve bölgedeki aktörler arasında önemli müzakerelerin yürütüleceği öngörülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T14:36:04.660Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787063817708vq6x0",
+        "title": "Aktivistler, İsrailli Yerleşimciler Tarafından Kuşatılan Filistinli Ailelere Yardım Ulaştırma Girişiminde Bulundu",
+        "summary": "İşgal altındaki Batı Şeria'da, İsrailli yerleşimciler tarafından evlerinde mahsur bırakılan Filistinli ailelere insani yardım ulaştırmak amacıyla aktivistler harekete geçti. Edinilen bilgilere göre, iki Filistinli aile birkaç gündür evlerinde kapalı kalmış durumda ve dış dünyayla bağlantıları kesilmiş durumda. Aktivistler, bu ailelere temel ihtiyaç malzemeleri sağlamak için bölgeye ulaşmaya çalışıyor. Olay, bölgedeki gerilimin ve yerleşimci şiddetinin devam ettiğini bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6646904/pexels-photo-6646904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T14:36:57.708Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1787060646629tbhhp",
         "title": "Filistinli-Amerikalı, kuşatma altındaki evinde İsrailli yerleşimciyle yüzleşti",
         "summary": "Nablus'un güneyindeki Qusra kasabasında Filistinli-Amerikalı Loui Abu Ridi, evinde bir İsrailli yerleşimciyle karşı karşıya geldi. Olay, bölgedeki Filistinliler ve İsrailli yerleşimciler arasındaki gerilimi bir kez daha gözler önüne serdi. Abu Ridi'nin evinin kuşatma altında olduğu belirtildi. Bu tür yüzleşmeler, Batı Şeria'daki yerleşimci faaliyetleri ve Filistinlilerin mülkiyet hakları konusundaki anlaşmazlıkların bir yansıması olarak değerlendiriliyor.",
@@ -764,38 +796,6 @@
             "name": "Al-Qantara, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-targets-outskirts-of-lebanese-town-of-al-qantara-reports/4029045",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17869501684410vb1z",
-        "title": "İran, Kanada'nın ABD'nin İran'a Karşı Savaşına Katılımını Kınadı",
-        "summary": "İran Dışişleri Bakanlığı Sözcüsü, Kanada'nın ABD liderliğindeki İran'a karşı 'yasa dışı ve tercih savaşına' katılımını sert bir dille eleştirdi. Sözcü, Ottawa'nın bu eylemi Washington'ı memnun etmek amacıyla gerçekleştirdiğini belirtti. Bu açıklama, İran'ın Batılı ülkelerin, özellikle ABD ve müttefiklerinin bölgedeki politikalarına yönelik derin endişelerini yansıtıyor. Tahran'ın bu tutumu, uluslararası arenadaki gerilimlerin ve farklı jeopolitik çıkarların devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T07:02:48.441Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-slams-canadas-participation-in-us-war-on-iran/4029034",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17869501898943vpp7",
-        "title": "İsrail ordusu Lübnan'da olası günlerce sürecek bir tırmanışa hazırlanıyor",
-        "summary": "İsrail ordusunun, Lübnan'da günlerce sürebilecek bir askeri tırmanışa hazırlandığı bildirildi. İsrail Kanal 12'nin haberine göre, askeri planlar arasında Hizbullah altyapısına yönelik daha fazla saldırı düzenlenmesi yer alıyor. Bu hazırlıklar, bölgedeki mevcut gerilimin artabileceği endişelerini beraberinde getiriyor. İsrail ve Hizbullah arasındaki çatışmaların yoğunlaşma potansiyeli, bölgesel güvenliği etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T07:03:09.894Z",
-        "location": {
-            "lat": 33.8,
-            "lng": 35.8,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-prepares-for-possible-days-long-escalation-in-lebanon-report/4028995",
         "trendScore": 85,
         "isBreaking": false
     }
