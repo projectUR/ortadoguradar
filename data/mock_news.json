@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787060646629tbhhp",
+        "title": "Filistinli-Amerikalı, kuşatma altındaki evinde İsrailli yerleşimciyle yüzleşti",
+        "summary": "Nablus'un güneyindeki Qusra kasabasında Filistinli-Amerikalı Loui Abu Ridi, evinde bir İsrailli yerleşimciyle karşı karşıya geldi. Olay, bölgedeki Filistinliler ve İsrailli yerleşimciler arasındaki gerilimi bir kez daha gözler önüne serdi. Abu Ridi'nin evinin kuşatma altında olduğu belirtildi. Bu tür yüzleşmeler, Batı Şeria'daki yerleşimci faaliyetleri ve Filistinlilerin mülkiyet hakları konusundaki anlaşmazlıkların bir yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6382690/pexels-photo-6382690.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T13:44:06.629Z",
+        "location": {
+            "lat": 32.22,
+            "lng": 35.25,
+            "name": "Nablus, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787054005185y2obk",
         "title": "ABD Başkanı Trump'tan Umman'a İkinci Kez Bombalama Tehdidi",
         "summary": "ABD Başkanı Donald Trump'ın, Hürmüz Boğazı nedeniyle Umman'ı bombalamakla tehdit ettiği bildirildi. Bu tehdidin, ABD ile İran arasındaki barış müzakerelerinin çıkmaza girdiği bir dönemde geldiği belirtildi. Haber kaynaklarına göre, bu durum Trump'ın Umman'a yönelik ikinci tehdidi olma özelliğini taşıyor. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda endişelere yol açıyor.",
@@ -780,22 +796,6 @@
             "name": "Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-prepares-for-possible-days-long-escalation-in-lebanon-report/4028995",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17869420071686afqe",
-        "title": "İsrail ordusu güney Lübnan'da bir kasabaya ateşkes ihlaline rağmen saldırdı",
-        "summary": "Lübnan resmi haber ajansının bildirdiğine göre, İsrail ordusu güney Lübnan'daki Hadatha kasabasına yönelik bir saldırı gerçekleştirdi. İsrail askerleri, kasabanın batı mahallesinde otomatik silahlarla ateş açtı. Bu eylem, bölgede devam eden ateşkes anlaşmasına rağmen meydana geldi. Saldırı, Lübnan topraklarında İsrail güçleri tarafından yapılan bir ihlal olarak kayıtlara geçti ve bölgedeki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5095300/pexels-photo-5095300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T04:46:47.168Z",
-        "location": {
-            "lat": 33.15,
-            "lng": 35.4,
-            "name": "Hadatha, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-attacks-town-in-southern-lebanon-despite-ceasefire/4029037",
         "trendScore": 85,
         "isBreaking": false
     }
