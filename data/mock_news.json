@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787054005185y2obk",
+        "title": "ABD Başkanı Trump'tan Umman'a İkinci Kez Bombalama Tehdidi",
+        "summary": "ABD Başkanı Donald Trump'ın, Hürmüz Boğazı nedeniyle Umman'ı bombalamakla tehdit ettiği bildirildi. Bu tehdidin, ABD ile İran arasındaki barış müzakerelerinin çıkmaza girdiği bir dönemde geldiği belirtildi. Haber kaynaklarına göre, bu durum Trump'ın Umman'a yönelik ikinci tehdidi olma özelliğini taşıyor. Olay, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası kamuoyunda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5222282/pexels-photo-5222282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T11:53:25.185Z",
+        "location": {
+            "lat": 23.6143,
+            "lng": 58.5922,
+            "name": "Muscat, Oman"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17870540756714mcr4",
+        "title": "Katar, Gazze Ateşkes Planının Tam Uygulanmasını Talep Ediyor",
+        "summary": "Katar Dışişleri Bakanlığı, Gazze'deki ateşkes planının tam olarak uygulanması yönünde çağrıda bulundu. Bakanlık sözcüsü, Doha'nın Hürmüz Boğazı'nın yeniden açılmasına yönelik bir anlaşma ile ateşkesin eş zamanlı olarak sağlanmasını istediğini belirtti. Bu açıklama, bölgedeki gerilimin azaltılması ve insani durumun iyileştirilmesi çabalarının bir parçası olarak değerlendiriliyor. Katar, uzun süredir devam eden çatışmalara diplomatik çözüm bulunması konusunda aktif rol oynayan ülkelerden biri konumunda.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T11:54:35.671Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatar-pushes-for-full-implementation-of-gaza-ceasefire-plan-foreign-ministry/4030527",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787052469734c9kug",
         "title": "Eric Swalwell'ın yerine geçecek Kaliforniya özel seçimi hakkında bilinmesi gerekenler",
         "summary": "Kaliforniya'da Eric Swalwell'ın yerine geçecek özel bir seçim yarışı, dışarıdan yapılan harcamalarla dikkat çekiyor. Başlangıçta az ilgi gören bu seçim, Amerikan İsrail Halkla İlişkiler Komitesi (AIPAC) tarafından yapılan önemli harcamalara sahne oldu. İsrail yanlısı bir lobi grubu olan AIPAC'ın bu seçime müdahil olması, yarışın ABD-İsrail ilişkileri veya Orta Doğu politikaları açısından önem taşıdığına işaret ediyor. Bu durum, yerel bir seçimin uluslararası ilişkiler bağlamında nasıl bir etki yaratabileceğini gözler önüne seriyor. AIPAC'ın harcamaları, seçimin profilini yükselterek kamuoyunun dikkatini çekmeyi başardı.",
@@ -764,38 +796,6 @@
             "name": "Hadatha, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-attacks-town-in-southern-lebanon-despite-ceasefire/4029037",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786942028239nw4ok",
-        "title": "Batı Şeria'da İsrailli işgalcilerin saldırısında Filistinli doktor yaralandı",
-        "summary": "Batı Şeria'da İsrailli işgalciler tarafından gerçekleştirilen saldırılarda bir Filistinli doktorun yaralandığı bildirildi. Olaylar, Ramallah-Nablus yolu üzerinde seyreden araçlara yönelik saldırılarla başladı. Ayrıca, Nablus'un batısında bulunan bir eve de saldırı düzenlendiği belirtildi. Bölgede artan gerilim ve çatışmaların devam ettiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T04:47:08.239Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.26,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-doctor-injured-in-attack-by-israeli-occupiers-in-west-bank/4029036",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786938726899bqnaw",
-        "title": "Filistinli-Amerikalı, İsrailli Yerleşimciler Tarafından Kuşatılan Batı Şeria'daki Evine Dönüyor",
-        "summary": "Filistinli-Amerikalı Loui Ridi, ailesinin İsrailli yerleşimciler tarafından kuşatılan Batı Şeria'daki Qusra kasabasındaki evine gitmek üzere ABD'den yola çıktı. Ridi'nin bu yolculuğu, bölgedeki Filistinliler ile İsrailli yerleşimciler arasındaki mülkiyet ve toprak anlaşmazlıklarını bir kez daha gündeme getiriyor. Olay, Batı Şeria'daki yerleşimci faaliyetlerinin yarattığı gerilimi ve Filistinlilerin yaşam alanlarına yönelik baskıları gözler önüne seriyor. Bu durum, uluslararası toplumun dikkatini bölgedeki insan hakları ve mülkiyet ihlallerine çekme potansiyeli taşıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/14200875/pexels-photo-14200875.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T03:52:06.899Z",
-        "location": {
-            "lat": 32.08,
-            "lng": 35.3,
-            "name": "Qusra, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
