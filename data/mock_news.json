@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787071019347xwyq3",
+        "title": "Batı Şeria'da İsrailli İşgalcilerin Şiddetinde Artış Yaşanırken 6 Filistinli Yaralandı",
+        "summary": "Batı Şeria'da yaşanan son olaylarda 6 Filistinlinin yaralandığı bildirildi. Haber, bölgede İsrailli işgalciler tarafından uygulanan şiddet olaylarında belirgin bir artış yaşandığına dikkat çekiyor. Birleşmiş Milletler (BM) kısa süre önce yaptığı uyarıda, İsrailli işgalcilerin Batı Şeria'daki şiddet eylemlerinin daha önce görülmemiş seviyelere ulaştığını belirtmişti. Bu durum, bölgedeki gerilimin tırmandığını ve insani durumun kötüleştiğini gözler önüne seriyor. Uluslararası toplum, bölgedeki şiddetin durdurulması ve sivillerin korunması yönündeki çağrılarını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6563988/pexels-photo-6563988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T16:36:59.347Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-injured-in-west-bank-amid-uptick-in-violence-by-israeli-occupiers/4030833",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787063764660gxj0s",
         "title": "Gazze Çalışma Grupları ve Yetki Alanları Hakkında Bilinmesi Gerekenler",
         "summary": "Gazze Şeridi'nde yeni çalışma gruplarının oluşturulduğu ve bu grupların yetki alanlarının belirlendiği bildirildi. Söz konusu çalışma gruplarının, Gazze'nin yeniden inşasını acil silahsızlanma şartına bağladığı belirtiliyor. Bu durum, bölgedeki güvenlik ve istikrar arayışlarında yeni bir yaklaşımı işaret ediyor. Grupların görevi, Gazze'nin geleceğine yönelik diplomatik çabaların bir parçası olarak değerlendiriliyor ve bölgedeki aktörler arasında önemli müzakerelerin yürütüleceği öngörülüyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786950148013671mb",
-        "title": "İsrail'in Lübnan'ın Al-Qantara Kasabası Yakınlarına Hava Saldırısı Düzenlediği Bildirildi",
-        "summary": "Haber kaynaklarına göre, İsrail Lübnan'ın güneyindeki Al-Qantara kasabasının eteklerine hava saldırısı düzenledi. Saldırının detaylarına ilişkin henüz resmi bir açıklama yapılmazken, bölgedeki gerilimin devam ettiği belirtiliyor. Bazı yerel sakinler, bu tür tekrarlanan saldırıların insanları evlerini terk etmeye zorlamak ve direnişe destek veren bölgeleri cezalandırmak amacı taşıdığına inanıyor. Bu durum, İsrail-Lübnan sınırındaki güvenlik endişelerini ve bölgedeki istikrarsızlığı bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38042564/pexels-photo-38042564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T07:02:28.013Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.47,
-            "name": "Al-Qantara, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-targets-outskirts-of-lebanese-town-of-al-qantara-reports/4029045",
         "trendScore": 85,
         "isBreaking": false
     }
