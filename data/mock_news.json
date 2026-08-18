@@ -1,5 +1,37 @@
 [
     {
+        "id": "17870206445503vttw",
+        "title": "Irak'ın Süleymaniye Kenti Yakınlarındaki Akaryakıt Deposunda Büyük Yangın Çıktı",
+        "summary": "Irak'ın kuzeyindeki Kürt şehri Süleymaniye yakınlarında bulunan bir akaryakıt deposunda büyük bir yangın meydana geldi. Olayda ilk belirlemelere göre en az 20 kişi yaralandı. Yangın nedeniyle onlarca akaryakıt tankeri kullanılamaz hale geldi. Alevlerin hızla yayıldığı depo çevresinde geniş çaplı hasar oluştuğu bildirildi. Bölgeye çok sayıda itfaiye ve sağlık ekibi sevk edildi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/11210396/pexels-photo-11210396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T02:37:24.550Z",
+        "location": {
+            "lat": 35.57,
+            "lng": 45.43,
+            "name": "Süleymaniye, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17870207631672rpf6",
+        "title": "Netanyahu ve Kushner Arasında Gazze'deki Hedefli Saldırılar Konusunda Anlaşmazlık",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu ve eski ABD Başkanı Donald Trump'ın danışmanı Jared Kushner arasında Gazze'deki hedefli saldırıların geleceği konusunda bir anlaşmazlık yaşandığı bildirildi. Rapora göre, Netanyahu bu tür saldırıların devam edeceğini belirtiyor. Ancak Jared Kushner, Gazze'de bir ateşkes anlaşmasının ilerlemesi için bu saldırılara karşı çıkıyor. Bu durum, bölgedeki gerilimi ve diplomatik çabaları etkileyebilecek önemli bir görüş ayrılığını ortaya koyuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9426431/pexels-photo-9426431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T02:39:23.167Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-premier-trump-s-advisor-disagree-over-continued-gaza-killings-report/4029977",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787009256468vfm79",
         "title": "İsrail güçleri Batı Şeria'da kasabaya saldırdı, yeni yerleşim birimi kurdu",
         "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da bir kasabaya saldırı düzenlediği ve bölgede yeni bir yerleşim birimi kurduğu bildirildi. Anadolu Ajansı'nın yerel kaynaklara dayandırdığı haberine göre, İsrail ordusu ve güvenlik güçleri, Batı Şeria genelindeki faaliyetlerini artırdı. Bu gelişmeler, bölgedeki gerilimin yükseldiğini ve yerleşim birimi faaliyetlerinin devam ettiğini gösteriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/houthis-launch-new-attacks-in-mocha-marib-amid-mounting-escalation-in-yemen/4028652",
         "trendScore": 75,
-        "isBreaking": true
-    },
-    {
-        "id": "17868656421988k966",
-        "title": "İran parlamentosu, dış etki ve Hürmüz Boğazı denetimi yasa tasarılarını görüşecek",
-        "summary": "İran parlamentosunun, dış etki ve Hürmüz Boğazı'nın denetimine ilişkin yasa tasarılarını görüşeceği bildirildi. Devlet medyasına göre, parlamento Ulusal Güvenlik Komitesi üyeleri, Hürmüz Boğazı için 'Akıllı Yönetim Planı'nı inceleyecek. Bu adım, İran'ın stratejik öneme sahip bu su yolundaki kontrolünü veya düzenlemelerini artırma çabalarını yansıtmaktadır. Görüşmelerin bölgesel güvenlik ve uluslararası denizcilik üzerinde potansiyel etkileri olabileceği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4345477/pexels-photo-4345477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T07:34:02.198Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-parliament-to-debate-foreign-influence-hormuz-oversight-bills/4028575",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17868656627579i86j",
-        "title": "İsrail Ordusu, Güney Lübnan'da Üst Düzey Bir Hizbullah Komutanını Öldürdüğünü İddia Etti",
-        "summary": "İsrail ordusu, güney Lübnan'da düzenlenen bir saldırıda üst düzey bir Hizbullah komutanını öldürdüğünü iddia etti. Ordu kaynaklarından yapılan açıklamaya göre, Ansar belediyesi bölgesinde gerçekleştirilen operasyonda Ebu Hassan Alaa adlı komutan hedef alındı ve etkisiz hale getirildi. İsrail tarafı, Alaa'nın Hizbullah içinde önemli bir pozisyonda olduğunu belirtirken, Lübnan'daki Hizbullah örgütünden konuya ilişkin henüz resmi bir açıklama yapılmadı. Bölgedeki gerilimin artmasına neden olabilecek bu iddia, taraflar arasındaki çatışmaların devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952996/pexels-photo-5952996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T07:34:22.757Z",
-        "location": {
-            "lat": 33.37,
-            "lng": 35.48,
-            "name": "Ansar, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-claims-it-killed-senior-hezbollah-commander-in-southern-lebanon/4028545",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
