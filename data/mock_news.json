@@ -1,5 +1,37 @@
 [
     {
+        "id": "17870356721045x1wf",
+        "title": "Hürmüz Boğazı'nda bir gemiye 'bilinmeyen bir cisim' isabet etti",
+        "summary": "İngiliz denizcilik ajansı UKMTO'dan yapılan açıklamaya göre, Hürmüz Boğazı'nda seyreden bir gemiye \"bilinmeyen bir cisim\" isabet etti. Olay sonucunda gemide bir kişinin yaralandığı ve makine dairesinde hasar meydana geldiği bildirildi. Küresel petrol ticareti için hayati önem taşıyan bu stratejik su yolunda meydana gelen olay, bölgedeki deniz güvenliği endişelerini yeniden gündeme getirdi. Saldırının kaynağı ve sorumlularına ilişkin henüz detaylı bir bilgi paylaşılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30049589/pexels-photo-30049589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T06:47:52.104Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1787035729318mktc2",
+        "title": "Çin'in Yeni Arktik Deniz Rotası, Orta Doğu Boğazlarının Yerini Alabilir mi?",
+        "summary": "Çin'in \"Buz İpek Yolu\" olarak adlandırılan yeni Arktik deniz rotası, küresel ticaret yollarında önemli bir değişim potansiyeli taşıyor. Eriyen Arktik buzulları sayesinde açılan bu güzergah, Çin'den Avrupa'ya ulaşım süresini kısaltmayı hedefliyor. Analistler, bu yeni rotanın Orta Doğu'daki stratejik boğazların ve geçiş noktalarının mevcut önemini azaltabileceğini belirtiyor. Ancak bu durumun, özellikle ABD ile Çin arasında yeni jeopolitik gerilimlere yol açabileceği de öngörülüyor. Bu gelişme, küresel tedarik zincirleri ve uluslararası ilişkiler üzerinde uzun vadeli etkiler yaratabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36297805/pexels-photo-36297805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T06:48:49.318Z",
+        "location": {
+            "lat": 30,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17870206445503vttw",
         "title": "Irak'ın Süleymaniye Kenti Yakınlarındaki Akaryakıt Deposunda Büyük Yangın Çıktı",
         "summary": "Irak'ın kuzeyindeki Kürt şehri Süleymaniye yakınlarında bulunan bir akaryakıt deposunda büyük bir yangın meydana geldi. Olayda ilk belirlemelere göre en az 20 kişi yaralandı. Yangın nedeniyle onlarca akaryakıt tankeri kullanılamaz hale geldi. Alevlerin hızla yayıldığı depo çevresinde geniş çaplı hasar oluştuğu bildirildi. Bölgeye çok sayıda itfaiye ve sağlık ekibi sevk edildi.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/hamas-says-talks-in-egypt-aim-to-ensure-israels-adherence-to-gaza-roadmap/4028706",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1786872620806wivl1",
-        "title": "Taliban'ın Kabil'deki İktidar Yıldönümü Kutlandı",
-        "summary": "Kabil'de, Taliban'ın iktidara gelişinin beşinci yıldönümü coşkulu törenlerle kutlandı. Afganistan'ın başkentinde toplanan kalabalıklar, vatansever müzikler eşliğinde bayraklarla karnaval benzeri bir atmosfer oluşturdu. Bu kutlamalar, Taliban yönetiminin ülkedeki beş yıllık dönemini işaret ederken, uluslararası toplumun Afganistan'daki gelişmeleri yakından takip ettiği biliniyor. Yıldönümü törenleri, ülkenin mevcut durumu ve geleceği hakkında çeşitli tartışmaları da beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31093762/pexels-photo-31093762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T09:30:20.806Z",
-        "location": {
-            "lat": 34.52,
-            "lng": 69.18,
-            "name": "Kabil, Afganistan"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1786872663742itcdf",
-        "title": "Husiler Yemen'de artan gerilim ortasında Mocha ve Marib'e yeni saldırılar düzenledi",
-        "summary": "Yemen'de Husiler tarafından Mocha ve Marib bölgelerine yeni saldırılar düzenlendiği bildirildi. Yerel yetkililerden alınan bilgilere göre, insansız hava aracı ve füze saldırıları sonucunda dört kişi yaralandı. Saldırılar ayrıca bölgede maddi hasara yol açtı. Bu gelişmeler, Yemen'deki çatışmalarda tırmanan gerilimi gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14927249/pexels-photo-14927249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-16T09:31:03.742Z",
-        "location": {
-            "lat": 15.4,
-            "lng": 45.3,
-            "name": "Mocha, Marib, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/houthis-launch-new-attacks-in-mocha-marib-amid-mounting-escalation-in-yemen/4028652",
-        "trendScore": 75,
-        "isBreaking": true
     }
 ]
