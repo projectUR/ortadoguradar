@@ -1,5 +1,21 @@
 [
     {
+        "id": "17870884075991t4vd",
+        "title": "Trump, İran ile Görüşme Planlanmadığını Açıkladı, Hürmüz Anlaşması Gerilimi Tırmanıyor",
+        "summary": "ABD Başkanı Donald Trump, İran ile herhangi bir görüşme planlanmadığını duyurdu. Bu açıklama, İran ile Umman arasında Hürmüz Boğazı'nın yönetimine ilişkin yapılan bir anlaşma üzerindeki gerilimin ortasında geldi. Trump'ın bu konudaki tepkisi, stratejik su yoluna kıyısı olan devletlerin boğazın yönetimi konusunda görüşmelerini sürdürdüğü bir döneme denk geldi. ABD lideri, bölgedeki bu gelişmelere karşı sert bir tutum sergiledi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9606999/pexels-photo-9606999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-18T21:26:47.599Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787084837468p32ty",
         "title": "ABD Adalet Bakanlığı, antisemitizm soruşturmalarına ilişkin ihbarcı iddialarını reddetti",
         "summary": "ABD Adalet Bakanlığı, ülkedeki antisemitizm soruşturmalarına yönelik ortaya atılan ihbarcı iddialarını yalanladı. Eski bir Adalet Bakanlığı avukatının açıklamalarına göre, Ivy League okullarına yeterli kanıt bulunmamasına rağmen uzlaşma anlaşmaları yapmaları yönünde baskı uygulandığı öne sürülmüştü. Bakanlık, bu iddiaların gerçeği yansıtmadığını ve soruşturmaların yasalara uygun bir şekilde yürütüldüğünü belirtti. Bu gelişmeler, ABD'deki üniversite kampüslerinde antisemitizmle mücadele ve ifade özgürlüğü tartışmalarının yoğunlaştığı bir döneme denk geliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-abduct-young-men-during-incursion-in-syria-s-daraa/4029152",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786954107470hv531",
-        "title": "Suriye'de bir kişinin gözaltında kötü muamele sonucu öldüğü iddiaları üzerine 7 kişi gözaltına alındı",
-        "summary": "Suriye'de, bir kişinin gözaltında kötü muamele sonucu hayatını kaybettiği yönündeki iddialar üzerine yedi kişi gözaltına alındı. Yetkililer, olayın kapsamlı bir şekilde soruşturulması amacıyla özel bir komite kurulduğunu duyurdu. Bu gelişme, ülkedeki gözaltı koşulları ve insan hakları durumuyla ilgili uluslararası endişeleri bir kez daha gündeme getirdi. Gözaltına alınan kişilerin kimlikleri ve soruşturmanın detayları hakkında henüz resmi bir açıklama yapılmadı. Kurulan komitenin, iddiaları aydınlatmak üzere çalışmalarına başladığı belirtildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38253345/pexels-photo-38253345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T08:08:27.470Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/7-detained-in-syria-over-reports-man-died-of-mistreatment-in-custody/4029130",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
