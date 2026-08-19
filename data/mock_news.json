@@ -1,5 +1,53 @@
 [
     {
+        "id": "178710260308073ok4",
+        "title": "ABD'nin İsrail Büyükelçisi, Yerleşimci Şiddetini 'Terör' Olarak Nitelendirdi",
+        "summary": "ABD'nin İsrail Büyükelçisi Mike Huckabee, işgal altındaki Batı Şeria'da İsrailli yerleşimciler tarafından gerçekleştirilen şiddet eylemlerini 'terör' olarak tanımladı. Bu açıklama, bölgedeki gerilimin arttığı ve uluslararası toplumun yerleşimci şiddetine yönelik endişelerinin yükseldiği bir dönemde geldi. Büyükelçinin bu ifadeleri, ABD'nin İsrail-Filistin çatışmasındaki tutumuna dair önemli bir sinyal olarak değerlendiriliyor. Söz konusu açıklamanın, bölgedeki taraflar arasında farklı tepkilere yol açması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T01:23:23.080Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787102640148xnnet",
+        "title": "Trump, İran ile Görüşmeleri Yalanladı; Tahran, ABD'nin Müzakere İçin 'Yalvardığını' Öne Sürdü",
+        "summary": "ABD Başkanı Donald Trump, İran ile herhangi bir görüşme planının olmadığını açıkladı. Bu açıklama, iki ülke arasındaki gerilimin yüksek olduğu bir dönemde geldi. İran Dışişleri Bakan Yardımcısı Abbas Arakçi ise ABD'nin müzakereler için 'yalvardığını' iddia etti. Arakçi, Washington'ın İran'a uyguladığı maksimum baskı politikasının başarısız olduğunu ve masaya dönmek istediğini öne sürdü. Bu karşılıklı açıklamalar, ABD ve İran arasındaki diplomatik anlaşmazlığın devam ettiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T01:24:00.148Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787102711590oj1p2",
+        "title": "Libya Başbakanı Dbeibah ve Devlet Konseyi Başkanı Siyasi Çıkmazı Aşma Yollarını Tartıştı",
+        "summary": "Libya Başbakanı Abdul Hamid Dbeibah ve Devlet Yüksek Konseyi Başkanı Mohamed Takala, ülkedeki siyasi çıkmazı aşmak amacıyla bir araya geldi. Görüşmede, siyasi sürecin ilerletilmesi ve devlet kurumları arasındaki koordinasyonun güçlendirilmesi konuları ele alındı. Liderler ayrıca, Libya'nın karşı karşıya olduğu elektrik krizi ve genel güvenlik durumunu da değerlendirdi. Bu görüşme, ülkedeki istikrarsızlığa çözüm bulma çabalarının bir parçası olarak öne çıkıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T01:25:11.590Z",
+        "location": {
+            "lat": 32.88,
+            "lng": 13.19,
+            "name": "Trablus, Libya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/libya-s-dbeibah-state-council-chief-discuss-ways-to-break-political-deadlock/4031152",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17870955585372ey1m",
         "title": "Kushner, Gazze Barış Planı İçin Netanyahu ile Görüştü",
         "summary": "Donald Trump'ın Orta Doğu elçisi ve damadı Jared Kushner, ABD destekli Gazze barış planına İsrail'in desteğini almak amacıyla diplomatik temaslarını sürdürüyor. Kushner, Hamas ile yapılan görüşmelerin ardından İsrail Başbakanı Binyamin Netanyahu ile bir araya geldi. Bu toplantıyı \"çok iyi\" olarak nitelendiren Kushner, bölgedeki barış çabalarını hızlandırmayı hedefliyor. Söz konusu plan, İsrail-Filistin çatışmasına çözüm bulma arayışının bir parçası olarak öne çıkıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1786966371408nisnd",
-        "title": "USS Abraham Lincoln Krizi: Uzun Süreli Görevlerin Mürettebat Morali ve Operasyonel Hazırlık Üzerindeki Etkisi",
-        "summary": "ABD Donanması'na ait uçak gemisi USS Abraham Lincoln'ün yaşadığı kriz, uzun süreli deniz görevlerinin mürettebatın morali ve operasyonel hazırlık üzerindeki olumsuz etkilerini gözler önüne serdi. Bu durum, gemi personelinin yıpranma düzeyini ve görev kabiliyetini doğrudan etkileyen önemli bir sorun olarak değerlendiriliyor. Geçmişteki uçak gemisi konuşlandırmalarıyla karşılaştırıldığında, mevcut durumun mürettebat üzerindeki baskının arttığına işaret ettiği belirtiliyor. Krizin, ABD'nin küresel askeri varlığı ve deniz gücünün sürdürülebilirliği açısından stratejik sonuçları olabileceği ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37873932/pexels-photo-37873932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T11:32:51.408Z",
-        "location": {
-            "lat": 26,
-            "lng": 52,
-            "name": "Basra Körfezi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786966391200ooacs",
-        "title": "Irak Kürt Bölgesel Yönetimi Başbakanı Barzani'nin Ofisi Drone Saldırısına Uğradı",
-        "summary": "Irak Kürt Bölgesel Yönetimi (IKBY) Başbakanı Mesrur Barzani'nin ofisi ve güvenlik şefinin konutu, patlayıcı yüklü insansız hava araçlarıyla hedef alındı. Yerel kaynaklardan edinilen bilgilere göre, saldırıda herhangi bir can kaybı veya yaralanma yaşanmadı. Olayın ardından bölgede güvenlik önlemleri artırılırken, saldırının sorumluluğunu henüz üstlenen olmadı. Bu gelişme, Irak'ın kuzeyindeki güvenlik durumuna ilişkin endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/724921/pexels-photo-724921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T11:33:11.200Z",
-        "location": {
-            "lat": 36.19,
-            "lng": 44,
-            "name": "Erbil, Irak"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1786957851603nnae7",
-        "title": "Husiler, Kızıldeniz'deki Mocha'ya 2 hipersonik balistik füze fırlattı: Yemen ordusu",
-        "summary": "Yemen ordusu tarafından yapılan açıklamaya göre, Husi güçleri Kızıldeniz kıyısındaki stratejik Mocha kentine doğru iki adet hipersonik balistik füze fırlattı. Bu füze saldırıları, Yemen'in uluslararası tanınmış hükümeti ile Husi grubu arasında süregelen askeri gerilimin bir parçası olarak kaydedildi. Mocha, Yemen'in batısında yer alan ve Kızıldeniz'deki deniz trafiği açısından önemli bir konumda bulunan bir liman şehridir. Olay, bölgedeki çatışmaların devam ettiğini ve deniz güvenliğine yönelik tehditlerin sürdüğünü bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334739/pexels-photo-31334739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T09:10:51.603Z",
-        "location": {
-            "lat": 13.3167,
-            "lng": 43.25,
-            "name": "Mocha, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/houthis-fire-2-hypersonic-ballistic-missiles-toward-mocha-red-sea-yemeni-army/4029299",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
