@@ -1,5 +1,21 @@
 [
     {
+        "id": "178715020363599tbz",
+        "title": "Gazze'ye Giren Yardımlar Neden İhtiyaç Sahiplerine Ulaşamayabilir?",
+        "summary": "Gazze'ye yönelik insani yardım sevkiyatında ciddi zorluklar yaşandığı bildirildi. Haberde, İsrail ablukası nedeniyle yardım tırlarının bölgeye girişinin son derece güç olduğu belirtiliyor. Ayrıca, tır şoförlerinin yardım depolarına ulaşmakta da büyük engellerle karşılaştığı ifade ediliyor. Bu durum, Gazze'deki ihtiyaç sahiplerine yardımların ulaştırılmasını sekteye uğratarak bölgedeki insani krizi derinleştiriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/31837694/pexels-photo-31837694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T14:36:43.635Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "17871472298898xj0n",
         "title": "Filistinli Gruplar Kasım Seçimleri İçin Geniş İttifak Arayışında",
         "summary": "Filistinli siyasi gruplar, yaklaşan Kasım seçimleri öncesinde geniş bir ittifak kurma olasılığını değerlendiriyor. Bu kapsamda, Hamas ve Fatah'tan ayrılan bir grup, mevcut Filistin Devlet Başkanı Mahmud Abbas'a karşı ortak bir seçim listesi oluşturmayı görüşüyor. Bu girişim, Filistin siyasetindeki dengelerin değiştiği bir dönemde gerçekleşiyor. Söz konusu ittifak arayışları, Filistin'deki siyasi rekabeti ve güç mücadelelerini derinleştirebilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1787038928819c0l1n",
-        "title": "İsrail'in Güney Lübnan'a Düzenlediği Saldırılarda 11 Kişi Hayatını Kaybetti",
-        "summary": "İsrail ordusu, Lübnan'ın güneyine düzenlediği hava saldırılarında Hizbullah'a ait \"terör altyapısını\" hedef aldığını duyurdu. Yetkililer, saldırılarda 11 kişinin hayatını kaybettiğini bildirdi. İsrail, bu operasyonun kendi askerlerine yönelik daha önceki eylemlere misilleme olarak gerçekleştirildiğini belirtti. Bölgedeki gerilim devam ederken, bu olay Orta Doğu'daki çatışma dinamiklerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5367625/pexels-photo-5367625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T07:42:08.819Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
