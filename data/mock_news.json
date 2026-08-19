@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787171546165ly1b3",
+        "title": "İsrail, Batı Şeria'da Hassas Bir Yerleşim Projesi İçin İhale Sürecini Başlattı",
+        "summary": "İsrail, uluslararası alanda büyük tartışmalara yol açan Batı Şeria'daki yeni bir yerleşim projesi için ihale sürecini başlattığını duyurdu. Söz konusu proje, Kudüs'ün doğusunda yer alacak ve işgal altındaki Batı Şeria'yı fiilen ikiye bölecek stratejik bir konumda bulunuyor. Bu tür yerleşim faaliyetleri, uluslararası hukuk tarafından yasa dışı kabul edilmekte ve Filistinliler ile İsrailliler arasındaki barış görüşmelerini baltaladığı gerekçesiyle uzun süredir uluslararası toplum tarafından kınanmaktadır. Projenin hayata geçirilmesi, bölgedeki gerilimi artırma potansiyeli taşıyor ve iki devletli çözüm umutlarını zayıflatıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12545527/pexels-photo-12545527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T20:32:26.165Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17871676742721mbc0",
         "title": "Suriye'de Beyaz Baretler Üyesi Ölümü Protestolara Neden Oldu",
         "summary": "Suriye'de Beyaz Baretler üyesi Mohammad Ghamira'nın iddia edilen bir polis dayağı sonucu hayatını kaybetmesi, ülke genelinde protestolara yol açtı. Olayın ardından, Ghamira'nın ölümüyle ilgili kapsamlı bir soruşturma başlatılması talepleri yükseldi. Sivil toplum kuruluşları ve yerel halk, sorumluların adalet önüne çıkarılmasını talep ederek güvenlik güçlerinin uygulamalarına dikkat çekti. Bu gelişme, Suriye'deki insan hakları durumu ve güvenlik güçlerinin yetki kullanımı konusundaki endişeleri yeniden gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Moskova, Rusya"
         },
         "source": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787042482802r8pt8",
-        "title": "Filistin haftalık: Uluslararası tepki Batı Şeria kuşatmasını kıramadı",
-        "summary": "Batı Şeria'da İsrailli yerleşimcilerin Filistinli evlerini kuşattığı bildirildi. Bu durum, bölgedeki gerilimi artırırken, uluslararası toplumdan gelen tepkilere rağmen kuşatmanın devam ettiği belirtildi. Öte yandan, Barış Kurulu'nun Gazze'deki silahsızlanma anlaşmasından geri adım attığı ifade edildi. Bu gelişmeler, Orta Doğu'daki barış çabalarını olumsuz etkileyebilir ve bölgedeki istikrarsızlığı derinleştirebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T08:41:22.803Z",
-        "location": {
-            "lat": 31.9038,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
