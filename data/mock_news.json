@@ -1,5 +1,53 @@
 [
     {
+        "id": "17871763821667madk",
+        "title": "İsrail'in Gazze Şehri Polis Merkezine Düzenlediği Saldırıda Kadın Polis Şefi Hayatını Kaybetti",
+        "summary": "İsrail'in Gazze Şehri'ndeki polis merkezine düzenlediği hava saldırısı, bölgede yeni bir gerilime yol açtı. Saldırıda, kadın polis şefi ve çok sayıda polis memuru hayatını kaybetti. Olay, Orta Doğu'daki mevcut çatışma ortamını daha da tırmandırabilecek nitelikte. Bölgedeki güvenlik kaynakları, saldırının ardından geniş çaplı soruşturma başlatıldığını duyurdu. Uluslararası toplumdan olaya ilişkin tepkilerin gelmesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28872506/pexels-photo-28872506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T21:53:02.166Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1787176403752oq98x",
+        "title": "Yerinden Edilmiş Lübnanlılar, Güney Lübnan'daki 'Pilot Bölgelerini' Uzaktan Takip Ediyor",
+        "summary": "İsrail'in güney Lübnan'a yönelik saldırıları devam ederken, bölgeden yerinden edilmiş Lübnanlılar evlerine dönemiyor. Al Jazeera muhabiri Ali Haşem, kendi memleketinin yakınlarında yaşanan İsrail saldırılarını uzaktan izlemek zorunda kaldığını belirtti. Yerinden edilmiş siviller, çatışmaların sürdüğü 'pilot bölgeler' olarak adlandırılan alanlardaki gelişmeleri çaresizlik içinde takip ediyor. Bölgedeki gerilim, Lübnanlıların güvenlik endişelerini artırırken, evlerine dönüş umutları da belirsizliğini koruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T21:53:23.752Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17871764577605jde1",
+        "title": "İsrail, Hind Rajab'ın öldürüldüğü araca askerlerin ateş ettiğini doğruladı ve cezai soruşturma başlattı",
+        "summary": "İsrail ordusu, beş yaşındaki Filistinli kız Hind Rajab'ın hayatını kaybettiği araca askerlerinin ateş açtığını doğruladı. Olayla ilgili olarak cezai soruşturma başlatıldığı açıklandı. Filistinli kızın saldırıdan ilk başta sağ kurtulduğu ve yardım çağrısında bulunduğu belirtilmişti. Ancak daha sonra, Rajab'ın cansız bedeni, altı akrabasınınkiyle birlikte olay yerinden çıkarıldı. Bu gelişme, uluslararası kamuoyunda geniş yankı uyandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38535525/pexels-photo-38535525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T21:54:17.760Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1787171546165ly1b3",
         "title": "İsrail, Batı Şeria'da Hassas Bir Yerleşim Projesi İçin İhale Sürecini Başlattı",
         "summary": "İsrail, uluslararası alanda büyük tartışmalara yol açan Batı Şeria'daki yeni bir yerleşim projesi için ihale sürecini başlattığını duyurdu. Söz konusu proje, Kudüs'ün doğusunda yer alacak ve işgal altındaki Batı Şeria'yı fiilen ikiye bölecek stratejik bir konumda bulunuyor. Bu tür yerleşim faaliyetleri, uluslararası hukuk tarafından yasa dışı kabul edilmekte ve Filistinliler ile İsrailliler arasındaki barış görüşmelerini baltaladığı gerekçesiyle uzun süredir uluslararası toplum tarafından kınanmaktadır. Projenin hayata geçirilmesi, bölgedeki gerilimi artırma potansiyeli taşıyor ve iki devletli çözüm umutlarını zayıflatıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1787045903939kmyix",
-        "title": "Husi İHA'ları Yemen'de Sivil Evleri Vurdu: 2 Çocuk Yaralandı",
-        "summary": "Yemen'in batısında Husi güçlerine ait insansız hava araçlarının sivil yerleşim yerlerini hedef aldığı bildirildi. Yerel medya kaynaklarına göre, Al-Hudaydah'ın güneyindeki Hays bölgesine düzenlenen saldırılarda iki çocuk yaralandı. Aynı saldırılarda çok sayıda çiftlik hayvanının da telef olduğu belirtildi. Olay, Yemen'deki çatışmaların sivil halk üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T09:38:23.939Z",
-        "location": {
-            "lat": 13.85,
-            "lng": 43.28,
-            "name": "Hays, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-children-injured-as-houthi-drones-hit-civilian-homes-in-western-yemen-media/4030242",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17870424172994yzil",
-        "title": "Salı Günkü Florida Ön Seçimlerinde Dikkat Edilmesi Gerekenler",
-        "summary": "Florida'da Salı günü yapılacak ön seçimler, ülke siyasetindeki önemli tartışma konularını yansıtıyor. Seçim kampanyalarında İslamofobi, antisemitizm ve eski Başkan Trump'ın politikaları gibi başlıklar öne çıkıyor. Özellikle İsrail'in Gazze'ye yönelik savaşı, adayların söylemlerinde ve seçmenlerin tercihlerinde belirleyici bir rol oynuyor. Bu durum, Orta Doğu'daki gelişmelerin ABD iç siyasetine doğrudan etkisini gözler önüne seriyor. Seçim sonuçlarının, bu hassas konuların eyalet düzeyindeki yansımalarını göstermesi bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5926409/pexels-photo-5926409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T08:40:17.299Z",
-        "location": {
-            "lat": 28,
-            "lng": -81.5,
-            "name": "Florida, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787042442760kwdxy",
-        "title": "Rus Ekonomist, Ukrayna Savaşı'nın Artan Maliyetleri Konusundaki Uyarıları Sonrası Görevden Alındı",
-        "summary": "Rusya'nın devlet kalkınma bankası VEB'in önde gelen ekonomistlerinden Andrey Klepach'ın görevinden alındığı bildirildi. Klepach'ın, Rusya'nın Ukrayna savaşının artan maliyetleri konusunda yaptığı uyarıların ardından bu kararın alındığı belirtildi. Ekonomistin ayrıca, Rusya'nın rakiplerinin gerisinde kaldığı yönünde değerlendirmelerde bulunduğu ifade edildi. Bu gelişme, Rusya'nın savaşın ekonomik etkileriyle ilgili iç tartışmalarını ve yönetimdeki hassasiyetleri gözler önüne serdi. Olay, Rusya'nın savaşın ekonomik yükünü yönetme çabaları ve muhalif seslere karşı tutumunu yansıtıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/5956549/pexels-photo-5956549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T08:40:42.760Z",
-        "location": {
-            "lat": 55.7558,
-            "lng": 37.6173,
-            "name": "Moskova, Rusya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
