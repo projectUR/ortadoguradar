@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787164772715x8n12",
+        "title": "NATO, İran'ın saldırı planları raporu ortasında müttefiklerini savunmaya 'hazır'",
+        "summary": "Kuzey Atlantik Antlaşması Örgütü (NATO), İran'ın Avrupa'daki ABD hedeflerine yönelik saldırıları değerlendirdiğine dair medya raporları üzerine açıklama yaptı. NATO yetkilileri, müttefiklerini savunmak için \"gerekeni yapmaya\" hazır olduklarını belirtti. Bu açıklama, İran'ın potansiyel askeri eylemlerine karşı bir uyarı niteliği taşıyor. Haber, bölgedeki gerilimin artabileceğine işaret ederken, NATO'nun caydırıcılık ve savunma kapasitesini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T18:39:32.715Z",
+        "location": {
+            "lat": 50.8503,
+            "lng": 4.3517,
+            "name": "Brüksel, Belçika"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787160513921qakin",
         "title": "Hamas, İsrail'in Gazze'de 10 Kişiyi Öldürmesini 'Yeni Bir Savaş Suçu' Olarak Kınadı",
         "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarında 10 Filistinlinin hayatını kaybettiği bildirildi. Saldırılarda polis karargahı ve bir mülteci kampı hedef alındı. Hamas, İsrail'in bu eylemlerini 'yeni bir savaş suçu' olarak nitelendirerek şiddetle kınadığını duyurdu. Bölgedeki gerilimin tırmandığı gözlemleniyor.",
@@ -780,22 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-s-parliament-speaker-set-to-visit-iraq-wednesday-for-talks-on-regional-developments/4030216",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787042531168b4cpm",
-        "title": "Yemen'deki Husiler, Suudi Arabistan'daki Aramco Rafinerisine İHA Saldırısı Düzenlediğini İddia Etti",
-        "summary": "Yemen'deki Husiler, Suudi Arabistan'ın güneybatısındaki Cizan kentinde bulunan Aramco rafinerisine insansız hava aracı (İHA) saldırısı düzenlediğini duyurdu. Husiler tarafından yapılan açıklamada, saldırının birden fazla İHA kullanılarak gerçekleştirildiği ve hedefin başarıyla vurulduğu belirtildi. Bu saldırı, Yemen'deki çatışmaların Suudi Arabistan topraklarına yansıması olarak değerlendiriliyor ve bölgedeki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/932577/pexels-photo-932577.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T08:42:11.168Z",
-        "location": {
-            "lat": 16.89,
-            "lng": 42.56,
-            "name": "Cizan, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-claim-drone-attack-on-aramco-refinery-in-saudi-arabia/4030210",
         "trendScore": 85,
         "isBreaking": false
     }
