@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787160513921qakin",
+        "title": "Hamas, İsrail'in Gazze'de 10 Kişiyi Öldürmesini 'Yeni Bir Savaş Suçu' Olarak Kınadı",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarında 10 Filistinlinin hayatını kaybettiği bildirildi. Saldırılarda polis karargahı ve bir mülteci kampı hedef alındı. Hamas, İsrail'in bu eylemlerini 'yeni bir savaş suçu' olarak nitelendirerek şiddetle kınadığını duyurdu. Bölgedeki gerilimin tırmandığı gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T17:28:33.921Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "178715020363599tbz",
         "title": "Gazze'ye Giren Yardımlar Neden İhtiyaç Sahiplerine Ulaşamayabilir?",
         "summary": "Gazze'ye yönelik insani yardım sevkiyatında ciddi zorluklar yaşandığı bildirildi. Haberde, İsrail ablukası nedeniyle yardım tırlarının bölgeye girişinin son derece güç olduğu belirtiliyor. Ayrıca, tır şoförlerinin yardım depolarına ulaşmakta da büyük engellerle karşılaştığı ifade ediliyor. Bu durum, Gazze'deki ihtiyaç sahiplerine yardımların ulaştırılmasını sekteye uğratarak bölgedeki insani krizi derinleştiriyor.",
@@ -780,22 +796,6 @@
             "name": "Cizan, Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-claim-drone-attack-on-aramco-refinery-in-saudi-arabia/4030210",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787038906618yr63f",
-        "title": "Trump: Kim Jong Un'dan Yanıt Geldi, Seul'ü İran Konusunda Eleştirdi",
-        "summary": "ABD Başkanı Donald Trump, Kuzey Kore lideri Kim Jong Un ile görüşme talebine yanıt geldiğini ve görüşmelerin \"olumlu\" bir aşamada olduğunu duyurdu. Trump, açıklamasında ayrıca Güney Kore'nin (Seul) İran'a karşı olası bir savaşa katılmayı reddetmesini sert bir dille eleştirdi. Bu eleştiri, Washington'ın Orta Doğu'daki müttefiklerinden beklentilerini ve bölgedeki güvenlik dinamiklerini gözler önüne serdi. Başkan'ın bu açıklamaları, ABD'nin hem Asya hem de Orta Doğu'daki dış politika önceliklerini ve müttefikleriyle ilişkilerindeki gerilimleri yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T07:41:46.618Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
