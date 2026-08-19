@@ -1,5 +1,21 @@
 [
     {
+        "id": "17871472298898xj0n",
+        "title": "Filistinli Gruplar Kasım Seçimleri İçin Geniş İttifak Arayışında",
+        "summary": "Filistinli siyasi gruplar, yaklaşan Kasım seçimleri öncesinde geniş bir ittifak kurma olasılığını değerlendiriyor. Bu kapsamda, Hamas ve Fatah'tan ayrılan bir grup, mevcut Filistin Devlet Başkanı Mahmud Abbas'a karşı ortak bir seçim listesi oluşturmayı görüşüyor. Bu girişim, Filistin siyasetindeki dengelerin değiştiği bir dönemde gerçekleşiyor. Söz konusu ittifak arayışları, Filistin'deki siyasi rekabeti ve güç mücadelelerini derinleştirebilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8849327/pexels-photo-8849327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T13:47:09.889Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2079,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787140440275dbjqz",
         "title": "Gazze'de Can Kaybı 73.400'ü Aştı: Son 24 Saatte 7 Filistinli Daha Hayatını Kaybetti",
         "summary": "Gazze Şeridi'nde devam eden İsrail saldırılarında son 24 saat içinde 7 Filistinlinin daha yaşamını yitirdiği bildirildi. Bölgedeki Sağlık Bakanlığı tarafından yapılan açıklamaya göre, aynı saldırılarda 23 kişi de yaralandı. Bu son kayıplarla birlikte Gazze'deki toplam can kaybının 73.400'ü geçtiği belirtildi. Bakanlık, İsrail'in bölge genelindeki ateşkes ihlallerinin sürdüğünü ve insani durumun kötüleşmeye devam ettiğini ifade etti.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1787038952660w8z0v",
-        "title": "Katar, savaş uçaklarını düşürmesinin ardından İranlı pilotları yakaladığı iddialarını reddetti",
-        "summary": "Katar, üç İranlı pilotu alıkoyduğu yönündeki iddiaları kesin bir dille yalanladı. Söz konusu iddialar, Katar'ın iki savaş uçağını düşürmesinin ardından ortaya çıkmıştı. İran, pilotların ABD-İran savaşı başladığından beri Katar tarafından tutulduğunu öne sürmüştü. Katar makamları, bu iddiaların gerçeği yansıtmadığını ve herhangi bir İranlı pilotu alıkoymadıklarını belirtti. Bu gelişme, bölgedeki gerilimin seyrini etkileyebilecek nitelikte değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31754249/pexels-photo-31754249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T07:42:32.660Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
