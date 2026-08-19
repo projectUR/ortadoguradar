@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787117560837081kv",
+        "title": "Eski ABD Yetkilisi, Suriye ile İlişkilerdeki Değişimi 'Gerçeküstü' Olarak Niteledi",
+        "summary": "Eski bir ABD Dışişleri Bakanlığı Suriye danışmanı, ABD'nin Suriye ile ilişkilerinde yaşanan iyileşmeyi 'gerçeküstü' olarak nitelendirdi. Al Jazeera'nin 'This is America' programına konuşan yetkili, bu diplomatik değişimin Washington'ın bölgeye yönelik yaklaşımında önemli bir dönüşüme işaret ettiğini belirtti. Bu açıklama, Suriye'deki mevcut siyasi durumu ve ABD'nin gelecekteki dış politika adımlarını yeniden gündeme getirdi. İlişkilerdeki bu kaymanın bölgesel dengeler ve uluslararası aktörler üzerindeki potansiyel etkileri yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T05:32:40.837Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787114406110za5xt",
         "title": "Bali'de Spor Salonu Sahibi, İsrailli Turistlere 'IDF Bağlantısı' Gerekçesiyle Hizmet Vermeyi Reddeti",
         "summary": "Endonezya'nın Bali adasında bir spor salonu sahibi, üç İsrailli turiste hizmet vermeyi reddettiğini sosyal medya üzerinden duyurdu. İşletme sahibi, bu kararına gerekçe olarak turistlerin \"İsrail Savunma Kuvvetleri (IDF) ile bağlantıları\" olduğunu iddia etti. Olay, İsrail vatandaşlarına yönelik uluslararası alanda yaşanan ayrımcılık vakalarına bir yenisini eklerken, siyasi gerilimlerin turizm ve bireysel hizmet sektörlerine yansımalarını gözler önüne serdi. Bu durum, Orta Doğu'daki çatışmaların küresel düzeydeki etkilerini ve farklı coğrafyalardaki toplumsal hassasiyetleri bir kez daha gündeme getirdi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/yemens-houthis-strike-saudi-naval-vessels-arms-depot-spokesman/4029666",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1786981903875mtac3",
-        "title": "Hak Grubu, FIFA'yı Infantino'nun Yeniden Adaylığını Engellemeye Çağırdı",
-        "summary": "Bir insan hakları grubu olan FairSquare, Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino'nun yeniden seçilme adaylığının engellenmesi çağrısında bulundu. Grup, FIFA tüzüğüne göre Infantino'nun görev süresi sınırlamaları nedeniyle tekrar aday olmaması gerektiğini savundu. FairSquare, FIFA'nın kendi kurallarına uyması ve başkanın görev süresi kısıtlamalarını ihlal etmemesi gerektiğini vurguladı. Bu çağrı, FIFA'nın yönetim şeffaflığı ve hesap verebilirliği konusunda tartışmaları yeniden alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/29920213/pexels-photo-29920213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T15:51:43.875Z",
-        "location": {
-            "lat": 47.3769,
-            "lng": 8.5417,
-            "name": "Zürih, İsviçre"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/17/rights-group-urges-fifa-to-block-infantino-re-election-bid-over-term-limits?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
