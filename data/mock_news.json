@@ -1,5 +1,21 @@
 [
     {
+        "id": "17871676742721mbc0",
+        "title": "Suriye'de Beyaz Baretler Üyesi Ölümü Protestolara Neden Oldu",
+        "summary": "Suriye'de Beyaz Baretler üyesi Mohammad Ghamira'nın iddia edilen bir polis dayağı sonucu hayatını kaybetmesi, ülke genelinde protestolara yol açtı. Olayın ardından, Ghamira'nın ölümüyle ilgili kapsamlı bir soruşturma başlatılması talepleri yükseldi. Sivil toplum kuruluşları ve yerel halk, sorumluların adalet önüne çıkarılmasını talep ederek güvenlik güçlerinin uygulamalarına dikkat çekti. Bu gelişme, Suriye'deki insan hakları durumu ve güvenlik güçlerinin yetki kullanımı konusundaki endişeleri yeniden gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11816765/pexels-photo-11816765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T19:27:54.272Z",
+        "location": {
+            "lat": 34.802075,
+            "lng": 38.996815,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787164772715x8n12",
         "title": "NATO, İran'ın saldırı planları raporu ortasında müttefiklerini savunmaya 'hazır'",
         "summary": "Kuzey Atlantik Antlaşması Örgütü (NATO), İran'ın Avrupa'daki ABD hedeflerine yönelik saldırıları değerlendirdiğine dair medya raporları üzerine açıklama yaptı. NATO yetkilileri, müttefiklerini savunmak için \"gerekeni yapmaya\" hazır olduklarını belirtti. Bu açıklama, İran'ın potansiyel askeri eylemlerine karşı bir uyarı niteliği taşıyor. Haber, bölgedeki gerilimin artabileceğine işaret ederken, NATO'nun caydırıcılık ve savunma kapasitesini vurguluyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787042508051db5t9",
-        "title": "İran Meclis Başkanı Bölgesel Gelişmeleri Görüşmek Üzere Irak'ı Ziyaret Edecek",
-        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf'ın Çarşamba günü Irak'ı ziyaret edeceği açıklandı. İran medyasına göre, Kalibaf'ın bu ziyareti sırasında bölgesel gelişmelerin yanı sıra ikili ilişkiler ele alınacak. Görüşmelerde sınır güvenliği ve terörle mücadele konularının da önemli bir yer tutması bekleniyor. Ayrıca, iki ülke arasındaki ekonomik işbirliğini artırma yollarının da müzakere edileceği belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T08:41:48.051Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-parliament-speaker-set-to-visit-iraq-wednesday-for-talks-on-regional-developments/4030216",
         "trendScore": 85,
         "isBreaking": false
     }
