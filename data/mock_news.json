@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787140440275dbjqz",
+        "title": "Gazze'de Can Kaybı 73.400'ü Aştı: Son 24 Saatte 7 Filistinli Daha Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde devam eden İsrail saldırılarında son 24 saat içinde 7 Filistinlinin daha yaşamını yitirdiği bildirildi. Bölgedeki Sağlık Bakanlığı tarafından yapılan açıklamaya göre, aynı saldırılarda 23 kişi de yaralandı. Bu son kayıplarla birlikte Gazze'deki toplam can kaybının 73.400'ü geçtiği belirtildi. Bakanlık, İsrail'in bölge genelindeki ateşkes ihlallerinin sürdüğünü ve insani durumun kötüleşmeye devam ettiğini ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T11:54:00.275Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/gaza-death-toll-tops-73-400-as-israeli-attacks-kill-7-more-palestinians-in-past-24-hours/4031527",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1787135546725kp9yk",
         "title": "Suriye Dışişleri Bakanı, Yaklaşık 20 Yıl Sonra İlk Kez Pakistan'ı Ziyaret Edecek",
         "summary": "Suriye'nin üst düzey diplomatı, yaklaşık yirmi yıl aradan sonra ilk kez Pakistan'ı ziyaret etmeye hazırlanıyor. Pakistan Dışişleri Bakanı Ishaq Dar, Suriyeli mevkidaşı Asaad Hassan Al-Shaibani'yi İslamabad'da ağırlayacak. Ziyaretin temel amacı, iki ülke arasındaki ikili ilişkileri güçlendirmek ve çeşitli alanlarda işbirliğini artırmak olarak belirtildi. Bu ziyaret, iki ülke arasındaki diplomatik ilişkilerde önemli bir adım olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Doha, Katar"
         },
         "source": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17870389762245gh8u",
-        "title": "Irak'ın Süleymaniye kentindeki yakıt tesisinde çıkan büyük yangında 30 kişi yaralandı",
-        "summary": "Irak'ın Süleymaniye kentinde bulunan bir yakıt tesisinde gece yarısından sonra büyük bir yangın çıktı. Yerel medya kaynaklarına göre, yüksek derecede yanıcı maddeler içeren tanklarda meydana gelen patlamaların ardından çıkan yangında 30 kişi yaralandı. Olay yerine çok sayıda itfaiye ve sağlık ekibi sevk edilirken, yaralılar çevredeki hastanelere kaldırıldı. Yangının çıkış nedeni henüz belirlenemezken, yetkililer olayla ilgili geniş çaplı bir soruşturma başlattı.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/4793456/pexels-photo-4793456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T07:42:56.224Z",
-        "location": {
-            "lat": 35.56,
-            "lng": 45.43,
-            "name": "Süleymaniye, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/30-injured-in-massive-fire-at-fuel-facility-in-iraq-s-sulaymaniyah/4030145",
         "trendScore": 85,
         "isBreaking": false
     }
