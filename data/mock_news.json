@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787107260266acnqo",
+        "title": "Suriye, yeni elektronik ödeme sisteminin kurulmasını onayladı",
+        "summary": "Suriye, ülkenin dijital ödeme altyapısını güçlendirmeyi hedefleyen yeni bir elektronik ödeme sisteminin kurulmasına onay verdi. Suriye Merkez Bankası tarafından yapılan açıklamaya göre, bu yeni çerçeve dijital ödeme seçeneklerini genişletecek. Sistem, nakit kullanımını tamamen ortadan kaldırmayacak ancak finansal teknoloji (fintech) sektörüne yeni yatırım fırsatları sunacak. Bu adımın, ülkedeki finansal işlemleri modernleştirmesi ve ekonomik aktiviteyi desteklemesi bekleniyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11316617/pexels-photo-11316617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T02:41:00.266Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-approves-creation-of-new-electronic-payment-system/4031157",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "178710260308073ok4",
         "title": "ABD'nin İsrail Büyükelçisi, Yerleşimci Şiddetini 'Terör' Olarak Nitelendirdi",
         "summary": "ABD'nin İsrail Büyükelçisi Mike Huckabee, işgal altındaki Batı Şeria'da İsrailli yerleşimciler tarafından gerçekleştirilen şiddet eylemlerini 'terör' olarak tanımladı. Bu açıklama, bölgedeki gerilimin arttığı ve uluslararası toplumun yerleşimci şiddetine yönelik endişelerinin yükseldiği bir dönemde geldi. Büyükelçinin bu ifadeleri, ABD'nin İsrail-Filistin çatışmasındaki tutumuna dair önemli bir sinyal olarak değerlendiriliyor. Söz konusu açıklamanın, bölgedeki taraflar arasında farklı tepkilere yol açması bekleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1786970991881uulgw",
-        "title": "İsrail'deki dini sağ, devleti içeriden dönüştürüyor",
-        "summary": "İsrail'de dini sağın, devletin iç yapısını dönüştürdüğü yönünde haberler geliyor. Ülke kurumlarında dini fundamentalizmin yükselişi gözlemleniyor. Bu durumun, vatandaşların özgürlüklerini kısıtladığı ve toplumsal eşitsizliği artırdığı belirtiliyor. Gelişmelerin, İsrail'in iç dinamikleri üzerinde önemli etkiler yaratabileceği değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5213913/pexels-photo-5213913.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T12:49:51.881Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
