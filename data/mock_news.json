@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787111368374t0o3y",
+        "title": "BAE, İddia Edilen Füze Saldırıları Nedeniyle İran'a Süresiz Ticaret Ambargosu Uyguladı",
+        "summary": "Birleşik Arap Emirlikleri (BAE), kendisine yönelik olduğu iddia edilen füze saldırıları gerekçesiyle İran'a süresiz ticaret ambargosu uygulama kararı aldı. BAE hükümeti, bu kararın bölgesel güvenliği sağlamak amacıyla alındığını belirtti. Ancak İran, BAE'ye herhangi bir füze saldırısı düzenlediği iddialarını kesin bir dille yalanladı. Tahran yönetimi, söz konusu olayın bir \"sahte bayrak operasyonu\" olabileceğini öne sürerek, saldırının arkasında başka güçlerin olabileceğine işaret etti. Bu gelişme, iki ülke arasındaki gerilimi daha da artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "",
+        "timestamp": "2026-08-19T03:49:28.374Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56,
+            "name": "Basra Körfezi, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "1787111394144vk5cy",
+        "title": "ABD, Uluslararası Ceza Mahkemesi Başkanı ve Başsavcısına Yaptırım Uyguladı",
+        "summary": "Amerika Birleşik Devletleri, Uluslararası Ceza Mahkemesi (UCM) Başkanı Tomoko Akane ve mahkemenin başsavcılarından Abdoulaye Seye'ye yaptırım kararı aldı. Bu karar, ABD'nin uluslararası yargı organlarıyla ilişkilerinde önemli bir gelişme olarak değerlendiriliyor. ABD, daha önce de UCM'nin bazı soruşturmalarına, özellikle Amerikan askerleri veya müttefiklerini hedef alabilecek davalara karşı çıkmıştı. Yaptırımların, mahkemenin küresel çaptaki operasyonları ve soruşturmaları üzerinde etkileri olabileceği belirtiliyor. Bu adım, Orta Doğu dahil olmak üzere çeşitli bölgelerdeki potansiyel davalar ve uluslararası hukuk süreçleri açısından da önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/241028/pexels-photo-241028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-19T03:49:54.144Z",
+        "location": {
+            "lat": 52.0787,
+            "lng": 4.2887,
+            "name": "Lahey, Hollanda"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787107260266acnqo",
         "title": "Suriye, yeni elektronik ödeme sisteminin kurulmasını onayladı",
         "summary": "Suriye, ülkenin dijital ödeme altyapısını güçlendirmeyi hedefleyen yeni bir elektronik ödeme sisteminin kurulmasına onay verdi. Suriye Merkez Bankası tarafından yapılan açıklamaya göre, bu yeni çerçeve dijital ödeme seçeneklerini genişletecek. Sistem, nakit kullanımını tamamen ortadan kaldırmayacak ancak finansal teknoloji (fintech) sektörüne yeni yatırım fırsatları sunacak. Bu adımın, ülkedeki finansal işlemleri modernleştirmesi ve ekonomik aktiviteyi desteklemesi bekleniyor.",
@@ -764,38 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17869740585975cex6",
-        "title": "ABD'nin Gazze Yol Haritası ve Kushner'ın Görüşmeleri",
-        "summary": "ABD Başkanı Donald Trump'ın damadı ve danışmanı Jared Kushner'ın, İsrail'in Trump yönetiminin sunduğu 15 maddelik Gazze yol haritasını reddetmesinin ardından İsrail Başbakanı Binyamin Netanyahu ile bir araya geleceği bildirildi. Kushner'ın daha önce Hamas liderleriyle de görüştüğü belirtilirken, bu diplomatik temasların Trump'ın Orta Doğu barış planının Gazze ayağı üzerindeki etkileri yakından takip ediliyor. Görüşmelerin, bölgedeki siyasi dinamikleri ve barış sürecinin geleceğini şekillendirmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T13:40:58.597Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17869709522023afge",
-        "title": "Trump, Güney Kore ile Ortak Askeri Tatbikatları Azalttı",
-        "summary": "ABD Başkanı Donald Trump'ın Güney Kore ile yapılan ortak askeri tatbikatların kapsamını daralttığı bildirildi. Bu kararın temel gerekçeleri arasında, Seul yönetiminin ABD'nin İran'a karşı olası bir savaşına destek verme konusundaki isteksizliği gösterildi. Ayrıca, Başkan Trump'ın Kuzey Kore lideriyle kurduğu sıcak ilişkilerin de bu adımda etkili olduğu belirtildi. Kararın, ABD'nin Asya ve Orta Doğu politikaları üzerindeki yansımaları merak ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/231013/pexels-photo-231013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-17T12:49:12.202Z",
-        "location": {
-            "lat": 37.5665,
-            "lng": 126.978,
-            "name": "Seul, Güney Kore"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
