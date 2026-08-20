@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787225357841uts6v",
+        "title": "Suriye'den 'Türk askeri varlığı kurma planı yok' açıklaması",
+        "summary": "Suriye Dışişleri Bakanı, verdiği bir röportajda, ülkesinde Türk askeri varlığı kurma yönünde herhangi bir planın bulunmadığını ifade etti. Bakan, Türk askeri yetkililerinin bir hava üssünü eğitim faaliyetleri kapsamında ziyaret ettiğini belirtti. Bu ziyaretin, kalıcı bir askeri varlık oluşturma amacı taşımadığının altı çizildi. Açıklama, iki ülke arasındaki ilişkiler ve bölgesel güvenlik dinamikleri açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5323838/pexels-photo-5323838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T11:29:17.841Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787222032634a3722",
         "title": "İnsan Hakları İzleme Örgütü: İsrailli İşgalciler 2023'ten Bu Yana Batı Şeria'da Filistinlilere Saldırdı",
         "summary": "İnsan Hakları İzleme Örgütü (Human Rights Watch), İsrailli işgalcilerin 2023 yılından bu yana Batı Şeria'daki 107 Filistinli yerleşim biriminden yerinden edilmiş Filistinlilere yönelik saldırılar düzenlediğini rapor etti. Örgüt, işgalci şiddetinin özellikle Mart ve Nisan aylarında tırmandığını vurguladı. Birleşmiş Milletler'in de bölgedeki saldırı oranlarında rekor bir artış kaydettiği belirtildi. Bu gelişmeler, Batı Şeria'daki insan hakları durumu ve yerinden edilmiş toplulukların güvenliğine ilişkin ciddi endişeleri gündeme getiriyor.",
@@ -780,22 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178712530199368x82",
-        "title": "Pakistan'dan İsrail'in Suriye Saldırılarına Sert Kınama",
-        "summary": "Pakistan, İsrail'in Suriye'ye yönelik gerçekleştirdiği saldırıları şiddetle kınadığını duyurdu. İslamabad yönetimi, uluslararası toplumu İsrail'in bölgedeki istikrarsızlaştırıcı eylemlerinden sorumlu tutmaya çağırdı. Yapılan açıklamada, İsrail'in bu tür saldırılarının bölgesel barış ve güvenliği tehdit ettiği vurgulandı. Pakistan, uluslararası hukukun ihlal edildiğini belirterek, bu eylemlerin durdurulması ve sorumluların hesap vermesi gerektiğini ifade etti. Bu çağrı, Orta Doğu'daki gerilimin artması endişeleriyle birlikte geldi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T07:41:41.993Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-strongly-condemns-israeli-attacks-on-syria/4031275",
         "trendScore": 80,
         "isBreaking": false
     }
