@@ -1,5 +1,69 @@
 [
     {
+        "id": "1787211790289v1e20",
+        "title": "Sudan'ın Kordofan Bölgesi'nde Çatışmalar Şiddetlenirken 200.000'den Fazla Kişi Yerinden Edildi",
+        "summary": "Birleşmiş Milletler, Sudan'ın Kordofan bölgesinde devam eden çatışmalar nedeniyle artan yerinden edilme vakalarına ilişkin uyarıda bulundu. Bölgede şiddetin tırmanmasıyla birlikte 200.000'den fazla kişinin yeni yerinden edildiği bildirildi. Özellikle El Obeid şehrinde elektrik ve su altyapısının hedef alınması, insani durumu daha da kötüleştiriyor. BM, sivillerin korunması ve temel hizmetlere erişimin sağlanması çağrısında bulunarak, bölgedeki insani krizin derinleştiğine dikkat çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/26975401/pexels-photo-26975401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T07:43:10.289Z",
+        "location": {
+            "lat": 13.18,
+            "lng": 30.22,
+            "name": "El Obeid, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1787211847652o1ik6",
+        "title": "Avustralya, İsrail'in Gazze'deki yardım görevlisinin ölümüyle ilgili cezai soruşturma açmama kararına tepkili",
+        "summary": "İsrail, Gazze'de hayatını kaybeden Avustralyalı yardım görevlisi Zomi Frankcom'un ölümüyle ilgili cezai soruşturma açmama kararı aldı. Bu karar, Avustralya hükümetinin sert tepkisine yol açtı. Avustralya Dışişleri Bakanı, İsrail'in bu kararını \"aşağılayıcı\" olarak nitelendirerek İsrail Büyükelçisi'ni bakanlığa çağırdı. Canberra, olayın tam ve şeffaf bir şekilde soruşturulması yönündeki talebini yineledi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T07:44:07.652Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787211879843wundt",
+        "title": "İran Dışişleri Bakanı: ABD'nin 'Ekonomik Çıkarma Günü' Washington'a 'Daha Fazla Yenilgi' Getirecek",
+        "summary": "İran Dışişleri Bakanı, ABD'nin yeni ekonomik kampanyasının Washington'a 'daha fazla yenilgi' getireceğini belirtti. Bakan, ABD'nin bu ekonomik hamlesinin, ülkenin artan borçları ve yükselen faiz maliyetlerinden dikkatleri başka yöne çekme amacı taşıdığını öne sürdü. Bu açıklama, ABD'nin İran'a yönelik ekonomik baskılarını artırma çabalarına karşı Tahran'ın sert duruşunu ve diplomatik tepkisini yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8850749/pexels-photo-8850749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T07:44:39.843Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-foreign-minister-says-trump-s-economic-d-day-will-bring-us-further-defeat-/4032351",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787211902373xvk0m",
+        "title": "İsrail Savaş Uçakları Güney Lübnan'a Gece Saldırıları Düzenledi",
+        "summary": "İsrail savaş uçakları, gece saatlerinde güney Lübnan'a hava saldırıları gerçekleştirdi. Lübnan devlet medyası, saldırıların yanı sıra bölgenin çeşitli yerlerinde topçu ateşi ve patlamaların da meydana geldiğini bildirdi. Bu askeri eylemlerin hedefi ve yol açtığı hasara ilişkin detaylar henüz netleşmedi. Olay, İsrail ile Lübnan arasındaki gerilimi daha da tırmandırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37411527/pexels-photo-37411527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T07:45:02.373Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.3,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-warplanes-launch-overnight-strikes-on-southern-lebanon/4032335",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1787208637545b8ws7",
         "title": "Avustralya'dan İsrail'e World Central Kitchen Davası Tepkisi",
         "summary": "Avustralya hükümeti, İsrail'in Gazze'de yedi yardım görevlisinin ölümüyle sonuçlanan World Central Kitchen (WCK) saldırısı davasında cezai kovuşturma başlatmama kararına sert tepki gösterdi. Canberra yönetimi, İsrail'in Avustralya Büyükelçisi'ni Dışişleri Bakanlığı'na çağırarak duyduğu derin öfkeyi dile getirdi. Avustralya Dışişleri Bakanı Penny Wong, İsrail'in soruşturma sürecini ve vardığı sonuçları \"yetersiz\" bulduklarını ifade etti. Bu diplomatik gerilim, Nisan ayında aralarında bir Avustralya vatandaşının da bulunduğu WCK çalışanlarının hayatını kaybetmesiyle başlayan olayın ardından yaşandı.",
@@ -732,70 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787102640148xnnet",
-        "title": "Trump, İran ile Görüşmeleri Yalanladı; Tahran, ABD'nin Müzakere İçin 'Yalvardığını' Öne Sürdü",
-        "summary": "ABD Başkanı Donald Trump, İran ile herhangi bir görüşme planının olmadığını açıkladı. Bu açıklama, iki ülke arasındaki gerilimin yüksek olduğu bir dönemde geldi. İran Dışişleri Bakan Yardımcısı Abbas Arakçi ise ABD'nin müzakereler için 'yalvardığını' iddia etti. Arakçi, Washington'ın İran'a uyguladığı maksimum baskı politikasının başarısız olduğunu ve masaya dönmek istediğini öne sürdü. Bu karşılıklı açıklamalar, ABD ve İran arasındaki diplomatik anlaşmazlığın devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T01:24:00.148Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787102711590oj1p2",
-        "title": "Libya Başbakanı Dbeibah ve Devlet Konseyi Başkanı Siyasi Çıkmazı Aşma Yollarını Tartıştı",
-        "summary": "Libya Başbakanı Abdul Hamid Dbeibah ve Devlet Yüksek Konseyi Başkanı Mohamed Takala, ülkedeki siyasi çıkmazı aşmak amacıyla bir araya geldi. Görüşmede, siyasi sürecin ilerletilmesi ve devlet kurumları arasındaki koordinasyonun güçlendirilmesi konuları ele alındı. Liderler ayrıca, Libya'nın karşı karşıya olduğu elektrik krizi ve genel güvenlik durumunu da değerlendirdi. Bu görüşme, ülkedeki istikrarsızlığa çözüm bulma çabalarının bir parçası olarak öne çıkıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T01:25:11.590Z",
-        "location": {
-            "lat": 32.88,
-            "lng": 13.19,
-            "name": "Trablus, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/libya-s-dbeibah-state-council-chief-discuss-ways-to-break-political-deadlock/4031152",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17870955585372ey1m",
-        "title": "Kushner, Gazze Barış Planı İçin Netanyahu ile Görüştü",
-        "summary": "Donald Trump'ın Orta Doğu elçisi ve damadı Jared Kushner, ABD destekli Gazze barış planına İsrail'in desteğini almak amacıyla diplomatik temaslarını sürdürüyor. Kushner, Hamas ile yapılan görüşmelerin ardından İsrail Başbakanı Binyamin Netanyahu ile bir araya geldi. Bu toplantıyı \"çok iyi\" olarak nitelendiren Kushner, bölgedeki barış çabalarını hızlandırmayı hedefliyor. Söz konusu plan, İsrail-Filistin çatışmasına çözüm bulma arayışının bir parçası olarak öne çıkıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10182877/pexels-photo-10182877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T23:25:58.537Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787095598216g2f8k",
-        "title": "Yemen Açıklarında Kargo Gemisi Hedef Alındı: UKMTO",
-        "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), Yemen'in batı kıyısı açıklarında bir kargo gemisinin çok sayıda mermiyle hedef alındığını duyurdu. Yapılan açıklamada, insansız olduğu belirtilen geminin \"tamamen yapıcı bir kayıp\" olarak değerlendirilen ciddi hasar aldığı belirtildi. Olayın ardından yetkililer tarafından geniş çaplı bir soruşturma başlatıldı. Bu gelişme, Kızıldeniz ve çevresindeki denizcilik güvenliğine yönelik devam eden tehditleri bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20220588/pexels-photo-20220588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T23:26:38.216Z",
-        "location": {
-            "lat": 14.8,
-            "lng": 42.95,
-            "name": "Hodeidah, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/cargo-ship-hit-by-multiple-projectiles-off-yemen-s-west-coast-ukmto/4031125",
         "trendScore": 85,
         "isBreaking": false
     }
