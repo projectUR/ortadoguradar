@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787268501648ech8e",
+        "title": "Savaşın Harap Ettiği Suriye'de Aile Evlerini Yeniden İnşa Etmenin Maliyeti",
+        "summary": "Suriye'de yıllarca süren çatışmaların ardından ailelerin evlerini yeniden inşa etme maliyeti ve karşılaştıkları zorluklar gündemde. Al Jazeera muhabiri Hannah Raslan'ın Suriye'den bildirdiğine göre, savaşın harap ettiği bölgelerde aileler için yeniden yapılanma süreci büyük bir yük oluşturuyor. Haber, savaş sonrası toparlanma sürecinde sivil halkın karşılaştığı ekonomik ve sosyal engelleri ele alıyor. Bu durum, çatışmaların uzun vadeli insani etkilerini ve ailelerin normal yaşama dönme çabalarını gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8488031/pexels-photo-8488031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T23:28:21.648Z",
+        "location": {
+            "lat": 34.8,
+            "lng": 36.8,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787263115087ac4hw",
         "title": "Umman ve Japonya, bölgesel gerilimler ortasında diplomasi ve deniz güvenliğine vurgu yaptı",
         "summary": "Umman ve Japonya dışişleri bakanları, bölgesel gerilimlerin sürdüğü bir dönemde Umman'ın başkenti Maskat'ta bir araya geldi. Görüşmelerde iki ülke arasındaki işbirliğinin çeşitli alanları ele alındı. Bakanlar, enerji, savunma, eğitim, turizm ve temiz teknolojiler gibi konularda işbirliğini artırma yollarını değerlendirdi. Ayrıca, bölgesel istikrarın sağlanması amacıyla diplomasi ve deniz güvenliğinin önemine vurgu yapıldı. Bu görüşmelerin, iki ülke arasındaki stratejik ortaklığı güçlendirmesi bekleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/gaza-death-toll-tops-73-400-as-israeli-attacks-kill-7-more-palestinians-in-past-24-hours/4031527",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1787135546725kp9yk",
-        "title": "Suriye Dışişleri Bakanı, Yaklaşık 20 Yıl Sonra İlk Kez Pakistan'ı Ziyaret Edecek",
-        "summary": "Suriye'nin üst düzey diplomatı, yaklaşık yirmi yıl aradan sonra ilk kez Pakistan'ı ziyaret etmeye hazırlanıyor. Pakistan Dışişleri Bakanı Ishaq Dar, Suriyeli mevkidaşı Asaad Hassan Al-Shaibani'yi İslamabad'da ağırlayacak. Ziyaretin temel amacı, iki ülke arasındaki ikili ilişkileri güçlendirmek ve çeşitli alanlarda işbirliğini artırmak olarak belirtildi. Bu ziyaret, iki ülke arasındaki diplomatik ilişkilerde önemli bir adım olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8190804/pexels-photo-8190804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T10:32:26.725Z",
-        "location": {
-            "lat": 33.7,
-            "lng": 73,
-            "name": "İslamabad, Pakistan"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/syrian-top-diplomat-set-to-visit-pakistan-in-1st-such-trip-in-nearly-2-decades/4031529",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
