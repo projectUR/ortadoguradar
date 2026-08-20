@@ -1,5 +1,53 @@
 [
     {
+        "id": "1787243867876jxrij",
+        "title": "Suudi Arabistan'ın Sudan'a Yönelik Güvenlik Yaklaşımı: Kızıldeniz'in Ötesinde Birlik ve İstikrar",
+        "summary": "Riyad yönetimi, Sudan'ın birliğini ve istikrarını kendi Kızıldeniz güvenliğinden ayrılmaz bir parça olarak görmektedir. Suudi Arabistan, Sudan'daki iç gelişmelerin kendi ulusal güvenliği üzerinde doğrudan etkileri olduğuna inanmaktadır. Bu yaklaşım, iki ülke arasındaki coğrafi yakınlık ve Kızıldeniz'in stratejik öneminden kaynaklanmaktadır. Riyad, Sudan'ın istikrarının bölgesel güvenliğe katkı sağlayacağını ve bu nedenle Sudan'daki durumu yakından takip ettiğini vurgulamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30692441/pexels-photo-30692441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T16:37:47.876Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787243904580g009k",
+        "title": "Yemen Açıklarında Tanker Korsanlarca Ele Geçirildi, Somali Korsanlığı Yeniden Yükselişte",
+        "summary": "Birleşik Krallık deniz güvenliği izleme kuruluşu, Seamull adlı bir tankerin Yemen açıklarında silahlı kişilerce ele geçirilerek Somali'ye doğru yönlendirildiğini bildirdi. Bu olay, Aden Körfezi'nde son dönemde artış gösteren korsanlık faaliyetleri dalgasının bir parçası olarak kaydedildi. Bölgedeki deniz güvenliği endişeleri yeniden gündeme geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964373/pexels-photo-6964373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T16:38:24.580Z",
+        "location": {
+            "lat": 12.5,
+            "lng": 47.5,
+            "name": "Aden Körfezi, Yemen Açıkları"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787243961306qzyfw",
+        "title": "Gönüllü Geri Dönüş Programı Kapsamında 870 Sudanlı Mısır'dan Ülkesine Döndü",
+        "summary": "Gönüllü geri dönüş programı kapsamında 870 Sudanlı vatandaş, Mısır'dan ülkelerine geri döndü. Bu program, 2023 yılında Sudan'da patlak veren savaş nedeniyle Mısır'a sığınan Sudanlıları hedef alıyor. Savaşın başlamasından bu yana 1.2 milyondan fazla Sudanlı komşu Mısır'a kaçarak bölgedeki en büyük sığınmacı akınlarından birini oluşturmuştu. Mısır, Sudan'daki çatışmalardan etkilenen önemli bir sığınmacı ülkesi konumunda bulunurken, bu geri dönüşler insani hareketliliğin devam ettiğini gösteriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5339770/pexels-photo-5339770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T16:39:21.306Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/870-sudanese-nationals-leave-egypt-for-home-under-voluntary-return-program/4033165",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787236810560yhgmr",
         "title": "UNIFIL, Lübnan'ın Güneyindeki Bir Mevziyi Lübnan Ordusu'na Devretti",
         "summary": "Birleşmiş Milletler Geçici Barış Gücü (UNIFIL), Lübnan'ın güneyinde bulunan bir mevziyi Lübnan ordusuna devrettiğini duyurdu. Bu devir teslim, UNIFIL'in bölgedeki uzun süredir elinde tuttuğu mevzileri Lübnan ordusunun kontrolüne aktarma yönündeki daha kapsamlı bir planın parçası olarak gerçekleştirildi. Söz konusu adım, Lübnan'ın egemenliğini güçlendirmeyi ve ülkenin güneyindeki güvenlik sorumluluğunu kademeli olarak Lübnan ordusuna devretmeyi amaçlıyor. Bu tür operasyonel değişiklikler, UNIFIL'in misyonunun evrimi ve bölgedeki güvenlik dinamiklerinin değişimi açısından önem taşıyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/uae-denies-providing-financial-facilities-to-iran-after-suspending-trade/4031435",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787132330236w97xs",
-        "title": "İsrail Savaş Uçakları Ateşkesi İhlal Ederek Güney Lübnan'da Bir Evi Hedef Aldı",
-        "summary": "İsrail savaş uçaklarının, ateşkes anlaşmasına rağmen Lübnan'ın güneyinde bir evi hedef aldığı bildirildi. Lübnan resmi haber ajansına göre, saldırı gece saatlerinde ülkenin güneyindeki bir kasabanın Al-Deir mahallesinde gerçekleşti. Hedef alınan yapının bir yerleşim yeri olduğu belirtilirken, saldırının detayları ve olası can kaybı veya yaralanma hakkında henüz net bir açıklama yapılmadı. Bu olay, bölgedeki kırılgan ateşkesin ihlal edildiği yönündeki endişeleri artırarak gerilimi tırmandırma potansiyeli taşıyor. İsrail'den konuya ilişkin henüz resmi bir açıklama gelmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T09:38:50.236Z",
-        "location": {
-            "lat": 33.2,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-warplanes-target-home-in-southern-lebanon-despite-ceasefire-/4031424",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787132351637gi4q5",
-        "title": "İsrail, İşgal Altındaki Batı Şeria'da Bir Gazeteci Dahil 22 Filistinliyi Gözaltına Aldı",
-        "summary": "İsrail güçleri, işgal altındaki Batı Şeria genelinde düzenlediği askeri baskınlar ve akınlar sırasında operasyonlar gerçekleştirdi. Filistin Esirler Cemiyeti'nden yapılan açıklamaya göre, bu operasyonlar neticesinde toplam 22 Filistinli gözaltına alındı. Gözaltına alınanlar arasında bir gazetecinin de bulunduğu belirtildi. Olay, bölgedeki gerilimi artırabilecek nitelikte olup, İsrail'in işgal altındaki topraklardaki güvenlik operasyonlarının devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7714862/pexels-photo-7714862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T09:39:11.637Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.21,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-arrests-22-palestinians-in-occupied-west-bank-including-journalist/4031386",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787132379438h044h",
-        "title": "İran, savaşın tırmanması halinde Avrupa'daki ABD askeri hedeflerine saldırı olasılığını değerlendiriyor: Rapor",
-        "summary": "Financial Times gazetesinin haberine göre, İran, olası bir savaşın tırmanması durumunda Avrupa'daki ABD askeri hedeflerine yönelik saldırı seçeneklerini değerlendiriyor. Tahran yönetiminin, yenilenen bir çatışmaya karşı hazırlıklar yaptığı belirtildi. Haberde, İran güçlerinin bu kapsamda Güneydoğu Avrupa'daki potansiyel hedefleri incelediği iddia edildi. Bu değerlendirmelerin, bölgedeki gerilimin artması halinde atılabilecek adımların bir parçası olduğu ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1214270/pexels-photo-1214270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T09:39:39.438Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/europe/iran-weighs-strikes-on-us-military-targets-in-europe-if-war-escalates-report/4031378",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
