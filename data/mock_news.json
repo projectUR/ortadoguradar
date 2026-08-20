@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787197735026sp7hn",
+        "title": "Rus Saldırısı Kiev'de 3 Can Aldı, Zelenskiy İç Baskıyla Karşı Karşıya",
+        "summary": "Ukrayna'nın başkenti Kiev'e düzenlenen Rus saldırısında üç kişi hayatını kaybetti. Ukraynalı yetkililer, saldırıda yaralanan 20 kişiden en az 14'ünün hastaneye kaldırıldığını bildirdi. Bu olay, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin ülke içinde artan baskılarla karşı karşıya olduğu bir döneme denk geldi. Rusya'nın Ukrayna'ya yönelik saldırıları devam ederken, başkentteki bu son olay ülkedeki gerilimi daha da tırmandırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T03:48:55.026Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17871977922595pete",
+        "title": "İsrail Ordusu ve Yerleşimciler Arasında Filistin Gerçekliğini Yeniden Şekillendirme İddiası",
+        "summary": "Qusra Belediye Başkanı, İsrail ordusu ile yerleşimciler arasında Filistin gerçekliğini yeniden şekillendirmeyi amaçlayan bir işbirliği olduğunu iddia etti. Belediye başkanı, Qusra kasabasına yönelik İsrail saldırılarının 2011 yılına dayandığını belirtti. Mevcut gerilimin, işgal altındaki Batı Şeria'da 'pastoral yerleşim' olarak adlandırılan daha geniş bir değişimin yansıması olduğu ifade edildi. Bu durum, bölgedeki yerleşim politikalarının ve Filistinliler üzerindeki etkilerinin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T03:49:52.259Z",
+        "location": {
+            "lat": 32.05,
+            "lng": 35.3,
+            "name": "Qusra, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/collusion-between-israeli-army-occupiers-seeks-to-reshape-palestinian-reality/4032271",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787193523501pkwcf",
         "title": "Güney Kore'de Alarm: Trump'ın İran Anlaşmazlığı 72 Yıllık İttifakı Sarsıyor",
         "summary": "ABD Başkanı Trump'ın askeri tatbikatları azaltma kararı, Güney Kore'nin başkenti Seul'de ciddi endişelere neden oldu. Bu gelişme, ABD'nin Güney Kore'ye yönelik güvenlik garantileri hakkındaki şüpheleri yeniden canlandırdı. Haber, Trump yönetiminin İran ile yaşadığı anlaşmazlığın, ABD'nin 72 yıllık müttefiki Güney Kore ile olan ilişkilerini olumsuz etkilediğine dikkat çekiyor. Seul, Washington'ın bölgedeki taahhütleri ve ittifakın geleceği konusunda belirsizliklerle karşı karşıya kalmış durumda.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787071019347xwyq3",
-        "title": "Batı Şeria'da İsrailli İşgalcilerin Şiddetinde Artış Yaşanırken 6 Filistinli Yaralandı",
-        "summary": "Batı Şeria'da yaşanan son olaylarda 6 Filistinlinin yaralandığı bildirildi. Haber, bölgede İsrailli işgalciler tarafından uygulanan şiddet olaylarında belirgin bir artış yaşandığına dikkat çekiyor. Birleşmiş Milletler (BM) kısa süre önce yaptığı uyarıda, İsrailli işgalcilerin Batı Şeria'daki şiddet eylemlerinin daha önce görülmemiş seviyelere ulaştığını belirtmişti. Bu durum, bölgedeki gerilimin tırmandığını ve insani durumun kötüleştiğini gözler önüne seriyor. Uluslararası toplum, bölgedeki şiddetin durdurulması ve sivillerin korunması yönündeki çağrılarını sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6563988/pexels-photo-6563988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T16:36:59.347Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/6-palestinians-injured-in-west-bank-amid-uptick-in-violence-by-israeli-occupiers/4030833",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787063764660gxj0s",
-        "title": "Gazze Çalışma Grupları ve Yetki Alanları Hakkında Bilinmesi Gerekenler",
-        "summary": "Gazze Şeridi'nde yeni çalışma gruplarının oluşturulduğu ve bu grupların yetki alanlarının belirlendiği bildirildi. Söz konusu çalışma gruplarının, Gazze'nin yeniden inşasını acil silahsızlanma şartına bağladığı belirtiliyor. Bu durum, bölgedeki güvenlik ve istikrar arayışlarında yeni bir yaklaşımı işaret ediyor. Grupların görevi, Gazze'nin geleceğine yönelik diplomatik çabaların bir parçası olarak değerlendiriliyor ve bölgedeki aktörler arasında önemli müzakerelerin yürütüleceği öngörülüyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T14:36:04.660Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
