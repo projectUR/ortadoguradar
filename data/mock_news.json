@@ -1,5 +1,21 @@
 [
     {
+        "id": "17872338898197qejc",
+        "title": "Lübnan, Esad Subayını Savaş Suçları İddialarıyla Suriye'ye İade Etti",
+        "summary": "Lübnan, eski General Adel Issa'yı savaş suçları iddialarıyla Suriye'ye iade etti. Bu olay, bir Esad subayının savaş suçları suçlamasıyla Suriye'ye iade edildiği ilk vaka olarak kayıtlara geçti. Suriye'nin, eski rejimin aranan üyelerinin peşine düşme çabalarını artırdığı bir dönemde gerçekleşen bu iade, bölgesel ilişkilerde ve adalet arayışında önemli bir adım olarak değerlendiriliyor. İade edilen generalin, Suriye'deki iç savaş sırasında işlendiği iddia edilen suçlarla ilgili yargılanması bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11816420/pexels-photo-11816420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T13:51:29.819Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787226945197nkb24",
         "title": "PSG, Fransa'daki sıcak hava dalgası nedeniyle açılış lig maçını erteledi",
         "summary": "Fransa'da etkili olan sıcak hava dalgası, Paris Saint-Germain'in (PSG) iç saha maçlarına ev sahipliği yapan Parc des Princes Stadyumu'nun zemininde hasara yol açtı. Bu durum üzerine kulüp, ligin açılış maçını erteleme kararı aldı. PSG, ligdeki ilk karşılaşmasını Parc des Princes yerine Rennes'te oynayacak. Bu değişiklik, sıcak hava koşullarının spor etkinlikleri üzerindeki olumsuz etkilerini bir kez daha gözler önüne serdi.",
@@ -780,22 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787128869066a6tjn",
-        "title": "İranlı Milletvekili: ABD Nükleer Silah Kullanırsa Tahran Misilleme Yapar",
-        "summary": "İran Ulusal Güvenlik ve Dış Politika Komisyonu üyesi bir milletvekili, ABD'nin İran'a yönelik olası bir nükleer saldırısı hakkındaki medya iddialarına ilişkin açıklamalarda bulundu. Milletvekili, böyle bir durumda Tahran'ın misilleme yapacağını belirtti. Bu açıklama, İran'ın savunma kapasitesi ve ABD'den gelebilecek dış tehditlere karşı potansiyel tepkileri konusundaki kararlı duruşunu yansıtıyor. Söz konusu ifade, iki ülke arasındaki devam eden gerilimleri ve bölgesel güvenlik bağlamındaki stratejik değerlendirmeleri vurgulamaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12276056/pexels-photo-12276056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T08:41:09.066Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-lawmaker-says-tehran-would-respond-in-kind-if-us-used-nuclear-weapon/4031290",
         "trendScore": 85,
         "isBreaking": false
     }
