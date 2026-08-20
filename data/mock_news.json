@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787270009215pq2lw",
+        "title": "Birleşik Krallık, Fransa, Almanya, İtalya ve Kanada, İsrail'in Batı Şeria yerleşim projesini kınadı",
+        "summary": "Avrupa ülkeleri ve Kanada, İsrail'in işgal altındaki Batı Şeria'da yerleşim birimlerini genişletme planlarına yönelik tepkilerini dile getirdi. Söz konusu ülkeler, İsrail'in Batı Şeria'nın stratejik açıdan kritik bir bölgesindeki yerleşim projelerini kınadıklarını açıkladı. Bu kınama, İsrail üzerindeki uluslararası baskıyı artırma amacı taşıyor. Uluslararası hukuka göre yasa dışı kabul edilen bu yerleşim faaliyetlerinin, bölgedeki barış ve istikrar çabalarını sekteye uğratabileceği vurgulandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/38249032/pexels-photo-38249032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T23:53:29.215Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787268501648ech8e",
         "title": "Savaşın Harap Ettiği Suriye'de Aile Evlerini Yeniden İnşa Etmenin Maliyeti",
         "summary": "Suriye'de yıllarca süren çatışmaların ardından ailelerin evlerini yeniden inşa etme maliyeti ve karşılaştıkları zorluklar gündemde. Al Jazeera muhabiri Hannah Raslan'ın Suriye'den bildirdiğine göre, savaşın harap ettiği bölgelerde aileler için yeniden yapılanma süreci büyük bir yük oluşturuyor. Haber, savaş sonrası toparlanma sürecinde sivil halkın karşılaştığı ekonomik ve sosyal engelleri ele alıyor. Bu durum, çatışmaların uzun vadeli insani etkilerini ve ailelerin normal yaşama dönme çabalarını gözler önüne seriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787140440275dbjqz",
-        "title": "Gazze'de Can Kaybı 73.400'ü Aştı: Son 24 Saatte 7 Filistinli Daha Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde devam eden İsrail saldırılarında son 24 saat içinde 7 Filistinlinin daha yaşamını yitirdiği bildirildi. Bölgedeki Sağlık Bakanlığı tarafından yapılan açıklamaya göre, aynı saldırılarda 23 kişi de yaralandı. Bu son kayıplarla birlikte Gazze'deki toplam can kaybının 73.400'ü geçtiği belirtildi. Bakanlık, İsrail'in bölge genelindeki ateşkes ihlallerinin sürdüğünü ve insani durumun kötüleşmeye devam ettiğini ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T11:54:00.275Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-death-toll-tops-73-400-as-israeli-attacks-kill-7-more-palestinians-in-past-24-hours/4031527",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
