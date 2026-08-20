@@ -1,5 +1,69 @@
 [
     {
+        "id": "17871889511332qcu8",
+        "title": "ABD Askeri Gazetesi Yayıncısı Hükümetle Anlaşmazlık Nedeniyle İstifa Etti",
+        "summary": "ABD askeri personeline yönelik yayın yapan Stars and Stripes gazetesinin uzun süredir görevde olan yayıncısı, Trump yönetiminin editoryal kontrol talepleri üzerine görevinden ayrıldı. Yayıncı, hükümetin gazetenin yayın politikalarına müdahale etme çabalarına karşı çıkarak istifa kararı aldığını duyurdu. Bu gelişme, ABD'de basın özgürlüğü ve askeri medya üzerindeki hükümet etkisi tartışmalarını yeniden gündeme getirdi. İstifa, Trump yönetiminin medya üzerindeki baskısını artırma çabalarının bir parçası olarak değerlendiriliyor ve gazetenin bağımsızlığına yönelik endişeleri artırdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/15360540/pexels-photo-15360540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T01:22:31.133Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1787188974865vvxpf",
+        "title": "Uzmanlar Uyarıyor: İsrail'den Göç Tsunami'si Ülkenin Geleceğini Yeniden Şekillendiriyor",
+        "summary": "Uzmanlar, İsrail'den yaşanan yoğun göçün ülkenin geleceğini yeniden şekillendirdiğini belirtiyor. Son üç yıl içinde yaklaşık 270.000 İsrailli, siyasi belirsizlik ve güvenlik endişelerini gerekçe göstererek ülkeyi terk etti. Bu durum, İsrail'in demografik yapısı ve toplumsal dinamikleri üzerinde önemli etkiler yaratma potansiyeli taşıyor. Göçün devam etmesi halinde ülkenin sosyal ve ekonomik dengelerinin değişebileceği öngörülüyor. Uzmanlar, bu 'göç tsunamisinin' uzun vadede ülkenin kimliğini ve geleceğini derinden etkileyebileceği konusunda uyarıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3769118/pexels-photo-3769118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T01:22:54.865Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.7,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787189041824iak0d",
+        "title": "Gazze'de 24 Saatten Kısa Sürede Çok Sayıda Ölümcül İsrail Saldırısı",
+        "summary": "BBC Verify, Gazze Şeridi'nde son 24 saat içinde gerçekleşen iki ölümcül İsrail saldırısına ait görüntüleri incelediğini bildirdi. Bu saldırılar sonucunda can kayıpları yaşandığı belirtildi. Bölgedeki güvenlik durumu, bu tür olaylarla birlikte daha da gerginleşirken, uluslararası gözlemciler gelişmeleri yakından takip ediyor. Gazze'deki insani durum ve güvenlik endişeleri, uluslararası toplumun gündemindeki yerini koruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532738/pexels-photo-6532738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T01:24:01.824Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1787189082236mdrc4",
+        "title": "İsrail baskınları ve saldırıları Batı Şeria'da tırmanırken 2 Filistinli kadın yaralandı",
+        "summary": "İsrail güçleri, işgal altındaki Batı Şeria genelinde birçok Filistin topluluğuna baskın düzenledi. Yerel kaynaklardan edinilen bilgilere göre, bu baskınlar sırasında bölge sakinlerine saldırılar gerçekleşti, zeytin ağaçları zarar gördü ve bazı Filistin evleri kuşatıldı. Olaylar neticesinde iki Filistinli kadının yaralandığı bildirildi. Bölgede artan gerilim ve saldırılar, Batı Şeria'daki durumu daha da karmaşık hale getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32923533/pexels-photo-32923533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T01:24:42.236Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-palestinian-women-injured-as-israeli-raids-occupier-attacks-escalate-across-west-bank/4032257",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17871763821667madk",
         "title": "İsrail'in Gazze Şehri Polis Merkezine Düzenlediği Saldırıda Kadın Polis Şefi Hayatını Kaybetti",
         "summary": "İsrail'in Gazze Şehri'ndeki polis merkezine düzenlediği hava saldırısı, bölgede yeni bir gerilime yol açtı. Saldırıda, kadın polis şefi ve çok sayıda polis memuru hayatını kaybetti. Olay, Orta Doğu'daki mevcut çatışma ortamını daha da tırmandırabilecek nitelikte. Bölgedeki güvenlik kaynakları, saldırının ardından geniş çaplı soruşturma başlatıldığını duyurdu. Uluslararası toplumdan olaya ilişkin tepkilerin gelmesi bekleniyor.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17870540756714mcr4",
-        "title": "Katar, Gazze Ateşkes Planının Tam Uygulanmasını Talep Ediyor",
-        "summary": "Katar Dışişleri Bakanlığı, Gazze'deki ateşkes planının tam olarak uygulanması yönünde çağrıda bulundu. Bakanlık sözcüsü, Doha'nın Hürmüz Boğazı'nın yeniden açılmasına yönelik bir anlaşma ile ateşkesin eş zamanlı olarak sağlanmasını istediğini belirtti. Bu açıklama, bölgedeki gerilimin azaltılması ve insani durumun iyileştirilmesi çabalarının bir parçası olarak değerlendiriliyor. Katar, uzun süredir devam eden çatışmalara diplomatik çözüm bulunması konusunda aktif rol oynayan ülkelerden biri konumunda.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T11:54:35.671Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-pushes-for-full-implementation-of-gaza-ceasefire-plan-foreign-ministry/4030527",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787052469734c9kug",
-        "title": "Eric Swalwell'ın yerine geçecek Kaliforniya özel seçimi hakkında bilinmesi gerekenler",
-        "summary": "Kaliforniya'da Eric Swalwell'ın yerine geçecek özel bir seçim yarışı, dışarıdan yapılan harcamalarla dikkat çekiyor. Başlangıçta az ilgi gören bu seçim, Amerikan İsrail Halkla İlişkiler Komitesi (AIPAC) tarafından yapılan önemli harcamalara sahne oldu. İsrail yanlısı bir lobi grubu olan AIPAC'ın bu seçime müdahil olması, yarışın ABD-İsrail ilişkileri veya Orta Doğu politikaları açısından önem taşıdığına işaret ediyor. Bu durum, yerel bir seçimin uluslararası ilişkiler bağlamında nasıl bir etki yaratabileceğini gözler önüne seriyor. AIPAC'ın harcamaları, seçimin profilini yükselterek kamuoyunun dikkatini çekmeyi başardı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5926351/pexels-photo-5926351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T11:27:49.734Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kaliforniya, ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "178704581115382sol",
-        "title": "Suriye mahkemesi Wassim Esad'ı idama mahkum etti",
-        "summary": "Suriye'de bir mahkeme, Devlet Başkanı Beşar Esad'ın kuzeni ve eski rejim figürü Wassim Esad'ı idama mahkum etti. Esad, tasarlayarak cinayet ve işkence de dahil olmak üzere çeşitli ağır suçlardan suçlu bulundu. Bu karar, Suriye'deki iktidar ailesiyle bağlantılı önemli bir isme karşı verilen nadir ve dikkat çekici bir yargı kararı olarak öne çıkıyor. Mahkemenin kararı, ülkedeki adalet sistemi ve insan hakları konularında tartışmaları beraberinde getirebilir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30747154/pexels-photo-30747154.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T09:36:51.153Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1787045864858083np",
-        "title": "Görevden uzaklaştırılan Suriye diktatörü Beşar Esad gıyabında idama mahkum edildi",
-        "summary": "Suriye'nin eski lideri Beşar Esad, ülkedeki iç savaş sırasında işlediği savaş suçları ve insanlığa karşı suçlar nedeniyle gıyabında idama mahkum edildi. Bu karar, Esad'ın yargılandığı bir mahkeme tarafından alındı. Kararda, Esad'ın Suriye iç savaşında yaşanan olaylardaki rolü vurgulandı. Mahkeme, eski devlet başkanını savaş suçları ve insanlığa karşı suçlardan sorumlu buldu. Esad'ın duruşmada bulunmadığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36798316/pexels-photo-36798316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T09:37:44.858Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
