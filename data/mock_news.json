@@ -1,5 +1,21 @@
 [
     {
+        "id": "17872578689939bd34",
+        "title": "Gazze'de Uzuvlarını Kaybeden Çocuklar Yüzme Öğreniyor",
+        "summary": "Gazze'de İsrail'in bölgeye yönelik savaşında uzuvlarını kaybeden ampute çocuklar, kendilerine olan güvenlerini yeniden inşa etmek ve hareket kabiliyetlerini geliştirmek amacıyla özel bir yüzme programına katılıyor. Bu program, çocukların fiziksel ve ruhsal iyileşmelerine destek olmayı hedefliyor. Yüzme dersleri, çocukların travmatik deneyimlerinin ardından normalleşme süreçlerine katkıda bulunuyor. Proje, bölgedeki insani yardım çabalarının bir parçası olarak öne çıkıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T20:31:08.993Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787243867876jxrij",
         "title": "Suudi Arabistan'ın Sudan'a Yönelik Güvenlik Yaklaşımı: Kızıldeniz'in Ötesinde Birlik ve İstikrar",
         "summary": "Riyad yönetimi, Sudan'ın birliğini ve istikrarını kendi Kızıldeniz güvenliğinden ayrılmaz bir parça olarak görmektedir. Suudi Arabistan, Sudan'daki iç gelişmelerin kendi ulusal güvenliği üzerinde doğrudan etkileri olduğuna inanmaktadır. Bu yaklaşım, iki ülke arasındaki coğrafi yakınlık ve Kızıldeniz'in stratejik öneminden kaynaklanmaktadır. Riyad, Sudan'ın istikrarının bölgesel güvenliğe katkı sağlayacağını ve bu nedenle Sudan'daki durumu yakından takip ettiğini vurgulamaktadır.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-police-arrest-palestinian-minister-of-jerusalem-affairs/4031449",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1787132306786d0hh8",
-        "title": "BAE, İran'a Ticareti Askıya Almasının Ardından Mali Kolaylık Sağladığı İddialarını Yalanladı",
-        "summary": "Birleşik Arap Emirlikleri (BAE), İran'a ticareti askıya almasının ardından mali kolaylıklar sağladığı yönündeki iddiaları kesin bir dille yalanladı. BAE Devlet Başkanlığı Danışmanı Enver Gargaş, Tahran'a mali destek sağlandığına dair çıkan haberleri \"umutsuz medya kampanyalarının\" bir parçası olarak nitelendirdi. Gargaş, bu tür iddiaların gerçeği yansıtmadığını ve BAE'nin İran ile olan ilişkilerinde belirlediği politikaya bağlılığını sürdürdüğünü vurguladı. Bu açıklama, iki Orta Doğu ülkesi arasındaki hassas ticari ve finansal ilişkiler bağlamında önemli bir gelişme olarak kaydedildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7691664/pexels-photo-7691664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T09:38:26.786Z",
-        "location": {
-            "lat": 24.4667,
-            "lng": 54.3667,
-            "name": "Abu Dabi, BAE"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uae-denies-providing-financial-facilities-to-iran-after-suspending-trade/4031435",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
