@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787222032634a3722",
+        "title": "İnsan Hakları İzleme Örgütü: İsrailli İşgalciler 2023'ten Bu Yana Batı Şeria'da Filistinlilere Saldırdı",
+        "summary": "İnsan Hakları İzleme Örgütü (Human Rights Watch), İsrailli işgalcilerin 2023 yılından bu yana Batı Şeria'daki 107 Filistinli yerleşim biriminden yerinden edilmiş Filistinlilere yönelik saldırılar düzenlediğini rapor etti. Örgüt, işgalci şiddetinin özellikle Mart ve Nisan aylarında tırmandığını vurguladı. Birleşmiş Milletler'in de bölgedeki saldırı oranlarında rekor bir artış kaydettiği belirtildi. Bu gelişmeler, Batı Şeria'daki insan hakları durumu ve yerinden edilmiş toplulukların güvenliğine ilişkin ciddi endişeleri gündeme getiriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/28953390/pexels-photo-28953390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T10:33:52.634Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupier-attacks-displaced-palestinians-from-107-west-bank-communities-since-2023-human-rights-watch/4032624",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787218612316vy1hb",
         "title": "Çatışmalar İranlılar İçin Hayat Pahalı Hale Getiriyor",
         "summary": "İran'da devam eden çatışmaların ve bölgesel gerilimlerin, ülke vatandaşlarının yaşam maliyetlerini önemli ölçüde artırdığı belirtiliyor. Haber, bu durumun temel gıda maddelerinden enerjiye kadar geniş bir yelpazede fiyat artışlarına yol açtığını vurguluyor. Ekonomik zorlukların, uluslararası yaptırımlar ve bölgesel istikrarsızlıkla birleşerek İran halkı üzerindeki baskıyı artırdığı ifade ediliyor. Bu gelişmelerin, günlük yaşamı sürdürme mücadelesini daha da çetin hale getirdiği ve hane halkı bütçelerini olumsuz etkilediği kaydediliyor.",
@@ -780,22 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-strongly-condemns-israeli-attacks-on-syria/4031275",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787125323112uu3bx",
-        "title": "İsrailli güçler Qusra'da 3 Filistin evini 11 gündür kuşatma altında tutuyor",
-        "summary": "Qusra Belediye Başkanı Abdul Azim al-Wadi'nin açıklamasına göre, İsrailli güçler Batı Şeria'daki Qusra köyünde üç Filistinli ailenin evini 11 gündür kuşatma altında tutuyor. Belediye başkanı, kuşatma nedeniyle bu ailelerin zorlu koşullarla karşı karşıya kaldığını belirtti. Bölgedeki hareket kısıtlamalarının devam ettiği ve insani durumun kötüleştiği ifade edildi. Al-Wadi, uluslararası toplumu bu duruma müdahale etmeye çağırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/334068/pexels-photo-334068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T07:42:03.112Z",
-        "location": {
-            "lat": 32.08,
-            "lng": 35.28,
-            "name": "Qusra, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-besiege-3-palestinian-homes-in-qusra-for-11th-day-palestinian-mayor/4031260",
         "trendScore": 80,
         "isBreaking": false
     }
