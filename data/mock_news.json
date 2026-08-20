@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787261529437zwbei",
+        "title": "Lübnan Cumhurbaşkanı, İsrail'in ABD Arabuluculuğundaki Anlaşmayı Uygulaması İçin Vatikan'dan Destek İstedi",
+        "summary": "Lübnan Cumhurbaşkanı, ABD arabuluculuğunda varılan çerçeve anlaşmasının İsrail tarafından uygulanması konusunda Vatikan'dan destek talep etti. Cumhurbaşkanı Aoun, İsrail'in Lübnan topraklarına yönelik saldırılarının durdurulması ve işgal altındaki bölgelerden çekilmesi gerektiğini vurguladı. Bu adımların, ülkenin yeniden inşası ve istikrarının sağlanması için kritik önem taşıdığı belirtildi. Lübnan lideri, Vatikan'ın bu konuda İsrail üzerinde baskı kurmasını beklediklerini ifade etti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7841420/pexels-photo-7841420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T21:32:09.437Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/lebanese-president-urges-vatican-to-press-israel-to-implement-us-mediated-framework-agreement/4033291",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17872578689939bd34",
         "title": "Gazze'de Uzuvlarını Kaybeden Çocuklar Yüzme Öğreniyor",
         "summary": "Gazze'de İsrail'in bölgeye yönelik savaşında uzuvlarını kaybeden ampute çocuklar, kendilerine olan güvenlerini yeniden inşa etmek ve hareket kabiliyetlerini geliştirmek amacıyla özel bir yüzme programına katılıyor. Bu program, çocukların fiziksel ve ruhsal iyileşmelerine destek olmayı hedefliyor. Yüzme dersleri, çocukların travmatik deneyimlerinin ardından normalleşme süreçlerine katkıda bulunuyor. Proje, bölgedeki insani yardım çabalarının bir parçası olarak öne çıkıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-labels-california-its-new-territory-after-trump-s-hormuz-claim/4031516",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1787132284075c38w6",
-        "title": "İsrail polisi Filistinli Kudüs İşleri Bakanı'nı gözaltına aldı",
-        "summary": "İsrail polisi, Filistinli Kudüs İşleri Bakanı Ashraf al-Awar'ı gözaltına aldı. Bakanlık yetkililerinden alınan bilgiye göre, al-Awar işgal altındaki Doğu Kudüs'ün Silwan mahallesindeki evinde gözaltına alındı. Olay, Anadolu Ajansı'na konuşan bakanlık yetkilileri tarafından doğrulandı. Bu gelişme, İsrail ile Filistin arasındaki gerilimi artıran son olaylardan biri olarak kaydedilirken, Kudüs'ün statüsü iki taraf arasındaki temel anlaşmazlık konularından biri olmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7785092/pexels-photo-7785092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T09:38:04.075Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Doğu Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-police-arrest-palestinian-minister-of-jerusalem-affairs/4031449",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
