@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787204001211qcclh",
+        "title": "Pentagon'dan NATO Müttefiklerine 'Siyasi Sadakat' Anketi",
+        "summary": "Özel bir habere göre, ABD Savunma Bakanlığı (Pentagon), 31 NATO müttefikine yönelik 'siyasi sadakat' anketi gönderdi. Anketin, müttefik ülkelerin ABD'ye olan bağlılıklarını belirlemeyi amaçladığı ifade edildi. Bu adım, ABD'nin müttefikleriyle olan ilişkilerini yeniden değerlendirme ve potansiyel olarak ittifak içi dinamikleri etkileme potansiyeli taşıyor. Gelişme, uluslararası diplomasi ve ittifaklar açısından önemli bir gündem maddesi oluşturuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T05:33:21.211Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., USA"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178720407674011y99",
+        "title": "Muhalefet Lideri: İsrail'in Suriye Saldırısı 'Provokatif ve Tehlikeli', ABD ile İlişkileri Geriyor",
+        "summary": "İsrail muhalefet lideri Yair Golan, İsrail'in Suriye'ye düzenlediği saldırıyı 'provokatif ve tehlikeli' olarak nitelendirdi. Golan, bu saldırının ABD ile İsrail arasındaki gerilimi derinleştirdiğini belirtti. Muhalefet lideri, Başbakan Netanyahu'yu askeri gücü siyasi amaçlar için kullanmakla suçladı. Ayrıca, bu tür eylemlerin İsrail'in müttefikleriyle olan güveni aşındırdığını ifade etti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T05:34:36.740Z",
+        "location": {
+            "lat": 33.513,
+            "lng": 36.291,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-strike-in-syria-provocative-and-dangerous-deepening-rift-with-us-opposition-leader/4032270",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787197735026sp7hn",
         "title": "Rus Saldırısı Kiev'de 3 Can Aldı, Zelenskiy İç Baskıyla Karşı Karşıya",
         "summary": "Ukrayna'nın başkenti Kiev'e düzenlenen Rus saldırısında üç kişi hayatını kaybetti. Ukraynalı yetkililer, saldırıda yaralanan 20 kişiden en az 14'ünün hastaneye kaldırıldığını bildirdi. Bu olay, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin ülke içinde artan baskılarla karşı karşıya olduğu bir döneme denk geldi. Rusya'nın Ukrayna'ya yönelik saldırıları devam ederken, başkentteki bu son olay ülkedeki gerilimi daha da tırmandırdı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17870849413000tpyg",
-        "title": "Arap Ülkeleri, İsrail'in Suriye'deki Hava Üssüne Yönelik Saldırılarını Kınadı",
-        "summary": "Birçok Arap ülkesi, İsrail'in Suriye'deki Abu al-Duhur hava üssüne düzenlediği saldırıları 'tehlikeli bir tırmanış' olarak nitelendirerek kınadı. Mısır, Ürdün, Katar, Kuveyt ve Suudi Arabistan, bu eylemleri uluslararası hukukun açık bir ihlali olarak değerlendirdi. Yapılan açıklamalarda, İsrail'in Suriye topraklarındaki askeri operasyonlarının bölgedeki gerilimi artırdığı ve istikrarsızlığa yol açtığı vurgulandı. Arap devletleri, uluslararası toplumu bu tür saldırılara karşı durmaya ve bölgede barışın sağlanması için çaba göstermeye çağırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5147810/pexels-photo-5147810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T20:29:01.300Z",
-        "location": {
-            "lat": 35.8,
-            "lng": 37.1,
-            "name": "Idlib, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/arab-states-condemn-israeli-strikes-on-syrian-airbase-as-dangerous-escalation/4031044",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17870741469748j5pu",
-        "title": "ABD'nin yeni yaptırım tehditleri karşısında İran ekonomisini ayakta tutmaya hazırlanıyor",
-        "summary": "ABD'nin İran'a yönelik yeni yaptırım tehditleri gündemdeyken, Tahran yönetimi ülke ekonomisini ayakta tutma stratejileri üzerinde yoğunlaşıyor. İranlı yetkililer, Washington'ın ek yaptırımları değerlendirmesi durumunda 'saldırgan operasyonlara' geçebilecekleri yönünde açıklamalarda bulundu. Bu durum, iki ülke arasındaki gerilimin daha da artabileceğine işaret ediyor. İran, olası yaptırımların ekonomik etkilerini hafifletmek ve dış baskılara karşı direncini artırmak amacıyla çeşitli önlemler almayı planlıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/8850749/pexels-photo-8850749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T17:29:06.974Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
