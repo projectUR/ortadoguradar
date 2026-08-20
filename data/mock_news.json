@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787208637545b8ws7",
+        "title": "Avustralya'dan İsrail'e World Central Kitchen Davası Tepkisi",
+        "summary": "Avustralya hükümeti, İsrail'in Gazze'de yedi yardım görevlisinin ölümüyle sonuçlanan World Central Kitchen (WCK) saldırısı davasında cezai kovuşturma başlatmama kararına sert tepki gösterdi. Canberra yönetimi, İsrail'in Avustralya Büyükelçisi'ni Dışişleri Bakanlığı'na çağırarak duyduğu derin öfkeyi dile getirdi. Avustralya Dışişleri Bakanı Penny Wong, İsrail'in soruşturma sürecini ve vardığı sonuçları \"yetersiz\" bulduklarını ifade etti. Bu diplomatik gerilim, Nisan ayında aralarında bir Avustralya vatandaşının da bulunduğu WCK çalışanlarının hayatını kaybetmesiyle başlayan olayın ardından yaşandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11421039/pexels-photo-11421039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T06:50:37.545Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787208674955v6l0k",
+        "title": "Trump, İran'a yardım eden ülkelere 'ekonomik savaş' tehdidinde bulundu",
+        "summary": "ABD Başkanı Donald Trump, İran'a yardım eden veya bu ülkeyle iş yapan tüm ülkelere karşı 'ekonomik D-Day' ilan etme tehdidinde bulundu. Trump'ın bu açıklaması, İran'ın nükleer programı ve bölgesel faaliyetleri nedeniyle ABD'nin Tahran'a uyguladığı baskıyı artırma çabalarının bir parçası olarak değerlendiriliyor. Bu tehdit, uluslararası arenada İran ile işbirliği yapan ülkeler üzerinde ciddi ekonomik yaptırımlar uygulanabileceği sinyalini veriyor. Washington'ın bu adımı, İran ekonomisini daha da izole etmeyi ve ülkenin gelir kaynaklarını kısıtlamayı hedefliyor. Söz konusu 'ekonomik savaş' söylemi, ABD'nin İran'a yönelik sert politikasının devam edeceğinin bir göstergesi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8175097/pexels-photo-8175097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T06:51:14.955Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787204001211qcclh",
         "title": "Pentagon'dan NATO Müttefiklerine 'Siyasi Sadakat' Anketi",
         "summary": "Özel bir habere göre, ABD Savunma Bakanlığı (Pentagon), 31 NATO müttefikine yönelik 'siyasi sadakat' anketi gönderdi. Anketin, müttefik ülkelerin ABD'ye olan bağlılıklarını belirlemeyi amaçladığı ifade edildi. Bu adım, ABD'nin müttefikleriyle olan ilişkilerini yeniden değerlendirme ve potansiyel olarak ittifak içi dinamikleri etkileme potansiyeli taşıyor. Gelişme, uluslararası diplomasi ve ittifaklar açısından önemli bir gündem maddesi oluşturuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/cargo-ship-hit-by-multiple-projectiles-off-yemen-s-west-coast-ukmto/4031125",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17870884075991t4vd",
-        "title": "Trump, İran ile Görüşme Planlanmadığını Açıkladı, Hürmüz Anlaşması Gerilimi Tırmanıyor",
-        "summary": "ABD Başkanı Donald Trump, İran ile herhangi bir görüşme planlanmadığını duyurdu. Bu açıklama, İran ile Umman arasında Hürmüz Boğazı'nın yönetimine ilişkin yapılan bir anlaşma üzerindeki gerilimin ortasında geldi. Trump'ın bu konudaki tepkisi, stratejik su yoluna kıyısı olan devletlerin boğazın yönetimi konusunda görüşmelerini sürdürdüğü bir döneme denk geldi. ABD lideri, bölgedeki bu gelişmelere karşı sert bir tutum sergiledi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9606999/pexels-photo-9606999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T21:26:47.599Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787084837468p32ty",
-        "title": "ABD Adalet Bakanlığı, antisemitizm soruşturmalarına ilişkin ihbarcı iddialarını reddetti",
-        "summary": "ABD Adalet Bakanlığı, ülkedeki antisemitizm soruşturmalarına yönelik ortaya atılan ihbarcı iddialarını yalanladı. Eski bir Adalet Bakanlığı avukatının açıklamalarına göre, Ivy League okullarına yeterli kanıt bulunmamasına rağmen uzlaşma anlaşmaları yapmaları yönünde baskı uygulandığı öne sürülmüştü. Bakanlık, bu iddiaların gerçeği yansıtmadığını ve soruşturmaların yasalara uygun bir şekilde yürütüldüğünü belirtti. Bu gelişmeler, ABD'deki üniversite kampüslerinde antisemitizmle mücadele ve ifade özgürlüğü tartışmalarının yoğunlaştığı bir döneme denk geliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/4176367/pexels-photo-4176367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-18T20:27:17.468Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
