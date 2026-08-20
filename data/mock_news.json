@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787263115087ac4hw",
+        "title": "Umman ve Japonya, bölgesel gerilimler ortasında diplomasi ve deniz güvenliğine vurgu yaptı",
+        "summary": "Umman ve Japonya dışişleri bakanları, bölgesel gerilimlerin sürdüğü bir dönemde Umman'ın başkenti Maskat'ta bir araya geldi. Görüşmelerde iki ülke arasındaki işbirliğinin çeşitli alanları ele alındı. Bakanlar, enerji, savunma, eğitim, turizm ve temiz teknolojiler gibi konularda işbirliğini artırma yollarını değerlendirdi. Ayrıca, bölgesel istikrarın sağlanması amacıyla diplomasi ve deniz güvenliğinin önemine vurgu yapıldı. Bu görüşmelerin, iki ülke arasındaki stratejik ortaklığı güçlendirmesi bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-20T21:58:35.087Z",
+        "location": {
+            "lat": 23.6,
+            "lng": 58.4,
+            "name": "Maskat, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oman-japan-stress-diplomacy-maritime-security-amid-regional-tensions/4033288",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787261529437zwbei",
         "title": "Lübnan Cumhurbaşkanı, İsrail'in ABD Arabuluculuğundaki Anlaşmayı Uygulaması İçin Vatikan'dan Destek İstedi",
         "summary": "Lübnan Cumhurbaşkanı, ABD arabuluculuğunda varılan çerçeve anlaşmasının İsrail tarafından uygulanması konusunda Vatikan'dan destek talep etti. Cumhurbaşkanı Aoun, İsrail'in Lübnan topraklarına yönelik saldırılarının durdurulması ve işgal altındaki bölgelerden çekilmesi gerektiğini vurguladı. Bu adımların, ülkenin yeniden inşası ve istikrarının sağlanması için kritik önem taşıdığı belirtildi. Lübnan lideri, Vatikan'ın bu konuda İsrail üzerinde baskı kurmasını beklediklerini ifade etti.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/asia-pacific/syrian-top-diplomat-set-to-visit-pakistan-in-1st-such-trip-in-nearly-2-decades/4031529",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787135585383k2hdw",
-        "title": "İran, Trump'ın Hürmüz Boğazı iddiasına yanıt olarak Kaliforniya'yı 'yeni toprağı' ilan etti",
-        "summary": "ABD Başkanı'nın Hürmüz Boğazı'nı 'yeni ABD toprağı' olarak nitelendirmesinin ardından Tahran'dan sert bir yanıt geldi. İran, bu iddiaya karşılık olarak ABD'nin Kaliforniya eyaletini kendi 'yeni toprağı' olarak tanımladı. Bu açıklama, iki ülke arasındaki gerilimi artıran diplomatik bir misilleme olarak değerlendiriliyor. Kaliforniya'nın geniş bir İran diasporasına ev sahipliği yapması, İran'ın bu sembolik hamlesinin arkasındaki nedenlerden biri olarak gösteriliyor. Bu durum, Orta Doğu'daki stratejik öneme sahip Hürmüz Boğazı üzerindeki egemenlik tartışmalarını ve ABD-İran ilişkilerindeki karmaşıklığı bir kez daha gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T10:33:05.383Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-labels-california-its-new-territory-after-trump-s-hormuz-claim/4031516",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
