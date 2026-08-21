@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787305175991rw6de",
+        "title": "Sudan'da Şiddet Tırmanırken Yerinden Edilme Krizi Derinleşiyor",
+        "summary": "Sudan'da devam eden şiddet olayları, ülkedeki yerinden edilme krizini daha da derinleştiriyor. Çatışmaların yoğunlaşmasıyla birlikte, binlerce sivil evlerini terk etmek zorunda kalıyor. Uluslararası kuruluşlar, insani yardım ihtiyacının arttığına dikkat çekiyor. Ülke genelinde güvenlik durumu kötüleşirken, yerinden edilenlerin sayısı endişe verici boyutlara ulaşıyor ve bölgedeki istikrarsızlığı artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29599680/pexels-photo-29599680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T09:39:35.991Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5596,
+            "name": "Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787301796797qiznj",
         "title": "İsrailli yerleşimciler, aile uyurken Filistinli bir evi ateşe verdi",
         "summary": "Batı Şeria'da İsrailli yerleşimcilerin, Filistinli bir ailenin evini ateşe verdiği bildirildi. Olay sırasında evin içinde bir anne ve çocuklarının uyuduğu belirtildi. Yangının yerleşimciler tarafından çıkarıldığı iddia edildi. Bölgedeki gerilimi artıran bu tür olaylar, uluslararası toplumda endişeyle karşılanıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1787193577932933xu",
-        "title": "Mısır, Etiyopya'nın Nil Nehri Üzerindeki Yeni Barajlarına Karşı Su Güvenliğini Savunma Hakkına Sahip Olduğunu Belirtti",
-        "summary": "Mısır, Etiyopya'nın Nil Nehri üzerindeki yeni baraj projelerine ilişkin olarak su güvenliğini savunma hakkına sahip olduğunu açıkladı. Dışişleri Bakanı, Kahire'nin su güvenliğini koruma konusunda meşru bir hakkı bulunduğunu vurguladı. Bu açıklama, Etiyopya'nın ek baraj projeleri inşa edeceği yönündeki haberlerin ardından geldi. Nil Nehri üzerindeki su paylaşımı, Mısır için hayati önem taşıyan ulusal bir güvenlik meselesi olarak görülmektedir. Mısır, bu projelerin kendi su kaynakları üzerindeki potansiyel etkileri konusunda endişelerini dile getirmeye devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/27644579/pexels-photo-27644579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T02:39:37.932Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egypt-says-it-has-right-to-defend-water-security-over-new-ethiopian-dams-on-nile-river/4032262",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
