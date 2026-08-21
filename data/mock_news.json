@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787320096370918jv",
+        "title": "İngiliz meteorologlar: El Nino 'bir asırdan fazla süredir en şiddetlisi' olmaya hazırlanıyor",
+        "summary": "İngiltere Meteoroloji Ofisi (Met Office), El Nino hava olayının son yüzyılın en şiddetlisi olabileceği konusunda uyardı. Kurum, deniz yüzeyi sıcaklıklarında 3 santigrat derecenin (5.4 Fahrenheit) üzerinde \"benzeri görülmemiş\" bir artış öngörüyor. Bu durumun, dünya genelinde aşırı hava olayları riskini önemli ölçüde artıracağı belirtiliyor. Orta Doğu coğrafyası da dahil olmak üzere birçok bölgenin kuraklık, sel ve sıcak hava dalgaları gibi iklimsel değişikliklerden etkilenmesi bekleniyor. Uzmanlar, küresel çapta gıda güvenliği, su kaynakları ve enerji talebi üzerinde potansiyel olumsuz etkiler konusunda endişelerini dile getiriyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/20870343/pexels-photo-20870343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T13:48:16.370Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787311736009j9ypv",
         "title": "El-Makha Limanı'nın Kapanması, Çalışanları ve Tüccarları Gelecek Endişesine Sürüklüyor",
         "summary": "Husilerin Yemen'deki stratejik El-Makha Limanı'na yönelik gerçekleştirdiği saldırılar, liman yönetimini operasyonları askıya alma kararı almaya zorladı. Bu gelişme, liman bünyesinde çalışan yüzlerce kişiyi işsiz bırakırken, bölgedeki ticari faaliyetleri de durma noktasına getirdi. Tüccarlar, limanın kapanmasının tedarik zincirleri ve ekonomik istikrar üzerindeki olumsuz etkilerinden derin endişe duyduklarını belirtti. El-Makha Limanı'nın faaliyetlerinin durması, Yemen'in zaten kırılgan olan ekonomisi üzerinde ek bir baskı oluşturuyor ve insani durumu daha da kötüleştirme potansiyeli taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israel-s-strike-in-syria-provocative-and-dangerous-deepening-rift-with-us-opposition-leader/4032270",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1787197735026sp7hn",
-        "title": "Rus Saldırısı Kiev'de 3 Can Aldı, Zelenskiy İç Baskıyla Karşı Karşıya",
-        "summary": "Ukrayna'nın başkenti Kiev'e düzenlenen Rus saldırısında üç kişi hayatını kaybetti. Ukraynalı yetkililer, saldırıda yaralanan 20 kişiden en az 14'ünün hastaneye kaldırıldığını bildirdi. Bu olay, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin ülke içinde artan baskılarla karşı karşıya olduğu bir döneme denk geldi. Rusya'nın Ukrayna'ya yönelik saldırıları devam ederken, başkentteki bu son olay ülkedeki gerilimi daha da tırmandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T03:48:55.026Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
