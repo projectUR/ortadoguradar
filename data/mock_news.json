@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787344096678r0bxm",
+        "title": "Papa Leo, dünyaya Gazze'nin 'yeniden inşasına yardım etme' çağrısı yaptı",
+        "summary": "Papa Leo XIV, dünya genelindeki yetkililere Gazze halkına destek olma çağrısında bulundu. Papa, Gazze'de 'hala acı çeken' insanlara yardım edilmesi gerektiğini vurguladı. Bu çağrı, bölgenin yeniden inşası sürecinin başlatılmasına yönelik uluslararası çabaların önemini ortaya koyuyor. Vatikan'dan yapılan açıklamada, Gazze'deki insani durumun ciddiyetine dikkat çekildi ve uluslararası toplumun sorumluluğu hatırlatıldı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T20:28:16.678Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17873417980894ufyd",
         "title": "Libya'daki Rakipler, Kaddafi'nin Düşüşünden 15 Yıl Sonra Birlik İçin Yeni Bir Yol Arıyor",
         "summary": "Libya'da farklı siyasi gruplar, ülkenin birliğini sağlamak amacıyla yeni bir süreç başlatma çabasında. Bu girişim, başkent Trablus'un düşüşü ve Muammer Kaddafi rejiminin sona ermesinin üzerinden geçen on beş yılın ardından geliyor. Uzun süredir devam eden siyasi bölünmüşlük ve çatışmaların ardından taraflar, ortak bir gelecek inşa etme yolunda adımlar atmayı hedefliyor. Bu yeni yol arayışı, Libya'nın istikrarı ve bölgesel barış için kritik bir dönüm noktası olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/gaza-death-toll-exceeds-73-400-as-israel-kills-10-more-palestinians-in-past-24-hours-/4032474",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787215522866wqayw",
-        "title": "Gazze'de Yerinden Edilmiş Aileler İçin Kavurucu Sıcaklar ve Su Kıtlığı Zorlukları Artırıyor",
-        "summary": "Gazze Şeridi'nde yerinden edilmiş aileler, yaz sıcaklarıyla başa çıkmakta büyük güçlükler yaşıyor. Geçici barınaklarda yaşayan bu aileler, soğutma imkanlarının yetersizliği ve su kıtlığı nedeniyle insani zorluklarla mücadele ediyor. Bölgedeki devam eden insani kriz, özellikle savunmasız gruplar için yaşam koşullarını daha da ağırlaştırıyor. Uluslararası kuruluşlar, durumun ciddiyetine dikkat çekerek acil yardım çağrısında bulunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T08:45:22.866Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/report-scorching-heat-scarce-water-add-to-hardship-for-displaced-families-in-gaza-/4032449",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
