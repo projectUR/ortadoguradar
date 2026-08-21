@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787295110202146t4",
+        "title": "Onlarca Göçmen İspanya Kıyısına Çıktı, Plajdakileri Şaşırttı",
+        "summary": "İspanya'nın güneydoğu kıyısına onlarca göçmen tekneyle ulaştı. Sosyal medyada paylaşılan görüntülerde, göçmenlerin sahile ayak bastığı ve plajda bulunanları şaşırttığı anlar yer alıyor. Bu olay, Avrupa'ya yönelik düzensiz göç hareketliliğinin devam ettiğini bir kez daha gözler önüne serdi. Yetkililerin göçmenlerle ilgili gerekli işlemleri başlatması bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10629448/pexels-photo-10629448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T06:51:50.202Z",
+        "location": {
+            "lat": 38.345,
+            "lng": -0.481,
+            "name": "Alicante, İspanya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787284358181lgalp",
         "title": "ABD'den İran'a Yaptırım Tehdidi: Ekonomi Çökecek, Rejim Yıkılacak",
         "summary": "ABD Hazine Bakanı Scott Bessent, İran ekonomisine yönelik yaptırımların ülkenin ekonomisini 'ezerek' rejimini 'çökerteceğini' belirtti. Bessent, müttefiklerin bu konuda 'bizimle mi yoksa bize karşı mı' olduklarına karar vermeleri gerekeceğini ifade etti. Bu açıklama, ABD'nin İran'a yönelik maksimum baskı politikasını sürdürdüğünü ve uluslararası toplumu bu politikaya uymaya çağırdığını gösteriyor. Yaptırımların İran'ın ekonomik istikrarı ve siyasi yapısı üzerindeki potansiyel etkileri uluslararası gündemde önemli yer tutuyor. ABD'nin bu tutumu, bölgedeki diplomatik gerilimi artırma potansiyeli taşıyor.",
@@ -780,22 +796,6 @@
             "name": "Kudüs, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17871676742721mbc0",
-        "title": "Suriye'de Beyaz Baretler Üyesi Ölümü Protestolara Neden Oldu",
-        "summary": "Suriye'de Beyaz Baretler üyesi Mohammad Ghamira'nın iddia edilen bir polis dayağı sonucu hayatını kaybetmesi, ülke genelinde protestolara yol açtı. Olayın ardından, Ghamira'nın ölümüyle ilgili kapsamlı bir soruşturma başlatılması talepleri yükseldi. Sivil toplum kuruluşları ve yerel halk, sorumluların adalet önüne çıkarılmasını talep ederek güvenlik güçlerinin uygulamalarına dikkat çekti. Bu gelişme, Suriye'deki insan hakları durumu ve güvenlik güçlerinin yetki kullanımı konusundaki endişeleri yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11816765/pexels-photo-11816765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T19:27:54.272Z",
-        "location": {
-            "lat": 34.802075,
-            "lng": 38.996815,
-            "name": "Suriye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
