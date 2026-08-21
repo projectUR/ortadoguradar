@@ -1,5 +1,21 @@
 [
     {
+        "id": "17873417980894ufyd",
+        "title": "Libya'daki Rakipler, Kaddafi'nin Düşüşünden 15 Yıl Sonra Birlik İçin Yeni Bir Yol Arıyor",
+        "summary": "Libya'da farklı siyasi gruplar, ülkenin birliğini sağlamak amacıyla yeni bir süreç başlatma çabasında. Bu girişim, başkent Trablus'un düşüşü ve Muammer Kaddafi rejiminin sona ermesinin üzerinden geçen on beş yılın ardından geliyor. Uzun süredir devam eden siyasi bölünmüşlük ve çatışmaların ardından taraflar, ortak bir gelecek inşa etme yolunda adımlar atmayı hedefliyor. Bu yeni yol arayışı, Libya'nın istikrarı ve bölgesel barış için kritik bir dönüm noktası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36463969/pexels-photo-36463969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T19:49:58.089Z",
+        "location": {
+            "lat": 32.89,
+            "lng": 13.19,
+            "name": "Trablus, Libya"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1787337597834p80fb",
         "title": "Arsenal, Konsa'yı Aston Villa'dan Transfer Ederek Savunmasını Güçlendirdi",
         "summary": "İngiltere Premier Lig ekiplerinden Arsenal, Aston Villa'nın İngiliz savunma oyuncusu Ezri Konsa'yı kadrosuna kattı. Anlaşmanın 51 milyon sterlin (yaklaşık 69 milyon dolar) değerinde olduğu bildirildi. Bu transfer, son Premier Lig şampiyonu Arsenal'in savunma hattını güçlendirme hedefiyle gerçekleştirildi. Aston Villa'nın Mısırlı milyarder Nassef Sawiris'in ortak sahipliğinde olması, bu yüksek değerli futbol transferinin Orta Doğu'dan gelen bir yatırımcının Avrupa futbolundaki ekonomik çıkarlarını dolaylı yoldan etkilediğini göstermektedir. Bu durum, Orta Doğu sermayesinin küresel spor endüstrisindeki artan rolünü bir kez daha gözler önüne sermiştir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/report-scorching-heat-scarce-water-add-to-hardship-for-displaced-families-in-gaza-/4032449",
         "trendScore": 90,
         "isBreaking": false
-    },
-    {
-        "id": "1787211790289v1e20",
-        "title": "Sudan'ın Kordofan Bölgesi'nde Çatışmalar Şiddetlenirken 200.000'den Fazla Kişi Yerinden Edildi",
-        "summary": "Birleşmiş Milletler, Sudan'ın Kordofan bölgesinde devam eden çatışmalar nedeniyle artan yerinden edilme vakalarına ilişkin uyarıda bulundu. Bölgede şiddetin tırmanmasıyla birlikte 200.000'den fazla kişinin yeni yerinden edildiği bildirildi. Özellikle El Obeid şehrinde elektrik ve su altyapısının hedef alınması, insani durumu daha da kötüleştiriyor. BM, sivillerin korunması ve temel hizmetlere erişimin sağlanması çağrısında bulunarak, bölgedeki insani krizin derinleştiğine dikkat çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/26975401/pexels-photo-26975401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T07:43:10.289Z",
-        "location": {
-            "lat": 13.18,
-            "lng": 30.22,
-            "name": "El Obeid, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
