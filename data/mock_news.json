@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787351396388hf9jv",
+        "title": "BM, Batı Şeria'da Artan Şiddet ve İlhak Girişimleri Konusunda Uyarıda Bulundu",
+        "summary": "Birleşmiş Milletler (BM), Batı Şeria'da şiddetin tırmanması ve bölgenin ilhakına yönelik girişimler hakkında derin endişelerini dile getirdi. BM İnsan Hakları Yüksek Komiserliği Sözcüsü Thameen Al-Kheetan, uluslararası topluma çağrıda bulunarak, mevcut duruma karşı \"mümkün olan tüm yolları kullanarak\" harekete geçilmesi gerektiğini vurguladı. Açıklamada, bölgedeki gerilimin tehlikeli boyutlara ulaştığı ve sivil halkın güvenliğinin tehdit altında olduğu belirtildi. BM, uluslararası hukukun ihlallerine dikkat çekerek, barış ve istikrarın sağlanması için acil adımlar atılması gerektiğini ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T22:29:56.388Z",
+        "location": {
+            "lat": 31.9039,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-warns-of-worsening-violence-push-for-annexation-in-west-bank/4034327",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17873456009190r5ms",
         "title": "Batılı Müttefikler İsrail'i Dünya Merkezi Mutfak Saldırısı Soruşturmasını Sonlandırması Nedeniyle Kınadı",
         "summary": "Birleşik Krallık, Avustralya ve Kanada, İsrail'in 2024 yılında Gazze'deki bir yardım konvoyuna düzenlenen ölümcül saldırıya ilişkin soruşturmayı sonlandırma kararını kınadı. Üç ülke, İsrail'in bu adımını \"utanç verici\" olarak nitelendirerek uluslararası arenada tepki gösterdi. Söz konusu saldırı, World Central Kitchen (Dünya Merkezi Mutfak) çalışanlarının hayatını kaybetmesine yol açmış ve geniş çaplı uluslararası soruşturma çağrılarına neden olmuştu. Batılı müttefiklerin bu açıklaması, Gazze'deki insani yardım faaliyetlerinin güvenliği ve sorumluluk mekanizmaları konusundaki tartışmaları yeniden alevlendirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787215480337sv7zd",
-        "title": "Husilerin Saldırılarında Hayatını Kaybeden 2 Pakistanlının Cenazeleri Ülkelerine Gönderildi",
-        "summary": "Geçtiğimiz hafta Bab el-Mendeb Boğazı'nda Tanzanya bandıralı bir ticari gemiye düzenlenen saldırıda hayatını kaybeden 6 kişiden 3'ünün Pakistanlı olduğu açıklandı. Husiler tarafından gerçekleştirilen bu saldırıda yaşamını yitiren Pakistan vatandaşlarından ikisinin cenazeleri ülkelerine iade edildi. Olay, Kızıldeniz ve Aden Körfezi'ndeki denizcilik güvenliğine yönelik tehditleri bir kez daha gözler önüne serdi. Bölgedeki ticari gemilere yönelik saldırılar, uluslararası deniz taşımacılığı için ciddi riskler oluşturmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36798317/pexels-photo-36798317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T08:44:40.337Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 43.3,
-            "name": "Bab el-Mendeb Boğazı, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/bodies-of-2-pakistanis-killed-in-houthi-attacks-repatriated/4032485",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
