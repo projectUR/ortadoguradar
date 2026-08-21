@@ -1,5 +1,21 @@
 [
     {
+        "id": "17873456009190r5ms",
+        "title": "Batılı Müttefikler İsrail'i Dünya Merkezi Mutfak Saldırısı Soruşturmasını Sonlandırması Nedeniyle Kınadı",
+        "summary": "Birleşik Krallık, Avustralya ve Kanada, İsrail'in 2024 yılında Gazze'deki bir yardım konvoyuna düzenlenen ölümcül saldırıya ilişkin soruşturmayı sonlandırma kararını kınadı. Üç ülke, İsrail'in bu adımını \"utanç verici\" olarak nitelendirerek uluslararası arenada tepki gösterdi. Söz konusu saldırı, World Central Kitchen (Dünya Merkezi Mutfak) çalışanlarının hayatını kaybetmesine yol açmış ve geniş çaplı uluslararası soruşturma çağrılarına neden olmuştu. Batılı müttefiklerin bu açıklaması, Gazze'deki insani yardım faaliyetlerinin güvenliği ve sorumluluk mekanizmaları konusundaki tartışmaları yeniden alevlendirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29189355/pexels-photo-29189355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T20:53:20.919Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787344096678r0bxm",
         "title": "Papa Leo, dünyaya Gazze'nin 'yeniden inşasına yardım etme' çağrısı yaptı",
         "summary": "Papa Leo XIV, dünya genelindeki yetkililere Gazze halkına destek olma çağrısında bulundu. Papa, Gazze'de 'hala acı çeken' insanlara yardım edilmesi gerektiğini vurguladı. Bu çağrı, bölgenin yeniden inşası sürecinin başlatılmasına yönelik uluslararası çabaların önemini ortaya koyuyor. Vatikan'dan yapılan açıklamada, Gazze'deki insani durumun ciddiyetine dikkat çekildi ve uluslararası toplumun sorumluluğu hatırlatıldı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/asia-pacific/bodies-of-2-pakistanis-killed-in-houthi-attacks-repatriated/4032485",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1787215502322895kp",
-        "title": "Gazze'de Can Kaybı 73.400'ü Aştı",
-        "summary": "Gazze Şeridi'nde yaşanan çatışmalarda hayatını kaybedenlerin sayısının 73.400'ü geçtiği bildirildi. Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail güçlerinin son 24 saat içinde 10 Filistinliyi öldürdüğü ve 25 kişiyi yaraladığı belirtildi. Bu son olaylarla birlikte bölgedeki insani krizin derinleştiği ifade edildi. Uluslararası toplum, bölgedeki şiddetin durdurulması çağrılarını sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T08:45:02.322Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-death-toll-exceeds-73-400-as-israel-kills-10-more-palestinians-in-past-24-hours-/4032474",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
