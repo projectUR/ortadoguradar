@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787311736009j9ypv",
+        "title": "El-Makha Limanı'nın Kapanması, Çalışanları ve Tüccarları Gelecek Endişesine Sürüklüyor",
+        "summary": "Husilerin Yemen'deki stratejik El-Makha Limanı'na yönelik gerçekleştirdiği saldırılar, liman yönetimini operasyonları askıya alma kararı almaya zorladı. Bu gelişme, liman bünyesinde çalışan yüzlerce kişiyi işsiz bırakırken, bölgedeki ticari faaliyetleri de durma noktasına getirdi. Tüccarlar, limanın kapanmasının tedarik zincirleri ve ekonomik istikrar üzerindeki olumsuz etkilerinden derin endişe duyduklarını belirtti. El-Makha Limanı'nın faaliyetlerinin durması, Yemen'in zaten kırılgan olan ekonomisi üzerinde ek bir baskı oluşturuyor ve insani durumu daha da kötüleştirme potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5407016/pexels-photo-5407016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T11:28:56.009Z",
+        "location": {
+            "lat": 13.3167,
+            "lng": 43.25,
+            "name": "El-Makha, Yemen"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17873117570673s2da",
+        "title": "İşgal Altındaki Batı Şeria'da Hukuk Kimin Çıkarlarına Hizmet Ediyor?",
+        "summary": "İşgal altındaki Batı Şeria'da hukukun kimin çıkarlarına hizmet ettiği sorusu gündeme geldi. Habere göre, İsrailli yerleşimciler bölgede günde ortalama altı kez saldırı düzenliyor. AJLabs tarafından yapılan bir inceleme, Filistin topraklarının nasıl ele geçirildiğini detaylandırıyor. Bu durum, bölgedeki Filistinlilerin hakları ve uluslararası hukuk açısından önemli tartışmaları beraberinde getiriyor. Haber, Batı Şeria'daki gerilimli durumu ve toprak mülkiyeti sorununu vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18717585/pexels-photo-18717585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T11:29:17.067Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787305175991rw6de",
         "title": "Sudan'da Şiddet Tırmanırken Yerinden Edilme Krizi Derinleşiyor",
         "summary": "Sudan'da devam eden şiddet olayları, ülkedeki yerinden edilme krizini daha da derinleştiriyor. Çatışmaların yoğunlaşmasıyla birlikte, binlerce sivil evlerini terk etmek zorunda kalıyor. Uluslararası kuruluşlar, insani yardım ihtiyacının arttığına dikkat çekiyor. Ülke genelinde güvenlik durumu kötüleşirken, yerinden edilenlerin sayısı endişe verici boyutlara ulaşıyor ve bölgedeki istikrarsızlığı artırıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17871977922595pete",
-        "title": "İsrail Ordusu ve Yerleşimciler Arasında Filistin Gerçekliğini Yeniden Şekillendirme İddiası",
-        "summary": "Qusra Belediye Başkanı, İsrail ordusu ile yerleşimciler arasında Filistin gerçekliğini yeniden şekillendirmeyi amaçlayan bir işbirliği olduğunu iddia etti. Belediye başkanı, Qusra kasabasına yönelik İsrail saldırılarının 2011 yılına dayandığını belirtti. Mevcut gerilimin, işgal altındaki Batı Şeria'da 'pastoral yerleşim' olarak adlandırılan daha geniş bir değişimin yansıması olduğu ifade edildi. Bu durum, bölgedeki yerleşim politikalarının ve Filistinliler üzerindeki etkilerinin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T03:49:52.259Z",
-        "location": {
-            "lat": 32.05,
-            "lng": 35.3,
-            "name": "Qusra, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/collusion-between-israeli-army-occupiers-seeks-to-reshape-palestinian-reality/4032271",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787193523501pkwcf",
-        "title": "Güney Kore'de Alarm: Trump'ın İran Anlaşmazlığı 72 Yıllık İttifakı Sarsıyor",
-        "summary": "ABD Başkanı Trump'ın askeri tatbikatları azaltma kararı, Güney Kore'nin başkenti Seul'de ciddi endişelere neden oldu. Bu gelişme, ABD'nin Güney Kore'ye yönelik güvenlik garantileri hakkındaki şüpheleri yeniden canlandırdı. Haber, Trump yönetiminin İran ile yaşadığı anlaşmazlığın, ABD'nin 72 yıllık müttefiki Güney Kore ile olan ilişkilerini olumsuz etkilediğine dikkat çekiyor. Seul, Washington'ın bölgedeki taahhütleri ve ittifakın geleceği konusunda belirsizliklerle karşı karşıya kalmış durumda.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/27826587/pexels-photo-27826587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T02:38:43.501Z",
-        "location": {
-            "lat": 37.5665,
-            "lng": 126.978,
-            "name": "Seul, Güney Kore"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
