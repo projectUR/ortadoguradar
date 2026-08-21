@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787275571747mpopi",
+        "title": "Hükümet karşıtı protestocular ikinci ayda da Tunus sokaklarında",
+        "summary": "Tunus'ta hükümet karşıtı protestolar ikinci ayına girerken, ülke genelinde gösterilerde artış yaşanıyor. Ekonomik koşulların kötüleşmesiyle birlikte halk, yaşam standartlarındaki düşüşe tepki göstermek amacıyla sokaklara dökülüyor. Başkent Tunus başta olmak üzere birçok şehirde düzenlenen eylemlerde, hükümetin ekonomi politikaları eleştiriliyor. Ülkedeki siyasi ve sosyal gerilim, artan protestolarla birlikte tırmanışını sürdürüyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11421039/pexels-photo-11421039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T01:26:11.747Z",
+        "location": {
+            "lat": 34,
+            "lng": 9,
+            "name": "Tunus"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787270009215pq2lw",
         "title": "Birleşik Krallık, Fransa, Almanya, İtalya ve Kanada, İsrail'in Batı Şeria yerleşim projesini kınadı",
         "summary": "Avrupa ülkeleri ve Kanada, İsrail'in işgal altındaki Batı Şeria'da yerleşim birimlerini genişletme planlarına yönelik tepkilerini dile getirdi. Söz konusu ülkeler, İsrail'in Batı Şeria'nın stratejik açıdan kritik bir bölgesindeki yerleşim projelerini kınadıklarını açıkladı. Bu kınama, İsrail üzerindeki uluslararası baskıyı artırma amacı taşıyor. Uluslararası hukuka göre yasa dışı kabul edilen bu yerleşim faaliyetlerinin, bölgedeki barış ve istikrar çabalarını sekteye uğratabileceği vurgulandı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17871472298898xj0n",
-        "title": "Filistinli Gruplar Kasım Seçimleri İçin Geniş İttifak Arayışında",
-        "summary": "Filistinli siyasi gruplar, yaklaşan Kasım seçimleri öncesinde geniş bir ittifak kurma olasılığını değerlendiriyor. Bu kapsamda, Hamas ve Fatah'tan ayrılan bir grup, mevcut Filistin Devlet Başkanı Mahmud Abbas'a karşı ortak bir seçim listesi oluşturmayı görüşüyor. Bu girişim, Filistin siyasetindeki dengelerin değiştiği bir dönemde gerçekleşiyor. Söz konusu ittifak arayışları, Filistin'deki siyasi rekabeti ve güç mücadelelerini derinleştirebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8849327/pexels-photo-8849327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T13:47:09.889Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2079,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
