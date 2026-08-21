@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787284358181lgalp",
+        "title": "ABD'den İran'a Yaptırım Tehdidi: Ekonomi Çökecek, Rejim Yıkılacak",
+        "summary": "ABD Hazine Bakanı Scott Bessent, İran ekonomisine yönelik yaptırımların ülkenin ekonomisini 'ezerek' rejimini 'çökerteceğini' belirtti. Bessent, müttefiklerin bu konuda 'bizimle mi yoksa bize karşı mı' olduklarına karar vermeleri gerekeceğini ifade etti. Bu açıklama, ABD'nin İran'a yönelik maksimum baskı politikasını sürdürdüğünü ve uluslararası toplumu bu politikaya uymaya çağırdığını gösteriyor. Yaptırımların İran'ın ekonomik istikrarı ve siyasi yapısı üzerindeki potansiyel etkileri uluslararası gündemde önemli yer tutuyor. ABD'nin bu tutumu, bölgedeki diplomatik gerilimi artırma potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T03:52:38.181Z",
+        "location": {
+            "lat": 32.4,
+            "lng": 53.7,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787280397796xydfa",
         "title": "Mısır, Etiyopya'nın Yeni Nil Barajları Üzerinde Etkili Olabilecek mi?",
         "summary": "Büyük Etiyopya Rönesans Barajı (GERD) inşaatını engelleyemeyen Mısır için, Etiyopya'nın Nil Nehri üzerindeki gelecekteki baraj projeleri yeni bir sınav teşkil ediyor. Mısır, su güvenliği açısından hayati öneme sahip olan Nil Nehri'nin akışını etkileyecek bu yeni projeler karşısında stratejilerini gözden geçiriyor. Kahire, Etiyopya'nın planladığı üç yeni baraj projesinin inşasını şekillendirme veya etkileme yollarını ararken, bu durum iki ülke arasındaki su paylaşımı ve bölgesel diplomasi konularında gerilimi yeniden tırmandırabilir. Mısır'ın bu projelerdeki rolü, bölgedeki su politikaları ve uluslararası ilişkiler açısından yakından takip edilecek.",
@@ -780,22 +796,6 @@
             "name": "Suriye"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787164772715x8n12",
-        "title": "NATO, İran'ın saldırı planları raporu ortasında müttefiklerini savunmaya 'hazır'",
-        "summary": "Kuzey Atlantik Antlaşması Örgütü (NATO), İran'ın Avrupa'daki ABD hedeflerine yönelik saldırıları değerlendirdiğine dair medya raporları üzerine açıklama yaptı. NATO yetkilileri, müttefiklerini savunmak için \"gerekeni yapmaya\" hazır olduklarını belirtti. Bu açıklama, İran'ın potansiyel askeri eylemlerine karşı bir uyarı niteliği taşıyor. Haber, bölgedeki gerilimin artabileceğine işaret ederken, NATO'nun caydırıcılık ve savunma kapasitesini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11735385/pexels-photo-11735385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T18:39:32.715Z",
-        "location": {
-            "lat": 50.8503,
-            "lng": 4.3517,
-            "name": "Brüksel, Belçika"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
