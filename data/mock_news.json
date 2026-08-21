@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787301796797qiznj",
+        "title": "İsrailli yerleşimciler, aile uyurken Filistinli bir evi ateşe verdi",
+        "summary": "Batı Şeria'da İsrailli yerleşimcilerin, Filistinli bir ailenin evini ateşe verdiği bildirildi. Olay sırasında evin içinde bir anne ve çocuklarının uyuduğu belirtildi. Yangının yerleşimciler tarafından çıkarıldığı iddia edildi. Bölgedeki gerilimi artıran bu tür olaylar, uluslararası toplumda endişeyle karşılanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9547376/pexels-photo-9547376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T08:43:16.797Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787301871719gusfq",
+        "title": "Malezya Başbakanı, İsrail'in Yasa Dışı Yerleşim İhalelerini Kınadı, Katılımcı Firmaları Uyardı",
+        "summary": "Malezya Başbakanı Enver İbrahim, İsrail'in yasa dışı yerleşim birimi ihalelerini sert bir dille kınadı ve bu ihalelere katılan firmaları uyardı. Başbakan İbrahim, özellikle E1 projesinin işgal altındaki Batı Şeria'yı böleceğini ve kesintisiz bir Filistin devletinin kurulması umutlarını ciddi şekilde baltalayacağını belirtti. Bu açıklama, uluslararası hukuka aykırı olduğu düşünülen İsrail yerleşim faaliyetlerine karşı uluslararası tepkilerin bir parçası olarak geldi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5308510/pexels-photo-5308510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T08:44:31.719Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/malaysian-premier-denounces-illegal-israeli-settlement-tenders-warns-participating-firms/4033510",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787298316271fo9rc",
         "title": "Birleşik Krallık'ta Filistin Yanlısı Aktivistler Terör Suçlamasıyla Yargılanabilir",
         "summary": "Birleşik Krallık'ta, Filistin yanlısı beş aktivist, bir Barclays bankasına yönelik vandalizm eylemiyle suçlanıyor. Mahkeme, bu aktivistlerin eylemlerinin terörle ilgili suçlar kapsamında değerlendirilip değerlendirilmeyeceğine karar verecek. Bu durum, benzer eylemler için terör suçlamasıyla yargılanmanın \"çok sıra dışı\" olduğu belirtilerek uluslararası kamuoyunun dikkatini çekiyor. Dava, aktivizmin sınırları ve terör tanımının genişlemesi üzerine tartışmaları beraberinde getiriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/egypt-says-it-has-right-to-defend-water-security-over-new-ethiopian-dams-on-nile-river/4032262",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787193599310svv1l",
-        "title": "Gazze'de Yıkılan Evden 11 Filistinlinin Cansız Bedeni Çıkarıldı",
-        "summary": "Gazze Sivil Savunma ekipleri, bölgedeki Zeitoun mahallesinde yıkılan bir evden 11 Filistinlinin cansız bedenini enkaz altından çıkardı. Kurtarma ekipleri, Sawafiri ailesine ait olduğu belirtilen evin enkazında üç gün boyunca arama kurtarma çalışmaları yürüttü. Bu gelişme, bölgede devam eden çatışmaların neden olduğu yıkımın ve sivil kayıpların boyutunu bir kez daha gözler önüne serdi. Ekiplerin yoğun çabaları sonucunda ulaşılan cansız bedenler, bölgedeki insani dramın derinliğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28041688/pexels-photo-28041688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T02:39:59.310Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-civil-defense-teams-recover-bodies-of-11-palestinians-from-destroyed-home/4032256",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17871889511332qcu8",
-        "title": "ABD Askeri Gazetesi Yayıncısı Hükümetle Anlaşmazlık Nedeniyle İstifa Etti",
-        "summary": "ABD askeri personeline yönelik yayın yapan Stars and Stripes gazetesinin uzun süredir görevde olan yayıncısı, Trump yönetiminin editoryal kontrol talepleri üzerine görevinden ayrıldı. Yayıncı, hükümetin gazetenin yayın politikalarına müdahale etme çabalarına karşı çıkarak istifa kararı aldığını duyurdu. Bu gelişme, ABD'de basın özgürlüğü ve askeri medya üzerindeki hükümet etkisi tartışmalarını yeniden gündeme getirdi. İstifa, Trump yönetiminin medya üzerindeki baskısını artırma çabalarının bir parçası olarak değerlendiriliyor ve gazetenin bağımsızlığına yönelik endişeleri artırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/15360540/pexels-photo-15360540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T01:22:31.133Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
