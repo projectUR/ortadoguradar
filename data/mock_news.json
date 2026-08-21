@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787333477004y1wb0",
+        "title": "İsrail ordusu ve yerleşimciler Batı Şeria'daki ayrı olaylarda 2 Filistinliyi öldürdü",
+        "summary": "Batı Şeria'da meydana gelen iki ayrı olayda, İsrail ordusu ve İsrailli yerleşimciler tarafından iki Filistinli öldürüldü. İsrailli yerleşimciler, 17 yaşındaki Karim Sanad Shalaldeh'i vurarak hayatına son verdi. Diğer olayda ise İsrail güçleri, 58 yaşındaki Fathi Khazem'i öldürdü. Bu olaylar, bölgedeki gerilimi artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T17:31:17.004Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787326566196i6ryl",
         "title": "Irak'ın güneş enerjili köyleri, kalıcı bir enerji dönüşümünün nasıl inşa edileceğini gösteriyor",
         "summary": "Irak'ta güneş enerjisiyle çalışan köyler, ülkenin enerji dönüşümü çabalarına örnek teşkil ediyor. Bu projeler, merkezi olmayan enerji sistemlerinin topluluklara kendi kendilerini idame ettirme imkanı sunduğunu gösteriyor. Köyler, yukarıdan gelecek değişimleri beklemek yerine, kendi enerji ihtiyaçlarını karşılayarak sürdürülebilir bir yaşam modeli oluşturuyor. Bu yaklaşım, Irak'ın enerji altyapısını güçlendirme ve kırsal bölgelerde yaşam kalitesini artırma potansiyeli taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iranian-foreign-minister-says-trump-s-economic-d-day-will-bring-us-further-defeat-/4032351",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1787211902373xvk0m",
-        "title": "İsrail Savaş Uçakları Güney Lübnan'a Gece Saldırıları Düzenledi",
-        "summary": "İsrail savaş uçakları, gece saatlerinde güney Lübnan'a hava saldırıları gerçekleştirdi. Lübnan devlet medyası, saldırıların yanı sıra bölgenin çeşitli yerlerinde topçu ateşi ve patlamaların da meydana geldiğini bildirdi. Bu askeri eylemlerin hedefi ve yol açtığı hasara ilişkin detaylar henüz netleşmedi. Olay, İsrail ile Lübnan arasındaki gerilimi daha da tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37411527/pexels-photo-37411527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T07:45:02.373Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-warplanes-launch-overnight-strikes-on-southern-lebanon/4032335",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
