@@ -1,5 +1,53 @@
 [
     {
+        "id": "1787326566196i6ryl",
+        "title": "Irak'ın güneş enerjili köyleri, kalıcı bir enerji dönüşümünün nasıl inşa edileceğini gösteriyor",
+        "summary": "Irak'ta güneş enerjisiyle çalışan köyler, ülkenin enerji dönüşümü çabalarına örnek teşkil ediyor. Bu projeler, merkezi olmayan enerji sistemlerinin topluluklara kendi kendilerini idame ettirme imkanı sunduğunu gösteriyor. Köyler, yukarıdan gelecek değişimleri beklemek yerine, kendi enerji ihtiyaçlarını karşılayarak sürdürülebilir bir yaşam modeli oluşturuyor. Bu yaklaşım, Irak'ın enerji altyapısını güçlendirme ve kırsal bölgelerde yaşam kalitesini artırma potansiyeli taşıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/38836188/pexels-photo-38836188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T15:36:06.196Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787326672136585w5",
+        "title": "El-Aksa'daki kundaklamadan 57 yıl sonra, İsrail'in eylemleri caminin tarihi statükosunu zorlamaya devam ediyor",
+        "summary": "Filistin ve Ürdünlü yetkililer, El-Aksa Camii'nde artan Yahudi dini ritüelleri ve ibadet uygulamalarının, bölgenin tarihi ve yasal statükosunu değiştirdiği konusunda uyarıda bulundu. Bu durum, caminin 57 yıl önceki kundaklama olayından bu yana süregelen hassasiyetini bir kez daha gündeme getiriyor. İsrail'in bu yöndeki eylemleri, caminin tarihi statüsünü tehdit ettiği gerekçesiyle eleştiriliyor. Bölgedeki gerilimin artmasına neden olan bu gelişmeler, uluslararası toplumun da dikkatini çekiyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/17690080/pexels-photo-17690080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T15:37:52.136Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/57-years-after-arson-at-al-aqsa-israels-actions-continue-to-challenge-mosques-historic-status-quo/4034032",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787326694824trtlx",
+        "title": "İsrail Ordusu, ABD'den Aldığı İkinci Yakıt İkmal Uçağını Teslim Aldı",
+        "summary": "İsrail ordusu, ABD'den satın aldığı altı adet Boeing KC-46 tipi yakıt ikmal uçağından ikincisini teslim aldığını duyurdu. Askeri yetkililer, bu stratejik uçakların İsrail Hava Kuvvetleri'nin operasyon menzilini önemli ölçüde genişleteceğini belirtti. Daha önce ilk uçağın teslimatı gerçekleşmişti. Bu teslimat, İsrail'in bölgesel hava operasyon kabiliyetlerini artırma ve uzun menzilli görevler için lojistik desteği güçlendirme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12719607/pexels-photo-12719607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T15:38:14.824Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.7,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-israeli-military-receives-2nd-us-made-refueling-aircraft-out-of-6-purchased/4034024",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17873230604123rpm6",
         "title": "Cibuti Futbol Federasyonu, FIFA Fonlarını Kötüye Kullanmakla Suçlanıyor",
         "summary": "Cibuti Futbol Federasyonu, Uluslararası Futbol Federasyonları Birliği (FIFA) ve Afrika Futbol Konfederasyonu (CAF) tarafından sağlanan fonları kötüye kullandığı iddialarıyla karşı karşıya. FIFA ve CAF'ın Cibuti federasyonuna yıllık 1 milyon dolardan fazla destek sağladığı belirtiliyor. Bu fonların usulsüz kullanıldığına dair yolsuzluk suçlamaları, federasyonun mali yönetimini sorgulatıyor. İddialar, Cibuti futbolunun gelişimine ayrılan kaynakların amacına uygun kullanılmadığı yönünde ciddi endişelere yol açtı. Konuyla ilgili soruşturmaların başlatılması bekleniyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-warplanes-launch-overnight-strikes-on-southern-lebanon/4032335",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1787208637545b8ws7",
-        "title": "Avustralya'dan İsrail'e World Central Kitchen Davası Tepkisi",
-        "summary": "Avustralya hükümeti, İsrail'in Gazze'de yedi yardım görevlisinin ölümüyle sonuçlanan World Central Kitchen (WCK) saldırısı davasında cezai kovuşturma başlatmama kararına sert tepki gösterdi. Canberra yönetimi, İsrail'in Avustralya Büyükelçisi'ni Dışişleri Bakanlığı'na çağırarak duyduğu derin öfkeyi dile getirdi. Avustralya Dışişleri Bakanı Penny Wong, İsrail'in soruşturma sürecini ve vardığı sonuçları \"yetersiz\" bulduklarını ifade etti. Bu diplomatik gerilim, Nisan ayında aralarında bir Avustralya vatandaşının da bulunduğu WCK çalışanlarının hayatını kaybetmesiyle başlayan olayın ardından yaşandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11421039/pexels-photo-11421039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T06:50:37.545Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787208674955v6l0k",
-        "title": "Trump, İran'a yardım eden ülkelere 'ekonomik savaş' tehdidinde bulundu",
-        "summary": "ABD Başkanı Donald Trump, İran'a yardım eden veya bu ülkeyle iş yapan tüm ülkelere karşı 'ekonomik D-Day' ilan etme tehdidinde bulundu. Trump'ın bu açıklaması, İran'ın nükleer programı ve bölgesel faaliyetleri nedeniyle ABD'nin Tahran'a uyguladığı baskıyı artırma çabalarının bir parçası olarak değerlendiriliyor. Bu tehdit, uluslararası arenada İran ile işbirliği yapan ülkeler üzerinde ciddi ekonomik yaptırımlar uygulanabileceği sinyalini veriyor. Washington'ın bu adımı, İran ekonomisini daha da izole etmeyi ve ülkenin gelir kaynaklarını kısıtlamayı hedefliyor. Söz konusu 'ekonomik savaş' söylemi, ABD'nin İran'a yönelik sert politikasının devam edeceğinin bir göstergesi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/8175097/pexels-photo-8175097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T06:51:14.955Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington, ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787204001211qcclh",
-        "title": "Pentagon'dan NATO Müttefiklerine 'Siyasi Sadakat' Anketi",
-        "summary": "Özel bir habere göre, ABD Savunma Bakanlığı (Pentagon), 31 NATO müttefikine yönelik 'siyasi sadakat' anketi gönderdi. Anketin, müttefik ülkelerin ABD'ye olan bağlılıklarını belirlemeyi amaçladığı ifade edildi. Bu adım, ABD'nin müttefikleriyle olan ilişkilerini yeniden değerlendirme ve potansiyel olarak ittifak içi dinamikleri etkileme potansiyeli taşıyor. Gelişme, uluslararası diplomasi ve ittifaklar açısından önemli bir gündem maddesi oluşturuyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T05:33:21.211Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., USA"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
