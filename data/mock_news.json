@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787280397796xydfa",
+        "title": "Mısır, Etiyopya'nın Yeni Nil Barajları Üzerinde Etkili Olabilecek mi?",
+        "summary": "Büyük Etiyopya Rönesans Barajı (GERD) inşaatını engelleyemeyen Mısır için, Etiyopya'nın Nil Nehri üzerindeki gelecekteki baraj projeleri yeni bir sınav teşkil ediyor. Mısır, su güvenliği açısından hayati öneme sahip olan Nil Nehri'nin akışını etkileyecek bu yeni projeler karşısında stratejilerini gözden geçiriyor. Kahire, Etiyopya'nın planladığı üç yeni baraj projesinin inşasını şekillendirme veya etkileme yollarını ararken, bu durum iki ülke arasındaki su paylaşımı ve bölgesel diplomasi konularında gerilimi yeniden tırmandırabilir. Mısır'ın bu projelerdeki rolü, bölgedeki su politikaları ve uluslararası ilişkiler açısından yakından takip edilecek.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18314304/pexels-photo-18314304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T02:46:37.796Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1787280440330uc4rj",
+        "title": "Panama Kanalı, El Nino Etkisiyle Gemi Geçişlerini Kısıtlayacak",
+        "summary": "Panama Kanalı yönetimi, El Nino hava olayının neden olacağı aşırı hava koşulları beklentisiyle gemi geçişlerine sınırlama getirme kararı aldı. Bu önlem, bölgede kuraklık ve aşırı sıcaklık olasılığının artması öngörüsüyle alındı. Kanal yetkilileri, su seviyelerinin düşmesi ve operasyonel zorlukların önüne geçmeyi hedefliyor. Küresel ticaretin önemli arterlerinden biri olan Panama Kanalı'ndaki bu kısıtlamaların, uluslararası deniz taşımacılığı ve tedarik zincirleri üzerinde etkileri olması bekleniyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/15346128/pexels-photo-15346128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-21T02:47:20.330Z",
+        "location": {
+            "lat": 9,
+            "lng": -79.7,
+            "name": "Panama"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787275571747mpopi",
         "title": "Hükümet karşıtı protestocular ikinci ayda da Tunus sokaklarında",
         "summary": "Tunus'ta hükümet karşıtı protestolar ikinci ayına girerken, ülke genelinde gösterilerde artış yaşanıyor. Ekonomik koşulların kötüleşmesiyle birlikte halk, yaşam standartlarındaki düşüşe tepki göstermek amacıyla sokaklara dökülüyor. Başkent Tunus başta olmak üzere birçok şehirde düzenlenen eylemlerde, hükümetin ekonomi politikaları eleştiriliyor. Ülkedeki siyasi ve sosyal gerilim, artan protestolarla birlikte tırmanışını sürdürüyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787160513921qakin",
-        "title": "Hamas, İsrail'in Gazze'de 10 Kişiyi Öldürmesini 'Yeni Bir Savaş Suçu' Olarak Kınadı",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırılarında 10 Filistinlinin hayatını kaybettiği bildirildi. Saldırılarda polis karargahı ve bir mülteci kampı hedef alındı. Hamas, İsrail'in bu eylemlerini 'yeni bir savaş suçu' olarak nitelendirerek şiddetle kınadığını duyurdu. Bölgedeki gerilimin tırmandığı gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T17:28:33.921Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "178715020363599tbz",
-        "title": "Gazze'ye Giren Yardımlar Neden İhtiyaç Sahiplerine Ulaşamayabilir?",
-        "summary": "Gazze'ye yönelik insani yardım sevkiyatında ciddi zorluklar yaşandığı bildirildi. Haberde, İsrail ablukası nedeniyle yardım tırlarının bölgeye girişinin son derece güç olduğu belirtiliyor. Ayrıca, tır şoförlerinin yardım depolarına ulaşmakta da büyük engellerle karşılaştığı ifade ediliyor. Bu durum, Gazze'deki ihtiyaç sahiplerine yardımların ulaştırılmasını sekteye uğratarak bölgedeki insani krizi derinleştiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/31837694/pexels-photo-31837694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-19T14:36:43.635Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
