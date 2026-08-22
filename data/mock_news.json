@@ -1,5 +1,85 @@
 [
     {
+        "id": "1787387583108fs9w2",
+        "title": "Panama Kanalı, El Nino Nedeniyle Gemi Geçişlerini Azaltacak",
+        "summary": "Panama Kanalı Yönetimi, yaklaşan 'aşırı' El Nino hava olayının neden olduğu kuraklık ve düşük su seviyeleri nedeniyle gemi geçişlerinde kısıtlamaya gideceğini duyurdu. 15 Eylül tarihinden itibaren günlük geçiş sayısı 40'tan 32 gemiye düşürülecek. Bu karar, küresel deniz taşımacılığında yavaşlamaya ve maliyetlerin artmasına yol açma riski taşıyor. Kanalın bu adımı, su seviyelerini koruma ve operasyonel sürdürülebilirliği sağlama amacı taşıyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/2906490/pexels-photo-2906490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T08:33:03.108Z",
+        "location": {
+            "lat": 9.07,
+            "lng": -79.71,
+            "name": "Panama Kanalı, Panama"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17873876237555yfuo",
+        "title": "Libya'da 'Beyin Göçü': Trablus'un Düşüşünden 15 Yıl Sonra Gençler Ülkeyi Terk Etmek İstiyor",
+        "summary": "Libya'daki kargaşa nedeniyle ülkeyi terk eden profesyoneller, geri dönme ihtimallerinin düşük olduğunu belirtiyor. Ülkedeki mevcut durum, daha fazla Libyalının ayrılmayı planladığını gösteriyor. Bu durum, Libya'nın gelecekteki gelişimini olumsuz etkileyecek önemli bir insan sermayesi kaybına işaret ediyor. Ülke, iç karışıklıkların ardından nitelikli iş gücünü kaybetmeye devam ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36760452/pexels-photo-36760452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T08:33:43.755Z",
+        "location": {
+            "lat": 32.9,
+            "lng": 13.6,
+            "name": "Trablus, Libya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17873876475990a3rr",
+        "title": "Dünya Bankası, savaşın vurduğu Lübnan ekonomisinin yüzde 6,4 daralacağını öngörüyor",
+        "summary": "Dünya Bankası, Lübnan ekonomisine ilişkin yeni bir rapor yayımladı. Raporda, ülkenin ekonomisinin yüzde 6,4 oranında daralmasının beklendiği belirtildi. Küresel finans kuruluşu, İsrail ile yaşanan çatışmaların Lübnan'ın ekonomik toparlanma çabalarını sekteye uğrattığını vurguladı. Enflasyon ve tüketici fiyatlarındaki artışın bu daralmada etkili olduğu ifade edildi. Bu durumun, Lübnan'ın zaten kırılgan olan ekonomik yapısı üzerindeki baskıyı daha da artırdığı kaydedildi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/6670897/pexels-photo-6670897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T08:34:07.599Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787387669619tn7sn",
+        "title": "Esad Subayı Savaş Suçları İddiasıyla İlk Kez Suriye'ye İade Edildi",
+        "summary": "Lübnan, eski General Adil İsa'yı savaş suçları iddialarıyla Suriye'ye iade etti. Bu olay, Suriye'nin eski rejim üyelerine yönelik takibatını artırdığı bir döneme denk geldi. Adil İsa'nın iadesi, Suriye'de savaş suçlarıyla suçlanan bir Esad subayının ilk kez iade edilmesi vakası olarak kayıtlara geçti. Gelişme, bölgesel hukuk ve siyasi ilişkiler açısından önemli bir emsal teşkil ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11421076/pexels-photo-11421076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T08:34:29.619Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787387691421h4psi",
+        "title": "Lübnan medyası: İsrail güçleri Güney Lübnan'da fosfor mermileri kullandı",
+        "summary": "Lübnan medyasının bildirdiğine göre, İsrail güçleri Güney Lübnan'da fosfor mermileri kullandı. Gece boyunca ve Cumartesi sabahı erken saatlerde bölgedeki birçok güney kasabasında yoğun topçu ateşi ve patlamalar yaşandığı kaydedildi. Bu gelişmeler, bölgedeki gerilimin arttığına işaret ediyor ve uluslararası kamuoyunda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T08:34:51.421Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.4,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-used-phosphorus-shells-in-southern-lebanon-reports-lebanese-media/4034355",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787384087044gnwv0",
         "title": "Batı Şeria'da Filistinli Genç Saldırıda Hayatını Kaybetti, BM Tepki Gösterdi",
         "summary": "İşgal altındaki Batı Şeria'da meydana gelen olayda, 17 yaşındaki bir Filistinli genç hayatını kaybetti. Bölgedeki yerleşimciler tarafından gerçekleştirildiği belirtilen saldırıda, bir başka kişi de ağır yaralandı. Bu saldırı, bölgedeki gerilimi daha da artırırken, Birleşmiş Milletler'den de olaya ilişkin tepki geldiği bildirildi. Güvenlik güçleri, olayın detaylarını aydınlatmak üzere geniş çaplı bir soruşturma başlattı.",
@@ -717,86 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787263115087ac4hw",
-        "title": "Umman ve Japonya, bölgesel gerilimler ortasında diplomasi ve deniz güvenliğine vurgu yaptı",
-        "summary": "Umman ve Japonya dışişleri bakanları, bölgesel gerilimlerin sürdüğü bir dönemde Umman'ın başkenti Maskat'ta bir araya geldi. Görüşmelerde iki ülke arasındaki işbirliğinin çeşitli alanları ele alındı. Bakanlar, enerji, savunma, eğitim, turizm ve temiz teknolojiler gibi konularda işbirliğini artırma yollarını değerlendirdi. Ayrıca, bölgesel istikrarın sağlanması amacıyla diplomasi ve deniz güvenliğinin önemine vurgu yapıldı. Bu görüşmelerin, iki ülke arasındaki stratejik ortaklığı güçlendirmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T21:58:35.087Z",
-        "location": {
-            "lat": 23.6,
-            "lng": 58.4,
-            "name": "Maskat, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-japan-stress-diplomacy-maritime-security-amid-regional-tensions/4033288",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787261529437zwbei",
-        "title": "Lübnan Cumhurbaşkanı, İsrail'in ABD Arabuluculuğundaki Anlaşmayı Uygulaması İçin Vatikan'dan Destek İstedi",
-        "summary": "Lübnan Cumhurbaşkanı, ABD arabuluculuğunda varılan çerçeve anlaşmasının İsrail tarafından uygulanması konusunda Vatikan'dan destek talep etti. Cumhurbaşkanı Aoun, İsrail'in Lübnan topraklarına yönelik saldırılarının durdurulması ve işgal altındaki bölgelerden çekilmesi gerektiğini vurguladı. Bu adımların, ülkenin yeniden inşası ve istikrarının sağlanması için kritik önem taşıdığı belirtildi. Lübnan lideri, Vatikan'ın bu konuda İsrail üzerinde baskı kurmasını beklediklerini ifade etti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7841420/pexels-photo-7841420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T21:32:09.437Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanese-president-urges-vatican-to-press-israel-to-implement-us-mediated-framework-agreement/4033291",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17872578689939bd34",
-        "title": "Gazze'de Uzuvlarını Kaybeden Çocuklar Yüzme Öğreniyor",
-        "summary": "Gazze'de İsrail'in bölgeye yönelik savaşında uzuvlarını kaybeden ampute çocuklar, kendilerine olan güvenlerini yeniden inşa etmek ve hareket kabiliyetlerini geliştirmek amacıyla özel bir yüzme programına katılıyor. Bu program, çocukların fiziksel ve ruhsal iyileşmelerine destek olmayı hedefliyor. Yüzme dersleri, çocukların travmatik deneyimlerinin ardından normalleşme süreçlerine katkıda bulunuyor. Proje, bölgedeki insani yardım çabalarının bir parçası olarak öne çıkıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T20:31:08.993Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787243867876jxrij",
-        "title": "Suudi Arabistan'ın Sudan'a Yönelik Güvenlik Yaklaşımı: Kızıldeniz'in Ötesinde Birlik ve İstikrar",
-        "summary": "Riyad yönetimi, Sudan'ın birliğini ve istikrarını kendi Kızıldeniz güvenliğinden ayrılmaz bir parça olarak görmektedir. Suudi Arabistan, Sudan'daki iç gelişmelerin kendi ulusal güvenliği üzerinde doğrudan etkileri olduğuna inanmaktadır. Bu yaklaşım, iki ülke arasındaki coğrafi yakınlık ve Kızıldeniz'in stratejik öneminden kaynaklanmaktadır. Riyad, Sudan'ın istikrarının bölgesel güvenliğe katkı sağlayacağını ve bu nedenle Sudan'daki durumu yakından takip ettiğini vurgulamaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30692441/pexels-photo-30692441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T16:37:47.876Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787243904580g009k",
-        "title": "Yemen Açıklarında Tanker Korsanlarca Ele Geçirildi, Somali Korsanlığı Yeniden Yükselişte",
-        "summary": "Birleşik Krallık deniz güvenliği izleme kuruluşu, Seamull adlı bir tankerin Yemen açıklarında silahlı kişilerce ele geçirilerek Somali'ye doğru yönlendirildiğini bildirdi. Bu olay, Aden Körfezi'nde son dönemde artış gösteren korsanlık faaliyetleri dalgasının bir parçası olarak kaydedildi. Bölgedeki deniz güvenliği endişeleri yeniden gündeme geldi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6964373/pexels-photo-6964373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T16:38:24.580Z",
-        "location": {
-            "lat": 12.5,
-            "lng": 47.5,
-            "name": "Aden Körfezi, Yemen Açıkları"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
