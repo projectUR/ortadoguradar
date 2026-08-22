@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787413649845l0g5x",
+        "title": "Eski Diplomatlar Fransa ve İngiltere'yi İsrail'e Yaptırım Uygulamaya Çağırdı",
+        "summary": "Yüzden fazla eski diplomat, Fransa ve Birleşik Krallık hükümetlerine çağrıda bulunarak İsrail'e Filistin politikaları nedeniyle yaptırım uygulanmasını talep etti. Yayınlanan açık mektupta, İsrail'e yönelik silah transferlerinin tamamen yasaklanması gerektiği belirtildi. Ayrıca, Avrupa Birliği-İsrail ve Birleşik Krallık-İsrail arasındaki mevcut ticaret anlaşmalarının dondurulması çağrısı yapıldı. Bu diplomatik girişim, bölgedeki gerilimin uluslararası alanda yarattığı yankıları gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/13748651/pexels-photo-13748651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T15:47:29.845Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787413817877zyofm",
+        "title": "İran'ın Güney Pars 14. Faz Rafinerisinin Restorasyonu %70 Tamamlandı",
+        "summary": "İran'ın Güney Pars 14. Faz rafinerisinde, daha önce İsrail saldırısı sonucu hasar gören tesisin onarım çalışmaları devam ediyor. Yetkililer tarafından yapılan açıklamaya göre, restorasyon sürecinin %70'i tamamlanmış durumda. Bu önemli enerji altyapısının tamamen faaliyete geçmesinin önümüzdeki iki yıl içinde gerçekleşmesi bekleniyor. Proje, İran'ın enerji kapasitesini yeniden kazanması ve bölgesel güvenlik dinamiklerinin kritik altyapılar üzerindeki etkilerini göstermesi açısından büyük önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6726394/pexels-photo-6726394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T15:50:17.877Z",
+        "location": {
+            "lat": 27.48,
+            "lng": 52.61,
+            "name": "Assaluyeh, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/restoration-of-iran-s-south-pars-phase-14-refinery-70-complete-after-israeli-strike/4034730",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787410139133x0n2u",
         "title": "İran'ın Silah Kabiliyetleri ve ABD ile Olası Savaşın Etkileri",
         "summary": "ABD ile olası bir savaşın İran'ın silah kabiliyetleri hakkında ne gibi bilgiler ortaya çıkardığına dair tartışmalar devam ediyor. İranlı yetkililer, silah üretiminin kesintisiz sürdüğünü belirtirken, savaş koşulları altında bu konudaki detayların açıklanmayacağını duyurdu. Bu açıklama, ülkenin askeri kapasitesine yönelik spekülasyonları artırırken, bölgesel güvenlik dinamikleri açısından önem taşıyor ve uluslararası gözlemciler tarafından yakından takip ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Alicante, İspanya"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787284358181lgalp",
-        "title": "ABD'den İran'a Yaptırım Tehdidi: Ekonomi Çökecek, Rejim Yıkılacak",
-        "summary": "ABD Hazine Bakanı Scott Bessent, İran ekonomisine yönelik yaptırımların ülkenin ekonomisini 'ezerek' rejimini 'çökerteceğini' belirtti. Bessent, müttefiklerin bu konuda 'bizimle mi yoksa bize karşı mı' olduklarına karar vermeleri gerekeceğini ifade etti. Bu açıklama, ABD'nin İran'a yönelik maksimum baskı politikasını sürdürdüğünü ve uluslararası toplumu bu politikaya uymaya çağırdığını gösteriyor. Yaptırımların İran'ın ekonomik istikrarı ve siyasi yapısı üzerindeki potansiyel etkileri uluslararası gündemde önemli yer tutuyor. ABD'nin bu tutumu, bölgedeki diplomatik gerilimi artırma potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1119118/pexels-photo-1119118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T03:52:38.181Z",
-        "location": {
-            "lat": 32.4,
-            "lng": 53.7,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787280397796xydfa",
-        "title": "Mısır, Etiyopya'nın Yeni Nil Barajları Üzerinde Etkili Olabilecek mi?",
-        "summary": "Büyük Etiyopya Rönesans Barajı (GERD) inşaatını engelleyemeyen Mısır için, Etiyopya'nın Nil Nehri üzerindeki gelecekteki baraj projeleri yeni bir sınav teşkil ediyor. Mısır, su güvenliği açısından hayati öneme sahip olan Nil Nehri'nin akışını etkileyecek bu yeni projeler karşısında stratejilerini gözden geçiriyor. Kahire, Etiyopya'nın planladığı üç yeni baraj projesinin inşasını şekillendirme veya etkileme yollarını ararken, bu durum iki ülke arasındaki su paylaşımı ve bölgesel diplomasi konularında gerilimi yeniden tırmandırabilir. Mısır'ın bu projelerdeki rolü, bölgedeki su politikaları ve uluslararası ilişkiler açısından yakından takip edilecek.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18314304/pexels-photo-18314304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T02:46:37.796Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
