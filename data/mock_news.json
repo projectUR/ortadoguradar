@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787435248553iqwm6",
+        "title": "Hartum'da Açık Hava Sinemaları Film Gecelerini Geri Getiriyor",
+        "summary": "Sudan'ın başkenti Hartum'da açık hava sinemaları yeniden faaliyete geçerek şehir sakinlerine film geceleri sunmaya başladı. Devam eden çatışmaların gölgesindeki Hartum halkı, bu sinema etkinlikleriyle savaştan kısa bir süreliğine de olsa uzaklaşma fırsatı buluyor. Aileler, açık hava sinemasında bir araya gelerek toplumsal bağları güçlendiriyor ve normalleşme arayışında kültürel aktivitelere katılıyor. Bu girişim, savaşın yıprattığı topluma moral ve umut aşılamayı hedefliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7234386/pexels-photo-7234386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T21:47:28.553Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.6,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1787430444041880xm",
         "title": "İsrail ordusu ve yerleşimciler Batı Şeria'da en az 20 Filistinliyi yaraladı",
         "summary": "İsrail ordusu ve yerleşimcilerin Batı Şeria'da gerçekleştirdiği müdahalelerde en az 20 Filistinlinin yaralandığı bildirildi. Filistin haber ajansı Wafa'nın haberine göre, Hebron'a bağlı Masafer Yatta bölgesindeki Al-Rakiz köyünde yaşlı Said el-Amour, silahlı yerleşimciler tarafından darp edildi. El-Amour'un saldırı sonucu çeşitli yara ve morluklar aldığı belirtildi. Bu olay, Batı Şeria genelinde Filistinliler ile İsrail güçleri ve yerleşimciler arasındaki gerilimin devam ettiğini bir kez daha gözler önüne serdi.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17872983985851mcyk",
-        "title": "Yemen güçleri batı Yemen'de Husilere ait teçhizat ve komutanı hedef aldı",
-        "summary": "Yemen'deki askeri kaynaklardan edinilen bilgilere göre, Yemen güçleri ülkenin batı kesiminde Husilere ait hedeflere yönelik operasyon düzenledi. 5. Askeri Bölge tarafından yapılan açıklamada, ağır teçhizat, tahkimat makineleri ve bir Husi komuta pozisyonunun hedef alındığı belirtildi. Saldırının, bölgedeki çatışmaların devam ettiği bir dönemde gerçekleştiği ifade edildi. Operasyonun, Husilerin askeri kapasitesini zayıflatmaya yönelik olduğu düşünülüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17727749/pexels-photo-17727749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T07:46:38.585Z",
-        "location": {
-            "lat": 15,
-            "lng": 43,
-            "name": "Batı Yemen, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-forces-target-houthi-equipment-commander-in-western-yemen/4033435",
         "trendScore": 85,
         "isBreaking": false
     }
