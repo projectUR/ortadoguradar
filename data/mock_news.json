@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787430444041880xm",
+        "title": "İsrail ordusu ve yerleşimciler Batı Şeria'da en az 20 Filistinliyi yaraladı",
+        "summary": "İsrail ordusu ve yerleşimcilerin Batı Şeria'da gerçekleştirdiği müdahalelerde en az 20 Filistinlinin yaralandığı bildirildi. Filistin haber ajansı Wafa'nın haberine göre, Hebron'a bağlı Masafer Yatta bölgesindeki Al-Rakiz köyünde yaşlı Said el-Amour, silahlı yerleşimciler tarafından darp edildi. El-Amour'un saldırı sonucu çeşitli yara ve morluklar aldığı belirtildi. Bu olay, Batı Şeria genelinde Filistinliler ile İsrail güçleri ve yerleşimciler arasındaki gerilimin devam ettiğini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15490754/pexels-photo-15490754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T20:27:24.041Z",
+        "location": {
+            "lat": 31.5333,
+            "lng": 35.0917,
+            "name": "Masafer Yatta, Hebron, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-occupiers-injure-at-least-20-palestinians-across-west-bank/4034829",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787423801179a9k9h",
         "title": "İsrail Ordusu Batı Şeria'da Filistinli Belediye Başkanını Gözaltına Aldı",
         "summary": "İsrail güçleri, Batı Şeria'nın Nablus kentine bağlı Beyt Furik'in doğu kesimine bir baskın düzenledi. Baskında, Beyt Furik Belediye Başkanı ve belediye meclisi üyeleri ile birlikte bazı bölge sakinleri gözaltına alındı. Yerel kaynaklara göre, gözaltına alınanlar birkaç saat sonra serbest bırakıldı. Olay, Anadolu Ajansı'na konuşan yerel kaynaklar tarafından aktarıldı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/yemeni-forces-target-houthi-equipment-commander-in-western-yemen/4033435",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1787298418997tvghb",
-        "title": "İsrail Savaş Uçakları Güney Lübnan'da Gece Boyunca Saldırılar Düzenledi",
-        "summary": "İsrail savaş uçakları, Lübnan'ın güneyindeki Mansuri ve Nebatiye bölgelerine hava saldırıları gerçekleştirdi. Bu saldırılarla eş zamanlı olarak, İsrail güçleri Hadatha ve el-Tiri bölgelerinde patlamalar düzenledi. Olaylar, bölgedeki gerilimin devam ettiğini gösteriyor ve iki ülke arasındaki çatışma ortamını yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T07:46:58.997Z",
-        "location": {
-            "lat": 33.56,
-            "lng": 35.49,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-warplanes-carry-out-overnight-strikes-in-southern-lebanon/4033411",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
