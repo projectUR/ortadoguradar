@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787373306798bm32s",
+        "title": "Tunus açıklarında İtalya'ya giden göçmen teknesi battı: 13 Tunuslu kayıp",
+        "summary": "Tunus açıklarında İtalya'ya doğru yola çıkan bir göçmen teknesinin batması sonucu en az 13 Tunuslu kayboldu. Olay, Akdeniz'deki düzensiz göç rotalarında yaşanan trajedilere bir yenisini ekledi. Uluslararası Göç Örgütü verilerine göre, 2014 yılından bu yana Akdeniz'i geçerek Avrupa'ya ulaşmaya çalışan binlerce kişi hayatını kaybetti. Bu son olay, Kuzey Afrika'dan Avrupa'ya yönelik tehlikeli deniz yolculuklarının devam ettiğini ve insan kaçakçılığı sorununu bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13583958/pexels-photo-13583958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T04:35:06.798Z",
+        "location": {
+            "lat": 34,
+            "lng": 9,
+            "name": "Tunus"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787370216733t2k29",
         "title": "Guyana'dan Rodrigues Birkett, Birleşmiş Milletler Liderliği Yarışında Gayri Resmi Ankette Önde",
         "summary": "Birleşmiş Milletler'in (BM) bir sonraki liderini belirleme süreci devam ederken, Guyanalı diplomat Rodrigues Birkett'in gayri resmi bir ankette önde olduğu bildirildi. Mevcut BM Genel Sekreteri Guterres'in görev süresi sona ermeden önce, Güvenlik Konseyi'nin yeni lider üzerinde uzlaşmaya varmak için çalıştığı belirtiliyor. Bu gelişme, küresel diplomasi ve uluslararası ilişkiler açısından önem taşıyor. Yeni BM liderinin seçimi, örgütün gelecekteki önceliklerini ve uluslararası sorunlara yaklaşımını şekillendirecek.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787225357841uts6v",
-        "title": "Suriye'den 'Türk askeri varlığı kurma planı yok' açıklaması",
-        "summary": "Suriye Dışişleri Bakanı, verdiği bir röportajda, ülkesinde Türk askeri varlığı kurma yönünde herhangi bir planın bulunmadığını ifade etti. Bakan, Türk askeri yetkililerinin bir hava üssünü eğitim faaliyetleri kapsamında ziyaret ettiğini belirtti. Bu ziyaretin, kalıcı bir askeri varlık oluşturma amacı taşımadığının altı çizildi. Açıklama, iki ülke arasındaki ilişkiler ve bölgesel güvenlik dinamikleri açısından önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5323838/pexels-photo-5323838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T11:29:17.841Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
