@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787419368080mq2ak",
+        "title": "Güney Kore'den İlk Konteyner Gemisi Arktik Rotayı Test Ediyor",
+        "summary": "Güney Koreli PanStar Acro adlı konteyner gemisi, Avrupa'ya ulaşmak üzere Arktik rotayı kullanarak bir deneme seferine çıktı. Erimiş deniz buzlarının açtığı bu yeni rotanın ticari olarak ne kadar uygulanabilir olduğunu test etmeyi amaçlayan sefer, küresel deniz taşımacılığı için potansiyel yeni bir alternatif sunuyor. Bu rota, Asya ile Avrupa arasındaki mevcut güzergahlara kıyasla daha kısa bir mesafe sunarak, özellikle Süveyş Kanalı gibi geleneksel geçiş noktalarının yoğunluğunu ve maliyetlerini azaltma potansiyeli taşıyor. Arktik rotanın ticari başarısı, küresel ticaret akışlarını ve denizcilik stratejilerini etkileyebilir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/32843666/pexels-photo-32843666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T17:22:48.080Z",
+        "location": {
+            "lat": 29.96,
+            "lng": 32.54,
+            "name": "Süveyş, Mısır"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787413649845l0g5x",
         "title": "Eski Diplomatlar Fransa ve İngiltere'yi İsrail'e Yaptırım Uygulamaya Çağırdı",
         "summary": "Yüzden fazla eski diplomat, Fransa ve Birleşik Krallık hükümetlerine çağrıda bulunarak İsrail'e Filistin politikaları nedeniyle yaptırım uygulanmasını talep etti. Yayınlanan açık mektupta, İsrail'e yönelik silah transferlerinin tamamen yasaklanması gerektiği belirtildi. Ayrıca, Avrupa Birliği-İsrail ve Birleşik Krallık-İsrail arasındaki mevcut ticaret anlaşmalarının dondurulması çağrısı yapıldı. Bu diplomatik girişim, bölgedeki gerilimin uluslararası alanda yarattığı yankıları gözler önüne seriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/americas/us-state-department-notifies-congress-of-funding-for-gaza-stabilization-force/4033390",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787295110202146t4",
-        "title": "Onlarca Göçmen İspanya Kıyısına Çıktı, Plajdakileri Şaşırttı",
-        "summary": "İspanya'nın güneydoğu kıyısına onlarca göçmen tekneyle ulaştı. Sosyal medyada paylaşılan görüntülerde, göçmenlerin sahile ayak bastığı ve plajda bulunanları şaşırttığı anlar yer alıyor. Bu olay, Avrupa'ya yönelik düzensiz göç hareketliliğinin devam ettiğini bir kez daha gözler önüne serdi. Yetkililerin göçmenlerle ilgili gerekli işlemleri başlatması bekleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10629448/pexels-photo-10629448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T06:51:50.202Z",
-        "location": {
-            "lat": 38.345,
-            "lng": -0.481,
-            "name": "Alicante, İspanya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
