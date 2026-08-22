@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787410139133x0n2u",
+        "title": "İran'ın Silah Kabiliyetleri ve ABD ile Olası Savaşın Etkileri",
+        "summary": "ABD ile olası bir savaşın İran'ın silah kabiliyetleri hakkında ne gibi bilgiler ortaya çıkardığına dair tartışmalar devam ediyor. İranlı yetkililer, silah üretiminin kesintisiz sürdüğünü belirtirken, savaş koşulları altında bu konudaki detayların açıklanmayacağını duyurdu. Bu açıklama, ülkenin askeri kapasitesine yönelik spekülasyonları artırırken, bölgesel güvenlik dinamikleri açısından önem taşıyor ve uluslararası gözlemciler tarafından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36845310/pexels-photo-36845310.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T14:48:59.133Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1787410242421vp9xa",
+        "title": "İsrail'in Gazze'ye İHA Saldırısı: Bir Filistinli Öldü, Yaralılar Var",
+        "summary": "İsrail'e ait bir insansız hava aracının Gazze Şeridi'ne düzenlediği saldırıda bir Filistinli hayatını kaybetti, bazı kişiler de yaralandı. Görgü tanıklarının ifadelerine göre, saldırı Gazze Şeridi'nin orta kesiminde yer alan Deir al-Balah kentindeki bir evin avlusunu hedef aldı. Bu olay, bölgedeki ateşkesin son ihlallerinden biri olarak kayıtlara geçti. Saldırının ardından bölgede gerilimin arttığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11378718/pexels-photo-11378718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T14:50:42.421Z",
+        "location": {
+            "lat": 31.41,
+            "lng": 34.33,
+            "name": "Deir al-Balah, Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-kills-palestinian-injures-others-in-latest-gaza-ceasefire-violation/4034702",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787402723779e1b7l",
         "title": "İsrail Medyası: Askeri Yetkililer Netanyahu'nun Seçimleri Ertelemek İçin Gerilimi Tırmandırabileceği Şüphesi Taşıyor",
         "summary": "İsrail medyasında yer alan haberlere göre, İsrailli askeri yetkililer Başbakan Binyamin Netanyahu'nun seçimleri ertelemek amacıyla mevcut gerilimi tırmandırma arayışında olabileceği şüphesini taşıyor. Üst düzey subayların, Başbakan'ın devam eden çatışmaların sona ermesini istemediğine inandığı belirtiliyor. Bu durum, İsrail'in iç siyaseti ile bölgesel güvenlik dinamikleri arasındaki potansiyel bağlantıları gündeme getiriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787280440330uc4rj",
-        "title": "Panama Kanalı, El Nino Etkisiyle Gemi Geçişlerini Kısıtlayacak",
-        "summary": "Panama Kanalı yönetimi, El Nino hava olayının neden olacağı aşırı hava koşulları beklentisiyle gemi geçişlerine sınırlama getirme kararı aldı. Bu önlem, bölgede kuraklık ve aşırı sıcaklık olasılığının artması öngörüsüyle alındı. Kanal yetkilileri, su seviyelerinin düşmesi ve operasyonel zorlukların önüne geçmeyi hedefliyor. Küresel ticaretin önemli arterlerinden biri olan Panama Kanalı'ndaki bu kısıtlamaların, uluslararası deniz taşımacılığı ve tedarik zincirleri üzerinde etkileri olması bekleniyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/15346128/pexels-photo-15346128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T02:47:20.330Z",
-        "location": {
-            "lat": 9,
-            "lng": -79.7,
-            "name": "Panama"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787275571747mpopi",
-        "title": "Hükümet karşıtı protestocular ikinci ayda da Tunus sokaklarında",
-        "summary": "Tunus'ta hükümet karşıtı protestolar ikinci ayına girerken, ülke genelinde gösterilerde artış yaşanıyor. Ekonomik koşulların kötüleşmesiyle birlikte halk, yaşam standartlarındaki düşüşe tepki göstermek amacıyla sokaklara dökülüyor. Başkent Tunus başta olmak üzere birçok şehirde düzenlenen eylemlerde, hükümetin ekonomi politikaları eleştiriliyor. Ülkedeki siyasi ve sosyal gerilim, artan protestolarla birlikte tırmanışını sürdürüyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11421039/pexels-photo-11421039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T01:26:11.747Z",
-        "location": {
-            "lat": 34,
-            "lng": 9,
-            "name": "Tunus"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
