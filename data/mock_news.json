@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787423801179a9k9h",
+        "title": "İsrail Ordusu Batı Şeria'da Filistinli Belediye Başkanını Gözaltına Aldı",
+        "summary": "İsrail güçleri, Batı Şeria'nın Nablus kentine bağlı Beyt Furik'in doğu kesimine bir baskın düzenledi. Baskında, Beyt Furik Belediye Başkanı ve belediye meclisi üyeleri ile birlikte bazı bölge sakinleri gözaltına alındı. Yerel kaynaklara göre, gözaltına alınanlar birkaç saat sonra serbest bırakıldı. Olay, Anadolu Ajansı'na konuşan yerel kaynaklar tarafından aktarıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2582931/pexels-photo-2582931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T18:36:41.179Z",
+        "location": {
+            "lat": 32.19,
+            "lng": 35.32,
+            "name": "Beyt Furik, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-briefly-holds-palestinian-mayor-municipal-council-members-in-west-bank-raid/4034737",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787420863013fq1vp",
         "title": "AB Yaptırımlı İsrailli Yerleşimci, Filistinli Çiftçinin Eşeğini Çaldı ve Öldürdü",
         "summary": "Filistinli bir çiftçiye ait eşeğin, İsrailli yerleşimciler tarafından çalındığı ve sürüklenerek öldürüldüğü bildirildi. Olayın, Batı Şeria'da meydana geldiği tahmin ediliyor. Haberde, eşeği çalan ve öldüren yerleşimcilerden birinin Avrupa Birliği tarafından yaptırım uygulanan kişiler arasında olduğu belirtildi. Bu tür olaylar, bölgedeki Filistinli çiftçiler ile İsrailli yerleşimciler arasındaki gerilimi artırıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-warplanes-carry-out-overnight-strikes-in-southern-lebanon/4033411",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1787298442150q5ywv",
-        "title": "Filistin Dışişleri Bakanlığı, İsrail'in Yasa Dışı E1 Yerleşim Projesi İhalelerinden Kaçınılması Çağrısı Yaptı",
-        "summary": "Filistin Dışişleri Bakanlığı, uluslararası şirketleri İsrail'in yasa dışı E1 yerleşim projesi için açılan ihalelere katılmamaya çağırdı. Bakanlık, bu tür projelere doğrudan veya dolaylı katılımın uluslararası hukuka aykırı olacağını vurguladı. E1 projesi, Doğu Kudüs ile Batı Şeria arasındaki bağlantıyı keserek iki devletli çözüm olasılığını ciddi şekilde tehdit eden stratejik bir yerleşim planıdır. Filistin yönetimi, uluslararası toplumu bu yasa dışı faaliyetlere karşı durmaya ve şirketleri bu projelere destek vermemeye davet etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36879250/pexels-photo-36879250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T07:47:22.150Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-foreign-ministry-urges-firms-to-avoid-tenders-for-illegal-israeli-e1-settlement-project/4033392",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
