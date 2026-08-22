@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787402723779e1b7l",
+        "title": "İsrail Medyası: Askeri Yetkililer Netanyahu'nun Seçimleri Ertelemek İçin Gerilimi Tırmandırabileceği Şüphesi Taşıyor",
+        "summary": "İsrail medyasında yer alan haberlere göre, İsrailli askeri yetkililer Başbakan Binyamin Netanyahu'nun seçimleri ertelemek amacıyla mevcut gerilimi tırmandırma arayışında olabileceği şüphesini taşıyor. Üst düzey subayların, Başbakan'ın devam eden çatışmaların sona ermesini istemediğine inandığı belirtiliyor. Bu durum, İsrail'in iç siyaseti ile bölgesel güvenlik dinamikleri arasındaki potansiyel bağlantıları gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T12:45:23.779Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-military-officials-suspect-netanyahu-may-seek-escalation-to-delay-elections-israeli-media/4034579",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787390941910n7y11",
         "title": "İran, Yeni ABD Yaptırımlarının Diğer Devletlerin Egemenliğini İhlal Ettiğini Belirtti",
         "summary": "İran Dışişleri Bakanlığı, Amerika Birleşik Devletleri'nin uyguladığı yeni yaptırımların diğer devletlerin egemenliğini ihlal ettiğini açıkladı. Bakanlık sözcüsü Esmaeil Baghaei, ABD Başkanı Trump'ın son tehditlerini 'tam ölçekli klasik sömürgeciliğe' dönüş olarak değerlendirdi. Baghaei, bu tür tek taraflı adımların uluslararası hukuka aykırı olduğunu ve bölgesel istikrara zarar verdiğini vurguladı. İran, uluslararası toplumu bu yaptırımlara karşı durmaya ve egemenlik haklarını savunmaya çağırdı.",
@@ -780,22 +796,6 @@
             "name": "Tunus"
         },
         "source": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787270009215pq2lw",
-        "title": "Birleşik Krallık, Fransa, Almanya, İtalya ve Kanada, İsrail'in Batı Şeria yerleşim projesini kınadı",
-        "summary": "Avrupa ülkeleri ve Kanada, İsrail'in işgal altındaki Batı Şeria'da yerleşim birimlerini genişletme planlarına yönelik tepkilerini dile getirdi. Söz konusu ülkeler, İsrail'in Batı Şeria'nın stratejik açıdan kritik bir bölgesindeki yerleşim projelerini kınadıklarını açıkladı. Bu kınama, İsrail üzerindeki uluslararası baskıyı artırma amacı taşıyor. Uluslararası hukuka göre yasa dışı kabul edilen bu yerleşim faaliyetlerinin, bölgedeki barış ve istikrar çabalarını sekteye uğratabileceği vurgulandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38249032/pexels-photo-38249032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T23:53:29.215Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
