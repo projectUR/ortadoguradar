@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787390941910n7y11",
+        "title": "İran, Yeni ABD Yaptırımlarının Diğer Devletlerin Egemenliğini İhlal Ettiğini Belirtti",
+        "summary": "İran Dışişleri Bakanlığı, Amerika Birleşik Devletleri'nin uyguladığı yeni yaptırımların diğer devletlerin egemenliğini ihlal ettiğini açıkladı. Bakanlık sözcüsü Esmaeil Baghaei, ABD Başkanı Trump'ın son tehditlerini 'tam ölçekli klasik sömürgeciliğe' dönüş olarak değerlendirdi. Baghaei, bu tür tek taraflı adımların uluslararası hukuka aykırı olduğunu ve bölgesel istikrara zarar verdiğini vurguladı. İran, uluslararası toplumu bu yaptırımlara karşı durmaya ve egemenlik haklarını savunmaya çağırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11505601/pexels-photo-11505601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T09:29:01.910Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787387583108fs9w2",
         "title": "Panama Kanalı, El Nino Nedeniyle Gemi Geçişlerini Azaltacak",
         "summary": "Panama Kanalı Yönetimi, yaklaşan 'aşırı' El Nino hava olayının neden olduğu kuraklık ve düşük su seviyeleri nedeniyle gemi geçişlerinde kısıtlamaya gideceğini duyurdu. 15 Eylül tarihinden itibaren günlük geçiş sayısı 40'tan 32 gemiye düşürülecek. Bu karar, küresel deniz taşımacılığında yavaşlamaya ve maliyetlerin artmasına yol açma riski taşıyor. Kanalın bu adımı, su seviyelerini koruma ve operasyonel sürdürülebilirliği sağlama amacı taşıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787268501648ech8e",
-        "title": "Savaşın Harap Ettiği Suriye'de Aile Evlerini Yeniden İnşa Etmenin Maliyeti",
-        "summary": "Suriye'de yıllarca süren çatışmaların ardından ailelerin evlerini yeniden inşa etme maliyeti ve karşılaştıkları zorluklar gündemde. Al Jazeera muhabiri Hannah Raslan'ın Suriye'den bildirdiğine göre, savaşın harap ettiği bölgelerde aileler için yeniden yapılanma süreci büyük bir yük oluşturuyor. Haber, savaş sonrası toparlanma sürecinde sivil halkın karşılaştığı ekonomik ve sosyal engelleri ele alıyor. Bu durum, çatışmaların uzun vadeli insani etkilerini ve ailelerin normal yaşama dönme çabalarını gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8488031/pexels-photo-8488031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-20T23:28:21.648Z",
-        "location": {
-            "lat": 34.8,
-            "lng": 36.8,
-            "name": "Suriye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
