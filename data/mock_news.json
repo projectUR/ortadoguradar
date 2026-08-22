@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787442464773q10sz",
+        "title": "İsrail Ordusu ve Yerleşimciler Batı Şeria'da Filistinlileri Yaraladı",
+        "summary": "Batı Şeria'da İsrail ordusu ve yerleşimcilerin Filistinlilere yönelik saldırıları devam ediyor. Bölgedeki Filistinliler, yerleşimcilerin kontrol alanlarını genişletmesiyle birlikte saldırılara ve zorla yerinden edilmeye maruz kalıyor. Haberlere göre, bu eylemler İsrail askeri operasyonları ve güvenlik güçlerinin müdahalesizliği ile destekleniyor. Son olaylarda çok sayıda Filistinlinin yaralandığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6907092/pexels-photo-6907092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-22T23:47:44.773Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787435248553iqwm6",
         "title": "Hartum'da Açık Hava Sinemaları Film Gecelerini Geri Getiriyor",
         "summary": "Sudan'ın başkenti Hartum'da açık hava sinemaları yeniden faaliyete geçerek şehir sakinlerine film geceleri sunmaya başladı. Devam eden çatışmaların gölgesindeki Hartum halkı, bu sinema etkinlikleriyle savaştan kısa bir süreliğine de olsa uzaklaşma fırsatı buluyor. Aileler, açık hava sinemasında bir araya gelerek toplumsal bağları güçlendiriyor ve normalleşme arayışında kültürel aktivitelere katılıyor. Bu girişim, savaşın yıprattığı topluma moral ve umut aşılamayı hedefliyor.",
@@ -780,22 +796,6 @@
             "name": "Londra, Birleşik Krallık"
         },
         "source": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787298374318mbfuc",
-        "title": "İsrail, artan uluslararası protestolara rağmen Batı Şeria'da kapatılan yerleşimi yeniden kurdu",
-        "summary": "İsrail, uluslararası toplumun artan protestolarına rağmen Batı Şeria'da daha önce kapatılan bir yerleşimi yeniden kurduğunu duyurdu. İsrail hükümetinin milliyetçi politikaları doğrultusunda otuz \"öncü aile\" bölgeye yerleşmeye başladı. Bu gelişme, yerleşimin çevresindeki Filistinli sakinler arasında büyük endişe ve korkuya neden oldu. Uluslararası hukuka aykırı kabul edilen bu tür yerleşim faaliyetleri, bölgedeki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5308510/pexels-photo-5308510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T07:46:14.318Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
