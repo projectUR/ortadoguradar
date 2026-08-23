@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787505801438nc3xb",
+        "title": "Sudan'da Ani Seller 63 Aileyi Yerinden Etti, Onlarca Evi Hasar Gördü",
+        "summary": "Sudan'da şiddetli yağışlar nedeniyle ani seller meydana geldi. Ülke, Haziran'dan Ekim'e kadar süren yağışlı mevsimini yaşıyor. Bu seller sonucunda 63 aile yerinden olurken, onlarca evde de ciddi hasar oluştu. Doğal afetin yol açtığı insani durum ve altyapı üzerindeki olumsuz etkiler dikkat çekiyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/17609960/pexels-photo-17609960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T17:23:21.438Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.5,
+            "name": "Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/flash-floods-displace-63-families-damage-dozens-of-homes-in-sudan/4035236",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787504098786o5v4j",
         "title": "Nijerya, İran'daki Potansiyel Çatışmanın Ardından Gaz Üretimini Artırma Hedefinde",
         "summary": "Nijeryalı yetkili Ekperikpe Ekpo, ABD ve İsrail'in İran'a karşı olası bir savaşının Nijerya'yı gaz üretimini genişletmeye yönelttiğini ifade etti. Bu açıklama, Orta Doğu'daki potansiyel bir çatışmanın küresel enerji piyasalarında yaratabileceği boşlukları değerlendirme arayışını ortaya koyuyor. Nijerya, bu durumdan faydalanarak enerji piyasasındaki konumunu güçlendirmeyi hedefliyor. Ülke, artan gaz talebini karşılamak ve gelirlerini yükseltmek amacıyla üretim kapasitesini genişletme stratejisi izleyecek.",
@@ -780,22 +796,6 @@
             "name": "Majdal Zoun, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-artillery-shelling-explosions-hit-several-towns-in-southern-lebanon/4034355",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17873841760978mvbu",
-        "title": "İran ordusu askeri doktrinini 'savunmadan saldırıya' kaydırdığını açıkladı",
-        "summary": "İran ordusu, askeri doktrinini 'savunmadan saldırıya' doğru değiştirdiğini duyurdu. Bu açıklama, ülkenin askeri duruşunda önemli bir dönüşüme işaret ediyor. Ayrıca, ordunun olası bir kara harekatı durumunda ABD askerlerini öldüren veya ele geçirenler için ödül teklif ettiği bildirildi. Bu gelişme, bölgedeki gerilimin tırmandığını ve potansiyel bir çatışma riskini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10853852/pexels-photo-10853852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T07:36:16.097Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-army-says-its-military-doctrine-shifting-from-defensive-to-offensive/4034353",
         "trendScore": 85,
         "isBreaking": false
     }
