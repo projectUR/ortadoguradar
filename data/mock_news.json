@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787467565327i31om",
+        "title": "İsrail, artan uluslararası protestolara rağmen Batı Şeria'daki kapalı yerleşimi yeniden kurdu",
+        "summary": "İsrail hükümetinin teşvikiyle milliyetçilik dalgası eşliğinde otuz \"öncü aile\" Batı Şeria'daki daha önce kapatılmış bir yerleşime yerleşti. Bu adım, uluslararası toplumdan gelen artan protestolara rağmen atıldı. Yerleşimin yeniden kurulması, bölgedeki Filistinli sakinler arasında endişe ve korkuya neden oldu. Hükümetin bu hamlesi, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası hukuka aykırı bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16049973/pexels-photo-16049973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T06:46:05.327Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1787464520117mn9rb",
         "title": "Eski Kolombiya Devlet Başkanı'ndan İsrail İlişkileri ve Gazze Açıklaması",
         "summary": "Eski Kolombiya Devlet Başkanı Gustavo Petro, İsrail ile ilişkilerin yeniden tesis edilmesinin Gazze'deki soykırımı alkışlamak anlamına geleceğini belirtti. Petro'nun bu açıklaması, Kolombiya'nın İsrail ile diplomatik bağlarına yönelik eleştirel bir duruşu yansıtıyor. Bu yorum, uluslararası arenada Gazze'deki duruma ilişkin farklı ülkelerin ve liderlerin tutumlarını ve tartışmaları gündeme getiriyor. Açıklama, Orta Doğu'daki mevcut gerilime dair uluslararası siyasi tepkilerin bir parçası olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1787320096370918jv",
-        "title": "İngiliz meteorologlar: El Nino 'bir asırdan fazla süredir en şiddetlisi' olmaya hazırlanıyor",
-        "summary": "İngiltere Meteoroloji Ofisi (Met Office), El Nino hava olayının son yüzyılın en şiddetlisi olabileceği konusunda uyardı. Kurum, deniz yüzeyi sıcaklıklarında 3 santigrat derecenin (5.4 Fahrenheit) üzerinde \"benzeri görülmemiş\" bir artış öngörüyor. Bu durumun, dünya genelinde aşırı hava olayları riskini önemli ölçüde artıracağı belirtiliyor. Orta Doğu coğrafyası da dahil olmak üzere birçok bölgenin kuraklık, sel ve sıcak hava dalgaları gibi iklimsel değişikliklerden etkilenmesi bekleniyor. Uzmanlar, küresel çapta gıda güvenliği, su kaynakları ve enerji talebi üzerinde potansiyel olumsuz etkiler konusunda endişelerini dile getiriyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/20870343/pexels-photo-20870343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T13:48:16.370Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
