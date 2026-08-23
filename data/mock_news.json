@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787504098786o5v4j",
+        "title": "Nijerya, İran'daki Potansiyel Çatışmanın Ardından Gaz Üretimini Artırma Hedefinde",
+        "summary": "Nijeryalı yetkili Ekperikpe Ekpo, ABD ve İsrail'in İran'a karşı olası bir savaşının Nijerya'yı gaz üretimini genişletmeye yönelttiğini ifade etti. Bu açıklama, Orta Doğu'daki potansiyel bir çatışmanın küresel enerji piyasalarında yaratabileceği boşlukları değerlendirme arayışını ortaya koyuyor. Nijerya, bu durumdan faydalanarak enerji piyasasındaki konumunu güçlendirmeyi hedefliyor. Ülke, artan gaz talebini karşılamak ve gelirlerini yükseltmek amacıyla üretim kapasitesini genişletme stratejisi izleyecek.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/34636185/pexels-photo-34636185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T16:54:58.786Z",
+        "location": {
+            "lat": 9.082,
+            "lng": 7.1803,
+            "name": "Abuja, Nijerya"
+        },
+        "source": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787500101388wnpa5",
         "title": "Pezeshkian: İran, savaş ve yaptırımlara rağmen 'Venezuela olmadı'",
         "summary": "İran Cumhurbaşkanı Mesud Pezeshkian, ülkesinin maruz kaldığı 'tam ölçekli savaşa' ve ağır yaptırımlara rağmen ayakta kaldığını belirtti. Pezeshkian, İran'ın bu zorlu koşullar altında dahi 'Venezuela'ya dönüşmediğini' vurguladı. Bu açıklama, ülkenin ekonomik ve siyasi dayanıklılığına dair uluslararası tartışmaların ortasında geldi. Cumhurbaşkanı, İran'ın iç ve dış baskılara karşı direncini sürdürdüğünü ifade etti. Bu tür açıklamalar, genellikle iç kamuoyuna ve uluslararası aktörlere yönelik bir mesaj niteliği taşımaktadır.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iranian-army-says-its-military-doctrine-shifting-from-defensive-to-offensive/4034353",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787373306798bm32s",
-        "title": "Tunus açıklarında İtalya'ya giden göçmen teknesi battı: 13 Tunuslu kayıp",
-        "summary": "Tunus açıklarında İtalya'ya doğru yola çıkan bir göçmen teknesinin batması sonucu en az 13 Tunuslu kayboldu. Olay, Akdeniz'deki düzensiz göç rotalarında yaşanan trajedilere bir yenisini ekledi. Uluslararası Göç Örgütü verilerine göre, 2014 yılından bu yana Akdeniz'i geçerek Avrupa'ya ulaşmaya çalışan binlerce kişi hayatını kaybetti. Bu son olay, Kuzey Afrika'dan Avrupa'ya yönelik tehlikeli deniz yolculuklarının devam ettiğini ve insan kaçakçılığı sorununu bir kez daha gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/13583958/pexels-photo-13583958.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T04:35:06.798Z",
-        "location": {
-            "lat": 34,
-            "lng": 9,
-            "name": "Tunus"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
