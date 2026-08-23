@@ -1,5 +1,53 @@
 [
     {
+        "id": "1787448902015kxumv",
+        "title": "İran'dan komşularına ABD'nin ekonomik savaşına katılmama uyarısı",
+        "summary": "İran'dan yapılan resmi açıklamada, Tahran'ın komşu ülkelere yönelik sert bir uyarıda bulunduğu bildirildi. Bir İranlı yetkili, ABD'nin İran'a karşı uyguladığı ekonomik savaşa katılan herhangi bir devletin düşman olarak addedileceğini belirtti. Yetkili, bu tür bir durumda İran'ın misilleme olarak ilgili ülkelerin çıkarlarını hedef alacağını vurguladı. Bu açıklama, bölgedeki gerilimi artırma potansiyeli taşıyor ve komşu ülkeler üzerinde önemli bir baskı oluşturmayı amaçlıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35886855/pexels-photo-35886855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T01:35:02.015Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1787448925162sb6ag",
+        "title": "İran, ABD'nin 'ekonomik D-Day'ine katılan ülkeleri tehdit etti",
+        "summary": "İran, ABD'nin kendisine karşı yürüttüğü ekonomik savaşa katılan ülkelere misilleme yapılacağı uyarısında bulundu. Tahran yönetimi, bu tür adımların karşılıksız kalmayacağını ve ilgili ülkelerin 'misliyle' karşılık göreceğini belirtti. Bu açıklama, ABD'nin İran'a yönelik ekonomik baskılarını artırma çabaları ve uluslararası toplumu bu baskılara dahil etme girişimleri bağlamında geldi. İranlı yetkililer, ABD'nin ekonomik yaptırımlarına destek veren ülkelerin kendi çıkarlarını tehlikeye atacağı mesajını verdi. Bu durum, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11505601/pexels-photo-11505601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T01:35:25.162Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787448950216z4ya2",
+        "title": "İran'dan Komşu Ülkelere ABD'nin Ekonomik Savaş Çabalarına Katılmama Uyarısı",
+        "summary": "İran, komşu ülkeleri ABD'nin kendisine yönelik \"ekonomik savaş\" çabalarına katılmamaları konusunda uyardı. Bu uyarı, ABD Başkanı Donald Trump'ın İran hükümetini zayıflatmak amacıyla ülkeyi ekonomik olarak izole etme tehditlerinin ardından geldi. Tahran yönetimi, bölge ülkelerinin ABD'nin bu politikalarına destek vermesinin ilişkileri olumsuz etkileyeceği mesajını verdi. ABD'nin amacı, İran'ın petrol ihracatını ve finansal erişimini kısıtlayarak ülkenin gelirlerini düşürmek ve nükleer programını durdurmaya zorlamak. Bu durum, Orta Doğu'da gerilimi artırma potansiyeli taşıyor ve bölge ülkelerinin pozisyonlarını belirlemede kritik bir dönemeç oluşturuyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/34358895/pexels-photo-34358895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T01:35:50.216Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787442464773q10sz",
         "title": "İsrail Ordusu ve Yerleşimciler Batı Şeria'da Filistinlileri Yaraladı",
         "summary": "Batı Şeria'da İsrail ordusu ve yerleşimcilerin Filistinlilere yönelik saldırıları devam ediyor. Bölgedeki Filistinliler, yerleşimcilerin kontrol alanlarını genişletmesiyle birlikte saldırılara ve zorla yerinden edilmeye maruz kalıyor. Haberlere göre, bu eylemler İsrail askeri operasyonları ve güvenlik güçlerinin müdahalesizliği ile destekleniyor. Son olaylarda çok sayıda Filistinlinin yaralandığı bildirildi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787301796797qiznj",
-        "title": "İsrailli yerleşimciler, aile uyurken Filistinli bir evi ateşe verdi",
-        "summary": "Batı Şeria'da İsrailli yerleşimcilerin, Filistinli bir ailenin evini ateşe verdiği bildirildi. Olay sırasında evin içinde bir anne ve çocuklarının uyuduğu belirtildi. Yangının yerleşimciler tarafından çıkarıldığı iddia edildi. Bölgedeki gerilimi artıran bu tür olaylar, uluslararası toplumda endişeyle karşılanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9547376/pexels-photo-9547376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T08:43:16.797Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787301871719gusfq",
-        "title": "Malezya Başbakanı, İsrail'in Yasa Dışı Yerleşim İhalelerini Kınadı, Katılımcı Firmaları Uyardı",
-        "summary": "Malezya Başbakanı Enver İbrahim, İsrail'in yasa dışı yerleşim birimi ihalelerini sert bir dille kınadı ve bu ihalelere katılan firmaları uyardı. Başbakan İbrahim, özellikle E1 projesinin işgal altındaki Batı Şeria'yı böleceğini ve kesintisiz bir Filistin devletinin kurulması umutlarını ciddi şekilde baltalayacağını belirtti. Bu açıklama, uluslararası hukuka aykırı olduğu düşünülen İsrail yerleşim faaliyetlerine karşı uluslararası tepkilerin bir parçası olarak geldi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5308510/pexels-photo-5308510.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T08:44:31.719Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/malaysian-premier-denounces-illegal-israeli-settlement-tenders-warns-participating-firms/4033510",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787298316271fo9rc",
-        "title": "Birleşik Krallık'ta Filistin Yanlısı Aktivistler Terör Suçlamasıyla Yargılanabilir",
-        "summary": "Birleşik Krallık'ta, Filistin yanlısı beş aktivist, bir Barclays bankasına yönelik vandalizm eylemiyle suçlanıyor. Mahkeme, bu aktivistlerin eylemlerinin terörle ilgili suçlar kapsamında değerlendirilip değerlendirilmeyeceğine karar verecek. Bu durum, benzer eylemler için terör suçlamasıyla yargılanmanın \"çok sıra dışı\" olduğu belirtilerek uluslararası kamuoyunun dikkatini çekiyor. Dava, aktivizmin sınırları ve terör tanımının genişlemesi üzerine tartışmaları beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6186309/pexels-photo-6186309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T07:45:16.271Z",
-        "location": {
-            "lat": 51.5,
-            "lng": -0.1,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
