@@ -1,5 +1,21 @@
 [
     {
+        "id": "178745824644783sdi",
+        "title": "Sudan'ın Kordofan bölgesindeki çatışmalardan kaçan binlerce kişi El Obeid'e sığınıyor",
+        "summary": "Sudan'ın Kordofan eyaletinde devam eden çatışmalar nedeniyle binlerce sivil evlerini terk etmek zorunda kaldı. Bölgedeki şiddet olaylarından kaçan halk, nispeten daha güvenli kabul edilen El Obeid şehrine doğru hareket ediyor. Bu durum, ülkedeki insani krizin derinleştiğini ve yerinden edilen kişi sayısının arttığını gösteriyor. Uluslararası kuruluşlar, çatışmalardan etkilenen sivillere acil yardım ulaştırılması çağrısında bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30230054/pexels-photo-30230054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T04:10:46.447Z",
+        "location": {
+            "lat": 13.18,
+            "lng": 30.22,
+            "name": "El Obeid, Sudan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787454337104sqs5c",
         "title": "ABD'den İran'a Yaptırım Tehdidi ve Müttefiklere Çağrı",
         "summary": "ABD Hazine Bakanı Scott Bessent, İran ekonomisini 'çökertmeyi' ve rejimini 'yıkmayı' amaçlayan yaptırımların uygulanacağını duyurdu. Bakan Bessent, müttefik ülkelere yönelik yaptığı açıklamada, bu konuda 'bizimle mi, bize karşı mı' olduklarına karar vermeleri gerektiğini vurguladı. Bu açıklama, Washington'ın Tahran üzerindeki ekonomik baskıyı artırma ve uluslararası arenada destek toplama çabasını gösteriyor. Söz konusu yaptırımların İran ekonomisi üzerindeki potansiyel etkileri ve bölgesel yansımaları uluslararası kamuoyu tarafından yakından izleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17873117570673s2da",
-        "title": "İşgal Altındaki Batı Şeria'da Hukuk Kimin Çıkarlarına Hizmet Ediyor?",
-        "summary": "İşgal altındaki Batı Şeria'da hukukun kimin çıkarlarına hizmet ettiği sorusu gündeme geldi. Habere göre, İsrailli yerleşimciler bölgede günde ortalama altı kez saldırı düzenliyor. AJLabs tarafından yapılan bir inceleme, Filistin topraklarının nasıl ele geçirildiğini detaylandırıyor. Bu durum, bölgedeki Filistinlilerin hakları ve uluslararası hukuk açısından önemli tartışmaları beraberinde getiriyor. Haber, Batı Şeria'daki gerilimli durumu ve toprak mülkiyeti sorununu vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18717585/pexels-photo-18717585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T11:29:17.067Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
