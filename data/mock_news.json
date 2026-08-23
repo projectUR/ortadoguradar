@@ -1,5 +1,37 @@
 [
     {
+        "id": "17874788688392o1iq",
+        "title": "İsrail'in Gazze yakınlarındaki mülteci kampına düzenlediği hava saldırısında bir kişi hayatını kaybetti, iki kişi yaralandı",
+        "summary": "İsrail ordusu, Gazze Şeridi'ndeki Maghazi mülteci kampı yakınlarına hava saldırısı düzenledi. Yerel kaynaklardan alınan bilgilere göre, saldırı sonucunda bir kişi yaşamını yitirirken, iki kişi de yaralandı. Olay, bölgedeki gerilimi yeniden tırmandırdı ve uluslararası toplumda endişelere yol açtı. Saldırının hedefi ve detayları hakkında İsrail tarafından henüz resmi bir açıklama yapılmadı. Bölgedeki insani durumun hassasiyeti göz önüne alındığında, bu tür olayların bölgedeki istikrarsızlığı artırabileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37732817/pexels-photo-37732817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T09:54:28.839Z",
+        "location": {
+            "lat": 31.42,
+            "lng": 34.36,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1787478940108q84qn",
+        "title": "İsrail Ordusu Batı Şeria'da 13 Filistinliyi Gözaltına Aldı",
+        "summary": "İsrail ordusu, Batı Şeria'da düzenlediği operasyonlarda 13 Filistinliyi gözaltına aldı. Yerel kaynaklardan alınan bilgiye göre, bölgedeki işgalciler saldırılarını artırdı. Osarin kasabasında bir konut odası yakılırken, Beytüllahim'in doğusunda ağaçlar söküldü. Anadolu Ajansı'na konuşan yerel kaynaklar, bu olayların bölgedeki gerilimi tırmandırdığını bildirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T09:55:40.108Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-13-palestinians-as-occupiers-escalate-attacks-in-west-bank/4035024",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787477405379lj707",
         "title": "İşgal Altındaki Batı Şeria'da Bıçaklı Saldırı: Bir İsrailli Yaralandı",
         "summary": "İşgal altındaki Batı Şeria'nın al-Auja köyünde meydana gelen bıçaklı saldırıda bir İsrailli yaralandı. Olayın ardından İsrail güçleri, saldırganı yakalamak amacıyla Ürdün Vadisi bölgesinde geniş çaplı bir arama operasyonu başlattı. Bölgedeki güvenlik kaynakları, operasyonun devam ettiğini bildirdi. Bu olay, Batı Şeria'daki gerilimi bir kez daha gündeme getirdi ve bölgedeki hassas güvenlik durumunu gözler önüne serdi.",
@@ -764,38 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanon-s-president-urges-italian-premier-to-pressure-israel-to-uphold-framework-agreement/4034345",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787351396388hf9jv",
-        "title": "BM, Batı Şeria'da Artan Şiddet ve İlhak Girişimleri Konusunda Uyarıda Bulundu",
-        "summary": "Birleşmiş Milletler (BM), Batı Şeria'da şiddetin tırmanması ve bölgenin ilhakına yönelik girişimler hakkında derin endişelerini dile getirdi. BM İnsan Hakları Yüksek Komiserliği Sözcüsü Thameen Al-Kheetan, uluslararası topluma çağrıda bulunarak, mevcut duruma karşı \"mümkün olan tüm yolları kullanarak\" harekete geçilmesi gerektiğini vurguladı. Açıklamada, bölgedeki gerilimin tehlikeli boyutlara ulaştığı ve sivil halkın güvenliğinin tehdit altında olduğu belirtildi. BM, uluslararası hukukun ihlallerine dikkat çekerek, barış ve istikrarın sağlanması için acil adımlar atılması gerektiğini ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T22:29:56.388Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-warns-of-worsening-violence-push-for-annexation-in-west-bank/4034327",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17873456009190r5ms",
-        "title": "Batılı Müttefikler İsrail'i Dünya Merkezi Mutfak Saldırısı Soruşturmasını Sonlandırması Nedeniyle Kınadı",
-        "summary": "Birleşik Krallık, Avustralya ve Kanada, İsrail'in 2024 yılında Gazze'deki bir yardım konvoyuna düzenlenen ölümcül saldırıya ilişkin soruşturmayı sonlandırma kararını kınadı. Üç ülke, İsrail'in bu adımını \"utanç verici\" olarak nitelendirerek uluslararası arenada tepki gösterdi. Söz konusu saldırı, World Central Kitchen (Dünya Merkezi Mutfak) çalışanlarının hayatını kaybetmesine yol açmış ve geniş çaplı uluslararası soruşturma çağrılarına neden olmuştu. Batılı müttefiklerin bu açıklaması, Gazze'deki insani yardım faaliyetlerinin güvenliği ve sorumluluk mekanizmaları konusundaki tartışmaları yeniden alevlendirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29189355/pexels-photo-29189355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T20:53:20.919Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
