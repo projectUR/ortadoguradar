@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787477405379lj707",
+        "title": "İşgal Altındaki Batı Şeria'da Bıçaklı Saldırı: Bir İsrailli Yaralandı",
+        "summary": "İşgal altındaki Batı Şeria'nın al-Auja köyünde meydana gelen bıçaklı saldırıda bir İsrailli yaralandı. Olayın ardından İsrail güçleri, saldırganı yakalamak amacıyla Ürdün Vadisi bölgesinde geniş çaplı bir arama operasyonu başlattı. Bölgedeki güvenlik kaynakları, operasyonun devam ettiğini bildirdi. Bu olay, Batı Şeria'daki gerilimi bir kez daha gündeme getirdi ve bölgedeki hassas güvenlik durumunu gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5758523/pexels-photo-5758523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T09:30:05.379Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.45,
+            "name": "al-Auja, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
         "id": "1787474069633dkd9k",
         "title": "Pakistan Genelkurmay Başkanı ve İranlı Diplomat, ABD ile Kesintiye Uğrayan Doğrudan Görüşmeleri Canlandırma Yollarını Tartıştı",
         "summary": "Pakistan Genelkurmay Başkanı Orgeneral Asım Münir ve İran'ın üst düzey diplomatı Abbas Arağçi, ABD ile kesintiye uğrayan doğrudan müzakerelerin yeniden başlatılmasına yönelik yolları ele aldı. İran hükümetinden yapılan açıklamaya göre, görüşmede \"Batı Asya'da barış, istikrar ve güvenliğin güçlendirilmesi\" konuları üzerinde duruldu. Bu diplomatik temas, bölgedeki güvenlik endişeleri ve İran'ın ABD ile ilişkilerindeki mevcut çıkmazı aşma arayışları bağlamında önem taşıyor. Pakistan'ın bu süreçteki rolü, bölgesel arabuluculuk potansiyeli açısından dikkat çekiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787344096678r0bxm",
-        "title": "Papa Leo, dünyaya Gazze'nin 'yeniden inşasına yardım etme' çağrısı yaptı",
-        "summary": "Papa Leo XIV, dünya genelindeki yetkililere Gazze halkına destek olma çağrısında bulundu. Papa, Gazze'de 'hala acı çeken' insanlara yardım edilmesi gerektiğini vurguladı. Bu çağrı, bölgenin yeniden inşası sürecinin başlatılmasına yönelik uluslararası çabaların önemini ortaya koyuyor. Vatikan'dan yapılan açıklamada, Gazze'deki insani durumun ciddiyetine dikkat çekildi ve uluslararası toplumun sorumluluğu hatırlatıldı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T20:28:16.678Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
