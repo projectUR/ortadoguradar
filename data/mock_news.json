@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787523907030si48v",
+        "title": "Donald Trump'ın İran'a Yönelik Yeni Yaptırımları İşe Yarayacak mı?",
+        "summary": "ABD Başkanı Donald Trump, İran'a karşı 'ezici tedbirler' uygulayacağını duyurdu. Bu yaptırımların Tahran yönetimi üzerindeki baskıyı artırmayı hedeflediği belirtiliyor. Uluslararası kamuoyunda, bu yeni yaptırımların İran ekonomisi ve bölge siyaseti üzerindeki potansiyel etkileri tartışılıyor. Haber, söz konusu yaptırımların etkinliğinin sorgulandığını ifade ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/54456/prison-jail-detention-fence-54456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T22:25:07.030Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787523945449iqjtm",
+        "title": "ABD Temsilcisi Barrack'tan Golan Yorumu Geri Çekildi",
+        "summary": "ABD'nin Türkiye Büyükelçisi Tom Barrack, Suriye'nin Golan bölgesinin işgal altında olduğu yönündeki yorumunu geri çekti. Büyükelçi Barrack, ABD'nin İsrail'in Suriye toprakları üzerindeki egemenlik iddiasını tanıyan politikasının 'değişmediğini' belirtti. Bu açıklama, İsrail tarafından 1967'de ele geçirilen ve uluslararası hukuka göre statüsü tartışmalı olan Golan Tepeleri'nin statüsü konusundaki ABD duruşunu netleştirdi. Bölgedeki hassas diplomatik dengeler açısından önem taşıyan bu gelişme, ABD'nin Orta Doğu politikalarındaki sürekliliğin bir göstergesi olarak yorumlandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30067993/pexels-photo-30067993.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T22:25:45.449Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Golan Tepeleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787521725134lzv8k",
         "title": "Birleşik Krallık, Kanada ve Avustralya'dan İsrail'e Gazze'deki Yardım Görevlisi Cinayetleri İçin Kınama",
         "summary": "Birleşik Krallık, Kanada ve Avustralya, İsrail'i Gazze'de yardım görevlilerinin öldürülmesiyle ilgili cezai soruşturma açmayı reddetmesi nedeniyle kınadı. 2024 yılında yedi Dünya Merkezi Mutfağı (World Central Kitchen) çalışanı, konvoylarına düzenlenen İsrail saldırısında hayatını kaybetmişti. Bu olay uluslararası alanda büyük tepkilere yol açmış ve sorumluların hesap vermesi çağrılarını beraberinde getirmişti. Üç ülke tarafından yapılan kınama, İsrail'in Gazze'deki askeri operasyonları ve sivil ile yardım görevlilerinin korunması konusundaki uluslararası baskıyı bir kez daha gözler önüne serdi.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787387583108fs9w2",
-        "title": "Panama Kanalı, El Nino Nedeniyle Gemi Geçişlerini Azaltacak",
-        "summary": "Panama Kanalı Yönetimi, yaklaşan 'aşırı' El Nino hava olayının neden olduğu kuraklık ve düşük su seviyeleri nedeniyle gemi geçişlerinde kısıtlamaya gideceğini duyurdu. 15 Eylül tarihinden itibaren günlük geçiş sayısı 40'tan 32 gemiye düşürülecek. Bu karar, küresel deniz taşımacılığında yavaşlamaya ve maliyetlerin artmasına yol açma riski taşıyor. Kanalın bu adımı, su seviyelerini koruma ve operasyonel sürdürülebilirliği sağlama amacı taşıyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/2906490/pexels-photo-2906490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T08:33:03.108Z",
-        "location": {
-            "lat": 9.07,
-            "lng": -79.71,
-            "name": "Panama Kanalı, Panama"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17873876237555yfuo",
-        "title": "Libya'da 'Beyin Göçü': Trablus'un Düşüşünden 15 Yıl Sonra Gençler Ülkeyi Terk Etmek İstiyor",
-        "summary": "Libya'daki kargaşa nedeniyle ülkeyi terk eden profesyoneller, geri dönme ihtimallerinin düşük olduğunu belirtiyor. Ülkedeki mevcut durum, daha fazla Libyalının ayrılmayı planladığını gösteriyor. Bu durum, Libya'nın gelecekteki gelişimini olumsuz etkileyecek önemli bir insan sermayesi kaybına işaret ediyor. Ülke, iç karışıklıkların ardından nitelikli iş gücünü kaybetmeye devam ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36760452/pexels-photo-36760452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T08:33:43.755Z",
-        "location": {
-            "lat": 32.9,
-            "lng": 13.6,
-            "name": "Trablus, Libya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
