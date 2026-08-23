@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787521725134lzv8k",
+        "title": "Birleşik Krallık, Kanada ve Avustralya'dan İsrail'e Gazze'deki Yardım Görevlisi Cinayetleri İçin Kınama",
+        "summary": "Birleşik Krallık, Kanada ve Avustralya, İsrail'i Gazze'de yardım görevlilerinin öldürülmesiyle ilgili cezai soruşturma açmayı reddetmesi nedeniyle kınadı. 2024 yılında yedi Dünya Merkezi Mutfağı (World Central Kitchen) çalışanı, konvoylarına düzenlenen İsrail saldırısında hayatını kaybetmişti. Bu olay uluslararası alanda büyük tepkilere yol açmış ve sorumluların hesap vermesi çağrılarını beraberinde getirmişti. Üç ülke tarafından yapılan kınama, İsrail'in Gazze'deki askeri operasyonları ve sivil ile yardım görevlilerinin korunması konusundaki uluslararası baskıyı bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/29337771/pexels-photo-29337771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T21:48:45.134Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17875130331260nvn7",
         "title": "Çin'in Batı Gücüne Alternatif Vizyonu Tartışıldı",
         "summary": "Kıdemli Albay Zhou Bo ve Sreenivasan Jain, Çin'in daha adil ve çok kutuplu bir dünya vizyonunu ele aldı. Tartışmada, Pekin'in Batı merkezli güç yapısına karşı sunduğu alternatifler ve uluslararası ilişkilerdeki yeni yaklaşımı üzerinde duruldu. Çin'in bu vizyonu gerçekleştirmeye yönelik çalışmaları ve küresel düzendeki artan rolü değerlendirildi. Bu görüşme, Çin'in uluslararası arenadaki etkisini ve küresel yönetişimdeki iddialarını gözler önüne serdi.",
@@ -780,22 +796,6 @@
             "name": "Trablus, Libya"
         },
         "source": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17873876475990a3rr",
-        "title": "Dünya Bankası, savaşın vurduğu Lübnan ekonomisinin yüzde 6,4 daralacağını öngörüyor",
-        "summary": "Dünya Bankası, Lübnan ekonomisine ilişkin yeni bir rapor yayımladı. Raporda, ülkenin ekonomisinin yüzde 6,4 oranında daralmasının beklendiği belirtildi. Küresel finans kuruluşu, İsrail ile yaşanan çatışmaların Lübnan'ın ekonomik toparlanma çabalarını sekteye uğrattığını vurguladı. Enflasyon ve tüketici fiyatlarındaki artışın bu daralmada etkili olduğu ifade edildi. Bu durumun, Lübnan'ın zaten kırılgan olan ekonomik yapısı üzerindeki baskıyı daha da artırdığı kaydedildi.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/6670897/pexels-photo-6670897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T08:34:07.599Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
