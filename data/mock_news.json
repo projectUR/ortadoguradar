@@ -1,5 +1,21 @@
 [
     {
+        "id": "17874823653607f67k",
+        "title": "2026 Yılında Su Çatışmalarının En Büyük Tehdidi Oluşturduğu Bölgeler",
+        "summary": "2020 yılından bu yana su kaynaklı çatışmaların dünya genelinde neredeyse dört katına çıktığı bildirildi. Dünya Su Haftası 2026'nın başlangıcında, Katar merkezli haber ajansı Al Jazeera, bu artışın arkasındaki verileri detaylı bir şekilde inceledi. Haberde, 2026 yılında su çatışmalarının en büyük tehdidi oluşturduğu bölgeler mercek altına alındı. Orta Doğu gibi su kıtlığı yaşayan bölgelerde su kaynakları üzerindeki gerilimlerin artması beklendiğinden, bu analiz bölge için kritik önem taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38535518/pexels-photo-38535518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T10:52:45.360Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17874788688392o1iq",
         "title": "İsrail'in Gazze yakınlarındaki mülteci kampına düzenlediği hava saldırısında bir kişi hayatını kaybetti, iki kişi yaralandı",
         "summary": "İsrail ordusu, Gazze Şeridi'ndeki Maghazi mülteci kampı yakınlarına hava saldırısı düzenledi. Yerel kaynaklardan alınan bilgilere göre, saldırı sonucunda bir kişi yaşamını yitirirken, iki kişi de yaralandı. Olay, bölgedeki gerilimi yeniden tırmandırdı ve uluslararası toplumda endişelere yol açtı. Saldırının hedefi ve detayları hakkında İsrail tarafından henüz resmi bir açıklama yapılmadı. Bölgedeki insani durumun hassasiyeti göz önüne alındığında, bu tür olayların bölgedeki istikrarsızlığı artırabileceği belirtiliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17873618499639s2y2",
-        "title": "Lübnan Cumhurbaşkanı'ndan İtalya Başbakanı'na İsrail'e Baskı Çağrısı",
-        "summary": "Lübnan Cumhurbaşkanı, İtalya Başbakanı'nı İsrail'e bir çerçeve anlaşmasına uyması konusunda baskı yapmaya çağırdı. Lübnan Genelkurmay Başkanı Joseph Aoun, İsrail'in saldırılarının ülkenin güneyine ordu konuşlandırmasını engellediğini belirtti. Bu açıklamalar, Birleşmiş Milletler barış gücü misyonunun geleceği üzerine devam eden görüşmeler sırasında geldi. Lübnan, İsrail'in bölgedeki eylemlerinin istikrarı bozduğunu ve uluslararası anlaşmalara aykırı olduğunu savunuyor. Çağrı, bölgesel gerilimlerin azaltılması ve sınır güvenliğinin sağlanması hedefini taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T01:24:09.963Z",
-        "location": {
-            "lat": 33.8938,
-            "lng": 35.5018,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanon-s-president-urges-italian-premier-to-pressure-israel-to-uphold-framework-agreement/4034345",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
