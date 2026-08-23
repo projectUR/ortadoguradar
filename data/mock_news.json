@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787454337104sqs5c",
+        "title": "ABD'den İran'a Yaptırım Tehdidi ve Müttefiklere Çağrı",
+        "summary": "ABD Hazine Bakanı Scott Bessent, İran ekonomisini 'çökertmeyi' ve rejimini 'yıkmayı' amaçlayan yaptırımların uygulanacağını duyurdu. Bakan Bessent, müttefik ülkelere yönelik yaptığı açıklamada, bu konuda 'bizimle mi, bize karşı mı' olduklarına karar vermeleri gerektiğini vurguladı. Bu açıklama, Washington'ın Tahran üzerindeki ekonomik baskıyı artırma ve uluslararası arenada destek toplama çabasını gösteriyor. Söz konusu yaptırımların İran ekonomisi üzerindeki potansiyel etkileri ve bölgesel yansımaları uluslararası kamuoyu tarafından yakından izleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32314507/pexels-photo-32314507.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-23T03:05:37.104Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787448902015kxumv",
         "title": "İran'dan komşularına ABD'nin ekonomik savaşına katılmama uyarısı",
         "summary": "İran'dan yapılan resmi açıklamada, Tahran'ın komşu ülkelere yönelik sert bir uyarıda bulunduğu bildirildi. Bir İranlı yetkili, ABD'nin İran'a karşı uyguladığı ekonomik savaşa katılan herhangi bir devletin düşman olarak addedileceğini belirtti. Yetkili, bu tür bir durumda İran'ın misilleme olarak ilgili ülkelerin çıkarlarını hedef alacağını vurguladı. Bu açıklama, bölgedeki gerilimi artırma potansiyeli taşıyor ve komşu ülkeler üzerinde önemli bir baskı oluşturmayı amaçlıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787305175991rw6de",
-        "title": "Sudan'da Şiddet Tırmanırken Yerinden Edilme Krizi Derinleşiyor",
-        "summary": "Sudan'da devam eden şiddet olayları, ülkedeki yerinden edilme krizini daha da derinleştiriyor. Çatışmaların yoğunlaşmasıyla birlikte, binlerce sivil evlerini terk etmek zorunda kalıyor. Uluslararası kuruluşlar, insani yardım ihtiyacının arttığına dikkat çekiyor. Ülke genelinde güvenlik durumu kötüleşirken, yerinden edilenlerin sayısı endişe verici boyutlara ulaşıyor ve bölgedeki istikrarsızlığı artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29599680/pexels-photo-29599680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-21T09:39:35.991Z",
-        "location": {
-            "lat": 15.5007,
-            "lng": 32.5596,
-            "name": "Sudan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
