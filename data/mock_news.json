@@ -1,5 +1,69 @@
 [
     {
+        "id": "17875970104406kgrx",
+        "title": "Norveç, AB'nin Enerji Endişeleri Ortamında Arktik Sondajını Geliştirmeyi Planlıyor",
+        "summary": "Norveç, Avrupa Birliği'nin (AB) enerji güvenliği endişeleri ve savaşın enerji arzı üzerindeki etkileri nedeniyle Arktik'teki sondaj faaliyetlerini daha da geliştirmeyi planladığını duyurdu. AB, Rusya-Ukrayna Savaşı'nın Avrupa'nın enerji güvenliğini derinden etkilemesiyle birlikte, Arktik'te yeni sondajı yasaklama konusundaki mevcut desteğini gözden geçiriyor. Bu durum, Norveç'in Arktik bölgesindeki enerji kaynaklarını daha fazla kullanma potansiyelini artırırken, küresel enerji piyasalarındaki belirsizliğe bir yanıt olarak değerlendiriliyor. Ülkeler, değişen enerji dinamikleri karşısında stratejilerini yeniden şekillendiriyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T18:43:30.440Z",
+        "location": {
+            "lat": 75,
+            "lng": 20,
+            "name": "Arktik, Norveç"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17875970509438bll6",
+        "title": "Trump yönetimi İran'a karşı küresel ekonomik savaş ilan etti",
+        "summary": "ABD, Trump yönetimi döneminde İran'a karşı küresel bir ekonomik savaş başlattığını duyurdu. Washington, bu çerçevede İran'ın petrol de dahil olmak üzere tüm gelir kaynaklarını hedef aldığını belirtti. Bu adımın, İran ekonomisini baskı altına alarak ülkenin bölgesel politikalarını etkilemeyi amaçladığı ifade edildi. Karar, Orta Doğu'daki siyasi ve ekonomik dengeler üzerinde önemli etkiler yaratma potansiyeli taşıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11505601/pexels-photo-11505601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T18:44:10.943Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1787597102663husww",
+        "title": "ABD Hazine Bakanı: İran 'Tarihin En Büyük Mali Saldırısıyla' Karşı Karşıya",
+        "summary": "ABD Hazine Bakanı, İran'ın 'tarihin en büyük mali saldırısıyla' karşı karşıya olduğunu açıkladı. Bakan, ABD'nin İran ile tüm ekonomik bağlarını koparacağını ve İran ile finansal ortaklık kuran her ülkenin de izole edileceğini belirtti. Bu açıklamalar, Washington'ın Tahran'a yönelik yaptırım politikasının kapsamını ve uluslararası topluma yönelik uyarılarını gözler önüne sermektedir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11505601/pexels-photo-11505601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T18:45:02.663Z",
+        "location": {
+            "lat": 35,
+            "lng": 51,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787597142808q99j4",
+        "title": "İsrail, Batı Şeria'da Kapatılan Bir Yerleşimi Yeniden Kurdu, Uluslararası Tepkilere Rağmen",
+        "summary": "İsrail, uluslararası toplumun artan protestolarına rağmen Batı Şeria'da daha önce kapatılmış olan bir yerleşimi yeniden kurdu. İsrail hükümetinin teşvik ettiği milliyetçilik dalgasıyla birlikte otuz \"öncü aile\" bölgeye yerleşti. Bu hızlı yerleşim süreci, yakınlarda yaşayan Filistinli sakinler arasında ciddi endişelere yol açtı. Uluslararası hukuka aykırı kabul edilen bu tür yerleşim faaliyetleri, bölgedeki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14185798/pexels-photo-14185798.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T18:45:42.808Z",
+        "location": {
+            "lat": 32,
+            "lng": 35,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787582878418ubg07",
         "title": "Yemen Başkanlık Liderlik Konseyi'nden Sanaa ve Hodeidah'ı Geri Alma Sözü",
         "summary": "Yemen Başkanlık Liderlik Konseyi, Husilerin kontrolündeki başkent Sanaa ve stratejik liman kenti Hodeidah'ı geri alma taahhüdünde bulundu. Konsey üyesi Tarık Salih, Kızıldeniz ve Babülmendep Boğazı'nın güvenliğinin, Husi milislerinden Hodeidah ve Sanaa'nın geri alınmasıyla başlayacağını vurguladı. Bu açıklama, Yemen'deki uzun süreli iç savaşta hükümet yanlısı güçlerin önemli bölgeleri yeniden ele geçirme kararlılığını ortaya koyuyor. Bölgesel ve uluslararası denizcilik güvenliği açısından kritik öneme sahip bu bölgelerin kontrolü, çatışmanın seyrini etkileyebilir.",
@@ -733,70 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-in-full-scale-war-says-president-pezeshkian/4034931",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787470571231y1bn4",
-        "title": "Birleşik Krallık, Fransa, Almanya, İtalya ve Kanada, İsrail'in Batı Şeria yerleşim projesini kınadı",
-        "summary": "Avrupa ülkeleri ve Kanada, İsrail'in işgal altındaki Batı Şeria'da yerleşim yerlerini genişletme planlarına karşı baskıyı artırdı. Birleşik Krallık, Fransa, Almanya, İtalya ve Kanada, İsrail'in Batı Şeria'daki yerleşim projesini kınadıklarını açıkladı. Bu kınama, İsrail'in stratejik öneme sahip bir bölgede yeni yerleşim birimleri inşa etme niyetine yönelik uluslararası endişeleri yansıtıyor. Söz konusu ülkeler, bu tür adımların iki devletli çözüm umutlarını zedeleyeceği ve bölgedeki gerilimi artıracağı uyarısında bulundu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/9754753/pexels-photo-9754753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T07:36:11.231Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2033,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787470595298akdwq",
-        "title": "Suudi Arabistan ve Ürdün'den Şam Yakınlarındaki Terör Saldırısına Kınama",
-        "summary": "Suudi Arabistan ve Ürdün, Suriye'nin başkenti Şam yakınlarında bir güvenlik otobüsüne düzenlenen \"terör saldırısını\" şiddetle kınadı. Riyad ve Amman'dan yapılan ortak açıklamalarda, Suriye ile dayanışma içinde olunduğu ve terörle mücadele çabalarına tam destek verildiği vurgulandı. Bu kınama, bölgesel güvenlik ve terör tehditlerine karşı ortak bir duruş sergileme amacı taşıyor. Açıklamalar, bölgedeki istikrarsızlığa karşı işbirliği mesajı olarak değerlendirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37182286/pexels-photo-37182286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T07:36:35.298Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-jordan-condemn-terrorist-attack-on-syrian-security-bus-near-damascus/4034879",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17874706159388mh8a",
-        "title": "Netanyahu, Filistin Devleti Kurulmasını Engelleme Sözü Verdi",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, kamuoyu yoklamalarının bloğunun mecliste çoğunluğu elde edemediğini göstermesinin ardından Filistin devletinin kurulmasını engelleyeceğini açıkladı. Netanyahu'nun bu açıklaması, Birleşik Arap Listesi lideri Mansur Abbas'ın 'Filistin'in zaten var olduğu ve dünyanın çoğu tarafından tanındığı' yönündeki sözlerine bir yanıt olarak geldi. Bu durum, İsrail-Filistin barış sürecindeki temel anlaşmazlıklardan birini ve İsrail iç siyasetindeki gerilimleri bir kez daha gündeme taşıdı. Başbakanın bu duruşu, bölgedeki siyasi dengeler ve uluslararası ilişkiler açısından önemli bir mesaj niteliği taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T07:36:55.938Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-vows-to-block-palestinian-state-as-polls-put-his-bloc-short-of-majority/4034877",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17874706362524ccvz",
-        "title": "Batı Şeria'daki Yasa Dışı İsrail Yerleşimleri 592'ye Ulaştı",
-        "summary": "Filistinli bir kurum olan Duvar ve Yerleşim Birimi Direniş Komisyonu'nun açıklamasına göre, işgal altındaki Batı Şeria'daki yasa dışı İsrail yerleşimleri ve karakollarının sayısı 592'ye ulaştı. Komisyon, İsrail'in Batı Şeria'nın %42'sini kontrol ettiğini belirtti. Bu kontrolün, Filistin Ürdün Vadisi'nin %91'ini de kapsadığı ifade edildi. Açıklamada, bu durumun bölgedeki yerleşim politikalarının boyutunu gözler önüne serdiği vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36884525/pexels-photo-36884525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T07:37:16.252Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/illegal-israeli-settlements-outposts-in-west-bank-reach-592-says-palestinian-body/4034876",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
