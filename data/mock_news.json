@@ -1,5 +1,21 @@
 [
     {
+        "id": "17875347995265cco2",
+        "title": "Ankara'da Yerleşim Yerlerine Yakın Büyük Orman Yangını",
+        "summary": "Türkiye'nin başkenti Ankara'nın Mamak ilçesi eteklerinde, yerleşim yerlerine yakın bir noktada büyük bir orman yangını çıktı. Yangın, bölgedeki evleri ve yaşam alanlarını tehdit ediyor. Yetkililer, yangını kontrol altına almak ve yerleşim yerlerine sıçramasını engellemek için yoğun çaba sarf ediyor. Bölgedeki güvenlik önlemleri artırılırken, vatandaşların can ve mal güvenliği için çalışmalar sürdürülüyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/38521772/pexels-photo-38521772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T01:26:39.526Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Turkey"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17875274500115ppdy",
         "title": "Esad Subayı Savaş Suçları İddiasıyla İlk Kez Suriye'ye İade Edildi",
         "summary": "Lübnan, eski Suriyeli General Adel Issa'yı savaş suçları iddialarıyla Suriye'ye iade etti. Bu olay, Esad rejimine bağlı bir subayın savaş suçları suçlamasıyla ilk kez Suriye'ye iade edilmesi olarak kayıtlara geçti. Suriye'nin, eski rejimin aranan üyelerine yönelik takibatını artırdığı bir dönemde gerçekleşen bu iade, bölgesel ilişkilerde önemli bir gelişme olarak değerlendiriliyor. General Issa'nın iadesi, Suriye'deki iç savaş sonrası hesaplaşmaların ve uluslararası hukukun uygulanmasının bir parçası olarak öne çıkıyor.",
@@ -780,22 +796,6 @@
             "name": "Deir al-Balah, Gazze Şeridi"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-kills-palestinian-injures-others-in-latest-gaza-ceasefire-violation/4034702",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787402723779e1b7l",
-        "title": "İsrail Medyası: Askeri Yetkililer Netanyahu'nun Seçimleri Ertelemek İçin Gerilimi Tırmandırabileceği Şüphesi Taşıyor",
-        "summary": "İsrail medyasında yer alan haberlere göre, İsrailli askeri yetkililer Başbakan Binyamin Netanyahu'nun seçimleri ertelemek amacıyla mevcut gerilimi tırmandırma arayışında olabileceği şüphesini taşıyor. Üst düzey subayların, Başbakan'ın devam eden çatışmaların sona ermesini istemediğine inandığı belirtiliyor. Bu durum, İsrail'in iç siyaseti ile bölgesel güvenlik dinamikleri arasındaki potansiyel bağlantıları gündeme getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T12:45:23.779Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-military-officials-suspect-netanyahu-may-seek-escalation-to-delay-elections-israeli-media/4034579",
         "trendScore": 85,
         "isBreaking": false
     }
