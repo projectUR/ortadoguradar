@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787550049582oohm9",
+        "title": "Suriye ve İsrail, gerilimi azaltmak için ABD arabuluculuğunda Ürdün'de görüştü",
+        "summary": "Suriye ve İsrail temsilcileri, iki ülke arasındaki gerilimi düşürmek amacıyla Ürdün'de ABD arabuluculuğunda bir araya geldi. Görüşmeler, İsrail'in Türkiye sınırı yakınlarında gerçekleştirdiği bir saldırının ardından tırmanan tansiyonu hafifletme hedefi taşıyor. Suriye Dışişleri Bakanı'nın İsrailli yetkililerle yaptığı bu toplantı, bölgedeki güvenlik durumunu ele almak üzere düzenlendi. Taraflar, gerilimi azaltma ve potansiyel çatışmaları önleme yollarını müzakere etti. Bu diplomatik girişim, bölgesel istikrarın sağlanması açısından önem arz ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433850/pexels-photo-7433850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T05:40:49.582Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.91,
+            "name": "Ürdün"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17875347995265cco2",
         "title": "Ankara'da Yerleşim Yerlerine Yakın Büyük Orman Yangını",
         "summary": "Türkiye'nin başkenti Ankara'nın Mamak ilçesi eteklerinde, yerleşim yerlerine yakın bir noktada büyük bir orman yangını çıktı. Yangın, bölgedeki evleri ve yaşam alanlarını tehdit ediyor. Yetkililer, yangını kontrol altına almak ve yerleşim yerlerine sıçramasını engellemek için yoğun çaba sarf ediyor. Bölgedeki güvenlik önlemleri artırılırken, vatandaşların can ve mal güvenliği için çalışmalar sürdürülüyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1787410242421vp9xa",
-        "title": "İsrail'in Gazze'ye İHA Saldırısı: Bir Filistinli Öldü, Yaralılar Var",
-        "summary": "İsrail'e ait bir insansız hava aracının Gazze Şeridi'ne düzenlediği saldırıda bir Filistinli hayatını kaybetti, bazı kişiler de yaralandı. Görgü tanıklarının ifadelerine göre, saldırı Gazze Şeridi'nin orta kesiminde yer alan Deir al-Balah kentindeki bir evin avlusunu hedef aldı. Bu olay, bölgedeki ateşkesin son ihlallerinden biri olarak kayıtlara geçti. Saldırının ardından bölgede gerilimin arttığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11378718/pexels-photo-11378718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-22T14:50:42.421Z",
-        "location": {
-            "lat": 31.41,
-            "lng": 34.33,
-            "name": "Deir al-Balah, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-drone-strike-kills-palestinian-injures-others-in-latest-gaza-ceasefire-violation/4034702",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
