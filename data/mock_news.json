@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787603665890vd25m",
+        "title": "BM denizcilik ajansı, Aden Körfezi'ndeki korsanlık artışı ortasında 90'dan fazla denizcinin serbest bırakılmasını talep etti",
+        "summary": "Birleşmiş Milletler denizcilik ajansı (IMO), Aden Körfezi'nde artan korsanlık olayları nedeniyle 90'dan fazla denizcinin derhal serbest bırakılması çağrısında bulundu. Uluslararası Denizcilik Örgütü başkanı, SEAMULL gemisinin kaçırılmasının ardından korsanlar ve silahlı soyguncular tarafından toplamda altı geminin alıkonulduğunu bildirdi. Bu durum, bölgedeki deniz güvenliğine yönelik ciddi tehditleri bir kez daha gözler önüne serdi. Ajans, denizcilerin güvenliğinin sağlanması ve uluslararası deniz ticaretinin korunması için acil önlemler alınması gerektiğini vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6964373/pexels-photo-6964373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T20:34:25.890Z",
+        "location": {
+            "lat": 13.5,
+            "lng": 48,
+            "name": "Aden Körfezi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-maritime-agency-demands-release-of-over-90-seafarers-amid-gulf-of-aden-piracy-surge/4036310",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787599905832k701u",
         "title": "Video: İsrail Gazze'deki tuzdan arındırma tesisi ve camiye saldırdı",
         "summary": "İsrail, Gazze Şeridi'ne yönelik saldırılarını yoğunlaştırdı. Bölgeden gelen haberlere göre, bu saldırılar kapsamında kritik bir su tuzdan arındırma tesisi ve bir cami hedef alındı. Tuzdan arındırma tesisi, Gazze halkı için hayati öneme sahip içme suyu sağlayan temel altyapılardan biri olarak biliniyor. Saldırılar, Gazze'deki sivil altyapı üzerindeki baskıyı artırırken, bölgedeki insani durumu daha da kötüleştirme potansiyeli taşıyor. Çatışmaların şiddeti ve hedeflenen yapılar, uluslararası kamuoyunda endişelere yol açıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": true
-    },
-    {
-        "id": "1787474069633dkd9k",
-        "title": "Pakistan Genelkurmay Başkanı ve İranlı Diplomat, ABD ile Kesintiye Uğrayan Doğrudan Görüşmeleri Canlandırma Yollarını Tartıştı",
-        "summary": "Pakistan Genelkurmay Başkanı Orgeneral Asım Münir ve İran'ın üst düzey diplomatı Abbas Arağçi, ABD ile kesintiye uğrayan doğrudan müzakerelerin yeniden başlatılmasına yönelik yolları ele aldı. İran hükümetinden yapılan açıklamaya göre, görüşmede \"Batı Asya'da barış, istikrar ve güvenliğin güçlendirilmesi\" konuları üzerinde duruldu. Bu diplomatik temas, bölgedeki güvenlik endişeleri ve İran'ın ABD ile ilişkilerindeki mevcut çıkmazı aşma arayışları bağlamında önem taşıyor. Pakistan'ın bu süreçteki rolü, bölgesel arabuluculuk potansiyeli açısından dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T08:34:29.633Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-army-chief-irans-top-diplomat-discuss-ways-to-revive-stalled-direct-talks-with-us/4034950",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
