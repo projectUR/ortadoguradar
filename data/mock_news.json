@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787599905832k701u",
+        "title": "Video: İsrail Gazze'deki tuzdan arındırma tesisi ve camiye saldırdı",
+        "summary": "İsrail, Gazze Şeridi'ne yönelik saldırılarını yoğunlaştırdı. Bölgeden gelen haberlere göre, bu saldırılar kapsamında kritik bir su tuzdan arındırma tesisi ve bir cami hedef alındı. Tuzdan arındırma tesisi, Gazze halkı için hayati öneme sahip içme suyu sağlayan temel altyapılardan biri olarak biliniyor. Saldırılar, Gazze'deki sivil altyapı üzerindeki baskıyı artırırken, bölgedeki insani durumu daha da kötüleştirme potansiyeli taşıyor. Çatışmaların şiddeti ve hedeflenen yapılar, uluslararası kamuoyunda endişelere yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T19:31:45.832Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17875970104406kgrx",
         "title": "Norveç, AB'nin Enerji Endişeleri Ortamında Arktik Sondajını Geliştirmeyi Planlıyor",
         "summary": "Norveç, Avrupa Birliği'nin (AB) enerji güvenliği endişeleri ve savaşın enerji arzı üzerindeki etkileri nedeniyle Arktik'teki sondaj faaliyetlerini daha da geliştirmeyi planladığını duyurdu. AB, Rusya-Ukrayna Savaşı'nın Avrupa'nın enerji güvenliğini derinden etkilemesiyle birlikte, Arktik'te yeni sondajı yasaklama konusundaki mevcut desteğini gözden geçiriyor. Bu durum, Norveç'in Arktik bölgesindeki enerji kaynaklarını daha fazla kullanma potansiyelini artırırken, küresel enerji piyasalarındaki belirsizliğe bir yanıt olarak değerlendiriliyor. Ülkeler, değişen enerji dinamikleri karşısında stratejilerini yeniden şekillendiriyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-army-chief-irans-top-diplomat-discuss-ways-to-revive-stalled-direct-talks-with-us/4034950",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787474090236sxbvk",
-        "title": "Cumhurbaşkanı Pezeşkian: İran 'tam kapsamlı savaş' içinde",
-        "summary": "İran Cumhurbaşkanı Mesud Pezeşkian, ülkesinin 'tam kapsamlı bir savaş' içinde olduğunu açıkladı. Pezeşkian, bu savaşın ekonomik, askeri ve güvenlik alanlarında yaşandığını vurguladı. Cumhurbaşkanı'nın bu ifadeleri, İran'ın mevcut durumu ve karşı karşıya olduğu zorluklara dair üst düzey bir değerlendirme olarak öne çıktı. Bu beyanat, ülkenin iç ve dış politikadaki duruşunu yansıtan önemli bir açıklama niteliğindedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6471683/pexels-photo-6471683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T08:34:50.236Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-in-full-scale-war-says-president-pezeshkian/4034931",
         "trendScore": 85,
         "isBreaking": false
     }
