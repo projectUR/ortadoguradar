@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787582878418ubg07",
+        "title": "Yemen Başkanlık Liderlik Konseyi'nden Sanaa ve Hodeidah'ı Geri Alma Sözü",
+        "summary": "Yemen Başkanlık Liderlik Konseyi, Husilerin kontrolündeki başkent Sanaa ve stratejik liman kenti Hodeidah'ı geri alma taahhüdünde bulundu. Konsey üyesi Tarık Salih, Kızıldeniz ve Babülmendep Boğazı'nın güvenliğinin, Husi milislerinden Hodeidah ve Sanaa'nın geri alınmasıyla başlayacağını vurguladı. Bu açıklama, Yemen'deki uzun süreli iç savaşta hükümet yanlısı güçlerin önemli bölgeleri yeniden ele geçirme kararlılığını ortaya koyuyor. Bölgesel ve uluslararası denizcilik güvenliği açısından kritik öneme sahip bu bölgelerin kontrolü, çatışmanın seyrini etkileyebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T14:47:58.418Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sanaa, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemens-presidential-leadership-council-vows-to-retake-sanaa-hodeidah-from-houthis/4035767",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787576156716chxay",
         "title": "İsrail, Gazze Saldırılarını Tırmandırmak İçin Uçurtmaları Bahane Olarak Kullanmakla Suçlanıyor",
         "summary": "İsrail'in Gazze Şeridi'ne yönelik saldırılarını artırmak için uçurtmaları bahane olarak kullandığı iddia edildi. İsrail, savaşın harap ettiği bölgeden 'uçurtma, insansız hava aracı ve balon' fırlatan Filistinli grupları tehdit etti. Bu tehditler, bölgedeki gerilimin tırmanmasına yol açıyor. Filistinli gruplar ise İsrail'in bu iddialarını saldırılarını meşrulaştırma çabası olarak değerlendiriyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/illegal-israeli-settlements-outposts-in-west-bank-reach-592-says-palestinian-body/4034876",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178747066066361j4t",
-        "title": "İran Cumhurbaşkanı Pezeshkian: Tahran Taviz Vermeyecek, 'Ne Savaş Ne Barış' Durumu Sona Ermeli",
-        "summary": "İran Cumhurbaşkanı Masoud Pezeshkian, Tahran'ın herhangi bir taviz vermeyeceğini net bir dille ifade etti. Pezeshkian, ülkesinin içinde bulunduğu 'ne savaş ne barış' durumunun sona erdirilmesi gerektiğini vurguladı. Cumhurbaşkanı, savaşın hiçbir soruna çözüm sunmadığını belirterek, bu tür bir yaklaşımın faydasız olduğunu dile getirdi. Ayrıca, İran'ın temel ilke ve değerlerini muhafaza eden bir yol izlenmesi çağrısında bulundu. Bu açıklamalar, İran'ın bölgesel ve uluslararası arenadaki duruşunu ve geleceğe yönelik beklentilerini yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T07:37:40.663Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-president-says-tehran-will-not-make-concessions-urges-end-to-no-war-no-peace-situation/4034873",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
