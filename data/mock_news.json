@@ -1,5 +1,53 @@
 [
     {
+        "id": "1787612150029dzt1k",
+        "title": "ABD'nin İran'a Yaptırımları Küresel Piyasaları ve Tüketicileri Nasıl Etkiliyor?",
+        "summary": "Amerika Birleşik Devletleri tarafından İran'a uygulanan yeni yaptırımlar, ülkenin havacılık, teknoloji ve denizcilik sektörlerini hedef aldı. Bu yaptırımlar, İran ekonomisi üzerindeki baskıyı artırmayı amaçlıyor. Ancak, söz konusu kısıtlamaların etkileri sadece İran ile sınırlı kalmıyor. Küresel piyasalar ve enerji fiyatları üzerinde de belirgin bir baskı oluşturduğu belirtiliyor. Uluslararası uzmanlar, bu durumun dünya genelindeki tüketicileri de dolaylı yoldan etkileyebileceği konusunda uyarıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/11505601/pexels-photo-11505601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T22:55:50.029Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17876121864432d5wl",
+        "title": "ABD, Suriye'yi 'terörü destekleyen devletler' listesinden çıkardı",
+        "summary": "Amerika Birleşik Devletleri, Suriye'yi 'terörü destekleyen devletler' listesinden çıkardığını duyurdu. Washington yönetimi ayrıca, daha önce Başkan Ahmed el-Şaraa liderliğindeki Heyet Tahrir el-Şam (HTS) örgütünün 'terör örgütü' statüsünden çıkarıldığını da bildirdi. Bu karar, ABD'nin Suriye'ye yönelik dış politikasında önemli bir değişikliğe işaret ediyor. Söz konusu adımların, Suriye'deki bölgesel dinamikler ve uluslararası ilişkiler üzerinde etkileri olması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/10629487/pexels-photo-10629487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T22:56:26.443Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787612224688c1vqa",
+        "title": "İsrail, Gazze'den Uçurulan Uçurtmalara Karşı 'Güçlü' Yanıt Uyarısı Yaptı",
+        "summary": "İsrail, Gazze Şeridi'nden sınır bölgelerine uçurulan uçurtmalara karşı 'güçlü' bir yanıt vereceği uyarısında bulundu. Son günlerde İsrail sınır topluluklarında tespit edilen bu uçurtmaların, Hamas'a göre Gazze'deki çocuklar tarafından fırlatıldığı belirtildi. Bu durum, İsrail-Filistin sınırındaki mevcut gerilimi daha da artırma potansiyeli taşıyor. İsrail'in bu tür eylemlere karşı alacağı önlemler ve Hamas'ın açıklamaları bölgedeki gelişmeleri yakından takip edenler tarafından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-24T22:57:04.688Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17876105554519wapb",
         "title": "ABD kamuoyunun İran savaşına desteği düşerken, Trump'ın onay oranı rekor seviyeye geriledi: Anket",
         "summary": "ABD kamuoyunun İran ile olası bir savaşa verdiği desteğin azaldığı belirtildi. Bir ankete göre, bu düşüşün nedenleri arasında Cumhuriyetçiler arasındaki desteğin azalması, artan benzin fiyatları ve uzun süreli bir çatışma korkusu yer alıyor. Aynı anket, Başkan Trump'ın onay oranının da rekor düşük seviyeye gerilediğini gösteriyor. Bu durum, ABD'nin Orta Doğu'daki potansiyel askeri eylemlerine yönelik kamuoyu algısında bir değişime işaret ediyor.",
@@ -748,54 +796,6 @@
             "name": "Gazze Şeridi, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-defense-minister-threatens-gaza-assassinations-evacuations-over-balloon-launches/4035182",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787495176533tes0s",
-        "title": "Süveyş Krizi İngiliz İmparatorluğu'nu Durdurdu: Hürmüz Boğazı ABD İçin Benzer Bir Dönüm Noktası Olabilir mi?",
-        "summary": "Al Jazeera'nın yeni podcast serisi 'Deja Vu'nun son bölümünde, Süveyş Krizi'nin İngiliz İmparatorluğu üzerindeki etkileri ile Hürmüz Boğazı'nın ABD için potansiyel sonuçları arasındaki paralellikler inceleniyor. Program, petrol, deniz taşımacılığı ve savaşın Körfez bölgesini nasıl şekillendirdiğini ele alarak, tarihi olayların günümüz jeopolitiği üzerindeki yansımalarını değerlendiriyor. Bu analiz, bölgedeki enerji güvenliği ve stratejik deniz yollarının önemini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29699838/pexels-photo-29699838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T14:26:16.533Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787495269470y0n1q",
-        "title": "İsrail Gazetesi Netanyahu'yu Suriye Saldırıları ve Türkiye ile Çatışma Riski Konusunda Eleştirdi",
-        "summary": "İsrail'in önde gelen gazetelerinden Haaretz, Başbakan Binyamin Netanyahu'yu Suriye'nin kuzeyine düzenlenen operasyonlar nedeniyle sert bir dille eleştirdi. Gazete, Netanyahu'nun \"nokta atışı\" olarak nitelendirdiği bu operasyonların tehlikeli ve anlamsız olduğunu belirtti. Haaretz, Netanyahu'nun bu eylemleriyle övünürken, bölgede İsrail'in dahil olmadığı yeni ittifakların oluştuğuna dikkat çekti. Makalede ayrıca, İsrail'in Türkiye ile \"anlamsız bir çatışmaya\" sürüklenme riski taşıdığı uyarısı yapıldı ve bu durumun İsrail'in bölgesel konumunu zayıflatabileceği vurgulandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T14:27:49.470Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-newspaper-slams-netanyahu-over-syria-strikes-warns-of-pointless-conflict-with-turkiye/4035117",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17874823653607f67k",
-        "title": "2026 Yılında Su Çatışmalarının En Büyük Tehdidi Oluşturduğu Bölgeler",
-        "summary": "2020 yılından bu yana su kaynaklı çatışmaların dünya genelinde neredeyse dört katına çıktığı bildirildi. Dünya Su Haftası 2026'nın başlangıcında, Katar merkezli haber ajansı Al Jazeera, bu artışın arkasındaki verileri detaylı bir şekilde inceledi. Haberde, 2026 yılında su çatışmalarının en büyük tehdidi oluşturduğu bölgeler mercek altına alındı. Orta Doğu gibi su kıtlığı yaşayan bölgelerde su kaynakları üzerindeki gerilimlerin artması beklendiğinden, bu analiz bölge için kritik önem taşımaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38535518/pexels-photo-38535518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T10:52:45.360Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
