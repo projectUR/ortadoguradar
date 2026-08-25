@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787690044613ykxvo",
+        "title": "Yemen Başkanlık Konseyi, Husilere Karşı Caydırıcılık Tedbirlerini Artırma Sözü Verdi",
+        "summary": "Yemen Başkanlık Liderlik Konseyi (PLC), Husi grubuna karşı 'caydırıcılık' tedbirlerini artırma kararı aldığını duyurdu. Konseyin tüm üyelerinin katılımıyla Suudi Arabistan'ın başkenti Riyad'da gerçekleştirilen toplantının ardından yapılan açıklamada, bölgedeki güvenlik durumunun ele alındığı belirtildi. Bu adımın, Yemen'deki mevcut çatışma ortamında Husilerin eylemlerine karşı bir yanıt niteliği taşıdığı ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7433825/pexels-photo-7433825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T20:34:04.613Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-presidential-council-vows-to-step-up-deterrence-measures-against-houthis/4037419",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17876837301213cecu",
         "title": "Suriye, ABD'nin 'terör' listesinden çıkarıldı: El-Şaraa 'geçmişi geride bırakıyoruz' dedi",
         "summary": "Amerika Birleşik Devletleri, Suriye'yi onlarca yıldır süren 'terör' listesinden çıkarma kararı aldı. Bu adım, Suriye için önemli bir yaptırım hafifletmesi sağlayacak. Kararın, ülkenin savaş sonrası yeniden inşasına yönelik çabalarını hızlandırması ve ekonomik toparlanmaya katkıda bulunması bekleniyor. Suriye'li yetkililer, bu gelişmeyi ülkenin geçmişi geride bırakarak yeni bir döneme girmesi olarak değerlendirdi.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/additional-us-sanctions-imposed-on-tehran-will-fail-iranian-official/4035705",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787572539637g8eug",
-        "title": "Hollanda Kamu Yayıncısı Eurovision'u Boykot Edeceğini Açıkladı",
-        "summary": "Hollanda'nın kamu yayıncısı AVROTROS, tırmanan uluslararası çatışmaların etkinliğin tarafsızlığını zedelediği ve ayrılıkları körüklediği gerekçesiyle Eurovision Şarkı Yarışması'nı boykot edeceğini duyurdu. Yayıncı kuruluş, Eurovision'un birleştirici ruhunun bu durumdan olumsuz etkilendiğini ve artık tarafsızlığını koruyamadığını belirtti. Bu karar, uluslararası kültürel etkinliklerin küresel siyasi gerilimlerden nasıl etkilendiğini bir kez daha gözler önüne serdi. AVROTROS'un bu adımı, diğer ülkelerin yayıncı kuruluşları arasında da benzer tartışmaları tetikleyebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11317068/pexels-photo-11317068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T11:55:39.637Z",
-        "location": {
-            "lat": 52.3676,
-            "lng": 4.9041,
-            "name": "Amsterdam, Hollanda"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
