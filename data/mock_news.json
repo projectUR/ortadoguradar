@@ -1,5 +1,37 @@
 [
     {
+        "id": "17876806176209e4bq",
+        "title": "Fatah ve Dahlan Bloku Filistin Seçimleri Öncesi Uzlaşma Görüşmeleri Yaptı",
+        "summary": "Filistin'in önde gelen siyasi hareketlerinden Fatah ve Muhammed Dahlan liderliğindeki Demokratik Reform Hareketi, yaklaşan Filistin seçimleri öncesinde uzlaşma görüşmeleri gerçekleştirdi. Mısır'ın El Alamein kentinde yapılan görüşmelerde, olası bir muhalefet koalisyonunun yaratabileceği endişeler ele alındı. Bu buluşma, Filistin siyasetindeki bölünmüşlüğü gidermeyi ve taraflar arasında bir uzlaşı zemini oluşturmayı hedefliyor. Görüşmelerin, Filistin iç siyasetinde önemli bir dönüm noktası olabileceği belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T17:56:57.620Z",
+        "location": {
+            "lat": 30.83,
+            "lng": 28.95,
+            "name": "El Alamein, Mısır"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787680767138rnc56",
+        "title": "Şam, İsrail savunma bakanının işgal altındaki tampon bölge ziyaretini kınadı",
+        "summary": "Suriye'nin başkenti Şam, İsrail savunma bakanının işgal altındaki tampon bölgeye yaptığı ziyareti sert bir dille kınadığını duyurdu. Geçtiğimiz yıl İsrail güçleri, Suriye topraklarındaki tampon bölgeyi ve aralarında Hermon Dağı'nın Suriye tarafının da bulunduğu diğer stratejik noktaları ele geçirmişti. Şam yönetimi, bu ziyareti egemenlik ihlali olarak değerlendirirken, Tel Aviv'den henüz bir açıklama gelmedi. Bu olay, iki ülke arasındaki mevcut gerilimi ve bölgesel anlaşmazlıkları bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T17:59:27.138Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/damascus-decries-israeli-defense-chiefs-visit-to-occupied-buffer-zone/4037383",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787674211843d9282",
         "title": "Trump, yaptırımların İran rejimini devirmesini umuyor; Tahran liderleri ise aksini iddia ediyor",
         "summary": "Amerika Birleşik Devletleri, İran'a yönelik yeni yaptırımları \"ekonomik D-Day\" olarak nitelendiriyor ve bu adımlarla İran rejimini devirmeyi hedeflediğini belirtiyor. Ancak Tahran yönetimi, geçmişte de benzer kısıtlamalar altında varlığını sürdürmeyi başardığını vurgulayarak, bu yaptırımlara dayanabileceklerini ifade ediyor. İranlı liderler, ABD'nin baskılarına rağmen pozisyonlarını koruyacaklarına inanırken, Washington ile Tahran arasındaki bu gerilim, bölgedeki siyasi dinamikleri etkilemeye devam ediyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1787559135930mlr6x",
-        "title": "Gazze'de Sağlık Hakkı Artık Bir Ayrıcalık Haline Geldi",
-        "summary": "Gazze Şeridi'nde sağlık hizmetlerine erişimin temel bir hak olmaktan çıkarak bir ayrıcalığa dönüştüğü belirtiliyor. Bölgedeki sağlık sisteminin ağır tahribat nedeniyle çökmüş durumda olduğu ifade ediliyor. Bu durumun, özellikle yerinden edilmiş kişilerin yaşadığı kamplardaki en savunmasız kesimlere ulaşmayı imkansız hale getirdiği vurgulanıyor. Uluslararası kuruluşlar, Gazze'deki insani krizin derinleştiği ve temel hizmetlerin sağlanamadığı konusunda uyarıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36038705/pexels-photo-36038705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T08:12:15.930Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1787559177286tdidf",
-        "title": "Ateşkese Rağmen İsrail'in Gazze Saldırılarında 2 Filistinli Öldürüldü",
-        "summary": "Gazze Şeridi'nde ilan edilen ateşkese rağmen İsrail'in düzenlediği saldırılarda iki Filistinlinin hayatını kaybettiği bildirildi. Olay, Gazze Şeridi'nin orta kesimindeki Deir al-Balah kentinde meydana geldi. Şühedaa El-Aksa Hastanesi yakınlarında yerinden edilmiş kişilerin barındığı bir çadırın İsrail insansız hava aracı saldırısına hedef olduğu belirtildi. Saldırıda iki sivilin yaşamını yitirmesi, bölgedeki kırılgan durumu ve gerilimin devam ettiğini gözler önüne serdi. Bu gelişme, ateşkesin uygulanabilirliği konusunda endişeleri artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T08:12:57.286Z",
-        "location": {
-            "lat": 31.4167,
-            "lng": 34.3417,
-            "name": "Deir al-Balah, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-in-israeli-attacks-on-gaza-despite-ceasefire/4035530",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
