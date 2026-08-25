@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787636073492bk47l",
+        "title": "Fransa ve Suudi Arabistan, Paris yakınlarında 7 milyar dolarlık tema parkı projesi üzerinde anlaştı",
+        "summary": "Fransa ve Suudi Arabistan, Paris yakınlarında inşa edilecek 7 milyar dolarlık bir tema parkı projesi için anlaşmaya vardı. Bu mutabakat, Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın Paris ziyaretinde imzalanan çok sayıda anlaşmadan biri olarak kayıtlara geçti. İmzalanan diğer anlaşmalar enerji, savunma, yapay zeka ve turizm gibi geniş bir yelpazeyi kapsıyor. Söz konusu işbirlikleri, iki ülke arasındaki ekonomik ve stratejik ilişkilerin güçlendiğini gösteriyor. Tema parkı projesi, turizm sektöründeki önemli yatırımların bir parçası olarak öne çıkıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/7841410/pexels-photo-7841410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T05:34:33.492Z",
+        "location": {
+            "lat": 48.8566,
+            "lng": 2.3522,
+            "name": "Paris, Fransa"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787629825735yquen",
         "title": "İsrail Başbakanı Netanyahu'dan İran'a Suikast Girişimi İddiası",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, İran'ın oğullarından birini öldürmeye çalıştığını iddia etti. Bu ciddi suçlama, ABD ve İsrail'in daha önce İran'ın dini liderini ve ailesinden dört kişiyi Tahran'da öldürmesinin ardından geldi. Netanyahu'nun açıklamaları, iki ülke arasındaki zaten gergin olan ilişkileri daha da tırmandırabilecek nitelikte. Bölgedeki siyasi ve güvenlik dinamikleri açısından bu tür iddiaların yakından takip edildiği belirtiliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17875100173503mz21",
-        "title": "Tunus'ta Göçmen Teknesinin Batması Sonucu Sekiz Kişinin Hayatını Kaybetmesinin Ardından Protestolar Yaşanıyor",
-        "summary": "Tunus'un güneydoğu kıyılarında İtalya'ya gitmekte olan bir göçmen teknesi battı. Olayda teknede bulunan 15 Tunusludan sekizi hayatını kaybetti. Bu trajik olayın ardından ülke genelinde protestolar patlak verdi. Göçmen teknelerinin batması ve can kayıpları, Tunus için uzun süredir devam eden önemli bir sorun teşkil ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/33600716/pexels-photo-33600716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T18:33:37.350Z",
-        "location": {
-            "lat": 36.8065,
-            "lng": 10.1815,
-            "name": "Tunus"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
