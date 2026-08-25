@@ -1,5 +1,21 @@
 [
     {
+        "id": "17876541188139t5zq",
+        "title": "Pakistan Genelkurmay Başkanı Munir, İran'da Askeri Yetkililerle Görüştü",
+        "summary": "Pakistan Genelkurmay Başkanı Asım Munir, İran'ı ziyaret ederek askeri yetkililerle bir araya geldi. Ziyaretin, İran'ın güvenlik birimlerini Washington ile müzakerelere dönmeye ikna etme amacı taşıdığı belirtildi. Pakistan, Tahran'da yapılan görüşmelerde ilerleme kaydedildiğini açıklarken, İran'ın güvenlik kurumlarının Washington'a karşı temkinli duruşunu sürdürdüğü ifade edildi. Görüşmelerin, bölgesel güvenlik ve diplomatik ilişkiler açısından önem taşıdığı vurgulandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T10:35:18.813Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787650733202q6o1o",
         "title": "İsrailli Milletvekili İşgal Altındaki Batı Şeria'da Filistin Anıtını Tahrip Etti",
         "summary": "İşgal altındaki Batı Şeria'da bir İsrailli milletvekili, Filistinlilere ait bir anıtı tahrip etti. Nablus yakınlarındaki Madama köyünde bulunan anıtın, İsrail güçleri tarafından öldürülen Filistinlilerin isimlerini taşıdığı belirtildi. Olayın ardından İsrail ordusu, milletvekilinin bu eyleminden haberdar olmadıklarını açıkladı. Bu tür eylemlerin bölgedeki gerilimi artırma potansiyeli taşıdığı ifade ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1787555079704rorro",
-        "title": "Suriye, Şam yakınlarındaki İsrail saldırısının uluslararası hukukun ihlali olduğunu belirtti",
-        "summary": "Suriye yönetimi, başkent Şam yakınlarında İsrail tarafından gerçekleştirilen bir saldırının uluslararası hukukun açık bir ihlali olduğunu açıkladı. Şam, bu tür eylemlerin bölgedeki istikrarsızlığı artırdığını ve Suriye'nin egemenliğine yönelik bir saldırı olduğunu vurguladı. Bu son olay, İsrail'in Türkiye sınırına yakın bir askeri hava üssünü hedef aldığına dair çıkan haberlerin ardından geldi. Bölgedeki gerilim ve karşılıklı suçlamalar devam ederken, uluslararası toplumdan itidal çağrıları yükseliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952998/pexels-photo-5952998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T07:04:39.704Z",
-        "location": {
-            "lat": 33.51,
-            "lng": 36.28,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
