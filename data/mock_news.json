@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787674211843d9282",
+        "title": "Trump, yaptırımların İran rejimini devirmesini umuyor; Tahran liderleri ise aksini iddia ediyor",
+        "summary": "Amerika Birleşik Devletleri, İran'a yönelik yeni yaptırımları \"ekonomik D-Day\" olarak nitelendiriyor ve bu adımlarla İran rejimini devirmeyi hedeflediğini belirtiyor. Ancak Tahran yönetimi, geçmişte de benzer kısıtlamalar altında varlığını sürdürmeyi başardığını vurgulayarak, bu yaptırımlara dayanabileceklerini ifade ediyor. İranlı liderler, ABD'nin baskılarına rağmen pozisyonlarını koruyacaklarına inanırken, Washington ile Tahran arasındaki bu gerilim, bölgedeki siyasi dinamikleri etkilemeye devam ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/241028/pexels-photo-241028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T16:10:11.843Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1787667647455i7oei",
         "title": "İsrail Başbakanı Netanyahu'nun Savaş Retoriğinde Dini Silah Olarak Kullanımı",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun savaş söylemlerinde dini metinleri bir araç olarak kullandığı belirtildi. Haber, Netanyahu'nun bu antik dini metinleri önleyici savaşı meşrulaştırmak ve uluslararası hukuku bypass etmek amacıyla kullandığını öne sürüyor. Bu yaklaşımın, İsrail'in askeri operasyonlarına dini bir temel sağlamayı hedeflediği ifade ediliyor. Söz konusu stratejinin, bölgedeki siyasi ve diplomatik dengeler üzerinde etkileri olabileceği değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-in-israeli-attacks-on-gaza-despite-ceasefire/4035530",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1787559198044gc8xk",
-        "title": "Yemen hükümetine bağlı güçler, Aden'in batısında Husilere ait insansız hava araçlarını püskürttüğünü bildirdi",
-        "summary": "Yemen hükümetine bağlı güçler, ülkenin güneyindeki Aden kentinin batısında Husilere ait insansız hava araçlarını (İHA) engellediğini duyurdu. Güney Silahlı Kuvvetleri'nden yapılan açıklamada, İHA'ların hedeflerine ulaşmadan önce durdurulduğu belirtildi. Bu olay, Yemen'deki uzun süredir devam eden çatışmaların bir parçası olarak değerlendiriliyor. Hükümet güçleri ile İran destekli Husiler arasındaki gerilim bölgede sık sık benzer olaylara yol açıyor. Bu tür saldırılar, ülkenin güneyindeki stratejik bölgelerdeki güvenlik endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34946628/pexels-photo-34946628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T08:13:18.044Z",
-        "location": {
-            "lat": 12.8,
-            "lng": 45,
-            "name": "Aden, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemens-government-aligned-forces-say-they-repelled-houthi-drones-west-of-aden/4035495",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
