@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787650733202q6o1o",
+        "title": "İsrailli Milletvekili İşgal Altındaki Batı Şeria'da Filistin Anıtını Tahrip Etti",
+        "summary": "İşgal altındaki Batı Şeria'da bir İsrailli milletvekili, Filistinlilere ait bir anıtı tahrip etti. Nablus yakınlarındaki Madama köyünde bulunan anıtın, İsrail güçleri tarafından öldürülen Filistinlilerin isimlerini taşıdığı belirtildi. Olayın ardından İsrail ordusu, milletvekilinin bu eyleminden haberdar olmadıklarını açıkladı. Bu tür eylemlerin bölgedeki gerilimi artırma potansiyeli taşıdığı ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8607519/pexels-photo-8607519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T09:38:53.202Z",
+        "location": {
+            "lat": 32.1469,
+            "lng": 35.2008,
+            "name": "Madama, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-lawmaker-smashes-palestinian-memorial-in-occupied-west-bank/4036674",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787647568390l86nt",
         "title": "Küresel Okyanus Sıcaklıkları El Nino'nun Şiddetlenmesiyle Rekor Seviyeye Ulaştı",
         "summary": "Copernicus tarafından yapılan açıklamaya göre, küresel okyanus sıcaklıkları rekor seviyelere ulaştı. El Nino hava olayının şiddetlenmesi ve iklim değişikliğinin etkisiyle deniz sıcaklıklarında ciddi bir artış gözlemleniyor. Bu durumun, dünya okyanusları üzerinde \"benzeri görülmemiş bir baskı\" oluşturduğu ve deniz ekosistemleri için büyük tehdit oluşturduğu belirtildi. Bilim insanları, bu sıcaklık artışlarının küresel iklim modelleri, deniz yaşamı ve kıyı bölgeleri üzerindeki uzun vadeli olumsuz etkileri konusunda uyarıda bulunuyor. Orta Doğu coğrafyası da uzun kıyı şeritleri ve denizlere bağımlılığı nedeniyle bu küresel değişimlerden doğrudan etkilenecek bölgeler arasında yer alıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17875551211132adjz",
-        "title": "Umman Dışişleri Bakanı Tahran'ı Ziyaret Edecek",
-        "summary": "Umman Dışişleri Bakanı Bedr Elbusaidi, ikili ilişkileri ve bölgesel konuları görüşmek üzere İran'ın başkenti Tahran'ı ziyaret edecek. Elbusaidi, bu ziyaret kapsamında İran Dışişleri Bakanı Abbas Araghchi ile bir araya gelecek. Görüşmelerde iki ülke arasındaki işbirliğinin yanı sıra Orta Doğu'daki güncel gelişmelerin ele alınması bekleniyor. Bu ziyaretin, bölgedeki diplomatik ilişkilerin güçlendirilmesine katkı sağlaması hedefleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8070723/pexels-photo-8070723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T07:05:21.113Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/omani-foreign-minister-to-visit-tehran-for-talks/4035403",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
