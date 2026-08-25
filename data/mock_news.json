@@ -1,5 +1,53 @@
 [
     {
+        "id": "1787625632904j234j",
+        "title": "Müslümanlar Hz. Muhammed'in Doğum Gününü Kutladı",
+        "summary": "Irak, Libya ve Fas'taki Müslümanlar, Hz. Muhammed'in doğum günü olan Mevlid Kandili'ni kutlamak üzere bir araya geldi. Bu özel gün, İslam dünyasında büyük bir öneme sahip olup, peygamberin dünyaya gelişini anmak amacıyla çeşitli etkinliklerle idrak edildi. Söz konusu ülkelerde düzenlenen kutlamalarda, Müslümanlar camilerde ve toplanma alanlarında dualar etti ve dini törenler gerçekleştirdi. Mevlid Kandili, İslam takvimine göre Rebiülevvel ayının 12. gecesine denk gelmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/12597918/pexels-photo-12597918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T02:40:32.904Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787625800854orqr9",
+        "title": "Suudi Arabistan ve Fransa'dan Filistin Devleti'ne Destek, İsrail'e Lübnan'dan Çekilme Çağrısı",
+        "summary": "Suudi Arabistan ve Fransa, yayımladıkları ortak bir bildiriyle Filistin devletinin kurulmasına olan desteklerini yineledi. İki ülke, İsrail'in Lübnan topraklarından çekilmesi yönünde çağrıda bulundu. Bildiride ayrıca, İran'ın nükleer programına ilişkin müzakere edilmiş bir çözüm bulunması gerektiği vurgulandı. Tahran yönetimine, Birleşmiş Milletler nükleer gözlemcisiyle tam işbirliğine geri dönmesi çağrısı yapıldı. Bu açıklamalar, Orta Doğu'daki bölgesel güvenlik ve istikrar konularına odaklanıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T02:43:20.854Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-france-back-palestinian-state-call-for-israel-s-withdrawal-from-lebanon/4036371",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787625823901laya2",
+        "title": "BM: Sudan hükümeti sivil diyaloğu destekleme çabalarını yoğunlaştırıyor",
+        "summary": "Birleşmiş Milletler (BM) yetkilileri, Sudan hükümetinin sivil diyaloğu destekleme çabalarını yoğunlaştırdığını bildirdi. BM siyasi işler şefi, Sudan-Etiyopya sınırı yakınlarında çatışmaların tırmandığını belirtti. Bölgede ele geçirilen gelişmiş silahların, ülkedeki çatışmalara yönelik dış desteğin devam ettiğine işaret ettiği vurgulandı. Bu gelişmeler, Sudan'daki istikrarsızlığın sürdüğünü ve uluslararası toplumun barış çabalarının önemini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T02:43:43.901Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.55,
+            "name": "Khartoum, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sudan-s-government-intensifying-efforts-to-support-civilian-dialogue-un/4036370",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1787621082849cusrt",
         "title": "Suriye Devlet Başkanı: Ülke, ABD terör listesinden çıkarılmasının ardından 'yeni bir sayfa açıyor'",
         "summary": "Suriye Devlet Başkanı, ülkesinin ABD terör listesinden çıkarılmasının ardından \"yeni bir sayfa açtığını\" duyurdu. Habere göre, Ahmad al-Sharaa, bu \"tarihi karar\" nedeniyle eski ABD Başkanı Trump'a teşekkürlerini iletti. Al-Sharaa, bu gelişmenin Suriye'nin kalkınma ve yeniden yapılanma sürecine ilerlemesini sağlayacağını belirtti. Bu durum, ABD'nin Suriye'ye yönelik politikasında potansiyel bir değişime ve ülkenin geleceği için yeni fırsatlara işaret ediyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/flash-floods-displace-63-families-damage-dozens-of-homes-in-sudan/4035236",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787504098786o5v4j",
-        "title": "Nijerya, İran'daki Potansiyel Çatışmanın Ardından Gaz Üretimini Artırma Hedefinde",
-        "summary": "Nijeryalı yetkili Ekperikpe Ekpo, ABD ve İsrail'in İran'a karşı olası bir savaşının Nijerya'yı gaz üretimini genişletmeye yönelttiğini ifade etti. Bu açıklama, Orta Doğu'daki potansiyel bir çatışmanın küresel enerji piyasalarında yaratabileceği boşlukları değerlendirme arayışını ortaya koyuyor. Nijerya, bu durumdan faydalanarak enerji piyasasındaki konumunu güçlendirmeyi hedefliyor. Ülke, artan gaz talebini karşılamak ve gelirlerini yükseltmek amacıyla üretim kapasitesini genişletme stratejisi izleyecek.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/34636185/pexels-photo-34636185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T16:54:58.786Z",
-        "location": {
-            "lat": 9.082,
-            "lng": 7.1803,
-            "name": "Abuja, Nijerya"
-        },
-        "source": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787500101388wnpa5",
-        "title": "Pezeshkian: İran, savaş ve yaptırımlara rağmen 'Venezuela olmadı'",
-        "summary": "İran Cumhurbaşkanı Mesud Pezeshkian, ülkesinin maruz kaldığı 'tam ölçekli savaşa' ve ağır yaptırımlara rağmen ayakta kaldığını belirtti. Pezeshkian, İran'ın bu zorlu koşullar altında dahi 'Venezuela'ya dönüşmediğini' vurguladı. Bu açıklama, ülkenin ekonomik ve siyasi dayanıklılığına dair uluslararası tartışmaların ortasında geldi. Cumhurbaşkanı, İran'ın iç ve dış baskılara karşı direncini sürdürdüğünü ifade etti. Bu tür açıklamalar, genellikle iç kamuoyuna ve uluslararası aktörlere yönelik bir mesaj niteliği taşımaktadır.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/9156149/pexels-photo-9156149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T15:48:21.388Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787500156759zn6qg",
-        "title": "İran devasa bir doğalgaz keşfi duyurdu",
-        "summary": "İran, Fars eyaletinde 7,5 trilyon metreküpten fazla doğalgaz içeren yeni bir saha bulunduğunu açıkladı. Bu keşif, ülkenin enerji rezervlerini önemli ölçüde artırma potansiyeli taşıyor. Yeni doğalgaz sahasının, İran'ın enerji bağımsızlığına katkıda bulunması ve bölgesel enerji piyasalarındaki konumunu güçlendirmesi bekleniyor. Keşfedilen rezervlerin, ülkenin uzun vadeli enerji ihtiyaçlarını karşılamada kritik bir rol oynaması öngörülüyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/14029481/pexels-photo-14029481.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T15:49:16.759Z",
-        "location": {
-            "lat": 29.6,
-            "lng": 52.54,
-            "name": "Fars Eyaleti, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-announces-massive-gas-discovery/4035207",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
