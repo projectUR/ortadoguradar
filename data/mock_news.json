@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787663009984qhxa4",
+        "title": "Suyun Savaş Silahına Dönüşümü",
+        "summary": "AJLabs tarafından hazırlanan bir haberde, su kaynaklarının Orta Doğu'daki çatışmalarda nasıl bir silah olarak kullanıldığı ele alınıyor. Haberde, Filistin'e ait bir su kaynağının İsrailli yerleşimcilere ait bir yüzme havuzunu doldurması örneği üzerinden, suyun stratejik önemine dikkat çekiliyor. Bu durum, bölgedeki Filistinlilerin temel su erişim haklarının kısıtlanmasına yol açarken, İsrailli yerleşimcilerin kaynaklara daha kolay ulaşmasını sağlıyor. Haber, suyun kontrolünün ve dağıtımının siyasi ve askeri bir araç olarak kullanılmasının insani ve diplomatik sonuçlarını vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10629462/pexels-photo-10629462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T13:03:29.984Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17876541188139t5zq",
         "title": "Pakistan Genelkurmay Başkanı Munir, İran'da Askeri Yetkililerle Görüştü",
         "summary": "Pakistan Genelkurmay Başkanı Asım Munir, İran'ı ziyaret ederek askeri yetkililerle bir araya geldi. Ziyaretin, İran'ın güvenlik birimlerini Washington ile müzakerelere dönmeye ikna etme amacı taşıdığı belirtildi. Pakistan, Tahran'da yapılan görüşmelerde ilerleme kaydedildiğini açıklarken, İran'ın güvenlik kurumlarının Washington'a karşı temkinli duruşunu sürdürdüğü ifade edildi. Görüşmelerin, bölgesel güvenlik ve diplomatik ilişkiler açısından önem taşıdığı vurgulandı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17875550023633e4g2",
-        "title": "Salah, Trabzonspor Formasıyla İlk Maçında İki Gol Attı, İki Golü İptal Edildi",
-        "summary": "Türk Süper Lig ekibi Trabzonspor'a bu ay başında bedelsiz transfer olan Salah, yeni takımıyla ilk maçına çıktı. Karşılaşmada iki kez fileleri havalandıran Salah'ın iki golü ise hakem kararıyla iptal edildi. Bu performans, oyuncunun takıma adaptasyonu ve gelecekteki katkıları hakkında beklentileri artırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38083557/pexels-photo-38083557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T07:03:22.363Z",
-        "location": {
-            "lat": 41.0027,
-            "lng": 39.7178,
-            "name": "Trabzon, Türkiye"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
