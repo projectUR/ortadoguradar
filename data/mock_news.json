@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787629825735yquen",
+        "title": "İsrail Başbakanı Netanyahu'dan İran'a Suikast Girişimi İddiası",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, İran'ın oğullarından birini öldürmeye çalıştığını iddia etti. Bu ciddi suçlama, ABD ve İsrail'in daha önce İran'ın dini liderini ve ailesinden dört kişiyi Tahran'da öldürmesinin ardından geldi. Netanyahu'nun açıklamaları, iki ülke arasındaki zaten gergin olan ilişkileri daha da tırmandırabilecek nitelikte. Bölgedeki siyasi ve güvenlik dinamikleri açısından bu tür iddiaların yakından takip edildiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560377/pexels-photo-8560377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T03:50:25.735Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1787625632904j234j",
         "title": "Müslümanlar Hz. Muhammed'in Doğum Gününü Kutladı",
         "summary": "Irak, Libya ve Fas'taki Müslümanlar, Hz. Muhammed'in doğum günü olan Mevlid Kandili'ni kutlamak üzere bir araya geldi. Bu özel gün, İslam dünyasında büyük bir öneme sahip olup, peygamberin dünyaya gelişini anmak amacıyla çeşitli etkinliklerle idrak edildi. Söz konusu ülkelerde düzenlenen kutlamalarda, Müslümanlar camilerde ve toplanma alanlarında dualar etti ve dini törenler gerçekleştirdi. Mevlid Kandili, İslam takvimine göre Rebiülevvel ayının 12. gecesine denk gelmektedir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787505801438nc3xb",
-        "title": "Sudan'da Ani Seller 63 Aileyi Yerinden Etti, Onlarca Evi Hasar Gördü",
-        "summary": "Sudan'da şiddetli yağışlar nedeniyle ani seller meydana geldi. Ülke, Haziran'dan Ekim'e kadar süren yağışlı mevsimini yaşıyor. Bu seller sonucunda 63 aile yerinden olurken, onlarca evde de ciddi hasar oluştu. Doğal afetin yol açtığı insani durum ve altyapı üzerindeki olumsuz etkiler dikkat çekiyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/17609960/pexels-photo-17609960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T17:23:21.438Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.5,
-            "name": "Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/flash-floods-displace-63-families-damage-dozens-of-homes-in-sudan/4035236",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
