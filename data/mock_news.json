@@ -1,5 +1,21 @@
 [
     {
+        "id": "17876407573246zef8",
+        "title": "Libya Grupları, Süregelen Güvensizliğe Rağmen İlk Seçim Anlaşmasını İmzaladı",
+        "summary": "Libya'daki farklı gruplar, ülkedeki siyasi krizi çözme yolunda ilk seçim anlaşmasını imzaladı. Ancak, bölünmüş kurumlar ve derin hukuki boşluklar, bu anlaşmanın uygulanabilirliğini tehdit ediyor. Ülkenin gelecekteki siyasi geçiş sürecini şekillendirmesi beklenen bu pakt, taraflar arasındaki süregelen güvensizlik nedeniyle zorlu bir süreçle karşı karşıya. Anlaşmanın hayata geçirilmesi ve kalıcı bir istikrarın sağlanması için daha fazla uzlaşmaya ihtiyaç duyuluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/39148380/pexels-photo-39148380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-25T06:52:37.324Z",
+        "location": {
+            "lat": 32.8879,
+            "lng": 13.5828,
+            "name": "Trablus, Libya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1787636073492bk47l",
         "title": "Fransa ve Suudi Arabistan, Paris yakınlarında 7 milyar dolarlık tema parkı projesi üzerinde anlaştı",
         "summary": "Fransa ve Suudi Arabistan, Paris yakınlarında inşa edilecek 7 milyar dolarlık bir tema parkı projesi için anlaşmaya vardı. Bu mutabakat, Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın Paris ziyaretinde imzalanan çok sayıda anlaşmadan biri olarak kayıtlara geçti. İmzalanan diğer anlaşmalar enerji, savunma, yapay zeka ve turizm gibi geniş bir yelpazeyi kapsıyor. Söz konusu işbirlikleri, iki ülke arasındaki ekonomik ve stratejik ilişkilerin güçlendiğini gösteriyor. Tema parkı projesi, turizm sektöründeki önemli yatırımların bir parçası olarak öne çıkıyor.",
@@ -780,22 +796,6 @@
             "name": "Şam, Suriye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/syria-says-contacts-with-israel-halted-after-airbase-attack/4035195",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787509981568m02en",
-        "title": "Sudan'ın Kuzey Kordofan Eyaleti'nde Çatışmalardan Kaçan Binlerce Aile",
-        "summary": "Sudan'ın Kuzey Kordofan Eyaleti'nde şiddetlenen çatışmalar, binlerce ailenin yerinden olmasına neden oldu. Bölgedeki güvenlik durumunun kötüleşmesiyle birlikte, çok sayıda sivil evlerini terk etmek zorunda kaldı. Özellikle anneler ve çocukları, gıda ve güvenlik gibi temel insani ihtiyaçlara erişimde ciddi sıkıntılar yaşıyor. Çatışmalardan etkilenen bu kesimlerin acil insani yardıma muhtaç olduğu belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-23T18:33:01.568Z",
-        "location": {
-            "lat": 13.18,
-            "lng": 30.22,
-            "name": "Kuzey Kordofan Eyaleti, Sudan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
