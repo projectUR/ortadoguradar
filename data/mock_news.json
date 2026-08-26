@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787749097158hxlch",
+        "title": "İsrail'in Doğu Kudüs'teki UNRWA Eğitim Koleji'ne El Koyması Kınandı",
+        "summary": "İsrail'in Doğu Kudüs'te Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA) bünyesindeki bir eğitim kolejine el koyduğu bildirildi. Bu eylem, İsrail'in UNRWA'ya karşı çıkardığı bir yasanın ardından, ajansın şehirdeki son tesisinin de kapatılması anlamına geliyor. Söz konusu gelişme, Filistinli mültecilere yönelik hizmetlerin aksamasına yol açabileceği endişelerini beraberinde getiriyor. Uluslararası toplumdan ve ilgili taraflardan bu karara yönelik kınamalar yükseldiği belirtildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7142502/pexels-photo-7142502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T12:58:17.158Z",
+        "location": {
+            "lat": 31.7767,
+            "lng": 35.2345,
+            "name": "Doğu Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787740641342njhly",
         "title": "Çin Devlet Başkanı Xi, Kırgızistan ve Mısır'ı Ziyaret Edecek",
         "summary": "Çin Devlet Başkanı Xi Jinping'in Kırgızistan ve Mısır'a resmi ziyaretler gerçekleştireceği duyuruldu. Açıklamaya göre, Başkan Xi ilk olarak Kırgızistan'ın başkenti Bişkek'te düzenlenecek Şanghay İşbirliği Örgütü (ŞİÖ) zirvesine katılacak. Zirvenin ardından Çin lideri, Orta Doğu ve Kuzey Afrika'nın kilit ülkelerinden Mısır'a geçecek. Bu ziyaretlerin, Çin'in bölgesel diplomatik ilişkilerini pekiştirme ve stratejik ortaklıklarını geliştirme hedefini yansıttığı belirtiliyor. Özellikle Mısır ziyareti, Pekin'in Orta Doğu'daki nüfuzunu artırma çabaları açısından kritik bir öneme sahip.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-police-raid-palestinian-graduation-venue-in-occupied-east-jerusalem-detain-several-attendees/4036378",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17876441727001i227",
-        "title": "Türkiye ve Katar, İkili Ticarette 5 Milyar Dolar Hedefledi",
-        "summary": "Türkiye ve Katar, ikili ticaret hacmini 5 milyar dolara çıkarma hedefi belirledi. İki ülke arasındaki ticaret hacmi, son 21 yılda 53 kat artış göstererek 2025 yılında 1,3 milyar dolara ulaştı. Bu hedef, iki ülke arasındaki ekonomik işbirliğini daha da güçlendirme ve karşılıklı ticareti artırma yönündeki kararlılığı ortaya koyuyor. Taraflar, belirlenen hedefe ulaşmak için ortak çalışmalar yürütecek.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/28185415/pexels-photo-28185415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T07:49:32.700Z",
-        "location": {
-            "lat": 32.6,
-            "lng": 42.2,
-            "name": "Ankara, Türkiye / Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkiye-qatar-target-5b-in-bilateral-trade/4036375",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
