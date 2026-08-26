@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787716497331zofv7",
+        "title": "Suriye Demokratik Güçleri dağıldığını açıkladı",
+        "summary": "IŞİD'e karşı mücadelede önemli rol oynayan Suriye Demokratik Güçleri (SDG), dağılma kararı aldığını duyurdu. Bu gelişme, Suriye'nin kuzey ve doğu bölgelerindeki güvenlik dinamikleri açısından kritik bir dönüm noktası olarak değerlendiriliyor. ABD destekli bir yapı olan SDG'nin dağılması, bölgedeki güç dengelerini ve çeşitli aktörler arasındaki ilişkileri etkileme potansiyeli taşıyor. Örgütün geleceği ve üyelerinin durumu, önümüzdeki dönemde yakından takip edilecek konular arasında yer alıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18067562/pexels-photo-18067562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T03:54:57.331Z",
+        "location": {
+            "lat": 35,
+            "lng": 38,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1787716524731x42n3",
+        "title": "İsrail askerleri, Knesset üyesinin kuşatılmış Filistinli evine ulaşmasını engelledi",
+        "summary": "İsrail askerleri, işgal altındaki Batı Şeria'da bulunan bir Filistinli ailenin evine ulaşmaya çalışan İsrail parlamentosu (Knesset) üyesi Ofer Cassif'in geçişini engelledi. Olay, bölgedeki mevcut gerilimi ve hareket kısıtlamalarını bir kez daha gözler önüne serdi. Cassif'in, kuşatma altında olduğu belirtilen Filistinli aileye destek amacıyla bölgeye gitmeye çalıştığı bildirildi. Bu durum, İsrailli siyasetçilerin dahi Filistin topraklarındaki belirli bölgelere erişiminde karşılaştığı engelleri ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12357501/pexels-photo-12357501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T03:55:24.731Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17877076204402o87i",
         "title": "Sudan'daki savaş alanı, ülkenin bir sonraki siyasi aşamasının koşullarını mı belirliyor?",
         "summary": "Sudan'da devam eden iç savaşta, Ordu'nun sahada önemli kazanımlar elde ettiği belirtiliyor. Aynı zamanda, Hızlı Destek Kuvvetleri (RSF) saflarında firarların yaşandığına dair haberler geliyor. Sudan Egemenlik Konseyi Başkanı General Abdülfettah el-Burhan'ın siyasi girişimleri de dikkat çekiyor. Bu gelişmeler, ülkedeki çatışmanın seyrinde potansiyel bir değişime işaret ederek, Sudan'ın bir sonraki siyasi aşamasının koşullarını şekillendirebileceği yorumlarına yol açıyor.",
@@ -764,38 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787582878418ubg07",
-        "title": "Yemen Başkanlık Liderlik Konseyi'nden Sanaa ve Hodeidah'ı Geri Alma Sözü",
-        "summary": "Yemen Başkanlık Liderlik Konseyi, Husilerin kontrolündeki başkent Sanaa ve stratejik liman kenti Hodeidah'ı geri alma taahhüdünde bulundu. Konsey üyesi Tarık Salih, Kızıldeniz ve Babülmendep Boğazı'nın güvenliğinin, Husi milislerinden Hodeidah ve Sanaa'nın geri alınmasıyla başlayacağını vurguladı. Bu açıklama, Yemen'deki uzun süreli iç savaşta hükümet yanlısı güçlerin önemli bölgeleri yeniden ele geçirme kararlılığını ortaya koyuyor. Bölgesel ve uluslararası denizcilik güvenliği açısından kritik öneme sahip bu bölgelerin kontrolü, çatışmanın seyrini etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T14:47:58.418Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sanaa, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemens-presidential-leadership-council-vows-to-retake-sanaa-hodeidah-from-houthis/4035767",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787576156716chxay",
-        "title": "İsrail, Gazze Saldırılarını Tırmandırmak İçin Uçurtmaları Bahane Olarak Kullanmakla Suçlanıyor",
-        "summary": "İsrail'in Gazze Şeridi'ne yönelik saldırılarını artırmak için uçurtmaları bahane olarak kullandığı iddia edildi. İsrail, savaşın harap ettiği bölgeden 'uçurtma, insansız hava aracı ve balon' fırlatan Filistinli grupları tehdit etti. Bu tehditler, bölgedeki gerilimin tırmanmasına yol açıyor. Filistinli gruplar ise İsrail'in bu iddialarını saldırılarını meşrulaştırma çabası olarak değerlendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38535518/pexels-photo-38535518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T12:55:56.716Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
