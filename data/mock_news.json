@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787776808674pft21",
+        "title": "Libya ve Katar, düzensiz göç konusunda dörtlü işbirliğini görüştü",
+        "summary": "Libya Başbakanı Abdulhamid Dibeybe ve Katarlı bir yetkili, düzensiz göçle mücadele konusunda bir araya geldi. Görüşmede, Türkiye ve İtalya ile ortak çabaların ele alındığı belirtildi. Taraflar, düzensiz göç akışını kontrol altına almak ve Libya'nın bu alandaki kapasitesini güçlendirmek için işbirliği yapma konusunda mutabık kaldı. Bu dörtlü işbirliği, Akdeniz'deki göç rotaları ve bölgesel istikrar açısından önem taşıyor. Görüşmelerin, göçmen kaçakçılığıyla mücadele ve insani koşulların iyileştirilmesi hedeflerini taşıdığı ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/38078866/pexels-photo-38078866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T20:40:08.674Z",
+        "location": {
+            "lat": 32.8872,
+            "lng": 13.5887,
+            "name": "Trablus, Libya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/libya-qatar-discuss-4-way-cooperation-on-irregular-migration/4038531",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787768139740z9zoh",
         "title": "ABD Enflasyonu Temmuz'da Yapışkanlığını Korudu: İran Saldırısı Enerji Fiyatlarını Yükseltti",
         "summary": "Amerika Birleşik Devletleri'nde Temmuz ayında enflasyonun beklenenden daha yapışkan seyrettiği bildirildi. Enflasyondaki bu kötüleşmenin, ABD ve İsrail'in İran'a düzenlediği saldırı sonrası enerji fiyatlarında yaşanan sert yükselişle doğrudan ilişkili olduğu belirtildi. Söz konusu saldırının küresel enerji piyasalarında dalgalanmalara yol açarak fiyatları yukarı çektiği ifade edildi. Bu durumun, ABD ekonomisi üzerindeki enflasyonist baskıları artırarak tüketici harcamalarını ve genel ekonomik görünümü olumsuz etkilediği gözlemlenmektedir.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/unifil-says-entire-neighborhoods-wiped-out-in-southern-lebanon/4036557",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17876477496511m664",
-        "title": "Pakistan, Genelkurmay Başkanı'nın Tahran'da ABD-İran Memorandumu Üzerine Yaptığı Görüşmelerin Ardından 'Önemli İlerleme Kaydedildiğini' Bildirdi",
-        "summary": "Pakistan Genelkurmay Başkanı Asım Münir, Tahran'a gerçekleştirdiği bir günlük ziyaretin ardından ülkesine döndü. Ziyaret sırasında Münir, İran Cumhurbaşkanı Mesud Pezeşkiyan ve diğer üst düzey yetkililerle bir araya geldi. Görüşmelerin ana gündem maddesinin ABD-İran memorandumu olduğu belirtildi. Pakistan, bu görüşmeler sonucunda \"önemli ilerleme kaydedildiğini\" açıkladı. Bu ziyaretin, bölgesel güvenlik ve diplomatik ilişkiler açısından önem taşıdığı vurgulandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8190804/pexels-photo-8190804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T08:49:09.651Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/world/pakistan-says-significant-progress-made-after-army-chief-holds-talks-in-tehran-on-us-iran-memorandum/4036541",
         "trendScore": 85,
         "isBreaking": false
     }
