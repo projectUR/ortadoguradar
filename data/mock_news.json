@@ -1,5 +1,69 @@
 [
     {
+        "id": "1787768139740z9zoh",
+        "title": "ABD Enflasyonu Temmuz'da Yapışkanlığını Korudu: İran Saldırısı Enerji Fiyatlarını Yükseltti",
+        "summary": "Amerika Birleşik Devletleri'nde Temmuz ayında enflasyonun beklenenden daha yapışkan seyrettiği bildirildi. Enflasyondaki bu kötüleşmenin, ABD ve İsrail'in İran'a düzenlediği saldırı sonrası enerji fiyatlarında yaşanan sert yükselişle doğrudan ilişkili olduğu belirtildi. Söz konusu saldırının küresel enerji piyasalarında dalgalanmalara yol açarak fiyatları yukarı çektiği ifade edildi. Bu durumun, ABD ekonomisi üzerindeki enflasyonist baskıları artırarak tüketici harcamalarını ve genel ekonomik görünümü olumsuz etkilediği gözlemlenmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T18:15:39.740Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787768386971w9yve",
+        "title": "Yemen'deki Husiler Taiz'deki bir kompleksi bir ay içinde ikinci kez hedef aldı",
+        "summary": "Yemen'deki Husiler, Taiz kentinde yer alan bir kompleksi hedef aldı. Haber ajansları tarafından aktarılan bilgilere göre, bu saldırı bir ay içinde aynı bölgeye yönelik ikinci eylem oldu. Kompleks ve çevresindeki alanlara havan toplarının isabet ettiği bildirildi. Yetkililer, saldırı sonucunda herhangi bir can kaybının yaşanmadığını açıkladı. Bu olay, bölgedeki çatışma ve gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12356446/pexels-photo-12356446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T18:19:46.971Z",
+        "location": {
+            "lat": 13.5772,
+            "lng": 44.0381,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-target-complex-in-taiz-for-2nd-time-in-month-news-agency/4038465",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "17877684227569pv3g",
+        "title": "Cezayir, Devam Eden Sıcak Hava Dalgası Ortasında 58 Orman Yangınıyla Mücadele Ediyor",
+        "summary": "Cezayir, ülkeyi etkisi altına alan şiddetli sıcak hava dalgasıyla mücadele ederken, aynı zamanda 58 farklı noktada çıkan orman yangınlarıyla da karşı karşıya. Yetkililer, yangınları kontrol altına almak ve söndürmek için yoğun çaba sarf ediyor. Ülke genelinde devam eden söndürme çalışmaları kapsamında, şu ana kadar 21 yangının başarıyla söndürüldüğü bildirildi. Geriye kalan yangınları kontrol altına alma ve tamamen söndürme faaliyetleri ise aralıksız devam ediyor. Yüksek sıcaklıklar ve kuru hava koşulları, yangınların yayılmasını hızlandırarak mücadeleyi zorlaştırıyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/12027860/pexels-photo-12027860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T18:20:22.756Z",
+        "location": {
+            "lat": 28.0339,
+            "lng": 1.6596,
+            "name": "Cezayir"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/algeria-contends-with-58-wildfires-amid-ongoing-heatwave/4038454",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787768447315oxy5l",
+        "title": "Kudüs Valiliği: İsrail, Kentteki Arap Kimliğini Silmek İçin Yer İşaretlerini Yeniden Adlandırıyor",
+        "summary": "Kudüs Valiliği, İsrail'in kentteki Arap kimliğini silme amacıyla yer işaretlerini yeniden adlandırdığını iddia etti. Valilikten yapılan açıklamada, Arapça yer adlarının İbranice isimlerle değiştirilmesinin şehrin Arap, İslami ve Hristiyan mirasını tehdit ettiği belirtildi. Bu tür uygulamaların Kudüs'ün tarihi ve kültürel dokusuna zarar verdiği vurgulandı. Açıklamada, uluslararası hukuka aykırı olduğu belirtilen bu adımların kentin çok kültürlü yapısını bozmaya yönelik olduğu ifade edildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/30340505/pexels-photo-30340505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T18:20:47.315Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-renaming-jerusalem-landmarks-to-erase-citys-arab-identity-governorate/4038379",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787756057980h28ah",
         "title": "Trump, Al Jazeera'ya İran'ın müzakerelere dönmesi için 'acele etmediğini' söyledi",
         "summary": "Eski ABD Başkanı Donald Trump, Al Jazeera'ya verdiği demeçte, İran'ın müzakere masasına geri dönmesi konusunda aceleci olmadığını belirtti. Trump, İran'ın müzakerelere ne zaman döneceğini beklediği sorulduğunda, bu konuda belirli bir zaman çizelgesinin olmadığını ifade etti. Bu açıklama, İran'ın nükleer programı ve uluslararası yaptırımlar etrafındaki gerilimin devam ettiği bir dönemde geldi. Trump yönetimi, İran ile yapılan nükleer anlaşmadan çekilmiş ve Tahran'a yönelik 'azami baskı' politikasını benimsemişti.",
@@ -732,70 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/world/pakistan-says-significant-progress-made-after-army-chief-holds-talks-in-tehran-on-us-iran-memorandum/4036541",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787644000196w06bk",
-        "title": "İran Savaşı, Siber Savaşı Kritik Altyapılara Taşıyor",
-        "summary": "İran savaşı bağlamında siber saldırıların kritik altyapılara yönelik tehdidi artış gösteriyor. Son dönemde Birleşik Krallık ve Amerika Birleşik Devletleri'nde yaşanan siber saldırılar, bu ülkelerin kritik altyapılarındaki önemli güvenlik açıklarını gözler önüne sermiştir. Bu durum, hükümetlerin siber güvenlik önlemlerini acilen ele alması ve güçlendirmesi gerektiğini ortaya koymaktadır. Uzmanlar, siber savaşın küresel çapta kritik altyapılara yönelik tehdidinin giderek arttığına dikkat çekmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T07:46:40.197Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787644080385dsyla",
-        "title": "ABD, Suriye'yi terörü destekleyen ülkeler listesinden çıkardı",
-        "summary": "ABD'nin Suriye'yi terörü destekleyen ülkeler listesinden çıkardığı bildirildi. Haberde, bu kararın Trump yönetiminin Suriye'nin yeni başkanı olarak göreve başlayan ve eski El Kaide bağlantılı bir militan olduğu belirtilen Ahmed el-Şaraa'yı benimsediği bir dönemde alındığı ifade edildi. Bu gelişme, Suriye'nin uluslararası statüsünde önemli bir değişiklik anlamına geliyor. El-Şaraa'nın geçmişi göz önüne alındığında, ABD'nin bu adımı uluslararası kamuoyunda geniş tartışmalara yol açması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15973929/pexels-photo-15973929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T07:48:00.386Z",
-        "location": {
-            "lat": 33.51,
-            "lng": 36.28,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 95,
-        "isBreaking": true
-    },
-    {
-        "id": "178764410263207jka",
-        "title": "Suriye mahkemesi Esad dönemi baş müftüsüne müebbet hapis cezası verdi",
-        "summary": "Suriye'de bir mahkeme, Esad dönemi baş müftüsü Ahmed Hassoun'u müebbet hapis cezasına çarptırdı. Hassoun, iç savaş kışkırtmak ve kasıtlı cinayete iştirak etmek gibi ciddi suçlardan mahkum edildi. Uzun yıllar boyunca Beşar Esad rejiminin önemli dini destekçilerinden biri olarak bilinen Hassoun'un bu mahkumiyeti, Suriye'deki iç savaş sonrası dönemde yaşanan yargılamaların bir parçası olarak değerlendiriliyor. Karar, ülkedeki siyasi ve dini figürlerin geleceğine dair önemli bir emsal teşkil ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30828482/pexels-photo-30828482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T07:48:22.632Z",
-        "location": {
-            "lat": 33.51,
-            "lng": 36.27,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787644126850u3wes",
-        "title": "İsrail, ABD Arabuluculuğundaki Anlaşmaya Rağmen Güney Lübnan'ı Vurdu",
-        "summary": "İsrail güçleri, ABD arabuluculuğunda varılan bir anlaşmaya rağmen Güney Lübnan'a hava saldırıları ve topçu ateşi düzenledi. Saldırılar, bölgedeki gerilimi artırırken, mevcut diplomatik çabalara rağmen askeri faaliyetlerin devam ettiğini gösteriyor. Lübnan medyası, İsrail kuvvetlerinin ayrıca yerleşim yerlerinin yakınlarına toprak bariyerler inşa ettiğini bildirdi. Bu durum, sınır hattındaki güvenlik endişelerini ve taraflar arasındaki sürtüşmeyi gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28309862/pexels-photo-28309862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T07:48:46.850Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-artillery-shelling-hit-southern-lebanon-despite-us-mediated-deal/4036479",
         "trendScore": 85,
         "isBreaking": false
     }
