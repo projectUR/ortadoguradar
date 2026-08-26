@@ -1,5 +1,21 @@
 [
     {
+        "id": "1787756057980h28ah",
+        "title": "Trump, Al Jazeera'ya İran'ın müzakerelere dönmesi için 'acele etmediğini' söyledi",
+        "summary": "Eski ABD Başkanı Donald Trump, Al Jazeera'ya verdiği demeçte, İran'ın müzakere masasına geri dönmesi konusunda aceleci olmadığını belirtti. Trump, İran'ın müzakerelere ne zaman döneceğini beklediği sorulduğunda, bu konuda belirli bir zaman çizelgesinin olmadığını ifade etti. Bu açıklama, İran'ın nükleer programı ve uluslararası yaptırımlar etrafındaki gerilimin devam ettiği bir dönemde geldi. Trump yönetimi, İran ile yapılan nükleer anlaşmadan çekilmiş ve Tahran'a yönelik 'azami baskı' politikasını benimsemişti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T14:54:17.980Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787749097158hxlch",
         "title": "İsrail'in Doğu Kudüs'teki UNRWA Eğitim Koleji'ne El Koyması Kınandı",
         "summary": "İsrail'in Doğu Kudüs'te Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA) bünyesindeki bir eğitim kolejine el koyduğu bildirildi. Bu eylem, İsrail'in UNRWA'ya karşı çıkardığı bir yasanın ardından, ajansın şehirdeki son tesisinin de kapatılması anlamına geliyor. Söz konusu gelişme, Filistinli mültecilere yönelik hizmetlerin aksamasına yol açabileceği endişelerini beraberinde getiriyor. Uluslararası toplumdan ve ilgili taraflardan bu karara yönelik kınamalar yükseldiği belirtildi.",
@@ -780,22 +796,6 @@
             "name": "Güney Lübnan, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrike-artillery-shelling-hit-southern-lebanon-despite-us-mediated-deal/4036479",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787644150024rbhgv",
-        "title": "İsrail polisi işgal altındaki Doğu Kudüs'te Filistinli mezuniyet töreni mekanına baskın düzenledi, çok sayıda katılımcıyı gözaltına aldı",
-        "summary": "İsrail polisi, işgal altındaki Doğu Kudüs'te Filistinlilere ait bir mezuniyet töreni mekanına baskın düzenledi. Baskın sırasında çok sayıda katılımcının gözaltına alındığı bildirildi. Öte yandan, Batı Şeria'da İsrail ordusunun düzenlediği operasyonlar devam ederken, El Halil yakınlarında İsrailli işgalcilerin saldırısında 3 Filistinli yaralandı. Bölgede gerilimin yüksek olduğu ve İsrail güçlerinin Batı Şeria genelinde baskınlar gerçekleştirdiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/161756/bunker-air-raid-shelter-world-war-bombing-161756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T07:49:10.024Z",
-        "location": {
-            "lat": 31.78,
-            "lng": 35.23,
-            "name": "Doğu Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-police-raid-palestinian-graduation-venue-in-occupied-east-jerusalem-detain-several-attendees/4036378",
         "trendScore": 85,
         "isBreaking": false
     }
