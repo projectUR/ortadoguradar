@@ -1,5 +1,21 @@
 [
     {
+        "id": "17877076204402o87i",
+        "title": "Sudan'daki savaş alanı, ülkenin bir sonraki siyasi aşamasının koşullarını mı belirliyor?",
+        "summary": "Sudan'da devam eden iç savaşta, Ordu'nun sahada önemli kazanımlar elde ettiği belirtiliyor. Aynı zamanda, Hızlı Destek Kuvvetleri (RSF) saflarında firarların yaşandığına dair haberler geliyor. Sudan Egemenlik Konseyi Başkanı General Abdülfettah el-Burhan'ın siyasi girişimleri de dikkat çekiyor. Bu gelişmeler, ülkedeki çatışmanın seyrinde potansiyel bir değişime işaret ederek, Sudan'ın bir sonraki siyasi aşamasının koşullarını şekillendirebileceği yorumlarına yol açıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4833556/pexels-photo-4833556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-26T01:27:00.440Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.6,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787690044613ykxvo",
         "title": "Yemen Başkanlık Konseyi, Husilere Karşı Caydırıcılık Tedbirlerini Artırma Sözü Verdi",
         "summary": "Yemen Başkanlık Liderlik Konseyi (PLC), Husi grubuna karşı 'caydırıcılık' tedbirlerini artırma kararı aldığını duyurdu. Konseyin tüm üyelerinin katılımıyla Suudi Arabistan'ın başkenti Riyad'da gerçekleştirilen toplantının ardından yapılan açıklamada, bölgedeki güvenlik durumunun ele alındığı belirtildi. Bu adımın, Yemen'deki mevcut çatışma ortamında Husilerin eylemlerine karşı bir yanıt niteliği taşıdığı ifade edildi.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17875762583779oxud",
-        "title": "İranlı Yetkili: ABD'nin Tahran'a Yönelik Ek Yaptırımları Başarısız Olacak",
-        "summary": "İranlı bir yetkili, ABD'nin Tahran'a uyguladığı ek yaptırımların başarısızlıkla sonuçlanacağını açıkladı. İran Dışişleri Bakanlığı sözcüsü, bu yaptırımların yalnızca 'Amerika'nın İran halkına duyduğu nefreti' doğruladığını belirtti. Bu açıklama, ABD'nin İran'a yönelik yaptırım politikalarına karşı Tahran'ın duruşunu ve bu politikaların etkisiz kalacağı yönündeki inancını yansıtmaktadır.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4386396/pexels-photo-4386396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-24T12:57:38.377Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/additional-us-sanctions-imposed-on-tehran-will-fail-iranian-official/4035705",
         "trendScore": 85,
         "isBreaking": false
     }
