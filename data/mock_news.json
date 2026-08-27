@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787790787946zzepg",
+        "title": "Katar Başbakanı Tahran'ı Ziyaret Edecek; Trump Görüşmeler Konusunda Aceleci Değil",
+        "summary": "Katar Dışişleri Bakanlığı'ndan yapılan açıklamaya göre, Katar Başbakanı bölgedeki gerilimi azaltma yollarını görüşmek üzere İranlı yetkililerle bir araya gelecek. Bu ziyaret, Orta Doğu'da artan tansiyonun düşürülmesi çabalarının bir parçası olarak değerlendiriliyor. ABD Başkanı Trump'ın ise İran ile olası görüşmeler konusunda aceleci olmadığı belirtildi. Bölgedeki gelişmeler, uluslararası kamuoyu tarafından yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36733315/pexels-photo-36733315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T00:33:07.946Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1787790856038r5v3w",
+        "title": "Ünlü Filistinli Sanatçı Sliman Mansour İçin Cenaze Töreni Düzenlendi",
+        "summary": "Tanınmış Filistinli sanatçı Sliman Mansour için cenaze töreni düzenlendi. 79 yaşında hayatını kaybeden Mansour, özellikle Filistin coğrafyasını ve Filistin kimliğinin kültürel sembollerini içeren tablolarıyla biliniyordu. Sanatçı, eserleriyle Filistin kültürünü ve mirasını geniş kitlelere ulaştırmıştı. Mansour'un vefatı, Filistin sanat camiasında derin üzüntüye yol açtı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36764932/pexels-photo-36764932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T00:34:16.038Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787776808674pft21",
         "title": "Libya ve Katar, düzensiz göç konusunda dörtlü işbirliğini görüştü",
         "summary": "Libya Başbakanı Abdulhamid Dibeybe ve Katarlı bir yetkili, düzensiz göçle mücadele konusunda bir araya geldi. Görüşmede, Türkiye ve İtalya ile ortak çabaların ele alındığı belirtildi. Taraflar, düzensiz göç akışını kontrol altına almak ve Libya'nın bu alandaki kapasitesini güçlendirmek için işbirliği yapma konusunda mutabık kaldı. Bu dörtlü işbirliği, Akdeniz'deki göç rotaları ve bölgesel istikrar açısından önem taşıyor. Görüşmelerin, göçmen kaçakçılığıyla mücadele ve insani koşulların iyileştirilmesi hedeflerini taşıdığı ifade edildi.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-state-broadcaster-says-over-50-facilities-targeted-in-recent-war-with-us-israel/4036609",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787647707404lqukl",
-        "title": "İkonik Filistinli Sanatçı Sliman Mansour 79 Yaşında Hayatını Kaybetti",
-        "summary": "Modern Filistin sanatının önde gelen isimlerinden biri olan Sliman Mansour, 79 yaşında yaşamını yitirdi. Sanatçı, ressam, heykeltıraş, yazar ve karikatürist olarak çok yönlü eserler üretti. Filistin kültür ve sanat dünyasına önemli katkılarda bulunan Mansour'un vefatı, sanat camiasında derin üzüntüye neden oldu. Eserleriyle Filistin kimliğini ve mücadelesini yansıtan Mansour, ardında zengin bir miras bıraktı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36713871/pexels-photo-36713871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T08:48:27.404Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iconic-palestinian-artist-sliman-mansour-dies-at-79/4036564",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1787647728904dr1xt",
-        "title": "UNIFIL: Güney Lübnan'da 'Tüm Mahalleler' Yok Edildi",
-        "summary": "Birleşmiş Milletler Geçici Görev Gücü (UNIFIL), Güney Lübnan'da sivil altyapıda büyük çaplı yıkım yaşandığını bildirdi. Yapılan açıklamada, bölgedeki bazı mahallelerin tamamen yok olduğu ve gözlemlenen hasarın 'seçici olmaktan ziyade sistematik' bir nitelik taşıdığı belirtildi. UNIFIL, çatışmaların siviller üzerindeki etkisinin boyutunu gözler önüne serdiğini ve bölgedeki istikrarın korunması için çalışmalarını sürdürdüğünü ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4953234/pexels-photo-4953234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T08:48:48.904Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/unifil-says-entire-neighborhoods-wiped-out-in-southern-lebanon/4036557",
         "trendScore": 85,
         "isBreaking": false
     }
