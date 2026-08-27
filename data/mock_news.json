@@ -1,5 +1,101 @@
 [
     {
+        "id": "1787864455919hp34t",
+        "title": "Barış Kurulu Gazze Temsilcisi'nden İsrail ve Hamas'a Uyarı",
+        "summary": "Barış Kurulu'nun Gazze özel temsilcisi Nickolay Mladenov, bölgedeki son gelişmelere ilişkin önemli açıklamalarda bulundu. Mladenov, İsrail'in Gazze'ye yönelik saldırılarını ve Hamas'ın eylemlerini eleştirdi. Temsilci, geçtiğimiz Ekim ayında sağlanan ateşkesin bozulmasının bölge için 'geri dönülmez bir nokta' olacağı uyarısında bulundu. Tarafları itidalli olmaya ve barış sürecini korumaya çağıran Mladenov, mevcut durumun Orta Doğu'daki istikrarı ciddi şekilde tehdit ettiğini vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T21:00:55.919Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "178786448674815dr4",
+        "title": "Kudüs'te rahibeye saldıran kişi akıl sağlığı gerekçesiyle beraat etti",
+        "summary": "Kudüs'te güvenlik kameralarına yansıyan bir olayda rahibeye saldıran kişi, mahkeme kararıyla akıl sağlığı gerekçesiyle beraat etti. Kudüs mahkemesi, Yahudi saldırganın rahibeye saldırdığı sırada psikotik bir atak geçirdiğini açıkladı. Bu saldırı, kamuoyunda büyük bir infiale yol açmıştı. Mahkemenin beraat kararı, olayın neden olduğu tepkilere rağmen verildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/14457534/pexels-photo-14457534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T21:01:26.748Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1787864525835088im",
+        "title": "İsrail Ordusu Lübnan'a Hava Saldırısı Düzenledi",
+        "summary": "İsrail ordusu, ABD arabuluculuğunda varılan bir anlaşmaya rağmen Lübnan topraklarına hava saldırıları gerçekleştirdi. İsrail Kanal 12'nin bildirdiğine göre, bu saldırılar güney Lübnan'dan İsrail güçlerine doğru fırlatıldığı iddia edilen iki patlayıcı insansız hava aracına misilleme olarak yapıldı. Olay, bölgedeki güvenlik durumunu ve iki ülke arasındaki gerilimi yeniden gündeme getirdi. Saldırılar, daha önce varılan diplomatik çabalara rağmen bölgedeki istikrarsızlığın devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982142/pexels-photo-35982142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T21:02:05.835Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 35.5,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-carries-out-airstrikes-on-lebanon-despite-us-mediated-deal/4039661",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787864594908mdwlw",
+        "title": "Libya'dan Yunanistan'a giderken denizde 37 Sudanlı göçmen hayatını kaybetti: Yardım komitesi",
+        "summary": "Libya'dan Yunanistan'a gitmek üzere denize açılan bir teknede bulunan 37 Sudanlı göçmen hayatını kaybetti. Yardım komitesinden yapılan açıklamaya göre, yaşamını yitirenler arasında kadınlar ve çocuklar da bulunuyor. El-Fasher Direniş Koordinasyonu, bu kişilerin Sudan'daki savaştan kaçarak güvenlik arayışıyla yola çıktığını belirtti. Akdeniz, Afrika ve Orta Doğu'dan Avrupa'ya ulaşmaya çalışan göçmenler için tehlikeli bir geçiş rotası olmaya devam ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/33541793/pexels-photo-33541793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T21:03:14.908Z",
+        "location": {
+            "lat": 34,
+            "lng": 20,
+            "name": "Akdeniz, Uluslararası Sular"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/37-sudanese-migrants-die-at-sea-en-route-from-libya-to-greece-relief-committee/4039601",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787864619356z9qxd",
+        "title": "Trump: Hürmüz Boğazı'ndan Milyonlarca Varil Petrol Akıyor",
+        "summary": "ABD Başkanı Trump, Hürmüz Boğazı'ndan milyonlarca varil petrolün akmaya devam ettiğini bildirdi. Trump, Amerikan güçlerinin stratejik su yoluna mayın döşemekle ilgili iki gemiyi bölgeden uzaklaştırdığını açıkladı. Bu açıklama, küresel enerji tedarik zinciri için hayati önem taşıyan boğazdaki güvenlik endişelerini yeniden gündeme getirdi. Olay, Orta Doğu'daki deniz güvenliği ve jeopolitik gerilimlerin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27597349/pexels-photo-27597349.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T21:03:39.356Z",
+        "location": {
+            "lat": 26,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/americas/trump-says-millions-of-barrels-of-oil-flowing-through-strait-of-hormuz/4039592",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787864655204r2hrd",
+        "title": "İran Cumhurbaşkanı Pezeshkian: Katar ile İşbirliği Yeniden Başlayabilir",
+        "summary": "İran Cumhurbaşkanı Mesud Pezeshkian, ülkesinin Katar ile geçmişteki 'acı verici olayları' geride bırakarak işbirliğini yeniden başlatabileceğini belirtti. Pezeshkian, iki ülke arasındaki ilişkilerin geliştirilmesi potansiyeline vurgu yaptı. Cumhurbaşkanı ayrıca, İran halkının tüm yasal haklarının tanınması gerektiği yönündeki görüşünü dile getirdi. Bu açıklamalar, bölgesel ilişkilerin normalleşmesi ve işbirliğinin artırılması yönündeki diplomatik çabaların bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-27T21:04:15.204Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-can-move-past-painful-events-with-qatar-resume-cooperation-president-pezeshkian/4039559",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17878284093002z0ic",
         "title": "Katar, Umman ve Pakistanlı Yetkililerin Ziyaretleriyle İran'da Savaş Diplomasisi Hız Kazanıyor mu?",
         "summary": "Haberlere göre, İran'da potansiyel bir çatışmayı önlemeye yönelik diplomatik çabalar yoğunlaşıyor. Bu kapsamda, Katar, Umman ve Pakistan'dan üst düzey yetkililer İran'ı ziyaret ediyor. Analistler, bu ziyaretlerin taraflar arasında gerilimi azaltma, özellikle askeri alanda de-eskalasyon sağlama potansiyeli taşıdığını belirtiyor. Gözlemciler, her iki tarafın da gerilimi düşürmeye hazır olabileceğine dair işaretler olduğunu ifade ediyor.",
@@ -700,102 +796,6 @@
             "name": "Kudüs, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-issues-demolition-notices-in-refugee-camp-in-occupied-jerusalem/4037185",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17876806176209e4bq",
-        "title": "Fatah ve Dahlan Bloku Filistin Seçimleri Öncesi Uzlaşma Görüşmeleri Yaptı",
-        "summary": "Filistin'in önde gelen siyasi hareketlerinden Fatah ve Muhammed Dahlan liderliğindeki Demokratik Reform Hareketi, yaklaşan Filistin seçimleri öncesinde uzlaşma görüşmeleri gerçekleştirdi. Mısır'ın El Alamein kentinde yapılan görüşmelerde, olası bir muhalefet koalisyonunun yaratabileceği endişeler ele alındı. Bu buluşma, Filistin siyasetindeki bölünmüşlüğü gidermeyi ve taraflar arasında bir uzlaşı zemini oluşturmayı hedefliyor. Görüşmelerin, Filistin iç siyasetinde önemli bir dönüm noktası olabileceği belirtiliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7108454/pexels-photo-7108454.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T17:56:57.620Z",
-        "location": {
-            "lat": 30.83,
-            "lng": 28.95,
-            "name": "El Alamein, Mısır"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787680767138rnc56",
-        "title": "Şam, İsrail savunma bakanının işgal altındaki tampon bölge ziyaretini kınadı",
-        "summary": "Suriye'nin başkenti Şam, İsrail savunma bakanının işgal altındaki tampon bölgeye yaptığı ziyareti sert bir dille kınadığını duyurdu. Geçtiğimiz yıl İsrail güçleri, Suriye topraklarındaki tampon bölgeyi ve aralarında Hermon Dağı'nın Suriye tarafının da bulunduğu diğer stratejik noktaları ele geçirmişti. Şam yönetimi, bu ziyareti egemenlik ihlali olarak değerlendirirken, Tel Aviv'den henüz bir açıklama gelmedi. Bu olay, iki ülke arasındaki mevcut gerilimi ve bölgesel anlaşmazlıkları bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T17:59:27.138Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/damascus-decries-israeli-defense-chiefs-visit-to-occupied-buffer-zone/4037383",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787674211843d9282",
-        "title": "Trump, yaptırımların İran rejimini devirmesini umuyor; Tahran liderleri ise aksini iddia ediyor",
-        "summary": "Amerika Birleşik Devletleri, İran'a yönelik yeni yaptırımları \"ekonomik D-Day\" olarak nitelendiriyor ve bu adımlarla İran rejimini devirmeyi hedeflediğini belirtiyor. Ancak Tahran yönetimi, geçmişte de benzer kısıtlamalar altında varlığını sürdürmeyi başardığını vurgulayarak, bu yaptırımlara dayanabileceklerini ifade ediyor. İranlı liderler, ABD'nin baskılarına rağmen pozisyonlarını koruyacaklarına inanırken, Washington ile Tahran arasındaki bu gerilim, bölgedeki siyasi dinamikleri etkilemeye devam ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/241028/pexels-photo-241028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T16:10:11.843Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1787667647455i7oei",
-        "title": "İsrail Başbakanı Netanyahu'nun Savaş Retoriğinde Dini Silah Olarak Kullanımı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun savaş söylemlerinde dini metinleri bir araç olarak kullandığı belirtildi. Haber, Netanyahu'nun bu antik dini metinleri önleyici savaşı meşrulaştırmak ve uluslararası hukuku bypass etmek amacıyla kullandığını öne sürüyor. Bu yaklaşımın, İsrail'in askeri operasyonlarına dini bir temel sağlamayı hedeflediği ifade ediliyor. Söz konusu stratejinin, bölgedeki siyasi ve diplomatik dengeler üzerinde etkileri olabileceği değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37426364/pexels-photo-37426364.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T14:20:47.455Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787667688006d3hao",
-        "title": "Gazze'de Uçurtma Nedeniyle İsrail Tehdidi Alan Çocuk Gözyaşlarına Boğuldu",
-        "summary": "Gazze Şeridi'nde yaşanan bir olayda, İsrail tarafından yapılan bir tehdit sonrasında bir çocuğun gözyaşlarına boğulduğu bildirildi. Habere göre, çocuğun bu duygusal tepkiyi uçurtmalarla ilgili bir tehdit üzerine verdiği belirtildi. Bölgedeki gerilimin ve çatışma ortamının çocukların psikolojisi üzerindeki olumsuz etkileri bu olayla bir kez daha gündeme geldi. Olayın detaylarına ilişkin ek bilgi henüz paylaşılmadı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934179/pexels-photo-35934179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T14:21:28.006Z",
-        "location": {
-            "lat": 31.4,
-            "lng": 34.4,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1787667770697orb6r",
-        "title": "İsrail saldırılarında Gazze'de ikisi çocuk beş kişi hayatını kaybetti",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda ikisi çocuk olmak üzere toplam beş kişinin hayatını kaybettiği bildirildi. Sağlık görevlileri ve kurbanların yakınlarından alınan bilgilere göre, Pazartesi günü gerçekleşen bir İsrail saldırısında dört yaşında bir erkek çocuğu yaşamını yitirdi. Ayrıca, on yaşında bir kız çocuğunun çadırının içinde kurşunla vurularak öldüğü belirtildi. Bu olaylar, bölgedeki çatışmaların siviller üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193762/pexels-photo-36193762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T14:22:50.697Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
