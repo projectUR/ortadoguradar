@@ -1,5 +1,37 @@
 [
     {
+        "id": "1787894313779z132p",
+        "title": "ABD, Venezuela Petrol Sahalarında Hisse Edinme Anlaşmasına Yaklaşıyor",
+        "summary": "Amerika Birleşik Devletleri'nin, Venezuela'daki petrol sahalarında hisse edinmek üzere bir anlaşmaya yakın olduğu bildirildi. İçeriden alınan bilgilere göre, Caracas yönetimiyle yapılacak bu potansiyel anlaşma, ABD'nin petrol tedarikini önümüzdeki yıllar boyunca önemli ölçüde artırabilir. Anlaşmanın, ABD'nin enerji güvenliğini güçlendirmesi beklenirken, yasal zorluklarla karşılaşma ihtimali de bulunuyor. Küresel petrol piyasalarındaki arz-talep dengesini etkileyebilecek bu gelişme, Orta Doğu'daki petrol üreticisi ülkelerin ekonomik ve enerji politikaları üzerinde dolaylı etkiler yaratabilir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-28T05:18:33.779Z",
+        "location": {
+            "lat": 10.4806,
+            "lng": -66.9036,
+            "name": "Caracas, Venezuela"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/28/us-nears-deal-to-secure-stake-in-venezuelan-oil-fields-insiders-say?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1787894339119rrcr5",
+        "title": "İsrail Hapishanelerinde 370 Filistinli Çocuk Tutuluyor: Rapor",
+        "summary": "Filistinli mahkum hakları gruplarından alınan bilgilere göre, İsrail hapishanelerinde 370 Filistinli çocuğun tutulduğu bildirildi. Raporda, bu çocuk tutukluların büyük bir kısmının Megiddo ve Ofer cezaevlerinde bulunduğu belirtildi. Bu durum, uluslararası insan hakları örgütlerinin ve Filistinli sivil toplum kuruluşlarının uzun süredir dile getirdiği endişeleri yeniden gündeme getirdi. Çocukların gözaltı koşulları ve hak ihlalleri iddiaları, bölgedeki insan hakları tartışmalarının önemli bir parçasını oluşturuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10474999/pexels-photo-10474999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-28T05:18:59.119Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/370-palestinian-children-held-in-israeli-prisons-report/4039722",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787864455919hp34t",
         "title": "Barış Kurulu Gazze Temsilcisi'nden İsrail ve Hamas'a Uyarı",
         "summary": "Barış Kurulu'nun Gazze özel temsilcisi Nickolay Mladenov, bölgedeki son gelişmelere ilişkin önemli açıklamalarda bulundu. Mladenov, İsrail'in Gazze'ye yönelik saldırılarını ve Hamas'ın eylemlerini eleştirdi. Temsilci, geçtiğimiz Ekim ayında sağlanan ateşkesin bozulmasının bölge için 'geri dönülmez bir nokta' olacağı uyarısında bulundu. Tarafları itidalli olmaya ve barış sürecini korumaya çağıran Mladenov, mevcut durumun Orta Doğu'daki istikrarı ciddi şekilde tehdit ettiğini vurguladı.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787683860213ocx3a",
-        "title": "Gazze Şeridi'nde İsrail Saldırılarında 6 Filistinli Daha Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen saldırılar devam ediyor. Son olarak, bu saldırılarda 6 Filistinlinin daha hayatını kaybettiği bildirildi. Bu gelişmeler, geçen Ekim ayında yürürlüğe girdiği belirtilen ateşkes anlaşmasının İsrail tarafından açıkça ihlal edildiği yönündeki iddiaları gündeme getiriyor. Bölgedeki gerilim ve çatışmaların sürdüğü belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T18:51:00.213Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-another-6-palestinians-killed-by-israeli-strikes-across-beleaguered-gaza-strip/4037403",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1787683944028q1jbw",
-        "title": "İsrail, İşgal Altındaki Kudüs'teki Mülteci Kampında Yıkım Tebligatları Verdi",
-        "summary": "İsrail'in, işgal altındaki Kudüs'te bulunan bir mülteci kampında yıkım tebligatları yayınladığı bildirildi. Bu gelişme, bölgedeki gerilimi artırırken, İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in Birleşmiş Milletler Yakın Doğu'daki Filistinli Mültecilere Yardım ve Bayındırlık Ajansı (UNRWA) yerleşkesine girdiği belirtildi. Bakan Ben-Gvir, Kudüs'te UNRWA için 'yer olmadığını' ifade etti. Bu açıklamalar ve yıkım tebligatları, uluslararası toplumda endişelere yol açtı ve Filistinlilerin haklarına yönelik yeni bir tehdit olarak yorumlandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6449826/pexels-photo-6449826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-25T18:52:24.028Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-issues-demolition-notices-in-refugee-camp-in-occupied-jerusalem/4037185",
         "trendScore": 85,
         "isBreaking": false
     }
