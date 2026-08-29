@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788025689088o60ix",
+        "title": "İsrail ordusu, Batı Şeria'daki yerleşimci şiddeti sonrası altı Filistinliyi gözaltına aldı",
+        "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimciler, Qusra kasabasına baskın düzenleyerek Filistinli sakinlere saldırdı ve evlere zarar verdi. Saldırının ardından bölgede gerilim yükseldi. Olayların ardından İsrail ordusu, şiddet olaylarıyla bağlantılı olarak altı Filistinliyi gözaltına aldı. Bu durum, bölgedeki güvenlik endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T17:48:09.088Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 35.3,
+            "name": "Qusra, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1788012909539f1o81",
         "title": "İsrailli yerleşimciler işgal altındaki Batı Şeria'nın Qusra kentinde Filistinli bir evi kuşattı",
         "summary": "İşgal altındaki Batı Şeria'nın Qusra bölgesinde İsrailli yerleşimcilerin Filistinli bir evi kuşattığı bildirildi. Haberlere göre, kuşatılan evde en az dört kişinin mahsur kaldığı belirtildi. Bu olayın, bölgedeki Filistinli ailelere yönelik üç haftadır devam eden bir ablukanın parçası olduğu ifade edildi. Yerleşimcilerin bu eylemleri, bölgedeki gerilimi artırırken, Filistinli sivillerin yaşam hakları ve güvenliği konusunda endişelere yol açıyor.",
@@ -780,22 +796,6 @@
             "name": "Cezayir"
         },
         "source": "https://www.aa.com.tr/en/middle-east/algeria-contends-with-58-wildfires-amid-ongoing-heatwave/4038454",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787768447315oxy5l",
-        "title": "Kudüs Valiliği: İsrail, Kentteki Arap Kimliğini Silmek İçin Yer İşaretlerini Yeniden Adlandırıyor",
-        "summary": "Kudüs Valiliği, İsrail'in kentteki Arap kimliğini silme amacıyla yer işaretlerini yeniden adlandırdığını iddia etti. Valilikten yapılan açıklamada, Arapça yer adlarının İbranice isimlerle değiştirilmesinin şehrin Arap, İslami ve Hristiyan mirasını tehdit ettiği belirtildi. Bu tür uygulamaların Kudüs'ün tarihi ve kültürel dokusuna zarar verdiği vurgulandı. Açıklamada, uluslararası hukuka aykırı olduğu belirtilen bu adımların kentin çok kültürlü yapısını bozmaya yönelik olduğu ifade edildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30340505/pexels-photo-30340505.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T18:20:47.315Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-renaming-jerusalem-landmarks-to-erase-citys-arab-identity-governorate/4038379",
         "trendScore": 85,
         "isBreaking": false
     }
