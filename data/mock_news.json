@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788035941797so62c",
+        "title": "Gazze'de Kanser İlaçları Tükeniyor",
+        "summary": "Gazze Şeridi'nde devam eden İsrail saldırıları, bölgedeki sağlık hizmetlerini ciddi bir krizle karşı karşıya bırakmıştır. Al-Aksa Şehitleri Hastanesi yetkilileri, kanser hastaları için hayati önem taşıyan ilaç stoklarının tamamen tükendiğini duyurdu. Bu durum, binlerce kanser hastasının tedaviye erişimini imkansız hale getirerek yaşamlarını doğrudan tehdit etmektedir. Sağlık kuruluşları, uluslararası toplumu acil insani yardım sağlamaya ve tıbbi malzeme tedarikini güvence altına almaya çağırıyor. Bölgedeki çatışmaların sağlık altyapısı üzerindeki yıkıcı etkisi her geçen gün artmaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35736608/pexels-photo-35736608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T20:39:01.797Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17880359652020krh2",
+        "title": "Cezayir'deki orman yangınlarında can kaybının artması bekleniyor",
+        "summary": "Cezayir'in kuzeydoğu bölgelerini etkisi altına alan orman yangınlarında en az 12 kişinin hayatını kaybettiği bildirildi. Yetkililer, yangınların yayılmaya devam etmesi nedeniyle can kaybı sayısının artmasından endişe ediyor. Yangınlardan kurtulanlar, evlerini ve tüm mal varlıklarını kaybettiğini ifade ederken, bölgede büyük çaplı maddi hasar meydana geldi. Binlerce kişinin tahliye edildiği yangın bölgelerinde söndürme çalışmaları aralıksız sürüyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/4070651/pexels-photo-4070651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T20:39:25.202Z",
+        "location": {
+            "lat": 36.5,
+            "lng": 7,
+            "name": "Cezayir"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1788025689088o60ix",
         "title": "İsrail ordusu, Batı Şeria'daki yerleşimci şiddeti sonrası altı Filistinliyi gözaltına aldı",
         "summary": "İşgal altındaki Batı Şeria'da İsrailli yerleşimciler, Qusra kasabasına baskın düzenleyerek Filistinli sakinlere saldırdı ve evlere zarar verdi. Saldırının ardından bölgede gerilim yükseldi. Olayların ardından İsrail ordusu, şiddet olaylarıyla bağlantılı olarak altı Filistinliyi gözaltına aldı. Bu durum, bölgedeki güvenlik endişelerini artırdı.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787768386971w9yve",
-        "title": "Yemen'deki Husiler Taiz'deki bir kompleksi bir ay içinde ikinci kez hedef aldı",
-        "summary": "Yemen'deki Husiler, Taiz kentinde yer alan bir kompleksi hedef aldı. Haber ajansları tarafından aktarılan bilgilere göre, bu saldırı bir ay içinde aynı bölgeye yönelik ikinci eylem oldu. Kompleks ve çevresindeki alanlara havan toplarının isabet ettiği bildirildi. Yetkililer, saldırı sonucunda herhangi bir can kaybının yaşanmadığını açıkladı. Bu olay, bölgedeki çatışma ve gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/12356446/pexels-photo-12356446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T18:19:46.971Z",
-        "location": {
-            "lat": 13.5772,
-            "lng": 44.0381,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-target-complex-in-taiz-for-2nd-time-in-month-news-agency/4038465",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "17877684227569pv3g",
-        "title": "Cezayir, Devam Eden Sıcak Hava Dalgası Ortasında 58 Orman Yangınıyla Mücadele Ediyor",
-        "summary": "Cezayir, ülkeyi etkisi altına alan şiddetli sıcak hava dalgasıyla mücadele ederken, aynı zamanda 58 farklı noktada çıkan orman yangınlarıyla da karşı karşıya. Yetkililer, yangınları kontrol altına almak ve söndürmek için yoğun çaba sarf ediyor. Ülke genelinde devam eden söndürme çalışmaları kapsamında, şu ana kadar 21 yangının başarıyla söndürüldüğü bildirildi. Geriye kalan yangınları kontrol altına alma ve tamamen söndürme faaliyetleri ise aralıksız devam ediyor. Yüksek sıcaklıklar ve kuru hava koşulları, yangınların yayılmasını hızlandırarak mücadeleyi zorlaştırıyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/12027860/pexels-photo-12027860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T18:20:22.756Z",
-        "location": {
-            "lat": 28.0339,
-            "lng": 1.6596,
-            "name": "Cezayir"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/algeria-contends-with-58-wildfires-amid-ongoing-heatwave/4038454",
         "trendScore": 85,
         "isBreaking": false
     }
