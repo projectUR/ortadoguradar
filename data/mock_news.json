@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788044831734rzwd1",
+        "title": "İsrail Ordusu, Gerilimi Azaltma Görüşmelerine Rağmen Güney Suriye'yi Hedef Aldı",
+        "summary": "Suriye devlet televizyonu Alikhbaria'nın bildirdiğine göre, İsrail ordusu güney Suriye'deki bir bölgeye topçu saldırısı düzenledi. Saldırının, gerilimi azaltma görüşmelerinin devam etmesine rağmen gerçekleştiği belirtildi. Hedef alınan bölgenin, Beit Jinn yakınlarındaki Bat al-Warda Tepesi olduğu ve dört top mermisiyle vurulduğu aktarıldı. Bu gelişme, bölgedeki güvenlik durumunu ve diplomatik çabaları yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9587706/pexels-photo-9587706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T23:07:11.734Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 35.78,
+            "name": "Beit Jinn, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-syria-area-despite-de-escalation-talks/4041208",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1788035941797so62c",
         "title": "Gazze'de Kanser İlaçları Tükeniyor",
         "summary": "Gazze Şeridi'nde devam eden İsrail saldırıları, bölgedeki sağlık hizmetlerini ciddi bir krizle karşı karşıya bırakmıştır. Al-Aksa Şehitleri Hastanesi yetkilileri, kanser hastaları için hayati önem taşıyan ilaç stoklarının tamamen tükendiğini duyurdu. Bu durum, binlerce kanser hastasının tedaviye erişimini imkansız hale getirerek yaşamlarını doğrudan tehdit etmektedir. Sağlık kuruluşları, uluslararası toplumu acil insani yardım sağlamaya ve tıbbi malzeme tedarikini güvence altına almaya çağırıyor. Bölgedeki çatışmaların sağlık altyapısı üzerindeki yıkıcı etkisi her geçen gün artmaktadır.",
@@ -780,22 +796,6 @@
             "name": "Trablus, Libya"
         },
         "source": "https://www.aa.com.tr/en/middle-east/libya-qatar-discuss-4-way-cooperation-on-irregular-migration/4038531",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787768139740z9zoh",
-        "title": "ABD Enflasyonu Temmuz'da Yapışkanlığını Korudu: İran Saldırısı Enerji Fiyatlarını Yükseltti",
-        "summary": "Amerika Birleşik Devletleri'nde Temmuz ayında enflasyonun beklenenden daha yapışkan seyrettiği bildirildi. Enflasyondaki bu kötüleşmenin, ABD ve İsrail'in İran'a düzenlediği saldırı sonrası enerji fiyatlarında yaşanan sert yükselişle doğrudan ilişkili olduğu belirtildi. Söz konusu saldırının küresel enerji piyasalarında dalgalanmalara yol açarak fiyatları yukarı çektiği ifade edildi. Bu durumun, ABD ekonomisi üzerindeki enflasyonist baskıları artırarak tüketici harcamalarını ve genel ekonomik görünümü olumsuz etkilediği gözlemlenmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T18:15:39.740Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
