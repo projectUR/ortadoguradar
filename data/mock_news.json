@@ -1,5 +1,101 @@
 [
     {
+        "id": "1788012909539f1o81",
+        "title": "İsrailli yerleşimciler işgal altındaki Batı Şeria'nın Qusra kentinde Filistinli bir evi kuşattı",
+        "summary": "İşgal altındaki Batı Şeria'nın Qusra bölgesinde İsrailli yerleşimcilerin Filistinli bir evi kuşattığı bildirildi. Haberlere göre, kuşatılan evde en az dört kişinin mahsur kaldığı belirtildi. Bu olayın, bölgedeki Filistinli ailelere yönelik üç haftadır devam eden bir ablukanın parçası olduğu ifade edildi. Yerleşimcilerin bu eylemleri, bölgedeki gerilimi artırırken, Filistinli sivillerin yaşam hakları ve güvenliği konusunda endişelere yol açıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/34632463/pexels-photo-34632463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T14:15:09.539Z",
+        "location": {
+            "lat": 32.07,
+            "lng": 35.3,
+            "name": "Qusra, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1788012952681kgpnb",
+        "title": "İran'dan ABD ve İsrail Bağlantılı Aktörlere Enerji Piyasalarını Manipülasyon Suçlaması",
+        "summary": "İran, ABD ve İsrail ile bağlantılı aktörleri enerji piyasalarını manipüle etmekle suçladı. İranlı yetkili Abbas Araghchi, ABD hükümetindeki bazı unsurların kişisel kazanç elde etmek amacıyla fiyatları etkilemeye çalıştığını iddia etti. Araghchi ayrıca bu manipülasyonların İran ile olan çatışmayı uzatma amacı taşıdığını belirtti. Bu suçlamalar, küresel enerji piyasalarındaki gerilimi ve Orta Doğu'daki siyasi dinamikleri yansıtmaktadır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/7796455/pexels-photo-7796455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T14:15:52.681Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-accuses-us-israel-aligned-actors-of-manipulating-energy-markets/4041052",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788012976529lvcxl",
+        "title": "İran Devrim Muhafızları, ABD ve İsrail bağlantılı grubun güneydoğuda çökertildiğini, 1 kişinin öldüğünü duyurdu",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), ülkenin güneydoğusundaki Sistan ve Belucistan eyaletinde ABD ve İsrail ile bağlantılı olduğu iddia edilen bir grubun çökertildiğini duyurdu. IRGC'den yapılan açıklamada, operasyon sırasında bir kişinin öldürüldüğü belirtildi. Grubun, eyalette önceden belirlenmiş hedeflere yönelik saldırılar planladığı ifade edildi. Operasyonlar sonucunda altı üye ve destekçinin gözaltına alındığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6670889/pexels-photo-6670889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T14:16:16.529Z",
+        "location": {
+            "lat": 29.4958,
+            "lng": 60.8522,
+            "name": "Sistan ve Belucistan Eyaleti, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-irgc-says-group-linked-to-us-israel-dismantled-in-southeast-1-killed/4041033",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1788012998400kiv8o",
+        "title": "İsrail'in Kalandiya Eğitim Merkezi'nden çekilmesi, BM tesisindeki kontrolünü sona erdirmiyor: Yetkili",
+        "summary": "İsrail'in Kalandiya Eğitim Merkezi'nden çekilmesine rağmen, Birleşmiş Milletler tesisindeki kontrolünün devam ettiği bildirildi. Filistinli bir yetkili, tesis içinde güvenlik kameralarının kurulması ve devam eden bakım çalışmalarının, BM tesisinde 'yeni bir gerçeklik' dayatma girişimi olduğunu belirtti. Yetkili, bu durumun İsrail'in bölgedeki varlığını farklı bir biçimde sürdürme çabası olarak değerlendirildiğini kaydetti. Bu gelişmelerin, bölgedeki gerilimi artırabileceği ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33348986/pexels-photo-33348986.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T14:16:38.400Z",
+        "location": {
+            "lat": 31.85,
+            "lng": 35.21,
+            "name": "Kalandiya, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-withdrawal-from-qalandiya-training-center-does-not-end-control-over-un-facility-official/4041004",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788013018928aiuad",
+        "title": "İsrail'in Gazze'deki hastane ilaç deposuna düzenlediği hava saldırısında 3 Filistinli yaralandı",
+        "summary": "Gazze Şeridi'nde bir hastanenin ilaç deposuna İsrail tarafından hava saldırısı düzenlendiği bildirildi. Saldırıda üç Filistinlinin yaralandığı belirtildi. Hedef alınan yerin, Gazze'nin merkezindeki El-Aksa Şehitleri Hastanesi'ne ait bir ilaç deposu olduğu kaydedildi. Bu olay, bölgedeki son ateşkes ihlallerinden biri olarak kayıtlara geçti ve bölgedeki gerilimi artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34454411/pexels-photo-34454411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T14:16:58.928Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/3-palestinians-injured-in-israeli-airstrike-on-gaza-hospital-medicine-warehouse/4040999",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788013040903bjjst",
+        "title": "UNRWA, Kudüs'teki eğitim merkezinde 5 milyon dolardan fazla varlığın İsrail baskını sonrası risk altında olduğunu bildirdi",
+        "summary": "Birleşmiş Milletler Filistinli Mültecilere Yardım ve Bayındırlık Ajansı (UNRWA), Kudüs yakınlarındaki bir eğitim merkezinde bulunan 5 milyon doların üzerindeki varlığın, İsrail güçlerinin düzenlediği baskının ardından risk altında olduğunu duyurdu. Ajans yetkilileri, İsrail güçlerinin Kalandiya Eğitim Merkezi'ni boşalttıktan sonra tesiste hasar ve yağma izleri bıraktığını bildirdi. Bu durum, UNRWA'nın bölgedeki operasyonlarını ve Filistinli mültecilere sağladığı hizmetleri olumsuz etkileme potansiyeli taşıyor. Olay, İsrail-Filistin arasındaki gerilimin devam ettiğini ve uluslararası kuruluşların faaliyetlerinin de bu durumdan etkilendiğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7973407/pexels-photo-7973407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-29T14:17:20.903Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/unrwa-says-over-5m-in-assets-at-jerusalem-training-center-at-risk-after-israeli-raid/4040980",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1787993183865plt4p",
         "title": "İran Savaşı'nın Altıncı Ayında Yeni Bir Körfez Güvenlik Mimarisi Ortaya Çıkıyor",
         "summary": "İran Savaşı'nın altıncı ayına girilirken, Basra Körfezi bölgesinde yeni bir güvenlik mimarisi şekillenmeye başladı. Körfez ülkeleri, ABD'nin bölgedeki güvenlik rolünü tamamlayıcı nitelikte, ancak onun yerini almayan, birbiriyle örtüşen ortaklıklar kuruyor. Bu yeni yapılar, bölgesel istikrarı güçlendirmeyi ve mevcut tehditlere karşı daha dirençli bir duruş sergilemeyi hedefliyor. Gelişen bu ortaklıklar, bölgedeki güç dengelerini ve ittifak dinamiklerini yeniden şekillendiriyor. Bu durum, Orta Doğu'daki güvenlik stratejilerinde önemli bir değişime işaret ediyor.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israel-renaming-jerusalem-landmarks-to-erase-citys-arab-identity-governorate/4038379",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787756057980h28ah",
-        "title": "Trump, Al Jazeera'ya İran'ın müzakerelere dönmesi için 'acele etmediğini' söyledi",
-        "summary": "Eski ABD Başkanı Donald Trump, Al Jazeera'ya verdiği demeçte, İran'ın müzakere masasına geri dönmesi konusunda aceleci olmadığını belirtti. Trump, İran'ın müzakerelere ne zaman döneceğini beklediği sorulduğunda, bu konuda belirli bir zaman çizelgesinin olmadığını ifade etti. Bu açıklama, İran'ın nükleer programı ve uluslararası yaptırımlar etrafındaki gerilimin devam ettiği bir dönemde geldi. Trump yönetimi, İran ile yapılan nükleer anlaşmadan çekilmiş ve Tahran'a yönelik 'azami baskı' politikasını benimsemişti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8112159/pexels-photo-8112159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T14:54:17.980Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787749097158hxlch",
-        "title": "İsrail'in Doğu Kudüs'teki UNRWA Eğitim Koleji'ne El Koyması Kınandı",
-        "summary": "İsrail'in Doğu Kudüs'te Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA) bünyesindeki bir eğitim kolejine el koyduğu bildirildi. Bu eylem, İsrail'in UNRWA'ya karşı çıkardığı bir yasanın ardından, ajansın şehirdeki son tesisinin de kapatılması anlamına geliyor. Söz konusu gelişme, Filistinli mültecilere yönelik hizmetlerin aksamasına yol açabileceği endişelerini beraberinde getiriyor. Uluslararası toplumdan ve ilgili taraflardan bu karara yönelik kınamalar yükseldiği belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7142502/pexels-photo-7142502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T12:58:17.158Z",
-        "location": {
-            "lat": 31.7767,
-            "lng": 35.2345,
-            "name": "Doğu Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787740641342njhly",
-        "title": "Çin Devlet Başkanı Xi, Kırgızistan ve Mısır'ı Ziyaret Edecek",
-        "summary": "Çin Devlet Başkanı Xi Jinping'in Kırgızistan ve Mısır'a resmi ziyaretler gerçekleştireceği duyuruldu. Açıklamaya göre, Başkan Xi ilk olarak Kırgızistan'ın başkenti Bişkek'te düzenlenecek Şanghay İşbirliği Örgütü (ŞİÖ) zirvesine katılacak. Zirvenin ardından Çin lideri, Orta Doğu ve Kuzey Afrika'nın kilit ülkelerinden Mısır'a geçecek. Bu ziyaretlerin, Çin'in bölgesel diplomatik ilişkilerini pekiştirme ve stratejik ortaklıklarını geliştirme hedefini yansıttığı belirtiliyor. Özellikle Mısır ziyareti, Pekin'in Orta Doğu'daki nüfuzunu artırma çabaları açısından kritik bir öneme sahip.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T10:37:21.342Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787740699502bzg4s",
-        "title": "İran'da Bir ABD Doları 2 Milyon Riyale Ulaştı",
-        "summary": "İran'da yerel para birimi riyal, ABD doları karşısında rekor seviyede değer kaybettiği bildirildi. Bir ABD dolarının 2 milyon riyal seviyesine ulaştığı belirtiliyor. Ülke ekonomisi, uygulanan yaptırımlar ve ABD ile İsrail'in İran'a yönelik politikaları nedeniyle zorlu bir süreçten geçiyor. Bu durum, halkın artan fiyatlar karşısında alım gücünü koruyamamasına yol açarak yaşam standartlarını olumsuz etkiliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/4695995/pexels-photo-4695995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T10:38:19.502Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17877374681092f890",
-        "title": "Bulgar Köyü İran Hedefi Olmaktan Korkuyor",
-        "summary": "Bulgaristan'ın Bezmer köyü, ABD Hava Kuvvetleri'ne ait yakıt ikmal uçaklarının bölgedeki varlığı nedeniyle İran'ın hedefi olma endişesi taşıyor. Uçakların ayrılması köy halkına bir miktar rahatlama getirse de, uluslararası gerilimlerin kendi yaşam alanlarına sıçraması konusundaki endişeler devam ediyor. Bu durum, ABD'nin askeri faaliyetleri ve İran ile potansiyel bir çatışma riskinin bölgesel yansımalarını gözler önüne seriyor. Köy halkı, Orta Doğu'daki siyasi gerilimlerin Avrupa'daki bir noktayı nasıl etkileyebileceğinin bir örneğini teşkil ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18400320/pexels-photo-18400320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T09:44:28.109Z",
-        "location": {
-            "lat": 42.45,
-            "lng": 26.55,
-            "name": "Bezmer, Bulgaristan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787737493306iytdf",
-        "title": "Azerbaycan Temsilcisi Sabah, İsrail Takımı Beer-Sheva'yı Şampiyonlar Ligi Elemelerinde Eledi",
-        "summary": "Azerbaycan temsilcisi Sabah, UEFA Şampiyonlar Ligi eleme turunda İsrail'in Hapoel Beer-Sheva takımını geç gelen bir golle mağlup ederek turnuva dışına itti. Bu sonuçla Sabah, Şampiyonlar Ligi'nde bir üst tura yükselme başarısı gösterdi. İsrail ekibi Hapoel Beer-Sheva ise bu mağlubiyetle Şampiyonlar Ligi macerasına erken veda etmek zorunda kaldı. Haber metninde ayrıca, İskoç şampiyonu Celtic'in LASK'a karşı aldığı yenilgi gibi diğer eleme turu sonuçlarına da yer verildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/30726628/pexels-photo-30726628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-26T09:44:53.306Z",
-        "location": {
-            "lat": 31.3,
-            "lng": 34.8,
-            "name": "Beer-Sheva, İsrail"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
