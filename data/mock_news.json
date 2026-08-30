@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788112784418k3k9o",
+        "title": "Rakip Libya grupları iki yıl içinde ulusal seçimler düzenlemek için anlaşma imzaladı",
+        "summary": "Libya'daki rakip gruplar, Birleşmiş Milletler misyonunda önemli bir anlaşmaya imza attı. Anlaşma, ülkenin iki yıl içinde ulusal seçimlere gitmesini öngörüyor. Bu gelişme, ilk taslağın 20 Ağustos'ta Tunus'ta BM destekli bir komite tarafından imzalanmasının ardından Trablus'ta gerçekleşti. Söz konusu mutabakat, Libya'da uzun süredir devam eden siyasi çıkmazı aşma ve istikrarlı bir yönetim kurma yolunda atılmış kritik bir adım olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7841424/pexels-photo-7841424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T17:59:44.418Z",
+        "location": {
+            "lat": 32.8872,
+            "lng": 13.1913,
+            "name": "Trablus, Libya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788112810316kupun",
+        "title": "İsrail polisi, işgal altındaki Doğu Kudüs'teki UNRWA eğitim merkezine yeniden baskın düzenledi",
+        "summary": "İsrail polisi, işgal altındaki Doğu Kudüs'te bulunan Birleşmiş Milletler Yakın Doğu'daki Filistinli Mültecilere Yardım ve Bayındırlık Ajansı (UNRWA) eğitim merkezine yeniden baskın düzenledi. Bu olay, İsrail güçlerinin dört gün süren bir operasyonun ardından Kalandiya Eğitim Merkezi'nden çekilmesinden sadece iki gün sonra gerçekleşti. Baskın, bölgedeki gerilimi artırırken, UNRWA'nın Filistinli mültecilere yönelik hizmetlerinin devamlılığı ve uluslararası hukuktaki statüsü hakkında endişeleri yeniden gündeme getirdi. Doğu Kudüs, uluslararası toplum tarafından işgal altında kabul edilmekte olup, İsrail'in buradaki eylemleri sıkça uluslararası eleştirilere maruz kalmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32923533/pexels-photo-32923533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T18:00:10.316Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.22,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-police-renew-raid-on-unrwa-training-center-in-occupied-east-jerusalem/4041844",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178809813062702qg8",
         "title": "Mısır'ın İkinci Büyük Bankası Banque Misr, ABD Yaptırımlarına Hedef Oldu",
         "summary": "ABD'nin, Mısır'ın ikinci en büyük bankası Banque Misr'a yaptırım uyguladığı bildirildi. Bu kararın, Washington'ın İran'a yönelik ekonomik baskıyı artırma çabalarının bir parçası olduğu belirtiliyor. Yaptırımların, ateşkes görüşmelerindeki çıkmazın sürdüğü bir dönemde İran'ın finansal kaynaklarını kısıtlamayı hedeflediği ifade edildi. Söz konusu adımın, bölgedeki ekonomik ve diplomatik ilişkiler üzerinde potansiyel etkileri olabileceği değerlendiriliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/370-palestinian-children-held-in-israeli-prisons-report/4039722",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787864455919hp34t",
-        "title": "Barış Kurulu Gazze Temsilcisi'nden İsrail ve Hamas'a Uyarı",
-        "summary": "Barış Kurulu'nun Gazze özel temsilcisi Nickolay Mladenov, bölgedeki son gelişmelere ilişkin önemli açıklamalarda bulundu. Mladenov, İsrail'in Gazze'ye yönelik saldırılarını ve Hamas'ın eylemlerini eleştirdi. Temsilci, geçtiğimiz Ekim ayında sağlanan ateşkesin bozulmasının bölge için 'geri dönülmez bir nokta' olacağı uyarısında bulundu. Tarafları itidalli olmaya ve barış sürecini korumaya çağıran Mladenov, mevcut durumun Orta Doğu'daki istikrarı ciddi şekilde tehdit ettiğini vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-27T21:00:55.919Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178786448674815dr4",
-        "title": "Kudüs'te rahibeye saldıran kişi akıl sağlığı gerekçesiyle beraat etti",
-        "summary": "Kudüs'te güvenlik kameralarına yansıyan bir olayda rahibeye saldıran kişi, mahkeme kararıyla akıl sağlığı gerekçesiyle beraat etti. Kudüs mahkemesi, Yahudi saldırganın rahibeye saldırdığı sırada psikotik bir atak geçirdiğini açıkladı. Bu saldırı, kamuoyunda büyük bir infiale yol açmıştı. Mahkemenin beraat kararı, olayın neden olduğu tepkilere rağmen verildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/14457534/pexels-photo-14457534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-27T21:01:26.748Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
