@@ -1,5 +1,69 @@
 [
     {
+        "id": "1788077008835344im",
+        "title": "İran Savaşı'nın Körfez Enerjisine Olası Saldırıları ve Petrol Piyasasına Etkileri Haritalandırılıyor",
+        "summary": "İran ile olası bir çatışma durumunda Körfez bölgesindeki enerji altyapısına yönelik potansiyel saldırıların haritalandırıldığı ve bunun küresel petrol piyasaları üzerindeki etkileri değerlendiriliyor. Analizler, ABD enerji şirketlerinin yükselen petrol fiyatlarından önemli gelirler elde ettiğini gösteriyor. Ancak, bu şirketlerin Orta Doğu'daki varlıklarının, bölgedeki jeopolitik gerilimler nedeniyle yüksek risk altında olduğu belirtiliyor. Bu durum, enerji güvenliği ve küresel arz zincirleri açısından önemli endişeler yaratıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/672051/pexels-photo-672051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T08:03:28.835Z",
+        "location": {
+            "lat": 26,
+            "lng": 50,
+            "name": "Körfez Bölgesi"
+        },
+        "source": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788077098780pu50j",
+        "title": "İsrail Ordusu, İşgal Altındaki Batı Şeria'da Düzenlediği Baskında 6 Filistinliyi Yaraladı",
+        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da bulunan bir mülteci kampına düzenlediği baskında altı Filistinliyi yaraladı. Güvenlik güçleri, aynı zamanda Al-Bireh ve Al-Mughayyir bölgelerine de operasyonlar gerçekleştirdi. Olaylar sırasında, İsrail güçlerinin askeri koruma eşliğinde El Halil'in (Hebron) Eski Şehir bölgesine giriş yaptığı belirtildi. Bölgedeki gerilimin devam ettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20358001/pexels-photo-20358001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T08:04:58.780Z",
+        "location": {
+            "lat": 31.53,
+            "lng": 35.1,
+            "name": "El Halil, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-injures-6-palestinians-in-raid-on-occupied-west-bank-refugee-camp/4041253",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1788077118893j4ww8",
+        "title": "İsrail'in Gazze'ye düzenlediği saldırılarda bir Filistinli daha hayatını kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail topçu ateşi sonucu bir Filistinlinin daha hayatını kaybettiği bildirildi. Bu son ölümle birlikte Cumartesi günü Gazze'deki can kaybı beşe yükseldi. İsrail ordusunun, Gazze Şeridi'nin kuzey ve güney bölgelerini hedef almaya devam ettiği belirtildi. Bölgedeki gerilimin sürdüğü kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19488937/pexels-photo-19488937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T08:05:18.893Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/another-palestinian-killed-as-israeli-shelling-hits-gaza/4041252",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1788077141830bhqt4",
+        "title": "İsrail ordusu Batı Şeria köyüne yönelik kuşatmayı yoğunlaştırdı, tek girişi kapattı: Yetkili",
+        "summary": "İsrail ordusu, Batı Şeria'da bulunan Al-Mughayyir köyüne yönelik kuşatmayı artırarak köyün tek girişini mühürledi. Al-Mughayyir köy konseyi başkanı, bu eylemlerin yanı sıra tekrarlanan kısıtlamalar ve saldırıların, Filistinlileri köylerinden çıkarmayı amaçladığını belirtti. Bölgedeki gerilimin tırmandığı bu olay, İsrail-Filistin çatışmasının devam eden bir parçası olarak değerlendiriliyor. Köy sakinleri, temel ihtiyaçlara erişim konusunda ciddi zorluklarla karşı karşıya kalırken, uluslararası toplumdan duruma müdahale etmesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18416982/pexels-photo-18416982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T08:05:41.830Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.28,
+            "name": "Al-Mughayyir, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-intensifies-siege-of-west-bank-village-seals-sole-entrance-official/4041251",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
         "id": "1788053446661jzipn",
         "title": "Türkiye ve Somali Güçleri, Korsanlar Tarafından Kaçırılan Kargo Gemisini Kurtardı",
         "summary": "Türkiye ve Somali güçleri, korsanlar tarafından kaçırılan Kamerun bandıralı bir kargo gemisini kurtarmak için ortak bir operasyon düzenledi. On gün süren operasyon sonucunda gemi özgürlüğüne kavuşturuldu. Somali makamları, operasyon sırasında 14 korsanın öldürüldüğünü bildirdi. Bu başarılı müdahale, bölgedeki deniz güvenliğinin sağlanması açısından önemli bir adım olarak değerlendiriliyor.",
@@ -732,70 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as-told-through-trumps-social-media-posts?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787828525688dw9zo",
-        "title": "Irak, Bağdat'ta insansız hava aracı üretme girişimini engellediğini duyurdu",
-        "summary": "Irak Ulusal Güvenlik Servisi, başkent Bağdat'ta insansız hava aracı (İHA) üretme girişimini engellediğini bildirdi. Yapılan açıklamaya göre, operasyon kapsamında üç şüpheli gözaltına alındı. Bu olay, Irak hükümetinin uluslararası koalisyonun ülkedeki misyonunun 30 Eylül'de sona ereceğini duyurmasından kısa bir süre sonra yaşandı. Ülkenin kendi güvenlik kapasitesini artırma çabaları devam ederken, bu tür girişimlerin engellenmesi önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13456575/pexels-photo-13456575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-27T11:02:05.688Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-says-it-foiled-effort-to-manufacture-drones-in-baghdad/4038995",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787828548178u5xy1",
-        "title": "Yemen Donanması Kızıldeniz'de 'İran Destekli' Askeri Ekipman Ele Geçirdi",
-        "summary": "Yemen askeri güçleri, Kızıldeniz'de 'İran destekli' olduğu iddia edilen askeri ekipmanlara el koyduğunu duyurdu. Yapılan açıklamada, aynı zamanda Husilerin bir tekne saldırısının engellendiği ve bir keşif insansız hava aracının düşürüldüğü belirtildi. Bu gelişmeler, Yemen'deki çatışmanın denizdeki yansımalarını ve bölgesel aktörlerin müdahalesini bir kez daha gözler önüne serdi. Kızıldeniz'deki seyrüsefer güvenliğine yönelik tehditlerin devam ettiği ve uluslararası denizcilik rotalarının risk altında olduğu vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6619213/pexels-photo-6619213.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-27T11:02:28.178Z",
-        "location": {
-            "lat": 14.5,
-            "lng": 42.5,
-            "name": "Kızıldeniz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-naval-forces-seize-alleged-iran-supplied-military-equipment-in-red-sea/4038990",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787828570539zl6j2",
-        "title": "Suriye ve Suudi Arabistan Ulaştırma ve Lojistik İşbirliği Anlaşmaları İmzaladı",
-        "summary": "Suriye ve Suudi Arabistan arasında ulaştırma ve lojistik alanında işbirliğini öngören mutabakat zaptları imzalandı. Anlaşmalar, iki ülke arasındaki demiryolu ve karayolu taşımacılığı sektörlerinde işbirliğini kapsıyor. Bu adımlar, bölgesel ilişkilerin normalleşme sürecinde önemli bir gelişme olarak değerlendiriliyor. İmzalanan mutabakat zaptlarının, iki ülke arasındaki ticari ve ekonomik bağları güçlendirmesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-27T11:02:50.539Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-saudi-arabia-sign-agreements-on-transport-logistics-cooperation/4038881",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787828592119ic99q",
-        "title": "İsrail ordusunun işgal altındaki Batı Şeria'ya düzenlediği baskında 2 Filistinli kadın ve 1 kız çocuğu yaralandı",
-        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da bir operasyon düzenledi. Yerel kaynaklardan alınan bilgilere göre, bu baskında 2 Filistinli kadın ve 1 kız çocuğu yaralandı. Operasyon sırasında 3 Filistinli gözaltına alınırken, bazı evlere baskın yapıldığı ve bir evin yıkıldığı bildirildi. Olaylar, bölgedeki gerilimi artırırken, Anadolu Ajansı kaynakları gelişmeleri aktardı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/161756/bunker-air-raid-shelter-world-war-bombing-161756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-27T11:03:12.119Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-palestinian-women-1-girl-injured-in-israeli-army-raid-in-occupied-west-bank/4038874",
         "trendScore": 85,
         "isBreaking": false
     }
