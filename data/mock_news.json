@@ -1,5 +1,37 @@
 [
     {
+        "id": "17881234413297ownj",
+        "title": "José Andrés, WCK Gazze çalışanlarının öldürülmesiyle ilgili soruşturma çağrısını yineledi",
+        "summary": "World Central Kitchen (WCK) kurucusu José Andrés, İsrail saldırılarında Gazze'deki WCK çalışanlarının hayatını kaybetmesiyle ilgili bağımsız bir soruşturma yapılması çağrısını yineledi. Andrés, uluslararası toplumdan bu olayın şeffaf bir şekilde araştırılmasını talep ediyor. Olay, Nisan ayında Gazze'de insani yardım taşıyan bir konvoyun hedef alınması sonucu yedi WCK çalışanının ölümüyle sonuçlanmıştı. İsrail ordusu, olayın ardından bir soruşturma başlatmış ve bazı subayları görevden almıştı, ancak Andrés daha kapsamlı bir inceleme gerektiğini savunuyor. Bu çağrı, uluslararası kuruluşların ve hükümetlerin Gazze'deki insani yardım çalışanlarının güvenliğine ilişkin endişelerini artırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6646902/pexels-photo-6646902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T20:57:21.329Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17881235448244eozj",
+        "title": "Kudüs'te Rahibeye Saldıran Şahıs Akıl Sağlığı Gerekçesiyle Beraat Etti",
+        "summary": "Kudüs'te bir rahibeye saldıran şahıs, akıl sağlığı sorunları gerekçesiyle beraat etti. Kudüs mahkemesi, güvenlik kameralarına yansıyan saldırıyı gerçekleştiren Yahudi saldırganın olay sırasında psikotik bir atak geçirdiğini açıkladı. Bu olay, kamuoyunda büyük bir infiale yol açmıştı. Mahkeme kararı, bölgedeki hassas dini ve toplumsal dengeler açısından dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5697187/pexels-photo-5697187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-30T20:59:04.824Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788112784418k3k9o",
         "title": "Rakip Libya grupları iki yıl içinde ulusal seçimler düzenlemek için anlaşma imzaladı",
         "summary": "Libya'daki rakip gruplar, Birleşmiş Milletler misyonunda önemli bir anlaşmaya imza attı. Anlaşma, ülkenin iki yıl içinde ulusal seçimlere gitmesini öngörüyor. Bu gelişme, ilk taslağın 20 Ağustos'ta Tunus'ta BM destekli bir komite tarafından imzalanmasının ardından Trablus'ta gerçekleşti. Söz konusu mutabakat, Libya'da uzun süredir devam eden siyasi çıkmazı aşma ve istikrarlı bir yönetim kurma yolunda atılmış kritik bir adım olarak değerlendiriliyor.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, İsrail/Filistin"
         },
         "source": "https://www.aa.com.tr/en/world/eu-14-countries-condemn-israels-seizure-of-unrwa-facility-in-occupied-east-jerusalem/4040373",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787894313779z132p",
-        "title": "ABD, Venezuela Petrol Sahalarında Hisse Edinme Anlaşmasına Yaklaşıyor",
-        "summary": "Amerika Birleşik Devletleri'nin, Venezuela'daki petrol sahalarında hisse edinmek üzere bir anlaşmaya yakın olduğu bildirildi. İçeriden alınan bilgilere göre, Caracas yönetimiyle yapılacak bu potansiyel anlaşma, ABD'nin petrol tedarikini önümüzdeki yıllar boyunca önemli ölçüde artırabilir. Anlaşmanın, ABD'nin enerji güvenliğini güçlendirmesi beklenirken, yasal zorluklarla karşılaşma ihtimali de bulunuyor. Küresel petrol piyasalarındaki arz-talep dengesini etkileyebilecek bu gelişme, Orta Doğu'daki petrol üreticisi ülkelerin ekonomik ve enerji politikaları üzerinde dolaylı etkiler yaratabilir.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/5888075/pexels-photo-5888075.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-28T05:18:33.779Z",
-        "location": {
-            "lat": 10.4806,
-            "lng": -66.9036,
-            "name": "Caracas, Venezuela"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/28/us-nears-deal-to-secure-stake-in-venezuelan-oil-fields-insiders-say?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787894339119rrcr5",
-        "title": "İsrail Hapishanelerinde 370 Filistinli Çocuk Tutuluyor: Rapor",
-        "summary": "Filistinli mahkum hakları gruplarından alınan bilgilere göre, İsrail hapishanelerinde 370 Filistinli çocuğun tutulduğu bildirildi. Raporda, bu çocuk tutukluların büyük bir kısmının Megiddo ve Ofer cezaevlerinde bulunduğu belirtildi. Bu durum, uluslararası insan hakları örgütlerinin ve Filistinli sivil toplum kuruluşlarının uzun süredir dile getirdiği endişeleri yeniden gündeme getirdi. Çocukların gözaltı koşulları ve hak ihlalleri iddiaları, bölgedeki insan hakları tartışmalarının önemli bir parçasını oluşturuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10474999/pexels-photo-10474999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-28T05:18:59.119Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/370-palestinian-children-held-in-israeli-prisons-report/4039722",
         "trendScore": 85,
         "isBreaking": false
     }
