@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788212096790wbdr8",
+        "title": "ABD'nin Kilit Orta Doğu Müttefikine Askeri Yardımı Kesme Planı Gündemde",
+        "summary": "BBC'ye göre, ABD'nin önemli bir Orta Doğu müttefikine yönelik askeri yardımı kesme planları gündeme geldi. Trump yönetimi tarafından hayata geçirilmesi beklenen bu plan, bölgede endişelere yol açtı. Irak Kürdistanı, söz konusu askeri yardımın kesilmesinin bölgeyi daha savunmasız hale getireceğinden korkuyor. Kürdistan Bölgesi yetkilileri, bu durumun İran'dan gelebilecek olası saldırılara karşı güvenlik risklerini artıracağını belirtiyor. Kararın bölgedeki güvenlik dengeleri açısından önemli sonuçları olabileceği değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12357501/pexels-photo-12357501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-31T21:34:56.790Z",
+        "location": {
+            "lat": 36.19,
+            "lng": 43.99,
+            "name": "Erbil, Irak"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788212166993fzktu",
+        "title": "Türk ve Pakistanlı yetkililer, İstanbul'daki Mekke savunma görüşmelerinin ardından Bişkek'e gidiyor",
+        "summary": "Türk Dışişleri Bakanı Hakan Fidan, Cumhurbaşkanı Recep Tayyip Erdoğan ve Milli Savunma Bakanı Yaşar Güler ile birlikte Şanghay İşbirliği Örgütü (ŞİÖ) zirvesine katılmak üzere Bişkek'e hareket edeceğini duyurdu. Bu ziyaret, İstanbul'da gerçekleştirilen ve Mekke savunma konularının ele alındığı görüşmelerin ardından gerçekleşiyor. Haberde, Türk ve Pakistanlı yetkililerin de Bişkek'e doğru yola çıktığı belirtildi. Zirvede bölgesel güvenlik, işbirliği ve uluslararası konuların ele alınması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/13567740/pexels-photo-13567740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-31T21:36:06.993Z",
+        "location": {
+            "lat": 42.8746,
+            "lng": 74.5698,
+            "name": "Bişkek, Kırgızistan"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkish-pakistani-officials-travel-to-bishkek-after-mecca-defense-talks-in-istanbul/4043087",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1788193131301o312c",
         "title": "İsrail Saldırılarında Gazze Şehri'nde En Az Beş Filistinli Hayatını Kaybetti",
         "summary": "Gazze Şehri'nde İsrail tarafından gerçekleştirilen iki ayrı saldırıda en az beş Filistinli yaşamını yitirdi. Bölgedeki gerilimin arttığı bu dönemde, saldırıların detaylarına ilişkin henüz resmi bir açıklama yapılmadı. Olayın ardından bölgede güvenlik önlemleri artırılırken, uluslararası toplumdan tepkiler gelmesi bekleniyor. Hayatını kaybedenlerin kimlikleri ve saldırıların hedefi hakkında araştırmalar devam ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-carries-out-2-explosions-on-outskirts-of-southern-lebanon-town/4040763",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17879932860898aofd",
-        "title": "İran, ABD Ablukasına Rağmen 7.5 Milyar Dolar Petrol Gelirini Merkez Bankası'na Aktardı",
-        "summary": "İran'ın, ABD'nin uyguladığı deniz ablukasına rağmen 7.5 milyar dolarlık petrol gelirini merkez bankasına aktardığı bildirildi. Rapora göre, İran'ın cari yılın ilk dört ayındaki petrol gelirleri, devlet bütçesinde öngörülen miktarın yüzde 99'una ulaştı. Bu durum, ülkenin uluslararası yaptırımlara rağmen enerji kaynaklarından önemli gelir elde etme kapasitesini gösteriyor. Söz konusu gelir transferi, İran ekonomisinin direnci açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/433626/pexels-photo-433626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-29T08:48:06.089Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-transfers-75b-in-oil-revenues-to-central-bank-despite-us-naval-blockade-report/4040754",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787993308930d4y2a",
-        "title": "Filistin Komisyonu: Batı Şeria'daki Mülk Yangınlarının %89'u İsrailli İşgalcilerden Kaynaklanıyor",
-        "summary": "Filistin İşgale Karşı Direniş ve Duvar Komisyonu, Batı Şeria'da meydana gelen mülk yangınlarının büyük çoğunluğunun İsrailli işgalciler tarafından çıkarıldığını iddia etti. Komisyon tarafından yayımlanan bir rapora göre, 2023 yılından bu yana belgelenen 900 yangının %89'u bu duruma bağlanmıştır. Raporda ayrıca, yangın vakalarının %61'inden fazlasının Nablus, Ramallah ve el-Bireh valiliklerinde yoğunlaştığı belirtildi. Bu veriler, bölgedeki gerilimin ve mülkiyet güvenliği sorunlarının devam ettiğini göstermektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38521776/pexels-photo-38521776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-29T08:48:28.930Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2035,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/89-of-property-fires-in-west-bank-caused-by-israeli-occupiers-says-palestinian-commission/4040723",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
