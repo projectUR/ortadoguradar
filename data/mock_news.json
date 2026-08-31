@@ -1,5 +1,53 @@
 [
     {
+        "id": "1788139833820bqzrk",
+        "title": "ABD-Venezuela Petrol Anlaşması Tartışmalara Yol Açtı",
+        "summary": "ABD ile Venezuela arasında imzalanan petrol anlaşması, Venezuela içinde muhalefetin tepkisiyle karşılandı. Ülkenin geçici lideri, anlaşmanın Venezuela'nın ekonomik iyileşmesine katkı sağlayacağını belirtirken, muhalif gruplar anlaşmanın ülkenin egemenliği ve geleceği üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor. Bu anlaşma, Venezuela'nın küresel petrol piyasalarına dönüşünü hızlandırabilir ve dünya genelindeki enerji arzı dengelerini etkileyebilir. Özellikle Orta Doğu'daki petrol üreticisi ülkeler, anlaşmanın küresel petrol fiyatları ve arz stratejileri üzerindeki yansımalarını yakından izliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/7796455/pexels-photo-7796455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-31T01:30:33.820Z",
+        "location": {
+            "lat": 10.4806,
+            "lng": -66.9036,
+            "name": "Caracas, Venezuela"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17881398881103olds",
+        "title": "İran-ABD Gerilimi: IRGC Ürdün'deki ABD Üslerine Saldırdı, ABD Larak Adası'nı Vurdu",
+        "summary": "ABD Merkez Komutanlığı (CENTCOM), İran Devrim Muhafızları Ordusu'na (IRGC) ait iki roketatarı İran'ın Larak Adası'nda hedef aldığını duyurdu. Bu saldırının ardından, İran Devrim Muhafızları Ordusu'nun Ürdün'deki ABD üslerine misilleme saldırıları düzenlediği bildirildi. Bölgede ABD ve İran arasındaki gerilim tırmanırken, karşılıklı saldırılar Orta Doğu'daki güvenlik durumunu daha da karmaşık hale getiriyor. Bu gelişmeler, iki ülke arasındaki doğrudan çatışma riskini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-31T01:31:28.110Z",
+        "location": {
+            "lat": 31,
+            "lng": 36,
+            "name": "Ürdün"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1788139975711y84u2",
+        "title": "İsrail'in binlerce Gazze tutuklusunun akıbetini 3 yıldır gizlediği iddia edildi: Filistinli gruplar",
+        "summary": "Filistinli gruplar, İsrail'in binlerce Gazze tutuklusunun akıbetini üçüncü yıldır gizlediğini iddia etti. İnsan hakları örgütleri, İsrail'in bu tutukluların isimlerini, gözaltı yerlerini ve sağlık bilgilerini açıklamadığını belirtiyor. Ayrıca, tutukluların avukatlara ve Uluslararası Kızılhaç Komitesi'ne erişiminin engellendiği ifade ediliyor. Bu durumun uluslararası hukuka aykırı olduğu ve tutukluların haklarının ihlal edildiği vurgulanıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/9246485/pexels-photo-9246485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-08-31T01:32:55.711Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-concealing-fate-of-thousands-of-gaza-detainees-for-3rd-year-palestinian-groups/4042069",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "178813219484937cwj",
         "title": "İsrail Saldırısında Gazze'de 3 Yaşındaki Çocuk Hayatını Kaybetti",
         "summary": "İsrail'in Gazze Şeridi'ne düzenlediği hava saldırısında iki Filistinli yaşamını yitirdi. Deir el-Balah bölgesini hedef alan saldırıda hayatını kaybedenler arasında 3 yaşında bir çocuk da bulunuyor. Olay, bölgedeki gerilimi daha da artırırken, sivil kayıplar endişe yaratmaya devam ediyor. Saldırı sonrası bölgede güvenlik güçleri teyakkuza geçti.",
@@ -748,54 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aa.com.tr/en/americas/us-democratic-senators-urge-israel-to-halt-settlement-plan-in-occupied-west-bank/4040537",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787938905327cgxrz",
-        "title": "UNIFIL, Güney Lübnan'da Geçen Hafta 1.030 Mermi Kaydetti",
-        "summary": "Birleşmiş Milletler Geçici Görev Gücü (UNIFIL), güney Lübnan'da son bir hafta içinde 1.030 mermi veya füze kaydedildiğini açıkladı. UNIFIL tarafından yapılan açıklamada, bölgedeki durumun \"kırılganlığını koruduğu\" vurgulandı. Bu durum, Lübnan'ın güney sınırındaki gerilimin devam ettiğini ve bölgedeki istikrarsızlığın sürdüğünü gösteriyor. Barış gücü, taraflara itidal çağrısında bulunarak bölgedeki güvenliğin sağlanması için çabalarını sürdürdüğünü belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-28T17:41:45.327Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/unifil-records-1-030-projectiles-in-southern-lebanon-over-past-week/4040532",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178793893078179b0y",
-        "title": "Cezayir, 12 kişinin ölümüne, onlarca kişinin yaralanmasına neden olan çok sayıda orman yangınıyla mücadele ediyor",
-        "summary": "Cezayir'de ülke genelinde çıkan orman yangınları büyük yıkıma yol açtı. Yetkililer, son 24 saat içinde 110 yangını söndürmeyi başarsa da, 10 farklı eyalette 64 yangın hala aktif durumda. Yangınlar nedeniyle en az 12 kişi hayatını kaybederken, onlarca kişi de yaralandı. Ülke genelinde devam eden yangınlarla mücadele çalışmaları yoğun bir şekilde sürdürülüyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/12027849/pexels-photo-12027849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-28T17:42:10.781Z",
-        "location": {
-            "lat": 36.73,
-            "lng": 3.06,
-            "name": "Cezayir"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/algeria-battles-scores-of-wildfires-that-have-killed-12-injured-dozens/4040414",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787938955669mwtfq",
-        "title": "İsrail'de iktidar partisi, Ben-Gvir'i seçim ittifakını reddettiği için eleştirdi",
-        "summary": "İsrail'de iktidardaki Likud Partisi, aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in yaklaşan seçimler öncesinde bir seçim ittifakı kurma olasılığını reddetmesi üzerine sert bir tepki gösterdi. Başbakan Binyamin Netanyahu'nun liderliğindeki Likud, Ben-Gvir'in bu kararının muhalefete avantaj sağlayarak Ekim sonunda yapılması planlanan seçimlerde zafer kazandırabileceği endişesini taşıyor. Bu durum, sağ blok içinde potansiyel bir bölünmeye işaret ederken, iktidardaki koalisyonun geleceği hakkında önemli soru işaretleri yaratıyor. Partiler arasındaki bu gerilim, İsrail siyasetindeki mevcut kutuplaşmayı ve koalisyon içi dinamiklerin kırılganlığını gözler önüne seriyor.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/1464193/pexels-photo-1464193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-28T17:42:35.669Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-ruling-party-blasts-ben-gvir-for-ruling-out-electoral-alliance/4040394",
         "trendScore": 85,
         "isBreaking": false
     }
