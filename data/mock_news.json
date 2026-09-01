@@ -1,5 +1,53 @@
 [
     {
+        "id": "1788244699824l25qe",
+        "title": "Petrol fiyatları, ABD ve İran saldırılarının gerilimi tırmandırma endişelerini artırmasıyla yükselişe geçti",
+        "summary": "Küresel petrol piyasalarında fiyatlar, ABD ve İran arasındaki gerilimin artması ve bölgedeki saldırıların tırmanma endişelerini körüklemesiyle yükseliş eğilimi gösterdi. Brent petrolün varil fiyatı, 21 Ağustos'ta 94,40 dolarla zirve yapmasının ardından, bir mutabakat zaptının (MoU) sona ermesinden bu yana 86-91 dolar aralığında işlem görüyor. Bu durum, Orta Doğu'daki istikrarsızlığın enerji arzı üzerindeki potansiyel etkilerine dair endişeleri artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/433626/pexels-photo-433626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-01T06:38:19.824Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788244727681o1vq7",
+        "title": "İsrail güçleri Batı Şeria'da evleri yıktı, AB yerleşim ürünlerine yasak getirmeyi değerlendiriyor",
+        "summary": "İşgal altındaki Batı Şeria'da gerilim devam ediyor. İsrail güçleri bölgede ev yıkımlarını sürdürürken, yerleşimcilerin de Filistinli sakinlere yönelik saldırıları rapor ediliyor. Bu gelişmeler yaşanırken, Avrupa Birliği'nin (AB) İsrail yerleşimlerinde üretilen ürünlerin ithalatına yasak getirme olasılığını değerlendirdiği belirtiliyor. AB'nin bu adımı, bölgedeki uluslararası hukuka aykırı yerleşim faaliyetlerine karşı bir tepki olarak görülüyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-01T06:38:47.681Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2087,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1788244753892a2ix2",
+        "title": "AB, Güney Lübnan'daki BM barış güçlerinin yerine askeri misyonu değerlendiriyor",
+        "summary": "Avrupa Birliği'nin, Güney Lübnan'da görev yapan Birleşmiş Milletler Geçici Gücü (UNIFIL) barış güçlerinin yerine geçebilecek bir askeri misyonu değerlendirdiği bildirildi. Bu adım, UNIFIL'in mevcut görev süresinin 31 Aralık'ta sona erecek olması nedeniyle gündeme geldi. Analistler, UNIFIL'in görev süresinin dolması durumunda İsrail'in bu durumdan fayda sağlayabileceği yönünde görüş belirtiyor. Güney Lübnan, İsrail ile Lübnan arasındaki hassas sınır bölgesinde stratejik öneme sahip olup, bölgedeki istikrar için UNIFIL kritik bir rol oynamaktadır. AB'nin olası misyonu, bölgedeki güvenlik dinamiklerini yeniden şekillendirebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30541601/pexels-photo-30541601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-01T06:39:13.892Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17882246826463fvop",
         "title": "Saied'in İktidarı Ele Geçirmesinden Beş Yıl Sonra Tunus'un Eski Şikayetleri Yeniden Yüzeye Çıkıyor",
         "summary": "Başkan Kays Said'in iktidarı ele geçirmesinin üzerinden beş yıl geçti. Bu süreçte Tunus'ta ekonomik sıkıntılar devam ederken, muhalif sesler ve eleştirel düşünce için alan önemli ölçüde daraldı. Ülke, Said'in yönetimi altında eski toplumsal ve siyasi şikayetlerin yeniden gündeme geldiği bir döneme tanıklık ediyor. Bu durum, Tunus'un siyasi istikrarı ve ekonomik geleceği hakkında endişeleri artırıyor.",
@@ -748,54 +796,6 @@
             "name": "Kalandiya, Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-withdrawal-from-qalandiya-training-center-does-not-end-control-over-un-facility-official/4041004",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788013018928aiuad",
-        "title": "İsrail'in Gazze'deki hastane ilaç deposuna düzenlediği hava saldırısında 3 Filistinli yaralandı",
-        "summary": "Gazze Şeridi'nde bir hastanenin ilaç deposuna İsrail tarafından hava saldırısı düzenlendiği bildirildi. Saldırıda üç Filistinlinin yaralandığı belirtildi. Hedef alınan yerin, Gazze'nin merkezindeki El-Aksa Şehitleri Hastanesi'ne ait bir ilaç deposu olduğu kaydedildi. Bu olay, bölgedeki son ateşkes ihlallerinden biri olarak kayıtlara geçti ve bölgedeki gerilimi artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34454411/pexels-photo-34454411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-29T14:16:58.928Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/3-palestinians-injured-in-israeli-airstrike-on-gaza-hospital-medicine-warehouse/4040999",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788013040903bjjst",
-        "title": "UNRWA, Kudüs'teki eğitim merkezinde 5 milyon dolardan fazla varlığın İsrail baskını sonrası risk altında olduğunu bildirdi",
-        "summary": "Birleşmiş Milletler Filistinli Mültecilere Yardım ve Bayındırlık Ajansı (UNRWA), Kudüs yakınlarındaki bir eğitim merkezinde bulunan 5 milyon doların üzerindeki varlığın, İsrail güçlerinin düzenlediği baskının ardından risk altında olduğunu duyurdu. Ajans yetkilileri, İsrail güçlerinin Kalandiya Eğitim Merkezi'ni boşalttıktan sonra tesiste hasar ve yağma izleri bıraktığını bildirdi. Bu durum, UNRWA'nın bölgedeki operasyonlarını ve Filistinli mültecilere sağladığı hizmetleri olumsuz etkileme potansiyeli taşıyor. Olay, İsrail-Filistin arasındaki gerilimin devam ettiğini ve uluslararası kuruluşların faaliyetlerinin de bu durumdan etkilendiğini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7973407/pexels-photo-7973407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-29T14:17:20.903Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/unrwa-says-over-5m-in-assets-at-jerusalem-training-center-at-risk-after-israeli-raid/4040980",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1787993183865plt4p",
-        "title": "İran Savaşı'nın Altıncı Ayında Yeni Bir Körfez Güvenlik Mimarisi Ortaya Çıkıyor",
-        "summary": "İran Savaşı'nın altıncı ayına girilirken, Basra Körfezi bölgesinde yeni bir güvenlik mimarisi şekillenmeye başladı. Körfez ülkeleri, ABD'nin bölgedeki güvenlik rolünü tamamlayıcı nitelikte, ancak onun yerini almayan, birbiriyle örtüşen ortaklıklar kuruyor. Bu yeni yapılar, bölgesel istikrarı güçlendirmeyi ve mevcut tehditlere karşı daha dirençli bir duruş sergilemeyi hedefliyor. Gelişen bu ortaklıklar, bölgedeki güç dengelerini ve ittifak dinamiklerini yeniden şekillendiriyor. Bu durum, Orta Doğu'daki güvenlik stratejilerinde önemli bir değişime işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11783119/pexels-photo-11783119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-29T08:46:23.865Z",
-        "location": {
-            "lat": 27,
-            "lng": 51,
-            "name": "Basra Körfezi, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
