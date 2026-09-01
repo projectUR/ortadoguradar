@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788301655475t2znd",
+        "title": "ABD, G20 Ülkelerini Ticaret Dengesizliklerini Azaltmaya ve Çin'e Odaklanmaya Çağırdı",
+        "summary": "ABD Hazine Bakanı Bessent, G20 üyesi diğer ülkeleri, ekonomilerini Çin ithalatının olumsuz etkilerinden korumak amacıyla daha fazla önlem almaya çağırdı. Bu çağrı, küresel ticaret dengesizliklerinin azaltılması ve Çin'in ekonomik uygulamalarının uluslararası piyasalar üzerindeki etkilerinin ele alınması gerektiğini vurgulamaktadır. G20 platformu, bu tür makroekonomik politikaların tartışıldığı ve koordine edildiği kritik bir forum olarak öne çıkmaktadır. ABD'nin bu talebi, özellikle Çin ile büyük ticaret fazlası veren ülkeler üzerinde baskı oluşturarak küresel ticaret politikalarında potansiyel bir değişime işaret edebilir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/7947742/pexels-photo-7947742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-01T22:27:35.475Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Küresel"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788301678033a4ubp",
+        "title": "ABD Enerji Bakanı Venezuela'ya Petrol Anlaşması İçin Gidiyor",
+        "summary": "ABD Enerji Bakanı'nın, Venezuela ile bir petrol anlaşmasını açıklamak üzere bu ülkeye seyahat edeceği bildirildi. Venezuela Ulusal Meclisi, kamuoyuna henüz detayları açıklanmayan 65 milyar varillik petrol anlaşmasına destek vermek için oy kullandı. Bu anlaşmanın, küresel enerji piyasaları ve petrol fiyatları üzerinde potansiyel etkileri olabileceği belirtiliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/19572633/pexels-photo-19572633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-01T22:27:58.033Z",
+        "location": {
+            "lat": 10.4806,
+            "lng": -66.9036,
+            "name": "Caracas, Venezuela"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788292016805qd5hq",
         "title": "BM gıda ajansı, fon krizi nedeniyle Batı Şeria'daki yardımları kesti",
         "summary": "Birleşmiş Milletler'e bağlı gıda ajansı, Batı Şeria'da sağladığı yardımları azaltma kararı aldı. Bu karar, ajansın küresel çapta yaşadığı fon sıkıntısı nedeniyle alındı. Batı Şeria'daki ihtiyaç sahiplerine yönelik gıda yardımlarının kesilmesi, bölgedeki insani durumu olumsuz etkileyebilir. Ajans, fon krizinin devam etmesi halinde daha fazla kesintinin yaşanabileceği uyarısında bulundu.",
@@ -764,38 +796,6 @@
             "name": "Kahire, Mısır"
         },
         "source": "https://www.aljazeera.com/news/2026/8/30/banque-misr-egypts-second-largest-hit-by-us-sanctions-what-to-know?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17880982068697m7jz",
-        "title": "Libya'nın 4+4 Küçük Diyalog Komitesi, seçim komisyonunu yeniden yapılandırma taslak nihai anlaşmasını imzaladı",
-        "summary": "Libya'daki siyasi sürece ilişkin önemli bir gelişme yaşandı. Ülkenin 4+4 Küçük Diyalog Komitesi, seçim komisyonunun yeniden yapılandırılmasına yönelik taslak nihai anlaşmayı imzaladı. İmza töreni, Birleşmiş Milletler Libya Destek Misyonu (UNSMIL) genel merkezinde düzenlenen resmi bir törenle gerçekleşti. Bu anlaşma, Libya'da uzun süredir devam eden siyasi çıkmazın aşılması ve seçimlerin düzenlenmesi yolunda atılmış önemli bir adım olarak değerlendiriliyor. Söz konusu adımın, ülkedeki siyasi istikrarın sağlanmasına katkıda bulunması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8190804/pexels-photo-8190804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-30T13:56:46.869Z",
-        "location": {
-            "lat": 32.8879,
-            "lng": 13.5828,
-            "name": "Trablus, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/libyas-4-4-small-dialogue-committee-signs-draft-final-deal-to-restructure-election-commission/4041548",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1788098230172l4og1",
-        "title": "İsrail Ulusal Güvenlik Bakanı Filistinli Mahkumların Ağır Koşullarından 'Memnun'",
-        "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Filistinli mahkumların cezaevi koşullarından duyduğu memnuniyeti dile getirdi. Bakan Ben-Gvir, Filistinli kadın mahkumların hücrelerinden birinde çekilmiş bir videoyu kamuoyuyla paylaştı. Görüntülerde, Ben-Gvir'in mahkumlarla alay ettiği anlar yer aldı. Bu durum, Filistinli mahkumların insan hakları savunucuları ve uluslararası kuruluşlar tarafından eleştirilen koşullarına dikkat çekti. Olay, İsrail-Filistin gerilimini daha da artırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10475168/pexels-photo-10475168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-30T13:57:10.172Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israels-national-security-minister-pleased-with-harsh-conditions-of-palestinian-prisoners/4041535",
         "trendScore": 85,
         "isBreaking": false
     }
