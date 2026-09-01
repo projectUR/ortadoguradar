@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788292016805qd5hq",
+        "title": "BM gıda ajansı, fon krizi nedeniyle Batı Şeria'daki yardımları kesti",
+        "summary": "Birleşmiş Milletler'e bağlı gıda ajansı, Batı Şeria'da sağladığı yardımları azaltma kararı aldı. Bu karar, ajansın küresel çapta yaşadığı fon sıkıntısı nedeniyle alındı. Batı Şeria'daki ihtiyaç sahiplerine yönelik gıda yardımlarının kesilmesi, bölgedeki insani durumu olumsuz etkileyebilir. Ajans, fon krizinin devam etmesi halinde daha fazla kesintinin yaşanabileceği uyarısında bulundu.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6646865/pexels-photo-6646865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-01T19:46:56.805Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1788281442562xk1dv",
         "title": "Birleşik Krallık Dışişleri Bakanı, işgal altındaki Batı Şeria'daki İsrail yerleşimlerini kınadı",
         "summary": "Birleşik Krallık Dışişleri Bakanı, işgal altındaki Batı Şeria'da İsrail tarafından inşa edilen yerleşim birimlerini kınadığını açıkladı. Bakanlık tarafından yapılan açıklamada, bu yerleşimlerin uluslararası hukuka aykırı olduğu ve iki devletli çözüm çabalarını baltaladığı vurgulandı. Birleşik Krallık'ın uzun süredir devam eden politikası gereği, Batı Şeria'daki yerleşimlerin yasa dışı olduğu ve barış sürecine engel teşkil ettiği belirtildi. Bu kınama, bölgedeki gerilimin artması ve uluslararası toplumun İsrail-Filistin sorununa yönelik endişelerinin devam ettiği bir dönemde geldi.",
@@ -780,22 +796,6 @@
             "name": "İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israels-national-security-minister-pleased-with-harsh-conditions-of-palestinian-prisoners/4041535",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17880982533352o1ml",
-        "title": "Mekke Ortak Savunma Paktı Kapsamındaki İlk Komite Toplantısı İstanbul'da Yapılacak",
-        "summary": "Türkiye, Pakistan ve Suudi Arabistan'dan üst düzey yetkililer, Mekke ortak savunma paktı kapsamında ilk komite toplantısı için İstanbul'da bir araya gelecek. Toplantıda uluslararası güvenlik, savunma kapasitesi, birlikte çalışabilirlik, savunma sanayii işbirliği ve terörle mücadele konuları ele alınacak. Bu buluşma, üç ülke arasındaki savunma ve güvenlik alanındaki işbirliğini güçlendirmeyi hedefliyor. Paktın ilk komite toplantısı olması nedeniyle önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10842993/pexels-photo-10842993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-30T13:57:33.335Z",
-        "location": {
-            "lat": 41.0082,
-            "lng": 28.9784,
-            "name": "İstanbul, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/first-committee-meeting-under-mecca-joint-defense-pact-to-be-held-in-istanbul/4041506",
         "trendScore": 85,
         "isBreaking": false
     }
