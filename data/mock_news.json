@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788370977971nzih6",
+        "title": "Brezilyalı Aktivist, Tunus'tan Sumud Filosu Organizatörlerini Serbest Bırakmasını Talep Etti",
+        "summary": "Brezilyalı bir aktivist, Tunus makamlarından Sumud Filosu'nun organizatörlerini serbest bırakmasını talep etti. Aktivistler, Gazze ablukasını kırmayı amaçlayan filonun dört organizatörünün Mart ayından bu yana Tunus'ta gözaltında tutulduğunu belirtiyor. Bu talep, Gazze'ye yönelik insani yardım çabaları ve aktivistlerin hakları konusundaki endişeleri yeniden gündeme getirdi. Olay, Orta Doğu'daki insani durum ve aktivistlerin karşılaştığı zorluklara dikkat çekiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/37192949/pexels-photo-37192949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-02T17:42:57.971Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1788356907804k1ba6",
         "title": "Rusya ile Ermenistan Arasındaki Gerilim ve Ermenistan'ın Batı'ya Yönelişi",
         "summary": "Rusya ile Ermenistan arasındaki ilişkiler, Erivan'ın Batı'ya doğru yönelmesiyle tarihi düşük seviyelere ulaştı. Bu durum, Rusya Devlet Başkanı Putin ile Ermenistan Başbakanı arasında gerilime neden oluyor. Ermenistan'ın Avrasya ekseninden uzaklaşarak Avrupa Birliği'ne yakınlaşma çabaları, bölgesel dinamikleri etkiliyor. İki ülke arasındaki bu diplomatik anlaşmazlık, Güney Kafkasya'daki güç dengelerini yeniden şekillendirme potansiyeli taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-strikes-kill-at-least-five-palestinians-in-gaza-city?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1788193155776x0pbx",
-        "title": "Trump: İran 'Öldü', Çatışmalar Sonrası Yanıt Vereceğiz",
-        "summary": "ABD Başkanı Donald Trump, İran'ı \"ölü\" olarak nitelendirerek ülkedeki yenilenen çatışmaların ardından yanıt vereceklerini açıkladı. Trump, İran'a misilleme yapma sözü verirken, İran liderlerini protestocuları öldürmekten yargılanmaya çağırdı. Bu açıklamalar, ABD ile İran arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor. Washington'ın Tahran'a yönelik bu sert tutumu, Orta Doğu'daki siyasi ve güvenlik dengelerini etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11960989/pexels-photo-11960989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-31T16:19:15.776Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": false
     }
 ]
