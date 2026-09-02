@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788325131804ux1jj",
+        "title": "İsrail, İngiltere'nin Yaptırım Uygulaması Halinde Misilleme Yapacağı Uyarısında Bulundu",
+        "summary": "İsrail, İngiltere'nin kendisine yaptırım uygulaması durumunda misilleme yapacağını açıkladı. Bu uyarı, İngiltere Dışişleri Bakanı Ed Miliband'ın Salı günü İsrail politikalarında \"kapsamlı bir sıfırlama\" taahhüdünde bulunmasının ardından geldi. Miliband'ın açıklaması, İngiltere'nin İsrail'e yönelik dış politikasında önemli bir değişiklik sinyali veriyor. Bu durum, iki ülke arasındaki ilişkilerde yeni bir dönemin başlangıcı olabileceği yorumlarına yol açtı ve potansiyel diplomatik gerilimi gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-02T04:58:51.804Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788308815768n1unx",
         "title": "ABD'nin İran'ı Bombalaması Sonrası Tahran'dan Körfez Ülkeleri ve Ürdün'e Misilleme",
         "summary": "ABD'nin İran'a yönelik yeni bir saldırı dalgası başlatmasının ardından, Tahran'dan misilleme açıklamaları geldi. İran'ın, Washington'a karşı 'şiddetli ceza' ve misilleme sözü verdiği belirtildi. Haberlere göre, Tahran bu saldırılara karşılık olarak Körfez ülkeleri ve Ürdün'e yönelik eylemlerde bulundu. Bu gelişmeler, Orta Doğu'daki gerilimi tırmandırıyor ve uluslararası kamuoyunda endişelere yol açıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
         "trendScore": 92,
         "isBreaking": true
-    },
-    {
-        "id": "17881234413297ownj",
-        "title": "José Andrés, WCK Gazze çalışanlarının öldürülmesiyle ilgili soruşturma çağrısını yineledi",
-        "summary": "World Central Kitchen (WCK) kurucusu José Andrés, İsrail saldırılarında Gazze'deki WCK çalışanlarının hayatını kaybetmesiyle ilgili bağımsız bir soruşturma yapılması çağrısını yineledi. Andrés, uluslararası toplumdan bu olayın şeffaf bir şekilde araştırılmasını talep ediyor. Olay, Nisan ayında Gazze'de insani yardım taşıyan bir konvoyun hedef alınması sonucu yedi WCK çalışanının ölümüyle sonuçlanmıştı. İsrail ordusu, olayın ardından bir soruşturma başlatmış ve bazı subayları görevden almıştı, ancak Andrés daha kapsamlı bir inceleme gerektiğini savunuyor. Bu çağrı, uluslararası kuruluşların ve hükümetlerin Gazze'deki insani yardım çalışanlarının güvenliğine ilişkin endişelerini artırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6646902/pexels-photo-6646902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-08-30T20:57:21.329Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
