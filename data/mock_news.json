@@ -1,5 +1,117 @@
 [
     {
+        "id": "17884514291234ly9g",
+        "title": "Hürmüz Boğazı'ndan Geçen Petrol Miktarı ve ABD İddiaları Tartışması",
+        "summary": "Hürmüz Boğazı'ndan geçen petrol miktarı ve ABD'nin bu konudaki iddiaları gündemde yer alıyor. Eski ABD Başkanı Donald Trump, ABD'nin her gün yaklaşık 30 geminin boğazdan geçişine yardımcı olduğunu belirtmişti. Ancak gemi takip verileri, bu sayının Trump'ın iddia ettiğinden daha az olduğunu ortaya koyuyor. Küresel petrol tedarikinin önemli bir kısmının geçtiği bu stratejik su yolu, uluslararası enerji güvenliği açısından kritik öneme sahip. Bu durum, resmi açıklamalar ile gözlemlenen veriler arasındaki tutarsızlığı gözler önüne seriyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/4061116/pexels-photo-4061116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T16:03:49.123Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1788451453638o2pzl",
+        "title": "Panama Kanalı, Hürmüz Krizi Ortasında Trafiği Kısıtlıyor: Neden Önemli?",
+        "summary": "Panama Kanalı'nda gemi geçişlerine getirilen kısıtlamalar, Hürmüz Boğazı'ndaki mevcut krizin küresel denizcilik üzerindeki potansiyel etkilerini artırıyor. Kanalda gemi sayısının sınırlandırılması, dünya genelinde nakliye gecikmelerine ve navlun maliyetlerinde artışa yol açabilir. Bu durum, Orta Doğu'dan enerji ve diğer ürünlerin taşınmasında kullanılan rotalar üzerindeki baskıyı artırarak küresel tedarik zincirlerini etkileyebilir. Uzmanlar, bu kısıtlamaların uluslararası ticaret ve enerji piyasaları üzerinde geniş çaplı sonuçlar doğurabileceği uyarısında bulunuyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8039327/pexels-photo-8039327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T16:04:13.638Z",
+        "location": {
+            "lat": 8.98,
+            "lng": -79.52,
+            "name": "Panama City, Panama"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/3/panama-canal-restricts-traffic-amid-hormuz-crisis-why-this-matters?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1788451481776gl7yi",
+        "title": "Kudüs Günlük: Öğrenciler 'Filistin'i Silin' Şarkısı Söyledi",
+        "summary": "İşgal altındaki Batı Şeria'da meydana gelen olaylarda iki Filistinli genç hayatını kaybetti. Bölgedeki bir köyün İsrailli yerleşimciler ve keskin nişancılar tarafından kuşatıldığı bildirildi. Bu gelişmeler, İsrail-Filistin çatışmasının bölgedeki gerilimini bir kez daha artırdı. Yaşanan şiddet olayları, bölgedeki hassas durumu gözler önüne serdi ve uluslararası toplumun dikkatini çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T16:04:41.776Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.23,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/3/jerusalem-daily-students-sing-erase?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17884515101107bcth",
+        "title": "Tel Aviv'den İran'a: Saldırı Halinde Enerji Tesisleri Vurulacak",
+        "summary": "İsrail Savunma Bakanı, İran'ın İsrail'e yönelik olası bir saldırısına karşı sert bir uyarıda bulundu. Bakan, İran'ın İsrail'e saldırması durumunda Tel Aviv'in İran'ın enerji tesislerini hedef alacağını belirtti. Savunma Bakanı Katz, bu tür bir saldırıya karşılık olarak İran'ı 'taş devrine ve karanlığa' geri döndürme tehdidinde bulundu. Bu açıklama, iki ülke arasındaki gerilimin tırmandığı bir dönemde geldi ve bölgedeki tansiyonu artırdı. İsrail'in bu tehdidi, Orta Doğu'daki güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38482447/pexels-photo-38482447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T16:05:10.110Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/tel-aviv-threatens-iran-with-strikes-on-energy-facilities-if-it-attacks-israel/4046618",
+        "trendScore": 95,
+        "isBreaking": true
+    },
+    {
+        "id": "1788451532486mdo5e",
+        "title": "Çin, ABD'ye İran'la İlgili Yaptırımları Kaldırma Çağrısı Yaptı",
+        "summary": "Çin Ticaret Bakanlığı, ABD'ye Çinli şirketlere yönelik İran'la ilgili yaptırımları kaldırması çağrısında bulundu. Bakanlık, uluslararası hukuka dayanmayan veya Birleşmiş Milletler Güvenlik Konseyi'nden yetki almayan tek taraflı yaptırımlara karşı olduklarını belirtti. Bu çağrı, Pekin'in Washington'ın İran'a uyguladığı baskıya karşı duruşunu yansıtırken, Çinli firmaların bu yaptırımlardan etkilenmesini engellemeyi hedefliyor. Gelişme, ABD-Çin ilişkilerindeki gerilimi ve İran nükleer anlaşması etrafındaki uluslararası tartışmaları bir kez daha gündeme getirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/34358895/pexels-photo-34358895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T16:05:32.486Z",
+        "location": {
+            "lat": 32.4279,
+            "lng": 53.688,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/beijing-urges-us-to-lift-iran-related-sanctions-on-chinese-companies/4046575",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17884515559559arzv",
+        "title": "İsrail Ordusu İşgal Altındaki Golan Tepeleri'nde Tatbikat Düzenledi",
+        "summary": "İsrail ordusu, işgal altında tuttuğu Golan Tepeleri'nde geniş çaplı bir askeri tatbikat gerçekleştirdi. Ordu kaynaklarından yapılan açıklamaya göre, tatbikat kapsamında 7 Ekim olayları da dahil olmak üzere onlarca farklı senaryo simüle edildi. Bu tatbikatın, bölgedeki güvenlik tehditlerine karşı operasyonel hazırlığı artırmayı hedeflediği belirtildi. Tatbikatın, özellikle kuzey sınırındaki potansiyel çatışma durumlarına karşı bir hazırlık niteliği taşıdığı ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7993115/pexels-photo-7993115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T16:05:55.955Z",
+        "location": {
+            "lat": 33,
+            "lng": 35.7,
+            "name": "Golan Tepeleri, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-conducts-drill-in-occupied-golan-heights/4046548",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788451590979uxxtd",
+        "title": "Yemen Ordusu, Taiz Vilayetinde Karşı Saldırıda 18 Husi Militanını Öldürdü",
+        "summary": "Yemen ordusu, ülkenin batısındaki Taiz vilayetinde Husilere yönelik bir karşı saldırı başlattı. Çatışmalarda 18 Husi militanının öldürüldüğü bildirildi. Devlet televizyonu, söz konusu çatışmalar sırasında ele geçirildiği iddia edilen esirlerin görüntülerini yayınladı. Bölgedeki gerilimin devam ettiği ve taraflar arasındaki mücadelenin sürdüğü belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163490/war-desert-guns-gunshow-163490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T16:06:30.979Z",
+        "location": {
+            "lat": 13.57,
+            "lng": 44.02,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-launches-counterattack-killing-18-houthi-militants-in-western-taiz-province/4046520",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17884352282375qubb",
         "title": "Kırgızistan, küresel jeopolitik değişimlerin ortasında kritik ŞİÖ zirvesine ev sahipliği yapıyor",
         "summary": "Kırgızistan, küresel jeopolitik değişimlerin yaşandığı bir dönemde kritik bir Şanghay İşbirliği Örgütü (ŞİÖ) zirvesine ev sahipliği yapmaktadır. Bu zirve, Orta Asya ülkesinin küresel güçlerle ilişkilerini dengeleme çabalarını yansıtmaktadır. Kırgızistan, coğrafi konumunu ekonomik ve siyasi fırsatlar elde etmek için stratejik olarak kullanmaktadır. ŞİÖ'nün genişleyen yapısı ve İran gibi Orta Doğu ülkelerinin tam üye olması, zirvenin bölgesel ve küresel etkisini artırmaktadır. Bu durum, Orta Doğu'daki güç dengeleri ve uluslararası ilişkiler açısından da önem taşımaktadır.",
@@ -685,118 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1788281442562xk1dv",
-        "title": "Birleşik Krallık Dışişleri Bakanı, işgal altındaki Batı Şeria'daki İsrail yerleşimlerini kınadı",
-        "summary": "Birleşik Krallık Dışişleri Bakanı, işgal altındaki Batı Şeria'da İsrail tarafından inşa edilen yerleşim birimlerini kınadığını açıkladı. Bakanlık tarafından yapılan açıklamada, bu yerleşimlerin uluslararası hukuka aykırı olduğu ve iki devletli çözüm çabalarını baltaladığı vurgulandı. Birleşik Krallık'ın uzun süredir devam eden politikası gereği, Batı Şeria'daki yerleşimlerin yasa dışı olduğu ve barış sürecine engel teşkil ettiği belirtildi. Bu kınama, bölgedeki gerilimin artması ve uluslararası toplumun İsrail-Filistin sorununa yönelik endişelerinin devam ettiği bir dönemde geldi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/34780003/pexels-photo-34780003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T16:50:42.562Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17882814852525d5ma",
-        "title": "İran ve Rusya, ABD'nin 'tek taraflılığına' karşı durma sözü verdi",
-        "summary": "İran Cumhurbaşkanı Pezeşkiyan, Rusya'nın desteği için Rusya Devlet Başkanı Putin'e teşekkür ederek, ABD'nin 'tek taraflılığına' karşı durma sözü verdi. Bu açıklama, iki ülke arasındaki stratejik iş birliğinin derinleştiğini ve ABD'nin küresel politikalarına karşı ortak bir cephe oluşturma niyetini gösteriyor. İran ve Rusya'nın bu duruşu, özellikle Orta Doğu'daki güç dengeleri ve uluslararası ilişkiler üzerinde önemli etkiler yaratabilir. Bu diplomatik yakınlaşma, bölgesel ve küresel jeopolitik dinamikleri etkileme potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433847/pexels-photo-7433847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T16:51:25.252Z",
-        "location": {
-            "lat": 35,
-            "lng": 51,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iran-and-russia-vow-to-stand-against-us?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788281527422lunve",
-        "title": "Gazze'ye yönelik İsrail saldırılarında 5 Filistinli daha hayatını kaybetti, 23'ten fazla kişi yaralandı",
-        "summary": "Gazze Şeridi'ne yönelik devam eden İsrail saldırılarında beş Filistinlinin daha hayatını kaybettiği, 23'ten fazla kişinin ise yaralandığı bildirildi. Bu son olaylarla birlikte, 10 Ekim 2025 tarihinden bu yana İsrail güçleri tarafından öldürülen Filistinlilerin sayısının 1.326'ya, yaralı sayısının ise 4.398'e ulaştığı belirtildi. Saldırıların, ilan edilen ateşkese rağmen devam ettiği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T16:52:07.422Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/5-more-palestinians-killed-over-23-wounded-in-continuing-israeli-attacks-on-gaza/4044284",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17882815542922gupj",
-        "title": "Eski Yahudi Milletvekili Arap Listesine Katıldı, Tepkilere Yol Açtı",
-        "summary": "Eski Yahudi milletvekili Yoav Segalovich, 27 Ekim'de yapılacak İsrail seçimlerinde Mansour Abbas liderliğindeki Birleşik Arap Listesi'nden aday olacağını duyurdu. Bu karar, İsrail muhalefeti tarafından olumlu karşılanırken, Başbakan Netanyahu bloğundan kınama geldi. Segalovich'in bu hamlesi, İsrail siyasetinde önemli bir gelişme olarak değerlendiriliyor ve ülkedeki Yahudi-Arap siyasi işbirliği potansiyelini gündeme getiriyor. Bu durum, İsrail'deki siyasi dengeler ve toplumsal ilişkiler açısından dikkat çekici bir adım olarak yorumlanıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5926416/pexels-photo-5926416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T16:52:34.292Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/former-jewish-lawmaker-joins-arab-list-drawing-opposition-praise-and-netanyahu-bloc-condemnation/4044267",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17882815792344vx11",
-        "title": "Netanyahu'nun Oğlu, Falkland Adaları Yorumlarıyla İngiltere'de Tepki Çekti",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun oğlu Yair Netanyahu'nun, Arjantin'in Falkland Adaları üzerindeki hak iddialarını destekleyen yorumları İngiltere'de geniş çaplı tepkilere yol açtı. Haaretz gazetesinin haberine göre, bu açıklamalar üzerine İsrail hükümetinin Güney Atlantik'teki tartışmalı adalar konusundaki resmi tutumunu netleştirmesi yönünde çağrılar yükseldi. Olay, bir İsrailli liderin ailesinden gelen bir açıklamanın uluslararası diplomatik arenada nasıl yankı bulabileceğini gösterirken, İsrail'in dış politikası üzerinde dolaylı bir baskı oluşturma potansiyeli taşıyor. Bu durum, İsrail'in uluslararası ilişkilerdeki hassas dengelerini bir kez daha gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T16:52:59.234Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahus-son-sparks-british-backlash-after-backing-argentinas-falklands-claim-report/4044249",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788281615536z17k2",
-        "title": "Sudan, Mavi Nil eyaletine askeri takviye gönderdi; Güney Kordofan'da yüzlerce kişi yerinden edildi",
-        "summary": "Sudan'ın Mavi Nil eyaletine askeri takviyeler gönderildiği bildirildi. Bu gelişme, Güney Kordofan eyaletinde yüzlerce kişinin yerinden edilmesiyle eş zamanlı yaşanıyor. Birleşmiş Milletler göç ajansı, Güney Kordofan'daki beş köyden 730 kişinin kötüleşen güvenlik koşulları nedeniyle yerinden edildiğini açıkladı. Bölgedeki güvenlik durumunun kötüleşmesi, insani krizi derinleştiriyor ve yerel halk üzerinde ciddi etkiler yaratıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T16:53:35.536Z",
-        "location": {
-            "lat": 11,
-            "lng": 29.7,
-            "name": "Güney Kordofan, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sudan-sends-military-reinforcements-to-blue-nile-state-as-hundreds-displaced-in-south-kordofan/4043977",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1788265556688gvg09",
-        "title": "Şam'ın Tarihi Bölgesi 24 Saatliğine Araç Trafiğine Kapatıldı",
-        "summary": "Suriye'nin başkenti Şam'ın tarihi kent merkezi, 24 saat boyunca araç trafiğine kapatıldı. Bu uygulama, kent sakinlerine nadir bir fırsat sunarak, tarihi sokaklarda araçsız bir ortamda yürüme imkanı sağladı. Girişim, bölge halkının günlük yaşam kalitesini artırmayı ve kültürel miras alanlarında daha sakin bir deneyim sunmayı hedefledi. Uygulama, şehirde yaşayanlara farklı bir deneyim yaşattı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/21927304/pexels-photo-21927304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T12:25:56.688Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.3,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/1/damascus-goes-car-free-for-24-hours?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
