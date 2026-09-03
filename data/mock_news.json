@@ -1,5 +1,21 @@
 [
     {
+        "id": "17884724227912dd56",
+        "title": "İsrail Topçusu Suriye'nin Batı Şam Kırsalını Hedef Aldı",
+        "summary": "Suriye devlet medyası tarafından aktarılan bilgilere göre, İsrail topçusu Suriye'nin başkenti Şam'ın batı kırsalındaki bölgeleri hedef aldı. Saldırıda, Beyt Cinn yakınlarındaki Bat el-Varda tepesi çevresindeki alanlara dört top mermisi isabet etti. İlk belirlemelere göre, bu saldırıda herhangi bir can kaybı veya maddi hasar meydana gelmediği bildirildi. İsrail'in Suriye topraklarına yönelik bu tür askeri eylemleri, bölgedeki gerilimi artıran olaylar arasında yer almaktadır. Suriye yönetimi, İsrail'i sık sık egemenliğini ihlal etmekle suçlamaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32018771/pexels-photo-32018771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-03T21:53:42.791Z",
+        "location": {
+            "lat": 33.28,
+            "lng": 35.84,
+            "name": "Beyt Cinn, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-artillery-targets-syria-s-western-damascus-countryside/4046875",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1788463350606zcqrp",
         "title": "BM destekli soruşturma: Sudan'daki savaşı yabancı savaşçılar ve dış destek körüklüyor",
         "summary": "Birleşmiş Milletler destekli bir soruşturma, Sudan'da devam eden iç savaşın yabancı savaşçılar ve dış destek tarafından körüklendiğini ortaya koydu. Rapora göre, çatışan taraflara sağlanan bu destek, onların askeri kapasitelerini önemli ölçüde güçlendiriyor. Bu durum, savaşın şiddetini artırarak ülkedeki insani krizin daha da derinleşmesine yol açıyor. Soruşturma, dış müdahalelerin Sudan'daki çatışmayı daha karmaşık hale getirdiği ve çözüm çabalarını engellediği konusunda uyarıyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin/İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-violence-in-west-bank-makes-world-see-us-as-thugs-criminals-police-chief/4044638",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788301655475t2znd",
-        "title": "ABD, G20 Ülkelerini Ticaret Dengesizliklerini Azaltmaya ve Çin'e Odaklanmaya Çağırdı",
-        "summary": "ABD Hazine Bakanı Bessent, G20 üyesi diğer ülkeleri, ekonomilerini Çin ithalatının olumsuz etkilerinden korumak amacıyla daha fazla önlem almaya çağırdı. Bu çağrı, küresel ticaret dengesizliklerinin azaltılması ve Çin'in ekonomik uygulamalarının uluslararası piyasalar üzerindeki etkilerinin ele alınması gerektiğini vurgulamaktadır. G20 platformu, bu tür makroekonomik politikaların tartışıldığı ve koordine edildiği kritik bir forum olarak öne çıkmaktadır. ABD'nin bu talebi, özellikle Çin ile büyük ticaret fazlası veren ülkeler üzerinde baskı oluşturarak küresel ticaret politikalarında potansiyel bir değişime işaret edebilir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/7947742/pexels-photo-7947742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-01T22:27:35.475Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Küresel"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
