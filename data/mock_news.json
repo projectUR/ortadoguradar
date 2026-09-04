@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788565712619n15ev",
+        "title": "Tunus'ta Hükümet Eleştirmenlerine Yönelik Baskı Ortamında Gazeteci Tutuklandı",
+        "summary": "Tunus, Cumhurbaşkanı Kays Said yönetimi altında gazetecilere yönelik kovuşturmaların devam etmesi nedeniyle uluslararası alanda eleştirilerle karşı karşıya. Son olarak, hükümet eleştirmenlerine yönelik artan baskıların bir parçası olarak bir gazetecinin tutuklandığı bildirildi. Bu durum, Tunus'taki basın özgürlüğü ve insan hakları durumuyla ilgili endişeleri derinleştiriyor. Uluslararası kuruluşlar, Tunus hükümetini gazetecilere yönelik uygulamalarını gözden geçirmeye çağırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36946519/pexels-photo-36946519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-04T23:48:32.619Z",
+        "location": {
+            "lat": 36.8065,
+            "lng": 10.1815,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1788565750431xkzxo",
+        "title": "İsrail Polisi Kudüs'te Filistinliyi Öldürdü, Ordu Qusra'ya Yardımı Engelledi",
+        "summary": "İsrail polisi, Kudüs'te bir Filistinliyi öldürdü. Aynı zamanda, İsrail ordusu Batı Şeria'daki Qusra köyüne insani yardım ulaştırılmasını engelledi. İsrail güçleri, İsrailli ve Filistinli aktivistlerin yerleşimciler tarafından kuşatılan evlere gıda ve ilaç götürmesine izin vermedi. Bu gelişmeler, bölgedeki gerilimin ve insani erişim sorunlarının devam ettiğini gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35651041/pexels-photo-35651041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-04T23:49:10.431Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, Filistin/İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17885498585690mslx",
         "title": "Beş AB Ülkesi Göçmen 'Geri Dönüş Merkezleri' Anlaşmasına Yaklaşıyor",
         "summary": "Almanya, Avusturya, Yunanistan, Danimarka ve Hollanda'nın, 2027 yılına kadar göçmen 'geri dönüş merkezleri' kurulmasına yönelik bir anlaşmaya varmak üzere olduğu bildirildi. Bu merkezlerin, Avrupa Birliği'ne ulaşan ancak sığınma hakkı kazanamayan veya kabul edilemez bulunan göçmenlerin menşe ülkelerine veya transit ülkelere geri gönderilme süreçlerini kolaylaştırması hedefleniyor. Söz konusu beş ülke, merkezlerin tam olarak nerede konumlandırılacağına dair henüz bir açıklama yapmadı. Bu girişim, Avrupa'nın göç yönetimi politikalarında önemli bir adım olarak değerlendirilirken, Orta Doğu'dan gelen veya bu bölge üzerinden geçen göçmenleri de dolaylı olarak etkileyecek potansiyele sahip.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-by-israeli-forces-occupiers-during-raid-on-west-bank-village/4045807",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1788381864118cr0mj",
-        "title": "Trump'tan Hürmüz Boğazı'nın Adını Değiştirme Önerisi: \"Trump Boğazı\"",
-        "summary": "ABD Başkanı Donald Trump, İran ile devam eden çatışmalar ve gemilere yönelik neredeyse günlük saldırılar ortamında, stratejik Hürmüz Boğazı'nın adının \"Trump Boğazı\" olarak değiştirilmesini önerdi. Trump, bu kritik su yolunun \"ABD kontrolünde\" olduğunu iddia etti. Bu açıklama, küresel petrol ticareti için hayati öneme sahip olan ve İran ile ABD arasındaki gerilimin odak noktası haline gelen bölgedeki tansiyonun yüksek olduğu bir döneme denk geldi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28934041/pexels-photo-28934041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-02T20:44:24.118Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788382011721mcmjj",
-        "title": "Türkiye ve Lübnan, petrol ve gaz sektörlerinde işbirliğini genişletmeyi araştırıyor",
-        "summary": "Türkiye ve Lübnan, enerji sektörlerinde işbirliğini artırma potansiyelini değerlendirmek üzere bir araya geldi. İki ülke bakanları, elektrik, petrol ve doğal gaz alanlarında ortak çalışma imkanlarını görüştü. Türkiye, Lübnan'a enerji uzmanlığını paylaşma taahhüdünde bulunarak, bu alandaki deneyimlerini aktarmaya hazır olduğunu belirtti. Bu görüşmelerin, Lübnan'ın enerji ihtiyaçlarının karşılanmasına ve bölgesel enerji işbirliğinin güçlendirilmesine katkı sağlaması bekleniyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/37731391/pexels-photo-37731391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-02T20:46:51.721Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkiye-lebanon-explore-expanded-cooperation-in-oil-gas-sectors/4045734",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
