@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788541084964vlsqj",
+        "title": "Cezayir'de Kuyuya Düşen 10 Yaşındaki Çocuğu Kurtarma Yarışı",
+        "summary": "Cezayir'de 10 yaşındaki Ayoub isimli bir çocuk, düştüğü derin bir kuyuda mahsur kaldı. Kurtarma ekipleri, çocuğu kurtarmak için zamanla yarışıyor. Olay yerine sevk edilen uzman ekipler, Ayoub'a ulaşmak amacıyla yoğun çalışmalar yürütüyor. Kuyunun derinliği ve dar yapısı, kurtarma operasyonunu zorlaştırırken, kamuoyu gelişmeleri yakından takip ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/29906339/pexels-photo-29906339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-04T16:58:04.964Z",
+        "location": {
+            "lat": 28,
+            "lng": 1,
+            "name": "Cezayir"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "17885277853262rzmx",
         "title": "ABD Elçileri Arabuluculuk İçin Rusya ve Ukrayna'ya Gidiyor",
         "summary": "Washington'dan gelen müzakerecilerin Rusya ve Ukrayna'ya yönelmesi, Moskova'nın Ukrayna'ya karşı yürüttüğü savaşı sona erdirecek bir uzlaşmaya doğru ilerleme umutlarını artırdı. ABD'nin bu diplomatik girişimi, çatışmanın çözümüne yönelik uluslararası çabalara yeni bir ivme kazandırmayı hedefliyor. Taraflar arasında yeniden başlatılacak arabuluculuk görüşmeleri, bölgedeki gerilimi azaltma ve kalıcı bir barış anlaşmasına zemin hazırlama potansiyeli taşıyor. Bu gelişme, küresel enerji ve gıda piyasaları üzerindeki baskıyı hafifletme potansiyeli nedeniyle Orta Doğu ülkeleri için de dolaylı öneme sahiptir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1788356907804k1ba6",
-        "title": "Rusya ile Ermenistan Arasındaki Gerilim ve Ermenistan'ın Batı'ya Yönelişi",
-        "summary": "Rusya ile Ermenistan arasındaki ilişkiler, Erivan'ın Batı'ya doğru yönelmesiyle tarihi düşük seviyelere ulaştı. Bu durum, Rusya Devlet Başkanı Putin ile Ermenistan Başbakanı arasında gerilime neden oluyor. Ermenistan'ın Avrasya ekseninden uzaklaşarak Avrupa Birliği'ne yakınlaşma çabaları, bölgesel dinamikleri etkiliyor. İki ülke arasındaki bu diplomatik anlaşmazlık, Güney Kafkasya'daki güç dengelerini yeniden şekillendirme potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-02T13:48:27.804Z",
-        "location": {
-            "lat": 40.18,
-            "lng": 44.51,
-            "name": "Erivan, Ermenistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/2/eu-or-eurasia-why-putin-sparred-with-armenias-pm?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
