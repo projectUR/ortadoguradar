@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788609580997zj3c2",
+        "title": "Rusya'nın Ukrayna'ya Saldırılarında En Az 5 Kişi Hayatını Kaybetti, ABD Elçileri Moskova'yı Ziyaret Ediyor",
+        "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarında en az 5 kişi yaşamını yitirdi. Bu saldırılar devam ederken, ABD elçileri diplomatik temaslarda bulunmak üzere Moskova'yı ziyaret ediyor. Ukrayna silahlı kuvvetlerine, ABD elçilerinin Kiev'e yapacakları ziyaret öncesinde Moskova'daki görüşmeleri sırasında üç günlük ateşkes uygulama emri verildi. Bu diplomatik çabaların, bölgedeki gerilimi azaltmaya yönelik olduğu belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T11:59:40.997Z",
+        "location": {
+            "lat": 50.45,
+            "lng": 30.52,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788609786303qcdou",
+        "title": "Suudi Arabistan Büyükelçiliği, Londra'da bir vatandaşının bıçaklanmasının ardından soruşturma çağrısı yaptı",
+        "summary": "Suudi Arabistan'ın Londra Büyükelçiliği, İngiltere'nin başkenti Londra'nın Mayfair bölgesinde bir Suudi vatandaşının bıçaklanması olayıyla ilgili soruşturma başlatılması çağrısında bulundu. Büyükelçilikten yapılan açıklamada, cuma günü meydana gelen olayla ilgili olarak İngiliz makamlarıyla koordinasyon içinde olunduğu belirtildi. Yaralı vatandaşın sağlık durumunun yakından takip edildiği ifade edildi. Suudi Arabistan diplomatik misyonu, vatandaşlarının güvenliğinin sağlanması konusunda kararlılığını vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T12:03:06.303Z",
+        "location": {
+            "lat": 51.5074,
+            "lng": 0.1278,
+            "name": "Londra, Birleşik Krallık"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-embassy-urges-investigation-after-citizen-stabbed-in-londons-mayfair/4048134",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1788595902165z19y0",
         "title": "Sudan'ın Güney Kordofan Bölgesi'nde isyancı grup saldırısında en az beş kişi hayatını kaybetti",
         "summary": "Sudan'ın Güney Kordofan bölgesinde isyancı bir grubun düzenlediği saldırıda en az beş kişi yaşamını yitirdi. Sudan Doktorlar Ağı'ndan yapılan açıklamaya göre, Sudan Halk Kurtuluş Hareketi-Kuzey (SPLM-N) güçleri Dilling kasabasındaki yerleşim bölgelerini hedef aldı. Saldırıda sivillerin hayatını kaybettiği ve yaralandığı belirtildi. Bölgedeki çatışmaların devam ettiği ve insani durumun kötüleştiği bildiriliyor. Olayla ilgili detaylı soruşturma başlatıldı.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17884353890178n0gq",
-        "title": "İran ordusu, Kuveyt ve BAE'deki ABD üslerine yönelik son saldırıları üstlendi",
-        "summary": "İran ordusu, Kuveyt ve Birleşik Arap Emirlikleri'nde (BAE) bulunan ABD üslerine yönelik son saldırıları üstlendiğini açıkladı. Ordu tarafından yapılan duyuruda, saldırılarda füze ve insansız hava araçlarının kullanıldığı belirtildi. Hedef alınan noktalar arasında iletişim sistemleri, ekipman depoları, savaş uçağı hangarları ve radar sistemlerinin bulunduğu ifade edildi. Bu iddia, Orta Doğu'daki askeri gerilimi artırma potansiyeli taşıyan önemli bir gelişme olarak kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525965/pexels-photo-16525965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:36:29.017Z",
-        "location": {
-            "lat": 29.3759,
-            "lng": 47.9774,
-            "name": "Kuveyt Şehri, Kuveyt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-army-claims-latest-attacks-on-us-bases-in-kuwait-uae/4046206",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788435409360591a4",
-        "title": "Husiler, Yemen'de bir köprüyü balistik füzeyle hedef aldı",
-        "summary": "Yemen'de hükümet yetkilileri, Husilerin ülkenin batısındaki Taiz vilayetinde yer alan Al-Wazi’iyah köprüsünü balistik füzeyle hedef aldığını duyurdu. Yetkililer, saldırının Taiz'in batı bölgelerinde yoğunlaşan çatışmaların ortasında meydana geldiğini belirtti. Bu gelişme, Yemen'deki iç savaşın ve askeri operasyonların devam ettiğini gözler önüne seriyor. Bölgedeki altyapının hedef alınması, insani durumu daha da kötüleştirme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27292151/pexels-photo-27292151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:36:49.360Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/houthis-target-yemen-bridge-with-ballistic-missile-says-government-official/4046162",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
