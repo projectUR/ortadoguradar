@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788620415819dzlf5",
+        "title": "Çok Kutupluluk, Orta Güçlere Daha Fazla Seçenek Ancak Daha Az Garanti Sunuyor",
+        "summary": "Küresel siyasetteki çok kutuplu yapı, orta ölçekli güçlere uluslararası ilişkilerde daha geniş bir hareket alanı sağlamaktadır. Bu yeni düzen, söz konusu ülkelere büyük güçlerin baskısından kurtulma ve farklı ittifaklar kurma imkanı sunmaktadır. BRICS ve Şanghay İşbirliği Örgütü (ŞİÖ) gibi oluşumlar, bu orta güçler için alternatif platformlar olarak öne çıkmaktadır. Ancak, bu yeni yapılar ve örgütler, geleneksel askeri ittifakların sağladığı kolektif savunma garantilerini sunmamaktadır. Bu durum, orta güçlerin güvenliklerini sağlamada yeni stratejiler geliştirmelerini ve potansiyel riskleri göz önünde bulundurmalarını gerektirmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1098526/pexels-photo-1098526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T15:00:15.819Z",
+        "location": {
+            "lat": 30,
+            "lng": 40,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1788609580997zj3c2",
         "title": "Rusya'nın Ukrayna'ya Saldırılarında En Az 5 Kişi Hayatını Kaybetti, ABD Elçileri Moskova'yı Ziyaret Ediyor",
         "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarında en az 5 kişi yaşamını yitirdi. Bu saldırılar devam ederken, ABD elçileri diplomatik temaslarda bulunmak üzere Moskova'yı ziyaret ediyor. Ukrayna silahlı kuvvetlerine, ABD elçilerinin Kiev'e yapacakları ziyaret öncesinde Moskova'daki görüşmeleri sırasında üç günlük ateşkes uygulama emri verildi. Bu diplomatik çabaların, bölgedeki gerilimi azaltmaya yönelik olduğu belirtiliyor.",
@@ -780,22 +796,6 @@
             "name": "Al-Mughayyir, Batı Şeria"
         },
         "source": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788435361921hxyj5",
-        "title": "Suudi Arabistan: İran'ın Tankere Saldırısı İki Filipinli Denizciyi Öldürdü",
-        "summary": "Suudi Arabistan, Hürmüz Boğazı'nda \"Sidr\" adlı bir tankere düzenlenen saldırıda iki Filipinli denizcinin yaşamını yitirdiğini açıkladı. Krallık, Pazartesi günü kimliği belirsiz mermilerle vurulduğu bildirilen tankerin hedef alınmasını şiddetle kınadı. Suudi Arabistan, saldırının İran tarafından gerçekleştirildiğini iddia etti. Bu olay, dünyanın en önemli petrol geçiş noktalarından biri olan Hürmüz Boğazı'nda deniz güvenliğine ilişkin endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19217421/pexels-photo-19217421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:36:01.921Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
