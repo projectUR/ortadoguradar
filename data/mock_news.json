@@ -1,5 +1,21 @@
 [
     {
+        "id": "1788635943870syzj2",
+        "title": "Yunanistan'da Hava Gösterisi Sırasında Savaş Uçağı Düştü: İki Pilot Hayatını Kaybetti",
+        "summary": "Yunanistan'da bir hava gösterisi sırasında F-4 Phantom tipi savaş uçağının düşmesi sonucu iki pilot yaşamını yitirdi. Yunan yetkililerinden yapılan açıklamaya göre, olay ülkenin batısında meydana geldi. Kazanın nedenine ilişkin soruşturma başlatıldığı bildirildi. Düşen uçağın Yunan Hava Kuvvetleri'ne ait olduğu ve rutin bir eğitim uçuşu veya gösteri sırasında kaza geçirdiği belirtildi. Bu olay, Yunanistan'ın askeri envanterindeki eskiyen uçakların güvenliği konusunda endişeleri gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27080761/pexels-photo-27080761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T19:19:03.870Z",
+        "location": {
+            "lat": 37.93,
+            "lng": 21.28,
+            "name": "Andravida, Yunanistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1788628559023g1wuk",
         "title": "Haaland, Coventry Galibiyetiyle Man City'yi Premier Lig'in Zirvesine Taşıdı",
         "summary": "İngiltere Premier Lig'de Manchester City, sahasında Coventry City'yi ağırladı. Norveçli golcü Erling Haaland'ın kaydettiği tek golle maçı 1-0 kazanan Manchester City, bu sonuçla ligde liderlik koltuğuna oturdu. Yeni yükselen Coventry City karşısında alınan galibiyet, kulübün ligdeki üst sıralardaki yerini pekiştirdi. Birleşik Arap Emirlikleri merkezli City Football Group'un sahibi olduğu Manchester City'nin bu başarısı, kulübün sportif hedeflerine ulaşmasında önemli bir adım olarak değerlendirildi.",
@@ -780,22 +796,6 @@
             "name": "Bişkek, Kırgızistan"
         },
         "source": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788435268837234ye",
-        "title": "İsrail Başbakanı'nın Oğlu Yair Netanyahu'dan Falkland Adaları Yorumu İngiliz Sağını Kızdırdı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun oğlu Yair Netanyahu, Birleşik Krallık hükümetini 'ikiyüzlülükle' suçlayarak Arjantin'in İngiliz kontrolündeki Falkland Adaları üzerindeki iddialarını destekledi. Bu açıklamalar, Birleşik Krallık'taki sağ kesimde büyük tepkiye neden oldu. Netanyahu'nun bu yorumları, uluslararası ilişkilerde tartışma yaratırken, İsrail'in diplomatik duruşu üzerinde dolaylı etkiler yaratabileceği belirtiliyor. Olay, bir İsrailli figürün uluslararası bir konuda yaptığı çıkışla gündeme geldi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6899267/pexels-photo-6899267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:34:28.837Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
