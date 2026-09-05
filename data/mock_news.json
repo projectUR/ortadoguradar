@@ -1,5 +1,101 @@
 [
     {
+        "id": "1788595902165z19y0",
+        "title": "Sudan'ın Güney Kordofan Bölgesi'nde isyancı grup saldırısında en az beş kişi hayatını kaybetti",
+        "summary": "Sudan'ın Güney Kordofan bölgesinde isyancı bir grubun düzenlediği saldırıda en az beş kişi yaşamını yitirdi. Sudan Doktorlar Ağı'ndan yapılan açıklamaya göre, Sudan Halk Kurtuluş Hareketi-Kuzey (SPLM-N) güçleri Dilling kasabasındaki yerleşim bölgelerini hedef aldı. Saldırıda sivillerin hayatını kaybettiği ve yaralandığı belirtildi. Bölgedeki çatışmaların devam ettiği ve insani durumun kötüleştiği bildiriliyor. Olayla ilgili detaylı soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/984950/pexels-photo-984950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T08:11:42.165Z",
+        "location": {
+            "lat": 14.09,
+            "lng": 29.66,
+            "name": "Dilling, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "1788595942485tpfvk",
+        "title": "ABD füzesi İran petrol tankerini Harg Adası yakınlarında vurdu: Rapor",
+        "summary": "İran medyası tarafından yayımlanan raporlara göre, ABD'ye ait bir füze İran'a ait bir petrol tankerini Harg Adası yakınlarında hedef aldı. Basında yer alan bilgilere göre, vurulan geminin küçük bir tanker olduğu belirtildi. Saldırıda herhangi bir can kaybı yaşanmadığı bildirilirken, olayın detayları hakkında henüz resmi bir açıklama yapılmadı. Bu gelişme, Basra Körfezi'ndeki deniz güvenliği ve bölgedeki gerilim potansiyeli açısından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19217421/pexels-photo-19217421.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T08:12:22.485Z",
+        "location": {
+            "lat": 29.23,
+            "lng": 50.33,
+            "name": "Harg Adası, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-missile-hits-iranian-oil-tanker-near-kharg-island-report/4047983",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788595965028wxiho",
+        "title": "İsrail Gözaltısından Serbest Bırakılan Lübnanlı Genç Evine Döndü",
+        "summary": "İsrail gözaltısından serbest bırakılan Lübnanlı genç Hüseyin Ayyaş, ailesiyle yeniden bir araya geldi. Babası, oğlunun serbest kalmasının ardından büyük bir sevinç yaşadığını belirtti. Anadolu Ajansı'na konuşan baba, oğlunun İsrail sorguları sırasında işkenceye, aşağılayıcı ve insanlık dışı muameleye maruz kaldığını iddia etti. Bu olay, İsrail ve Lübnan arasındaki gerilimli ilişkilerin bir yansıması olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6065254/pexels-photo-6065254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T08:12:45.028Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-life-returned-to-me-lebanese-father-welcomes-son-home-after-release-from-israeli-detention/4047913",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17885959861176lw98",
+        "title": "Filistin futbolu, İsrail'in saldırıları sonrası yaklaşık 3 yıllık aranın ardından yeniden başlıyor",
+        "summary": "Filistin futbolu, İsrail'in saldırıları nedeniyle yaklaşık üç yıl süren bir aranın ardından yeniden başlıyor. Bu dönüş, 244 kulübün katılımıyla düzenlenecek olan 'Bin Şehit Kupası' adlı bir turnuva ile gerçekleşecek. Turnuva, İsrail'in Gazze'ye yönelik saldırılarında hayatını kaybeden sporcuların anısına ithaf edildi. Bu organizasyon, bölgedeki spor faaliyetlerinin yeniden canlanması açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38455302/pexels-photo-38455302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T08:13:06.117Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-football-returns-after-nearly-3-year-pause-due-to-israel-s-genocide/4047906",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788596009654a49l8",
+        "title": "Batı Şeria'da İsrail Askerlerinin Müdahalesi: Mughayyir Köyünde Çatışma ve Can Kaybı",
+        "summary": "Haaretz gazetesinin bildirdiğine göre, İsrail askerleri geçtiğimiz hafta Batı Şeria'daki Mughayyir köyünde Filistinlilere yönelik bir müdahalede bulundu. Olaylar sırasında en az yedi Filistinli vurulurken, bunlardan ikisi hayatını kaybetti. Haber başlığı, bölgedeki bu tür şiddet olaylarının \"tanıdık bir örüntü\" sergilediğini vurguluyor. Bu gelişmeler, İsrail güçleri ile Filistinliler arasındaki gerilimin devam ettiğini ve bölgedeki güvenlik durumunun kırılganlığını bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19489712/pexels-photo-19489712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T08:13:29.654Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.4,
+            "name": "Mughayyir, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/entry-clashes-fire-israeli-occupier-violence-in-west-bank-village-shows-familiar-pattern/4047904",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788596033026mvelu",
+        "title": "Yemen, Taiz ve El-Hudeyde'de Husilere Hava Saldırısı Düzenledi",
+        "summary": "Yemen güçleri, ülkenin Taiz ve El-Hudeyde vilayetlerinde Husilere ait hedeflere yönelik 15 hava saldırısı gerçekleştirdi. Bu operasyon, stratejik Bab el-Mandeb Boğazı yakınlarındaki çatışmalarda Temmuz ayından bu yana askeri uçakların ilk kez kullanıldığı bir eylem olarak kayıtlara geçti. Hava saldırıları, bölgedeki askeri gerilimin yeniden tırmandığına işaret ediyor. Yemen'deki taraflar arasındaki çatışmalar, uluslararası denizcilik açısından kritik öneme sahip bu bölgede zaman zaman şiddetleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36064880/pexels-photo-36064880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T08:13:53.026Z",
+        "location": {
+            "lat": 13.57,
+            "lng": 44.02,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemen-targets-houthi-positions-with-15-airstrikes-in-taiz-al-hudaydah-provinces/4047893",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1788579421694hyyb6",
         "title": "Trump, Rusya ve Ukrayna'ya Yeni Barış Planıyla Elçiler Gönderiyor",
         "summary": "ABD Başkanı Donald Trump'ın, Rusya ve Ukrayna arasındaki çatışmaya yönelik yeni bir barış planı kapsamında özel elçiler gönderdiği bildirildi. Al Jazeera muhabiri Kimberly Halkett'in haberine göre, Trump'ın bu göreve Jared Kushner ve Steve Witkoff'u atadığı belirtildi. Bu diplomatik girişim, eski başkanın Ukrayna'daki savaşı sona erdirme çabalarının bir parçası olarak değerlendiriliyor. Kushner'in daha önce Orta Doğu barış süreçlerindeki rolü göz önüne alındığında, bu yeni görevlendirme küresel diplomasi sahnesinde dikkat çekiyor.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/houthis-target-yemen-bridge-with-ballistic-missile-says-government-official/4046162",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "178843543346119rv5",
-        "title": "Katar ve Ürdün, İran'ın Kuveyt'e Yönelik Saldırılarını Kınadı",
-        "summary": "Katar ve Ürdün, İran'ın Kuveyt'e yönelik yenilenen saldırılarını şiddetle kınadıklarını duyurdu. Doha ve Amman'dan yapılan ortak açıklamalarda, bu saldırıların Kuveyt'in egemenliğini açıkça ihlal ettiği belirtildi. İki ülke, İran'ın eylemlerinin bölgesel gerilimleri düşürmeye yönelik diplomatik girişimleri olumsuz etkilediğini vurguladı. Açıklamada, bölgedeki istikrar ve güvenliğin korunması için uluslararası hukuka saygı gösterilmesi gerektiği ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5723192/pexels-photo-5723192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:37:13.461Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-jordan-condemn-renewed-iranian-attacks-on-kuwait/4046134",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1788435457355nykob",
-        "title": "Lübnan, UNIFIL Görev Süresi Uzatılmazsa Alternatif Uluslararası Varlığa Açık Olduğunu Bildirdi",
-        "summary": "Lübnan Cumhurbaşkanı Joseph Aoun, Birleşmiş Milletler Geçici Görev Gücü (UNIFIL) misyonunun görev süresinin uzatılmaması halinde ülkesinin alternatif bir uluslararası varlığa açık olduğunu bildirdi. Aoun, Lübnan'ın BM barış gücüne olan bağlılığını sürdürdüğünü ve UNIFIL'in ülkenin güneyindeki önemli rolünü vurguladı. Bu açıklama, UNIFIL'in bölgedeki mevcudiyetinin geleceğine ilişkin uluslararası tartışmaların devam ettiği bir dönemde yapıldı. Lübnan'ın bu tutumu, ülkenin güney sınırındaki istikrarın korunmasına yönelik arayışlarını yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10082718/pexels-photo-10082718.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:37:37.355Z",
-        "location": {
-            "lat": 33.89,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/lebanon-says-open-to-alternative-international-presence-if-unifil-mandate-not-extended/4046125",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17884354776809j2t7",
-        "title": "İsrail Ordusu Gazze Şeridi'nde Ateşkese Rağmen İki Filistinliyi Öldürdü",
-        "summary": "Gazze Şeridi'nde İsrail ordusunun açtığı ateş sonucu iki Filistinli hayatını kaybetti, bazı kişiler de yaralandı. Olay, bölgede devam eden ateşkese rağmen Beyt Lahiya'da meydana geldi. Anadolu Ajansı'na konuşan tıbbi kaynaklar, Filistinlilerin İsrail ateşiyle öldürüldüğünü bildirdi. Bu gelişme, bölgedeki gerilimi yeniden tırmandırma potansiyeli taşıyor ve ateşkesin kırılganlığını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934248/pexels-photo-35934248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:37:57.680Z",
-        "location": {
-            "lat": 31.56,
-            "lng": 34.49,
-            "name": "Beyt Lahiya, Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-2-palestinians-wounds-others-in-gaza-strip-despite-ceasefire/4046123",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788416340167i69du",
-        "title": "RSF, Sudan'ın Güney Kordofan Bölgesi'nde BM Yardım Konvoyunu Hedef Aldı: 1 Ölü, 2 Yaralı",
-        "summary": "Sudan'da Hızlı Destek Kuvvetleri (RSF), Birleşmiş Milletler'e ait bir yardım konvoyuna saldırı düzenledi. Güney Kordofan bölgesinde gerçekleşen saldırıda bir kişi hayatını kaybederken, iki kişi de yaralandı. Yerel bir sağlık grubunun bildirdiğine göre, konvoy Kadugli'deki 5.000'den fazla sivile insani yardım taşıyordu. Bu olay, bölgedeki insani yardım operasyonlarının karşılaştığı güvenlik risklerini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/25211886/pexels-photo-25211886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T06:19:00.167Z",
-        "location": {
-            "lat": 11,
-            "lng": 29.37,
-            "name": "Kadugli, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/rsf-targets-un-aid-convoy-in-sudan-s-south-kordofan-killing-1-injuring-2-report/4045909",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788398387208hsd4v",
-        "title": "Fas'ta iktidar müttefikleri seçim kampanyası başlamadan önce birbirine düştü",
-        "summary": "Fas'ta yaklaşan seçimler öncesinde siyasi gerilim tırmanıyor. Resmi kampanya başlangıcına günler kala, iktidardaki müttefikler arasında anlaşmazlıklar yaşandığı belirtiliyor. Bu durum, ülkedeki siyasi atmosferin seçimler öncesinde ısındığını gösteriyor. İktidar ortakları arasındaki bu çekişme, seçim sürecinin dinamiklerini etkileyebilir ve siyasi belirsizliği artırabilir.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/7103091/pexels-photo-7103091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T01:19:47.208Z",
-        "location": {
-            "lat": 34.020882,
-            "lng": -6.84165,
-            "name": "Rabat, Fas"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788398550717251n1",
-        "title": "BM: İsrail, Gazze'de 1 Milyon Kişiyi İkinci Gündür Su Kıtlığıyla Mahrum Bırakıyor",
-        "summary": "Birleşmiş Milletler (BM), İsrail'in Gazze Şeridi'ne sağladığı su kaynaklarını ikinci gündür kısıtlaması nedeniyle bölgedeki 1 milyon kişinin su sıkıntısı yaşadığını duyurdu. BM'den yapılan açıklamada, durumun endişe verici olduğu belirtildi. Bir sözcü, kamyonlarla taşınan suyun, yaşanan açığı ancak kısmen karşılayabildiğini ifade etti. Bu durumun, Gazze'deki insani krizi derinleştirdiği ve temel yaşam kaynaklarına erişimi olumsuz etkilediği vurgulandı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36198132/pexels-photo-36198132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T01:22:30.717Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/americas/worried-un-says-israel-depriving-1m-in-gaza-with-reduced-water-supplies-for-2nd-day/4045815",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
