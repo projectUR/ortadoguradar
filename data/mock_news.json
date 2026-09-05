@@ -1,5 +1,37 @@
 [
     {
+        "id": "1788628559023g1wuk",
+        "title": "Haaland, Coventry Galibiyetiyle Man City'yi Premier Lig'in Zirvesine Taşıdı",
+        "summary": "İngiltere Premier Lig'de Manchester City, sahasında Coventry City'yi ağırladı. Norveçli golcü Erling Haaland'ın kaydettiği tek golle maçı 1-0 kazanan Manchester City, bu sonuçla ligde liderlik koltuğuna oturdu. Yeni yükselen Coventry City karşısında alınan galibiyet, kulübün ligdeki üst sıralardaki yerini pekiştirdi. Birleşik Arap Emirlikleri merkezli City Football Group'un sahibi olduğu Manchester City'nin bu başarısı, kulübün sportif hedeflerine ulaşmasında önemli bir adım olarak değerlendirildi.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/39222199/pexels-photo-39222199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T17:15:59.023Z",
+        "location": {
+            "lat": 53.4808,
+            "lng": -2.2426,
+            "name": "Manchester, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1788628598522lrdil",
+        "title": "İsrail, Lübnan'ın kritik Ali el-Taher sırtında kontrol sağladığını iddia etti",
+        "summary": "İsrail Savunma Bakanlığı, Lübnan'ın stratejik öneme sahip Ali el-Taher sırtında operasyonel kontrol sağladığını iddia etti. Bu iddia, İsrail ile Lübnan arasındaki sınır bölgesindeki güvenlik durumunda potansiyel bir değişime işaret ediyor. Söz konusu sırtın \"kritik\" olarak nitelendirilmesi, bölgedeki stratejik önemini vurguluyor. Lübnan'daki güçlü grup Hizbullah'tan ise konuyla ilgili henüz bir açıklama gelmedi. Bu gelişme, iki ülke arasındaki gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-05T17:16:38.522Z",
+        "location": {
+            "lat": 33.2,
+            "lng": 35.5,
+            "name": "Lübnan-İsrail Sınırı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1788620415819dzlf5",
         "title": "Çok Kutupluluk, Orta Güçlere Daha Fazla Seçenek Ancak Daha Az Garanti Sunuyor",
         "summary": "Küresel siyasetteki çok kutuplu yapı, orta ölçekli güçlere uluslararası ilişkilerde daha geniş bir hareket alanı sağlamaktadır. Bu yeni düzen, söz konusu ülkelere büyük güçlerin baskısından kurtulma ve farklı ittifaklar kurma imkanı sunmaktadır. BRICS ve Şanghay İşbirliği Örgütü (ŞİÖ) gibi oluşumlar, bu orta güçler için alternatif platformlar olarak öne çıkmaktadır. Ancak, bu yeni yapılar ve örgütler, geleneksel askeri ittifakların sağladığı kolektif savunma garantilerini sunmamaktadır. Bu durum, orta güçlerin güvenliklerini sağlamada yeni stratejiler geliştirmelerini ve potansiyel riskleri göz önünde bulundurmalarını gerektirmektedir.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788435298918ujvtl",
-        "title": "ABD veya Çin, Yapay Zeka Süper Gücü Olarak mı Yükselecek?",
-        "summary": "ABD ve Çin, yapay zeka (YZ) alanında küresel liderlik için yoğun bir rekabet içinde bulunuyor. Her iki ülke de YZ teknolojilerinin geliştirilmesi ve uygulanması konusunda stratejik yatırımlar yaparak bu alandaki üstünlüğü ele geçirmeyi hedefliyor. Bu yarış, sadece teknolojik ilerlemeyi değil, aynı zamanda gelecekteki ekonomik gücü ve jeopolitik etkiyi de belirleyici bir faktör olarak görülüyor. Yapay zeka liderliği, dünya genelindeki güç dengelerini yeniden şekillendirme potansiyeli taşıyor ve uluslararası ilişkiler üzerinde derin etkiler yaratabilir. Orta Doğu ülkeleri de bu küresel teknoloji yarışının sonuçlarından, özellikle teknoloji erişimi, ekonomik işbirlikleri ve güvenlik stratejileri açısından etkilenecektir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8566472/pexels-photo-8566472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:34:58.918Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/9/3/will-the-us-or-china-emerge-as-the-ai-superpower?traffic_source=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1788435339627klzfp",
-        "title": "Batı Şeria'da Filistinli Gençler Yerleşimci Saldırısı Sırasında Öldürüldü",
-        "summary": "Batı Şeria'daki Al-Mughayyir köyünde Filistinli gençlerin öldürüldüğü bildirildi. Köy yetkilileri, gençlerin yerleşimcilerin koyun çalmasını engellemeye çalışırken saldırıya uğradığını iddia etti. İsrail ordusu ise gençlerin kendi askerlerine taş attığını belirtti. Bu olay, bölgedeki İsrail-Filistin gerilimini ve farklı anlatıları bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-03T11:35:39.627Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.35,
-            "name": "Al-Mughayyir, Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
