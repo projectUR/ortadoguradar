@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789159286959f7zfe",
+        "title": "İngiltere'nin İsrail'in Savaş Suçlarından 24 Yıl Boyunca Haberdar Olduğu Ortaya Çıktı",
+        "summary": "İngiltere Dışişleri Bakanlığı'na ait ve 2024 yılından itibaren kamuya açık hale gelen belgelere göre, İngiltere'nin İsrail'in savaş suçları ve insan hakları ihlallerinden en az 24 yıldır haberdar olduğu ortaya çıktı. Bu belgeler, 2002 yılından itibaren İsrail'in uyguladığı şiddet ve insan hakları ihlallerine dair uyarıları detaylı bir şekilde içeriyor. Sınıflandırılması kaldırılan kayıtlar, İngiliz yetkililerin İsrail'in eylemleri hakkında kapsamlı bilgiye sahip olduğunu gösteriyor. Bu ifşaat, İngiltere'nin bölgedeki olaylara dair bilgisi ve tutumu hakkında yeni tartışmaları beraberinde getirebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28555738/pexels-photo-28555738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-11T20:41:26.959Z",
+        "location": {
+            "lat": 31,
+            "lng": 35,
+            "name": "Israel"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789148999784yc9o3",
         "title": "Husiler, Kızıldeniz'deki Denizciliğin Suudi Gemileri Hariç Güvenli Olduğunu Duyurdu",
         "summary": "Yemen'deki Husilerin sözcüsü Yahya Saree, Kızıldeniz'deki denizcilik faaliyetlerinin Suudi Arabistan'a ait gemiler dışında güvenli olduğunu açıkladı. Bu duyuru, bölgedeki uluslararası deniz trafiği ve güvenlik endişeleri açısından önemli bir gelişme olarak değerlendiriliyor. Husiler, daha önce Suudi Arabistan'a yönelik çeşitli saldırılar düzenlemiş ve bölgedeki gerilimi artırmıştı. Son açıklama, Kızıldeniz'deki ticari gemilerin güvenliğine ilişkin belirsizlikleri sürdürürken, Suudi Arabistan'a yönelik tehditlerin devam ettiğini gösteriyor. Bu durum, küresel tedarik zincirleri ve enerji taşımacılığı için kritik öneme sahip olan Kızıldeniz'deki istikrarı etkileyebilir.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/9/9/gaza-students-with-overseas-university-offers-scholarships-remain-trapped?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178897036390703e7t",
-        "title": "Miliband, Baş Haham'ın İngiliz Yahudilerinin Artan Tehlikede Olduğu İddiasını Reddetti",
-        "summary": "İngiltere Dışişleri Bakanı Miliband, İsrail yerleşim birimlerine yönelik yaptırımların İngiliz Yahudilerini daha büyük bir riske atacağı yönündeki iddiaları reddetti. Bu açıklama, İngiltere Baş Hahamı'nın yaptırım kararının İngiliz Yahudi cemaati için güvenlik endişeleri yaratabileceği yönündeki yorumlarına bir yanıt olarak geldi. Bakan Miliband, hükümetin dış politikasının İngiliz Yahudilerinin güvenliğini tehlikeye atmadığını ve bu tür iddiaların asılsız olduğunu belirtti. Tartışma, İsrail-Filistin çatışması bağlamında alınan uluslararası kararların küresel Yahudi diasporası üzerindeki potansiyel etkilerini ve bu konudaki farklı görüşleri gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30855417/pexels-photo-30855417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-09T16:12:43.907Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": -0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
