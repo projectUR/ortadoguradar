@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789233783827mqv3f",
+        "title": "Kuzey Suriye'deki hapishanede çıkan yangında en az yedi kişi hayatını kaybetti",
+        "summary": "Suriye'nin kuzeyindeki Kobani şehrinde bir hapishanede çıkan yangında en az yedi mahkum yaşamını yitirdi. Yangın, eski bir Kürt savaşçının öldürülmesini protesto eden gösterilerin ardından mahkumların isyan etmesi sonucu meydana geldi. Devlet medyası tarafından bildirilen olayda, Kobani'deki gerginliğin hapishane içine sıçradığı belirtildi. Yetkililer, olayın detaylarını araştırmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6069334/pexels-photo-6069334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-12T17:23:03.827Z",
+        "location": {
+            "lat": 36.89,
+            "lng": 38.35,
+            "name": "Kobane, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/12/at-least-seven-killed-in-fire-at-prison-in-northern-syria?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789222672140oh95k",
         "title": "İran Destekli Husiler Stratejik Mayun Adası'nı Ele Geçirdi",
         "summary": "Yemen'deki İran destekli Husiler, stratejik öneme sahip Mayun Adası'nı ele geçirdi. Bu hamle, grubun Kızıldeniz ile Aden Körfezi'ni birbirine bağlayan kritik Bab el-Mandeb Boğazı'ndaki konumunu pekiştirdi. Ancak adanın uzun vadede kontrolünün sağlanmasının zorlu olabileceği değerlendiriliyor. Mayun Adası'nın ele geçirilmesi, bölgedeki deniz güvenliği ve uluslararası ticaret yolları üzerindeki gerilimi artırma potansiyeli taşıyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17890467057356lm04",
-        "title": "Sudan'ın Tawila Kampı'nda Yüz Binlerce Kişi Yetersiz Barınma Koşullarıyla Karşı Karşıya",
-        "summary": "Sudan'ın Tawila kampında yüz binlerce yerinden edilmiş kişi, yetersiz barınma koşullarıyla mücadele ediyor. Kamp sakinleri, insani yardım ve barınma olanaklarının yetersizliği nedeniyle büyük zorluklar yaşıyor. Bu durum, kampta yetersiz beslenme ve hastalıkların hızla yayılmasına yol açarak insani krizi derinleştiriyor. Uluslararası yardım kuruluşları, bölgedeki durumun aciliyetine dikkat çekiyor ve acil müdahale çağrısında bulunuyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19264366/pexels-photo-19264366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-10T13:25:05.735Z",
-        "location": {
-            "lat": 13.98,
-            "lng": 25.48,
-            "name": "Tawila, Sudan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
