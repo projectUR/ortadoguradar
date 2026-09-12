@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789176256180oz5dt",
+        "title": "Eski ABD'li Üst Düzey Diplomat 11 Eylül Sonrası Yapılan Hataları Açıkladı",
+        "summary": "Eski ABD'li üst düzey diplomat Zalmay Khalilzad, 11 Eylül saldırılarının ardından ABD'nin Afganistan ve Irak savaşlarını ele alış biçimine dair önemli hatalar yapıldığını açıkladı. Khalilzad, bu iki ülkedeki askeri müdahalelerin ve sonrasındaki süreçlerin yönetimi konusunda ciddi endişeleri ve yanlış adımları dile getirdi. Açıklamalar, ABD'nin bölgedeki uzun süreli politikalarının ve stratejilerinin geçmişe dönük bir değerlendirmesini sunarken, Orta Doğu'daki istikrarsızlığın kökenlerine ışık tutuyor. Bu itiraflar, ABD'nin dış politikasının bölgesel dinamikler üzerindeki etkisini anlamak açısından büyük önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-12T01:24:16.180Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789167824793pbavc",
         "title": "İsrail yıkımları Masafer Yatta'da okulları ve evleri tehdit ediyor",
         "summary": "Batı Şeria'daki Masafer Yatta bölgesinde İsrail güçleri tarafından gerçekleştirilen yıkım faaliyetleri, bölgedeki evleri ve okulları hedef alıyor. Bu yıkımlar, öğrencilerin eğitim hakkını doğrudan tehdit etmektedir. Bölge halkı ve öğrenciler, bu zorlu koşullara rağmen eğitimlerine devam etme kararlılığını sürdürdüklerini belirtiyor. Uluslararası insan hakları örgütleri, bu tür yıkımların uluslararası hukuka aykırı olduğunu ve yerinden edilmelere yol açtığını vurguluyor.",
@@ -780,22 +796,6 @@
             "name": "Tarnaja, Kuneytra, Suriye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-shell-village-in-syria-s-quneitra-governorate/4052683",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1788981770089g8zkn",
-        "title": "Dünya Genelinde Borçlanma Maliyetleri Neden Artıyor?",
-        "summary": "Küresel ekonomide tahvil getirilerindeki artış, dünya genelindeki hükümetler, işletmeler ve hane halkları için borçlanma maliyetlerini yükseltmektedir. Bu durum, finansal piyasalarda gözlemlenen önemli bir eğilimi yansıtmaktadır. Artan borçlanma maliyetleri, ülkelerin kamu harcamalarını, şirketlerin yatırım kararlarını ve tüketicilerin harcama kapasitelerini doğrudan etkileme potansiyeli taşımaktadır. Uzmanlar, bu küresel trendin ekonomik büyüme ve istikrar üzerinde geniş çaplı etkileri olabileceğini belirtmektedir.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/928187/pexels-photo-928187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-09T19:22:50.089Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/counting-the-cost/2026/9/9/why-are-borrowing-costs-rising-across-the-world?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
