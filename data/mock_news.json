@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789340467715d0ejr",
+        "title": "İsrail Başbakanı Netanyahu, BAE'nin 7 Ekim saldırısı uyarısı iddiası üzerine gazeteye dava açacak",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, Birleşik Arap Emirlikleri'nin (BAE) kendisini 7 Ekim saldırısı hakkında önceden uyardığı yönündeki iddiaları yayımlayan bir gazeteye dava açacağı bildirildi. Söz konusu gazete, bu iddiaların yer aldığı bir kitaptan alıntılar yayımladığını ve haberinin arkasında durduğunu belirtti. Bu hukuki adım, 7 Ekim saldırısı öncesindeki istihbarat zafiyetleri ve siyasi sorumluluk tartışmaları bağlamında dikkat çekiyor. Netanyahu'nun bu hamlesiyle, iddiaların doğruluğunun mahkeme yoluyla netleştirilmesi hedefleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37624503/pexels-photo-37624503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-13T23:01:07.715Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789332124469boqt4",
         "title": "İsveç'te Seçimler Başladı: Aşırı Sağın Hükümete Girme İhtimali Gündemde",
         "summary": "İsveç'te genel seçimler bugün başladı. Ülke genelinde kurulan sandıklarda vatandaşlar yeni hükümeti belirlemek üzere oy kullanıyor. Yakın geçen seçim yarışında, aşırı sağcı bir partinin hükümet koalisyonuna dahil olma ihtimali bulunuyor. Bu durum, İsveç siyasetinde önemli bir değişime işaret edebilir ve ülkenin iç ve dış politikalarında potansiyel etkiler yaratabilir. Seçim sonuçları merakla bekleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-downed-5-houthi-drones-in-northern-yemen/4054490",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1789135955854is7x3",
-        "title": "İsrailli yerleşimciler Nablus'ta Filistinlilere ait evlere saldırdı, aile üyelerini yaraladı, koyun çaldı",
-        "summary": "Batı Şeria'nın Nablus kenti yakınlarındaki Beita kasabasında Filistinlilere ait evlere saldırı düzenlendi. Yerel kaynaklardan alınan bilgiye göre, İsrailli yerleşimciler İsrail güçlerinin koruması altında Filistinli ailelerin evlerine baskın yaptı. Saldırıda bir aileden bazı kişilerin yaralandığı ve koyunların çalındığı belirtildi. Olay, Anadolu Ajansı'na konuşan yerel kaynaklar tarafından aktarıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19544027/pexels-photo-19544027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-11T14:12:35.854Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.26,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-palestinian-homes-injure-family-steal-sheep-in-nablus/4054377",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
