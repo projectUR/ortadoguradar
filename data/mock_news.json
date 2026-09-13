@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789276492988hyzl5",
+        "title": "Cezayir, BAE ile diplomatik ilişkilerini kesecek",
+        "summary": "Cezayir, Birleşik Arap Emirlikleri (BAE) ile diplomatik ilişkilerini sonlandırma kararı aldı. Cezayir Dışişleri Bakanlığı tarafından yapılan açıklamada, bu kararın gerekçesi belirtilmedi. Ancak bakanlık, bu yönde atılacak adımlar için tüm yolların tüketildiğini ifade etti. Bu gelişme, iki ülke arasındaki ilişkilerde önemli bir gerilime işaret ediyor ve bölgesel dinamikler açısından dikkat çekiyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-13T05:14:52.988Z",
+        "location": {
+            "lat": 36.737232,
+            "lng": 3.086497,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17892582863833oe3j",
         "title": "Irak, Suudi petrol boru hattını hedef almak için kullanılan insansız hava aracı fırlatma platformunu ele geçirdi",
         "summary": "Irak güvenlik güçleri, Suudi Arabistan'a ait bir petrol boru hattını hedef almak amacıyla kullanılan bir insansız hava aracı (İHA) fırlatma platformunu kendi toprakları içerisinde ele geçirdi. İstihbarat ve güvenlik birimlerinden oluşan özel bir görev gücü, önemli çabalar sonucunda bu platformun yerini tespit ederek operasyon düzenledi. Yetkililer, platformun Irak toprakları içinde bulunduğunu ve ele geçirildiğini doğruladı. Bu operasyon, bölgesel güvenlik ve enerji altyapısına yönelik tehditlerin önlenmesi açısından kritik bir adım olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "17890791932044jwlp",
-        "title": "İspanya Parlamentosu, 1977 Öncesi Doğan Batı Saharalılara Vatandaşlık Verilmesini Onayladı",
-        "summary": "İspanya Parlamentosu'nun alt kanadı, 1977 yılından önce doğan on binlerce Batı Saharalıya İspanyol vatandaşlığı verilmesini öngören yasa tasarısını onayladı. Bu karar, eski İspanyol sömürgesi olan Batı Sahra'daki Sahravilerin hukuki statüsüne yönelik önemli bir adım olarak değerlendirilmektedir. Tasarı, alt meclisten geçmesinin ardından nihai onay için İspanya Senatosu'na sevk edildi. Söz konusu gelişme, Batı Sahra'nın tartışmalı statüsü ve bölgedeki siyasi dengeler açısından uluslararası kamuoyunun dikkatini çekmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/24613550/pexels-photo-24613550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-10T22:26:33.204Z",
-        "location": {
-            "lat": 24,
-            "lng": -13,
-            "name": "Batı Sahra"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
