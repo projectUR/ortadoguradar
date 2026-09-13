@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789322377152esmog",
+        "title": "Fransız TV programı, oyuncunun Gazze hakkında konuşması sonrası yayından kaldırıldı",
+        "summary": "Fransa Televizyonları, oyuncu Adèle Haenel'in Gazze'deki durumu 'soykırım' olarak nitelendirmesinin ardından bir programın tekrarını yayından kaldırma kararı aldı. Haenel'in açıklamaları, kamuoyunda ve medya çevrelerinde tartışmalara yol açtı. Bu olay, sanatçıların siyasi konulardaki duruşlarının medya üzerindeki etkisini bir kez daha gözler önüne serdi. Karar, ifade özgürlüğü ve medya sorumluluğu konularında farklı görüşlerin ortaya çıkmasına neden oldu.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/4813942/pexels-photo-4813942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-13T17:59:37.152Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Fransa"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1789311054537nidiv",
         "title": "2.000'den Fazla Yemenli, Husilerin İlerlemesiyle Cibuti'ye Sığındı",
         "summary": "Yemen'in batı kıyısında tırmanan çatışmalar, bölgedeki insani durumu kötüleştirmeye devam ediyor. Son gelişmelerle birlikte, 2.000'den fazla Yemenli sivil, Kızıldeniz üzerinden komşu ülke Cibuti'ye kaçmak zorunda kaldı. Bu göç dalgası, Husilerin bölgedeki ilerleyişi ve çatışmaların şiddetlenmesiyle doğrudan bağlantılı. Uluslararası kuruluşlar, mültecilere yönelik insani yardım çabalarını sürdürüyor ve Cibuti, Yemen'deki krizden etkilenenler için önemli bir sığınma noktası olmaya devam ediyor.",
@@ -780,22 +796,6 @@
             "name": "Bağdat, Irak"
         },
         "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789120638963tkf3e",
-        "title": "11 Eylül, İsrail'in Filistinlilere Karşı Savaşını Amerika'ya Nasıl Pazarlamasına Yardımcı Oldu?",
-        "summary": "11 Eylül saldırılarının ardından küresel çapta başlatılan 'teröre karşı savaş' konsepti, İsrail'in Filistinlilere yönelik politikalarını uluslararası arenada farklı bir perspektiften sunmasına olanak sağlamıştır. Bu dönemde, İsrail'in Filistin topraklarındaki eylemleri, ortak bir düşmana karşı verilen mücadelenin bir parçası olarak gösterilmeye başlanmıştır. Haber, İsrail'in Filistinlilere yönelik baskıcı uygulamalarını Amerika Birleşik Devletleri nezdinde daha kolay meşrulaştırmasına yardımcı olan bu süreci incelemektedir. 11 Eylül olaylarının İsrail-Filistin çatışmasının algılanışını nasıl etkilediği ve İsrail'in bu durumu kendi lehine nasıl kullandığı analiz edilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-11T09:57:18.963Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
