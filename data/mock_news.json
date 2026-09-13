@@ -1,5 +1,37 @@
 [
     {
+        "id": "17892954796683n48n",
+        "title": "Suudi Arabistan'da Cami ve Evler Husi Saldırısında Hasar Gördü",
+        "summary": "Suudi Arabistan'da, Yemen'deki Husiler tarafından düzenlendiği iddia edilen bir saldırı sonucunda bir cami ve bazı konutlarda hasar meydana geldiği bildirildi. Yerel kaynaklar, saldırının ardından bölgede güvenlik önlemlerinin artırıldığını belirtti. Olayla ilgili resmi makamlardan henüz detaylı bir açıklama yapılmazken, saldırının bölgedeki gerilimi tırmandırma potansiyeli taşıdığı ifade ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5095300/pexels-photo-5095300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-13T10:31:19.669Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "178929585926842l1t",
+        "title": "İsrail'in Gazze'de Araca Yönelik İHA Saldırısında 2 Filistinli Öldü, 13 Kişi Yaralandı",
+        "summary": "Gazze Şeridi'nde İsrail'e ait bir insansız hava aracı (İHA) saldırısı düzenlendi. Tel el-Hava mahallesinde sivil bir aracı hedef alan saldırıda ilk belirlemelere göre 2 Filistinli yaşamını yitirdi, 13 kişi yaralandı. Saldırı, bölgedeki gerilimi artırırken, İsrail'in ateşkes anlaşmasını ihlallerinin devam ettiği bir dönemde gerçekleşti. Olayla ilgili detaylı soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6493443/pexels-photo-6493443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-13T10:37:39.268Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4667,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-13-injured-in-israeli-drone-strike-on-vehicle-in-gaza/4055681",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1789276492988hyzl5",
         "title": "Cezayir, BAE ile diplomatik ilişkilerini kesecek",
         "summary": "Cezayir, Birleşik Arap Emirlikleri (BAE) ile diplomatik ilişkilerini sonlandırma kararı aldı. Cezayir Dışişleri Bakanlığı tarafından yapılan açıklamada, bu kararın gerekçesi belirtilmedi. Ancak bakanlık, bu yönde atılacak adımlar için tüm yolların tüketildiğini ifade etti. Bu gelişme, iki ülke arasındaki ilişkilerde önemli bir gerilime işaret ediyor ve bölgesel dinamikler açısından dikkat çekiyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": false
-    },
-    {
-        "id": "1789086359845bbdgj",
-        "title": "BM Temsilcisi, Yemen'deki Savaşın 'Tehlikeli Bir Aşamaya' Girdiğini Uyardı",
-        "summary": "Birleşmiş Milletler Yemen Özel Temsilcisi Hans Grundberg, Güvenlik Konseyi'ne yaptığı açıklamada, Yemen'deki savaşın 'tehlikeli bir aşamaya' girdiğini belirtti. Grundberg, Husilerin tırmanan eylemleri karşısında sivillerin ve ticaret yollarının korunması için acil adımlar atılması çağrısında bulundu. Bölgedeki gerilimin artmasıyla birlikte insani durumun daha da kötüleşebileceği endişesi dile getirildi. Uluslararası toplumun, çatışmanın daha fazla yayılmasını önlemek ve barışçıl bir çözüm bulmak için çabalarını yoğunlaştırması gerektiği vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6471683/pexels-photo-6471683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-11T00:25:59.845Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789086395524gjr5s",
-        "title": "İsrail, Lübnan'ın Ali el-Taher sırtındaki Hizbullah üssünü imha ettiğini duyurdu",
-        "summary": "İsrail ordusu, Lübnan topraklarında askeri bir operasyon gerçekleştirdiğini açıkladı. Yapılan duyuruya göre, Lübnan'ın Ali el-Taher sırtında yer alan bir Hizbullah üssü hedef alınarak imha edildi. Bu saldırılar, İsrail'in bir hafta önce stratejik öneme sahip bu sırt üzerinde operasyonel kontrol sağladığını bildirmesinin ardından geldi. Bölgedeki gerilimin devam ettiği bir dönemde gerçekleşen bu eylem, İsrail ile Hizbullah arasındaki çatışmaların seyrini yansıtmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7876100/pexels-photo-7876100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-11T00:26:35.524Z",
-        "location": {
-            "lat": 33.3,
-            "lng": 35.3,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
