@@ -1,5 +1,37 @@
 [
     {
+        "id": "1789332124469boqt4",
+        "title": "İsveç'te Seçimler Başladı: Aşırı Sağın Hükümete Girme İhtimali Gündemde",
+        "summary": "İsveç'te genel seçimler bugün başladı. Ülke genelinde kurulan sandıklarda vatandaşlar yeni hükümeti belirlemek üzere oy kullanıyor. Yakın geçen seçim yarışında, aşırı sağcı bir partinin hükümet koalisyonuna dahil olma ihtimali bulunuyor. Bu durum, İsveç siyasetinde önemli bir değişime işaret edebilir ve ülkenin iç ve dış politikalarında potansiyel etkiler yaratabilir. Seçim sonuçları merakla bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-13T20:42:04.469Z",
+        "location": {
+            "lat": 59.3293,
+            "lng": 18.0686,
+            "name": "Stockholm, İsveç"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/13/swedes-vote-in-election-that-could-see-far-right-in-government?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1789332149180bj9ya",
+        "title": "Ronaldo, Suudi Pro Ligi Taraftarlarına Ömür Boyu Men Cezası Çağrısı Yaptı",
+        "summary": "Suudi Arabistan Pro Ligi'nde Al-Taawoun ile Al-Hilal arasında oynanan bir futbol maçında taraftarların tartışmalı tezahüratları gündeme geldi. Maç sırasında bazı taraftarların, Portekizli futbolcu Ruben Neves'i hedef alarak vefat eden takım arkadaşı Diogo Jota'nın adını kullandığı iddia edildi. Bu durumun spor ahlakına aykırı olduğu ve oyuncuyu rahatsız ettiği belirtildi. Ünlü futbolcu Cristiano Ronaldo, bu tür davranışlarda bulunan taraftarlara ömür boyu stadyumlardan men cezası verilmesi çağrısında bulundu. Olay, Suudi Arabistan futbolunda taraftar kültürü ve disiplin konularını yeniden tartışmaya açtı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/27271720/pexels-photo-27271720.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-13T20:42:29.180Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/9/13/ronaldo-calls-of-life-bans-of-saudi-pro-league-fans-after-jota-chants?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789322377152esmog",
         "title": "Fransız TV programı, oyuncunun Gazze hakkında konuşması sonrası yayından kaldırıldı",
         "summary": "Fransa Televizyonları, oyuncu Adèle Haenel'in Gazze'deki durumu 'soykırım' olarak nitelendirmesinin ardından bir programın tekrarını yayından kaldırma kararı aldı. Haenel'in açıklamaları, kamuoyunda ve medya çevrelerinde tartışmalara yol açtı. Bu olay, sanatçıların siyasi konulardaki duruşlarının medya üzerindeki etkisini bir kez daha gözler önüne serdi. Karar, ifade özgürlüğü ve medya sorumluluğu konularında farklı görüşlerin ortaya çıkmasına neden oldu.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-palestinian-homes-injure-family-steal-sheep-in-nablus/4054377",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1789120591617l4buy",
-        "title": "King's College London'dan Uzaklaştırılan Filistin Yanlısı Öğrenci Kampüse Geri Döndü",
-        "summary": "King's College London'da Filistin yanlısı gösterilere katıldığı gerekçesiyle uzaklaştırılan bir öğrenci, okulun uzaklaştırma kararını kaldırmasının ardından kampüse geri döndü. Üniversite yönetimi, Filistin yanlısı duygulara yönelik baskı iddiaları ve öğrenci gruplarından gelen yoğun eleştiriler üzerine bu kararı aldı. Olay, Birleşik Krallık'taki üniversitelerde İsrail-Filistin çatışmasıyla ilgili protestolar ve ifade özgürlüğü üzerindeki tartışmaları yeniden gündeme getirdi. Öğrenci grupları, üniversitelerin öğrencilerin siyasi görüşlerini ifade etme haklarını koruması gerektiğini vurguluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6257109/pexels-photo-6257109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-11T09:56:31.617Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": -0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789120616171ugkcc",
-        "title": "'Teröre Karşı Savaş'ın 25 Yılı Geride Ne Bıraktı?",
-        "summary": "ABD güçlerinin 2001 yılından bu yana her yıl dünyanın çeşitli bölgelerinde operasyonlar düzenlediği belirtiliyor. AJLabs tarafından hazırlanan bir haritalama çalışması, \"teröre karşı savaş\" olarak adlandırılan bu dönemin geride bıraktığı etkileri ve coğrafi yayılımını inceliyor. Bu savaşın özellikle Orta Doğu ve Kuzey Afrika coğrafyasında derin izler bıraktığı ve bölge siyasetini önemli ölçüde şekillendirdiği vurgulanıyor. Çeyrek asra yaklaşan bu sürecin insani, ekonomik ve siyasi sonuçları geniş çapta tartışılmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-11T09:56:56.171Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
