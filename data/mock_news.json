@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789347473092aroza",
+        "title": "Umman, İran ve Körfez Ülkeleri Arasındaki Hürmüz Görüşmelerinin Ertelendiğini Duyurdu",
+        "summary": "Umman, İran ve Körfez ülkeleri arasında Hürmüz Boğazı'na ilişkin yapılması planlanan görüşmelerin ertelendiğini bildirdi. Umman Dışişleri Bakanlığı'ndan yapılan açıklamada, bu kararın \"mutabakat sağlanması çıkarları doğrultusunda\" alındığı belirtildi. Söz konusu görüşmelerin, bölgedeki denizcilik güvenliği ve işbirliği açısından kritik öneme sahip olduğu biliniyor. Ertelemenin ardındaki spesifik nedenler veya görüşmeler için belirlenen yeni bir tarih hakkında ise henüz detaylı bilgi paylaşılmadı. Bu gelişme, bölgedeki diplomatik süreçlerin seyrini etkileyebilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-14T00:57:53.092Z",
+        "location": {
+            "lat": 23.5859,
+            "lng": 58.4059,
+            "name": "Muscat, Oman"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789340467715d0ejr",
         "title": "İsrail Başbakanı Netanyahu, BAE'nin 7 Ekim saldırısı uyarısı iddiası üzerine gazeteye dava açacak",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, Birleşik Arap Emirlikleri'nin (BAE) kendisini 7 Ekim saldırısı hakkında önceden uyardığı yönündeki iddiaları yayımlayan bir gazeteye dava açacağı bildirildi. Söz konusu gazete, bu iddiaların yer aldığı bir kitaptan alıntılar yayımladığını ve haberinin arkasında durduğunu belirtti. Bu hukuki adım, 7 Ekim saldırısı öncesindeki istihbarat zafiyetleri ve siyasi sorumluluk tartışmaları bağlamında dikkat çekiyor. Netanyahu'nun bu hamlesiyle, iddiaların doğruluğunun mahkeme yoluyla netleştirilmesi hedefleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-claim-control-of-6-districts-in-taiz-al-hudaydah/4054501",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1789135918919h7eo5",
-        "title": "Yemen ordusu, kuzey Yemen'de 5 Husi insansız hava aracını düşürdüğünü açıkladı",
-        "summary": "Yemen ordusu, ülkenin kuzeyindeki El-Cevf vilayetinde Husilere ait beş intihar insansız hava aracının düşürüldüğünü bildirdi. Ordu kaynaklarından yapılan açıklamaya göre, düşürülen dronlar bölgedeki askeri hedeflere yönelik bir saldırı girişiminde bulunuyordu. Bu olay, Yemen'de devam eden çatışmaların ve taraflar arasındaki gerilimin sürdüğünü bir kez daha gözler önüne serdi. El-Cevf vilayeti, Yemen'deki hükümet güçleri ile Husiler arasındaki çatışmaların yoğunlaştığı bölgelerden biri olarak biliniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28861949/pexels-photo-28861949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-11T14:11:58.919Z",
-        "location": {
-            "lat": 16.8,
-            "lng": 45.5,
-            "name": "Al-Jawf, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-it-downed-5-houthi-drones-in-northern-yemen/4054490",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
