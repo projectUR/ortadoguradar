@@ -1,5 +1,53 @@
 [
     {
+        "id": "17894244577919kw7m",
+        "title": "İsrail saldırısı Gazze'deki yerinden edilmiş kişilerin kampını hedef aldı",
+        "summary": "İsrail ordusu, Gazze Şeridi'ndeki yerinden edilmiş kişilerin barındığı bir kampı hedef alan bir saldırı gerçekleştirdi. Saldırının tam olarak Gazze'nin hangi bölgesinde meydana geldiği ve can kaybı veya yaralanma olup olmadığına dair ilk bilgiler henüz netleşmedi. Bölgedeki kaynaklar, saldırının ardından yoğun dumanların yükseldiğini ve kurtarma ekiplerinin olay yerine sevk edildiğini bildirdi. İsrail makamlarından saldırıya ilişkin henüz resmi bir açıklama yapılmazken, uluslararası toplum Gazze'deki sivillerin korunması konusundaki endişelerini sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37980179/pexels-photo-37980179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-14T22:20:57.791Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17894244831417yxgg",
+        "title": "ABD, Enerji Santrallerinin Sera Gazı Emisyon Sınırlarını Kaldırdı",
+        "summary": "ABD'de Trump yönetimi, enerji santrallerinin sera gazı emisyonlarını sınırlayan düzenlemeleri yürürlükten kaldırdı. Yönetim, bu kararın enerji santrallerine 300 milyar dolardan fazla tasarruf sağlayacağını ve Amerikan enerjisini 'serbest bırakacağını' belirtti. Bu adım, çevresel düzenlemelerin gevşetilmesi anlamına gelirken, ABD'nin küresel iklim değişikliğiyle mücadeledeki rolü hakkında tartışmaları yeniden alevlendirdi. Karar, enerji sektöründe üretim maliyetlerini düşürmeyi hedefliyor ve küresel enerji piyasaları üzerinde dolaylı etkiler yaratabilir.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/30124029/pexels-photo-30124029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-14T22:21:23.141Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1789424567698ndady",
+        "title": "İsrail Başbakanı Netanyahu, Savunma Bütçesi Artışı İçin Muhalefet Lideriyle Görüşme Talep Ediyor",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, ülkenin savunma bütçesinde artış sağlanması amacıyla muhalefet lideriyle bir araya gelme talebinde bulunduğu bildirildi. Muhalefet partileri, ordunun hazırlığını etkileyen mali kriz gerekçesiyle güvenlik kurumlarına ek fon tahsis edilmesi yönündeki son talepleri reddetmişti. Netanyahu'nun bu görüşme talebi, savunma harcamaları konusundaki siyasi anlaşmazlığı çözme çabası olarak değerlendiriliyor. Ülke içindeki mali sıkıntılar, İsrail ordusunun operasyonel kapasitesi üzerindeki potansiyel etkileri nedeniyle endişe yaratıyor ve bu durum, bütçe artışının aciliyetini gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10842993/pexels-photo-10842993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-14T22:22:47.698Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-netanyahu-seeks-meeting-with-opposition-leader-to-push-for-defense-budget-increase/4057235",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789411767483dw056",
         "title": "Yeni Rapor: Filistin Yaşamı Sistematik Olarak Aşındırılıyor",
         "summary": "Yeni yayımlanan bir rapora göre, Filistin yaşamı sistematik bir şekilde aşındırılıyor. Rapor, bölgedeki Filistinlilerin günlük yaşam koşullarının giderek kötüleştiğine dikkat çekiyor. Öte yandan, İsrail'in NAZA film yönetmenlerini tehdit ettiği belirtiliyor. Bu durum, Filistin kültür ve sanat alanındaki faaliyetlere yönelik baskıları gündeme getiriyor. Gelişmeler, bölgedeki insan hakları ve ifade özgürlüğü endişelerini artırıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1789211387443e26ne",
-        "title": "İran Cumhurbaşkanı BRICS'i Daimi Sekreterlik Kurmaya ve Tek Taraflı Yaptırımlara Direnmeye Çağırdı",
-        "summary": "İran Cumhurbaşkanı Pezeshkian, BRICS ülkelerine daimi bir sekreterlik kurma ve tek taraflı yaptırımlara karşı direnme çağrısında bulundu. Cumhurbaşkanı, BRICS üyeleri arasında siyasi, ekonomik ve teknolojik işbirliğinin güçlendirilmesi gerektiğini vurguladı. Bu çağrı, İran'ın uluslararası arenada çok kutuplu bir dünya düzeni arayışının ve Batı'nın uyguladığı yaptırımlara karşı ortak bir duruş sergileme isteğinin bir göstergesi olarak değerlendiriliyor. Pezeshkian, BRICS'in küresel ekonomideki rolünü artırarak üye ülkelerin çıkarlarını daha etkin bir şekilde savunabileceğini belirtti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T11:09:47.443Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/world/iranian-president-urges-brics-to-establish-permanent-secretariat-resist-unilateral-sanctions/4055120",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1789211407816rpcqs",
-        "title": "Yemen Hükümet Güçleri Marib'de Husi Saldırısını Püskürttü",
-        "summary": "Medya kaynaklarına göre, Yemen hükümet güçleri ülkenin petrol zengini Marib kentinde Husilerin büyük bir saldırısını engelledi. Haberde, Marib'in batısındaki Al-Mashjah ve Al-Zour bölgelerinde şiddetli çatışmaların yaşandığı belirtildi. Bu olay, Yemen'deki uzun süreli iç savaşın ve taraflar arasındaki mücadelenin devam ettiğini gösteriyor. Bölgedeki petrol kaynakları, çatışmaların ana hedeflerinden biri olmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T11:10:07.816Z",
-        "location": {
-            "lat": 15.46,
-            "lng": 45.33,
-            "name": "Marib, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-thwart-major-houthi-attack-in-oil-rich-marib-media/4055076",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178921143158812c05",
-        "title": "Irak, Suudi boru hattına yönelik insansız hava aracı saldırılarının ardından bazı sınır kapılarını kapattı",
-        "summary": "Bağdat yönetimi, Suudi Arabistan'a ait bir petrol boru hattına düzenlenen insansız hava aracı saldırılarının ardından bazı sınır kapılarını geçici olarak kapattığını duyurdu. Irak hükümeti, bu kararın söz konusu saldırılarla ilgili olduğunu belirtti. Irak makamları, sınır kapılarında meydana gelen \"ihlal ve suistimallerin\" koşullarını belirlemek üzere \"gerekli yasal önlemlerin\" alındığını açıkladı. Olayla ilgili detaylı soruşturmanın devam ettiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5142466/pexels-photo-5142466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T11:10:31.588Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-closes-several-border-crossings-after-drone-strikes-on-saudi-pipeline/4055063",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
