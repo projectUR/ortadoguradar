@@ -1,5 +1,69 @@
 [
     {
+        "id": "1789490011714qdrbb",
+        "title": "İran Dışişleri Bakanı Pekin'e Giderken Çin Arabuluculuk Rolü Üstlenebilir mi?",
+        "summary": "İran Dışişleri Bakanı'nın Pekin'e yapacağı ziyaret, İran ile Amerika Birleşik Devletleri arasındaki artan gerilimlerin ortasında diplomatik çözüm arayışlarını gündeme getirdi. Tahran ve Pekin, iki ülke arasındaki ilişkileri ve bölgesel meseleleri ele almak üzere diplomatik yolları keşfediyor. Bu ziyaret, Çin'in İran ile ABD arasındaki gerilimi azaltmada potansiyel bir arabulucu rolü oynayıp oynayamayacağı sorusunu da beraberinde getiriyor. Görüşmelerde, taraflar arasındaki tansiyonu düşürmeye yönelik adımlar ve bölgesel istikrarın sağlanması konularının ele alınması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T16:33:31.714Z",
+        "location": {
+            "lat": 39.9042,
+            "lng": 116.4074,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789490492036zilne",
+        "title": "Pentagon Müfettişi, İran Savaşı Nedeniyle ABD Mühimmatında Kıtlık Yaşandığını Doğruladı",
+        "summary": "Pentagon'dan yapılan açıklamaya göre, bir müfettişin raporu, İran ile olası bir çatışmanın ABD mühimmat tedarikinde önemli eksikliklere yol açtığını doğruladı. Raporda, eski Başkan Donald Trump'ın ABD tedariklerinin \"neredeyse sınırsız\" olduğu yönündeki iddialarına rağmen, ikmal zincirinde ciddi bir darboğaz yaşandığı belirtildi. Bu durum, ABD'nin askeri hazırlık kapasitesi ve lojistik yetenekleri hakkında endişeleri gündeme getirdi. Müfettişin bulguları, ABD'nin potansiyel askeri operasyonlar için mühimmat stoklarını ve tedarik süreçlerini gözden geçirmesi gerektiğini ortaya koyuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T16:41:32.036Z",
+        "location": {
+            "lat": 32.4,
+            "lng": 53.7,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789490629132e4kr4",
+        "title": "Lübnan ve Pakistanlı Yetkililer Bölgesel Gelişmeleri ve Kolluk İşbirliğini Görüştü",
+        "summary": "Lübnan İçişleri Bakanı, Pakistan Dışişleri ve İçişleri Bakanları ile bir araya gelerek önemli görüşmeler gerçekleştirdi. Bu toplantılarda, iki ülke arasındaki ilişkilerin yanı sıra bölgesel gelişmeler detaylı bir şekilde değerlendirildi. Ayrıca, kolluk kuvvetleri arasında işbirliğinin artırılması ve ortak güvenlik konularında atılabilecek adımlar masaya yatırıldı. Yetkililer, karşılıklı anlayış ve işbirliğinin bölgedeki istikrar için önemine vurgu yaptı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T16:43:49.132Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/lebanese-pakistani-officials-discuss-regional-developments-law-enforcement-cooperation/4058114",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789490667203qe7ui",
+        "title": "Yemen, Husilerin Suudi Arabistan'a Yönelik Saldırılarını Kınadı",
+        "summary": "Yemen hükümeti, Husilerin Suudi Arabistan'a yönelik saldırılarını şiddetle kınadığını ve Suudi Arabistan Krallığı ile tam dayanışma içinde olduğunu açıkladı. Yemen Dışişleri Bakanlığı, uluslararası topluma Husilerin saldırılarını durdurma ve grubun finansman ile silah kaynaklarını kesme çağrısında bulundu. Bu açıklama, bölgedeki çatışmaların sona erdirilmesi ve istikrarın sağlanması yönündeki diplomatik çabaların bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T16:44:27.203Z",
+        "location": {
+            "lat": 12.8,
+            "lng": 45,
+            "name": "Aden, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemen-condemns-houthi-attacks-on-saudi-arabia-voices-full-solidarity-with-kingdom/4058045",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789471964290sqgej",
         "title": "Filistin yanlısı aktivist Mahmoud Khalil neden Columbia Üniversitesi'ne dava açıyor?",
         "summary": "Filistin yanlısı aktivist Mahmoud Khalil, Columbia Üniversitesi ve dekanına dava açtı. Dava dilekçesinde, üniversitenin Filistin yanlısı öğrencileri hedef alan kurumsal ırkçılık yaptığı iddia ediliyor. Khalil, üniversite yönetiminin bu öğrencilere karşı ayrımcı uygulamalar sergilediğini ve ifade özgürlüklerini kısıtladığını öne sürüyor. Bu hukuki süreç, ABD'deki üniversite kampüslerinde Filistin destekçisi aktivizme yönelik muameleler konusundaki tartışmaları yeniden gündeme getirdi.",
@@ -732,70 +796,6 @@
             "name": "Abha, Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/emergency-alerts-issued-in-southwestern-saudi-arabia-to-alert-of-a-potential-danger/4055428",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789233783827mqv3f",
-        "title": "Kuzey Suriye'deki hapishanede çıkan yangında en az yedi kişi hayatını kaybetti",
-        "summary": "Suriye'nin kuzeyindeki Kobani şehrinde bir hapishanede çıkan yangında en az yedi mahkum yaşamını yitirdi. Yangın, eski bir Kürt savaşçının öldürülmesini protesto eden gösterilerin ardından mahkumların isyan etmesi sonucu meydana geldi. Devlet medyası tarafından bildirilen olayda, Kobani'deki gerginliğin hapishane içine sıçradığı belirtildi. Yetkililer, olayın detaylarını araştırmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6069334/pexels-photo-6069334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T17:23:03.827Z",
-        "location": {
-            "lat": 36.89,
-            "lng": 38.35,
-            "name": "Kobane, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/12/at-least-seven-killed-in-fire-at-prison-in-northern-syria?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789222672140oh95k",
-        "title": "İran Destekli Husiler Stratejik Mayun Adası'nı Ele Geçirdi",
-        "summary": "Yemen'deki İran destekli Husiler, stratejik öneme sahip Mayun Adası'nı ele geçirdi. Bu hamle, grubun Kızıldeniz ile Aden Körfezi'ni birbirine bağlayan kritik Bab el-Mandeb Boğazı'ndaki konumunu pekiştirdi. Ancak adanın uzun vadede kontrolünün sağlanmasının zorlu olabileceği değerlendiriliyor. Mayun Adası'nın ele geçirilmesi, bölgedeki deniz güvenliği ve uluslararası ticaret yolları üzerindeki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7588149/pexels-photo-7588149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T14:17:52.140Z",
-        "location": {
-            "lat": 12.63,
-            "lng": 43.4,
-            "name": "Mayun Adası, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/12/iran-backed-houthis-seize-strategic-mayun-island-can-they-hold-it?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789222875546h83lw",
-        "title": "Trump: İran muhtemelen Suudi petrol boru hattı saldırısının arkasında",
-        "summary": "ABD Başkanı Donald Trump, Suudi Arabistan'daki petrol boru hatlarına yönelik saldırılarla ilgili olarak İran'ı işaret etti. Trump, saldırıların arkasında muhtemelen İran'ın olduğunu belirtti. Bu açıklama, bölgedeki gerilimi artırabilecek nitelikte olup, ABD'nin müttefiklerine yönelik tehditlere karşı duruşunu yansıtmaktadır. Suudi Arabistan'ın enerji altyapısına yönelik bu tür saldırılar, küresel petrol piyasaları üzerinde de endişelere yol açmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16600254/pexels-photo-16600254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T14:21:15.546Z",
-        "location": {
-            "lat": 24,
-            "lng": 45,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1789222900488ccgm3",
-        "title": "Suudi Arabistan, Irak'tan düzenlenen insansız hava aracı saldırısı sonrası önemli petrol boru hattını kapattı",
-        "summary": "Suudi Arabistan, Irak topraklarından fırlatılan bir insansız hava aracı saldırısının ardından önemli bir petrol boru hattını geçici olarak kapattı. Bu saldırı, bölgesel enerji güvenliği konusunda endişeleri artırdı. Olayın ardından Irak hükümeti, saldırıyla ilgili kapsamlı bir soruşturma başlattığını ve saldırının gerçekleştiği bölgeden sorumlu bir askeri komutanı görevden aldığını duyurdu. Irak makamları, insansız hava aracının İran sınırına yakın bir bölgeden fırlatıldığını belirtti. Bu gelişmeler, Orta Doğu'daki gerilimi ve güvenlik risklerini yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28861949/pexels-photo-28861949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T14:21:40.488Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
