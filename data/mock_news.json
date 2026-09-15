@@ -1,5 +1,53 @@
 [
     {
+        "id": "1789513501849up06f",
+        "title": "ABD'li Cumhuriyetçi Kongre Üyesi, Savunma Bakanı'nın Azlini İstedi",
+        "summary": "ABD'de Cumhuriyetçi Parti Temsilciler Meclisi Üyesi Thomas Massie, Savunma Bakanı Pete Hegseth'in azledilmesi çağrısında bulundu. Massie, özellikle İran'a karşı olası bir savaşa ve denizaşırı askeri müdahalelere yönelik eleştirel duruşuyla biliniyor. Bu çağrı, ABD'nin dış politika ve savunma stratejilerine yönelik iç tartışmaları gündeme getirirken, Orta Doğu'daki gerilimlerin ABD siyasetindeki yansımalarını da ortaya koyuyor. Kongre üyesinin bu çıkışı, ABD'nin bölgedeki askeri varlığı ve potansiyel çatışmalar konusundaki farklı görüşleri yansıtıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36520962/pexels-photo-36520962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T23:05:01.849Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17895135545309fb73",
+        "title": "Cezayir'e orman yangınları sonrası idam cezası planlarından vazgeçme çağrısı",
+        "summary": "Cezayir'de orman yangınlarının ardından idam cezası getirilmesi yönündeki planlar uluslararası insan hakları gruplarının tepkisini çekti. İnsan hakları örgütleri, Cezayir hükümetinin bu yasal düzenlemeyi iç siyasi muhalefeti bastırmak amacıyla kullanabileceği uyarısında bulundu. Bu durum, ülkedeki siyasi özgürlükler ve insan hakları durumu hakkında endişeleri artırıyor. Uluslararası toplum, Cezayir'i idam cezası uygulamalarından vazgeçmeye ve temel hak ve özgürlüklere saygı göstermeye çağırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6257078/pexels-photo-6257078.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T23:05:54.530Z",
+        "location": {
+            "lat": 36.74,
+            "lng": 3.09,
+            "name": "Cezayir, Cezayir"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17895136231532o3e4",
+        "title": "ABD ve Suriye Bölgesel Güvenlik ve İşbirliğini Görüştü",
+        "summary": "Amerika Birleşik Devletleri Dışişleri Bakanı Marco Rubio ile Suriye Dışişleri Bakanı Esad el-Şeybani arasında bir telefon görüşmesi gerçekleştirildi. Görüşmede, iki ülke yetkilileri bölgesel güvenlik konularını kapsamlı bir şekilde ele aldı. Ayrıca, iki taraf arasındaki işbirliği imkanları ve potansiyel alanlar üzerinde durulduğu belirtildi. Bu diplomatik temas, bölgedeki mevcut durum ve gelecekteki ilişkiler açısından önem taşıyor. Görüşmenin detaylarına ilişkin henüz ek bir açıklama yapılmadı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8070723/pexels-photo-8070723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T23:07:03.153Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.2,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-syria-discuss-regional-security-cooperation/4058404",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17895026545214dnyf",
         "title": "BM: İsrail'in Gazze'deki Cenazelere Saygı Göstermediği İddiası",
         "summary": "Birleşmiş Milletler (BM) insan hakları şefi, İsrail'in Gazze'deki enkaz altında kalan cenazelere karşı saygı eksikliği gösterdiğine dair endişelerini dile getirdi. Şef, tüm ailelere ait kalıntıların ortaya çıkarılmasıyla birlikte savaş suçları kanıtlarına ilişkin kaygılarını yineledi. Bu durum, Gazze'deki çatışmaların insani boyutunu ve uluslararası hukukun potansiyel ihlallerini bir kez daha gündeme getirdi. BM, taraflara uluslararası insancıl hukuka uyma çağrısında bulundu.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "178929585926842l1t",
-        "title": "İsrail'in Gazze'de Araca Yönelik İHA Saldırısında 2 Filistinli Öldü, 13 Kişi Yaralandı",
-        "summary": "Gazze Şeridi'nde İsrail'e ait bir insansız hava aracı (İHA) saldırısı düzenlendi. Tel el-Hava mahallesinde sivil bir aracı hedef alan saldırıda ilk belirlemelere göre 2 Filistinli yaşamını yitirdi, 13 kişi yaralandı. Saldırı, bölgedeki gerilimi artırırken, İsrail'in ateşkes anlaşmasını ihlallerinin devam ettiği bir dönemde gerçekleşti. Olayla ilgili detaylı soruşturma başlatıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6493443/pexels-photo-6493443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-13T10:37:39.268Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4667,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-13-injured-in-israeli-drone-strike-on-vehicle-in-gaza/4055681",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1789276492988hyzl5",
-        "title": "Cezayir, BAE ile diplomatik ilişkilerini kesecek",
-        "summary": "Cezayir, Birleşik Arap Emirlikleri (BAE) ile diplomatik ilişkilerini sonlandırma kararı aldı. Cezayir Dışişleri Bakanlığı tarafından yapılan açıklamada, bu kararın gerekçesi belirtilmedi. Ancak bakanlık, bu yönde atılacak adımlar için tüm yolların tüketildiğini ifade etti. Bu gelişme, iki ülke arasındaki ilişkilerde önemli bir gerilime işaret ediyor ve bölgesel dinamikler açısından dikkat çekiyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-13T05:14:52.988Z",
-        "location": {
-            "lat": 36.737232,
-            "lng": 3.086497,
-            "name": "Cezayir, Cezayir"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx2zpgpngvpo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17892582863833oe3j",
-        "title": "Irak, Suudi petrol boru hattını hedef almak için kullanılan insansız hava aracı fırlatma platformunu ele geçirdi",
-        "summary": "Irak güvenlik güçleri, Suudi Arabistan'a ait bir petrol boru hattını hedef almak amacıyla kullanılan bir insansız hava aracı (İHA) fırlatma platformunu kendi toprakları içerisinde ele geçirdi. İstihbarat ve güvenlik birimlerinden oluşan özel bir görev gücü, önemli çabalar sonucunda bu platformun yerini tespit ederek operasyon düzenledi. Yetkililer, platformun Irak toprakları içinde bulunduğunu ve ele geçirildiğini doğruladı. Bu operasyon, bölgesel güvenlik ve enerji altyapısına yönelik tehditlerin önlenmesi açısından kritik bir adım olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3722737/pexels-photo-3722737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-13T00:11:26.383Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline/4055530",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
