@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789433466516nndkq",
+        "title": "Suriye, 73 ton doğal uranyumun artık IAEA güvencesi altında olduğunu açıkladı",
+        "summary": "Suriye, Uluslararası Atom Enerjisi Ajansı (IAEA) ile ilgili önemli bir gelişmeyi duyurdu. Şam yönetimi, 73 ton doğal uranyumun artık IAEA güvencesi altında olduğunu bildirdi. Açıklamada ayrıca, nükleer gözlemci kuruluşun Suriye'ye yönelik 15 yıllık uyumsuzluk dosyasını kapattığı belirtildi. Bu kararın, Suriye ile IAEA arasında yeni bir işbirliği aşamasının başlangıcı olduğu ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12276056/pexels-photo-12276056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-15T00:51:06.516Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/syria-says-73-tons-of-natural-uranium-now-under-iaea-safeguards/4057242",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17894244577919kw7m",
         "title": "İsrail saldırısı Gazze'deki yerinden edilmiş kişilerin kampını hedef aldı",
         "summary": "İsrail ordusu, Gazze Şeridi'ndeki yerinden edilmiş kişilerin barındığı bir kampı hedef alan bir saldırı gerçekleştirdi. Saldırının tam olarak Gazze'nin hangi bölgesinde meydana geldiği ve can kaybı veya yaralanma olup olmadığına dair ilk bilgiler henüz netleşmedi. Bölgedeki kaynaklar, saldırının ardından yoğun dumanların yükseldiğini ve kurtarma ekiplerinin olay yerine sevk edildiğini bildirdi. İsrail makamlarından saldırıya ilişkin henüz resmi bir açıklama yapılmazken, uluslararası toplum Gazze'deki sivillerin korunması konusundaki endişelerini sürdürüyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1789211362302a59wn",
-        "title": "Yemen'de Çatışmalar Yeniden Alevlendi, Siviller Bedel Ödüyor",
-        "summary": "Yemen'de çatışmaların yeniden şiddetlenmesiyle birlikte insani durum kötüleşiyor. Son bir haftadan kısa sürede 900'den fazla kişi hayatını kaybetti veya yaralandı. Şiddet olayları nedeniyle en az 5.000 aile evlerini terk etmek zorunda kaldı. Bölgedeki sivil halk, artan şiddetin doğrudan mağduru olmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8876109/pexels-photo-8876109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-12T11:09:22.302Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 47.5,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
