@@ -1,5 +1,37 @@
 [
     {
+        "id": "17895224052260b5w7",
+        "title": "İsrail askerleri işgal altındaki Batı Şeria'da helikopterden iniş yaptı",
+        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da bulunan Yatta kentinde bir operasyon gerçekleştirdi. Askerler, bir helikopterden bir konut binasının çatısına iple iniş yaparak bölgeye girdi. Bu olay, İsrail güçlerinin Batı Şeria'daki varlığını ve operasyonlarını bir kez daha gündeme getirdi. Bölgedeki gerilimi artırma potansiyeli taşıyan bu tür operasyonlar, uluslararası kamuoyunun dikkatini çekmektedir. Yatta, Batı Şeria'nın güneyinde yer alan bir Filistin kasabasıdır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35171070/pexels-photo-35171070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-16T01:33:25.226Z",
+        "location": {
+            "lat": 31.4,
+            "lng": 35.09,
+            "name": "Yatta, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1789522521020ydu3k",
+        "title": "ABD Büyükelçisi 20 Yıl Sonra Güney Lübnan'ı Ziyaret Etti",
+        "summary": "ABD Büyükelçisi Michel Issa, son 20 yıl içinde bir ilk olarak Güney Lübnan'a diplomatik bir ziyaret gerçekleştirdi. Ziyaret sırasında, İsrail tarafından zarar gören bölgeler ve Litani Nehri üzerindeki geçici geçiş noktası incelendi. Büyükelçi Issa'nın bölgedeki temasları devam ederken, bir İsrail insansız hava aracının ziyaret edilen alan üzerinde uçtuğu bildirildi. Bu ziyaret, ABD'nin Lübnan'a yönelik diplomatik çabalarını ve bölgedeki güvenlik dinamiklerini yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-16T01:35:21.020Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-ambassador-visits-southern-lebanon-in-1st-such-trip-in-20-years/4058426",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789513501849up06f",
         "title": "ABD'li Cumhuriyetçi Kongre Üyesi, Savunma Bakanı'nın Azlini İstedi",
         "summary": "ABD'de Cumhuriyetçi Parti Temsilciler Meclisi Üyesi Thomas Massie, Savunma Bakanı Pete Hegseth'in azledilmesi çağrısında bulundu. Massie, özellikle İran'a karşı olası bir savaşa ve denizaşırı askeri müdahalelere yönelik eleştirel duruşuyla biliniyor. Bu çağrı, ABD'nin dış politika ve savunma stratejilerine yönelik iç tartışmaları gündeme getirirken, Orta Doğu'daki gerilimlerin ABD siyasetindeki yansımalarını da ortaya koyuyor. Kongre üyesinin bu çıkışı, ABD'nin bölgedeki askeri varlığı ve potansiyel çatışmalar konusundaki farklı görüşleri yansıtıyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-monday-s-meeting-in-oman-to-focus-on-new-maritime-route-in-strait-of-hormuz/4055850",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178931124542636syy",
-        "title": "İran Devrim Muhafızları'ndan ABD'nin Hürmüz Boğazı İddialarına Ret ve Uyarı",
-        "summary": "İran Devrim Muhafızları (IRGC), ABD'nin Hürmüz Boğazı üzerindeki kontrol iddialarını reddetti. Üst düzey bir IRGC yetkilisi, ABD gemilerinin Tahran tarafından belirlenen kısıtlı bölgeye yaklaşması halinde İran güçlerinin karşılık vereceği uyarısında bulundu. Bu açıklama, bölgedeki stratejik su yolunun güvenliği ve uluslararası denizcilik üzerindeki potansiyel etkileri konusunda endişeleri artırıyor. Gerilim, iki ülke arasındaki mevcut anlaşmazlıkları daha da derinleştirme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31585397/pexels-photo-31585397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-13T14:54:05.426Z",
-        "location": {
-            "lat": 26.25,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guards-reject-trump-s-claim-of-us-control-over-strait-of-hormuz/4055770",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17892954796683n48n",
-        "title": "Suudi Arabistan'da Cami ve Evler Husi Saldırısında Hasar Gördü",
-        "summary": "Suudi Arabistan'da, Yemen'deki Husiler tarafından düzenlendiği iddia edilen bir saldırı sonucunda bir cami ve bazı konutlarda hasar meydana geldiği bildirildi. Yerel kaynaklar, saldırının ardından bölgede güvenlik önlemlerinin artırıldığını belirtti. Olayla ilgili resmi makamlardan henüz detaylı bir açıklama yapılmazken, saldırının bölgedeki gerilimi tırmandırma potansiyeli taşıdığı ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5095300/pexels-photo-5095300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-13T10:31:19.669Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
