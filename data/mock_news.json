@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789580041076spv97",
+        "title": "Tırmanan Suudi Petrol Krizi Küresel Fiyatları Nasıl Etkileyebilir?",
+        "summary": "Suudi Arabistan'da tırmanan bir petrol krizinin küresel ekonomiye olası etkileri inceleniyor. BBC Verify'den Ben Chu, yükselen enerji maliyetlerinin dünya genelindeki fiyatları nasıl artırabileceğini analiz ediyor. Uzmanlar, Suudi petrol arzında yaşanabilecek herhangi bir aksaklığın veya fiyat artışının küresel enflasyonu tetikleyebileceği konusunda uyarıyor. Bu durumun, tüketicilerin alım gücünü düşürerek ve işletmelerin maliyetlerini yükselterek geniş çaplı ekonomik sonuçlar doğurabileceği belirtiliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/10420382/pexels-photo-10420382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-16T17:34:01.076Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cqlym3wye1ero?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789562710131sd1k6",
         "title": "Taiz Kampları, Husilerin Saldırısı Sonrası Çatışmalardan Kaçan Yemenlilerle Dolup Taştı",
         "summary": "Yemen'deki iç savaşın son dönemdeki tırmanışı, Taiz vilayetinde büyük bir insani krize yol açtı. Husilerin bölgedeki saldırıları sonrasında on binlerce Yemenli evlerini terk etmek zorunda kaldı. Yerinden edilen bu kişiler, Taiz'deki kamplara sığınarak yaşam mücadelesi veriyor. Kampların kapasitesinin aşılması, insani yardım kuruluşları için acil bir durum oluşturuyor ve bölgedeki insani ihtiyaçların arttığına işaret ediyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/20-israeli-occupier-families-seize-land-in-jordan-valley/4056848",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789391783992w4lnx",
-        "title": "Suriye-Irak Sınırı Boyunca Çölde İşçiler Tuzdan Geçim Sağlıyor",
-        "summary": "Suriye-Irak sınırı boyunca uzanan Deyrizor Çölü'nde, işçiler tuz çıkararak geçimlerini sağlamak için zorlu koşullarda mücadele ediyor. Bölgedeki tuz yataklarından madencilik yapan bu emekçiler, kavurucu sıcaklara ve yoğun toza rağmen fiziksel olarak oldukça yorucu bir çalışma sergiliyor. Çölün derinliklerinden tuzu çıkarıp taşıyan işçiler, ailelerinin ihtiyaçlarını karşılamak amacıyla bu zorlu mesleği sürdürüyor. Tuz madenciliği, bu kurak coğrafyada hayatta kalmak için önemli bir ekonomik faaliyet olarak öne çıkıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36124212/pexels-photo-36124212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-14T13:16:23.992Z",
-        "location": {
-            "lat": 35.33,
-            "lng": 40.15,
-            "name": "Deyrizor, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/workers-carve-out-a-living-from-salt-in-desert-along-syria-iraq-border/4056830",
-        "trendScore": 65,
         "isBreaking": false
     }
 ]
