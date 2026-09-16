@@ -1,5 +1,37 @@
 [
     {
+        "id": "1789602298656q6sen",
+        "title": "ABD Ordusu, Devam Eden Abluka İddialarına Rağmen Hürmüz Boğazı'nın Açık Kaldığını Bildirdi",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) sözcüsü, Hürmüz Boğazı'ndaki deniz taşımacılığına yönelik gerilimler hakkında açıklamalarda bulundu. Sözcü, hayati önem taşıyan bu su yolunun, devam eden abluka iddialarına rağmen uluslararası seyrüsefere açık kaldığını belirtti. Bu açıklama, küresel petrol ticareti için stratejik bir geçiş noktası olan boğazdaki güvenlik endişelerinin sürdüğü bir dönemde geldi. Bölgedeki deniz trafiği üzerindeki gerilimler, Orta Doğu'nun jeopolitik dinamiklerinde önemli bir yer tutmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34621168/pexels-photo-34621168.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-16T23:44:58.656Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789602322085zdbnk",
+        "title": "Suriye'de Yakıt Zamları Ekonomik Sıkıntıyı Derinleştiriyor",
+        "summary": "Suriye'de dizel ve benzin fiyatlarına yapılan zamlar, ülke genelinde ulaşım ve gıda maliyetlerini artırıyor. Halihazırda yoksullukla mücadele eden Suriye halkı için bu durum, ekonomik sıkıntıları daha da derinleştiriyor. Yakıt zamları, temel ihtiyaçlara erişimi zorlaştırarak yaşam maliyetini yükseltiyor ve ülkedeki insani krizi tetikliyor. Bu durum, zaten kırılgan olan Suriye ekonomisi üzerindeki baskıyı artırıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/29370543/pexels-photo-29370543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-16T23:45:22.085Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789592538424sxsbx",
         "title": "Husiler, düşürüldüğünü iddia ettikleri Suudi savaş uçağına ait yeni görüntüleri yayımladı",
         "summary": "Yemen'deki Husi güçleri, ülkenin Marib kentinde düşürdüklerini öne sürdükleri bir Suudi savaş uçağına ait yeni bir video yayımladı. Yayımlanan görüntülerde, uçağın enkazının ve çevresindeki alanın yer aldığı iddia ediliyor. Husiler, Suudi Arabistan liderliğindeki koalisyon güçlerine ait uçağın kendi hava savunma sistemleri tarafından hedef alındığını belirtiyor. Suudi Arabistan'dan konuya ilişkin henüz resmi bir açıklama yapılmadı.",
@@ -764,38 +796,6 @@
             "name": "Amerika Birleşik Devletleri"
         },
         "source": "https://www.aa.com.tr/en/middle-east/macklemore-dropped-from-ed-sheerans-us-tour-after-his-comments-on-palestine/4057086",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789412029077spfya",
-        "title": "Türk Dışişleri Bakanı Fidan, Katarlı ve Suudi Mevkidaşlarıyla Bölgesel Gelişmeleri Görüştü",
-        "summary": "Türk Dışişleri Bakanı Hakan Fidan, Katar ve Suudi Arabistan dışişleri bakanlarıyla ayrı ayrı telefon görüşmeleri gerçekleştirdi. Dışişleri Bakanlığı kaynaklarından edinilen bilgiye göre, görüşmelerde bölgesel saldırılar ve devam eden müzakereler ele alındı. Bu diplomatik temaslar, Türkiye'nin Orta Doğu'daki güvenlik ve istikrar konularına verdiği önemi vurguluyor. Görüşmelerin, bölgedeki gerilimlerin azaltılmasına ve çözüm yollarının bulunmasına yönelik çabalara katkı sağlaması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/6814536/pexels-photo-6814536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-14T18:53:49.077Z",
-        "location": {
-            "lat": 39.9334,
-            "lng": 32.8597,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-discusses-regional-attacks-negotiations-with-qatari-saudi-counterparts/4057071",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789391639582ldzxs",
-        "title": "İran-Arap Zirvesi Ertelendi, Hürmüz Çözümü Gecikti",
-        "summary": "İran ve Arap ülkeleri arasında Hürmüz Boğazı'na yönelik geçici bir çözüm bulmak amacıyla planlanan zirve, Suudi Arabistan'ın erteleme talebi üzerine ileri bir tarihe ertelendi. Bu erteleme, bölgedeki diplomatik süreçlerdeki karmaşıklığı bir kez daha gözler önüne serdi. Tahran yönetimi ise zirvenin ertelenmesine rağmen, bölgesel destekli bir yasa tasarısı arayışını sürdüreceğini ve bu konudaki çabalarından vazgeçmeyeceğini açıkladı. Söz konusu zirve, Basra Körfezi'ndeki seyrüsefer güvenliği ve bölgesel istikrar açısından kritik öneme sahipti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-14T13:13:59.582Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
