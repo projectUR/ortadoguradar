@@ -1,5 +1,37 @@
 [
     {
+        "id": "1789682278826n6wac",
+        "title": "Trump Yönetimi Suudi Arabistan'a F-35 Satışını Onayladı",
+        "summary": "Trump yönetimi, Suudi Arabistan'a F-35 savaş uçaklarının satışına onay verdiğini duyurdu. Bu anlaşmanın yürürlüğe girmesi için ABD Kongresi'nin onayı gerekiyor. Riyad'ın, Yemen'deki Husilere karşı yürüttüğü savaşta Washington'dan yardım arayışında olduğu bir dönemde bu gelişme yaşandı. Söz konusu satışın bölgesel güç dengeleri üzerinde önemli etkileri olabileceği değerlendiriliyor. Anlaşmanın detayları ve Kongre'deki onay süreci yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37106389/pexels-photo-37106389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-17T21:57:58.826Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789682301618jw42g",
+        "title": "Yemen'den Cibuti'ye Sığınmacı Akını Artıyor",
+        "summary": "Yemen'deki çatışmalar nedeniyle binlerce kişinin Cibuti'ye sığınmasıyla birlikte, Cibuti uluslararası topluma insani yardım çağrısında bulundu. Ülkeye ulaşan Yemenliler, zorlu koşullar altında Cibuti'ye varmak için çıktıkları tehlikeli yolculukları anlatıyor. Bu durum, bölgedeki insani krizin boyutunu gözler önüne seriyor ve sığınmacılara yönelik uluslararası desteğin aciliyetini vurguluyor. Cibuti, artan sığınmacı yüküyle başa çıkmak için küresel dayanışmaya ihtiyaç duyduğunu belirtiyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10097192/pexels-photo-10097192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-17T21:58:21.618Z",
+        "location": {
+            "lat": 11.5886,
+            "lng": 43.145,
+            "name": "Cibuti, Cibuti"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17896711410119sas4",
         "title": "İngiltere Futbol Federasyonu'ndan FIFA'ya Dünya Kupası Satış Planı Belgeleri Çağrısı",
         "summary": "FIFA Başkanı Gianni Infantino'nun Dünya Kupası'nın ticari haklarının satışı veya yeniden yapılandırılmasına yönelik planı küresel çapta tepkilere yol açtı. Son olarak İngiltere Futbol Federasyonu (FA), Infantino'dan bu 'satış planı' ile ilgili belgelerin kamuoyuna açıklanmasını talep etti. FA, planın şeffaflık ve hesap verebilirlik ilkelerine uygun olmadığını belirterek, detayların tüm paydaşlarla paylaşılması gerektiğini vurguladı. Bu talep, FIFA'nın gelecekteki Dünya Kupası organizasyonları ve ticari stratejileri üzerindeki tartışmaları daha da alevlendirdi. Planın, turnuvanın formatı, sıklığı ve ev sahipliği süreçleri üzerindeki potansiyel etkileri endişe yaratıyor.",
@@ -764,38 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789502756494wr8og",
-        "title": "Hürmüz Boğazı'nda Tanker Saldırısı: İki Denizci Kayıp",
-        "summary": "Umman tarafından yapılan açıklamaya göre, Hürmüz Boğazı'nda bir tankere yönelik saldırı düzenlendi ve olayda iki denizci kayboldu. El Gaia adlı tankerin hedef alındığı belirtilirken, saldırının nedeni konusunda farklı iddialar ortaya atıldı. İran, tankerin mayınlara çarparak alev aldığını savunurken, ABD ise geminin önce bir füze, ardından da bir insansız hava aracıyla vurulduğunu öne sürdü. Bu olay, dünyanın en önemli petrol geçiş noktalarından biri olan Hürmüz Boğazı'nda deniz güvenliği endişelerini artırdı ve bölgesel gerilimi yükseltme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4062506/pexels-photo-4062506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-15T20:05:56.494Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1789490011714qdrbb",
-        "title": "İran Dışişleri Bakanı Pekin'e Giderken Çin Arabuluculuk Rolü Üstlenebilir mi?",
-        "summary": "İran Dışişleri Bakanı'nın Pekin'e yapacağı ziyaret, İran ile Amerika Birleşik Devletleri arasındaki artan gerilimlerin ortasında diplomatik çözüm arayışlarını gündeme getirdi. Tahran ve Pekin, iki ülke arasındaki ilişkileri ve bölgesel meseleleri ele almak üzere diplomatik yolları keşfediyor. Bu ziyaret, Çin'in İran ile ABD arasındaki gerilimi azaltmada potansiyel bir arabulucu rolü oynayıp oynayamayacağı sorusunu da beraberinde getiriyor. Görüşmelerde, taraflar arasındaki tansiyonu düşürmeye yönelik adımlar ve bölgesel istikrarın sağlanması konularının ele alınması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-15T16:33:31.714Z",
-        "location": {
-            "lat": 39.9042,
-            "lng": 116.4074,
-            "name": "Pekin, Çin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
