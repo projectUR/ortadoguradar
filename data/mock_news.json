@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789772935439kf4x0",
+        "title": "Suudi Arabistan'dan Belirsiz Tehdit Nedeniyle Yedi Bölgede Acil Durum Uyarısı",
+        "summary": "Suudi Arabistan, ülkenin yedi farklı bölgesinde belirsiz bir tehdit nedeniyle acil durum uyarıları yayınladı. Ulusal erken uyarı platformu aracılığıyla gönderilen bu uyarılar, Cidde, Taif, Yanbu, AlUla, Hamis Muşayt, Cazan ve Abha şehirlerini kapsıyor. Yetkililer, vatandaşların ve bölge sakinlerinin dikkatli olmaları ve güvenlik talimatlarına uymaları gerektiğini belirtti. Uyarıların içeriği ve tehdidin niteliği hakkında henüz detaylı bir açıklama yapılmadı. Bu durum, bölgede güvenlik endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3321792/pexels-photo-3321792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-18T23:08:55.439Z",
+        "location": {
+            "lat": 21.4858,
+            "lng": 39.1925,
+            "name": "Cidde, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-issues-emergency-alerts-in-7-areas-over-unspecified-threat/4061627",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1789763818905c8xnt",
         "title": "Suriye, sivillere yönelik saldırılar nedeniyle beş eski Esad dönemi subayını tutukladı",
         "summary": "Suriye'de önemli bir gelişme yaşandı. Ülke yönetimi, sivillere yönelik saldırılarla suçlanan beş eski Esad dönemi subayını gözaltına aldı. Tutuklananlar arasında bir hava kuvvetleri generali de bulunuyor. Bu tutuklamaların, bir dizi operasyon sonucunda gerçekleştirildiği belirtildi. Olay, Suriye'deki iç dinamikler ve geçmişteki olaylarla yüzleşme açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "178956291426518t67",
-        "title": "Suudi Arabistan, Mekke'nin güneyinde Husi insansız hava aracını düşürdüğünü açıkladı",
-        "summary": "Suudi Arabistan, Mekke'nin güneyinde Husilere ait bir insansız hava aracını düşürdüğünü açıkladı. Suudi liderliğindeki Yemen koalisyonu, bu eylemi \"utanç verici\" olarak nitelendirerek Husileri suçladı. Ancak Husiler, İslam'ın kutsal şehrini hedef aldıkları yönündeki iddiaları kesin bir dille yalanladı. Bu gelişme, Yemen'deki devam eden çatışmaların ve bölgesel gerilimin bir yansıması olarak öne çıkıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14484029/pexels-photo-14484029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-16T12:48:34.265Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": true
     }
 ]
