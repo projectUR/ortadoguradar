@@ -1,5 +1,37 @@
 [
     {
+        "id": "1789763818905c8xnt",
+        "title": "Suriye, sivillere yönelik saldırılar nedeniyle beş eski Esad dönemi subayını tutukladı",
+        "summary": "Suriye'de önemli bir gelişme yaşandı. Ülke yönetimi, sivillere yönelik saldırılarla suçlanan beş eski Esad dönemi subayını gözaltına aldı. Tutuklananlar arasında bir hava kuvvetleri generali de bulunuyor. Bu tutuklamaların, bir dizi operasyon sonucunda gerçekleştirildiği belirtildi. Olay, Suriye'deki iç dinamikler ve geçmişteki olaylarla yüzleşme açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7785092/pexels-photo-7785092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-18T20:36:58.905Z",
+        "location": {
+            "lat": 34.802075,
+            "lng": 38.996815,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1789763856165rvup6",
+        "title": "Lübnanlı Sanatçı, İsrail Füze Enkazını Sanata Dönüştürüyor",
+        "summary": "Güney Lübnan'da görsel sanatçı Lina Jouni, İsrail füze saldırılarından arta kalan enkazı sanat eserlerine dönüştürüyor. Sanatçı, bölgede yaşanan çatışmaların ve yıkımın izlerini taşıyan bu parçaları kullanarak yeni bir anlam katıyor. Jouni'nin çalışmaları, savaşın yıkıcı etkilerine karşı sanatsal bir direniş ve iyileşme çabası olarak değerlendiriliyor. Bu projeyle, çatışma bölgelerindeki insanların yaşadığı travmaları ve umutları yansıtmayı hedefliyor. Sanatçı, enkazı dönüştürerek hem çevresel bir farkındalık yaratıyor hem de bölgenin acı dolu geçmişine farklı bir perspektif sunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36715329/pexels-photo-36715329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-18T20:37:36.165Z",
+        "location": {
+            "lat": 33.27,
+            "lng": 35.2,
+            "name": "Güney Lübnan"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789753638129m4tef",
         "title": "UEFA ve CONCACAF'tan FIFA'ya Rezervler ve Üyelere Ödeme Çağrısı",
         "summary": "UEFA ve CONCACAF, FIFA'ya finansal rezervleri konusunda meydan okuyarak, tüm üye federasyonlara büyük bir ödeme yapılması çağrısında bulundu. Konfederasyon başkanları, FIFA Başkanı Gianni Infantino'dan, FIFA'nın 211 üye federasyonunun her birine 10 milyon dolar olmak üzere toplam 2.1 milyar dolarlık bir ödeme yapılmasını talep etti. Bu talep, FIFA'nın elindeki rezervlerin dünya genelindeki futbol federasyonlarının finansal olarak desteklenmesi amacıyla dağıtılması gerektiğini vurguluyor. Orta Doğu'daki futbol federasyonları da bu potansiyel ödemeden etkilenecekler arasında yer alıyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1789562938541bbf4s",
-        "title": "Gazze'deki Hastane Jeneratörlerinin %70'i Devre Dışı Kaldı: Sağlık Bakanlığı",
-        "summary": "Gazze Sağlık Bakanlığı tarafından yapılan açıklamaya göre, bölgedeki hastanelerde bulunan jeneratörlerin yüzde 70'i hizmet dışı kalmış durumda. Bu durumun temel nedeni, devam eden İsrail ablukası nedeniyle yaşanan yakıt, yağ ve yedek parça sıkıntısı olarak belirtildi. Söz konusu eksiklikler, hastanelerin kritik departmanlarının işleyişini ciddi şekilde tehdit ediyor ve bölgedeki sağlık hizmetlerinin sürdürülebilirliği konusunda endişelere yol açıyor. Acil insani yardım ve malzeme tedariki çağrıları yapılıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6129152/pexels-photo-6129152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-16T12:48:58.541Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/70-of-hospital-generators-in-gaza-out-of-service-health-ministry/4058886",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789562959281y8g5y",
-        "title": "Yemen ordusu, batı Taiz'deki Husi mevzilerini hedef aldı",
-        "summary": "Yemen ordusu, ülkenin batısındaki Taiz kentinde Husilere ait mevzilere yönelik bir operasyon gerçekleştirdi. Askeri kaynaklardan yapılan açıklamaya göre, Al-Kadha cephesinde Husi mevzileri, kışlaları ve personeli hedef alındı. Operasyonun, bölgedeki çatışmaların devam ettiğini gösterdiği belirtildi. Yemen'deki iç savaşın önemli cephelerinden biri olan Taiz'de zaman zaman şiddetli çatışmalar yaşanmaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4833556/pexels-photo-4833556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-16T12:49:19.281Z",
-        "location": {
-            "lat": 13.58,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-targets-houthi-positions-in-western-taiz/4058839",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
