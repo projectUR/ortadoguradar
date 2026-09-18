@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789689903633h8yja",
+        "title": "Yemen Üzerinde Düşürülen Suudi Savaş Uçağının Enkazı Doğrulandı",
+        "summary": "BBC Verify, Yemen üzerinde düşürüldüğü iddia edilen bir Suudi savaş uçağının enkazını gösteren Husi videosunun konumunu doğruladı. Görüntülerde, Husilerin düşürdüğünü öne sürdüğü bir F-15 tipi savaş uçağının kalıntıları yer alıyor. Bu olay, Yemen'de Suudi Arabistan liderliğindeki koalisyon güçleri ile Husi isyancılar arasında devam eden çatışmaların bir parçası olarak kaydedildi. Bölgedeki gerilimin sürdüğünü gösteren bu gelişme, uluslararası kamuoyunun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849157/pexels-photo-11849157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-18T00:05:03.633Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789682278826n6wac",
         "title": "Trump Yönetimi Suudi Arabistan'a F-35 Satışını Onayladı",
         "summary": "Trump yönetimi, Suudi Arabistan'a F-35 savaş uçaklarının satışına onay verdiğini duyurdu. Bu anlaşmanın yürürlüğe girmesi için ABD Kongresi'nin onayı gerekiyor. Riyad'ın, Yemen'deki Husilere karşı yürüttüğü savaşta Washington'dan yardım arayışında olduğu bir dönemde bu gelişme yaşandı. Söz konusu satışın bölgesel güç dengeleri üzerinde önemli etkileri olabileceği değerlendiriliyor. Anlaşmanın detayları ve Kongre'deki onay süreci yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1789502733803j6ifq",
-        "title": "Mısır Cumhurbaşkanı Sisi, MBS ile Görüştü, Suudi Arabistan'ın Kızıldeniz Güvenliği Çağrısını Destekledi",
-        "summary": "Mısır Cumhurbaşkanı Abdulfettah el-Sisi, Suudi Arabistan Veliaht Prensi Muhammed bin Selman (MBS) ile bir araya geldi. Görüşmede, Kızıldeniz'de güvenli seyrüseferin sağlanması yönündeki Suudi Arabistan çağrısına destek verildi. Kızıldeniz'deki mevcut aksaklıklar, Mısır ekonomisi üzerinde olumsuz etkiler yaratıyor. Özellikle Süveyş Kanalı gelirleri, son iki yılda 7 milyar dolar düşüş gösterdi. Bu durum, bölgedeki deniz güvenliğinin Mısır'ın ekonomik istikrarı için kritik önem taşıdığını bir kez daha ortaya koydu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-15T20:05:33.803Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
