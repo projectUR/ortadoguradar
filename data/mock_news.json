@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789707785100fdhmz",
+        "title": "BM Uzmanları: ABD'nin İran Saldırılarında Savaş Suçu İşlediğine Dair Kanıtlar Var",
+        "summary": "Birleşmiş Milletler uzmanları, Amerika Birleşik Devletleri'nin İran'da gerçekleştirdiği saldırılarda savaş suçu işlemiş olabileceğine dair kanıtlar bulunduğunu açıkladı. Uzmanlar, özellikle Şubat ayında Minab'daki bir ilkokula ve Lamerd'deki bir spor kompleksine düzenlenen ölümcül saldırıları işaret etti. Bu saldırıların ABD tarafından gerçekleştirildiğine dair güçlü inançlar olduğu belirtildi. Ancak Amerika Birleşik Devletleri, söz konusu saldırıları üstlendiğini henüz doğrulamadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17885542/pexels-photo-17885542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-18T05:03:05.100Z",
+        "location": {
+            "lat": 27.15,
+            "lng": 57.08,
+            "name": "Minab, Lamerd, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789689903633h8yja",
         "title": "Yemen Üzerinde Düşürülen Suudi Savaş Uçağının Enkazı Doğrulandı",
         "summary": "BBC Verify, Yemen üzerinde düşürüldüğü iddia edilen bir Suudi savaş uçağının enkazını gösteren Husi videosunun konumunu doğruladı. Görüntülerde, Husilerin düşürdüğünü öne sürdüğü bir F-15 tipi savaş uçağının kalıntıları yer alıyor. Bu olay, Yemen'de Suudi Arabistan liderliğindeki koalisyon güçleri ile Husi isyancılar arasında devam eden çatışmaların bir parçası olarak kaydedildi. Bölgedeki gerilimin sürdüğünü gösteren bu gelişme, uluslararası kamuoyunun dikkatini çekiyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/us-syria-discuss-regional-security-cooperation/4058404",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17895026545214dnyf",
-        "title": "BM: İsrail'in Gazze'deki Cenazelere Saygı Göstermediği İddiası",
-        "summary": "Birleşmiş Milletler (BM) insan hakları şefi, İsrail'in Gazze'deki enkaz altında kalan cenazelere karşı saygı eksikliği gösterdiğine dair endişelerini dile getirdi. Şef, tüm ailelere ait kalıntıların ortaya çıkarılmasıyla birlikte savaş suçları kanıtlarına ilişkin kaygılarını yineledi. Bu durum, Gazze'deki çatışmaların insani boyutunu ve uluslararası hukukun potansiyel ihlallerini bir kez daha gündeme getirdi. BM, taraflara uluslararası insancıl hukuka uyma çağrısında bulundu.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/12634980/pexels-photo-12634980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-15T20:04:14.521Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
