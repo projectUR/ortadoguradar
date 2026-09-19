@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789799444795886ic",
+        "title": "İran ve Çin, Yeni Etki Kampanyalarında Yapay Zeka Ajanları Kullandı: Rapor",
+        "summary": "Bir rapora göre, İran ve Çin'in yeni nesil etki kampanyalarında yapay zeka ajanlarını kullandığı ortaya çıktı. Bu kampanyaların, çevrimiçi görevleri otonom olarak yerine getirebilen \"ajanlar\" oluşturmak amacıyla serbestçe erişilebilen Çin yapay zeka modellerini kullandığı belirtildi. Söz konusu yapay zeka destekli operasyonların, siber güvenlik ve dezenformasyonla mücadele alanında yeni bir boyut açtığı ifade ediliyor. Uzmanlar, bu tür faaliyetlerin uluslararası ilişkiler ve bölgesel güvenlik üzerinde önemli etkileri olabileceği konusunda uyarıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8566470/pexels-photo-8566470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-19T06:30:44.795Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-china-used-ai-agents-in-novel-influence-campaigns-report/4061665",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789781228934rfo7s",
         "title": "ABD, Ukrayna Savaşı Nedeniyle Rusya'ya Kapsamlı Yaptırımlar Uyguladı",
         "summary": "Amerika Birleşik Devletleri, Ukrayna'daki savaş nedeniyle Rusya'ya karşı yeni ve kapsamlı yaptırımları yürürlüğe koydu. Yeni ABD yasası, Kremlin'in savaş finansmanını zayıflatmayı ve Rusya'yı Ukrayna ile müzakerelere zorlamayı amaçlayan sert tedbirler içeriyor. Bu yaptırımlar, Rus ekonomisi üzerindeki baskıyı artırarak Moskova'nın askeri kapasitesini kısıtlamayı hedefliyor. Yaptırımların küresel enerji piyasaları ve uluslararası ilişkiler üzerindeki potansiyel etkileri yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/features/2026/9/16/us-set-to-approve-60000-heavy-bombs-for-israel-what-that-means?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789562806686rv0ga",
-        "title": "Hindistan, Arap Denizi'ndeki Olay Sonrası Pakistanlı Diplomatı Çağırdı",
-        "summary": "Hindistan, Arap Denizi'nde iki ülkenin donanmaları arasında yaşanan bir olayın ardından Pakistanlı bir diplomatı dışişleri bakanlığına çağırdı. Yeni Delhi yönetimi, Pakistan'ı ikili anlaşmaları ihlal etmekle suçladı. Yaşanan çarpışma, iki nükleer güç arasındaki gerilimi yeniden gündeme getirdi. Bu diplomatik adım, bölgedeki deniz güvenliği ve iki ülke arasındaki ilişkilerin hassasiyetini bir kez daha ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/15944136/pexels-photo-15944136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-16T12:46:46.686Z",
-        "location": {
-            "lat": 18,
-            "lng": 65,
-            "name": "Arap Denizi"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
