@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789781228934rfo7s",
+        "title": "ABD, Ukrayna Savaşı Nedeniyle Rusya'ya Kapsamlı Yaptırımlar Uyguladı",
+        "summary": "Amerika Birleşik Devletleri, Ukrayna'daki savaş nedeniyle Rusya'ya karşı yeni ve kapsamlı yaptırımları yürürlüğe koydu. Yeni ABD yasası, Kremlin'in savaş finansmanını zayıflatmayı ve Rusya'yı Ukrayna ile müzakerelere zorlamayı amaçlayan sert tedbirler içeriyor. Bu yaptırımlar, Rus ekonomisi üzerindeki baskıyı artırarak Moskova'nın askeri kapasitesini kısıtlamayı hedefliyor. Yaptırımların küresel enerji piyasaları ve uluslararası ilişkiler üzerindeki potansiyel etkileri yakından takip ediliyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/19544043/pexels-photo-19544043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-19T01:27:08.934Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789772935439kf4x0",
         "title": "Suudi Arabistan'dan Belirsiz Tehdit Nedeniyle Yedi Bölgede Acil Durum Uyarısı",
         "summary": "Suudi Arabistan, ülkenin yedi farklı bölgesinde belirsiz bir tehdit nedeniyle acil durum uyarıları yayınladı. Ulusal erken uyarı platformu aracılığıyla gönderilen bu uyarılar, Cidde, Taif, Yanbu, AlUla, Hamis Muşayt, Cazan ve Abha şehirlerini kapsıyor. Yetkililer, vatandaşların ve bölge sakinlerinin dikkatli olmaları ve güvenlik talimatlarına uymaları gerektiğini belirtti. Uyarıların içeriği ve tehdidin niteliği hakkında henüz detaylı bir açıklama yapılmadı. Bu durum, bölgede güvenlik endişelerini artırdı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss",
         "trendScore": 75,
         "isBreaking": false
-    },
-    {
-        "id": "1789562890361wosbf",
-        "title": "Savaş Hasarlı Gazze Binasının Çökmesi Sonucu 8'i Çocuk 21 Kişi Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde, geçen yıl İsrail saldırısında hasar gören bir binanın çökmesi sonucu en az 21 kişi yaşamını yitirdi. Kurtarma ekiplerinin açıklamasına göre, hayatını kaybedenler arasında sekiz çocuk bulunuyor. Yaklaşık on ailenin yaşadığı belirtilen binanın enkazı altında onlarca kişinin kayıp olduğu bildirildi. Bölgede arama kurtarma çalışmaları devam ederken, olayın savaşın neden olduğu altyapı sorunlarını bir kez daha gözler önüne serdiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15823381/pexels-photo-15823381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-16T12:48:10.361Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
