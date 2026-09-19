@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789840218396x0xlj",
+        "title": "Gazze Tepkilerine Rağmen Ed Sheeran Konseri Devam Edecek",
+        "summary": "Ünlü İngiliz şarkıcı Ed Sheeran'ın konseri, Gazze'deki duruma yönelik artan tepkilere rağmen planlandığı gibi gerçekleştirilme kararı aldı. Haberlere göre, bazı müzisyenler, Filistin'i desteklediği gerekçesiyle Macklemore'un turnuvadan çıkarılması üzerine Sheeran'ın ekibinden ayrıldı. Bu ayrılıkların ardından Sheeran'ın sahneye tek başına çıkabileceği belirtiliyor. Bu olay, Orta Doğu'daki çatışmaların küresel sanat ve eğlence dünyasındaki yansımalarını gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3814694/pexels-photo-3814694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-19T17:50:18.396Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789828911792ig3oo",
         "title": "İran'da karşılanamaz otomobil piyasası, yaşam maliyeti krizini gözler önüne seriyor",
         "summary": "İran'da otomobil piyasasının yüksek fiyatları, ülkedeki yaşam maliyeti krizinin önemli bir göstergesi haline geldi. Halkın büyük bir kesimi için araç sahibi olmak giderek imkansız hale gelirken, bu durum ekonomik sıkıntıları derinleştiriyor. Bazı yetkililer ve devlet medyası, sektördeki mevcut durumu uzun süredir \"mafya sistemi\" olarak nitelendiriyor. Bu tanımlama, piyasadaki fiyat manipülasyonları ve rekabet eksikliği iddialarını gündeme getiriyor. Söz konusu durum, İran ekonomisinin karşı karşıya olduğu yapısal sorunları ve halkın alım gücündeki düşüşü bir kez daha gözler önüne seriyor.",
@@ -780,22 +796,6 @@
             "name": "Ramallah, Filistin"
         },
         "source": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17896379257479lok9",
-        "title": "İran saldırılarında ABD tesislerinde yaygın hasar görüntülendi",
-        "summary": "BBC'nin ortağı CBS News tarafından elde edilen görüntüler, İran'ın ABD tesislerine yönelik saldırılarında meydana gelen yaygın hasarı gözler önüne serdi. Yayınlanan fotoğraflarda, bir hava kuvvetleri uçağının hurdaya döndüğü ve çok sayıda binanın yıkıldığı görüldü. Bu görüntüler, saldırıların yol açtığı tahribatın boyutunu ortaya koyarak, bölgedeki gerilimin ciddiyetini bir kez daha vurguladı. Saldırıların tam olarak hangi ABD tesislerinde gerçekleştiği detaylı olarak belirtilmese de, hasarın ciddiyeti dikkat çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7777518/pexels-photo-7777518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-17T09:38:45.747Z",
-        "location": {
-            "lat": 0,
-            "lng": 0,
-            "name": "Bilinmiyor"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
