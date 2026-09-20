@@ -1,5 +1,37 @@
 [
     {
+        "id": "17899258072119vgxh",
+        "title": "ABD Savcıları Çinli Huawei'yi Neden Suç Örgütü Olarak Nitelendirdi?",
+        "summary": "ABD savcıları, Çinli teknoloji devi Huawei'yi \"suç örgütü\" olarak tanımlayarak şirkete karşı önemli bir dava başlattı. Huawei, ABD'de hırsızlık, dolandırıcılık ve yaptırım ihlalleriyle suçlanıyor. Bu yüksek riskli hukuki mücadele, uluslararası ticaret ve teknoloji dünyasında geniş yankı uyandırıyor. İddialar, şirketin ABD'nin özellikle Orta Doğu'daki bazı ülkelere yönelik yaptırımlarını deldiğini de içeriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/1036619/pexels-photo-1036619.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-20T17:36:47.211Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789925968330c9pyb",
+        "title": "İsrail güçleri Suriye'nin güneybatısında eski rejim askeri mevzilerini hedef aldı",
+        "summary": "İsrail güçleri, Suriye'nin güneybatısında eski rejime ait askeri mevzileri havaya uçurdu. Bölgedeki Kuneytra kırsalı da topçu ateşiyle hedef alındı. Suriye devlet televizyonu Alikhbariah'ın aktardığına göre, İsrail güçleri Kuneytra'nın güney ve orta kesimlerindeki bölgelere topçu mermileri fırlattı. Saldırının detayları ve olası sonuçlarına ilişkin henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-20T17:39:28.330Z",
+        "location": {
+            "lat": 33.1167,
+            "lng": 35.8333,
+            "name": "Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-blow-up-former-regime-military-sites-in-southwestern-syria-shell-quneitra-countryside/4062645",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789913254827nfx4o",
         "title": "Netanyahu, Mescid-i Aksa Külliyesi Altındaki Tünelleri Gezdi",
         "summary": "İsrail Başbakanı Binyamin Netanyahu ve eşi Sara, Kudüs'teki Mescid-i Aksa Külliyesi'nin altındaki tünelleri gezdi. Bu ziyaret, bölgedeki hassas dini ve siyasi dengeler açısından önemli bir gelişme olarak değerlendirildi. Mescid-i Aksa Külliyesi, hem Müslümanlar hem de Yahudiler için kutsal kabul edilen ve uzun süredir tartışmalara konu olan bir alandır. Netanyahu'nun bu gezisi, bölgedeki gerilimi artırma potansiyeli taşıyan bir adım olarak yorumlandı.",
@@ -764,38 +796,6 @@
             "name": "Beyt Cinn, Suriye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-launch-new-incursion-into-southern-syria-with-9-military-vehicles/4061098",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789725614262yanba",
-        "title": "İsrail, Gazze Belgeseline Yönelik Tepkilerin Odağında",
-        "summary": "Gazze'deki olayları konu alan bir belgesele yönelik tepkiler, bölgedeki \"soykırım\" iddialarının gerçekliğiyle yüzleşme konusundaki genel bir isteksizliğin parçası olarak yorumlanıyor. Haberde, İsrail'in bu belgeseli izlemek istemediği ve içeriğine karşı çıktığı belirtiliyor. Bu tepkilerin, Gazze'deki insani durum ve çatışmanın uluslararası alandaki algısı üzerinde etkili olduğu ifade ediliyor. Söz konusu belgesel, Orta Doğu'daki hassas siyasi ve insani konuları yeniden gündeme getiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450016/pexels-photo-36450016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-18T10:00:14.262Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789725705151yhr14",
-        "title": "Hümuz Boğazı'nda tankere 'bilinmeyen bir mermi' isabet etti",
-        "summary": "Hümuz Boğazı'nda seyreden bir tankere 'kimliği belirsiz bir mermi' isabet ettiği bildirildi. İngiliz denizcilik ajansı tarafından yapılan açıklamaya göre, olay sonucunda tankerde yangın çıktı. Ancak çıkan yangının daha sonra söndürüldüğü belirtildi. Olayın detayları ve sorumluları hakkında henüz bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33284879/pexels-photo-33284879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-18T10:01:45.151Z",
-        "location": {
-            "lat": 26.25,
-            "lng": 56.5,
-            "name": "Hümuz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/tanker-hit-by-unknown-projectile-in-strait-of-hormuz-maritime-watchdog-says/4060853",
         "trendScore": 85,
         "isBreaking": false
     }
