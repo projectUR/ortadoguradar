@@ -1,5 +1,37 @@
 [
     {
+        "id": "1789945442314bcxdu",
+        "title": "Fransa, Tahran'daki Dil Merkezi Kapatılması Sonrası İran Büyükelçisini Çağıracak",
+        "summary": "Fransa Dışişleri Bakanlığı, Tahran'da faaliyet gösteren Fransız dil merkezinin kapatılması üzerine İran'ın Paris Büyükelçisi'ni bakanlığa çağıracağını duyurdu. İranlı yetkililer, söz konusu dil merkezini \"diplomatik sözleşmeleri ihlal eden yasa dışı eylemlerde bulunmakla\" suçluyor. Bu gelişme, iki ülke arasındaki diplomatik ilişkilerde yeni bir gerilime işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-20T23:04:02.314Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1789945524814co3xp",
+        "title": "Yemen Üzerinde Düşürülen Suudi Savaş Uçağının Enkazı Doğrulandı",
+        "summary": "BBC Verify, Yemen üzerinde düşürüldüğü iddia edilen bir Suudi F-15 savaş uçağının enkazını gösteren Husi videosunun konumunu tespit etti. Husiler tarafından yayınlanan videoda, uçağın kendileri tarafından vurulduğu öne sürülmüştü. Bu olay, Yemen'deki Suudi Arabistan liderliğindeki koalisyon ile Husi güçleri arasındaki devam eden çatışmaların bir parçası olarak kaydedildi. Enkazın doğrulanması, bölgedeki askeri gerilimin sürdüğünü göstermektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12584013/pexels-photo-12584013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-20T23:05:24.814Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1789936269412i9uyf",
         "title": "Katar Başbakanı, ABD-İsrail'in İran'a Yönelik Olası Savaşının Bölge İçin 'Deprem' Etkisi Yaratacağını Belirtti",
         "summary": "Katar Başbakanı Şeyh Muhammed bin Abdurrahman El Sani, Birleşmiş Milletler Genel Kurulu'nda yaptığı konuşmada, ABD ve İsrail'in İran'a karşı olası bir savaşının Orta Doğu'da 'deprem' etkisi yaratacak sonuçlar doğuracağı uyarısında bulundu. Başbakan, bu potansiyel çatışmanın bölgesel istikrar üzerindeki ciddi etkilerine dikkat çekti. Konuşmasında ayrıca, Katar'ın yatırım stratejisinde önemli bir değişikliğe gideceğini duyurdu. Bu strateji değişikliğinin, bölgesel jeopolitik gelişmeler ve ekonomik koşullar ışığında değerlendirildiği belirtildi.",
@@ -764,38 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789741418724pv8en",
-        "title": "İsrail Ordusu Ciddi Asker Sıkıntısıyla Karşı Karşıya, İzinleri Durdurmaya Hazırlanıyor",
-        "summary": "İsrail'den gelen haberlere göre, İsrail ordusu ciddi bir asker sıkıntısıyla mücadele ediyor ve bu durum nedeniyle askerlerin izinlerini durdurma hazırlığı yapıyor. Bir İsrail gazetesi, ordunun son üç yıllık savaşta yüzlerce aracın hasar görmesi sonucu yeterli sayıda tank ve zırhlı personel taşıyıcıya sahip olmadığını bildirdi. Bu durum, ordunun operasyonel kapasitesini etkileyebilecek önemli bir lojistik ve personel sorununa işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6546113/pexels-photo-6546113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-18T14:23:38.724Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.7,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-faces-severe-troop-shortage-prepares-to-halt-leave-newspaper/4061280",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789741442948xi062",
-        "title": "Çok Uluslu Deniz Savunma Koalisyonu Suudi Arabistan'da 4. Planlama Toplantısını Gerçekleştirdi",
-        "summary": "Çok Uluslu Deniz Savunma Koalisyonu, dördüncü planlama toplantısını Suudi Arabistan'da düzenledi. Suudi Arabistan Savunma Bakanlığı'ndan yapılan açıklamaya göre, bu toplantı koalisyonun \"kuruluş aşamasından fiili operasyonel aşamaya geçiş sürecinin\" önemli bir parçasıdır. Toplantıda, koalisyonun bölgesel deniz güvenliğini sağlamaya yönelik stratejileri ve operasyonel hazırlıkları ele alındı. Bu adım, Orta Doğu'daki deniz yollarının güvenliğinin güçlendirilmesi ve işbirliğinin artırılması hedefini taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10286628/pexels-photo-10286628.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-18T14:24:02.948Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/multinational-maritime-defense-coalition-holds-4th-planning-meeting-in-saudi-arabia/4061279",
         "trendScore": 85,
         "isBreaking": false
     }
