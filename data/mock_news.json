@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789863424601zcpts",
+        "title": "Türkiye'den Suudi Arabistan'a Husi Saldırıları Karşısında Güvenlik Desteği",
+        "summary": "Türkiye Dışişleri Bakanı, Yemen'deki Husi saldırılarının yoğunlaşması üzerine Suudi Arabistan'ın güvenliğine destek verdiklerini açıkladı. Bakan, Türkiye'nin Suudi Arabistan'a askeri yardımda bulunmaya hazır olduğunu vurguladı. Bu açıklama, bölgedeki gerilimin arttığı bir dönemde Ankara'nın Riyad'a yönelik dayanışma mesajı olarak değerlendiriliyor. Yemen'deki çatışmalar, Suudi Arabistan'ın sınır güvenliğini tehdit etmeye devam ediyor ve Türkiye'nin bu konudaki duruşu bölgesel dengeler açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699683/pexels-photo-5699683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-20T00:17:04.601Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1789856705892xq2mp",
         "title": "Suudi liderliğindeki koalisyon, Riyad'a fırlatılan Husi füzesinin engellendiğini duyurdu",
         "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husiler tarafından Riyad'a fırlatılan bir balistik füzenin hava savunma sistemleri tarafından başarıyla engellendiğini açıkladı. Bu olay, Yemen'deki Husiler ile Suudi Arabistan arasındaki gerilimin tırmanmasından bu yana Riyad'da ilk kez alarm verilmesine neden oldu. Bölgedeki çatışmaların devam ettiğini gösteren bu gelişme, güvenlik endişelerini artırdı. Koalisyon, füzenin herhangi bir can veya mal kaybına yol açmadan etkisiz hale getirildiğini bildirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/17/17-09-sv-syrian-man-finds-his-books-sy?traffic_source=rss",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1789637803287msmj6",
-        "title": "Netanyahu, NAZA Film Yapımcılarının İsrail Vatandaşlığını İptal Etme Tehdidinde Bulundu",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, NAZA film yapımcılarının İsrail vatandaşlığını iptal etme tehdidinde bulundu. Netanyahu, İsrail askerlerine verilen 'büyük zararı' ele almayı amaçlayan iki yasa tasarısını ilerletme sözü verdi. Bu adımların, İsrail askerlerinin karşılaştığı zorluklara yönelik bir yanıt olduğu belirtiliyor. Hükümetin, bu yasa tasarıları aracılığıyla ulusal güvenliği ve askerlerin moralini güçlendirmeyi hedeflediği ifade edildi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8061994/pexels-photo-8061994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-17T09:36:43.287Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/17/netanyahu-threatens-to-revoke-israeli-citizenship-of-naza-filmmakers?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
