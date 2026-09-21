@@ -1,5 +1,21 @@
 [
     {
+        "id": "1789973673435h0cz3",
+        "title": "İran, Hürmüz Boğazı Üzerinde ABD'ye Ait Bir İnsansız Hava Aracını Düşürdüğünü İddia Etti",
+        "summary": "İran, Hürmüz Boğazı üzerinde ABD'ye ait bir MQ-1 tipi insansız hava aracını düşürdüğünü duyurdu. Yarı resmi Mehr haber ajansının aktardığına göre, İran Devrim Muhafızları, söz konusu dronun yeni bir İran hava savunma sistemi tarafından imha edildiğini iddia etti. Bu olay, bölgedeki ABD ve İran arasındaki gerilimi artırma potansiyeli taşıyor ve uluslararası denizcilik güvenliği açısından önem arz ediyor. ABD'den konuya ilişkin henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14484029/pexels-photo-14484029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-21T06:54:33.435Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-downed-us-mq-1-drone-over-strait-of-hormuz-report/4062907",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1789953895921zyh9a",
         "title": "Sahel ve BM: Daha Küçük Bir Ayak İzi, Farklı Bir Rol",
         "summary": "Birleşmiş Milletler Genel Kurulu'nun 81. oturumu başlarken, örgüt Sahel bölgesinde önemli bir değişimle karşı karşıya. Bölge ülkeleri, egemenliklerine daha fazla saygı gösterilmesini talep ederek BM'nin buradaki rolünü ve varlığını yeniden değerlendirmesini istiyor. Bu durum, BM'nin Sahel'deki operasyonlarının kapsamının daralmasına veya görev tanımının değişmesine yol açabilir. Özellikle güvenlik ve istikrar konularında bölgenin kendi çözümlerini üretme arayışı, uluslararası işbirliği modellerini dönüştürüyor. Bu gelişmeler, BM'nin küresel barış ve güvenlik misyonlarına yönelik genel yaklaşımını da etkileyebilir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-sets-fire-to-government-hospital-in-southern-lebanon/4061480",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17897413131670isdl",
-        "title": "Barcelona'nın yıldızı Lamine Yamal: 'Binlerce kez ırkçılığa maruz kaldım'",
-        "summary": "İspanya'nın genç futbol yeteneği ve Barcelona'nın yıldız oyuncusu Lamine Yamal, kariyeri boyunca 'binlerce kez' ırkçılık deneyimi yaşadığını açıkladı. Yamal, maruz kaldığı ırkçılık olaylarının büyük bir kısmının, sarf ettikleri yorumların veya sergiledikleri davranışların sonuçlarının farkında olmayan kişiler tarafından gerçekleştirildiğini ifade etti. Fas kökenli futbolcunun bu açıklaması, Avrupa futbolunda ve genel olarak toplumda ırkçılıkla mücadele konusundaki tartışmaları yeniden alevlendirdi. Bu durum, göçmen kökenli sporcuların karşılaştığı ayrımcılık sorununa dikkat çekerek, spor dünyasında ve ötesinde farkındalık yaratma ihtiyacını vurguladı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6185448/pexels-photo-6185448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-18T14:21:53.167Z",
-        "location": {
-            "lat": 41.3851,
-            "lng": 2.1734,
-            "name": "Barcelona, İspanya"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
