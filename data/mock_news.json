@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790059523759jxlr9",
+        "title": "Birleşik Krallık'tan Suudi Arabistan'a 'Savunma Amaçlı' Askeri Destek",
+        "summary": "Birleşik Krallık Başbakanı Burnham, Yemen'deki Husilerin saldırılarına maruz kalan Suudi Arabistan'a \"savunma amaçlı\" askeri destek sağlanacağını duyurdu. Başbakan, Suudi Arabistan'dan gelen talep üzerine \"savunma amaçlı havadan havaya yakıt ikmali\" hizmeti verileceğini belirtti. Bu destek, Suudi Arabistan'ın hava savunma kapasitesini güçlendirmeyi ve bölgesel istikrarsızlığa karşı koymayı hedefliyor. Birleşik Krallık'ın bu kararı, Orta Doğu'daki mevcut çatışmalar ve güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7468215/pexels-photo-7468215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-22T06:45:23.759Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790040579102yg3jy",
         "title": "BM Genel Kurulu'nda Dikkat Edilmesi Gerekenler",
         "summary": "Dünya liderleri, Birleşmiş Milletler Genel Kurulu'nun 81. oturumu için bir araya geliyor. Toplantı, dünya genelinde çatışmaların arttığı ve küresel kurumlara olan güvenin azaldığı kritik bir dönemde gerçekleşiyor. Bu atmosferde, uluslararası işbirliği ve barışın tesisi konuları öncelikli gündem maddeleri arasında yer alacak. Genel Kurul'da, mevcut krizlere çözüm arayışları ve uluslararası sistemin geleceği üzerine önemli tartışmaların yapılması bekleniyor. Emma Withrow, bu oturumda dikkat edilmesi gereken temel konuları detaylandırıyor.",
@@ -780,22 +796,6 @@
             "name": "Deyrizor, Suriye"
         },
         "source": "https://www.aa.com.tr/en/middle-east/syria-says-11-soldiers-killed-in-friday-s-blast-at-army-site-in-deir-ez-zor/4062063",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178982902229977ajr",
-        "title": "ABD ordusu, Hürmüz Boğazı'ndan ABD ablukası altında 1 milyar varilden fazla petrol sevk edildiğini açıkladı",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) Başkanı Oramiral Brad Cooper, Hürmüz Boğazı'ndan 1 milyar varilden fazla petrolün sevk edildiğini bildirdi. Oramiral Cooper, ABD güçlerinin stratejik su yolundan geçen 2.000'den fazla ticari geminin geçişine yardımcı olduğunu belirtti. Bu açıklama, bölgedeki ABD askeri varlığının ve deniz trafiğinin güvenliğinin sağlanmasındaki rolünün altını çiziyor. Hürmüz Boğazı, küresel petrol ticareti için hayati öneme sahip bir geçiş noktasıdır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9550528/pexels-photo-9550528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-19T14:43:42.299Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-military-says-over-1b-barrels-of-oil-shipped-through-strait-of-hormuz-under-us-blockade/4062037",
         "trendScore": 85,
         "isBreaking": false
     }
