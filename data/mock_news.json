@@ -1,5 +1,53 @@
 [
     {
+        "id": "1790108733386kk5zi",
+        "title": "Cibuti Bakanı Yemenli Mülteciler İçin Yardım Çağrısında Bulundu",
+        "summary": "Cibuti Sosyal İşler ve Dayanışma Bakanı Ouloufa İsmail Abdo, Yemen'deki çatışmalardan kaçarak Cibuti'ye sığınan Yemenli mültecilere yönelik uluslararası yardım çağrısında bulundu. Bakan Abdo, Cibuti'nin sınırlı kaynaklarına rağmen binlerce mülteciye ev sahipliği yaptığını ve bu kişilerin temel insani ihtiyaçlarının karşılanması için uluslararası toplumun desteğine acil ihtiyaç duyulduğunu belirtti. Çağrı, bölgedeki insani krizin devam ettiğini ve mültecilerin yaşam koşullarının iyileştirilmesi gerektiğini bir kez daha vurguladı. Cibuti, Yemen'e coğrafi yakınlığı nedeniyle çatışmalardan etkilenenler için önemli bir sığınma noktası olmaya devam ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/35934177/pexels-photo-35934177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-22T20:25:33.386Z",
+        "location": {
+            "lat": 11.83,
+            "lng": 42.59,
+            "name": "Cibuti Şehri, Cibuti"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "17901087742713k1qt",
+        "title": "Katar, İsrail'in Bölgedeki Saldırganlığını Kınadı",
+        "summary": "Katar Emiri Şeyh Temim bin Hamad Al Sani, İsrail'in komşu ülkelerdeki saldırganlığını kınadığını açıkladı. Emir Al Sani, bu eylemlerin bölgesel istikrarı tehdit ettiğini ve gerilimi artırdığını belirtti. Katar'ın, bölgedeki tüm tarafları itidalli olmaya çağırdığı ve uluslararası hukuka saygı gösterilmesi gerektiğini vurguladığı ifade edildi. Bu açıklama, Orta Doğu'da devam eden gerilimlerin ve diplomatik çabaların bir parçası olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4685550/pexels-photo-4685550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-22T20:26:14.271Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790108798833bpprs",
+        "title": "İran, Tahran'dan Bağdat ve Maskat'a Seferleri İptal Etti",
+        "summary": "İran Sivil Havacılık Teşkilatı, Çarşamba günü erken saatlerden itibaren Tahran'dan Irak'ın başkenti Bağdat'a ve Umman'ın başkenti Maskat'a yapılan uçuşların iptal edildiğini duyurdu. Teşkilattan yapılan açıklamaya göre, Bağdat ve Maskat havalimanları yerel saatle gece 00:00'dan itibaren İran uçuşlarını kabul etmeyecek. Bu karar, İran ile Irak ve Umman arasındaki hava trafiğinde önemli bir kesintiye yol açacak.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37589298/pexels-photo-37589298.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-22T20:26:38.833Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-cancels-flights-from-tehran-to-baghdad-muscat-starting-early-wednesday/4065307",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790097127907s6ras",
         "title": "Erdoğan'dan BM'de İsrail'e Sert Eleştiri: 'Soykırımcı Zihniyet' Vurgusu",
         "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler Genel Kurulu'nda yaptığı konuşmada İsrail'i 'soykırımcı zihniyet' taşımakla suçladı. Erdoğan, uluslararası toplumun ve BM'nin Filistin, Lübnan ve Sudan gibi bölgelerde 'işlevsizliğe' itildiğini ve 'kan kaybettiğini' ifade etti. Türk lider, bu bölgelerdeki krizlere karşı uluslararası sistemin yetersiz kaldığını vurgulayarak, küresel adaletsizliklere dikkat çekti. Bu sert açıklamalar, Orta Doğu'daki gerilimleri ve uluslararası kuruluşların etkinliğini bir kez daha tartışmaya açtı.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "178989854212181967",
-        "title": "İsrail kontrol noktası kapatmaları Batı Şeria'da 100'den fazla Filistinli öğretmenin okullarına ulaşmasını engelledi",
-        "summary": "İsrail ordusu, işgal altındaki Batı Şeria genelinde uyguladığı geniş çaplı askeri kısıtlamalar kapsamında Tayasir ve Ein Shibli kontrol noktalarını kapattı. Bu kapatmalar nedeniyle 100'den fazla Filistinli öğretmen, görev yaptıkları okullara ulaşamadı. Kontrol noktalarının kapatılması, bölgedeki günlük yaşamı ve eğitim faaliyetlerini olumsuz etkiledi. Olay, İsrail'in Batı Şeria'daki güvenlik önlemlerinin sivil halk üzerindeki etkilerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28829028/pexels-photo-28829028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-20T10:02:22.121Z",
-        "location": {
-            "lat": 32.33,
-            "lng": 35.45,
-            "name": "Tayasir, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-checkpoint-closures-prevent-over-100-palestinian-teachers-from-reaching-schools-in-west-bank/4062413",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1789898563009dy3ie",
-        "title": "Gazze'deki Kuveyt İhtisas Hastanesi Yakıt Sıkıntısı Nedeniyle Rutin Hizmetleri Askıya Aldı",
-        "summary": "Gazze'de bulunan Kuveyt İhtisas Hastanesi, yakıt sıkıntısı nedeniyle rutin sağlık hizmetlerini askıya aldığını duyurdu. Hastane yönetimi, devam eden krizin her gün binlerce vatandaşın tıbbi tedaviye erişimini engellediği konusunda ciddi uyarılarda bulundu. Bu durum, Gazze Şeridi'ndeki sağlık altyapısının karşı karşıya olduğu zorlukları bir kez daha gözler önüne serdi. Yakıt eksikliği, hastanenin jeneratörlerini çalıştıramamasına ve dolayısıyla temel operasyonlarını sürdürememesine yol açıyor. Bölgedeki insani durumun kötüleştiği ve sağlık hizmetlerine erişimin kritik seviyelere düştüğü belirtiliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6129691/pexels-photo-6129691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-20T10:02:43.009Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-s-kuwait-specialty-hospital-suspends-routine-services-over-fuel-shortage/4062362",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789898587746ue6md",
-        "title": "İran: Hürmüz Boğazı, ABD Taahhütlerini Yerine Getirene Kadar Kapalı Kalacak",
-        "summary": "İran parlamento sözcüsü, Tahran'ın ABD'den beklentilerini ve koşullarını arabulucular aracılığıyla ilettiğini açıkladı. Sözcü, ABD'nin bu taahhütleri yerine getirmemesi halinde stratejik Hürmüz Boğazı'nın yeniden açılmasının söz konusu olmadığını belirtti. Bu açıklama, bölgedeki denizcilik güvenliği ve enerji tedarik zincirleri üzerindeki potansiyel etkileri nedeniyle uluslararası alanda dikkatle takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13820316/pexels-photo-13820316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-20T10:03:07.746Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-strait-of-hormuz-to-remain-closed-until-us-fulfills-commitments/4062345",
-        "trendScore": 88,
         "isBreaking": false
     }
 ]
