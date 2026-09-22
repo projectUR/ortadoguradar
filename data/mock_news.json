@@ -1,5 +1,53 @@
 [
     {
+        "id": "1790080056736af6il",
+        "title": "BM Genel Kurulu canlı: Trump ve Katar Emiri konuşacak, İran savaşı gündeme damga vuruyor",
+        "summary": "Birleşmiş Milletler Genel Kurulu'nun üst düzey toplantılarının ilk günü başladı. Toplantılarda Brezilya, ABD, Türkiye ve Katar liderleri dahil olmak üzere dünya liderleri konuşma yapacak. Gündemin ana maddesini ise İran ile ilgili potansiyel bir savaş veya mevcut gerilimler oluşturuyor. Katar Emiri'nin ve Türkiye liderinin konuşmacılar arasında yer alması, Orta Doğu'daki gelişmelerin toplantıdaki önemini vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6044616/pexels-photo-6044616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-22T12:27:36.736Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York City, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1790080116807wptvl",
+        "title": "Trump-KİK Zirvesi New York'ta: Her İki Taraf Ne İstiyor?",
+        "summary": "ABD Başkanı Donald Trump, Birleşmiş Milletler Genel Kurulu (BMGK) toplantıları kapsamında New York'ta Körfez İşbirliği Konseyi (KİK) liderleriyle bir zirve gerçekleştirecek. Bu önemli buluşmada Suudi Arabistan, Birleşik Arap Emirlikleri, Katar, Bahreyn, Kuveyt ve Umman'dan devlet başkanları yer alacak. Zirvenin, ABD ile KİK ülkeleri arasındaki ilişkilerin yanı sıra bölgesel ve uluslararası gündemdeki konuları ele alması bekleniyor. Görüşmelerin, taraflar arasındaki işbirliğini güçlendirme ve ortak çıkarları değerlendirme fırsatı sunacağı belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181738/pexels-photo-1181738.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-22T12:28:36.807Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17900801912163n3wh",
+        "title": "İran Dışişleri Bakanı ve BM Genel Sekreteri telefonda uluslararası barışı görüştü",
+        "summary": "İran Dışişleri Bakanı, Birleşmiş Milletler Genel Sekreteri Antonio Guterres ile telefon görüşmesi gerçekleştirdi. Görüşmede uluslararası barış konuları ele alındı. Bu diplomatik temas, İranlı Bakan'ın 81. BM Genel Kurulu toplantısı için New York'a varmasının ardından gerçekleşti. Görüşmenin içeriğine dair detay verilmezken, üst düzey diplomatik istişarelerin devam ettiği belirtildi. BM Genel Kurulu, dünya liderlerinin küresel meseleleri ele aldığı önemli bir platformdur.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5505451/pexels-photo-5505451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-22T12:29:51.216Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aa.com.tr/en/world/iranian-foreign-minister-un-chief-discuss-international-peace-on-phone/4064314",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790059523759jxlr9",
         "title": "Birleşik Krallık'tan Suudi Arabistan'a 'Savunma Amaçlı' Askeri Destek",
         "summary": "Birleşik Krallık Başbakanı Burnham, Yemen'deki Husilerin saldırılarına maruz kalan Suudi Arabistan'a \"savunma amaçlı\" askeri destek sağlanacağını duyurdu. Başbakan, Suudi Arabistan'dan gelen talep üzerine \"savunma amaçlı havadan havaya yakıt ikmali\" hizmeti verileceğini belirtti. Bu destek, Suudi Arabistan'ın hava savunma kapasitesini güçlendirmeyi ve bölgesel istikrarsızlığa karşı koymayı hedefliyor. Birleşik Krallık'ın bu kararı, Orta Doğu'daki mevcut çatışmalar ve güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1789828950676pu5i3",
-        "title": "İsrail'in Gazze Saldırılarında Aralarında Bir Çocuğun da Bulunduğu Üç Filistinli Hayatını Kaybetti",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda üç Filistinlinin hayatını kaybettiği bildirildi. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, ölenler arasında Bakanlık Genel Direktörü Munir el-Burş'un oğlunun da bulunduğu belirtildi. Hayatını kaybedenlerden birinin çocuk olduğu bilgisi paylaşıldı. Bu olay, bölgedeki çatışma ve gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193756/pexels-photo-36193756.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-19T14:42:30.676Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17898289734592kphm",
-        "title": "Yemen ordusu, Taiz ve Lahj'da Husilerle çatışmalarda 13 askerin öldüğünü bildirdi",
-        "summary": "Yemen ordusuna bağlı Tur el-Bahah Askeri Ekseni, ülkenin Taiz ve Lahj bölgelerinde Husilerle yaşanan çatışmalarda 13 askerinin hayatını kaybettiğini duyurdu. Yapılan açıklamada, iki gün süren çatışmaların çeşitli cephelerde yoğunlaştığı ve askerlerin bu çatışmalarda yaşamını yitirdiği belirtildi. Bu olay, Yemen'deki iç savaşın ve bölgedeki gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8876109/pexels-photo-8876109.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-19T14:42:53.459Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Lahj, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-army-says-13-soldiers-killed-in-fighting-with-houthis-in-taiz-lahj/4062064",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1789828994122tr69b",
-        "title": "Suriye, Deyrizor'daki Ordu Tesisinde Meydana Gelen Patlamada 11 Askerin Hayatını Kaybettiğini Açıkladı",
-        "summary": "Suriye, ülkenin doğusundaki Deyrizor kentinde bulunan bir ordu tesisinde Cuma günü meydana gelen patlamada 11 askerinin yaşamını yitirdiğini bildirdi. Resmi makamlar, olayın nedeni ve patlamanın koşulları hakkında henüz herhangi bir açıklama yapmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9065337/pexels-photo-9065337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-19T14:43:14.122Z",
-        "location": {
-            "lat": 35.32,
-            "lng": 40.15,
-            "name": "Deyrizor, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syria-says-11-soldiers-killed-in-friday-s-blast-at-army-site-in-deir-ez-zor/4062063",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
