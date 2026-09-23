@@ -1,5 +1,117 @@
 [
     {
+        "id": "1790170061502p1etm",
+        "title": "Şi ve Trump Görüşmesi: Ticaret Savaşında Kim Önde?",
+        "summary": "ABD Başkanı Trump'ın başkanlığı döneminde ticaret savaşı politikaları merkezi bir yer tuttu. Ancak bu politikalar, ABD'nin ticaret açığını önemli ölçüde azaltmada yetersiz kaldı. Öte yandan, Çin aynı dönemde ticaret fazlası vermeye devam etti. Bu durum, iki ülke arasındaki ticaret savaşının ekonomik etkileri hakkında tartışmaları beraberinde getiriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T13:27:41.502Z",
+        "location": {
+            "lat": 0,
+            "lng": 0,
+            "name": "Uluslararası"
+        },
+        "source": "https://www.aljazeera.com/features/2026/9/23/as-xi-meets-trump-whos-winning-their-trade-war?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17901700829459ekr1",
+        "title": "BM Genel Kurulu'nda İran ve Suriye Liderleri Konuşacak",
+        "summary": "Birleşmiş Milletler Genel Kurulu'nun ikinci günü, dünya liderlerinin önemli konuşmalarıyla başladı. İran Cumhurbaşkanı Pezeşkian ve Suriye lideri, Genel Kurul'da hitap edecek isimler arasında yer alıyor. Ukrayna Devlet Başkanı Zelenskiy'nin de konuşma yapması beklenen oturumlar, uluslararası gündemdeki kritik konuların ele alınacağı bir platform sunuyor. Bu diplomatik toplantılar, küresel sorunlara çözüm arayışları ve ülkeler arası ilişkilerin değerlendirilmesi açısından büyük önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668495/pexels-photo-5668495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T13:28:02.945Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790170134974xeolt",
+        "title": "Netanyahu, Macron'un Batı Şeria Hakkındaki BM Konuşmasını 'Grotesk' Olarak Nitelendirdi",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, Fransa Cumhurbaşkanı Emmanuel Macron'un Birleşmiş Milletler'deki konuşmasında Batı Şeria'ya ilişkin yaptığı yorumlara sert tepki gösterdi. Netanyahu, Macron'un işgal altındaki topraklarda Hamas'ın faaliyetlerini küçümsediği izlenimi veren açıklamalarını 'grotesk' olarak nitelendirdi. Bu durum, iki lider arasında diplomatik bir gerilime yol açtı. Açıklamalar, İsrail-Filistin çatışması ve uluslararası toplumun bu konudaki tutumları bağlamında önem taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T13:28:54.974Z",
+        "location": {
+            "lat": 31.9039,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790170159994q64bm",
+        "title": "Pakistan, Mekke Paktı'nın İlk Genel Sekreteri Olarak Emekli Bir Generali Atadı",
+        "summary": "Pakistan, Suudi Arabistan ve Türkiye'yi kapsayan üçlü bir anlaşma olan Mekke Paktı'nın ilk genel sekreterini atadı. Bu önemli göreve emekli bir Pakistanlı general getirildi. Paktın temel hedefi, katılımcı ülkeler arasında kolektif caydırıcılığı güçlendirmek ve bölgesel güvenliği artırmaktır. Bu atama, üç ülke arasındaki stratejik işbirliğinin ve diplomatik ilişkilerin derinleştiğini göstermektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/18535077/pexels-photo-18535077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T13:29:19.994Z",
+        "location": {
+            "lat": 21.4225,
+            "lng": 39.8262,
+            "name": "Mekke, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-appoints-retired-general-as-1st-secretary-general-of-mecca-pact/4066361",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17901701808497t6xw",
+        "title": "İsviçre, İsrail'i Filistin topraklarındaki 'yasa dışı işgale' son vermeye çağırdı",
+        "summary": "İsviçre, İsrail'i Filistin topraklarındaki 'yasa dışı işgale' son vermeye çağırdı. Birleşmiş Milletler İnsan Hakları Konseyi'ne hitap eden İsviçre'nin Cenevre'deki BM temsilcisi, işgal altındaki Filistin topraklarında yaşanan gelişmeleri değerlendirdi. Temsilci, bölgedeki yerleşimci şiddetini, toprak müsaderesini, yıkımı ve zorla yerinden edilmeyi kınadıklarını belirtti. Bu çağrı, uluslararası toplumun Filistin-İsrail meselesine yönelik artan endişelerini yansıtıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37805993/pexels-photo-37805993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T13:29:40.849Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/switzerland-calls-on-israel-to-end-illegal-occupation-of-palestinian-territory/4066332",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "179017022306508wiy",
+        "title": "Hürmüz Boğazı'nda Kargo Gemisine Saldırı: 2 Can Kaybı",
+        "summary": "Hürmüz Boğazı'nda seyreden bir kargo gemisi, kimliği belirsiz bir cisimle vuruldu. İngiltere denizcilik ajansı tarafından yapılan açıklamaya göre, olay sonucunda gemide yangın çıktı ve gemi sürüklenmeye başladı. Saldırıda iki kişinin hayatını kaybettiği bildirildi. Bu olay, küresel petrol ticareti için kritik bir geçiş noktası olan Hürmüz Boğazı'ndaki deniz güvenliği endişelerini yeniden gündeme getirdi. Yetkililer, geminin akıbeti ve saldırının sorumluları hakkında soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38569004/pexels-photo-38569004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T13:30:23.065Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/cargo-vessel-struck-by-unknown-projectile-in-strait-of-hormuz-2-casualties-reported/4066292",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17901702494078jbn4",
+        "title": "ABD Vize Reddine Rağmen Filistin Meselesi BM Genel Kurulu'nda Öne Çıktı",
+        "summary": "Filistin meselesi, ABD'nin vize reddine rağmen Birleşmiş Milletler Genel Kurulu'nda önemli bir yer tuttu. ABD, Filistin Devlet Başkanı Mahmud Abbas'ın BM toplantılarına katılımı için vize vermeyi reddetti. Bu durum üzerine Abbas, Genel Kurul'a önceden kaydedilmiş bir konuşma aracılığıyla hitap etti. Olay, Filistin'in uluslararası platformdaki görünürlüğünü ve ABD ile ilişkilerindeki gerilimi bir kez daha gündeme getirdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36038717/pexels-photo-36038717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T13:30:49.407Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/world/palestine-issue-featured-prominently-at-un-general-assembly-despite-us-visa-refusal/4066244",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "179014869600583bdf",
         "title": "Küresel Güç Dengesi: Gelecek Çin'in mi, Batı'nın mı?",
         "summary": "Küresel güç dengesindeki değişimler, Çin ile Batı arasındaki rekabetin ve farklı vizyonların dünya geleceğindeki rolünü mercek altına alıyor. Bu durum, Orta Doğu dahil olmak üzere dünya genelindeki siyasi, ekonomik ve güvenlik dinamiklerini derinden etkileme potansiyeli taşıyor. Bölge ülkeleri, bu küresel güç mücadelesinde kendi konumlarını belirleme, yeni ittifaklar kurma ve stratejik ortaklıklarını gözden geçirme arayışında olabilirler. Haberde, bu iki büyük gücün vizyonlarının ne kadar farklı olduğu ve geleceğin sadece birine mi ait olacağı soruları tartışılıyor.",
@@ -685,118 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17899985711244k51m",
-        "title": "Mısır, Süveyş Kanalı'nın 'güvenli' olduğunu ve deniz trafiğinin normal işlediğini bildirdi",
-        "summary": "Mısır, Süveyş Kanalı'nda deniz trafiğinin normal seyrinde devam ettiğini ve kanalın güvenli olduğunu açıkladı. Süveyş Kanalı İdaresi Başkanı, kanal gelirlerinin Ağustos ayında bir önceki yıla göre önemli bir artış gösterdiğini bildirdi. Yapılan açıklamaya göre, kanal gelirleri yüzde 56,7 oranında yükselerek 567,1 milyon dolara ulaştı. Bu artış, küresel deniz ticaretindeki hareketliliğin ve kanalın stratejik öneminin bir göstergesi olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/32843666/pexels-photo-32843666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T13:49:31.124Z",
-        "location": {
-            "lat": 30.5,
-            "lng": 32.3,
-            "name": "Süveyş Kanalı, Mısır"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egypt-says-suez-canal-safe-with-maritime-traffic-operating-normally/4063403",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1789998594002yo0uu",
-        "title": "ABD Hazine Bakanı: Tüm İran Havayolları Dünya Genelinde Faaliyetlerini Durduracak",
-        "summary": "ABD Hazine Bakanı Scott Bessent, tüm İran havayollarının 23 Eylül'e kadar dünya genelinde faaliyetlerini durduracağını açıkladı. Bessent, yabancı havalimanlarını İranlı taşıyıcılara hizmet vermemeleri konusunda uyararak, aksi takdirde dolar sisteminden çıkarılma riskiyle karşı karşıya kalacaklarını belirtti. Bu adım, ABD'nin İran'a yönelik yaptırım politikasının bir parçası olarak, İran'ın küresel havacılık erişimini kısıtlamayı hedefliyor. Uygulamanın, İran ekonomisi ve uluslararası ilişkileri üzerinde önemli etkileri olması bekleniyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/11363782/pexels-photo-11363782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T13:49:54.002Z",
-        "location": {
-            "lat": 32,
-            "lng": 53,
-            "name": "İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/all-iranian-airlines-to-shut-down-worldwide-by-sept-23-us-treasury-chief-says/4063394",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789998719594fizsh",
-        "title": "Gazze yetkilileri, 21 Filistinlinin hayatını kaybettiği El-Saada binasının çökmesinden İsrail'i sorumlu tuttu",
-        "summary": "Gazze'deki yetkililer, Ekim 2023'te meydana gelen ve 21 Filistinlinin yaşamını yitirdiği El-Saada binasının çökmesinden İsrail'i sorumlu tuttu. Gazze'deki hükümet medya ofisinden yapılan açıklamada, İsrail saldırısının binanın temellerine, birinci ve ikinci katlarına isabet ettiği belirtildi. Açıklamada, bu saldırının binada ciddi yapısal hasara yol açtığı ve nihayetinde çökmesine neden olduğu ifade edildi. Yetkililer, olayın sorumluluğunun İsrail'e ait olduğunu vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5911686/pexels-photo-5911686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T13:51:59.594Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-authorities-hold-israel-responsible-for-al-saada-building-collapse-that-killed-21-palestinians/4063286",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789998740805ulso3",
-        "title": "Trump'ın Husilere Yönelik Planlanan ABD Saldırılarını Son Anda İptal Ettiği Bildirildi",
-        "summary": "ABD'nin eski başkanı Donald Trump'ın, Yemen'deki Husilere yönelik planlanan hava saldırılarını son dakikada iptal ettiği ortaya çıktı. New York Times'ın haberine göre, ABD kuvvetleri operasyon için uçakları ve hedefleri hazırlamış ancak Trump saldırıları durdurma kararı almıştı. Bu gelişme, bölgedeki gerilimin potansiyel bir tırmanışının önüne geçildiğini gösteriyor ve ABD'nin Orta Doğu'daki askeri müdahalelerine dair önemli bir detay sunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8964499/pexels-photo-8964499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T13:52:20.805Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/americas/trump-called-off-planned-us-strikes-on-houthis-at-last-minute-report/4063274",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1789973673435h0cz3",
-        "title": "İran, Hürmüz Boğazı Üzerinde ABD'ye Ait Bir İnsansız Hava Aracını Düşürdüğünü İddia Etti",
-        "summary": "İran, Hürmüz Boğazı üzerinde ABD'ye ait bir MQ-1 tipi insansız hava aracını düşürdüğünü duyurdu. Yarı resmi Mehr haber ajansının aktardığına göre, İran Devrim Muhafızları, söz konusu dronun yeni bir İran hava savunma sistemi tarafından imha edildiğini iddia etti. Bu olay, bölgedeki ABD ve İran arasındaki gerilimi artırma potansiyeli taşıyor ve uluslararası denizcilik güvenliği açısından önem arz ediyor. ABD'den konuya ilişkin henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14484029/pexels-photo-14484029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T06:54:33.435Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-downed-us-mq-1-drone-over-strait-of-hormuz-report/4062907",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1789953895921zyh9a",
-        "title": "Sahel ve BM: Daha Küçük Bir Ayak İzi, Farklı Bir Rol",
-        "summary": "Birleşmiş Milletler Genel Kurulu'nun 81. oturumu başlarken, örgüt Sahel bölgesinde önemli bir değişimle karşı karşıya. Bölge ülkeleri, egemenliklerine daha fazla saygı gösterilmesini talep ederek BM'nin buradaki rolünü ve varlığını yeniden değerlendirmesini istiyor. Bu durum, BM'nin Sahel'deki operasyonlarının kapsamının daralmasına veya görev tanımının değişmesine yol açabilir. Özellikle güvenlik ve istikrar konularında bölgenin kendi çözümlerini üretme arayışı, uluslararası işbirliği modellerini dönüştürüyor. Bu gelişmeler, BM'nin küresel barış ve güvenlik misyonlarına yönelik genel yaklaşımını da etkileyebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32634817/pexels-photo-32634817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T01:24:55.921Z",
-        "location": {
-            "lat": 12.6392,
-            "lng": -7.9999,
-            "name": "Bamako, Mali"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789953917951de331",
-        "title": "Etiyopyalı Silahlı Gruplar Hükümete Karşı İttifak Kurdu",
-        "summary": "Etiyopya'da hükümete karşı faaliyet gösteren silahlı grupların yeni bir ittifak oluşturduğu bildirildi. Eski düşmanlar olan bu grupların, ülkedeki çatışmaların genişleyeceği yönündeki endişeler artarken aralarındaki anlaşmazlıkları giderme kararı aldığı belirtildi. Bu ittifakın, Etiyopya'daki mevcut iç savaşın seyrini önemli ölçüde etkileyebileceği düşünülüyor. Gelişme, bölgesel istikrar ve insani durum üzerindeki potansiyel etkileri nedeniyle yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17272177/pexels-photo-17272177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T01:25:17.951Z",
-        "location": {
-            "lat": 8,
-            "lng": 39,
-            "name": "Etiyopya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
