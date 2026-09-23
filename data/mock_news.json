@@ -1,5 +1,37 @@
 [
     {
+        "id": "1790127670306ys41h",
+        "title": "Zelenskiy, Trump Görüşmeleri Sonrası Rusya ile Enerji Ateşkesine Hazır Olduğunu Açıkladı",
+        "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD eski Başkanı Donald Trump ile yaptığı görüşmelerin ardından Rusya ile bir enerji ateşkesine hazır olduklarını duyurdu. Zelenskiy'nin açıklamasına göre, Kiev, Moskova'nın Ukrayna'nın enerji sistemine yönelik saldırılarını durdurması halinde Rus enerji tesislerine yönelik saldırıları durdurmaya hazır. Bu teklif, Rusya-Ukrayna savaşında enerji altyapısına yönelik karşılıklı saldırıların son bulması potansiyelini gündeme getirdi. Küresel enerji piyasaları üzerinde önemli etkileri olan bu çatışmada, enerji altyapısına yönelik saldırıların durdurulması, uluslararası kamuoyunda yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/25755/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T01:41:10.306Z",
+        "location": {
+            "lat": 50.45,
+            "lng": 30.52,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17901277263133aupe",
+        "title": "İran savaşı canlı: Trump, BM'de İran ile 'çok iyi' bir görüşme yapıldığını doğruladı",
+        "summary": "ABD Başkanı Donald Trump, Birleşmiş Milletler'de (BM) ABD'li yetkililerin Salı günü İran heyetiyle 'çok iyi' bir görüşme gerçekleştirdiğini açıkladı. Bu açıklama, iki ülke arasındaki mevcut gerilimlerin ortasında diplomatik bir temasın yaşandığını gösteriyor. BM çatısı altında gerçekleşen bu doğrudan temas, ABD-İran ilişkileri ve bölgesel istikrar açısından önem taşıyor. Trump'ın 'çok iyi' olarak nitelendirdiği görüşmenin içeriği ve sonuçlarına dair detay verilmedi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T01:42:06.313Z",
+        "location": {
+            "lat": 40.7128,
+            "lng": -74.006,
+            "name": "New York, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790118710876qb3om",
         "title": "Filistinli Amerikalılar, ABD'li Yasa Koyucularla Bir Araya Geldi",
         "summary": "Filistinli Amerikalılar, ABD'li yasa koyucularla bir araya gelerek ABD'nin Orta Doğu politikasında değişiklik talep etti. Eski Başkan Donald Trump'ın İsrail için 2,8 milyar dolarlık yardım talep ettiği bir dönemde gerçekleşen bu görüşmelerde, 26 eyaletten 300'den fazla seçmen Temsilciler Meclisi ve Senato üyeleriyle bir araya geldi. Organizatörler, bu buluşmaların ABD'nin İsrail-Filistin meselesindeki tutumunu değiştirmeyi hedeflediğini belirtti. Bu girişim, ABD dış politikasının şekillendirilmesinde sivil toplumun rolünü vurguluyor.",
@@ -764,38 +796,6 @@
             "name": "Moskova, Rusya"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/20/moscow-attacked-by-more-than-1000-ukrainian-drones?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17899133616539qri7",
-        "title": "İran, Tahran'daki Fransız Dil Merkezini Kapattı",
-        "summary": "İran yönetimi, başkent Tahran'da faaliyet gösteren bir Fransız dil merkezini \"yasa dışı faaliyetler\" yürüttüğü gerekçesiyle kapattığını duyurdu. Tahran, merkezin yıllardır \"dil eğitimi kisvesi altında\" çalıştığını ve gerekli lisansı alması yönündeki tekrarlanan uyarılara rağmen bu durumu sürdürdüğünü belirtti. Yetkililer, merkezin ruhsatsız faaliyet göstermesi nedeniyle kapatma kararı alındığını ifade etti. Bu gelişme, İran'ın yabancı kültürel ve eğitim kurumlarına yönelik denetimlerini sıkılaştırdığı bir döneme denk geliyor ve potansiyel diplomatik yansımaları olabileceği değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/33134866/pexels-photo-33134866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-20T14:09:21.653Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-closes-french-language-center-in-tehran-for-illegal-activities/4062597",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1789913382577xbidr",
-        "title": "İran, ABD'nin Saldırıları Yeniden Başlatma Kararı Aldığını İddia Etti, Misilleme Sözü Verdi",
-        "summary": "İran, ABD'nin saldırıları yeniden başlatma kararı aldığını öne sürerek, bu duruma karşı misilleme yapacağını açıkladı. Tahran yönetimi, bölge ülkelerini ABD'nin \"saldırganlığına\" destek vermeleri halinde \"suç ortağı\" olarak kabul edeceği konusunda sert bir dille uyardı. Bu açıklama, ABD ile İran arasındaki gerilimin tırmanabileceğine ve bölgesel dinamikleri etkileyebileceğine işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7927243/pexels-photo-7927243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-20T14:09:42.577Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-us-decided-to-resume-strikes-vows-retaliation/4062518",
         "trendScore": 85,
         "isBreaking": false
     }
