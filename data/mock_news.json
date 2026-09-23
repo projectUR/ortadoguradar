@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790198290622ffpws",
+        "title": "ABD Havacılık Yaptırımları İran Uçuşlarını Aksatıyor, Yolcuları Kara Yollarına Yöneltiyor",
+        "summary": "Amerika Birleşik Devletleri'nin İran'a yönelik uyguladığı havacılık yaptırımları, ülkedeki hava ulaşımında ciddi aksaklıklara neden oluyor. İran havayollarının hava sahasına erişimini kaybetmesiyle birlikte seyahat kesintileri giderek yoğunlaşıyor. Bu durum, sivil yolcuları uluslararası seyahatleri için daha maliyetli ve uzun kara yolu güzergahlarını kullanmaya zorluyor. Yaptırımlar, İranlıların hava yoluyla seyahat etme imkanlarını önemli ölçüde kısıtlayarak günlük yaşamlarını ve uluslararası bağlantılarını olumsuz etkiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/54456/prison-jail-detention-fence-54456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-23T21:18:10.622Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790186191534ufgca",
         "title": "Etiyopya, silahlı grupların saldırı başlatmasıyla yeniden savaşla karşı karşıya",
         "summary": "Etiyopya'da yedi silahlı grubun hükümeti devirmek amacıyla bir ittifak kurmasının ardından yeni bir savaşın patlak vermesinden endişe ediliyor. Bu grupların başlattığı saldırı, ülkedeki kırılgan barış ortamını tehdit ediyor. Daha önce Tigray Savaşı gibi büyük çatışmalara sahne olan Etiyopya, bu yeni ittifakla birlikte bölgesel istikrarsızlık riskini taşıyor. Gelişmeler, ülkenin siyasi geleceği ve insani durumu üzerinde ciddi sonuçlar doğurabilir.",
@@ -780,22 +796,6 @@
             "name": "Minab ve Lamerd, İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790017960979e66bn",
-        "title": "İran Cumhurbaşkanı'nın Medya Ekibine ABD Vizesi Reddedildi",
-        "summary": "İran Cumhurbaşkanı'nın medya ekibine ABD vizesi verilmediği bildirildi. Kamu İlişkileri Genel Müdürü tarafından yapılan açıklamaya göre, Cumhurbaşkanı Masoud Pezeskian, Birleşmiş Milletler Genel Kurulu'nun 81. oturumuna katılmak üzere New York'a gidecek. Ancak, kendisiyle birlikte seyahat edecek medya ekibinin vize başvurularının ABD tarafından reddedildiği belirtildi. Bu durum, İran'ın BM Genel Kurulu'ndaki diplomatik ve iletişim faaliyetlerini etkileyebilir ve ABD-İran ilişkilerinde yeni bir gerilime yol açabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/29402986/pexels-photo-29402986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-21T19:12:40.979Z",
-        "location": {
-            "lat": 40.71,
-            "lng": -74.01,
-            "name": "New York, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/world/iranian-president-s-media-team-denied-us-visa-says-official/4063611",
         "trendScore": 85,
         "isBreaking": false
     }
