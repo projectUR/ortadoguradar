@@ -1,5 +1,53 @@
 [
     {
+        "id": "179037876227264pug",
+        "title": "İran, ABD planı kabul ederse Hürmüz Boğazı'nı bir hafta içinde yeniden açacak",
+        "summary": "İran, ABD'ye Hürmüz Boğazı'nın yeniden açılması için yedi günlük bir plan sunduğunu açıkladı. Tahran yönetimi, planın kabul edilip edilmemesi kararının Washington'a ait olduğunu belirtti. Basra Körfezi'ni Umman Denizi'ne bağlayan Hürmüz Boğazı, küresel petrol ticaretinin yaklaşık üçte birinin geçtiği stratejik bir su yoludur. Bu gelişme, bölgedeki enerji güvenliği ve denizcilik serbestisi üzerindeki potansiyel etkileri nedeniyle yakından takip ediliyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/15196714/pexels-photo-15196714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-25T23:26:02.272Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790378832214xy0cl",
+        "title": "ABD'nin Dizel İhracat Yasağı Küresel Yakıt Fiyatlarını Etkileyebilir",
+        "summary": "Enerji uzmanları, Amerika Birleşik Devletleri'nin potansiyel bir dizel ihracat yasağının hem ülke içinde hem de uluslararası alanda yakıt maliyetlerini artırabileceği konusunda uyarılarda bulundu. Bu tür bir yasağın küresel enerji piyasalarında önemli dalgalanmalara yol açabileceği ve tedarik zincirleri üzerinde baskı oluşturabileceği belirtiliyor. Orta Doğu coğrafyasındaki ülkeler de dahil olmak üzere enerji ithalatına bağımlı birçok ülke, küresel yakıt fiyatlarındaki bu potansiyel artıştan doğrudan etkilenebilir. Uzmanlar, bu durumun küresel enflasyonist baskıları artırabileceği ve ekonomik istikrarsızlığa yol açabileceği konusunda endişelerini dile getiriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/8709582/pexels-photo-8709582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-25T23:27:12.214Z",
+        "location": {
+            "lat": 30,
+            "lng": 45,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790378901700b1tu1",
+        "title": "İran, Kolombiya'nın Diplomatik İlişkileri Kesme Suçlamalarına Yanıt Verdi",
+        "summary": "İran, Kolombiya ile diplomatik ilişkilerin kesilmesinin ardından Bogota yönetiminden gelen suçlamalara sert tepki gösterdi. Tahran, Kolombiya'yı ABD ve İsrail'in etkisi altında olmakla itham etti. İran ayrıca, Kolombiya'nın uyuşturucu kaçakçılığıyla bağlantıları olduğunu iddia etti. Bu gelişmeler, iki ülke arasındaki diplomatik gerilimi daha da artırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-25T23:28:21.700Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-hits-back-at-colombias-accusations-following-diplomatic-break/4069778",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790367558749972me",
         "title": "Netanyahu'nun BM Genel Kurulu Konuşmasını Hangi Ülkeler Terk Etti?",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'nun Birleşmiş Milletler Genel Kurulu'nda yaptığı konuşma sırasında bazı ülkelerin temsilcileri salonu terk etti. Bu diplomatik eylem, İsrail'in politikalarına yönelik uluslararası tepkileri ve küresel arenadaki siyasi ayrılıkları bir kez daha gözler önüne serdi. Konuşmayı terk eden ülkelerin kimlikleri ve bu protestonun nedenleri, Orta Doğu'daki gelişmeleri ve uluslararası ilişkilerdeki hassasiyetleri yakından takip edenler için önemli bir gösterge niteliği taşıyor. Olay, İsrail'in uluslararası konumunu ve diplomatik ilişkilerdeki gerilimleri vurgulamaktadır.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1790170159994q64bm",
-        "title": "Pakistan, Mekke Paktı'nın İlk Genel Sekreteri Olarak Emekli Bir Generali Atadı",
-        "summary": "Pakistan, Suudi Arabistan ve Türkiye'yi kapsayan üçlü bir anlaşma olan Mekke Paktı'nın ilk genel sekreterini atadı. Bu önemli göreve emekli bir Pakistanlı general getirildi. Paktın temel hedefi, katılımcı ülkeler arasında kolektif caydırıcılığı güçlendirmek ve bölgesel güvenliği artırmaktır. Bu atama, üç ülke arasındaki stratejik işbirliğinin ve diplomatik ilişkilerin derinleştiğini göstermektedir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/18535077/pexels-photo-18535077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-23T13:29:19.994Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/pakistan-appoints-retired-general-as-1st-secretary-general-of-mecca-pact/4066361",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17901701808497t6xw",
-        "title": "İsviçre, İsrail'i Filistin topraklarındaki 'yasa dışı işgale' son vermeye çağırdı",
-        "summary": "İsviçre, İsrail'i Filistin topraklarındaki 'yasa dışı işgale' son vermeye çağırdı. Birleşmiş Milletler İnsan Hakları Konseyi'ne hitap eden İsviçre'nin Cenevre'deki BM temsilcisi, işgal altındaki Filistin topraklarında yaşanan gelişmeleri değerlendirdi. Temsilci, bölgedeki yerleşimci şiddetini, toprak müsaderesini, yıkımı ve zorla yerinden edilmeyi kınadıklarını belirtti. Bu çağrı, uluslararası toplumun Filistin-İsrail meselesine yönelik artan endişelerini yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/37805993/pexels-photo-37805993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-23T13:29:40.849Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/switzerland-calls-on-israel-to-end-illegal-occupation-of-palestinian-territory/4066332",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "179017022306508wiy",
-        "title": "Hürmüz Boğazı'nda Kargo Gemisine Saldırı: 2 Can Kaybı",
-        "summary": "Hürmüz Boğazı'nda seyreden bir kargo gemisi, kimliği belirsiz bir cisimle vuruldu. İngiltere denizcilik ajansı tarafından yapılan açıklamaya göre, olay sonucunda gemide yangın çıktı ve gemi sürüklenmeye başladı. Saldırıda iki kişinin hayatını kaybettiği bildirildi. Bu olay, küresel petrol ticareti için kritik bir geçiş noktası olan Hürmüz Boğazı'ndaki deniz güvenliği endişelerini yeniden gündeme getirdi. Yetkililer, geminin akıbeti ve saldırının sorumluları hakkında soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38569004/pexels-photo-38569004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-23T13:30:23.065Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/cargo-vessel-struck-by-unknown-projectile-in-strait-of-hormuz-2-casualties-reported/4066292",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
