@@ -1,5 +1,21 @@
 [
     {
+        "id": "17902969336925xbfa",
+        "title": "İran'dan ABD'ye Anlaşmaya Geri Dönme Çağrısı: 'Ara Seçimlerden Önce Olmalı'",
+        "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD'ye yönelik önemli bir çağrıda bulundu. Pezeşkiyan, Washington yönetiminin Kasım ayı başından önce bir mutabakat zaptına geri dönmesini talep ettiklerini belirtti. Bu talep, ABD'de yaklaşan ara seçimler öncesinde iki ülke arasındaki ilişkilerde yeni bir dönemeç olarak yorumlanıyor. Tahran, bu anlaşmanın yeniden yürürlüğe girmesini bölgedeki istikrar ve kendi çıkarları açısından kritik görüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-25T00:42:13.692Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "179028758427871b7w",
         "title": "Susan Sarandon ve Hannah Einbinder, Netanyahu'nun BM protestosunda tutuklandı",
         "summary": "Ünlü oyuncular Susan Sarandon ve Hannah Einbinder, İsrail Başbakanı Binyamin Netanyahu'nun Birleşmiş Milletler'deki konuşması öncesinde düzenlenen bir protesto gösterisinde gözaltına alındı. New York'taki BM binası önünde gerçekleşen eylemde, Sarandon ve Einbinder'ın da aralarında bulunduğu yaklaşık 100 gösterici tutuklandı. Protestocuların, Netanyahu'nun politikalarını ve İsrail'in eylemlerini protesto ettiği belirtildi. Bu olay, uluslararası kamuoyunda ve medya çevrelerinde geniş yankı uyandırdı.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "17901087742713k1qt",
-        "title": "Katar, İsrail'in Bölgedeki Saldırganlığını Kınadı",
-        "summary": "Katar Emiri Şeyh Temim bin Hamad Al Sani, İsrail'in komşu ülkelerdeki saldırganlığını kınadığını açıkladı. Emir Al Sani, bu eylemlerin bölgesel istikrarı tehdit ettiğini ve gerilimi artırdığını belirtti. Katar'ın, bölgedeki tüm tarafları itidalli olmaya çağırdığı ve uluslararası hukuka saygı gösterilmesi gerektiğini vurguladığı ifade edildi. Bu açıklama, Orta Doğu'da devam eden gerilimlerin ve diplomatik çabaların bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4685550/pexels-photo-4685550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-22T20:26:14.271Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatar-denounces-israeli-aggression-across-the-region?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
