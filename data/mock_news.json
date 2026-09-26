@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790451438263nwzj3",
+        "title": "Trump'ın Barış Kurulu'ndan Gazze İçin 2.45 Milyar Dolarlık İyileşme Planı",
+        "summary": "Eski ABD Başkanı Donald Trump'ın kurduğu Barış Kurulu, Gazze Şeridi'nin yeniden inşası ve iyileşmesi için 2.45 milyar dolarlık bir planı kamuoyuna duyurdu. Söz konusu finansman paketi, grubun yönetim kurulu üyelerinin New York'ta düzenlenen Birleşmiş Milletler Genel Kurulu oturumları marjında gerçekleştirdiği toplantıda açıklandı. Planın, bölgedeki istikrarsızlığı azaltarak yaşam koşullarını iyileştirmeyi ve ekonomik toparlanmayı desteklemeyi hedeflediği belirtildi. Bu girişimin, Orta Doğu'da kalıcı barış arayışlarına katkıda bulunması umuluyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/36038715/pexels-photo-36038715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-26T19:37:18.263Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790440632468hackc",
         "title": "Manchester City Başkanı: Suçlamalar Karşısında 'Masumiyetimizi' Kanıtlayacağımızdan Eminiz",
         "summary": "Manchester City Futbol Kulübü Başkanı, kulübün Premier Lig finansal kurallarını ihlal ettiği yönündeki 114 suçlamaya karşı 'masumiyetlerini' kanıtlayacaklarından emin olduklarını belirtti. Kulüp, Premier Lig tarafından yöneltilen bu ciddi iddialara itiraz etmeye hazırlanıyor. Başkan, hukuki süreçte başarılı olacaklarına dair güçlü bir inanca sahip olduklarını ifade etti. Bu durum, kulübün geleceği ve itibarı açısından kritik bir dönemeç olarak görülürken, sürecin sonucunun kulübün sportif ve finansal yapısı üzerinde önemli etkileri olabileceği belirtiliyor.",
@@ -780,22 +796,6 @@
             "name": "Ankara, Türkiye"
         },
         "source": "https://www.aa.com.tr/en/turkiye/turkiye-condemns-israeli-defense-minister-s-remarks-on-president-erdogan-/4067777",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1790240863697a6da9",
-        "title": "Netanyahu, İsrail Seçimlerini Göz Önünde Bulundurarak BM Sahnesinde Yerini Alıyor",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, Birleşmiş Milletler Genel Kurulu'nda konuşma yapmak üzere New York'a gitti. Bu ziyaret, İsrail'e yönelik uluslararası eleştirilerin yoğunlaştığı bir döneme denk geliyor. Netanyahu'nun BM sahnesindeki performansı, yaklaşan İsrail seçimleri öncesinde kendi siyasi geleceği açısından da büyük önem taşıyor. Başbakan'ın konuşmasında hem uluslararası kamuoyuna mesajlar vermesi hem de iç siyasete yönelik vurgular yapması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5974857/pexels-photo-5974857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-24T09:07:43.697Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
