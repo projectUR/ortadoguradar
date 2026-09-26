@@ -1,5 +1,37 @@
 [
     {
+        "id": "1790440632468hackc",
+        "title": "Manchester City Başkanı: Suçlamalar Karşısında 'Masumiyetimizi' Kanıtlayacağımızdan Eminiz",
+        "summary": "Manchester City Futbol Kulübü Başkanı, kulübün Premier Lig finansal kurallarını ihlal ettiği yönündeki 114 suçlamaya karşı 'masumiyetlerini' kanıtlayacaklarından emin olduklarını belirtti. Kulüp, Premier Lig tarafından yöneltilen bu ciddi iddialara itiraz etmeye hazırlanıyor. Başkan, hukuki süreçte başarılı olacaklarına dair güçlü bir inanca sahip olduklarını ifade etti. Bu durum, kulübün geleceği ve itibarı açısından kritik bir dönemeç olarak görülürken, sürecin sonucunun kulübün sportif ve finansal yapısı üzerinde önemli etkileri olabileceği belirtiliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/38615732/pexels-photo-38615732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-26T16:37:12.468Z",
+        "location": {
+            "lat": 53.48,
+            "lng": -2.24,
+            "name": "Manchester, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790440751403m9tty",
+        "title": "Gazze Savaşı'ndan Bu Yana İsrail Tarafından 262 Filistinli Gazeteci Öldürüldü: Medya Ofisi",
+        "summary": "Hükümet Medya Ofisi tarafından yapılan açıklamaya göre, Gazze Savaşı'nın başlamasından bu yana İsrail'in saldırılarında 262 Filistinli gazeteci hayatını kaybetti. Ofis, İsrail'in Gazze Şeridi'ne yönelik operasyonları sırasında 433 gazetecinin de yaralandığını bildirdi. Açıklamada ayrıca, bölgedeki medya sektörünün uğradığı maddi kaybın 800 milyon doları aştığı belirtildi. Bu durum, çatışmaların gazetecilik mesleği üzerindeki ağır etkisini ve medya altyapısına verilen zararı gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10464476/pexels-photo-10464476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-26T16:39:11.403Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/262-palestinian-journalists-killed-by-israel-since-gaza-war-media-office/4070264",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1790425301198tjyl6",
         "title": "İsrail Maçına Boykot Baskısı Artıyor",
         "summary": "İrlanda'nın Pazar günü Macaristan'da İsrail ile oynayacağı Uluslar Ligi maçı öncesinde boykot çağrıları yoğunlaşıyor. Hem saha içinde hem de saha dışında artan baskılar, İrlanda'nın maç hazırlıklarını olumsuz etkiliyor. Bu durum, spor etkinliklerinin siyasi gerilimlerden nasıl etkilendiğini bir kez daha gözler önüne seriyor. Boykot çağrılarının temelinde, İsrail'in politikalarına yönelik uluslararası tepkilerin yattığı belirtiliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1790240923530ek3k0",
-        "title": "İran Cumhurbaşkanı Pezeshkian'dan Trump'a: Asla Boyun Eğmeyeceğiz",
-        "summary": "İran Cumhurbaşkanı Masoud Pezeshkian, Birleşmiş Milletler'de yaptığı konuşmada, ABD Başkanı'nın İran'ı \"yok etmekle\" tehdit etmesinin ardından ülkesinin asla \"boyun eğmeyeceğini\" vurguladı. Pezeshkian'ın bu meydan okuyan açıklamaları, ABD Başkanı'nın barış anlaşması sağlanmaması halinde İran'ı tamamen yok etme tehdidinde bulunmasının ardından geldi. Bu durum, iki ülke arasındaki gerilimi uluslararası bir platformda bir kez daha gözler önüne serdi. İran lideri, ülkesinin egemenliğinden ve bağımsızlığından ödün vermeyeceğinin altını çizdi. Söz konusu tehdit ve yanıt, Orta Doğu'daki siyasi tansiyonun yükseldiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17282155/pexels-photo-17282155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-24T09:08:43.530Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790240948699q1av9",
-        "title": "Trump'ın Barış Kurulu, Gazze'nin Yeniden İnşası İçin 2,45 Milyar Dolarlık Planı Açıkladı",
-        "summary": "Eski ABD Başkanı Donald Trump'ın kurduğu Barış Kurulu, Gazze'nin yeniden inşası için 2,45 milyar dolarlık bir finansman planını kamuoyuna duyurdu. Bu önemli finansal paketin detayları, grubun yönetim kurulu toplantısında açıklandı. Toplantı, Birleşmiş Milletler Genel Kurulu'nun New York'taki oturumları sırasında, diplomatik çevrelerin yoğun olduğu bir ortamda gerçekleştirildi. Açıklanan planın, bölgedeki çatışmaların ardından Gazze'de yaşanan yıkımın giderilmesi ve altyapının yeniden kurulması hedefleniyor. Bu girişim, Gazze'ye yönelik uluslararası yeniden yapılanma çabalarına yeni bir boyut kazandırmayı amaçlıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/33743055/pexels-photo-33743055.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-24T09:09:08.699Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
