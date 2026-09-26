@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790387532903b162e",
+        "title": "İran'dan ABD'ye Hürmüz Boğazı Teklifi",
+        "summary": "İran, Hürmüz Boğazı'nın yedi gün içinde yeniden açılmasına yönelik Amerika Birleşik Devletleri'ne bir plan sundu. İran Dışişleri Bakanı, bu öneriyi onaylama kararının ABD'ye ait olduğunu belirtti. Stratejik öneme sahip bu deniz geçidinin durumu, bölgedeki uluslararası ilişkiler ve güvenlik açısından kritik bir konu olmaya devam ediyor. Teklif, iki ülke arasındaki gerilimi azaltma veya diplomatik bir çözüm arayışının parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16574945/pexels-photo-16574945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-26T01:52:12.903Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "179037876227264pug",
         "title": "İran, ABD planı kabul ederse Hürmüz Boğazı'nı bir hafta içinde yeniden açacak",
         "summary": "İran, ABD'ye Hürmüz Boğazı'nın yeniden açılması için yedi günlük bir plan sunduğunu açıkladı. Tahran yönetimi, planın kabul edilip edilmemesi kararının Washington'a ait olduğunu belirtti. Basra Körfezi'ni Umman Denizi'ne bağlayan Hürmüz Boğazı, küresel petrol ticaretinin yaklaşık üçte birinin geçtiği stratejik bir su yoludur. Bu gelişme, bölgedeki enerji güvenliği ve denizcilik serbestisi üzerindeki potansiyel etkileri nedeniyle yakından takip ediliyor.",
@@ -780,22 +796,6 @@
             "name": "New York, ABD"
         },
         "source": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790170134974xeolt",
-        "title": "Netanyahu, Macron'un Batı Şeria Hakkındaki BM Konuşmasını 'Grotesk' Olarak Nitelendirdi",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, Fransa Cumhurbaşkanı Emmanuel Macron'un Birleşmiş Milletler'deki konuşmasında Batı Şeria'ya ilişkin yaptığı yorumlara sert tepki gösterdi. Netanyahu, Macron'un işgal altındaki topraklarda Hamas'ın faaliyetlerini küçümsediği izlenimi veren açıklamalarını 'grotesk' olarak nitelendirdi. Bu durum, iki lider arasında diplomatik bir gerilime yol açtı. Açıklamalar, İsrail-Filistin çatışması ve uluslararası toplumun bu konudaki tutumları bağlamında önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-23T13:28:54.974Z",
-        "location": {
-            "lat": 31.9039,
-            "lng": 35.2033,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
