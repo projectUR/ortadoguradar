@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790553278631umuhe",
+        "title": "İsrail'in Ulusal Güvenlik Bakanı Ben-Gvir'den İdam ve Filistinlilerin Yerinden Edilmesi Yönünde Açıklama",
+        "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, savunma bakanı olarak atanması durumunda idam cezalarını ve Filistinlilerin yerinden edilmesini destekleyeceğini açıkladı. Bakan Ben-Gvir'in bir cezaevi ziyareti sırasında Filistinli bir mahkuma doğrudan 'Seni idam etmek istiyorum' dediği bildirildi. Bu açıklamalar, İsrail'in iç siyasetinde ve Filistin-İsrail ilişkilerinde yeni bir tartışma dalgasına yol açtı. Ben-Gvir'in bu tür radikal politikaları savunması, bölgedeki hassas dengeleri ve gerilimi artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-27T23:54:38.631Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-ben-gvir-vows-to-push-for-executions-palestinian-displacement-if-named-defense-minister/4071100",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "17905305556016e0b2",
         "title": "İsrail Muhalefet Liderleri Netanyahu'yu Devirmek İçin Birleşti",
         "summary": "İsrail'de muhalefet partileri, Başbakan Binyamin Netanyahu hükümetini devirme hedefiyle güçlerini birleştirme kararı aldı. Jerusalem Daily'nin haberine göre, muhalefet liderleri Netanyahu'nun iktidarına son vermek için ortak bir strateji üzerinde anlaştı. Bu birleşme, İsrail siyasetinde önemli bir dönüm noktası olarak değerlendiriliyor. Muhalefetin bu hamlesi, ülkedeki siyasi gerilimi artırırken, erken seçim olasılığını da gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Yemen, Suudi Arabistan, İran"
         },
         "source": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17903552025187vjie",
-        "title": "İsrail Ordusu Ultra-Ortodoks Haredi Yahudilerinin Askerlikten Kaçanları Tutuklamayı Durdurdu",
-        "summary": "İsrail'de yayınlanan Haaretz gazetesinin haberine göre, İsrail ordusu ultra-Ortodoks Haredi Yahudileri arasında askerlik hizmetinden kaçanlara yönelik tutuklamaları durdurdu. Gazete, 2026 yılının ilk yarısında askerlik hizmetinden kaçtığı gerekçesiyle sadece 16 Haredi erkeğin tutuklandığını bildirdi. Bu karar, İsrail'de uzun süredir devam eden ve siyasi gerilimlere yol açan Haredi Yahudilerinin askerlik muafiyeti tartışmalarının ortasında geldi. Haredi toplumu, dini eğitimlerinin askerlik hizmetinden muafiyet sağlaması gerektiğini savunurken, laik kesimler eşit yükümlülük talep ediyor. Bu durum, İsrail toplumundaki derin ayrılıkları bir kez daha gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5976151/pexels-photo-5976151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-25T16:53:22.518Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/army-halts-arrests-of-ultra-orthodox-haredi-jews-draft-dodgers-israeli-newspaper/4069565",
         "trendScore": 85,
         "isBreaking": false
     }
