@@ -1,5 +1,37 @@
 [
     {
+        "id": "17904922070821xtm7",
+        "title": "Etiyopya Ordusu, Yeni İç Savaş Endişeleri Arasında İtidal Sözü Verdi",
+        "summary": "Etiyopya ordusu, ülkede yeni bir iç savaş çıkabileceği yönündeki endişeler arasında itidal çağrısında bulundu. Ordu komutanı, komşu Eritre'yi Etiyopya'yı zayıflatmak amacıyla silahlı grupları finanse etmek ve desteklemekle suçladı. Bu suçlamalar, iki ülke arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor. Bölgedeki istikrarsızlık riskini yükselten bu gelişmeler, uluslararası toplum tarafından yakından izleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/20879646/pexels-photo-20879646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-27T06:56:47.082Z",
+        "location": {
+            "lat": 9.005401,
+            "lng": 38.763611,
+            "name": "Addis Ababa, Etiyopya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1790492277275sdnwi",
+        "title": "Mauritius, İsrail Uçağına İniş İzni Vermedi",
+        "summary": "Mauritius'un, İsrail'den gelmesi planlanan bir uçuşa iniş izni vermediği ve bu durumun seferin iptaline yol açtığı bildirildi. Tur operatörü Spirit World Productions tarafından yapılan açıklamada, Mauritius hükümetinin bu kararının \"siyasi ve diplomatik mülahazalara\" dayandığı belirtildi. Bu gelişme, İsrail ile uluslararası toplum arasındaki ilişkilerde zaman zaman yaşanan gerilimleri yansıtan bir örnek teşkil etmektedir. Olay, uluslararası hava taşımacılığı ve diplomatik ilişkiler üzerinde potansiyel etkiler yaratmaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/39176785/pexels-photo-39176785.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-27T06:57:57.275Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/africa/mauritius-denies-landing-permit-to-flight-from-israel-forcing-cancellation-tour-operator/4070490",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790471428881yodks",
         "title": "İran: Hürmüz Boğazı Teklifi İçin ABD'den Yanıt Bekleniyor",
         "summary": "İran, Hürmüz Boğazı'nın yeniden açılmasına yönelik sunduğu teklife ilişkin olarak Amerika Birleşik Devletleri'nden resmi bir yanıt beklediğini bildirdi. İranlı yetkililer, bu stratejik su yolunun güvenliği ve uluslararası denizcilik için önemine dikkat çekiyor. Teklifin detayları hakkında henüz bilgi verilmezken, Tahran yönetimi Washington'ın tutumunu merakla bekliyor. Bu durum, bölgedeki gerilimi azaltma çabaları kapsamında değerlendiriliyor ve küresel enerji piyasaları için de önem arz ediyor.",
@@ -764,38 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanon-asks-iran-to-nominate-new-ambassador-open-state-to-state-chapter/4068461",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790259592180nhuca",
-        "title": "İsrail, Ticaret Yasağından Etkilenen Şirketlere Nakit Desteği Sağlıyor",
-        "summary": "İsrail hükümeti, uluslararası ticaret yasağından etkilenen şirketlere nakit desteği sunmaya hazırlanıyor. Bu yasağın, özellikle yasa dışı İsrail yerleşimlerinden gelen ürünleri hedef aldığı belirtiliyor. Avrupa Birliği'nin (AB), bu yerleşimlerle ilgili yeni ticaret kuralları konusunda henüz net bir karar alamadığı ifade ediliyor. İsrail, söz konusu yerleşimlerden gelen malları Asya ve Güney Amerika pazarlarına yönlendirerek uluslararası baskıyı aşmayı amaçlıyor. Bu strateji, bölgedeki ekonomik ve siyasi dinamikleri etkileyecek önemli bir adım olarak görülüyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/39638970/pexels-photo-39638970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-24T14:19:52.180Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790259630718hfyr0",
-        "title": "Netanyahu'dan BM Genel Kurulu Konuşmasında Sürpriz Vaadi",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu'nun Birleşmiş Milletler Genel Kurulu'nda yapacağı konuşmada sürprizler olacağını açıkladığı bildirildi. Netanyahu'nun geçmiş yıllardaki BM Genel Kurulu hitapları, genellikle İsrail'in güvenlik kaygıları, İran'ın nükleer programı ve Filistin meselesi gibi kritik konulara odaklanmıştır. Bu yılki konuşmasında da bölgesel ve uluslararası gündeme dair önemli mesajlar vermesi bekleniyor. İsrail liderinin bu açıklaması, uluslararası diplomatik çevrelerde ve kamuoyunda merak uyandırdı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-24T14:20:30.718Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/24/24-09-sv-netanyahu-at-unga-over-the-years-il?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
