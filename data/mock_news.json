@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790639178660k1vqz",
+        "title": "Altın Fiyatları Düşerken Petrol Yükseldi, Dolar Güçlendi",
+        "summary": "Küresel piyasalarda altın fiyatları, yükselen petrol fiyatları ve güçlenen ABD dolarının etkisiyle düşüş yaşadı. Değerli metal, yedi haftanın en düşük seviyesine geriledi. Altındaki düşüşe paralel olarak gümüş de yaklaşık yüzde 5 oranında değer kaybetti. Bu gelişmeler, emtia piyasalarındaki genel eğilimi yansıtırken, petrol fiyatlarındaki artış Orta Doğu ekonomileri için önem taşıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/1868563/pexels-photo-1868563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-28T23:46:18.660Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyadh, Saudi Arabia"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790620862549ob9rw",
         "title": "Trump'ın İran Teklifini Reddetme Kararı",
         "summary": "ABD Başkanı Donald Trump'ın İran'dan gelen bir teklifi reddettiği bildirildi. Bu kararın, Tahran yönetiminin ABD ara seçimlerini bir baskı unsuru olarak kullanma girişimini engellediği belirtildi. Haber kaynakları, Trump'ın bu adımı 'doğru bir karar' olarak değerlendirdiğini aktardı. Söz konusu teklifin içeriği hakkında detay verilmezken, kararın ABD'nin İran politikası açısından önemli olduğu vurgulandı.",
@@ -780,22 +796,6 @@
             "name": "Ramallah, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/palestine-opens-registration-for-nov-28-legislative-vote/4070067",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17904254483304xok9",
-        "title": "İsrail Ordusu İşgal Altındaki Batı Şeria'da Üniversite Kampüsüne Baskın Düzenledi",
-        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da bulunan bir üniversite kampüsüne baskın gerçekleştirdi. Baskın, öğrencilerin sınavlara girdiği bir dönemde ve bölgedeki İsrail askeri geriliminin tırmandığı bir süreçte meydana geldi. Olay, bölgedeki güvenlik durumunun hassasiyetini bir kez daha gözler önüne serdi ve uluslararası kamuoyunda endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30562711/pexels-photo-30562711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-26T12:24:08.330Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-raids-university-campus-in-occupied-west-bank/4070063",
         "trendScore": 85,
         "isBreaking": false
     }
