@@ -1,5 +1,53 @@
 [
     {
+        "id": "1790620862549ob9rw",
+        "title": "Trump'ın İran Teklifini Reddetme Kararı",
+        "summary": "ABD Başkanı Donald Trump'ın İran'dan gelen bir teklifi reddettiği bildirildi. Bu kararın, Tahran yönetiminin ABD ara seçimlerini bir baskı unsuru olarak kullanma girişimini engellediği belirtildi. Haber kaynakları, Trump'ın bu adımı 'doğru bir karar' olarak değerlendirdiğini aktardı. Söz konusu teklifin içeriği hakkında detay verilmezken, kararın ABD'nin İran politikası açısından önemli olduğu vurgulandı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-28T18:41:02.549Z",
+        "location": {
+            "lat": 35.69,
+            "lng": 51.39,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1790620909809mewmq",
+        "title": "İran, Hürmüz Boğazı'ndaki Saldırıları Överken Gerilimlere Rağmen Petrol Akışı Artıyor",
+        "summary": "İran'ın Hürmüz Boğazı'ndaki saldırıları övdüğü, ancak bölgedeki gerilimlere rağmen petrol akışının arttığı belirtiliyor. Uluslararası arabulucular, taraflar arasında yeni görüşmeler düzenlemeye çalışsa da, Washington yönetimi mevcut baskı taktiklerine olan güvenini koruduğunu ifade ediyor. Bu durum, Orta Doğu'daki stratejik su yolunun güvenliği ve küresel enerji piyasaları üzerindeki potansiyel etkileri konusunda endişeleri artırıyor. Diplomatik çabalar sürerken, bölgedeki tansiyonun devam ettiği gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29699838/pexels-photo-29699838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-28T18:41:49.809Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790620950795mxdra",
+        "title": "İran mahkemesi, başörtüsüz sahne alan şarkıcıya verilen kırbaç cezasını onadı",
+        "summary": "İran'da şarkıcı Parastoo Ahmadi'ye, canlı yayınlanan bir konserde kolsuz elbise giyerek sahne alması nedeniyle verilen kırbaç cezası, bir temyiz mahkemesi tarafından onandı. Ahmadi, \"kamu ahlakını ihlal etmek\" suçundan mahkum edilmişti. Bu karar, İran'da kadınların kamusal alanda başörtüsü takma zorunluluğu ve kıyafet kurallarına ilişkin katı uygulamaları bir kez daha gündeme getirdi. Olay, ülkedeki sanatçılar ve insan hakları savunucuları arasında endişelere yol açarken, uluslararası alanda da tepkilere neden olması bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7715788/pexels-photo-7715788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-28T18:42:30.795Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17905937845627eqi7",
         "title": "Filistinliler, İsrailli Bakan Ben-Gvir'in Mahkuma Yönelik Tehditlerini Kınadı",
         "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in, bir cezaevinde Filistinli mahkum Hassan Salama'yı hücresinde taciz ederken çekilen görüntüleri büyük tepki topladı. Filistinliler, bu görüntülerin yayınlanmasının ardından bakanın eylemlerini sert bir dille kınadı. Görüntülerde Ben-Gvir'in mahkuma yönelik tehditkar ifadeler kullandığı belirtildi. Bu olay, İsrail hapishanelerindeki Filistinli mahkumların durumu ve İsrailli yetkililerin tutumları konusunda yeni bir tartışma başlattı.",
@@ -748,54 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-raids-university-campus-in-occupied-west-bank/4070063",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790425471347uimot",
-        "title": "Netanyahu'nun 7 Ekim Olaylarına Yönelik Soruşturmayı Engellediği İddiası",
-        "summary": "Eski bir İsrail istihbarat subayı, Başbakan Binyamin Netanyahu'nun 7 Ekim olaylarına yönelik bir soruşturmayı engellediğini iddia etti. Barak Seri adlı eski subay, Netanyahu'nun 7 Ekim saldırılarından önce \"uyarıldığını ve bilgilendirildiğini\" ancak bu uyarıları \"tamamen göz ardı ettiğini\" belirtti. Bu açıklamalar, İsrail'de 7 Ekim saldırılarının sorumluluğu ve güvenlik zafiyetleri hakkındaki tartışmaları yeniden alevlendirdi. İddialar, Netanyahu hükümeti üzerindeki iç baskıyı artırabilecek nitelikte.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15774106/pexels-photo-15774106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-26T12:24:31.347Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-blocking-inquiry-into-oct-7-events-says-former-israeli-intelligence-officer/4070050",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17904255792286dxfl",
-        "title": "KİK, Husilerin Suudi Arabistan'a Yönelik Saldırılarını Kınadı",
-        "summary": "Körfez İşbirliği Konseyi (KİK), Yemen'deki Husilerin Suudi Arabistan'a yönelik gerçekleştirdiği füze ve insansız hava aracı saldırılarını şiddetle kınadı. KİK Genel Sekreteri, bu tehlikeli tırmanışın krallığın egemenliğinin açık bir ihlali olduğunu belirtti. Yapılan açıklamada, söz konusu saldırıların sivil güvenliğine ve bölgesel istikrara doğrudan bir tehdit oluşturduğu vurgulandı. Konsey, bölgedeki gerilimi artıran bu tür eylemlerin kabul edilemez olduğunu ifade etti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-26T12:26:19.228Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gulf-cooperation-council-condemns-houthi-missile-drone-attacks-on-saudi-arabia/4069898",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790406936037vhcvu",
-        "title": "Huckabee, ABD'de İsrail'e desteğin azalmasını 'İncil okuryazarlığı eksikliğine' bağlıyor",
-        "summary": "Eski Arkansas Valisi Mike Huckabee, ABD'de İsrail'e yönelik kamuoyu desteğinin azalmasını 'İncil okuryazarlığı eksikliği'ne bağladı. Huckabee, Amerikalıların İsrail'in tarihsel ve dini önemini yeterince anlamadığını öne sürdü. Nisan ayında yapılan bir Pew Araştırma Merkezi anketine göre, ABD yetişkin nüfusunun yüzde 60'ı İsrail hakkında olumsuz bir görüşe sahip. Bu anket sonucu, İsrail'in ABD kamuoyundaki imajının son dönemde zayıfladığını gösteriyor. Huckabee'nin bu açıklamaları, ABD-İsrail ilişkilerinin geleceği ve kamuoyu desteğinin bu ilişkilerdeki rolü üzerine tartışmaları yeniden gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30187304/pexels-photo-30187304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-26T07:15:36.037Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
