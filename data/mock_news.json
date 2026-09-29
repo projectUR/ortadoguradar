@@ -1,5 +1,37 @@
 [
     {
+        "id": "1790716921886prw9x",
+        "title": "Japonya, Suriye'ye Destek Sinyali Verdi ve Yaptırımları Kaldırdı",
+        "summary": "Japonya, Suriye'nin yeniden inşasına destek verdiğini açıklayarak, aralarında petrol şirketleri ve finans kuruluşlarının da bulunduğu 16 kuruluşu yaptırım listesinden çıkardı. Tokyo'nun bu adımı, Suriye'ye yönelik politikasında önemli bir değişikliğe işaret ediyor. Kaldırılan yaptırımların, Suriye ekonomisinin canlanmasına ve ülkenin yeniden yapılanma sürecine katkı sağlaması bekleniyor. Bu gelişme, uluslararası arenada Suriye'ye yönelik yaklaşımların değişebileceği sinyalini veriyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-29T21:22:01.886Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/japan-signals-support-to-syria-under-al-sharaa-lifts-sanctions/4073070",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1790716960633o8frd",
+        "title": "ABD, İran'ın askeri tedarik ağlarına yeni yaptırımlar uyguladı",
+        "summary": "ABD Hazine Bakanlığı, İran'ın askeri tedarik ağlarına yönelik yeni yaptırımlar duyurdu. Bu yaptırımlar, İran Savunma Bakanlığı için silah ve bileşen tedarik eden 10 kişi ve kuruluşu hedef alıyor. Yaptırım uygulanan kişi ve kuruluşların farklı yargı bölgelerinde faaliyet gösterdiği belirtildi. Washington, bu adımla İran'ın askeri kapasitesini kısıtlamayı ve bölgesel istikrarsızlaştırıcı eylemlerini engellemeyi amaçlıyor. Bu gelişme, ABD'nin İran'ın nükleer programı ve bölgesel vekil güçlere desteği konusundaki endişelerinin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8175097/pexels-photo-8175097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-29T21:22:40.633Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-issues-new-sanctions-over-iran-military-procurement-networks/4072998",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790701054134bv2eh",
         "title": "Manchester City, Premier Lig'deki tüm ciddi finansal ihlal suçlamalarından suçlu bulundu",
         "summary": "Premier Lig tarafından yapılan açıklamaya göre, Manchester City futbol kulübü ciddi finansal ihlal suçlamalarının tamamından suçlu bulundu. Kulüp yönetimi, verilen bu karara ilişkin derin bir hayal kırıklığı ve şaşkınlık yaşadığını belirtti. Manchester City, söz konusu karara itiraz edeceğini duyurdu. Bu gelişme, kulübün sahibi olan Abu Dhabi United Group'un ve dolayısıyla Birleşik Arap Emirlikleri'nin dolaylı olarak etkilenebileceği bir durum olarak değerlendiriliyor. Kararın, kulübün geleceği ve Premier Lig'deki konumu üzerinde önemli etkileri olması bekleniyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/moroccos-king-expresses-solidarity-with-saudi-arabia-after-houthi-attacks/4070636",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790513805086ob9gp",
-        "title": "İşgal Altındaki Batı Şeria'da Filistinli Kız İsrail Ateşiyle Yaralandı",
-        "summary": "İşgal altındaki Batı Şeria'da bir Filistinli kızın İsrail ateşi sonucu yaralandığı bildirildi. Olay, İsrail'in bölgedeki Filistinlilerin hareketine yönelik kısıtlamaları sıkılaştırdığı bir dönemde meydana geldi. Yaralanan kızın sağlık durumu hakkında detaylı bilgi verilmezken, bölgedeki gerilimin arttığı belirtiliyor. Bu tür olayların, bölgedeki güvenlik durumunu daha da karmaşık hale getirdiği ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18717585/pexels-photo-18717585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T12:56:45.086Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-girl-injured-in-israeli-firing-in-occupied-west-bank/4070569",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17904922070821xtm7",
-        "title": "Etiyopya Ordusu, Yeni İç Savaş Endişeleri Arasında İtidal Sözü Verdi",
-        "summary": "Etiyopya ordusu, ülkede yeni bir iç savaş çıkabileceği yönündeki endişeler arasında itidal çağrısında bulundu. Ordu komutanı, komşu Eritre'yi Etiyopya'yı zayıflatmak amacıyla silahlı grupları finanse etmek ve desteklemekle suçladı. Bu suçlamalar, iki ülke arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor. Bölgedeki istikrarsızlık riskini yükselten bu gelişmeler, uluslararası toplum tarafından yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20879646/pexels-photo-20879646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T06:56:47.082Z",
-        "location": {
-            "lat": 9.005401,
-            "lng": 38.763611,
-            "name": "Addis Ababa, Etiyopya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
