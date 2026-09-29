@@ -1,5 +1,21 @@
 [
     {
+        "id": "17906577697320xktf",
+        "title": "Rusya, Bilimler Akademisi'ne düzenlenen ölümcül saldırının ardından Ukrayna'nın Kiev kentini vurdu",
+        "summary": "Rusya, Ukrayna'nın başkenti Kiev'e yönelik yeni bir saldırı dalgası başlattı. Bu saldırılar, daha önce Bilimler Akademisi'ne düzenlenen ve can kaybına yol açan bir saldırının ardından geldi. Akademi binasına yönelik saldırıya ait görüntülerde, tarihi yapının bir bölümünü parlak alevlerin sardığı ve insanların pencerelerden dışarı baktığı anlar yer aldı. Bu son saldırılar, Rusya-Ukrayna savaşındaki gerilimin devam ettiğini ve sivil hedeflerin de etkilendiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163490/war-desert-guns-gunshow-163490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-29T04:56:09.732Z",
+        "location": {
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "name": "Kiev, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790639178660k1vqz",
         "title": "Altın Fiyatları Düşerken Petrol Yükseldi, Dolar Güçlendi",
         "summary": "Küresel piyasalarda altın fiyatları, yükselen petrol fiyatları ve güçlenen ABD dolarının etkisiyle düşüş yaşadı. Değerli metal, yedi haftanın en düşük seviyesine geriledi. Altındaki düşüşe paralel olarak gümüş de yaklaşık yüzde 5 oranında değer kaybetti. Bu gelişmeler, emtia piyasalarındaki genel eğilimi yansıtırken, petrol fiyatlarındaki artış Orta Doğu ekonomileri için önem taşıyor.",
@@ -780,22 +796,6 @@
             "name": "Afrin, Suriye"
         },
         "source": "https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790425409190ewyrz",
-        "title": "Filistin, 28 Kasım yasama seçimi için kayıtları açtı",
-        "summary": "Filistin, 28 Kasım'da yapılması planlanan yasama seçimleri için seçmen kayıt sürecini başlattı. Filistin Merkezi Seçim Komisyonu tarafından yapılan duyuruya göre, seçmenlerin kayıt yaptırabileceği bu süreç 12 gün sürecek ve 7 Ekim tarihinde sona erecek. Bu adım, uzun bir aradan sonra Filistin'de demokratik sürecin yeniden canlandırılması yönünde önemli bir gelişme olarak değerlendiriliyor. Seçimlerin, Filistin halkının temsilcilerini belirlemede kritik bir rol oynaması bekleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8849327/pexels-photo-8849327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-26T12:23:29.190Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestine-opens-registration-for-nov-28-legislative-vote/4070067",
         "trendScore": 85,
         "isBreaking": false
     }
