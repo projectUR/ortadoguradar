@@ -1,5 +1,85 @@
 [
     {
+        "id": "17907729635200sr09",
+        "title": "Flydubai'nin Tel Aviv Uçuşu Geri Döndü",
+        "summary": "Flydubai'ye ait FZ1081 sefer sayılı Tel Aviv uçağı, rotasından geri dönmek zorunda kaldı. Uçağın geri dönüş nedeni henüz netlik kazanmazken, olayın daha önceki benzer bir olayla bağlantılı olduğuna dair herhangi bir gösterge bulunmuyor. Bu durum, Flydubai'nin Tel Aviv'e yönelik ikinci uçuşunda yaşanan geri dönüş olayı olarak kayıtlara geçti. Yetkililerden konuyla ilgili henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1570541/pexels-photo-1570541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T12:56:03.520Z",
+        "location": {
+            "lat": 32.08,
+            "lng": 34.78,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2nd-flydubai-flight-turns-back-en-route-to-tel-aviv/4073739",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790772991246djsdu",
+        "title": "Petrol Tankeri Hürmüz Boğazı'nda Kimliği Belirsiz Bir Cisim Tarafından Vuruldu",
+        "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Hürmüz Boğazı'nda seyreden bir petrol tankerinin kimliği belirsiz bir cisim tarafından vurulduğunu bildirdi. Olayın Salı günü meydana geldiği ve saldırının ardından yetkililerin kapsamlı bir soruşturma başlattığı açıklandı. Dünyanın en önemli petrol geçiş noktalarından biri olan Hürmüz Boğazı'nda yaşanan bu olay, bölgesel deniz güvenliği endişelerini artırdı. Uluslararası petrol sevkiyatı için kritik öneme sahip olan bu bölgedeki gerilimin tırmanabileceği değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1036866/pexels-photo-1036866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T12:56:31.246Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Umman/İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-maritime-agency/4073612",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1790773016610l7y6q",
+        "title": "İran, ABD'nin Katar aracılı teklifine yanıtını aldı: Sözcü",
+        "summary": "İran, ABD'nin Katar aracılığıyla ilettiği bir teklife yanıt aldığını duyurdu. İranlı yetkililer, bu gelişmenin diplomatik kanalların açık kaldığını gösterdiğini belirtti. Öte yandan, İran Cumhurbaşkanı Pezeshkian, Tahran'ın \"İslamabad anlaşmasının\" başarısı için tüm imkanlarını seferber ettiğini ifade etti. Cumhurbaşkanı Pezeshkian'ın açıklamaları, ülkesinin bölgesel ve uluslararası arenadaki diplomatik çabalarını sürdürdüğüne işaret ediyor. Bu durum, İran'ın hem Batı ile ilişkilerinde hem de komşu ülkelerle olan anlaşmalarında aktif bir rol oynadığını gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T12:56:56.610Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-receives-us-response-to-qatari-mediated-proposal-spokesperson/4073606",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17907730391711g1zm",
+        "title": "Somali açıklarında kaçırılan 8 Mısırlı denizci serbest bırakıldı",
+        "summary": "Somali açıklarında kaçırılan sekiz Mısırlı denizci serbest bırakıldı. Denizciler, Mayıs ayında Somali'nin Puntland bölgesi açıklarında korsanlar tarafından ele geçirilen M/T Eureka adlı petrol tankerinde bulunuyordu. Kaçırılan denizcilerin sağlık durumlarının iyi olduğu belirtildi. Bu olay, bölgedeki deniz güvenliği endişelerini bir kez daha gündeme getirmişti. Mısır Dışişleri Bakanlığı, denizcilerin kurtarılması için uluslararası ortaklarla işbirliği yapıldığını açıklamıştı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/39526265/pexels-photo-39526265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T12:57:19.171Z",
+        "location": {
+            "lat": 9,
+            "lng": 49,
+            "name": "Somali açıklarında"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/8-egyptian-sailors-kidnapped-aboard-oil-tanker-off-somalia-released/4073586",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790773064707qeb0l",
+        "title": "İsrail'de Yeni Anket: Eisenkot Bloğu Netanyahu'yu Geride Bırakıyor",
+        "summary": "Yeni bir kamuoyu araştırması, İsrail siyasetindeki olası güç dengelerini ortaya koydu. Ankete göre, eski Genelkurmay Başkanı Gadi Eisenkot liderliğindeki bloğun 54 sandalye kazanması beklenirken, Başbakan Binyamin Netanyahu liderliğindeki bloğun 50 sandalyeye ulaşacağı öngörülüyor. Knesset'teki sandalye dağılımında, 'Yashar partisi'nin 23 sandalye ile öne çıkacağı tahmin edilirken, Netanyahu'nun Likud partisinin 20 sandalye kazanacağı belirtildi. Bu sonuçlar, İsrail'de potansiyel bir hükümet değişikliğine veya koalisyon dinamiklerinde önemli bir dönüşüme işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8846624/pexels-photo-8846624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T12:57:44.707Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/poll-shows-eisenkot-led-bloc-with-54-seats-netanyahu-bloc-with-50/4073554",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790749429554sc1zu",
         "title": "Hegseth, ABD'li general ve amiral pozisyonlarının sayısını %20 azaltacak",
         "summary": "ABD Savunma Bakanlığı'nın, üst düzey askeri pozisyonlarda önemli bir kesintiye gitme planı gündeme geldi. Pentagon yetkilileri, general ve amiral rütbelerindeki pozisyonların %20 oranında azaltılacağını duyurdu. Bu planın, Savunma Bakanı'nın Virginia'da yapacağı \"Kuvvetin Durumu\" başlıklı konuşmasında kamuoyuna açıklanması bekleniyor. Söz konusu yeniden yapılanmanın, ABD ordusunun küresel operasyonları ve stratejik liderlik yapısı üzerinde dolaylı etkileri olabileceği belirtiliyor. Bu tür bir reformun, özellikle Orta Doğu'daki ABD askeri varlığı ve bölgedeki güvenlik dinamikleri açısından potansiyel sonuçlar doğurabileceği değerlendiriliyor.",
@@ -716,86 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/irans-supreme-leader-khamenei-has-no-specific-health-issues-president/4070938",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790530667803cl63v",
-        "title": "İran, ABD Saldırısı Durumunda Savaşa Hazır Olduğunu, Ancak Diplomasiye Açık Olduğunu Bildirdi",
-        "summary": "İranlı yetkili Abbas Araghchi, ülkesinin ABD'nin olası bir saldırısına karşı savaşa tamamen hazırlıklı olduğunu, ancak aynı zamanda diplomasiye de hazır olduğunu açıkladı. Araghchi, 'Teklifimiz çok açık. ABD belirli şeyleri yaparsa boğazı açmaya hazırız' ifadelerini kullandı. Bu açıklama, İran ile ABD arasındaki gerilimin devam ettiği bir dönemde geldi ve Hürmüz Boğazı'nın stratejik önemine vurgu yaptı. İran'ın bu tutumu, hem müzakere kapısını açık tuttuğunu hem de ulusal güvenliğini koruma kararlılığını gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T17:37:47.803Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-ready-for-diplomacy-but-fully-prepared-for-war-if-us-attacks/4070936",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17905306903747zv9s",
-        "title": "İran, Hürmüz Boğazı Rotası Dışında 19 Gemiyi Durdurduğunu Açıkladı",
-        "summary": "İran, son iki gün içinde belirlenmiş Hürmüz Boğazı rotası dışında 19 gemiyi durdurduğunu duyurdu. İranlı yetkililer, durdurulan gemilerin kimliği veya İran güçleri tarafından alınan önlemler hakkında herhangi bir detay vermedi. Bu olay, küresel petrol ticareti için stratejik bir geçiş noktası olan Hürmüz Boğazı'ndaki denizcilik güvenliği ve seyrüsefer özgürlüğü konularında endişeleri artırabilir. Bölgedeki gerilimin potansiyel olarak yükselmesine yol açabilecek bu tür gelişmeler uluslararası kamuoyu tarafından yakından izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28934041/pexels-photo-28934041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T17:38:10.374Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran/Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-intercepted-19-ships-outside-designated-hormuz-route-in-2-days/4070896",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "179053071386705uzj",
-        "title": "Eski İsrail Savunma Bakanı: Hamas'ın 7 Ekim Mesajı 'Yanlış Anlaşıldı'",
-        "summary": "Eski İsrail Savunma Bakanı Yoav Gallant, Hamas'ın 7 Ekim olayları öncesindeki mesajının istihbarat tarafından 'yanlış anlaşıldığını' belirtti. Gallant'ın açıklamasına göre, istihbarat birimleri Hamas'tan gelen mesajı mahkumlarla ilgili bir konu olarak değerlendirmişti. Bu değerlendirmenin, 7 Ekim'de yaşanan olayların boyutunu öngörmede bir yanılgıya yol açtığı ima ediliyor. Öte yandan, muhalefet lideri Golan, bu konunun aydınlatılması için devlet çapında bir soruşturma başlatılması çağrısında bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T17:38:33.867Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/former-israeli-defense-minister-says-hamas-message-on-oct-7-events-was-misread-/4070877",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17905307376424tap5",
-        "title": "İsrail'in Ben-Gvir'i Sukkot bayramı dolayısıyla El-Aksa'nın Burak Duvarı'nı ziyaret etti",
-        "summary": "İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Yahudilerin Sukkot bayramı dolayısıyla Kudüs'teki El-Aksa Camii kompleksinde bulunan Burak Duvarı bölgesini ziyaret etti. Pazar günü gerçekleşen olayda, Ben-Gvir'in yanı sıra bin yüzü aşkın İsrailli de El-Aksa kompleksine girdi. Bu ziyaret, bölgedeki hassasiyetleri yeniden gündeme getirdi. El-Aksa Camii, Müslümanlar için üçüncü kutsal mekan olup, Yahudiler tarafından Tapınak Tepesi olarak adlandırılmaktadır. Bölgedeki bu tür ziyaretler, genellikle gerilimi artırıcı bir unsur olarak değerlendirilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1659294/pexels-photo-1659294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T17:38:57.642Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.23,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-s-ben-gvir-storms-al-aqsa-s-buraq-wall-to-mark-sukkot/4070854",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1790513645950ofoh2",
-        "title": "Barış Kurulu'ndan UNRWA'ya Gazze Yasağı: İsrail'in Talepleriyle Uyumlu Adım",
-        "summary": "Barış Kurulu olarak belirtilen bir yapının, Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA)'yı Gazze'deki faaliyetlerinden men ettiği bildirildi. Bu karar, İsrail'in söz konusu mülteci yardım kuruluşunu devre dışı bırakma yönündeki tekrarlanan talepleriyle uyumlu bir adım olarak kaydedildi. UNRWA'nın Gazze'deki rolünün sona erdirilmesi, bölgedeki insani yardım operasyonları ve Filistinli mültecilerin durumu üzerinde ciddi sonuçlar doğurabilir. Gelişme, İsrail'in Gazze'deki insani yardım faaliyetlerine yönelik politikalarının bir yansıması olarak değerlendirilmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19264292/pexels-photo-19264292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T12:54:05.950Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
