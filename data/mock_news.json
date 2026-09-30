@@ -1,5 +1,37 @@
 [
     {
+        "id": "1790807409036wxztc",
+        "title": "Suriye'de doğalgaz boru hattı patladı, üç elektrik santrali devre dışı kaldı",
+        "summary": "Suriye'de bir doğalgaz boru hattında meydana gelen patlama sonucu ülkedeki üç elektrik santrali devre dışı kaldı. Olayın ardından elektrik kesintisi sürelerinin artırılması bekleniyor. Patlamanın nedeni hakkında henüz resmi bir açıklama yapılmazken, olayın ülkenin enerji altyapısı üzerinde ciddi bir etki yaratacağı belirtiliyor. Yetkililer, hasarın boyutunu ve onarım çalışmalarının ne kadar süreceğini belirlemek için incelemelere başladı.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/2569842/pexels-photo-2569842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T22:30:09.036Z",
+        "location": {
+            "lat": 33.5,
+            "lng": 36.3,
+            "name": "Suriye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1790807449333or5u0",
+        "title": "Son İngiliz ve ABD Birlikleri, IŞİD Karşıtı Misyon Sona Ererken Irak'tan Ayrıldı",
+        "summary": "İngiltere ve ABD'ye ait son askeri birlikler, IŞİD karşıtı misyonun tamamlanmasının ardından Irak'tan ayrıldı. Bu çekilme, iki yıl önce taraflar arasında varılan bir anlaşma doğrultusunda gerçekleştirildi. Irak hükümeti, koalisyon güçlerinin ülkeden ayrılmasını uzun süredir önemli bir talep olarak dile getiriyordu. Söz konusu gelişme, Irak'ın egemenliğini pekiştiren ve ülkenin güvenlik sorumluluğunu tamamen üstlendiği yeni bir dönemin başlangıcı olarak yorumlanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/188037/pexels-photo-188037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T22:30:49.333Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790792325477xm2fn",
         "title": "Netanyahu, Flydubai Uçuşundaki Bıçaklı Saldırıyı Önleyen Yolcuyla Görüştü",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, Flydubai havayolu şirketine ait bir uçuşta yaşanan bıçaklı saldırı olayında kahramanca bir müdahalede bulunan yolcu Yaniv Hayun ile bir araya geldi. Hayun, uçuş sırasında bir meslektaşını bıçaklayan pilotu etkisiz hale getirerek daha büyük bir olayın önüne geçmişti. Netanyahu, bu görüşmeyle Hayun'un gösterdiği cesur davranışı ve yolcuların güvenliğine yaptığı katkıyı takdir etti. Görüşme, İsrail'in sivil kahramanlara verdiği önemi vurgulayan sembolik bir nitelik taşıyor.",
@@ -764,38 +796,6 @@
             "name": "Macaristan"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790569674172ilnqc",
-        "title": "Hürmüz Boğazı'nda İran Füze Saldırısında 8 ABD Deniz Piyadesi Yaralandı İddiası",
-        "summary": "Hürmüz Boğazı'nda meydana geldiği iddia edilen bir olayda, İran'a atfedilen bir füze saldırısı sonucunda sekiz ABD Deniz Piyadesi'nin yaralandığı bildirildi. NBC News'in üç ABD'li yetkiliye dayandırdığı haberine göre, yaralı deniz piyadeleri duman zehirlenmesi ve olası travmatik beyin hasarı geçirdi. Olayın detayları hakkında henüz resmi bir açıklama yapılmazken, saldırının bölgedeki gerilimi artırma potansiyeli taşıdığı belirtiliyor. Hürmüz Boğazı, küresel petrol ticareti için stratejik öneme sahip bir geçiş noktasıdır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-28T04:27:54.172Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/americas/8-us-marines-injured-in-iranian-missile-attack-in-strait-of-hormuz-report/4071110",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790569742379yta7t",
-        "title": "İsrail Maliye Bakanı, E1 Yerleşim İhalesinin Seçim Öncesi İlerlemesini Talep Etti",
-        "summary": "İsrail Maliye Bakanı, tartışmalı E1 yerleşim bölgesinde planlanan 2.167 konutluk ihale sürecinin yaklaşan Knesset seçimlerinden önce başlatılması yönünde talepte bulundu. Ancak, İsrail hükümetinin hukuk danışmanı, seçim dönemi hassasiyetlerini ve siyasi etkileri gerekçe göstererek söz konusu ihalelerin 27 Ekim'deki oylamadan sonraya ertelendiğini açıkladı. Bu gelişme, İsrail'in yerleşim politikaları ve seçim öncesi dönemdeki siyasi gerilimleri bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9818608/pexels-photo-9818608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-28T04:29:02.379Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-s-finance-minister-demands-e1-settlement-tender-proceed-before-knesset-election/4071101",
         "trendScore": 85,
         "isBreaking": false
     }
