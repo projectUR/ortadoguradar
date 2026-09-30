@@ -1,5 +1,53 @@
 [
     {
+        "id": "17907288519711aqx9",
+        "title": "Trump: İran Savaşı 'Çok Yakında' Bitecek, Detay Vermedi",
+        "summary": "ABD Başkanı Donald Trump, İran'ın nükleer silaha sahip olmayacağını bir kez daha vurguladı. Trump, İran ile ilgili olası bir savaşın 'çok yakında' sona ereceğini iddia etti. Ancak bu iddiasına dair herhangi bir detay paylaşmadı. Bu açıklamalar, Tahran'ın nükleer programı ve bölgedeki gerilimler bağlamında yapıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T00:40:51.971Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17907289077045k1q0",
+        "title": "Trump ve Önde Gelen Teknoloji Şirketleri Yapay Zeka Gelişimini 'Kendi Kendine Denetleme' Anlaşması İmzaladı",
+        "summary": "Eski ABD Başkanı Donald Trump ve önde gelen teknoloji şirketleri, yapay zeka (YZ) sistemlerinin geliştirilmesinde 'sağlam iç kontroller' uygulama konusunda bir anlaşmaya vardı. Güvenlik endişelerinin artmasıyla birlikte, bu anlaşma şirketlerin YZ teknolojilerinin etik ve güvenli bir şekilde ilerlemesini sağlamak amacıyla kendi kendini denetleme mekanizmaları oluşturmasını öngörüyor. Anlaşma, YZ'nin potansiyel risklerine karşı proaktif bir yaklaşım sergileyerek, sektörün gelecekteki düzenlemelerine zemin hazırlamayı hedefliyor. Bu girişim, YZ'nin küresel çapta sorumlu gelişimine yönelik önemli bir adım olarak değerlendiriliyor ve teknoloji dünyasında yeni bir dönemin başlangıcı olarak görülüyor.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T00:41:47.704Z",
+        "location": {
+            "lat": 38.9,
+            "lng": -77,
+            "name": "ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790728976553r27m5",
+        "title": "Kudüs'te binlerce Ultra-Ortodoks Yahudi askerlik taslağını protesto etti",
+        "summary": "Kudüs'te binlerce Ultra-Ortodoks Yahudi, İsrail ordusunda zorunlu askerlik hizmetine karşı büyük bir protesto gösterisi düzenledi. Göstericiler, \"Askerlik yapmak yerine ölmeyi tercih ederiz\" yazılı pankartlar taşıdı. Eylemciler, İsrail ordusunu \"düşman ordusu\" olarak nitelendirerek askere gitmeyeceklerini açıkça ifade etti. Bu protestolar, Ultra-Ortodoks cemaatinin askerlik muafiyeti konusundaki uzun süredir devam eden direnişini ve İsrail'deki siyasi-toplumsal gerilimi yansıtıyor. Olaylar, ülkedeki farklı kesimler arasındaki ayrışmayı derinleştirme potansiyeli taşıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11622838/pexels-photo-11622838.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-09-30T00:42:56.553Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/thousands-of-ultra-orthodox-jews-protest-in-jerusalem-against-military-draft/4073185",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1790716921886prw9x",
         "title": "Japonya, Suriye'ye Destek Sinyali Verdi ve Yaptırımları Kaldırdı",
         "summary": "Japonya, Suriye'nin yeniden inşasına destek verdiğini açıklayarak, aralarında petrol şirketleri ve finans kuruluşlarının da bulunduğu 16 kuruluşu yaptırım listesinden çıkardı. Tokyo'nun bu adımı, Suriye'ye yönelik politikasında önemli bir değişikliğe işaret ediyor. Kaldırılan yaptırımların, Suriye ekonomisinin canlanmasına ve ülkenin yeniden yapılanma sürecine katkı sağlaması bekleniyor. Bu gelişme, uluslararası arenada Suriye'ye yönelik yaklaşımların değişebileceği sinyalini veriyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-airstrikes-continue-to-hit-southern-lebanon-despite-framework-deal/4070714",
         "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1790513737558o1epu",
-        "title": "İsrail Maliye Bakanı, işgal altındaki Batı Şeria'da Gazze benzeri savaş çağrısı yaptı",
-        "summary": "İsrail Maliye Bakanı Bezalel Smotrich, işgal altındaki Batı Şeria'da Gazze Şeridi'ndekine benzer bir askeri operasyon yapılması çağrısında bulundu. Bakan Smotrich, Tel Aviv'in Batı Şeria'da 'Gazze'de yaptığımızı yapması gerektiğini' ifade etti. Bu açıklama, bölgedeki Filistinlilere yönelik kısıtlamaların artırıldığı bir dönemde geldi. Smotrich'in bu sözleri, Orta Doğu'daki gerilimi daha da tırmandırma potansiyeli taşıyor ve uluslararası kamuoyunda geniş yankı bulması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T12:55:37.558Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-finance-minister-calls-for-gaza-style-war-in-occupied-west-bank/4070673",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17905137596842llfn",
-        "title": "İsrail ordusu Gazze'de bir Filistinliyi öldürdü, yedi kişiyi yaraladı",
-        "summary": "İsrail ordusunun Gazze Şeridi'nde gerçekleştirdiği bir operasyonda bir Filistinlinin hayatını kaybettiği, yedi kişinin ise yaralandığı bildirildi. Anadolu Ajansı'nın tıbbi kaynaklardan edindiği bilgilere göre, güney Gazze'de düzenlenen insansız hava aracı saldırısında 28 yaşındaki bir Filistinli yaşamını yitirdi. Bu olay, bölgedeki ateşkesin ihlal edildiği yönündeki iddiaları gündeme getirdi ve bölgedeki gerilimi artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T12:55:59.684Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-palestinian-wounds-7-others-in-new-gaza-truce-violations/4070642",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790513783146qnwz0",
-        "title": "Fas Kralı'ndan Suudi Arabistan'a Husi Saldırıları Sonrası Dayanışma Mesajı",
-        "summary": "Fas Kralı VI. Muhammed, Husilerin Suudi Arabistan'a yönelik saldırılarının ardından Riyad yönetimiyle dayanışma içinde olduğunu bildirdi. Kral Muhammed VI, yaptığı açıklamada, \"Suudi Arabistan'a yönelik herhangi bir saldırı, Fas'a yapılmış bir saldırıdır\" ifadelerini kullandı. Bu açıklama, Fas'ın Suudi Arabistan'ın güvenliğine verdiği önemi ve iki ülke arasındaki güçlü stratejik ortaklığı vurguluyor. Söz konusu dayanışma mesajı, Orta Doğu'daki bölgesel güvenlik dinamikleri açısından önem taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37624482/pexels-photo-37624482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-27T12:56:23.146Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/moroccos-king-expresses-solidarity-with-saudi-arabia-after-houthi-attacks/4070636",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
