@@ -1,5 +1,53 @@
 [
     {
+        "id": "1790886363823d8t7v",
+        "title": "Eritre ve Etiyopya Arasında Diplomatik İlişkiler Kesildi",
+        "summary": "Eritre ve Etiyopya arasındaki diplomatik ilişkiler, karşılıklı adımlar sonucunda tamamen kesildi. Etiyopya hükümeti, Eritre'nin başkenti Asmara'daki büyükelçiliğini kapatma kararı aldığını duyurdu. Ayrıca, Etiyopya, 10 Eritreli diplomatı istenmeyen kişi ilan ederek ülkeden sınır dışı etti. Bu gelişmeler, iki ülke arasındaki uzun süreli gerilimin yeni bir boyut kazandığını gösteriyor ve bölgesel istikrar üzerindeki potansiyel etkileri yakından takip ediliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5505451/pexels-photo-5505451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-01T20:26:03.823Z",
+        "location": {
+            "lat": 15.3,
+            "lng": 38.9,
+            "name": "Asmara, Eritre"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1790886386013armzi",
+        "title": "İngiltere Parlamentosu, Manchester City'nin Mali İhlallerinin Vergi Sonuçlarına İlişkin Yanıt Talep Ediyor",
+        "summary": "İngiltere Parlamentosu'na, Manchester City futbol kulübünün mali ihlallerinin vergi sonuçlarına dair yanıtların gerekli olduğu bildirildi. Bu kapsamda, Birleşik Krallık Gelir ve Gümrük İdaresi (HMRC) ile kulübün finansal usulsüzlükleri hakkında iletişime geçildiği belirtildi. Bu gelişmeler, kulübün mali durumu ve olası cezalarla ilgili süregelen soruşturmaların bir parçası olarak değerlendiriliyor. Soruşturmanın sonuçları, kulübün geleceği ve mali yapısı üzerinde önemli etkiler yaratabilirken, dolaylı olarak kulübün Orta Doğulu sahiplerinin de gündemine oturuyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/12239377/pexels-photo-12239377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-01T20:26:26.013Z",
+        "location": {
+            "lat": 53.4808,
+            "lng": -2.2426,
+            "name": "Manchester, Birleşik Krallık"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1790886515782y2rwn",
+        "title": "Suudi Savunma Bakanı, ABD ve Fransız Mevkidaşlarıyla Bölgesel Güvenliği Görüştü",
+        "summary": "Suudi Arabistan Savunma Bakanı Prens Halid bin Salman, ABD ve Fransa savunma bakanlarıyla ayrı ayrı telefon görüşmeleri gerçekleştirdi. Görüşmelerde, bölgesel güvenlik başta olmak üzere çeşitli konular ele alındı. Bakan Salman, mevkidaşlarıyla savunma işbirliğini ve uluslararası meseleleri değerlendirdi. Bu görüşmelerin, bölgedeki güvenlik dinamikleri ve uluslararası ilişkiler açısından önem taşıdığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36733315/pexels-photo-36733315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-01T20:28:35.782Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-defense-minister-discusses-regional-security-with-us-french-counterparts/4075501",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1790867618298704h2",
         "title": "Birleşik Krallık Başbakanı Burnham'dan İran'a RAF Üssü Suçlaması",
         "summary": "Birleşik Krallık Başbakanı Burnham, bir RAF üssünde meydana gelen olayın arkasında İran'ın olabileceğini belirtti. Bu açıklama, Birleşik Krallık, ABD ve İsrail'den yetkililerin de İran'ın olaya karıştığına dair işaretler vermesiyle geldi. Ancak yetkililer, iddialara ilişkin detaylar konusunda sessizliğini koruyor. Olayın niteliği ve İran'ın olası rolüne dair somut kanıtlar henüz kamuoyuyla paylaşılmadı. Bu durum, bölgesel gerilimi artırabilecek potansiyele sahip bir gelişme olarak değerlendiriliyor.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-parliament-speaker-warns-no-one-in-region-will-sell-oil-if-tehran-cannot/4072382",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790680572959frryk",
-        "title": "Gazze'den İsrail'e Ateşkes İhlali Suçlaması: 'Yaklaşan Felaket' Uyarısı",
-        "summary": "Gazze'deki yetkililer, İsrail'in ateşkesi 5.100'den fazla kez ihlal ettiğini açıkladı. Hükümet Medya Ofisi'nin raporuna göre, 10 Ekim'den bu yana yaşanan bu ihlallerde 1.421 Filistinli hayatını kaybetti. Ateşkesin üzerinden yaklaşık bir yıl geçmesine rağmen, bölgedeki insani koşulların giderek kötüleştiği vurgulandı. Gazze makamları, kış mevsiminin yaklaşmasıyla birlikte bölgede 'yaklaşan bir felaket' yaşanabileceği konusunda uluslararası toplumu uyardı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36769084/pexels-photo-36769084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-29T11:16:12.959Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-authorities-report-over-5-100-israeli-ceasefire-violations-warn-of-imminent-catastrophe-as-winter-approaches/4072341",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1790680593962m8yk9",
-        "title": "İsrail güçleri, Kuzey Kuneytra'daki baskında Suriyeli bir kişiyi gözaltına aldı",
-        "summary": "Suriye medyasının bildirdiğine göre, İsrail güçleri Kuneytra'nın kuzeyinde gerçekleştirdiği bir baskın sırasında Suriyeli bir kişiyi gözaltına aldı. Olay, İsrail devriyesinin öğrencilerin okullarına gittiği sırada Zubaida köyüne doğru ilerlemesiyle yaşandı. Bu durumun çocuklar arasında korkuya neden olduğu belirtildi. Söz konusu gelişme, İsrail-Suriye sınırındaki gerilimi yansıtan bir olay olarak kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/143580/pexels-photo-143580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-29T11:16:33.962Z",
-        "location": {
-            "lat": 33.1,
-            "lng": 35.8,
-            "name": "Kuneytra, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-detain-syrian-man-during-incursion-in-northern-quneitra/4072325",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17906577697320xktf",
-        "title": "Rusya, Bilimler Akademisi'ne düzenlenen ölümcül saldırının ardından Ukrayna'nın Kiev kentini vurdu",
-        "summary": "Rusya, Ukrayna'nın başkenti Kiev'e yönelik yeni bir saldırı dalgası başlattı. Bu saldırılar, daha önce Bilimler Akademisi'ne düzenlenen ve can kaybına yol açan bir saldırının ardından geldi. Akademi binasına yönelik saldırıya ait görüntülerde, tarihi yapının bir bölümünü parlak alevlerin sardığı ve insanların pencerelerden dışarı baktığı anlar yer aldı. Bu son saldırılar, Rusya-Ukrayna savaşındaki gerilimin devam ettiğini ve sivil hedeflerin de etkilendiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/163490/war-desert-guns-gunshow-163490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-29T04:56:09.732Z",
-        "location": {
-            "lat": 50.4501,
-            "lng": 30.5234,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
