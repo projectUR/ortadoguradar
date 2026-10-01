@@ -1,5 +1,53 @@
 [
     {
+        "id": "1790818102492uikl9",
+        "title": "Flydubai Uçuşunda Pilot Bıçaklanması Sonrası Dehşet Anları",
+        "summary": "Flydubai'ye ait bir uçuşun, bir pilotun bıçaklanması olayı nedeniyle rotasının değiştirildiği bildirildi. Uçakta bulunan İsrailli yolcular, yaşananları 'kabus' ve 'dehşet' olarak tanımladı. Olayın ardından uçuşun güvenli bir şekilde başka bir havalimanına indiği ve yolcuların tahliye edildiği belirtildi. Yetkililer, olayın detaylarını araştırmak üzere soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5262811/pexels-photo-5262811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-01T01:28:22.492Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1790818124081jya7p",
+        "title": "İran Başkentinde Şahed İnsansız Hava Araçlarını Sergiledi",
+        "summary": "İran'ın başkenti Tahran'da düzenlenen bir törenle iki adet Şahed insansız hava aracı geçit töreninde sergilendi. Etkinlik sırasında toplanan kalabalıklar coşkuyla tezahürat yaparak ulusal bayraklar salladı. Bu geçit töreni, İran'ın yerli üretim askeri teknolojilerini ve savunma kapasitesini kamuoyuna sergileme amacı taşıdı. Şahed insansız hava araçları, ülkenin askeri envanterinde önemli bir yer tutmakta ve bölgesel güvenlik dinamikleri açısından dikkat çekmektedir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1488083/pexels-photo-1488083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-01T01:28:44.081Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17908181669847vy9i",
+        "title": "Trump, Flydubai Uçağının İnişine Yardım Eden 'İsrailli Tesisatçıya' Şaşırdı",
+        "summary": "ABD Başkanı Donald Trump, bir Flydubai uçağının inişine yardımcı olan bir 'İsrailli tesisatçı' hakkında bir hikaye anlattı. Başkan Trump'ın bu olaya oldukça şaşırdığı ifade edildi. Hikaye, bir İsrailli şahsın, Birleşik Arap Emirlikleri merkezli Flydubai havayoluna ait bir uçuşla ilgili bir duruma katkısını içeriyor. Bu olay, Orta Doğu'daki farklı aktörler arasındaki beklenmedik etkileşimleri gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7495218/pexels-photo-7495218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-01T01:29:26.984Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
         "id": "1790807409036wxztc",
         "title": "Suriye'de doğalgaz boru hattı patladı, üç elektrik santrali devre dışı kaldı",
         "summary": "Suriye'de bir doğalgaz boru hattında meydana gelen patlama sonucu ülkedeki üç elektrik santrali devre dışı kaldı. Olayın ardından elektrik kesintisi sürelerinin artırılması bekleniyor. Patlamanın nedeni hakkında henüz resmi bir açıklama yapılmazken, olayın ülkenin enerji altyapısı üzerinde ciddi bir etki yaratacağı belirtiliyor. Yetkililer, hasarın boyutunu ve onarım çalışmalarının ne kadar süreceğini belirlemek için incelemelere başladı.",
@@ -748,54 +796,6 @@
             "name": "Doğu Kudüs, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-storm-al-aqsa-mosque-in-east-jerusalem-as-palestinian-shops-forced-to-close-for-jewish-prayers-/4071402",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790594059078s60yt",
-        "title": "Yemen hükümet güçleri Taiz'de Husilere ait mevzileri bombaladı, çatışma tırmanıyor",
-        "summary": "Yemen'deki çatışmaların tırmanmasıyla birlikte, Yemen hükümet güçleri Taiz kentinde Husilere ait mevzilere hava saldırıları düzenledi. Taiz askeri komutanlığından yapılan açıklamaya göre, saldırılar Taiz'in batısındaki Al-Rubaie bölgesindeki hedefleri hedef aldı. Bu operasyonlar, bölgedeki gerilimin arttığı bir dönemde gerçekleşirken, çatışmaların yoğunlaştığına işaret ediyor. Bölgedeki insani durum ve güvenlik endişeleri devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9643191/pexels-photo-9643191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-28T11:14:19.078Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-bomb-houthi-positions-in-taiz-as-conflict-escalates/4071379",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1790594082856299ag",
-        "title": "Filistinliler, İsrailli bakanın tutukluya yönelik ölüm tehdidini kınadı",
-        "summary": "Filistinliler, İsrailli bir bakanın bir tutukluya yönelik ölüm tehdidini şiddetle kınadıklarını açıkladı. Filistinli Tutuklular İşleri Komisyonu, İsrail hapishanelerindeki koşulları 'örgütlü terörizm' olarak nitelendirdi. Komisyon, uluslararası toplumun bu duruma sessiz kalmasının daha fazla ihlali teşvik ettiği uyarısında bulundu. Bu açıklama, İsrail-Filistin çatışması bağlamında insan hakları ihlallerine ilişkin endişeleri bir kez daha gündeme getirdi. Olay, bölgedeki gerilimi artırabilecek nitelikte.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6069232/pexels-photo-6069232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-28T11:14:42.856Z",
-        "location": {
-            "lat": 31.7,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinians-condemn-israeli-minister-s-death-threat-against-detainee/4071370",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790569635087rmjak",
-        "title": "İrlanda, İsrail'i 3-0 Yendi, Gazze'ye Destek İçin Siyah Kol Bandı Taktı",
-        "summary": "İrlanda, UEFA Uluslar Ligi maçında İsrail'i Macaristan'da 3-0 mağlup etti. Karşılaşma, İrlandalı oyuncuların Gazze'ye destek amacıyla sahaya siyah kol bantlarıyla çıkması nedeniyle siyasi bir boyut kazandı. Bu hareket, maçın sportif rekabetinin ötesinde, Orta Doğu'daki güncel olaylara yönelik uluslararası bir mesaj olarak yorumlandı. Maçın sonucu kadar, sergilenen bu siyasi duruş da uluslararası kamuoyunda geniş yankı uyandırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6054378/pexels-photo-6054378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-28T04:27:15.087Z",
-        "location": {
-            "lat": 47,
-            "lng": 19,
-            "name": "Macaristan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
