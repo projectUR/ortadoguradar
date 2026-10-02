@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790920986468ep82c",
+        "title": "Eritre, Etiyopya ile Diplomatik İlişkilerini Kesti",
+        "summary": "Eritre, Etiyopya'nın başkent Asmara'daki büyükelçiliğini kapatmasının ardından Etiyopya ile diplomatik ilişkilerini sonlandırdığını duyurdu. Bu gelişme, iki ülke arasındaki gerilimin tırmandığını gösteriyor. İlişkilerin kesilmesinin, Etiyopya'daki Tigray bölgesi anlaşmazlığıyla bağlantılı olduğu belirtiliyor. Bölgesel istikrar açısından önemli bir adım olarak değerlendirilen bu karar, iki komşu ülke arasındaki ilişkilerde yeni bir döneme işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-02T06:03:06.468Z",
+        "location": {
+            "lat": 15.3229,
+            "lng": 38.925,
+            "name": "Asmara, Eritre"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "179089941249108q0x",
         "title": "İsrail insansız hava aracı Gazze'de bir Filistinliyi öldürdü, Batı Şeria'da yerleşimciler bir başkasını öldürdü",
         "summary": "Gazze Şeridi'nde İsrail'e ait bir insansız hava aracı saldırısında bir Filistinli hayatını kaybederken, Batı Şeria'da ise İsrailli yerleşimciler tarafından bir başka Filistinli öldürüldü. Bu olaylar, bölgedeki gerilimin devam ettiğini gösteriyor. Verilere göre, Ekim 2025'te başlayan 'ateşkes' sürecinden bu yana Gazze'de 1.439 Filistinli yaşamını yitirmiş, 5.052 kişi ise yaralanmıştır. Bölgede yaşanan bu son gelişmeler, uluslararası toplumun dikkatini çekmeye devam ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cw7v4ppj9yd6o?at_medium=RSS&at_campaign=rss",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1790680506085runko",
-        "title": "Kızılhaç: Batı Şeria'da Şiddet ve İsrail Yerleşimleri Filistinlilerin Hayatını 'Dayanılmaz' Hale Getiriyor",
-        "summary": "Uluslararası Kızılhaç Komitesi (ICRC), Batı Şeria'da Filistinlilerin yaşam koşullarının İsrail yerleşimlerinin genişlemesi ve tekrarlanan saldırılar nedeniyle \"dayanılmaz\" hale geldiğini bildirdi. Komite, işgal altındaki topraklarda yaşanan bu durumun ciddi insani zararlara yol açtığını vurguladı. ICRC yetkilileri, yerleşim birimlerinin yayılmasının ve şiddet olaylarının bölgedeki Filistin toplulukları üzerinde yıkıcı etkileri olduğunu belirtti. Bu gelişmelerin, temel hizmetlere erişimi kısıtladığı ve günlük yaşamı olumsuz etkilediği ifade edildi. Kızılhaç, uluslararası hukuka uygun olarak sivillerin korunması ve insani yardımların kesintisiz ulaştırılması çağrısında bulundu.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/39167831/pexels-photo-39167831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-29T11:15:06.085Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/violence-israeli-settlement-make-life-intolerable-for-palestinians-in-west-bank-red-cross/4072522",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
