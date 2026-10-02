@@ -1,5 +1,21 @@
 [
     {
+        "id": "1790981526152i8k6g",
+        "title": "BM özel raportörü: İsrail'in 'keyfi' kontrol noktaları Batı Şeria'da Filistin yaşamını 'boğuyor'",
+        "summary": "Birleşmiş Milletler (BM) özel raportörü, İsrail'in Batı Şeria'daki kontrol noktalarının Filistinlilerin yaşamını olumsuz etkilediğini belirtti. Raportör, bu kontrol noktalarını \"keyfi\" olarak nitelendirerek, Filistin yaşamını \"boğduğunu\" ifade etti. BM kayıtlarına göre, bölgede 925 kontrol noktası bulunuyor. Bu durum, Batı Şeria'da yaşayan 3,4 milyon Filistinlinin hareket özgürlüğünü doğrudan etkiliyor ve günlük yaşamlarını zorlaştırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/38143082/pexels-photo-38143082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-02T22:52:06.152Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israels-arbitrary-checkpoints-choking-palestinian-life-in-west-bank-un-special-rapporteur/4076633",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1790966191365k0j8b",
         "title": "İsrail Bariyeri, Batı Şeria'daki Filistinlilerin Su Erişimini Kısıtlıyor",
         "summary": "Batı Şeria'da bulunan Ras al-Ahmar bölgesindeki Filistinliler, İsrail tarafından inşa edilen bir bariyerin su, hayvan yemi ve sağlık hizmetlerine erişimlerini kestiğini iddia etti. Bölge sakinleri, İsrail'in uyguladığı kısıtlamaların günlük yaşamlarını olumsuz etkilediğini ve temel ihtiyaçlarını karşılamakta zorlandıklarını belirtti. Bu durumun, bölgedeki seçimler öncesinde yaşanması dikkat çekiyor. Filistinliler, suya ve diğer yaşamsal kaynaklara erişimlerinin engellenmesinin insani bir kriz yarattığını vurguladı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-maritime-agency/4073612",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1790773016610l7y6q",
-        "title": "İran, ABD'nin Katar aracılı teklifine yanıtını aldı: Sözcü",
-        "summary": "İran, ABD'nin Katar aracılığıyla ilettiği bir teklife yanıt aldığını duyurdu. İranlı yetkililer, bu gelişmenin diplomatik kanalların açık kaldığını gösterdiğini belirtti. Öte yandan, İran Cumhurbaşkanı Pezeshkian, Tahran'ın \"İslamabad anlaşmasının\" başarısı için tüm imkanlarını seferber ettiğini ifade etti. Cumhurbaşkanı Pezeshkian'ın açıklamaları, ülkesinin bölgesel ve uluslararası arenadaki diplomatik çabalarını sürdürdüğüne işaret ediyor. Bu durum, İran'ın hem Batı ile ilişkilerinde hem de komşu ülkelerle olan anlaşmalarında aktif bir rol oynadığını gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-09-30T12:56:56.610Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-receives-us-response-to-qatari-mediated-proposal-spokesperson/4073606",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
