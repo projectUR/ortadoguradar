@@ -1,5 +1,53 @@
 [
     {
+        "id": "17910705677342arv1",
+        "title": "Pelosi Destekli ABD Adayından İsrail'e 'Tam Silah Ambargosu' Çağrısı",
+        "summary": "ABD'de Nancy Pelosi tarafından Kaliforniya'da kendisinin yerine geçmesi için desteklenen aday Connie Chan, İsrail'e yönelik 'tam bir silah ambargosu' uygulanması çağrısında bulundu. Chan, Gazze'deki 'soykırımı sona erdirmek' amacıyla bu yönde oy kullanacağını belirtti. Bu açıklama, ABD iç siyasetinde İsrail-Filistin çatışmasına ilişkin artan tartışmaları ve Demokrat Parti içindeki farklı görüşleri gözler önüne seriyor. Adayın bu tutumu, ABD'nin İsrail'e yönelik askeri yardımları konusunda gelecekteki politikaların potansiyel yönelimlerine dair ipuçları sunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37632503/pexels-photo-37632503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-03T23:36:07.734Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gaza, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791070623039ox9mo",
+        "title": "İsrailli Yerleşimciler Zeytin Hasadı Yapan Filistinli Çiftçilere Saldırdı",
+        "summary": "İsrailli yerleşimciler, zeytin hasadı yapmakta olan Filistinli çiftçilere saldırdı. Olay, Filistin topraklarında geleneksel zeytin toplama döneminde meydana geldi. Saldırılar sonucunda çiftçilerin hasat faaliyetleri kesintiye uğradı. Bu tür olaylar, bölgedeki gerilimi artırma potansiyeli taşımaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15009292/pexels-photo-15009292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-03T23:37:03.039Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1791070682205hwjwy",
+        "title": "İsrail Başbakanı: Dubai-Tel Aviv Uçuşundaki Saldırıda İran'ın Rolü İçin Konuşmak Henüz Erken",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, Dubai-Tel Aviv seferi yapan bir uçakta meydana gelen olaya ilişkin açıklamalarda bulundu. Netanyahu, söz konusu olayda İran'ın rolü olup olmadığını söylemek için henüz erken olduğunu belirtti. Olayın detaylarına göre, İsrail'e gitmekte olan uçakta bir pilotun başka bir pilotu bıçakladığı öğrenildi. İsrail Başbakanı, bu olayın Suudi Arabistan'da soruşturulduğunu kaydetti. Gelişmelerin yakından takip edildiği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8154435/pexels-photo-8154435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-03T23:38:02.205Z",
+        "location": {
+            "lat": 24,
+            "lng": 45,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17910603566833svx7",
         "title": "Gazze'de Saldırıda Hayatını Kaybeden Anne ve Kız İçin Kilisede Cenaze Töreni Düzenlendi",
         "summary": "Gazze Şeridi'nde düzenlenen bir saldırıda hayatını kaybeden Filistinli bir anne ve kızı için cenaze töreni düzenlendi. Cenaze namazları, Gazze Şehri'nde bulunan tarihi Aziz Porphyrius Rum Ortodoks Kilisesi'nde kılındı. Törene, hayatını kaybedenlerin yakınları ve çok sayıda cemaat üyesi katıldı. Bu olay, bölgedeki devam eden çatışmaların sivil kayıplara yol açtığını ve insani dramı bir kez daha gözler önüne serdi.",
@@ -748,54 +796,6 @@
             "name": "Addis Ababa, Etiyopya"
         },
         "source": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790867683203x3que",
-        "title": "Hindistan'da Filistin Destekçisi Etkinliğe Yönelik Polis Baskını Protestolara Neden Oldu",
-        "summary": "Hindistan'ın Mumbai kentinde, Filistin'e destek amacıyla düzenlenen bir uçurtma etkinliğine katılan gönüllünün evine polis baskını düzenlenmesi üzerine protestolar başladı. Filistin yanlısı aktivistler, bu baskını kınamak ve dayanışma göstermek amacıyla sokaklara çıktı. Polis baskınının, Gazze'deki olaylarla ilgili bir etkinliğe katılım sonrası gerçekleştiği belirtildi. Aktivistler, ifade özgürlüğüne ve Filistin davasına destek verenlere yönelik baskılara karşı tepkilerini dile getirdi. Olay, Hindistan'da Filistin meselesine yönelik artan hassasiyeti ve sivil toplumun tepkisini gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8635700/pexels-photo-8635700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-01T15:14:43.203Z",
-        "location": {
-            "lat": 19.076,
-            "lng": 72.8777,
-            "name": "Mumbai, Hindistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1790867711725s3qfd",
-        "title": "Flydubai Yolcusu: Uçak Saldırı Sırasında Burun Üstü Çakılırken Çocuklarıma Sarıldım",
-        "summary": "Flydubai havayollarına ait bir uçakta yaşanan olayda, bir yolcu uçağın saldırı sırasında 5.200 metreden fazla irtifa kaybetmesini anlattı. Adam Polovincik, BBC'ye yaptığı açıklamada, uçak hızla alçalırken küçük çocuklarına \"her şey yoluna girecek\" dediğini belirtti. Yolcu, uçağın burun üstü çakıldığı anlarda çocuklarına sarıldığını ifade etti. Bu olay, Flydubai'nin operasyonları ve yolcu güvenliği konularını yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3379804/pexels-photo-3379804.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-01T15:15:11.725Z",
-        "location": {
-            "lat": 25.2,
-            "lng": 55.3,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790867733555iz33q",
-        "title": "İran, İngiliz Büyükelçisini RAF Fairford Komplosu İddiaları Nedeniyle Çağırdı",
-        "summary": "İran, Tahran'ı RAF Fairford'daki bir komployla ilişkilendiren iddialar üzerine İngiltere Büyükelçisini Dışişleri Bakanlığı'na çağırdı. İran Dışişleri Bakan Yardımcısı, bu iddiaları kesin bir dille reddettiğini belirtti. Tahran, Londra'yı bu konudaki resmi tutumunu netleştirmeye çağırdı. Bu diplomatik adım, iki ülke arasındaki gerilimi artırma potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-01T15:15:33.555Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-summons-british-ambassador-for-claims-linking-tehran-to-raf-fairford-plot/4075255",
         "trendScore": 85,
         "isBreaking": false
     }
