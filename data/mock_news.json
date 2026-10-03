@@ -1,5 +1,21 @@
 [
     {
+        "id": "17910603566833svx7",
+        "title": "Gazze'de Saldırıda Hayatını Kaybeden Anne ve Kız İçin Kilisede Cenaze Töreni Düzenlendi",
+        "summary": "Gazze Şeridi'nde düzenlenen bir saldırıda hayatını kaybeden Filistinli bir anne ve kızı için cenaze töreni düzenlendi. Cenaze namazları, Gazze Şehri'nde bulunan tarihi Aziz Porphyrius Rum Ortodoks Kilisesi'nde kılındı. Törene, hayatını kaybedenlerin yakınları ve çok sayıda cemaat üyesi katıldı. Bu olay, bölgedeki devam eden çatışmaların sivil kayıplara yol açtığını ve insani dramı bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7317717/pexels-photo-7317717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-03T20:45:56.683Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1791048676570h6fnw",
         "title": "Somali Cumhurbaşkanı: İsrail'in Bölgedeki Varlığını Hiçbir Koşulda Kabul Etmeyeceğiz",
         "summary": "Somali Cumhurbaşkanı Hasan Şeyh Mahmud, İsrail'in Berbera'da bir deniz üssü kurma planları olduğu iddialarına ilişkin önemli açıklamalarda bulundu. Al Jazeera'ye verdiği özel röportajda Cumhurbaşkanı Mahmud, Somali'nin hiçbir koşul altında İsrail'in bölgedeki varlığını kabul etmeyeceğini net bir dille ifade etti. Mahmud, İsrail'in Somali topraklarında veya yakın çevresinde askeri bir üs kurma girişimlerine karşı olduklarını ve bu tür bir adıma izin vermeyeceklerini vurguladı. Bu açıklama, stratejik Kızıldeniz ve Aden Körfezi hattında bölgesel güvenlik ve jeopolitik dengeler açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-summons-british-ambassador-for-claims-linking-tehran-to-raf-fairford-plot/4075255",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17908677553643yyff",
-        "title": "Cezayir Parlamentosu Kundakçılık ve Çocuk Kaçırma Suçlarına İdam Cezasını Onayladı",
-        "summary": "Cezayir parlamentosu, kundakçılık ve çocuk kaçırma gibi ciddi suçlara idam cezası getiren yasa değişikliğini onayladı. Ülke ceza kanununda yapılan bu düzenlemeler, söz konusu suçların failleri için daha ağır cezalar öngörüyor. Bu adımın, kamu güvenliğini artırma ve suç oranlarını düşürme hedefiyle atıldığı belirtiliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6593883/pexels-photo-6593883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-01T15:15:55.364Z",
-        "location": {
-            "lat": 36.737232,
-            "lng": 3.086497,
-            "name": "Cezayir, Cezayir"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/algerian-parliament-approves-death-penalty-for-arson-child-kidnapping/4075251",
         "trendScore": 85,
         "isBreaking": false
     }
