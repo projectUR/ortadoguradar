@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791152809753vdtqa",
+        "title": "İrlanda Milli Takımı, İsrail Maçında El Sıkışmayı Reddedip Kolluk Taktı",
+        "summary": "İrlanda Cumhuriyeti milli futbol takımı oyuncuları, UEFA Uluslar Ligi'nde İsrail ile oynadıkları maçta dikkat çeken bir protesto gerçekleştirdi. İrlandalı futbolcular, maç öncesinde İsrailli oyuncularla el sıkışmayı reddederken, aynı zamanda siyah kolluklar takarak sahaya çıktı. Bu eylem, İrlanda takımının İsrail'e yönelik benzer bir protestoyu daha önce de tekrarladığını gösteriyor. Söz konusu hareketin, Orta Doğu'daki güncel duruma veya İsrail'in politikalarına karşı bir duruş olduğu yorumları yapılıyor. UEFA Uluslar Ligi müsabakasında yaşanan bu olay, spor sahalarına yansıyan politik gerilimleri bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11622840/pexels-photo-11622840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-04T22:26:49.753Z",
+        "location": {
+            "lat": 53.3,
+            "lng": -6.3,
+            "name": "Dublin, İrlanda"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791141552722c82la",
         "title": "İran'a Yönelik Gerilim: Anlaşma Yerine Tırmanış mı Bekleniyor?",
         "summary": "Eski İranlı ve ABD'li diplomatlar, İran'a yönelik mevcut gerilimin önümüzdeki haftalarda daha da tırmanabileceği konusunda ortak bir görüş bildirdi. Diplomatik çevreler, bölgedeki tansiyonun düşürülmesi yönündeki çabaların yetersiz kalabileceği endişesini taşıyor. Taraflar arasındaki anlaşmazlıkların derinleşmesiyle birlikte, çatışma riskinin artabileceği belirtiliyor. Bu durum, Orta Doğu'da istikrarsızlığın daha da artmasına yol açabilecek potansiyel bir tehdit olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Dubai, Birleşik Arap Emirlikleri"
         },
         "source": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17909461670942eui4",
-        "title": "Etiyopya Hükümeti Yanlısı Grup, Tigray Bölgesinde Kontrol İddia Ediyor",
-        "summary": "Etiyopya hükümetine bağlı bir grup, ülkenin kuzeyindeki Tigray bölgesinin neredeyse tamamında kontrolü ele geçirdiğini duyurdu. Bu iddia, kuzey Etiyopya genelinde şiddetin yeniden tırmandığı bir döneme denk geliyor. Bölgedeki çatışmaların artmasıyla birlikte diplomatik ilişkiler ve insani durumun kötüleştiği belirtiliyor. Bu gelişmeler, bölgedeki istikrarsızlığı derinleştirirken, uluslararası toplumun endişelerini artırıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T13:02:47.094Z",
-        "location": {
-            "lat": 13.5,
-            "lng": 39.5,
-            "name": "Tigray Bölgesi, Etiyopya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
