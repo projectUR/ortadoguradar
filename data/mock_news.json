@@ -1,5 +1,37 @@
 [
     {
+        "id": "1791141552722c82la",
+        "title": "İran'a Yönelik Gerilim: Anlaşma Yerine Tırmanış mı Bekleniyor?",
+        "summary": "Eski İranlı ve ABD'li diplomatlar, İran'a yönelik mevcut gerilimin önümüzdeki haftalarda daha da tırmanabileceği konusunda ortak bir görüş bildirdi. Diplomatik çevreler, bölgedeki tansiyonun düşürülmesi yönündeki çabaların yetersiz kalabileceği endişesini taşıyor. Taraflar arasındaki anlaşmazlıkların derinleşmesiyle birlikte, çatışma riskinin artabileceği belirtiliyor. Bu durum, Orta Doğu'da istikrarsızlığın daha da artmasına yol açabilecek potansiyel bir tehdit olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5699683/pexels-photo-5699683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-04T19:19:12.722Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791141592356pk8i9",
+        "title": "Flydubai Yardımcı Pilotunun Avustralya Bağlantıları Soruşturuluyor",
+        "summary": "Birleşik Arap Emirlikleri merkezli Flydubai havayolunun bir yardımcı pilotu hakkında Avustralya'daki bağlantıları nedeniyle soruşturma başlatıldı. Avustralya polisi ve istihbarat birimleri, olayı araştıran kurumlar arasına katıldı. Soruşturmanın detayları hakkında henüz resmi bir açıklama yapılmazken, yardımcı pilotun Avustralya ile olan ilişkilerinin güvenlik birimlerinin dikkatini çektiği belirtiliyor. Bu gelişme, uluslararası havacılık güvenliği ve personel denetimleri konularını yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8382074/pexels-photo-8382074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-04T19:19:52.356Z",
+        "location": {
+            "lat": -35.2809,
+            "lng": 149.13,
+            "name": "Canberra, Avustralya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791129327939cmdcq",
         "title": "'Biliyor muydu?': İsrail neden 7 Ekim hesaplaşmasını reddediyor?",
         "summary": "İsrail'in, 7 Ekim olaylarına ilişkin bir hesaplaşmayı neden reddettiği tartışılıyor. Habere göre, Başbakan Netanyahu'nun 7 Ekim'deki başarısızlıklarına odaklanılması, İsrail'in Gazze'de gerçekleştirdiği eylemlerle yüzleşmekten kaçınmasına olanak tanıyor. Bu durum, hem iç siyasetteki sorumluluk tartışmalarını hem de Gazze'deki operasyonların uluslararası ve iç kamuoyundaki yansımalarını gündeme getiriyor. İsrail'in, 7 Ekim saldırılarının ardından yaşanan süreçte kendi rolünü değerlendirme konusunda bir direniş sergilediği belirtiliyor.",
@@ -764,38 +796,6 @@
             "name": "Tigray Bölgesi, Etiyopya"
         },
         "source": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790946188010hezaa",
-        "title": "Tunus, 'yalan haber' cezalarını hafifletti: Ne değişti ve neden şimdi?",
-        "summary": "Tunus hükümeti, 'yalan haber' suçlarına ilişkin cezaları hafifleten yeni bir kararname yayımladı. Bu düzenlemeye göre, ilk kez 'yalan haber' suçunu işleyenler için hapis cezaları yerine para cezaları uygulanacak. Ancak insan hakları örgütleri, bu değişikliğin yeterli olmadığını ve yasanın hala baskıcı nitelikte olduğunu belirtiyor. Kararname, ifade özgürlüğü üzerindeki kısıtlamaların devam ettiğine dair endişeleri tamamen gidermedi. Bu adımın zamanlaması ve arkasındaki nedenler ise tartışma konusu olmaya devam ediyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6077447/pexels-photo-6077447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T13:03:08.010Z",
-        "location": {
-            "lat": 36.8065,
-            "lng": 10.1815,
-            "name": "Tunus, Tunus"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17909462270306rpg0",
-        "title": "Netanyahu: Flydubai Saldırganı \"İslamcı Radikal Telkin\" Aldı",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, Flydubai uçağını ele geçirmeye teşebbüs eden pilotun \"İslamcı radikal telkin\" aldığını açıkladı. Netanyahu, pilotun uçağı düşürme yönünde açık bir niyeti olduğunu belirtti. Bu açıklama, olayın arkasındaki motivasyonlara dair İsrail'in değerlendirmesini yansıtmaktadır. Birleşik Arap Emirlikleri merkezli Flydubai havayoluna ait uçakta yaşanan bu olay, bölgesel güvenlik endişelerini gündeme getirdi. Olayın detayları ve pilotun kimliği hakkında soruşturmalar devam etmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29561683/pexels-photo-29561683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T13:03:47.030Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
