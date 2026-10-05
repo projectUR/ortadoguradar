@@ -1,5 +1,53 @@
 [
     {
+        "id": "179116257602847tni",
+        "title": "Dört Afrika Liderinden Sudan'daki İç Savaşın Sona Erdirilmesi İçin Ortak Deklarasyon",
+        "summary": "Mısır, Eritre, Somali ve Sudan liderleri, Sudan'da devam eden iç savaşın sona erdirilmesi çağrısında bulunan ortak bir deklarasyon yayımladı. Liderler, çatışmaların tırmanışından duydukları derin endişeyi dile getirerek, tüm tarafları müzakere masasına dönmeye davet etti. Bu diplomatik girişim, bölgedeki istikrarsızlığın artması ve insani krizin derinleşmesi karşısında acil çözüm arayışlarını yansıtıyor. Deklarasyon, Etiyopya'daki savaşın da şiddetlenmesiyle birlikte, bölgesel barış ve güvenliğin sağlanması için ortak hareket etme kararlılığını vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T01:09:36.028Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 32.6,
+            "name": "Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": false
+    },
+    {
+        "id": "1791162597224txpme",
+        "title": "İran Savaşı Canlı: Yemen'de Çatışmalar Yoğunlaşıyor; Tahran ABD Saldırılarına Hazır Olduğunu Belirtti",
+        "summary": "Yemen hükümeti, Husilere karşı büyük bir askeri operasyon başlattığını duyurdu. Bu gelişme, bölgedeki gerilimi artırırken, İran da ABD'nin olası saldırılarına karşı kendini savunmaya hazır olduğunu açıkladı. Yemen'deki çatışmaların yoğunlaşması ve Tahran'dan gelen bu açıklamalar, Orta Doğu'daki güvenlik durumunu yakından ilgilendiriyor ve bölgesel istikrarsızlık endişelerini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1214270/pexels-photo-1214270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T01:09:57.224Z",
+        "location": {
+            "lat": 15.37,
+            "lng": 44.19,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "179116268131708ksk",
+        "title": "İran Petrol Bakanı İstifa Etti, Yerine Atama Yapıldı",
+        "summary": "İran'da Petrol Bakanı istifa etti ve yerine yeni bir atama yapıldı. ABD'nin İran'ın petrol sektörünü hedef alan yaptırımlarının yoğunlaştığı bir dönemde, Hamid Bovard geçici petrol bakanı olarak görevlendirildi. Bu gelişme, ülkenin enerji politikaları ve uluslararası ilişkileri açısından önem taşıyor. İstifa ve yeni atama, İran'ın petrol ihracatını ve gelirlerini etkileyen yaptırımlara karşı stratejilerini yeniden değerlendirme çabası olarak yorumlanıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/38336081/pexels-photo-38336081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T01:11:21.317Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-oil-minister-resigns-president-appoints-replacement/4077935",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791152809753vdtqa",
         "title": "İrlanda Milli Takımı, İsrail Maçında El Sıkışmayı Reddedip Kolluk Taktı",
         "summary": "İrlanda Cumhuriyeti milli futbol takımı oyuncuları, UEFA Uluslar Ligi'nde İsrail ile oynadıkları maçta dikkat çeken bir protesto gerçekleştirdi. İrlandalı futbolcular, maç öncesinde İsrailli oyuncularla el sıkışmayı reddederken, aynı zamanda siyah kolluklar takarak sahaya çıktı. Bu eylem, İrlanda takımının İsrail'e yönelik benzer bir protestoyu daha önce de tekrarladığını gösteriyor. Söz konusu hareketin, Orta Doğu'daki güncel duruma veya İsrail'in politikalarına karşı bir duruş olduğu yorumları yapılıyor. UEFA Uluslar Ligi müsabakasında yaşanan bu olay, spor sahalarına yansıyan politik gerilimleri bir kez daha gündeme getirdi.",
@@ -748,54 +796,6 @@
             "name": "Necef, Irak"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iraq-allows-40-daily-flights-by-iranian-airlines-to-and-from-najaf-airport/4076408",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790966361227k9cmj",
-        "title": "Flydubai, Tel Aviv Uçuşlarını Askıya Aldı",
-        "summary": "Birleşik Arap Emirlikleri merkezli havayolu şirketi Flydubai, yetkililerin talebi üzerine İsrail'in Tel Aviv kentine düzenlediği uçuşları bir sonraki duyuruya kadar askıya aldığını açıkladı. Şirketin CEO'su Ghaith Al Ghaith, bu kararı doğrularken, askıya alma nedenine dair detay vermedi. Al Ghaith ayrıca, FZ1073 sefer sayılı uçağın kaptanının tıbbi iznin ardından Birleşik Arap Emirlikleri'ne geri döndüğünü belirtti. Bu gelişme, bölgedeki hava ulaşımını ve iki ülke arasındaki bağlantıları etkileyen önemli bir karar olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36090679/pexels-photo-36090679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:39:21.227Z",
-        "location": {
-            "lat": 32.1,
-            "lng": 34.8,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/flydubai-suspends-tel-aviv-flights-until-further-notice-at-authorities-request-ceo/4076367",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1790966383103g88u1",
-        "title": "Mekke Paktı stratejik siyasi savunma komitesi 'yakında' toplanacak: Pakistan Dışişleri Bakanı",
-        "summary": "Pakistan Dışişleri Bakanı Ishaq Dar, Mekke Paktı'nın stratejik siyasi savunma komitesinin yakında toplanacağını duyurdu. Ağustos ayında Pakistan, Türkiye ve Suudi Arabistan tarafından imzalanan bu pakta en az altı ülkenin daha katılmak istediği belirtildi. Bu gelişme, bölgesel işbirliği çerçevesinin genişleme potansiyeline işaret ediyor. Komite toplantısının, paktın gelecekteki adımları ve genişlemesi açısından kritik öneme sahip olması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7643748/pexels-photo-7643748.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:39:43.103Z",
-        "location": {
-            "lat": 21.42,
-            "lng": 39.83,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/mecca-pact-strategic-political-defense-committee-to-meet-soon-pakistans-foreign-minister/4076344",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790946142444nqeyy",
-        "title": "Flydubai Uçağı 17.000 Feet Düşüşten Kurtarıldı: Pilot ve Yolcuların Kahramanlığı",
-        "summary": "Bir Flydubai uçağının iki dakikadan kısa sürede 17.000 feet irtifa kaybetmesiyle yaşanan tehlikeli anlar, pilot ve yolcuların hızlı müdahalesi sayesinde faciadan dönüldü. Edinilen bilgilere göre, uçak kontrolsüz bir şekilde düşüşe geçerek büyük bir panik yarattı. Kaptan pilotun soğukkanlılığı ve bazı yolcuların duruma müdahalesi, uçağın güvenli bir şekilde stabilize edilmesini sağladı. Bu olağanüstü çaba, yüzlerce kişinin hayatını kurtararak potansiyel bir felaketin önüne geçti. Olayla ilgili detaylı soruşturma başlatıldığı bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39141814/pexels-photo-39141814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T13:02:22.444Z",
-        "location": {
-            "lat": 25.2048,
-            "lng": 55.2708,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
