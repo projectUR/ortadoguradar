@@ -1,5 +1,117 @@
 [
     {
+        "id": "1791185477797xbcwe",
+        "title": "Orta Doğu Petrol İhracatı Gerilimlere Rağmen Savaş Öncesi Seviyeleri Aştı",
+        "summary": "Verilere göre, Orta Doğu'nun petrol ihracatı, bölgedeki devam eden gerilimlere rağmen savaş öncesi seviyeleri aşarak önemli bir artış kaydetti. Ancak, İran Devrim Muhafızları Ordusu (IRGC) komutanı, Hürmüz Boğazı'nda ABD denetimindeki rotadan geçen petrol akışının 'ihmal edilebilir' düzeyde olduğunu iddia etti. Bu açıklama, bölgedeki enerji akışının jeopolitik boyutunu ve farklı aktörlerin stratejik algılarını ortaya koymaktadır. Orta Doğu'nun küresel enerji piyasasındaki kritik rolü ve Hürmüz Boğazı'nın stratejik önemi bu gelişmelerle bir kez daha vurgulanmıştır.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/433626/pexels-photo-433626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T07:31:17.797Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791185556072ohl3v",
+        "title": "Yemen Hükümeti Husilere Karşı Topyekun Savaş İlan Etti",
+        "summary": "Yemen hükümeti, Husilerden topraklarını geri almak amacıyla topyekun savaş başlattığını duyurdu. Yemen Devlet Başkanı'nın bu açıklaması, Husiler ile Suudi liderliğindeki koalisyon arasında karşılıklı saldırıların yoğunlaştığı bir döneme denk geldi. Bu karar, ülkedeki çatışmaların yeni bir evreye girdiğini ve bölgedeki gerilimin tırmanabileceğini gösteriyor. Hükümetin temel hedefi, Husilerin kontrolündeki bölgeleri geri alarak ülkenin birliğini ve egemenliğini yeniden tesis etmek olarak belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T07:32:36.072Z",
+        "location": {
+            "lat": 15.5,
+            "lng": 47.5,
+            "name": "Yemen"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1791185580205on1eq",
+        "title": "İsrail'in Güney Suriye'deki 'Sufa 53' Askeri Projesi Nedir?",
+        "summary": "İsrail'in güney Suriye'de yürüttüğü ve \"Sufa 53\" olarak adlandırılan askeri projesi, Kuneytra bölgesinde kapsamlı bir tahkimat hattı oluşturuyor. Bu proje, askeri yollar, hendekler ve toprak setlerini kapsayan bir dizi yapı içeriyor. Bölge sakinleri, söz konusu tahkimat hattının tarım arazileri ve otlak alanlarının kaybına neden olduğunu bildiriyor. Ayrıca, projenin bölgedeki su akışlarını da olumsuz etkilediği ve kesintilere yol açtığı belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6110652/pexels-photo-6110652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T07:33:00.205Z",
+        "location": {
+            "lat": 33.1,
+            "lng": 35.8,
+            "name": "Kuneytra, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explainer-what-is-israel-s-sufa-53-military-project-in-southern-syria/4078041",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791185599262phfiz",
+        "title": "İsrail Güçleri Suriye'nin Güneybatısında Askeri Baskın Düzenledi",
+        "summary": "İsrail güçleri, Suriye'nin güneybatısında askeri bir operasyon gerçekleştirdi. Batı Şam kırsalındaki Beit Jinn ve Mazraat Beit Jinn arasındaki tarım bölgesine düzenlenen baskında, İsrail askerleri terk edilmiş bir binayı havaya uçurdu. Operasyonun detaylarına ilişkin ek bilgi verilmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30687134/pexels-photo-30687134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T07:33:19.262Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 36,
+            "name": "Şam Kırsalı, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-blow-up-abandoned-building-in-military-raid-into-southwestern-syria/4078042",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17911856194469jf2v",
+        "title": "İran'ın Güneydoğusunda Silahlı Saldırı: 2 Polis Hayatını Kaybetti",
+        "summary": "İran'ın güneydoğusundaki Sistan-Beluçistan eyaletinde polis devriyesine düzenlenen silahlı saldırıda iki polis memuru hayatını kaybetti. Olayda bir polis memuru da yaralanırken, saldırganların kimlikleri ve saldırının nedeni hakkında henüz resmi bir açıklama yapılmadı. Bölgede güvenlik güçleri tarafından geniş çaplı operasyon başlatıldığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37980179/pexels-photo-37980179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T07:33:39.446Z",
+        "location": {
+            "lat": 29.4959,
+            "lng": 60.8624,
+            "name": "Sistan-Beluçistan, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-iranian-police-officers-killed-in-armed-attack-in-southeastern-iran/4078035",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1791185641735gvrwu",
+        "title": "İran, ABD'nin kara işgali başlatması halinde ABD üslerini ve savaş gemilerini hedef almakla tehdit etti",
+        "summary": "İran Devrim Muhafızları Komutanı, ABD'nin kara işgali başlatması halinde ABD üslerini ve savaş gemilerini hedef alacakları tehdidinde bulundu. Komutan, ABD gemilerinin bölgeye konuşlandırılması durumunda savunmasız kalacağını vurguladı. Yapılan açıklamada, gerilimin daha da tırmanmasının Washington'a ciddi zararlar vereceği uyarısı da yer aldı. Bu tehdit, Orta Doğu'da ABD ve İran arasındaki mevcut gerilimi daha da artırma potansiyeli taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37271570/pexels-photo-37271570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T07:34:01.735Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-threatens-to-target-us-bases-warships-if-washington-launches-ground-invasion/4077984",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1791185663193hlst8",
+        "title": "Yemen ordusu, 1.100'den fazla operasyonda 1.747 Husi'nin 'etkisiz hale getirildiğini' duyurdu",
+        "summary": "Yemen ordusu, ülkenin çeşitli cephelerinde gerçekleştirdiği 1.100'den fazla askeri operasyonda 1.747 Husi militanının etkisiz hale getirildiğini bildirdi. Yapılan açıklamaya göre, bu operasyonlar topçu ve roketatar mevzilerini, tahkimatları, ikmal hatlarını ve komuta merkezlerini hedef aldı. Ordu, operasyonların Husi güçlerinin askeri kapasitesini zayıflatmaya yönelik olduğunu belirtti. Çatışmaların ülkenin farklı bölgelerinde yoğunlaştığı ve askeri faaliyetlerin devam ettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6489762/pexels-photo-6489762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-05T07:34:23.193Z",
+        "location": {
+            "lat": 15.5527,
+            "lng": 48.5164,
+            "name": "Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-1-747-houthis-neutralized-in-over-1-100-military-operations/4077966",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "179116257602847tni",
         "title": "Dört Afrika Liderinden Sudan'daki İç Savaşın Sona Erdirilmesi İçin Ortak Deklarasyon",
         "summary": "Mısır, Eritre, Somali ve Sudan liderleri, Sudan'da devam eden iç savaşın sona erdirilmesi çağrısında bulunan ortak bir deklarasyon yayımladı. Liderler, çatışmaların tırmanışından duydukları derin endişeyi dile getirerek, tüm tarafları müzakere masasına dönmeye davet etti. Bu diplomatik girişim, bölgedeki istikrarsızlığın artması ve insani krizin derinleşmesi karşısında acil çözüm arayışlarını yansıtıyor. Deklarasyon, Etiyopya'daki savaşın da şiddetlenmesiyle birlikte, bölgesel barış ve güvenliğin sağlanması için ortak hareket etme kararlılığını vurguladı.",
@@ -684,118 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/former-israeli-premier-accuses-netanyahu-of-preparing-ground-for-war-that-could-delay-elections/4076661",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790981526152i8k6g",
-        "title": "BM özel raportörü: İsrail'in 'keyfi' kontrol noktaları Batı Şeria'da Filistin yaşamını 'boğuyor'",
-        "summary": "Birleşmiş Milletler (BM) özel raportörü, İsrail'in Batı Şeria'daki kontrol noktalarının Filistinlilerin yaşamını olumsuz etkilediğini belirtti. Raportör, bu kontrol noktalarını \"keyfi\" olarak nitelendirerek, Filistin yaşamını \"boğduğunu\" ifade etti. BM kayıtlarına göre, bölgede 925 kontrol noktası bulunuyor. Bu durum, Batı Şeria'da yaşayan 3,4 milyon Filistinlinin hareket özgürlüğünü doğrudan etkiliyor ve günlük yaşamlarını zorlaştırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38143082/pexels-photo-38143082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T22:52:06.152Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israels-arbitrary-checkpoints-choking-palestinian-life-in-west-bank-un-special-rapporteur/4076633",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1790966191365k0j8b",
-        "title": "İsrail Bariyeri, Batı Şeria'daki Filistinlilerin Su Erişimini Kısıtlıyor",
-        "summary": "Batı Şeria'da bulunan Ras al-Ahmar bölgesindeki Filistinliler, İsrail tarafından inşa edilen bir bariyerin su, hayvan yemi ve sağlık hizmetlerine erişimlerini kestiğini iddia etti. Bölge sakinleri, İsrail'in uyguladığı kısıtlamaların günlük yaşamlarını olumsuz etkilediğini ve temel ihtiyaçlarını karşılamakta zorlandıklarını belirtti. Bu durumun, bölgedeki seçimler öncesinde yaşanması dikkat çekiyor. Filistinliler, suya ve diğer yaşamsal kaynaklara erişimlerinin engellenmesinin insani bir kriz yarattığını vurguladı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11044709/pexels-photo-11044709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:36:31.365Z",
-        "location": {
-            "lat": 32.35,
-            "lng": 35.45,
-            "name": "Ras al-Ahmar, Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790966214469j401y",
-        "title": "İsrail Yüksek Mahkemesi, Arap partilerine yönelik seçim kurulu yasağını bozdu",
-        "summary": "İsrail Yüksek Mahkemesi, seçim kurulu tarafından Arap partilerine getirilen yasağı bozma kararı aldı. Mahkeme, iki Arap listesinin ve Yahudi Knesset üyesi Ofer Cassif'in adaylıklarını yeniden onayladı. Bu karar, Balad liderinin baskılar sonucu adaylıktan çekilmesinin ardından geldi. Yüksek Mahkeme'nin bu hamlesi, İsrail'deki siyasi süreçte Arap temsilinin devamlılığı açısından önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8849340/pexels-photo-8849340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:36:54.469Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790966253353fq4wo",
-        "title": "İsrail Seçimlerinde Filistinlilerin Katılımı Gündemde",
-        "summary": "İsrail'de yaşayan Filistinliler, yaklaşan genel seçimlerde adil bir temsil ve söz hakkına sahip olup olmayacaklarını sorguluyor. Bu durum, ülkedeki Filistinli vatandaşların siyasi süreçlere katılımı ve demokratik hakları üzerine önemli tartışmaları beraberinde getiriyor. Seçimlerde adaylık kriterleri ve oy kullanma mekanizmaları, Filistin toplumunun siyasi arenadaki yerini belirleyici nitelikte olacak.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8849327/pexels-photo-8849327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:37:33.353Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790966294997r1acg",
-        "title": "Ürdün Kralı, Rubio ile görüşmesinde kapsamlı bölgesel gerilimin azaltılması ihtiyacını vurguladı",
-        "summary": "Ürdün Kralı II. Abdullah, ABD'li yetkili Rubio ile yaptığı telefon görüşmesinde Orta Doğu'da kapsamlı bölgesel gerilimin azaltılması gerektiğini belirtti. Kral Abdullah, Arap devletlerinin güvenliğinin ve egemenliğinin korunmasının hayati önem taşıdığına dikkat çekti. Görüşmede ayrıca, ABD'nin bölgesel istikrarı desteklemedeki rolünün kritik olduğu vurgulandı. Bu açıklama, bölgedeki mevcut gerilimlerin düşürülmesi ve ülkelerin güvenliğinin sağlanması yönündeki uluslararası çabalara işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:38:14.997Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.91,
-            "name": "Amman, Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-s-king-stresses-need-for-comprehensive-regional-de-escalation-in-call-with-rubio/4076427",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790966316833tjos4",
-        "title": "Hürmüz Boğazı'nda Tankere Bilinmeyen Bir Mermi İsabet Etti",
-        "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO) tarafından yapılan açıklamaya göre, Hürmüz Boğazı'nda seyreden bir tankere bilinmeyen bir mermi isabet etti. Olay sonucunda gemide küçük çaplı bir yangın çıktığı ve elektrik kesintisi yaşandığı bildirildi. İlk belirlemelere göre, olayda herhangi bir can kaybı veya çevreye yönelik olumsuz bir etki rapor edilmedi. Bölge, uluslararası petrol taşımacılığı için kritik bir geçiş noktası olması nedeniyle bu tür olaylar yakından takip edilmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38222995/pexels-photo-38222995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:38:36.833Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/tanker-struck-by-unknown-projectile-in-strait-of-hormuz-uk-maritime-agency/4076409",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1790966337715i09p8",
-        "title": "Irak, İran Havayollarına Necef Havalimanı İçin Günlük 40 Uçuş İzni Verdi",
-        "summary": "Irak, İran havayollarına Necef Havalimanı'na günlük 40 uçuş gerçekleştirme izni verdiğini duyurdu. Yapılan anlaşma kapsamında, ABD'nin talep ettiği muafiyetin ardından Mahan Air bu düzenlemenin dışında bırakıldı. Bu karar, iki ülke arasındaki hava ulaşımı işbirliğini sürdürürken, ABD'nin İran'a yönelik yaptırımlarının belirli İranlı kuruluşlar üzerindeki etkisini de yansıtıyor. Anlaşma, bölgesel hava trafiği ve diplomatik ilişkiler açısından önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17068518/pexels-photo-17068518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-02T18:38:57.715Z",
-        "location": {
-            "lat": 31.9993,
-            "lng": 44.3333,
-            "name": "Necef, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-allows-40-daily-flights-by-iranian-airlines-to-and-from-najaf-airport/4076408",
         "trendScore": 85,
         "isBreaking": false
     }
