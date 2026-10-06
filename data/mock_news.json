@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791306408562f373i",
+        "title": "Mısırlı doğruluk kontrolü sitesi gazetecileri terör suçlamalarıyla karşı karşıya",
+        "summary": "Mısır'da faaliyet gösteren Matsda2sh adlı doğruluk kontrolü web sitesinin gazetecileri, terör suçlamalarıyla karşı karşıya kaldı. Savcılar, sitenin tüm haber merkezinin yasaklı Müslüman Kardeşler örgütüne üye olduğunu iddia ediyor. Matsda2sh yönetimi ise bu suçlamaları kesin bir dille reddediyor. Bu durum, Mısır'da basın özgürlüğü ve gazetecilerin karşılaştığı zorluklar konusunda endişeleri artırıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10560003/pexels-photo-10560003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-06T17:06:48.562Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cm70p4r4zw17o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791283242907saiu6",
         "title": "UEFA, İrlanda-İsrail Futbol Maçındaki Tükürme Olayını Soruşturacak",
         "summary": "UEFA, İrlanda ile İsrail arasında oynanan bir futbol maçında meydana gelen tükürme olayına ilişkin soruşturma başlattı. Olay, takımların devre arasında soyunma odalarına giderken yaşandı. İddialara göre, İsrailli bir oyuncu, İrlandalı bir antrenöre tükürdü. Bu tür disiplin ihlalleri, futbol camiasında ciddi yaptırımlarla karşılanmaktadır. Soruşturmanın tamamlanmasının ardından ilgili oyuncu veya kulüp hakkında karar verilmesi bekleniyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1791033049511dzmz6",
-        "title": "Flydubai yardımcı pilotu kaptana baltayla saldırdı, BAE yetkilisi açıkladı",
-        "summary": "Birleşik Arap Emirlikleri (BAE) merkezli Flydubai havayoluna ait bir uçakta yardımcı pilotun kaptana baltayla saldırdığı bildirildi. BAE'li bir yetkili tarafından yapılan açıklamaya göre, İsrail'e gitmekte olan uçakta yaşanan bu olayın ardından yardımcı pilotun uçağı ele geçirmeye çalıştığı iddia edildi. Çeşitli medya kuruluşları, saldırıyı gerçekleştirdiği öne sürülen kişinin Hamam al-Hammami olarak adlandırıldığını duyurdu. Bu olay, uluslararası bir uçuşta ciddi bir güvenlik ihlali olarak değerlendiriliyor ve bölgede endişelere yol açtı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33203093/pexels-photo-33203093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T13:10:49.511Z",
-        "location": {
-            "lat": 25.2,
-            "lng": 55.3,
-            "name": "Dubai, BAE"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
