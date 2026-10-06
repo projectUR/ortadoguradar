@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791323428514xkj0y",
+        "title": "Netanyahu'ya askeri tesiste çekilen seçim propagandası nedeniyle yeniden para cezası",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu'ya, askeri bir tesiste çekilen seçim propagandası videosu nedeniyle Merkez Seçim Komitesi tarafından yeniden para cezası verildi. Komite, Netanyahu'nun kişisel hesaplarından Tel Nof Hava Üssü'nde çekilen videoyu silmesini emretti. Ayrıca, Başbakan'ın 2.500 şekel mahkeme masrafı ödemesine hükmedildi. Bu karar, Netanyahu'nun seçim kampanyalarında askeri tesisleri kullanmasıyla ilgili daha önceki ihlallerin ardından geldi ve İsrail'deki seçim yasaları ile siyasi etik tartışmalarını yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5473187/pexels-photo-5473187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-06T21:50:28.514Z",
+        "location": {
+            "lat": 31.8167,
+            "lng": 34.8833,
+            "name": "Tel Nof, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-fined-again-over-election-propaganda-filmed-at-military-site/4080309",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791306408562f373i",
         "title": "Mısırlı doğruluk kontrolü sitesi gazetecileri terör suçlamalarıyla karşı karşıya",
         "summary": "Mısır'da faaliyet gösteren Matsda2sh adlı doğruluk kontrolü web sitesinin gazetecileri, terör suçlamalarıyla karşı karşıya kaldı. Savcılar, sitenin tüm haber merkezinin yasaklı Müslüman Kardeşler örgütüne üye olduğunu iddia ediyor. Matsda2sh yönetimi ise bu suçlamaları kesin bir dille reddediyor. Bu durum, Mısır'da basın özgürlüğü ve gazetecilerin karşılaştığı zorluklar konusunda endişeleri artırıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "179103302549579tno",
-        "title": "İnfaz Cezalarında Çifte Standartlar Tartışması",
-        "summary": "Haber, infaz cezalarına yönelik uluslararası tepkilerdeki çifte standartları incelemektedir. Metinde, Christa Pike davası üzerinden bir senaryo ortaya konulmuştur. Habere göre, Pike'ın Orta Doğu'da idam cezasıyla karşı karşıya kalması durumunda, bu durumun uluslararası alanda yoğun bir öfke ve kınamayla karşılanacağı ifade edilmektedir. Bu örnek, farklı coğrafyalardaki benzer olaylara verilen tepkiler arasındaki tutarsızlığa dikkat çekerek, uluslararası kamuoyunun adalet algısındaki farklılıkları sorgulamaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36766883/pexels-photo-36766883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T13:10:25.495Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
