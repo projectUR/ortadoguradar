@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791256393457xhn4u",
+        "title": "BM İnsan Hakları Konseyi Sudan'daki Sivillere Yönelik Saldırıları Kınadı, Ateşkes Çağrısı Yaptı",
+        "summary": "Birleşmiş Milletler İnsan Hakları Konseyi, Sudan'da sivillere yönelik devam eden saldırıları kınayan bir karar kabul etti. Kararda, ülkede derhal ve kalıcı bir ateşkesin sağlanması çağrısında bulunuldu. Ayrıca, Sudan'daki insan hakları ihlallerini araştırmakla görevli misyonun görev süresi uzatıldı. Bu adım, uluslararası toplumun Sudan'daki çatışmaların sona ermesi ve sivillerin korunması yönündeki kararlılığını yansıtıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-06T03:13:13.457Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5596,
+            "name": "Khartoum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1791219416485yj5ej",
         "title": "Bosna-Hersek Seçimleri: Milliyetçi Bir Siyasi Düzen Geri Mi Dönüyor?",
         "summary": "Bosna-Hersek'te gerçekleştirilen seçimlerin ardından açıklanan sonuçlar, ülkede yeni bir muhafazakar ittifakın kurulması ve siyasi kutuplaşmanın daha da artması ihtimalini gündeme getirdi. Analistler, bu durumun Bosna-Hersek'in çok etnikli ve çok dinli yapısı üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor. Seçim sonuçlarının, ülkenin iç siyasetinde önemli bir dönüm noktası olabileceği ve gelecekteki istikrarı etkileyebileceği belirtiliyor. Bu gelişmeler, bölgedeki diplomatik aktörler ve uluslararası toplum tarafından yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/israels-ongoing-truce-violations-kill-5-in-gaza-strip/4076745",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17910137789444xxgk",
-        "title": "Yemen'de Çatışmalar Genişlerken Yerinden Edilenlerin Sayısı 200 Bine Yaklaştı",
-        "summary": "Yemen'de son üç haftanın en geniş çaplı çatışmaları yaşanırken, yerinden edilen kişi sayısı 200 bine yaklaştı. İnsan Hakları Bakanlığı'ndan yapılan açıklamaya göre, Eylül ayında Husi isyancılar tarafından askere alınan en az 100 çocuk hayatını kaybetti. Ülkedeki insani kriz derinleşmeye devam ediyor. Çatışmaların yoğunlaşması, sivil kayıpların artmasına ve altyapının tahrip olmasına neden oluyor. Uluslararası toplum, Yemen'deki şiddetin durdurulması ve insani yardımların ulaştırılması çağrılarını yineliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T07:49:38.944Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-sees-widest-escalation-in-3-weeks-as-displacement-nears-200-000/4076693",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
