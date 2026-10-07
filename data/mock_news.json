@@ -1,5 +1,165 @@
 [
     {
+        "id": "1791358512370xjte2",
+        "title": "Yemen'deki Husiler Aden Havalimanı'na saldırdı; Suudi güçleri Riyad yakınlarında füzeyi düşürdü",
+        "summary": "Yemen'deki Husiler, Aden Havalimanı'na füze saldırısı düzenledi. Yemen hükümeti, Kahire'den gelecek bir uçağın inişinden dakikalar önce füzelerden birinin havalimanının pistine isabet ettiğini bildirdi. Saldırının ardından Suudi Arabistan güçleri, başkent Riyad yakınlarında bir füzeyi havada imha ettiğini açıkladı. Bu gelişmeler, Yemen'deki çatışmaların ve bölgesel gerilimin sürdüğüne işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31365894/pexels-photo-31365894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:35:12.370Z",
+        "location": {
+            "lat": 12.8,
+            "lng": 45.03,
+            "name": "Aden, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1791358535461fd460",
+        "title": "Rusya'daki Yakıt Krizi İran Petrolüne Orta Asya Pazarında Fırsat Yaratıyor mu?",
+        "summary": "ABD'nin uyguladığı ambargolar nedeniyle İran'ın petrol ihracatı uzun süredir zorluklarla mücadele etmektedir. Rusya'nın Ukrayna'ya yönelik saldırıları sonucunda yaşadığı enerji krizi, bu durumu değiştirebilecek bir potansiyel sunuyor. Rusya'daki yakıt sıkıntısı, İran petrolünün Orta Asya ülkelerine yönelik ihracatında yeni bir kapı aralayabilir. Bu durum, İran'ın uluslararası pazardaki konumunu güçlendirme ve ambargoların etkisini azaltma fırsatı olarak değerlendiriliyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/10420382/pexels-photo-10420382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:35:35.461Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791358560140gfvnq",
+        "title": "İsrail'in Operasyonları Gazze'yi Nasıl Değiştirdi?",
+        "summary": "Gazze Şehri'nin limanı, bölgedeki çatışmalar öncesinde önemli bir balıkçılık ve turizm merkezi olarak biliniyordu. Ancak son dönemde yaşanan yoğun operasyonlar, bu stratejik noktanın ve çevresinin büyük ölçüde tahrip olmasına yol açtı. El Cezire muhabiri Maram Humaid, Gazze'deki bu yıkımı ve limandan geriye kalanları yerinde görüntüledi. Haber, bölgedeki altyapının ve günlük yaşamın çatışmalardan nasıl etkilendiğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803782/pexels-photo-15803782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:36:00.140Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791358600555h7sv6",
+        "title": "Yemenli Yerinden Edilmiş Çocuklar Okula Dönmeyi Hayal Ediyor",
+        "summary": "Yemen'deki çatışmalar, ülkenin eğitim sistemini derinden etkilemeye devam ediyor. Çatışma bölgelerinde yaşayan 137.000'den fazla öğrenci, eğitim haklarından mahrum kalmış durumda. Bu durum, Yemen'in zaten kötü durumda olan eğitim krizini daha da derinleştiriyor. Yerinden edilmiş çocuklar, normalleşme ve okula geri dönebilme umudu taşıyor. Eğitime erişimdeki bu kayıp, ülkenin geleceği için ciddi endişeler yaratıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5275836/pexels-photo-5275836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:36:40.555Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1791358628902xrx73",
+        "title": "7 Ekim Hamas Saldırılarında Yıkılan Kibbutz Sakinleri Yeniden İnşa Sürecini Değerlendiriyor",
+        "summary": "İsrail'in güneyinde yer alan Nir Oz kibbutzu, 7 Ekim'de Hamas liderliğindeki saldırılarda büyük yıkıma uğramıştı. Bu saldırılarda 47 kişi hayatını kaybederken, 76 kişi de rehin alınmıştı. Saldırıların üzerinden geçen süreye rağmen, bazı kurtulanlar kibbutza geri dönerek yaşamlarını sürdürmeye başladı. Bölge sakinleri, yıkılan evlerini ve topluluklarını yeniden inşa etme yollarını aktif olarak değerlendiriyor. Bu süreç, hem fiziksel hem de psikolojik zorluklarla dolu bir mücadeleyi temsil ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16577231/pexels-photo-16577231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:37:08.902Z",
+        "location": {
+            "lat": 31.3,
+            "lng": 34.42,
+            "name": "Nir Oz, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17913586513764scwj",
+        "title": "İngiltere, İsrail'in Doğu Kudüs Konsolosluğu'nu Kapatmasını Engellemek İçin Son Bir Çaba Gösterecek",
+        "summary": "İngiltere, İsrail'in Doğu Kudüs'teki konsolosluğunu kapatma tehdidine karşı son bir diplomatik girişimde bulunmaya hazırlanıyor. İsrail, İngiltere'nin İsrail yerleşim birimlerine uyguladığı yaptırımlara misilleme olarak bu konsolosluğu kapatma kararı almıştı. Söz konusu konsolosluk, Birleşik Krallık'ın şehirdeki Filistinlilerle olan ilişkilerini yürütmede kritik bir rol oynuyor. İngiltere, bu adımın bölgedeki diplomatik ilişkiler üzerindeki olumsuz etkilerini önlemeyi hedefliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37528633/pexels-photo-37528633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:37:31.376Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.23,
+            "name": "Doğu Kudüs, İsrail"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1791358675030hmyr9",
+        "title": "İsrail Güçleri Gazze'de Gönüllü Sağlık Görevlisini Öldürdü, Yıkımlar Gerçekleştirdi",
+        "summary": "İsrail güçleri, Gazze Şeridi'nde bir gönüllü sağlık görevlisini öldürdü. Bu olay, bölgedeki ateşkes ihlalleri iddiaları arasında meydana geldi. Aynı zamanda, İsrail ordusu Gazze Şehri ve Gazze'nin güney bölgelerinde yıkım operasyonları gerçekleştirdi. Bu gelişmeler, bölgedeki gerilimin sürdüğünü ve insani durumun hassasiyetini bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934185/pexels-photo-35934185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:37:55.030Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-kill-volunteer-medic-in-gaza-amid-ceasefire-violations/4080433",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791358695926utm8f",
+        "title": "Mısır Cumhurbaşkanı Güney Kore'ye resmi ziyaret için geldi, Lee ile zirve yapacak",
+        "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, resmi bir devlet ziyareti kapsamında Güney Kore'nin başkenti Seul'e ulaştı. Es-Sisi, Güney Kore Devlet Başkanı Lee ile bir zirve gerçekleştirecek. Bu ziyaret, Mısır Cumhurbaşkanı'nın Malezya ve Endonezya'yı da kapsayacak olan Asya turunun ilk ayağını teşkil ediyor. Seul'deki görüşmelerin ana gündem maddelerini ekonomik işbirliğinin geliştirilmesi ve bölgesel meselelerin ele alınması oluşturacak.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/10182877/pexels-photo-10182877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:38:15.926Z",
+        "location": {
+            "lat": 37.5665,
+            "lng": 126.978,
+            "name": "Seul, Güney Kore"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/egyptian-president-arrives-in-south-korea-for-state-visit-summit-with-lee/4080362",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1791358719046m6ndc",
+        "title": "Yemen'deki Husiler, Suudi Arabistan'daki havalimanları ve askeri üslere saldırı düzenlediğini iddia etti",
+        "summary": "Yemen'deki Husi güçleri, Suudi Arabistan'daki havalimanları ve askeri üslere yönelik saldırılar düzenlediğini iddia etti. Husilerin sözcüsü, başkent Riyad'da bulunan Kral Halid Uluslararası Havalimanı'nın da hedefler arasında olduğunu belirtti. Bu iddialar, Yemen'deki çatışmanın Suudi Arabistan topraklarına yansımasını gösteriyor. Bölgedeki gerilimi artıran bu tür eylemler, uluslararası toplum tarafından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803779/pexels-photo-15803779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:38:39.047Z",
+        "location": {
+            "lat": 24.71,
+            "lng": 46.68,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-yemen-s-houthis-claim-attacks-on-saudi-airports-military-bases/4080354",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791358744123i8iwc",
+        "title": "Filistin Eğitim Kurumları, Gazze'deki Olayların Yıl Dönümünde Batı Şeria'da Dersleri Askıya Aldı",
+        "summary": "Filistin'deki eğitim kurumları, Gazze'deki olayların üçüncü yıl dönümünde Batı Şeria genelinde dersleri askıya alma kararı aldı. Okullar ve üniversiteler, olası gerilimler ve saha tırmanışı endişeleri nedeniyle ders programlarını değiştirerek çevrimiçi eğitime geçti. Bu adımın, bölgedeki hassas güvenlik durumu ve geçmiş olayların yıl dönümünde yaşanabilecek potansiyel olaylara karşı önleyici bir tedbir olarak alındığı belirtildi. Kararın, öğrenci ve personel güvenliğini sağlamayı amaçladığı ifade edildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36193760/pexels-photo-36193760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T07:39:04.123Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-educational-institutions-suspend-classes-in-west-bank-on-3rd-anniversary-of-gaza-genocide/4080349",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17913358983271r7ty",
         "title": "Yemen Hükümet Güçleri Taiz Vilayetinde Önemli Bir Dağ Zirvesini Ele Geçirdi",
         "summary": "Yemen'deki çatışmalara ilişkin yeni bir gelişme yaşandı. Yemen hükümetine bağlı Ulusun Kalkanı Güçleri, Taiz vilayetindeki Jabal Habashi bölgesinde önemli bir dağ zirvesini ele geçirdiğini duyurdu. Açıklamaya göre, birlikler Husilerle yaşanan şiddetli çatışmaların ardından bölgedeki en yüksek noktayı kontrol altına aldı. Bu gelişme, Taiz vilayetindeki askeri dengeler açısından stratejik bir öneme sahip olabilir.",
@@ -637,166 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-to-attend-mecca-joint-defense-agreement-committee-meeting-in-riyadh/4077531",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17911119511176jpaj",
-        "title": "İran'dan ABD'ye: 'Savaşı bitirmenin askeri bir çözümü yok'",
-        "summary": "İran Dışişleri Bakanı, ABD'ye hitaben yaptığı açıklamada, mevcut çatışmaları sona erdirmenin askeri bir yolu olmadığını vurguladı. Bakan, savaşın daha fazla yaptırım uygulanarak çözülemeyeceğini ifade ederek, tarafları müzakere masasına oturmaya davet etti. Bu açıklama, İran ile ABD arasındaki gerilimin diplomatik yollarla çözülmesi gerektiği yönündeki Tahran'ın duruşunu yansıtıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-04T11:05:51.117Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-there-is-no-military-solution-to-end-war-iran-tells-us/4077507",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791111973915lwe1l",
-        "title": "İsrail'in Gazze'deki Ateşkes İhlallerinde Bir Filistinli Öldü, 15 Kişi Yaralandı",
-        "summary": "Gazze Şeridi'nde İsrail ordusunun ateşkes ihlalleri devam ediyor. Bölgeden gelen haberlere göre, yaşanan olaylarda bir Filistinli hayatını kaybederken, 15 kişi de yaralandı. İsrail ile Filistinli gruplar arasında Ekim 2025'ten bu yana yürürlükte olan ateşkes anlaşmasının ihlal edildiği belirtiliyor. Bu gelişmeler, bölgedeki gerilimin yeniden tırmanabileceği endişelerini beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39911819/pexels-photo-39911819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-04T11:06:13.915Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/one-palestinian-killed-15-others-wounded-in-israels-gaza-truce-violations/4077488",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1791111997135i1q3g",
-        "title": "İran Meclis Başkanı: Hem Savaşmaya Hem Müzakere Etmeye Hazırız",
-        "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin hem çatışmaya hem de müzakereye hazır olduğunu açıkladı. Kalibaf, Tahran'ın koşulları karşılanana kadar Hürmüz Boğazı'nın kapalı kalacağını belirtti. Bu açıklama, İran'ın bölgesel ve uluslararası arenadaki kararlı duruşunu yansıtırken, küresel enerji tedariki için hayati önem taşıyan bu boğaz üzerindeki potansiyel etkileri de gündeme getirdi. İran'ın bu tutumu, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası toplumda dikkatle izleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13102530/pexels-photo-13102530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-04T11:06:37.135Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-ready-to-both-fight-and-negotiate-says-parliament-speaker/4077431",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791112020123banyl",
-        "title": "Bangladeş, Medine'deki elektrik santraline yönelik iddia edilen Husi insansız hava aracı saldırısını kınadı",
-        "summary": "Medine'de bir elektrik santraline yönelik gerçekleştirildiği iddia edilen insansız hava aracı saldırısının ardından Bangladeş'ten kınama geldi. Bangladeş Dışişleri Bakanlığı, saldırıyı şiddetle kınadığını açıkladı. Yapılan açıklamada, bölgesel barış ve istikrarı tehdit eden her türlü saldırgan eylemin kesin bir dille reddedildiği vurgulandı. Saldırının Yemen'deki Husiler tarafından gerçekleştirildiği iddia edilirken, Bangladeş bu tür eylemlerin bölgedeki gerilimi artırabileceğine dikkat çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525965/pexels-photo-16525965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-04T11:07:00.123Z",
-        "location": {
-            "lat": 24.47,
-            "lng": 39.61,
-            "name": "Medine, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/asia-pacific/bangladesh-condemns-alleged-houthi-drone-attack-on-power-station-in-medina/4077369",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17910705677342arv1",
-        "title": "Pelosi Destekli ABD Adayından İsrail'e 'Tam Silah Ambargosu' Çağrısı",
-        "summary": "ABD'de Nancy Pelosi tarafından Kaliforniya'da kendisinin yerine geçmesi için desteklenen aday Connie Chan, İsrail'e yönelik 'tam bir silah ambargosu' uygulanması çağrısında bulundu. Chan, Gazze'deki 'soykırımı sona erdirmek' amacıyla bu yönde oy kullanacağını belirtti. Bu açıklama, ABD iç siyasetinde İsrail-Filistin çatışmasına ilişkin artan tartışmaları ve Demokrat Parti içindeki farklı görüşleri gözler önüne seriyor. Adayın bu tutumu, ABD'nin İsrail'e yönelik askeri yardımları konusunda gelecekteki politikaların potansiyel yönelimlerine dair ipuçları sunuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37632503/pexels-photo-37632503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T23:36:07.734Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gaza, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791070623039ox9mo",
-        "title": "İsrailli Yerleşimciler Zeytin Hasadı Yapan Filistinli Çiftçilere Saldırdı",
-        "summary": "İsrailli yerleşimciler, zeytin hasadı yapmakta olan Filistinli çiftçilere saldırdı. Olay, Filistin topraklarında geleneksel zeytin toplama döneminde meydana geldi. Saldırılar sonucunda çiftçilerin hasat faaliyetleri kesintiye uğradı. Bu tür olaylar, bölgedeki gerilimi artırma potansiyeli taşımaktadır.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15009292/pexels-photo-15009292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T23:37:03.039Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1791070682205hwjwy",
-        "title": "İsrail Başbakanı: Dubai-Tel Aviv Uçuşundaki Saldırıda İran'ın Rolü İçin Konuşmak Henüz Erken",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, Dubai-Tel Aviv seferi yapan bir uçakta meydana gelen olaya ilişkin açıklamalarda bulundu. Netanyahu, söz konusu olayda İran'ın rolü olup olmadığını söylemek için henüz erken olduğunu belirtti. Olayın detaylarına göre, İsrail'e gitmekte olan uçakta bir pilotun başka bir pilotu bıçakladığı öğrenildi. İsrail Başbakanı, bu olayın Suudi Arabistan'da soruşturulduğunu kaydetti. Gelişmelerin yakından takip edildiği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8154435/pexels-photo-8154435.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T23:38:02.205Z",
-        "location": {
-            "lat": 24,
-            "lng": 45,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17910603566833svx7",
-        "title": "Gazze'de Saldırıda Hayatını Kaybeden Anne ve Kız İçin Kilisede Cenaze Töreni Düzenlendi",
-        "summary": "Gazze Şeridi'nde düzenlenen bir saldırıda hayatını kaybeden Filistinli bir anne ve kızı için cenaze töreni düzenlendi. Cenaze namazları, Gazze Şehri'nde bulunan tarihi Aziz Porphyrius Rum Ortodoks Kilisesi'nde kılındı. Törene, hayatını kaybedenlerin yakınları ve çok sayıda cemaat üyesi katıldı. Bu olay, bölgedeki devam eden çatışmaların sivil kayıplara yol açtığını ve insani dramı bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7317717/pexels-photo-7317717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T20:45:56.683Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1791048676570h6fnw",
-        "title": "Somali Cumhurbaşkanı: İsrail'in Bölgedeki Varlığını Hiçbir Koşulda Kabul Etmeyeceğiz",
-        "summary": "Somali Cumhurbaşkanı Hasan Şeyh Mahmud, İsrail'in Berbera'da bir deniz üssü kurma planları olduğu iddialarına ilişkin önemli açıklamalarda bulundu. Al Jazeera'ye verdiği özel röportajda Cumhurbaşkanı Mahmud, Somali'nin hiçbir koşul altında İsrail'in bölgedeki varlığını kabul etmeyeceğini net bir dille ifade etti. Mahmud, İsrail'in Somali topraklarında veya yakın çevresinde askeri bir üs kurma girişimlerine karşı olduklarını ve bu tür bir adıma izin vermeyeceklerini vurguladı. Bu açıklama, stratejik Kızıldeniz ve Aden Körfezi hattında bölgesel güvenlik ve jeopolitik dengeler açısından dikkat çekici bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37010267/pexels-photo-37010267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T17:31:16.570Z",
-        "location": {
-            "lat": 10.43,
-            "lng": 45.01,
-            "name": "Berbera, Somali"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17910486980182n350",
-        "title": "BAE, Flydubai Yardımcı Pilotunun 'Terör Saldırısı' Girişiminde Bulunduğunu Açıkladı",
-        "summary": "Kudüs merkezli Jerusalem Daily gazetesinin haberine göre, Birleşik Arap Emirlikleri (BAE) yetkilileri, Flydubai havayollarına ait bir uçağın yardımcı pilotunun 'terör saldırısı' girişiminde bulunduğunu iddia etti. Bu açıklama, havacılık güvenliği ve bölgesel güvenlik endişelerini gündeme getirdi. Olayın detayları ve yardımcı pilotun kimliği hakkında henüz ek bilgi verilmedi. BAE'nin bu iddiası, uluslararası havacılık camiasında dikkatle takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/23384426/pexels-photo-23384426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T17:31:38.018Z",
-        "location": {
-            "lat": 25.2048,
-            "lng": 55.2708,
-            "name": "Dubai, Birleşik Arap Emirlikleri"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
