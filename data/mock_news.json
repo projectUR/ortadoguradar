@@ -1,5 +1,21 @@
 [
     {
+        "id": "17913358983271r7ty",
+        "title": "Yemen Hükümet Güçleri Taiz Vilayetinde Önemli Bir Dağ Zirvesini Ele Geçirdi",
+        "summary": "Yemen'deki çatışmalara ilişkin yeni bir gelişme yaşandı. Yemen hükümetine bağlı Ulusun Kalkanı Güçleri, Taiz vilayetindeki Jabal Habashi bölgesinde önemli bir dağ zirvesini ele geçirdiğini duyurdu. Açıklamaya göre, birlikler Husilerle yaşanan şiddetli çatışmaların ardından bölgedeki en yüksek noktayı kontrol altına aldı. Bu gelişme, Taiz vilayetindeki askeri dengeler açısından stratejik bir öneme sahip olabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-07T01:18:18.327Z",
+        "location": {
+            "lat": 13.57,
+            "lng": 44.02,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-seize-key-mountain-peak-in-taiz-province/4080333",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1791323428514xkj0y",
         "title": "Netanyahu'ya askeri tesiste çekilen seçim propagandası nedeniyle yeniden para cezası",
         "summary": "İsrail Başbakanı Binyamin Netanyahu'ya, askeri bir tesiste çekilen seçim propagandası videosu nedeniyle Merkez Seçim Komitesi tarafından yeniden para cezası verildi. Komite, Netanyahu'nun kişisel hesaplarından Tel Nof Hava Üssü'nde çekilen videoyu silmesini emretti. Ayrıca, Başbakan'ın 2.500 şekel mahkeme masrafı ödemesine hükmedildi. Bu karar, Netanyahu'nun seçim kampanyalarında askeri tesisleri kullanmasıyla ilgili daha önceki ihlallerin ardından geldi ve İsrail'deki seçim yasaları ile siyasi etik tartışmalarını yeniden gündeme getirdi.",
@@ -780,22 +796,6 @@
             "name": "Dubai, Birleşik Arap Emirlikleri"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791032984495712ok",
-        "title": "Batı Şeria'da İsrailli Yerleşimciler Çiftçilere Saldırdı, Gazeteciler Darp Edildi",
-        "summary": "Batı Şeria'nın Nablus kenti yakınlarındaki Beyta'da bulunan Jabal Qamass bölgesinde gerilim yaşandı. Bölgede İsrailli yerleşimcilerin çiftçilere saldırdığı bildirildi. Olayları takip eden gazeteciler, İsrail güçleri tarafından hedef alındı. Gazetecilerin gözaltına alındığı ve darp edildiği belirtildi. Bu olaylar, bölgedeki güvenlik durumunu ve basın özgürlüğüne yönelik endişeleri yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39167830/pexels-photo-39167830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-03T13:09:44.495Z",
-        "location": {
-            "lat": 32.22,
-            "lng": 35.26,
-            "name": "Nablus, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
