@@ -1,5 +1,37 @@
 [
     {
+        "id": "17914915859009712k",
+        "title": "Yemen'de İnsani Kriz Derinleşiyor: BM'den Yerinden Edilme Uyarısı",
+        "summary": "Birleşmiş Milletler (BM), Yemen'de devam eden çatışmaların insani krizi daha da kötüleştirdiğini duyurdu. Açıklamaya göre, son beş hafta içinde 200.000'den fazla kişi çatışmalar nedeniyle evlerini terk etmek zorunda kaldı. Bu durum, zaten kırılgan olan ülkedeki insani ihtiyaçları daha da artırarak milyonlarca kişinin gıda, barınma ve sağlık hizmetlerine erişimini zorlaştırıyor. Uluslararası yardım kuruluşları, artan yerinden edilmeler karşısında acil insani yardım çağrılarını yineliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36072012/pexels-photo-36072012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-08T20:33:05.900Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791491624438gcy4z",
+        "title": "İsrailli Yerleşimciler Filistin Zeytin Hasadını Hedef Alıyor",
+        "summary": "İsrail'in işgal altındaki Batı Şeria bölgesinde bulunan İsrailli yerleşimciler, Filistinlilere ait zeytin ağaçlarını tahrip ediyor. Bu eylemler, özellikle Filistinli çiftçilerin zeytin hasadı döneminde yoğunlaşarak, bölge halkının temel geçim kaynaklarını doğrudan hedef alıyor. İnsan hakları örgütleri, yerleşimcilerin bu tür saldırılarının sistematik bir yapıya büründüğünü ve Filistin ekonomisi üzerinde ciddi olumsuz etkiler yarattığını belirtiyor. Zeytin ağaçlarının yok edilmesi, Filistinlilerin topraklarıyla olan bağını zayıflatırken, bölgedeki gerilimi ve çatışma riskini artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33727741/pexels-photo-33727741.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-08T20:33:44.438Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17914708428478a4bl",
         "title": "New York Belediye Başkanı Mamdani, 7 Ekim anma törenine katıldığı için eleştirilerin hedefinde",
         "summary": "New York Belediye Başkanı Zohran Mamdani, 7 Ekim olayları anısına düzenlenen bir anma törenine katıldığı gerekçesiyle yoğun eleştirilere maruz kaldı. Belediye Başkanı, tören sırasında kendisini \"hain\" olarak nitelendiren kalabalıklar tarafından protesto edildi. Bu durum, Orta Doğu'daki gelişmelerin uluslararası alanda yarattığı kutuplaşmayı ve hassasiyeti bir kez daha gözler önüne serdi. Olay, ABD'deki yerel siyasetin küresel çatışmalardan nasıl etkilendiğini göstermesi açısından dikkat çekici bulundu.",
@@ -764,38 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/jordan-gulf-bloc-condemn-houthi-attacks-on-saudi-civilian-infrastructure/4079443",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1791256393457xhn4u",
-        "title": "BM İnsan Hakları Konseyi Sudan'daki Sivillere Yönelik Saldırıları Kınadı, Ateşkes Çağrısı Yaptı",
-        "summary": "Birleşmiş Milletler İnsan Hakları Konseyi, Sudan'da sivillere yönelik devam eden saldırıları kınayan bir karar kabul etti. Kararda, ülkede derhal ve kalıcı bir ateşkesin sağlanması çağrısında bulunuldu. Ayrıca, Sudan'daki insan hakları ihlallerini araştırmakla görevli misyonun görev süresi uzatıldı. Bu adım, uluslararası toplumun Sudan'daki çatışmaların sona ermesi ve sivillerin korunması yönündeki kararlılığını yansıtıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10082722/pexels-photo-10082722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-06T03:13:13.457Z",
-        "location": {
-            "lat": 15.5007,
-            "lng": 32.5596,
-            "name": "Khartoum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1791219416485yj5ej",
-        "title": "Bosna-Hersek Seçimleri: Milliyetçi Bir Siyasi Düzen Geri Mi Dönüyor?",
-        "summary": "Bosna-Hersek'te gerçekleştirilen seçimlerin ardından açıklanan sonuçlar, ülkede yeni bir muhafazakar ittifakın kurulması ve siyasi kutuplaşmanın daha da artması ihtimalini gündeme getirdi. Analistler, bu durumun Bosna-Hersek'in çok etnikli ve çok dinli yapısı üzerindeki potansiyel etkileri konusunda endişelerini dile getiriyor. Seçim sonuçlarının, ülkenin iç siyasetinde önemli bir dönüm noktası olabileceği ve gelecekteki istikrarı etkileyebileceği belirtiliyor. Bu gelişmeler, bölgedeki diplomatik aktörler ve uluslararası toplum tarafından yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7103185/pexels-photo-7103185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-05T16:56:56.485Z",
-        "location": {
-            "lat": 43.8563,
-            "lng": 18.4131,
-            "name": "Saraybosna, Bosna-Hersek"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
     }
