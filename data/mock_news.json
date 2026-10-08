@@ -1,5 +1,53 @@
 [
     {
+        "id": "1791420504427fnrng",
+        "title": "Yemen Savaşı: Yemen Güçleri Kilit Tepeleri Ele Geçirdiğini İddia Etti, Husilerin Saldırıları Sürüyor",
+        "summary": "Yemen'deki çatışmalar devam ederken, Suudi destekli Yemen güçleri ülkenin batısındaki Taiz vilayetinde önemli ilerlemeler kaydettiğini duyurdu. Yapılan açıklamada, sahile hakim dağlık bölgelerde stratejik tepelerin ele geçirildiği belirtildi. Bu ilerlemelerin, bölgedeki Husi güçlerine karşı yürütülen operasyonlar kapsamında gerçekleştiği ifade edildi. Çatışmaların yoğunlaştığı Taiz bölgesi, Yemen'deki savaşın kilit noktalarından biri olarak biliniyor ve bölgedeki gerilimin sürdüğü aktarıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8876103/pexels-photo-8876103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-08T00:48:24.427Z",
+        "location": {
+            "lat": 13.58,
+            "lng": 44.03,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1791420542333zmozm",
+        "title": "Lübnan'daki BM barış gücü, İsrail sınır karakoluna ateş açıldığını bildirdi",
+        "summary": "Birleşmiş Milletler Lübnan Geçici Görev Gücü (UNIFIL), Lübnan-İsrail sınırında bulunan bir İsrail karakoluna yönelik hafif silahlarla ateş açıldığını bildirdi. UNIFIL'den yapılan açıklamada, olayın ardından herhangi bir can kaybı yaşanmadığı belirtildi. Bölgede gerilimin tırmanmaması için taraflara itidal çağrısı yapıldı. BM barış gücü, sınır hattındaki durumu yakından takip ettiğini ve istikrarın korunması için çalışmalarını sürdürdüğünü ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30541597/pexels-photo-30541597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-08T00:49:02.333Z",
+        "location": {
+            "lat": 33.25,
+            "lng": 35.5,
+            "name": "Lübnan-İsrail Sınırı"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1791420612369va41x",
+        "title": "Hamas, İsrail'in Gazze hastanesini askeri amaçla kullandığı iddialarını reddetti",
+        "summary": "Hamas, İsrail'in Gazze Şeridi'ndeki Kamal Adwan Hastanesi'ni askeri amaçlarla kullandığı yönündeki iddiaları yalanladı. Hareket, bu suçlamaların 'asılsız ve temelsiz' olduğunu belirtti. Hamas, İsrail'in bu tür iddiaları, sağlık tesislerine yönelik saldırılarını meşrulaştırmak amacıyla kullandığını savundu. Bu açıklamalar, hastane yakınlarında meydana gelen ölümcül bir saldırının ardından geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35736608/pexels-photo-35736608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-08T00:50:12.369Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/hamas-rejects-israeli-claims-of-military-use-of-gaza-hospital-after-deadly-strike-nearby/4081606",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791405844526himvv",
         "title": "Ultra-Ortodoks hahamın anti-Siyonist sözleri İsrail seçimlerinde tartışma yarattı",
         "summary": "Haham Dov Lando'nun anti-Siyonist açıklamaları, İsrail'deki siyasi arenada gerilime neden oldu. Bu açıklamalar, Siyonizm, ultra-Ortodoks Yahudilerin askerlik hizmeti ve Başbakan Netanyahu'nun ultra-Ortodoks müttefikleriyle olan ilişkileri üzerindeki mevcut tartışmaları gün yüzüne çıkardı. Söz konusu yorumlar, İsrail'in iç siyasetindeki derin ayrılıkları ve seçim dönemindeki hassasiyetleri yansıtmaktadır. Bu durum, ülkedeki farklı toplumsal kesimler arasındaki gerilimleri bir kez daha gözler önüne serdi.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791141592356pk8i9",
-        "title": "Flydubai Yardımcı Pilotunun Avustralya Bağlantıları Soruşturuluyor",
-        "summary": "Birleşik Arap Emirlikleri merkezli Flydubai havayolunun bir yardımcı pilotu hakkında Avustralya'daki bağlantıları nedeniyle soruşturma başlatıldı. Avustralya polisi ve istihbarat birimleri, olayı araştıran kurumlar arasına katıldı. Soruşturmanın detayları hakkında henüz resmi bir açıklama yapılmazken, yardımcı pilotun Avustralya ile olan ilişkilerinin güvenlik birimlerinin dikkatini çektiği belirtiliyor. Bu gelişme, uluslararası havacılık güvenliği ve personel denetimleri konularını yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8382074/pexels-photo-8382074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-04T19:19:52.356Z",
-        "location": {
-            "lat": -35.2809,
-            "lng": 149.13,
-            "name": "Canberra, Avustralya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791129327939cmdcq",
-        "title": "'Biliyor muydu?': İsrail neden 7 Ekim hesaplaşmasını reddediyor?",
-        "summary": "İsrail'in, 7 Ekim olaylarına ilişkin bir hesaplaşmayı neden reddettiği tartışılıyor. Habere göre, Başbakan Netanyahu'nun 7 Ekim'deki başarısızlıklarına odaklanılması, İsrail'in Gazze'de gerçekleştirdiği eylemlerle yüzleşmekten kaçınmasına olanak tanıyor. Bu durum, hem iç siyasetteki sorumluluk tartışmalarını hem de Gazze'deki operasyonların uluslararası ve iç kamuoyundaki yansımalarını gündeme getiriyor. İsrail'in, 7 Ekim saldırılarının ardından yaşanan süreçte kendi rolünü değerlendirme konusunda bir direniş sergilediği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-04T15:55:27.939Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1791129382116tjwyu",
-        "title": "İran, ABD'ye: Savaşı sona erdirmek için 'askeri çözüm yok'",
-        "summary": "İran Dışişleri Bakanı Abbas Araghchi, ABD'ye yönelik yaptığı açıklamada, mevcut 'savaşı' sona erdirmek için askeri bir çözümün bulunmadığını vurguladı. Bakan Araghchi, ayrıca 'zaman kaybetme ve talepleri dikte etme döneminin sona erdiğini' ifade etti. Bu açıklama, bölgedeki gerilimlerin ve diplomatik çabaların devam ettiği bir dönemde geldi. İran'ın bu tutumu, uluslararası arenada barışçıl çözüm arayışlarına yönelik bir mesaj olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/163490/war-desert-guns-gunshow-163490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-04T15:56:22.116Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
