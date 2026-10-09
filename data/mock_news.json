@@ -1,5 +1,53 @@
 [
     {
+        "id": "17915077494804hmnt",
+        "title": "İsrail Hava Saldırısı Gazze'de Bir Apartmanı Vurdu: Bir Babanın Acısı",
+        "summary": "Gazze Şeridi'nin El-Sabra mahallesinde bulunan bir apartman binası, İsrail tarafından düzenlenen bir hava saldırısının hedefi oldu. Saldırı sonucunda aralarında çocukların da bulunduğu çok sayıda sivil yaşamını yitirdi. Olay, bölgede büyük üzüntüye neden olurken, saldırıda yakınlarını kaybeden bir babanın yaşadığı derin acı gündeme geldi. Uluslararası kamuoyunun dikkatini çeken bu gelişme, bölgedeki gerilimin devam ettiğini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-09T01:02:29.480Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791507785706p0dyp",
+        "title": "İran medyası Hürmüz Boğazı'nda 'büyük patlamalar' bildiriyor",
+        "summary": "İran medyası, Hürmüz Boğazı'nın güney kesiminde büyük patlamalar meydana geldiğini duyurdu. Fars haber ajansı, ismini açıklamadığı askeri kaynaklara dayandırdığı haberinde bu patlamaların yaşandığını belirtti. Uluslararası deniz taşımacılığı için stratejik öneme sahip olan bu bölgedeki olay, güvenlik endişelerini artırabilir. Patlamaların nedeni veya kaynağı hakkında henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982145/pexels-photo-35982145.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-09T01:03:05.706Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791507829403uyoco",
+        "title": "Fort Hood Saldırganı Nidal Hasan'ın İnfazı Canlı Yayınlanacak",
+        "summary": "Pentagon'dan bir yetkili, Al Jazeera'ya yaptığı açıklamada, eski ABD Ordusu Binbaşısı Nidal Hasan'ın idam cezasının canlı yayınlanacağını bildirdi. Fox News sunucusu Pete Hegseth de infazın kamuya açık olacağını belirtmişti. Hasan, 2009 yılında Teksas'taki Fort Hood askeri üssünde düzenlediği saldırıda 13 kişiyi öldürmüş ve 30'dan fazla kişiyi yaralamıştı. Bu olay, ABD topraklarında gerçekleşen en ölümcül askeri üs saldırılarından biri olarak tarihe geçmişti. Hasan, askeri mahkeme tarafından ölüm cezasına çarptırılmıştı ve infazın kurşuna dizme mangasıyla gerçekleştirilmesi bekleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5778605/pexels-photo-5778605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-09T01:03:49.403Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17914915859009712k",
         "title": "Yemen'de İnsani Kriz Derinleşiyor: BM'den Yerinden Edilme Uyarısı",
         "summary": "Birleşmiş Milletler (BM), Yemen'de devam eden çatışmaların insani krizi daha da kötüleştirdiğini duyurdu. Açıklamaya göre, son beş hafta içinde 200.000'den fazla kişi çatışmalar nedeniyle evlerini terk etmek zorunda kaldı. Bu durum, zaten kırılgan olan ülkedeki insani ihtiyaçları daha da artırarak milyonlarca kişinin gıda, barınma ve sağlık hizmetlerine erişimini zorlaştırıyor. Uluslararası yardım kuruluşları, artan yerinden edilmeler karşısında acil insani yardım çağrılarını yineliyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/houthis-claim-missile-attack-on-abha-airport-in-southwestern-saudi-arabia/4079570",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17912834086692k3ur",
-        "title": "Yemen'de Çatışmalar Şiddetlenirken Hükümet Güçleri Husilere Karşı İlerleme Kaydettiğini Bildirdi",
-        "summary": "Yemen'de hükümet güçleri ile Husiler arasındaki çatışmaların yoğunlaştığı bildirildi. Hükümet güçleri, Taiz, Mokha ve Bab el-Mandeb bölgelerinde önemli ilerlemeler kaydettiklerini açıkladı. Bu gelişmeler, Suudi liderliğindeki koalisyonun hava operasyonlarını artırdığı bir döneme denk geldi. Bölgedeki gerilimin yükseldiği ve çatışmaların şiddetlendiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-06T10:43:28.669Z",
-        "location": {
-            "lat": 15.552727,
-            "lng": 48.516388,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/features/roundup-yemen-fighting-intensifies-as-government-forces-report-gains-against-houthis/4079547",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791283435112mpgna",
-        "title": "Evkaf Bakanlığı: Eylül Ayında Mescid-i Aksa'ya 26 Kez Baskın Düzenlendi",
-        "summary": "Evkaf Bakanlığı tarafından yapılan açıklamaya göre, Kudüs'teki Mescid-i Aksa'ya Eylül ayında 26 kez baskın düzenlendiği iddia edildi. Bakanlık, bu eylemlerin ibadet özgürlüğünü kısıtladığını belirtti. Ayrıca, El Halil şehrinde bulunan İbrahimi Camii'nde de geçen ay 150 kez ezan okunmasının engellendiği ifade edildi. Bu olaylar, bölgedeki dini mekanlara yönelik gerilimi artırıyor. Açıklamada, uluslararası topluma bu tür ihlallere karşı harekete geçme çağrısı yapıldı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17690080/pexels-photo-17690080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-06T10:43:55.112Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-stormed-jerusalem-s-al-aqsa-mosque-26-times-in-september-awqaf-ministry/4079461",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791283459611jcmly",
-        "title": "Ürdün ve Körfez İşbirliği Konseyi'nden Husilerin Suudi Arabistan'a Yönelik Saldırılarına Kınama",
-        "summary": "Ürdün ve Körfez İşbirliği Konseyi (KİK), Yemen'deki Husi güçlerinin Suudi Arabistan'ın sivil altyapısına yönelik saldırılarını şiddetle kınadı. Amman yönetimi, Riyad ile tam dayanışma içinde olduğunu belirten bir açıklama yayımladı. KİK ise, Husiler tarafından Suudi Arabistan'ın Cazan ve Necran havalimanlarına düzenlenen saldırıları kınadığını duyurdu. Bu açıklamalar, bölgedeki güvenlik endişelerini ve Suudi Arabistan'a yönelik tehditlere karşı bölgesel desteği vurguluyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5941819/pexels-photo-5941819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-06T10:44:19.611Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-gulf-bloc-condemn-houthi-attacks-on-saudi-civilian-infrastructure/4079443",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
