@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791612941906wke1c",
+        "title": "Medya: Riyad Havalimanı Husi Saldırılarının Ardından Normal Faaliyetlerine Döndü",
+        "summary": "Suudi Arabistan'ın başkenti Riyad'daki havalimanının, Husi saldırılarının ardından normal faaliyetlerine geri döndüğü bildirildi. Medya kaynaklarına göre, havalimanı tesislerini ve Suudi Hava Yolları'na ait uçakları hedef alan saldırılarda üç Suudi vatandaşı hayatını kaybetti. Suudi yetkililer, saldırılarda ayrıca çok sayıda kişinin yaralandığını açıkladı. Saldırıların ardından güvenlik önlemleri artırılırken, havalimanındaki uçuş trafiği normale döndü.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32354895/pexels-photo-32354895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T06:15:41.906Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/riyadh-airport-resumes-normal-operations-after-houthi-attacks-media/4084165",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1791591240019ks0ju",
         "title": "Trump, Fort Hood Saldırganının İdam Şeklini Doğruladı",
         "summary": "ABD Başkanı Donald Trump, Fort Hood saldırganı Nidal Malik Hasan'ın idamının kurşuna dizilerek gerçekleştirileceğini onayladı. Pentagon'dan yapılan açıklamada, Hasan'ın idamının halka açık olacağı ve canlı yayınlanacağı belirtildi. Bu karar, 2009 yılında Teksas'taki Fort Hood askeri üssünde 13 kişinin ölümüne ve 30'dan fazla kişinin yaralanmasına neden olan saldırının faili Hasan'ın infaz sürecine ilişkin önemli bir gelişme olarak kaydedildi. Hasan, saldırıyı 'cihat' olarak nitelendirmiş ve radikal İslamcı ideolojiden etkilendiği biliniyordu.",
@@ -780,22 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791358560140gfvnq",
-        "title": "İsrail'in Operasyonları Gazze'yi Nasıl Değiştirdi?",
-        "summary": "Gazze Şehri'nin limanı, bölgedeki çatışmalar öncesinde önemli bir balıkçılık ve turizm merkezi olarak biliniyordu. Ancak son dönemde yaşanan yoğun operasyonlar, bu stratejik noktanın ve çevresinin büyük ölçüde tahrip olmasına yol açtı. El Cezire muhabiri Maram Humaid, Gazze'deki bu yıkımı ve limandan geriye kalanları yerinde görüntüledi. Haber, bölgedeki altyapının ve günlük yaşamın çatışmalardan nasıl etkilendiğini gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803782/pexels-photo-15803782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T07:36:00.140Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
