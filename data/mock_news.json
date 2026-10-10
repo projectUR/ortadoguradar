@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791667288127loxa5",
+        "title": "İngiliz Denizcilik Ajansı: BAE Kıyısı Yakınındaki Gemilere Demirleme Alanlarını Terk Etmeleri Talimatı Verildi",
+        "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), Birleşik Arap Emirlikleri (BAE) kıyısı açıklarında, özellikle Ras Al Khaimah yakınlarındaki gemilere deniz telsizi aracılığıyla demirleme alanlarını terk etmeleri yönünde talimatlar verildiğini duyurdu. UKMTO tarafından yapılan açıklamada, bu talimatların kaynağının henüz tespit edilemediği belirtildi. Olayın bölgedeki deniz güvenliği ve ticari gemi trafiği üzerindeki potansiyel etkileri yakından izleniyor. Yetkililer, durumun açıklığa kavuşturulması ve olayın arkasındaki nedenlerin belirlenmesi için çalışmalarını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/21234960/pexels-photo-21234960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T21:21:28.127Z",
+        "location": {
+            "lat": 25.79,
+            "lng": 55.97,
+            "name": "Ras Al Khaimah, BAE"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/ships-near-uae-coast-told-to-leave-anchorages-in-radio-broadcast-uk-maritime-agency/4084747",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1791654111470zikk2",
         "title": "Etiyopya Şehrinde Eritre 'Saldırısı' Sonrası Kutlamalar",
         "summary": "Kuzey Etiyopya'da, Eritre güçlerinin bölgeden çekildiği yönündeki haberlerin ardından halk kutlamalar yapıyor. Daha önce Eritre güçleri, bölgeye bir 'saldırı' düzenlemekle suçlanmıştı. Bu gelişme, iki ülke arasındaki gerilimin azaldığına işaret ediyor. Bölgedeki istikrarın sağlanması açısından önemli bir adım olarak değerlendiriliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791443397014kqh4c",
-        "title": "İngiltere, İsrail'in kapatma süresi dolunca Doğu Kudüs konsolosluğundan tabelaları kaldırdı",
-        "summary": "İsrail, İngiltere'nin yasa dışı İsrail yerleşimlerinden yapılan ithalatı yasaklama kararına tepki olarak İngiliz diplomatik misyonunun kapatılmasını talep etmişti. Bu talep üzerine belirlenen kapatma süresinin dolmasının ardından, Birleşik Krallık Doğu Kudüs'teki konsolosluk binasından tabelaları kaldırdı. Bu adım, Londra'nın yerleşim birimleri politikasına karşı aldığı tutumun ardından iki ülke arasındaki diplomatik gerilimi gözler önüne serdi. Olay, Doğu Kudüs'ün statüsü ve İsrail yerleşimleri konusundaki uluslararası anlaşmazlıkları bir kez daha gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32750009/pexels-photo-32750009.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-08T07:09:57.014Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/europe/uk-removes-signage-from-east-jerusalem-consulate-as-israeli-closure-deadline-expires/4081681",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
