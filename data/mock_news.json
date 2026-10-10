@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791591240019ks0ju",
+        "title": "Trump, Fort Hood Saldırganının İdam Şeklini Doğruladı",
+        "summary": "ABD Başkanı Donald Trump, Fort Hood saldırganı Nidal Malik Hasan'ın idamının kurşuna dizilerek gerçekleştirileceğini onayladı. Pentagon'dan yapılan açıklamada, Hasan'ın idamının halka açık olacağı ve canlı yayınlanacağı belirtildi. Bu karar, 2009 yılında Teksas'taki Fort Hood askeri üssünde 13 kişinin ölümüne ve 30'dan fazla kişinin yaralanmasına neden olan saldırının faili Hasan'ın infaz sürecine ilişkin önemli bir gelişme olarak kaydedildi. Hasan, saldırıyı 'cihat' olarak nitelendirmiş ve radikal İslamcı ideolojiden etkilendiği biliniyordu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8111857/pexels-photo-8111857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T00:14:00.019Z",
+        "location": {
+            "lat": 31.117,
+            "lng": -97.727,
+            "name": "Killeen, Teksas, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791558274356dk65z",
         "title": "Manchester City Davası Premier Lig'de Belirsizlik Yaratıyor",
         "summary": "Liverpool Teknik Direktörü Andoni Iraola, Manchester City'nin finansal ihlallerle ilgili suçlu bulunmasının ardından yaptığı itirazın ve davanın Premier Lig genelinde belirsizliğe yol açtığını ifade etti. Iraola, bu durumun ligin geleceği üzerindeki potansiyel etkilerine dikkat çekti. Manchester City'nin Abu Dabi merkezli sahipliği göz önüne alındığında, bu davanın Orta Doğu ile dolaylı bir bağlantısı bulunmaktadır. Davanın sonucu, kulübün ve ligin finansal yapısını etkileyebilir ve Orta Doğu'daki yatırımcıların spor dünyasındaki konumunu da dolaylı olarak etkileyebilir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791358600555h7sv6",
-        "title": "Yemenli Yerinden Edilmiş Çocuklar Okula Dönmeyi Hayal Ediyor",
-        "summary": "Yemen'deki çatışmalar, ülkenin eğitim sistemini derinden etkilemeye devam ediyor. Çatışma bölgelerinde yaşayan 137.000'den fazla öğrenci, eğitim haklarından mahrum kalmış durumda. Bu durum, Yemen'in zaten kötü durumda olan eğitim krizini daha da derinleştiriyor. Yerinden edilmiş çocuklar, normalleşme ve okula geri dönebilme umudu taşıyor. Eğitime erişimdeki bu kayıp, ülkenin geleceği için ciddi endişeler yaratıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5275836/pexels-photo-5275836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T07:36:40.555Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
