@@ -1,5 +1,117 @@
 [
     {
+        "id": "1791636870677wa9zt",
+        "title": "İsrail'in Gazze'de 'Ateşkes' Yıl Dönümünde Yedi Kişiyi Öldürdüğü Bildirildi",
+        "summary": "Gazze'de İsrail saldırılarında yedi kişinin hayatını kaybettiği, ölenler arasında bir çocuğun da bulunduğu açıklandı. Bu olay, bölgede ilan edilen \"ateşkesin\" yıl dönümüne denk geldi. Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, geçen yılki ateşkesin yürürlüğe girmesinden bu yana İsrail saldırılarında en az 1.481 Filistinli yaşamını yitirdi. Bakanlık, bu saldırıların bölgedeki gerilimi artırdığını ve sivil kayıplara yol açtığını vurguladı. Uluslararası toplum, bölgedeki şiddetin durdurulması ve kalıcı bir çözüm bulunması yönündeki çağrılarını yineledi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640810/pexels-photo-7640810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T12:54:30.677Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1791636949945751sg",
+        "title": "ABD, Yaptırımlara Rağmen Neden Rusya'dan Dizel Tedarik Ediyor?",
+        "summary": "ABD'nin, uygulanan yaptırımlara rağmen Rusya'dan dizel tedarik etme arayışında olduğu belirtiliyor. Bu durum, küresel yakıt fiyatlarındaki önemli artışların yaşandığı bir döneme denk geliyor. Dönemin ABD Başkanı Donald Trump'ın Rusya Devlet Başkanı Putin ile bu konuda bir anlaşma yaptığı ifade ediliyor. Söz konusu anlaşmanın, ABD'de yaklaşan ara seçimler öncesinde gerçekleştiği bilgisi paylaşıldı. Bu gelişme, enerji piyasaları ve uluslararası ilişkiler açısından dikkat çekici bulunuyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/12249509/pexels-photo-12249509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T12:55:49.945Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791636975366tuisg",
+        "title": "Filistin Devlet Başkanı Seçimleri Erteledi",
+        "summary": "Filistin Devlet Başkanı Mahmud Abbas, ülkedeki yasama seçimlerini 11 Eylül 2027 tarihine ertelediğini duyurdu. Resmi Filistin haber ajansının bildirdiğine göre, Abbas tarafından yayımlanan kararname ile hem başkanlık hem de yasama seçimlerinin gelecek yıl yapılacağı belirtildi. Bu erteleme kararı, Filistin siyasetinde önemli bir gelişme olarak kaydedildi. Kararın gerekçeleri hakkında detaylı bilgi verilmezken, bölgedeki siyasi dinamikler açısından yakından takip edileceği ifade edildi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/5926273/pexels-photo-5926273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T12:56:15.366Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-president-postpones-legislative-elections-to-sept-11-2027/4084448",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791636996333ngk24",
+        "title": "İşgal Altındaki Batı Şeria'da Zeytin Toplayanlara İsrail Saldırısı: 9 Yaralı",
+        "summary": "Filistin Kızılayı'nın bildirdiğine göre, işgal altındaki Batı Şeria'da Filistinli zeytin toplayıcılarına yönelik İsrail saldırılarında dokuz kişi yaralandı. Olay, Deir Abu Meşal köyünde meydana geldi. Saldırıların İsrail ordusu ve yerleşimciler tarafından gerçekleştirildiği belirtildi. Yaralıların sağlık durumlarına ilişkin detay verilmezken, bölgedeki gerilimin devam ettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/31694877/pexels-photo-31694877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T12:56:36.333Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Deir Abu Meşal, Batı Şeria"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/9-injured-in-israeli-attacks-on-olive-harvesters-in-occupied-west-bank/4084425",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791637018877gfvbj",
+        "title": "İsrail ordusu güney Lübnan'da saldırılarını sürdürüyor, çerçeve anlaşmasını ihlal ettiği belirtildi",
+        "summary": "İsrail ordusu, güney Lübnan'da saldırılarını sürdürüyor. Lübnan devlet medyası, İsrail insansız hava araçlarının Lübnan'ın doğusundaki Baalbek şehri ve çevresindeki kasabalar üzerinde alçak irtifada uçuşlar gerçekleştirdiğini bildirdi. Bu eylemlerin, bölgedeki bir çerçeve anlaşmasının ihlali anlamına geldiği belirtiliyor. Gelişmeler, iki ülke arasındaki gerilimin devam ettiğini gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1336211/pexels-photo-1336211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T12:56:58.877Z",
+        "location": {
+            "lat": 34.006,
+            "lng": 36.218,
+            "name": "Baalbek, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-continues-strikes-in-southern-lebanon-in-violation-of-framework-deal/4084382",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1791637041766avl43",
+        "title": "Gazze'de İsrail Saldırılarında 5 Filistinli Hayatını Kaybetti",
+        "summary": "İsrail ordusu, Gazze Şeridi'ne yönelik hava saldırılarını sürdürdü. Ateşkesin üzerinden bir yıl geçmesine rağmen devam eden bu saldırılarda beş Filistinli hayatını kaybetti. İsrail güçleri, Gazze Şehri'nin batı ve doğu kesimlerindeki Filistinli grupları hedef aldı. Bu olaylar, bölgedeki gerilimin ve çatışmaların devam ettiğini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T12:57:21.766Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/5-palestinians-killed-in-gaza-as-israeli-army-continues-strikes-1-year-into-ceasefire/4084369",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17916370629719xl9f",
+        "title": "Yemen hükümet güçleri, Bab el-Mandeb yakınlarındaki Husi saldırısını püskürttüğünü açıkladı",
+        "summary": "Yemen hükümet güçleri, stratejik Bab el-Mandeb Boğazı yakınlarında Husiler tarafından düzenlenen bir saldırıyı püskürttüklerini duyurdu. Hükümete bağlı Dev Tugayları'ndan yapılan açıklamada, çatışmalarda Husilere ait çok sayıda personel ve ekipmanın imha edildiği belirtildi. Saldırının püskürtülmesiyle bölgedeki güvenlik güçlerinin kontrolü sürdürdüğü ifade edildi. Yemen'deki iç savaşın önemli cephelerinden biri olan bu bölge, uluslararası denizcilik açısından kritik bir öneme sahip.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-10T12:57:42.971Z",
+        "location": {
+            "lat": 12.58,
+            "lng": 43.33,
+            "name": "Bab el-Mandeb, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-govt-forces-say-they-repelled-houthi-attack-near-bab-el-mandeb/4084304",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791612941906wke1c",
         "title": "Medya: Riyad Havalimanı Husi Saldırılarının Ardından Normal Faaliyetlerine Döndü",
         "summary": "Suudi Arabistan'ın başkenti Riyad'daki havalimanının, Husi saldırılarının ardından normal faaliyetlerine geri döndüğü bildirildi. Medya kaynaklarına göre, havalimanı tesislerini ve Suudi Hava Yolları'na ait uçakları hedef alan saldırılarda üç Suudi vatandaşı hayatını kaybetti. Suudi yetkililer, saldırılarda ayrıca çok sayıda kişinin yaralandığını açıkladı. Saldırıların ardından güvenlik önlemleri artırılırken, havalimanındaki uçuş trafiği normale döndü.",
@@ -684,118 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "179138645499051no0",
-        "title": "Paramount-Warner Birleşmesi Basın Özgürlüğü Endişelerini Tetikledi",
-        "summary": "Medya devleri Paramount ve Warner arasındaki potansiyel birleşme, basın özgürlüğü ve editoryal bağımsızlık konusunda ciddi endişeleri beraberinde getirdi. Birleşmenin başkanının eski ABD Başkanı Trump ve İsrail ile olan aile bağları, CNN ve CBS gibi önemli haber kuruluşlarının tarafsızlığı hakkında soru işaretleri yarattı. Eleştirmenler, bu tür bağlantıların özellikle hassas siyasi konularda objektif haberciliği ve gazetecilik bütünlüğünü tehlikeye atabileceği konusunda uyarıyor. Bu durum, medya konsolidasyonunun demokratik söylem ve kamuoyunun doğru bilgilendirilmesi üzerindeki potansiyel etkilerine dair küresel tartışmaları yeniden alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/27084592/pexels-photo-27084592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T15:20:54.990Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791386515822knbvj",
-        "title": "Beyaz Saray'dan Trump'ın İran Yorumlarına Savunma",
-        "summary": "Beyaz Saray, eski ABD Başkanı Donald Trump'ın İran'ın Los Angeles ve San Diego'yu 'ortadan kaldırmasına' izin verme yönündeki tartışmalı yorumlarını savundu. Kaliforniya Valisi Gavin Newsom bu açıklamaları 'çılgınca' olarak nitelendirmişti. Ancak Beyaz Saray, Trump'ın bu sözlerle nükleer bir İran'ın oluşturabileceği riske karşı uyarıda bulunduğunu belirtti. Bu durum, ABD'nin İran politikaları ve İran'ın nükleer programına ilişkin uluslararası endişeleri bir kez daha gündeme getirdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/23938370/pexels-photo-23938370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T15:21:55.822Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17913865391794jyb9",
-        "title": "İsrail, Filistinli Gazeteciyi 46 Gündür Tecritte Tutuyor",
-        "summary": "İsrail'in Filistinli gazeteci Bushra al-Tawil'i 46 gündür tecritte tuttuğu bildirildi. Filistinli mahkum grupları tarafından yapılan açıklamaya göre, al-Tawil bu süre zarfında defalarca farklı tecrit tesisleri arasında nakledildi. Bu durum, Filistinli gazetecilerin ve mahkumların durumuyla ilgili endişeleri artırıyor ve uluslararası insan hakları örgütlerinin dikkatini çekiyor. Olay, bölgedeki insan hakları ihlalleri tartışmalarını yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T15:22:19.179Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "İsrail/Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-isolating-palestinian-journalist-for-46-days-and-counting/4081217",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17913865611952c1dx",
-        "title": "İran Cumhurbaşkanı Pezeşkian, Putin ile Görüşmesinde ABD Anlaşmasının 'Ulaşılamaz Olmadığını' Belirtti",
-        "summary": "İran Cumhurbaşkanı Masoud Pezeshkian, Rusya Devlet Başkanı Vladimir Putin ile gerçekleştirdiği telefon görüşmesinde, ABD ile bir anlaşmaya varılmasının \"ulaşılamaz olmadığını\" dile getirdi. Pezeshkian, adil bir mutabakatın önündeki en büyük engelin ABD'nin \"maksimalist\" yaklaşımı olduğunu vurguladı. Görüşmede, Rusya Devlet Başkanı Putin'in ise mevcut bir savaşın diplomatik yollarla çözülmesi gerektiğini desteklediği kaydedildi. Bu telefon görüşmesi, İran'ın ABD ile potansiyel müzakerelere açık olduğunu gösterirken, bölgesel ve uluslararası diplomatik çabaların önemini bir kez daha ortaya koydu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17412354/pexels-photo-17412354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T15:22:41.195Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iranian-president-says-us-deal-not-out-of-reach-in-call-with-putin/4081164",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791386639203p8oqu",
-        "title": "Lübnan Başbakanı: Savaş ve Barış Kararları Devlet Kontrolünde Olmadıkça Egemenlik Eksiktir",
-        "summary": "Lübnan Başbakanı, bir devletin savaş ve barış kararları üzerindeki kontrolü olmadan egemenliğinin eksik kalacağını belirtti. Nawaf Salam, Taif Anlaşması'nın tam olarak uygulanması ve güçlü devlet kurumlarının inşa edilmesi gerekliliğini vurguladı. Bu açıklamalar, Lübnan'ın iç siyasi yapısındaki reform ihtiyacını ve devletin güvenlik ile ilgili karar alma süreçlerindeki bağımsızlık arayışını ortaya koymaktadır. Ülkenin gelecekteki istikrarı ve egemenliği için bu adımların kritik öneme sahip olduğu ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T15:23:59.203Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sovereignty-incomplete-unless-state-controls-decisions-on-war-peace-lebanese-premier/4081097",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791358512370xjte2",
-        "title": "Yemen'deki Husiler Aden Havalimanı'na saldırdı; Suudi güçleri Riyad yakınlarında füzeyi düşürdü",
-        "summary": "Yemen'deki Husiler, Aden Havalimanı'na füze saldırısı düzenledi. Yemen hükümeti, Kahire'den gelecek bir uçağın inişinden dakikalar önce füzelerden birinin havalimanının pistine isabet ettiğini bildirdi. Saldırının ardından Suudi Arabistan güçleri, başkent Riyad yakınlarında bir füzeyi havada imha ettiğini açıkladı. Bu gelişmeler, Yemen'deki çatışmaların ve bölgesel gerilimin sürdüğüne işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31365894/pexels-photo-31365894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T07:35:12.370Z",
-        "location": {
-            "lat": 12.8,
-            "lng": 45.03,
-            "name": "Aden, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1791358535461fd460",
-        "title": "Rusya'daki Yakıt Krizi İran Petrolüne Orta Asya Pazarında Fırsat Yaratıyor mu?",
-        "summary": "ABD'nin uyguladığı ambargolar nedeniyle İran'ın petrol ihracatı uzun süredir zorluklarla mücadele etmektedir. Rusya'nın Ukrayna'ya yönelik saldırıları sonucunda yaşadığı enerji krizi, bu durumu değiştirebilecek bir potansiyel sunuyor. Rusya'daki yakıt sıkıntısı, İran petrolünün Orta Asya ülkelerine yönelik ihracatında yeni bir kapı aralayabilir. Bu durum, İran'ın uluslararası pazardaki konumunu güçlendirme ve ambargoların etkisini azaltma fırsatı olarak değerlendiriliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/10420382/pexels-photo-10420382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-07T07:35:35.461Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
