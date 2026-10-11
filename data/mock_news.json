@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791699228047kc2hy",
+        "title": "Gazze'deki Savaşın İsrail Seçimleri Üzerindeki Etkisi",
+        "summary": "Gazze'deki mevcut çatışmaların İsrail'in iç siyasetini ve olası seçim süreçlerini derinden etkilediği belirtiliyor. Haberde, İsrail'de yaklaşan veya beklenen seçimlerin, kamuoyunda bir değişim talebinden ziyade, 7 Ekim olayları sonrasında ortaya çıkan milliyetçi duyguların daha da pekişmesine işaret ettiği vurgulanıyor. Analizlere göre, Gazze'deki savaşın siyasi atmosferi şekillendirmesiyle birlikte, seçmenlerin mevcut politikaları ve liderleri destekleme eğiliminde olduğu gözlemleniyor. Bu durum, İsrail siyasetinde beklenen bir dönüşüm yerine, mevcut eğilimlerin güçlenerek devam edebileceğine işaret ediyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7103091/pexels-photo-7103091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-11T06:13:48.047Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791667288127loxa5",
         "title": "İngiliz Denizcilik Ajansı: BAE Kıyısı Yakınındaki Gemilere Demirleme Alanlarını Terk Etmeleri Talimatı Verildi",
         "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), Birleşik Arap Emirlikleri (BAE) kıyısı açıklarında, özellikle Ras Al Khaimah yakınlarındaki gemilere deniz telsizi aracılığıyla demirleme alanlarını terk etmeleri yönünde talimatlar verildiğini duyurdu. UKMTO tarafından yapılan açıklamada, bu talimatların kaynağının henüz tespit edilemediği belirtildi. Olayın bölgedeki deniz güvenliği ve ticari gemi trafiği üzerindeki potansiyel etkileri yakından izleniyor. Yetkililer, durumun açıklığa kavuşturulması ve olayın arkasındaki nedenlerin belirlenmesi için çalışmalarını sürdürüyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1791443371988wvcg7",
-        "title": "İsrailliler, ölümcül Hamas baskınından üç yıl sonra 7 Ekim saldırısı kurbanlarını anıyor",
-        "summary": "İsrail'de, üç yıl önce Hamas liderliğindeki saldırının yıldönümünde anma etkinlikleri düzenlendi. Bu saldırı, yıkıcı Gazze Savaşı'nı tetiklemişti. Etkinliklerde, 7 Ekim'de hayatını kaybeden kurbanlar anıldı ve saldırının yol açtığı acılar bir kez daha dile getirildi. Ülke genelinde düzenlenen törenlerle, saldırının İsrail toplumu üzerindeki derin etkisi vurgulandı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5911959/pexels-photo-5911959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-08T07:09:31.988Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
