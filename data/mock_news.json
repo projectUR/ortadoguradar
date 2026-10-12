@@ -1,5 +1,53 @@
 [
     {
+        "id": "1791768943454cz4kp",
+        "title": "İran Dışişleri Bakanı Suudi Arabistanlı mevkidaşıyla görüşmesinde diplomasi çağrısı yaptı",
+        "summary": "İran Dışişleri Bakanı, Suudi Arabistanlı mevkidaşıyla yaptığı telefon görüşmesinde diplomasiye vurgu yaparak bölgesel sorunların diyalog yoluyla çözülmesi gerektiğini belirtti. Tahran, Suudi Arabistan'a yönelik ölümcül saldırıların ardından, Suudi Arabistan ile Yemen'deki Husiler arasında görüşmeleri kolaylaştırma teklifinde bulundu. Bu teklif, Yemen'deki çatışmanın sona erdirilmesi ve bölgedeki istikrarın sağlanması adına önemli bir adım olarak görülüyor. İran'ın bu diplomatik girişimi, Orta Doğu'daki gerilimi azaltma ve taraflar arasında güven inşa etme çabalarının bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-12T01:35:43.454Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791768996876jt0q0",
+        "title": "İran-ABD Gerilimi Sürerken Riyad Havalimanı Yeniden Hedef Alındı",
+        "summary": "Orta Doğu'da devam eden gerilimde, Suudi Arabistan'ın başkenti Riyad'daki havalimanının bir kez daha saldırıya uğradığı bildirildi. Bu gelişme, İran'ın ABD'nin sunduğu bazı barış şartlarını kabul ettiğini ancak verilen yanıtı 'yetersiz' olarak nitelendirmesinin ardından yaşandı. Tahran yönetimi, ABD'nin barışa yönelik adımlarını yetersiz bulduğunu belirtirken, bölgedeki güvenlik durumu ve diplomatik çabalar yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-12T01:36:36.876Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6062,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17917690677712vnkx",
+        "title": "İsrail'in Güney Gazze Saldırısında Ateşkese Rağmen 3 Filistinli Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde yaşanan olaylarda, İsrail'in güney Gazze'ye düzenlediği bir saldırıda ateşkesin ihlal edildiği ve üç Filistinlinin yaşamını yitirdiği bildirildi. Ayrıca, kuzey Gazze'de İsrail ateşi sonucu yaralanan bir çocuğun hayatını kaybettiği belirtildi. Bu gelişmeler yaşanırken, İsrail güçlerinin Gazze Şeridi'nin doğusundaki Gazze Şehri'nde mevzilerini genişlettiği kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38317990/pexels-photo-38317990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-12T01:37:47.771Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-3-palestinians-in-southern-gaza-despite-ceasefire/4085496",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1791757144605i7nla",
         "title": "Birleşik Krallık Yeşiller Partisi Lideri, Partinin Siyonizmi Irkçılık İlan Etmesi Sonrası Kural Değişikliği İstiyor",
         "summary": "Birleşik Krallık Yeşiller Partisi'nin eş lideri Zack Polanski, partisinin Siyonizmi ırkçılık olarak tanımlayan bir karar almasının ardından parti içi kural reformları çağrısında bulundu. Polanski, bu tür kararların alınmasında parti liderlerine daha fazla kontrol yetkisi verilmesini talep ediyor. Partinin bu kararı, Birleşik Krallık'taki siyasi çevrelerde ve Orta Doğu politikaları üzerine yürütülen tartışmalarda geniş yankı uyandırdı. Bu gelişme, partinin iç işleyişi ve uluslararası meselelere yönelik duruşu hakkında önemli tartışmaları beraberinde getirdi.",
@@ -750,53 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17915323625646g8wb",
-        "title": "ABD Senatörü, İsrail Güçlerinin Gazze'de Uluslararası Hukuku İhlal Ettiğini Belirtti",
-        "summary": "ABD Senatörü Jon Ossoff, İsrail güçlerinin Gazze'de uluslararası insancıl hukuku ihlal ettiğini ifade etti. Senatör Ossoff, soykırım tespiti konusunun Uluslararası Ceza Mahkemesi için önemli bir mesele olduğunu vurguladı. Bu açıklama, Gazze'deki mevcut çatışmaların uluslararası hukuk boyutunu ve olası yargı süreçlerini gündeme taşıyor. Uluslararası toplumun ve hukuk kuruluşlarının bölgedeki gelişmelere yönelik tutumları yakından takip edilmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-09T07:52:42.564Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-senator-says-israeli-forces-violated-international-humanitarian-law-in-gaza/4082979",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791532481308ihib3",
-        "title": "USS Abraham Lincoln, İran Operasyonlarının Ardından San Diego'ya Döndü",
-        "summary": "ABD Donanması'na ait uçak gemisi USS Abraham Lincoln, İran ile ilgili operasyonlara destek verdikten sonra San Diego'daki ana limanına geri döndü. Gemi, denizde art arda geçirdiği rekor 265 günün ardından limana ulaşırken, savunma bakanından Başkanlık Birlik Takdirnamesi aldı. Bu uzun süreli konuşlandırma, Orta Doğu'daki gerilimlerin bir parçası olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38485162/pexels-photo-38485162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-09T07:54:41.308Z",
-        "location": {
-            "lat": 32.7157,
-            "lng": -117.1611,
-            "name": "San Diego, ABD"
-        },
-        "source": "https://www.aa.com.tr/en/americas/uss-abraham-lincoln-returns-to-san-diego-after-supporting-iran-war/4082825",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1791532505711qe7c0",
-        "title": "Türkiye İstihbarat Şefi Suriye Dışişleri Bakanı ile Ankara'da Görüştü",
-        "summary": "Türkiye'nin istihbarat şefi ile Suriye dışişleri bakanı Ankara'da bir araya geldi. Güvenlik kaynaklarından edinilen bilgilere göre, görüşmelerde iki ülke arasındaki ikili işbirliği konuları masaya yatırıldı. Bölgesel istikrarın sağlanması ve DEAŞ (IŞİD) terör örgütüne karşı ortak mücadele de önemli gündem maddeleri arasında yer aldı. Ayrıca, Suriye'nin güneyindeki son gelişmeler detaylı bir şekilde değerlendirildi. Bu görüşmenin, iki ülke arasındaki ilişkilerin geleceği ve bölgesel güvenlik dinamikleri açısından kritik öneme sahip olduğu belirtildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-09T07:55:05.711Z",
-        "location": {
-            "lat": 39.93,
-            "lng": 32.86,
-            "name": "Ankara, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/turkiyes-intelligence-chief-meets-syrian-foreign-minister-in-ankara/4082808",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
