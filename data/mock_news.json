@@ -1,5 +1,37 @@
 [
     {
+        "id": "1791937831761uf9ob",
+        "title": "Suudi Koalisyonu Yemen'de Husi Hedeflerini Vurdu, Dhahran'da Saudi Aramco Binası Hedef Alındı",
+        "summary": "Suudi Arabistan liderliğindeki koalisyon, Yemen'deki Husilere ait \"hayati varlıklara\" karşı hava saldırıları düzenledi. Bu saldırıların ardından, Suudi Arabistan'ın doğusundaki Dhahran kentinde bulunan Saudi Aramco'ya ait bir binanın vurulduğu bildirildi. Olay, Yemen'deki çatışmaların Suudi Arabistan topraklarına sıçradığını gösteriyor ve bölgesel gerilimi artırıyor. Bu gelişme, Orta Doğu'daki güvenlik durumunu yakından ilgilendiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5941989/pexels-photo-5941989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T00:30:31.761Z",
+        "location": {
+            "lat": 26.2361,
+            "lng": 50.0394,
+            "name": "Dhahran, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1791937855813ov2ol",
+        "title": "OpenAI Mühendisi, Toplantı Odasında Dinleme Cihazı Bulunmasının Ardından Suçlandı",
+        "summary": "ABD makamları, gizli bir gözetleme cihazı yerleştirdiği iddiasıyla bir Suudi vatandaşının tutuklandığını ve suçlandığını duyurdu. Olayın, OpenAI'ye ait bir toplantı odasında dinleme cihazı bulunmasının ardından ortaya çıktığı belirtildi. Suudi uyruklu şahsın, ABD'de yasa dışı gözetleme faaliyetleri yürütmekle itham edildiği kaydedildi. Soruşturmanın devam ettiği ve olayın detaylarının henüz tam olarak açıklanmadığı bildirildi. Bu durum, teknoloji şirketlerindeki güvenlik endişelerini ve uluslararası casusluk iddialarını yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/179993/pexels-photo-179993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T00:30:55.813Z",
+        "location": {
+            "lat": 37.7749,
+            "lng": -122.4194,
+            "name": "San Francisco, ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1791908218023g3mpt",
         "title": "Fransa, Rusya'nın 'Gölge Filosu'na Ait Olduğu Şüphelenilen Tankere El Koydu",
         "summary": "Fransa makamları, Rusya'nın yaptırımları aşmak için kullandığı iddia edilen 'gölge filosu'na ait olduğu şüphelenilen bir tankere el koydu. Bu gelişme, Rus petrolünün uluslararası piyasalara taşınmasında kullanılan gizli ağlara yönelik artan denetimleri gözler önüne seriyor. Tankerin ele geçirilmesi, Batılı ülkelerin Rusya'ya uyguladığı ekonomik yaptırımların etkinliğini artırma çabalarının bir parçası olarak değerlendiriliyor. Bu tür adımlar, küresel enerji piyasalarında ve özellikle petrol taşımacılığı rotalarında belirsizlik yaratırken, Orta Doğu'daki petrol üreticisi ülkelerin piyasa dinamiklerini de dolaylı yoldan etkileme potansiyeli taşıyor.",
@@ -764,38 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/death-toll-from-riyadh-airport-attack-rises-to-13-as-indian-national-succumbs-to-injuries/4085387",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1791742968110elidh",
-        "title": "Riyad Havalimanı'na Saldırı: Yaralılar Var",
-        "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na yönelik bir saldırı gerçekleşti. Suudi sivil havacılık yetkilileri, havalimanına isabet eden bir mühimmatın terminalde yangına neden olduğunu ve bazı kişilerin yaralandığını bildirdi. Saldırının ardından havalimanı yetkilileri, olay yerinde geniş çaplı hasar tespiti çalışmalarına başladı. Ayrıca, tesislerde güvenlik ve operasyonel durumla ilgili kapsamlı incelemeler yapıldığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38121313/pexels-photo-38121313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:22:48.110Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6031,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/attack-on-riyadh-airport-leaves-people-injured-saudi-aviation-authority/4085377",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791742989316mjnaq",
-        "title": "BM, Sudan'da En Az 17 Sivili Öldüren İnsansız Hava Aracı Saldırıları Raporlarından Endişeli",
-        "summary": "Birleşmiş Milletler, Sudan'da sivilleri hedef alan insansız hava aracı saldırılarıyla ilgili raporlardan derin endişe duyduğunu bildirdi. Batı Kordofan bölgesinde meydana gelen saldırılarda en az 17 sivilin hayatını kaybettiği belirtildi. Hedef alınan bölgelerin, yerinden edilmiş ailelere barınak sağlayan alanlar olduğu kaydedildi. Saldırılarda hayatını kaybedenler arasında kadın ve çocukların da bulunduğu ifade edildi. BM, bu tür saldırıların uluslararası insancıl hukukun ihlali olabileceği konusunda uyarıda bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3722737/pexels-photo-3722737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:23:09.316Z",
-        "location": {
-            "lat": 11,
-            "lng": 27.5,
-            "name": "Batı Kordofan, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-alarmed-by-reports-of-drone-strikes-killing-at-least-17-civilians-in-sudan/4085357",
         "trendScore": 85,
         "isBreaking": true
     }
