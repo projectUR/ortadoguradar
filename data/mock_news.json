@@ -1,5 +1,37 @@
 [
     {
+        "id": "1791993372210am6sp",
+        "title": "Papa Leo Kanser Ameliyatı Sonrası İyi İyileşiyor, Vatikan Açıkladı",
+        "summary": "Vatikan'dan yapılan açıklamaya göre, 71 yaşındaki Papa Leo, akciğerindeki kanserli bir büyümenin alınması için geçirdiği ameliyatın ardından Roma'daki Gemelli Hastanesi'nde iyileşme sürecini sürdürüyor. Operasyonun başarılı geçtiği ve Papa'nın sağlık durumunun olumlu seyrettiği belirtildi. Katolik Kilisesi liderinin sağlığı, dünya genelindeki milyonlarca inanan ve diplomatik çevreler tarafından yakından takip ediliyor. Papa'nın iyileşme sürecinin planlandığı gibi devam ettiği ve yakın zamanda görevine dönmesinin beklendiği ifade edildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/10528693/pexels-photo-10528693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T15:56:12.210Z",
+        "location": {
+            "lat": 41.902782,
+            "lng": 12.496366,
+            "name": "Roma, İtalya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791993467922auwle",
+        "title": "ABD Ordusu, İran'ın Denizcilere Yönelik Psikolojik Baskı İddialarını Reddetti",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın ABD güçlerinin sivil mürettebat üzerinde 'ciddi stres ve psikolojik baskı' uyguladığı yönündeki iddialarını yalanladı. İran büyükelçisinin bu yöndeki açıklamalarını 'asılsız' olarak nitelendiren CENTCOM, iddiaların gerçeği yansıtmadığını belirtti. Bu durum, ABD ve İran arasındaki askeri ve diplomatik gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8387647/pexels-photo-8387647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T15:57:47.922Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 51.5,
+            "name": "Basra Körfezi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/us-military-rejects-iranian-claim-of-psychological-pressure-on-sailors/4088815",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17919771856925m7iw",
         "title": "Yerleşimciler Batı Şeria'da cami yaktı, İsrail güçleri köylere baskın düzenledi",
         "summary": "Batı Şeria'da yerleşimcilerin bir camiyi ateşe verdiği bildirildi. Olaylar, İsrail güçlerinin bölgedeki köylere düzenlediği baskınlarla eş zamanlı olarak yaşandı. Ayrıca, Nablus'un güneyindeki Beita kasabasında yerleşimcilerin ayrı bir olayda bir çocuğu hedef aldığı belirtildi. Bu gelişmeler, bölgedeki gerilimin tırmandığını gösteriyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/world/yemeni-army-bombards-houthi-positions-in-taiz-amid-escalation/4085823",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17917951503201c68v",
-        "title": "Suudi Arabistan, Husi saldırılarının ardından Riyad Havalimanı'ndaki operasyonların askıya alınmasını uzattı",
-        "summary": "Suudi Arabistan Sivil Havacılık Otoritesi, Husi saldırılarının ardından Riyad'daki Kral Halid Uluslararası Havalimanı'ndaki operasyonların askıya alınma süresini uzattığını bildirdi. Otoriteden yapılan açıklamada, bu kararın güvenlik denetimlerini tamamlamak ve havalimanının operasyonel hazırlığını güvence altına almak amacıyla alındığı belirtildi. Yemen'deki Husilerin gerçekleştirdiği saldırılar sonrası alınan bu önlem, bölgedeki güvenlik durumunun sivil havacılık üzerindeki etkisini ortaya koyuyor. Havalimanının ne zaman tam kapasiteyle faaliyete geçeceği konusunda ise ek bilgi bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39805982/pexels-photo-39805982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T08:52:30.320Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-following-houthi-attacks/4085817",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1791795171605vh1je",
-        "title": "İran, ABD'nin Müzakere Tekliflerini Değerlendirdiğini Duyurdu",
-        "summary": "İran, ABD ile dolaylı mesajlaşmaların sürdüğünü ve Washington'dan gelen müzakere tekliflerini incelediğini açıkladı. Pakistan ve Katar'ın Tahran ile Washington arasındaki arabuluculuk çabalarına devam ettiği belirtildi. İranlı yetkililer, herhangi bir müzakere sürecinde kendi ön koşullarına saygı gösterilmesi gerektiğini vurguladı. Bu gelişmeler, iki ülke arasındaki diplomatik çözüm arayışlarının ve gerilimi azaltma çabalarının devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5921561/pexels-photo-5921561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T08:52:51.605Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-reviewing-us-proposals-for-talks-as-indirect-messages-continue/4085816",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
