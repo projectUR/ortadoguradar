@@ -1,5 +1,181 @@
 [
     {
+        "id": "17919771856925m7iw",
+        "title": "Yerleşimciler Batı Şeria'da cami yaktı, İsrail güçleri köylere baskın düzenledi",
+        "summary": "Batı Şeria'da yerleşimcilerin bir camiyi ateşe verdiği bildirildi. Olaylar, İsrail güçlerinin bölgedeki köylere düzenlediği baskınlarla eş zamanlı olarak yaşandı. Ayrıca, Nablus'un güneyindeki Beita kasabasında yerleşimcilerin ayrı bir olayda bir çocuğu hedef aldığı belirtildi. Bu gelişmeler, bölgedeki gerilimin tırmandığını gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/3805146/pexels-photo-3805146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:26:25.692Z",
+        "location": {
+            "lat": 32.1,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "1791977211402vxczj",
+        "title": "İsrail'in yerleşimciler için '463 Numaralı Yol'u yeniden açma planı Ramallah'ı izole etme tehdidi taşıyor",
+        "summary": "İsrail'in yerleşimciler için 463 numaralı yolu yeniden açma planları, Filistin köylerini izole etme ve Ramallah'ı parçalama tehdidi taşıyor. Bu adımın, İsrail'in yerleşim politikaları ve Filistin toplulukları üzerindeki etkileri konusunda bölgedeki gerilimi artırması bekleniyor. Söz konusu yolun yeniden açılması, Filistinlilerin arazi kullanımı ve hareket özgürlüğü üzerindeki kısıtlamalar nedeniyle sıkça tartışmalara yol açmaktadır. Planın hayata geçirilmesi durumunda, bölgedeki Filistinlilerin günlük yaşamları ve erişimleri olumsuz etkilenebilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12571445/pexels-photo-12571445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:26:51.402Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17919772658750wlmq",
+        "title": "İsrail'in Gazze Şehri'ne düzenlediği hava saldırısında Filistinli bir kadın hayatını kaybetti",
+        "summary": "Gazze Şehri'nde İsrail güçleri tarafından gerçekleştirilen bir hava saldırısında Filistinli bir kadın yaşamını yitirdi. Saldırı, kadının yaşadığı apartmanda büyük bir yangına yol açtı. Yangın çıkan daireden kadının küçük kızı kurtarılarak güvenli bölgeye alındı. Olayın ardından bölgede tansiyonun yükseldiği ve güvenlik durumunun yakından takip edildiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16616972/pexels-photo-16616972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:27:45.875Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1791977286667ln7m8",
+        "title": "Suudi Koalisyonu Yemen'de Yakıt Deposunu Vurduktan Sonra Riyad Yakınlarında Füzeler Engellendi",
+        "summary": "Yemen'de savaşan Suudi liderliğindeki koalisyon, Husi kontrolündeki başkent Sanaa yakınlarındaki bir yakıt deposunu hedef aldı. Bu saldırının ardından, Suudi Arabistan'ın başkenti Riyad yakınlarında füzelerin engellendiği bildirildi. Olay, Yemen'deki çatışmanın Suudi Arabistan topraklarına yansımasını bir kez daha gözler önüne serdi. Bölgedeki gerilimin devam ettiği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8079185/pexels-photo-8079185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:28:06.667Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6031,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791977308652u7pn8",
+        "title": "Suudi Arabistan, Sri Lanka'dan Bir Kişinin Facebook Yorumu Nedeniyle Verilen İdam Cezasının Bozulduğunu Duyurdu",
+        "summary": "Suudi Arabistan, Sri Lanka vatandaşı Anojan Sivarasa'ya Facebook'ta yaptığı bir yorum nedeniyle verilen idam cezasını bozduğunu duyurdu. Sri Lanka makamları tarafından yapılan açıklamaya göre, Sivarasa'nın davası Sri Lanka'da geniş yankı uyandırmış ve diplomatik çabaların yoğunlaşmasına neden olmuştu. Sri Lanka hükümeti, Sivarasa için af talebinde bulunarak uluslararası kamuoyunun dikkatini çekmişti. Suudi Arabistan'ın aldığı bu karar, davanın seyrinde önemli bir dönüm noktası olarak değerlendiriliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6065088/pexels-photo-6065088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:28:28.652Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1791977331785aamx9",
+        "title": "Suudi Çalışan, OpenAI Ofisine Kayıt Cihazı Yerleştirmekle Suçlandı",
+        "summary": "ABD'de savcılar, bir Suudi çalışanı yapay zeka şirketi OpenAI'ın ofisinde kayıt cihazı yerleştirmekle suçladı. İddianameye göre, söz konusu cihaz bir yönetici toplantı odasındaki televizyonun arkasındaki USB portuna takılı halde bulundu. Tuvalet kağıdına sarılı olduğu belirtilen cihazın tespiti üzerine soruşturma başlatıldı. Olay, teknoloji dünyasında ve uluslararası ilişkilerde potansiyel casusluk iddialarını gündeme getirebilirken, Suudi Arabistan vatandaşı bir kişinin adının geçmesi dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15421708/pexels-photo-15421708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:28:51.785Z",
+        "location": {
+            "lat": 37.7749,
+            "lng": -122.4194,
+            "name": "San Francisco, ABD"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1791977354236vjf6v",
+        "title": "İran Dışişleri Bakan Yardımcısı Beyrut'a Ulaştı",
+        "summary": "İran Dışişleri Bakan Yardımcısı, resmi bir ziyaret kapsamında Lübnan'ın başkenti Beyrut'a geldi. İranlı heyet, Beyrut Refik Hariri Uluslararası Havalimanı'nda Lübnan'ın önde gelen siyasi hareketlerinden Emel Hareketi ve Hizbullah temsilcileri tarafından karşılandı. Bu ziyaretin, İran ile Lübnan arasındaki ikili ilişkilerin ve bölgesel gelişmelerin ele alınacağı görüşmelere zemin oluşturması bekleniyor. Diplomatik temasların, iki ülke arasındaki işbirliğini ve bölgesel dinamikleri güçlendirme amacı taşıdığı belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8112158/pexels-photo-8112158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:29:14.236Z",
+        "location": {
+            "lat": 33.89,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iranian-deputy-foreign-minister-arrives-in-beirut/4088426",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17919773750207h5rd",
+        "title": "Irak Başbakanı İlk Resmi Ziyareti İçin Suudi Arabistan'a Ulaştı",
+        "summary": "Irak Başbakanı Ali el-Zaidi, göreve gelmesinin ardından ilk resmi ziyaretini gerçekleştirmek üzere Suudi Arabistan'a geldi. Mayıs ayında başbakanlık koltuğuna oturan Zaidi'nin bu ziyareti, iki ülke arasındaki ilişkilerin güçlendirilmesi açısından önem taşıyor. Görüşmelerde bölgesel konular, ekonomik işbirliği ve siyasi istikrarın ele alınması bekleniyor. Bu ziyaretin, Bağdat ile Riyad arasındaki diplomatik bağları daha da pekiştirmesi hedefleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:29:35.020Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6876,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraqi-premier-arrives-in-saudi-arabia-on-1st-official-visit/4088345",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791977398492u2hyg",
+        "title": "İsrail'deki seçim çıkmazına birlik hükümeti çözüm olabilir mi?",
+        "summary": "İsrail'de yaşanan seçim çıkmazının ardından, ülkenin siyasi geleceği için bir birlik hükümeti kurulması ihtimali tartışılıyor. Ancak muhalefet lideri Avigdor Liberman, Başbakan Binyamin Netanyahu ile kurulacak bir birlik hükümetinin 'utanç verici ve felç olmuş bir yönetim' olacağını belirtti. Liberman, bu tür bir hükümetin ülkenin sorunlarına çözüm getiremeyeceğini ve siyasi istikrarsızlığı derinleştireceğini ifade etti. Bu açıklamalar, İsrail'de yeni bir hükümet kurma çabalarının önündeki zorlukları bir kez daha gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/38668890/pexels-photo-38668890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:29:58.492Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/could-unity-government-offer-way-out-of-israel-s-electoral-deadlock/4088325",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1791977420410g0rwf",
+        "title": "Güney İran açıklarında balıkçı teknesine kimliği belirsiz insansız hava aracı saldırısı: 3 yaralı",
+        "summary": "İran'ın güney açıklarında bir balıkçı teknesine kimliği belirsiz bir insansız hava aracı (İHA) ile saldırı düzenlendi. Saldırıda üç kişinin yaralandığı bildirildi. Hormozgan yetkilileri, olayın ardından yaptıkları açıklamada, saldırıyı gerçekleştiren İHA'nın kaynağının henüz belirlenemediğini belirtti. Olayla ilgili soruşturma başlatıldığı ve bölgedeki güvenlik durumunun yakından takip edildiği öğrenildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:30:20.410Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hormozgan, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/3-injured-in-unidentified-drone-attack-on-fishing-boat-off-southern-iran/4088309",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "179197744624849jf2",
+        "title": "İsrail Seçimleri: Netanyahu Muhalefeti Savaşları ve İşgali Reddetmiyor",
+        "summary": "İsrail'de yaklaşan seçimlere dair yapılan bir röportajda, İsrailli-Amerikalı yazar Miko Peled, Başbakan Binyamin Netanyahu'ya yönelik muhalefetin, İsrail'in yürüttüğü savaşları veya işgal politikalarını reddetmek anlamına gelmediğini belirtti. Peled, seçim gündemindeki muafiyetler, soruşturmalar ve toplumsal bölünmeler gibi konuların öne çıktığını ifade etti. Bu durum, İsrail iç siyasetindeki dinamiklerin ve kamuoyunun temel dış politika meselelerine bakış açısının karmaşıklığını gözler önüne seriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5926351/pexels-photo-5926351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T11:30:46.248Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/interview-exemptions-inquiry-divisions-what-matters-in-israel-s-election/4088302",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791957343909p848x",
         "title": "OpenAI'da Suudi Arabistan doğumlu mühendis dinleme cihazı yerleştirmekten tutuklandı",
         "summary": "Yapay zeka devi OpenAI, ofislerinden birinde gizli bir kayıt cihazı keşfettiğini açıkladı. Şirket tarafından yapılan açıklamada, cihazın bir televizyonun arkasına tuvalet kağıdına sarılı halde bulunduğu belirtildi. Olayla ilgili olarak, şirkette görevli Suudi Arabistan doğumlu bir mühendisin tutuklandığı bildirildi. Bu gelişme, şirketin iç güvenlik protokolleri ve hassas veri koruma önlemleri hakkında soruları gündeme getirdi. Yetkililer, olayın tüm yönlerini aydınlatmak üzere soruşturmayı sürdürüyor.",
@@ -620,182 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-says-reviewing-us-proposals-for-talks-as-indirect-messages-continue/4085816",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791795196864jx58o",
-        "title": "İşgal Altındaki Batı Şeria'da Filistinlilerin İsrailli İşgalciler Tarafından Kaçırılması Artıyor: Yetkililer",
-        "summary": "İşgal altındaki Batı Şeria'da Filistinlilerin İsrailli güçler tarafından kaçırılması olaylarında artış yaşandığı bildirildi. Yerel medyadan edinilen bilgilere göre, son olarak Cumartesi günü yedi Filistinli İsrailli işgalciler tarafından kaçırıldı. Bu olay, bölgede devam eden gerilimi ve İsrail güçlerinin Filistinlilere yönelik operasyonlarını bir kez daha gündeme getirdi. Yetkililer, bu tür eylemlerin bölgedeki durumu daha da kötüleştirdiğini ve uluslararası hukuka aykırı olduğunu belirtiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32755998/pexels-photo-32755998.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T08:53:16.864Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/world/abduction-of-palestinians-by-israeli-occupiers-on-rise-in-occupied-west-bank-officials/4085803",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791795217728sbrl4",
-        "title": "İsrail'e ait önleyici füze güney Lübnan üzerinde patladı",
-        "summary": "İsrail ordusu, güney Lübnan'daki güçlerinin yakınında tespit edilen 'şüpheli bir hava hedefine' doğru bir önleyici füze fırlatıldığını bildirdi. Medya kaynakları, fırlatılan bu füzenin güney Lübnan hava sahasında patladığını duyurdu. Olay, bölgedeki güvenlik gerilimini ve İsrail-Lübnan sınırındaki hassasiyeti bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31334744/pexels-photo-31334744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T08:53:37.728Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 35.5,
-            "name": "Güney Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-interceptor-missile-explodes-over-southern-lebanon-media/4085762",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791768943454cz4kp",
-        "title": "İran Dışişleri Bakanı Suudi Arabistanlı mevkidaşıyla görüşmesinde diplomasi çağrısı yaptı",
-        "summary": "İran Dışişleri Bakanı, Suudi Arabistanlı mevkidaşıyla yaptığı telefon görüşmesinde diplomasiye vurgu yaparak bölgesel sorunların diyalog yoluyla çözülmesi gerektiğini belirtti. Tahran, Suudi Arabistan'a yönelik ölümcül saldırıların ardından, Suudi Arabistan ile Yemen'deki Husiler arasında görüşmeleri kolaylaştırma teklifinde bulundu. Bu teklif, Yemen'deki çatışmanın sona erdirilmesi ve bölgedeki istikrarın sağlanması adına önemli bir adım olarak görülüyor. İran'ın bu diplomatik girişimi, Orta Doğu'daki gerilimi azaltma ve taraflar arasında güven inşa etme çabalarının bir parçası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8828344/pexels-photo-8828344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T01:35:43.454Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791768996876jt0q0",
-        "title": "İran-ABD Gerilimi Sürerken Riyad Havalimanı Yeniden Hedef Alındı",
-        "summary": "Orta Doğu'da devam eden gerilimde, Suudi Arabistan'ın başkenti Riyad'daki havalimanının bir kez daha saldırıya uğradığı bildirildi. Bu gelişme, İran'ın ABD'nin sunduğu bazı barış şartlarını kabul ettiğini ancak verilen yanıtı 'yetersiz' olarak nitelendirmesinin ardından yaşandı. Tahran yönetimi, ABD'nin barışa yönelik adımlarını yetersiz bulduğunu belirtirken, bölgedeki güvenlik durumu ve diplomatik çabalar yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10717015/pexels-photo-10717015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T01:36:36.876Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6062,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17917690677712vnkx",
-        "title": "İsrail'in Güney Gazze Saldırısında Ateşkese Rağmen 3 Filistinli Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde yaşanan olaylarda, İsrail'in güney Gazze'ye düzenlediği bir saldırıda ateşkesin ihlal edildiği ve üç Filistinlinin yaşamını yitirdiği bildirildi. Ayrıca, kuzey Gazze'de İsrail ateşi sonucu yaralanan bir çocuğun hayatını kaybettiği belirtildi. Bu gelişmeler yaşanırken, İsrail güçlerinin Gazze Şeridi'nin doğusundaki Gazze Şehri'nde mevzilerini genişlettiği kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38317990/pexels-photo-38317990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T01:37:47.771Z",
-        "location": {
-            "lat": 31.35,
-            "lng": 34.3,
-            "name": "Gazze Şeridi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-strike-kills-3-palestinians-in-southern-gaza-despite-ceasefire/4085496",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1791757144605i7nla",
-        "title": "Birleşik Krallık Yeşiller Partisi Lideri, Partinin Siyonizmi Irkçılık İlan Etmesi Sonrası Kural Değişikliği İstiyor",
-        "summary": "Birleşik Krallık Yeşiller Partisi'nin eş lideri Zack Polanski, partisinin Siyonizmi ırkçılık olarak tanımlayan bir karar almasının ardından parti içi kural reformları çağrısında bulundu. Polanski, bu tür kararların alınmasında parti liderlerine daha fazla kontrol yetkisi verilmesini talep ediyor. Partinin bu kararı, Birleşik Krallık'taki siyasi çevrelerde ve Orta Doğu politikaları üzerine yürütülen tartışmalarda geniş yankı uyandırdı. Bu gelişme, partinin iç işleyişi ve uluslararası meselelere yönelik duruşu hakkında önemli tartışmaları beraberinde getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/17558879/pexels-photo-17558879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T22:19:04.605Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1791742835660wcrvv",
-        "title": "Yemen Savaşı Yeni Bir Aşamaya mı Giriyor?",
-        "summary": "Suudi Arabistan, Yemen'deki Husileri, Cumartesi günü Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıdan sorumlu tuttu. Saldırıda 12 kişinin hayatını kaybettiği ve 300 kişinin yaralandığı bildirildi. Riyad yönetimi, bu saldırının Yemen'deki çatışmanın seyrini değiştirebilecek ciddi bir tırmanış olduğunu belirtti. Bu olay, bölgedeki gerilimi artırırken, Yemen Savaşı'nın yeni bir evreye girip girmediği sorularını gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:20:35.660Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6061,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1791742856711tio4g",
-        "title": "İsrail 'Sarı Hattını' Gazze'ye Daha Derine İlerletiyor",
-        "summary": "İsrail'in Gazze Şeridi'ndeki 'Sarı Hat' olarak bilinen güvenlik bölgesini daha da içeriye doğru genişlettiği bildirildi. Bu hat, İsrail'in Gazze sınırında belirlediği ve genellikle askeri operasyonlar veya güvenlik amaçlı kullanılan bir bölgeyi ifade etmektedir. Genişletme kararı, bölgedeki gerilimi artırma potansiyeli taşımaktadır. Uluslararası gözlemciler, bu tür adımların çatışmanın dinamiklerini etkileyebileceği konusunda uyarıyor. Gelişmenin, bölgedeki insani durumu ve siyasi dengeyi nasıl etkileyeceği yakından izlenmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39911819/pexels-photo-39911819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:20:56.711Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1791742878688wn3w1",
-        "title": "'Bizi kim temsil edecek?' Filistinliler seçim ertelemesine tepki gösterdi",
-        "summary": "Filistin Devlet Başkanı Mahmud Abbas'ın Filistin yasama seçimlerini erteleme kararı, Filistinliler arasında çeşitli tepkilere yol açtı. Kararın ardından Filistin halkı, temsil edilme ve siyasi gelecekleri konusunda endişelerini dile getirdi. Seçimlerin ertelenmesi, Filistin siyasetinde önemli bir gelişme olarak değerlendiriliyor. Bu durum, Filistin Yönetimi'nin meşruiyeti ve demokratik süreçlerin işleyişi hakkında tartışmaları beraberinde getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8849340/pexels-photo-8849340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:21:18.688Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17917429005765dd1t",
-        "title": "Suudi Arabistan Başkenti Havalimanı İki Günde İkinci Husi Saldırısına Uğradı",
-        "summary": "Yemen'deki Husi grubu, Suudi Arabistan'ın başkenti Riyad'da hafta sonu 13 kişinin ölümüne neden olan saldırıları üstlendiğini duyurdu. Grup, saldırıların iki havalimanı ve petrol tesislerini hedef aldığını belirtti. Bu olay, Riyad'daki havalimanına iki gün içinde düzenlenen ikinci saldırı olarak kaydedildi. Husiler, Suudi Arabistan'a yönelik bu tür eylemlerini sürdüreceklerini ifade ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5095300/pexels-photo-5095300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:21:40.576Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1791742923486qu0tg",
-        "title": "Havalimanı Saldırıları, Gergin Çatışmada Yeni Bir Tehlikeli An",
-        "summary": "Yemen'deki Husiler tarafından Suudi Arabistan'a yönelik gerçekleştirilen havalimanı saldırıları, bölgedeki zaten gergin olan çatışmaya yeni bir tehlikeli boyut katmıştır. Saldırılar sonucunda oluşan fiziksel hasarın kısa sürede onarılabileceği belirtilmektedir. Ancak bu eylemlerin, Suudi Arabistan'ın bölgesel istikrar ve güvenlik sağlama konusundaki itibarına ciddi bir darbe vurduğu değerlendirilmektedir. Olay, Orta Doğu'daki güvenlik dinamiklerini daha da karmaşık hale getirirken, Suudi Arabistan'ın savunma kapasitesi üzerindeki tartışmaları da yeniden alevlendirmiştir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30756546/pexels-photo-30756546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:22:03.486Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
