@@ -1,5 +1,21 @@
 [
     {
+        "id": "1791957343909p848x",
+        "title": "OpenAI'da Suudi Arabistan doğumlu mühendis dinleme cihazı yerleştirmekten tutuklandı",
+        "summary": "Yapay zeka devi OpenAI, ofislerinden birinde gizli bir kayıt cihazı keşfettiğini açıkladı. Şirket tarafından yapılan açıklamada, cihazın bir televizyonun arkasına tuvalet kağıdına sarılı halde bulunduğu belirtildi. Olayla ilgili olarak, şirkette görevli Suudi Arabistan doğumlu bir mühendisin tutuklandığı bildirildi. Bu gelişme, şirketin iç güvenlik protokolleri ve hassas veri koruma önlemleri hakkında soruları gündeme getirdi. Yetkililer, olayın tüm yönlerini aydınlatmak üzere soruşturmayı sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/32558451/pexels-photo-32558451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-14T05:55:43.909Z",
+        "location": {
+            "lat": 37.7749,
+            "lng": -122.4194,
+            "name": "San Francisco, ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1791937831761uf9ob",
         "title": "Suudi Koalisyonu Yemen'de Husi Hedeflerini Vurdu, Dhahran'da Saudi Aramco Binası Hedef Alındı",
         "summary": "Suudi Arabistan liderliğindeki koalisyon, Yemen'deki Husilere ait \"hayati varlıklara\" karşı hava saldırıları düzenledi. Bu saldırıların ardından, Suudi Arabistan'ın doğusundaki Dhahran kentinde bulunan Saudi Aramco'ya ait bir binanın vurulduğu bildirildi. Olay, Yemen'deki çatışmaların Suudi Arabistan topraklarına sıçradığını gösteriyor ve bölgesel gerilimi artırıyor. Bu gelişme, Orta Doğu'daki güvenlik durumunu yakından ilgilendiriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1791742946688v5cs3",
-        "title": "Riyad Havalimanı Saldırısında Ölü Sayısı 13'e Yükseldi, Hint Vatandaşı Hayatını Kaybetti",
-        "summary": "Riyad Havalimanı'na düzenlenen saldırıda hayatını kaybedenlerin sayısı 13'e yükseldi. Saldırıda yaralanan bir Hint vatandaşı, tedavi gördüğü hastanede yaşam mücadelesini kaybederek ölü sayısını artırdı. Hindistan Büyükelçiliği, yaşamını yitiren vatandaşının ailesine başsağlığı dilediğini açıkladı. Büyükelçilik ayrıca, cenazenin ülkesine nakli konusunda gerekli tüm yardımı sağlayacağını belirtti. Olay, uluslararası toplumda endişeyle karşılanırken, saldırının sorumluları hakkında soruşturma devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/32354895/pexels-photo-32354895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-11T18:22:26.688Z",
-        "location": {
-            "lat": 24.71,
-            "lng": 46.68,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/death-toll-from-riyadh-airport-attack-rises-to-13-as-indian-national-succumbs-to-injuries/4085387",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
