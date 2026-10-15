@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792086028931fbo9h",
+        "title": "Göçmen Gözaltı Merkezlerinde Artan Ölüm Oranları Mercek Altında",
+        "summary": "Fault Lines adlı araştırma programı, eski ABD Başkanı Donald Trump döneminde uygulanan sert göçmenlik politikalarının ardından göçmen gözaltı merkezlerindeki ölüm oranlarında yaşanan endişe verici artışı mercek altına aldı. Program, bu merkezlerdeki koşulların ve politikaların insan hakları üzerindeki etkilerini inceledi. Raporda, gözaltında tutulan göçmenlerin yaşam koşulları ve sağlık hizmetlerine erişimlerindeki sorunlar vurgulandı. Bu durum, özellikle Orta Doğu kökenli göçmenler de dahil olmak üzere, ABD'ye sığınmak isteyen bireylerin karşılaştığı zorlukları gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/1464208/pexels-photo-1464208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-15T17:40:28.931Z",
+        "location": {
+            "lat": 39,
+            "lng": -97,
+            "name": "Amerika Birleşik Devletleri"
+        },
+        "source": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792068409062qhb44",
         "title": "Ukraynalılar, Rus Saldırıları Yoğunlaşırken ABD İstihbarat Kesintilerinden Endişe Ediyor",
         "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarının yoğunlaşmasıyla birlikte, Ukraynalılar ABD istihbarat desteğinde yaşanabilecek kesintilerden derin endişe duyuyor. Azalan füze uyarıları, sivil halk üzerindeki tehdidi artırarak can güvenliğini riske atıyor. Bu gelişmeler yaşanırken, eski ABD Başkanı Donald Trump'ın \"enerji ateşkesi\" ve barış müzakereleri çağrısı uluslararası gündemde yer buluyor. Trump'ın bu önerisi, Ukrayna'daki çatışmaların sona erdirilmesi için enerji kaynaklarının bir kaldıraç olarak kullanılması fikrini ortaya koyuyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17918793182214567n",
-        "title": "İsrail ordusu 30 Filistinliyi gözaltına aldı, işgalciler Batı Şeria'da bir aileye saldırdı",
-        "summary": "İşgal altındaki Batı Şeria'da gerilim devam ediyor. İsrail ordusu, bölgede düzenlediği operasyonlarda 30 Filistinliyi gözaltına aldı. Talfit köyünde ise İsrail üniforması giyen işgalcilerin bir Filistinli aileye saldırdığı bildirildi. Saldırı sonucunda aile üyelerinden bazılarının yaralandığı belirtildi. Olaylar, bölgedeki güvenlik durumunu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-13T08:15:18.221Z",
-        "location": {
-            "lat": 32.06,
-            "lng": 35.25,
-            "name": "Talfit, Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-30-palestinians-as-occupiers-assault-family-in-occupied-west-bank/4086913",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
