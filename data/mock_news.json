@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792028557876sw4ew",
+        "title": "ABD, Umman Körfezi'nde İran Bağlantılı Tekneyi İmha Ettiğini Duyurdu",
+        "summary": "Amerika Birleşik Devletleri, Umman Körfezi'nde İran ile bağlantılı olduğu iddia edilen bir tekneyi imha ettiğini açıkladı. ABD'li yetkililer, söz konusu teknenin gözetleme faaliyetleri yürüttüğünü öne sürdü. Bu olay, stratejik öneme sahip Umman Körfezi'nde yaşandı ve bölgedeki deniz güvenliği endişelerini bir kez daha gündeme getirdi. Washington ile Tahran arasındaki mevcut gerilimin bir yansıması olarak değerlendirilen bu gelişme, bölgedeki askeri faaliyetlerin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38560781/pexels-photo-38560781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-15T01:42:37.876Z",
+        "location": {
+            "lat": 25,
+            "lng": 58,
+            "name": "Umman Körfezi, Orta Doğu"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1792008169941yodaa",
         "title": "Sally Rooney'nin Kitapları Filistin Eylemi Desteği Nedeniyle Birleşik Krallık'tan Çekildi",
         "summary": "Ödüllü yazar Sally Rooney'nin kitapları, Filistin yanlısı aktivist grup 'Palestine Action'a verdiği destek nedeniyle Birleşik Krallık'taki bazı satış noktalarından çekilme kararıyla karşı karşıya kaldı. Bu durum, yazarın siyasi duruşunun edebi eserlerinin ticari dolaşımını etkilemesi açısından kamuoyunda tartışmalara yol açtı. Olay, sanatçıların siyasi aktivizminin kültürel ve ticari alanlardaki yansımalarını bir kez daha gündeme getirdi. Karar, ifade özgürlüğü ve ticari baskı arasındaki dengeyi sorgulatan bir gelişme olarak değerlendiriliyor.",
@@ -780,22 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791795040069hqaje",
-        "title": "Netanyahu'nun Ayrılması Filistinliler İçin Ne Anlama Geliyor?",
-        "summary": "İsrail'de Başbakan Binyamin Netanyahu'nun görevden ayrılması olasılığı, Filistinlilerin geleceği üzerindeki etkileri açısından tartışılıyor. Analistler, muhalefetin seçimleri kazanması durumunda dahi Filistin politikalarında köklü bir değişim beklenmediğini belirtiyor. Gazze ve Batı Şeria'daki durumun, yeni bir hükümetle bile sadece yüzeysel değişiklikler gösterebileceği ifade ediliyor. Uzmanlar, Filistinlilerin yaşam koşulları ve siyasi statüsü konusunda temel bir dönüşümün yakın vadede olası görünmediği görüşünde.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34454424/pexels-photo-34454424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-12T08:50:40.069Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail/Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
