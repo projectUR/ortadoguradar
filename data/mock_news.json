@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792107968678zgkkf",
+        "title": "İsrail, Gazze'ye ticari mal girişini durdurdu; Hamas vergi iddialarını reddetti",
+        "summary": "İsrail, Gazze Şeridi'ne ticari mal sevkiyatını durdurma kararı aldı. Bu karar, meyve ve kışlık giysiler de dahil olmak üzere temel ihtiyaç maddelerinin Gazze'ye ulaşımını engelliyor. Ticari sevkiyatların durdurulması, bölge için kritik tedarik kaynaklarından birinin kesilmesi anlamına geliyor. Hamas ise İsrail'in bu kararına gerekçe gösterdiği vergi iddialarını reddetti. Bu durumun Gazze'deki insani durumu daha da kötüleştirebileceği belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28872506/pexels-photo-28872506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-15T23:46:08.678Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1792098263518d9og7",
         "title": "Karadeniz'de Gemilere Yönelik Saldırılarda 7 Mürettebat Kayıp",
         "summary": "Karadeniz'de iki kimyasal tankere düzenlenen insansız hava aracı saldırılarının ardından en az yedi mürettebatın kayıp olduğu açıklandı. Acil durum ekipleri, saldırıya uğrayan gemilerdeki kayıp mürettebatı bulmak amacıyla geniş çaplı arama kurtarma operasyonları yürütüyor. Bu olay, Karadeniz'deki denizcilik güvenliği ve ticari gemi trafiği üzerindeki potansiyel etkileri nedeniyle endişelere yol açtı. Bölgedeki artan gerilim, uluslararası denizcilik rotaları ve enerji taşımacılığı açısından kritik öneme sahip bu sularda yeni güvenlik risklerini gündeme getirmektedir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791879210864petw7",
-        "title": "Katar Emiri: Ülkemiz 'olağanüstü olaylar' karşısında direnç gösterdi",
-        "summary": "Katar Emiri Şeyh Tamim bin Hamad Al Thani, ülkesinin karşılaştığı 'olağanüstü olaylar' karşısında gösterdiği direnci vurguladı. Emir, Katar'ın bu olaylara verdiği yanıtın devlet kurumlarının gücünü ortaya koyduğunu ifade etti. Bu açıklamalar, Katar'ın bölgesel ve küresel zorluklara karşı iç yapısının sağlamlığını ve adaptasyon yeteneğini işaret ediyor. Şeyh Tamim'in sözleri, ülkenin gelecekteki potansiyel krizlere karşı hazırlıklı olduğu mesajını taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14267043/pexels-photo-14267043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-13T08:13:30.864Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/13/qatari-emir-says-country-has-faced-exceptional-circumstances?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
