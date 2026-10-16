@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792192760679s90o5",
+        "title": "Yemen hükümeti, Husilerin Aden Havalimanı'na iki füze fırlattığını açıkladı",
+        "summary": "Yemen hükümeti, Husilerin Aden Havalimanı'na iki füze fırlattığını duyurdu. Bu saldırı, Yemen hükümet güçlerinin Marib'de ilerleme kaydettiği ve son 24 saat içinde 430 Husi savaşçısını etkisiz hale getirdiğini iddia ettiği bir döneme denk geldi. Olay, Yemen'deki devam eden çatışmaların ve askeri operasyonların şiddetini bir kez daha gözler önüne serdi. Hükümet güçleri ve Husiler arasındaki gerilim bölgede tırmanmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975873/pexels-photo-28975873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-16T23:19:20.679Z",
+        "location": {
+            "lat": 12.8,
+            "lng": 45.03,
+            "name": "Aden, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1792183285092zxgdy",
         "title": "ABD, Etiyopya-Eritre Geriliminde Diyalog Çağrısı Yaptı",
         "summary": "Doğu Afrika'da bölgesel gerilimin tırmanması üzerine, Amerika Birleşik Devletleri Etiyopya ve Eritre arasındaki uzun süreli anlaşmazlıkların çözümü için diyalog çağrısında bulundu. İki ülke arasındaki farklılıkların diplomasi yoluyla giderilip giderilemeyeceği sorusu gündemdeki yerini koruyor. Washington yönetimi, bölgedeki istikrarın sağlanması adına tarafları müzakere masasına davet etti. Bu çağrı, bölgedeki tansiyonun düşürülmesi ve kalıcı bir barışın tesis edilmesi yönündeki uluslararası çabaların bir parçası olarak değerlendiriliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1791993372210am6sp",
-        "title": "Papa Leo Kanser Ameliyatı Sonrası İyi İyileşiyor, Vatikan Açıkladı",
-        "summary": "Vatikan'dan yapılan açıklamaya göre, 71 yaşındaki Papa Leo, akciğerindeki kanserli bir büyümenin alınması için geçirdiği ameliyatın ardından Roma'daki Gemelli Hastanesi'nde iyileşme sürecini sürdürüyor. Operasyonun başarılı geçtiği ve Papa'nın sağlık durumunun olumlu seyrettiği belirtildi. Katolik Kilisesi liderinin sağlığı, dünya genelindeki milyonlarca inanan ve diplomatik çevreler tarafından yakından takip ediliyor. Papa'nın iyileşme sürecinin planlandığı gibi devam ettiği ve yakın zamanda görevine dönmesinin beklendiği ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/10528693/pexels-photo-10528693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-14T15:56:12.210Z",
-        "location": {
-            "lat": 41.902782,
-            "lng": 12.496366,
-            "name": "Roma, İtalya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
