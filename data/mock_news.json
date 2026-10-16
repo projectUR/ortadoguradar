@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792183285092zxgdy",
+        "title": "ABD, Etiyopya-Eritre Geriliminde Diyalog Çağrısı Yaptı",
+        "summary": "Doğu Afrika'da bölgesel gerilimin tırmanması üzerine, Amerika Birleşik Devletleri Etiyopya ve Eritre arasındaki uzun süreli anlaşmazlıkların çözümü için diyalog çağrısında bulundu. İki ülke arasındaki farklılıkların diplomasi yoluyla giderilip giderilemeyeceği sorusu gündemdeki yerini koruyor. Washington yönetimi, bölgedeki istikrarın sağlanması adına tarafları müzakere masasına davet etti. Bu çağrı, bölgedeki tansiyonun düşürülmesi ve kalıcı bir barışın tesis edilmesi yönündeki uluslararası çabaların bir parçası olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/26560462/pexels-photo-26560462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-16T20:41:25.092Z",
+        "location": {
+            "lat": 9.03,
+            "lng": 38.74,
+            "name": "Addis Ababa, Etiyopya"
+        },
+        "source": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1792173097012256op",
         "title": "Papa Leo, kanser ameliyatı sonrası ilk kez Pazar günü halkın karşısına çıkacak",
         "summary": "Katolik Kilisesi lideri Papa Leo, geçirdiği kanser ameliyatının ardından Pazar günü halkın karşısına çıkacak. Doktorlar, Papa'nın bu hafta geçirdiği operasyon sonrası 'tam bağımsızlıkla normal faaliyetlerini sürdürebileceğini' açıkladı. Bu gelişme, Papa'nın sağlık durumunun iyiye gittiğini ve görevlerine devam edebileceğini gösteriyor. Papa'nın sağlığı, dünya genelindeki Katolik cemaatleri ve Vatikan'ın uluslararası ilişkileri açısından büyük önem taşımaktadır.",
@@ -780,22 +796,6 @@
             "name": "Roma, İtalya"
         },
         "source": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1791993467922auwle",
-        "title": "ABD Ordusu, İran'ın Denizcilere Yönelik Psikolojik Baskı İddialarını Reddetti",
-        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın ABD güçlerinin sivil mürettebat üzerinde 'ciddi stres ve psikolojik baskı' uyguladığı yönündeki iddialarını yalanladı. İran büyükelçisinin bu yöndeki açıklamalarını 'asılsız' olarak nitelendiren CENTCOM, iddiaların gerçeği yansıtmadığını belirtti. Bu durum, ABD ve İran arasındaki askeri ve diplomatik gerilimin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8387647/pexels-photo-8387647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-14T15:57:47.922Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 51.5,
-            "name": "Basra Körfezi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/us-military-rejects-iranian-claim-of-psychological-pressure-on-sailors/4088815",
         "trendScore": 85,
         "isBreaking": false
     }
