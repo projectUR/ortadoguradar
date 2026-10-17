@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792258049043fk2ji",
+        "title": "Latin Amerika Ülkelerinden İsrail ile İlişkilerde Yakınlaşma Adımları",
+        "summary": "Latin Amerika'daki yeni liderler, Gazze'deki operasyonları sonrası İsrail'e yönelik izolasyon tedbirlerini tersine çevirerek İsrail ile daha yakın ilişkiler kurma eğilimine girdi. Bu değişim, daha önce İsrail'i izole etmeyi amaçlayan politikaların gözden geçirilmesiyle karakterize ediliyor. Gelişmeler, Latin Amerika'nın Orta Doğu politikalarında önemli bir dönüşümü işaret ederken, İsrail'in uluslararası alandaki diplomatik konumunu güçlendirme potansiyeli taşıyor. Bu durum, bölgedeki diplomatik dengelerde yeni bir sayfa açabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4386345/pexels-photo-4386345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-17T17:27:29.043Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792246782352xubbf",
         "title": "Mısır Devlet Başkanı Sisi'den Suudi Arabistan'a Savunma Yardımı İçin Yetki Talebi",
         "summary": "Mısır Devlet Başkanı Abdulfettah es-Sisi, Suudi Arabistan'a savunma alanında destek sağlamak üzere yetki arayışında olduğunu bildirdi. Sisi, Suudi Arabistan'ın savunmasına yardımcı olmak için 'her türlü önlemi' almaya hazır olduklarını ifade etti. Bu yardımın, Suudi Arabistan tarafından talep edilmesi halinde devreye gireceği belirtildi. Açıklama, iki Orta Doğu ülkesi arasındaki güvenlik iş birliğinin derinleştiğini gösteriyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1792068478017dg06b",
-        "title": "Yemen'de Çatışmalar Yoğunlaşıyor",
-        "summary": "Yemen'deki savaşta çatışmaların şiddeti artıyor. Husiler, Suudi Arabistan için savaşın maliyetini yükseltmek amacıyla saldırılarını yoğunlaştırıyor. Cephe hattında yaşanan bu gelişmeler, bölgedeki gerilimi tırmandırıyor ve insani durumu daha da kötüleştirme potansiyeli taşıyor. Taraflar arasındaki mücadelenin yeni bir evreye girdiği belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8079185/pexels-photo-8079185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-15T12:47:58.017Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
