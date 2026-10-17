@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792266017486uy4r7",
+        "title": "Kudüs'teki ABD Büyükelçiliği'nin Rolü ve Batı Şeria'daki Amerikalı Kayıpları",
+        "summary": "Kudüs'teki ABD Büyükelçiliği'nin konumu ve işlevi, işgal altındaki Batı Şeria'da 2022'den bu yana hayatını kaybeden dokuz Amerikalı vatandaşın ölümüyle birlikte yeniden gündeme geldi. Bu ölümler, büyükelçiliğin İsrail'deki Amerikan çıkarlarını ve vatandaşlarının güvenliğini ne ölçüde koruduğu sorularını beraberinde getirdi. Haber, bu trajik olaylara yol açan nedenleri araştırmayı ve ABD'nin bölgedeki diplomatik varlığının etkinliğini sorgulamayı amaçlıyor. Washington'ın bölgedeki politikaları ve vatandaşlarının güvenliğine yönelik sorumlulukları mercek altına alınıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-17T19:40:17.486Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792258049043fk2ji",
         "title": "Latin Amerika Ülkelerinden İsrail ile İlişkilerde Yakınlaşma Adımları",
         "summary": "Latin Amerika'daki yeni liderler, Gazze'deki operasyonları sonrası İsrail'e yönelik izolasyon tedbirlerini tersine çevirerek İsrail ile daha yakın ilişkiler kurma eğilimine girdi. Bu değişim, daha önce İsrail'i izole etmeyi amaçlayan politikaların gözden geçirilmesiyle karakterize ediliyor. Gelişmeler, Latin Amerika'nın Orta Doğu politikalarında önemli bir dönüşümü işaret ederken, İsrail'in uluslararası alandaki diplomatik konumunu güçlendirme potansiyeli taşıyor. Bu durum, bölgedeki diplomatik dengelerde yeni bir sayfa açabilir.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1792068456727ry6m0",
-        "title": "Suriye makamları, 2013 Baniyas katliamlarının ana şüphelisini tutukladı",
-        "summary": "Suriye makamları, 2013 yılında Baniyas'ta yaşanan toplu katliamların ana şüphelisi olarak bilinen Ali Kayali'yi gözaltına aldı. Devlet medyası tarafından aktarılan bilgilere göre, Mihrac Ural adıyla da tanınan Kayali, sınır geçişi yapmaya çalışırken yakalandı. Baniyas katliamları, Suriye iç savaşının ilk dönemlerinde yüzlerce sivilin hayatını kaybettiği olaylar olarak kayıtlara geçmişti. Bu tutuklama, söz konusu olayların faillerinin yargılanması sürecinde önemli bir adım olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7715107/pexels-photo-7715107.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-15T12:47:36.727Z",
-        "location": {
-            "lat": 35.18,
-            "lng": 35.94,
-            "name": "Baniyas, Suriye"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
