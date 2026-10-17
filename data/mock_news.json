@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792216856973kskcb",
+        "title": "Rusya'nın Ukrayna Saldırılarında En Az 8 Kişi Hayatını Kaybetti, 1 Milyon Kişi Elektriksiz Kaldı",
+        "summary": "Rusya'nın Ukrayna'ya yönelik saldırıları devam ediyor. Son saldırılarda en az 8 kişi hayatını kaybederken, 1 milyon kişinin elektriği kesildi. Moskova, Ukrayna'nın enerji altyapısını hedef alan kampanyasını sürdürüyor. Saldırılar özellikle Harkiv, Kramatorsk, Volın ve Rivne bölgelerinde yoğunlaştı. Bu saldırılar, Ukrayna'daki sivil yaşamı ve kritik hizmetleri olumsuz etkiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1214270/pexels-photo-1214270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-17T06:00:56.973Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kharkiv, Ukrayna"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792200408733v5eu7",
         "title": "Canlı: Trump, ABD Donanması'nın Hürmüz'de İran Gemilerini Durdurduğunu İddia Etti",
         "summary": "ABD Başkanı Donald Trump, ABD Donanması'nın Hürmüz Boğazı'nda tüm İran gemilerinin geçişini engellediğini iddia etti. Bu açıklama, bölgedeki ABD-İran geriliminin yeni bir boyut kazandığını gösteriyor. Dünya petrol ticaretinin önemli bir geçiş noktası olan Hürmüz Boğazı, stratejik bir öneme sahip. ABD'nin bu iddia edilen ablukası, İran'ın denizcilik faaliyetlerini kısıtlama ve bölgedeki nüfuzunu azaltma çabalarının bir parçası olarak yorumlanıyor. Gelişme, uluslararası kamuoyunda yakından takip ediliyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792008192616z6fi7",
-        "title": "Dünyanın Bilinen En Eski Gemi Enkazı Türkiye Kıyılarında Bulundu",
-        "summary": "Türkiye kıyılarında, yaklaşık 5.000 yıl öncesine dayanan dünyanın bilinen en eski gemi enkazı keşfedildi. Bu önemli arkeolojik buluntu, antik denizcilik tarihi ve teknolojisi hakkında yeni bilgiler sunuyor. Keşif, Akdeniz'deki erken dönem ticaret yolları ve medeniyetler arası etkileşimler konusunda önemli ipuçları barındırıyor. Uzmanlar, enkazın detaylı incelenmesinin bölgenin tarihine ışık tutacağını belirtiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/20253983/pexels-photo-20253983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-14T20:03:12.616Z",
-        "location": {
-            "lat": 36.89,
-            "lng": 30.7,
-            "name": "Türkiye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
