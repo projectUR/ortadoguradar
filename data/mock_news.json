@@ -1,5 +1,21 @@
 [
     {
+        "id": "17922745446801n04s",
+        "title": "Al Jazeera Muhabiri Fransa'daki Protestolarda Tacize Uğradı ve Saldırıya Maruz Kaldı",
+        "summary": "Fransa'nın Rennes kentinde devam eden protesto ve yağma olayları sırasında Al Jazeera muhabiri Rosie Birchard'ın tacize uğradığı ve saldırıya maruz kaldığı bildirildi. Muhabir Birchard'ın, yağmacıların dükkanları hedef aldığı sırada protestocular tarafından taciz edildiği ve başına darbe aldığı belirtildi. Olay, Fransa genelinde yaşanan toplumsal gerilimlerin ve şiddet olaylarının medya mensuplarını da etkilediğini gözler önüne serdi. Al Jazeera, muhabirlerine yönelik bu tür saldırıları kınadığını ve gazetecilerin güvenliğinin sağlanması çağrısında bulunduğunu açıkladı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/4908015/pexels-photo-4908015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-17T22:02:24.681Z",
+        "location": {
+            "lat": 48.117266,
+            "lng": -1.6777926,
+            "name": "Rennes, Fransa"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1792266017486uy4r7",
         "title": "Kudüs'teki ABD Büyükelçiliği'nin Rolü ve Batı Şeria'daki Amerikalı Kayıpları",
         "summary": "Kudüs'teki ABD Büyükelçiliği'nin konumu ve işlevi, işgal altındaki Batı Şeria'da 2022'den bu yana hayatını kaybeden dokuz Amerikalı vatandaşın ölümüyle birlikte yeniden gündeme geldi. Bu ölümler, büyükelçiliğin İsrail'deki Amerikan çıkarlarını ve vatandaşlarının güvenliğini ne ölçüde koruduğu sorularını beraberinde getirdi. Haber, bu trajik olaylara yol açan nedenleri araştırmayı ve ABD'nin bölgedeki diplomatik varlığının etkinliğini sorgulamayı amaçlıyor. Washington'ın bölgedeki politikaları ve vatandaşlarının güvenliğine yönelik sorumlulukları mercek altına alınıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792068434099r49b5",
-        "title": "ABD-İran Çıkmazı: Trump'ın Sonraki Askeri Seçenekleri Neler?",
-        "summary": "ABD ile İran arasındaki mevcut gerilim devam etmektedir. Eski Başkan Trump'ın ara seçimler öncesinde askeri saldırıları dışladığı belirtiliyor. Analistler, ABD'nin bir sonraki olası adımlarını ve bunların maliyetlerini değerlendiriyor. Bu durum, iki ülke arasındaki stratejik çıkmazın derinleştiğini gösteriyor ve bölgedeki güvenlik dinamiklerini etkileme potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14136859/pexels-photo-14136859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-15T12:47:14.099Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
