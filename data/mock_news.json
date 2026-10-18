@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792342068012llgon",
+        "title": "Trump, İsrail yasama seçimlerinde Netanyahu'ya destek verdi",
+        "summary": "Eski ABD Başkanı Donald Trump, İsrail'de 27 Ekim'de yapılacak yasama seçimleri öncesinde sosyal medya üzerinden bir açıklama yaptı. Trump, paylaşımında İsrail Başbakanı Binyamin Netanyahu'yu \"Güçlü, Cesur ve Zeki\" bir lider olarak nitelendirerek kendisine desteğini ifade etti. Bu açıklama, İsrail'deki seçim atmosferinde dikkat çeken bir gelişme olarak kaydedildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1550336/pexels-photo-1550336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-18T16:47:48.013Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792330146102r7dhh",
         "title": "FIFA, ABD Başkanı Trump'a verilen barış ödülünü iptal etmeyi mi düşünüyor?",
         "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) bünyesindeki bir komite, eski ABD Başkanı Donald Trump'a daha önce verilen barış ödülünün geleceğini değerlendirme kararı aldı. Bu karar, bazı komite üyelerinin söz konusu ödülün tamamen kaldırılması yönündeki taleplerinin ardından geldi. Ödülün verilme gerekçeleri ve devamlılığına ilişkin tartışmaların, FIFA'nın ödül politikalarını gözden geçirmesine yol açtığı belirtildi. Komitenin yapacağı değerlendirme sonucunda, FIFA'nın barış ödülü uygulamasının akıbeti netleşecek.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1792158616652k3dpa",
-        "title": "Hürmüz Boğazı Yakınlarında Gemi Saldırıları Rekor Seviyeye Ulaştı",
-        "summary": "Birleşik Krallık'a ait bir denizcilik ajansının verilerini analiz eden BBC Verify'e göre, Hürmüz Boğazı yakınlarında bir hafta içinde 12 gemiye saldırı düzenlendiği bildirildi. Bu durum, bölgedeki gemi saldırısı raporlarının rekor seviyeye ulaştığını gösteriyor. Küresel petrol ihracatının yavaşlamasıyla aynı döneme denk gelen bu olaylar, enerji tedarik zinciri üzerinde ciddi endişeler yaratıyor. Bölgedeki deniz güvenliği tehditleri artarken, uluslararası toplum gelişmeleri yakından takip ediyor ve potansiyel etkileri değerlendiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15077536/pexels-photo-15077536.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-16T13:50:16.652Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
