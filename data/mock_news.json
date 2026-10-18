@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792282238747cofl1",
+        "title": "Suudi Liderliğindeki Koalisyon İHA'ları Engelledi, Mısır Destek Göndermeyi Değerlendiriyor",
+        "summary": "Suudi Arabistan'da, Suudi liderliğindeki koalisyon güçleri tarafından dört insansız hava aracı (İHA) engellendi ve imha edildiği bildirildi. Koalisyon, İHA'ların başkent Riyad, Doğu Bölgesi ve ülkenin güney bölgeleri üzerinde tespit edildiğini ve etkisiz hale getirildiğini açıkladı. Bu gelişmeler yaşanırken, Mısır'ın da bölgedeki duruma ilişkin olarak yardım gönderme olasılığını değerlendirdiği belirtiliyor. Olay, Orta Doğu'daki güvenlik gerilimlerinin sürdüğüne işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1336211/pexels-photo-1336211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-18T00:10:38.747Z",
+        "location": {
+            "lat": 24.71,
+            "lng": 46.68,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17922745446801n04s",
         "title": "Al Jazeera Muhabiri Fransa'daki Protestolarda Tacize Uğradı ve Saldırıya Maruz Kaldı",
         "summary": "Fransa'nın Rennes kentinde devam eden protesto ve yağma olayları sırasında Al Jazeera muhabiri Rosie Birchard'ın tacize uğradığı ve saldırıya maruz kaldığı bildirildi. Muhabir Birchard'ın, yağmacıların dükkanları hedef aldığı sırada protestocular tarafından taciz edildiği ve başına darbe aldığı belirtildi. Olay, Fransa genelinde yaşanan toplumsal gerilimlerin ve şiddet olaylarının medya mensuplarını da etkilediğini gözler önüne serdi. Al Jazeera, muhabirlerine yönelik bu tür saldırıları kınadığını ve gazetecilerin güvenliğinin sağlanması çağrısında bulunduğunu açıkladı.",
@@ -780,22 +796,6 @@
             "name": "Amerika Birleşik Devletleri"
         },
         "source": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792068409062qhb44",
-        "title": "Ukraynalılar, Rus Saldırıları Yoğunlaşırken ABD İstihbarat Kesintilerinden Endişe Ediyor",
-        "summary": "Rusya'nın Ukrayna'ya yönelik saldırılarının yoğunlaşmasıyla birlikte, Ukraynalılar ABD istihbarat desteğinde yaşanabilecek kesintilerden derin endişe duyuyor. Azalan füze uyarıları, sivil halk üzerindeki tehdidi artırarak can güvenliğini riske atıyor. Bu gelişmeler yaşanırken, eski ABD Başkanı Donald Trump'ın \"enerji ateşkesi\" ve barış müzakereleri çağrısı uluslararası gündemde yer buluyor. Trump'ın bu önerisi, Ukrayna'daki çatışmaların sona erdirilmesi için enerji kaynaklarının bir kaldıraç olarak kullanılması fikrini ortaya koyuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9643191/pexels-photo-9643191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-15T12:46:49.062Z",
-        "location": {
-            "lat": 50.45,
-            "lng": 30.52,
-            "name": "Kiev, Ukrayna"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
