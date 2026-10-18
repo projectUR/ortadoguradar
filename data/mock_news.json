@@ -1,5 +1,53 @@
 [
     {
+        "id": "1792299528670ysgez",
+        "title": "Tunus'ta ekonomik kriz derinleşirken, daha iyi bir yaşam vaadi soluyor",
+        "summary": "Kuzey Afrika ülkesi Tunus'ta ekonomik krizin giderek derinleştiği bildirildi. Ülke genelinde artan işsizlik oranları, kamu hizmetlerindeki aksaklıklar ve yaşam maliyetlerindeki yükseliş, halkın zorluklarını artırıyor. Vatandaşlar, daha iyi bir yaşam beklentilerinin giderek azaldığını ifade ediyor. Bu durum, Tunus'un sosyal ve ekonomik istikrarı üzerinde baskı oluşturuyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/18475688/pexels-photo-18475688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-18T04:58:48.670Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1792299550559lfyrc",
+        "title": "Rubio, ABD'li Gazeteciye Yönelik Saldırı Sonrası Yerleşimci Şiddetine Karşı 'Sert Tedbirler' İstiyor",
+        "summary": "ABD Senatörü Marco Rubio, Amerikalı bir gazeteciye yönelik saldırının ardından yerleşimci şiddetine karşı 'sert tedbirler' alınması çağrısında bulundu. Rubio'nun bu açıklaması, İsrail-Filistin çatışması bağlamında Batı Şeria'daki yerleşimci şiddeti olaylarının uluslararası alanda artan endişelere yol açtığını gösteriyor. Senatör, ABD vatandaşlarının güvenliğinin sağlanması ve bölgedeki gerilimin azaltılması gerektiğini vurguladı. Bu çağrı, Washington'ın bölgedeki insan hakları ve güvenlik konularına verdiği önemi bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163431/fist-blow-power-wrestling-163431.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-18T04:59:10.559Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17922996242707e9rg",
+        "title": "Suudi liderliğindeki koalisyon, Necran'da helikopter kazasında 2 subayın öldüğünü açıkladı",
+        "summary": "Suudi liderliğindeki koalisyon, Suudi Arabistan'ın Necran bölgesinde meydana gelen bir helikopter kazasında iki subayın hayatını kaybettiğini duyurdu. Koalisyon sözcüsü tarafından yapılan açıklamada, keşif helikopterinin teknik bir arıza nedeniyle düştüğü belirtildi. Olayın, Yemen sınırına yakın bir bölgede gerçekleşmesi dikkat çekti. Kazanın detaylarına ilişkin soruşturma başlatıldığı bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13332578/pexels-photo-13332578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-18T05:00:24.270Z",
+        "location": {
+            "lat": 17.49,
+            "lng": 44.13,
+            "name": "Necran, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-2-officers-killed-in-helicopter-crash-in-najran/4092345",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1792282238747cofl1",
         "title": "Suudi Liderliğindeki Koalisyon İHA'ları Engelledi, Mısır Destek Göndermeyi Değerlendiriyor",
         "summary": "Suudi Arabistan'da, Suudi liderliğindeki koalisyon güçleri tarafından dört insansız hava aracı (İHA) engellendi ve imha edildiği bildirildi. Koalisyon, İHA'ların başkent Riyad, Doğu Bölgesi ve ülkenin güney bölgeleri üzerinde tespit edildiğini ve etkisiz hale getirildiğini açıkladı. Bu gelişmeler yaşanırken, Mısır'ın da bölgedeki duruma ilişkin olarak yardım gönderme olasılığını değerlendirdiği belirtiliyor. Olay, Orta Doğu'daki güvenlik gerilimlerinin sürdüğüne işaret ediyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1792098263518d9og7",
-        "title": "Karadeniz'de Gemilere Yönelik Saldırılarda 7 Mürettebat Kayıp",
-        "summary": "Karadeniz'de iki kimyasal tankere düzenlenen insansız hava aracı saldırılarının ardından en az yedi mürettebatın kayıp olduğu açıklandı. Acil durum ekipleri, saldırıya uğrayan gemilerdeki kayıp mürettebatı bulmak amacıyla geniş çaplı arama kurtarma operasyonları yürütüyor. Bu olay, Karadeniz'deki denizcilik güvenliği ve ticari gemi trafiği üzerindeki potansiyel etkileri nedeniyle endişelere yol açtı. Bölgedeki artan gerilim, uluslararası denizcilik rotaları ve enerji taşımacılığı açısından kritik öneme sahip bu sularda yeni güvenlik risklerini gündeme getirmektedir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39486752/pexels-photo-39486752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-15T21:04:23.518Z",
-        "location": {
-            "lat": 43,
-            "lng": 35,
-            "name": "Karadeniz, Uluslararası Sular"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "179209828688584mvz",
-        "title": "Göçmenler Neden Yemen'e Ulaşmak İçin Denizde Hayatlarını Riske Atıyor?",
-        "summary": "Al Jazeera muhabiri Al Anoud Al Aqeedi, göçmenlerin Yemen'e ulaşmak için neden denizde hayatlarını riske attığını açıklıyor. Yemen, devam eden iç savaşa rağmen, özellikle Afrika Boynuzu'ndan gelen göçmenler için önemli bir geçiş noktası olmaya devam ediyor. Bu göçmenler genellikle daha iyi yaşam koşulları arayışıyla Suudi Arabistan gibi Körfez ülkelerine ulaşmayı hedefliyor. Ancak, Aden Körfezi veya Kızıldeniz üzerinden yapılan bu tehlikeli yolculuklar, insan kaçakçılarının yarattığı riskler ve ülkedeki çatışma ortamı nedeniyle büyük zorluklar içeriyor. Haberde, bu zorlu rotayı seçmelerinin ardındaki temel motivasyonlar ve karşılaştıkları tehlikeler detaylı bir şekilde ele alınıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/37197253/pexels-photo-37197253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-15T21:04:46.885Z",
-        "location": {
-            "lat": 15,
-            "lng": 48,
-            "name": "Yemen"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/15/why-are-migrants-risking-their-lives-at-sea-to-reach-yemen?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792086028931fbo9h",
-        "title": "Göçmen Gözaltı Merkezlerinde Artan Ölüm Oranları Mercek Altında",
-        "summary": "Fault Lines adlı araştırma programı, eski ABD Başkanı Donald Trump döneminde uygulanan sert göçmenlik politikalarının ardından göçmen gözaltı merkezlerindeki ölüm oranlarında yaşanan endişe verici artışı mercek altına aldı. Program, bu merkezlerdeki koşulların ve politikaların insan hakları üzerindeki etkilerini inceledi. Raporda, gözaltında tutulan göçmenlerin yaşam koşulları ve sağlık hizmetlerine erişimlerindeki sorunlar vurgulandı. Bu durum, özellikle Orta Doğu kökenli göçmenler de dahil olmak üzere, ABD'ye sığınmak isteyen bireylerin karşılaştığı zorlukları gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/1464208/pexels-photo-1464208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-15T17:40:28.931Z",
-        "location": {
-            "lat": 39,
-            "lng": -97,
-            "name": "Amerika Birleşik Devletleri"
-        },
-        "source": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
