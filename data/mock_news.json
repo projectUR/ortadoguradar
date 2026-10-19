@@ -1,5 +1,21 @@
 [
     {
+        "id": "17923679514248r8pi",
+        "title": "İsrailli Bakan Ben-Gvir'in etkinliği protestolarla kesintiye uğradı",
+        "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in katıldığı bir etkinlik, Tel Aviv Üniversitesi'nde protestocular tarafından kesintiye uğratıldı. Bakan Ben-Gvir'in konuşma yaptığı sırada başlayan protestolar, etkinliğin yarıda kalmasına neden oldu. Güvenlik güçlerinin müdahalesine rağmen, protestocuların yoğun tepkisi üzerine bakanın sahneden ayrılmak zorunda kaldığı bildirildi. Olayın, Ben-Gvir'in politikalarına ve duruşuna yönelik artan toplumsal muhalefeti yansıttığı belirtiliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/8635700/pexels-photo-8635700.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-18T23:59:11.424Z",
+        "location": {
+            "lat": 32.0853,
+            "lng": 34.7818,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1792351080417cuhur",
         "title": "KİK, Yemen'deki Çatışmalar Yoğunlaşırken Husilerin Suudi Arabistan'a Yönelik Saldırılarını Kınadı",
         "summary": "Körfez İşbirliği Konseyi (KİK), Yemen'deki çatışmaların şiddetlenmesiyle birlikte Husilerin Suudi Arabistan'a yönelik saldırılarını kınadığını duyurdu. KİK üyesi ülkelerin bakanları, Husilerin bölgedeki istikrara yönelik tehdit oluşturan eylemlerine karşı uluslararası toplumun harekete geçmesi çağrısında bulundu. Yemen'de devam eden çatışmalar, son dönemde 233.000'den fazla kişinin yerinden edilmesine yol açarak insani krizi derinleştirdi. Bölgesel güvenlik ve sivil halkın korunması konuları, Körfez ülkeleri için öncelikli gündem maddeleri arasında yer alıyor. Bu gelişmeler, Yemen'deki barış sürecine yönelik endişeleri artırıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17921585233098g7hr",
-        "title": "FIFA'dan İspanya'ya Mısır dostluk maçındaki İslamofobik tezahüratlar nedeniyle ceza",
-        "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA), İspanya'ya, Mısır ile oynanan dostluk maçında yaşanan İslamofobik tezahüratlar nedeniyle yaptırım uyguladı. Olaylar, Barselona'daki Espanyol stadyumunda gerçekleşen müsabaka sırasında meydana geldi. FIFA, bu tür ayrımcı davranışlara karşı sıfır tolerans politikası çerçevesinde İspanya Futbol Federasyonu'nu cezalandırdı. Bu karar, spor etkinliklerinde ırkçılık ve ayrımcılıkla mücadele çabalarının bir parçası olarak öne çıkıyor ve uluslararası spor camiasında ayrımcılığa karşı verilen mesajı güçlendiriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/37726687/pexels-photo-37726687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-16T13:48:43.309Z",
-        "location": {
-            "lat": 41.3851,
-            "lng": 2.1734,
-            "name": "Barselona, İspanya"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
