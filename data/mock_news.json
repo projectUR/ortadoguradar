@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792384118499l6hma",
+        "title": "Çin, İsrail'e Batı Şeria'daki yerleşim birimlerinin 'zorla kurulmasını' durdurma çağrısı yaptı",
+        "summary": "Çin Dışişleri Bakanı Wang Yi, bir konferansın kulisinde İsrail Cumhurbaşkanı Isaac Herzog ile bir araya geldi. Görüşmede Bakan Wang, İsrail'e Batı Şeria'daki yerleşim birimlerinin \"zorla kurulmasını\" durdurması çağrısında bulundu. Çinli yetkili, bu tür faaliyetlerin uluslararası hukuka aykırı olduğunu ve bölgedeki gerilimi artırdığını vurguladı. Batı Şeria'daki yerleşimler, İsrail-Filistin çatışmasının temel sorunlarından biri olarak kabul edilmekte ve uluslararası toplum tarafından genellikle yasa dışı görülmektedir. Pekin'in bu diplomatik adımı, Orta Doğu'daki barış ve istikrara yönelik uluslararası çabalara destek niteliğindedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/37125633/pexels-photo-37125633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-19T04:28:38.499Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17923679514248r8pi",
         "title": "İsrailli Bakan Ben-Gvir'in etkinliği protestolarla kesintiye uğradı",
         "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in katıldığı bir etkinlik, Tel Aviv Üniversitesi'nde protestocular tarafından kesintiye uğratıldı. Bakan Ben-Gvir'in konuşma yaptığı sırada başlayan protestolar, etkinliğin yarıda kalmasına neden oldu. Güvenlik güçlerinin müdahalesine rağmen, protestocuların yoğun tepkisi üzerine bakanın sahneden ayrılmak zorunda kaldığı bildirildi. Olayın, Ben-Gvir'in politikalarına ve duruşuna yönelik artan toplumsal muhalefeti yansıttığı belirtiliyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/africa/un-warns-sudan-conflict-shows-no-sign-of-easing-urges-parties-to-pursue-peace/4091366",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17921584998733c5h7",
-        "title": "Batı Şeria'da Filistinliler ve ABD'li Gazeteci Saldırıya Uğradı",
-        "summary": "Batı Şeria'da İsrailli yerleşimciler, zeytin hasadı yapan Filistinlilere saldırdı. Olay sırasında Washington Post foto muhabiri Heidi Levine de ağır şekilde darp edildi. Saldırılar, bölgedeki gerilimi artırırken, uluslararası toplumdan tepki çekmesi bekleniyor. Bölgede güvenlik endişeleri devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/40138199/pexels-photo-40138199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-16T13:48:19.873Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
