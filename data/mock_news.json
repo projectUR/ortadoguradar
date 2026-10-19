@@ -1,5 +1,21 @@
 [
     {
+        "id": "17924460391366aiqj",
+        "title": "İsrail Polisi, Yerleşimci Saldırılarıyla İlgili 10 Kişinin Gözaltına Alındığını Duyurdu",
+        "summary": "İsrail polisi, hafta sonu yaşanan yerleşimci şiddeti olaylarıyla bağlantılı olarak 10 şüphelinin gözaltına alındığını açıkladı. Polis tarafından yayımlanan bir videoda, şüphelilerin gözaltına alınma anları yer aldı. Bu gözaltılar, bölgedeki gerilimi artıran yerleşimci saldırılarına karşı atılan adımlar olarak değerlendiriliyor. Olaylar, İsrail-Filistin çatışması bağlamında güvenlik güçlerinin müdahalesini gerektiren bir gelişme olarak öne çıkıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33632547/pexels-photo-33632547.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-19T21:40:39.136Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792429550719qpxv8",
         "title": "İran Savaşı'na Tepki Cumhuriyetçilerin Kongre Kontrolünü Tehdit Ediyor",
         "summary": "ABD'de potansiyel bir İran Savaşı'na yönelik kamuoyu muhalefetinin, Cumhuriyetçi Parti'nin Kongre'deki kontrolünü tehlikeye atabileceği belirtiliyor. Haber, böyle bir savaşın yaratacağı ekonomik sonuçların seçmen öfkesini körüklediğini ve bu durumun yaklaşan seçimlerde Cumhuriyetçiler için ciddi bir siyasi risk oluşturduğunu ifade ediyor. Analistler, savaşın maliyetleri ve potansiyel insan kayıplarının seçmen davranışlarını doğrudan etkileyebileceğine dikkat çekiyor. Kongre'deki güç dengesinin, İran politikalarına yönelik kamuoyu algısına bağlı olarak değişebileceği öngörülüyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "179224690434673cp0",
-        "title": "İran, ABD ile Yeniden Başlayacak Müzakereler İçin 'Güvenilir Garantiler' Talep Ediyor",
-        "summary": "İran Dışişleri Bakanı, ABD ile yeniden başlayacak müzakereler için yeni saldırılara karşı 'güvenilir garantiler' gerektiğini belirtti. Bakan, Tahran'ın karşılıklı saygıya dayalı diyaloğa açık olduğunu ancak baskı altında müzakereleri reddettiğini ifade etti. Bu açıklama, iki ülke arasındaki gerilimin devam ettiği ve diplomatik çözüm arayışlarının sürdüğü bir dönemde geldi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5921561/pexels-photo-5921561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-17T14:21:44.346Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-renewed-talks-with-us-require-credible-guarantees-against-new-attacks/4092031",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
