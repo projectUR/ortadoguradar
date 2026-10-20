@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792457857546mf2dx",
+        "title": "Rashida Tlaib, Hind Rajab'ın ölümüyle bağlantılı İsrailli askerin tutuklanmasını talep etti",
+        "summary": "ABD'li Temsilciler Meclisi Üyesi Rashida Tlaib, İsrail ordusunda görevli bir komutanın tutuklanması çağrısında bulundu. Tlaib, söz konusu komutanın ABD'de bulunduğu sırada, Filistinli çocuk Hind Rajab'ın ölümüyle bağlantılı saldırıdan sorumlu olduğunu iddia etti. ABD hükümetine yapılan bu talep, Rajab'ın Gazze'de yaşanan bir olayda hayatını kaybetmesinin ardından geldi. Tlaib, adaletin sağlanması için İsrailli yetkilinin yargılanması gerektiğini vurguladı. Bu çağrı, İsrail-Filistin çatışmasındaki insan hakları ihlalleri konusundaki tartışmaları yeniden gündeme taşıdı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6593883/pexels-photo-6593883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-20T00:57:37.546Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gaza, Palestine"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17924460391366aiqj",
         "title": "İsrail Polisi, Yerleşimci Saldırılarıyla İlgili 10 Kişinin Gözaltına Alındığını Duyurdu",
         "summary": "İsrail polisi, hafta sonu yaşanan yerleşimci şiddeti olaylarıyla bağlantılı olarak 10 şüphelinin gözaltına alındığını açıkladı. Polis tarafından yayımlanan bir videoda, şüphelilerin gözaltına alınma anları yer aldı. Bu gözaltılar, bölgedeki gerilimi artıran yerleşimci saldırılarına karşı atılan adımlar olarak değerlendiriliyor. Olaylar, İsrail-Filistin çatışması bağlamında güvenlik güçlerinin müdahalesini gerektiren bir gelişme olarak öne çıkıyor.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17922468817445bkyu",
-        "title": "BBC Verify: İsrail Ordusu Hakkındaki Yüzlerce Soruşturmanın Sonuçları Kamuoyuna Açıklanmadı",
-        "summary": "BBC Verify tarafından yapılan bir araştırmaya göre, İsrail Savunma Kuvvetleri (IDF) hakkında açılan yüzlerce soruşturmanın sonuçları kamuoyuna açıklanmadı. Son üç yılda, İsrail ordusunun zarar vermekle suçlandığı 254 olayın incelendiği belirtildi. Ancak bu soruşturmaların akıbeti veya herhangi bir sonucunun kamuoyuyla paylaşılmadığı tespit edildi. Bu durum, İsrail ordusunun operasyonlarındaki şeffaflık ve hesap verebilirlik konularında soru işaretleri yaratıyor. Söz konusu olaylar, genellikle Filistinlilerin ölüm veya yaralanmalarıyla ilgili iddiaları kapsıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10481302/pexels-photo-10481302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-17T14:21:21.744Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.7,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
