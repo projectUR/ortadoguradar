@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792475710913z6r19",
+        "title": "Yemen'deki Husiler merkezi bir şehre 4 balistik füze fırlattı, ordu güneydeki saldırıyı püskürttü",
+        "summary": "Yemen'de Husiler tarafından merkezi Marib şehrine yeni bir füze saldırısı düzenlendiği bildirildi. Saldırıda dört balistik füzenin kullanıldığı belirtildi. Aynı zamanda, hükümet güçleri ülkenin güneyindeki Lahj vilayetinde Husilerin bir saldırısını püskürttüğünü duyurdu. Bu gelişmeler, Yemen'deki çatışmaların farklı cephelerde devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5700143/pexels-photo-5700143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-20T05:55:10.913Z",
+        "location": {
+            "lat": 15.4667,
+            "lng": 45.3333,
+            "name": "Marib, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-houthis-fire-4-ballistic-missiles-at-central-city-as-army-repels-southern-attack/4094007",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1792457857546mf2dx",
         "title": "Rashida Tlaib, Hind Rajab'ın ölümüyle bağlantılı İsrailli askerin tutuklanmasını talep etti",
         "summary": "ABD'li Temsilciler Meclisi Üyesi Rashida Tlaib, İsrail ordusunda görevli bir komutanın tutuklanması çağrısında bulundu. Tlaib, söz konusu komutanın ABD'de bulunduğu sırada, Filistinli çocuk Hind Rajab'ın ölümüyle bağlantılı saldırıdan sorumlu olduğunu iddia etti. ABD hükümetine yapılan bu talep, Rajab'ın Gazze'de yaşanan bir olayda hayatını kaybetmesinin ardından geldi. Tlaib, adaletin sağlanması için İsrailli yetkilinin yargılanması gerektiğini vurguladı. Bu çağrı, İsrail-Filistin çatışmasındaki insan hakları ihlalleri konusundaki tartışmaları yeniden gündeme taşıdı.",
@@ -780,22 +796,6 @@
             "name": "Riyad, Suudi Arabistan"
         },
         "source": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792246854565lim9d",
-        "title": "Batı Şeria'da Filistinlilere Yönelik Saldırılarda Bir Çocuk ve Dört Kadın Yaralandı",
-        "summary": "Batı Şeria'da Filistinlilere yönelik düzenlenen saldırılarda bir çocuk ve dört kadın yaralandı. Olaylar, önde gelen aşırı sağcı bir hahamın Filistinlilere ait zeytinlerin ele geçirilmesine izin veren dini bir fetva yayınlamasının ardından meydana geldi. Bu saldırılar, bölgedeki gerilimi artırırken, Filistinli topluluklar arasında endişeye yol açtı. Yaralıların sağlık durumlarına ilişkin detaylı bilgi henüz verilmedi. Bölgede güvenlik güçlerinin teyakkuzda olduğu bildiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3805146/pexels-photo-3805146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-17T14:20:54.565Z",
-        "location": {
-            "lat": 32,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
