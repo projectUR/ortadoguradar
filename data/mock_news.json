@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792547611723g5aw3",
+        "title": "Yemen Merkez Bankası, Husilerle Bağlantılı Kişi ve Kuruluşların Varlıklarını Dondurma Kararı Aldı",
+        "summary": "Yemen Merkez Bankası, Husilerle bağlantılı 135 kişi ve kuruluşun banka hesaplarındaki varlıklarının dondurulması yönünde bankalara talimat verdi. Bankadan yapılan açıklamada, bu direktifin terör listelerinde yer alan kişi ve kurumlarla finansal işlemlerin yasaklanmasını da kapsadığı belirtildi. Yasaklanan finansal işlemler arasında, beş petrol tankerinin de bulunduğu ifade edildi. Bu karar, Yemen'deki çatışmanın finansal boyutuna yönelik atılan önemli bir adım olarak öne çıkıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/54456/prison-jail-detention-fence-54456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-21T01:53:31.723Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-central-bank-orders-banks-to-freeze-assets-of-135-houthi-linked-individuals-entities/4095209",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792526036989h3s24",
         "title": "Katar, Milipol İç Güvenlik Fuarı'na Ev Sahipliği Yaptı",
         "summary": "Katar, iki yılda bir düzenlenen Milipol iç güvenlik fuarına ev sahipliği yaptı. Etkinlik kapsamında, Katar ve Fransa arasında önemli bir güvenlik iş birliği anlaşması imzalandı. İki ülke, güvenlik alanında üç yıllık bir eylem planı üzerinde mutabakata vardı. Bu anlaşma, iç güvenlik kapasitelerinin geliştirilmesi ve ortak tehditlere karşı iş birliğinin artırılmasını hedefliyor.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792330231298fcmqf",
-        "title": "İsrail'in Planladığından Farklı Bir 'Yeni Orta Doğu' Ortaya Çıkıyor",
-        "summary": "Orta Doğu'da, İsrail'in bölgeyi yeniden şekillendirme çabalarının aksine, farklı bir 'Yeni Orta Doğu' kavramı belirginleşiyor. İsrail'in genişleme odaklı savaşları, bölge ülkelerini kendi aralarında iş birliği yapmaya yöneltti. Bu durum, İsrail'in bölgesel politikalarına karşı birleşen bir cephenin oluşmasına yol açtığı şeklinde yorumlanıyor. Gelişmeler, Orta Doğu'daki güç dengelerinin ve bölgesel ittifakların yeniden şekillendiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7152858/pexels-photo-7152858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-18T13:30:31.298Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Hayfa, İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
