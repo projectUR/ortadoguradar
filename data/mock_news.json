@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792606232798t4w93",
+        "title": "Macron'dan Suudi Arabistan'a Sürpriz Ziyaret: Enerji ve Güvenlik Görüşmeleri",
+        "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Suudi Arabistan'a sürpriz bir ziyaret gerçekleştirdi. Riyad'da Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir araya gelen Macron, iki ülke arasındaki enerji işbirliğini ele aldı. Görüşmelerde ayrıca bölgesel güvenlik konuları ve altyapı projeleri de masaya yatırıldı. Ziyaretin, Fransa'nın ek dizel tedariklerini güvence altına aldığı bir döneme denk gelmesi dikkat çekti.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/1181370/pexels-photo-1181370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-21T18:10:32.798Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792587912422a2vpe",
         "title": "Birleşik Krallık'ın Kuzey Denizi'nde Yeni Gaz Sondajını Onaylaması Protestolara Yol Açtı",
         "summary": "Birleşik Krallık hükümeti, Kuzey Denizi'nde yeni gaz sondajı projelerine onay verdiğini duyurdu. Bu karar, iklim aktivistleri tarafından yoğun protestolarla karşılandı. Aktivistler, hükümetin fosil yakıt projelerini desteklemesinin iklim değişikliğiyle mücadele hedeflerini baltaladığını savunuyor. Hükümet ise enerji güvenliğini sağlamak ve ithalata bağımlılığı azaltmak amacıyla bu adımı attığını belirtiyor. Karar, ülkenin enerji politikaları ve çevresel taahhütleri üzerine tartışmaları alevlendirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17924048124428qfla",
-        "title": "Dünya Gıda Programı, Fon Sıkıntısı Nedeniyle Gazze'ye Yardımları Kesti",
-        "summary": "Birleşmiş Milletler Dünya Gıda Programı (WFP), fon yetersizliği nedeniyle Gazze Şeridi'ne yönelik insani yardım operasyonlarında kesintiye gitmek zorunda kaldı. Yapılan açıklamaya göre, Filistin topraklarında WFP'den destek alan kişi sayısı yaklaşık üçte bir oranında azalacak. Daha önce 1.6 milyon kişiye ulaşan yardımlar, bu kesintinin ardından 1.1 milyon kişiye düşürülecek. Bu durum, bölgedeki mevcut insani krizin daha da derinleşebileceği endişelerini artırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/31837694/pexels-photo-31837694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-19T10:13:32.442Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
