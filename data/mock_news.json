@@ -1,5 +1,53 @@
 [
     {
+        "id": "1792619613831zy9hh",
+        "title": "Tahran'da Trump'ın parmaklıklar ardında maket gösterisi",
+        "summary": "İran'ın başkenti Tahran'da, Tajrish Meydanı'nda dikkat çekici bir gösteri düzenlendi. Bir İranlı sanatçı, ABD Başkanı Donald Trump'ı parmaklıklar ardında tasvir eden bir maketle performans sergiledi. Bu sembolik kurulum, ABD ile İran arasındaki mevcut gerilimi ve siyasi mesajlaşmayı yansıttı. Gösteri, Tahran'ın işlek meydanlarından birinde halkın ilgisini çekti ve uluslararası kamuoyunda yankı buldu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5706020/pexels-photo-5706020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-21T21:53:33.831Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792619719880k7n8r",
+        "title": "Filistinli kadınlar ve kız çocukları Gazze'deki yıkımın ortasında çadırda boksa geri döndü",
+        "summary": "Gazze Şeridi'nde yaşanan yıkımın ortasında, Filistinli kadınlar ve kız çocukları boks antrenmanlarına yeniden başladı. Bölgedeki spor tesislerinin kullanılamaz hale gelmesi nedeniyle, antrenmanlar geçici olarak bir çadırda gerçekleştiriliyor. Bir boks eğitmeni, uygun bir antrenman alanları olmamasına rağmen, kısıtlı imkanlarla dahi olsa spor yapmaya devam ettiklerini belirtti. Bu girişim, bölgedeki zorlu koşullara rağmen toplumsal dayanıklılığı ve normalleşme çabalarını simgeliyor. Sporcular, savaşın getirdiği olumsuzluklara rağmen fiziksel ve zihinsel sağlıklarını korumayı hedefliyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/29375743/pexels-photo-29375743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-21T21:55:19.880Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestinian-women-girls-resume-boxing-in-tent-amid-gaza-devastation/4096544",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1792619786954qarws",
+        "title": "Suudi hava savunması Aramco petrol sahasını hedef alan insansız hava aracını engelledi: 2 ölü, 2 yaralı",
+        "summary": "Suudi Arabistan hava savunma sistemleri, ülkenin doğusundaki Aramco'ya ait Shaybah petrol sahasını hedef alan bir insansız hava aracını başarıyla engelledi. Olayda, düşen enkazın bir müteahhit aracına isabet etmesi sonucu çıkan yangında iki kişi hayatını kaybederken, iki kişi de yaralandı. Suudi Arabistan Enerji Bakanlığı'ndan yapılan açıklamada, saldırıya rağmen petrol sahasındaki operasyonların etkilenmediği ve üretimin kesintisiz devam ettiği bildirildi. Yetkililer, saldırının arkasındaki güçleri belirlemek için soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1488083/pexels-photo-1488083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-21T21:56:26.954Z",
+        "location": {
+            "lat": 22.5,
+            "lng": 54,
+            "name": "Shaybah Petrol Sahası, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-killed-2-injured-after-saudi-air-defenses-intercept-drone-targeting-aramco-oil-field/4096438",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1792606232798t4w93",
         "title": "Macron'dan Suudi Arabistan'a Sürpriz Ziyaret: Enerji ve Güvenlik Görüşmeleri",
         "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Suudi Arabistan'a sürpriz bir ziyaret gerçekleştirdi. Riyad'da Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir araya gelen Macron, iki ülke arasındaki enerji işbirliğini ele aldı. Görüşmelerde ayrıca bölgesel güvenlik konuları ve altyapı projeleri de masaya yatırıldı. Ziyaretin, Fransa'nın ek dizel tedariklerini güvence altına aldığı bir döneme denk gelmesi dikkat çekti.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/syrian-soldier-killed-in-attack-by-unidentified-gunmen-in-eastern-deir-ez-zor/4093531",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1792404697426cn1p2",
-        "title": "Katar, İran Savaşı'nın Küresel Enerji Şoklarının Henüz Zirveye Ulaşmadığı Konusunda Uyardı",
-        "summary": "Katar Başbakan Yardımcısı, İran ile olası bir çatışmanın küresel enerji piyasalarında yaratacağı şok dalgalarının henüz zirveye ulaşmadığı konusunda uyarıda bulundu. Bölgedeki gerilimin enerji güvenliği üzerindeki potansiyel etkilerini vurgulayan Başbakan Yardımcısı, Tahran ile diyalog çağrısını yineledi. Ayrıca, ülkesinin ABD ile olan savunma bağlarının önemine dikkat çekildi. Katar, stratejik Hürmüz Boğazı'ndan geçişler için herhangi bir ücret alınması fikrini de kesin bir dille reddetti. Bu açıklamalar, Orta Doğu'daki jeopolitik risklerin küresel enerji arzı üzerindeki hassasiyetini gözler önüne serdi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/672051/pexels-photo-672051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-19T10:11:37.426Z",
-        "location": {
-            "lat": 25.3,
-            "lng": 51.5,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792404756136k8a4v",
-        "title": "NFL Oyuncusu Al-Shaair, Filistinli Çocukları Beşinci Haftadır Anıyor",
-        "summary": "Amerikan Ulusal Futbol Ligi (NFL) oyuncusu Azeez Al-Shaair, Filistinli çocukları anma eylemini üst üste beşinci haftaya taşıdı. Oyuncu, son maçında göz altı bandında Gazze'de annesinin yanarak ölümüne tanık olmak zorunda kalan Maryam Ghanem adlı bir kız çocuğunun adını taşıdı. Bu eylem, Gazze'deki insani duruma ve Filistinli çocukların yaşadığı zorluklara dikkat çekmeyi amaçlıyor. Al-Shaair'in bu davranışı, spor dünyasında sosyal ve politik konulara duyarlılık gösteren örneklerden biri olarak öne çıkıyor. Oyuncu, bu yolla bölgedeki mağdurlara destek mesajı vermeyi sürdürüyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-19T10:12:36.136Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1792404791101gp8yn",
-        "title": "İran'dan Hizbullah'a Yardım İddiaları Lübnan Hükümetini ABD Baskısı Altına Soktu",
-        "summary": "İran'dan Lübnan'daki Hizbullah'a 200 milyon dolar tutarında yardım aktarıldığı yönündeki haberler, Lübnan hükümetini ABD'den gelen yoğun baskı altına soktu. Bu durum, Lübnan'ın iç siyasetinde ve uluslararası ilişkilerinde yeni bir zorluk alanı yaratıyor. Söz konusu yardım planının, Lübnan hükümetinin istikrarını ve uluslararası konumunu olumsuz etkileyebileceği belirtiliyor. Washington'ın, bu tür finansal desteklerin bölgesel istikrarsızlığı artırdığı yönündeki endişelerini dile getirdiği ifade ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9995973/pexels-photo-9995973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-19T10:13:11.101Z",
-        "location": {
-            "lat": 33.9,
-            "lng": 35.5,
-            "name": "Beyrut, Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
