@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792628949657yzm1f",
+        "title": "İran Devrim Muhafızları'ndan 'saldırgan' doktrinle işgal tehdidi",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), yeni 'saldırgan ve asimetrik' doktrini kapsamında kendisine saldıran herhangi bir ülkeyi işgal etme tehdidinde bulundu. Bu açıklama, İran'ın savunma stratejisinde önemli bir değişikliğe işaret ediyor ve doktrinin artık 'saldırgan' bir nitelik taşıdığını gösteriyor. Söz konusu tehdit, Orta Doğu'daki mevcut gerilimi daha da artırma potansiyeli taşıyor. Uluslararası gözlemciler, bu gelişmenin bölgesel güvenlik ve istikrar üzerindeki olası etkilerini yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30396789/pexels-photo-30396789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-22T00:29:09.657Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1792619613831zy9hh",
         "title": "Tahran'da Trump'ın parmaklıklar ardında maket gösterisi",
         "summary": "İran'ın başkenti Tahran'da, Tajrish Meydanı'nda dikkat çekici bir gösteri düzenlendi. Bir İranlı sanatçı, ABD Başkanı Donald Trump'ı parmaklıklar ardında tasvir eden bir maketle performans sergiledi. Bu sembolik kurulum, ABD ile İran arasındaki mevcut gerilimi ve siyasi mesajlaşmayı yansıttı. Gösteri, Tahran'ın işlek meydanlarından birinde halkın ilgisini çekti ve uluslararası kamuoyunda yankı buldu.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/more-than-53-killed-over-200-wounded-in-houthi-attack-on-southern-yemen/4093625",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "17924297574340mgf1",
-        "title": "Suriye'nin doğusunda askere saldırı: Bir asker hayatını kaybetti",
-        "summary": "Suriye Savunma Bakanlığı, ülkenin doğusundaki Deyrizor vilayetinde bir askerin saldırı sonucu hayatını kaybettiğini duyurdu. Bakanlıktan yapılan açıklamada, kimliği belirsiz silahlı kişiler tarafından hedef alınan askerin, Irak sınırına yakın El-Baguze bölgesinde yaşamını yitirdiği belirtildi. Bölge, Suriye'deki çatışmaların ardından zaman zaman güvenlik olaylarına sahne olmaktadır. Saldırının sorumluluğunu henüz üstlenen olmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-19T17:09:17.434Z",
-        "location": {
-            "lat": 35.3167,
-            "lng": 40.15,
-            "name": "Deyrizor, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/syrian-soldier-killed-in-attack-by-unidentified-gunmen-in-eastern-deir-ez-zor/4093531",
-        "trendScore": 75,
-        "isBreaking": false
     }
 ]
