@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792646232477h0jyg",
+        "title": "Trump, Kongre Üyesi Ilhan Omar'ı Sınır Dışı Edebilir mi?",
+        "summary": "ABD siyasetinde, eski Başkan Donald Trump'ın Kongre Üyesi Ilhan Omar'ı sınır dışı etme yetkisine sahip olup olmadığına dair tartışmalar devam etmektedir. Bu soru, özellikle Omar'ın göçmen kökeni ve siyasi duruşu nedeniyle zaman zaman gündeme gelmektedir. Hukuki uzmanlar, bir ABD vatandaşı ve seçilmiş bir Kongre üyesinin sınır dışı edilmesinin yasal dayanağının bulunmadığını belirtmektedir. Tartışma, ABD'deki göçmenlik yasaları, başkanlık yetkileri ve siyasi söylemin sınırları üzerine odaklanmaktadır.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6282044/pexels-photo-6282044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-22T05:17:12.478Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1792628949657yzm1f",
         "title": "İran Devrim Muhafızları'ndan 'saldırgan' doktrinle işgal tehdidi",
         "summary": "İran Devrim Muhafızları Ordusu (IRGC), yeni 'saldırgan ve asimetrik' doktrini kapsamında kendisine saldıran herhangi bir ülkeyi işgal etme tehdidinde bulundu. Bu açıklama, İran'ın savunma stratejisinde önemli bir değişikliğe işaret ediyor ve doktrinin artık 'saldırgan' bir nitelik taşıdığını gösteriyor. Söz konusu tehdit, Orta Doğu'daki mevcut gerilimi daha da artırma potansiyeli taşıyor. Uluslararası gözlemciler, bu gelişmenin bölgesel güvenlik ve istikrar üzerindeki olası etkilerini yakından takip ediyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-danger-has-passed-in-riyadh-al-kharj-after-security-alerts/4093674",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "179242972122727s6o",
-        "title": "Husilerin Güney Yemen'e Düzenlediği Saldırıda 53'ten Fazla Kişi Hayatını Kaybetti, 200'den Fazla Kişi Yaralandı",
-        "summary": "Yemen'in güneyinde Husiler tarafından düzenlenen bir saldırıda 53'ten fazla kişinin hayatını kaybettiği, 200'den fazla kişinin ise yaralandığı bildirildi. Saldırı, Yemen'in Şebve bölgesinde meydana geldi. Yerel yetkililer, bu trajedinin boyutunun sadece kınamayla karşılanamayacağını belirtti. Yetkililer, benzer saldırıların tekrarlanmasını önlemek için acil askeri ve güvenlik önlemlerinin alınması gerektiğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/122136/pexels-photo-122136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-19T17:08:41.227Z",
-        "location": {
-            "lat": 14.75,
-            "lng": 46.83,
-            "name": "Şebve, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/more-than-53-killed-over-200-wounded-in-houthi-attack-on-southern-yemen/4093625",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
