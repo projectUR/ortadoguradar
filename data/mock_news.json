@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792665140377lxiit",
+        "title": "Sudan ordusu Mavi Nil bölgesinde stratejik askeri üssü geri aldı",
+        "summary": "Sudan ordusu, Mavi Nil bölgesindeki Bakori üssünün kontrolünü paramiliter güçlerle yaşanan şiddetli çatışmaların ardından yeniden ele geçirdi. Üssün geri alınması, ülkedeki devam eden çatışmalarda ordu için stratejik bir başarı olarak değerlendiriliyor. Bu gelişme, Mavi Nil eyaletindeki askeri dengeleri etkileyebilir ve taraflar arasındaki mücadeleyi daha da kızıştırabilir. Sudan'da aylardır süren çatışmalar, milyonlarca insanı yerinden ederken, bölgede ciddi bir insani krize yol açmış durumda. Uluslararası toplum, taraflara ateşkes çağrılarını sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5339771/pexels-photo-5339771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-22T10:32:20.377Z",
+        "location": {
+            "lat": 14.3333,
+            "lng": 34.35,
+            "name": "Ad-Damazin, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-recaptures-strategic-military-base-in-blue-nile-region/4096911",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792646232477h0jyg",
         "title": "Trump, Kongre Üyesi Ilhan Omar'ı Sınır Dışı Edebilir mi?",
         "summary": "ABD siyasetinde, eski Başkan Donald Trump'ın Kongre Üyesi Ilhan Omar'ı sınır dışı etme yetkisine sahip olup olmadığına dair tartışmalar devam etmektedir. Bu soru, özellikle Omar'ın göçmen kökeni ve siyasi duruşu nedeniyle zaman zaman gündeme gelmektedir. Hukuki uzmanlar, bir ABD vatandaşı ve seçilmiş bir Kongre üyesinin sınır dışı edilmesinin yasal dayanağının bulunmadığını belirtmektedir. Tartışma, ABD'deki göçmenlik yasaları, başkanlık yetkileri ve siyasi söylemin sınırları üzerine odaklanmaktadır.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/egypt-postpones-until-next-week-vote-on-military-support-for-saudi-arabia/4093706",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17924297004504i2ye",
-        "title": "Suudi Arabistan, Riyad ve Al-Kharj'da güvenlik uyarılarının ardından tehlikenin geçtiğini duyurdu",
-        "summary": "Suudi Arabistan, başkent Riyad ve Al-Kharj bölgelerinde verilen güvenlik uyarılarının ardından tehlikenin sona erdiğini açıkladı. Ülke, Yemen'deki Husi grubuyla tırmanan çatışmaların ortasında bu tür güvenlik önlemleri almıştı. Sivil Savunma yetkilileri, bölge sakinlerini resmi talimatlara uymaya, kalabalıklardan ve görüntü çekmekten kaçınmaya çağırmıştı. Yapılan son açıklamada, güvenlik durumunun normale döndüğü ve halkın günlük yaşamına devam edebileceği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15049670/pexels-photo-15049670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-19T17:08:20.450Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.6,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-danger-has-passed-in-riyadh-al-kharj-after-security-alerts/4093674",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
