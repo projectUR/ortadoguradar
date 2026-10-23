@@ -1,5 +1,53 @@
 [
     {
+        "id": "1792777573704gkjtb",
+        "title": "İsrail, işgal altındaki Batı Şeria'da tam kapanma ilan etti",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu, işgal altındaki Batı Şeria'da meydana gelen bir silahlı saldırının ardından bölgede \"tam kapanma\" uygulanması talimatı verdi. Bu karar, güvenlik güçlerinin bölgedeki operasyonlarını kolaylaştırmak ve olası yeni saldırıları önlemek amacıyla alındı. Kapanma süresince Batı Şeria'ya giriş ve çıkışların kısıtlanması bekleniyor. Bölgedeki gerilimin artmasıyla birlikte, bu tür güvenlik önlemleri İsrail tarafından sıkça başvurulan bir yöntem haline geldi. Uygulamanın detayları ve süresi hakkında henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4200746/pexels-photo-4200746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T17:46:13.704Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792777658650gpzjy",
+        "title": "Ürdün'de Kilise Cenazesinde Silahlı Saldırı: 7 Ölü, 34 Yaralı",
+        "summary": "Ürdün'ün güneyindeki Karak vilayetinde bir kilise cenazesi sırasında silahlı kişiler tarafından düzenlenen saldırıda yedi kişi hayatını kaybetti. Yetkililer, saldırıda otuz dört kişinin de yaralandığını bildirdi. Olayın ardından bölgede geniş çaplı bir insan avı başlatıldı. Güvenlik güçleri, saldırganları yakalamak için çalışmalarını sürdürüyor. Saldırının nedeni henüz belirlenemedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17314914/pexels-photo-17314914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T17:47:38.650Z",
+        "location": {
+            "lat": 31.18,
+            "lng": 35.7,
+            "name": "Karak, Ürdün"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1792777698020r0fux",
+        "title": "BM'den İşgal Altındaki Batı Şeria'daki Kapatmalar ve Şiddet Konusunda Derin Endişe",
+        "summary": "Birleşmiş Milletler Genel Sekreteri, İsrail'in işgal altındaki Batı Şeria'da uyguladığı yaygın kapatmalar nedeniyle \"derin endişe\" duyduğunu açıkladı. BM sözcüsü, bölgede tırmanan şiddet olaylarından \"son derece alarma geçtiklerini\" belirtti. Bu kapatmalar ve artan şiddet, Batı Şeria'daki Filistinlilerin günlük yaşamını ve hareket özgürlüğünü ciddi şekilde kısıtlamaktadır. Uluslararası toplum, taraflara gerilimi düşürme ve uluslararası hukuka uygun hareket etme çağrısında bulunuyor. Bölgedeki durumun daha da kötüleşmemesi için acil adımlar atılması gerektiği vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36350203/pexels-photo-36350203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T17:48:18.020Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/americas/un-chief-deeply-concerned-over-widespread-closures-by-israel-in-occupied-west-bank/4098934",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792759628474gm0yw",
         "title": "ABD-İran Savaşı: Şubat Ayından Bu Yana Durum Nasıl Değişti?",
         "summary": "Analistler, ABD ve İran arasındaki ilişkilerde Şubat ayından bu yana önemli değişiklikler yaşandığını belirtiyor. Washington ve Tahran'ın pozisyonlarında dramatik farklılıklar gözlemleniyor. Bu durumun, ABD-İsrail ortak saldırılarının savaşı başlatmasından bu yana meydana geldiği ifade ediliyor. Uzmanlar, bölgedeki güç dengelerinin ve diplomatik yaklaşımların bu süreçte yeniden şekillendiğini vurguluyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1792526161737aeeye",
-        "title": "Türkiye'nin Libya ile Denizcilik Anlaşması 'Uzun Vadeli' Ortaklığın Önünü Açıyor",
-        "summary": "Türkiye ile Libya arasında imzalanan denizcilik anlaşması, Libya'nın doğusundaki komutan yardımcısı Saddam Haftar tarafından memnuniyetle karşılandı. Haftar, Libya parlamentosunun anlaşmayı onaylamasının ardından yaptığı açıklamada, bu adımın iki ülke arasında 'uzun vadeli' bir ortaklığın önünü açtığını belirtti. Komutan yardımcısı, dış ilişkilerin ulusal çıkarlar doğrultusunda şekillenmesi gerektiğini vurguladı. Anlaşmanın bölgesel iş birliği ve istikrara katkı sağlaması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16678061/pexels-photo-16678061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T19:56:01.737Z",
-        "location": {
-            "lat": 32.8879,
-            "lng": 13.5885,
-            "name": "Trablus, Libya"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/turkiyes-maritime-deal-with-libya-opens-door-to-long-term-partnership-says-deputy-commander-in-libya-s-east/4095062",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792526185214m7uyz",
-        "title": "İran, Hürmüz Yakınlarında Petrol Tankerinin Mayına Çarptığını Duyurdu",
-        "summary": "İran, Hürmüz Boğazı yakınlarında 2 milyon varilden fazla petrol taşıyan bir süper tankerin mayına çarptığını açıkladı. İran Devrim Muhafızları Donanması'ndan yapılan açıklamaya göre, olay, geminin 'yetkisiz' bir rotayı kullanarak bölgeden ayrılmaya çalışırken meydana geldi. Tankerin patladığı ve ardından alev aldığı bildirildi. Bu olay, dünyanın en önemli petrol geçiş noktalarından biri olan Hürmüz Boğazı'nda deniz güvenliği endişelerini artırdı ve bölgedeki gerilimi tırmandırma potansiyeli taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/18845296/pexels-photo-18845296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T19:56:25.214Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-supertanker-carrying-over-2-million-barrels-of-oil-hit-mine-near-hormuz/4095011",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1792526209994ea18m",
-        "title": "İsrail Bakanı Ben-Gvir, yapay zeka destekli videoda Gazze'nin yıkımıyla övündü, Filistinlilerle alay etti",
-        "summary": "İsrail'in aşırı sağcı güvenlik bakanı Itamar Ben-Gvir'in seçim kampanyası için hazırlanan bir video klip tartışmalara yol açtı. Yapay zeka teknolojisi kullanılarak oluşturulan videoda, Gazze Şeridi'nin 2030 yılında bir hayalet kasabaya dönüştüğü tasvir ediliyor. Klipte, Gazze'nin yıkımıyla övünüldüğü ve Filistinli sakinlerle alay edildiği belirtiliyor. Bu video, bölgedeki gerilimi artırabilecek ve uluslararası tepkilere neden olabilecek nitelikte bulunuyor. Bakan Ben-Gvir'in bu tür bir içerikle Filistinlilere yönelik tutumu eleştirilere hedef oldu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36038705/pexels-photo-36038705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T19:56:49.994Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-s-ben-gvir-boasts-of-gaza-s-destruction-mocks-palestinian-residents-in-ai-generated-video/4094920",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
