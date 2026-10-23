@@ -1,5 +1,37 @@
 [
     {
+        "id": "1792789755883tej1g",
+        "title": "'Sağ Nesil': İsrailli Gençler Sağ Kanata Güçlü Destek Veriyor",
+        "summary": "İsrail'de yapılan bir araştırmaya göre, ilk kez oy kullanacak Yahudi gençlerin yaklaşık dörtte üçü kendilerini sağ veya merkez sağ olarak tanımlıyor. Bu oran, İsrail toplumunun genelindeki sağ eğilimin üzerinde bir seviyeyi temsil etmektedir. Çalışma, genç seçmenler arasında sağcı ideolojilere yönelik güçlü bir eğilimin olduğunu ortaya koymuştur. Bu durum, ülkenin gelecekteki siyasi dinamikleri ve seçim sonuçları üzerinde etkili olabilecek önemli bir trend olarak değerlendirilmektedir.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T21:09:15.883Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792789795022ioslb",
+        "title": "BM: Yemen'in Taiz kentine ulaşmak için zaman daralıyor, kriz derinleşiyor",
+        "summary": "Birleşmiş Milletler, Yemen'in Taiz kentinde derinleşen insani krizle ilgili uyarıda bulundu. BM yetkilileri, kente yardım ulaştırmak için zamanın daraldığını belirtti. Ekim ayının başından bu yana Husilerin Taiz şehrini kuşatması nedeniyle 800.000'den fazla kişi insani yardımlardan mahrum kaldı. Bu durum, bölgedeki sivil halkın temel ihtiyaçlara erişimini ciddi şekilde engelliyor ve insani durumu kötüleştiriyor. Uluslararası toplum, kuşatmanın kaldırılması ve yardımların ulaştırılması için çağrıda bulunuyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/31837694/pexels-photo-31837694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T21:09:55.022Z",
+        "location": {
+            "lat": 13.57,
+            "lng": 44.02,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792777573704gkjtb",
         "title": "İsrail, işgal altındaki Batı Şeria'da tam kapanma ilan etti",
         "summary": "İsrail Başbakanı Binyamin Netanyahu, işgal altındaki Batı Şeria'da meydana gelen bir silahlı saldırının ardından bölgede \"tam kapanma\" uygulanması talimatı verdi. Bu karar, güvenlik güçlerinin bölgedeki operasyonlarını kolaylaştırmak ve olası yeni saldırıları önlemek amacıyla alındı. Kapanma süresince Batı Şeria'ya giriş ve çıkışların kısıtlanması bekleniyor. Bölgedeki gerilimin artmasıyla birlikte, bu tür güvenlik önlemleri İsrail tarafından sıkça başvurulan bir yöntem haline geldi. Uygulamanın detayları ve süresi hakkında henüz resmi bir açıklama yapılmadı.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/yemen-s-central-bank-orders-banks-to-freeze-assets-of-135-houthi-linked-individuals-entities/4095209",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1792526036989h3s24",
-        "title": "Katar, Milipol İç Güvenlik Fuarı'na Ev Sahipliği Yaptı",
-        "summary": "Katar, iki yılda bir düzenlenen Milipol iç güvenlik fuarına ev sahipliği yaptı. Etkinlik kapsamında, Katar ve Fransa arasında önemli bir güvenlik iş birliği anlaşması imzalandı. İki ülke, güvenlik alanında üç yıllık bir eylem planı üzerinde mutabakata vardı. Bu anlaşma, iç güvenlik kapasitelerinin geliştirilmesi ve ortak tehditlere karşı iş birliğinin artırılmasını hedefliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30481728/pexels-photo-30481728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T19:53:56.989Z",
-        "location": {
-            "lat": 25.3,
-            "lng": 51.5,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
-        "trendScore": 65,
-        "isBreaking": false
-    },
-    {
-        "id": "1792526077081o7g57",
-        "title": "Birleşik Krallık, Suudi Arabistan'ı savunmak için savaş uçakları konuşlandıracak",
-        "summary": "Birleşik Krallık, Suudi Arabistan'ı Yemen'deki Husilerin artan saldırılarına karşı savunmak amacıyla Typhoon savaş uçaklarını konuşlandırma kararı aldı. İngiliz jetleri, Suudi Arabistan hava sahasının güvenliğini sağlamak üzere savunma misyonları yürütecek. Bu adım, Husilerin Suudi Arabistan'a yönelik füze ve insansız hava aracı saldırılarının yoğunlaşmasının ardından geldi. Konuşlandırmanın, Suudi Arabistan'ın hava savunma kapasitesini güçlendirmesi ve bölgesel istikrara katkıda bulunması bekleniyor. Birleşik Krallık'ın bu hamlesi, bölgedeki güvenlik dinamiklerini etkileyecek önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6977698/pexels-photo-6977698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T19:54:37.081Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
