@@ -1,5 +1,101 @@
 [
     {
+        "id": "1792739461222x2dsa",
+        "title": "IEA Başkanı Uyardı: AB, Kışa Rekor Düşük Gaz Rezervleriyle Giriyor",
+        "summary": "Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol, Avrupa Birliği'nin kış mevsimine rekor seviyede düşük gaz rezervleriyle girdiğini açıkladı. Birol, bu kritik uyarıyı Berlin'de Al Jazeera'ya verdiği röportajda dile getirdi. Açıklamasında, İran'da yaşanan bir savaşın küresel enerji tedarikini ciddi şekilde aksattığını ve bu durumun Avrupa'nın enerji güvenliği üzerindeki baskıyı artırdığını vurguladı. Bu gelişmeler, AB'nin enerji arz güvenliği konusunda karşı karşıya olduğu zorlukları ve endişeleri gözler önüne seriyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/7664405/pexels-photo-7664405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T07:11:01.222Z",
+        "location": {
+            "lat": 52.52,
+            "lng": 13.405,
+            "name": "Berlin, Almanya"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792739505537swk8e",
+        "title": "İsrail ordusu işgal altındaki Batı Şeria'da 2 Filistinliyi öldürdü",
+        "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da meydana gelen bir olayda iki Filistinliyi öldürdü. Bu olay, bölgedeki gerilimin tırmandığı bir döneme denk geldi. Özellikle bu ayın başlarında başlayan zeytin hasadı sezonunda saldırıların yoğunlaştığı bildiriliyor. Bölgede İsrail güçleri ile Filistinliler arasındaki çatışmalar devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6091867/pexels-photo-6091867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T07:11:45.537Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-2-palestinians-in-occupied-west-bank-shooting/4097978",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "179273952655345rff",
+        "title": "BAE, Umm Al Quwain'deki plajları etkileyen tanker petrol sızıntısı tespit etti",
+        "summary": "Birleşik Arap Emirlikleri (BAE) yetkilileri, Umm Al Quwain'deki plajları etkileyen bir tanker petrol sızıntısı tespit edildiğini duyurdu. Sızıntının ardından Sharjah, Ajman ve Umm Al Quwain bölgelerinde koku şikayetleri alındı. Ancak ilgili bakanlık, rapor edilen kokuların insan sağlığı için herhangi bir risk oluşturmadığını belirtti. Olayın çevresel etkileri ve temizleme çalışmaları hakkında detay verilmedi.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/36290229/pexels-photo-36290229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T07:12:06.553Z",
+        "location": {
+            "lat": 25.58,
+            "lng": 55.56,
+            "name": "Umm Al Quwain, Birleşik Arap Emirlikleri"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/uae-detects-tanker-oil-spill-affecting-beaches-in-umm-al-quwain/4097924",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "17927395537674mxa4",
+        "title": "Suudi liderliğindeki koalisyon 11 Husi insansız hava aracı ve bir balistik füzeyi etkisiz hale getirdiğini duyurdu",
+        "summary": "Suudi Arabistan liderliğindeki koalisyon, Yemen'deki Husi güçleri tarafından fırlatılan 11 insansız hava aracı ve bir balistik füzenin engellendiğini açıkladı. Koalisyonun hava savunma sistemleri, insansız hava araçlarını başkent Riyad, Medine, Doğu Bölgesi ve ülkenin güney bölgeleri üzerinde durdurdu. Ayrıca, Suudi Arabistan'ın güneyindeki Necran şehrini hedef alan bir balistik füze de hedefine ulaşmadan önce etkisiz hale getirildi. Bu olay, Yemen'deki çatışmanın Suudi Arabistan topraklarına yönelik saldırılarla devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T07:12:33.767Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17927395753035omla",
+        "title": "BM, İsrail Güçlerinin Suriye'de Engelli Bir Sivili Öldürmesini Kınadı",
+        "summary": "Birleşmiş Milletler, Suriye'nin güneyinde İsrail güçleri tarafından engelli bir Suriyeli sivilin öldürülmesini kınadığını açıkladı. Olay, Daraa vilayetine bağlı Jamla köyünde İsrail askeri güçlerinin düzenlediği bir operasyon sırasında meydana geldi. İşitme engelli olduğu belirtilen Muath Salama al-Baeer adlı Suriyeli sivilin, bu operasyon sırasında vurularak hayatını kaybettiği bildirildi. BM, sivillerin korunması çağrısında bulunurken, bu tür olayların bölgedeki gerilimi artırma potansiyeli taşıdığına dikkat çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803782/pexels-photo-15803782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T07:12:55.303Z",
+        "location": {
+            "lat": 32.6167,
+            "lng": 36.1,
+            "name": "Jamla, Daraa, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-condemns-killing-of-syrian-civilian-with-disability-by-israeli-forces-in-southern-syria/4097829",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792739597892nzqbw",
+        "title": "Suudi liderliğindeki koalisyon, Husi balistik füzesini engelledi",
+        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husi güçleri tarafından fırlatılan bir balistik füzeyi başarıyla engellediğini duyurdu. Koalisyon sözcüsü tarafından yapılan açıklamaya göre, füze Suudi Arabistan'ın güneybatısındaki Necran şehrini hedef alıyordu. Necran, Yemen sınırı yakınlarında stratejik bir konumda bulunuyor. Bu olay, bölgedeki devam eden çatışmaların bir parçası olarak kaydedildi ve Suudi Arabistan'ın savunma kapasitesini bir kez daha gösterdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T07:13:17.892Z",
+        "location": {
+            "lat": 17.49,
+            "lng": 44.13,
+            "name": "Necran, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-houthi-ballistic-missile-targeting-southwestern-saudi-arabia/4097805",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1792720004670mxuoi",
         "title": "Tunus başkentinde nadir görülen huzursuzluk alevlendi: Polis protestocularla çatıştı",
         "summary": "Tunus'un başkenti ve diğer şehirlerinde nadir görülen protestolar patlak verdi. Güvenlik güçleri ile göstericiler arasında çatışmalar yaşandığı bildirildi. Bu olaylar, ülkenin derinleşen ekonomik, sosyal ve siyasi kriziyle aynı döneme denk geliyor. Protestocuların talepleri arasında yaşam koşullarının iyileştirilmesi ve hükümetin politikalarına tepki gösterilmesi yer alıyor. Ülke genelinde artan gerilim, bölgesel istikrarsızlık endişelerini de beraberinde getiriyor.",
@@ -700,102 +796,6 @@
             "name": "Beyrut, Lübnan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/lebanon-israel-military-technical-talks-begin-in-florida-under-us-mediation/4094826",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792511403640h19yc",
-        "title": "Yemen'in Şebve kentindeki Husi saldırısında ölü sayısı 73'e yükseldi, 14 kişi kayıp",
-        "summary": "Yemen'in Şebve kentinde Husilerin bir güvenlik eğitim merkezine düzenlediği balistik füze saldırısında hayatını kaybedenlerin sayısı 73'e yükselirken, 14 kişinin kayıp olduğu bildirildi. Şebve Valisi, yetkililerin saldırıda yaralananların durumunu yakından takip ettiğini belirtti. Saldırı, bölgedeki güvenlik durumunun ciddiyetini bir kez daha gözler önüne serdi. Olay, Yemen'deki çatışmaların devam eden yıkıcı etkilerini yansıtıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975879/pexels-photo-28975879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T15:50:03.640Z",
-        "location": {
-            "lat": 14.53,
-            "lng": 46.83,
-            "name": "Şebve, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/death-toll-from-houthi-attack-in-yemen-s-shabwa-rises-to-73-with-14-missing/4094692",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792511427040c5t1x",
-        "title": "Husilerin Taiz-Aden ikmal yolunu kapatması sivilleri 'büyük riske' atıyor: BM insan hakları şefi",
-        "summary": "Birleşmiş Milletler insan hakları şefi, Yemen'deki Husilerin Taiz ile Aden arasındaki tek ikmal yolunu kapatmasının sivilleri \"büyük riske\" attığı konusunda uyarıda bulundu. BM insan hakları ofisinden yapılan açıklamaya göre, 1 Ağustos'tan bu yana çatışmaların yoğunlaşmasıyla birlikte en az 32 sivil hayatını kaybetti, 115 kişi ise yaralandı. Hayatını kaybeden siviller arasında 14 çocuk da bulunuyor. Bu durum, bölgedeki insani durumu daha da kötüleştirme potansiyeli taşıyor ve sivillerin temel ihtiyaçlara erişimini engelliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699683/pexels-photo-5699683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T15:50:27.040Z",
-        "location": {
-            "lat": 12.7794,
-            "lng": 45.0366,
-            "name": "Aden, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/houthi-closure-of-only-taiz-aden-supply-route-puts-civilians-at-grave-risk-un-rights-chief/4094690",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17924945824999xhvi",
-        "title": "İsrail'de aşırı sağ, ilk kez oy kullanacak seçmenler arasında destek buluyor",
-        "summary": "İsrail'de yaklaşan seçimlerde yarım milyondan fazla genç seçmen ilk kez sandık başına gidecek. Bu genç seçmenlerin oyları, seçim sonuçları üzerinde belirleyici bir etkiye sahip olabilir. Özellikle İsrail'in aşırı sağ partilerinin, bu yeni seçmen kitlesi arasında önemli bir destek bulduğu belirtiliyor. Bu durum, ülkenin siyasi dengelerini ve gelecekteki politikalarını etkileme potansiyeli taşıyor. Gençlerin siyasi tercihleri, İsrail'in iç ve dış politikalarında önemli değişikliklere yol açabilir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8846783/pexels-photo-8846783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T11:09:42.499Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17924946060188kg9n",
-        "title": "Husilerin Yemen'deki kampa düzenlediği füze saldırısında 50 güvenlik görevlisi öldü",
-        "summary": "Yemen'de Husilerin düzenlediği füze saldırısında 50 güvenlik görevlisi hayatını kaybetti. Yerel yetkililerin açıklamasına göre, hükümet kontrolündeki Şebve vilayetinde yeni askerler için eğitim merkezi olarak kullanılan bir kampa üç füze isabet etti. Saldırı, bölgedeki çatışmaların şiddetini bir kez daha gözler önüne serdi. Olay, Yemen'deki uzun süreli iç savaşın yıkıcı etkilerini ve taraflar arasındaki gerilimi artırmaya devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36520961/pexels-photo-36520961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T11:10:06.018Z",
-        "location": {
-            "lat": 14.53,
-            "lng": 46.83,
-            "name": "Şebve, Yemen"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792494630322x4z3k",
-        "title": "İsrail polisi, Batı Şeria'da gazeteci ve diplomatlara yönelik yerleşimci saldırılarıyla ilgili 10 kişiyi gözaltına aldı",
-        "summary": "İsrail polisi, Batı Şeria'da gazeteci ve diplomatlara yönelik saldırılarla bağlantılı olarak 10 kişiyi gözaltına aldı. Gözaltılar, maskeli yerleşimcilerin zeytin hasadı sezonunda bölgeyi ziyaret eden Filistinlilere ve Avrupalı yetkililere saldırmasının ardından gerçekleşti. Saldırılarda gazeteciler ve diplomatlar da hedef alındı. Bu olay, bölgedeki yerleşimci-Filistinli gerilimini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33539269/pexels-photo-33539269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T11:10:30.322Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792494657347pn36v",
-        "title": "Sudan Ordusu, Mavi Nil Eyaleti'nde Hızlı Destek Kuvvetleri Saldırısını Püskürttüğünü Duyurdu",
-        "summary": "Sudan ordusu, Mavi Nil Eyaleti'nin Sali bölgesinde Hızlı Destek Kuvvetleri'ne (HDK) yönelik bir saldırıyı engellediğini bildirdi. Ordu kaynaklarından yapılan açıklamaya göre, çatışmalar sırasında HDK'ya ait 15 muharebe aracı ele geçirilirken, 5 araç da imha edildi. Bu olay, Sudan'da devam eden ordu ile HDK arasındaki gerilimi ve çatışmaları bir kez daha gözler önüne serdi. Bölgedeki güvenlik durumu endişe kaynağı olmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6383193/pexels-photo-6383193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T11:10:57.347Z",
-        "location": {
-            "lat": 11.5,
-            "lng": 34,
-            "name": "Mavi Nil Eyaleti, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-says-it-thwarted-rsf-attack-in-blue-nile-state/4094525",
         "trendScore": 85,
         "isBreaking": false
     }
