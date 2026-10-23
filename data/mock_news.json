@@ -1,5 +1,37 @@
 [
     {
+        "id": "1792799771182gqdl3",
+        "title": "İsrail'in Balkanlar'daki Varlığı Neden Artıyor?",
+        "summary": "İsrail'in Balkanlar bölgesindeki varlığını neden artırdığına dair sorular gündeme geldi. Bölgedeki liderler, İsrail ile savunma, gözetim ve siyasi destek alanlarında ilişkilerini derinleştiriyor. Bu yakınlaşma, İsrail'in bölgesel stratejik çıkarları ile Balkan ülkelerinin güvenlik ve siyasi ihtiyaçlarının kesişimini işaret ediyor. Haberde, bu artan iş birliğinin altında yatan nedenlerin ve potansiyel sonuçlarının araştırıldığı belirtiliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8730908/pexels-photo-8730908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T23:56:11.182Z",
+        "location": {
+            "lat": 43,
+            "lng": 20,
+            "name": "Balkanlar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792799791339dup3s",
+        "title": "Ürdün'de Kilise Cenazesine Silahlı Saldırı: Yedi Ölü",
+        "summary": "Ürdün'ün Karak kentinde bir kilisede düzenlenen cenaze törenine maskeli iki silahlı kişi tarafından saldırı düzenlendi. Olayda en az yedi kişi hayatını kaybederken, 34 kişi de yaralandı. Kimliği belirsiz saldırganlar, kilise içerisinde kalabalığın üzerine ateş açarak büyük paniğe yol açtı. Saldırının ardından bölgeye çok sayıda güvenlik gücü ve sağlık ekibi sevk edildi. Yetkililer, saldırganların yakalanması ve olayın tüm yönleriyle aydınlatılması için geniş çaplı bir soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6831806/pexels-photo-6831806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T23:56:31.339Z",
+        "location": {
+            "lat": 31.17,
+            "lng": 35.7,
+            "name": "Karak, Ürdün"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1792789755883tej1g",
         "title": "'Sağ Nesil': İsrailli Gençler Sağ Kanata Güçlü Destek Veriyor",
         "summary": "İsrail'de yapılan bir araştırmaya göre, ilk kez oy kullanacak Yahudi gençlerin yaklaşık dörtte üçü kendilerini sağ veya merkez sağ olarak tanımlıyor. Bu oran, İsrail toplumunun genelindeki sağ eğilimin üzerinde bir seviyeyi temsil etmektedir. Çalışma, genç seçmenler arasında sağcı ideolojilere yönelik güçlü bir eğilimin olduğunu ortaya koymuştur. Bu durum, ülkenin gelecekteki siyasi dinamikleri ve seçim sonuçları üzerinde etkili olabilecek önemli bir trend olarak değerlendirilmektedir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/libyan-leaders-across-political-divide-welcome-approval-of-maritime-deal-with-turkiye/4095208",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1792567111823uftas",
-        "title": "Katar Emiri ve Fransa Cumhurbaşkanı Doha'da Ekonomik ve Savunma Bağlarını Güçlendirmeyi Görüştü",
-        "summary": "Katar Emiri ve Fransa Cumhurbaşkanı, Doha'da bir araya gelerek iki ülke arasındaki ekonomik ve savunma ilişkilerini güçlendirme konularını ele aldı. Lusail Sarayı'nda gerçekleşen görüşmelerde stratejik ortaklık ve bölgesel gelişmeler ana gündem maddeleri oldu. Fransa Cumhurbaşkanı Macron'un Körfez turunu tamamladığı bu ziyaret, iki ülke arasındaki işbirliğini derinleştirmeyi amaçlıyor. Taraflar, karşılıklı çıkarları ilgilendiren konularda fikir alışverişinde bulundu.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7433853/pexels-photo-7433853.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-21T07:18:31.823Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatari-emir-french-president-discuss-stronger-economic-and-defense-ties-in-doha/4095206",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1792547611723g5aw3",
-        "title": "Yemen Merkez Bankası, Husilerle Bağlantılı Kişi ve Kuruluşların Varlıklarını Dondurma Kararı Aldı",
-        "summary": "Yemen Merkez Bankası, Husilerle bağlantılı 135 kişi ve kuruluşun banka hesaplarındaki varlıklarının dondurulması yönünde bankalara talimat verdi. Bankadan yapılan açıklamada, bu direktifin terör listelerinde yer alan kişi ve kurumlarla finansal işlemlerin yasaklanmasını da kapsadığı belirtildi. Yasaklanan finansal işlemler arasında, beş petrol tankerinin de bulunduğu ifade edildi. Bu karar, Yemen'deki çatışmanın finansal boyutuna yönelik atılan önemli bir adım olarak öne çıkıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/54456/prison-jail-detention-fence-54456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-21T01:53:31.723Z",
-        "location": {
-            "lat": 15.552727,
-            "lng": 48.516388,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemen-s-central-bank-orders-banks-to-freeze-assets-of-135-houthi-linked-individuals-entities/4095209",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
