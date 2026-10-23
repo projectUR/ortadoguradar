@@ -1,5 +1,37 @@
 [
     {
+        "id": "1792720004670mxuoi",
+        "title": "Tunus başkentinde nadir görülen huzursuzluk alevlendi: Polis protestocularla çatıştı",
+        "summary": "Tunus'un başkenti ve diğer şehirlerinde nadir görülen protestolar patlak verdi. Güvenlik güçleri ile göstericiler arasında çatışmalar yaşandığı bildirildi. Bu olaylar, ülkenin derinleşen ekonomik, sosyal ve siyasi kriziyle aynı döneme denk geliyor. Protestocuların talepleri arasında yaşam koşullarının iyileştirilmesi ve hükümetin politikalarına tepki gösterilmesi yer alıyor. Ülke genelinde artan gerilim, bölgesel istikrarsızlık endişelerini de beraberinde getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/19458354/pexels-photo-19458354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T01:46:44.670Z",
+        "location": {
+            "lat": 36.8,
+            "lng": 10.2,
+            "name": "Tunus, Tunus"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
+        "id": "17927201371282j6cx",
+        "title": "Irak, topraklarının Suudi Arabistan ve bölge ülkelerine yönelik saldırılar için kullanılmasına izin vermeyeceğini bildirdi",
+        "summary": "Irak Dışişleri Bakanı, Suudi Arabistan'a yönelik saldırıları kınadığını açıkladı. Bu açıklama, Iraklı Bakan'ın Suudi mevkidaşı ile gerçekleştirdiği telefon görüşmesi sırasında yapıldı. Irak, topraklarının Suudi Arabistan ve diğer bölge ülkelerine yönelik saldırılar için kullanılmasına kesinlikle izin vermeyeceğini vurguladı. Bu taahhüt, bölgesel güvenlik ve istikrarın korunması adına önemli bir adım olarak değerlendiriliyor. İki ülke arasındaki bu diyalog, bölgedeki gerilimlerin azaltılmasına yönelik diplomatik çabaların bir parçası olarak öne çıkıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15049670/pexels-photo-15049670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-23T01:48:57.128Z",
+        "location": {
+            "lat": 33.3152,
+            "lng": 44.3661,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-says-won-t-allow-its-territory-to-be-used-for-attacks-on-saudi-arabia-regional-countries/4097668",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792710163742y9eqi",
         "title": "ABD'nin yaptırım uyguladığı Uluslararası Ceza Mahkemesi'ne AB'den Sakharov İnsan Hakları Ödülü",
         "summary": "Uluslararası Ceza Mahkemesi (UCM), Avrupa Birliği'nin en prestijli insan hakları ödülü olan Sakharov Ödülü'ne layık görüldü. Bu ödül, ABD Başkanı Donald Trump'ın mahkemeye karşı yaptırımlar açıkladığı tarihten iki haftadan kısa bir süre sonra geldi. ABD, UCM'nin özellikle Afganistan'daki Amerikan askerleri ve Filistin'deki İsrailli yetkililer hakkında açtığı soruşturmalar nedeniyle mahkeme yetkililerine yaptırım uygulama kararı almıştı. Sakharov Ödülü, UCM'nin insan hakları ve uluslararası adalet alanındaki çalışmalarına verilen desteği simgelerken, uluslararası arenadaki farklı yaklaşımları da gözler önüne serdi.",
@@ -764,38 +796,6 @@
             "name": "Mavi Nil Eyaleti, Sudan"
         },
         "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-says-it-thwarted-rsf-attack-in-blue-nile-state/4094525",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17924946795102m0sw",
-        "title": "Sudan Barış Çabaları Cenevre'de Yeniden Başladı: 6. Tur Ne Başarabilir?",
-        "summary": "Sudan'daki barış çabaları, önceki turlarda ateşkes sağlanamaması üzerine Cenevre'de altıncı kez masaya yatırıldı. Bu yeni tur görüşmeler, ülkedeki çatışmalara kalıcı bir çözüm bulma ve istikrarı sağlama hedefiyle düzenleniyor. Toplantıya 22 farklı ülkeden ve 5 uluslararası kuruluştan temsilciler katılım sağlıyor. Tarafların, devam eden insani krizi sonlandırmak ve siyasi bir geçiş süreci oluşturmak için diplomatik yollarla ilerlemesi bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T11:11:19.510Z",
-        "location": {
-            "lat": 46.2044,
-            "lng": 6.1432,
-            "name": "Cenevre, İsviçre"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/explainer-sudan-peace-efforts-return-to-geneva-what-can-6th-round-achieve/4094493",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17924947029918vlxu",
-        "title": "İsrailli Bakan'dan Mısır'a Tehdit, Lübnan ve Gazze İçin İlhak Çağrısı",
-        "summary": "İsrail Maliye Bakanı Bezalel Smotrich, Mısır'ı olası bir saldırı konusunda tehdit etti. Bakan Smotrich ayrıca, Lübnan topraklarının İsrail tarafından ilhak edilmesi çağrısında bulundu. Açıklamalarında, Gazze Şeridi'nin İsrail kontrolüne geçmesi gerektiğini ve Filistinlilerin yerinden edilmesi gerektiğini savundu. Bu ifadeler, bölgesel gerilimi artırabilecek nitelikte değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-20T11:11:42.991Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-minister-threatens-egypt-over-possible-attack-calls-for-annexing-lebanese-territory/4094482",
         "trendScore": 85,
         "isBreaking": false
     }
