@@ -1,5 +1,85 @@
 [
     {
+        "id": "1792847429969eukll",
+        "title": "Malezya, İsrail merkezli navigasyon uygulaması Waze'e tamamen yasak getirmeyi değerlendiriyor",
+        "summary": "Malezya hükümeti, İsrail merkezli navigasyon uygulaması Waze'in ülke genelinde tamamen yasaklanması olasılığını değerlendiriyor. Bu adım, uygulamanın İsrail ile olan bağlantıları nedeniyle atılacak potansiyel bir karar olarak öne çıkıyor. Daha önce Malezya, kamu görevlilerinin resmi görevlerinde Waze kullanmasını yasaklamıştı. Bu yasak, Malezya'nın İsrail'e yönelik duruşunun bir yansıması olarak yorumlanıyor ve ülkenin teknoloji ile uluslararası ilişkiler politikaları üzerinde etkileri olması bekleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14402657/pexels-photo-14402657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T13:10:29.969Z",
+        "location": {
+            "lat": 3.139,
+            "lng": 101.6869,
+            "name": "Kuala Lumpur, Malezya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1792847521065sath5",
+        "title": "İsrail'in Gazze'deki ateşkes ihlallerinde 2 Filistinli hayatını kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail güçlerinin düzenlediği saldırılarda aralarında bir kadının da bulunduğu iki Filistinli hayatını kaybetti. Anadolu Ajansı'na konuşan tıbbi kaynaklar, saldırılarda dört kişinin de yaralandığını bildirdi. Olayların, İsrail'in Gazze'deki ateşkesi ihlal etmesi sonucu meydana geldiği belirtildi. Bölgedeki gerilimin tırmanmaya devam ettiği ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T13:12:01.065Z",
+        "location": {
+            "lat": 31.4,
+            "lng": 34.3,
+            "name": "Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-including-woman-killed-in-latest-israeli-violations-of-gaza-ceasefire/4099465",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792847545615thqqd",
+        "title": "Yemen'in Taiz kentinde Husilerin saldırılarında 2 çocuk öldü, 3 sivil yaralandı: Haklar grubu",
+        "summary": "Yemen'in Taiz kentinde Husilerin düzenlediği saldırılarda iki çocuğun hayatını kaybettiği, üç sivilin ise yaralandığı bildirildi. Yemen Haklar ve Özgürlükler Ağı adlı insan hakları grubu, son 24 saat içinde 21 ihlal kaydettiğini açıkladı. Bu ihlaller arasında adam kaçırma olayları, yerleşim bölgelerinin bombalanması ve evlerde meydana gelen hasarlar yer alıyor. Söz konusu saldırılar, ülkedeki devam eden çatışmaların sivil halk üzerindeki yıkıcı etkisini bir kez daha gözler önüne serdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/11201285/pexels-photo-11201285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T13:12:25.615Z",
+        "location": {
+            "lat": 13.58,
+            "lng": 44.03,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-children-killed-3-civilians-wounded-in-houthi-attacks-in-yemens-taiz-rights-group/4099420",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1792847566998bjzty",
+        "title": "Suudi liderliğindeki koalisyon, Suudi şehirlerini hedef alan 2 Husi balistik füzesini engellediğini duyurdu",
+        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husi güçleri tarafından Suudi Arabistan'ın Taif ve Yanbu şehirlerine fırlatılan iki balistik füzenin engellendiğini bildirdi. Koalisyon sözcüsü, füzelerin hedeflerine ulaşmadan başarıyla imha edildiğini belirtti. Bu olay, bölgedeki devam eden gerilimi ve sınır ötesi saldırıları bir kez daha gözler önüne serdi. Engellenen füzelerin herhangi bir hasara yol açmadığı açıklandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/13128611/pexels-photo-13128611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T13:12:46.998Z",
+        "location": {
+            "lat": 21.27,
+            "lng": 40.41,
+            "name": "Taif, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-ballistic-missiles-targeting-saudi-cities/4099364",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
+        "id": "1792847589517r91bj",
+        "title": "Suudi Arabistan, uyarıların ardından 4 bölgede tehlikenin geçtiğini duyurdu",
+        "summary": "Suudi Arabistan Sivil Savunma Teşkilatı, potansiyel tehlike uyarılarının ardından dört bölgede tehlikenin sona erdiğini bildirdi. Daha önce yapılan uyarılarda, bölge sakinlerinden güvenlik talimatlarına uymaları, toplanmaktan ve görüntü çekmekten kaçınmaları istenmişti. Teşkilat, tehlikenin geçtiğini duyurmasına rağmen, vatandaşların güvenlik yönergelerine riayet etmeye devam etmeleri çağrısında bulundu. Haberde tehlikenin niteliğine dair detay verilmezken, uyarıların bölgedeki güvenlik veya emniyet endişeleriyle ilgili olduğu tahmin ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18241245/pexels-photo-18241245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T13:13:09.517Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-danger-has-passed-in-4-areas-after-warning-alerts/4099319",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1792831560495yl1v1",
         "title": "Aston Villa - Manchester City Premier Lig Karşılaşması Canlı Takip Ediliyor",
         "summary": "İngiltere Premier Lig'de Aston Villa ile Manchester City arasındaki futbol karşılaşması canlı metin yorum akışıyla takip ediliyor. Maç öncesi hazırlıklar ve takım haberleri aktarılırken, yıldız oyuncu Erling Haaland'ın performansı merakla bekleniyor. Manchester City'nin Birleşik Arap Emirlikleri merkezli City Football Group'a ait olması, bu karşılaşmayı Orta Doğu'nun spor yatırımları açısından dolaylı olarak ilgi çekici kılmaktadır. Ayrıca, Aston Villa'nın Mısırlı milyarder Nassef Sawiris'in ortak sahipliğinde bulunması da bölgenin küresel spor endüstrisindeki etkisini göstermektedir.",
@@ -717,86 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/palestinian-women-girls-resume-boxing-in-tent-amid-gaza-devastation/4096544",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1792619786954qarws",
-        "title": "Suudi hava savunması Aramco petrol sahasını hedef alan insansız hava aracını engelledi: 2 ölü, 2 yaralı",
-        "summary": "Suudi Arabistan hava savunma sistemleri, ülkenin doğusundaki Aramco'ya ait Shaybah petrol sahasını hedef alan bir insansız hava aracını başarıyla engelledi. Olayda, düşen enkazın bir müteahhit aracına isabet etmesi sonucu çıkan yangında iki kişi hayatını kaybederken, iki kişi de yaralandı. Suudi Arabistan Enerji Bakanlığı'ndan yapılan açıklamada, saldırıya rağmen petrol sahasındaki operasyonların etkilenmediği ve üretimin kesintisiz devam ettiği bildirildi. Yetkililer, saldırının arkasındaki güçleri belirlemek için soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1488083/pexels-photo-1488083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-21T21:56:26.954Z",
-        "location": {
-            "lat": 22.5,
-            "lng": 54,
-            "name": "Shaybah Petrol Sahası, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-killed-2-injured-after-saudi-air-defenses-intercept-drone-targeting-aramco-oil-field/4096438",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1792606232798t4w93",
-        "title": "Macron'dan Suudi Arabistan'a Sürpriz Ziyaret: Enerji ve Güvenlik Görüşmeleri",
-        "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Suudi Arabistan'a sürpriz bir ziyaret gerçekleştirdi. Riyad'da Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir araya gelen Macron, iki ülke arasındaki enerji işbirliğini ele aldı. Görüşmelerde ayrıca bölgesel güvenlik konuları ve altyapı projeleri de masaya yatırıldı. Ziyaretin, Fransa'nın ek dizel tedariklerini güvence altına aldığı bir döneme denk gelmesi dikkat çekti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/1181370/pexels-photo-1181370.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-21T18:10:32.798Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792587912422a2vpe",
-        "title": "Birleşik Krallık'ın Kuzey Denizi'nde Yeni Gaz Sondajını Onaylaması Protestolara Yol Açtı",
-        "summary": "Birleşik Krallık hükümeti, Kuzey Denizi'nde yeni gaz sondajı projelerine onay verdiğini duyurdu. Bu karar, iklim aktivistleri tarafından yoğun protestolarla karşılandı. Aktivistler, hükümetin fosil yakıt projelerini desteklemesinin iklim değişikliğiyle mücadele hedeflerini baltaladığını savunuyor. Hükümet ise enerji güvenliğini sağlamak ve ithalata bağımlılığı azaltmak amacıyla bu adımı attığını belirtiyor. Karar, ülkenin enerji politikaları ve çevresel taahhütleri üzerine tartışmaları alevlendirdi.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/3207531/pexels-photo-3207531.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-21T13:05:12.422Z",
-        "location": {
-            "lat": 51.5074,
-            "lng": 0.1278,
-            "name": "Londra, Birleşik Krallık"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792587936760wtjim",
-        "title": "Çekya'da Filistin Yanlısı Aktivistler Gözaltında: 'Bizi Kırmaya Çalışıyorlar'",
-        "summary": "Çekya'da Filistin yanlısı aktivistler gözaltına alındı. Bir grup, bir silah fabrikasına saldırı düzenlemekle suçlanırken, aktivistler dayanışma hareketine yönelik artan baskı iddialarında bulundu. Gözaltına alınan aktivistlerin 'Bizi kırmaya çalışıyorlar' şeklindeki ifadeleri dikkat çekti. Bu gelişme, Filistin'e destek veren uluslararası hareketlere yönelik devlet müdahaleleri bağlamında değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36339205/pexels-photo-36339205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-21T13:05:36.760Z",
-        "location": {
-            "lat": 50.0755,
-            "lng": 14.4378,
-            "name": "Prag, Çekya"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1792587999786m9yag",
-        "title": "İsrailli muhalefet lideri Netanyahu altında görev yapmaktansa istifa edeceğini açıkladı",
-        "summary": "İsrail'de muhalefet lideri ve Yashar Partisi Genel Başkanı, Başbakan Binyamin Netanyahu liderliğindeki bir hükümette görev yapmaktansa istifa edeceğini duyurdu. Bu açıklama, ülkede olası bir ulusal birlik hükümeti kurulması yönündeki spekülasyonların arttığı bir dönemde geldi. Muhalefet lideri, bir güç paylaşımı anlaşması kapsamında dahi Netanyahu ile aynı kabinede yer almayacağını net bir şekilde ifade etti. Bu durum, İsrail iç siyasetindeki koalisyon görüşmeleri ve siyasi dengeler üzerinde önemli bir etki yaratma potansiyeli taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32304415/pexels-photo-32304415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-21T13:06:39.786Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-vows-to-resign-rather-than-serve-under-netanyahu/4095973",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
