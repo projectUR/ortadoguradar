@@ -1,5 +1,53 @@
 [
     {
+        "id": "17928783864879lrad",
+        "title": "İran, anlaşma başarısızlığından ABD'yi sorumlu tuttu, yeni saldırı endişeleri arasında yeni bir deneme çağrısı yaptı",
+        "summary": "İran, bir anlaşmanın başarısızlığından Amerika Birleşik Devletleri'ni sorumlu tuttuğunu açıkladı. Tahran yönetimi, yeni saldırı korkuları devam ederken, diplomatik çabaların yeniden başlatılması çağrısında bulundu. İranlı yetkililer, sınırlı dahi olsa herhangi bir saldırının \"birkaç kat daha büyük\" bir yanıtı tetikleyeceği uyarısında bulundu. Bu açıklamalar, iki ülke arasındaki gerilimin tırmanabileceği ve bölgedeki istikrarsızlığın artabileceği endişelerini beraberinde getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849395/pexels-photo-11849395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T21:46:26.487Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17928784070122ifqo",
+        "title": "Husiler Suudi Arabistan ve Yemen'in Aden kentine saldırı düzenledi",
+        "summary": "Yemen'deki Husiler'in, Suudi Arabistan ve Yemen'in Aden kentine yönelik saldırılar gerçekleştirdiği bildirildi. Haberlere göre, Husilere ait füzeler Yemen'de, Aden Havalimanı ve bir sahil güvenlik üssü de dahil olmak üzere çeşitli hedefleri vurdu. Bu saldırılar, bölgedeki mevcut çatışma ve güvenlik endişelerini bir kez daha gündeme getirdi. Olay, Yemen'deki iç savaşın ve bölgesel gerilimlerin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975873/pexels-photo-28975873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T21:46:47.012Z",
+        "location": {
+            "lat": 12.7797,
+            "lng": 45.0385,
+            "name": "Aden, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17928784920576cmbl",
+        "title": "Riyad Havalimanı, iç ve dış hat uçuşları için yeni terminal düzenlemelerini duyurdu",
+        "summary": "Riyad Havalimanı, iç ve dış hat uçuşları için yeni terminal düzenlemelerini açıkladı. Yapılan duyuruya göre, iç hat uçuşları bundan böyle Terminal 1'den gerçekleştirilecek. Ulusal havayolu şirketleri tarafından işletilen dış hat seferleri ise Pazar gününden itibaren Terminal 2'ye taşınacak. Bu değişikliklerin, yolcu deneyimini ve operasyonel verimliliği artırmayı hedeflediği belirtildi.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/30220728/pexels-photo-30220728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-24T21:48:12.058Z",
+        "location": {
+            "lat": 24.95,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/riyadh-airport-announces-new-terminal-arrangements-for-domestic-international-flights/4099869",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1792860712650aw5ci",
         "title": "Rusya, Ürdün'ün Karak kentindeki kilise saldırısını kınadı, 'acımasız terör eylemi' olarak nitelendirdi",
         "summary": "Rusya Dışişleri Bakanlığı, Ürdün'ün Karak kentinde bir kiliseye düzenlenen saldırıyı sert bir dille kınadığını duyurdu. Bakanlık, söz konusu eylemi 'acımasız bir terör eylemi' olarak tanımladı. Moskova, terörizm ve aşırıcılığın her türlüsüyle mücadelede Ürdün ile dayanışma içinde olduğunu belirtti. Bu açıklama, uluslararası toplumun terörle mücadeledeki ortak duruşunu bir kez daha vurguladı.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/world/yemeni-army-launches-airstrikes-on-houthi-missile-launchers-weapons-depots-in-taiz/4097345",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792665140377lxiit",
-        "title": "Sudan ordusu Mavi Nil bölgesinde stratejik askeri üssü geri aldı",
-        "summary": "Sudan ordusu, Mavi Nil bölgesindeki Bakori üssünün kontrolünü paramiliter güçlerle yaşanan şiddetli çatışmaların ardından yeniden ele geçirdi. Üssün geri alınması, ülkedeki devam eden çatışmalarda ordu için stratejik bir başarı olarak değerlendiriliyor. Bu gelişme, Mavi Nil eyaletindeki askeri dengeleri etkileyebilir ve taraflar arasındaki mücadeleyi daha da kızıştırabilir. Sudan'da aylardır süren çatışmalar, milyonlarca insanı yerinden ederken, bölgede ciddi bir insani krize yol açmış durumda. Uluslararası toplum, taraflara ateşkes çağrılarını sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5339771/pexels-photo-5339771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-22T10:32:20.377Z",
-        "location": {
-            "lat": 14.3333,
-            "lng": 34.35,
-            "name": "Ad-Damazin, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-recaptures-strategic-military-base-in-blue-nile-region/4096911",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792646232477h0jyg",
-        "title": "Trump, Kongre Üyesi Ilhan Omar'ı Sınır Dışı Edebilir mi?",
-        "summary": "ABD siyasetinde, eski Başkan Donald Trump'ın Kongre Üyesi Ilhan Omar'ı sınır dışı etme yetkisine sahip olup olmadığına dair tartışmalar devam etmektedir. Bu soru, özellikle Omar'ın göçmen kökeni ve siyasi duruşu nedeniyle zaman zaman gündeme gelmektedir. Hukuki uzmanlar, bir ABD vatandaşı ve seçilmiş bir Kongre üyesinin sınır dışı edilmesinin yasal dayanağının bulunmadığını belirtmektedir. Tartışma, ABD'deki göçmenlik yasaları, başkanlık yetkileri ve siyasi söylemin sınırları üzerine odaklanmaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6282044/pexels-photo-6282044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-22T05:17:12.478Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1792628949657yzm1f",
-        "title": "İran Devrim Muhafızları'ndan 'saldırgan' doktrinle işgal tehdidi",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), yeni 'saldırgan ve asimetrik' doktrini kapsamında kendisine saldıran herhangi bir ülkeyi işgal etme tehdidinde bulundu. Bu açıklama, İran'ın savunma stratejisinde önemli bir değişikliğe işaret ediyor ve doktrinin artık 'saldırgan' bir nitelik taşıdığını gösteriyor. Söz konusu tehdit, Orta Doğu'daki mevcut gerilimi daha da artırma potansiyeli taşıyor. Uluslararası gözlemciler, bu gelişmenin bölgesel güvenlik ve istikrar üzerindeki olası etkilerini yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30396789/pexels-photo-30396789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-22T00:29:09.657Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-        "trendScore": 90,
         "isBreaking": false
     }
 ]
