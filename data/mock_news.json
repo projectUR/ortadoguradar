@@ -1,5 +1,53 @@
 [
     {
+        "id": "1792950479945gwslh",
+        "title": "Jerusalem Daily: İsrail, El Halil'den binlerce kişiyi sınır dışı etti",
+        "summary": "Jerusalem Daily gazetesinin aktardığı bilgiye göre, İsrail güçleri Batı Şeria'da bulunan El Halil şehrinden binlerce kişiyi sınır dışı etme kararı aldı. Bu gelişme, bölgedeki gerilimi artırabilecek önemli bir olay olarak değerlendiriliyor. El Halil, İsrail işgali altındaki Batı Şeria'da yer alan ve hem Filistinliler hem de İsrailli yerleşimciler için hassas bir bölge olarak biliniyor. Sınır dışı edilen kişilerin akıbeti ve bu kararın gerekçeleri hakkında detaylı bilgi henüz paylaşılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8553643/pexels-photo-8553643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-25T17:47:59.945Z",
+        "location": {
+            "lat": 31.5333,
+            "lng": 35.1,
+            "name": "El Halil, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
+        "id": "17929505931628zjko",
+        "title": "Axios: Beyaz Saray, Netanyahu'nun Lobi Faaliyetlerini 'Çaresizlik İşareti' Olarak Görüyor",
+        "summary": "Axios'un haberine göre, Beyaz Saray, İsrail Başbakanı Binyamin Netanyahu'nun dönemin ABD Başkanı Donald Trump'ı yaklaşan parlamento seçimleri öncesinde kamuoyu desteğini artırması yönünde teşvik etmesini 'çaresizlik işareti' olarak değerlendirdi. Haberde, Netanyahu'nun bu lobi faaliyetleriyle İsrail'deki siyasi konumunu güçlendirmeyi amaçladığı belirtildi. Bu durum, İsrail'in iç siyasetindeki gerilimi ve ABD ile İsrail arasındaki geleneksel müttefiklik ilişkilerinin dinamiklerini gözler önüne serdi. Beyaz Saray'ın bu yorumu, iki ülke arasındaki diplomatik ilişkilerde nadiren görülen bir açık sözlülüğü temsil ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8847045/pexels-photo-8847045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-25T17:49:53.162Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/americas/white-house-views-netanyahu-lobbying-sign-of-desperation-axios-reports/4100338",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17929506411634cfcd",
+        "title": "Libya, günlük 50 milyon metreküp kapasiteli doğalgaz sahasını açtı",
+        "summary": "Libya, günlük 50 milyon metreküp üretim kapasitesine sahip yeni bir doğalgaz sahasını hizmete açtığını duyurdu. Bu önemli gelişme, ülkenin ilk ham petrol sevkiyatının 65. yıl dönümüne denk geldi. Yeni sahanın faaliyete geçmesiyle Libya'nın enerji üretimini artırma ve uluslararası enerji piyasasındaki konumunu güçlendirme hedefleri doğrultusunda önemli bir adım atıldığı belirtildi. Kuzey Afrika ülkesi, zengin hidrokarbon kaynaklarını ekonomisine katkı sağlamak amacıyla değerlendirmeye devam ediyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/13100561/pexels-photo-13100561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-25T17:50:41.163Z",
+        "location": {
+            "lat": 32.8879,
+            "lng": 13.5828,
+            "name": "Libya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/libya-opens-gas-field-with-output-capacity-of-50-million-cubic-feet-per-day/4100335",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792938601085me5e8",
         "title": "Sudan'da Madenciler İçin Altın Arayışı Tehlikeli ve Zahmetli Bir Kumar",
         "summary": "Sudan'da devam eden savaş, halkın geçim kaynaklarını ciddi şekilde etkilemeye devam ediyor. Bu durum, birçok kişiyi tehlikeli ve kayıt dışı altın madenciliği gibi riskli faaliyetlere yöneltiyor. 16 yaşındaki Altayeb Alhadi'nin ölümü, el yapımı madencilik sektöründeki büyük tehlikeleri ve çocuk işçiliğinin acı gerçeklerini bir kez daha gözler önüne serdi. Madenciler, hem çatışmanın getirdiği zorluklarla hem de madenciliğin doğasındaki güvenlik riskleriyle mücadele etmek zorunda kalıyor. Bu olay, ülkedeki insani krizin ve güvenlik sorunlarının derinleştiğini gösteriyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/israeli-army-wounds-palestinian-inside-his-vehicle-in-occupied-west-bank/4098543",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1792759718927xl5m5",
-        "title": "İsrail Başbakanı, El Halil'in 'kapatılması' ve işgal altındaki Batı Şeria'nın 'tamamen abluka altına alınması' emrini verdi",
-        "summary": "İsrail Başbakanı Netanyahu, işgal altındaki Batı Şeria'da bulunan El Halil kentinin 'kapatılması' ve bölgenin 'tamamen abluka altına alınması' talimatını verdi. Anadolu Ajansı'na konuşan görgü tanıkları, İsrail ordusunun El Halil'e giden tüm girişleri demir kapılarla kapatarak şehri kuşatma altına aldığını bildirdi. Bu karar, bölgedeki güvenlik gerilimlerinin artmasıyla birlikte geldi ve İsrail'in Filistin topraklarındaki uygulamalarını bir kez daha gündeme taşıdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33924953/pexels-photo-33924953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-23T12:48:38.927Z",
-        "location": {
-            "lat": 31.53,
-            "lng": 35.1,
-            "name": "El Halil, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-premier-orders-closure-of-hebron-full-lockdown-of-occupied-west-bank/4098296",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1792759740164xl1yu",
-        "title": "İsrail'in Gazze'ye düzenlediği saldırıda 1 Filistinli hayatını kaybetti, yaralılar var",
-        "summary": "Yerel kaynaklardan edinilen bilgilere göre, İsrail'in Gazze Şeridi'ne düzenlediği yeni bir saldırıda bir Filistinli yaşamını yitirdi, çok sayıda kişi ise yaralandı. Olay, İsrail insansız hava aracının Gazze'nin güneyinde bir bisikleti hedef alması sonucu meydana geldi. Saldırının ardından bölgeye sağlık ekipleri sevk edildi. Gazze Şeridi, uzun süredir İsrail ablukası altında bulunuyor ve zaman zaman benzer saldırılara sahne oluyor. Bölgedeki gerilim devam ederken, uluslararası toplumdan itidal çağrıları geliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31652486/pexels-photo-31652486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-23T12:49:00.164Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-others-injured-in-fresh-israeli-attack-on-gaza/4098127",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1792739461222x2dsa",
-        "title": "IEA Başkanı Uyardı: AB, Kışa Rekor Düşük Gaz Rezervleriyle Giriyor",
-        "summary": "Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol, Avrupa Birliği'nin kış mevsimine rekor seviyede düşük gaz rezervleriyle girdiğini açıkladı. Birol, bu kritik uyarıyı Berlin'de Al Jazeera'ya verdiği röportajda dile getirdi. Açıklamasında, İran'da yaşanan bir savaşın küresel enerji tedarikini ciddi şekilde aksattığını ve bu durumun Avrupa'nın enerji güvenliği üzerindeki baskıyı artırdığını vurguladı. Bu gelişmeler, AB'nin enerji arz güvenliği konusunda karşı karşıya olduğu zorlukları ve endişeleri gözler önüne seriyor.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/7664405/pexels-photo-7664405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-23T07:11:01.222Z",
-        "location": {
-            "lat": 52.52,
-            "lng": 13.405,
-            "name": "Berlin, Almanya"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
