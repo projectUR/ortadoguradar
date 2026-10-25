@@ -1,5 +1,37 @@
 [
     {
+        "id": "1792886748636zgtyn",
+        "title": "ABD Demokrat Partisi'nin politikaları son seçimlerden bu yana nasıl bir değişim gösterdi?",
+        "summary": "ABD Demokrat Partisi'nin politikaları, son büyük seçimlerden bu yana önemli değişimler kaydetti. Parti adayları, seçmen tabanındaki kaymalara yanıt olarak trans hakları ve İsrail'in Gazze'ye yönelik savaşı gibi çeşitli konularda pozisyonlarını gözden geçirdi. Özellikle İsrail-Gazze çatışması, parti içindeki ve seçmenler arasındaki farklı görüşlerin etkisiyle Demokratların dış politika duruşunu etkileyen kritik bir mesele haline geldi. Bu gelişmeler, ABD'nin Orta Doğu'ya yönelik politikalarında potansiyel değişikliklerin sinyallerini veriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-25T00:05:48.636Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.4,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1792886850346ufcja",
+        "title": "İsrail ordusu seçimler öncesi en yüksek alarm seviyesinde, on binlerce asker konuşlandırdı",
+        "summary": "İsrail ordusu, yaklaşan seçimler öncesinde en yüksek alarm seviyesine geçti ve on binlerce askerini konuşlandırdı. Kamu yayıncısı tarafından yapılan açıklamaya göre, belirli bir istihbarat olmamasına rağmen, güvenlik güçleri olası bir sürpriz saldırıyı önlemek amacıyla çeşitli senaryolara karşı hazırlık yapıyor. Bu önlemlerin, seçim dönemlerinde artan güvenlik risklerine karşı standart bir prosedür olduğu belirtiliyor. Bölgedeki gerilimin yüksek olduğu bir dönemde alınan bu kararın, iç güvenlik ve dış tehdit algılarıyla ilişkili olduğu düşünülüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/188040/pexels-photo-188040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-25T00:07:30.346Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.75,
+            "name": "İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-on-highest-alert-deploys-tens-of-thousands-of-troops-ahead-of-elections/4099876",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17928783864879lrad",
         "title": "İran, anlaşma başarısızlığından ABD'yi sorumlu tuttu, yeni saldırı endişeleri arasında yeni bir deneme çağrısı yaptı",
         "summary": "İran, bir anlaşmanın başarısızlığından Amerika Birleşik Devletleri'ni sorumlu tuttuğunu açıkladı. Tahran yönetimi, yeni saldırı korkuları devam ederken, diplomatik çabaların yeniden başlatılması çağrısında bulundu. İranlı yetkililer, sınırlı dahi olsa herhangi bir saldırının \"birkaç kat daha büyük\" bir yanıtı tetikleyeceği uyarısında bulundu. Bu açıklamalar, iki ülke arasındaki gerilimin tırmanabileceği ve bölgedeki istikrarsızlığın artabileceği endişelerini beraberinde getiriyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "179268331973283jvc",
-        "title": "ABD, Husi saldırıları tırmanırken bazı diplomatlarının Suudi Arabistan'dan ayrılmasını emretti",
-        "summary": "Amerika Birleşik Devletleri, Husi saldırılarının artması üzerine bazı diplomatlarının Suudi Arabistan'dan ayrılması talimatını verdi. Bu uyarı, son saldırılarda bir havalimanı ve bir petrol sahasının hedef alınması ve en az üç kişinin hayatını kaybetmesinin ardından geldi. Bölgedeki güvenlik durumunun kötüleştiği belirtiliyor. ABD'nin bu kararı, vatandaşlarının ve diplomatik personelinin güvenliğini sağlama amacı taşıyor. Yemen'deki çatışmaların Suudi Arabistan'a yansımaları devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5699683/pexels-photo-5699683.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-22T15:35:19.732Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792683387441l6i5o",
-        "title": "Yemen ordusu Taiz'de Husilere ait füze rampaları ve silah depolarına hava saldırısı düzenledi",
-        "summary": "Yemen ordusu, ülkenin Taiz kentinde Husilere ait hedeflere yönelik hava saldırıları gerçekleştirdi. Devlet televizyonunun bildirdiğine göre, saldırılarda Husilere ait füze rampaları ve silah depoları vuruldu. Ayrıca, radar sistemleri ve askeri iletişim ağları da hedef alındı. Bu operasyonlar, bölgedeki çatışmaların devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37732817/pexels-photo-37732817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-22T15:36:27.441Z",
-        "location": {
-            "lat": 13.6,
-            "lng": 44,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/world/yemeni-army-launches-airstrikes-on-houthi-missile-launchers-weapons-depots-in-taiz/4097345",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
