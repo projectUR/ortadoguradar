@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792960576495ttsbo",
+        "title": "ABD ordusu: Hürmüz Boğazı'nda gemilerin %95'inden fazlası güvenli seyrediyor",
+        "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) tarafından yapılan açıklamaya göre, Amiral Brad Cooper Hürmüz Boğazı'nı ziyaret etti. Açıklamada, Amerikan kuvvetlerinin yazdan bu yana Körfez'deki ortak ülkelere 1,5 milyar varil petrol ihraç etmelerinde yardımcı olduğu belirtildi. ABD ordusu, İran'ın 'saldırganlığına' rağmen boğazdan geçen gemilerin %95'inden fazlasının güvenli bir şekilde seyrettiğini vurguladı. Bu durum, bölgedeki deniz güvenliğinin ve enerji akışının önemini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35024006/pexels-photo-35024006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-25T20:36:16.495Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/more-than-95-of-ships-navigate-strait-of-hormuz-safely-despite-iranian-aggression-us-military-says/4100426",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792950479945gwslh",
         "title": "Jerusalem Daily: İsrail, El Halil'den binlerce kişiyi sınır dışı etti",
         "summary": "Jerusalem Daily gazetesinin aktardığı bilgiye göre, İsrail güçleri Batı Şeria'da bulunan El Halil şehrinden binlerce kişiyi sınır dışı etme kararı aldı. Bu gelişme, bölgedeki gerilimi artırabilecek önemli bir olay olarak değerlendiriliyor. El Halil, İsrail işgali altındaki Batı Şeria'da yer alan ve hem Filistinliler hem de İsrailli yerleşimciler için hassas bir bölge olarak biliniyor. Sınır dışı edilen kişilerin akıbeti ve bu kararın gerekçeleri hakkında detaylı bilgi henüz paylaşılmadı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17927596968477h1ga",
-        "title": "İsrail ordusu işgal altındaki Batı Şeria'da aracındaki Filistinliyi yaraladı",
-        "summary": "İşgal altındaki Batı Şeria'da İsrail güçleri, aracının içinde bulunan bir Filistinli adama ateş açtı. Yerel kaynakların Anadolu Ajansı'na verdiği bilgiye göre, olay sonucunda Filistinli şahıs yaralandı. Bu olay, bölgede devam eden İsrail-Filistin çatışmasının bir parçası olarak kayıtlara geçti ve gerilimi tırmandıran son gelişmelerden biri oldu. Yaralı Filistinlinin sağlık durumu hakkında detaylı bilgi verilmedi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8560740/pexels-photo-8560740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-23T12:48:16.847Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-wounds-palestinian-inside-his-vehicle-in-occupied-west-bank/4098543",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
