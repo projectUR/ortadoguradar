@@ -1,5 +1,21 @@
 [
     {
+        "id": "1792969562872gdlvj",
+        "title": "Husiler, Suudi Arabistan'daki havalimanı ve askeri üsleri füzelerle vurduğunu iddia etti",
+        "summary": "Yemen'deki Husi grubu, Suudi Arabistan'a yönelik füze saldırıları düzenlediği iddiasında bulundu. Grubun açıklamasına göre, Suudi Arabistan'ın güneyindeki askeri tesisler ve başkent Riyad'daki Kral Halid Uluslararası Havalimanı hedef alındı. Husiler, bu hedeflere yönelik toplam üç ayrı operasyon gerçekleştirdiklerini öne sürdü. Bu iddialar, Yemen'deki çatışmanın Suudi Arabistan topraklarına yansıması olarak değerlendiriliyor ve bölgedeki mevcut gerilimi artırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-25T23:06:02.872Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-attacked-saudi-airport-military-bases-with-missiles-/4100444",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1792960576495ttsbo",
         "title": "ABD ordusu: Hürmüz Boğazı'nda gemilerin %95'inden fazlası güvenli seyrediyor",
         "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM) tarafından yapılan açıklamaya göre, Amiral Brad Cooper Hürmüz Boğazı'nı ziyaret etti. Açıklamada, Amerikan kuvvetlerinin yazdan bu yana Körfez'deki ortak ülkelere 1,5 milyar varil petrol ihraç etmelerinde yardımcı olduğu belirtildi. ABD ordusu, İran'ın 'saldırganlığına' rağmen boğazdan geçen gemilerin %95'inden fazlasının güvenli bir şekilde seyrettiğini vurguladı. Bu durum, bölgedeki deniz güvenliğinin ve enerji akışının önemini bir kez daha gözler önüne serdi.",
@@ -780,22 +796,6 @@
             "name": "Batı Şeria"
         },
         "source": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792759673871y1d0h",
-        "title": "Ürdün'de Kiliseye Silahlı Saldırı: Çok Sayıda Ölü ve Yaralı Var",
-        "summary": "Ürdün'de kimliği belirsiz silahlı kişiler tarafından bir kiliseye düzenlenen saldırıda çok sayıda kişi hayatını kaybetti ve yaralandı. Ürdün devlet televizyonu Al-Mamlaka'nın aktardığı bilgilere göre, olayda 7 kişi yaşamını yitirirken, yaklaşık 10 kişi de yaralandı. Saldırganların kiliseye ateş açtığı belirtildi. Güvenlik güçleri olayla ilgili geniş çaplı soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/19224452/pexels-photo-19224452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-23T12:47:53.871Z",
-        "location": {
-            "lat": 31,
-            "lng": 36,
-            "name": "Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/several-killed-injured-in-jordan-as-unknown-gunmen-open-fire-on-church-reports/4098566",
         "trendScore": 85,
         "isBreaking": false
     }
