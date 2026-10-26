@@ -1,5 +1,37 @@
 [
     {
+        "id": "1792978287662ahlfg",
+        "title": "İran Gerilimi: Trump Saldırıları Dışladı, İsrail El Halil'e Baskın Düzenledi",
+        "summary": "ABD Başkanı Donald Trump, İran'a yönelik olası askeri saldırıları \"bugün\" için dışladığını açıkladı. Bu açıklama, İran'ın ABD ve İsrail'in yenilenen saldırılarının \"farklı bir sonuç doğurmayacağını\" belirtmesinin ardından geldi. Bölgedeki gerilimin sürdüğü bu dönemde, İsrail güçleri Batı Şeria'da bulunan El Halil kentine bir baskın düzenledi. Bu gelişmeler, Orta Doğu'daki güvenlik dinamiklerinin ve potansiyel çatışma risklerinin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-26T01:31:27.662Z",
+        "location": {
+            "lat": 31.5333,
+            "lng": 35.0917,
+            "name": "El Halil, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1792978359375hxnwx",
+        "title": "İsrail Başbakanı Netanyahu'nun Ordu Komutanı ile İran Bağlantılı Operasyon Tartışması Yaşadığı İddia Edildi",
+        "summary": "İsrail Başbakanı Binyamin Netanyahu ile Genelkurmay Başkanı arasında, seçimler öncesinde İran bağlantılı bir operasyon konusunda anlaşmazlık yaşandığı bildirildi. Habere göre, Genelkurmay Başkanı, askeri yetkililerin operasyonun seçim motivasyonlarıyla ilgili endişeleri nedeniyle Başbakan'dan yazılı yasal yetki talep etti. Bu durum, İsrail ordusunun siyasi müdahalelerden kaçınma çabasını yansıtırken, Başbakan Netanyahu ise herhangi bir anlaşmazlık yaşandığını reddetti. Olay, İsrail'in iç siyaseti ve bölgesel güvenlik konularındaki hassasiyetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163425/war-desert-guns-gunshow-163425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-26T01:32:39.375Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-netanyahu-clashes-with-army-chief-over-iran-linked-operation-ahead-of-election-report/4100541",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1792969562872gdlvj",
         "title": "Husiler, Suudi Arabistan'daki havalimanı ve askeri üsleri füzelerle vurduğunu iddia etti",
         "summary": "Yemen'deki Husi grubu, Suudi Arabistan'a yönelik füze saldırıları düzenlediği iddiasında bulundu. Grubun açıklamasına göre, Suudi Arabistan'ın güneyindeki askeri tesisler ve başkent Riyad'daki Kral Halid Uluslararası Havalimanı hedef alındı. Husiler, bu hedeflere yönelik toplam üç ayrı operasyon gerçekleştirdiklerini öne sürdü. Bu iddialar, Yemen'deki çatışmanın Suudi Arabistan topraklarına yansıması olarak değerlendiriliyor ve bölgedeki mevcut gerilimi artırıyor.",
@@ -764,38 +796,6 @@
             "name": "Batı Şeria, Filistin"
         },
         "source": "https://www.aa.com.tr/en/americas/un-chief-deeply-concerned-over-widespread-closures-by-israel-in-occupied-west-bank/4098934",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792759628474gm0yw",
-        "title": "ABD-İran Savaşı: Şubat Ayından Bu Yana Durum Nasıl Değişti?",
-        "summary": "Analistler, ABD ve İran arasındaki ilişkilerde Şubat ayından bu yana önemli değişiklikler yaşandığını belirtiyor. Washington ve Tahran'ın pozisyonlarında dramatik farklılıklar gözlemleniyor. Bu durumun, ABD-İsrail ortak saldırılarının savaşı başlatmasından bu yana meydana geldiği ifade ediliyor. Uzmanlar, bölgedeki güç dengelerinin ve diplomatik yaklaşımların bu süreçte yeniden şekillendiğini vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3947611/pexels-photo-3947611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-23T12:47:08.474Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1792759651185z4gqv",
-        "title": "Batı Şeria'da Silahlı Saldırı: Beş İsrailli Yaralandı, İki Filistinli Saldırgan Öldürüldü",
-        "summary": "İşgal altındaki Batı Şeria'da meydana gelen silahlı saldırıda beş İsrailli yaralandı. Saldırıyı gerçekleştirdiği iddia edilen iki Filistinli ise olay yerinde öldürüldü. Bu olay, bölgede artan gerilimin yaşandığı bir döneme denk geldi. Ayrıca, İsrail'deki genel seçimlere sadece dört gün kala gerçekleşmesiyle siyasi bir boyut da taşıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6090872/pexels-photo-6090872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-23T12:47:31.185Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
