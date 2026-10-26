@@ -1,5 +1,53 @@
 [
     {
+        "id": "1793026768786vh6a3",
+        "title": "İran'da Müzakere Karşıtı Sertlik Yanlıları Cumhurbaşkanı Pezeşkiyan'a Karşı Çıktı",
+        "summary": "İran'da müzakere karşıtı sertlik yanlısı gruplar, yeni seçilen Cumhurbaşkanı Mesud Pezeşkiyan'a karşı tutum aldı. Bu muhalefetin temelinde, Pezeşkiyan'ın Amerika Birleşik Devletleri ile olası müzakerelere yönelik yaklaşımı yatıyor. Sertlik yanlıları, ABD ile herhangi bir diyaloğa sıcak bakmazken, Pezeşkiyan'ın bu konudaki esnek duruşu iç siyasette gerilime neden oluyor. Bu durum, İran'ın dış politika yönelimi ve iç siyasi dengeleri üzerinde önemli etkiler yaratabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8846950/pexels-photo-8846950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-26T14:59:28.786Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17930268469995q8ry",
+        "title": "Ürdün, kilise saldırısı şüphelisi üç kişiyi çatışma sonrası tutukladı",
+        "summary": "Ürdün'de Cuma günü Hmoud köyünde bir kiliseye düzenlenen silahlı saldırıda dokuz Hristiyan hayatını kaybetti. Ürdünlü yetkililer, olayın ardından çıkan çatışmada saldırıyla bağlantılı olduğu düşünülen üç şüpheliyi tutukladıklarını duyurdu. Güvenlik güçleri, şüphelilerin yakalanması için operasyon düzenledi. Saldırının sorumluluğunu henüz hiçbir grup üstlenmezken, olayla ilgili soruşturma devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17794050/pexels-photo-17794050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-26T15:00:46.999Z",
+        "location": {
+            "lat": 32.33,
+            "lng": 35.75,
+            "name": "Hmoud, Ürdün"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1793027007290g2m1q",
+        "title": "Mısır Parlamentosu, Suudi Arabistan'a Askeri Destek Görüşmelerine Yeniden Başladı",
+        "summary": "Mısır parlamentosu, Suudi Arabistan'a askeri destek sağlama olasılığını görüşmek üzere kapalı oturumlarına devam ediyor. Milletvekilleri, bölgesel gerilimler ışığında Suudi Arabistan'ın yardım talep etmesi halinde Cumhurbaşkanı Abdülfettah el-Sisi'ye asker gönderme yetkisi verilmesini ele alıyor. Bu görüşmeler, iki önemli Orta Doğu ülkesi arasındaki potansiyel askeri işbirliğini ve bölgedeki mevcut gergin durumu yansıtıyor. Karar, bölgedeki güç dengeleri ve güvenlik dinamikleri açısından önem taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7468212/pexels-photo-7468212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-26T15:03:27.290Z",
+        "location": {
+            "lat": 30.0444,
+            "lng": 31.2357,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egyptian-parliament-resumes-closed-door-talks-on-military-support-for-saudi-arabia/4101309",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17929999778303yn4l",
         "title": "İsrail seçimleri: Önde gelen adayların ağzından ana konular",
         "summary": "İsrail'de yaklaşan seçimler öncesinde önde gelen adayların kampanya gündemini belirleyen ana konulara odaklanılıyor. Seçim sürecinde yargı reformu ve zorunlu askerlik gibi kritik meseleler öne çıkıyor. Adaylar, bu temel konulardaki duruşlarını seçmenlere aktararak destek arayışlarını sürdürüyor. Haber, lider adayların bu önemli başlıklardaki görüşlerini ve politikalarını detaylandırıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/death-toll-from-church-attack-in-jordan-rises-to-8/4099297",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1792831669790wtqn7",
-        "title": "Irak: Ülkede ABD askeri kalmadı, danışmanlar bile yok",
-        "summary": "Irak Başbakanı, ülkesinde ABD askeri gücünün kalmadığını, danışmanların dahi çekildiğini açıkladı. Başbakan, Bağdat'ın gelecek Haziran ayına kadar tüm silahları devlet kontrolü altına almayı hedeflediğini belirtti. Ayrıca, Irak'ın Washington ile stratejik ortaklığını güçlendirmeyi amaçladığını ifade etti. Bu açıklamalar, Irak'ın egemenliğini pekiştirme ve iç güvenlik mekanizmalarını güçlendirme çabaları olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/17487313/pexels-photo-17487313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-24T08:47:49.790Z",
-        "location": {
-            "lat": 33.3152,
-            "lng": 44.3661,
-            "name": "Bağdat, Irak"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iraq-says-no-us-troops-left-in-the-country-not-even-advisers/4099166",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792831691891grjgw",
-        "title": "Suudi liderliğindeki koalisyon, Riyad'a fırlatılan Husi füzesini engelledi",
-        "summary": "Suudi Arabistan liderliğindeki koalisyon, Yemen'deki Husi güçleri tarafından Riyad'a doğru fırlatılan bir balistik füzeyi başarıyla engellediğini duyurdu. Koalisyon sözcüsü, füzenin fırlatıldığı yer veya herhangi bir hasar hakkında detay vermedi. Bu olay, Yemen'deki çatışmanın Suudi Arabistan topraklarına yönelik saldırılarla devam ettiğini gösteriyor. Riyad'ın hedef alınması, bölgedeki gerilimin sürdüğüne işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27292151/pexels-photo-27292151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-24T08:48:11.891Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6877,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-houthi-missile-fired-toward-riyadh/4099163",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1792831715199a7stn",
-        "title": "İsrail Seçim Anketleri: Netanyahu Bloğu Muhalefetin Gerisinde",
-        "summary": "İsrail'de önümüzdeki Salı günü yapılacak parlamento seçimleri öncesinde yasal olarak açıklanmasına izin verilen son anket sonuçları kamuoyuyla paylaşıldı. Anketlere göre, Başbakan Binyamin Netanyahu liderliğindeki blokun 50 sandalye kazanması öngörülürken, muhalefet blokunun 52 sandalye ile önde olduğu belirtildi. Bu sonuçlar, ülkedeki siyasi dengelerin oldukça yakın olduğunu ve iktidar mücadelesinin çekişmeli geçeceğini gösteriyor. Seçimler öncesi son veriler, olası bir hükümet değişikliğine işaret edebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5926273/pexels-photo-5926273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-24T08:48:35.199Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/world/netanyahu-bloc-trailing-opposition-with-projected-50-seats-to-52-in-final-israeli-election-polls/4099160",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
