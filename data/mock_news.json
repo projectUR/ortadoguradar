@@ -1,5 +1,101 @@
 [
     {
+        "id": "17931167053311pz03",
+        "title": "İran'ın ABD Gerilimi Yaklaşırken Hesapları: Güven, Ara Seçimler, Hürmüz",
+        "summary": "Tahran, ABD-İsrail çatışmasında tırmanışı önlemeye yönelik diplomatik aciliyete rağmen taleplerinde kararlı duruşunu sürdürüyor. İran'ın bu süreçteki hesaplamaları arasında güven faktörü, ABD ara seçimleri ve Hürmüz Boğazı'nın stratejik önemi yer alıyor. Olası bir ABD geriliminin eşiğinde olan İran, bu unsurları dikkate alarak politikalarını belirliyor ve bölgesel dinamikleri etkileyecek adımlar atmaya hazırlanıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-27T15:58:25.331Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1793116726095iuz6t",
+        "title": "İsrail seçimlerinde katılım 50 yılın zirvesinde",
+        "summary": "İsrail'de devam eden genel seçimlerde katılım oranının son 50 yılın en yüksek seviyesine ulaştığı bildirildi. Ülke genelinde oy kullanma işlemleri sürerken, öğleden sonra itibarıyla seçmenlerin yaklaşık yüzde 45'inin sandık başına gittiği belirtildi. Bu durum, seçim sonuçlarına yönelik beklentileri artırırken, yeni hükümetin kurulması sürecini de etkileyebilecek önemli bir gelişme olarak değerlendiriliyor. Seçimler, İsrail'in iç ve dış politikasında belirleyici olacak yeni bir dönemin başlangıcı olarak görülüyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8846624/pexels-photo-8846624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-27T15:58:46.095Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793116761974vmo51",
+        "title": "İsrail ordusu sınırı geçen Mısırlı vatandaşı gözaltına aldı",
+        "summary": "İsrail ordusu, Mısır sınırından İsrail topraklarına geçen bir Mısır vatandaşını gözaltına aldı. Olay, Nitzana yakınlarında meydana geldi. Gözaltına alınan Mısırlı erkeğin sınırı geçme nedeni henüz belirlenemedi. İsrail makamları, olayın detaylarını araştırıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/37632503/pexels-photo-37632503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-27T15:59:21.974Z",
+        "location": {
+            "lat": 30.85,
+            "lng": 34.42,
+            "name": "Nitzana, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1793116784660i5ya0",
+        "title": "Hegseth, ABD'nin Asya-Pasifik ortaklarıyla bağlarını güçlendirmek için Manila'ya gidiyor",
+        "summary": "ABD'li yetkili Hegseth, ülkesinin Asya-Pasifik bölgesindeki ortaklarıyla ilişkilerini pekiştirmek amacıyla Manila'ya bir ziyaret gerçekleştiriyor. Bu ziyaret, bölge ülkelerinin stratejik hesaplamalarını yeniden gözden geçirdiği bir döneme denk geliyor. Özellikle İran'da yaşanan savaş ve eski Başkan Trump'ın müttefiklere yönelik eleştirileri, Asya-Pasifik ülkelerinin ABD ile olan bağlarını ve bölgesel güvenlik yaklaşımlarını yeniden değerlendirmelerine yol açtı. Washington, bu ziyaretle bölgedeki müttefikleriyle olan ilişkilerini güçlendirmeyi ve ortaklıklarını sağlamlaştırmayı hedefliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-27T15:59:44.660Z",
+        "location": {
+            "lat": 14.5995,
+            "lng": 120.9842,
+            "name": "Manila, Filipinler"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1793116809756riovy",
+        "title": "Riyad'a düşen balistik füze önleme enkazı maddi hasara yol açtı",
+        "summary": "Suudi Arabistan'ın başkenti Riyad'da, bir balistik füzenin önlenmesi sonucu ortaya çıkan enkaz parçaları yerleşim yerlerine düştü. Suudi Sivil Savunma yetkilileri tarafından yapılan açıklamaya göre, düşen enkaz bir binada ve bir inşaat alanında maddi hasara neden oldu. Olayda can kaybı veya yaralanma olup olmadığına dair bilgi verilmedi. Bu durum, bölgedeki güvenlik gerilimlerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-27T16:00:09.756Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/debris-from-ballistic-missile-interception-falls-in-riyadh-causing-material-damage/4102717",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1793116849365sxsph",
+        "title": "Husiler, Suudi Arabistan'da 4 noktayı balistik füzeler ve insansız hava aracıyla hedef aldıklarını iddia etti",
+        "summary": "Yemen'deki Husi grubu, Suudi Arabistan'da dört farklı noktaya balistik füzeler ve insansız hava araçlarıyla saldırı düzenlediğini duyurdu. Grubun açıklamasına göre, başkent Riyad'daki Savunma Bakanlığı binası ile Abha Uluslararası Havalimanı hedef alındı. Ayrıca, iki farklı bölgedeki askeri uçakların da saldırılarda vurulduğu iddia edildi. Bu saldırılar, bölgedeki gerilimi artırma potansiyeli taşıyor ve Suudi Arabistan'ın hava savunma sistemlerinin etkinliği hakkında soru işaretleri yaratıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16660293/pexels-photo-16660293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-27T16:00:49.365Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/houthis-claim-targeting-4-locations-in-saudi-arabia-with-ballistic-missiles-drone/4102695",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1793096219828w7qvg",
         "title": "İsrail seçim sonuçları 2026: Kimin kazandığı ne zaman belli olacak ve sırada ne var?",
         "summary": "İsrail'de yapılan seçimlerin sonuçları merakla bekleniyor. Salı günü geç saatlerde oylama sona erdikten kısa bir süre sonra sandık çıkış anketlerinin açıklanması öngörülüyor. Ancak kesin sonuçların ve kazananın belirlenmesinin birkaç gün sürebileceği belirtiliyor. Bu durum, yeni hükümetin kurulması sürecinde belirsizliğe yol açabilir. Seçim sonuçları, İsrail'in iç ve dış politikalarını şekillendirecek liderliği belirleyeceği için bölgesel ve uluslararası düzeyde yakından takip ediliyor.",
@@ -700,102 +796,6 @@
             "name": "Bender Abbas, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/irans-army-claims-it-shot-down-us-drone-over-southern-iran/4100054",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792922706434ksc1h",
-        "title": "Kripto paralar yaptırımları aşamaz: İsrail Merkez Bankası Netanyahu'ya yanıt verdi",
-        "summary": "İsrail Merkez Bankası, kripto paraların uluslararası yaptırımları aşmak için kullanılamayacağını açıkladı. Bu açıklama, Başbakan Netanyahu'nun olası yaptırımlara karşı geliştirdiği acil durum planlarına yönelik bir yanıt olarak geldi. Muhalefet, Netanyahu'nun bu tür planlarının sermaye kaçışını tetikleyebileceği ve İsrail ekonomisine olan güveni zedeleyebileceği konusunda uyarılarda bulundu. Tartışma, ülkenin ekonomik istikrarı ve uluslararası yaptırımlara karşı direnci üzerine yoğunlaşıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/8850749/pexels-photo-8850749.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-25T10:05:06.434Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/cryptocurrencies-cannot-circumvent-sanctions-bank-of-israel-responds-to-netanyahu/4100017",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1792922729742g5ila",
-        "title": "Suudi liderliğindeki koalisyon, güney Suudi Arabistan'ı hedef alan 10 Husi balistik füzesini engelledi",
-        "summary": "Suudi Arabistan liderliğindeki koalisyon güçleri, ülkenin güney bölgelerini hedef alan 10 adet Husi balistik füzesini başarıyla imha ettiğini duyurdu. Koalisyon tarafından yapılan açıklamada, füzelerin Suudi Arabistan topraklarına ulaşmadan havada etkisiz hale getirildiği belirtildi. Bu gelişme, koalisyonun daha önce ülkenin güneybatısı üzerinde bir Husi seyir füzesini engellemesinin ardından yaşandı. Yemen'deki Husiler, Suudi Arabistan'a yönelik sık sık füze ve insansız hava aracı saldırıları düzenliyor. Bölgedeki gerilim, Yemen'deki çatışmaların bir yansıması olarak devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/13359076/pexels-photo-13359076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-25T10:05:29.742Z",
-        "location": {
-            "lat": 17.5,
-            "lng": 44.2,
-            "name": "Güney Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/world/saudi-led-coalition-intercepts-10-houthi-ballistic-missiles-targeting-southern-saudi-arabia/4100014",
-        "trendScore": 80,
-        "isBreaking": true
-    },
-    {
-        "id": "1792922750702uhoff",
-        "title": "İsrail ordusu Batı Şeria'nın El Halil kentinde Filistinlilerin evlerini askeri karakollara dönüştürdü",
-        "summary": "İsrail ordusunun Batı Şeria'nın El Halil kentinde Filistinlilere ait evleri askeri karakollara dönüştürdüğü bildirildi. Operasyonun ikinci gününe girdiği ve Filistinli ailelerin evlerinden çıkarılmaya zorlandığı belirtildi. İsrail askerlerinin ayrıca Beytüllahim yakınlarındaki alternatif güzergahları da kapattığı kaydedildi. Bu durum, bölgedeki gerilimi artırırken, yerel halkın yaşam koşullarını olumsuz etkiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34693693/pexels-photo-34693693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-25T10:05:50.702Z",
-        "location": {
-            "lat": 31.53,
-            "lng": 35.1,
-            "name": "El Halil, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-turns-palestinian-homes-into-military-posts-in-west-bank-city-of-hebron/4099934",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1792886748636zgtyn",
-        "title": "ABD Demokrat Partisi'nin politikaları son seçimlerden bu yana nasıl bir değişim gösterdi?",
-        "summary": "ABD Demokrat Partisi'nin politikaları, son büyük seçimlerden bu yana önemli değişimler kaydetti. Parti adayları, seçmen tabanındaki kaymalara yanıt olarak trans hakları ve İsrail'in Gazze'ye yönelik savaşı gibi çeşitli konularda pozisyonlarını gözden geçirdi. Özellikle İsrail-Gazze çatışması, parti içindeki ve seçmenler arasındaki farklı görüşlerin etkisiyle Demokratların dış politika duruşunu etkileyen kritik bir mesele haline geldi. Bu gelişmeler, ABD'nin Orta Doğu'ya yönelik politikalarında potansiyel değişikliklerin sinyallerini veriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-25T00:05:48.636Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792886850346ufcja",
-        "title": "İsrail ordusu seçimler öncesi en yüksek alarm seviyesinde, on binlerce asker konuşlandırdı",
-        "summary": "İsrail ordusu, yaklaşan seçimler öncesinde en yüksek alarm seviyesine geçti ve on binlerce askerini konuşlandırdı. Kamu yayıncısı tarafından yapılan açıklamaya göre, belirli bir istihbarat olmamasına rağmen, güvenlik güçleri olası bir sürpriz saldırıyı önlemek amacıyla çeşitli senaryolara karşı hazırlık yapıyor. Bu önlemlerin, seçim dönemlerinde artan güvenlik risklerine karşı standart bir prosedür olduğu belirtiliyor. Bölgedeki gerilimin yüksek olduğu bir dönemde alınan bu kararın, iç güvenlik ve dış tehdit algılarıyla ilişkili olduğu düşünülüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/188040/pexels-photo-188040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-25T00:07:30.346Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.75,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-on-highest-alert-deploys-tens-of-thousands-of-troops-ahead-of-elections/4099876",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17928783864879lrad",
-        "title": "İran, anlaşma başarısızlığından ABD'yi sorumlu tuttu, yeni saldırı endişeleri arasında yeni bir deneme çağrısı yaptı",
-        "summary": "İran, bir anlaşmanın başarısızlığından Amerika Birleşik Devletleri'ni sorumlu tuttuğunu açıkladı. Tahran yönetimi, yeni saldırı korkuları devam ederken, diplomatik çabaların yeniden başlatılması çağrısında bulundu. İranlı yetkililer, sınırlı dahi olsa herhangi bir saldırının \"birkaç kat daha büyük\" bir yanıtı tetikleyeceği uyarısında bulundu. Bu açıklamalar, iki ülke arasındaki gerilimin tırmanabileceği ve bölgedeki istikrarsızlığın artabileceği endişelerini beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849395/pexels-photo-11849395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-24T21:46:26.487Z",
-        "location": {
-            "lat": 35.7,
-            "lng": 51.4,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
