@@ -1,5 +1,37 @@
 [
     {
+        "id": "1793146694638auizt",
+        "title": "Gazze'deki kadın sinemacılar acılarını sinemaya dönüştürüyor, yeni akademi açıldı",
+        "summary": "Gazze'de kadın sinemacılar, bölgede yaşanan savaş, kayıp ve hayatta kalma gibi zorlu deneyimlerini sinema aracılığıyla beyaz perdeye taşıyor. Yeni kurulan bir akademi, kadın yönetmenlere bu alanda destek olmayı ve yeteneklerini geliştirmeyi amaçlıyor. Gazze film festivali de bu çerçevede, kadınların direncini ve hikayelerini ön plana çıkararak uluslararası kamuoyunun dikkatini çekiyor. Bu girişim, Gazze'deki kadınların sanatsal ifade özgürlüğünü güçlendirirken, yaşadıkları zorluklara rağmen umut ve yaratıcılıklarını koruduklarını gösteriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/32439171/pexels-photo-32439171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-28T00:18:14.638Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1793146743420x7sw1",
+        "title": "İsrail'de Ben-Gvir'in Partisi Seçimde Koltuk Kaybetti",
+        "summary": "İsrail'de yapılan seçimlerin ardından aşırı sağcı Otzma Yehudit (Yahudi Gücü) partisinin lideri Itamar Ben-Gvir, partisinin meclisteki sandalye sayısını kaybettiğini gösteren anket sonuçlarına rağmen meydan okuyan bir duruş sergiledi. Anketler, Ben-Gvir'in partisinin önceki seçimlere kıyasla daha az destek aldığını ve parlamentoda daha az temsil edileceğini ortaya koydu. Bu durum, Ben-Gvir için siyasi bir gerileme olarak yorumlanırken, kendisi destekçilerine hitaben yaptığı konuşmada kararlılığını vurguladı. Seçim sonuçları, İsrail siyasetindeki güç dengelerini ve ülkenin güvenlik politikalarını etkileyecek önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8846624/pexels-photo-8846624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-28T00:19:03.420Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793133294454xn4wj",
         "title": "İsrail seçimlerinde sandık çıkışı anketleri net bir kazanan olmadığını gösteriyor",
         "summary": "İsrail'de yapılan seçimlerin ardından açıklanan sandık çıkışı anketleri, hiçbir partinin veya bloğun tek başına hükümet kurmaya yetecek çoğunluğu elde edemediğini ortaya koydu. Bu durum, ülkenin siyasi belirsizliğe sürüklenebileceği endişelerini artırdı. Seçimlerin resmi sonuçlarının ise oylamadan bir haftadan fazla bir süre sonra, 4 Kasım tarihinde açıklanması bekleniyor. Bu tarihe kadar koalisyon görüşmelerinin başlaması öngörülüyor.",
@@ -764,38 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aa.com.tr/en/americas/irans-parliament-speaker-says-us-entered-quagmire-due-to-miscalculations-/4100283",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792922497879pgce3",
-        "title": "İsrail güçleri, El Halil'deki evleri askeri karakollara dönüştürdü",
-        "summary": "İşgal altındaki Batı Şeria'da gerilimin tırmanmasıyla birlikte tahliyeler, baskınlar ve yerleşim birimi genişletmeleri devam ediyor. Özellikle El Halil kentinde İsrail güçlerinin Filistinlilere ait evleri askeri karakollara çevirdiği bildirildi. Bu durum, bölgedeki Filistinlilerin yaşam koşullarını olumsuz etkiliyor ve uluslararası insan hakları örgütlerinin tepkisini çekiyor. Bölgede artan gerilim, İsrail-Filistin çatışmasının derinleştiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33924953/pexels-photo-33924953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-25T10:01:37.879Z",
-        "location": {
-            "lat": 31.5328,
-            "lng": 35.0967,
-            "name": "El Halil, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1792922586711g2ihy",
-        "title": "İsrail, seçim günü Batı Şeria geçişlerini kapatacak, baskı artıyor",
-        "summary": "İsrail Savunma Kuvvetleri (IDF), Salı günü yapılacak seçimler öncesinde Filistinli işçilerin hareketine kısıtlamalar getireceğini duyurdu. Bu önlemler kapsamında, seçim günü Batı Şeria geçişleri kapatılacak. Karar, artan güvenlik baskılarının bir parçası olarak alındı. Bu tür kapatmalar genellikle İsrail'de çalışan binlerce Filistinliyi etkileyerek günlük yaşamlarını ve ekonomik faaliyetlerini olumsuz yönde etkiliyor. IDF, bu kısıtlamaların seçim dönemi boyunca güvenlik gerekçesiyle uygulandığını belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38084080/pexels-photo-38084080.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-25T10:03:06.711Z",
-        "location": {
-            "lat": 31.9038,
-            "lng": 35.2034,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
