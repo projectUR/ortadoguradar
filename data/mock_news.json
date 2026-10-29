@@ -1,5 +1,21 @@
 [
     {
+        "id": "1793309916851688bh",
+        "title": "İsrail kontrolü sıkılaştırırken Filistinliler Mescid-i Aksa'dan artan yasaklarla karşı karşıya",
+        "summary": "İsrail'in Mescid-i Aksa imamına yönelik yasağı yenilemesiyle birlikte, İslami Vakıflar İdaresi yetkilileri, Müslümanların kutsal mekanındaki yetkilerinin azaldığı konusunda uyarıda bulundu. Bu durum, İsrail'in bölgedeki kontrolünü sıkılaştırmasıyla Filistinlilerin Mescid-i Aksa'ya erişiminde artan kısıtlamalarla karşı karşıya kaldığını gösteriyor. İslami Vakıflar, Mescid-i Aksa'nın idaresi üzerindeki yetkilerinin aşındırılmasından endişe duyduğunu belirtti. Bu gelişmeler, Kudüs'teki kutsal mekanların statüsü ve yönetimi konusundaki gerilimi bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/2087323/pexels-photo-2087323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-29T21:38:36.851Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793292234325h6cu0",
         "title": "Türkiye'deki Ünlü Turistik Alanda Ölümcül Kaya Çökmesi",
         "summary": "Türkiye'de ünlü bir turistik alanda meydana gelen kaya çökmesi sonucu can kayıpları yaşandı. Olayın ardından bölgeye çok sayıda arama kurtarma ekibi sevk edildi ve kurtarma çalışmaları başlatıldı. Yetkililer, çökmenin nedenini belirlemek üzere detaylı bir soruşturma başlattıklarını duyurdu. Bu trajik olay, turistik bölgelerdeki güvenlik önlemlerinin ve doğal risklerin yönetimi konularını yeniden gündeme getirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-lifts-emergency-warning-in-southern-city-of-abha/4102250",
         "trendScore": 70,
-        "isBreaking": false
-    },
-    {
-        "id": "1793096338443cuk4f",
-        "title": "Ürdün, Suriye'deki saldırılarda 20'den fazla DEAŞ üyesinin öldürüldüğünü, büyük bir silah deposunun imha edildiğini duyurdu",
-        "summary": "Ürdün, Suriye topraklarında gerçekleştirdiği hava saldırılarında 20'den fazla DEAŞ (IŞİD) üyesinin etkisiz hale getirildiğini ve örgütün önemli bir silah deposunun imha edildiğini açıkladı. Ürdün hükümeti, operasyonlar sırasında meydana gelen sivil kayıplardan dolayı üzüntü duyduğunu belirtti. Amman yönetimi, bu tür olayların önüne geçmek ve operasyonların takibini sağlamak amacıyla Suriye ile ortak bir komite kurmayı planladığını duyurdu. Bu adımın, iki ülke arasındaki işbirliğini güçlendirmeyi hedeflediği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35957800/pexels-photo-35957800.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-27T10:18:58.443Z",
-        "location": {
-            "lat": 31.9539,
-            "lng": 35.9106,
-            "name": "Amman, Ürdün"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/jordan-says-strikes-in-syria-killed-over-20-isis-members-destroyed-major-weapons-depot/4102227",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
