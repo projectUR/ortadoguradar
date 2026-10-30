@@ -1,5 +1,21 @@
 [
     {
+        "id": "179332460868998yrm",
+        "title": "Yemen ordusu, Husilerin Taiz'de zehirli gaz kullandığı iddialarını araştırıyor",
+        "summary": "Yemen ordusu, Husilerin Taiz kentinde zehirli gaz kullandığına dair raporları araştırdığını duyurdu. Askeri kaynaklara göre, iddia edilen zehirli maddelerin mermilerde kullanılması sonucu siviller ve direniş savaşçıları zehirlenme ve boğulma belirtileri gösterdi. Ordu, bu iddiaların doğruluğunu ve kullanılan maddelerin niteliğini tespit etmek için soruşturma başlattı. Bu tür maddelerin kullanımı, uluslararası hukuka göre savaş suçu teşkil edebilir ve bölgedeki çatışmaların seyrini etkileyebilecek ciddi bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7723275/pexels-photo-7723275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-30T01:43:28.689Z",
+        "location": {
+            "lat": 13.57,
+            "lng": 44.02,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-investigating-reports-of-houthi-use-of-toxic-gases-in-taiz/4105552",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793309916851688bh",
         "title": "İsrail kontrolü sıkılaştırırken Filistinliler Mescid-i Aksa'dan artan yasaklarla karşı karşıya",
         "summary": "İsrail'in Mescid-i Aksa imamına yönelik yasağı yenilemesiyle birlikte, İslami Vakıflar İdaresi yetkilileri, Müslümanların kutsal mekanındaki yetkilerinin azaldığı konusunda uyarıda bulundu. Bu durum, İsrail'in bölgedeki kontrolünü sıkılaştırmasıyla Filistinlilerin Mescid-i Aksa'ya erişiminde artan kısıtlamalarla karşı karşıya kaldığını gösteriyor. İslami Vakıflar, Mescid-i Aksa'nın idaresi üzerindeki yetkilerinin aşındırılmasından endişe duyduğunu belirtti. Bu gelişmeler, Kudüs'teki kutsal mekanların statüsü ve yönetimi konusundaki gerilimi bir kez daha gündeme getirdi.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-qatar-discuss-expanding-political-economic-energy-cooperation/4102255",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793096313296tmnbi",
-        "title": "Suudi Arabistan, güneydeki Abha şehrinde acil durum uyarısını kaldırdı",
-        "summary": "Suudi Arabistan makamları, ülkenin güneyindeki Abha şehrinde ilan edilen acil durum uyarısının kaldırıldığını duyurdu. Yetkililer, bölgedeki tehlikenin sona erdiğini ve durumun normale döndüğünü bildirdi. Şehir sakinlerine ise Sivil Savunma tarafından belirlenen güvenlik talimatlarına uymaya devam etmeleri çağrısı yapıldı. Bu kararın, bölgedeki güvenlik durumunun iyileşmesi üzerine alındığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29090563/pexels-photo-29090563.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-27T10:18:33.296Z",
-        "location": {
-            "lat": 18.2167,
-            "lng": 42.5,
-            "name": "Abha, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-lifts-emergency-warning-in-southern-city-of-abha/4102250",
-        "trendScore": 70,
         "isBreaking": false
     }
 ]
