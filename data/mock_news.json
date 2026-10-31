@@ -1,5 +1,37 @@
 [
     {
+        "id": "1793476363924zx4yv",
+        "title": "İşgal Altındaki Batı Şeria'da Zeytin Hasadı Filistinliler İçin Ölümcül Bir Faaliyete Dönüştü",
+        "summary": "İşgal altındaki Batı Şeria'da Filistinli çiftçiler, zeytin hasadı döneminde İsrailli yerleşimcilerin saldırılarına maruz kalıyor. Haberlere göre, yerleşimciler zeytinliklere girerek Filistinlilerin kendi mahsullerini toplamasını engelliyor ve şiddet olaylarına neden oluyor. Bu durum, Filistinliler için geleneksel bir geçim kaynağı olan zeytin hasadını tehlikeli ve hatta ölümcül bir faaliyete dönüştürüyor. Bölgedeki gerilimler, hasat döneminde daha da artarak insan hakları ihlallerine ve güvenlik sorunlarına yol açıyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/39167830/pexels-photo-39167830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-31T19:52:43.924Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.25,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1793476433825c6rg7",
+        "title": "İsrail'den Eisenkot, sonuçsuz seçimin ardından geniş tabanlı yeni bir hükümet kurma sözü verdi",
+        "summary": "İsrail'de yapılan genel seçimlerin ardından hiçbir ana bloğun parlamentoda çoğunluğu sağlayamaması üzerine hükümet kurma çalışmaları hız kazandı. Yashar lideri Eisenkot, sonuçsuz kalan seçimin ardından geniş tabanlı yeni bir hükümet kurma taahhüdünde bulundu. Eisenkot, milletvekillerini dört temel ilke etrafında birleşmeye çağırarak, siyasi çıkmazı aşmayı hedeflediğini belirtti. Bu çağrı, ülkenin siyasi geleceği için koalisyon görüşmelerinin kritik bir aşamaya girdiğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32266781/pexels-photo-32266781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-31T19:53:53.825Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-eisenkot-vows-to-form-broad-new-government-after-inconclusive-election/4107616",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793462337776ecrtj",
         "title": "İran Dışişleri Bakanı, ABD Temaslarını 'Olumlu Bir Adım' Olarak Niteledi, Heyet Katar'da Görüşmelerde",
         "summary": "İran Dışişleri Bakanı, ABD ile yürütülen temasları \"olumlu bir adım\" olarak değerlendirdiğini açıkladı. Bu açıklamalar, İran heyetinin görüşmeler için Katar'da bulunduğu sırada geldi. Bakan Abbas Araghchi, El Cezire'ye verdiği demeçte, Tahran'ın olası bir saldırı ihtimalini göz ardı etmediğini vurguladı. Araghchi, ülkesinin \"tüm senaryolara hazırlıklı olduğunu\" da sözlerine ekledi. Bu durum, bölgedeki diplomatik çabaların, güvenlik endişeleri eşliğinde devam ettiğini gösteriyor.",
@@ -764,38 +796,6 @@
             "name": "Hartum, Sudan"
         },
         "source": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793214097089mnisl",
-        "title": "Netanyahu bloğu İsrail seçimlerinde önde ancak çoğunluğu sağlayamadı, kısmi sonuçlar gösteriyor",
-        "summary": "İsrail'de yapılan genel seçimlerin kısmi sonuçlarına göre, oyların yüzde 85'i sayıldığında, Başbakan Binyamin Netanyahu liderliğindeki Likud Partisi ve müttefikleri 120 sandalyeli Knesset'te 53 sandalye kazanmaya hazırlanıyor. Bu sonuçlar, Netanyahu bloğunun seçimlerde önde olduğunu gösterse de, hükümet kurmak için gerekli olan 61 sandalyelik çoğunluğa ulaşamadığını ortaya koyuyor. Mevcut durum, İsrail siyasetinde koalisyon görüşmelerinin zorlu geçeceğine ve potansiyel bir kilitlenmeye işaret ediyor. Ülkenin yeni hükümetinin oluşumu için siyasi partiler arasında yoğun pazarlıkların başlaması bekleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5926273/pexels-photo-5926273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-28T19:01:37.089Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1793214136215vmrg5",
-        "title": "İsrail seçim çıkmazını nasıl aşabilir? İşte dört senaryo",
-        "summary": "İsrail'de oyların yüzde 85'inin sayılmasının ardından siyasi bir çıkmaza girildiği belirtiliyor. Mevcut göstergeler, ülkenin bir hükümet kurma konusunda zorluklarla karşılaşacağını ve en muhtemel sonucun yeni seçimler olabileceğini işaret ediyor. Haber, İsrail'in bu seçim çıkmazını aşmak için olası dört senaryoyu değerlendiriyor. Bu durum, ülkedeki siyasi istikrarsızlığın devam edebileceği ve koalisyon görüşmelerinin karmaşık bir süreç olacağı beklentisini güçlendiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7103091/pexels-photo-7103091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-28T19:02:16.215Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
