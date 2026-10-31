@@ -1,5 +1,37 @@
 [
     {
+        "id": "17934882939960q8rk",
+        "title": "İsrail'de protestocular Arap partili hükümet talep ederken, sağcı aktivistler yeni seçim çağrısı yapıyor",
+        "summary": "İsrail'de devam eden siyasi çıkmazda, ne Başbakan Binyamin Netanyahu liderliğindeki blok ne de muhalifleri parlamentoda çoğunluğu sağlayabildi. Bu durum, hükümet kurma çabalarında Arap partilerini merkezi bir konuma getiriyor. Ülke genelinde, Arap partilerinin de dahil olduğu bir hükümetin kurulmasını talep eden protestolar düzenleniyor. Öte yandan, sağcı aktivistler ise mevcut siyasi tıkanıklığın aşılması için yeni bir seçim yapılması çağrısında bulunuyor. Bu gelişmeler, İsrail'deki siyasi bölünmüşlüğü ve istikrarlı bir koalisyon kurma zorluklarını gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/6054378/pexels-photo-6054378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-31T23:11:33.996Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/protesters-in-israel-demand-government-with-arab-parties-as-right-wing-activists-call-for-new-election/4107690",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1793488314560ay7rp",
+        "title": "İran'dan nükleer doktrini değiştirmeye yönelik yeni bir resmi karar alınmadı: Yetkili",
+        "summary": "İranlı bir yetkili, ülkesinin nükleer doktrinini değiştirmeye yönelik yeni bir resmi karar almadığını duyurdu. Ulusal Güvenlik Konseyi başkanı tarafından yapılan açıklamaya göre, Tahran'ın Amerikan arabulucular aracılığıyla iletilen yeni bir mektuba henüz yanıt vermediği belirtildi. Bu durum, İran'ın nükleer programına ilişkin uluslararası diplomasi ve müzakerelerin devam ettiğini gösteriyor. Açıklama, İran'ın nükleer politikaları üzerindeki uluslararası baskı ve beklentilerin sürdüğüne işaret ediyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-31T23:11:54.560Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-has-made-no-new-official-decision-to-change-nuclear-doctrine-official/4107686",
+        "trendScore": 88,
+        "isBreaking": true
+    },
+    {
         "id": "1793476363924zx4yv",
         "title": "İşgal Altındaki Batı Şeria'da Zeytin Hasadı Filistinliler İçin Ölümcül Bir Faaliyete Dönüştü",
         "summary": "İşgal altındaki Batı Şeria'da Filistinli çiftçiler, zeytin hasadı döneminde İsrailli yerleşimcilerin saldırılarına maruz kalıyor. Haberlere göre, yerleşimciler zeytinliklere girerek Filistinlilerin kendi mahsullerini toplamasını engelliyor ve şiddet olaylarına neden oluyor. Bu durum, Filistinliler için geleneksel bir geçim kaynağı olan zeytin hasadını tehlikeli ve hatta ölümcül bir faaliyete dönüştürüyor. Bölgedeki gerilimler, hasat döneminde daha da artarak insan hakları ihlallerine ve güvenlik sorunlarına yol açıyor.",
@@ -764,38 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793214026944yqwgz",
-        "title": "İsrail'de Balad Lideri, Arap Partilerinin Dışlanmasını 'Irkçı' Olarak Niteledi",
-        "summary": "İsrail'de yapılan seçimlerin ardından net bir kazanan çıkmazken, muhalefet bloğunun Arap partileriyle ittifak kurmayı reddetmesi siyasi gerilimi artırdı. Balad partisinin lideri, Arap partilerinin koalisyon görüşmelerinden dışlanmasını 'ırkçı' bir tutum olarak değerlendirdi. Bu durum, İsrail siyasetindeki Arap vatandaşlarının temsil ve katılım hakları üzerine tartışmaları yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8849340/pexels-photo-8849340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-28T19:00:26.944Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "179321405334737gd5",
-        "title": "Sudan'daki Savaş ve Enflasyon Hartum'daki Aileleri Hayatta Kalma Mücadelesine İtiyor",
-        "summary": "Sudan'ın başkenti Hartum'da devam eden savaş ve yükselen enflasyon, bölge halkını derin bir yaşam mücadelesine sürüklüyor. Gıda fiyatlarındaki fahiş artışlar ve hane halkı gelirlerindeki düşüş, ailelerin temel ihtiyaçlarını karşılamakta zorlanmasına neden oluyor. Birçok aile, hayatta kalabilmek için borçlanmak zorunda kalırken, öğün atlamak gibi çaresiz önlemlere başvuruyor. Bu durum, başkentteki insani krizin boyutlarını gözler önüne seriyor ve acil yardıma ihtiyaç duyulduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4833556/pexels-photo-4833556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-28T19:00:53.347Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 32.56,
-            "name": "Hartum, Sudan"
-        },
-        "source": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
     }
