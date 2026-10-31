@@ -1,5 +1,37 @@
 [
     {
+        "id": "1793421755518sf9sa",
+        "title": "İran, Hürmüz Boğazı'nda dört tankerin mayınlara çarparak alev aldığını bildirdi",
+        "summary": "İran Devrim Muhafızları, Hürmüz Boğazı'nda dört petrol tankerinin alev aldığını duyurdu. Yapılan açıklamada, tankerlerin mayınlara çarparak yangın çıkardığı belirtildi. Dünya petrol ticaretinin kilit noktalarından biri olan Hürmüz Boğazı'ndaki bu olay, bölgedeki deniz güvenliği endişelerini artırdı. Olayın nedenleri ve sorumluları hakkında henüz detaylı bilgi verilmezken, uluslararası kamuoyu gelişmeleri yakından takip ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18597927/pexels-photo-18597927.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-31T04:42:35.518Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793421854114dqjdw",
+        "title": "Demokrat Senatör, Mısır'daki basın baskısını ABD askeri yardımı kararına bağlıyor",
+        "summary": "ABD'li Demokrat Senatör Chris Murphy, Mısır'daki basın özgürlüğüne yönelik baskıların ve gazetecilerin tutuklanmalarının, ABD'nin Mısır'a sağladığı askeri yardıma ilişkin insan hakları koşullarını kaldırma kararından kaynaklandığını öne sürdü. Senatör Murphy, bu kararın Mısır hükümetine basın mensuplarına karşı harekete geçme konusunda zemin hazırladığını belirtti. ABD'nin insan hakları koşullarından feragat etmesinin, Mısır'daki gazetecilerin tutuklanmasının önünü açtığını ifade eden Murphy, bu durumun ABD'nin dış politikası ve insan hakları konularındaki tutumu üzerine tartışmaları yeniden gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/10464787/pexels-photo-10464787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-10-31T04:44:14.114Z",
+        "location": {
+            "lat": 30.04,
+            "lng": 31.24,
+            "name": "Kahire, Mısır"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1793373116441wegvn",
         "title": "ABD Senatörleri, Trump'ın İran'a Karşı Savaş Planı Hakkında Bilgilendirildi",
         "summary": "ABD Senatörleri, eski Başkan Donald Trump'ın İran'a karşı savaşı yeniden başlatma planları hakkında bilgilendirildi. Senatör Chris Murphy, bu bilgilendirmenin yapıldığını doğrulayarak, söz konusu planın potansiyel etkilerine dikkat çekti. Bu gelişme, ABD'nin Orta Doğu politikaları ve İran ile ilişkilerindeki gerilimi yeniden gündeme taşıdı. Planın detayları henüz kamuoyuna açıklanmazken, bölgedeki güvenlik dinamikleri açısından önemli bir tartışma konusu olmaya devam ediyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/politics/arab-joint-list-extends-hand-to-eisenkots-bloc-to-oust-netanyahu-govt/4103785",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17931940384429g2y6",
-        "title": "İsrail seçimlerinde Netanyahu bloğu 53, Eisenkot liderliğindeki partiler 48 sandalye kazanmaya yakın: Oy sayımı %85,6'ya ulaştı",
-        "summary": "İsrail'de devam eden oy sayımının %85,6'ya ulaşmasıyla birlikte seçim sonuçlarına ilişkin ilk projeksiyonlar açıklandı. Buna göre, eski Başbakan Binyamin Netanyahu liderliğindeki blokun 53 sandalye kazanması bekleniyor. Gadi Eisenkot liderliğindeki partilerin ise 48 sandalye elde edeceği öngörülüyor. Arap partilerinin toplamda 17 sandalye kazanacağı tahmin edilirken, hiçbir büyük bloğun parlamentoda tek başına çoğunluğu sağlayamayacağı belirtildi. Bu durum, yeni hükümetin kurulması için koalisyon görüşmelerinin kritik önem taşıyacağını gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5926273/pexels-photo-5926273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-28T13:27:18.442Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/politics/netanyahu-s-bloc-projected-to-win-53-seats-eisenkot-led-parties-48-as-vote-count-reaches-856-/4103697",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1793146694638auizt",
-        "title": "Gazze'deki kadın sinemacılar acılarını sinemaya dönüştürüyor, yeni akademi açıldı",
-        "summary": "Gazze'de kadın sinemacılar, bölgede yaşanan savaş, kayıp ve hayatta kalma gibi zorlu deneyimlerini sinema aracılığıyla beyaz perdeye taşıyor. Yeni kurulan bir akademi, kadın yönetmenlere bu alanda destek olmayı ve yeteneklerini geliştirmeyi amaçlıyor. Gazze film festivali de bu çerçevede, kadınların direncini ve hikayelerini ön plana çıkararak uluslararası kamuoyunun dikkatini çekiyor. Bu girişim, Gazze'deki kadınların sanatsal ifade özgürlüğünü güçlendirirken, yaşadıkları zorluklara rağmen umut ve yaratıcılıklarını koruduklarını gösteriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/32439171/pexels-photo-32439171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-28T00:18:14.638Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
