@@ -1,5 +1,101 @@
 [
     {
+        "id": "1793551149072s5w88",
+        "title": "Al Jazeera Balkans, yeni dijital öncelikli formatıyla yeniden yayına başladı",
+        "summary": "Katar merkezli Al Jazeera Medya Ağı'nın Balkanlar'daki kolu Al Jazeera Balkans (AJB), dijital öncelikli yeni formatıyla yeniden faaliyete geçti. Kanalın dijital direktörü, AJB'nin geri dönüşünün, ağın 'hikayenin önemli olduğu yere gitme' misyonunun bir 'yeniden teyidi' olduğunu belirtti. Bu stratejik hamle, Al Jazeera'nın bölgesel erişimini ve dijital platformlardaki varlığını güçlendirme çabasını yansıtmaktadır. Yeniden yapılanma, medya kuruluşunun Balkanlar'daki etkinliğini pekiştirirken, küresel medya ortamındaki dijital dönüşüme uyum sağlama hedefini de ortaya koymaktadır.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/267371/pexels-photo-267371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-01T16:39:09.072Z",
+        "location": {
+            "lat": 43.8563,
+            "lng": 18.4131,
+            "name": "Sarajevo, Bosnia and Herzegovina"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1793551205070w7ga2",
+        "title": "İsrail'in Gazze Saldırılarında Sekiz Kişi Hayatını Kaybetti",
+        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda sekiz kişinin yaşamını yitirdiği açıklandı. Hastane kaynakları, ölenler arasında bir çocuğun da bulunduğunu bildirdi. Yetkililer, Hamas kontrolündeki polis teşkilatından beş memurun Han Yunus'ta hayatını kaybettiğini belirtti. Gazze Şehri'nde ise aralarında bir çocuğun da bulunduğu üç kişinin saldırılarda öldüğü kaydedildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-01T16:40:05.070Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793551229986zyvjo",
+        "title": "Suudi Arabistan, acil durum uyarılarının ardından Abha ve Hamis Muşayt'ta tehlikenin geçtiğini duyurdu",
+        "summary": "Suudi Arabistan, ülkenin güneyindeki Abha ve Hamis Muşayt şehirlerinde verilen acil durum uyarılarının ardından tehlikenin geçtiğini bildirdi. Bu uyarılar, Yemen'deki Husiler ile Yemen'in uluslararası tanınmış hükümetini destekleyen Suudi liderliğindeki koalisyon arasındaki çatışmaların tırmandığı bir dönemde geldi. Bölgedeki gerilimin artmasıyla birlikte, Suudi Arabistan'ın güney bölgeleri zaman zaman benzer tehditlerle karşı karşıya kalmaktadır. Olay, Yemen'deki iç savaşın bölgesel yansımalarını bir kez daha gözler önüne sermiştir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-01T16:40:29.986Z",
+        "location": {
+            "lat": 18.22,
+            "lng": 42.5,
+            "name": "Abha, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-gives-all-clear-in-abha-khamis-mushait-after-emergency-alerts/4108138",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17935512520636vpit",
+        "title": "Suudi liderliğindeki koalisyon Yemen'de Husilerin askeri kaynaklarını 'etkisiz hale getirmek' için operasyon başlattı",
+        "summary": "Suudi Arabistan liderliğindeki koalisyon, Yemen'de Husilere ait askeri kaynakları hedef alan bir operasyon başlattığını duyurdu. Koalisyon, operasyonun Husilerin balistik füze ve insansız hava aracı (İHA) kapasitelerini destekleyen kaynakları etkisiz hale getirmeyi amaçladığını belirtti. Yapılan açıklamada, operasyonun gerçekleştirildiği spesifik konumlar hakkında bilgi verilmedi. Bu gelişme, Yemen'deki mevcut çatışma ortamında yeni bir gerilim dalgasına işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-01T16:40:52.063Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-launches-operation-to-neutralize-houthi-military-resources-in-yemen/4108105",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793551279597w5hxb",
+        "title": "Sonuçsuz seçimlerin ardından İsrail muhalefeti Knesset'in kontrolünü ele geçirmeyi hedefliyor",
+        "summary": "İsrail'de sonuçsuz kalan seçimlerin ardından muhalefet, parlamentonun (Knesset) kontrolünü ele geçirme girişiminde bulunuyor. Muhalefet, hakkında cezai kovuşturma bulunan kişilerin, henüz mahkumiyet kararı olmasa dahi hükümet kurmasını yasaklayacak bir yasa tasarısını geçirmeyi hedefliyor. Walla internet sitesinin haberine göre, bu yasa tasarısı İsrail siyasetinde önemli bir tartışma konusu haline geldi. Bu adım, ülkenin siyasi geleceği üzerinde belirleyici bir rol oynayabilir ve yeni bir hükümetin oluşum sürecini etkileyebilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/14237672/pexels-photo-14237672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-01T16:41:19.597Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/after-inconclusive-elections-israeli-opposition-seeks-control-of-knesset/4108100",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17935513059104xxux",
+        "title": "İran Savunma Bakanı: Askeri Kapasitemizi 'Coğrafi Sınırlar Olmaksızın' Yanıt Verecek Şekilde Artırıyoruz",
+        "summary": "İran Savunma Bakanı, ülkesinin askeri kapasitesini \"coğrafi sınırlar olmaksızın\" yanıt verebilecek şekilde artırdığını duyurdu. Bu açıklamalar, Katar ve Pakistan'ın Washington ile Tahran arasındaki görüşmeleri yeniden canlandırma çabalarının sürdüğü bir döneme denk geldi. Her iki ülke de ABD ve İran arasındaki gerilimi azaltmak ve nükleer anlaşma müzakerelerini yeniden başlatmak için arabuluculuk faaliyetleri yürütüyor. İran'ın askeri gücünü artırma yönündeki bu adımları, bölgesel ve uluslararası güvenlik dinamikleri açısından önemli bir gelişme olarak değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30396780/pexels-photo-30396780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-01T16:41:45.910Z",
+        "location": {
+            "lat": 35.7,
+            "lng": 51.4,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-boosting-military-capabilities-to-respond-without-geographical-limits-defense-minister/4108079",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17935258272844i3gy",
         "title": "İsrailli protestocular Yahudi-Arap koalisyon hükümeti çağrısı yapıyor",
         "summary": "İsrail'de bir grup protestocu, ülkenin siyasi geleceğine yönelik önemli bir talepte bulundu. Göstericiler, Yahudi ve Arap partilerin bir araya gelerek bir koalisyon hükümeti kurması çağrısı yaptı. Bu çağrı, İsrail siyasetindeki mevcut kutuplaşmayı aşma ve farklı topluluklar arasında daha geniş bir uzlaşı sağlama arayışını yansıtıyor. Talep, ülkenin demografik yapısını ve siyasi dinamiklerini göz önünde bulundurarak, daha kapsayıcı bir yönetişim modelinin gerekliliğine işaret ediyor. Söz konusu protestoların, İsrail'in iç siyasetinde yeni bir tartışma başlattığı belirtiliyor.",
@@ -700,102 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793292234325h6cu0",
-        "title": "Türkiye'deki Ünlü Turistik Alanda Ölümcül Kaya Çökmesi",
-        "summary": "Türkiye'de ünlü bir turistik alanda meydana gelen kaya çökmesi sonucu can kayıpları yaşandı. Olayın ardından bölgeye çok sayıda arama kurtarma ekibi sevk edildi ve kurtarma çalışmaları başlatıldı. Yetkililer, çökmenin nedenini belirlemek üzere detaylı bir soruşturma başlattıklarını duyurdu. Bu trajik olay, turistik bölgelerdeki güvenlik önlemlerinin ve doğal risklerin yönetimi konularını yeniden gündeme getirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/40590638/pexels-photo-40590638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-29T16:43:54.325Z",
-        "location": {
-            "lat": 39,
-            "lng": 35,
-            "name": "Türkiye"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1793292256092apwsv",
-        "title": "İsrail'in Katar karşıtı kampanyası seçimlere yansıdı",
-        "summary": "İsrail'de bazı çevrelerin Katar'ı seçimlere müdahale etmekle suçlaması üzerine, Katar Dışişleri Bakanlığı sözcüsü bu iddiaları 'dezenformasyon' olarak nitelendirerek reddetti. Haber başlığına göre, İsrail'in Katar karşıtı kampanyası ülkedeki seçim ortamına yansımış durumda. Bu durum, iki Orta Doğu ülkesi arasındaki gerilimin siyasi süreçlere etkisini gösteriyor. Katar, İsrail'deki seçimlere yönelik herhangi bir müdahale iddialarını kesin bir dille yalanladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5926416/pexels-photo-5926416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-29T16:44:16.092Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1793292296342zry9h",
-        "title": "İsrail saldırıları Gazze'yi vurdu, Sağlık Bakanlığı Refah'ın açılmasını talep ediyor",
-        "summary": "Gazze Şeridi'nde İsrail'in devam eden saldırıları nedeniyle bölgedeki sağlık durumu kritik seviyeye ulaştı. Gazze Sağlık Bakanlığı'ndan yapılan açıklamada, yurt dışında tedavi bekleyen onlarca hastanın hayatını kaybettiği bildirildi. Bakanlık, bölgedeki insani krizin derinleştiğini vurgulayarak, Refah Sınır Kapısı'nın açılması çağrısında bulundu. Açıklamada, 'ateşkes' iddialarına rağmen İsrail saldırılarının sürdüğü belirtildi. Bu durum, bölgedeki sağlık hizmetlerinin yetersizliği ve uluslararası yardımların ulaştırılamaması sorununu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8832582/pexels-photo-8832582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-29T16:44:56.342Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1793292339599dlan5",
-        "title": "Mısır ve ABD, Sudan krizi ve siyasi çözüm çabalarını görüştü",
-        "summary": "Mısır Dışişleri Bakanı ve ABD Başkanlık Danışmanı, bölgesel konuları ele almak üzere bir araya geldi. Görüşmelerde, Sudan'daki mevcut kriz ve bu krize yönelik siyasi çözüm çabaları üzerinde duruldu. Ayrıca, Libya'daki siyasi sürecin ilerletilmesi ve ülkedeki istikrarın sağlanması konuları da masaya yatırıldı. Taraflar, deniz yetki alanlarının sınırlandırılmasına ilişkin meseleleri de değerlendirdi. Bu görüşmeler, iki ülke arasındaki stratejik iş birliğinin bir parçası olarak gerçekleşti.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/11816424/pexels-photo-11816424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-29T16:45:39.599Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Cairo, Egypt"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/egypt-us-discuss-sudan-crisis-efforts-for-political-settlement/4105269",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793292362779pouuv",
-        "title": "Yemen ordusu, 'Yemen Şafağı' operasyonunda 24 saatte 324 Husi'nin etkisiz hale getirildiğini iddia etti",
-        "summary": "Yemen ordusu, 'Yemen Şafağı' adı verilen operasyon kapsamında son 24 saat içinde 324 Husi savaşçısının etkisiz hale getirildiğini duyurdu. Ordu sözcüsü tarafından yapılan açıklamada, bu süre zarfında toplam 982 operasyon gerçekleştirildiği belirtildi. Operasyonlar sonucunda 108 araç ve silahın imha edildiği veya hasar gördüğü ifade edildi. Bu gelişmeler, Yemen'deki mevcut çatışmaların yoğunluğunu ve devam eden askeri faaliyetleri gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9268711/pexels-photo-9268711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-29T16:46:02.779Z",
-        "location": {
-            "lat": 15,
-            "lng": 47,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-claims-324-houthis-neutralized-in-24-hours-during-dawn-of-yemen-operation/4105234",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17932923864431t1tr",
-        "title": "İran, ABD Senatörü JD Vance'ten gelen mesaja yanıt vermedi",
-        "summary": "Kıdemli bir İran güvenlik kaynağı, ABD Senatörü JD Vance'in Yüksek Ulusal Güvenlik Konseyi Başkanı Mohsen Rezaei'ye bir mesaj gönderdiğini doğruladı. Kaynak, mesajın içeriğine ilişkin medya spekülasyonlarını reddetti. Habere göre, İran'ın bu mesaja henüz bir yanıt vermediği belirtildi. Bu gelişme, ABD ile İran arasındaki dolaylı iletişim çabalarına veya sinyallerine işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14796589/pexels-photo-14796589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-29T16:46:26.443Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-has-not-responded-to-message-from-us-vice-president-report/4105211",
         "trendScore": 85,
         "isBreaking": false
     }
