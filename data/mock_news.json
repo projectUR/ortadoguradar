@@ -1,5 +1,133 @@
 [
     {
+        "id": "17936401843528fr3r",
+        "title": "İsrail'in El Halil Kuşatması Sona Erdi",
+        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da bulunan El Halil (Hebron) şehrine uyguladığı kuşatmayı sona erdirdi. Bu karar, bölgedeki Filistinliler için hareket serbestliği açısından önemli bir gelişme olarak değerlendirildi. Ancak, aynı zamanda İsrail güçlerinin bir okula yönelik saldırılarına devam ettiği bildirildi. Bu durum, bölgedeki güvenlik ve insan hakları endişelerinin devam ettiğini gösteriyor. Olay, İsrail-Filistin çatışmasının karmaşık dinamiklerini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6632532/pexels-photo-6632532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:23:04.352Z",
+        "location": {
+            "lat": 31.5333,
+            "lng": 35.0999,
+            "name": "El Halil, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793640228557j57s0",
+        "title": "Çin, İran ve Umman ile Orta Doğu Diplomasisini Yoğunlaştırıyor",
+        "summary": "Çin, Orta Doğu'daki diplomatik çabalarını artırarak bölgedeki gerilimleri azaltma yönünde adımlar atıyor. Bu kapsamda Pekin, ABD ile İran arasındaki potansiyel çatışma konusunda diyalog çağrısında bulundu. Ayrıca, Çin özel temsilcisi Körfez bölgesine gönderilerek diplomatik temaslar sağlandı. Çin Devlet Başkanı Xi Jinping, 1978'den bu yana ilk kez bir Umman devlet başkanını ağırlayarak ikili ilişkileri güçlendirdi. Bu gelişmeler, Çin'in Orta Doğu'da barış ve istikrara yönelik aktif rol alma isteğini gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/4872018/pexels-photo-4872018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:23:48.557Z",
+        "location": {
+            "lat": 39.9042,
+            "lng": 116.4074,
+            "name": "Pekin, Çin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1793640251522cm4oy",
+        "title": "DSÖ: Kuzey Etiyopya'daki Şiddet Sağlık Sistemini Çöküşe Sürüklüyor",
+        "summary": "Dünya Sağlık Örgütü (DSÖ), Etiyopya'nın kuzeyindeki şiddetin sağlık sistemini çöküşe sürüklediği konusunda uyardı. Kuzeydeki Tigray isyancıları ile Addis Ababa hükümeti arasında yeniden başlayan çatışmalar, 2022'de imzalanan barış anlaşmasını bozdu. Bu durum, bölgedeki sağlık hizmetlerinin ciddi şekilde aksamasına ve insani krizin derinleşmesine neden oluyor. DSÖ, acil müdahale çağrısında bulundu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:24:11.522Z",
+        "location": {
+            "lat": 13.5,
+            "lng": 39.5,
+            "name": "Tigray, Etiyopya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793640291742v12lm",
+        "title": "İran'da Rejim Karşıtı Protestolarda Kızını Kaybeden Anne Mücadele Ediyor",
+        "summary": "Ocak ayında İran'da düzenlenen kitlesel protestolar sırasında 16 yaşındaki kızı Sevda'yı kaybeden Samira, şimdi rejimle yüzleşiyor. Sevda'nın protestolar sırasında vurularak öldürüldüğü belirtiliyor. Bu olay, İran'daki insan hakları ihlallerine ve rejim karşıtı hareketlere dikkat çekiyor. Anne Samira'nın mücadelesi, ülkedeki muhalif seslerin ve mağdurların yaşadığı zorlukları gözler önüne seriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/13846535/pexels-photo-13846535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:24:51.742Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "İran"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17936403169958pl09",
+        "title": "Suudi liderliğindeki koalisyon Riyad bölgesinde 2 insansız hava aracını engelledi",
+        "summary": "Suudi Arabistan liderliğindeki koalisyon, başkent Riyad bölgesinde iki insansız hava aracını (İHA) başarıyla etkisiz hale getirdiğini duyurdu. Bu olay, daha önce güney Suudi Arabistan'a doğru fırlatılan bir Husi balistik füzesinin de engellenmesinin ardından yaşandı. Koalisyon güçleri, Yemen'deki Husilerin Suudi Arabistan topraklarına yönelik saldırılarını önlemek amacıyla operasyonlarını sürdürüyor. Bu gelişmeler, bölgedeki güvenlik gerilimlerinin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/39637268/pexels-photo-39637268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:25:16.995Z",
+        "location": {
+            "lat": 24.71,
+            "lng": 46.69,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-2-drones-over-riyadh-region/4109053",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17936403376975ipz4",
+        "title": "AB, Yemen'deki Husilerin tırmanışını ve Suudi Arabistan'a yönelik saldırıları 'şiddetle' kınadı",
+        "summary": "Avrupa Birliği (AB), Yemen'deki Husilerin eylemlerini ve Suudi Arabistan'a yönelik saldırılarını şiddetle kınadığını bildirdi. Birlik, Husilere yönelik saldırıların derhal durdurulması çağrısında bulundu. Ayrıca, gruba verilen askeri desteğin kesilmesi gerektiğini vurguladı. AB, Birleşmiş Milletler öncülüğündeki barış çabalarına desteğini yinelediğini belirtti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11097030/pexels-photo-11097030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:25:37.697Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/eu-strongly-condemns-houthi-escalation-in-yemen-attacks-on-saudi-arabia/4108943",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1793640365196ll42u",
+        "title": "İsrail Cumhurbaşkanı, siyasi çıkmazda küçük partilerle hükümet kurma istişarelerine Çarşamba günü başlayacak",
+        "summary": "İsrail Cumhurbaşkanı, ülkedeki siyasi çıkmazı aşmak amacıyla küçük partilerle hükümet kurma istişarelerine Çarşamba günü başlayacak. Ülke, uzun süredir devam eden siyasi istikrarsızlıkla mücadele ederken, yeni bir hükümetin kurulması için yoğun pazarlıklar bekleniyor. Habere göre, Gadi Eisenkot'un 67 tavsiye alabileceği belirtilse de, Arap partilerinin desteği konusundaki derin anlaşmazlıklar hükümet kurma çabalarını tehdit ediyor. Bu durum, İsrail siyasetindeki koalisyon görüşmelerinin karmaşıklığını ve farklı gruplar arasındaki ayrılıkları bir kez daha gözler önüne seriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7103113/pexels-photo-7103113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:26:05.196Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-israeli-president-to-begin-government-formation-consultations-with-smaller-parties-wednesday-amid-political-deadlock/4108938",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17936403884503cpkl",
+        "title": "İsrail muhalefet partileri hükümet kurması için Eisenkot'u destekliyor, Arap partilerinin de katılması bekleniyor",
+        "summary": "İsrail'de hükümet kurma çalışmaları kapsamında muhalefet partileri, Eisenkot'u destekleme kararı aldı. Bu gelişme, ülkedeki siyasi dengeleri etkileyecek önemli bir adım olarak değerlendiriliyor. Arap partilerinden gelecek tavsiyelerin, Yashar liderinin meclisteki sandalye sayısını 67'ye çıkarabileceği belirtiliyor. Bu durum, yeni bir hükümetin kurulması veya mevcut siyasi yapının yeniden şekillenmesi potansiyelini güçlendiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8181766/pexels-photo-8181766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T17:26:28.450Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-parties-back-eisenkot-to-form-government-arab-parties-expected-to-follow/4108874",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17935796470319wvhn",
         "title": "Hürmüz Boğazı'nda Tankerler Vuruldu; ABD Başkanı Trump Çatışmanın Yakında Biteceğini Yineledi",
         "summary": "ABD Başkanı, İran'ı bir anlaşma yapmaya çağırırken, İran Devrim Muhafızları (IRGC), Hürmüz Boğazı'nda iki tankerin mayınlara çarparak alev aldığını bildirdi. Bu olay, bölgedeki gerilimi tırmandırırken, ABD ve İran arasındaki mevcut anlaşmazlığın ciddiyetini bir kez daha gözler önüne serdi. Uluslararası denizcilik güvenliği açısından kritik öneme sahip olan boğazdaki bu saldırı, küresel enerji piyasaları üzerinde de potansiyel etkilere sahip. Olayın ardından ABD Başkanı Trump, çatışmanın yakında sona ereceğini yineledi.",
@@ -670,133 +798,5 @@
         "source": "https://www.aa.com.tr/en/world/flydubai-extends-suspension-of-tel-aviv-flights-until-nov-30-israeli-media/4106555",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1793348246954ebora",
-        "title": "12 aile üyesi öldürülen İranlı adam: 'Hayatım buraya gömüldü'",
-        "summary": "Mart ayında gerçekleşen bir saldırıda 12 aile üyesini kaybeden İranlı Hamed Mirzaei'nin yaşadığı trajedi gündeme geldi. Mirzaei, eşi, annesi, babası ve diğer birçok yakınını ABD ve İsrail tarafından düzenlendiği belirtilen bu yıkıcı saldırıda yitirdi. \"Hayatım buraya gömüldü\" sözleriyle acısını dile getiren Mirzaei'nin durumu, bölgedeki çatışmaların sivil halk üzerindeki derin etkilerini gözler önüne serdi. Olay, Orta Doğu'daki gerilimin ve uluslararası aktörlerin müdahalesinin insani sonuçlarını bir kez daha vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16600254/pexels-photo-16600254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:17:26.955Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "Bilinmiyor, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "179334832317654dy8",
-        "title": "Britanya'dan İsrail'e Yaptırım Çağrısı: Parlamento Heyeti Batı Şeria'da Engellendi",
-        "summary": "Britanya'nın İsrail'e yaptırım uygulaması gerektiği yönündeki çağrılar, İsrail güçlerinin bir parlamento heyetini gözaltına alması ve Batı Şeria'ya girişini engellemesiyle gündeme geldi. Heyet üyeleri, İsrail'in uyguladığı şiddetin bir devlet politikası olduğunu iddia etti. Bu olay, uluslararası toplumun İsrail-Filistin çatışmasındaki rolünü ve İsrail'in Batı Şeria'daki eylemlerini yeniden tartışmaya açtı. Britanya'nın İsrail'e yönelik olası yaptırımları, bölgedeki diplomatik ilişkiler ve uluslararası hukuk açısından önemli sonuçlar doğurabilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/17558879/pexels-photo-17558879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:18:43.176Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793348345709lzbmc",
-        "title": "Suriye'de Yükselen Fiyatlar ve Kriz, Esad Sonrası İyileşmeyi Zorluyor",
-        "summary": "Suriye'de halk, sübvansiyonların sona ermesi ve artan fiyatlar nedeniyle ciddi ekonomik zorluklarla karşı karşıya kalıyor. Bu durum, ülke genelinde yaygın bir hoşnutsuzluğa yol açarken, Ahmed el-Şaraa hükümetine verilen desteği de test ediyor. Esad sonrası dönemde beklenen toparlanma çabaları, mevcut ekonomik krizin derinleşmesiyle büyük engellerle karşılaşıyor. Hükümetin, halkın artan yaşam maliyetleri karşısında çözüm bulma baskısı altında olduğu belirtiliyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/6753466/pexels-photo-6753466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:19:05.709Z",
-        "location": {
-            "lat": 33.5,
-            "lng": 36.2,
-            "name": "Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793348370614k3m55",
-        "title": "İsrail muhalefeti Netanyahu'yu seçimi 'gayrimeşru kılmaya' çalışmakla suçladı",
-        "summary": "İsrail muhalefeti, eski Başbakan Binyamin Netanyahu'yu seçim sonuçlarını gayrimeşru kılmaya çalışmakla itham etti. Bu suçlamalar, Netanyahu'nun lideri olduğu Likud partisinin koalisyonunun çoğunluğunu kaybetmesinin ardından geldi. Likud partisi, seçimlere yabancı müdahale iddialarında bulunarak, Arap liderliğindeki partilerin seçimi \"çaldığını\" öne sürdü. Bu durum, İsrail siyasetinde gerilimi artırarak seçim sonuçlarına yönelik tartışmaları alevlendirdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5926409/pexels-photo-5926409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:19:30.614Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793348393829qxlip",
-        "title": "İsrail saldırıları ateşkese rağmen Gazze'de devam ederken 2 Filistinli yaralandı",
-        "summary": "Gazze Şeridi'nde İsrail saldırıları, ilan edilen ateşkese rağmen devam ediyor. Anadolu Ajansı'nın tıbbi ve yerel kaynaklara dayandırdığı haberine göre, İsrail ordusu bir yerleşim dairesini hedef aldı. Ayrıca, Gazze'deki ateşkese yönelik yeni ihlallerle evlerin yıkıldığı bildirildi. Bu saldırılar sonucunda iki Filistinli yaralandı. Olaylar, bölgedeki gerilimin ve çatışmaların sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:19:53.829Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-wounded-as-israeli-attacks-continue-in-gaza-despite-ceasefire/4105670",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1793348415523l2d4z",
-        "title": "Suudi liderliğindeki koalisyon, Mekke bölgesi üzerinde Husi insansız hava aracını düşürdüğünü açıkladı; grup ise sorumluluğu reddetti",
-        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husi grubuna ait bir insansız hava aracının (İHA) Suudi Arabistan'ın Mekke bölgesi üzerinde düşürüldüğünü bildirdi. Koalisyon sözcüsü, İHA'nın başarıyla engellenerek imha edildiğini açıkladı. Ancak Husi grubu, cuma günü Suudi topraklarını hedef alan herhangi bir operasyon gerçekleştirmediğini iddia ederek sorumluluğu reddetti. Bu olay, Yemen'deki çatışmanın ve bölgesel gerilimin devam ettiğini bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/3722737/pexels-photo-3722737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:20:15.523Z",
-        "location": {
-            "lat": 21.4225,
-            "lng": 39.8262,
-            "name": "Mekke, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-downed-houthi-drone-over-mecca-region-while-group-denies-involvement/4105599",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793348439127tk9m9",
-        "title": "Gazze'deki Filistinliler, planlanan küresel liman işçileri grevine destek için miting düzenledi",
-        "summary": "Gazze'deki Filistinliler, planlanan küresel liman işçileri grevine destek vermek amacıyla bir miting düzenledi. Cuma günü gerçekleşmesi beklenen bu eylemlerin, 22 ülke ve bölgedeki 113 limanda çalışan işçileri temsil eden 25'ten fazla sendikayı kapsayacağı belirtildi. Filistinlilerin bu greve desteği, bölgedeki mevcut insani ve siyasi duruma dikkat çekme amacı taşıyor. Küresel çapta organize edilen bu grev, uluslararası dayanışmanın bir göstergesi olarak değerlendiriliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9995973/pexels-photo-9995973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:20:39.127Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.45,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-palestinians-rally-in-support-of-planned-global-port-workers-strike/4105568",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793348461652ybrae",
-        "title": "Hürmüz Boğazı'nda gemi yangını: İngiliz denizcilik ajansı",
-        "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), Hürmüz Boğazı'nda seyreden bir gemide yangın çıktığını duyurdu. Yapılan açıklamada, yangının Umman'ın Khasab kentinin yaklaşık 25 deniz mili kuzeydoğusunda meydana geldiği belirtildi. Olayın nedeni ve yangının boyutu hakkında henüz detaylı bilgi verilmezken, bölgedeki denizcilik faaliyetleri yakından izleniyor. Bu tür olaylar, stratejik öneme sahip Hürmüz Boğazı'nda deniz güvenliği endişelerini artırabiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9129532/pexels-photo-9129532.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T08:21:01.652Z",
-        "location": {
-            "lat": 26.17,
-            "lng": 56.25,
-            "name": "Khasab, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/vessel-reported-on-fire-in-strait-of-hormuz-uk-maritime-agency/4105553",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
