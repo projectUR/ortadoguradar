@@ -1,5 +1,37 @@
 [
     {
+        "id": "17935796470319wvhn",
+        "title": "Hürmüz Boğazı'nda Tankerler Vuruldu; ABD Başkanı Trump Çatışmanın Yakında Biteceğini Yineledi",
+        "summary": "ABD Başkanı, İran'ı bir anlaşma yapmaya çağırırken, İran Devrim Muhafızları (IRGC), Hürmüz Boğazı'nda iki tankerin mayınlara çarparak alev aldığını bildirdi. Bu olay, bölgedeki gerilimi tırmandırırken, ABD ve İran arasındaki mevcut anlaşmazlığın ciddiyetini bir kez daha gözler önüne serdi. Uluslararası denizcilik güvenliği açısından kritik öneme sahip olan boğazdaki bu saldırı, küresel enerji piyasaları üzerinde de potansiyel etkilere sahip. Olayın ardından ABD Başkanı Trump, çatışmanın yakında sona ereceğini yineledi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27275198/pexels-photo-27275198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T00:34:07.031Z",
+        "location": {
+            "lat": 26.5,
+            "lng": 56.5,
+            "name": "Hürmüz Boğazı"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1793579737121yh7bf",
+        "title": "Eisenkot: Netanyahu'nun İsrail seçim sonuçlarını itibarsızlaştırma girişimi 'başarısız oldu'",
+        "summary": "Eski Genelkurmay Başkanı ve Yashar Partisi lideri Gadi Eisenkot, eski Başbakan Binyamin Netanyahu'nun İsrail seçim sonuçlarını itibarsızlaştırma çabalarının başarısız olduğunu belirtti. Eisenkot, seçim kurulu başkanının oyların bütünlüğüne ilişkin güvencelerini memnuniyetle karşıladığını ifade etti. Bu açıklama, ülkedeki ana bloklardan hiçbirinin hükümet kurmak için yeterli çoğunluğu sağlayamadığı bir dönemde geldi. İsrail siyasetinde, seçim sonuçlarının güvenilirliği ve yeni bir koalisyon hükümetinin kurulması konuları gündemdeki yerini koruyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/7103185/pexels-photo-7103185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T00:35:37.121Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/eisenkot-says-netanyahu-s-bid-to-discredit-israeli-election-results-has-failed-/4108248",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1793551149072s5w88",
         "title": "Al Jazeera Balkans, yeni dijital öncelikli formatıyla yeniden yayına başladı",
         "summary": "Katar merkezli Al Jazeera Medya Ağı'nın Balkanlar'daki kolu Al Jazeera Balkans (AJB), dijital öncelikli yeni formatıyla yeniden faaliyete geçti. Kanalın dijital direktörü, AJB'nin geri dönüşünün, ağın 'hikayenin önemli olduğu yere gitme' misyonunun bir 'yeniden teyidi' olduğunu belirtti. Bu stratejik hamle, Al Jazeera'nın bölgesel erişimini ve dijital platformlardaki varlığını güçlendirme çabasını yansıtmaktadır. Yeniden yapılanma, medya kuruluşunun Balkanlar'daki etkinliğini pekiştirirken, küresel medya ortamındaki dijital dönüşüme uyum sağlama hedefini de ortaya koymaktadır.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/vessel-reported-on-fire-in-strait-of-hormuz-uk-maritime-agency/4105553",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "179332460868998yrm",
-        "title": "Yemen ordusu, Husilerin Taiz'de zehirli gaz kullandığı iddialarını araştırıyor",
-        "summary": "Yemen ordusu, Husilerin Taiz kentinde zehirli gaz kullandığına dair raporları araştırdığını duyurdu. Askeri kaynaklara göre, iddia edilen zehirli maddelerin mermilerde kullanılması sonucu siviller ve direniş savaşçıları zehirlenme ve boğulma belirtileri gösterdi. Ordu, bu iddiaların doğruluğunu ve kullanılan maddelerin niteliğini tespit etmek için soruşturma başlattı. Bu tür maddelerin kullanımı, uluslararası hukuka göre savaş suçu teşkil edebilir ve bölgedeki çatışmaların seyrini etkileyebilecek ciddi bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7723275/pexels-photo-7723275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T01:43:28.689Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-investigating-reports-of-houthi-use-of-toxic-gases-in-taiz/4105552",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793309916851688bh",
-        "title": "İsrail kontrolü sıkılaştırırken Filistinliler Mescid-i Aksa'dan artan yasaklarla karşı karşıya",
-        "summary": "İsrail'in Mescid-i Aksa imamına yönelik yasağı yenilemesiyle birlikte, İslami Vakıflar İdaresi yetkilileri, Müslümanların kutsal mekanındaki yetkilerinin azaldığı konusunda uyarıda bulundu. Bu durum, İsrail'in bölgedeki kontrolünü sıkılaştırmasıyla Filistinlilerin Mescid-i Aksa'ya erişiminde artan kısıtlamalarla karşı karşıya kaldığını gösteriyor. İslami Vakıflar, Mescid-i Aksa'nın idaresi üzerindeki yetkilerinin aşındırılmasından endişe duyduğunu belirtti. Bu gelişmeler, Kudüs'teki kutsal mekanların statüsü ve yönetimi konusundaki gerilimi bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/2087323/pexels-photo-2087323.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-29T21:38:36.851Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
