@@ -1,5 +1,53 @@
 [
     {
+        "id": "1793663988212k7vau",
+        "title": "ABD Ara Seçimlerinin Asya-Pasifik ve İran Politikalarına Etkisi",
+        "summary": "ABD ara seçimlerinin Asya-Pasifik bölgesi üzerindeki potansiyel etkileri değerlendiriliyor. Habere göre, eski ABD Başkanı Trump dönemindeki gümrük vergileri ve İran'a yönelik politikalar nedeniyle zorluklar yaşayan Asya-Pasifik ülkeleri, ABD'nin dış politikasında 'büyük değişiklikler' talep ediyor. Bu ülkeler, ABD'nin gelecekteki politikalarının bölgedeki istikrar ve ekonomik ilişkiler üzerindeki etkileri konusunda endişelerini dile getiriyor. Özellikle İran'a yönelik politikaların Asya-Pasifik ülkeleri üzerindeki dolaylı etkileri vurgulanıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-02T23:59:48.212Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17936641690194e0of",
+        "title": "İran'ın güney kıyılarında patlama sesleri duyulduğu bildirildi",
+        "summary": "İran devlet haber ajansı, ülkenin güneyindeki Keşm Adası'nda beş patlama meydana geldiğini duyurdu. Fars haber ajansı ise Bandar Lengeh kentinde deniz yönünden patlama seslerinin işitildiğini aktardı. Olayın nedeni veya patlamaların kaynağı hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki güvenlik güçlerinin durumu araştırdığı belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15538429/pexels-photo-15538429.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-03T00:02:49.019Z",
+        "location": {
+            "lat": 26.8,
+            "lng": 56,
+            "name": "Keşm Adası, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-southern-iran-s-coastal-areas-reports/4109248",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
+        "id": "1793664194087o0kzb",
+        "title": "ABD, vatandaşlarını Suudi Arabistan'da olası Husi saldırıları ve seyahat aksaklıkları konusunda uyardı",
+        "summary": "Amerika Birleşik Devletleri, Suudi Arabistan'da bulunan vatandaşlarına yönelik potansiyel Husi saldırıları ve buna bağlı seyahat aksaklıkları hakkında bir uyarı yayınladı. ABD misyonu tarafından yapılan açıklamada, Amerikan vatandaşlarının havalimanlarına yönelik olası saldırılara, hava sahası kapanmalarına, uçuş iptallerine ve genel seyahat kesintilerine karşı dikkatli olmaları gerektiği belirtildi. Bu uyarı, bölgedeki güvenlik durumunun hassasiyetini ve Husi grubunun Suudi Arabistan'a yönelik geçmiş saldırılarını akıllara getiriyor. Vatandaşların seyahat planlarını gözden geçirmeleri ve yerel yetkililerin güvenlik tavsiyelerine uymaları önemle tavsiye edildi. Uyarı, özellikle hava ulaşımını etkileyebilecek risklere odaklanıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5941989/pexels-photo-5941989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-03T00:03:14.087Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-warns-citizens-of-potential-houthi-attacks-travel-disruptions-in-saudi-arabia/4109243",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17936401843528fr3r",
         "title": "İsrail'in El Halil Kuşatması Sona Erdi",
         "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da bulunan El Halil (Hebron) şehrine uyguladığı kuşatmayı sona erdirdi. Bu karar, bölgedeki Filistinliler için hareket serbestliği açısından önemli bir gelişme olarak değerlendirildi. Ancak, aynı zamanda İsrail güçlerinin bir okula yönelik saldırılarına devam ettiği bildirildi. Bu durum, bölgedeki güvenlik ve insan hakları endişelerinin devam ettiğini gösteriyor. Olay, İsrail-Filistin çatışmasının karmaşık dinamiklerini bir kez daha gözler önüne serdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-declares-danger-over-after-emergency-alert-near-yemen-border/4106572",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1793373259565jbdrr",
-        "title": "BM mülteci ajansı Yemen'de 65.000'den fazla mülteciyi etkileyen kötüleşen krize karşı uyarıyor",
-        "summary": "Birleşmiş Milletler mülteci ajansı, Yemen'de 65.000'den fazla mülteciyi etkileyen kötüleşen bir krize dikkat çekti. Ajans, 2026 yılının ilk dokuz ayında, artan çatışmalara rağmen deniz yoluyla 134.000'den fazla kişinin ülkeye ulaştığını bildirdi. Bu durum, ülkedeki insani durumu daha da ağırlaştırıyor. UNHCR'ın Yemen için yaptığı yardım çağrısının ise yalnızca yüzde 19'unun karşılandığı belirtildi. Bu fon eksikliği, mültecilere yönelik yardımların yetersiz kalmasına neden oluyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/19264292/pexels-photo-19264292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T15:14:19.565Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-refugee-agency-warns-of-worsening-crisis-affecting-over-65-000-refugees-in-yemen/4106568",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "17933732814452lapu",
-        "title": "Umman, saldırı sonrası çıkan yangın nedeniyle Panama bandıralı gemiden 25 mürettebatı tahliye etti",
-        "summary": "Deniz Güvenlik Merkezi'nden yapılan açıklamaya göre, RIT1 adlı gemi Umman'ın Musandam kıyılarının 1.6 deniz mili açığında hedef alındı. Saldırı sonucunda gemide yangın çıktığı belirtildi. Ummanlı yetkililer, olay yerine intikal ederek Panama bandıralı gemideki 25 mürettebatı güvenli bir şekilde tahliye etti. Olayın ardından bölgedeki deniz güvenliği endişeleri arttı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39486752/pexels-photo-39486752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T15:14:41.445Z",
-        "location": {
-            "lat": 26.1767,
-            "lng": 56.2484,
-            "name": "Musandam, Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/oman-evacuates-25-crew-from-panama-flagged-vessel-after-attack-sparks-fire/4106562",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "179337330540079j26",
-        "title": "Flydubai, Tel Aviv uçuşlarını 30 Kasım'a kadar askıya aldı",
-        "summary": "Birleşik Arap Emirlikleri merkezli havayolu şirketi Flydubai, İsrail'in Tel Aviv kentine düzenlediği uçuşların askıya alınma süresini 30 Kasım'a kadar uzattığını duyurdu. İsrail medyasına göre, havayolu şirketi seferlerini ilk olarak 30 Eylül'de durdurmuştu. Bu kararın, Dubai'den Tel Aviv'e 174 İsrailli yolcu taşıyan bir uçağa el koyma girişimine ilişkin iddiaların ardından alındığı belirtiliyor. Olayın detayları hakkında resmi bir açıklama yapılmazken, Flydubai'nin güvenlik endişeleri nedeniyle bu adımı attığı düşünülüyor. Uçuşların askıya alınması, bölgedeki hava trafiği ve iki ülke arasındaki ilişkiler üzerinde etkisini sürdürüyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37425979/pexels-photo-37425979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-30T15:15:05.400Z",
-        "location": {
-            "lat": 32.0853,
-            "lng": 34.7818,
-            "name": "Tel Aviv, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/world/flydubai-extends-suspension-of-tel-aviv-flights-until-nov-30-israeli-media/4106555",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
