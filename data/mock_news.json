@@ -1,5 +1,69 @@
 [
     {
+        "id": "1793808216041g9jj3",
+        "title": "İran, Hürmüz Boğazı'ndaki Keşm Adası üzerinde ABD insansız hava aracını düşürdüğünü iddia etti",
+        "summary": "İran Devrim Muhafızları, Hürmüz Boğazı'nda stratejik öneme sahip Keşm Adası üzerinde bir ABD insansız hava aracını düşürdüklerini duyurdu. Yapılan açıklamada, hava savunma sistemlerinin bir MQ-1 tipi insansız hava aracını tespit ettiği ve ardından vurduğu belirtildi. Olayın, bölgedeki gerilimi artırma potansiyeli taşıdığı ifade ediliyor. ABD'den konuya ilişkin henüz resmi bir açıklama gelmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/28861948/pexels-photo-28861948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-04T16:03:36.041Z",
+        "location": {
+            "lat": 26.8,
+            "lng": 56,
+            "name": "Keşm Adası, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-claims-it-downed-us-drone-above-qeshm-island-in-strait-of-hormuz/4111755",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1793808242833svfra",
+        "title": "İsrail muhalefet lideri, seçim yenilgisi sonrası Netanyahu'yu darbe girişiminde bulunmakla suçladı",
+        "summary": "İsrail'de muhalefet lideri Yair Golan, Başbakan Binyamin Netanyahu'yu seçim yenilgisinin ardından darbe girişiminde bulunmakla itham etti. Demokratlar Partisi lideri Golan, Netanyahu hükümetini siyasi tutuklamalar yapmak ve seçilmiş yetkililer üzerinde baskı kurmakla suçladı. Golan, güvenlik kurumlarını siyasi çıkarlara hizmet etmemeleri konusunda sert bir dille uyardı. Bu açıklamalar, İsrail iç siyasetinde gerilimi artırırken, ülkenin demokratik süreçlerine yönelik endişeleri de beraberinde getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7103072/pexels-photo-7103072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-04T16:04:02.833Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-leader-accuses-netanyahu-of-attempting-coup-after-election-defeat/4111689",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "179380826609589ciz",
+        "title": "RSF, Batı Sudan'da Tıp ve Akademik Uzmanları Gözaltına Aldı",
+        "summary": "Sudan Doktorlar Ağı, Hızlı Destek Kuvvetleri'nin (RSF) Batı Sudan'da tıp ve akademik profesyonelleri gözaltına aldığı yönündeki haberler üzerine derin endişe duyduğunu bildirdi. Açıklamada, RSF'nin bölgedeki profesyonellere yönelik gözaltılarının devam ettiği belirtildi. Bu durum, ülkedeki çatışmaların ve insan hakları ihlallerinin sürdüğüne işaret ediyor. Gözaltına alınanların sayısının onlarca olduğu ifade edildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12823539/pexels-photo-12823539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-04T16:04:26.095Z",
+        "location": {
+            "lat": 13.6,
+            "lng": 25.3,
+            "name": "Batı Sudan, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/rsf-detains-dozens-of-medical-academic-professionals-in-western-sudan-medical-group-says/4111629",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17938082951388lydg",
+        "title": "İsrail'in Ultra-Ortodoks Şas Partisi Lideri Seçim Başarısızlığının Ardından İstifa Etmek İstiyor: Rapor",
+        "summary": "İsrail'in ultra-Ortodoks Şas Partisi lideri Aryeh Deri'nin, partinin seçimlerde 11 sandalyeden 6'ya düşmesinin ardından istifa talebinde bulunduğu bildirildi. Başbakan Netanyahu'nun önemli bir müttefiki olan Deri'nin bu talebi, partinin hahamlar konseyi tarafından ele alınacak. Bu gelişme, İsrail siyaset sahnesindeki iç dinamikleri yansıtırken, Şas Partisi'nin gelecekteki liderliği ve siyasi yönelimi hakkında tartışmaları beraberinde getirecek. Partinin seçimlerde yaşadığı sandalye kaybı, liderlik değişikliği arayışlarını tetikledi ve koalisyon içindeki dengeleri etkileyebilir.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/8846079/pexels-photo-8846079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-04T16:04:55.138Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-ultra-orthodox-shas-leader-seeks-to-step-down-after-election-setback-report/4111625",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793778741138r2hwo",
         "title": "Eski Yönetim Kurulu Başkanı: FIFA Başkanı Infantino Yeniden Seçilme Yeterliliğine Sahip Değil",
         "summary": "Eski FIFA yönetim kurulu başkanı Miguel Maduro, mevcut başkan Gianni Infantino'nun yeniden seçilme yeterliliğini sorguladı. Maduro, FIFA tüzüğüne atıfta bulunarak Infantino'nun üç dönemden fazla görev yapamayacağını belirtti. Bu açıklama, Infantino'nun gelecekteki başkanlık adaylığı ve FIFA'nın iç yönetim kuralları hakkında önemli bir tartışma başlattı. Gelişme, uluslararası futbol yönetiminin geleceği ve liderlik pozisyonunun meşruiyeti üzerine soruları gündeme getiriyor.",
@@ -734,69 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/-people-are-dying-in-so-many-ways-tent-fire-kills-2-infant-girls-in-gaza/4107708",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "179350009992896pqh",
-        "title": "İsrail'de Netanyahu'yu devirmek için Eisenkot-Arap anlaşması çağrısıyla binlerce kişi miting düzenledi",
-        "summary": "İsrail'de binlerce kişi, Başbakan Binyamin Netanyahu'yu görevden uzaklaştırmak amacıyla eski Genelkurmay Başkanı Gadi Eisenkot ile Arap partileri arasında bir anlaşma yapılması çağrısıyla gösteri düzenledi. Bu gösteriye karşıt olarak, Netanyahu destekçileri de bir karşı protesto gerçekleştirdi. Karşıt göstericiler, İsrail'in 'teröristlerle' bir hükümet kurmaması gerektiğini savundu. Bu durum, ülkedeki siyasi kutuplaşmanın derinliğini ve hükümetin geleceğine dair tartışmaların yoğunluğunu gözler önüne serdi.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/11412947/pexels-photo-11412947.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-01T02:28:19.928Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793500170663yuaqi",
-        "title": "İranlı diplomat: Hürmüz Boğazı'nın yeniden açılması için Katar ile plan üzerinde anlaşıldı",
-        "summary": "İranlı üst düzey bir diplomat, İran ve Katar'ın Hürmüz Boğazı'nı iki gün içinde yeniden açmaya yönelik bir plan üzerinde anlaştığını duyurdu. Diplomat, bu planın ABD'nin Tahran'ın koşullarını yerine getirmesi halinde yürürlüğe gireceğini belirtti. Açıklama, bölgedeki kritik deniz geçişiyle ilgili diplomatik çabaların devam ettiğini gösteriyor. Küresel petrol ticareti için stratejik öneme sahip olan Hürmüz Boğazı'nın durumu, ABD ile İran arasındaki gerilimin düşürülmesi ve bölgesel istikrarın sağlanması açısından büyük önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30292757/pexels-photo-30292757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-01T02:29:30.663Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17934882939960q8rk",
-        "title": "İsrail'de protestocular Arap partili hükümet talep ederken, sağcı aktivistler yeni seçim çağrısı yapıyor",
-        "summary": "İsrail'de devam eden siyasi çıkmazda, ne Başbakan Binyamin Netanyahu liderliğindeki blok ne de muhalifleri parlamentoda çoğunluğu sağlayabildi. Bu durum, hükümet kurma çabalarında Arap partilerini merkezi bir konuma getiriyor. Ülke genelinde, Arap partilerinin de dahil olduğu bir hükümetin kurulmasını talep eden protestolar düzenleniyor. Öte yandan, sağcı aktivistler ise mevcut siyasi tıkanıklığın aşılması için yeni bir seçim yapılması çağrısında bulunuyor. Bu gelişmeler, İsrail'deki siyasi bölünmüşlüğü ve istikrarlı bir koalisyon kurma zorluklarını gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/6054378/pexels-photo-6054378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-31T23:11:33.996Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/protesters-in-israel-demand-government-with-arab-parties-as-right-wing-activists-call-for-new-election/4107690",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793488314560ay7rp",
-        "title": "İran'dan nükleer doktrini değiştirmeye yönelik yeni bir resmi karar alınmadı: Yetkili",
-        "summary": "İranlı bir yetkili, ülkesinin nükleer doktrinini değiştirmeye yönelik yeni bir resmi karar almadığını duyurdu. Ulusal Güvenlik Konseyi başkanı tarafından yapılan açıklamaya göre, Tahran'ın Amerikan arabulucular aracılığıyla iletilen yeni bir mektuba henüz yanıt vermediği belirtildi. Bu durum, İran'ın nükleer programına ilişkin uluslararası diplomasi ve müzakerelerin devam ettiğini gösteriyor. Açıklama, İran'ın nükleer politikaları üzerindeki uluslararası baskı ve beklentilerin sürdüğüne işaret ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-31T23:11:54.560Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-has-made-no-new-official-decision-to-change-nuclear-doctrine-official/4107686",
-        "trendScore": 88,
-        "isBreaking": true
     }
 ]
