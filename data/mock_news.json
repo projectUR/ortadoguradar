@@ -1,5 +1,21 @@
 [
     {
+        "id": "1793754351317vma66",
+        "title": "Avrupa genelinde bomba tehditleri uçuşları aksattı, İsrail'e giden gemi de hedef alındı",
+        "summary": "Avrupa genelinde en az yedi uçuş ve İsrail'e gitmekte olan bir yolcu gemisi bomba tehditleri aldı. Yetkililer, yapılan detaylı aramalar sonucunda herhangi bir patlayıcı maddeye rastlanmadığını bildirdi. Tehditler nedeniyle bazı uçuşlarda aksaklıklar yaşanırken, yolcuların güvenliği için ek önlemler alındı. Olayla ilgili soruşturmaların devam ettiği belirtildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982146/pexels-photo-35982146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-04T01:05:51.317Z",
+        "location": {
+            "lat": 32.1,
+            "lng": 34.8,
+            "name": "Tel Aviv, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793738987672rgnyx",
         "title": "Michigan ABD Senatosu yarışı: Rogers ve El-Sayed kritik yarış için katılım çağrısı yapıyor",
         "summary": "Michigan'da ABD Senatosu yarışı kritik son saatlerine girerken, Abdul El-Sayed ABD'nin ilk Müslüman senatörü olmayı hedefliyor. Seçim kampanyası boyunca El-Sayed ve rakibi Rogers, seçmenleri sandık başına gitmeye teşvik etti. Bu tarihi yarış, eyaletteki siyasi dinamikleri ve ulusal düzeydeki temsil çeşitliliğini yakından ilgilendiriyor. El-Sayed'in seçilmesi, ABD siyasetinde Müslüman temsilinin artması açısından önemli bir dönüm noktası olabilir ve küresel Müslüman toplulukları için sembolik bir anlam taşıyabilir.",
@@ -781,22 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1793476433825c6rg7",
-        "title": "İsrail'den Eisenkot, sonuçsuz seçimin ardından geniş tabanlı yeni bir hükümet kurma sözü verdi",
-        "summary": "İsrail'de yapılan genel seçimlerin ardından hiçbir ana bloğun parlamentoda çoğunluğu sağlayamaması üzerine hükümet kurma çalışmaları hız kazandı. Yashar lideri Eisenkot, sonuçsuz kalan seçimin ardından geniş tabanlı yeni bir hükümet kurma taahhüdünde bulundu. Eisenkot, milletvekillerini dört temel ilke etrafında birleşmeye çağırarak, siyasi çıkmazı aşmayı hedeflediğini belirtti. Bu çağrı, ülkenin siyasi geleceği için koalisyon görüşmelerinin kritik bir aşamaya girdiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/32266781/pexels-photo-32266781.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-31T19:53:53.825Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-s-eisenkot-vows-to-form-broad-new-government-after-inconclusive-election/4107616",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
