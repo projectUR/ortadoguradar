@@ -1,5 +1,21 @@
 [
     {
+        "id": "1793778741138r2hwo",
+        "title": "Eski Yönetim Kurulu Başkanı: FIFA Başkanı Infantino Yeniden Seçilme Yeterliliğine Sahip Değil",
+        "summary": "Eski FIFA yönetim kurulu başkanı Miguel Maduro, mevcut başkan Gianni Infantino'nun yeniden seçilme yeterliliğini sorguladı. Maduro, FIFA tüzüğüne atıfta bulunarak Infantino'nun üç dönemden fazla görev yapamayacağını belirtti. Bu açıklama, Infantino'nun gelecekteki başkanlık adaylığı ve FIFA'nın iç yönetim kuralları hakkında önemli bir tartışma başlattı. Gelişme, uluslararası futbol yönetiminin geleceği ve liderlik pozisyonunun meşruiyeti üzerine soruları gündeme getiriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7862380/pexels-photo-7862380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-04T07:52:21.138Z",
+        "location": {
+            "lat": 47.3769,
+            "lng": 8.5417,
+            "name": "Zürih, İsviçre"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/11/4/fifas-infantino-ineligible-for-re-election-says-former-governance-chief?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1793754351317vma66",
         "title": "Avrupa genelinde bomba tehditleri uçuşları aksattı, İsrail'e giden gemi de hedef alındı",
         "summary": "Avrupa genelinde en az yedi uçuş ve İsrail'e gitmekte olan bir yolcu gemisi bomba tehditleri aldı. Yetkililer, yapılan detaylı aramalar sonucunda herhangi bir patlayıcı maddeye rastlanmadığını bildirdi. Tehditler nedeniyle bazı uçuşlarda aksaklıklar yaşanırken, yolcuların güvenliği için ek önlemler alındı. Olayla ilgili soruşturmaların devam ettiği belirtildi.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/iran-has-made-no-new-official-decision-to-change-nuclear-doctrine-official/4107686",
         "trendScore": 88,
         "isBreaking": true
-    },
-    {
-        "id": "1793476363924zx4yv",
-        "title": "İşgal Altındaki Batı Şeria'da Zeytin Hasadı Filistinliler İçin Ölümcül Bir Faaliyete Dönüştü",
-        "summary": "İşgal altındaki Batı Şeria'da Filistinli çiftçiler, zeytin hasadı döneminde İsrailli yerleşimcilerin saldırılarına maruz kalıyor. Haberlere göre, yerleşimciler zeytinliklere girerek Filistinlilerin kendi mahsullerini toplamasını engelliyor ve şiddet olaylarına neden oluyor. Bu durum, Filistinliler için geleneksel bir geçim kaynağı olan zeytin hasadını tehlikeli ve hatta ölümcül bir faaliyete dönüştürüyor. Bölgedeki gerilimler, hasat döneminde daha da artarak insan hakları ihlallerine ve güvenlik sorunlarına yol açıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/39167830/pexels-photo-39167830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-10-31T19:52:43.924Z",
-        "location": {
-            "lat": 31.95,
-            "lng": 35.25,
-            "name": "Batı Şeria"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
     }
 ]
