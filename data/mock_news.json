@@ -1,5 +1,53 @@
 [
     {
+        "id": "1793874631207spad0",
+        "title": "Yemen'de Hükümet Saldırısının Başlamasından Bir Ay Sonra Yıpratma Savaşı Derinleşiyor",
+        "summary": "Yemen'de hükümet güçlerinin başlattığı saldırının üzerinden bir ay geçmesinin ardından çatışmaların yıpratma savaşına dönüştüğü belirtiliyor. Haberlere göre, Husiler bu süreçte kayıplar yaşarken, aynı zamanda hükümet güçlerine ve Suudi Arabistan'a da önemli zararlar veriyor. Çatışmaların yoğunlaştığı bölgelerde her iki tarafın da ağır bedeller ödediği ifade ediliyor. Bu durum, Yemen'deki savaşın uzayabileceği ve taraflar arasında kesin bir üstünlük sağlanamadığına işaret ediyor. Bölgedeki insani krizin de derinleşmesinden endişe ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33701806/pexels-photo-33701806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T10:30:31.207Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Sana'a, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "179387471561253om0",
+        "title": "Suudi liderliğindeki koalisyon, Medine bölgesine doğru ilerleyen balistik füzeyi engellediğini duyurdu",
+        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husi isyancılar tarafından fırlatılan bir balistik füzenin Medine bölgesine doğru ilerlerken engellendiğini açıkladı. Koalisyon sözcüsü, hava savunma sistemlerinin batı Suudi Arabistan'a yönelik füzeyi imha ettiğini belirtti. Bu olay, Yemen'deki çatışmanın Suudi Arabistan topraklarına yansıyan son örneklerinden biri oldu. Bölgedeki gerilim devam ederken, koalisyon sık sık benzer saldırıları engellediğini duyuruyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T10:31:55.612Z",
+        "location": {
+            "lat": 24.47,
+            "lng": 39.61,
+            "name": "Medine, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-ballistic-missile-headed-toward-medina-region/4112761",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1793874750464hgrcr",
+        "title": "Suudi Arabistan güney bölgesinde 2 kısa süreli 'potansiyel tehlike' uyarısı yayınladı",
+        "summary": "Suudi Arabistan Sivil Savunma birimi, ülkenin güney bölgesinde iki ayrı 'potansiyel tehlike' uyarısı yayınladığını duyurdu. Yapılan açıklamalarda, Yanbu ve Sharurah şehirlerinde verilen tehlike uyarılarının sona erdiği belirtildi. Ancak, söz konusu tehlikelerin niteliği hakkında herhangi bir detay paylaşılmadı. Sivil Savunma, tehlikenin geçtiğini ve durumun normale döndüğünü bildirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8634398/pexels-photo-8634398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T10:32:30.464Z",
+        "location": {
+            "lat": 24.0833,
+            "lng": 38.05,
+            "name": "Yanbu ve Sharurah, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/world/saudi-arabia-issues-2-brief-potential-danger-warnings-in-southern-region/4112600",
+        "trendScore": 45,
+        "isBreaking": false
+    },
+    {
         "id": "17938464951809n0ef",
         "title": "İsrail Cumhurbaşkanı Herzog, seçim sonuçlarını kabul etti, hükümet kurma görüşmelerini başlattı",
         "summary": "İsrail Cumhurbaşkanı Isaac Herzog, ülkedeki seçim sonuçlarını kabul ettiğini ve yeni hükümeti kurma görüşmelerini başlattığını duyurdu. Bu hamle, eski Başbakan Binyamin Netanyahu'nun seçimleri itibarsızlaştırma çabalarına önemli bir darbe vurdu. Netanyahu ve müttefikleri, son seçimlerde parlamentoda çoğunluğu kaybetmişti. Herzog'un bu adımı, İsrail'in siyasi istikrarsızlık döneminin ardından yeni bir hükümetin oluşumu için kritik bir gelişme olarak değerlendiriliyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1793551205070w7ga2",
-        "title": "İsrail'in Gazze Saldırılarında Sekiz Kişi Hayatını Kaybetti",
-        "summary": "İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda sekiz kişinin yaşamını yitirdiği açıklandı. Hastane kaynakları, ölenler arasında bir çocuğun da bulunduğunu bildirdi. Yetkililer, Hamas kontrolündeki polis teşkilatından beş memurun Han Yunus'ta hayatını kaybettiğini belirtti. Gazze Şehri'nde ise aralarında bir çocuğun da bulunduğu üç kişinin saldırılarda öldüğü kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-01T16:40:05.070Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1793551229986zyvjo",
-        "title": "Suudi Arabistan, acil durum uyarılarının ardından Abha ve Hamis Muşayt'ta tehlikenin geçtiğini duyurdu",
-        "summary": "Suudi Arabistan, ülkenin güneyindeki Abha ve Hamis Muşayt şehirlerinde verilen acil durum uyarılarının ardından tehlikenin geçtiğini bildirdi. Bu uyarılar, Yemen'deki Husiler ile Yemen'in uluslararası tanınmış hükümetini destekleyen Suudi liderliğindeki koalisyon arasındaki çatışmaların tırmandığı bir dönemde geldi. Bölgedeki gerilimin artmasıyla birlikte, Suudi Arabistan'ın güney bölgeleri zaman zaman benzer tehditlerle karşı karşıya kalmaktadır. Olay, Yemen'deki iç savaşın bölgesel yansımalarını bir kez daha gözler önüne sermiştir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7929703/pexels-photo-7929703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-01T16:40:29.986Z",
-        "location": {
-            "lat": 18.22,
-            "lng": 42.5,
-            "name": "Abha, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-gives-all-clear-in-abha-khamis-mushait-after-emergency-alerts/4108138",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17935512520636vpit",
-        "title": "Suudi liderliğindeki koalisyon Yemen'de Husilerin askeri kaynaklarını 'etkisiz hale getirmek' için operasyon başlattı",
-        "summary": "Suudi Arabistan liderliğindeki koalisyon, Yemen'de Husilere ait askeri kaynakları hedef alan bir operasyon başlattığını duyurdu. Koalisyon, operasyonun Husilerin balistik füze ve insansız hava aracı (İHA) kapasitelerini destekleyen kaynakları etkisiz hale getirmeyi amaçladığını belirtti. Yapılan açıklamada, operasyonun gerçekleştirildiği spesifik konumlar hakkında bilgi verilmedi. Bu gelişme, Yemen'deki mevcut çatışma ortamında yeni bir gerilim dalgasına işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/15803714/pexels-photo-15803714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-01T16:40:52.063Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-launches-operation-to-neutralize-houthi-military-resources-in-yemen/4108105",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
