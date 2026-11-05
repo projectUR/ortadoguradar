@@ -1,5 +1,21 @@
 [
     {
+        "id": "17938464951809n0ef",
+        "title": "İsrail Cumhurbaşkanı Herzog, seçim sonuçlarını kabul etti, hükümet kurma görüşmelerini başlattı",
+        "summary": "İsrail Cumhurbaşkanı Isaac Herzog, ülkedeki seçim sonuçlarını kabul ettiğini ve yeni hükümeti kurma görüşmelerini başlattığını duyurdu. Bu hamle, eski Başbakan Binyamin Netanyahu'nun seçimleri itibarsızlaştırma çabalarına önemli bir darbe vurdu. Netanyahu ve müttefikleri, son seçimlerde parlamentoda çoğunluğu kaybetmişti. Herzog'un bu adımı, İsrail'in siyasi istikrarsızlık döneminin ardından yeni bir hükümetin oluşumu için kritik bir gelişme olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/5926409/pexels-photo-5926409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T02:41:35.180Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793829848161jot6e",
         "title": "STK: İsrail, Gazze'deki 1.100 çocuk ampute için tedaviyi kısıtlıyor",
         "summary": "Gazze Şeridi'nde bulunan 1.100 çocuk ampute, İsrail'in uyguladığı seyahat ve tıbbi tahliye kısıtlamaları nedeniyle yurt dışında tedavi imkanı bulamıyor. Bir sivil toplum kuruluşu tarafından yapılan açıklamaya göre, bu kısıtlamalar çocukların hayati önem taşıyan sağlık hizmetlerine erişimini engelliyor. Uzuv kaybı yaşayan çocukların gerekli rehabilitasyon ve protez tedavileri için Gazze dışına çıkışları engelleniyor. Bu durum, bölgedeki insani krizi derinleştirirken, uluslararası toplumdan müdahale çağrılarına neden oluyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-launches-operation-to-neutralize-houthi-military-resources-in-yemen/4108105",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1793551279597w5hxb",
-        "title": "Sonuçsuz seçimlerin ardından İsrail muhalefeti Knesset'in kontrolünü ele geçirmeyi hedefliyor",
-        "summary": "İsrail'de sonuçsuz kalan seçimlerin ardından muhalefet, parlamentonun (Knesset) kontrolünü ele geçirme girişiminde bulunuyor. Muhalefet, hakkında cezai kovuşturma bulunan kişilerin, henüz mahkumiyet kararı olmasa dahi hükümet kurmasını yasaklayacak bir yasa tasarısını geçirmeyi hedefliyor. Walla internet sitesinin haberine göre, bu yasa tasarısı İsrail siyasetinde önemli bir tartışma konusu haline geldi. Bu adım, ülkenin siyasi geleceği üzerinde belirleyici bir rol oynayabilir ve yeni bir hükümetin oluşum sürecini etkileyebilir.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/14237672/pexels-photo-14237672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-01T16:41:19.597Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/after-inconclusive-elections-israeli-opposition-seeks-control-of-knesset/4108100",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
