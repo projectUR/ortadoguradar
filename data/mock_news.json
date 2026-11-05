@@ -1,5 +1,21 @@
 [
     {
+        "id": "1793922510061vusfl",
+        "title": "İsrail'in Yashar Partisi, Hükümet Kurma Yetkisi İçin Herzog'a Çağrı Yaptı",
+        "summary": "İsrail'de muhalefet partisi Yashar, Cumhurbaşkanı Isaac Herzog'a çağrıda bulunarak, parti liderine yeni hükümeti kurma görevini vermesini talep etti. Parti, aldığı 67 tavsiyenin İsrail halkının değişim arzusunu ve mevcut Başbakan Binyamin Netanyahu'ya olan güvensizliğini açıkça ortaya koyduğunu savundu. Bu talep, ülkedeki siyasi belirsizliğin devam ettiği ve yeni bir koalisyon arayışlarının sürdüğü bir dönemde geldi. Yashar partisi, bu adımın ülkenin siyasi çıkmazdan kurtulması için gerekli olduğunu vurguladı.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/33124287/pexels-photo-33124287.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T23:48:30.061Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-yashar-party-urges-herzog-to-grant-its-leader-mandate-to-form-government/4113549",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1793902469453voa2c",
         "title": "Amman'da Ürdünlü Subay Bıçaklı Saldırıda Öldürüldü",
         "summary": "Ürdün'ün başkenti Amman'da bir güvenlik görevlisi bıçaklı saldırı sonucu hayatını kaybetti. Olayda bir başka güvenlik görevlisi de yaralandı. Saldırı, Sri Lanka Büyükelçiliği yakınlarında meydana geldi. Yetkililer olayla ilgili geniş çaplı bir soruşturma başlattı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": true
-    },
-    {
-        "id": "1793640291742v12lm",
-        "title": "İran'da Rejim Karşıtı Protestolarda Kızını Kaybeden Anne Mücadele Ediyor",
-        "summary": "Ocak ayında İran'da düzenlenen kitlesel protestolar sırasında 16 yaşındaki kızı Sevda'yı kaybeden Samira, şimdi rejimle yüzleşiyor. Sevda'nın protestolar sırasında vurularak öldürüldüğü belirtiliyor. Bu olay, İran'daki insan hakları ihlallerine ve rejim karşıtı hareketlere dikkat çekiyor. Anne Samira'nın mücadelesi, ülkedeki muhalif seslerin ve mağdurların yaşadığı zorlukları gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/13846535/pexels-photo-13846535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-02T17:24:51.742Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
