@@ -1,5 +1,117 @@
 [
     {
+        "id": "1793902469453voa2c",
+        "title": "Amman'da Ürdünlü Subay Bıçaklı Saldırıda Öldürüldü",
+        "summary": "Ürdün'ün başkenti Amman'da bir güvenlik görevlisi bıçaklı saldırı sonucu hayatını kaybetti. Olayda bir başka güvenlik görevlisi de yaralandı. Saldırı, Sri Lanka Büyükelçiliği yakınlarında meydana geldi. Yetkililer olayla ilgili geniş çaplı bir soruşturma başlattı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "",
+        "timestamp": "2026-11-05T18:14:29.453Z",
+        "location": {
+            "lat": 31.95,
+            "lng": 35.93,
+            "name": "Amman, Ürdün"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "17939025260356x8vr",
+        "title": "Gazze, binden fazla şehit sporcuyu anma turnuvasının finaline ev sahipliği yaptı",
+        "summary": "Gazze Şeridi'nde, binden fazla şehit sporcunun anısına düzenlenen 'Bin Şehit Kupası' futbol turnuvasının finali gerçekleştirildi. Bu turnuva, bölgede yaklaşık üç yıldır süren çatışmaların ardından organize futbolun yeniden başlamasına işaret ediyor. Final maçı, Gazze halkı için sporun birleştirici gücünü ve direncini simgeleyen önemli bir etkinlik oldu. Turnuva, savaşın yol açtığı yıkıma rağmen yaşamın devam ettiğini ve toplumsal dayanışmanın önemini vurguladı. Etkinlik, bölgedeki spor camiası ve halk tarafından büyük ilgiyle karşılandı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/16651538/pexels-photo-16651538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T18:15:26.035Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17939025512965lrxz",
+        "title": "Sudan ordusu, Kuzey Kordofan'da RSF ile çatışmaların ardından 2 bölgenin kontrolünü yeniden sağladı",
+        "summary": "Sudan ordusu, Kuzey Kordofan eyaletinde paramiliter Hızlı Destek Kuvvetleri (RSF) ile yaşanan şiddetli çatışmaların ardından Kazgeil ve Abu Qaoud bölgelerinin kontrolünü yeniden ele geçirdi. Askeri kaynaklardan Anadolu Ajansı'na yapılan açıklamaya göre, ordu güçleri bu bölgelerde RSF unsurlarına karşı operasyonlar düzenledi. Çatışmaların ardından stratejik öneme sahip bu iki noktanın geri alınması, ordunun bölgedeki ilerleyişi olarak değerlendiriliyor. Sudan'da Nisan 2023'ten bu yana ordu ile RSF arasında devam eden çatışmalar, ülkenin çeşitli bölgelerinde şiddetini sürdürüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/39052324/pexels-photo-39052324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T18:15:51.296Z",
+        "location": {
+            "lat": 13.1784,
+            "lng": 30.2227,
+            "name": "Kuzey Kordofan, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-regains-control-of-2-areas-in-north-kordofan-after-clashes-with-rsf/4113350",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793902574017smo3k",
+        "title": "İsrail Ordusu Şam Yakınlarına Top Mermisi Attı",
+        "summary": "İsrail ordusu, Suriye'nin başkenti Şam'ın güneybatısındaki kırsal bir bölgeye iki top mermisi fırlattı. Mermilerin, Beyt Cinn köyü yakınlarındaki tarım arazisine isabet ettiği bildirildi. Olayda herhangi bir can kaybı veya yaralanma olup olmadığına dair henüz bilgi verilmedi. Bu saldırı, iki ülke arasındaki gerilimi yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/17464630/pexels-photo-17464630.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T18:16:14.017Z",
+        "location": {
+            "lat": 33.5138,
+            "lng": 36.2765,
+            "name": "Şam, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-fires-2-artillery-shells-in-rural-area-southwest-of-damascus-/4113329",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793902594990nzwy6",
+        "title": "Iraklı havayolu Fly Erbil, İstanbul Havalimanı'na tarifeli seferlere başladı",
+        "summary": "Iraklı havayolu şirketi Fly Erbil, İstanbul Havalimanı'na tarifeli uçuşlara başladığını duyurdu. Şirket, Erbil ile Türk metropolü İstanbul arasında haftada iki gidiş-dönüş seferi düzenleyecek. Bu yeni hat, iki şehir arasındaki ulaşım ağını güçlendirmeyi ve bölgesel hava trafiğini artırmayı hedefliyor. Seferlerin başlaması, Türkiye ve Irak arasındaki ticari ve kültürel bağların gelişmesine katkı sağlayabilir.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/37265692/pexels-photo-37265692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T18:16:34.990Z",
+        "location": {
+            "lat": 41,
+            "lng": 29,
+            "name": "İstanbul, Türkiye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraqi-airline-fly-erbil-launches-scheduled-flights-to-istanbul-airport/4113325",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1793902619184gjqw6",
+        "title": "İsrail, işgal altındaki Batı Şeria'da 91 yerleşim birimi için ihale açtı, E1 ihale takvimini revize etti",
+        "summary": "İsrail, işgal altındaki Batı Şeria'da 91 yeni yerleşim birimi inşa etmek üzere ihale açtığını duyurdu. Ayrıca, tartışmalı E1 bölgesindeki ihale takvimini de revize ettiği belirtildi. Filistinli bir komisyon, Kudüs'ün doğusunda yer alan E1 ihalesinin 2.167 yerleşim birimini kapsadığını iddia etti. Bu adımlar, İsrail'in uluslararası hukuka aykırı kabul edilen yerleşim genişletme politikalarının devamı niteliğinde olup, bölgedeki gerilimi artırma potansiyeli taşıyor. Filistinliler ve uluslararası toplum, bu tür faaliyetleri barış sürecini baltalayıcı olarak görüyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12545527/pexels-photo-12545527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T18:16:59.184Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-issues-tenders-for-91-settlement-units-in-occupied-west-bank-revises-e1-tender-schedule/4113299",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17939026419134o77p",
+        "title": "BM barış gücü şefi, Abyei misyonunun tartışmalı Sudan-Güney Sudan sınır bölgesinde 'somut sonuçlar' verdiğini belirtti",
+        "summary": "Birleşmiş Milletler Barış Gücü Operasyonları Şefi Jean-Pierre Lacroix, Sudan ile Güney Sudan arasındaki tartışmalı Abyei bölgesinde görev yapan BM misyonunun \"somut sonuçlar\" elde ettiğini açıkladı. Lacroix, misyonun bölgede istikrar sağlayıcı etkisini sürdürdüğünü ve Abyei'de vazgeçilmez bir güvenlik ve siyasi aktör olmaya devam ettiğini vurguladı. Bu açıklama, iki ülke arasındaki sınır anlaşmazlığının çözümüne yönelik uluslararası çabaların önemini bir kez daha ortaya koydu. Abyei'nin statüsü, Sudan ve Güney Sudan arasındaki en hassas konulardan biri olmaya devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10225656/pexels-photo-10225656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-05T18:17:21.913Z",
+        "location": {
+            "lat": 9.6,
+            "lng": 28.3,
+            "name": "Abyei, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-peacekeeping-chief-says-abyei-mission-delivering-tangible-results-in-disputed-sudan-south-sudan-border-region/4113294",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1793874631207spad0",
         "title": "Yemen'de Hükümet Saldırısının Başlamasından Bir Ay Sonra Yıpratma Savaşı Derinleşiyor",
         "summary": "Yemen'de hükümet güçlerinin başlattığı saldırının üzerinden bir ay geçmesinin ardından çatışmaların yıpratma savaşına dönüştüğü belirtiliyor. Haberlere göre, Husiler bu süreçte kayıplar yaşarken, aynı zamanda hükümet güçlerine ve Suudi Arabistan'a da önemli zararlar veriyor. Çatışmaların yoğunlaştığı bölgelerde her iki tarafın da ağır bedeller ödediği ifade ediliyor. Bu durum, Yemen'deki savaşın uzayabileceği ve taraflar arasında kesin bir üstünlük sağlanamadığına işaret ediyor. Bölgedeki insani krizin de derinleşmesinden endişe ediliyor.",
@@ -685,118 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17936403169958pl09",
-        "title": "Suudi liderliğindeki koalisyon Riyad bölgesinde 2 insansız hava aracını engelledi",
-        "summary": "Suudi Arabistan liderliğindeki koalisyon, başkent Riyad bölgesinde iki insansız hava aracını (İHA) başarıyla etkisiz hale getirdiğini duyurdu. Bu olay, daha önce güney Suudi Arabistan'a doğru fırlatılan bir Husi balistik füzesinin de engellenmesinin ardından yaşandı. Koalisyon güçleri, Yemen'deki Husilerin Suudi Arabistan topraklarına yönelik saldırılarını önlemek amacıyla operasyonlarını sürdürüyor. Bu gelişmeler, bölgedeki güvenlik gerilimlerinin devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39637268/pexels-photo-39637268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-02T17:25:16.995Z",
-        "location": {
-            "lat": 24.71,
-            "lng": 46.69,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-2-drones-over-riyadh-region/4109053",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "17936403376975ipz4",
-        "title": "AB, Yemen'deki Husilerin tırmanışını ve Suudi Arabistan'a yönelik saldırıları 'şiddetle' kınadı",
-        "summary": "Avrupa Birliği (AB), Yemen'deki Husilerin eylemlerini ve Suudi Arabistan'a yönelik saldırılarını şiddetle kınadığını bildirdi. Birlik, Husilere yönelik saldırıların derhal durdurulması çağrısında bulundu. Ayrıca, gruba verilen askeri desteğin kesilmesi gerektiğini vurguladı. AB, Birleşmiş Milletler öncülüğündeki barış çabalarına desteğini yinelediğini belirtti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11097030/pexels-photo-11097030.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-02T17:25:37.697Z",
-        "location": {
-            "lat": 15.3694,
-            "lng": 44.191,
-            "name": "Sana'a, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/eu-strongly-condemns-houthi-escalation-in-yemen-attacks-on-saudi-arabia/4108943",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793640365196ll42u",
-        "title": "İsrail Cumhurbaşkanı, siyasi çıkmazda küçük partilerle hükümet kurma istişarelerine Çarşamba günü başlayacak",
-        "summary": "İsrail Cumhurbaşkanı, ülkedeki siyasi çıkmazı aşmak amacıyla küçük partilerle hükümet kurma istişarelerine Çarşamba günü başlayacak. Ülke, uzun süredir devam eden siyasi istikrarsızlıkla mücadele ederken, yeni bir hükümetin kurulması için yoğun pazarlıklar bekleniyor. Habere göre, Gadi Eisenkot'un 67 tavsiye alabileceği belirtilse de, Arap partilerinin desteği konusundaki derin anlaşmazlıklar hükümet kurma çabalarını tehdit ediyor. Bu durum, İsrail siyasetindeki koalisyon görüşmelerinin karmaşıklığını ve farklı gruplar arasındaki ayrılıkları bir kez daha gözler önüne seriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7103113/pexels-photo-7103113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-02T17:26:05.196Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-israeli-president-to-begin-government-formation-consultations-with-smaller-parties-wednesday-amid-political-deadlock/4108938",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17936403884503cpkl",
-        "title": "İsrail muhalefet partileri hükümet kurması için Eisenkot'u destekliyor, Arap partilerinin de katılması bekleniyor",
-        "summary": "İsrail'de hükümet kurma çalışmaları kapsamında muhalefet partileri, Eisenkot'u destekleme kararı aldı. Bu gelişme, ülkedeki siyasi dengeleri etkileyecek önemli bir adım olarak değerlendiriliyor. Arap partilerinden gelecek tavsiyelerin, Yashar liderinin meclisteki sandalye sayısını 67'ye çıkarabileceği belirtiliyor. Bu durum, yeni bir hükümetin kurulması veya mevcut siyasi yapının yeniden şekillenmesi potansiyelini güçlendiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8181766/pexels-photo-8181766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-02T17:26:28.450Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-opposition-parties-back-eisenkot-to-form-government-arab-parties-expected-to-follow/4108874",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17935796470319wvhn",
-        "title": "Hürmüz Boğazı'nda Tankerler Vuruldu; ABD Başkanı Trump Çatışmanın Yakında Biteceğini Yineledi",
-        "summary": "ABD Başkanı, İran'ı bir anlaşma yapmaya çağırırken, İran Devrim Muhafızları (IRGC), Hürmüz Boğazı'nda iki tankerin mayınlara çarparak alev aldığını bildirdi. Bu olay, bölgedeki gerilimi tırmandırırken, ABD ve İran arasındaki mevcut anlaşmazlığın ciddiyetini bir kez daha gözler önüne serdi. Uluslararası denizcilik güvenliği açısından kritik öneme sahip olan boğazdaki bu saldırı, küresel enerji piyasaları üzerinde de potansiyel etkilere sahip. Olayın ardından ABD Başkanı Trump, çatışmanın yakında sona ereceğini yineledi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27275198/pexels-photo-27275198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-02T00:34:07.031Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1793579737121yh7bf",
-        "title": "Eisenkot: Netanyahu'nun İsrail seçim sonuçlarını itibarsızlaştırma girişimi 'başarısız oldu'",
-        "summary": "Eski Genelkurmay Başkanı ve Yashar Partisi lideri Gadi Eisenkot, eski Başbakan Binyamin Netanyahu'nun İsrail seçim sonuçlarını itibarsızlaştırma çabalarının başarısız olduğunu belirtti. Eisenkot, seçim kurulu başkanının oyların bütünlüğüne ilişkin güvencelerini memnuniyetle karşıladığını ifade etti. Bu açıklama, ülkedeki ana bloklardan hiçbirinin hükümet kurmak için yeterli çoğunluğu sağlayamadığı bir dönemde geldi. İsrail siyasetinde, seçim sonuçlarının güvenilirliği ve yeni bir koalisyon hükümetinin kurulması konuları gündemdeki yerini koruyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/7103185/pexels-photo-7103185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-02T00:35:37.121Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/eisenkot-says-netanyahu-s-bid-to-discredit-israeli-election-results-has-failed-/4108248",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1793551149072s5w88",
-        "title": "Al Jazeera Balkans, yeni dijital öncelikli formatıyla yeniden yayına başladı",
-        "summary": "Katar merkezli Al Jazeera Medya Ağı'nın Balkanlar'daki kolu Al Jazeera Balkans (AJB), dijital öncelikli yeni formatıyla yeniden faaliyete geçti. Kanalın dijital direktörü, AJB'nin geri dönüşünün, ağın 'hikayenin önemli olduğu yere gitme' misyonunun bir 'yeniden teyidi' olduğunu belirtti. Bu stratejik hamle, Al Jazeera'nın bölgesel erişimini ve dijital platformlardaki varlığını güçlendirme çabasını yansıtmaktadır. Yeniden yapılanma, medya kuruluşunun Balkanlar'daki etkinliğini pekiştirirken, küresel medya ortamındaki dijital dönüşüme uyum sağlama hedefini de ortaya koymaktadır.",
-        "category": "Tümü",
-        "imageUrl": "https://images.pexels.com/photos/267371/pexels-photo-267371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-01T16:39:09.072Z",
-        "location": {
-            "lat": 43.8563,
-            "lng": 18.4131,
-            "name": "Sarajevo, Bosnia and Herzegovina"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
