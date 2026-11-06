@@ -1,5 +1,85 @@
 [
     {
+        "id": "17939963272975jcr7",
+        "title": "İsrail, Yahudi Bayramı Nedeniyle El Halil'deki İbrahimi Camii'ni Filistinlilere Kapattı",
+        "summary": "İsrail makamları, Batı Şeria'nın El Halil kentinde bulunan ve hem Müslümanlar hem de Yahudiler için kutsal sayılan İbrahimi Camii'ni bir Yahudi bayramı nedeniyle Filistinlilerin ibadetine kapattı. Bu süre zarfında cami, yalnızca İsrailli ziyaretçilere açık tutuldu. Söz konusu uygulama, caminin kontrolü üzerindeki mevcut gerilimi daha da derinleştirdi. El Halil'deki bu kutsal mekan, uzun süredir İsrail-Filistin çatışmasının önemli odak noktalarından biri olarak kabul ediliyor. Karar, bölgedeki hassas dengeyi ve taraflar arasındaki gerilimi bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35701329/pexels-photo-35701329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-06T20:18:47.297Z",
+        "location": {
+            "lat": 31.5325,
+            "lng": 35.0975,
+            "name": "El Halil, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1793996351254bkmgl",
+        "title": "Trump, Danışmanı Stephen Miller'ı Beyaz Saray Genel Sekreteri Olarak Atadı",
+        "summary": "Eski ABD Başkanı Donald Trump'ın danışmanlarından Stephen Miller'ın Beyaz Saray Genel Sekreteri olarak atandığı bildirildi. Bu atama, ABD siyasetinde önemli bir gelişme olarak değerlendiriliyor. Genel Sekreterlik pozisyonu, Başkan'ın gündemini belirlemede ve politikaların uygulanmasında kilit bir rol oynamaktadır. Miller'ın bu göreve gelmesiyle birlikte, Beyaz Saray'ın iç ve dış politika süreçlerinde etkili olması bekleniyor. Bu gelişme, son dakika haberi olarak duyuruldu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/6809657/pexels-photo-6809657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-06T20:19:11.254Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793996376102mj3zy",
+        "title": "İsrail ordusu, İran gerilimi ortasında Lübnan'da olası savaşın yeniden başlamasına hazırlanıyor: Rapor",
+        "summary": "İsrail'in Yedioth Ahronoth gazetesinin haberine göre, İsrail ordusu, İran ile düşmanlıkların yeniden başlaması halinde Lübnan cephesinde yenilenmiş çatışmalara hazırlanıyor. Bu hazırlıklar, bölgedeki artan gerilimin bir göstergesi olarak değerlendiriliyor. Haberde, ordunun olası bir geniş çaplı çatışmaya karşı stratejiler geliştirdiği ve operasyonel planlamalar yaptığı belirtiliyor. Bölgesel istikrarsızlık endişeleri artarken, bu tür hazırlıklar uluslararası kamuoyunun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-06T20:19:36.102Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "İsrail-Lübnan Sınırı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-preparing-for-possible-resumption-of-war-in-lebanon-amid-iran-tensions-report/4114716",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1793996402073aq528",
+        "title": "Mısır, Akdeniz'de 200 milyar metreküp doğalgaz keşfini duyurdu",
+        "summary": "Mısır, Akdeniz'de 200 milyar metreküp olduğu tahmin edilen yeni bir doğalgaz keşfini duyurdu. Yapılan açıklamada, bu rakamın sahadaki toplam gaz miktarını yansıttığı, henüz çıkarılabilir rezervleri ifade etmediği belirtildi. Mısırlı yetkililer, üretimi hızlandırmak amacıyla keşfedilen sahayı mevcut altyapıya bağlamak için boru hattı bağlantısı planlarını devreye soktu. Bu keşif, ülkenin enerji güvenliğine önemli katkı sağlaması ve bölgesel enerji piyasalarındaki konumunu güçlendirmesi bekleniyor.",
+        "category": "Enerji ve Altyapı",
+        "imageUrl": "https://images.pexels.com/photos/3722212/pexels-photo-3722212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-06T20:20:02.073Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 30,
+            "name": "Akdeniz, Mısır"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egypt-announces-mediterranean-gas-discovery-estimated-at-200b-cubic-feet/4114640",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1793996423833bj8pc",
+        "title": "Irak, İran ve ABD'ye bölgesel diplomatik misyon önerdi; Tahran görüşmeleri yeniden başlatma planını açıkladı",
+        "summary": "Irak, İran ve ABD arasında bölgesel bir diplomatik misyon kurulması yönünde bir öneride bulundu. Bu girişim, Tahran'ın nükleer müzakereleri yeniden başlatma planını açıklamasının ardından geldi. İran'ın sunduğu plan, müzakereler için belirli bir zaman çizelgesi içeriyor. Ayrıca, Hürmüz Boğazı'nın yeniden açılması ve Pakistan'da daha önce varılan mutabakatların gözden geçirilmesi de bu planın maddeleri arasında yer alıyor. Bu diplomatik çabalar, bölgedeki gerilimi azaltma ve taraflar arasında diyalog köprüleri kurma amacı taşıyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-06T20:20:23.833Z",
+        "location": {
+            "lat": 33.3,
+            "lng": 44.4,
+            "name": "Bağdat, Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iraq-proposes-regional-diplomatic-mission-to-iran-us-as-tehran-outlines-plan-to-resume-talks/4114605",
+        "trendScore": 82,
+        "isBreaking": false
+    },
+    {
         "id": "179397338372355icf",
         "title": "Portekiz Futbol Federasyonu, Cristiano Ronaldo'yu Onurlandırma Sözü Verdi",
         "summary": "Portekiz Futbol Federasyonu (FPF), ülkenin efsanevi futbolcusu Cristiano Ronaldo'yu onurlandırmak amacıyla özel bir tören düzenleyeceğini açıkladı. Federasyon, Ronaldo'nun milli takımdaki olağanüstü kariyerini ve Portekiz futboluna katkılarını bu jestle taçlandırmayı hedefliyor. Ancak, şu anda Suudi Arabistan'ın Al Nassr kulübünde forma giyen yıldız oyuncunun bu veda törenine katılıp katılmayacağı henüz belirsizliğini koruyor. Bu gelişme, Orta Doğu futbol sahnesinde önemli bir figür haline gelen Ronaldo'nun geleceği ve milli takımla ilişkileri hakkındaki tartışmaları yeniden gündeme getirdi.",
@@ -716,86 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aa.com.tr/en/middle-east/israeli-claims-about-iran-s-chemical-weapons-divide-us-officials-report/4110465",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793717654217lwvaw",
-        "title": "Birleşik Krallık merkezli Filistin Eylem grubu küresel çapta nasıl yayıldı: İtalya'dan Kanada'ya uzanan etki",
-        "summary": "Birleşik Krallık merkezli Filistin Eylem grubu, İsrail'in askeri endüstrisini hedef alan faaliyetlerini küresel çapta genişletti. Birleşik Krallık'ta yasaklı olan bu grup, İtalya'dan Kanada'ya kadar birçok ülkede aktivistlere ilham kaynağı oldu. Grubun eylemleri, Avrupa ve diğer bölgelerdeki benzer düşünen aktivistler tarafından benimsenerek farklı ülkelerde de protestoların düzenlenmesine yol açtı. Bu durum, Filistin yanlısı aktivizmin sınır ötesi etkileşimini ve yayılımını gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6054378/pexels-photo-6054378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-03T14:54:14.217Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.7,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17937177125083sr9j",
-        "title": "Trump, ABD'nin yıl sonundan sonra İsrail'e yardımı durduracağını söyledi",
-        "summary": "Eski ABD Başkanı Donald Trump, Amerika Birleşik Devletleri'nin İsrail'e sağladığı yardımları yıl sonundan itibaren durduracağını duyurdu. Bu açıklama, ABD'nin İsrail'e yönelik askeri yardımları ve İsrail yanlısı grupların ABD'deki seçim kampanyalarına yaptığı finansal katkılar etrafındaki siyasi tartışmaları yeniden gündeme getirdi. ABD'nin İsrail'e sağladığı dış yardım, iki ülke arasındaki stratejik ilişkilerin ve İsrail'in bölgesel güvenliğinin önemli bir unsuru olarak kabul ediliyor. Potansiyel bir yardım kesintisi, hem ABD'nin Orta Doğu politikasında hem de İsrail'in savunma kapasiteleri üzerinde önemli etkiler yaratabilir. Bu durumun, uluslararası arenada ve bölgesel dengelerde geniş yankı bulması bekleniyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4033852/pexels-photo-4033852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-03T14:55:12.508Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793717734172wgzjd",
-        "title": "İran komutanı bölgesel güvenlik için beş şart sundu",
-        "summary": "İranlı bir komutanın bölgesel güvenlik için beş şart belirlediği haber verilirken, arabulucu Katar'dan önemli bir açıklama geldi. Katar, ABD ve İran'ın müzakerelere yeniden başlama önerilerini incelediğini ve bir anlaşmaya varılması konusunda \"umutlu\" olduğunu duyurdu. Bu müzakerelerin, İran'ın bölgesel güvenlik vizyonu ve ABD ile ilişkileri bağlamında Orta Doğu'daki istikrar arayışları için kritik öneme sahip olduğu belirtiliyor. Taraflar arasındaki görüşmelerin bölgedeki gerilimi azaltma potansiyeli taşıdığı ifade edildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/5673459/pexels-photo-5673459.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-03T14:55:34.172Z",
-        "location": {
-            "lat": 25.2854,
-            "lng": 51.531,
-            "name": "Doha, Katar"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793717755418uhrnz",
-        "title": "ABD, ara seçimler öncesi İran adasını vurdu",
-        "summary": "ABD'li yetkililer, İran'ın Hürmüz Boğazı'nda yer alan Keşm Adası'na yönelik saldırılar düzenlendiğini bildirdi. BBC'nin ABD ortağı CBS'e göre, yetkililer bu eylemleri sınırlı ve savunma amaçlı olarak tanımladı. Haber başlığı, bu saldırıların ABD'deki ara seçimler öncesinde gerçekleştiğine işaret ediyor. Olay, ABD ile İran arasındaki gerilimin devam ettiği bir dönemde bölgedeki güvenlik dinamiklerini yeniden gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5952998/pexels-photo-5952998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-03T14:55:55.418Z",
-        "location": {
-            "lat": 26.8,
-            "lng": 56.1,
-            "name": "Keşm Adası, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 88,
-        "isBreaking": true
-    },
-    {
-        "id": "1793717781626xlwu0",
-        "title": "Suriye'de kriz, Esad sonrası toparlanmayı zorlarken Suriyeliler artan fiyatlarla mücadele ediyor",
-        "summary": "Suriye'de halk, sübvansiyonların sona ermesi ve artan fiyatlar nedeniyle ciddi ekonomik zorluklarla karşı karşıya kalmaktadır. Özellikle Ahmed el-Şaraa hükümetinin kontrolündeki bölgelerde, yaşam maliyetlerindeki yükseliş geniş çaplı hoşnutsuzluğa yol açmaktadır. Bu durum, söz konusu hükümetin halk desteğini sınamakta ve Esad sonrası dönemde beklenen toparlanma çabalarını sekteye uğratmaktadır. Ekonomik krizin derinleşmesi, bölgedeki istikrarsızlığı artırma potansiyeli taşırken, Suriyelilerin günlük yaşam mücadelesini daha da ağırlaştırmaktadır.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36520968/pexels-photo-36520968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-03T14:56:21.626Z",
-        "location": {
-            "lat": 35.8,
-            "lng": 36.6,
-            "name": "İdlib, Suriye"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": false
     }
