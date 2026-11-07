@@ -1,5 +1,21 @@
 [
     {
+        "id": "17940328666783ajr1",
+        "title": "ABD, Orta Doğu'daki vatandaşlarını İran bağlantılı saldırı tehdidine karşı uyardı",
+        "summary": "ABD Dışişleri Bakanlığı, Orta Doğu'da bulunan Amerikan vatandaşlarına yönelik artan tehditler konusunda bir uyarı yayınladı. Bakanlık, İran bağlantılı saldırı riskine karşı \"yüksek düzeyde dikkatli olunması\" çağrısında bulundu. Uyarıda, bölgede silahlı saldırılar ve seyahat kesintileri gibi potansiyel risklerin bulunduğu belirtildi. Amerikan vatandaşlarından çevrelerine karşı tetikte olmaları ve yerel güvenlik talimatlarına uymaları istendi. Bu uyarı, bölgedeki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11783119/pexels-photo-11783119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-07T06:27:46.678Z",
+        "location": {
+            "lat": 33,
+            "lng": 40,
+            "name": "Orta Doğu"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-warns-americans-in-middle-east-of-heightened-threat-from-iran-related-attacks/4114834",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1794010386592zamzp",
         "title": "Katar'dan ABD ve İran'a Barış Anlaşması Çağrısı",
         "summary": "Katar Başbakanı, ABD ve İran arasındaki gerilimi sona erdirecek bir anlaşmaya varılması konusunda taraflara çağrıda bulundu. Başbakan, Washington ve Tahran'ın \"mükemmel bir anı\" beklemeden bir anlaşmaya varmaları gerektiğini vurguladı. Bu çağrı, bölgedeki mevcut gerilimin azaltılması ve istikrarın sağlanması yönündeki diplomatik çabaların bir parçası olarak değerlendiriliyor. Katar, uzun süredir ABD ile İran arasındaki arabuluculuk rolünü üstleniyor.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı, İran"
         },
         "source": "https://www.aa.com.tr/en/middle-east/iran-exempts-ships-from-india-china-iraq-qatar-from-hormuz-transit-restrictions-lawmaker/4110513",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793739148703jub3q",
-        "title": "Orta Doğu enerji krizi bölgesel güvenlik zafiyetlerini ortaya koyuyor: Uluslararası Enerji Ajansı",
-        "summary": "Uluslararası Enerji Ajansı (IEA), Orta Doğu'da yaşanan enerji krizinin bölgesel güvenlik zafiyetlerini gözler önüne serdiğini bildirdi. Ajansın raporuna göre, Hürmüz Boğazı'ndaki aksaklıklar ve artan yakıt maliyetleri, bölgedeki enerji üreticileri, ithalatçıları ve çatışmalardan etkilenen ülkeler üzerinde ciddi baskı oluşturuyor. Bu durum, bölgenin enerji güvenliği ve istikrarı açısından kritik riskler barındırıyor. IEA, enerji arzındaki kesintilerin ve fiyat dalgalanmalarının bölgesel gerilimleri artırabileceği uyarısında bulundu.",
-        "category": "Enerji ve Altyapı",
-        "imageUrl": "https://images.pexels.com/photos/36152058/pexels-photo-36152058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-03T20:52:28.703Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, Orta Doğu"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/mideast-energy-crisis-exposes-regional-security-vulnerabilities-international-energy-agency/4110466",
         "trendScore": 85,
         "isBreaking": false
     }
