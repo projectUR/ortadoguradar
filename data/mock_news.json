@@ -1,5 +1,37 @@
 [
     {
+        "id": "1794089581900uyynv",
+        "title": "Mélenchon, Başkan Seçilmesi Halinde İsrail'in İlhakına Karşı Harekete Geçme Sözü Verdi",
+        "summary": "Fransız siyasetçi Jean-Luc Mélenchon, cumhurbaşkanlığına seçilmesi durumunda İsrail'in ilhak politikalarına karşı adımlar atacağını taahhüt etti. Bu açıklama, Fransa'nın Orta Doğu'daki İsrail-Filistin çatışmasına yönelik dış politikasında potansiyel bir değişikliğe işaret ediyor. Mélenchon'un vaadi, özellikle İsrail'in Batı Şeria'daki yerleşim birimleri veya toprak ilhakı girişimlerine karşı uluslararası tepkileri artırma potansiyeli taşıyor. Söz konusu taahhüt, bölgedeki diplomatik dengeler ve uluslararası ilişkiler açısından önem arz etmektedir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9271197/pexels-photo-9271197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-07T22:13:01.900Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794089641536y9zht",
+        "title": "İsrail Cumhurbaşkanı, yeni hükümeti kurması için Netanyahu yerine Eisenkot'u görevlendirdi",
+        "summary": "İsrail Cumhurbaşkanı Isaac Herzog, yeni hükümeti kurma görevini Gadi Eisenkot'a verdi. Bu karar, Benjamin Netanyahu'nun yerine başbakanlık koltuğuna geçmesi beklenen Eisenkot'a 28 gün süre tanıyor. Eisenkot'un bu süre zarfında Knesset'te (İsrail Parlamentosu) 61 sandalyelik çoğunluğu sağlayarak koalisyon hükümetini kurması gerekiyor. Gelişme, İsrail siyasetinde önemli bir dönüm noktası olarak değerlendiriliyor ve ülkenin gelecekteki siyasi yönelimini etkileyebilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8847167/pexels-photo-8847167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-07T22:14:01.536Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1794075178593b8j40",
         "title": "Husiler Yemen'deki Hava Saldırılarında 25 Kişinin Öldüğünü Bildirdi",
         "summary": "Yemen'deki Husiler, ülkenin çeşitli bölgelerine düzenlenen hava saldırılarında en az 25 kişinin yaşamını yitirdiğini ve 30 kişinin yaralandığını duyurdu. Husilere ait El-Mesire televizyonu tarafından aktarılan bilgilere göre, saldırıların detayları ve hedef alınan bölgeler hakkında henüz net bir açıklama yapılmadı. Bu olay, Yemen'de uzun süredir devam eden çatışmaların sivil kayıplara yol açmaya devam ettiğini bir kez daha gözler önüne serdi. Bölgedeki insani durumun ciddiyeti sürerken, uluslararası kuruluşlar taraflara sivillerin korunması çağrısında bulunuyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-340-houthi-fighters-neutralized-in-1-322-military-operations/4112065",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1793829998148pp9xk",
-        "title": "Netanyahu, İsrail seçimlerine yabancı müdahale konusunda 'ciddi şüpheler' olduğunu iddia etti",
-        "summary": "İsrail Başbakanı Binyamin Netanyahu, ülkedeki seçimlere yabancı güçlerin müdahale ettiğine dair \"ciddi şüpheler\" bulunduğunu öne sürdü. Netanyahu, bu iddiaların araştırılması çağrısında bulundu. Bu açıklama, seçim komitesinin sonuçları onaylamasının ve herhangi bir usulsüzlük tespit etmediğini belirtmesinin ardından geldi. Başbakan'ın bu talebi, İsrail'in iç siyasetinde yeni bir tartışma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5926403/pexels-photo-5926403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-04T22:06:38.148Z",
-        "location": {
-            "lat": 32,
-            "lng": 35,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-claims-there-are-serious-suspicions-of-foreign-interference-in-israeli-elections/4112064",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17938300207747zo3e",
-        "title": "BM, barış güçlerinin çekilmesi halinde Güney Lübnan'da güvenlik boşluğu oluşacağı uyarısı yaptı",
-        "summary": "Birleşmiş Milletler (BM) Barış Gücü Şefi Jean-Pierre Lacroix, Lübnan'dan barış güçlerinin çekilmesi durumunda bölgede güvenlik boşluğu oluşabileceği konusunda uyarıda bulundu. Lacroix, bu durumun özellikle Güney Lübnan'da gerilimi artırabileceğini ve bölgeyi daha fazla çatışmaya açık hale getirebileceğini belirtti. BM yetkilisi, barış güçlerinin varlığının istikrarı korumak için kritik önem taşıdığını vurguladı. Çekilmenin, bölgedeki hassas dengeyi bozarak yeni güvenlik sorunlarına yol açabileceği ifade edildi. Bu açıklama, Lübnan'daki BM Geçici Görev Gücü'nün (UNIFIL) geleceğine ilişkin tartışmaların sürdüğü bir dönemde geldi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30541594/pexels-photo-30541594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-04T22:07:00.774Z",
-        "location": {
-            "lat": 33.27,
-            "lng": 35.2,
-            "name": "Güney Lübnan, Lübnan"
-        },
-        "source": "https://www.aa.com.tr/en/world/un-warns-of-security-vacuum-in-southern-lebanon-if-peacekeepers-withdraw/4112012",
-        "trendScore": 80,
         "isBreaking": false
     }
 ]
