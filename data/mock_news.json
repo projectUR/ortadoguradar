@@ -1,5 +1,21 @@
 [
     {
+        "id": "1794010386592zamzp",
+        "title": "Katar'dan ABD ve İran'a Barış Anlaşması Çağrısı",
+        "summary": "Katar Başbakanı, ABD ve İran arasındaki gerilimi sona erdirecek bir anlaşmaya varılması konusunda taraflara çağrıda bulundu. Başbakan, Washington ve Tahran'ın \"mükemmel bir anı\" beklemeden bir anlaşmaya varmaları gerektiğini vurguladı. Bu çağrı, bölgedeki mevcut gerilimin azaltılması ve istikrarın sağlanması yönündeki diplomatik çabaların bir parçası olarak değerlendiriliyor. Katar, uzun süredir ABD ile İran arasındaki arabuluculuk rolünü üstleniyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/39049423/pexels-photo-39049423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-07T00:13:06.592Z",
+        "location": {
+            "lat": 25.3,
+            "lng": 51.5,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17939963272975jcr7",
         "title": "İsrail, Yahudi Bayramı Nedeniyle El Halil'deki İbrahimi Camii'ni Filistinlilere Kapattı",
         "summary": "İsrail makamları, Batı Şeria'nın El Halil kentinde bulunan ve hem Müslümanlar hem de Yahudiler için kutsal sayılan İbrahimi Camii'ni bir Yahudi bayramı nedeniyle Filistinlilerin ibadetine kapattı. Bu süre zarfında cami, yalnızca İsrailli ziyaretçilere açık tutuldu. Söz konusu uygulama, caminin kontrolü üzerindeki mevcut gerilimi daha da derinleştirdi. El Halil'deki bu kutsal mekan, uzun süredir İsrail-Filistin çatışmasının önemli odak noktalarından biri olarak kabul ediliyor. Karar, bölgedeki hassas dengeyi ve taraflar arasındaki gerilimi bir kez daha gözler önüne serdi.",
@@ -780,22 +796,6 @@
             "name": "Hürmüz Boğazı, Orta Doğu"
         },
         "source": "https://www.aa.com.tr/en/middle-east/mideast-energy-crisis-exposes-regional-security-vulnerabilities-international-energy-agency/4110466",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793739178900rsqpr",
-        "title": "İsrail'in İran'ın kimyasal silahları iddiaları ABD'li yetkilileri böldü: Rapor",
-        "summary": "Bir rapora göre, İsrail'in İran'ın kimyasal silahlarına ilişkin iddiaları ABD'li yetkililer arasında görüş ayrılıklarına neden oldu. Haberde, bazı ABD'li yetkililerin bu iddiaları, dönemin Netanyahu hükümetinin Trump yönetimini İran'a karşı geniş çaplı askeri operasyonlara yeniden başlamaya ikna etme çabası olarak gördüğü belirtildi. Bu durum, ABD içinde İsrail'in istihbarat paylaşımlarının güvenilirliği ve arkasındaki niyetler konusunda farklı değerlendirmeler olduğunu ortaya koyuyor. Özellikle Orta Doğu'da potansiyel bir askeri gerilimin söz konusu olduğu bir dönemde, bu tür iddiaların ABD'nin dış politikası üzerindeki etkisi tartışılıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/30187304/pexels-photo-30187304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-03T20:52:58.900Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-claims-about-iran-s-chemical-weapons-divide-us-officials-report/4110465",
         "trendScore": 85,
         "isBreaking": false
     }
