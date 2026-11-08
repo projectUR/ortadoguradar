@@ -1,5 +1,37 @@
 [
     {
+        "id": "179416899039572a7r",
+        "title": "Al Jazeera Gençlik Olimpiyatları'nda Baseball5'i Deniyor",
+        "summary": "Katar merkezli uluslararası yayın kuruluşu Al Jazeera, Gençlik Olimpiyatları kapsamında Baseball5 sporunu deneyimledi. Bu etkinlik, medya kuruluşunun küresel spor etkinliklerine olan ilgisini ve farklı spor dallarını tanıtma çabasını yansıtmaktadır. Baseball5, Uluslararası Beyzbol ve Softbol Federasyonu tarafından geliştirilen, beşer kişilik takımlarla oynanan yeni ve dinamik bir spor dalıdır. Al Jazeera'nın bu sporu denemesi, medya kuruluşunun uluslararası platformlardaki varlığını ve spor haberciliğine verdiği önemi vurgulamaktadır.",
+        "category": "Tümü",
+        "imageUrl": "https://images.pexels.com/photos/8254949/pexels-photo-8254949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-08T20:16:30.395Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+        "trendScore": 30,
+        "isBreaking": false
+    },
+    {
+        "id": "1794169067191ku8df",
+        "title": "Eisenkot, Netanyahu'nun İsrail'in bir sonraki hükümetine katılmasına açık",
+        "summary": "İsrail'de siyasi gelişmeler devam ederken, Cumhurbaşkanı yeni bir hükümet kurma görevini resmen muhalefet liderine verdi. Bu süreçte, önde gelen siyasetçilerden Eisenkot, eski Başbakan Binyamin Netanyahu'nun ülkenin bir sonraki hükümetinde yer almasına açık olduğunu belirtti. Bu açıklama, olası koalisyon seçenekleri ve geniş tabanlı bir ulusal birlik hükümeti ihtimalini gündeme getirdi. Hükümet kurma çalışmaları önümüzdeki günlerde yoğunlaşacak ve ülkenin siyasi geleceğini şekillendirecek.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3924906/pexels-photo-3924906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-08T20:17:47.191Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17941530836741e5gf",
         "title": "Filistinli gazeteci Abed Abou Shhadeh 5 günlük gözaltının ardından serbest bırakıldı",
         "summary": "Filistinli gazeteci Abed Abou Shhadeh, beş gün süren gözaltının ardından serbest bırakıldı. Gazetecinin serbest bırakıldığı bilgisi, ilgili kaynaklar tarafından doğrulandı. Abou Shhadeh'in gözaltına alınma nedenleri veya serbest bırakılma koşulları hakkında detaylı bilgi henüz paylaşılmadı. Bu gelişme, bölgedeki gazetecilerin durumuyla ilgili tartışmaları sürdürüyor.",
@@ -764,38 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/middle-east/gaza-records-260-congenital-anomaly-cases-in-9-months-exceeding-2022-total-health-ministry/4114358",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793973558588k7lme",
-        "title": "İsrail ordusu Suriye'nin güneyindeki Kuneytra'da tarım arazilerini bombaladı",
-        "summary": "İsrail ordusu, Suriye'nin güneyindeki Kuneytra vilayetinde yer alan tarım arazilerine topçu ateşi düzenledi. Ain Ziwan köyü yakınlarındaki bir tarım arazisine isabet eden top mermisi, bölgede hasara yol açtı. Bu saldırı, İsrail'in Suriye'nin egemenliğini defalarca ihlal ettiği yönündeki iddiaların ortasında gerçekleşti. Olay, Suriye-İsrail sınırındaki gerilimin devam ettiğini gösteriyor ve bölgedeki güvenlik durumunu etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35389872/pexels-photo-35389872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-06T13:59:18.588Z",
-        "location": {
-            "lat": 33.1167,
-            "lng": 35.7833,
-            "name": "Kuneytra, Suriye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-agricultural-land-in-southern-syria-s-quneitra/4114313",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793973598727isnsb",
-        "title": "İsrail ordusu ve yerleşimciler işgal altındaki Batı Şeria'da saldırılar düzenledi, zeytin toplayıcılarını hedef aldı",
-        "summary": "İşgal altındaki Batı Şeria'da İsrail ordusu ve yerleşimciler tarafından çeşitli bölgelerde saldırılar düzenlendiği bildirildi. Haberlere göre, saldırılarda zeytin toplayıcıları hedef alınırken, yerleşimcilerin çadırları ve tarım arazilerini ateşe verdiği, ayrıca mülklere zarar verdiği kaydedildi. Olaylar sırasında yabancı aktivistlerin gözaltına alındığı ve gazetecilerin bölgeden uzaklaştırıldığı ifade edildi. Bölgedeki gerilimin devam ettiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/39167831/pexels-photo-39167831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-06T13:59:58.727Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-occupiers-carry-out-attacks-across-occupied-west-bank-target-olive-harvesters/4114286",
         "trendScore": 85,
         "isBreaking": false
     }
