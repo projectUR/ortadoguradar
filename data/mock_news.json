@@ -1,5 +1,21 @@
 [
     {
+        "id": "1794182234187f6n1m",
+        "title": "Kuzey Irak'taki Gaz Sahasına İHA Saldırısı Elektrik Tedarikini Aksattı",
+        "summary": "Kuzey Irak'ta bir gaz sahasına insansız hava aracı (İHA) saldırısı düzenlendiği bildirildi. Saldırı sonucunda bölgedeki elektrik tedarikinde kesintiler yaşandığı belirtildi. Irak Başbakanı, olayın ardından Kürt bölgesindeki yetkililerle ortak bir soruşturma başlatılması talimatı verdi. Bu gelişme, ülkenin enerji altyapısının güvenliğine yönelik endişeleri artırdı ve bölgesel işbirliğinin önemini bir kez daha ortaya koydu.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/442589/pexels-photo-442589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-08T23:57:14.187Z",
+        "location": {
+            "lat": 36.191111,
+            "lng": 44.009444,
+            "name": "Kuzey Irak"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/drone-strike-targets-gas-field-disrupting-electricity-supplies-in-northern-iraq/4116376",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "179416899039572a7r",
         "title": "Al Jazeera Gençlik Olimpiyatları'nda Baseball5'i Deniyor",
         "summary": "Katar merkezli uluslararası yayın kuruluşu Al Jazeera, Gençlik Olimpiyatları kapsamında Baseball5 sporunu deneyimledi. Bu etkinlik, medya kuruluşunun küresel spor etkinliklerine olan ilgisini ve farklı spor dallarını tanıtma çabasını yansıtmaktadır. Baseball5, Uluslararası Beyzbol ve Softbol Federasyonu tarafından geliştirilen, beşer kişilik takımlarla oynanan yeni ve dinamik bir spor dalıdır. Al Jazeera'nın bu sporu denemesi, medya kuruluşunun uluslararası platformlardaki varlığını ve spor haberciliğine verdiği önemi vurgulamaktadır.",
@@ -780,22 +796,6 @@
             "name": "Gazze, Filistin"
         },
         "source": "https://www.aa.com.tr/en/world/occupier-terrorism-against-palestinians-growing-bolder-under-worlds-indifference-turkish-president/4114367",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "179397353556395eoh",
-        "title": "Gazze'de 9 ayda 260 doğumsal anomali vakası kaydedildi, 2022 toplamını aştı: Sağlık Bakanlığı",
-        "summary": "Gazze Şeridi'nde Sağlık Bakanlığı tarafından açıklanan verilere göre, yılın ilk dokuz ayında 260 doğumsal anomali vakası tespit edildi. Bu sayı, 2022 yılının tamamında kaydedilen toplam vaka sayısını geride bırakmış durumda. Bir sağlık yetkilisi, bu artışın nedenlerinin bağımsız uluslararası bilimsel bir soruşturma ile araştırılması çağrısında bulundu. Vakaların artışının bölgedeki yaşam koşulları ve çevresel faktörlerle ilişkili olabileceği endişeleri dile getiriliyor. Bu durum, Gazze'deki sağlık altyapısı üzerindeki baskıyı daha da artırıyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/34864773/pexels-photo-34864773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-06T13:58:55.563Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/gaza-records-260-congenital-anomaly-cases-in-9-months-exceeding-2022-total-health-ministry/4114358",
         "trendScore": 85,
         "isBreaking": false
     }
