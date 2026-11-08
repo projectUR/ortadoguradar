@@ -1,5 +1,37 @@
 [
     {
+        "id": "1794102208048oid11",
+        "title": "İran'da Gerilim Tırmanıyor: Keşm Adası'nda Patlamalar Duyuldu, ABD Kara İkmal Yollarını Engelleme Hamlesi Yapıyor",
+        "summary": "İran devlet medyası tarafından yapılan açıklamalara göre, Hürmüz Boğazı'nda stratejik öneme sahip Keşm Adası'nda patlama sesleri duyuldu. Aynı zamanda, Jask, Sirik ve Bender Abbas gibi kıyı şehirlerinde de benzer olayların yaşandığı bildirildi. Bu gelişmeler, bölgedeki güvenlik durumunun hassasiyetini artırırken, haber başlığında Amerika Birleşik Devletleri'nin kara ikmal yollarını engelleme yönünde adımlar attığı da belirtildi. Patlamaların kaynağı ve niteliği hakkında henüz resmi bir açıklama yapılmazken, bölgedeki gerilimin yükseldiği gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-08T01:43:28.048Z",
+        "location": {
+            "lat": 26.95,
+            "lng": 56.27,
+            "name": "Keşm, İran"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1794102299733oyn9o",
+        "title": "İsrail güçleri Batı Şeria baskınlarında Filistinli çocuğu vurdu, 2 kişiyi gözaltına aldı",
+        "summary": "Batı Şeria'da İsrail güçlerinin düzenlediği operasyonlarda bir Filistinli çocuğun vurulduğu ve iki kişinin gözaltına alındığı bildirildi. Haberlere göre, İsrail güçleri ayrıca Cenin yakınlarında zeytin toplayanlara saldırdı. Hebron'un Eski Şehri'nde ise dükkanların kapanmaya zorlandığı belirtildi. Bu olaylar, bölgedeki gerilimin devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34234351/pexels-photo-34234351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-08T01:44:59.733Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-forces-shoot-palestinian-child-detain-2-in-west-bank-raids/4115618",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1794089581900uyynv",
         "title": "Mélenchon, Başkan Seçilmesi Halinde İsrail'in İlhakına Karşı Harekete Geçme Sözü Verdi",
         "summary": "Fransız siyasetçi Jean-Luc Mélenchon, cumhurbaşkanlığına seçilmesi durumunda İsrail'in ilhak politikalarına karşı adımlar atacağını taahhüt etti. Bu açıklama, Fransa'nın Orta Doğu'daki İsrail-Filistin çatışmasına yönelik dış politikasında potansiyel bir değişikliğe işaret ediyor. Mélenchon'un vaadi, özellikle İsrail'in Batı Şeria'daki yerleşim birimleri veya toprak ilhakı girişimlerine karşı uluslararası tepkileri artırma potansiyeli taşıyor. Söz konusu taahhüt, bölgedeki diplomatik dengeler ve uluslararası ilişkiler açısından önem arz etmektedir.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1793829949864nd04d",
-        "title": "İsrail Cumhurbaşkanı, seçim çıkmazının ardından partilerle istişarelere başladı",
-        "summary": "İsrail Cumhurbaşkanı Isaac Herzog, ülkedeki seçim çıkmazının ardından hükümet kurma sürecini görüşmek üzere siyasi partilerle istişarelere başladı. Herzog, siyasetçilere hitaben yaptığı açıklamada, yeni bir seçimi önlemek istiyorlarsa \"her taahhüdün ve vaadin yerine getirilemeyeceği\" uyarısında bulundu. Bu durum, ülkenin siyasi istikrarsızlıkla karşı karşıya olduğunu ve koalisyon görüşmelerinin zorlu geçeceğini gösteriyor. Cumhurbaşkanı, partiler arasında uzlaşı sağlanması ve işlevsel bir hükümetin kurulması için çaba sarf ediyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7089044/pexels-photo-7089044.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-04T22:05:49.864Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793829972156fdjzf",
-        "title": "Yemen ordusu, 1.322 askeri operasyonda 340 Husi savaşçısının etkisiz hale getirildiğini bildirdi",
-        "summary": "Yemen ordusu, devam eden askeri operasyonlarda önemli başarılar elde ettiğini duyurdu. Yapılan açıklamaya göre, 1.322 askeri operasyon sonucunda 340 Husi savaşçısı etkisiz hale getirildi. Hükümet güçleri, 'Yemen Şafağı' operasyonu kapsamında Al-Jawf ve Taiz vilayetlerinde toprak kazanımları bildirdi. Bu gelişmeler, ülkedeki çatışmaların yoğunlaştığını ve hükümetin stratejik bölgelerde ilerleme kaydettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-04T22:06:12.156Z",
-        "location": {
-            "lat": 15.5,
-            "lng": 47.5,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-340-houthi-fighters-neutralized-in-1-322-military-operations/4112065",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
