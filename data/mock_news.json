@@ -1,5 +1,53 @@
 [
     {
+        "id": "17942017022948pg2b",
+        "title": "Türkiye, COP31 öncesinde elektrifikasyonu iklim gündeminin zirvesine taşıyor",
+        "summary": "Türkiye, Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) öncesinde elektrifikasyonu iklim gündeminin en üst sırasına taşıdığını duyurdu. Ankara, 2035 yılına kadar elektriğin küresel enerji talebinin yüzde 35'ini karşılamasını hedefliyor. Bu hedef, ülkenin enerji dönüşümü ve iklim değişikliğiyle mücadeledeki kararlılığını ortaya koyuyor. Türkiye'nin bu adımı, küresel çapta karbon emisyonlarının azaltılmasına yönelik çabalara katkı sağlamayı amaçlıyor.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/33355698/pexels-photo-33355698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-09T05:21:42.294Z",
+        "location": {
+            "lat": 39.9334,
+            "lng": 32.8597,
+            "name": "Ankara, Türkiye"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794201796442qe0jy",
+        "title": "Trump, Cumhuriyetçilerin ara seçim kayıplarının nedenleri arasında İsrail'e yönelik 'büyük hoşnutsuzluk' ve İran'la savaşı gösterdi",
+        "summary": "ABD Başkanı, Cumhuriyetçi Parti'nin ara seçimlerdeki kayıplarının nedenlerini değerlendirdi. Trump, bu kayıpların arkasında İsrail'e yönelik \"büyük hoşnutsuzluk\" ve İran ile olası bir savaşın yattığını belirtti. Başkan, İran'a karşı yürütülen askeri kampanyayı savunurken, bunun siyasi maliyetleri olduğunu kabul etti. Ayrıca, Tahran yönetiminin hala bir anlaşmaya ilgi duyduğunu ifade etti. Bu açıklamalar, ABD'nin Orta Doğu politikalarının iç siyasete etkilerini gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-09T05:23:16.442Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/trump-cites-great-dislike-for-israel-iran-war-among-reasons-for-republican-midterm-losses/4116402",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17942018326289uts9",
+        "title": "İsrail'de koalisyon çıkmazı: Yeni seçimlere gitmeden önce hükümet kurmak için üç şans",
+        "summary": "İsrail'de hükümet kurma süreci, koalisyon çıkmazıyla karşı karşıya. Yashar Partisi lideri Gadi Eisenkot'a, yeni bir hükümet kurmak için 28 günlük süre tanındı. Eisenkot'un, kendisine sunulan 67 tavsiyeyi bir hükümete dönüştürmesi bekleniyor. Ancak, Arap partileriyle işbirliği konusunda yaşanan anlaşmazlıklar, bu süreci zorlaştırıyor. Ülke, hükümet kurulamaması halinde yeni seçimlere gitme ihtimaliyle karşı karşıya.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8847041/pexels-photo-8847041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-09T05:23:52.628Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-coalition-deadlock-up-to-three-chances-to-form-government-before-triggering-new-elections/4116399",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1794182234187f6n1m",
         "title": "Kuzey Irak'taki Gaz Sahasına İHA Saldırısı Elektrik Tedarikini Aksattı",
         "summary": "Kuzey Irak'ta bir gaz sahasına insansız hava aracı (İHA) saldırısı düzenlendiği bildirildi. Saldırı sonucunda bölgedeki elektrik tedarikinde kesintiler yaşandığı belirtildi. Irak Başbakanı, olayın ardından Kürt bölgesindeki yetkililerle ortak bir soruşturma başlatılması talimatı verdi. Bu gelişme, ülkenin enerji altyapısının güvenliğine yönelik endişeleri artırdı ve bölgesel işbirliğinin önemini bir kez daha ortaya koydu.",
@@ -748,54 +796,6 @@
             "name": "Tahran, İran"
         },
         "source": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793973464031dg8on",
-        "title": "ABD ara seçim sonuçları İsrail'de iki ülke ilişkilerinin geleceği konusunda endişelere yol açtı",
-        "summary": "ABD'de gerçekleşen ara seçimlerin sonuçları, İsrail'de Washington ile Tel Aviv arasındaki ilişkilerin geleceğine dair kaygıları artırdı. Seçimlerde Cumhuriyetçilerin beklenenin altında performans göstermesinin nedenlerinden biri olarak, ABD'nin İsrail'e verdiği güçlü desteğin kamuoyunda yarattığı tepkiler gösteriliyor. Bu durum, İsrail'in ABD'den aldığı geleneksel desteğin gelecekteki seyrine ilişkin tartışmaları beraberinde getirdi. Özellikle ABD iç siyasetindeki bu tür değişimlerin, iki ülke arasındaki stratejik işbirliği ve diplomatik ilişkiler üzerindeki potansiyel etkileri yakından izleniyor. İsrail, ABD'nin bölgedeki en önemli müttefiklerinden biri olarak, bu gelişmelerin kendi ulusal güvenliği ve dış politikası üzerindeki yansımalarını değerlendiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7362486/pexels-photo-7362486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-06T13:57:44.031Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793973488130ntvvs",
-        "title": "Uydu Görüntüleri, İran Füze Üsleri Yakınında Büyük İnşaat Faaliyetlerine İşaret Ediyor",
-        "summary": "Uydu görüntülerine göre, İran'daki füze üslerinin yakınında önemli inşaat faaliyetleri devam ediyor. Kasım ayında çekilen uydu fotoğraflarında, bu bölgelerde kazı çalışmaları ve yeni binaların varlığı tespit edildi. Bu durum, İran'ın füze programıyla ilgili altyapı geliştirme çabalarına işaret ediyor. Görüntüler, ülkenin askeri kapasitesini artırmaya yönelik potansiyel adımları gözler önüne seriyor ve bölgesel güvenlik endişelerini artırabilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4170184/pexels-photo-4170184.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-06T13:58:08.130Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1793973513222txqg8",
-        "title": "Türk Cumhurbaşkanı Erdoğan: İşgalci Terörü Filistinlilere Karşı Dünyanın Kayıtsızlığı Altında Cesurlaşıyor",
-        "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Filistinlilere yönelik \"işgalci terörünün\" dünyanın kayıtsızlığı altında daha da pervasızlaştığını belirtti. Erdoğan, küresel kurumları Gazze'de yaşanan zulümler karşısında sessiz kalmakla suçlayarak uluslararası toplumu eleştirdi. Bu açıklamalar, Orta Doğu'daki Filistin-İsrail çatışmasına ve uluslararası toplumun bu konudaki tutumuna dikkat çekiyor. Türkiye'nin Filistin davasına verdiği desteği ve uluslararası arenadaki eleştirel duruşunu yansıtan bu sözler, bölgedeki gerilimi ve insani durumu bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193760/pexels-photo-36193760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-06T13:58:33.222Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.4667,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/world/occupier-terrorism-against-palestinians-growing-bolder-under-worlds-indifference-turkish-president/4114367",
         "trendScore": 85,
         "isBreaking": false
     }
