@@ -1,5 +1,53 @@
 [
     {
+        "id": "1794292435967xfom0",
+        "title": "Moskova zirvesi, Rusya'nın eski Sovyet müttefikleri üzerindeki azalan etkisini test ediyor",
+        "summary": "Kolektif Güvenlik Anlaşması Örgütü (CSTO) bünyesinde düzenlenen Moskova zirvesi, Rusya'nın eski Sovyet cumhuriyetleri üzerindeki geleneksel etkisinin zayıfladığını gözler önüne seriyor. Özellikle Ermenistan'ın örgütten uzaklaşma eğilimi göstermesi, CSTO'nun bölgesel nüfuzunun azaldığına işaret ediyor. Eski müttefik ülkelerin bağımsız ortaklıklar arayışına girmesi, Rusya'nın bölgedeki liderlik rolünün sorgulanmasına neden oluyor. Bu durum, Rusya'nın Avrasya coğrafyasındaki güvenlik mimarisini yeniden şekillendirme çabalarını zorlaştırırken, bölgesel güç dengelerinde potansiyel değişimlere yol açabilir.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/30186406/pexels-photo-30186406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-10T06:33:55.967Z",
+        "location": {
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "name": "Moskova, Rusya"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "179429245787160avo",
+        "title": "İsrail güçleri işgal altındaki Batı Şeria'da 14 yaşındaki Filistinli çocuğu öldürdü",
+        "summary": "İsrail güçlerinin işgal altındaki Batı Şeria'da 14 yaşındaki bir Filistinli çocuğu öldürdüğü bildirildi. İsrail ordusu, askerlerinin Burka'da araçlara taş atan Filistinlileri engellemek amacıyla ateş açtığını belirtti. Olay, bölgedeki gerilimi yeniden tırmandıran bir gelişme olarak kaydedildi. Filistinli kaynaklar ve uluslararası kuruluşlar, İsrail güçlerinin orantısız güç kullanımını sıkça eleştirmekte. Bu tür olaylar, İsrail-Filistin çatışmasının devam eden hassasiyetini ve insan hakları ihlalleri iddialarını gündeme getiriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-10T06:34:17.871Z",
+        "location": {
+            "lat": 32.3,
+            "lng": 35.2,
+            "name": "Burka, Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794292514867rm83q",
+        "title": "BM Barış Gücü, Güney Lübnan'da İsrail Varlığına Dair İşaretler Bildirdi",
+        "summary": "Birleşmiş Milletler Geçici Görev Gücü (UNIFIL), Güney Lübnan'da İsrail'in sürekli varlığına dair işaretler tespit ettiğini açıkladı. UNIFIL'in raporuna göre, son dört gün içinde bölgede altı İsrail hava saldırısı ve 360 topçu atışı yörüngesi kaydedildi. Bu gelişmeler, İsrail ile Lübnan arasındaki sınır hattında devam eden gerilimi ve hassas durumu bir kez daha gözler önüne serdi. BM barış güçleri, taraflara itidal çağrısı yaparak bölgedeki gerilimin tırmanmasını önlemeye çalışıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147236/pexels-photo-6147236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-10T06:35:14.867Z",
+        "location": {
+            "lat": 33,
+            "lng": 35,
+            "name": "Güney Lübnan, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/un-peacekeepers-report-signs-of-sustained-israeli-presence-in-south-lebanon/4118108",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1794267058452f3bc8",
         "title": "Trump, Katar Başbakanı ile Görüşmeler Sonrası İran Savaşı'nın 'Fiilen Bittiğini' İddia Etti",
         "summary": "ABD Başkanı Donald Trump, Katar Başbakanı ile gerçekleştirdiği görüşmelerin ardından, İran ile olası bir savaşın 'fiilen sona erdiğini' iddia etti. Bu açıklama, bölgedeki gerilimin azaldığına dair bir sinyal olarak yorumlandı. Ancak İranlı yetkililer, ABD Başkanı'nın bu son yorumlarını 'sahte haber' olarak nitelendirerek kesin bir dille reddetti. İranlı makamlar, Trump'ın iddialarının gerçeği yansıtmadığını ve mevcut durumu yanlış yansıttığını belirtti. Bu durum, ABD ile İran arasındaki gerilimin devam ettiğini ve taraflar arasındaki söylem farklılıklarının sürdüğünü gözler önüne serdi.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
         "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1794075285598ny6hw",
-        "title": "Trump: ABD yıl sonuna kadar İsrail'e ödeme yapmayacak",
-        "summary": "ABD Başkanı Donald Trump, yıl sonuna kadar İsrail'e ödeme yapılmayacağını ifade etti. Trump, Demokratları, İsrail'e yapılan ABD yardımını Cumhuriyetçilere saldırmak için bir \"tartışma konusu\" olarak kullanmakla suçladı. Eski Başkan, bu konunun Demokratlar tarafından siyasi bir silah olarak kullanıldığını iddia etti. Bu açıklama, ABD'nin İsrail'e yönelik dış yardım politikaları ve iç siyasi tartışmalar bağlamında önem taşıyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/30187309/pexels-photo-30187309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-07T18:14:45.598Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794075310451h7bcg",
-        "title": "Belçika'daki Filistinli Aileler, Selden Etkilenen Gazze'deki Akrabalarının Tahliyesini İstiyor",
-        "summary": "Belçika'da yaşayan Filistinli aileler, Gazze Şeridi'nde şiddetli yağışlar nedeniyle sular altında kalan barınaklarda mahsur kalan akrabalarının tahliyesi için Belçika Dışişleri Bakanı ile acil bir toplantı talep etti. Aileler, Belçika vizesi bulunan Filistinlilerin güvenli bir şekilde bölgeden çıkarılması gerektiğini vurguladı. Gazze'deki insani durumun kötüleştiği ve sel felaketinin yaşam koşullarını daha da zorlaştırdığı belirtiliyor. Bu talep, bölgedeki çatışmaların yanı sıra doğal afetlerin de Filistin halkı üzerindeki etkisini gözler önüne seriyor. Belçika hükümetinin bu insani çağrıya nasıl yanıt vereceği kamuoyu tarafından yakından takip ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/35934190/pexels-photo-35934190.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-07T18:15:10.451Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/europe/palestinian-families-in-belgium-seek-evacuation-of-relatives-stranded-in-flood-hit-gaza/4115388",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794058016876pvpuk",
-        "title": "Al Jazeera, Gençlik Olimpiyatları'nda Wushu Dövüş Sanatını Deneyimledi",
-        "summary": "Katar merkezli uluslararası medya kuruluşu Al Jazeera, Gençlik Olimpiyatları kapsamında wushu dövüş sanatını deneyimledi. Kuruluşun ekibi, etkinliği sadece haberleştirmekle kalmayıp, aynı zamanda bu spor dalını bizzat deneyimleyerek izleyicilere farklı bir bakış açısı sunma çabası gösterdi. Bu tür içerikler, genellikle sporun evrensel dilini ve kültürel etkileşimini vurgulayarak, medya kuruluşlarının olaylara insani bir dokunuş katma arayışını yansıtır. Al Jazeera'nın bu girişimi, Gençlik Olimpiyatları'nın ruhuna uygun olarak sporun birleştirici gücünü ve gençlerin katılımını öne çıkardı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/40141083/pexels-photo-40141083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-07T13:26:56.876Z",
-        "location": {
-            "lat": 0,
-            "lng": 0,
-            "name": "Bilinmiyor, Bilinmiyor"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss",
-        "trendScore": 50,
         "isBreaking": false
     }
 ]
