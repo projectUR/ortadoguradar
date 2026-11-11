@@ -1,5 +1,37 @@
 [
     {
+        "id": "17944378742655mg2s",
+        "title": "İran, Arjantin donanması ve hava kuvvetlerini 'terör örgütü' ilan etti",
+        "summary": "İran, Arjantin donanması ve hava kuvvetlerini 'terör örgütü' olarak tanımladığını duyurdu. Bu adım, Arjantin hükümetinin birkaç ay önce İran Devrim Muhafızları Ordusu'nu (IRGC) 'terör örgütü' olarak ilan etmesine misilleme olarak geldi. Söz konusu kararlar, iki ülke arasındaki diplomatik ilişkilerde gerilimi tırmandırıyor ve uluslararası arenada dikkat çekiyor. Bu karşılıklı adımlar, iki devlet arasındaki gerilimin yeni bir boyut kazandığını gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-11T22:57:54.266Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1794437912726hm5n3",
+        "title": "İranlı Galibaf: Hürmüz Boğazı savaş öncesi statüsüne 'asla dönmeyecek'",
+        "summary": "İran Meclis Başkanı ve başmüzakereci Muhammed Bakır Galibaf, Hürmüz Boğazı'nın savaş öncesi statüsüne \"asla dönmeyeceğini\" açıkladı. Galibaf, Tahran'ın ABD'den yedi koşuluna ilişkin resmi bir yanıt beklediğini de sözlerine ekledi. Bu açıklama, bölgedeki mevcut gerilimi ve İran'ın stratejik deniz yolu üzerindeki konumuna dair duruşunu yansıtıyor. Hürmüz Boğazı, küresel enerji tedariki ve denizcilik güvenliği açısından hayati bir öneme sahiptir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10519549/pexels-photo-10519549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-11T22:58:32.726Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1794414544187vgq24",
         "title": "İsrail'in Lübnan'ın Buğday Üretimini Etkilediği İddiası: Tarım Arazileri Tahrip Oldu",
         "summary": "Lübnan'da buğday üretimi, ülkenin güneyindeki ve Bekaa Vadisi'ndeki tarım arazilerinin savaş nedeniyle ciddi şekilde tahrip olmasıyla darbe aldı. Haber başlığına göre, İsrail'in tüm ekosistemleri, dolayısıyla Lübnan'ın buğday mahsulünü de olumsuz etkilediği iddia ediliyor. Çatışmaların yol açtığı yıkım, Lübnan'ın gıda güvenliği açısından kritik öneme sahip buğday tedarikini tehdit ediyor. Tarım sektöründeki bu aksaklıklar, bölgedeki insani durumu daha da kötüleştirebilir.",
@@ -764,38 +796,6 @@
             "name": "Gazze"
         },
         "source": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1794233677324fmef1",
-        "title": "Husiler Suudi Başkentini Hedef Aldı: Aramco Kulesi Vuruldu",
-        "summary": "Yemen'deki Husi güçleri, Suudi Arabistan'ın başkenti Riyad'a yeni saldırılar düzenledi. Saldırılarda şehrin merkezi finans bölgesinde bulunan Aramco Kulesi'nin hedef alındığı bildirildi. BBC Verify tarafından doğrulanan görüntüler, binada meydana gelen hasarı gözler önüne serdi. Bu olay, Husilerin Suudi Arabistan'a yönelik devam eden saldırılarının bir parçası olarak kayıtlara geçti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5941819/pexels-photo-5941819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T14:14:37.324Z",
-        "location": {
-            "lat": 24.71,
-            "lng": 46.68,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17942337031771v5p5",
-        "title": "İran, Ocak Ayı Protestolarının Ardından 'Silahlı Ayaklanma' Gerekçesiyle Üç Kişiyi İdam Etti",
-        "summary": "İran'da, Ocak ayında düzenlenen hükümet karşıtı protestolara katıldıkları iddiasıyla üç kişinin idam edildiği bildirildi. Hassan Dioband, Hamid Kazemi ve Reza Zanganeh isimli kişilerin, 'silahlı ayaklanma' suçlamasıyla mahkum edildikleri belirtildi. Bu idamların, ülkedeki protesto hareketlerinin ardından gerçekleşmesi dikkat çekiyor. Uluslararası insan hakları örgütleri, İran'daki bu tür idam kararlarını yakından takip ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/203553/pexels-photo-203553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T14:15:03.177Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
         "trendScore": 85,
         "isBreaking": true
     }
