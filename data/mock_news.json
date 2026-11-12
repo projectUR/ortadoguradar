@@ -1,5 +1,117 @@
 [
     {
+        "id": "17944860842884oq9z",
+        "title": "Robot, Al Jazeera'ya yapay zekanın 'kaybolamayacak kadar faydalı' olduğunu söyledi",
+        "summary": "Lizbon'da düzenlenen Web Zirvesi'nde, Al Jazeera muhabiri Rosie Birchard, yapay zekanın geleceği hakkında bir insansı robotla röportaj gerçekleştirdi. Röportajda robot, yapay zekanın insanlık için 'kaybolamayacak kadar faydalı' olduğunu ifade etti. Bu görüşme, küresel teknoloji liderlerini ve yenilikçileri bir araya getiren zirvenin önemli gündem maddelerinden biri oldu. Katar merkezli Al Jazeera'nın bu uluslararası teknoloji etkinliğine katılımı, Orta Doğu medyasının küresel teknoloji gelişmelerine olan ilgisini yansıttı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/29393023/pexels-photo-29393023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-12T12:21:24.288Z",
+        "location": {
+            "lat": 38.7223,
+            "lng": -9.1393,
+            "name": "Lizbon, Portekiz"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1794486123055t8zyg",
+        "title": "Çin, ABD'nin Nvidia casusluk iddialarını teknoloji 'ablukasını' haklı çıkarmak için 'uydurduğunu' söyledi",
+        "summary": "ABD istihbaratının Çinli bir casus olduğuna inandığı bir kadınla ilişkisi olduğu gerekçesiyle Nvidia CEO'su hakkında soruşturma başlatıldı. Çin Dışişleri Bakanlığı, ABD'nin bu iddiaları teknoloji sektöründeki 'ablukasını' haklı çıkarmak için uydurduğunu belirtti. Pekin, Washington'ı 'ulusal güvenlik' kavramını kötüye kullanmakla ve Çinli şirketleri bastırmak için çeşitli bahaneler uydurmakla suçladı. Bu olay, ABD ile Çin arasındaki teknoloji rekabetinin ve casusluk iddialarının giderek arttığını gösteriyor ve küresel teknoloji tedarik zincirleri üzerinde potansiyel etkiler yaratabilir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5503359/pexels-photo-5503359.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-12T12:22:03.055Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794486154691mmwu8",
+        "title": "İsrail'in Gazze Hastanesine Saldırısında Altı Filistinli Öldü",
+        "summary": "Gazze Sağlık Bakanlığı'ndan yapılan açıklamaya göre, İsrail'in Gazze Şeridi'ne düzenlediği bir saldırıda altı Filistinli hayatını kaybetti. Saldırı, güney Gazze'nin en büyük hastanesi olan Nasır Hastanesi'ni hedef aldı. Görgü tanıkları, bir füzenin hastanenin cerrahi servisleri ve yoğun bakım ünitelerinin bulunduğu bir binayı vurduğunu belirtti. Olay, bölgedeki sağlık altyapısına yönelik endişeleri artırdı ve uluslararası toplumda tepkilere yol açtı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36038663/pexels-photo-36038663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-12T12:22:34.691Z",
+        "location": {
+            "lat": 31.35,
+            "lng": 34.3,
+            "name": "Han Yunus, Gazze Şeridi"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "179448617937356tjs",
+        "title": "Arap Birliği, Husilerin kısıtlamaları nedeniyle Yemen'in Taiz kentinde insani felaket uyarısı yaptı",
+        "summary": "Arap Birliği, Yemen'in Taiz kentinde Husilerin uyguladığı kısıtlamalar nedeniyle ciddi bir insani felaket yaşanabileceği konusunda uyarıda bulundu. Birlik Genel Sekreteri Nabil Fahmy, hayati önem taşıyan malzemelerin engellenmesinin çocukların ve hastaların hayatlarını tehdit ettiğini belirtti. Taiz'deki hastanelerde yakıt, oksijen ve ilaç sıkıntısının had safhada olduğu vurgulandı. Fahmy, bu durumun bölgedeki insani krizi derinleştirdiğini ve acil müdahale gerektirdiğini ifade etti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12216207/pexels-photo-12216207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-12T12:22:59.373Z",
+        "location": {
+            "lat": 13.58,
+            "lng": 44.03,
+            "name": "Taiz, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/arab-league-warns-of-humanitarian-disaster-in-yemen-s-taiz-amid-houthi-restrictions-/4122465",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794486218987k4bbc",
+        "title": "İsrail'den Lieberman, Netanyahu'yu parlamento denetimi olmadan savaşla ilgili kararlar almaması konusunda uyardı",
+        "summary": "Avigdor Lieberman, İsrail'deki geçici hükümetin, parlamento denetimi ve tüm güvenlik kurumlarının tam onayı olmaksızın ülkeyi savaşa sürükleyebilecek kararlar alma yetkisine sahip olmadığını belirtti. Lieberman, bu tür kritik kararların geniş bir mutabakatla alınması gerektiğini vurguladı. Açıklama, İsrail'in bölgesel gerilimlerin arttığı bir dönemde olası askeri adımlarına ilişkin iç siyasi tartışmaları yansıtıyor. Bu uyarı, ülkenin güvenlik ve dış politika stratejilerinde şeffaflık ve hesap verebilirliğin önemini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11477797/pexels-photo-11477797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-12T12:23:38.987Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-s-lieberman-warns-netanyahu-against-war-related-decisions-without-parliamentary-oversight/4122361",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1794486240101ercwj",
+        "title": "Cezayir'de 2 Günde 50 Bitki Örtüsü Yangını Çıktı, 8'i Hala Devam Ediyor",
+        "summary": "Cezayir Sivil Koruma Birimi, ülkenin çeşitli bölgelerinde son iki gün içinde toplam 50 bitki örtüsü yangını çıktığını duyurdu. Yetkililer, bu yangınlardan 42'sinin başarılı bir şekilde söndürüldüğünü bildirdi. Ancak, geriye kalan sekiz yangının hala devam ettiği ve özellikle ülkenin kuzeyindeki beş vilayette yoğunlaştığı belirtildi. Ekipler, yangınları kontrol altına almak ve tamamen söndürmek için yoğun çaba sarf ediyor. Bölgedeki hava koşulları ve rüzgarın yangınların yayılmasında etkili olduğu ifade edildi.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/4070727/pexels-photo-4070727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-12T12:24:00.101Z",
+        "location": {
+            "lat": 35,
+            "lng": 3,
+            "name": "Cezayir"
+        },
+        "source": "https://www.aa.com.tr/en/world/algeria-reports-50-vegetation-fires-in-2-days-8-still-burning/4122364",
+        "trendScore": 70,
+        "isBreaking": false
+    },
+    {
+        "id": "1794486265597fpsgn",
+        "title": "İsrail'in Lübnan'a yönelik saldırılarından kaynaklanan çevresel kayıplar 2023-2024'te 512 milyon doları aştı: Başbakan",
+        "summary": "Lübnan Başbakanı Nawaf Salam, İsrail'in 2023-2024 yıllarında Lübnan'a düzenlediği saldırılar sonucunda ortaya çıkan çevresel kayıpların 512 milyon doları aştığını bildirdi. COP31'de yaptığı açıklamada Salam, 2026 yılı için ek kayıpların da kaydedildiğini belirtti. Başbakan, ülkedeki yeniden yapılanma çabalarının merkezine çevresel restorasyonun alınması gerektiğini vurguladı. Bu açıklama, devam eden çatışmaların Lübnan üzerindeki ciddi çevresel etkilerini gözler önüne serdi ve uluslararası toplumun dikkatini bu konuya çekti.",
+        "category": "Çevre ve İklim",
+        "imageUrl": "https://images.pexels.com/photos/11849379/pexels-photo-11849379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-12T12:24:25.597Z",
+        "location": {
+            "lat": 33.9,
+            "lng": 35.5,
+            "name": "Beyrut, Lübnan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/environmental-losses-from-israeli-attacks-on-lebanon-exceeded-512m-in-2023-2024-premier/4122282",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "17944378742655mg2s",
         "title": "İran, Arjantin donanması ve hava kuvvetlerini 'terör örgütü' ilan etti",
         "summary": "İran, Arjantin donanması ve hava kuvvetlerini 'terör örgütü' olarak tanımladığını duyurdu. Bu adım, Arjantin hükümetinin birkaç ay önce İran Devrim Muhafızları Ordusu'nu (IRGC) 'terör örgütü' olarak ilan etmesine misilleme olarak geldi. Söz konusu kararlar, iki ülke arasındaki diplomatik ilişkilerde gerilimi tırmandırıyor ve uluslararası arenada dikkat çekiyor. Bu karşılıklı adımlar, iki devlet arasındaki gerilimin yeni bir boyut kazandığını gösteriyor.",
@@ -686,117 +798,5 @@
         "source": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1794267165877cm2ts",
-        "title": "Fransa, İran'ı Süpermarket Buzdolaplarını Hacklemekle Suçladı",
-        "summary": "Fransa, geçen ay yüzlerce süpermarketteki buzdolapları ve dondurucuların ısınması sonucu tonlarca soğutulmuş ve dondurulmuş gıdanın bozulmasından İran'ı sorumlu tuttu. Paris yönetimi, siber saldırının arkasında İranlı aktörlerin olduğuna dair kanıtlar sunduğunu belirtirken, bu durum iki ülke arasındaki siber güvenlik gerilimlerini artırma potansiyeli taşıyor. Tahran'dan henüz resmi bir yanıt gelmezken, olay uluslararası siber güvenlik ve devlet destekli siber saldırılar konusundaki endişeleri yeniden gündeme getirdi. Bu tür saldırılar, kritik altyapılara yönelik tehditlerin boyutunu gözler önüne seriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/37694202/pexels-photo-37694202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T23:32:45.877Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794267190019rj6js",
-        "title": "Mısır'da tren çarpışmasında yedi ölü, 100'den fazla yaralı",
-        "summary": "Mısır'ın Giza şehri yakınlarında meydana gelen tren kazasında yedi kişi hayatını kaybetti, 100'den fazla kişi yaralandı. Aynı yönde seyreden iki trenin çarpışması sonucu çok sayıda vagon raydan çıktı. Olay yerine hızla intikal eden kurtarma ve sağlık ekipleri, yaralıları çevredeki hastanelere sevk etti. Yetkililer, kazanın nedenini belirlemek üzere kapsamlı bir soruşturma başlattı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36428068/pexels-photo-36428068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T23:33:10.019Z",
-        "location": {
-            "lat": 30.0131,
-            "lng": 31.2089,
-            "name": "Giza, Mısır"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17942672145030p1bx",
-        "title": "Katar Başbakanı, ABD-İran Anlaşması Üzerine Yapılan Görüşmeleri Olumlu Buldu",
-        "summary": "Katar Başbakanı Şeyh Muhammed, ABD'nin başkenti Washington'da eski ABD Başkanı Donald Trump ve Senatör J.D. Vance ile bir araya geldi. Görüşmelerin ana gündem maddesi, ABD ile İran arasındaki potansiyel bir anlaşma oldu. Şeyh Muhammed, bu görüşmelerin \"olumlu\" geçtiğini ve bölgeye barış getirme çabalarını ilerletmeye odaklandığını belirtti. Toplantılarda müzakerelerin ilerletilmesi ve bölgesel istikrarın sağlanması konuları ele alındı. Katar'ın, ABD-İran ilişkilerinde arabuluculuk rolü üstlenme potansiyeli bu görüşmelerle bir kez daha gündeme geldi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36733315/pexels-photo-36733315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T23:33:34.503Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatari-prime-minister-welcomes-positive-discussions-with-trump-and-vance-on-us-iran-deal/4118076",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794267237452ygvzg",
-        "title": "Katar Başbakanı'nın ABD Liderleriyle İran Görüşmelerinde 'İyi İlerleme' Kaydedildi",
-        "summary": "Katar Başbakanı Şeyh Muhammed bin Abdurrahman Al Sani'nin ABD Başkanı ve Başkan Yardımcısı ile ayrı ayrı görüşmeler gerçekleştirdiği bildirildi. Medya kaynaklarına göre, bu üst düzey temaslarda İran konusunda \"iyi ilerleme\" kaydedildiği belirtildi. Al Jazeera'nin haberine göre, görüşmeler bölgesel diplomasi ve uluslararası ilişkilerdeki önemli konulara odaklandı. Bu gelişmeler, Orta Doğu'daki gerilimlerin azaltılmasına yönelik diplomatik çabaların devam ettiğini gösteriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/344621/pexels-photo-344621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T23:33:57.452Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatari-premier-s-talks-with-trump-vance-make-good-progress-on-iran-media/4118013",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17942672615801giba",
-        "title": "Netanyahu, Eisenkot'un Yetki Almasına Rağmen İsrail Birlik Hükümetine Liderlik Etmekte Israrlı",
-        "summary": "İsrail'de geçici başbakan Binyamin Netanyahu, Yair Eisenkot'un 120 milletvekilinden 67'sinin tavsiyesini almasına rağmen, İsrail ulusal birlik hükümetine kendisinin liderlik etmesi gerektiği konusunda ısrar ediyor. Netanyahu, bu talebini partisi Likud'un seçimlerdeki liderliğine dayandırıyor. Bu durum, İsrail'de hükümet kurma sürecindeki siyasi çekişmeyi ve liderlik mücadelesini gözler önüne seriyor. Ülke siyasetinde önemli bir dönemeç olan bu gelişmeler, yeni hükümetin yapısını ve gelecekteki politikalarını doğrudan etkileyecek nitelikte.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38725796/pexels-photo-38725796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T23:34:21.580Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-insists-he-should-lead-israeli-unity-government-although-eisenkot-got-mandate/4117958",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794233562681ndtv4",
-        "title": "Suriye, Yemen'e asker gönderdiği iddialarını yalanladı",
-        "summary": "Suriye makamları, Şam'ın Yemen'e asker gönderdiği yönündeki haberleri yalanladı. Daha önce ortaya atılan iddialar, Suriye'nin Husilere karşı yürütülen mücadelede Suudi Arabistan'a asker desteği sağladığı yönündeydi. Ancak Suriyeli yetkililer, Yemen'e doğrudan asker gönderilmediğini belirtti. Öte yandan, Suriye'nin güvenlik entegrasyonu sürecinin devam ettiği ve bu durumun bölgesel güvenlik dinamiklerinde potansiyel değişikliklere yol açabileceği ifade edildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10853852/pexels-photo-10853852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T14:12:42.681Z",
-        "location": {
-            "lat": 33.5138,
-            "lng": 36.2765,
-            "name": "Şam, Suriye"
-        },
-        "source": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794233639166z2cr5",
-        "title": "Gazze'de kum setinin çadırların üzerine çökmesi sonucu dört kişi yaşamını yitirdi",
-        "summary": "Gazze Şeridi'nde bir kum setinin çadırların üzerine çökmesi sonucu dört kişi hayatını kaybetti. Sağlık Bakanlığı tarafından yapılan açıklamaya göre, yaşamını yitirenler arasında üç çocuk bulunuyor. Bu trajik olay, bölgede etkili olan şiddetli yağışların on binlerce çadırı sular altında bırakmasından sadece bir gün sonra meydana geldi. Yağışlar, zaten zorlu koşullarda yaşayan bölge halkının insani durumunu daha da kötüleştirmişti. Olayın ardından bölgede arama kurtarma çalışmaları başlatıldı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/9177591/pexels-photo-9177591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-09T14:13:59.166Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
