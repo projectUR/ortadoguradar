@@ -1,5 +1,37 @@
 [
     {
+        "id": "1794532942222re0p5",
+        "title": "Trump: Körfez Müttefikleri İran Saldırılarına Ara Verilmesini İstedi",
+        "summary": "ABD'nin eski Başkanı Donald Trump, Beyaz Saray'da yaptığı açıklamada, Körfez ülkelerinin kendisinden İran'a yönelik daha fazla saldırıyı durdurmasını talep ettiğini belirtti. Bu açıklama, ABD ile İran arasındaki gerilimin yüksek olduğu bir dönemde geldi ve bölgedeki potansiyel bir askeri çatışmanın önlenmesi yönündeki diplomatik çabaları yansıtıyor. Körfez'deki müttefiklerin bu talebi, Orta Doğu'daki karmaşık jeopolitik dinamikleri ve bölgesel aktörlerin ABD'nin İran politikası üzerindeki etkisini gözler önüne seriyor. Bu durum, bölgedeki istikrarın sağlanması ve gerilimin düşürülmesi adına yürütülen arka plan diplomasisinin bir göstergesi olarak değerlendiriliyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/16496632/pexels-photo-16496632.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-13T01:22:22.222Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt Şehri, Kuveyt"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794532966287wporc",
+        "title": "Yemen'deki Husiler Suudi Arabistan'a yönelik saldırılarını yeniledi, BM Güvenlik Konseyi yaptırımları uzattı",
+        "summary": "Yemen'deki Husiler, Suudi Arabistan'a yönelik saldırılarını yeniledi. Suudi liderliğindeki koalisyon, petrol ve askeri altyapıyı hedef alan çok sayıda Husi insansız hava aracını engellediğini duyurdu. Bu saldırılar, Birleşmiş Milletler Güvenlik Konseyi'nin Yemen'e yönelik yaptırımları uzatma kararı aldığı bir döneme denk geldi. Olay, Yemen'deki çatışmanın devam ettiğini ve bölgesel gerilimin sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147235/pexels-photo-6147235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-13T01:22:46.287Z",
+        "location": {
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1794514658323njpg0",
         "title": "İranlı erkekler İngiliz gazetecileri casusluktan suçlu bulundu",
         "summary": "İki İranlı erkek, İngiltere'nin Ulusal Güvenlik Yasası kapsamında muhalif gazetecileri gözetlemekten suçlu bulundu. İngiliz makamları, bu kişilerin İran rejimi adına faaliyet gösterdiğini belirtti. Olay, İran'ın yurt dışındaki muhaliflere yönelik istihbarat faaliyetleri ve Batılı ülkelerle arasındaki gerilimi bir kez daha gündeme getirdi. Yargılama sonucunda verilen karar, uluslararası hukuk ve insan hakları örgütleri tarafından yakından takip ediliyor.",
@@ -765,38 +797,6 @@
         },
         "source": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794324648945awax8",
-        "title": "Trump: İran'a Daha Fazla ABD Saldırısı 'Pek Olası Değil'",
-        "summary": "ABD Başkanı, İran ile mevcut durumun korunacağını ancak durumun değişmesi halinde 'hazır ve nazır' kalacaklarını bildirdi. Başkan, ABD'nin İran'a yönelik daha fazla saldırı düzenlemesinin 'pek olası olmadığını' ifade etti. Bu açıklama, iki ülke arasındaki gerilimin ardından geldi ve bölgedeki tansiyonun düşürülmesi yönünde bir sinyal olarak değerlendirildi. Washington'ın ulusal çıkarlarını koruma konusundaki kararlılığı ise vurgulandı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/8177153/pexels-photo-8177153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-10T15:30:48.945Z",
-        "location": {
-            "lat": 32.4279,
-            "lng": 53.688,
-            "name": "İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794324683815w1koj",
-        "title": "İsrail'in yeni parlamentosu açıldı, Cumhurbaşkanı tekrar seçimlerden kaçınma çağrısı yaptı",
-        "summary": "İsrail'de yeni parlamento (Knesset) açılışını gerçekleştirdi. Cumhurbaşkanı Isaac Herzog, milletvekillerine seslenerek ülkenin tekrar seçime gitmesini önlemek için uzlaşma çağrısında bulundu. Herzog, sonuçsuz kalan seçimlerin ardından yeni bir hükümet kurma müzakerelerinin devam ettiğini hatırlattı. Ülke, son dört yılda beşinci kez genel seçime gitmişti ve siyasi istikrarsızlık endişeleri sürüyor. Cumhurbaşkanı, siyasi partiler arasında işbirliği ve uzlaşmanın önemini vurguladı.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/7328/building-architecture-historical-tower.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-10T15:31:23.815Z",
-        "location": {
-            "lat": 31.77,
-            "lng": 35.21,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israels-new-parliament-opens-as-president-urges-lawmakers-to-avoid-repeat-elections/4119124",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
