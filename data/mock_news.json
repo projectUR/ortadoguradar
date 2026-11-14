@@ -1,5 +1,21 @@
 [
     {
+        "id": "1794625121371wfngn",
+        "title": "İran'ın Cask kentinde patlama sesleri duyulduğu bildirildi",
+        "summary": "İran devlet medyası, ülkenin güneyindeki Cask kentinde patlama sesleri duyulduğunu bildirdi. Hürmüz Boğazı'nın doğusunda yer alan Cask, stratejik öneme sahip bir bölgedir. İlk belirlemelere göre, kentte veya Hürmüzgan eyaletinin diğer bölgelerinde herhangi bir olumsuz etki veya hasar rapor edilmedi. Patlamaların kaynağı ve niteliği hakkında henüz resmi bir açıklama yapılmadı. Bölgedeki gelişmeler yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8079178/pexels-photo-8079178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T02:58:41.371Z",
+        "location": {
+            "lat": 25.64,
+            "lng": 57.77,
+            "name": "Cask, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iran-s-jask-east-of-strait-of-hormuz-state-media/4124727",
+        "trendScore": 75,
+        "isBreaking": true
+    },
+    {
         "id": "1794610035728hcfec",
         "title": "Katar ve Türkiye'den yeni savunma paktı ile caydırıcılık mesajı",
         "summary": "Katar ve Türkiye, bölgesel istikrarsızlığın arttığı bir dönemde ortaklıklarını derinleştirerek karşılıklı bir savunma paktı imzaladı. Anlaşma, iki ülke arasındaki işbirliğini güçlendirmeyi hedefliyor. Bu yeni savunma anlaşmasıyla, Katar ve Türkiye'nin bölgedeki potansiyel tehditlere karşı caydırıcılık mesajı verdiği belirtiliyor. Paktın, Orta Doğu'daki güvenlik dinamikleri üzerinde etkili olması bekleniyor.",
@@ -782,21 +798,5 @@
         "source": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1794384566190z05zc",
-        "title": "Hürmüz Boğazı'nda Tanker Olayı Bildirildi",
-        "summary": "Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), Hürmüz Boğazı'nda bir tankerle ilgili bir olay yaşandığını duyurdu. Ajans, olaya karışan mürettebatın durumu, tankerde meydana gelen hasar ve çevresel etkilerin henüz bilinmediğini belirtti. Hürmüz Boğazı, küresel petrol ticareti için kritik bir geçiş noktası olması nedeniyle bu tür olaylar bölgesel ve uluslararası öneme sahiptir. Olayın detayları ve nedenleri hakkında soruşturma devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/38646186/pexels-photo-38646186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T08:09:26.190Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/uk-maritime-agency-reports-incident-involving-tanker-in-strait-of-hormuz/4119781",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
