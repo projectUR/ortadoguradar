@@ -1,5 +1,117 @@
 [
     {
+        "id": "1794674463050tyl2w",
+        "title": "AB'den Gazze'ye acil insani erişim çağrısı",
+        "summary": "Avrupa Birliği, Gazze Şeridi'ne acil insani yardım erişimi sağlanması yönünde çağrıda bulundu. AB yetkilileri, Birleşmiş Milletler ve ilgili kuruluşlarının Gazze'ye girişlerinin engellenmesinin ardından, İsrail'in bu kuruluşların çalışmalarına izin vermesi gerektiğini belirtti. Açıklamada, bölgedeki insani durumun ciddiyeti vurgulanarak, yardımların ihtiyaç sahiplerine ulaştırılmasının önemi üzerinde duruldu. Bu çağrı, Gazze'deki sivil halkın temel ihtiyaçlara erişiminin sağlanması amacıyla yapıldı.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T16:41:03.050Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794674484506ll6mj",
+        "title": "Kudüs Günlüğü: İsrail güçleri Filistinli-Amerikalı'nın evini işgal etti",
+        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da Filistin kökenli bir Amerikalı vatandaşın evini 17 gün boyunca işgal altında tuttu. Olay, bölgedeki gerilimli durumu bir kez daha gözler önüne serdi. Evin işgal edilme nedeni veya bu durumun hukuki dayanağına dair haberde detay verilmedi. Bu tür olaylar, bölgedeki mülkiyet hakları ve sivil yaşam üzerindeki etkileri nedeniyle uluslararası toplumun dikkatini çekmeye devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8487393/pexels-photo-8487393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T16:41:24.506Z",
+        "location": {
+            "lat": 31.9,
+            "lng": 35.2,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1794674524341s1w00",
+        "title": "İran Devrim Muhafızları, ABD insansız hava aracını Kasım Adası üzerinde düşürdüğünü açıkladı",
+        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı yakınlarındaki Kasım Adası üzerinde bir ABD insansız hava aracını düşürdüğünü duyurdu. Yapılan açıklamada, düşürülen insansız hava aracının bir MQ-1 tipi olduğu belirtildi. IRGC, bu operasyonda yeni geliştirilmiş bir hava savunma sisteminin kullanıldığını ifade etti. Olayın, bölgedeki gerilimi artırabilecek nitelikte olduğu değerlendiriliyor. ABD tarafından henüz resmi bir açıklama yapılmadı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6493443/pexels-photo-6493443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T16:42:04.341Z",
+        "location": {
+            "lat": 26.8,
+            "lng": 56,
+            "name": "Kasım Adası, İran"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-says-it-shot-down-us-drone-over-qeshm-island/4125240",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17946745460163etfh",
+        "title": "Suudi liderliğindeki koalisyon, Riyad ve güney Suudi Arabistan'da 2 Husi insansız hava aracını önlediğini duyurdu",
+        "summary": "Suudi Arabistan liderliğindeki koalisyon, başkent Riyad ve ülkenin güney bölgelerini hedef alan iki Husi insansız hava aracının önlendiğini bildirdi. Bölgedeki gerilimin tırmandığı bir dönemde gerçekleşen bu olay, koalisyonun krallığı hedef alan füze ve insansız hava aracı saldırılarını sık sık engellediğini gösteriyor. Husiler tarafından gerçekleştirilen bu tür saldırılar, Yemen'deki çatışmanın Suudi Arabistan üzerindeki güvenlik etkilerini gözler önüne seriyor. Koalisyon, bu tür eylemlerin bölgesel istikrara yönelik tehdit oluşturduğunu belirtiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4903654/pexels-photo-4903654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T16:42:26.016Z",
+        "location": {
+            "lat": 24.7,
+            "lng": 46.7,
+            "name": "Riyad, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-drones-in-riyadh-southern-saudi-arabia/4125225",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794674566700b3lfq",
+        "title": "Gazze'de İsrail Saldırılarında İki Filistinli Hayatını Kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen saldırılarda iki Filistinlinin yaşamını yitirdiği bildirildi. Anadolu Ajansı'na bilgi veren tıbbi kaynaklar, devam eden ateşkese rağmen gerçekleşen bu saldırılarda dört kişinin de yaralandığını belirtti. Olaylar, bölgedeki hassas güvenlik durumunun devam ettiğini ve gerilimin sürdüğünü gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T16:42:46.700Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-in-fresh-israeli-attacks-across-gaza/4125216",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794674591815zirb2",
+        "title": "Türkiye ve 17 ülke, İsrail'in Gazze hastanesine yönelik saldırısını kınadı, ateşkes uyumuna çağrı yaptı",
+        "summary": "Türkiye ve 17 diğer ülke, İsrail'in Gazze'deki bir hastaneye düzenlediği saldırıyı kınayan ortak bir bildiri yayımladı. Ülkelerin dışişleri bakanları, devam eden saldırıların ve insani yardıma getirilen kısıtlamaların Gazze'deki krizi kış yaklaşırken daha da kötüleştirdiği konusunda uyardı. Bakanlar ayrıca, bölgedeki taraflara ateşkes kurallarına uyma çağrısında bulundu. Bu açıklama, Gazze'deki çatışmaların ve insani durumun uluslararası toplumda yarattığı endişeyi gözler önüne serdi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T16:43:11.815Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/turkiye/turkiye-17-other-countries-condemn-israeli-strike-on-gaza-hospital-urge-ceasefire-compliance/4125212",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1794674614043r8xd3",
+        "title": "İsrailli işgalciler Batı Şeria'da Filistinli zeytin toplayıcılarına saldırdı, ordu çiftçiyi gözaltına aldı",
+        "summary": "Batı Şeria'da Filistinli zeytin toplayıcılarına yönelik bir saldırı gerçekleşti. Ramallah'ın kuzeyinde zeytin toplarken İsrailli işgalciler tarafından darp edilen iki Filistinli yaralandı. Yerel kaynaklar Anadolu Ajansı'na yaptığı açıklamada, saldırının zeytin hasadı sırasında meydana geldiğini belirtti. Olayla ilgili olarak İsrail ordusunun bir çiftçiyi gözaltına aldığı da bildirildi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36038673/pexels-photo-36038673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-14T16:43:34.043Z",
+        "location": {
+            "lat": 31.9047,
+            "lng": 35.2033,
+            "name": "Ramallah, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-palestinian-olive-pickers-in-west-bank-as-army-arrests-farmer/4125155",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1794650439948rnrhb",
         "title": "Katar ve Türkiye Karşılıklı Savunma Paktı İmzaladı",
         "summary": "Katar ve Türkiye arasında karşılıklı bir savunma anlaşması imzalandı. Analistler, ABD-İran gerilimi döneminde varılan bu paktın, saldırıları caydırmayı hedeflediğini belirtiyor. Anlaşmanın, saldırgan bir ittifak kurmaktan ziyade savunma amaçlı olduğu vurgulanıyor. Bu paktın, bölgesel güvenlik dinamikleri açısından önemli bir gelişme olduğu değerlendiriliyor.",
@@ -685,118 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794437912726hm5n3",
-        "title": "İranlı Galibaf: Hürmüz Boğazı savaş öncesi statüsüne 'asla dönmeyecek'",
-        "summary": "İran Meclis Başkanı ve başmüzakereci Muhammed Bakır Galibaf, Hürmüz Boğazı'nın savaş öncesi statüsüne \"asla dönmeyeceğini\" açıkladı. Galibaf, Tahran'ın ABD'den yedi koşuluna ilişkin resmi bir yanıt beklediğini de sözlerine ekledi. Bu açıklama, bölgedeki mevcut gerilimi ve İran'ın stratejik deniz yolu üzerindeki konumuna dair duruşunu yansıtıyor. Hürmüz Boğazı, küresel enerji tedariki ve denizcilik güvenliği açısından hayati bir öneme sahiptir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10519549/pexels-photo-10519549.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T22:58:32.726Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794414544187vgq24",
-        "title": "İsrail'in Lübnan'ın Buğday Üretimini Etkilediği İddiası: Tarım Arazileri Tahrip Oldu",
-        "summary": "Lübnan'da buğday üretimi, ülkenin güneyindeki ve Bekaa Vadisi'ndeki tarım arazilerinin savaş nedeniyle ciddi şekilde tahrip olmasıyla darbe aldı. Haber başlığına göre, İsrail'in tüm ekosistemleri, dolayısıyla Lübnan'ın buğday mahsulünü de olumsuz etkilediği iddia ediliyor. Çatışmaların yol açtığı yıkım, Lübnan'ın gıda güvenliği açısından kritik öneme sahip buğday tedarikini tehdit ediyor. Tarım sektöründeki bu aksaklıklar, bölgedeki insani durumu daha da kötüleştirebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31708519/pexels-photo-31708519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T16:29:04.187Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "Lübnan"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794414582931jo8qi",
-        "title": "ABD Ablukası Altında İran'ın 'Sıfır Petrol' Bütçesiyle Hayatta Kalma Mücadelesi",
-        "summary": "İran hükümeti, ABD'nin ülkeye uyguladığı ablukaya rağmen direnişini sürdürüyor ve en kötü senaryolara karşı hazırlık yapıyor. Bu durum, ABD'nin İran'a yönelik yaptırımlarının devam etmesi halinde Tahran'ın 'sıfır petrol' bütçesiyle nasıl ayakta kalabileceği sorusunu gündeme getiriyor. Uzmanlar, ABD kuşatmasının çoğu İranlıyı daha da yoksullaştırmasının beklendiğini belirtiyor. Ülke ekonomisi üzerindeki baskının artmasıyla birlikte, hükümetin alternatif gelir kaynakları arayışı hız kazanıyor.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/10420382/pexels-photo-10420382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T16:29:42.931Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1794414628100c1r1x",
-        "title": "İran'ın Misilleme Kampanyası Batı Topraklarına mı Yayılıyor?",
-        "summary": "Bir uzmana göre, İran'ın misilleme kampanyasını Orta Doğu'nun ötesine, Batı topraklarına doğru kasıtlı olarak genişletmesi söz konusu olabilir. Bu durum, Tahran'ın ABD'den Avrupa Birliği'ne uzanan bir alanda potansiyel çatışmaları tetikleme olasılığını gündeme getiriyor. Uzmanlar, İran'ın bu adımlarının bölgesel gerilimi küresel bir boyuta taşıyabileceği ve Batı ülkeleri için yeni güvenlik tehditleri oluşturabileceği konusunda uyarıyor. Bu potansiyel genişleme, uluslararası güvenlik çevrelerinde endişeyle karşılanıyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9724831/pexels-photo-9724831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T16:30:28.100Z",
-        "location": {
-            "lat": 50,
-            "lng": 10,
-            "name": "Batı Ülkeleri"
-        },
-        "source": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794414650072deyiv",
-        "title": "Mısırlı gazetecinin yeniden yargılanması ertelendi, BM basın özgürlüğüne yönelik saldırılar konusunda uyardı",
-        "summary": "Mısırlı gazeteci Lina Attalah'ın yeniden yargılanma duruşması ertelendi. Bağımsız haber sitesi Mada Masr'ın genel yayın yönetmeni olan Attalah, \"yanlış haber yayınlamak\" suçlamasıyla yargılanıyor ve mahkum olması halinde hapis cezasıyla karşı karşıya kalabilir. Birleşmiş Milletler (BM), bu gelişme üzerine basın özgürlüğüne yönelik saldırılar konusunda endişelerini dile getirdi. Uluslararası kuruluşlar, Mısır'da gazetecilere yönelik baskıların arttığına dikkat çekerek, bu tür davaların ifade özgürlüğünü kısıtladığını belirtiyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/5010877/pexels-photo-5010877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T16:30:50.072Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794414671688xl49l",
-        "title": "ABD: İran destekli üç şüpheli, RAF Fairford olayı dahil saldırılar planladı",
-        "summary": "ABD Adalet Bakanlığı, İran destekli olduğu iddia edilen üç şüphelinin bir dizi saldırı planına karıştığını açıkladı. Bu planlar arasında, ABD silahlı kuvvetleri tarafından kullanılan İngiltere'deki bir hava üssü yakınlarında meydana gelen önemli bir olay da bulunuyor. Bakanlık, şüphelilerin faaliyetlerinin ulusal güvenliği tehdit ettiğini belirtti. Olayın detayları ve şüphelilerin kimlikleri hakkında soruşturmanın devam ettiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11201060/pexels-photo-11201060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T16:31:11.688Z",
-        "location": {
-            "lat": 51.7,
-            "lng": -1.78,
-            "name": "Fairford, Birleşik Krallık"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794414698438z6cdq",
-        "title": "Katar Emiri, Antalya'daki COP31'de küresel iklim eylemine devam eden desteğini taahhüt etti",
-        "summary": "Katar Emiri Şeyh Temim bin Hamad Al Sani, Türkiye'nin Antalya şehrinde düzenlenecek olan COP31 zirvesinde küresel iklim eylemine yönelik devam eden desteğini taahhüt etti. Emir Al Sani, bu zirvenin iklim değişikliği konusunda uluslararası işbirliğini güçlendirmek için önemli bir fırsat sunduğunu vurguladı. Katar'ın iklim değişikliğiyle mücadelede aktif rol almaya devam edeceğinin altını çizen Emir, ülkesinin sürdürülebilirlik hedeflerine olan bağlılığını bir kez daha gösterdi. Bu açıklama, Doha'nın uluslararası çevre çabalarına verdiği önemi yansıtıyor.",
-        "category": "Çevre ve İklim",
-        "imageUrl": "https://images.pexels.com/photos/32535947/pexels-photo-32535947.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-11T16:31:38.438Z",
-        "location": {
-            "lat": 36.8969,
-            "lng": 30.7133,
-            "name": "Antalya, Türkiye"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/qatar-s-emir-pledges-continued-support-for-global-climate-action-at-cop31-in-antalya/4120971",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
