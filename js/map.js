@@ -22,18 +22,22 @@ window.initMap = function(newsData) {
         position: 'bottomright'
     }).addTo(radarMap);
 
-    // Dark Theme Base Map (CartoDB Dark Matter)
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
+    // Dark Theme Base Map (Esri Dark Gray - API anahtarı gerektirmez)
+    // Not: CARTO artık anahtarsız isteklere "API KEY REQUIRED" yazısı basıyor.
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; <a href="https://www.esri.com">Esri</a>',
+        maxZoom: 16
+    }).addTo(radarMap);
+
+    // Ülke / şehir isimleri katmanı (koyu zeminin üstüne)
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}', {
+        maxZoom: 16
     }).addTo(radarMap);
 
     mapInitialized = true;
     updateMapMarkers(newsData);
 };
 
-// Expose map resize functionality (for when tab switches)
 // Expose map resize functionality (for when tab switches)
 window.invalidateMapSize = function () {
     if (radarMap) {
@@ -63,7 +67,7 @@ function updateMapMarkers(newsData) {
         const newsDate = new Date(item.timestamp);
         const diffHours = (now - newsDate) / (1000 * 60 * 60);
 
-                // Determine color class based on recency logic requested by user
+        // Determine color class based on recency logic requested by user
         let dotColor = 'blue'; // default >= 24h or extremely old
 
         if (diffHours >= 0 && diffHours <= 6) {
@@ -74,7 +78,6 @@ function updateMapMarkers(newsData) {
             dotColor = 'blue';  // 12-24 hours (COLD)
         }
 
-
         // Create Custom HTML Icon (pulse)
         const customIcon = L.divIcon({
             className: 'custom-div-icon',
@@ -83,11 +86,10 @@ function updateMapMarkers(newsData) {
             iconAnchor: [10, 10]
         });
 
-                const jitterLat = item.location.lat + (Math.random() - 0.5) * 0.3;
+        const jitterLat = item.location.lat + (Math.random() - 0.5) * 0.3;
         const jitterLng = item.location.lng + (Math.random() - 0.5) * 0.3;
-        
-        const marker = L.marker([jitterLat, jitterLng], {
 
+        const marker = L.marker([jitterLat, jitterLng], {
             icon: customIcon
         }).addTo(radarMap);
         marker.itemData = item;
@@ -107,21 +109,22 @@ function updateMapMarkers(newsData) {
         mapMarkers.push(marker);
     });
 }
+
 // Dışarıdan gelen tıklamalarla haritayı ilgili habere odaklar
 window.focusMapOnItem = function(itemId) {
     if (!radarMap || !mapMarkers) return;
-    
+
     const targetMarker = mapMarkers.find(m => m.itemData && m.itemData.id === itemId);
     if (targetMarker) {
         if (typeof window.switchView === 'function') {
             window.switchView('map');
         }
-        
+
         radarMap.flyTo(targetMarker.getLatLng(), 6, {
             animate: true,
             duration: 1.5
         });
-        
+
         setTimeout(() => {
             targetMarker.openPopup();
         }, 500);
