@@ -1,5 +1,37 @@
 [
     {
+        "id": "1794790283838dqice",
+        "title": "Eisenkot: Netanyahu, oy manipülasyonu iddiaları arasında İsrail Başbakanı olarak kalamaz",
+        "summary": "Eski Genelkurmay Başkanı ve siyasetçi Gadi Eisenkot, İsrail Başbakanı Binyamin Netanyahu'nun oy manipülasyonu iddiaları nedeniyle görevde kalamayacağını belirtti. Haberde, İsrail seçimleri öncesinde Arap partisi üyelerinin, Başbakanlık ofisinden gelen temelsiz kanıtlara dayanarak tutuklandığı iddialarına yer verildi. Bu durum, ülkedeki siyasi gerilimi artırırken, seçim süreçlerinin şeffaflığına dair ciddi endişeleri gündeme getirdi. Eisenkot'un bu açıklaması, Netanyahu'nun liderliği üzerindeki baskıyı daha da artırarak siyasi arenada geniş yankı uyandırdı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/32304415/pexels-photo-32304415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-16T00:51:23.838Z",
+        "location": {
+            "lat": 31.77,
+            "lng": 35.21,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17947903114271swur",
+        "title": "İran savaşı canlı: Tahran, ABD'nin başka bir saldırısından önce ilk darbeyi vurabileceği konusunda uyardı.",
+        "summary": "İran, ABD'nin olası yeni bir saldırısı öncesinde ilk darbeyi vurabileceği yönünde bir uyarıda bulundu. Bu açıklama, bölgedeki gerilimin tırmandığı bir döneme denk geliyor. Öte yandan, Yemen ordusu, stratejik Bab el-Mendeb Boğazı ve diğer önemli kıyı bölgelerinden birliklerini \"yeniden konumlandırdığını\" duyurdu. Bu yeniden konumlandırma, bölgesel güvenlik dinamikleri ve denizcilik rotaları üzerindeki potansiyel etkileri açısından dikkat çekiyor. Gelişmeler, Orta Doğu'daki askeri ve siyasi tansiyonun yüksek seyrini koruduğunu gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-16T00:51:51.427Z",
+        "location": {
+            "lat": 12.58,
+            "lng": 43.33,
+            "name": "Bab el-Mendeb Boğazı, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "1794776001338hw8ok",
         "title": "Ürdün'de Kilise Saldırısı Davasında Üç Kişiye İdam Cezası",
         "summary": "Ürdün'de, Karak kentinde bir kiliseye düzenlenen ölümcül saldırıyla ilgili davada üç kişi idam cezasına çarptırıldı. Ürdün mahkemesi, söz konusu saldırıda rol oynayan üç sanık hakkında bu kararı verdi. Olay, ülkenin güneyindeki Karak bölgesinde daha önce meydana gelmiş ve can kayıplarına yol açmıştı. Bu yargı kararı, Ürdün'ün terörle mücadeledeki kararlılığını yansıtan önemli bir gelişme olarak değerlendiriliyor.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-allied-forces-say-they-recaptured-areas-in-north-kordofan-from-rsf/4124609",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1794589396223n1zuh",
-        "title": "Yemen ordusu, Husileri Aden'i balistik füzelerle hedef almakla suçladı",
-        "summary": "Yemen ordusu, Husilerin Aden şehrini balistik füzelerle hedef aldığını iddia etti. Ordu sözcüsü, bu saldırıyı ciddi bir tırmanış olarak nitelendirdiğini belirtti. Sözcü, sivilleri ve devlet kurumlarını koruma sözü vererek, saldırının bölgedeki gerilimi artırdığını ifade etti. Olayın ardından taraflar arasındaki çatışmaların seyrinin yakından takip edildiği bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/28975867/pexels-photo-28975867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-13T17:03:16.223Z",
-        "location": {
-            "lat": 12.7794,
-            "lng": 45.0388,
-            "name": "Aden, Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/yemeni-army-accuses-houthis-of-targeting-aden-with-ballistic-missiles/4124576",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17945894199539jlx2",
-        "title": "İsrail saldırılarında Gazze'de ateşkes rağmen 6 Filistinli öldü, yaklaşık 20 kişi yaralandı",
-        "summary": "Gazze Şeridi'nde İsrail güçlerinin düzenlediği saldırılarda, devam eden ateşkes anlaşmasına rağmen 6 Filistinli hayatını kaybetti. Bölgedeki saldırılarda ayrıca yaklaşık 20 kişinin yaralandığı bildirildi. Hayatını kaybedenlerden birinin, geçtiğimiz Perşembe günü Han Yunus'taki Nasır Hastanesi'ne düzenlenen İsrail saldırısında aldığı yaralar nedeniyle yaşamını yitirdiği açıklandı. Bu olaylar, bölgedeki kırılgan ateşkesin ihlal edildiği yönündeki endişeleri artırdı ve gerilimin tırmanmaya devam ettiğini gösterdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36193760/pexels-photo-36193760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-13T17:03:39.953Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-6-palestinians-injure-around-20-in-gaza-despite-ceasefire/4124535",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
