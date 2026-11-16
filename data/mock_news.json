@@ -1,5 +1,53 @@
 [
     {
+        "id": "1794815136635s3ll9",
+        "title": "Kırmızı Deniz Güvenliği Yemen Devletinin Yeniden Tesisiyle Mümkün",
+        "summary": "Kırmızı Deniz'deki deniz güvenliğinin sağlanmasının, bölgeye askeri deniz kuvvetleri konuşlandırmanın ötesinde bir çözüm gerektirdiği belirtiliyor. Habere göre, deniz güvenliğini kalıcı olarak tesis etmenin yolu, Yemen hükümetinin yeniden tam yetkiyle işbaşına getirilmesinden geçiyor. Bu durum, Yemen'deki siyasi istikrarsızlığın ve çatışmaların, küresel ticaret için kritik öneme sahip Kırmızı Deniz'deki denizcilik güvenliği üzerindeki doğrudan etkisine işaret ediyor. Uzmanlar, bölgesel güvenliğin sağlanmasında Yemen'in iç istikrarının merkezi bir rol oynadığını vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8204363/pexels-photo-8204363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-16T07:45:36.635Z",
+        "location": {
+            "lat": 15.3694,
+            "lng": 44.191,
+            "name": "Yemen"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794815159541gs9g0",
+        "title": "Rusya'nın İran'ı Olası Bir Tırmanışa Hazırlığı",
+        "summary": "Rusya'nın İran'a yönelik uzay istihbaratı paylaşımı, Tahran'ın ABD'den gelebilecek olası bir saldırıya karşı hazırlıklı olmasına yardımcı olabilir. Haber, Rusya'nın İran'ı gelecekteki bir tırmanışa nasıl hazırladığını inceliyor. Bu iş birliği, iki ülke arasındaki stratejik bağların derinleştiğini ve Orta Doğu'daki jeopolitik gerilimi artırma potansiyeli taşıdığını gösteriyor. Gelişmeler, ABD'nin bölgedeki çıkarları ve güvenlik dinamikleri açısından yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/29656048/pexels-photo-29656048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-16T07:45:59.541Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794815335517b1qy9",
+        "title": "İran Devrim Muhafızları, batı sınırında PKK bağlantılı bir hücrenin 'etkisiz hale getirildiğini' duyurdu",
+        "summary": "İran Devrim Muhafızları, ülkenin batı sınırında PKK ile bağlantılı bir terör hücresinin etkisiz hale getirildiğini açıkladı. Yapılan açıklamada, etkisiz hale getirilen grubun PJAK üyelerinden oluştuğu belirtildi. Söz konusu üyelerin İran topraklarına sızarak terör saldırıları düzenlemeyi planladığı ifade edildi. Devrim Muhafızları, operasyonun sınır güvenliğini sağlamak amacıyla gerçekleştirildiğini ve bölgedeki güvenlik güçlerinin teyakkuz halinde olduğunu vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/15656807/pexels-photo-15656807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-16T07:48:55.517Z",
+        "location": {
+            "lat": 36,
+            "lng": 45,
+            "name": "İran'ın Batı Sınırı"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-says-pkk-linked-cell-neutralized-along-western-border/4126085",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
         "id": "1794790283838dqice",
         "title": "Eisenkot: Netanyahu, oy manipülasyonu iddiaları arasında İsrail Başbakanı olarak kalamaz",
         "summary": "Eski Genelkurmay Başkanı ve siyasetçi Gadi Eisenkot, İsrail Başbakanı Binyamin Netanyahu'nun oy manipülasyonu iddiaları nedeniyle görevde kalamayacağını belirtti. Haberde, İsrail seçimleri öncesinde Arap partisi üyelerinin, Başbakanlık ofisinden gelen temelsiz kanıtlara dayanarak tutuklandığı iddialarına yer verildi. Bu durum, ülkedeki siyasi gerilimi artırırken, seçim süreçlerinin şeffaflığına dair ciddi endişeleri gündeme getirdi. Eisenkot'un bu açıklaması, Netanyahu'nun liderliği üzerindeki baskıyı daha da artırarak siyasi arenada geniş yankı uyandırdı.",
@@ -748,54 +796,6 @@
             "name": "İstanbul, Türkiye"
         },
         "source": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794589313655ye8bq",
-        "title": "Demokratlar, ABD-İsrail Askeri Sanayi Entegrasyonu Girişimini Pentagon Bütçesinden Çıkaracak mı?",
-        "summary": "ABD'de ara seçimlerde Demokrat Parti'nin elde ettiği kazanımlar, partiye Ulusal Savunma Yetkilendirme Yasası (NDAA) fonlamasını gözden geçirme imkanı sunuyor. Bu gözden geçirme kapsamında, ABD ve İsrail askeri endüstrilerini entegre etmeyi amaçlayan bir hükmün akıbeti tartışılıyor. Demokratların, bu ABD-İsrail girişimini Pentagon bütçesinden çıkarmaya çalışıp çalışmayacağı merak konusu. Bu durum, iki ülke arasındaki savunma işbirliğinin geleceği hakkında soruları beraberinde getiriyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16550474/pexels-photo-16550474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-13T17:01:53.655Z",
-        "location": {
-            "lat": 33,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "179458933566893lpf",
-        "title": "BM gözlemcisi, denetlenmeyen İran nükleer tesisinden 'giderek daha fazla endişe duyuyor'",
-        "summary": "Birleşmiş Milletler'in nükleer gözlemci kuruluşu, İran'daki denetlenmeyen bir nükleer tesise ilişkin artan endişelerini dile getirdi. Kuruluş, İran'ın bir yıldan uzun süre önce duyurduğu İsfahan'daki uranyum zenginleştirme tesisini hiçbir zaman ziyaret edemediğini belirtti. Bu durum, uluslararası toplumda İran'ın nükleer programının şeffaflığına dair soru işaretleri yaratıyor. Gözlemci kuruluş, tesisin denetlenememesinin nükleer yayılmanın önlenmesi çabalarını olumsuz etkileyebileceği konusunda uyarıda bulundu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33848676/pexels-photo-33848676.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-13T17:02:15.668Z",
-        "location": {
-            "lat": 32.654627,
-            "lng": 51.670464,
-            "name": "İsfahan, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794589359776pzcgm",
-        "title": "Sudan ordusu ve müttefik güçler, Kuzey Kordofan'da Hızlı Destek Kuvvetleri'nden (RSF) bölgeleri geri aldıklarını duyurdu",
-        "summary": "Sudan ordusu ve müttefik güçler, Kuzey Kordofan eyaletinde Hızlı Destek Kuvvetleri'nden (RSF) bazı bölgeleri geri aldıklarını bildirdi. Ortak Güçler tarafından yapılan açıklamada, Sarif Ankoush ve çevresindeki bölgelerin şiddetli çatışmaların ardından yeniden ele geçirildiği belirtildi. Açıklamada ayrıca, çatışmalar sırasında bir RSF komutanının öldürüldüğü bilgisi de yer aldı. Bu gelişme, Sudan'da Nisan 2023'ten bu yana devam eden ordu ile RSF arasındaki çatışmalarda önemli bir ilerleme olarak kaydedildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/34222337/pexels-photo-34222337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-13T17:02:39.776Z",
-        "location": {
-            "lat": 13.18,
-            "lng": 30.22,
-            "name": "Kuzey Kordofan, Sudan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/sudanese-army-allied-forces-say-they-recaptured-areas-in-north-kordofan-from-rsf/4124609",
         "trendScore": 85,
         "isBreaking": false
     }
