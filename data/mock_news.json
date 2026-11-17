@@ -1,5 +1,101 @@
 [
     {
+        "id": "1794911505572izkvy",
+        "title": "Yemen'deki Husilerin ilerleyişi küresel ekonomiyi daha da istikrarsızlaştırabilir",
+        "summary": "BBC güvenlik muhabirinin analizine göre, İran destekli Husiler Yemen'de ilerleyişini sürdürüyor. Bu ilerleyişin tehlikeli sonuçlar doğurabileceği belirtiliyor. Husilerin Yemen'deki askeri kazanımları, ülkedeki çatışmanın seyrini değiştirebilecek potansiyele sahip. Ayrıca, bu durumun sadece bölgesel değil, küresel ekonomi üzerinde de olumsuz etkileri olabileceği vurgulanıyor. Uzmanlar, Yemen'deki istikrarsızlığın küresel tedarik zincirleri ve enerji piyasaları üzerindeki potansiyel risklerine dikkat çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9269027/pexels-photo-9269027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T10:31:45.572Z",
+        "location": {
+            "lat": 15.552727,
+            "lng": 48.516388,
+            "name": "Yemen"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794911530125uq1qj",
+        "title": "Petrol tankeri Hürmüz Boğazı'nda iki kez vuruldu, alev aldı: İngiliz denizcilik ajansı",
+        "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Hürmüz Boğazı'nda seyreden bir petrol tankerinin iki kez vurulduğunu ve ardından yangın çıktığını bildirdi. Olay, Umman'ın Khasab kentinin kuzeyindeki sularda, devre dışı kalan tankerde meydana geldi. UKMTO'ya göre, tankerdeki yangına ikinci saldırı neden oldu. Yetkililer, mürettebatın akıbeti hakkında henüz bilgi edinilemediğini belirtti. Hürmüz Boğazı, küresel petrol taşımacılığı için stratejik öneme sahip kritik bir deniz geçididir.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36563588/pexels-photo-36563588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T10:32:10.125Z",
+        "location": {
+            "lat": 26.1767,
+            "lng": 56.2484,
+            "name": "Khasab, Umman"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-oil-tanker-struck-twice-in-strait-of-hormuz-catches-fire-uk-maritime-agency/4127562",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1794911553381pyxnt",
+        "title": "İsrail ordusu, ateşkesine rağmen Gazze'nin merkezinde bir Filistinliyi ağır yaraladı ve evleri yıktı",
+        "summary": "Yerel kaynaklar, İsrail ordusunun Gazze Şeridi'nin orta kesimlerinde, özellikle Deyr el-Balah'ın doğusunda askeri ilerleme kaydettiğini bildirdi. Haberlere göre, bu ilerleme sırasında bir Filistinlinin ağır yaralandığı belirtildi. Ayrıca, İsrail güçlerinin bölgedeki evleri ve sivil yapıları yıktığı kaydedildi. Bu olayların, bölgede ilan edilmiş bir ateşkesin devam etmesine rağmen yaşandığı vurgulandı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36193763/pexels-photo-36193763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T10:32:33.381Z",
+        "location": {
+            "lat": 31.41,
+            "lng": 34.34,
+            "name": "Deyr el-Balah, Gazze Şeridi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-army-critically-wounds-palestinian-blows-up-homes-in-central-gaza-despite-ceasefire/4127526",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1794911575783lgtmp",
+        "title": "İran, Bahreyn'deki ABD radar sistemine İHA saldırısı düzenlediğini iddia etti",
+        "summary": "İran, Bahreyn'de bulunan Şeyh İsa Hava Üssü'ndeki bir ABD radar sistemine insansız hava aracı (İHA) saldırısı gerçekleştirdiğini öne sürdü. İran Devrim Muhafızları Ordusu (IRGC), saldırının sorumluluğunu üstlenerek, eylemin ABD insansız hava araçlarının İran hava sahasını ihlal etmesine bir misilleme olduğunu belirtti. Bu iddia, Orta Doğu'da ABD ve İran arasındaki gerilimi daha da tırmandırma potansiyeli taşıyor. Bahreyn'deki ABD askeri varlığına yönelik bu tür bir saldırı iddiası, bölgesel güvenlik dinamikleri açısından önem arz ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/1336211/pexels-photo-1336211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T10:32:55.784Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/iran-claims-drone-attack-on-us-radar-system-at-bahrain-air-base/4127350",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794911596759t966m",
+        "title": "Bahreyn, İran'dan gelen hava saldırılarını engellediğini duyurdu",
+        "summary": "Bahreyn, hava savunma sistemlerinin İran'dan gelen hava saldırılarını başarıyla engellediğini bildirdi. İran ise Bahreyn'deki Şeyh İsa Hava Üssü'nde konuşlu ABD askeri radar sistemini hedef alan bir insansız hava aracı (İHA) saldırısı düzenlediğini açıkladı. Bu olay, Basra Körfezi'ndeki gerilimi tırmandırma potansiyeli taşırken, bölgedeki güvenlik dinamiklerini ve İran ile komşu ülkeler arasındaki hassas ilişkileri bir kez daha gündeme getirdi. ABD'nin bölgedeki askeri varlığına yönelik bu tür doğrudan saldırı iddiaları, uluslararası kamuoyunda endişelere yol açmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/18903556/pexels-photo-18903556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T10:33:16.759Z",
+        "location": {
+            "lat": 25.33,
+            "lng": 50.58,
+            "name": "Şeyh İsa Hava Üssü, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-air-defenses-intercept-aerial-iranian-attacks/4127308",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1794911619071z3jqs",
+        "title": "İsrail'in Gazze'ye kutulu patlayıcılar attığı bildirildi",
+        "summary": "Gazze Şeridi'ndeki yerel sakinler, İsrail'e ait insansız hava araçlarının (dronlar) binaların üzerine kutular içinde patlayıcılar bıraktığını bildirdi. Görgü tanıklarının ifadelerine göre, bu patlayıcılar daha sonra uzaktan kumandayla infilak ettirildi. Olayın detayları ve İsrail tarafından resmi bir açıklama henüz yapılmadı. Bölgede devam eden gerilim ve çatışmaların bir parçası olarak değerlendirilen bu durum, güvenlik endişelerini artırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35982140/pexels-photo-35982140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T10:33:39.071Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-drops-explosives-packaged-in-boxes-in-gaza/4127278",
+        "trendScore": 90,
+        "isBreaking": false
+    },
+    {
         "id": "179488067436342qye",
         "title": "Yemen Ordusu, Husilere Yönelik Saldırıları ve Aden Savunmasını Bildirdi",
         "summary": "Yemen ordusu, Husilere yönelik askeri operasyonlarını sürdürüyor. Ülke genelinde Husilere karşı 661 saldırı düzenlendiği açıklandı. Bu saldırılar sonucunda 173 Husi savaşçısının öldürüldüğü veya yaralandığı belirtildi. Hükümet güçleri, Husilerin Aden kentine doğru ilerleyişine karşı savunma pozisyonu almak üzere yeniden konuşlandı. Bölgedeki çatışmaların yoğunlaştığı ve Aden'in stratejik önemini koruduğu gözlemleniyor.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
         "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794690722052ihdqa",
-        "title": "Mısırlı gazetecinin yeniden yargılanması ertelendi, BM 'basın özgürlüğüne saldırılar' konusunda uyardı",
-        "summary": "Mısırlı gazeteci ve Mada Masr adlı bağımsız haber sitesinin genel yayın yönetmeni Lina Attalah'ın yeniden yargılanma duruşması ertelendi. Attalah, 'sahte haber yayınlamak' suçlamasıyla yargılanıyor ve potansiyel olarak hapis cezasıyla karşı karşıya kalabilir. Birleşmiş Milletler, dünya genelinde basın özgürlüğüne yönelik saldırılar konusunda endişelerini dile getirerek, gazetecilerin hedef alınmasının demokratik değerler için tehdit oluşturduğunu vurguladı. Bu dava, Mısır'da basın özgürlüğü üzerindeki baskıların bir göstergesi olarak değerlendiriliyor ve uluslararası insan hakları örgütleri tarafından yakından takip ediliyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/28099442/pexels-photo-28099442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T21:12:02.052Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794690780840hmd9l",
-        "title": "İsrail'den Yair Golan, ölümcül el bombası saldırısı sonrası Netanyahu'yu Arap vatandaşlarını ihmal etmekle suçladı",
-        "summary": "İsrail'in kuzeyindeki Kafr Manda kasabasında düzenlenen el bombası saldırısında bir kadın hayatını kaybederken, üç kişi de yaralandı. Bu olayla birlikte, İsrail'deki Arap topluluklarında bu yıl bildirilen cinayet sayısı 200'e ulaştı. İsrailli siyasetçi Yair Golan, yaşanan bu şiddet olaylarının ardından Başbakan Binyamin Netanyahu'yu ülkedeki Arap vatandaşlarını ihmal etmekle suçladı. Golan, Netanyahu hükümetinin Arap toplumlarındaki suç ve şiddetle mücadelede yetersiz kaldığını ve bu durumun ciddi güvenlik sorunlarına yol açtığını ifade etti. Bu gelişmeler, İsrail'deki Arap topluluklarında artan suç oranları ve hükümetin bu konudaki politikaları üzerine kamuoyundaki tartışmaları yoğunlaştırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8553345/pexels-photo-8553345.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T21:13:00.840Z",
-        "location": {
-            "lat": 32.83,
-            "lng": 35.25,
-            "name": "Kafr Manda, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-s-yair-golan-accuses-netanyahu-of-neglecting-arab-citizens-after-deadly-grenade-attack/4125363",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794674463050tyl2w",
-        "title": "AB'den Gazze'ye acil insani erişim çağrısı",
-        "summary": "Avrupa Birliği, Gazze Şeridi'ne acil insani yardım erişimi sağlanması yönünde çağrıda bulundu. AB yetkilileri, Birleşmiş Milletler ve ilgili kuruluşlarının Gazze'ye girişlerinin engellenmesinin ardından, İsrail'in bu kuruluşların çalışmalarına izin vermesi gerektiğini belirtti. Açıklamada, bölgedeki insani durumun ciddiyeti vurgulanarak, yardımların ihtiyaç sahiplerine ulaştırılmasının önemi üzerinde duruldu. Bu çağrı, Gazze'deki sivil halkın temel ihtiyaçlara erişiminin sağlanması amacıyla yapıldı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/36450020/pexels-photo-36450020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T16:41:03.050Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794674484506ll6mj",
-        "title": "Kudüs Günlüğü: İsrail güçleri Filistinli-Amerikalı'nın evini işgal etti",
-        "summary": "İsrail güçleri, işgal altındaki Batı Şeria'da Filistin kökenli bir Amerikalı vatandaşın evini 17 gün boyunca işgal altında tuttu. Olay, bölgedeki gerilimli durumu bir kez daha gözler önüne serdi. Evin işgal edilme nedeni veya bu durumun hukuki dayanağına dair haberde detay verilmedi. Bu tür olaylar, bölgedeki mülkiyet hakları ve sivil yaşam üzerindeki etkileri nedeniyle uluslararası toplumun dikkatini çekmeye devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8487393/pexels-photo-8487393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T16:41:24.506Z",
-        "location": {
-            "lat": 31.9,
-            "lng": 35.2,
-            "name": "Batı Şeria, Filistin"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1794674524341s1w00",
-        "title": "İran Devrim Muhafızları, ABD insansız hava aracını Kasım Adası üzerinde düşürdüğünü açıkladı",
-        "summary": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı yakınlarındaki Kasım Adası üzerinde bir ABD insansız hava aracını düşürdüğünü duyurdu. Yapılan açıklamada, düşürülen insansız hava aracının bir MQ-1 tipi olduğu belirtildi. IRGC, bu operasyonda yeni geliştirilmiş bir hava savunma sisteminin kullanıldığını ifade etti. Olayın, bölgedeki gerilimi artırabilecek nitelikte olduğu değerlendiriliyor. ABD tarafından henüz resmi bir açıklama yapılmadı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6493443/pexels-photo-6493443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T16:42:04.341Z",
-        "location": {
-            "lat": 26.8,
-            "lng": 56,
-            "name": "Kasım Adası, İran"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-says-it-shot-down-us-drone-over-qeshm-island/4125240",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17946745460163etfh",
-        "title": "Suudi liderliğindeki koalisyon, Riyad ve güney Suudi Arabistan'da 2 Husi insansız hava aracını önlediğini duyurdu",
-        "summary": "Suudi Arabistan liderliğindeki koalisyon, başkent Riyad ve ülkenin güney bölgelerini hedef alan iki Husi insansız hava aracının önlendiğini bildirdi. Bölgedeki gerilimin tırmandığı bir dönemde gerçekleşen bu olay, koalisyonun krallığı hedef alan füze ve insansız hava aracı saldırılarını sık sık engellediğini gösteriyor. Husiler tarafından gerçekleştirilen bu tür saldırılar, Yemen'deki çatışmanın Suudi Arabistan üzerindeki güvenlik etkilerini gözler önüne seriyor. Koalisyon, bu tür eylemlerin bölgesel istikrara yönelik tehdit oluşturduğunu belirtiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4903654/pexels-photo-4903654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T16:42:26.016Z",
-        "location": {
-            "lat": 24.7,
-            "lng": 46.7,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-drones-in-riyadh-southern-saudi-arabia/4125225",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
