@@ -1,5 +1,53 @@
 [
     {
+        "id": "179488067436342qye",
+        "title": "Yemen Ordusu, Husilere Yönelik Saldırıları ve Aden Savunmasını Bildirdi",
+        "summary": "Yemen ordusu, Husilere yönelik askeri operasyonlarını sürdürüyor. Ülke genelinde Husilere karşı 661 saldırı düzenlendiği açıklandı. Bu saldırılar sonucunda 173 Husi savaşçısının öldürüldüğü veya yaralandığı belirtildi. Hükümet güçleri, Husilerin Aden kentine doğru ilerleyişine karşı savunma pozisyonu almak üzere yeniden konuşlandı. Bölgedeki çatışmaların yoğunlaştığı ve Aden'in stratejik önemini koruduğu gözlemleniyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T01:57:54.363Z",
+        "location": {
+            "lat": 12.78,
+            "lng": 45.04,
+            "name": "Aden, Yemen"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794880717951v5snc",
+        "title": "AB ülkeleri Ruanda'da göçmen sınır dışı etme merkezi kurduğunu duyurdu",
+        "summary": "Almanya, Avusturya, Hollanda, Danimarka ve Yunanistan, Ruanda'nın bir göçmen sınır dışı etme merkezi olarak kullanılacağını duyurdu. Bu karar, Avrupa Birliği ülkelerinin düzensiz göçle mücadele stratejilerinde yeni bir dönemi işaret ediyor. Anlaşma kapsamında, bu beş Avrupa ülkesine ulaşan göçmenlerin sığınma başvuruları Ruanda'da değerlendirilecek ve başvuruları reddedilenler buradan sınır dışı edilecek. Uygulamanın, Avrupa'ya yönelik düzensiz göç akışını azaltmayı ve insan kaçakçılığını engellemeyi hedeflediği belirtiliyor. Bu adımın, insan hakları örgütleri ve uluslararası kuruluşlar tarafından yakından takip edilmesi bekleniyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/53442/birkenau-auschwitz-concentration-camp-53442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T01:58:37.951Z",
+        "location": {
+            "lat": -1.9403,
+            "lng": 29.8739,
+            "name": "Kigali, Ruanda"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1794880791366l3eqv",
+        "title": "İsrail askerleri Suriye'nin güneyinde evlere ateş açtı, yaşlı bir adamı darp etti",
+        "summary": "İsrail askerlerinin Suriye'nin güneyindeki Maariya köyüne askeri araçlarla girerek evlere baskın düzenlediği bildirildi. Haber, bölgeye 23 askeri aracın sevk edildiğini ve baskınlar sırasında yaşlı bir adamın darp edildiğini belirtti. Ayrıca, İsrail topçu birliklerinin köy yakınlarındaki tarım arazilerini hedef aldığı kaydedildi. Bu olay, İsrail güçlerinin Suriye topraklarında gerçekleştirdiği bir operasyon olarak öne çıkıyor ve bölgedeki güvenlik durumunu etkileyebileceği değerlendiriliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/40978612/pexels-photo-40978612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-17T01:59:51.366Z",
+        "location": {
+            "lat": 32.6167,
+            "lng": 36.1,
+            "name": "Maariya, Suriye"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-troops-fire-on-homes-beat-elderly-man-in-southern-syria/4127208",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1794852362050emywz",
         "title": "Irak, İran destekli Kataib Hizbullah'ın kalesine ordu konuşlandırdı",
         "summary": "Irak ordusu, İran destekli Kataib Hizbullah grubunun kontrolündeki bir bölgeye asker konuşlandırdı. Bu adım, ABD'nin Irak üzerindeki Tahran etkisini sınırlama baskısının bir sonucu olarak değerlendiriliyor. Gelişme, Irak hükümeti ile İran'a bağlı silahlı gruplar arasında doğrudan bir çatışma potansiyeli taşıyor. Bölgedeki gerilimin artmasına neden olabilecek bu durum, Irak'ın iç güvenliği ve bölgesel dinamikler açısından önem arz ediyor.",
@@ -749,54 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-2-houthi-drones-in-riyadh-southern-saudi-arabia/4125225",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794674566700b3lfq",
-        "title": "Gazze'de İsrail Saldırılarında İki Filistinli Hayatını Kaybetti",
-        "summary": "Gazze Şeridi'nde İsrail güçleri tarafından düzenlenen saldırılarda iki Filistinlinin yaşamını yitirdiği bildirildi. Anadolu Ajansı'na bilgi veren tıbbi kaynaklar, devam eden ateşkese rağmen gerçekleşen bu saldırılarda dört kişinin de yaralandığını belirtti. Olaylar, bölgedeki hassas güvenlik durumunun devam ettiğini ve gerilimin sürdüğünü gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T16:42:46.700Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-palestinians-killed-in-fresh-israeli-attacks-across-gaza/4125216",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794674591815zirb2",
-        "title": "Türkiye ve 17 ülke, İsrail'in Gazze hastanesine yönelik saldırısını kınadı, ateşkes uyumuna çağrı yaptı",
-        "summary": "Türkiye ve 17 diğer ülke, İsrail'in Gazze'deki bir hastaneye düzenlediği saldırıyı kınayan ortak bir bildiri yayımladı. Ülkelerin dışişleri bakanları, devam eden saldırıların ve insani yardıma getirilen kısıtlamaların Gazze'deki krizi kış yaklaşırken daha da kötüleştirdiği konusunda uyardı. Bakanlar ayrıca, bölgedeki taraflara ateşkes kurallarına uyma çağrısında bulundu. Bu açıklama, Gazze'deki çatışmaların ve insani durumun uluslararası toplumda yarattığı endişeyi gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/38525315/pexels-photo-38525315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T16:43:11.815Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/turkiye/turkiye-17-other-countries-condemn-israeli-strike-on-gaza-hospital-urge-ceasefire-compliance/4125212",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1794674614043r8xd3",
-        "title": "İsrailli işgalciler Batı Şeria'da Filistinli zeytin toplayıcılarına saldırdı, ordu çiftçiyi gözaltına aldı",
-        "summary": "Batı Şeria'da Filistinli zeytin toplayıcılarına yönelik bir saldırı gerçekleşti. Ramallah'ın kuzeyinde zeytin toplarken İsrailli işgalciler tarafından darp edilen iki Filistinli yaralandı. Yerel kaynaklar Anadolu Ajansı'na yaptığı açıklamada, saldırının zeytin hasadı sırasında meydana geldiğini belirtti. Olayla ilgili olarak İsrail ordusunun bir çiftçiyi gözaltına aldığı da bildirildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36038673/pexels-photo-36038673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-14T16:43:34.043Z",
-        "location": {
-            "lat": 31.9047,
-            "lng": 35.2033,
-            "name": "Ramallah, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-palestinian-olive-pickers-in-west-bank-as-army-arrests-farmer/4125155",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
