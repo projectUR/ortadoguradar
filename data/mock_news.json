@@ -1,5 +1,37 @@
 [
     {
+        "id": "1794968044563swm1x",
+        "title": "Rubio: ABD Başkentine Yönelik Yakın Bir Tehdit Yok, İddia Edilen İran Komplosu Raporları Ortasında",
+        "summary": "ABD'li Senatör Marco Rubio, başkent Washington'a yönelik yakın bir tehdit bulunmadığını açıkladı. Bu açıklama, iddia edilen bir İran komplosu raporlarının gündeme gelmesinin ardından yapıldı. ABD Dışişleri Bakanı ise ülkenin güvenliğine yönelik her türlü tehdide karşı sürekli teyakkuzda olduklarını ifade etti. Yetkililer, ABD'nin ulusal güvenlik çıkarlarını korumak için gerekli tüm önlemleri aldığını vurguladı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/39400186/pexels-photo-39400186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-18T02:14:04.563Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington, D.C., ABD"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/rubio-says-no-imminent-threat-to-us-capital-amid-report-of-alleged-iranian-plot/4128491",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17949680809910t0vg",
+        "title": "Bahreyn, hava savunma sistemlerinin çok sayıda İran saldırısını engellediğini duyurdu",
+        "summary": "Bahreyn, hava savunma sistemlerinin ülkeye yönelik çok sayıda İran saldırısını başarıyla engellediğini açıkladı. Olayın ardından Bahreyn İçişleri Bakanlığı, vatandaşlara yönelik iki ayrı tehdit uyarısı yayınladı. Bakanlık, bölge sakinlerini güvenliklerini sağlamak amacıyla sığınaklara yönelmeye çağırdı. Bu gelişmeler, Bahreyn'de güvenlik durumunun yükseldiğine ve iki ülke arasındaki gerilimin arttığına işaret ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/40138199/pexels-photo-40138199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-18T02:14:40.991Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-its-air-defenses-intercepted-multiple-iranian-attacks/4128489",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1794944499892nzv40",
         "title": "Filistin Sağlık Bakanlığı: Batı Şeria'da 72 Yaşındaki Filistinli Kadın İsrailli Yerleşimciler Tarafından Vurularak Öldürüldü",
         "summary": "Filistin Sağlık Bakanlığı'ndan yapılan açıklamaya göre, Batı Şeria'da 72 yaşındaki bir Filistinli kadın İsrailli yerleşimciler tarafından vurularak hayatını kaybetti. Filistinli kaynaklar, olayın al-Duyuk al-Tahta bölgesinde yerleşimcilerin gerçekleştirdiği bir saldırı sırasında meydana geldiğini belirtti. İsrail ordusu ise yerleşimcilerin kendilerine yönelik bir saldırının ardından ateş açtığını iddia etti. Bu olay, bölgedeki gerilimi bir kez daha gözler önüne sererken, taraflar arasında yaşanan çatışmalara dair farklı anlatıları ortaya koydu.",
@@ -764,38 +796,6 @@
             "name": "Han Yunus, Gazze Şeridi"
         },
         "source": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1794730698539e1i5m",
-        "title": "Bahreyn, hava savunmasının birçok İran saldırısını engellediğini duyurdu",
-        "summary": "Bahreyn Savunma Kuvvetleri, ülkenin hava savunma sistemlerinin İran'dan gelen çok sayıda saldırıyı başarıyla engellediğini duyurdu. Yapılan açıklamada, İran'ın Bahreyn topraklarını hedef alarak sistematik düşmanca yaklaşımını sürdürdüğü iddia edildi. Bu gelişme, iki Orta Doğu ülkesi arasındaki mevcut gerilimi bir kez daha gözler önüne serdi. Bahreyn, egemenliğini ve toprak bütünlüğünü koruma kararlılığını vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-15T08:18:18.539Z",
-        "location": {
-            "lat": 26.2,
-            "lng": 50.6,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-its-air-defenses-intercepted-several-iranian-attacks/4125551",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794730720723gm9a7",
-        "title": "İran, Bahreyn'deki ABD radar tesisini 6 insansız hava aracıyla hedef aldığını duyurdu",
-        "summary": "İran, Bahreyn'de bulunan bir ABD radar tesisine altı insansız hava aracıyla saldırı düzenlediğini iddia etti. Bu açıklama, Bahreyn İçişleri Bakanlığı'nın saatler önce potansiyel bir tehdit konusunda uyarıda bulunmasının ardından geldi. Saldırının detayları ve olası sonuçları hakkında henüz resmi bir doğrulama yapılmadı. Bölgedeki gerilimi artırabilecek bu iddia, uluslararası kamuoyunda yakından takip ediliyor. Olayın, Orta Doğu'daki güvenlik dinamikleri üzerindeki etkileri merak ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/4903654/pexels-photo-4903654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-15T08:18:40.723Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-says-it-targeted-us-radar-site-in-bahrain-with-6-drones/4125490",
         "trendScore": 90,
         "isBreaking": true
     }
