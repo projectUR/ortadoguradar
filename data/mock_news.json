@@ -1,5 +1,53 @@
 [
     {
+        "id": "1795051304907z4q4e",
+        "title": "İsrail'in Merkezinde Yerleşimci Filistinlilere Çarptı",
+        "summary": "İsrail'in merkezinde meydana gelen olayda, bir yerleşimcinin aracını Filistinlilerin üzerine sürdüğü bildirildi. Çeşitli noktalarda gerçekleşen bu saldırıda en az sekiz Filistinli yaralandı. Olayın kamera kayıtlarına yansıdığı ve yetkililerin soruşturma başlattığı belirtildi. Bu tür olaylar bölgedeki gerilimi artırma potansiyeli taşıyor ve güvenlik endişelerini yükseltiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/40138199/pexels-photo-40138199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-19T01:21:44.907Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 35,
+            "name": "İsrail"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "179505139334575d59",
+        "title": "İsrail ordusu Gazze'de Sarı Hat'ın ötesinde nadir bir kara operasyonu başlattı",
+        "summary": "İsrail ordusu, Gazze Şeridi'nde 'Sarı Hat' olarak bilinen sınırın ötesine geçerek nadir bir kara operasyonu başlattı. İsrail askeri kaynakları, operasyonun bir 'terör tünelini' imha etmeyi amaçladığını bildirdi. Hamas ise bu müdahaleyi 'açık bir' ateşkes ihlali olarak kınadı. Bölgedeki gerilimin artmasına neden olan bu gelişme, taraflar arasındaki hassas durumu bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-19T01:23:13.345Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze Şeridi, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1795051417212k33gc",
+        "title": "Suudi liderliğindeki koalisyon, Husilere ait balistik füzeyi engellediğini ve fırlatıcısını imha ettiğini duyurdu",
+        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husilere ait bir balistik füzeyi başarıyla engellediğini açıkladı. Koalisyon, füzenin güney Suudi Arabistan'a yönelik bir saldırı girişiminde kullanıldığını belirtti. Engellenen füzenin fırlatıldığı Yemen'in Saada vilayetindeki fırlatma rampasının da imha edildiği bildirildi. Bu olay, Yemen'deki çatışmaların ve Suudi Arabistan'a yönelik Husi saldırılarının devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/10210527/pexels-photo-10210527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-19T01:23:37.212Z",
+        "location": {
+            "lat": 16.95,
+            "lng": 43.75,
+            "name": "Saada, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-destroyed-launcher/4129923",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "17950293766053b2gd",
         "title": "İsrail mahkemesi Gazze'li doktor Abu Safia’nın tutukluluğunu suçlama olmaksızın uzattı",
         "summary": "İsrail'de bir mahkeme, Gazze'li doktor Abu Safia'nın tutukluluk süresini uzatma kararı aldı. Doktor Safia, İsrail ordusu tarafından yaklaşık iki yıl önce gözaltına alınmıştı. Habere göre, bu süre zarfında kendisine herhangi bir suçlama yöneltilmedi. Bu karar, İsrail'in Filistinlilerin tutukluluk uygulamalarına yönelik eleştirileri yeniden gündeme getirdi.",
@@ -748,54 +796,6 @@
             "name": "Kudüs, İsrail"
         },
         "source": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17947903114271swur",
-        "title": "İran savaşı canlı: Tahran, ABD'nin başka bir saldırısından önce ilk darbeyi vurabileceği konusunda uyardı.",
-        "summary": "İran, ABD'nin olası yeni bir saldırısı öncesinde ilk darbeyi vurabileceği yönünde bir uyarıda bulundu. Bu açıklama, bölgedeki gerilimin tırmandığı bir döneme denk geliyor. Öte yandan, Yemen ordusu, stratejik Bab el-Mendeb Boğazı ve diğer önemli kıyı bölgelerinden birliklerini \"yeniden konumlandırdığını\" duyurdu. Bu yeniden konumlandırma, bölgesel güvenlik dinamikleri ve denizcilik rotaları üzerindeki potansiyel etkileri açısından dikkat çekiyor. Gelişmeler, Orta Doğu'daki askeri ve siyasi tansiyonun yüksek seyrini koruduğunu gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6532735/pexels-photo-6532735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-16T00:51:51.427Z",
-        "location": {
-            "lat": 12.58,
-            "lng": 43.33,
-            "name": "Bab el-Mendeb Boğazı, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "1794776001338hw8ok",
-        "title": "Ürdün'de Kilise Saldırısı Davasında Üç Kişiye İdam Cezası",
-        "summary": "Ürdün'de, Karak kentinde bir kiliseye düzenlenen ölümcül saldırıyla ilgili davada üç kişi idam cezasına çarptırıldı. Ürdün mahkemesi, söz konusu saldırıda rol oynayan üç sanık hakkında bu kararı verdi. Olay, ülkenin güneyindeki Karak bölgesinde daha önce meydana gelmiş ve can kayıplarına yol açmıştı. Bu yargı kararı, Ürdün'ün terörle mücadeledeki kararlılığını yansıtan önemli bir gelişme olarak değerlendiriliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-15T20:53:21.338Z",
-        "location": {
-            "lat": 31.189,
-            "lng": 35.705,
-            "name": "Karak, Ürdün"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1794776104742ina4z",
-        "title": "Mossad Şefi ABD'deki İran Görüşmelerinin Ardından İsrail'e Döndü",
-        "summary": "Mossad şefi, ABD'de İran konusunda gerçekleştirdiği görüşmelerin ardından İsrail'e geri döndü. İsrail kaynaklarına göre, Mossad şefinin Başbakan Netanyahu'ya ve güvenlik kabinesine bilgi vermesi bekleniyor. Bu bilgilendirme, 27 Ekim'deki parlamento seçimlerinden bu yana yapılacak ilk güvenlik kabinesi toplantısında gerçekleşecek. Görüşmelerin ana gündem maddesinin İran olduğu belirtiliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6949994/pexels-photo-6949994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-15T20:55:04.742Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/mossad-chief-returns-to-israel-after-us-talks-on-iran-set-to-brief-netanyahu-report/4125988",
         "trendScore": 85,
         "isBreaking": false
     }
