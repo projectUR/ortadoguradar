@@ -1,5 +1,21 @@
 [
     {
+        "id": "1795218473729svpgk",
+        "title": "Batı Şeria'da 72 Yaşındaki Filistinli Kadın İsrailli Yerleşimciler Tarafından Vurularak Öldürüldü",
+        "summary": "Filistin Sağlık Bakanlığı, Batı Şeria'da 72 yaşındaki bir Filistinli kadının İsrailli yerleşimciler tarafından vurularak öldürüldüğünü duyurdu. Filistinli yetkililer, al-Duyuk al-Tahta bölgesinde yerleşimciler tarafından bir saldırı düzenlendiğini belirtirken, İsrail ordusu ise yerleşimcilerin kendilerine yönelik bir saldırının ardından ateş açtığını iddia etti. Olay, bölgedeki gerilimi tırmandıran ve taraflar arasında farklı anlatılara yol açan son gelişme olarak kaydedildi. Bu olay, İsrail-Filistin çatışmasındaki şiddet olaylarının devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/8560709/pexels-photo-8560709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-20T23:47:53.729Z",
+        "location": {
+            "lat": 31.85,
+            "lng": 35.45,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "17951964905600lmnr",
         "title": "Katar Emiri bölgesel çatışmaları sona erdirmek için diplomasi çağrısı yaptı",
         "summary": "Katar Emiri Şeyh Temim bin Hamad Al Sani, bölgedeki çatışmaların tırmanmasını önlemek amacıyla diplomatik çabaların artırılması çağrısında bulundu. Emir Al Sani, Orta Doğu'da devam eden gerilimlerin ve anlaşmazlıkların barışçıl yollarla çözülmesi gerektiğini vurguladı. Bu açıklama, bölgede süregelen istikrarsızlıkların ve çeşitli krizlerin yaşandığı bir dönemde geldi. Katar'ın geleneksel olarak arabuluculuk ve diyalog yoluyla çözüm arayışlarına verdiği önemi yansıtan bu çağrı, uluslararası toplumda da yankı buldu.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/rubio-says-no-imminent-threat-to-us-capital-amid-report-of-alleged-iranian-plot/4128491",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17949680809910t0vg",
-        "title": "Bahreyn, hava savunma sistemlerinin çok sayıda İran saldırısını engellediğini duyurdu",
-        "summary": "Bahreyn, hava savunma sistemlerinin ülkeye yönelik çok sayıda İran saldırısını başarıyla engellediğini açıkladı. Olayın ardından Bahreyn İçişleri Bakanlığı, vatandaşlara yönelik iki ayrı tehdit uyarısı yayınladı. Bakanlık, bölge sakinlerini güvenliklerini sağlamak amacıyla sığınaklara yönelmeye çağırdı. Bu gelişmeler, Bahreyn'de güvenlik durumunun yükseldiğine ve iki ülke arasındaki gerilimin arttığına işaret ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/40138199/pexels-photo-40138199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-18T02:14:40.991Z",
-        "location": {
-            "lat": 26.2285,
-            "lng": 50.586,
-            "name": "Manama, Bahreyn"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-its-air-defenses-intercepted-multiple-iranian-attacks/4128489",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
