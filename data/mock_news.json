@@ -1,5 +1,37 @@
 [
     {
+        "id": "1795136841157pj1q3",
+        "title": "Hürmüz Boğazı'nın doğusundaki sularda mayınlara çarpan 2 petrol tankeri alev aldı: İran ordusu",
+        "summary": "İran ordusu, Hürmüz Boğazı'nın doğusundaki sularda iki petrol tankerinin mayınlara çarparak alev aldığını duyurdu. Tahran yönetimi, gemilerin kısıtlı bir bölgede deniz mayınlarına çarptığını belirtti. İran, Hürmüz Boğazı'nı geçmek isteyen gemileri önceden koordinasyon sağlamadan geçiş yapmamaları konusunda uyardı. Bu olay, bölgedeki deniz güvenliği endişelerini artırarak uluslararası kamuoyunun dikkatini çekti.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/27275198/pexels-photo-27275198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-20T01:07:21.157Z",
+        "location": {
+            "lat": 25.8,
+            "lng": 57.5,
+            "name": "Hürmüz Boğazı, Umman Körfezi"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/2-oil-tankers-catch-fire-after-hitting-mines-in-waters-east-of-strait-of-hormuz-iranian-army/4131604",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "17951368633808figm",
+        "title": "ABD'nin İran'a Karşı Savaşı 48.3 Milyar Dolara Mal Oldu, Pentagon Yetkilisi Senato'ya Bildirdi",
+        "summary": "Bir Pentagon yetkilisi, ABD'nin İran'a karşı yürüttüğü savaşın maliyetinin 48.3 milyar dolara ulaştığını Senato'ya açıkladı. Arthur Miller adlı yetkili, bu rakamın mühimmat, ekipman yenileme maliyetleri ve operasyonel giderleri kapsadığını belirtti. Bu açıklama, ABD ile İran arasındaki potansiyel veya mevcut askeri gerilimlerin finansal boyutunu gözler önüne serdi. Söz konusu maliyet, iki ülke arasındaki ilişkilerin hassasiyetini ve olası bir çatışmanın ekonomik yükünü vurguluyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-20T01:07:43.380Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aa.com.tr/en/americas/us-war-against-iran-has-cost-483b-pentagon-official-tells-senate/4131569",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1795113072299rmrlv",
         "title": "Azil girişimi sonrası Hegseth Pentagon'daki liderliği nedeniyle eleştirilerin odağında",
         "summary": "ABD Savunma Bakanlığı (Pentagon) liderliğindeki bir isim olan Hegseth, bir hafta önce başarısızlıkla sonuçlanan azil girişiminin ardından eleştirilerin odağında kalmaya devam ediyor. Analistler, Hegseth'in Pentagon'daki liderliği nedeniyle kamuoyundan ve siyasi çevrelerden tepki görmeyi sürdürdüğünü belirtiyor. Bu durum, ABD'nin savunma politikaları ve uluslararası arenadaki duruşu üzerinde potansiyel etkiler yaratabilir. Özellikle Orta Doğu gibi stratejik bölgelerdeki ABD varlığı ve kararları açısından, Pentagon'daki üst düzey bir yetkilinin pozisyonu yakından takip edilmektedir. Hegseth'in gelecekteki rolü ve liderliğinin nasıl şekilleneceği merak konusu.",
@@ -766,37 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/bahrain-says-air-defenses-intercept-aerial-iranian-attacks/4127308",
         "trendScore": 90,
         "isBreaking": true
-    },
-    {
-        "id": "1794911619071z3jqs",
-        "title": "İsrail'in Gazze'ye kutulu patlayıcılar attığı bildirildi",
-        "summary": "Gazze Şeridi'ndeki yerel sakinler, İsrail'e ait insansız hava araçlarının (dronlar) binaların üzerine kutular içinde patlayıcılar bıraktığını bildirdi. Görgü tanıklarının ifadelerine göre, bu patlayıcılar daha sonra uzaktan kumandayla infilak ettirildi. Olayın detayları ve İsrail tarafından resmi bir açıklama henüz yapılmadı. Bölgede devam eden gerilim ve çatışmaların bir parçası olarak değerlendirilen bu durum, güvenlik endişelerini artırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35982140/pexels-photo-35982140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-17T10:33:39.071Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israel-drops-explosives-packaged-in-boxes-in-gaza/4127278",
-        "trendScore": 90,
-        "isBreaking": false
-    },
-    {
-        "id": "179488067436342qye",
-        "title": "Yemen Ordusu, Husilere Yönelik Saldırıları ve Aden Savunmasını Bildirdi",
-        "summary": "Yemen ordusu, Husilere yönelik askeri operasyonlarını sürdürüyor. Ülke genelinde Husilere karşı 661 saldırı düzenlendiği açıklandı. Bu saldırılar sonucunda 173 Husi savaşçısının öldürüldüğü veya yaralandığı belirtildi. Hükümet güçleri, Husilerin Aden kentine doğru ilerleyişine karşı savunma pozisyonu almak üzere yeniden konuşlandı. Bölgedeki çatışmaların yoğunlaştığı ve Aden'in stratejik önemini koruduğu gözlemleniyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/9267448/pexels-photo-9267448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-17T01:57:54.363Z",
-        "location": {
-            "lat": 12.78,
-            "lng": 45.04,
-            "name": "Aden, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
     }
 ]
