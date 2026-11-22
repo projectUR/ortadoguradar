@@ -1,5 +1,101 @@
 [
     {
+        "id": "1795366649469h4wzf",
+        "title": "COP31 İklim Müzakereleri Anlaşmasız Sona Erdi: Delegeler Hayal Kırıklığı Yaşadı",
+        "summary": "Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) müzakereleri, küresel iklim değişikliğiyle mücadelede önemli bir anlaşmaya varılamadan sona erdi. Toplantıya katılan delegeler, sonuçtan duydukları hayal kırıklığını dile getirdi. Hazırlanan taslak metnin iklim değişikliğiyle etkili bir şekilde mücadele etmek için yetersiz olduğu belirtildi. Özellikle petrol üreten ülkelerin 'fosil yakıtlar' teriminin metinde yer almasına karşı çıkması, anlaşmaya varılmasını engelleyen temel faktör oldu. Bu durum, iklim hedeflerine ulaşma çabalarında yeni bir engelin ortaya çıktığını gösteriyor.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/3039036/pexels-photo-3039036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T16:57:29.469Z",
+        "location": {
+            "lat": 0,
+            "lng": 0,
+            "name": "Küresel"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1795366719938suimg",
+        "title": "Sudan'ın Başkenti Yakınlarında İHA Saldırıları: Dört Ölü, BM Binası Hasar Gördü",
+        "summary": "Sudan'ın başkenti Hartum yakınlarında düzenlenen insansız hava aracı (İHA) saldırılarında dört kişi hayatını kaybetti. Saldırılarda Birleşmiş Milletler (BM) binası, hükümet binaları ve Hartum Havalimanı hedef alındı ve hasar gördü. Olayın sorumluluğu Hızlı Destek Kuvvetleri'ne (HDK) atfediliyor. Bu saldırılar, ülkedeki devam eden çatışmaların şiddetini bir kez daha gözler önüne serdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4903654/pexels-photo-4903654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T16:58:39.938Z",
+        "location": {
+            "lat": 15.5007,
+            "lng": 32.5599,
+            "name": "Hartum, Sudan"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1795366746922gykqp",
+        "title": "İsrail, Filistinlilerin Doğu Kudüs'teki evlerine ulaşmasını engelleyerek giriş izinlerini iptal etti",
+        "summary": "İsrail makamları, Filistinlilerin Doğu Kudüs'teki evlerine ulaşmasını engellemek amacıyla giriş izinlerini iptal etti. Bu karar, Nabi Samuel, Beyt İksa ve Halayleh mahallelerinde ikamet eden Filistinlileri doğrudan etkiledi. İptal edilen izinler nedeniyle, belirtilmeyen sayıda Filistinlinin kendi konutlarına erişimi engellendi. Bu durum, bölgedeki gerilimi artırabilecek bir adım olarak değerlendiriliyor ve Filistinlilerin hareket özgürlüğü üzerindeki kısıtlamaları bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/30284228/pexels-photo-30284228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T16:59:06.922Z",
+        "location": {
+            "lat": 31.7767,
+            "lng": 35.2345,
+            "name": "Doğu Kudüs, İsrail/Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-revokes-entry-permits-for-palestinians-preventing-them-from-reaching-homes-in-east-jerusalem/4133711",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1795366770168yeidp",
+        "title": "İsrail'in Gazze saldırılarında 3 kişi hayatını kaybetti, 4 kişi yaralandı",
+        "summary": "Gazze'den gelen haberlere göre, İsrail'in gerçekleştirdiği son saldırılarda 3 Gazalı hayatını kaybederken, 4 kişi de yaralandı. Bu olay, bölgedeki ateşkesin son ihlali olarak kayıtlara geçti. Gazze Sağlık Bakanlığı'nın verilerine göre, Ekim 2025'ten bu yana İsrail'in ateşkes ihlalleri sonucunda toplam 1.675 kişi yaşamını yitirdi, 6.095 kişi ise yaralandı. Bölgedeki gerilimin sürdüğü belirtiliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/9985315/pexels-photo-9985315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T16:59:30.168Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.46,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israeli-attacks-kill-3-gazans-injure-4-in-latest-ceasefire-violation/4133706",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "17953667938236tvvr",
+        "title": "Filistin, Batı Şeria'daki 'işgalci terörüne' karşı 'caydırıcı önlemler' çağrısı yaptı",
+        "summary": "Filistin Dışişleri Bakanlığı, Batı Şeria'da Filistin köylerine yönelik saldırıları \"yeni bir suç saldırısı\" olarak nitelendirdi. Bakanlık, bu saldırılara karşı uluslararası toplumdan \"caydırıcı önlemler\" alınması çağrısında bulundu. Yapılan açıklamada, işgalci güçlerin Filistinlilere yönelik eylemlerinin \"terör\" olarak tanımlandığı belirtildi. Bu çağrı, bölgedeki gerilimin tırmandığı ve Filistin halkının güvenliğine yönelik endişelerin arttığı bir dönemde geldi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/7640479/pexels-photo-7640479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T16:59:53.823Z",
+        "location": {
+            "lat": 31.9038,
+            "lng": 35.2034,
+            "name": "Batı Şeria, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/palestine-calls-for-deterrent-measures-against-occupier-terrorism-in-west-bank/4133690",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1795366816021cyxhq",
+        "title": "Fransız başkan adayı İsrail'e Filistinli doktoru serbest bırakma çağrısını yineledi",
+        "summary": "Fransız başkan adayı Jean-Luc Mélenchon, İsrail'e Filistinli doktor Hussam Abu Safiya'yı serbest bırakması yönündeki çağrısını yineledi. Gazze'deki bir hastanenin direktörü olan Abu Safiya'nın yaklaşık iki yıldır herhangi bir suçlama olmaksızın tutulduğu belirtildi. Mélenchon'un bu açıklaması, bölgedeki kişilerin yargılanmadan alıkonulmasına ilişkin endişeleri gündeme getirdi. Bu tür vakalar, özellikle insan hakları örgütleri ve uluslararası siyasi figürler tarafından sıklıkla dikkat çekmektedir. Çağrı, İsrail-Filistin çatışmasıyla ilgili devam eden gerilimleri ve insani kaygıları bir kez daha vurgulamaktadır.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/19453133/pexels-photo-19453133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T17:00:16.021Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.5,
+            "name": "Gazze, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/europe/french-presidential-candidate-renews-call-for-israel-to-free-palestinian-doctor/4133629",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "17953366663072183u",
         "title": "İsrail ordusu Gazze'de 'Sarı Hat' ötesindeki kara operasyonunu tamamladı",
         "summary": "İsrail ordusu, Gazze Şeridi'nde 'Sarı Hat' olarak adlandırılan bölgenin ötesinde gerçekleştirdiği kara operasyonunu tamamladığını bildirdi. Ordu kaynakları, operasyonun hedefinin bir 'terör tünelini' imha etmek olduğunu açıkladı. Filistinli grup Hamas ise İsrail'in bu eylemini 'açık bir ateşkes ihlali' olarak nitelendirerek şiddetle kınadı. Bu gelişme, bölgedeki mevcut gerilimi tırmandırırken, taraflar arasındaki hassas güvenlik durumunu bir kez daha gündeme taşıdı.",
@@ -701,102 +797,6 @@
         },
         "source": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
         "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1795113159333ozjz9",
-        "title": "BM: Yemen'de Ağustos'tan Bu Yana 350 Binden Fazla Kişi Yerinden Edildi",
-        "summary": "Birleşmiş Milletler (BM), Yemen'de Ağustos ayından bu yana 350 binden fazla kişinin çatışmalar nedeniyle yerinden edildiğini duyurdu. Kuruluş, ülkedeki insani durumun ciddiyetine dikkat çekerek, yerinden edilenlerin acil yardıma ihtiyaç duyduğunu belirtti. BM aynı zamanda, Yemen'de gözaltına alınan kendi personelinin ve diğer insani yardım çalışanlarının derhal serbest bırakılması çağrısında bulundu. Bu durum, insani yardım operasyonlarının önündeki engelleri ve güvenlik sorunlarını gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/10629422/pexels-photo-10629422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T18:32:39.333Z",
-        "location": {
-            "lat": 15.5527,
-            "lng": 48.5164,
-            "name": "Yemen"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-says-over-350-000-displaced-in-yemen-since-august/4131437",
-        "trendScore": 88,
-        "isBreaking": false
-    },
-    {
-        "id": "1795113181011p5j4x",
-        "title": "Alman İnsan Hakları Grubu, Eski Mossad Şefinin Lübnan Saldırıları Nedeniyle Tutuklanmasını İstedi",
-        "summary": "Alman bir insan hakları kuruluşu, İsrail'in eski istihbarat servisi Mossad'ın başkanı David Barnea'nın Lübnan'daki saldırılar nedeniyle tutuklanmasını talep etti. Avrupa Anayasa ve İnsan Hakları Merkezi (ECCHR), Barnea'yı savaş suçları işlemekle suçlayarak, kendisinin Berlin'i ziyareti sırasında Alman savcılar tarafından gözaltına alınmasını istedi. Kuruluş, Barnea'nın Lübnan'da işlendiği iddia edilen suçlardan sorumlu tutulması gerektiğini belirtiyor. Bu talep, uluslararası hukuk ve insan hakları örgütlerinin İsrail'in askeri operasyonlarına yönelik eleştirilerini bir kez daha gündeme getirdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/10476380/pexels-photo-10476380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T18:33:01.011Z",
-        "location": {
-            "lat": 52.52,
-            "lng": 13.405,
-            "name": "Berlin, Almanya"
-        },
-        "source": "https://www.aa.com.tr/en/europe/german-rights-group-seeks-arrest-of-former-mossad-chief-for-lebanon-attacks/4131338",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795113207921lr8ji",
-        "title": "Eisenkot, çoğunluk olmasa bile hükümeti Knesset oylamasına sunmayı planlıyor: İsrail medyası",
-        "summary": "İsrail medyasında yer alan haberlere göre, Savaş Kabinesi Bakanı Gadi Eisenkot'un, hükümeti Knesset'te oylamaya sunma planları yaptığı belirtildi. Ynet haber sitesi, Eisenkot'un bu adımı, mevcut birlik görüşmelerinin başarısız olması durumunda, çoğunluk sağlanamasa bile atabileceğini aktardı. Haberde, azınlık hükümeti senaryosunun, Arap partisi Ra'am'dan dış destek alınmasına dayanacağı ifade edildi. Bu durumun, İsrail siyasetinde yeni bir koalisyon arayışını ve potansiyel hükümet krizini işaret ettiği değerlendiriliyor. Gelişmeler, İsrail'in iç siyasetindeki dengeleri ve gelecekteki hükümet yapısını etkileyebilir.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/31282456/pexels-photo-31282456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T18:33:27.921Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/eisenkot-plans-to-put-government-to-knesset-vote-even-without-majority-israeli-media/4131336",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795113234191e31hs",
-        "title": "İsrail'de başbakanın görev süresini 8 yılla sınırlayan yasa tasarısı",
-        "summary": "İsrail'de, başbakanın görev süresini sekiz yılla sınırlamayı hedefleyen bir yasa tasarısı gündeme geldi. Söz konusu tasarı, aynı zamanda ciddi suçlamalarla yargılanan milletvekillerinin hükümet kurma göreviyle yetkilendirilmesini de engelleyecek maddeler içeriyor. Bu düzenlemenin, ülkenin siyasi yapısında önemli değişikliklere yol açabileceği belirtiliyor. Tasarının yasalaşması halinde, İsrail'in gelecekteki siyasi liderlik süreçleri üzerinde doğrudan etkisi olması bekleniyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8846950/pexels-photo-8846950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T18:33:54.191Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/israeli-bill-seeks-to-limit-prime-minister-s-tenure-to-8-years/4131304",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795113258428ox8kz",
-        "title": "Rapora göre, Silikon Vadisi elitleri Filistin yanlısı aktivizmi hedef alan İsrail yanlısı sosyal medya kuruluşunu finanse etti",
-        "summary": "Sızdırılan belgelere göre, Silikon Vadisi'nin önde gelen isimleri ve zengin bağışçılar, Filistin yanlısı aktivizmi hedef alan İsrail yanlısı bir sosyal medya kuruluşunu finanse etti. Visegrad24 adlı bu kuruluşun, kar amacı gütmeyen ağlardan ve varlıklı kişilerden 1 milyon doların üzerinde fon sağladığı ortaya çıktı. Bu fonların, Filistin haklarını savunan aktivistlere yönelik içerik üretmek ve yaymak amacıyla kullanıldığı belirtiliyor. Rapor, İsrail-Filistin çatışmasının dijital alandaki yansımalarını ve bu alandaki finansal destek mekanizmalarını gözler önüne seriyor.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/8553167/pexels-photo-8553167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T18:34:18.428Z",
-        "location": {
-            "lat": 31.8,
-            "lng": 35.2,
-            "name": "Kudüs, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/americas/silicon-valley-elites-bankrolled-pro-israel-social-media-outlet-targeting-palestinian-activism-report/4131300",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "1795079646202rshap",
-        "title": "Trump, Putin ve Xi ile Üçlü Zirve Öncesi Görüştü",
-        "summary": "Amerika Birleşik Devletleri Başkanı Donald Trump, Asya Pasifik Ekonomik İşbirliği (APEC) zirvesi kapsamında Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping ile ayrı ayrı görüşmeler gerçekleştirdi. Başkan Trump, her iki lideri de \"dost\" olarak nitelendirdi. Bu görüşmeler, ABD, Rusya ve Çin arasında nadir görülen üçlü müzakerelerin başlangıcı öncesinde yapıldı. Zirvedeki bu üst düzey temaslar, küresel diplomasi ve uluslararası ilişkiler açısından önemli bir gelişme olarak değerlendirildi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/36733315/pexels-photo-36733315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T09:14:06.202Z",
-        "location": {
-            "lat": 16.0544,
-            "lng": 108.2022,
-            "name": "Da Nang, Vietnam"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
-        "trendScore": 85,
         "isBreaking": false
     }
 ]
