@@ -1,5 +1,69 @@
 [
     {
+        "id": "1795309333089gs0xn",
+        "title": "İran Cumhurbaşkanı: İran 'sessiz bir ekonomik savaşla' karşı karşıya",
+        "summary": "İran Cumhurbaşkanı, ülkesinin 'sessiz bir ekonomik savaşla' karşı karşıya olduğunu belirtti. Bu açıklama, İran'ın uluslararası yaptırımlar ve ekonomik baskılar nedeniyle yaşadığı zorluklara dikkat çekiyor. Cumhurbaşkanının ifadeleri, ülkenin ekonomik durumuna ilişkin hükümetin bakış açısını yansıtıyor ve mevcut ekonomik sıkıntıların dış etkenlerden kaynaklandığına işaret ediyor. Bu tür açıklamalar genellikle iç kamuoyunu bir araya getirme ve dış baskıların etkilerini vurgulama amacı taşıyor.",
+        "category": "Ekonomik",
+        "imageUrl": "https://images.pexels.com/photos/40621210/pexels-photo-40621210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T01:02:13.089Z",
+        "location": {
+            "lat": 35.6892,
+            "lng": 51.389,
+            "name": "Tahran, İran"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "17953093562394yrgr",
+        "title": "Bahreyn, İran saldırısının sanayi tesisini vurduğunu açıkladı",
+        "summary": "Bahreyn hükümeti, ülkesindeki bir sanayi tesisine İran tarafından bir saldırı düzenlendiğini iddia etti. Yapılan açıklamada, saldırının tesis üzerinde hasara yol açtığı belirtildi. Bahreynli yetkililer, olayın bölgesel güvenliği tehdit ettiğini ve uluslararası toplumun dikkatini çekmesi gerektiğini vurguladı. Bu iddia, iki ülke arasındaki gerilimi daha da artırma potansiyeli taşıyor. İran'dan henüz konuya ilişkin resmi bir açıklama gelmedi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/5095300/pexels-photo-5095300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T01:02:36.239Z",
+        "location": {
+            "lat": 26.0667,
+            "lng": 50.5577,
+            "name": "Bahreyn"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1795309395610js5sp",
+        "title": "Kuveyt, ABD'nin adayı vurmasının ardından iki ay sonra ilk İran saldırısını püskürttüğünü açıkladı",
+        "summary": "Kuveyt, ABD'nin Basra Körfezi'ndeki İran'a ait Keşm adasına düzenlediği hava saldırısının ardından iki ay sonra ilk kez İran saldırısını püskürttüğünü duyurdu. Bahreyn de benzer şekilde İran tarafından saldırıya uğradığını bildirdi. Bu olaylar, ABD'nin bölgedeki askeri operasyonlarını takiben Körfez'deki gerilimin arttığını gösteriyor. Bölgesel güvenlik endişeleri yeniden ön plana çıktı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36756018/pexels-photo-36756018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T01:03:15.610Z",
+        "location": {
+            "lat": 27.5,
+            "lng": 51.5,
+            "name": "Basra Körfezi"
+        },
+        "source": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
+        "id": "1795309422961481zc",
+        "title": "Katar Savunma Bakanı ve CENTCOM Komutanı Doha'da Bölgesel Gerilimleri Görüştü",
+        "summary": "Katar Savunma Bakanı Şeyh Saud bin Abdulrahman Al Thani, ABD Merkez Kuvvetler Komutanı (CENTCOM) General Brad Cooper ile Katar'ın başkenti Doha'da bir araya geldi. Görüşmelerin, bölgedeki mevcut gerilimlerin devam ettiği bir dönemde gerçekleştiği belirtildi. Katar Savunma Bakanlığı'ndan yapılan açıklamaya göre, iki yetkili karşılıklı ilgi alanlarına giren çeşitli konuları ele aldı. Bu temasın, bölgesel güvenlik ve işbirliği konularında iki ülke arasındaki diyaloğun sürdürülmesi açısından önem taşıdığı kaydedildi.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/7433847/pexels-photo-7433847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T01:03:42.961Z",
+        "location": {
+            "lat": 25.2854,
+            "lng": 51.531,
+            "name": "Doha, Katar"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/qatari-defense-minister-centcom-chief-hold-talks-in-doha-amid-regional-tensions/4133287",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
         "id": "1795294131571shyj8",
         "title": "AOC'ye AIPAC'ın Demokrat Liderlik Üzerindeki Etkisi Nedeniyle Meydan Okundu",
         "summary": "ABD Temsilciler Meclisi üyesi Alexandria Ocasio-Cortez (AOC), bir aktivist tarafından, Temsilciler Meclisi Demokrat lideri Hakeem Jeffries'e verdiği destek nedeniyle eleştirildi. Aktivist, Jeffries'in İsrail yanlısı lobi grubu AIPAC (Amerikan İsrail Halkla İlişkiler Komitesi) ile olan bağlarına dikkat çekerek, bu durumun Demokrat liderlik üzerindeki etkisini sorguladı. Ocasio-Cortez'e yöneltilen bu meydan okuma, ABD siyasetinde İsrail lobisinin rolü ve parti içi dinamikler üzerine tartışmaları yeniden gündeme getirdi. Olay, ABD'nin Orta Doğu politikaları üzerindeki dış etki tartışmalarını da beraberinde getirdi.",
@@ -734,69 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/hundreds-of-israeli-occupiers-storm-joseph-s-tomb-in-nablus-under-army-protection/4130054",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "17950798283524s0qs",
-        "title": "Suudi Arabistan, Abha ve Hamis Muşayt'ta kısa süreli acil durum uyarıları yayınladı",
-        "summary": "Suudi Arabistan'ın güneybatısında yer alan Abha ve Hamis Muşayt şehirlerinde kısa süreli acil durum uyarıları yapıldı. Suudi Sivil Savunma Müdürlüğü, her iki bölgede de tehlikenin sona erdiğini ve durumun normale döndüğünü duyurdu. Uyarıların nedeni hakkında detay verilmezken, bölge halkının kısa süreliğine tedbirli olması istendiği belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/29090557/pexels-photo-29090557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T09:17:08.352Z",
-        "location": {
-            "lat": 18.2167,
-            "lng": 42.5053,
-            "name": "Abha, Khamis Mushait, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-arabia-issues-brief-emergency-warnings-in-abha-khamis-mushait/4130047",
-        "trendScore": 65,
-        "isBreaking": false
-    },
-    {
-        "id": "1795079854035gmeha",
-        "title": "Biden'ın anı eleştirilerine rağmen son görüşmede Netanyahu'nun 'cesaretini' övdüğü ortaya çıktı",
-        "summary": "Eski ABD Başkanı Joe Biden'ın, görevden ayrılmadan günler önce İsrail Başbakanı Binyamin Netanyahu ile yaptığı son telefon görüşmesinde Netanyahu'nun 'cesaretini' övdüğü ve 'size hayranım' dediği bir görüşme dökümü ortaya çıktı. Jerusalem Post tarafından yayımlanan bu döküme göre, görüşme İsrail'in Gazze'deki askeri operasyonlarının devam ettiği bir dönemde gerçekleşti. Bu görüşme, Biden'ın anılarında Netanyahu'ya yönelik eleştirilerine rağmen gerçekleşmesiyle dikkat çekiyor. İki lider arasındaki bu diyalog, ABD-İsrail ilişkilerinin karmaşık yapısını bir kez daha gözler önüne serdi.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/16459372/pexels-photo-16459372.png?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T09:17:34.035Z",
-        "location": {
-            "lat": 31.7683,
-            "lng": 35.2137,
-            "name": "Kudüs, İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/biden-praised-netanyahu-s-courage-in-final-call-despite-memoir-criticism-transcript-shows/4130006",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795051304907z4q4e",
-        "title": "İsrail'in Merkezinde Yerleşimci Filistinlilere Çarptı",
-        "summary": "İsrail'in merkezinde meydana gelen olayda, bir yerleşimcinin aracını Filistinlilerin üzerine sürdüğü bildirildi. Çeşitli noktalarda gerçekleşen bu saldırıda en az sekiz Filistinli yaralandı. Olayın kamera kayıtlarına yansıdığı ve yetkililerin soruşturma başlattığı belirtildi. Bu tür olaylar bölgedeki gerilimi artırma potansiyeli taşıyor ve güvenlik endişelerini yükseltiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/40138199/pexels-photo-40138199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T01:21:44.907Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 35,
-            "name": "İsrail"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "179505139334575d59",
-        "title": "İsrail ordusu Gazze'de Sarı Hat'ın ötesinde nadir bir kara operasyonu başlattı",
-        "summary": "İsrail ordusu, Gazze Şeridi'nde 'Sarı Hat' olarak bilinen sınırın ötesine geçerek nadir bir kara operasyonu başlattı. İsrail askeri kaynakları, operasyonun bir 'terör tünelini' imha etmeyi amaçladığını bildirdi. Hamas ise bu müdahaleyi 'açık bir' ateşkes ihlali olarak kınadı. Bölgedeki gerilimin artmasına neden olan bu gelişme, taraflar arasındaki hassas durumu bir kez daha gözler önüne serdi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/35934216/pexels-photo-35934216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T01:23:13.345Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze Şeridi, Filistin"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-        "trendScore": 90,
-        "isBreaking": true
     }
 ]
