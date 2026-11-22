@@ -1,5 +1,85 @@
 [
     {
+        "id": "1795386175611njdr3",
+        "title": "Libya açıklarında ikinci gemi insansız hava aracı saldırılarının hedefi oldu",
+        "summary": "Libya açıklarında ticari bir gemiye yönelik ikinci bir saldırı rapor edildi. Malta bandıralı gemi, Bingazi kıyılarında insansız hava araçlarıyla hedef alındı. Bu olay, bölgedeki denizcilik güvenliğine yönelik endişeleri artırırken, saldırıların bir dizi halinde gerçekleştiği belirtiliyor. Yetkililer, saldırının detayları ve sorumluları hakkında henüz resmi bir açıklama yapmadı. Bölgedeki deniz trafiği ve uluslararası nakliye rotaları üzerindeki potansiyel etkileri yakından takip ediliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T22:22:55.611Z",
+        "location": {
+            "lat": 32.1,
+            "lng": 20.1,
+            "name": "Bingazi, Libya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": true
+    },
+    {
+        "id": "17953862014354cdnv",
+        "title": "Netanyahu'nun Likud'u ve Eisenkot'un Yashar'ı koalisyon görüşmelerini anlaşmasız sonlandırdı",
+        "summary": "İsrail'de Başbakan Binyamin Netanyahu liderliğindeki Likud partisi ile Gadi Eisenkot'un temsil ettiği Yashar grubu arasındaki koalisyon görüşmeleri bir anlaşmaya varılamadan sona erdi. Taraflar, yeni hükümete kimin liderlik edeceği konusunda uzlaşma sağlayamadı. Ayrıca, aşırı sağcı bakan Itamar Ben-Gvir'in olası katılımı da görüşmelerdeki temel anlaşmazlık noktalarından biri oldu. Bu durum, İsrail'deki siyasi belirsizliği artırırken, yeni hükümetin kurulma sürecini karmaşıklaştırdı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/4033852/pexels-photo-4033852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T22:23:21.435Z",
+        "location": {
+            "lat": 31.8,
+            "lng": 35.2,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1795386292501jrwpg",
+        "title": "Libya'nın doğu merkezli deniz kuvvetleri, Bingazi liman saldırılarının ardından durumun 'kontrol altında' olduğunu bildirdi",
+        "summary": "Libya'nın doğu merkezli deniz kuvvetleri, Bingazi limanında meydana gelen saldırıların ardından durumun kontrol altında olduğunu açıkladı. İlk saldırıda, limanda demirli Rus gemisini hedef alan bir eylem sonucunda 10 liman işçisi yaralandı. İkinci saldırı ise açık denizde bir Malta kargo gemisini hedef aldı ve geminin tüm mürettebatı tahliye edildi. Olayların ardından bölgedeki güvenlik önlemleri artırıldı ve soruşturma başlatıldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33520381/pexels-photo-33520381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T22:24:52.501Z",
+        "location": {
+            "lat": 32.1,
+            "lng": 20.1,
+            "name": "Bingazi, Libya"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/libyan-eastern-based-naval-forces-say-situation-under-control-after-benghazi-port-attacks/4133874",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
+        "id": "1795386322669f6etq",
+        "title": "Netanyahu'nun Likud'u ve Eisenkot'un Yashar'ı, İsrail'de Birlik Hükümeti Görüşmelerine Devam Kararı Aldı",
+        "summary": "İsrail'de Başbakan Binyamin Netanyahu liderliğindeki Likud Partisi ile Gadi Eisenkot'un Yashar Partisi, yeni bir ulusal birlik hükümeti kurma müzakerelerine devam etme kararı aldı. Taraflardan yapılan ortak açıklamaya göre, dört saat süren görüşmelerin ardından yeni bir toplantı yapılması konusunda mutabakata varıldı. Ancak, başbakanlık pozisyonu ve aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in hükümetteki rolü gibi temel anlaşmazlık konuları henüz çözüme kavuşmadı. Bu görüşmeler, İsrail'in siyasi istikrarını sağlamayı ve ülkenin güvenlik politikalarını şekillendirmeyi hedefliyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/30284228/pexels-photo-30284228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T22:25:22.669Z",
+        "location": {
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "name": "Kudüs, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/netanyahu-s-likud-eisenkot-s-yashar-agree-to-fresh-israeli-unity-government-talks/4133861",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1795386343912gv11f",
+        "title": "Mısırlı mürettebat, Aden Körfezi'nde San Marino bandıralı gemiye yönelik 3 korsan saldırısını engelledi",
+        "summary": "Mısır Ulaştırma Bakanlığı'ndan yapılan açıklamaya göre, San Marino bandıralı 'Golden Joy' adlı geminin Mısırlı mürettebatı, Aden Körfezi'nde Yemen açıklarında üç şüpheli korsan saldırısını başarıyla engelledi. Bakanlık, gemideki silahlı muhafızların sürat teknelerinden uzaklaşmaya çalışan gemiye yaklaşan korsanlara uyarı ateşi açtığını belirtti. Olay, bölgedeki deniz güvenliğinin önemini bir kez daha gözler önüne serdi. Mısırlı denizcilerin hızlı ve etkili müdahalesi sayesinde gemi ve mürettebat güvende kaldı.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/14066351/pexels-photo-14066351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-22T22:25:43.912Z",
+        "location": {
+            "lat": 13.5,
+            "lng": 48,
+            "name": "Aden Körfezi, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/egyptian-crew-foils-3-suspected-pirate-attacks-on-san-marino-flagged-ship-in-gulf-of-aden/4133807",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
         "id": "1795366649469h4wzf",
         "title": "COP31 İklim Müzakereleri Anlaşmasız Sona Erdi: Delegeler Hayal Kırıklığı Yaşadı",
         "summary": "Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) müzakereleri, küresel iklim değişikliğiyle mücadelede önemli bir anlaşmaya varılamadan sona erdi. Toplantıya katılan delegeler, sonuçtan duydukları hayal kırıklığını dile getirdi. Hazırlanan taslak metnin iklim değişikliğiyle etkili bir şekilde mücadele etmek için yetersiz olduğu belirtildi. Özellikle petrol üreten ülkelerin 'fosil yakıtlar' teriminin metinde yer almasına karşı çıkması, anlaşmaya varılmasını engelleyen temel faktör oldu. Bu durum, iklim hedeflerine ulaşma çabalarında yeni bir engelin ortaya çıktığını gösteriyor.",
@@ -717,86 +797,6 @@
         },
         "source": "https://www.aa.com.tr/en/middle-east/palestinian-killed-as-israel-continues-to-violate-gaza-ceasefire/4131821",
         "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17951652100152ga3y",
-        "title": "Suudi liderliğindeki koalisyon, Riyad ve güney bölgelerinde Husi insansız hava araçlarını engellediğini duyurdu",
-        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husiler tarafından fırlatılan iki insansız hava aracının Riyad ve ülkenin güney bölgeleri üzerinde başarıyla engellendiğini bildirdi. Bu engellemeler, Yemen'deki askeri gerilimin tırmandığı ve Husilerin Suudi Arabistan topraklarına yönelik saldırılarının devam ettiği bir dönemde gerçekleşti. Koalisyon yetkilileri, insansız hava araçlarının sivil hedefleri hedef aldığını belirtti. Bölgedeki çatışmaların yoğunlaşması, uluslararası toplumda endişelere yol açmaya devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/5014710/pexels-photo-5014710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-20T09:00:10.015Z",
-        "location": {
-            "lat": 24.7136,
-            "lng": 46.6753,
-            "name": "Riyad, Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-drones-over-riyadh-southern-regions/4131809",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795136841157pj1q3",
-        "title": "Hürmüz Boğazı'nın doğusundaki sularda mayınlara çarpan 2 petrol tankeri alev aldı: İran ordusu",
-        "summary": "İran ordusu, Hürmüz Boğazı'nın doğusundaki sularda iki petrol tankerinin mayınlara çarparak alev aldığını duyurdu. Tahran yönetimi, gemilerin kısıtlı bir bölgede deniz mayınlarına çarptığını belirtti. İran, Hürmüz Boğazı'nı geçmek isteyen gemileri önceden koordinasyon sağlamadan geçiş yapmamaları konusunda uyardı. Bu olay, bölgedeki deniz güvenliği endişelerini artırarak uluslararası kamuoyunun dikkatini çekti.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/27275198/pexels-photo-27275198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-20T01:07:21.157Z",
-        "location": {
-            "lat": 25.8,
-            "lng": 57.5,
-            "name": "Hürmüz Boğazı, Umman Körfezi"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/2-oil-tankers-catch-fire-after-hitting-mines-in-waters-east-of-strait-of-hormuz-iranian-army/4131604",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "17951368633808figm",
-        "title": "ABD'nin İran'a Karşı Savaşı 48.3 Milyar Dolara Mal Oldu, Pentagon Yetkilisi Senato'ya Bildirdi",
-        "summary": "Bir Pentagon yetkilisi, ABD'nin İran'a karşı yürüttüğü savaşın maliyetinin 48.3 milyar dolara ulaştığını Senato'ya açıkladı. Arthur Miller adlı yetkili, bu rakamın mühimmat, ekipman yenileme maliyetleri ve operasyonel giderleri kapsadığını belirtti. Bu açıklama, ABD ile İran arasındaki potansiyel veya mevcut askeri gerilimlerin finansal boyutunu gözler önüne serdi. Söz konusu maliyet, iki ülke arasındaki ilişkilerin hassasiyetini ve olası bir çatışmanın ekonomik yükünü vurguluyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/11849099/pexels-photo-11849099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-20T01:07:43.380Z",
-        "location": {
-            "lat": 35.6892,
-            "lng": 51.389,
-            "name": "Tahran, İran"
-        },
-        "source": "https://www.aa.com.tr/en/americas/us-war-against-iran-has-cost-483b-pentagon-official-tells-senate/4131569",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795113072299rmrlv",
-        "title": "Azil girişimi sonrası Hegseth Pentagon'daki liderliği nedeniyle eleştirilerin odağında",
-        "summary": "ABD Savunma Bakanlığı (Pentagon) liderliğindeki bir isim olan Hegseth, bir hafta önce başarısızlıkla sonuçlanan azil girişiminin ardından eleştirilerin odağında kalmaya devam ediyor. Analistler, Hegseth'in Pentagon'daki liderliği nedeniyle kamuoyundan ve siyasi çevrelerden tepki görmeyi sürdürdüğünü belirtiyor. Bu durum, ABD'nin savunma politikaları ve uluslararası arenadaki duruşu üzerinde potansiyel etkiler yaratabilir. Özellikle Orta Doğu gibi stratejik bölgelerdeki ABD varlığı ve kararları açısından, Pentagon'daki üst düzey bir yetkilinin pozisyonu yakından takip edilmektedir. Hegseth'in gelecekteki rolü ve liderliğinin nasıl şekilleneceği merak konusu.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/8910036/pexels-photo-8910036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T18:31:12.299Z",
-        "location": {
-            "lat": 38.9072,
-            "lng": -77.0369,
-            "name": "Washington D.C., ABD"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1795113115896zgcg5",
-        "title": "Yemen'in kuşatma altındaki Taiz şehri derinleşen su kriziyle karşı karşıya",
-        "summary": "Yemen'in kuşatma altındaki Taiz şehri, ciddi bir su kriziyle mücadele ediyor. Yakıt kıtlığı ve su kuyularına erişimin kaybedilmesi, şehir sakinlerini güvenli olmayan su kaynaklarına bağımlı hale getirdi. Bu durum, bölge halkının sağlığı için büyük riskler taşımakta ve insani durumu daha da kötüleştirmektedir.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/13455908/pexels-photo-13455908.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-19T18:31:55.896Z",
-        "location": {
-            "lat": 13.57,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
-        "trendScore": 75,
         "isBreaking": false
     }
 ]
