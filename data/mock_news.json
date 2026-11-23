@@ -1,5 +1,37 @@
 [
     {
+        "id": "1795402783207yvczs",
+        "title": "Libya ordusu Bingazi saldırılarının ardından 'tamamen hazır' olduğunu açıkladı",
+        "summary": "Libya ordusu, Bingazi limanının kontrol altında olduğunu ve tehditlere karşı tamamen hazır olduklarını bildirdi. Açıklama, şehirde yaşanan saldırıların ardından geldi. Ordu, bölgedeki güvenlik durumunu sağlamak için gerekli tüm önlemleri aldığını belirtti. Bu durum, ülkedeki istikrarsızlığın devam ettiğini gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/163425/war-desert-guns-gunshow-163425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-23T02:59:43.207Z",
+        "location": {
+            "lat": 32.117,
+            "lng": 20.067,
+            "name": "Bingazi, Libya"
+        },
+        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1795402885282lmofk",
+        "title": "Sudan'da yardım grubu, Batı Kordofan'daki saldırıda Hızlı Destek Kuvvetleri'ni yağma ve hırsızlıkla suçladı",
+        "summary": "Sudan'da faaliyet gösteren bir yardım kuruluşu, Batı Kordofan eyaletindeki Abu Kalb bölgesine düzenlenen saldırıda Hızlı Destek Kuvvetleri'ni (HDK) dükkanları yağmalamak ve hayvan çalmakla suçladı. Birleşmiş Milletler Göç Ajansı (IOM) ise, güvenlik durumunun kötüleşmesi üzerine Abu Kalb'den yaklaşık 1.715 kişinin kaçtığını bildirdi. Bu olay, Sudan'daki çatışmaların siviller üzerindeki yıkıcı etkilerini ve insani krizi bir kez daha gözler önüne serdi. Bölgedeki şiddet olayları, yerinden edilmeleri artırırken, temel ihtiyaçlara erişimi de zorlaştırıyor. Yardım kuruluşları, çatışan taraflara sivilleri koruma ve uluslararası insancıl hukuka uyma çağrısında bulunuyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/12823522/pexels-photo-12823522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-23T03:01:25.282Z",
+        "location": {
+            "lat": 11.5,
+            "lng": 27.5,
+            "name": "Batı Kordofan, Sudan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/sudanese-aid-group-accuses-rsf-of-looting-shops-stealing-livestock-in-west-kordofan-attack/4133892",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "1795386175611njdr3",
         "title": "Libya açıklarında ikinci gemi insansız hava aracı saldırılarının hedefi oldu",
         "summary": "Libya açıklarında ticari bir gemiye yönelik ikinci bir saldırı rapor edildi. Malta bandıralı gemi, Bingazi kıyılarında insansız hava araçlarıyla hedef alındı. Bu olay, bölgedeki denizcilik güvenliğine yönelik endişeleri artırırken, saldırıların bir dizi halinde gerçekleştiği belirtiliyor. Yetkililer, saldırının detayları ve sorumluları hakkında henüz resmi bir açıklama yapmadı. Bölgedeki deniz trafiği ve uluslararası nakliye rotaları üzerindeki potansiyel etkileri yakından takip ediliyor.",
@@ -764,38 +796,6 @@
             "name": "Taiz, Yemen"
         },
         "source": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795165169254lqlfd",
-        "title": "UAD'nin Myanmar soykırım kararı İsrail'de Gazze davası konusunda endişelere yol açtı: Rapor",
-        "summary": "Uluslararası Adalet Divanı'nın (UAD) Myanmar hakkında verdiği soykırım kararı, İsrail'de Gazze ile ilgili davalar konusunda endişelere neden oldu. Rapora göre, İsrailli hukuk uzmanları, Birleşmiş Milletler mahkemesinin bu kararının devlet sorumluluğunu belirlemede ve soykırım niyetini değerlendirmede önemli bir emsal teşkil ettiğini belirtiyor. Bu durumun, İsrail aleyhine açılan Gazze davası üzerinde potansiyel etkileri olabileceği düşünülüyor. Karar, uluslararası hukukun uygulanması ve devletlerin hesap verebilirliği açısından kritik bir dönüm noktası olarak değerlendiriliyor.",
-        "category": "Diplomatik",
-        "imageUrl": "https://images.pexels.com/photos/4915578/pexels-photo-4915578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-20T08:59:29.254Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.75,
-            "name": "İsrail"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/icjs-myanmar-genocide-ruling-raises-concerns-in-israel-over-gaza-case-report/4131887",
-        "trendScore": 80,
-        "isBreaking": false
-    },
-    {
-        "id": "17951651890946xh52",
-        "title": "İsrail Gazze'de Ateşkesi İhlal Ederken Bir Filistinli Öldürüldü",
-        "summary": "Anadolu Ajansı'nın yerel kaynaklara dayandırdığı haberine göre, merkezi Gazze'de bir sokakta yürüyen 60 yaşındaki bir Filistinli, İsrail insansız hava aracı saldırısında hayatını kaybetti. Olay, İsrail'in Gazze'deki ateşkesi ihlal ettiği yönündeki iddiaların devam ettiği bir dönemde meydana geldi. Saldırının Gazze Şeridi'nin orta kesimlerinde gerçekleştiği belirtildi. Bu gelişme, bölgedeki gerilimin sürdüğünü ve ateşkes anlaşmalarına rağmen çatışmaların devam ettiğini gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/20105308/pexels-photo-20105308.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-20T08:59:49.094Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.5,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/palestinian-killed-as-israel-continues-to-violate-gaza-ceasefire/4131821",
         "trendScore": 85,
         "isBreaking": false
     }
