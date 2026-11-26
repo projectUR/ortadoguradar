@@ -1,5 +1,21 @@
 [
     {
+        "id": "1795670492518ruct4",
+        "title": "İsrail'in Gazze'ye düzenlediği insansız hava aracı saldırılarında 6 Filistinli hayatını kaybetti",
+        "summary": "Gazze Şeridi'nde İsrail'e ait insansız hava araçlarının düzenlediği saldırılarda altı Filistinlinin yaşamını yitirdiği bildirildi. Saldırıların, bölgedeki çeşitli hedeflere yönelik olduğu belirtildi. Son saldırının ise Gazze'deki El-Şati mülteci kampını hedef aldığı kaydedildi. Olayın ardından bölgede gerilimin arttığı gözlemleniyor. Yetkililer, can kaybı ve hasar tespit çalışmalarına devam ediyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-26T05:21:32.518Z",
+        "location": {
+            "lat": 31.5,
+            "lng": 34.47,
+            "name": "Gazze Şehri, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/-israeli-drone-strikes-on-gaza-kill-6-palestinians/4138121",
+        "trendScore": 85,
+        "isBreaking": true
+    },
+    {
         "id": "1795648382935gamok",
         "title": "Mısır'da Ölümcül Kamyon Yangını: Ulaşım Felaketleri Zincirine Bir Yenisi Eklendi",
         "summary": "Mısır'ın başkenti Kahire yakınlarındaki Çevre Yolu üzerinde gaz tüpleri taşıyan bir kamyonun alev alması sonucu onlarca kişi hayatını kaybetti ve yaralandı. Bu trajik olay, ülkenin ulaşım altyapısındaki güvenlik endişelerini bir kez daha gündeme getirdi. Yetkililer, yangının çıkış nedenini belirlemek üzere soruşturma başlatırken, can kaybının artmasından endişe ediliyor. Kaza, Mısır'ın son dönemde yaşadığı bir dizi ulaşım felaketinin en yenisi olarak kayıtlara geçti ve kamuoyunda büyük yankı uyandırdı.",
@@ -782,21 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/sudanese-aid-group-accuses-rsf-of-looting-shops-stealing-livestock-in-west-kordofan-attack/4133892",
         "trendScore": 80,
         "isBreaking": false
-    },
-    {
-        "id": "1795386175611njdr3",
-        "title": "Libya açıklarında ikinci gemi insansız hava aracı saldırılarının hedefi oldu",
-        "summary": "Libya açıklarında ticari bir gemiye yönelik ikinci bir saldırı rapor edildi. Malta bandıralı gemi, Bingazi kıyılarında insansız hava araçlarıyla hedef alındı. Bu olay, bölgedeki denizcilik güvenliğine yönelik endişeleri artırırken, saldırıların bir dizi halinde gerçekleştiği belirtiliyor. Yetkililer, saldırının detayları ve sorumluları hakkında henüz resmi bir açıklama yapmadı. Bölgedeki deniz trafiği ve uluslararası nakliye rotaları üzerindeki potansiyel etkileri yakından takip ediliyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/16525971/pexels-photo-16525971.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-22T22:22:55.611Z",
-        "location": {
-            "lat": 32.1,
-            "lng": 20.1,
-            "name": "Bingazi, Libya"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-        "trendScore": 80,
-        "isBreaking": true
     }
 ]
