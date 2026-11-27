@@ -1,5 +1,117 @@
 [
     {
+        "id": "1795738995783hohil",
+        "title": "İran Dışişleri Bakanı Araghchi: Kuveyt'teki Ölümcül Olay 'Şüpheli'",
+        "summary": "İran Dışişleri Bakanı Abbas Araghchi, Kuveyt'te meydana gelen ve ölümcül sonuçlar doğuran olayı \"şüpheli\" olarak nitelendirdi. Araghchi, söz konusu olayın \"savaş için önceden hazırlanmış bir reçete\" gibi göründüğünü belirtti. Bu açıklama, Orta Doğu'da potansiyel gerilimlerin artabileceği yönündeki endişeleri gündeme getirdi. İranlı yetkili, olayın arkasındaki gerçek nedenlerin uluslararası düzeyde araştırılması gerektiğini vurguladı.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/9643191/pexels-photo-9643191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-27T00:23:15.783Z",
+        "location": {
+            "lat": 29.3759,
+            "lng": 47.9774,
+            "name": "Kuveyt"
+        },
+        "source": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17957390186361jskv",
+        "title": "Gürcistan'da polis, Filistin bayrağı nedeniyle Beşiktaş taraftarlarıyla çatıştı",
+        "summary": "Gürcistan'da oynanan bir futbol maçında Türk takımı Beşiktaş taraftarları ile yerel polis arasında gerginlik yaşandı. Olaylar, taraftarların Filistin bayrağı açma girişimine polisin müdahale etmesiyle başladı. Yaşanan çatışmalar nedeniyle Beşiktaş ile İsrail temsilcisi Hapoel Beer-Sheva arasındaki karşılaşma yaklaşık 30 dakika süreyle durduruldu. Bu olay, uluslararası spor müsabakalarında siyasi sembollerin kullanımı ve taraftar davranışları konularını yeniden gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/38455302/pexels-photo-38455302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-27T00:23:38.637Z",
+        "location": {
+            "lat": 41.7151,
+            "lng": 44.8271,
+            "name": "Tiflis, Gürcistan"
+        },
+        "source": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1795739044642xowiq",
+        "title": "İsrailli yerleşimciler Batı Şeria'da Filistinli ailenin evlerine zarar verdi",
+        "summary": "Batı Şeria'da, İsrailli yerleşimcilerin Filistinli Tubasi ailesine ait evlere zarar verdiği bildirildi. Haberlere göre, Tubasi ailesi aylar önce evlerinden çıkarılmıştı. İsrail mahkemesinin aileye geri dönüş izni veren kararına rağmen, yerleşimcilerin ailenin evlerine dönmesini engellediği belirtildi. Bu olay, bölgedeki İsrailli yerleşimciler ile Filistinliler arasındaki gerilimi ve mülkiyet hakları sorununu bir kez daha gözler önüne serdi. Yaşananlar, Batı Şeria'daki hassas durumu ve hukuki süreçlerin uygulanmasındaki zorlukları yansıtmaktadır.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/33539269/pexels-photo-33539269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-27T00:24:04.642Z",
+        "location": {
+            "lat": 32,
+            "lng": 35.2,
+            "name": "Batı Şeria"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1795739085845ovng9",
+        "title": "Rapor: CIA, itiraf ettiğinden daha fazla kişiye işkence uyguladı",
+        "summary": "Yeni bir New York Times raporu, ABD Merkezi İstihbarat Teşkilatı'nın (CIA) su işkencesi (waterboarding) yöntemini daha önce kabul ettiğinden çok daha yaygın bir şekilde kullandığına dair uzun süredir devam eden inançları destekliyor. Rapor, 11 Eylül sonrası dönemde uygulanan sorgulama programlarının kapsamını yeniden gündeme getiriyor. Bu programlar, insan hakları örgütleri tarafından yoğun eleştirilere maruz kalmış ve uluslararası hukuka aykırı bulunmuştu. Yeni bulgular, CIA'in geçmişteki uygulamaları ve hesap verebilirliği konusundaki tartışmaları derinleştiriyor.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/14555672/pexels-photo-14555672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-27T00:24:45.845Z",
+        "location": {
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "name": "Washington D.C., ABD"
+        },
+        "source": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1795739110793x1viq",
+        "title": "İsrail'de Ultra-Ortodoks Protestocular Ben Gurion Havalimanı Yollarını Kapattı",
+        "summary": "İsrail'de Ultra-Ortodoks Yahudi protestocular, askerlik hizmetinden kaçan cemaat üyelerinin tutuklanmasını protesto etmek amacıyla Ben Gurion Havalimanı'na giden yolları bloke etti. Polis, göstericilerin trafiği aksattığını ve yol kullanıcılarını tehlikeye attığını bildirdi. Protestolar, Ultra-Ortodoks cemaatinin zorunlu askerlik hizmetinden muafiyet talepleriyle ilgili uzun süredir devam eden gerilimi yansıtıyor. Olaylar, İsrail'deki dini gruplar ile devlet arasındaki hassas dengeyi bir kez daha gündeme getirdi.",
+        "category": "Toplum ve İnsan Hakları",
+        "imageUrl": "https://images.pexels.com/photos/3814694/pexels-photo-3814694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-27T00:25:10.793Z",
+        "location": {
+            "lat": 32,
+            "lng": 34.9,
+            "name": "Ben Gurion Havalimanı, İsrail"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/ultra-orthodox-protesters-block-roads-to-israel-s-ben-gurion-airport-over-arrests-of-draft-evaders/4139863",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "1795739132079146s8",
+        "title": "Ukrayna, 2 Libyalı deniz subayının ölümüne neden olan insansız hava aracı saldırıları nedeniyle üzüntü duyduğunu bildirdi",
+        "summary": "Ukrayna, Libya'nın Bingazi limanına ve Libya kıyılarına düzenlenen insansız hava aracı saldırılarının sorumluluğunu üstlendiğini açıkladı. Söz konusu saldırılarda iki Libyalı deniz subayının hayatını kaybettiği belirtildi. Kiev yönetimi, bu saldırılar sonucunda yaşanan can kayıpları nedeniyle üzüntü duyduğunu ifade eden bir bildiri yayımladı. Bu açıklama, Ukrayna'nın Libya'daki askeri operasyonlarının sonuçlarına ilişkin bir kabullenme ve taziye niteliği taşıyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/207586/pexels-photo-207586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-27T00:25:32.079Z",
+        "location": {
+            "lat": 32.1189,
+            "lng": 20.1249,
+            "name": "Bingazi, Libya"
+        },
+        "source": "https://www.aa.com.tr/en/asia-pacific/ukraine-expresses-regret-over-drone-strikes-that-killed-2-libyan-naval-officers/4139840",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
+        "id": "1795739154621cx13d",
+        "title": "İsrail, Beytüllahim'in güneydoğusunda yeni yerleşim yolu inşaatına başladı: Filistinli hak örgütü",
+        "summary": "İsrail'in, Beytüllahim'in güneydoğusunda yeni bir yerleşim yolu inşaatına başladığı bildirildi. Filistinli bir hak örgütü olan El-Baidar Bedevi Haklarını Savunma Örgütü, bu inşaatın bölgedeki tarım ve otlak arazilerini tehdit ettiğini belirtti. Örgüt, yol yapımının Filistinlilerin hareket özgürlüğünü daha da kısıtlayacağı konusunda uyarıda bulundu. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası toplumun dikkatini çekiyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/6636356/pexels-photo-6636356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-27T00:25:54.621Z",
+        "location": {
+            "lat": 31.705,
+            "lng": 35.2,
+            "name": "Beytüllahim, Filistin"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/israel-begins-construction-of-new-settlement-road-southeast-of-bethlehem-palestinian-rights-group/4139827",
+        "trendScore": 80,
+        "isBreaking": false
+    },
+    {
         "id": "179570743478884xu0",
         "title": "Endülüs, aşırı sağın yükselişiyle İspanya'nın geleceğine dair bir bakış sunuyor",
         "summary": "İspanya'da yaklaşan seçimler öncesinde Endülüs bölgesi, ülkenin siyasi geleceğine dair önemli sinyaller veriyor. Bölgedeki gelişmeler, aşırı sağcı Vox partisinin yükselişine işaret ediyor. Bu yükselişin temel nedenleri arasında göçmenlik konusu ve sağ kanat ittifaklarının yeniden şekillenmesi gösteriliyor. Endülüs'teki bu eğilim, İspanya genelinde aşırı sağın artan etkisini ve ülkenin siyasi dinamiklerinde meydana gelen köklü değişiklikleri gözler önüne seriyor.",
@@ -686,117 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/australian-singaporean-premiers-express-deep-concern-over-occupier-violence-in-west-bank/4135487",
         "trendScore": 85,
         "isBreaking": false
-    },
-    {
-        "id": "1795479156082ahmk3",
-        "title": "İran, Hürmüz Boğazı'nda üç geminin mayınlara çarparak alev aldığını duyurdu",
-        "summary": "İran Devrim Muhafızları, Hürmüz Boğazı'nda üç petrol tankerinin deniz mayınlarına çarparak alev aldığını bildirdi. Küresel petrol taşımacılığı için hayati önem taşıyan bu stratejik su yolunda meydana gelen olay, bölgedeki gerilimi artırma potansiyeli taşıyor. İranlı yetkililer, gemilerdeki hasarın boyutu ve olayın kesin nedenleri hakkında henüz detaylı bilgi vermedi. Uluslararası kamuoyunda endişelere yol açan bu gelişme sonrası, olayla ilgili soruşturma başlatıldığı belirtildi.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/36563588/pexels-photo-36563588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-24T00:12:36.082Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1795479251169y9uzq",
-        "title": "İran'da Başörtüsüz Sahne Alan Şarkıcıya Kırbaç Cezası Verildiği Bildirildi",
-        "summary": "Avukatların açıklamasına göre, İranlı yetkililer başörtüsüz sahne aldığı gerekçesiyle şarkıcı Parastoo Ahmadi'yi kırbaçladı. Kum şehrinde gerçekleşen olayda, Ahmadi'nin yanı sıra üç müzisyen ve bir yapımcıya da 74'er kırbaç cezası verildiği belirtildi. Bu durum, İran'da kadınların kamusal alanda başörtüsü takma zorunluluğuna ilişkin tartışmaları yeniden gündeme getirdi. Olay, ülkedeki insan hakları ve ifade özgürlüğü konularında endişeleri artırdı.",
-        "category": "Toplum ve İnsan Hakları",
-        "imageUrl": "https://images.pexels.com/photos/38996331/pexels-photo-38996331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-24T00:14:11.169Z",
-        "location": {
-            "lat": 34.6,
-            "lng": 50.9,
-            "name": "Kum, İran"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "17954792741095xle4",
-        "title": "'Oğluma sadece havai fişek diyorum': Husilerin kuşattığı Yemen şehrinde yaşam",
-        "summary": "Yemen'in kilit şehirlerinden Taiz'de, haftalardır dış dünyadan izole edilmiş yedi kişiyle yapılan röportajlar, şehirdeki yaşam koşullarını gözler önüne serdi. Husiler tarafından kuşatılan şehirde yaşayanlar, çatışmaların ortasında hayatta kalma mücadelesi veriyor. Haberde, bir annenin çocuğuna patlama seslerini \"havai fişek\" olarak anlattığına dikkat çekiliyor. Şehir sakinleri, temel ihtiyaçlara erişimde ciddi sıkıntılar yaşarken, uluslararası toplumdan yardım bekliyor. Bu durum, Yemen'deki insani krizin derinliğini bir kez daha ortaya koyuyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/334201/pexels-photo-334201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-24T00:14:34.109Z",
-        "location": {
-            "lat": 13.58,
-            "lng": 44.02,
-            "name": "Taiz, Yemen"
-        },
-        "source": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "1795479299754upm0t",
-        "title": "Suudi liderliğindeki koalisyon, güney Suudi Arabistan'ı hedef alan Husi insansız hava aracını engelledi",
-        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husi milisleri tarafından güney Suudi Arabistan'ı hedef almak üzere fırlatılan bir insansız hava aracının engellendiğini açıkladı. Koalisyon güçleri, söz konusu insansız hava aracının başarıyla imha edildiğini bildirdi. Olayla ilgili olarak potansiyel can kaybı veya maddi hasara dair herhangi bir detay paylaşılmadı. Bu gelişme, Yemen'deki çatışmanın Suudi Arabistan sınırına yansımaya devam ettiğini ve bölgedeki güvenlik geriliminin sürdüğünü gösteriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/14484029/pexels-photo-14484029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-24T00:14:59.754Z",
-        "location": {
-            "lat": 17,
-            "lng": 43,
-            "name": "Suudi Arabistan"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia/4135193",
-        "trendScore": 75,
-        "isBreaking": false
-    },
-    {
-        "id": "1795479322461cvef2",
-        "title": "İran Devrim Muhafızları Donanması: Hürmüz Boğazı'nda Mayın Patlamaları Üç Petrol Tankerini Ateşe Verdi",
-        "summary": "İran Devrim Muhafızları Donanması (IRGC Donanması), Hürmüz Boğazı'nda meydana gelen mayın patlamaları sonucunda üç petrol tankerinin alev aldığını duyurdu. Donanma, olayların ABD hava desteğine rağmen engellenemediğini iddia etti. Ayrıca, yaşanan bu olaylara dair görüntülerin kamuoyu ile paylaşılacağını bildirdi. Bu gelişme, bölgedeki gerilimi artırma potansiyeli taşıyor ve uluslararası denizcilik güvenliği konusunda endişeleri beraberinde getiriyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/33284879/pexels-photo-33284879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-24T00:15:22.461Z",
-        "location": {
-            "lat": 26,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-corps-navy-says-mine-blasts-set-3-oil-tankers-ablaze-in-strait-of-hormuz/4135182",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1795479346033fd4kr",
-        "title": "İran devlet medyası, Hürmüz Boğazı'nın doğusunda ABD insansız hava aracını düşürdüğünü iddia etti",
-        "summary": "İran devlet medyası, ülkenin hava savunma sistemlerinin Hürmüz Boğazı'nın doğusunda bir ABD insansız hava aracını (LUCAS drone) düşürdüğünü iddia etti. İran devlet haber ajansı tarafından duyurulan bu gelişme, Hürmüz bölgesinde devam eden gerilimin ortasında yaşandı. Olay, İran ile ABD arasındaki ilişkilerde potansiyel bir gerilimi tırmanma işareti olarak değerlendiriliyor. Bölgedeki deniz güvenliği ve küresel petrol sevkiyatı için kritik öneme sahip olan bu boğazda yaşanan bu tür olaylar, uluslararası kamuoyunun dikkatini çekiyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/1336211/pexels-photo-1336211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-24T00:15:46.033Z",
-        "location": {
-            "lat": 26.5,
-            "lng": 56.5,
-            "name": "Hürmüz Boğazı, İran/Umman"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/iran-shot-down-us-drone-east-of-strait-of-hormuz-state-media-claims/4135108",
-        "trendScore": 90,
-        "isBreaking": true
-    },
-    {
-        "id": "1795479369244qbptd",
-        "title": "BM Filistinli Mülteciler Ajansı, Gazze'deki İsrail saldırısında bir personelinin öldüğünü, üçünün yaralandığını duyurdu",
-        "summary": "Birleşmiş Milletler Filistinli Mültecilere Yardım ve Çalışma Ajansı (UNRWA), Gazze Şeridi'nde İsrail tarafından gerçekleştirilen bir saldırıda bir personelinin hayatını kaybettiğini ve üç diğer personelinin yaralandığını bildirdi. Ajans tarafından yapılan açıklamada, olayın Gazze'de meydana geldiği belirtildi. Hayatını kaybeden ve yaralanan personelin, saldırı sırasında bir su kuyusunda topluma kritik hizmetler sunmak üzere rutin görevlerini yerine getirdiği ifade edildi. UNRWA, bu tür saldırıların insani yardım çalışmalarını aksattığını ve sivillerin güvenliğini tehdit ettiğini vurguladı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/41196595/pexels-photo-41196595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-24T00:16:09.244Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.46,
-            "name": "Gazze, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/un-agency-for-palestinians-says-one-staffer-killed-3-others-wounded-in-israeli-attack-on-gaza/4135087",
-        "trendScore": 85,
-        "isBreaking": true
     }
 ]
