@@ -1,5 +1,53 @@
 [
     {
+        "id": "1795889013846a9ti2",
+        "title": "Bahreyn, Beyrut toplantısındaki açıklamalar nedeniyle Lübnan büyükelçisini çağırdı",
+        "summary": "Bahreyn, Lübnan'ın başkenti Beyrut'ta düzenlenen bir toplantıda Bahreyn yargısı hakkında yapılan açıklamalar üzerine Lübnan büyükelçisini Dışişleri Bakanlığı'na çağırdı. Manama yönetimi, söz konusu yorumlara karşı resmi bir protesto notası verdiğini duyurdu. Bahreyn Dışişleri Bakanlığı, yapılan açıklamaları 'iç işlerine açık müdahale' olarak nitelendirerek kınadı. Bu diplomatik adım, iki Orta Doğu ülkesi arasındaki ilişkilerde gerilime yol açtı ve Bahreyn'in egemenlik haklarına saygı gösterilmesi çağrısında bulunuldu.",
+        "category": "Diplomatik",
+        "imageUrl": "https://images.pexels.com/photos/8828605/pexels-photo-8828605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-28T18:03:33.846Z",
+        "location": {
+            "lat": 26.2285,
+            "lng": 50.586,
+            "name": "Manama, Bahreyn"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/bahrain-summons-lebanese-ambassador-over-remarks-at-beirut-meeting/4141598",
+        "trendScore": 75,
+        "isBreaking": false
+    },
+    {
+        "id": "1795889035383bt3nl",
+        "title": "Suudi liderliğindeki koalisyon, şafaktan bu yana 5 Husi füzesini engellediğini bildirdi",
+        "summary": "Suudi liderliğindeki koalisyon, Yemen'deki Husiler tarafından fırlatılan beş balistik füzeyi şafaktan bu yana engellediğini duyurdu. Suudi Arabistan'ın güneyindeki Cizan şehrinde, Suudi Sivil Savunması tarafından gün içinde yedinci acil durum uyarısı yapıldıktan kısa bir süre sonra alarm durumu kaldırıldı. Bu olaylar, bölgedeki mevcut gerilimin devam ettiğini ve sınır güvenliği endişelerinin sürdüğünü gösteriyor.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/16660293/pexels-photo-16660293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-28T18:03:55.383Z",
+        "location": {
+            "lat": 17.33,
+            "lng": 42.63,
+            "name": "Cizan, Suudi Arabistan"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-5-houthi-missiles-since-dawn/4141588",
+        "trendScore": 85,
+        "isBreaking": false
+    },
+    {
+        "id": "17958890754576b259",
+        "title": "İngiliz denizcilik ajansı: Yemen açıklarında kaçırılan kargo gemisinden silahlı kişiler ayrıldı, mürettebat güvende",
+        "summary": "İngiliz denizcilik ajansı, Yemen açıklarında kaçırılan bir kargo gemisindeki mürettebatın güvende olduğunu bildirdi. Ajans, gemiyi ele geçiren silahlı kişilerin gemiden ayrıldığını duyurdu. Olay, Yemen'in Balhaf kentinin güneybatısında meydana geldi. Silahlı kişilerin kontrolü ele geçirmesinin ardından, geminin bir sonraki limanına doğru yol aldığı belirtildi. Bu gelişme, bölgedeki deniz güvenliği endişelerini bir kez daha gündeme getirdi.",
+        "category": "Çatışma ve Güvenlik",
+        "imageUrl": "https://images.pexels.com/photos/36705757/pexels-photo-36705757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "timestamp": "2026-11-28T18:04:35.457Z",
+        "location": {
+            "lat": 14,
+            "lng": 48.2,
+            "name": "Balhaf, Yemen"
+        },
+        "source": "https://www.aa.com.tr/en/middle-east/crew-safe-after-armed-men-leave-hijacked-cargo-ship-off-yemen-uk-maritime-agency/4141540",
+        "trendScore": 90,
+        "isBreaking": true
+    },
+    {
         "id": "1795859774570ukwfb",
         "title": "Gazze'nin satranç oyuncuları soykırımdan sağ çıktı ve bir topluluğu yeniden inşa ediyor",
         "summary": "Gazze'deki satranç oyuncuları, üç yıl süren soykırımın ardından spora geri dönüyor. Bölgedeki çatışmaların ve yıkımın ardından, satranç topluluğu yeniden bir araya gelerek moral bulmaya çalışıyor. Bu girişim, Gazze halkının zorlu koşullara rağmen yaşamı ve kültürel faaliyetleri sürdürme çabasını gösteriyor. Satranç, oyuncular için hem bir kaçış hem de toplumsal bağları güçlendiren bir araç olarak öne çıkıyor.",
@@ -750,53 +798,5 @@
         "source": "https://www.aa.com.tr/en/middle-east/saudi-civil-defense-briefly-issues-potential-danger-alert-in-jazan/4138876",
         "trendScore": 65,
         "isBreaking": true
-    },
-    {
-        "id": "1795670492518ruct4",
-        "title": "İsrail'in Gazze'ye düzenlediği insansız hava aracı saldırılarında 6 Filistinli hayatını kaybetti",
-        "summary": "Gazze Şeridi'nde İsrail'e ait insansız hava araçlarının düzenlediği saldırılarda altı Filistinlinin yaşamını yitirdiği bildirildi. Saldırıların, bölgedeki çeşitli hedeflere yönelik olduğu belirtildi. Son saldırının ise Gazze'deki El-Şati mülteci kampını hedef aldığı kaydedildi. Olayın ardından bölgede gerilimin arttığı gözlemleniyor. Yetkililer, can kaybı ve hasar tespit çalışmalarına devam ediyor.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6147231/pexels-photo-6147231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-26T05:21:32.518Z",
-        "location": {
-            "lat": 31.5,
-            "lng": 34.47,
-            "name": "Gazze Şehri, Filistin"
-        },
-        "source": "https://www.aa.com.tr/en/middle-east/-israeli-drone-strikes-on-gaza-kill-6-palestinians/4138121",
-        "trendScore": 85,
-        "isBreaking": true
-    },
-    {
-        "id": "1795648382935gamok",
-        "title": "Mısır'da Ölümcül Kamyon Yangını: Ulaşım Felaketleri Zincirine Bir Yenisi Eklendi",
-        "summary": "Mısır'ın başkenti Kahire yakınlarındaki Çevre Yolu üzerinde gaz tüpleri taşıyan bir kamyonun alev alması sonucu onlarca kişi hayatını kaybetti ve yaralandı. Bu trajik olay, ülkenin ulaşım altyapısındaki güvenlik endişelerini bir kez daha gündeme getirdi. Yetkililer, yangının çıkış nedenini belirlemek üzere soruşturma başlatırken, can kaybının artmasından endişe ediliyor. Kaza, Mısır'ın son dönemde yaşadığı bir dizi ulaşım felaketinin en yenisi olarak kayıtlara geçti ve kamuoyunda büyük yankı uyandırdı.",
-        "category": "Çatışma ve Güvenlik",
-        "imageUrl": "https://images.pexels.com/photos/6357617/pexels-photo-6357617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-25T23:13:02.935Z",
-        "location": {
-            "lat": 30.0444,
-            "lng": 31.2357,
-            "name": "Kahire, Mısır"
-        },
-        "source": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
-        "trendScore": 85,
-        "isBreaking": false
-    },
-    {
-        "id": "17956484121974usdr",
-        "title": "Paris Saint-Germain, Şampiyonlar Ligi'nde Roma ile Berabere Kaldı",
-        "summary": "Şampiyonlar Ligi'nde mücadele eden Paris Saint-Germain (PSG), Roma ile karşılaştığı maçta 2-2 berabere kaldı. Sakatlık sorunlarıyla boğuşan Fransız temsilcisi, bu sonuçla puan kaybı yaşadı. Karşılaşma, her iki takımın da Şampiyonlar Ligi'ndeki hedefleri açısından önem taşıyordu.",
-        "category": "Ekonomik",
-        "imageUrl": "https://images.pexels.com/photos/39692338/pexels-photo-39692338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-        "timestamp": "2026-11-25T23:13:32.197Z",
-        "location": {
-            "lat": 48.8566,
-            "lng": 2.3522,
-            "name": "Paris, Fransa"
-        },
-        "source": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
-        "trendScore": 70,
-        "isBreaking": false
     }
 ]
